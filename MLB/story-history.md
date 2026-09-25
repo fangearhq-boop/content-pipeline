@@ -8124,3 +8124,57 @@ Each day's stories are appended at the top (newest first).
 - **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
 - **Follow-Up Opportunities:**
   - Alonso hitting career HR No. 300
+
+---
+
+## Pipeline Run: 2026-09-25
+
+### Story 1: PCA Makes History — Cubs' Crow-Armstrong Joins the 40-40 Club
+- **Date:** 2026-09-25
+- **Tier:** 1
+- **Classification:** FOLLOW UP (milestone happened Sept. 24 — fresh for today)
+- **Angle:** PCA stole 2nd base vs. Marlins in 1st inning off Tyler Phillips (leadoff walk, first pitch to Suzuki), becoming 7th member of 40-40 club (45 HR/40 SB). Cubs won 2-1 (Boyd 7IP 1ER/Zeferjahn save No. 7/Suzuki HR). Cubs clinched WC (88-71). Other members: Canseco 1988/Bonds 1996/ARod 1998/Soriano 2006/Acuña 2023/Ohtani 2024/PCA 2026.
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - NL MVP announcement (November)
+  - Cubs Wild Card Series vs. Padres (Sept. 29)
+
+### Story 2: Chicago's Double Clinch — Cubs and White Sox Both Clinch Same Night
+- **Date:** 2026-09-25
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Both Chicago teams clinched within minutes Sept. 24. White Sox beat Royals 9-1. First team in MLB history to follow back-to-back 100-loss seasons (121 in 2024) with a playoff berth. GM Chris Getz/Mgr Will Venable/7 of 9 starters under 2 years MLB experience. White Sox trail Guardians by 1 game in AL Central with 3 to play.
+- **Content Produced:** Article (article-02, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - White Sox AL Central race (trail by 1, 3 games left)
+  - White Sox WC Series matchup
+
+### Story 3: Aaron Judge Likely Out for Wild Card Series vs. Red Sox
+- **Date:** 2026-09-25
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Judge tracked Sept; Boone's clearest statement yet)
+- **Angle:** Boone: "planning on him not being part of" WC Series vs. Red Sox (Sept 29). Moderate grade right calf strain (soleus). Happened 7 games after returning from rib fracture. No hitting yet. Judge: "that's definitely the plan" to return by postseason. Target: ALDS if Yankees advance. Clarke Schmidt also on 15-day IL (right bicep neuritis). Yankees = No. 4 AL seed.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Judge potential ALDS return
+  - Yankees WC Series result vs. Red Sox
+
+### Story 4: Yordan Alvarez Triple Crown — Final Weekend Math
+- **Date:** 2026-09-25
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Alvarez tracked all September; final chapter)
+- **Angle:** Alvarez leads AL in BA (~.310-311). Trails Caminero (Rays) in HR and Alonso (Orioles) in RBI. 3 games left. Last AL TC: Cabrera 2012. Chandler Simpson (Rays) within 5 points for batting title too.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Final regular season stats (AL TC resolution)
+  - AL batting title race vs. Simpson
+
+### Story 5: NL Wild Card Bracket Preview — Cubs vs. Padres, Braves vs. Phillies
+- **Date:** 2026-09-25
+- **Tier:** 3
+- **Classification:** FOLLOW UP (bracket now set; 3 regular season games remain)
+- **Angle:** NL WC: No.3 Braves host No.6 Phillies; No.4 Padres host No.5 Cubs. Best-of-3 starts Sept. 29. Brewers (No.1) and Dodgers (No.2) have byes. Padres 9-1 in last 10. Wheeler pitched 2000th K earlier this week. Cubs hold H2H tiebreaker.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Wild Card Series results (Sept. 29+)
+  - NLDS bracket/matchups

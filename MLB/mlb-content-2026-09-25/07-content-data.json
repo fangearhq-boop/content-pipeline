@@ -1,0 +1,262 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-25",
+  "compiled_at": "2026-09-25T10:24:02.020028+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "PCA Makes History — Cubs' Crow-Armstrong Joins the 40-40 Club",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "PETE CROW-ARMSTRONG IS IN THE 40-40 CLUB.\n\n45 HR. 40 SB.\n\nCanseco. Bonds. A-Rod. Soriano. Acuña. Ohtani. PCA.\n\nThe 7th member in baseball history — and he did it while clinching Chicago's playoff spot. #Cubs",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 207
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The 40-40 steal: leadoff walk, first pitch to the next batter, PCA takes off for second.\n\nBall didn't even make it to the catcher.\n\nCubs win 2-1. Wild Card clinched. History made. #Cubs #MLB",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 190
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-pca-joins-40-40-club-cubs-clinch.html",
+        "headline": "Pete Crow-Armstrong Joins the 40-40 Club — The Seventh Member in Baseball History",
+        "word_count": 504
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PCA Joins the 40-40 Club\n\n**Image 1A** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only\n- **Prompt:** Baseball player sliding into second base with a stolen base, celebration motion, Cubs blue uniform, Wrigley Field ivy wall visible in background, dramatic stadium lights, late-game intensity, cinematic sports photography\n- **Text Overlay (Canva):** \"40-40. DONE.\" / \"Pete Crow-Armstrong\" / \"7th Member in MLB History\"\n- **Search Term (Imagn):** \"Pete Crow-Armstrong Cubs\"\n\n**Image 1B** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only\n- **Prompt:** Baseball centerfielder sprinting at full speed on a baseball diamond, Cubs blue uniform, blurred stadium crowd in background, motion blur on legs, pure athletic speed, cinematic sports editorial\n- **Text Overlay (Canva):** \"45 HR. 40 SB.\" / \"#Cubs\" / \"PCA — 2026 NL MVP Frontrunner\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "PCA Joins the 40-40 Club\n**Confirmed Facts (HIGH confidence):**\n- PCA (Pete Crow-Armstrong, Cubs CF, age 24) stole second base in the 1st inning on Sept. 24 vs. Miami Marlins at Wrigley Field\n- The steal came on a leadoff walk off Tyler Phillips; PCA took off for 2nd on the first pitch thrown to Seiya Suzuki\n- PCA's season total: 45 HR / 40 SB — making him the 7th member of the 40-40 club\n- The 40-40 Club — all 7 members: Jose Canseco (Oakland A's, 1988), Barry Bonds (San Francisco Giants, 1996), Alex Rodriguez (Seattle Mariners, 1998), Alfonso Soriano (Washington Nationals, 2006), Ronald Acuña Jr. (Atlanta Braves, 2023), Shohei Ohtani (Los Angeles Dodgers, 2024), Pete Crow-Armstrong (Chicago Cubs, 2026)\n- Wrigley crowd erupted with \"MVP\" chants; videoboard proclaimed the feat mid-game\n- Cubs won 2-1. Matthew Boyd (10-5) went 7 innings, 1 ER; Ryan Zeferjahn closed with a perfect 9th (save No. 7)\n- Seiya Suzuki also homered for Chicago\n- With the win, Cubs (88-71) clinched an NL Wild Card berth — their second consecutive playoff appearance\n- PCA is the third player in the last four seasons to join 40-40 (after Acuña 2023 and Ohtani 2024)\n**Sources:** Washington Post; TSN; NBC DFW; Yahoo Sports; Chicago Sun-Times; dawindycity.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Chicago's Double Clinch — Cubs and White Sox Make History the Same Night",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Last night, Cubs AND White Sox both clinched — within minutes of each other.\n\nWhite Sox: from 121 losses in 2024 to the postseason in 2026. First team in MLB history to make that turn from back-to-back 100-loss seasons.\n\nChicago had a night. #Cubs #WhiteSox",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#WhiteSox"
+          ],
+          "char_count": 257
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Two seasons ago, the Chicago White Sox lost 121 games — the most in MLB history.\n\nTonight they're a playoff team.\n\nOne of the greatest turnarounds in the history of professional sports. #WhiteSox #MLB",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 200
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-chicago-double-clinch-cubs-white-sox.html",
+        "headline": "Cubs and White Sox Both Clinch — The Night Chicago Baseball Made History Twice",
+        "word_count": 541
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Chicago's Double Clinch Night\n\n**Image 2A** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only\n- **Prompt:** Chicago skyline at night with stadium lights glowing, baseball celebration energy, city and sports merged, dark navy blue and white tones, cinematic aerial city view\n- **Text Overlay (Canva):** \"CHICAGO BASEBALL NIGHT\" / \"Cubs + White Sox. Both Clinched. Same Night.\" / \"Sept. 24, 2026\"\n\n**Image 2B** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only\n- **Prompt:** Young baseball players celebrating a playoff clinch in a dugout, black and white uniforms (White Sox colors), pure elation and team joy, champagne celebration, dramatic stadium lights\n- **Text Overlay (Canva):** \"121 LOSSES → POSTSEASON\" / \"White Sox. Greatest Turnaround in Baseball History.\" / \"#WhiteSox\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Chicago's Double Clinch — Cubs and White Sox\n**Confirmed Facts (HIGH confidence):**\n- White Sox clinched a playoff berth Sept. 24 with a 9-1 rout of the Kansas City Royals\n- Cubs clinched the same night with the 2-1 win over the Marlins — both teams clinched within minutes of each other\n- The White Sox are the first team in MLB history to follow consecutive 100-loss seasons by reaching the playoffs\n- Context: The 2024 Chicago White Sox lost 121 games — the most losses in MLB history in a single season\n- GM Chris Getz; manager Will Venable; seven of nine starters have under two years of MLB experience\n- The White Sox can still win the AL Central (trail the Guardians by 1 game with 3 games remaining)\n- The Cubs are the 2026 NL Wild Card team (WC2); Wild Card Series begins September 29\n**Sources:** FOX Sports; Bleacher Report; CBS Sports; MLB.com; ABC7 Chicago; Yahoo Sports; Axios Chicago",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Aaron Judge Likely Out for Wild Card Series — Yankees in Trouble",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Aaron Boone on Aaron Judge for the Wild Card Series: \"We're planning on him not being a part of it.\"\n\nModerate calf strain. No hitting yet.\n\nYankees vs. Red Sox. Sept. 29. No Judge. #Yankees #MLB",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 195
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-aaron-judge-out-wild-card-series-yankees.html",
+        "headline": "Yankees Manager Says Team Is 'Planning On' Aaron Judge Missing Wild Card Series",
+        "word_count": 492
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aaron Judge Wild Card Status\n\n**Image 3A** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only\n- **Prompt:** Empty baseball locker room with a Yankees uniform hanging in a locker, dramatic single light source, empty dugout visible through a hallway, moody and contemplative sports photography\n- **Text Overlay (Canva):** \"PLANNING ON HIM NOT PLAYING\" / \"Aaron Judge — Wild Card Series Status\" / \"Yankees vs. Red Sox | Sept. 29\"\n- **Search Term (Imagn):** \"Aaron Judge Yankees\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Aaron Judge Wild Card Status\n**Confirmed Facts (HIGH confidence):**\n- Judge has a \"moderate grade\" right calf strain (soleus muscle)\n- Injury occurred just 7 games after he returned from a right rib fracture — back on the 10-day IL immediately\n- Has not resumed hitting as of September 24\n- Manager Aaron Boone: team is \"planning on him not being a part of\" the Wild Card Series vs. Red Sox (begins Sept. 29)\n- Boone has not officially ruled Judge out entirely\n- Judge's own quote: \"I'd like to be back by the postseason. That's definitely the plan.\"\n- If the Wild Card round ends Thursday Oct. 1 (it's a best-of-3 series), Judge's window would be the ALDS\n- Yankees are No. 4 AL seed vs. Boston Red Sox (WC series starts Sept. 29)\n- Separate Yankees note: Clarke Schmidt placed on 15-day IL with right bicep neuritis — blow to postseason rotation depth\n**Sources:** Bleacher Report; Yahoo Sports; FOX Sports; CBS Sports (three questions piece)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Yordan Alvarez Triple Crown — Final Three Games to Chase Baseball History",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Yordan Alvarez has 3 games left to chase an AL Triple Crown.\n\nHe leads in batting average. He trails in HR and RBI.\n\nThe math is hard. The last time an AL hitter pulled it off was Cabrera in 2012. #Astros #MLB",
+          "posting_time": "5:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#MLB"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:30 PM ET"
+      },
+      "article": {
+        "filename": "article-04-yordan-alvarez-triple-crown-final-weekend.html",
+        "headline": "Yordan Alvarez Has Three Games Left to Win the AL Triple Crown",
+        "word_count": 477
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Yordan Alvarez Triple Crown\n\n**Image 4A** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only\n- **Prompt:** Baseball batter in full follow-through after a home run swing, Houston Astros uniform colors (orange/navy), stadium crowd behind him, dramatic arc lighting, cinematic power hitting photography\n- **Text Overlay (Canva):** \"3 GAMES LEFT.\" / \"Yordan Alvarez — Chasing the Triple Crown\" / \"Last AL Triple Crown: Cabrera, 2012\"\n- **Search Term (Imagn):** \"Yordan Alvarez Astros\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Yordan Alvarez Triple Crown — Final Weekend\n**Confirmed Facts (HIGH/MEDIUM confidence):**\n- Alvarez leads AL in batting average (~.310-.311)\n- Trailing in HR vs. Junior Caminero (Tampa Bay Rays) — Caminero is ahead\n- Trailing in RBI vs. Pete Alonso (Baltimore Orioles) — Alonso is ahead\n- 3 regular season games remaining (season ends around Sept. 27-28)\n- Would be only the second AL Triple Crown this century if achieved\n- Last AL Triple Crown: Miguel Cabrera, 2012\n- Separate competition for batting title: Chandler Simpson (Tampa Bay Rays) is within 5 points of Alvarez in BA\n**Sources:** ESPN; MLB.com batting title race article; Yahoo Sports",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "NL Wild Card Preview — Cubs vs. Phillies, Braves vs. Padres",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "NL Wild Card bracket is set.\n\nCubs vs. Padres. Braves vs. Phillies.\n\nBest-of-3. Starts Sept. 29. Brewers and Dodgers have first-round byes.\n\n3 regular season games left. Then it's October. #MLB #Playoffs",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Playoffs"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-nl-wild-card-bracket-preview-cubs-padres-braves-phillies.html",
+        "headline": "NL Wild Card Bracket Preview — Cubs vs. Padres, Braves vs. Phillies Starting September 29",
+        "word_count": 514
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NL Wild Card Preview\n\n**Image 5A** | Social (1080x1350)\n- **Type:** Gemini AI-generated\n- **Mode:** base_only\n- **Prompt:** Baseball playoff bracket graphic-style image, four teams represented with stadium imagery, October baseball atmosphere, dramatic overhead stadium lighting, playoff energy\n- **Text Overlay (Canva):** \"NL WILD CARD SET\" / \"Cubs vs. Padres | Braves vs. Phillies\" / \"Starts Sept. 29 — Best of 3\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NL Wild Card Bracket\n**Confirmed Facts (HIGH confidence):**\n- NL bracket as of Sept. 25:\n- No. 1 seed: Milwaukee Brewers (clinched NL Central, bye)\n- No. 2 seed: Los Angeles Dodgers (clinched NL West, bye)\n- No. 3 seed: Atlanta Braves (clinched NL East)\n- No. 4 seed: San Diego Padres (WC1, 1 game ahead of Cubs)\n- No. 5 seed: Chicago Cubs (WC2, clinched Sept. 24, 88-71)\n- No. 6 seed: Philadelphia Phillies (WC3)\n- Wild Card matchups: No. 3 Braves vs. No. 6 Phillies; No. 4 Padres vs. No. 5 Cubs\n- Wild Card Series begins September 29 (best-of-3)\n- Cubs hold head-to-head tiebreaker over the Phillies\n- 3 regular season games remaining for all teams\n**Sources:** FOX Sports; CBS Sports; Bleacher Report; MLB.com",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
