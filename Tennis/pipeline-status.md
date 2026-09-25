@@ -1,6 +1,37 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-09-24
+## Current Run: 2026-09-25
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Laver Cup Day 1 underway (lavercup.com/atptour/skysports/ubitennis/tennis365); Sinner official China Open WD + statement (yahoo/tennishead/tennistonic/tennisworldusa/sundayguardianlive); Singapore Open QF results (wtatennis/tass/wfmz/tennismajors/justwomenssports); Hangzhou R16 Medvedev enters (atptour/tennismajors/sportskeeda); Chengdu Mannarino d. Shang + Shapovalov 250th (atptour/lastwordonsports/crushrushnews) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Sep 24 S1: lineup confirmed → Day 1 in progress); S2 FOLLOW-UP (Sep 24 S2: no WD → official withdrawal + statement); S3 FOLLOW-UP (Sep 24 S3: QF day → all QF results, SF set); S4 FOLLOW-UP (Sep 24 S4: R16 vs Medvedev set → R16 day); S5 FOLLOW-UP (Sep 24 S5: Brooksby upset → more R32 results, Mannarino stuns Shang) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: lavercup.com, atptour.com, skysports.com, tennis365.com, ubitennis.net, sportsworldnews.com, wikipedia.org, sports.yahoo.com, tennishead.net, freemalaysiatoday.com, sundayguardianlive.com, 1027wbow.com, tennistonic.com, tennisworldusa.org, wtatennis.com, tennismajors.com, tass.com, justwomenssports.com, wfmz.com, lastwordonsports.com, sportskeeda.com, tennisexplorer.com, crushrushnews.com, tennisnerd.net, flashscore.com |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars verified |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories (social + article hero) |
+| Articles (5) | COMPLETE | article-01 Laver Cup Day 1 (Elena Voss T1); article-02 Sinner official WD (Marcus Cole T1); article-03 Singapore SF set (Ryan Calloway T2); article-04 Hangzhou R16 Medvedev (Elena Voss T2); article-05 Chengdu Mannarino/Shapovalov (Marcus Cole T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated; 28 claims; image manifest warning cosmetic (imagn, known) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (known), 5 articles; posting-window warnings cosmetic (known) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries across 5 stories, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser issue — same as all prior runs |
+| WordPress Publish | BLOCKED | 403 proxy — fanrumor.com blocked (known recurring issue) |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Sep 25 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Laver Cup Day 1 underway at The O2 (Ruud/Cerúndolo rematch opens; Jódar/Bublik debutants; Alcaraz/Menšík doubles vs Fritz/Bublik); Sinner officially withdraws from China Open — statement: "My knee is not where I would like it to be" (was defending champion, beat Tien 6-2, 6-2 in 2025 final; return TBD Shanghai Oct 5 or Vienna Oct 26); Singapore Open SF set (Andreeva d. Fernandez 6-4, 6-3; Mertens WO; Wang Xinyu d. Prozorova 7-5, 6-4; Sakkari d. Gibson 7-6(2), 7-6(1)); Hangzhou R16 Medvedev vs Royer; Chengdu Mannarino d. Shang 7-6(9), 6-2 + Shapovalov 250th win
+- **Issues:** PostPlanner 0 posts (known); WordPress blocked by proxy; dashboard push blocked (not in session authorized repos)
+
+---
+
+## Previous Run: 2026-09-24
 
 | Step | Status | Notes |
 |------|--------|-------|
