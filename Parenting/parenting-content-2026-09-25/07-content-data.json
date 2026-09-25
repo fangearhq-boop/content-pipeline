@@ -1,0 +1,327 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-25",
+  "compiled_at": "2026-09-25T12:32:58.264638+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "5Color Bicycle Helmet Recall — Size Small, 324 Units",
+      "tier": 1,
+      "status": "",
+      "angle": "CPSC recall of 5Color bicycle helmets — size Small, model YD-001. Violates federal safety standards. Stop use immediately; email photo for refund.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "**Post 1** (8:00 AM MT)\nRECALL: 5Color bicycle helmets (size Small) recalled — 324 units, Model YD-001. Violates federal safety standards. Stop use immediately. Email FiveColorCS@163.com or call 833-382-6461. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting\n- char_count: 245\n- status: approved\n\n**Post 2** (8:30 AM MT)\n5Color recall details: pink, size Small (18–22\" head circumference), Lot YD-260320, sold ~$25 on Amazon May 2026. Cut straps + email photo to FiveColorCS@163.com for refund. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting\n- char_count: 233\n- status: approved",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting",
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 601
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-5color-bicycle-helmet-recall.html",
+        "headline": "5Color Bicycle Helmet Recall: Size Small, 324 Units — Stop Use Immediately",
+        "word_count": 509
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "5Color Bicycle Helmet Recall\n**Source:** CPSC.gov recall notice, September 24, 2026\n**Confidence:** HIGH (direct CPSC primary source)\n- Product: 5Color bicycle helmets, size Small, pink\n- Units recalled: approximately 324\n- Model: YD-001\n- Lot number: YD-260320\n- Head circumference fit: 18–22 inches\n- Sale channel: Amazon, May 2026\n- Price: approximately $25–$26\n- Hazard: Violates CPSC mandatory safety standards for bicycle helmets (federal requirements)\n- Consumer action: Stop use immediately; cut the straps; email a photo to FiveColorCS@163.com for refund information\n- Contact: 833-382-6461, Monday–Friday, 9 AM–2 PM CT\n- Injuries/incidents: None reported (at time of recall)\n- cpsc.gov recall page confirmed Sep 24, 2026",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "AAP 2026-2027 COVID-19 Vaccine Recommendations",
+      "tier": 2,
+      "status": "",
+      "angle": "AAP's updated COVID-19 vaccine guidance — all kids 6 months to 18 years should get the 2026-27 shot; one dose regardless of prior vaccination history.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "**Post 1** (10:00 AM MT)\nNew AAP guidance: kids ages 6 months–18 years should get the 2026-27 COVID-19 vaccine — one dose regardless of prior vaccination history. Ask your pediatrician before the school year gets busy. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting\n- char_count: 252\n- status: approved",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 315
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-aap-covid-vaccine-2026-2027.html",
+        "headline": "AAP Recommends 2026-2027 COVID-19 Vaccine for All Children 6 Months Through 18 Years",
+        "word_count": 527
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AAP 2026-2027 COVID-19 Vaccine Recommendations\n**Sources:**\n- AAP Pediatrics journal: peds.2026-079045 (2026-2027 COVID-19 vaccine guidance)\n- Contemporary Pediatrics coverage of AAP statement\n- AAP News: \"AAP continues to recommend COVID-19 vaccines for children who are young or high-risk\"\n- AAP Pediatrics journal: e2025075754 (2026 immunization schedule)\n**Confidence:** HIGH (peer-reviewed journal, AAP primary source)\n- AAP recommends all infants and children ages 6–23 months receive the 2026-2027 COVID-19 vaccine\n- Children ages 2–18: single dose of the age-appropriate 2026-27 vaccine, regardless of prior vaccination history\n- New 2026 immunization schedule: clesrovimab added for RSV immunizations; HPV vaccine age range updated to 9–12 years\n- Policy statement published in Pediatrics journal\n- Recommendation applies to all children without contraindications",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Colorado Cool Science Festival Oct 3–18",
+      "tier": 2,
+      "status": "",
+      "angle": "Colorado Springs' annual science festival kicks off Oct 3 with a free Carnival Day (10 AM–4 PM, free admission and parking). K-8 focus; rockets, robots, slime, VR, drones. Runs Oct 3–18.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "**Post 1** (12:00 PM MT)\nColorado Cool Science Festival is back Oct 3–18 in Colorado Springs. FREE Carnival Day: Sat Oct 3, 10 AM–4 PM — rockets, robots, slime, drones, VR. Free parking too. K–8 kids. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting\n- char_count: 237\n- status: approved",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 297
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-cool-science-festival-oct-2026.html",
+        "headline": "Colorado Cool Science Festival Returns Oct 3–18: Free Carnival Day This Saturday in Colorado Springs",
+        "word_count": 521
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 6",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Colorado Cool Science Festival\n**Source:** coolscience.org; web search Sep 25, 2026\n**Confidence:** HIGH (direct event website)\n- Name: Colorado Cool Science Festival\n- Dates: October 3–18, 2026\n- Location: Colorado Springs (multiple venues)\n- Big Carnival Day: Saturday October 3, 10 AM–4 PM\n- Carnival Day admission: FREE\n- Parking: FREE on Carnival Day\n- Activities: science magic shows, hands-on labs, rockets, slime, drones, VR, robots\n- Age focus: K–8 students (grades K through 8)\n- Website: coolscience.org",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "D49 Falcon Zone Schools Earn Purple Star Designation",
+      "tier": 2,
+      "status": "",
+      "angle": "All seven Falcon Zone schools in D49 earned the Colorado Department of Education's Purple Star designation — recognizing exceptional support for military-connected students and families.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "**Post 1** (3:00 PM MT)\nGreat news from D49: All seven Falcon Zone schools earned Colorado's Purple Star designation for supporting military families. A recognition that matters for thousands of COS kids. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting\n- char_count: 238\n- status: approved",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 301
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-d49-purple-star-falcon-zone-schools.html",
+        "headline": "All Seven D49 Falcon Zone Schools Earn Colorado Purple Star Designation for Military Family Support",
+        "word_count": 545
+      },
+      "image_concepts": [
+        {
+          "label": "Image 7",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 8",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D49 Falcon Zone Purple Star Designation\n**Sources:** d49.org homepage and Falcon Zone page; Colorado Dept of Education Purple Star program\n**Confidence:** MEDIUM (homepage-level sourcing; direct visit to d49.org recommended for confirmation)\n- All seven Falcon Zone schools earned Colorado Department of Education Purple Star designation\n- Purple Star designation: recognizes exceptional support for military-connected students and families\n- Designated by: Colorado Department of Education\n- All seven schools in the Falcon Zone (D49) hold the designation\n- September 10, 2026: D49 Board of Education hosted Fantastic 49 recognition event — honored two Colorado-based firms and two members of Team 49\n- New Student Success Center opened fall 2026-27 at former Falcon Elementary building (note: previously covered Sep 13/16 — do not lead with this)",
+        "sources": "- Sources: d49.org"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "COS Fall Events Guide — Gather Blooms Oktoberfest + Coffin Races",
+      "tier": 2,
+      "status": "",
+      "angle": "Two fall events for Colorado Springs families: Gather Mountain Blooms Oktoberfest (Oct 3–4, kids free under 3) and Emma Crawford Coffin Races in Manitou Springs (Oct 24, 32nd annual, ~10,000 attendees, confirmed to proceed).",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "**Post 1** (5:00 PM MT)\nTwo fall events for COS families: Gather Mountain Blooms Oktoberfest Oct 3–4 (flower fields, hayrides, biergarten, kids free under 3) and Emma Crawford Coffin Races Manitou Springs Oct 24. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting\n- char_count: 249\n- status: approved",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 309
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-fall-family-events-cos-october-2026.html",
+        "headline": "Two Fall Events for Colorado Springs Families: Gather Mountain Blooms Oktoberfest and the Coffin Races",
+        "word_count": 651
+      },
+      "image_concepts": [
+        {
+          "label": "Image 9",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 10",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Fall Family Events — Gather Mountain Blooms + Coffin Races\n**Sources:** gathermountainblooms.com; visitcos.com; eventeny.com; manitousprings.org; fox21news.com; gazette.com (Jun 9, 2026); KRDO (Jun 9 + Jul 22, 2026)\n**Confidence:** HIGH (direct venue/event websites + multiple news sources)\n**Gather Mountain Blooms Oktoberfest:**\n- Dates: October 3–4, 2026, 10 AM–6 PM\n- Location: 5210 S. U.S. Hwy 85-87, Colorado Springs, CO 80911\n- Admission: $8 general admission; $40 GA + limited-edition beer stein; FREE for children 3 and under\n- Activities: flower fields, pumpkin picking, hayrides, kids games, artisan makers market, local food trucks, biergarten (local craft beers), authentic German food",
+        "sources": "- Source: gathermountainblooms.com, visitcos.com\n**Emma Crawford Coffin Races:**\n- Date: Saturday, October 24, 2026\n- Location: Manitou Avenue, Downtown Manitou Springs\n- 32nd annual event\n- Format: teams of 5 (one \"Emma\" + four runners) race decorated coffins down Manitou Avenue in costume\n- Attendance: approximately 10,000 people\n- Team entry fee: $100; registration deadline midnight October 22\n- Registration: Visit Manitou Springs, 354 Manitou Ave, Manitou Springs CO 80829\n- Status: CONFIRMED to proceed — Manitou Springs City Council voted June 9 to proceed; 25 officers (15 Colorado Rangers, $9,600); new Manitou Event Ambassador volunteer program launching\n- Prior concern: Spring 2026 Gazette reported possible cancellation due to security costs; resolved Jun 9\n- Sources: eventeny.com, manitousprings.org, fox21news.com, gazette.com Jun 9 2026, KRDO Jun 9 + Jul 22 2026"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [
+      "Story 1, Post 1: 601 chars (over 280 limit)",
+      "Story 2, Post 2: 315 chars (over 280 limit)",
+      "Story 3, Post 3: 297 chars (over 280 limit)",
+      "Story 4, Post 4: 301 chars (over 280 limit)",
+      "Story 5, Post 5: 309 chars (over 280 limit)"
+    ],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

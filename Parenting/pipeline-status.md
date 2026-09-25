@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-09-24
+## Current Run: 2026-09-25
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | 5Color bicycle helmet recall (CPSC Sep 24, ~324 units, YD-001, Lot YD-260320, Amazon May 2026 ~$25-26, violates federal safety standards, FiveColorCS@163.com, 833-382-6461, cpsc.gov); AAP 2026-27 COVID vaccine guidance (all 6mo-18yr, 1 dose, peds.2026-079045, publications.aap.org); Colorado Cool Science Festival Oct 3-18 (FREE Carnival Day Sat Oct 3 10am-4pm, coolscience.org); D49 Purple Star — all 7 Falcon Zone schools (CDE designation, d49.org); Gather Mountain Blooms Oktoberfest Oct 3-4 ($8 GA free under 3, gathermountainblooms.com) + Emma Crawford Coffin Races Oct 24 Manitou (32nd annual, confirmed Jun 9 city council vote, eventeny.com/manitousprings.org) |
+| Story History Check | COMPLETE | All 5 stories NEW; D49 Student Success Center (covered Sep 13/16) not led with; Gather Harvest Hootenanny Sep 26 (covered Sep 24) different from Oktoberfest Oct 3-4; AAP screen time (covered Sep 18) not duplicated |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 Tier 1, 4 Tier 2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: cpsc.gov, publications.aap.org, coolscience.org, d49.org, gathermountainblooms.com, visitcos.com, eventeny.com, manitousprings.org, fox21news.com, gazette.com, KRDO |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts across 5 stories (2 for T1, 1 each for T2); all ≤280 chars verified; 4 hashtags each; max 1 exclamation mark; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 1 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 5Color recall (Jamie Rivera, T1, QR table); article-02 AAP COVID vaccine (Sarah Morales, T2, QR table); article-03 Cool Science Festival (Jamie Rivera, T2, QR table); article-04 D49 Purple Star (Sarah Morales, T2, QR table); article-05 Fall Events Guide (Jamie Rivera, T2, QR table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 79 claims; MISSING STORY warnings cosmetic (parser header mismatch, known); no char-limit violations |
+| Compile Content Data | COMPLETE (partial) | 07-content-data.json — 5 stories, 5 X posts, 0 FB posts (known parser compat issue); char-count errors false positive from parser |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries across 5 stories, all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 20 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — ran both standard and --tobi |
+| WordPress Publish | BLOCKED | fanrumor.com proxy 403 (known recurring issue) |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Sep 25 section) |
+
+- **Stories:** 5 stories (1 Tier 1, 4 Tier 2)
+- **Posts:** 6 X posts + 5 FB long-form + 1 FB caption = 12 total
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** 5Color bicycle helmet recall (CPSC, Model YD-001, Lot YD-260320, ~324 units, FiveColorCS@163.com, 833-382-6461); AAP 2026-27 COVID vaccine (1 dose 6mo-18yr, publications.aap.org); Cool Science Festival Oct 3-18 FREE Carnival Day Sat Oct 3 (coolscience.org); D49 all 7 Falcon Zone schools earn Purple Star (CDE, d49.org); Gather Mountain Blooms Oktoberfest Oct 3-4 ($8 free under 3) + Coffin Races Oct 24 Manitou (confirmed)
+- **Issues:** PostPlanner 0 posts (known); WordPress proxy 403; dashboard push 403 proxy
+
+---
+
+## Previous Run: 2026-09-24
 
 | Step | Status | Notes |
 |------|--------|-------|

@@ -2,6 +2,50 @@
 
 ---
 
+## September 25, 2026
+
+### Story 1: 5Color Bicycle Helmet Recall — Size Small, 324 Units
+- **Date:** 2026-09-25
+- **Tier:** T1
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** CPSC recall Sep 24 2026; ~324 units; 5Color bicycle helmets size Small pink; Model YD-001 Lot YD-260320; head circumference 18-22"; sold Amazon May 2026 ~$25-26; violates mandatory federal safety standards; stop use immediately; cut straps; email FiveColorCS@163.com with photo for refund; call 833-382-6461 Mon-Fri 9am-2pm CT; 0 injuries reported
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 2: AAP 2026-2027 COVID-19 Vaccine Recommendations
+- **Date:** 2026-09-25
+- **Tier:** T2
+- **Pillar:** National Parenting (Health Guidelines)
+- **Key Facts:** AAP recommends all children 6 months–18 years get 2026-27 COVID-19 vaccine; 1 dose regardless of prior vaccination history; ages 6-23 months specifically prioritized; 2026 immunization schedule also adds clesrovimab for RSV; HPV vaccine age range updated to 9-12 years; published Pediatrics journal peds.2026-079045; source: publications.aap.org
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 3: Colorado Cool Science Festival Oct 3–18, 2026
+- **Date:** 2026-09-25
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Colorado Cool Science Festival Oct 3-18 Colorado Springs; Big Carnival Day Sat Oct 3 10am-4pm FREE admission FREE parking; rockets robots slime drones VR science magic shows hands-on labs; K-8 focus; coolscience.org
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 4: D49 Falcon Zone Schools Earn Purple Star Designation
+- **Date:** 2026-09-25
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** All 7 Falcon Zone schools earned Colorado Dept of Education Purple Star designation; recognizes exceptional support for military-connected students/families; Sep 10 Fantastic 49 event honored 2 Colorado firms + 2 Team 49 members; sources: d49.org
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 5: COS Fall Events Guide — Gather Blooms Oktoberfest + Coffin Races
+- **Date:** 2026-09-25
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Gather Mountain Blooms Oktoberfest Oct 3-4 10am-6pm; 5210 S. U.S. Hwy 85-87 COS; $8 GA free under 3; flower fields pumpkin picking hayrides kids games artisan market food trucks biergarten; Emma Crawford Coffin Races Sat Oct 24 Manitou Avenue Manitou Springs; 32nd annual; ~10,000 attendees; free to spectate; team $100 entry deadline midnight Oct 22; confirmed to proceed (city council Jun 9 vote); sources: gathermountainblooms.com eventeny.com manitousprings.org fox21news.com gazette.com
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+---
+
 ## September 24, 2026
 
 ### Story 1: Things to Do with Kids in Colorado Springs This Weekend (September 25–27)
