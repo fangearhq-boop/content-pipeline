@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-25
+
+### STORY 1: Azerbaijan GP Qualifying Day — Verstappen Tops FP3
+- **Tier:** 1
+- **Category:** Azerbaijan Grand Prix / FP3 / Qualifying / Max Verstappen / George Russell
+- **Key facts:** Verstappen FP3 P1 1m43.922s; Russell P2 +0.099s; Hamilton P3 +0.111s; Antonelli P4; Leclerc P5; Norris P8; Piastri P7; qualifying Friday 4pm local (1pm UK); race Saturday September 26 (schedule shifted from Sunday)
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: Leclerc Engine Penalty Confirmed in Baku
+- **Tier:** 1
+- **Category:** Charles Leclerc / Ferrari / Engine Penalty / Baku
+- **Key facts:** Leclerc confirmed engine penalty (replacing Monza ADUO2 unit damaged in lap 2 crash Sept 6); starts near back of grid; new engine ~0.2s/lap faster; Fred Vasseur called Baku "quite suitable" for grid drop; Baku 2.2km straight = best overtaking circuit; Leclerc P5 FP3
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: McLaren Deficit — Norris "Knife in the Heart"
+- **Tier:** 1
+- **Category:** Lando Norris / McLaren / Oscar Piastri / Baku deficit
+- **Key facts:** Norris quote: "We're miles off" / "knife in the heart"; Norris P8 FP3, Piastri P7; ruled McLaren out of pole fight; ~1.5s deficit to pace; floor damage from Thursday's sessions ongoing issue; Norris: 186 pts, 106 behind Antonelli
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
+### STORY 4: Antonelli Escapes FP1 Penalty
+- **Tier:** 2
+- **Category:** Kimi Antonelli / Mercedes / Engine Pool / Yellow Flag
+- **Key facts:** FP1 hydraulic failure → engine change from existing pool = no grid penalty; yellow flag investigation resolved without penalty; Antonelli P4 FP3; championship: 292 pts, 81 ahead of Russell
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: F1 Championship Standings — Round 15
+- **Tier:** 2
+- **Category:** F1 Championship / Kimi Antonelli / George Russell / Lando Norris
+- **Key facts:** Antonelli 292 pts (leader), Russell 211 pts (-81), Hamilton 191 pts (-101), Norris 186 pts (-106); Mercedes constructors 503 pts; McLaren 358 pts; 6 races remaining; approx. 120 pts still available
+- **Byline:** Marcus Cole
+- **Status:** PUBLISHED
+
 ## 2026-09-24
 
 ### STORY 1: Hamilton Leads Ferrari 1-2 in Baku FP2 — Both McLarens Hit Wall

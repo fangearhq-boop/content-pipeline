@@ -1,0 +1,264 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-25",
+  "compiled_at": "2026-09-25T11:51:47.645697+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Azerbaijan GP Qualifying Day — Verstappen Tops FP3, Grid Set for Saturday Race",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "*(5:00 PM ET)*\n\nVerstappen tops FP3 in Baku — 1m43.922s. 🏎️\n\nRussell P2, Hamilton P3, Antonelli P4.\n\nMcLaren? P7 and P8. Norris already says they're out of the pole fight.\n\nQualifying runs today. Race is TOMORROW (Saturday).\n\n#F1Fanrecap #AzerbaijanGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#AzerbaijanGP",
+            "#F1"
+          ],
+          "char_count": 255
+        },
+        {
+          "label": "Post 1B",
+          "text": "*(8:00 PM ET)*\n\nQualifying done in Baku. 🏁\n\nGrid set for Saturday's Azerbaijan GP.\n\nLeclerc starts near the back after engine penalty.\n\nWho do YOU think wins from the front? 🤔\n\n#F1Fanrecap #AzerbaijanGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#AzerbaijanGP",
+            "#F1"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": {
+        "long_form": "Friday in Baku brought FP3, qualifying, and the full picture of who is fast heading into Saturday's Azerbaijan Grand Prix.\n\nMax Verstappen ended George Russell's practice dominance — Russell had led both sessions on Thursday — by going fastest in FP3 with a 1m43.922s lap. Russell ended up second, 0.099s back. Lewis Hamilton was third, only 0.111s off Verstappen's time. Kimi Antonelli slotted in at P4, Charles Leclerc fifth.\n\nMcLaren continue to struggle. Lando Norris (P8) and Oscar Piastri (P7) showed some improvement from their crash-disrupted Thursday sessions but remained well off the front of the field. Norris publicly ruled McLaren out of a pole position fight. Their deficit in the power-sensitive street circuit is a product of both the floor damage sustained Thursday and a more fundamental setup challenge on this layout.\n\nQualifying ran at 4pm local time (1pm UK) — a day earlier than usual because the full race schedule was moved forward to Saturday to avoid Sunday's Remembrance Day observance in Azerbaijan. The grid will set the stage for what could be one of Baku's more unpredictable races: championship leader Antonelli expected at the front, Leclerc expected at the back with a fast engine, and Norris needing to recover whatever points are available.\n\nRace day: Saturday September 26.\n\n---",
+        "image_caption": "",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-01-azerbaijan-gp-fp3-qualifying-baku.html",
+        "headline": "Azerbaijan GP: Verstappen Ends Russell's Baku Practice Streak as Qualifying Day Arrives",
+        "word_count": 379
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Azerbaijan GP Qualifying Day — FP3 + Grid\n\n**Image Concept A**\n- **Type:** Action / Circuit\n- **Description:** Verstappen's Red Bull RB22 at speed on Baku's main straight, low angle showing circuit walls and city skyline\n- **Mood:** Power, speed, Baku atmosphere\n- **Text Overlay:** \"VERSTAPPEN TOPS FP3 — QUALIFYING DAY IN BAKU\"\n- **Imagn Search Terms:** Max Verstappen Red Bull\n\n**Image Concept B**\n- **Type:** Graphic / Schedule\n- **Description:** Race weekend schedule graphic — Friday qualifying, Saturday race — with Baku skyline in background\n- **Mood:** Informational, urgency\n- **Text Overlay:** \"QUALIFYING TODAY — RACE SATURDAY\"\n- **Imagn Search Terms:** Baku City Circuit F1\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Azerbaijan GP Qualifying Day — FP3 + Qualifying\n**Decision:** FOLLOW UP (from Sept. 24 coverage)\n**Sources:**\n1. Formula1.com — FP3 report: Verstappen beats Russell and Hamilton — https://www.formula1.com/en/latest/article/fp3-verstappen-beats-russell-and-hamilton-in-final-practice-for-azerbaijan-gp.4BuODmX7lLpgRKnIK4oMXg\n2. Sky Sports — Verstappen fastest in FP3 — https://www.skysports.com/f1/news/13591644/azerbaijan-gp-max-verstappen-fastest-in-challenging-final-practice-to-usurp-george-russell-and-mercedes-ahead-of-qualifying\n3. GPFans — F1 qualifying results 2026 Azerbaijan GP — https://www.gpfans.com/en/f1-news/1090634/f1-qualifying-results-2026-azerbaijan-grand-prix-positions-times/\n4. PlanetF1 — FP3 results — https://www.planetf1.com/news/f1-results-azerbaijan-grand-prix-2026-fp3\n5. Crash.net — Azerbaijan GP live updates — https://www.crash.net/f1/live/1044266/f1-azerbaijan-grand-prix-live-fp3-qualifying-updates-baku\n**Key Facts (VERIFIED):**\n- FP3 P1: Max Verstappen (Red Bull) 1m43.922s — HIGH\n- FP3 P2: George Russell (Mercedes) +0.099s — HIGH\n- FP3 P3: Lewis Hamilton (Ferrari) +0.111s — HIGH\n- FP3 P4: Kimi Antonelli (Mercedes) — HIGH\n- FP3 P5: Charles Leclerc (Ferrari) — HIGH\n- FP3 P6: Pierre Gasly (Alpine) — HIGH\n- FP3 P7: Oscar Piastri (McLaren) — HIGH\n- FP3 P8: Lando Norris (McLaren) — HIGH\n- FP3 P9: Isack Hadjar (Red Bull) — HIGH\n- FP3 P10: Franco Colapinto (Alpine) — HIGH\n- Qualifying: Friday September 25, 4pm local (1pm UK, 8am ET) — HIGH\n- Race: Saturday September 26 — HIGH (schedule shifted due to Azerbaijan Remembrance Day Sunday)\n- Verstappen topped FP3 for first time this season — HIGH\n**Note:** Qualifying results not yet indexed at research time. Writing as qualifying-day coverage.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Leclerc Confirmed in Engine Penalty — Starts Near Back in Baku",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "*(12:00 PM ET)*\n\nFerrari confirms: Leclerc takes engine penalty in Baku.\n\nStarts near the back of the grid tomorrow.\n\nBut he's got the fastest engine on track.\n\nAnd Baku has the longest straight in F1. 🏎️\n\nBuckle up.\n\n#F1Fanrecap #AzerbaijanGP #Leclerc",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#AzerbaijanGP",
+            "#Leclerc"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "Charles Leclerc will start near the back of Saturday's Azerbaijan Grand Prix grid. Ferrari has officially confirmed the engine penalty that's been expected since Leclerc's heavy crash at Parabolica on the second lap of the Italian Grand Prix on September 6.\n\nThat incident destroyed the power unit Ferrari had just introduced under the ADUO2 scheme — their second upgrade of the season. Ferrari reverted to the previous specification for the Madrid Grand Prix while engineers assessed the damage. Now in Baku, they've made the decision: take the penalty here rather than later.\n\nThe logic is simple. Baku's 2.2km main straight — the longest in F1 — and the Turn 1 heavy braking zone create more overtaking opportunities per lap than virtually any other circuit on the calendar. Team principal Fred Vasseur described Baku as \"quite suitable\" for absorbing a grid drop. He's right. The track's unique combination of high-speed straights and narrow technical sectors allows faster cars to recover positions quickly.\n\nLeclerc's FP3 time (P5) came with the new engine spec, which is reported to be around 0.2 seconds per lap faster. Starting from near the back, he'll have a considerable pace advantage over midfield machinery. The question isn't whether he'll move forward — it's how many positions he can gain, and whether the safety car lottery works in his favor.\n\n---",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-02-leclerc-engine-penalty-baku-ferrari.html",
+        "headline": "Ferrari Confirms Leclerc Engine Penalty: He Starts Near the Back in Baku — With the Fastest Power Unit",
+        "word_count": 458
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Leclerc Engine Penalty\n\n**Image Concept A**\n- **Type:** Portrait / Driver\n- **Description:** Leclerc in Ferrari race suit, determined expression, helmet in hand\n- **Mood:** Resolve, focus, controlled aggression\n- **Text Overlay:** \"STARTS NEAR LAST. HAS THE FASTEST ENGINE.\"\n- **Imagn Search Terms:** Charles Leclerc Ferrari\n\n**Image Concept B**\n- **Type:** Action / Track\n- **Description:** Leclerc's Ferrari at speed on Baku's straight, motion blur conveying speed\n- **Mood:** Speed, recovery narrative\n- **Text Overlay:** \"FERRARI'S BAKU GAMBLE\"\n- **Imagn Search Terms:** Charles Leclerc Ferrari\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Leclerc Engine Penalty Confirmed\n**Decision:** FOLLOW UP (from Sept. 24 coverage)\n**Sources:**\n1. PlanetF1 — Leclerc braced for FIA penalty — https://www.planetf1.com/news/charles-leclerc-ferrari-fia-azerbaijan-grand-prix-2026-penalty\n2. GPBlog — Leclerc engine penalty Vasseur targets Baku — https://www.gpblog.com/en/news/charles-leclerc-grid-penalty-ferrari-azerbaijan-grand-prix\n3. Yahoo Sports — Why Ferrari picking Baku for Leclerc penalty — https://sports.yahoo.com/articles/why-ferrari-picking-baku-leclercs-083000728.html\n4. Crash.net — Leclerc set for Baku grid penalty — https://www.crash.net/motogp/news/1104724/1/charles-leclerc-set-baku-f1-grid-penalty-despite-positive-ferrari-engine-news\n5. GPKingdom — Leclerc penalty confirmed, starting position — https://gpkingdom.it/en/168897/breaking-news-penalty-for-leclerc-in-baku-here-is-where-the-monegasque-will-start/\n**Key Facts (VERIFIED):**\n- Leclerc taking engine penalty at Baku — HIGH (multiple sources)\n- Reason: Replacing power unit damaged in Monza lap 2 crash — HIGH\n- Monza crash: September 6, 2026, at Parabolica exit — HIGH\n- Ferrari introduced ADUO2 upgrade at Monza; reverted to previous spec at Madrid — HIGH\n- New engine reported ~0.2s/lap faster (FP2 data) — MEDIUM\n- Ferrari chose Baku for penalty due to overtaking opportunity (2.2km straight) — HIGH\n- Fred Vasseur called Baku \"quite suitable\" for grid drop — HIGH (verbatim from Vasseur)\n- Leclerc P5 in FP3 — HIGH\n- Race: Saturday September 26 — HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "McLaren's \"Knife in the Heart\" — Norris Rules Out Pole Fight as Deficit Holds",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "*(8:00 AM ET)*\n\nNorris on McLaren's Baku pace: \"We're miles off.\"\n\n\"Like a knife in the heart.\" 🔪\n\nP8 in FP3. 106 points behind in the championship.\n\n6 races left.\n\n#F1Fanrecap #AzerbaijanGP #McLaren",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#AzerbaijanGP",
+            "#McLaren"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "Lando Norris did not mince words. Asked about McLaren's pace in Baku, he described the situation as \"a knife in the heart\" and added that they were \"miles off\" at a circuit that was supposed to suit their car better than Thursday's practice sessions suggested.\n\nMcLaren's troubles began in FP1, when both cars sustained floor damage — Norris from bouncing over Baku's notorious surface bumps, Piastri from a T15 wall impact. Despite an overnight fix and a more comprehensive repair plan heading into Friday, the underlying delta remained. Norris ended FP3 in P8. Piastri was P7. Both are roughly where they expected to be: ahead of the midfield, well behind the front-runners.\n\nFor the championship, the timing could not be worse. Norris sits 106 points behind Antonelli with six races remaining. A maximum of 120 points are available across Baku through Abu Dhabi. For Norris to win the championship, he essentially needs to outscore Antonelli by nearly 18 points per race — while Antonelli, starting at or near the front of every grid, has every structural advantage.\n\nPiastri, for his part, sees upside. He told media that the car isn't fundamentally broken — the deficit is circuit-specific — and that there are things the team can still improve for qualifying. We'll find out if that optimism was warranted when the grid drops for Saturday's race.\n\n---",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-03-mclaren-norris-baku-deficit.html",
+        "headline": "McLaren's Baku Reality Check: Norris Says \"Miles Off\" as Championship Window Narrows",
+        "word_count": 449
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McLaren Deficit — Norris Quote\n\n**Image Concept A**\n- **Type:** Portrait / Driver\n- **Description:** Norris in McLaren kit, looking pensive or post-session expression\n- **Mood:** Frustration, determination, pressure\n- **Text Overlay:** '\"MILES OFF\" — NORRIS ON MCLAREN IN BAKU'\n- **Imagn Search Terms:** Lando Norris McLaren\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "McLaren Baku Deficit — Norris \"Knife in the Heart\"\n**Decision:** FOLLOW UP (from Sept. 24 coverage)\n**Sources:**\n1. Motorsport.com — Norris \"knife in the heart\" — https://www.motorsport.com/f1/news/lando-norris-mclarens-baku-deficit-is-a-knife-in-the-heart/10858617/\n2. Formula1.com — Norris \"miles off\" — https://www.formula1.com/en/latest/article/were-miles-off-norris-left-with-knife-in-the-heart-feeling-after-mclarens-low-key-start-in-azerbaijan.1KBbZUzdb2ZOT3rrKzMESc\n3. Sky Sports — Norris rules McLaren out of pole fight — https://www.skysports.com/f1/news/13591255/azerbaijan-gp-lando-norris-rules-mclaren-out-of-baku-pole-fight-as-george-russell-expects-margins-to-tighten-in-qualifying\n4. GrandePremio — What Norris 1.5s deficit means — https://grandepremio.com/en/f1/what-norris-1-5-second-deficit-means-for-baku-qualifying/\n5. Speedcafe — Piastri sees upside despite deficit — https://speedcafe.com/f1-news-2026-azerbaijan-grand-prix-baku-oscar-piastri-opening-day-practice-latest-thoughts-interview-update-how-went-mclaren/\n**Key Facts (VERIFIED):**\n- Norris FP3: P8 — HIGH\n- Piastri FP3: P7 — HIGH\n- Norris quote: \"We're miles off\" / \"knife in the heart\" — HIGH (Formula1.com direct quote)\n- Norris ruled McLaren out of pole fight — HIGH\n- McLaren floor damage in FP1 (both cars), interim fix FP2 — HIGH (from Sept. 24 research)\n- Norris 1.5s deficit to pace in qualifying context — MEDIUM (estimate, pre-qualifying)\n- Norris championship: 186 points, 106 behind Antonelli — HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Antonelli Escapes FP1 Penalty — Engine Change Uses Existing Pool",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "*(10:00 AM ET)*\n\nAntonelli escapes Baku penalty. ✅\n\nFP1 engine change? Used existing pool unit — no grid drop.\n\nYellow flag investigation? No penalty.\n\nChampionship leader, P4 in FP3, clean for qualifying.\n\n#F1Fanrecap #AzerbaijanGP #Antonelli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#AzerbaijanGP",
+            "#Antonelli"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "The Thursday drama was real, but Friday brought relief for Kimi Antonelli and Mercedes.\n\nAntonelli's FP1 at Baku ended abruptly when a hydraulic failure forced him to stop at Turn 7 after just nine laps. The resulting engine change sparked concern — if Mercedes introduced a new power unit, Antonelli would face a grid penalty at the worst possible point in the championship.\n\nInstead, the team confirmed the replacement was drawn from Antonelli's existing engine pool. No new power unit means no FIA grid penalty. The change resolved the hydraulic issue without triggering any additional regulatory consequences.\n\nThe yellow flag investigation from FP1 — when Antonelli was placed under scrutiny for his behavior near the marshaling flags following the incident — was also resolved without penalty. One penalty point remains on his Super License from an earlier 2026 season incident, but that doesn't affect his Baku starting position.\n\nAntonelli returned for FP3 and finished P4, 0.111s behind Verstappen. He enters qualifying as the championship leader (292 points, 81 ahead of teammate Russell) with clean regulatory status.\n\n---",
+        "image_caption": "",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-04-antonelli-no-penalty-engine-pool.html",
+        "headline": "Antonelli Dodges Baku Penalty: Engine Change from Existing Pool Protects Championship Lead",
+        "word_count": 400
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli No Penalty\n\n**Image Concept A**\n- **Type:** Portrait / Driver\n- **Description:** Antonelli in Mercedes race suit, confident expression or thumbs up to team\n- **Mood:** Relief, confidence, championship leader\n- **Text Overlay:** \"NO PENALTY — ANTONELLI CLEAN FOR BAKU\"\n- **Imagn Search Terms:** Kimi Antonelli Mercedes\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Escapes FP1 Penalty — Engine from Existing Pool\n**Decision:** FOLLOW UP (from Sept. 24)\n**Sources:**\n1. GPFans — Antonelli avoids penalty despite engine change — https://www.gpfans.com/en/f1-news/1090636/f1-kimi-antonelli-engine-change-mercedes-azerbaijan-grand-prix-fp2/\n2. GPFans — FIA penalty points Antonelli update — https://www.gpfans.com/en/f1-news/1090523/f1-fia-penalty-points-lewis-hamilton-kimi-antonelli-update-azerbaijan-grand-prix/\n3. Sportskeeda — F1 penalty points before Azerbaijan GP — https://www.sportskeeda.com/f1/f1-penalty-points-drivers-penalty-points-2026-azerbaijan-gp\n**Key Facts (VERIFIED):**\n- Antonelli FP1 hydraulic failure — HIGH (from Sept. 24)\n- Engine change following failure used existing pool unit — HIGH\n- No new engine = no grid penalty — HIGH\n- Yellow flag investigation: resolved without penalty — HIGH (GPFans source)\n- Antonelli P4 in FP3 — HIGH\n- Antonelli championship: 292 points, 81 ahead of Russell — HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Championship Snapshot — Antonelli's 81-Point Cushion at Round 15 of 20",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "*(2:00 PM ET)*\n\nF1 title race before Baku — Round 15 of 20:\n\n🟢 Antonelli: 292 pts\n🔵 Russell: 211 pts (-81)\n🔴 Hamilton: 191 pts (-101)\n🟠 Norris: 186 pts (-106)\n\n120 points left. Baku is tomorrow.\n\n#F1Fanrecap #F1Championship #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1Championship",
+            "#F1"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "Six races remain in the 2026 Formula 1 World Championship, and the standings entering Round 15 at Baku tell a clear story.\n\nKimi Antonelli leads at 292 points. George Russell is second at 211 — 81 points behind. Lewis Hamilton sits third at 191 points. Lando Norris is fourth at 186. Mercedes leads the constructors' championship at 503 points.\n\nThe title math is straightforward on paper, and it heavily favors Antonelli. With a maximum of 120 points available across the final six races (Baku, Singapore, USA, Mexico City, Brazil, Abu Dhabi), Norris's 106-point deficit is theoretically closeable only if he outscores Antonelli by an average of nearly 18 points per race — roughly the difference between winning and finishing fifth every round.\n\nRussell has a more realistic arithmetic case: at 81 points back with six rounds left, he needs to outscore Antonelli by roughly 14 points per race. In a world where both are starting near the front — as they typically have been at Mercedes — that kind of separation requires Antonelli retirements or mechanical failures.\n\nBaku's unpredictability — the safety car frequency, the wall risk, the engine stress of the longest straight in F1 — makes it one of the few remaining circuits where a big points swing is possible in either direction. Saturday's race won't decide the championship. But it could narrow the field in ways that matter.\n\n---",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-f1-championship-standings-baku.html",
+        "headline": "F1 Championship Standings at Round 15: Antonelli's 81-Point Cushion, Six Races to Go",
+        "word_count": 464
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Standings\n\n**Image Concept A**\n- **Type:** Graphic / Stats\n- **Description:** Championship standings infographic — Antonelli 292, Russell 211, Hamilton 191, Norris 186 — with 6 races remaining counter\n- **Mood:** Statistical, clean, definitive\n- **Text Overlay:** \"F1 STANDINGS: 6 RACES LEFT\"\n- **Imagn Search Terms:** Kimi Antonelli Mercedes\n\n**Image Concept B**\n- **Type:** Action / Racing\n- **Description:** Two Mercedes cars running side by side at circuit — Antonelli and Russell teammate battle visual\n- **Mood:** Internal competition, tension\n- **Text Overlay:** \"ANTONELLI VS. RUSSELL: 81 POINTS\"\n- **Imagn Search Terms:** George Russell Mercedes"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "F1 Championship Standings\n**Decision:** FOLLOW UP (standings update)\n**Sources:**\n1. Yahoo Sports / race weekend roundup — championship standings — https://sg.news.yahoo.com/time-2026-f1-azerbaijan-grand-134051257.html\n2. The National — F1 driver power rankings Baku — https://www.thenationalnews.com/sport/f1/2026/09/25/f1-driver-power-rankings-can-upgrade-help-norris-challenge-antonelli-in-baku/\n**Key Facts (VERIFIED):**\n- Antonelli: 292 pts, championship leader — HIGH\n- Russell: 211 pts, P2 (81 pts behind) — HIGH\n- Hamilton: 191 pts, P3 — HIGH\n- Norris: 186 pts, P4 — HIGH\n- Mercedes constructors: 503 pts — HIGH\n- Ferrari constructors: P2 — HIGH (exact points not indexed)\n- McLaren constructors: 358 pts — HIGH\n- Round 15 of 20, 120 points remaining — HIGH (6 races × 20 pts max/race approximate)\n- 2026 season finale: Abu Dhabi GP — HIGH",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
