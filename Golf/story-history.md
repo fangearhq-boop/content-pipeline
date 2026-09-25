@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-09-25
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-09-25 | T1 | Presidents Cup Day 2: USA Holds 3-2 Lead as Foursomes Begin at Medinah | X(2), FB, Article | FOLLOW UP |
+| 2026-09-25 | T1 | LIV Golf's 18-Day Countdown: Rahm Committed, Koepka Gone, and the Math That Matters | X(2), FB, Article | FOLLOW UP |
+| 2026-09-25 | T1 | NW Arkansas Championship Round 1: LPGA Returns to Rogers With Solheim Ghosts in Tow | X(1), FB, Article | FOLLOW UP |
+| 2026-09-25 | T2 | From Biltmore to Medinah: Jacob Bridgeman Brings a Career-Best 61 Into His Presidents Cup Debut | X(1), FB, Article | PUBLISHED |
+| 2026-09-25 | T2 | The International Team's Medinah Math: Can History Repeat at the Course That Birthed a Miracle? | X(1), FB, Article | PUBLISHED |
+
+### STORY 1: Presidents Cup Day 2 Foursomes
+- **Tier:** 1
+- **Category:** Presidents Cup / Medinah Country Club / USA / International Team / Day 2 Foursomes
+- **Key facts:** USA leads 3-2 after Day 1 four-ball; five foursomes matches from 2:05 PM ET; USA pairings: Scheffler/Burns, Henley/Bridgeman, Clark/Morikawa, Thomas/Young, Schauffele/Cantlay; Intl: Conners/Taylor, Im/Matsuyama, Fox/Lee, Scott/Bezuidenhout, Si Woo Kim/Tom Kim; Golf Channel 2-7 PM ET
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: LIV Golf Player Decisions — Countdown
+- **Tier:** 1
+- **Category:** LIV Golf / Jon Rahm / Brooks Koepka / BC Partners / October 13 deadline
+- **Key facts:** 18 days to October 13 deadline; Rahm committed (~$150M contract), DeChambeau committed, Cameron Smith committed, Dustin Johnson new extension as 4Aces captain; Koepka paid $5M + forfeited equity to return to PGA Tour; 2/3 by dollar + 1/2 by headcount thresholds
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+
+### STORY 3: NW Arkansas Championship Round 1
+- **Tier:** 1
+- **Category:** LPGA / NW Arkansas Championship / Pinnacle Country Club / Solheim Cup aftermath
+- **Key facts:** Round 1 underway at Pinnacle CC Rogers AR; $3M purse, 54-hole format; 18 Solheim Cup players (8 USA, 10 Europe); USA lost Solheim Cup 13-15 two weeks prior; Sept 25-27 tournament dates
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 4: Bridgeman Biltmore Win + Presidents Cup
+- **Tier:** 2
+- **Category:** Jacob Bridgeman / Presidents Cup / Biltmore Championship
+- **Key facts:** Won inaugural Biltmore Championship Sept 20 at The Cliffs at Walnut Cove Asheville NC; career-best 61 (-10) final round; won by 2 shots, $900K prize; 2nd PGA Tour win of 2026; paired with Russell Henley vs. Im/Matsuyama Day 2 foursomes
+- **Byline:** Ryan Calloway
+- **Status:** PUBLISHED
+
+### STORY 5: International Team Medinah Comeback Math
+- **Tier:** 2
+- **Category:** Presidents Cup / International Team / Medinah / 2012 Ryder Cup / comeback
+- **Key facts:** Internationals trail 3-2 after Day 1; 2012 Ryder Cup at Medinah: Europe trailed 10-6 entering Sunday, won 8.5-3.5, final 14.5-13.5; International team hasn't won Presidents Cup since 1998 (12 consecutive losses); Captain Geoff Ogilvy (2006 US Open champion)
+- **Byline:** Jake Torres
+- **Status:** PUBLISHED
+
 ## 2026-09-24
 
 | Date | Tier | Title | Platforms | Status |

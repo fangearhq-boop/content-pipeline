@@ -1,6 +1,37 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-09-24
+## Last Run: 2026-09-25
+
+**Status:** COMPLETE (with known proxy limitations)
+**Niche:** F1 Fanrecap
+**Stories:** 5
+**Articles:** 5
+
+---
+
+## 2026-09-25 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research | ✅ Complete | 5 stories — FP3 results, Leclerc penalty confirmed, McLaren deficit, Antonelli no penalty, championship standings |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 6 posts, all ≤280 chars |
+| FB Posts | ✅ Complete | 04-social-posts-facebook.md — 5 stories |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 articles in articles/ |
+| Fact Check | ✅ Complete | verify-facts.py — 21 claims, 36 HIGH |
+| Compile | ✅ Complete | compile-content-data.py — 5 stories, 6 tweets, 5 articles (no errors) |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (all not_started — imagn manual step) |
+| Story History | ✅ Complete | story-history.md updated |
+| Dashboard | ✅ Complete | generate-review-dashboard.py — 26 items |
+| PostPlanner | ⚠ Known issue | 0 posts found (known parsing issue) |
+| WordPress | ❌ Blocked | fanrumor.com blocked by egress proxy |
+
+---
+
+## Previous Run: 2026-09-24
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** F1 Fanrecap
