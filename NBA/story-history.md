@@ -2,6 +2,64 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-25
+
+### STORY 1: Pistons Add Weight Clause to $200M Duren Offer — Duren Rejects It
+- **Tier:** 1
+- **Category:** Detroit Pistons / Jalen Duren / Contract / Weight Clause
+- **Key facts:** Pistons added monthly weigh-in weight clause to $200M offer without prior discussion; Duren rejected it; future in Detroit "in real limbo"; Sacramento Kings + Milwaukee Bucks have serious interest; Duren eligible max $287M; Pistons media day Sept 28
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Media day appearance/absence Sept 28, deal signed or QO accepted by Oct 1, Kings or Bucks official interest
+
+### STORY 2: Edwards and LaMelo Share Court First Time — Edwards Warns of "Lots of Downs" in Year One
+- **Tier:** 1
+- **Category:** Minnesota Timberwolves / Anthony Edwards / LaMelo Ball / France Trip
+- **Key facts:** Edwards organized full-roster trip to France pre-camp; halfcourt shooting contest with Ball; Edwards quote "Year 1 will have lots of downs"; Josh Green flipped to Utah Jazz for Cody Williams + John Konchar; camp Sept 29
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** First preseason results, early Edwards-Ball pick-and-roll efficiency, Gobert fit
+
+### STORY 3: Stephen Curry on Expiring Deal Entering Warriors Camp — Extension Window Open
+- **Tier:** 1
+- **Category:** Golden State Warriors / Stephen Curry / Contract Extension
+- **Key facts:** Curry entering camp on expiring deal; eligible for 2yr/$136.7M extension; publicly committed to Warriors; speculation he may take less than max to preserve cap room; camp at BYU-Hawaii Sept 29; media day Sept 28
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Extension signed, max or below-max decision, media day statement
+
+### STORY 4: Wembanyama Signs 5yr/$252M Extension — Left $50M Supermax Behind
+- **Tier:** 1
+- **Category:** San Antonio Spurs / Victor Wembanyama / De'Aaron Fox / Contract Extension
+- **Key facts:** Signed July 11, 5yr/$252M with player option Y5; chose 25% max over 30% supermax (~$301M); $50M discount to Spurs; De'Aaron Fox also signed 4yr/$228M; Opening Night vs OKC Thunder Oct 20
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** Camp performance, Wemby-Fox on-court chemistry, Spurs title contention timeline
+
+### STORY 5: Giannis + Bam + Klay Wrap California Minicamp — Official Heat Camp Sept 29
+- **Tier:** 2
+- **Category:** Miami Heat / Giannis Antetokounmpo / Bam Adebayo / Training Camp
+- **Key facts:** Unofficial California minicamp wrapped; Giannis, Bam, Klay, Wiggins; official camp at Kaseya Center Sept 29; first preseason Oct 3 Quebec City vs Raptors; Giannis+Bam frontcourt fit is camp's biggest question
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** First preseason results, Spoelstra system details, Giannis-Bam lineup data
+
+### STORY 6: Jayson Tatum's "Historic" Achilles Recovery — Celtics Camp Ready Sept 29
+- **Tier:** 2
+- **Category:** Boston Celtics / Jayson Tatum / Achilles Injury / Recovery
+- **Key facts:** Ruptured right Achilles May 2026 (ECF loss to Knicks); returned to court early March 2026; "historic" recovery timeline; expected full camp participant Sept 29; Celtics open at Detroit Oct 20 (NBC)
+- **Byline:** Damon Pierce
+- **Status:** NEW
+- **Follow-up ideas:** Preseason explosiveness metrics, first regular season game performance, Celtics win total projection
+
+### STORY 7: Cooper Flagg's First NBA Media Day — Mavericks Go Early Before China Games
+- **Tier:** 3
+- **Category:** Dallas Mavericks / Cooper Flagg / Media Day / NBA China Games
+- **Key facts:** Mavericks media day Sept 25 (today); early due to NBA China Games travel to Macao Oct 9+11 vs Houston Rockets; Flagg is No. 1 pick and franchise face; Amen Thompson featured for Rockets
+- **Byline:** Jake Torres
+- **Status:** NEW
+- **Follow-up ideas:** First China Games game, Flagg rookie stats in preseason, Mavericks opening night roster
+
 ## 2026-09-24
 
 ### STORY 1: Duren Media Day Status — "Highly Questionable" Amid $200M Impasse
