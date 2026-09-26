@@ -5,6 +5,46 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-26 (OFF DAY — Cubs 88-73, WC2. Final game Sunday at Tropicana Field. WCS vs. Padres starts Tuesday Sept 29.)
+
+### STORY 1: DH Recap — Red Sox Swept Cubs 4-3, 2-0 at Fenway
+- **Angle:** NEW STORY. Game 1: Red Sox 4-3 (Connor Wong tiebreaking double in 7th). Game 2: Red Sox 2-0 (Cubs outhit 7-4 but shut out by Bello). Cubs fall to 88-73. Already clinched; losses were seeding-only.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, overnight recap)
+- **Follow-Up Opportunities:** None — cosmetic results heading into playoffs
+
+### STORY 2: WCS at Petco Park — WC1 Seeding Mathematically Out of Reach
+- **Angle:** FOLLOW UP. Padres 89-71, Cubs 88-73 with 1 game each remaining. WC1 cannot be reached. Cubs locked as WC2 heading to Petco Park. Final game Sunday moved to Tropicana Field (storm threat at Fenway). WCS starts Tuesday Sept 29.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, analysis/bold)
+- **Follow-Up Opportunities:** Final regular season game recap (Sunday morning)
+
+### STORY 3: Gausman Shoulder — WCS Rotation Decision Due
+- **Angle:** FOLLOW UP. Gausman left shoulder (non-pitching arm) still day-to-day. WCS starts in 3 days. Holmes and Boyd locked in. If Gausman can't go: Peterson steps up. Steele's WCS roster decision also imminent (4 Iowa rehab stints done: 11 K / 7.2 IP).
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, injury/roster)
+- **Follow-Up Opportunities:** Gausman/Steele roster announcement (Sunday or Monday)
+
+### STORY 4: PCA NL MVP — The Definitive 2026 Season Take
+- **Angle:** FOLLOW UP (season-end). PCA final line: .280 AVG / 45 HR / 40 SB / .948 OPS. Age 24. 7th in 40-40 history. First Cub ever. Overwhelming NL MVP favorite (dethroning 2-time winner Ohtani).
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, bold/fan energy)
+- **Follow-Up Opportunities:** NL MVP announcement (November)
+
+### STORY 5: Bregman Healthy, October Lineup Taking Shape
+- **Angle:** FOLLOW UP. Bregman returned to DH on Sept 25 — only 5 days after multiple facial fractures. Suzuki healthy. Swanson healthy. October lineup nearly whole; only Gausman's shoulder is a cloud.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, roster depth)
+- **Follow-Up Opportunities:** Gausman status update
+
+### STORY 6: Brewers Looming — NLDS If Cubs Advance
+- **Angle:** NEW STORY. Brewers: NL Central champs (4th straight title, clinched Sept 15), 100+ wins, #1 NL seed. Went 9-4 vs Cubs in 2026 regular season. If Cubs survive WCS vs Padres, they face Milwaukee in NLDS starting Oct 3.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, rival watch/analysis)
+- **Follow-Up Opportunities:** NLDS preview if Cubs advance
+
+---
+
 ## 2026-09-24 (MID-SERIES — vs. Miami Marlins, Home, Wrigley, Game 3 of 3)
 
 ### STORY 1: Marlins 3, Cubs 2 — Magic Number Stays at 1

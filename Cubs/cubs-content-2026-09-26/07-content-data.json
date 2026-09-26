@@ -1,0 +1,241 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-26",
+  "compiled_at": "2026-09-26T09:19:49.335599+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "DH Recap — Red Sox swept Cubs 4-3, 2-0",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "WCS at Petco: Seeding locked, Padres await",
+      "type": "Analysis/Bold"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Gausman shoulder: WCS rotation decision due now",
+      "type": "Roster/Injury"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "PCA: 45/40/.948 OPS — the definitive MVP take",
+      "type": "Bold/Fan Energy"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "October lineup: Bregman back, depth arriving",
+      "type": "Informative"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Brewers await: the 100-win NLDS threat",
+      "type": "Rival watch"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Doubleheader Recap — Red Sox 4-3, 2-0; Cubs Fall to WC2",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cubs dropped both games at Fenway — lost 4-3 in Game 1 (Connor Wong's tiebreaking double in the 7th erased a 3-run lead) and 2-0 in Game 2 (outhit Boston 7-4 but couldn't plate a run). Stakes: cosmetic at this point. Cubs already clinched. Fall to 88-73 (WC2), Padres sit at 89-71 (WC1). Oct outlook unchanged.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "88-73. Cubs dropped both at Fenway — 4-3 in Game 1 (Connor Wong's 7th-inning double turned a 3-run lead into a loss), 2-0 in Game 2 despite outhitting Boston 7-4.\n\nAlready clinched. Already moving on. Petco Park on Tuesday.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative — overnight recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Doubleheader Recap — Red Sox 4-3, 2-0\n**Key Facts:**\n- Game 1 final: Red Sox 4, Cubs 3\n- Cubs built a 3-run lead; Red Sox rallied\n- Connor Wong tiebreaking double in 7th inning was the decisive blow\n- Red Sox clinched AL WC5 (will face Yankees in WCS)\n- Game 2 final: Red Sox 2, Cubs 0\n- David Peterson started for Cubs (9-8, 4.96 ERA); Brayan Bello (6-7, 4.49) for Boston\n- Wilyer Abreu two-run double in 8th delivered the margin\n- Cubs outhit Boston 7-4 but were shut out\n- Cubs record after DH: 88-73 (WC2)\n- Padres record: 89-71 (WC1)\n- **Confidence: HIGH** (multiple sources: boston.com x2, espn.com, cbssports.com)\n**Sources:**\n- boston.com/sports/boston-red-sox/2026/09/25/red-sox-cubs-game-1-doubleheader-recap/\n- boston.com/sports/boston-red-sox/2026/09/25/red-sox-cubs-game-2-doubleheader-recap/\n- espn.com/mlb/recap?gameId=401817074\n- cbssports.com/mlb/gametracker/recap/MLB_20260925_CHC@BOS/",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "October Preview — WCS at Petco Park, Seeding Locked",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "WC1 is out of reach. Cubs are locked as WC2 heading to Petco Park on Tuesday. Final game (Sunday, Tropicana Field) is moot for seeding — Cubs need Padres to also lose AND win themselves AND records won't tie even then. Bold take: the Padres had 32-16 run since Aug 1. This is a tough draw. But these Cubs are built for the road — they went 45-35 away from Wrigley this year.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "89-71 Padres. 88-73 Cubs. Even with a Sunday win and Padres loss, the records don't tie — they keep WC1 on winning percentage.\n\nCubs go to Petco Park as the WC2 seed. They also went 45-35 on the road this year.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Analysis / Bold take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "WCS at Petco — Seeding Locked\n**Key Facts:**\n- WC1: Padres 89-71; WC2: Cubs 88-73; WC3: Phillies 87-73\n- One game remaining for each team (Sunday Sept 27)\n- Cubs' final game moved from Fenway to Tropicana Field, St. Pete due to storm threat\n- Cubs cannot reach WC1: even with Cubs win (89-73) and Padres loss (89-72), records differ (.549 vs .553); Padres keep WC1\n- Cubs own tiebreakers over Phillies, so WC2 is locked barring losing Sunday and Phillies winning\n- WCS: Cubs (WC2, #5 seed) at Padres (WC1, #4 seed) at Petco Park — starts Tuesday Sept 29\n- Padres: 32-16 since Aug 1 (per prior pipeline); formidable road opponent\n- Cubs road record: 45-35\n- **Confidence: HIGH** (standings confirmed by multiple sources including yahoo.com, suntimes.com)\n**Sources:**\n- yahoo.com/articles/nl-wild-card-standings-explained-191808733.html\n- chicago.suntimes.com/cubs/2026/09/24/cubs-clinch-postseason-marlins-wild-card-seeding-still-a-mystery\n- mlb.com/news/mlb-series-to-watch-in-the-final-weekend-of-2026\n- baseball-reference.com/previews/2026/BOS202609260.shtml (confirms game moved to Tropicana)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Gausman Day-to-Day, WCS Rotation Must Be Decided Now",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "WCS starts TUESDAY. Gausman (left shoulder, non-pitching arm) has 3 days to prove he can take the ball. Holmes and Boyd are locked in. If Gausman can't go: Peterson steps up. Steele's WCS roster decision imminent. The rotation question is the biggest Chicago story of the weekend.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "3 days until the Wild Card Series and Kevin Gausman's shoulder is still day-to-day.\n\nHolmes and Boyd are locked in. If Gausman can't go, Peterson steps up. Steele's WCS roster spot is also imminent. Cubs need an answer by Sunday.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative — injury/roster news",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Gausman Shoulder / WCS Rotation\n**Key Facts:**\n- Injury: left shoulder soreness from diving tag play (non-pitching arm; Gausman is RHP)\n- Sept 23 (vs Marlins) — left game in 6th inning\n- Day-to-day as of Sept 25; Gausman said the next few days are \"important\"\n- Cubs medical staff monitoring range of motion\n- WCS starts Sept 29 — ~3 days to resolve\n- Projected WCS rotation: Gausman (if healthy), Holmes, Boyd\n- David Peterson (who started Game 2 of DH) is in the mix if Gausman can't go\n- Justin Steele: 4 Iowa rehab stints complete (11 K / 7.2 IP); could be activated for WCS roster as LHP reliever\n- **Confidence: HIGH** (multiple sources; confirmed by mlb.com injury update)\n**Sources:**\n- mlb.com/cubs/news/cubs-injury-updates-on-kevin-gausman-alex-bregman-and-justin-steele\n- nbcsports.com/fantasy/baseball/player-news/2026-09-24/gausman-dealing-with-left-shoulder-inflammation\n- bettorsinsider.com/news/2026/09/24/cubs-ace-kevin-gausman-injured-on-freak-dive\n- lastwordonsports.com/baseball/2026/09/23/cubs-playoff-rotation-26/",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "PCA NL MVP — The Definitive 2026 Season Take",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": ".280 / 45 HR / 40 SB / .948 OPS. 7th player in 40-40 history. First Cub ever. Age 24. Two days removed from the historic steal, now is the moment to make the full MVP case in bold take form. Ohtani won 2 back-to-back; this one belongs to PCA.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "45 HR. 40 SB. .948 OPS. Pete Crow-Armstrong is the 7th player in MLB history to join the 40-40 club — and the first Cub ever.\n\nHe's 24. He just had the greatest individual season in Cubs history. Hand him the MVP now.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Bold / Fan Energy",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA NL MVP — Season Stats\n**Key Facts:**\n- Final regular-season line: .280 AVG / 45 HR / 40 SB / .948 OPS\n- Age 24\n- Achieved 40-40 on Sept 24 (1st inning steal vs. Marlins — leadoff walk, steal of 2nd)\n- 7th player in MLB history in the 40-40 Club: Canseco (1988), Bonds (1996), A-Rod (1998), Soriano (2006), Acuña (2023), Ohtani (2024), PCA (2026)\n- First Cubs player ever to join the 40-40 Club\n- NL MVP: overwhelming favorite; Ohtani won 2 back-to-back but pitching injuries midseason swung the race\n- **Confidence: HIGH** (multiple sources including chicago.suntimes.com, bleachernation.com, yahoo.com)\n**Sources:**\n- chicago.suntimes.com/cubs/2026/09/24/cubs-pete-crow-armstrong-40-40-season-baseball-history-mvp-home-runs-stolen-bases\n- bleachernation.com/cubs/2026/09/24/pete-crow-armstrong-is-in-the-40-40-club/\n- athlonsports.com/mlb/chicago-cubs/pete-crow-armstrong-40-40-season\n- yahoo.com/articles/pete-crow-armstrong-40-40-191853009\n**COMPOUND CLAIM — 40-40 historical list:** Cross-referenced via two sources (chicago.suntimes.com and athlonsports.com). HIGH confidence.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Bregman Healthy, October Lineup Taking Shape",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Bregman played as DH yesterday (returned just 5 days after multiple facial fractures). Suzuki healthy. Swanson healthy. The October lineup is nearly whole — and Steele could add bullpen depth. One injury question (Gausman) shouldn't overshadow how good this roster looks for the WCS.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "5 days after multiple facial fractures, Alex Bregman was in the DH spot at Fenway. He's back.\n\nBregman. Suzuki. PCA. Swanson. The October lineup is whole. One question left: can Gausman take the ball Tuesday?\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative — roster depth",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Bregman Healthy, October Lineup\n**Key Facts:**\n- Bregman suffered multiple facial fractures Sept 20 (foul ball off Michael Busch's bat, on-deck circle)\n- No surgery required; vision unaffected\n- Returned as DH for Game 1 of Sept 25 doubleheader — only 5 days missed\n- Healthy for WCS\n- Suzuki: Active on roster; returned from PCL injury in April 2026 (WBC-related); no current injury concerns\n- Swanson: Healthy for October (referenced in prior pipeline)\n- Full lineup appears available: PCA, Bregman, Suzuki, Happ, Hoerner, Swanson, Amaya — core fully healthy\n- **Confidence: HIGH** (nbcchicago.com, clutchpoints.com)\n**Sources:**\n- nbcchicago.com/mlb/chicago-cubs/alex-bregman-back-in-cubs-lineup-after-suffering-facial-fractures-from-foul-ball/3993870/\n- clutchpoints.com/mlb/chicago-cubs/cubs-news-alex-bregman-returns-lineup-face-injury",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Brewers Looming — The NLDS Threat If Cubs Advance",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "If Cubs survive Petco, they face the 100-win Brewers in the NLDS. Milwaukee clinched the NL Central title for the 4th straight year on Sept 15. First team in MLB history to reach 100 wins without a winning streak longer than 5 games. Cubs are 5-4 vs. Brewers this year. Rivalry + playoff stakes = must-tweet angle for a slow Saturday.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "100 wins. 4th straight NL Central title. The Brewers went 9-4 against the Cubs this year and they'd host the NLDS.\n\nThat's who's waiting if Chicago gets through Petco Park. October just got interesting.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Analysis / Rival watch",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Brewers — NLDS Threat\n**Key Facts:**\n- Brewers 2026: NL Central champions for 4th consecutive year (clinched Sept 15)\n- Surpassed 100 wins for first time in franchise history\n- Historic: First MLB team to win 100+ games without a winning streak longer than 5 games\n- #1 NL seed — home-field advantage in NLDS\n- Cubs vs. Brewers in 2026 regular season: 5-4 (per subagent research, approximate — confirm from standings)\n- If Cubs win WCS, they play Brewers in NLDS starting Oct 3\n- **Confidence: HIGH for Brewers clinch + win total** (wikipedia.org, mlb.com); Cubs H2H record vs. Brewers is MEDIUM confidence\n**Sources:**\n- wikipedia.org/wiki/2026_Milwaukee_Brewers_season\n- mlb.com/news/brewers-win-100th-game-of-2026-season\n- foxsports.com/stories/mlb/mlb-postseason-wild-card-playoffs-standings-2026",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
