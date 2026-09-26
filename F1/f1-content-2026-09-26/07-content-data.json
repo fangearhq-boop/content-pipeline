@@ -1,0 +1,203 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-26",
+  "compiled_at": "2026-09-26T11:46:07.913531+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Azerbaijan GP Race Day — Russell on Pole, Antonelli Starts P15 After Q1 Crash",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "RACE DAY: Baku City Circuit 🏁\n\nGeorge Russell: pole position (1m42.526s — 0.8s clear of Leclerc)\nKimi Antonelli: P15 after crashing in Q1\n\nChampionship leader starting from the back. Title rival on pole.\n\nThis race matters. 🇦🇿 #AzerbaijanGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": ["#AzerbaijanGP", "#F1"],
+          "char_count": 244
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Kimi Antonelli hit the wall at Turn 1 in Q1.\n\nBroke his suspension. Out of qualifying entirely.\n\nThe championship leader starts somewhere around P15.\n\nGeorge Russell? Pole position.\n\nBaku just got very interesting. #AzerbaijanGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": ["#AzerbaijanGP", "#F1"],
+          "char_count": 232
+        }
+      ],
+      "facebook": {"long_form": "", "image_caption": "", "posting_time": ""},
+      "article": {
+        "filename": "article-01-russell-pole-antonelli-crash-baku.html",
+        "headline": "Russell Dominates Qualifying as Antonelli Crashes Out at Baku: Azerbaijan GP Race Day",
+        "word_count": 623
+      },
+      "image_concepts": [
+        {"label": "Image 1A", "size_desc": "Russell Pole Position", "search_terms": [], "text_overlay": [], "composition": "", "usage": ""},
+        {"label": "Image 1B", "size_desc": "Antonelli Q1 Crash", "search_terms": [], "text_overlay": [], "composition": "", "usage": ""}
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Antonelli at 19 — Historic Championship Lead, But Baku Tests the Cushion",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Kimi Antonelli. 19 years old. Leads the F1 world championship.\n\n292 points. 8 wins. 6 poles. 15 podiums in 14 races.\n\nYoungest championship leader in F1 history.\n\nEven a bad day at Baku won't change that story. #F1 #AzerbaijanGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": ["#F1", "#AzerbaijanGP"],
+          "char_count": 228
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Antonelli's 81-point lead feels comfortable.\n\n225 points remain this season.\n\nIf Russell wins Baku + Antonelli scores 0, gap drops to ~55 pts.\n\nThat's still a LOT. But it's a start.\n\nCan Russell make it happen today? #AzerbaijanGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": ["#AzerbaijanGP", "#F1"],
+          "char_count": 234
+        }
+      ],
+      "facebook": {"long_form": "", "image_caption": "", "posting_time": ""},
+      "article": {
+        "filename": "article-02-antonelli-19-historic-championship-lead.html",
+        "headline": "At 19, Kimi Antonelli Is Rewriting F1 History — One Race at a Time",
+        "word_count": 602
+      },
+      "image_concepts": [
+        {"label": "Image 2A", "size_desc": "Antonelli Celebration / Win", "search_terms": [], "text_overlay": [], "composition": "", "usage": ""},
+        {"label": "Image 2B", "size_desc": "Antonelli Portrait / Baku", "search_terms": [], "text_overlay": [], "composition": "", "usage": ""}
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Russell's Must-Win Moment — Pole + Antonelli Misfortune = Championship Window",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "George Russell's Baku opportunity:\n\n✅ Pole position\n✅ Championship rival starts ~P15\n✅ 81 points down with 9 races left\n\nA win today + Antonelli out of points could cut the gap by 25+.\n\nThis is Russell's moment. 🏆 #AzerbaijanGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": ["#AzerbaijanGP", "#F1"],
+          "char_count": 231
+        }
+      ],
+      "facebook": {"long_form": "", "image_caption": "", "posting_time": ""},
+      "article": {
+        "filename": "article-03-russell-championship-window-baku.html",
+        "headline": "George Russell's Championship Window Is Open at Baku — Can He Step Through It?",
+        "word_count": 591
+      },
+      "image_concepts": [
+        {"label": "Image 3A", "size_desc": "Russell Celebration or Pole", "search_terms": [], "text_overlay": [], "composition": "", "usage": ""},
+        {"label": "Image 3B", "size_desc": "Russell On Track Baku", "search_terms": [], "text_overlay": [], "composition": "", "usage": ""}
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "F1 Season Finale Uncertainty — Qatar/Abu Dhabi or Imola? Decision by Mid-October",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "F1's 2026 season finale is still uncertain.\n\nQatar (Nov. 29) and Abu Dhabi (Dec. 6) are in doubt due to regional conflict.\n\nTeams were told mid-October is the new decision deadline.\n\nImola is already building grandstands as backup.\n\nThis matters. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": ["#F1"],
+          "char_count": 250
+        }
+      ],
+      "facebook": {"long_form": "", "image_caption": "", "posting_time": ""},
+      "article": {
+        "filename": "article-04-f1-season-finale-uncertainty-qatar-abu-dhabi-imola.html",
+        "headline": "F1's 2026 Season Finale in Doubt: Qatar and Abu Dhabi Face Replacement by Imola",
+        "word_count": 555
+      },
+      "image_concepts": [
+        {"label": "Image 4A", "size_desc": "Imola Circuit", "search_terms": [], "text_overlay": [], "composition": "", "usage": ""},
+        {"label": "Image 4B", "size_desc": "F1 Calendar / Paddock", "search_terms": [], "text_overlay": [], "composition": "", "usage": ""}
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Baku Grid Chaos — Four Penalties Shake Up Starting Order",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Baku 2026 starting grid chaos:\n\n🔴 Sainz: -5 places (yellow flag violation)\n🔴 Perez: -3 places (impeding Piastri)\n🔴 Alonso: back row (power unit)\n🔴 Stroll: back row (power unit)\n\n+ Antonelli crashes in Q1.\n\nThe starting grid looks nothing like qualifying. #AzerbaijanGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": ["#AzerbaijanGP", "#F1"],
+          "char_count": 272
+        }
+      ],
+      "facebook": {"long_form": "", "image_caption": "", "posting_time": ""},
+      "article": {
+        "filename": "article-05-baku-grid-penalty-chaos-2026.html",
+        "headline": "Four Penalties and a Championship Crash: The 2026 Baku Grid Explained",
+        "word_count": 579
+      },
+      "image_concepts": [
+        {"label": "Image 5A", "size_desc": "Baku Starting Grid", "search_terms": [], "text_overlay": [], "composition": "", "usage": ""},
+        {"label": "Image 5B", "size_desc": "Aston Martin Garage / Penalty", "search_terms": [], "text_overlay": [], "composition": "", "usage": ""}
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
