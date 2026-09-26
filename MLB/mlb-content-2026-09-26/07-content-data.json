@@ -1,0 +1,237 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-26",
+  "compiled_at": "2026-09-26T10:39:18.151341+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "AL West Final Weekend — Astros, Rangers Both at 79-81 After Friday Collapses",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "BOTH teams lost Friday.\n\nRangers: 10-2 L to Minnesota (deGrom allowed 8 ER)\nAstros: 6-5 L at Oakland\n\nBoth at 79-81. Two games left. Houston holds the tiebreaker.\n\nThe winner of the AL West could have a losing record. That has NEVER happened. #MLB #ALWest",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#ALWest"
+          ],
+          "char_count": 255
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Rangers need to win AND the Astros need to lose just to force anything.\n\nHouston's tiebreaker means that even if both teams finish tied, it goes to the Astros.\n\nTexas is running out of room. Saturday at 3:10 PM. #Rangers #Astros #ALWest",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rangers",
+            "#Astros",
+            "#ALWest"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-al-west-final-weekend-astros-rangers-both-79-81.html",
+        "headline": "AL West Final Weekend: Astros and Rangers Both 79-81 After Friday Collapses — History in the Balance",
+        "word_count": 583
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AL West Final Weekend\n\n#### Image Concept 1A — Social (1080x1350)\n- **Mode:** gemini/complete\n- **Scene:** Split image: Texas Rangers logo (left, red/blue) vs Houston Astros logo (right, navy/orange) with a scoreboard between them showing \"79-81 | 79-81 | 2 GAMES LEFT\". Dark stadium background. Text: \"THE AL WEST RACE IS TIED\"\n- **Mood:** Dramatic, tense, playoff-stakes\n- **Lighting:** Stadium night lights\n\n#### Image Concept 1B — Article Hero (1200x630)\n- **Mode:** imagn\n- **Search term:** \"Texas Rangers Houston Astros\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Yordan Alvarez Triple Crown Chase — Final Weekend, History on the Line",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Yordan Alvarez enters the final weekend:\n\n.311 batting average\n40 home runs\n102 RBI\n\nOne problem: Junior Caminero (Rays) has 41 HR — leading Alvarez in that category.\n\nLast AL Triple Crown: Cabrera, 2012. No Astros player has ever done it. #Astros #MLB",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#MLB"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-yordan-alvarez-triple-crown-final-weekend-caminero.html",
+        "headline": "Yordan Alvarez's Triple Crown Chase Comes Down to the Final Weekend — and Junior Caminero Has the Lead in HRs",
+        "word_count": 538
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Yordan Alvarez Triple Crown\n\n#### Image Concept 2A — Social (1080x1350)\n- **Mode:** imagn\n- **Search term:** \"Yordan Alvarez Houston Astros\"\n- **Credit:** (USA TODAY Sports Images)\n- **Caption overlay:** \".311 / 40 HR / 102 RBI — TRIPLE CROWN CHASE\"\n\n#### Image Concept 2B — Article Hero (1200x630)\n- **Mode:** imagn\n- **Search term:** \"Yordan Alvarez batting\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "AL Central Finale — Guardians Up One, White Sox Hold Tiebreaker, Two Games Left",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "AL Central title race — two games left:\n\nGuardians: 1 game up\nWhite Sox: hold the tiebreaker\n\nBoth teams have already clinched the playoffs. But which one gets the No. 2 seed matters.\n\nIf they finish tied → White Sox win the division. Cleveland needs a lead to keep it. #MLB",
+          "posting_time": "12:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-al-central-finale-guardians-white-sox-tiebreaker.html",
+        "headline": "AL Central Finale: Guardians Lead by One, White Sox Hold Tiebreaker — Two Games to Settle It",
+        "word_count": 617
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AL Central Finale\n\n#### Image Concept 3A — Social (1080x1350)\n- **Mode:** gemini/complete\n- **Scene:** Bold graphic showing Cleveland (navy/red) vs Chicago White Sox (black/white) logos with scoreboard: \"GUARDIANS: +1 | WHITE SOX: TIEBREAKER | 2 GAMES LEFT\". Text: \"AL CENTRAL DECIDES THIS WEEKEND\"\n- **Mood:** Playoff intensity, clean graphic\n\n#### Image Concept 3B — Article Hero (1200x630)\n- **Mode:** imagn\n- **Search term:** \"Cleveland Guardians Chicago White Sox\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Aaron Judge Update — Yankees Planning Without Slugger for Red Sox Wild Card Series",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Aaron Boone on Judge for the Wild Card Series vs. the Red Sox:\n\n\"We're planning on him not being a part of that.\"\n\nJudge himself: \"I'm not giving up.\"\n\nYankees gave him a PPP injection Monday. The soleus calf strain is the complicating factor. The finale is Sept. 27. #Yankees",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-aaron-judge-yankees-wild-card-injury-update.html",
+        "headline": "Yankees Are 'Planning' Without Aaron Judge for Wild Card Series — But Judge Isn't Done Fighting",
+        "word_count": 520
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aaron Judge Yankees\n\n#### Image Concept 4A — Social (1080x1350)\n- **Mode:** imagn\n- **Search term:** \"Aaron Judge New York Yankees\"\n- **Credit:** (USA TODAY Sports Images)\n- **Caption overlay:** \"JUDGE STATUS: PLANNING TO MISS WILD CARD\"\n\n#### Image Concept 4B — Article Hero (1200x630)\n- **Mode:** imagn\n- **Search term:** \"Aaron Judge Yankees dugout\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "NL Final Weekend — Phillies vs. D-backs, One Spot Left, D-backs Hold Tiebreaker",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "One NL playoff spot left.\n\nPhillies: 86-70 (magic number: 2)\nD-backs: 81-74 (hold tiebreaker)\n\nPhiladelphia is in the driver's seat. But they need to be 1 game better because Arizona has the tiebreaker.\n\nSix games left. One spot available. #MLB #Phillies #Dbacks",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Phillies",
+            "#Dbacks"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-nl-wild-card-phillies-diamondbacks-final-spot.html",
+        "headline": "One NL Playoff Spot Remains — Phillies Hold Big Lead but D-backs Own the Tiebreaker",
+        "word_count": 565
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NL Wild Card — Phillies vs. D-backs\n\n#### Image Concept 5A — Social (1080x1350)\n- **Mode:** gemini/complete\n- **Scene:** Split image Phillies (red/white) vs Diamondbacks (purple/teal) with \"ONE SPOT LEFT\" text overlay and scoreboard \"PHI 86-70 | ARI 81-74\". Bold red playoff-stakes graphic.\n- **Mood:** Final push, urgency\n\n#### Image Concept 5B — Article Hero (1200x630)\n- **Mode:** imagn\n- **Search term:** \"Philadelphia Phillies Citizens Bank Park\"\n- **Credit:** (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

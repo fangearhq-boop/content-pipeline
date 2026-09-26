@@ -5,6 +5,62 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-26
+
+### Story 1: AL West Final Weekend — Astros and Rangers Both 79-81 After Friday Collapses
+- **Date:** 2026-09-26
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Both teams lost Friday — Rangers 10-2 to Twins (deGrom 8 ER), Astros 6-5 at Oakland — leaving both at 79-81. Houston holds tiebreaker. Saturday: Rangers at Twins (3:10 PM), Astros at Oakland (8:40 PM). Winner will be one of worst division champs in MLB history.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Saturday game results — possible clincher
+  - Final Sunday game if race still open
+  - Historical context on worst division winners
+
+### Story 2: Yordan Alvarez Triple Crown Final Weekend
+- **Date:** 2026-09-26
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Alvarez enters final weekend .311 BA, 40 HR, 102 RBI. Junior Caminero (Rays, 41 HR) leads AL in HRs. Last AL TC: Cabrera 2012. No Astros player has ever won TC.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Final stats Sunday
+  - Did he win? Historical confirmation
+  - Caminero's HR chase for sole AL HR title
+
+### Story 3: AL Central Finale — Guardians Up One, White Sox Hold Tiebreaker
+- **Date:** 2026-09-26
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Guardians lead 1 game; White Sox hold tiebreaker (Cleveland needs to stay ahead, not just match). Both clinched. White Sox = first playoff team from back-to-back 100-loss seasons in MLB history.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Weekend results — when does AL Central clinch?
+  - Seeding implications heading into Wild Card
+
+### Story 4: Aaron Judge Yankees Wild Card Update
+- **Date:** 2026-09-26
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Boone "planning on him not being a part of" WC Series vs Red Sox. Judge says "not giving up." PPP injection Monday. Soleus calf strain. WC starts Sept. 29.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Official Judge activation/roster decision Sunday or Monday
+  - Yankees lineup construction for Wild Card vs Red Sox
+
+### Story 5: NL Wild Card — Phillies vs. D-backs Final Weekend
+- **Date:** 2026-09-26
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Phillies 86-70 (magic number 2), D-backs 81-74 (hold tiebreaker). Phillies in driver's seat. D-backs need historic Phillies collapse. Last NL playoff spot fills this weekend.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Phillies clinch date
+  - Wild Card opponent (vs No. 3 NL seed Cubs)
+
+---
+
 ## 2026-09-24
 
 ### Story 1: PCA — One Stolen Base From the 40-40 Club
