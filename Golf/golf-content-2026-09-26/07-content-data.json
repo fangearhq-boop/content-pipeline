@@ -1,0 +1,337 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-26",
+  "compiled_at": "2026-09-26T12:09:36.646704+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Presidents Cup Day 3 — International Team Holds Historic 7-3 Lead, Saturday Dual Session",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "International team leads the Presidents Cup 7-3 after sweeping all five Day 2 foursomes at Medinah.\n\nLast time Internationals led 7-3 after two sessions: 1998. They won.\n\nSaturday dual session: 8 more points available today. This is their moment. #PresidentsCup",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#PresidentsCup"
+          ],
+          "char_count": 261
+        },
+        {
+          "label": "Post 1B",
+          "text": "Presidents Cup Day 3 done at Medinah.\n\nInternational team entered the day up 7-3. Eight points available — morning four-ball and afternoon foursomes.\n\nThe Internationals need 15.5 of 30 total points to win. Sunday singles are next. #PresidentsCup #Golf",
+          "posting_time": "8:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#PresidentsCup",
+            "#Golf"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "The International team enters Saturday's Presidents Cup dual session with something they've almost never had: the lead.\n\nAfter sweeping all five Day 2 foursomes matches at Medinah Country Club, the Internationals hold a 7-3 advantage over the United States. To put that in historical context: the last time the International team led 7-3 after two sessions was 1998 — and they went on to win that Presidents Cup.\n\nSaturday's schedule features a morning four-ball session followed by afternoon foursomes — eight total points on the table. The International team needs just 8.5 more points from the remaining 20 available (today's sessions plus Sunday's 12 singles) to win the cup.\n\nThe USA, meanwhile, needs a historic turnaround. They need to win six of eight matches today just to get back to even.\n\nThis is the most dramatic Presidents Cup in a generation. Medinah is the place for drama — remember Europe's 2012 Ryder Cup comeback from 10-6 down? The International team is not about to waste their own historic moment.\n\nWatch the morning four-ball when it gets underway today.",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-presidents-cup-day3-international-lead.html",
+        "headline": "International Team Leads Presidents Cup 7-3 After Historic Day 2 Sweep at Medinah",
+        "word_count": 538
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "X Post Image",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X/Twitter post"
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Facebook Image",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Facebook long-form post"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Presidents Cup Day 3\n**Key Facts:**\n- HIGH: International team leads USA 7-3 after Day 2\n- HIGH: International team swept all five Day 2 foursomes matches\n- HIGH: Day 3 (Saturday) is the dual session day: morning four-ball + afternoon foursomes\n- HIGH: 4 matches per session = 8 total points available on Day 3\n- HIGH: Total event = 30 points; 15.5 points needed to win\n- HIGH: International team last led 7-3 after two sessions in 1998, when they won\n- MEDIUM: USA morning pairings include Scheffler/Burns, Thomas/Koivun, Clark/Morikawa, Young/Gotterup\n- MEDIUM: Afternoon foursomes includes Tom Kim/Si Woo Kim vs. Cantlay/Schauffele\n- HIGH: International team needs 8.5 from remaining ~20 points to clinch\n**Research Notes:** Presidents Cup 2026 is at Medinah Country Club, Illinois. The International team's Day 2 sweep was historic — sweeping all 5 foursomes is a rare occurrence in Presidents Cup history.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "LIV Golf Chapter 11 Bankruptcy — Players Owed Millions, BC Partners Eyes LIV 2.0",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "LIV Golf Chapter 11 — what players are owed:\n\nRahm: $7.5M\nDeChambeau: $5.7M\nDustin Johnson: $5.5M\nCameron Smith: $4.8M\nTyrrell Hatton: $3.4M\nKoepka: $1.7M\n\nBC Partners offering LIV 2.0 with player ownership. Mid-October deadline. #LIVGolf #Golf",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#Golf"
+          ],
+          "char_count": 244
+        },
+        {
+          "label": "Post 2B",
+          "text": "LIV Golf filed Chapter 11 on September 8. Saudi PIF ends funding after the 2026 season.\n\nBC Partners wants to restructure with players as majority owners. Two-thirds of player claims must commit by mid-October.\n\nIf it works, LIV 2.0 launches in early 2027. #LIVGolf",
+          "posting_time": "8:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "Here are the exact amounts that LIV Golf owes its top players, according to the Chapter 11 bankruptcy filing:\n\n• Jon Rahm: $7.5 million\n• Bryson DeChambeau: $5.7 million\n• Dustin Johnson: $5.5 million\n• Cameron Smith: $4.8 million\n• Tyrrell Hatton: $3.4 million\n• Brooks Koepka: $1.7 million\n\nLIV Golf filed for Chapter 11 bankruptcy on September 8 in New Jersey. The tour lists liabilities between $500 million and $1 billion, and assets between $100 million and $500 million. Saudi Arabia's Public Investment Fund — LIV's primary backer — announced in April that it would end funding after the 2026 season.\n\nNow, London-based private equity firm BC Partners is proposing a restructured LIV 2.0 in which players would hold majority ownership. An independent board of Gene Davis and Jon Zinman would oversee the transition. But the deal requires a \"requisite number of players\" — two-thirds by claim amount, half by number — to commit by mid-October.\n\nRahm, DeChambeau, and Smith have the most to lose if the deal falls apart. They also have the most leverage.\n\nThe mid-October deadline is days away.",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-liv-golf-bankruptcy-players-owed-millions.html",
+        "headline": "LIV Golf Bankruptcy: What Players Are Owed and What BC Partners Is Offering",
+        "word_count": 540
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "X Post Image",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X/Twitter post"
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Facebook Image",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Facebook long-form post"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf Bankruptcy\n**Key Facts:**\n- HIGH: LIV Golf filed Chapter 11 bankruptcy September 8, 2026 in New Jersey\n- HIGH: Liabilities listed at $500M-$1B; assets $100M-$500M\n- HIGH: Saudi PIF announced April 2026 it would end funding after 2026 season\n- HIGH: PIF provided $49.6M in bankruptcy financing\n- HIGH: LIV Golf season ended early in Indianapolis (Aug 20-23 was the season finale)\n- HIGH: BC Partners proposes LIV 2.0 with players as majority owners\n- HIGH: Independent board members: Gene Davis + Jon Zinman\n- HIGH: Creditors: Rahm $7.5M owed, DeChambeau $5.7M, Dustin Johnson $5.5M, Cameron Smith $4.8M, Tyrrell Hatton $3.4M, Koepka $1.7M\n- HIGH: Player commitment deadline: mid-October 2026 (35 days from Sept 8 filing)\n- HIGH: Expected LIV 2.0 re-emergence: early 2027\n**Research Notes:** The filing is public record. Creditor amounts from court documents. BC Partners is a London-based private equity firm.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "NW Arkansas Championship Round 2 — Nishimura Leads at -8, Charley Hull Shoots 65",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Yuna Nishimura opened the NW Arkansas Championship with a 63 (-8) at Pinnacle Country Club.\n\nHer final holes: birdie, eagle. Round 1 lead.\n\nCharley Hull shot 65 in Round 2.\n\nFinal round Sunday. #NWAChampionship #LPGA",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NWAChampionship",
+            "#LPGA"
+          ],
+          "char_count": 216
+        },
+        {
+          "label": "Post 3B",
+          "text": "NW Arkansas Championship after Round 2.\n\nWorld No. 1 Nelly Korda — 2026 Chevron and U.S. Women's Open champion — is in the field.\n\n17 Solheim Cup players. $3M purse. Final round Sunday at Pinnacle Country Club in Rogers, Arkansas. #LPGA",
+          "posting_time": "3:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "Yuna Nishimura of Japan opened the Walmart NW Arkansas Championship with a scorching 63 (-8) at Pinnacle Country Club in Rogers, Arkansas. She finished her round with a birdie followed by an eagle — the kind of finish that turns a good round into a great one and a great round into a Round 1 to remember.\n\nRound 2 is underway Saturday, with England's Charley Hull firing a 65. The leaderboard is tightening up heading into Sunday's final round.\n\nThe big name to watch: Nelly Korda, the world No. 1 ranked player and 2026 Chevron and U.S. Women's Open champion, is in the field at Pinnacle. Korda has been dominant all year and will be the player everyone is chasing.\n\nThis $3 million purse, 54-hole event wraps up Sunday. There are 17 Solheim Cup players in the field — a loaded LPGA lineup for late September in Arkansas.\n\nFinal round Sunday.",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-nw-arkansas-championship-round2-nishimura-hull.html",
+        "headline": "NW Arkansas Championship: Nishimura's -8 Opener Sets the Stage as Hull Shoots 65 in Round 2",
+        "word_count": 468
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "X Post Image",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X/Twitter post"
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Facebook Image",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Facebook long-form post"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NW Arkansas Championship\n**Key Facts:**\n- HIGH: Tournament: Walmart NW Arkansas Championship\n- HIGH: Venue: Pinnacle Country Club, Rogers, Arkansas\n- HIGH: Dates: September 25-27, 2026 (Round 1 Fri, Round 2 Sat, Final Round Sun)\n- HIGH: Purse: $3M\n- HIGH: Format: 54-hole no-cut stroke play\n- HIGH: Round 1 leader: Yuna Nishimura (Japan) at -8 (63)\n- HIGH: Nishimura's Round 1 highlights: birdie + eagle on final holes\n- HIGH: Charley Hull shot 65 in Round 2 (Saturday)\n- HIGH: Nelly Korda is in the field; ranked world No. 1\n- HIGH: Korda's 2026 victories include Chevron Championship + U.S. Women's Open\n- HIGH: Field includes 17+ Solheim Cup players\n- MEDIUM: Final round is Sunday September 27\n**Research Notes:** LPGA Tour regular-season event. Korda entered as overwhelming favorite given her 2026 form.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Patrick Reed PGA Tour Return — Cleared for Fall Eligibility",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Patrick Reed, the 2018 Masters champion, is cleared for PGA Tour fall events.\n\nReed left LIV Golf and rebuilt his ranking via the DP World Tour in 2026. One-year suspension expired around August 25.\n\nFull return: 2027 season. #PGATour #Golf",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#Golf"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "Patrick Reed, the 2018 Masters champion, is coming back to the PGA Tour.\n\nAfter leaving LIV Golf, Reed spent 2026 rebuilding his career on the DP World Tour in Europe, competing and accumulating Race to Dubai ranking points to secure a European Tour card. His one-year eligibility suspension from his last LIV appearance expired around August 25, officially reopening the PGA Tour door.\n\nReed is expected to play PGA Tour events in the fall season and make a full return for 2027.\n\nHis path back is different from Brooks Koepka's — the only other prominent LIV player to return. Koepka paid $5 million to charity and forfeited five years of tour equity. Reed is rebuilding through competitive play on the European circuit rather than via a buy-back arrangement.\n\nFor fans of the 2018 Masters, one of golf's most passionate and polarizing competitors is working his way home.",
+        "image_caption": "",
+        "posting_time": "3:30 PM ET"
+      },
+      "article": {
+        "filename": "article-04-patrick-reed-pga-tour-return-fall-eligibility.html",
+        "headline": "Patrick Reed Cleared for PGA Tour Fall Eligibility After LIV Golf Departure",
+        "word_count": 433
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "X Post Image",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X/Twitter post"
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Facebook Image",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Facebook long-form post"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Patrick Reed PGA Tour Return\n**Key Facts:**\n- HIGH: Patrick Reed won the 2018 Masters\n- HIGH: Reed left LIV Golf and is cleared for PGA Tour fall eligibility\n- HIGH: Reed has been playing DP World Tour in 2026 to rebuild ranking\n- HIGH: PGA Tour suspension ends one year after last LIV appearance\n- MEDIUM: Last LIV appearance approximately August 25; eligibility restored ~August 25, 2026\n- HIGH: Reed plans full PGA Tour return for 2027 season\n- MEDIUM: Race to Dubai standing used to secure European Tour card\n**Research Notes:** Koepka was the first LIV player to return to PGA Tour (paid $5M charity + 5-year equity forfeiture). Reed is following a different path via DP World Tour route.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "PGA Tour 2028 Two-Tier Structure Announced",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "PGA Tour announces 2028 structure:\n\nChampionship Series — top 90 players\nChallenger Series — everyone else\n\n20 players earn promotion annually from Challenger to Championship.\n\nA clear pathway to the top tier, starting 2028. #PGATour #Golf",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#Golf"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "The PGA Tour has announced what professional golf's top circuit will look like starting in 2028: a two-tier structure.\n\nThe Championship Series will include the top 90 players on the PGA Tour by ranking — the elite group competing at the sport's highest level. Below that, the Challenger Series will house the rest of the membership.\n\nEvery year, 20 players will earn promotion from the Challenger Series into the Championship Series, creating a clear pathway from emerging talent to the top tier.\n\nIt's a structure familiar to sports fans who follow English soccer, where clubs earn promotion from the Championship into the Premier League based on performance. Golf is borrowing that model.\n\nFor players currently outside the top 90, the Challenger Series creates a defined pathway to the top — and a reason to grind. For elite players, the Championship Series provides a curated competitive environment.\n\nThe announcement comes as the broader professional golf landscape — including LIV Golf's restructuring — continues to evolve.",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-pga-tour-2028-two-tier-structure.html",
+        "headline": "PGA Tour Announces Two-Tier Structure for 2028: Championship Series and Challenger Series",
+        "word_count": 528
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "X Post Image",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X/Twitter post"
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Facebook Image",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Facebook long-form post"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "PGA Tour 2028 Two-Tier Structure\n**Key Facts:**\n- HIGH: PGA Tour announced two-tier structure for 2028\n- HIGH: Tier 1 = Championship Series (top 90 players)\n- HIGH: Tier 2 = Challenger Series\n- HIGH: 20 players earn promotion annually from Challenger to Championship Series\n- MEDIUM: Structure designed to create clearer player development pathway\n- MEDIUM: Announcement made in September 2026\n**Research Notes:** Part of PGA Tour's broader restructuring amid LIV Golf landscape. The Championship/Challenger branding mirrors structures seen in international soccer leagues.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
