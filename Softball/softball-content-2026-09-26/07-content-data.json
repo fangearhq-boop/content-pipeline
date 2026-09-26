@@ -1,0 +1,236 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-26",
+  "compiled_at": "2026-09-26T10:22:27.397735+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Asian Games Women's Softball — Day 1 Live in Anjō, Japan",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Women's softball at the 2026 Asian Games is LIVE.\n\n8 nations at Anjō Sports Park in Japan. Japan (No. 1), Chinese Taipei (No. 5), China (No. 8), Philippines (No. 13).\n\nPrelims run through Oct. 2. Finals Oct. 3. LA28 qualification on the line. #Softball #AsianGames",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball",
+            "#AsianGames"
+          ],
+          "char_count": 264
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Japan enters the 2026 Asian Games as No. 1 in the world and host nation.\n\nThey are the team to beat in Anjō. China, Chinese Taipei, Philippines, South Korea all have something to prove.\n\nEight nations. Finals Oct. 3. The road to LA28 runs through Japan. #Softball #AsianGames2026",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball",
+            "#AsianGames2026"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-asian-games-softball-day-1-anjo-japan.html",
+        "headline": "Asian Games Women's Softball Opens in Anjō — Japan, Eight Nations Compete for LA28 Points",
+        "word_count": 615
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Asian Games Softball\n\n#### Image Concept 1A — Social (1080x1350)\n- **Mode:** gemini/complete\n- **Scene:** Eight national flags arranged in a circle around a softball diamond viewed from above. Japan's flag prominently centered. Text overlay: \"2026 ASIAN GAMES SOFTBALL / Day 1 — Anjō, Japan\" in bold white sans-serif. Background: deep navy blue with subtle Japanese wave pattern.\n- **Mood:** Epic, international, high-stakes\n- **Lighting:** Bright stadium flood lights\n\n#### Image Concept 1B — Article Hero (1200x630)\n- **Mode:** gemini/complete\n- **Scene:** Aerial view of the Anjō Sports Park softball diamond at dusk, stadium lights illuminating the field, crowd in the stands. Text: \"ASIAN GAMES 2026 / SOFTBALL BEGINS\" overlaid in white.\n- **Mood:** Grand, atmospheric\n- **Lighting:** Golden hour with stadium lights\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Tennessee Fall Ball Recap — Lady Vols Opened vs. Walters State, Lipscomb Up Sunday",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Tennessee's fall has started.\n\nMardjetko (16-3, 1.26 ERA, 171 K) and Nuwer (15-1, 1.01 ERA) are back in game mode after Thursday's opener vs. Walters State.\n\nUp next: Lipscomb at Sherri Parker Lee Stadium — TOMORROW. #LadyVols #CollegeSoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LadyVols",
+            "#CollegeSoftball"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-tennessee-fall-ball-recap-walters-state-lipscomb.html",
+        "headline": "Tennessee Opened Fall Ball Thursday — Mardjetko and Nuwer Are Back, Lipscomb Comes Sunday",
+        "word_count": 673
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tennessee Fall Ball Recap\n\n#### Image Concept 2A — Social (1080x1350)\n- **Mode:** imagn\n- **Search term:** \"Sage Mardjetko Tennessee\"\n- **Credit:** (USA TODAY Sports Images)\n- **Caption overlay:** \"BACK IN GAME MODE / Mardjetko + Nuwer Return for Fall Ball\"\n\n#### Image Concept 2B — Article Hero (1200x630)\n- **Mode:** imagn\n- **Search term:** \"Tennessee Lady Volunteers softball\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Texas Longhorns — Torres, Lincoln, Bordi Building the Three-Peat Roster",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Texas adds two key pieces for its three-peat run:\n\n→ Isa Torres (FSU, .530 BA, 2026 national POY)\n→ Samantha Lincoln (Texas Tech, pitcher)\n\nFall opener is TUESDAY — Sept. 29 vs. Murray State at McCombs Field. 6 PM CT. Free.\n\nThe Longhorns are building something. #HookEm #Softball",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#Softball"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-texas-transfer-portal-torres-lincoln-three-peat-roster.html",
+        "headline": "Texas Is Building the Roster for a Three-Peat — Torres, Lincoln, and Bordi Are the New Pieces",
+        "word_count": 666
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Longhorns Transfer Portal\n\n#### Image Concept 3A — Social (1080x1350)\n- **Mode:** gemini/complete\n- **Scene:** Bold orange text on burnt orange background: \"BUILDING THE THREE-PEAT ROSTER\" with Texas longhorn logo silhouette. Below: \"Torres. Lincoln. Kavan. Fall 2026.\" Clean, graphic style.\n- **Mood:** Confident, championship-ready\n\n#### Image Concept 3B — Article Hero (1200x630)\n- **Mode:** imagn\n- **Search term:** \"Texas Longhorns softball McCombs Field\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Alabama Fall Ball — Crimson Tide Returns 13 WCWS Starters for Oct. Slate",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Alabama returns 13 athletes from its 2026 WCWS semifinal team this fall.\n\nNFCA AAs Jocelyn Briski and Brooke Wells are back. So are freshmen AAs Vic Moten and Kaitlyn Pallozzi.\n\nThe Crimson Tide have unfinished business. Fall ball opens in October. #RollTide #Softball",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#RollTide",
+            "#Softball"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-alabama-fall-ball-13-wcws-returners-rhoads-stadium.html",
+        "headline": "Alabama Returns 13 From Its 2026 WCWS Semifinal Squad — Crimson Tide Open Fall Ball in October",
+        "word_count": 585
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alabama Fall Ball\n\n#### Image Concept 4A — Social (1080x1350)\n- **Mode:** imagn\n- **Search term:** \"Alabama Crimson Tide softball Rhoads Stadium\"\n- **Credit:** (USA TODAY Sports Images)\n- **Caption overlay:** \"13 RETURNING FROM WCWS / Alabama Opens Fall Ball\"\n\n#### Image Concept 4B — Article Hero (1200x630)\n- **Mode:** imagn\n- **Search term:** \"Jocelyn Briski Alabama\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "4 Programs to Watch This Fall — Nebraska, Texas, Oklahoma State, Duke",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Beyond Texas and Oklahoma, four programs to watch in fall softball 2026:\n\n🔹 Nebraska\n🔹 Oklahoma State\n🔹 Duke\n🔹 Texas (still)\n\nRebuilding. Reloading. Ready.\n\nFall ball is the preview. Spring is the story. #CollegeSoftball",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-four-programs-to-watch-fall-ball-2026-nebraska-okstate-duke-texas.html",
+        "headline": "4 Programs to Watch This Fall — Nebraska, Oklahoma State, Duke, and Texas Have Stories Worth Following",
+        "word_count": 623
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "4 Programs to Watch\n\n#### Image Concept 5A — Social (1080x1350)\n- **Mode:** gemini/complete\n- **Scene:** Split four-panel image showing softballs, diamond fields, and players in action. Text overlay: \"4 PROGRAMS TO WATCH / FALL BALL 2026\" in bold white. Clean quad grid layout.\n- **Mood:** Preview, excitement, multi-team\n\n#### Image Concept 5B — Article Hero (1200x630)\n- **Mode:** gemini/base_only\n- **Scene:** Clean softball field background with fall colors (golden leaves in outfield). Text ready for Canva overlay.\n- **Mood:** Seasonal, editorial"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

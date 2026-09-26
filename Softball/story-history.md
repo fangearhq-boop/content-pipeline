@@ -3,6 +3,62 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-09-26
+
+### Story 1: Asian Games Women's Softball — Day 1 Opens in Anjō, Japan
+- **Date:** 2026-09-26
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Women's softball competition opens Saturday at Anjō Sports Park (Sept. 26–Oct. 3). Eight nations including Japan (No. 1), Chinese Taipei (No. 5), China (No. 8), Philippines (No. 13). LA28 Olympic qualification stakes. Finals Oct. 3.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Daily results through Oct. 2 preliminary rounds
+  - Finals Oct. 3 gold medal match
+  - Individual game upsets / standout performers
+
+### Story 2: Tennessee Fall Ball Recap — Walters State Done, Lipscomb Sunday
+- **Date:** 2026-09-26
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Lady Vols opened Thursday vs. Walters State — Mardjetko and Nuwer back in game action. Nine starters returning. Lipscomb at Sherri Parker Lee Stadium Sunday Sept. 27.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sunday Lipscomb game result
+  - Mardjetko/Nuwer stat lines through fall schedule
+  - Full fall schedule results through October
+
+### Story 3: Texas Longhorns — Torres, Lincoln, Bordi Building Three-Peat Roster
+- **Date:** 2026-09-26
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Torres (FSU, .530 BA, 2026 national POY) + Lincoln (Texas Tech pitcher) + Bordi (OU transfer, now eligible 2027) add to Kavan's returning core. Fall opener Sept. 29 vs. Murray State at McCombs Field. Three-peat targets UCLA 1988-90, OU 2021-23.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sept. 29 opener — first look at Torres/Lincoln/Kavan together
+  - Three-peat narrative through fall/spring
+
+### Story 4: Alabama Fall Ball — 13 WCWS Returners, Auburn Matchup in October
+- **Date:** 2026-09-26
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** 13 athletes back from 2026 WCWS semifinal team. NFCA AAs Briski + Brooke Wells return; freshmen AAs Moten + Pallozzi back. Fall schedule Oct/Nov at Rhoads Stadium including Auburn rivalry game.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Alabama vs. Auburn fall game result
+  - How 13-returner roster integrates through fall
+
+### Story 5: 4 Programs to Watch This Fall — Nebraska, Oklahoma State, Duke, Texas
+- **Date:** 2026-09-26
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Sports Illustrated spotlight on fall ball programs beyond the usual powers. Nebraska (Big Ten contention), Oklahoma State (Big 12 depth), Duke (ACC emergence), Texas (strategic portal management alongside dynasty core).
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Individual fall results for each program
+  - Portal additions as they are announced
+
+---
+
 ## 2026-09-24
 
 ### Story 1: Tennessee Lady Vols — Eve of Fall Ball Opener
