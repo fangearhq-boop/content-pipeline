@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-27
+
+### STORY 1: LeBron "Bunker Mentality" — 76ers Media Day in 2 Days
+- **Tier:** 1
+- **Category:** Philadelphia 76ers / LeBron James / Joel Embiid / Jaylen Brown / Tyrese Maxey
+- **Key facts:** LeBron on "Mind the Game" podcast with Steve Nash (~Sept. 25); 3 reasons for Philly: Embiid title quest, Maxey friendship, Brown respect; quote: "He's done everything in our league and the only thing he has not done is win a championship"; quote: "We've got to have a bunker mentality"; 2-year $8M deal; Sixers media day Sept. 29
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+
+### STORY 2: Duren Deadline — 4 Days, Media Day Tomorrow
+- **Tier:** 1
+- **Category:** Detroit Pistons / Jalen Duren / Contract / Qualifying Offer
+- **Key facts:** Oct. 1 deadline 4 days; Duren "increasingly willing" to accept $9.6M QO; $200M+ offer rejected; signing QO strips Detroit of matching rights; Duren becomes UFA 2027; Pistons media day Sept. 28 1:30 PM ET (Langdon + Bickerstaff speaking); Duren attendance uncertain; Duren stats: 19.5 pts, 10.5 reb, third-team All-NBA
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+
+### STORY 3: NBA Media Day — 28 Teams Sept. 28
+- **Tier:** 1
+- **Category:** NBA / Media Day / Training Camp / 2026-27 Season
+- **Key facts:** 28 teams on Sept. 28; Rockets (Sept. 22) and Mavs (Sept. 25) already held early days for China Games (Oct. 9 + 11 Macao); Celtics 12 PM ET; Thunder ~12:30 PM CT; Pistons 1:30 PM ET; training camps open Sept. 29; Cooper Flagg ROY 2025-26
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 4: Giannis/Heat — Camp Opens Tomorrow, 21-Man Roster Set
+- **Tier:** 2
+- **Category:** Miami Heat / Giannis Antetokounmpo / Bam Adebayo / Klay Thompson
+- **Key facts:** Media day Sept. 28; camp opens Sept. 29; 21-player roster finalized; Giannis skipped FIBA qualifiers; California minicamp with Klay, Bam, Wiggins; preseason Oct. 3; acquired from Bucks for 5 picks + 4 players
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+
+### STORY 5: DeRozan to Denver + Kawhi $115M Extension
+- **Tier:** 1
+- **Category:** Denver Nuggets / DeMar DeRozan / Toronto Raptors / Kawhi Leonard
+- **Key facts:** DeRozan 1-year ~$3.9M veteran minimum with Nuggets; six-time All-Star; Kawhi 2-year $115M extension with Raptors; player option 2028-29; total 3 years ~$165M; took ~$18.5M below max; re-acquired from Clippers July 2026; expects to finish career in Toronto
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
 ## 2026-09-24
 
 ### STORY 1: Duren Media Day Status — "Highly Questionable" Amid $200M Impasse
