@@ -2,6 +2,14 @@
 
 Track previously covered stories to avoid repetition and maintain content freshness.
 
+## September 27, 2026
+
+| 2026-09-27 | Laver Cup Day 3: Europe wins 14-10. Final score: Alcaraz clinched with 2-0 rubber win over de Minaur in night session singles. Europe won 8 of 12 rubbers. Menšík and Cobolli both contributed; Fritz (World) won 3 rubbers — most productive player. Europe extends all-time record to 9-1. Sources: lavercup.com, atptour.com, espn.com, skysports.com, bbc.com. | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Sep 26 S1: Day 2 Europe leads 8-4 → Day 3 FINAL RESULT) |
+| 2026-09-27 | Leylah Fernandez wins WTA Singapore Open — def. Mirra Andreeva 6-4, 6-4. Fernandez's fourth WTA title, first WTA 500. Andreeva fell after two consecutive finals (RG champ). Fernandez serves as her own coach. Sources: wtatennis.com, tennismajors.com, espn.com, sportsnet.ca. | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Sep 26 S2: Fernandez leads Andreeva in H2H, reached final → FINAL RESULT) |
+| 2026-09-27 | ATP Hangzhou Open SFs: Jacquet (FRA) def. No. 1 seed Medvedev 7-6(5), 6-4 — first ATP SF of career. Etcheverry (No. 3) def. Halys (No. 4) 6-3, 7-5. Final Sunday: Jacquet vs Etcheverry. Sources: atptour.com, tennismajors.com, tennisnow.com. | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Sep 26 S3: Medvedev QF win → SF day, career-first result) |
+| 2026-09-27 | ATP Chengdu Open Final: Shapovalov vs Hurkacz. Shapovalov def. Tabilo (No. 3) in SF; Hurkacz def. Vacherot (No. 1) in SF. Final Sunday — if Shapovalov wins: first ATP title since 2022 Sofia; if Hurkacz wins: 15th career title. Sources: atptour.com, tennismajors.com, tennisabstract.com. | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Sep 26 S4: Shapovalov into SF → FINAL matchup set) |
+| 2026-09-27 | China Open 2026 main draw released. Men's: Zverev (No. 1), Alcaraz (No. 2), Fritz (No. 3); Sinner officially absent (confirmed withdrawal). Women's: Sabalenka (No. 1), Gauff (No. 2), Zheng Qinwen (No. 3, wild card). 96-player men's draw; 64-player women's. Starts Sep 30 Beijing. Sources: chinaopen.com.cn, atptour.com, wtatennis.com. | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Sep 26 S5: Sinner WD confirmed → draw day, full seedings) |
+
 ## September 25, 2026
 
 | 2026-09-25 | Laver Cup 2026 Day 1 underway at The O2 London. Day session (1 PM): Ruud (EUR) vs Cerúndolo (World) rematch of 2024 opener; Menšík (EUR) vs Nakashima (World). Night session (7 PM): debutants Jódar vs Bublik; doubles Alcaraz/Menšík (EUR) vs Fritz/Bublik (World). Day 1 pts = 1 each. Europe 8-1 all-time, World defending (15-9, SF 2025). Sources: lavercup.com, atptour.com, skysports.com, tennis365.com, ubitennis.net. | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Sep 24 S1: lineup confirmed → Day 1 in progress) |
