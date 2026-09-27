@@ -1,54 +1,50 @@
-# Cubs Pipeline Status — Updated 2026-09-26
+# Cubs Pipeline Status — Updated 2026-09-27
 
 ## Latest Run
-- **Date:** 2026-09-26 (Saturday — OFF DAY; Cubs 88-73 WC2; WCS at Padres starts Tuesday Sept 29)
+- **Date:** 2026-09-27 (Sunday — FINAL REGULAR SEASON GAME; Cubs 88-73 WC2; Neutral site Tropicana Field vs. Red Sox 2:05 PM CT; WCS at Padres starts Tuesday Sept 29)
 - **Stories:** 6
 - **X posts:** 6
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
 - **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 6 stories, 6 tweets
-- **07-content-data.json:** ✅ Valid JSON, all 6 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 10:45 AM / 12:00 PM / 2:30 PM CT)
+- **07-content-data.json:** ✅ Valid JSON, all 6 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 10:45 AM / 12:00 PM / 1:15 PM CT)
 - **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeded)
 
-## Insights Summary (2026-09-26)
-- **Snapshot generated:** 2026-09-26T08:30:00.125293Z (fresh, 30 min before trigger)
-- **significant_findings count:** 2
-- **Finding 1:** `opening=stat_lead` WINNER (small effect, p=0.0194, Cliff's delta=0.274) — stat-lead tweets get 107 vs 69.5 median impressions
-- **Finding 2:** `len_bucket=<140` LOSER (small effect, p=0.0368, Cliff's delta=0.322) — short tweets <140 chars underperform (58 vs 80 median impressions)
-- **Action applied:** All 6 tweets open with a specific stat or number. All tweets targeted at 140+ chars. Actual: 243 / 230 / 255 / 245 / 234 / 227 chars.
+## Insights Summary (2026-09-27)
+- **Snapshot generated:** 2026-09-27T08:30:00.130927Z (fresh, 30 min before trigger)
+- **significant_findings count:** 0
+- **Note:** "No contrasts cleared all three gates (n>=8 per group, p<0.05, |Cliff's delta|>=0.2). Either too little data or no format/time differences are large enough yet."
+- **Action:** Fell through to brand-voice defaults. No format, length, emoji, or timing adjustments applied.
 
-## Series Context (2026-09-26)
-- **`off_day`:** TRUE
-- **`is_series_start_today`:** FALSE
-- **`today_cubs_game`:** null
-- **Rationale:** "No upcoming Cubs game on today's CT calendar date."
-- **Action:** Off-day content strategy applied — no game preview/hype slots. Stories: DH recap, seeding analysis, rotation decision, PCA MVP take, lineup depth, Brewers NLDS preview.
+## Series Context (2026-09-27)
+- **`off_day`:** FALSE
+- **`is_series_start_today`:** TRUE (one-game series vs. Boston Red Sox at Tropicana Field, relocated from Fenway due to nor'easter)
+- **`today_cubs_game`:** Cubs at Red Sox, 2:05 PM CT at Tropicana Field (neutral), probables TBD
+- **Action:** 7:00 AM slot reserved for Series Preview (matchup first, WCS context as kicker).
 
-## Current Wild Card Status (entering Sept 26)
+## Current Wild Card Status (entering Sept 27)
 - **Cubs position:** WC2 (88-73)
-- **Padres position:** WC1 (89-71) — WC1 mathematically out of reach for Cubs
-- **Phillies position:** WC3 (87-73)
-- **One game remaining (Sunday Sept 27 at Tropicana Field, St. Pete — moved from Fenway due to storm)**
+- **Padres position:** WC1 (89-71)
+- **Final regular season game (today, Tropicana Field) — seeding locked**
 - **WCS: Cubs at Padres (Petco Park), starts Tuesday September 29, best of 3**
-- **If Cubs advance: NLDS vs. Brewers (#1 NL seed, 100+ wins), starts October 3**
+- **If Cubs advance: NLDS vs. Brewers (#1 NL seed, 97 wins), starts October 3**
 
 ## Key Ongoing Stories
-- **PCA 40-40 ACHIEVED (Sept 24):** .280 / 45 HR / 40 SB / .948 OPS — 7th in 40-40 history, first Cub ever, NL MVP overwhelming favorite
-- **Cubs clinched postseason (Sept 24):** 2-1 win over Marlins. Second straight postseason.
-- **Kevin Gausman:** Left shoulder soreness (non-pitching arm), day-to-day. WCS rotation decision due imminently.
-- **Alex Bregman:** Returned to DH Sept 25 — only 5 days after multiple facial fractures. Healthy for WCS.
-- **Justin Steele:** 4 Iowa rehab stints complete (11 K / 7.2 IP). WCS roster decision imminent.
-- **Dansby Swanson:** Healthy for October.
-- **Seiya Suzuki:** Active, healthy. No injury concerns.
+- **PCA 40-40 COMPLETE:** .280 / 45 HR / 40 SB — 7th in 40-40 history, first Cub ever, 10.6 fWAR (best Cubs since Hornsby 1929), NL MVP lock
+- **Kevin Gausman:** Left shoulder (non-pitching arm) — still day-to-day; WCS roster decision due before Tuesday
+- **Justin Steele:** Not activated this weekend; could still make WCS roster as LHP bullpen option
+- **Alex Bregman:** Healthy (returned from facial fractures Sept 25)
+- **WCS vs Padres:** Cubs 5-1 vs. Padres in 2026 (including 23-3 rout, swept Wrigley series)
 
-## Previous Run (2026-09-25)
+## Previous Run (2026-09-26)
 - Stories: 6 | X posts: 6 | Status: ✅ Complete
-- Key stories: Fenway doubleheader preview, PCA 40-40 historic achievement, Cubs clinch 2026 postseason, WC1 seeding race, Game 1 preview (Holmes), Gausman/Bregman updates
+- Key stories: DH recap (Red Sox swept Cubs), WCS seeding analysis, Gausman rotation decision, PCA MVP definitive take, October lineup depth, Brewers NLDS threat
 
 ## Pipeline Run Log (newest first)
 
 | Date | Type | Stories | Tweets | Status |
 |------|------|---------|--------|--------|
+| 2026-09-27 | SERIES START (neutral, final reg season) | 6 | 6 | ✅ |
 | 2026-09-26 | OFF DAY | 6 | 6 | ✅ |
 | 2026-09-25 | SERIES START (away, doubleheader) | 6 | 6 | ✅ |
 | 2026-09-24 | MID-SERIES (home, G3) | 6 | 6 | ✅ |

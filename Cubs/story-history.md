@@ -5,6 +5,46 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-27 (FINAL REG SEASON GAME — Cubs 88-73, WC2. Cubs at Red Sox (neutral Tropicana Field, 2:05 PM CT, nor'easter relocation). WCS at Padres starts Tuesday Sept 29.)
+
+### STORY 1: Final Regular Season Game Preview — Neutral Site at Tropicana Field
+- **Angle:** NEW STORY. Cubs-Red Sox finale relocated from Fenway to Tropicana Field (St. Pete, FL) due to nor'easter — one of ~6 neutral-site relocations in MLB history. First pitch 2:05 PM CT. Probables TBD. Cubs locked as WC2 — seeding-only game. WCS looms Tuesday.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, Series Preview)
+- **Follow-Up Opportunities:** Game result recap (not needed — seeding-only; WCS content takes over)
+
+### STORY 2: WCS Bold Take — Cubs Have Padres' Number
+- **Angle:** NEW STORY. Cubs went 5-1 vs. Padres in 2026 (23-3 blowout, swept Wrigley 3-game set June 29–July 1). Won 2025 WCS rematch. San Diego has home-field; Cubs have the receipts.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold/passionate)
+- **Follow-Up Opportunities:** WCS Game 1 preview (Monday), game recaps starting Tuesday
+
+### STORY 3: PCA 45/40 Season — Stat Breakdown, NL MVP Lock
+- **Angle:** FOLLOW UP. .280 / 45 HR / 40 SB — 7th in 40-40 history, first Cub ever. Only Ohtani and Soriano ever had 45+ HR AND 40+ SB. 10.6 fWAR — best Cubs season since Rogers Hornsby 1929. NL MVP vote is a formality.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown)
+- **Follow-Up Opportunities:** NL MVP announcement (November)
+
+### STORY 4: Gausman + Steele — WCS Roster Puzzle
+- **Angle:** FOLLOW UP. Gausman left shoulder still day-to-day ("We go day by day" — Counsell). Steele not activated this weekend; WCS roster still open for bullpen slot. Decision due before Tuesday. Rest of lineup healthy and locked.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, roster analysis)
+- **Follow-Up Opportunities:** Official WCS roster announcement (Sunday/Monday)
+
+### STORY 5: Brewers Looming — NLDS Stakes If Cubs Advance
+- **Angle:** FOLLOW UP. Brewers: NL No. 1 seed (97-58), 4th straight NL Central title. Went 9-4 vs. Cubs in 2026. If Cubs survive WCS at Petco, they face Milwaukee in NLDS (starts Oct 3). Rival jab angle.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, rival watch)
+- **Follow-Up Opportunities:** NLDS preview if Cubs advance WCS
+
+### STORY 6: Pre-Game Kicker — Last Regular Season Game
+- **Angle:** NEW STORY. Final regular season game kicker. 88-73. WC2. MVP in center field. Real thing is Tuesday in San Diego. Short, punchy, momentum-building.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, passionate/bold)
+- **Follow-Up Opportunities:** None — WCS content begins tomorrow
+
+---
+
 ## 2026-09-26 (OFF DAY — Cubs 88-73, WC2. Final game Sunday at Tropicana Field. WCS vs. Padres starts Tuesday Sept 29.)
 
 ### STORY 1: DH Recap — Red Sox Swept Cubs 4-3, 2-0 at Fenway
