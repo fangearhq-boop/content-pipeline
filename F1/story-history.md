@@ -2,47 +2,42 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
-## 2026-09-24
+## 2026-09-27
 
-### STORY 1: Hamilton Leads Ferrari 1-2 in Baku FP2 — Both McLarens Hit Wall
+### STORY 1: Russell Wins Baku — Antonelli Lead Cut to 66 Points
 - **Tier:** 1
-- **Category:** Lewis Hamilton / Ferrari / Baku FP2 / McLaren / Norris / Piastri
-- **Key facts:** Hamilton FP2 1m41.293s; Leclerc P2 +0.074s; Russell P3; Antonelli P4; Norris T4 wall hit, broken suspension, P10; Piastri T15 wall hit, P12; McLarens struggling for braking grip; Baku-specific upgrade underperforming
+- **Category:** Azerbaijan Grand Prix / George Russell / Mercedes / Race Result
+- **Key facts:** Russell wins by 0.196s over Verstappen; Hadjar P3; Leclerc P4; Antonelli P5 from P16; Russell's 3rd win of 2026; 6 retirements, 2 safety cars; pole 1:42.526 (+0.837s margin)
 - **Byline:** Ryan Calloway
 - **Status:** NEW
-- **Follow-up ideas:** Qualifying result, overnight repairs, McLaren's setup fix
 
-### STORY 2: Antonelli's Nightmare Thursday — Hydraulic Failure + Yellow Flag Investigation
+### STORY 2: Antonelli Championship — 66 Points Clear After Baku
 - **Tier:** 1
-- **Category:** Kimi Antonelli / Mercedes / Championship / Azerbaijan GP
-- **Key facts:** Hydraulic failure FP1 after 9 laps; stopped Turn 7; extinguisher deployed; VirtualSafety Car; recovered to P4 FP2; under investigation for yellow flag breach; championship lead: 81 pts over Russell, 233 pts remaining
+- **Category:** Kimi Antonelli / Mercedes / Drivers' Championship
+- **Key facts:** Antonelli Q1 crash (front-left corner/trackrod/upright); started P16; finished P5; "worst weekend of 2026"; standings: Antonelli 302, Russell 236 (-66), Hamilton 199 (-103), Norris 186 (-116), Leclerc 179, Verstappen 163; Mercedes Constructors 538 pts (+160 over Ferrari); 8 rounds remain
 - **Byline:** Elena Voss
 - **Status:** FOLLOW UP
-- **Follow-up ideas:** Investigation outcome, qualifying result, championship impact
 
-### STORY 3: Leclerc Grid Penalty — New Engine P2 in FP2
+### STORY 3: Norris "Ban Them" — Colapinto Triggers 3-Car Retirement
 - **Tier:** 1
-- **Category:** Charles Leclerc / Ferrari / Engine Penalty / Azerbaijan GP
-- **Key facts:** New power unit from FP2 triggers grid penalty (starts last); FP2 P2 with 1m41.367s; new engine ~0.2s/lap faster; Baku 2.2km straight = best recovery circuit; race Saturday
+- **Category:** Lando Norris / McLaren / Franco Colapinto / Alpine / FIA
+- **Key facts:** Colapinto braked late at SC restart, hit Gasly, who collected Norris; Norris, Gasly, Colapinto all retired; Colapinto accepted responsibility; Norris quote: "Some drivers shouldn't be in F1... I think the FIA should be more strict and start handing out bans... It's just careless"; Norris now 116 pts behind Antonelli
 - **Byline:** Marcus Cole
-- **Status:** FOLLOW UP
-- **Follow-up ideas:** Qualifying position, race recovery drive, positions gained
+- **Status:** NEW
 
-### STORY 4: Norris Championship Crisis — Wall Hit, 106 Points Back
+### STORY 4: Aston Martin Fourth Double DNF of 2026
 - **Tier:** 2
-- **Category:** Lando Norris / McLaren / Drivers' Championship
-- **Key facts:** 186 pts, P4 championship, -106 behind Antonelli; wall hit T4 FP2, broken left-rear suspension; P10 FP2; Baku-specific upgrade not working; 233 pts remaining; Piastri also hit wall
-- **Byline:** Elena Voss
-- **Status:** FOLLOW UP
-- **Follow-up ideas:** Qualifying result, race finish, championship gap post-Baku
-
-### STORY 5: Williams FW48 2.0 Baku Debut
-- **Tier:** 2
-- **Category:** Williams / FW48 / Azerbaijan Grand Prix / 2027 Development
-- **Key facts:** B-spec debuts FP1; new lighter carbon process; original overweight; Vowles: "almost completely new"; won't score points; forms FW50 (2027) foundation; last 2026 upgrade; Sainz + Albon
+- **Category:** Aston Martin / Fernando Alonso / Lance Stroll / Azerbaijan GP
+- **Key facts:** Also DNF'd in China, Barcelona, Italy; combined 45-place penalties (Alonso -25, Stroll -20); Stroll retired Lap 7 water pressure T15; Alonso retired Lap 21 power loss (-1.5s/lap down straight); Stroll reportedly set 18-year F1 DNF frequency record
 - **Byline:** Ryan Calloway
 - **Status:** FOLLOW UP
-- **Follow-up ideas:** FP2/qualifying pace data, 2027 development implications
+
+### STORY 5: Singapore GP Preview — Sprint Weekend, Antonelli's Title Window
+- **Tier:** 2
+- **Category:** Singapore Grand Prix / Kimi Antonelli / Marina Bay / Sprint
+- **Key facts:** Oct. 9-11 2026; Round 18 of 23; final sprint weekend of season; Sprint SQ Friday Oct 9; Qual Sat Oct 10 14:00 BST; Race Sun Oct 11 13:00 BST; Marina Bay street circuit; ~3kg driver weight loss; night race; 66 pts gap going in
+- **Byline:** Elena Voss
+- **Status:** NEW
 
 ## 2026-09-20
 
