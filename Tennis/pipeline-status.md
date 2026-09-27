@@ -1,6 +1,37 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-09-26
+## Current Run: 2026-09-27
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Laver Cup Day 3 final result (lavercup.com/atptour/espn/skysports/bbc); Singapore Open final Fernandez d. Andreeva (wtatennis/tennismajors/espn/sportsnet); Hangzhou SF Jacquet d. Medvedev career-first (atptour/tennismajors/tennisnow); Chengdu Final Shapovalov vs Hurkacz (atptour/tennismajors/tennisabstract); China Open draw Zverev No. 1 seed (chinaopen.com.cn/atptour/wtatennis) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Sep 26 S1: Day 2 Europe leads 8-4 → Day 3 RESULT); S2 FOLLOW-UP (Sep 26 S2: Fernandez reached final → Singapore final RESULT); S3 FOLLOW-UP (Sep 26 S3: Medvedev QF win → SF Jacquet career-first); S4 FOLLOW-UP (Sep 26 S4: Shapovalov into SF → Final matchup set); S5 FOLLOW-UP (Sep 26 S5: Sinner WD confirmed → draw day, full seedings) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Ryan Calloway [S1, S3], Elena Voss [S2, S4], Marcus Cole [S5] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: lavercup.com, atptour.com, espn.com, skysports.com, bbc.com, wtatennis.com, tennismajors.com, sportsnet.ca, tennisnow.com, tennisabstract.com, chinaopen.com.cn |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars verified |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories (social + article hero) |
+| Articles (5) | COMPLETE | article-01 Laver Cup Day 3 Europe wins (Ryan Calloway T1); article-02 Fernandez Singapore title (Elena Voss T1); article-03 Hangzhou Jacquet first SF (Ryan Calloway T2); article-04 Chengdu Final Shapovalov/Hurkacz (Elena Voss T2); article-05 China Open draw day (Marcus Cole T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated; 29 claims; image manifest warnings cosmetic (imagn, known) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (known parser issue), 5 articles; posting-window warnings cosmetic (known) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries across 5 stories, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser issue — same as all prior runs |
+| WordPress Publish | BLOCKED | WP credentials not configured (known recurring) |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Sep 27 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Ryan Calloway [S1, S3], Elena Voss [S2, S4], Marcus Cole [S5])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Laver Cup Day 3 — Europe wins 14-10, Alcaraz clinches; Fernandez defeats Andreeva 6-4, 6-4 for WTA Singapore title (first WTA 500); Hangzhou SF Jacquet d. No. 1 Medvedev career-first; Chengdu Final Shapovalov vs Hurkacz; China Open draw released — Zverev No. 1, Alcaraz No. 2, Sinner absent
+- **Issues:** PostPlanner 0 posts (known); WordPress credentials not configured; dashboard push 403 proxy
+
+---
+
+## Previous Run: 2026-09-26
 
 | Step | Status | Notes |
 |------|--------|-------|
