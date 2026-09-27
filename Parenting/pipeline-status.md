@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-09-26
+## Current Run: 2026-09-27
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | ABC Trading light-up toys recall (CPSC 43,674 units, button batteries, models 6602/HD-10/L-508, recallabc@gmail.com); Galileo Middle School Ascend food pantry (D11/Joint Initiatives, 900+ lbs produce, 22 families, d11.org); CMZ Stroller Safaris Oct 1-24 (ages 1-4, $4.75/$20.75, cmzoo.org/stroller, 719-424-7827); AAP developmental disabilities report Sep 22 (nearly 1 in 6 children, publications.aap.org); D20 Parent Academy Sep 29 6pm (1110 Chapel Hills Dr, asd20.org/parent-academy/) |
+| Story History Check | COMPLETE | All 5 stories NEW; ABC recall different product from prior recalls; Galileo pantry not previously covered; CMZ Safari not previously covered; AAP study new publish date Sep 22; D20 Parent Academy not previously covered |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 Tier 1, 4 Tier 2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: cpsc.gov, d11.org, cmzoo.org, publications.aap.org, asd20.org, kktv.com, krdo.com |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts across 5 stories (2 for T1, 1 each for T2); all ≤280 chars verified after cleanup (char-limit violations fixed on rewrite); 4 hashtags each |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 ABC Trading recall (Jamie Rivera, T1, QR table); article-02 Galileo Ascend food pantry (Sarah Morales, T2); article-03 CMZ Stroller Safaris (Jamie Rivera, T2, QR table); article-04 AAP dev disabilities (Sarah Morales, T2); article-05 D20 Parent Academy (Jamie Rivera, T2, QR table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 61 claims; 0 consistency errors; all ≤280 chars after X post cleanup |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 0 FB posts (known parser compat), 5 articles; 5 posting-window warnings (expected) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries across 5 stories, all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 26 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — ran both standard and --tobi |
+| WordPress Publish | BLOCKED | WP credentials not configured in environment (known recurring issue) |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Sep 27 section) |
+
+- **Stories:** 5 stories (1 Tier 1, 4 Tier 2)
+- **Posts:** 6 X posts + 5 FB long-form + 5 FB captions = 16 total
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** ABC Trading light-up glasses/headbands/ties recall (CPSC, 43,674 units, button batteries, fatal if swallowed); Galileo Middle School Ascend food pantry + community garden (D11/Joint Initiatives, 900+ lbs produce); CMZ Stroller Safaris "All Things Orange" Oct 1-24 (ages 1-4); AAP report nearly 1 in 6 U.S. children has developmental disability; D20 Parent Academy free event Sep 29 6 pm
+- **Issues:** PostPlanner 0 posts (known); WordPress credentials not configured; dashboard push 403 proxy
+
+---
+
+## Previous Run: 2026-09-26
 
 | Step | Status | Notes |
 |------|--------|-------|

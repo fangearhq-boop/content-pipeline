@@ -2,6 +2,48 @@
 
 ---
 
+## September 27, 2026
+
+### Story 1: ABC Trading Light-Up Children's Toys Recall
+- **Date:** 2026-09-27
+- **Tier:** T1
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** CPSC recall Sep 26 2026; ~43,674 units; ABC Trading light-up glasses (Model 6602), headbands (HD-10), bow ties (L-508); sold for ~$1 each at specialty stores and abctradinginc.com; button batteries accessible to children — fatal if swallowed; stop use immediately; email recallabc@gmail.com with photo for full refund; no return shipping required; 0 injuries reported
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 2: Galileo Middle School Ascend Food Pantry
+- **Date:** 2026-09-27
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** D11 Galileo Middle School opened "Ascend" food pantry and community garden; partnership with Joint Initiatives for Youth and Families; market-style shopping (not donations-based); garden grew 900+ lbs fresh produce this season; 22 families served since opening; expanding to King Palmer Elementary next; Phase 1 of Ascend Community Center plan; families access during school hours; d11.org
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 3: CMZ Stroller Safaris — All Things Orange in October
+- **Date:** 2026-09-27
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Cheyenne Mountain Zoo Stroller Safaris "All Things Orange in October"; starts Wed Oct 1 9-10 a.m.; additional dates Oct 7, 16, 24; ages 1-4 with adult; babies under 1 free; sensory activity + animal ambassador meet + animal feeding; $4.75 members / $20.75 non-members (non-member includes zoo admission); register cmzoo.org/stroller, 719-424-7827, edprograms@cmzoo.org
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 4: AAP Report — Developmental Disabilities Rate Rising
+- **Date:** 2026-09-27
+- **Tier:** T2
+- **Pillar:** National Parenting (Health Research)
+- **Key Facts:** AAP News report published Sep 22 2026 "Number of US Children With Developmental Disabilities Continues to Rise"; nearly 1 in 6 U.S. children (17-18%) has developmental disability; up from ~12.8% late 1990s; ADHD, autism spectrum disorder, intellectual disabilities = largest share; reflects improved detection + genuine prevalence increase; COS: waitlists for evals nationwide; D11/D20/D49 must evaluate under IDEA at no cost; eicolorado.org for under-3; cde.state.co.us for IEP guide; publications.aap.org full report
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 5: D20 Parent Academy — High School Planning Sep 29
+- **Date:** 2026-09-27
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Academy District 20 Parent Academy session Mon Sep 29 2026 6:00 p.m. MT; 1110 Chapel Hills Dr Colorado Springs CO 80920; title "From Freshman Year to Graduation — Planning with Purpose"; covers graduation requirements, key milestones, academic planning for high school; free to attend; for families with current or incoming D20 high school students; verify registration at asd20.org/parent-academy/
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
 ## September 25, 2026
 
 ### Story 1: 5Color Bicycle Helmet Recall — Size Small, 324 Units
