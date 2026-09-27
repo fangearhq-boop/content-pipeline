@@ -2,55 +2,57 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
-## 2026-09-24
+## 2026-09-27
 
 | Date | Tier | Title | Platforms | Status |
 |------|------|-------|-----------|--------|
-| 2026-09-24 | T1 | Presidents Cup Day 1: Five Fourball Matches Set the Tone at Medinah | X(2), FB, Article | FOLLOW UP |
-| 2026-09-24 | T1 | LIV Golf's $300M Lifeline: BC Partners Deal Would Make Players Majority Owners — With a Mid-October Deadline | X(2), FB, Article | FOLLOW UP |
-| 2026-09-24 | T1 | The International Team Is Searching for Their Medinah Miracle — This Course Has Done It Before | X(1), FB, Article | FOLLOW UP |
-| 2026-09-24 | T2 | NW Arkansas Championship Preview: LPGA's Post-Solheim Reset Begins Tomorrow in Rogers | X(1), FB, Article | FOLLOW UP |
-| 2026-09-24 | T2 | Rahm, DeChambeau, Smith: Commit to Restructured LIV or Face the Unknown — 19 Days to Decide | X(1), FB, Article | FOLLOW UP |
+| 2026-09-27 | T1 | International Team Leads 10.5-7.5 Heading Into Presidents Cup Sunday Singles | X(2), FB, Article | FOLLOW UP |
+| 2026-09-27 | T1 | Yuna Nishimura Leads NW Arkansas Championship by Five — One Round From First LPGA Tour Win | X(2), FB, Article | FOLLOW UP |
+| 2026-09-27 | T1 | LIV Golf Files Chapter 11, BC Partners Offers $300M Rescue — October 13 Deadline Looms | X(2), FB, Article | FOLLOW UP |
+| 2026-09-27 | T2 | Bank of Utah Championship Preview — PGA Tour Fall Resumes at Black Desert Resort | X(2), FB, Article | NEW |
+| 2026-09-27 | T2 | Lauren Coughlin Opens Round With Nine Consecutive Birdies — Sets LPGA Tour Record | X(2), FB, Article | NEW |
 
-### STORY 1: Presidents Cup Day 1 Fourball
+### STORY 1: Presidents Cup Sunday Singles — Internationals Lead 10.5-7.5
 - **Tier:** 1
-- **Category:** Presidents Cup / Medinah Country Club / USA / International Team / Fourball
-- **Key facts:** Day 1 five fourball matches; USA pairings: Scheffler/Burns, Schauffele/Young, Thomas/Koivun, Clark/Morikawa, Cantlay/Gotterup; Intl: Matsuyama/Kim, Hisatsune/Im, Scott/Fox, Conners/Echavarria, Lee/Si Woo Kim; USA 13-2 all-time, 12 straight wins; International last won 1998 Royal Melbourne; 30 total matches over 4 days; foursomes Day 2, mixed Day 3, singles Sunday
-- **Byline:** Marcus Cole
-- **Status:** FOLLOW UP
-- **Follow-up ideas:** Day 1 match results, scoreboard after fourball, Day 2 foursomes preview
-
-### STORY 2: LIV Golf BC Partners $300M Deal
-- **Tier:** 1
-- **Category:** LIV Golf / Chapter 11 / BC Partners / Restructuring / Player Ownership
-- **Key facts:** BC Partners $300M investment; player-majority ownership under restructured entity; threshold: ≥2/3 by dollar amount + ≥1/2 by headcount within 35 days of Sept. 8 filing; deadline mid-October (~19 days from Sept. 24); restructuring hearing ~Oct. 13; PGA Tour CEO Rolapp confirmed returning member programme "not currently contemplated" as of mid-Sept; Brooks Koepka only LIV player to return Jan. 2026; LIV 2.0 targets early 2027
+- **Category:** Presidents Cup / Medinah Country Club / International Team / USA Team
+- **Key facts:** International Team leads 10.5-7.5 heading into Sunday singles; first time Internationals hold lead on American soil entering final day; need 5 from 12 singles; Day 2 foursomes swept 5-0; last won 1998 Royal Melbourne; 12 consecutive losses; Scheffler vs Echavarria headliner; Ogilvy (captain); 32-year event history; Medinah hosted 2012 Ryder Cup comeback
 - **Byline:** Ryan Calloway
 - **Status:** FOLLOW UP
-- **Follow-up ideas:** Oct. 13 hearing, player commitment announcements, deal threshold met/missed
+- **Follow-up ideas:** Final result, historic win recap or comeback recap
 
-### STORY 3: International Team Medinah Comeback History
+### STORY 2: NW Arkansas Championship Final Round — Nishimura Leads by 5
 - **Tier:** 1
-- **Category:** Presidents Cup / International Team / Medinah / Comeback / Geoff Ogilvy
-- **Key facts:** 2012 Ryder Cup at Medinah: Europe trailed 10-6 entering Sunday singles, won 8.5-3.5, final 14.5-13.5; International team last Presidents Cup win 1998 Royal Melbourne (20.5-11.5); 12 consecutive losses; current captain Geoff Ogilvy (2006 US Open); key players Matsuyama, Tom Kim, Min Woo Lee, Ryo Hisatsune, Sungjae Im, Adam Scott, Corey Conners, Nico Echavarria, Ryan Fox, Si Woo Kim
+- **Category:** LPGA Tour / Walmart NW Arkansas Championship / Pinnacle Country Club / Rogers Arkansas
+- **Key facts:** Yuna Nishimura (Japan, 26) leads at -16 by five shots; back-to-back 63s; matched 36-hole tournament scoring record; 6 Japan LPGA wins, 0 LPGA Tour wins in 4 seasons; chase group T2 at -11: Auston Kim, Mary Liu, Michelle Zhang (rookie)
 - **Byline:** Jake Torres
 - **Status:** FOLLOW UP
-- **Follow-up ideas:** Day 1 International results, Matsuyama match result, comeback narrative update
+- **Follow-up ideas:** Final result, Nishimura first win recap
 
-### STORY 4: NW Arkansas Championship Preview
-- **Tier:** 2
-- **Category:** LPGA / Walmart NW Arkansas Championship / Pinnacle Country Club / Solheim Cup
-- **Key facts:** Starts Friday Sept. 25 at Pinnacle Country Club, Rogers AR; 54-hole stroke play; $3M purse; 18 Solheim Cup players in field (8 USA: Coughlin, Khang, Kim, Kupcho, Lee, Noh, Yin, Zhang; Europeans: Hull, Grant, Maguire, Boutier, Ciganda, Madsen, Lopez Ramirez, Nadaud, Woad); Arkansas players: Matthews, Lopez, Marin, Fassi, Zibilski; 16 major champions in field; USA lost Solheim 13-15 to Europe two weeks prior
+### STORY 3: LIV Golf Bankruptcy — BC Partners Rescue, Oct. 13 Deadline
+- **Tier:** 1
+- **Category:** LIV Golf / Chapter 11 / BC Partners / PGA Tour
+- **Key facts:** LIV filed Chapter 11 Sept. 8 in New Jersey; liabilities $500M-$1B; PIF pulled backing; BC Partners $300M for "LIV 2.0"; players become majority owners; PIF DIP $49.6M; Oct. 13 deadline (2/3 claim value, 1/2 claim count must commit); Rahm owed $7.5M (largest creditor); DeChambeau $5.8M; Johnson and Cameron Smith also creditors; total $45M to players; PGA Tour closed return window; target 2027 relaunch
 - **Byline:** Marcus Cole
 - **Status:** FOLLOW UP
-- **Follow-up ideas:** R1 leaderboard, Solheim returnees' form, champion recap
+- **Follow-up ideas:** Oct. 13 outcome, player decisions, restructuring vote
 
-### STORY 5: LIV Players' Choice — Rahm/DeChambeau/Smith Deadline
+### STORY 4: Bank of Utah Championship Preview
 - **Tier:** 2
-- **Category:** LIV Golf / Jon Rahm / Bryson DeChambeau / Cameron Smith / BC Partners / PGA Tour
-- **Key facts:** Rahm, DeChambeau, Smith declined PGA Tour's Jan. 2026 reinstatement window; Koepka paid $5M + forfeited 5 years equity to return; PGA Tour door now closed per Rolapp; Rahm eligible via 2023 Masters + 2023 US Open; DeChambeau eligible via 2024 US Open; Smith has no major; 3 paths: commit to BC Partners, decline and hope, negotiate outside framework; mid-Oct. deadline real
+- **Category:** PGA Tour / FedEx Cup Fall / Bank of Utah Championship / Black Desert Resort / Utah
+- **Key facts:** Black Desert Resort, Utah; Sept. 28-Oct. 4; FedEx Cup Fall event 2 of 8; follows Biltmore Championship (Asheville); next: Baycurrent Classic (Japan, Oct. 5-11), Butterfield Bermuda; 2027 Tour cards on line; volcanic/red rock landscape; power/course management challenge
 - **Byline:** Ryan Calloway
-- **Status:** FOLLOW UP
-- **Follow-up ideas:** Player commitment statements, mid-Oct deadline outcome, LIV 2.0 roster
+- **Status:** NEW
+- **Follow-up ideas:** R1/R2 leaderboard, eventual champion
+
+### STORY 5: Lauren Coughlin Nine-Birdie LPGA Record
+- **Tier:** 2
+- **Category:** LPGA Tour / Walmart NW Arkansas Championship / Pinnacle Country Club / Lauren Coughlin
+- **Key facts:** 9 consecutive birdies to open Round 2 = LPGA Tour record (most consecutive birdies from start of round); Saturday at Pinnacle CC, Rogers, Arkansas; didn't lead due to Nishimura's dominance; historic scoring week overall
+- **Byline:** Jake Torres
+- **Status:** NEW
+- **Follow-up ideas:** Final tournament result, Coughlin's season finish
+
+---
 
 ## 2026-09-20
 
