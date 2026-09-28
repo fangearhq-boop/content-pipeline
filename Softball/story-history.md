@@ -3,6 +3,63 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-09-28
+
+### Story 1: Asian Games Softball — Super Round Underway
+- **Date:** 2026-09-28
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Japan and China swept Opening Round unbeaten. Philippines stunned South Korea 7-3 to advance. Super Round now set: Japan, China, Chinese Taipei, Philippines. Finals Oct. 3. LA28 qualification stakes.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Super Round results as they happen (Oct. 1-2)
+  - Japan vs. China head-to-head matchup
+  - Finals Oct. 3 — gold medal match recap
+
+### Story 2: Texas Longhorns Fall Opener — Torres + Kavan Debut Tomorrow
+- **Date:** 2026-09-28
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Murray State game tomorrow (Sept. 29) is first time Torres (.530 BA, 2026 national POY from FSU) and Kavan (2x WCWS MOP, only ever) play together. Three-peat bid vs. UCLA 1988-90 and OU 2021-23. McCombs Field, 6 PM CT, free.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sept. 29 opener result — Torres/Kavan first impressions
+  - Full Texas fall schedule results
+  - Three-peat narrative through spring
+
+### Story 3: Nebraska Big Ten Fall Ball — Bahl + Transfers Impress
+- **Date:** 2026-09-28
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Nebraska 43-15 in 2026, lost 1-0 to Tennessee in Super Regional final. Bahl (senior), Coor (OU transfer), Farrell (UNLV transfer) opened 5-0 vs. Colorado State. All three contributed.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Nebraska fall schedule results through November
+  - Big Ten fall ball impressions from Michigan, Ohio State, Northwestern
+
+### Story 4: Oklahoma Softball Rebuild — Gasso Adds Berzon, Addresses Portal
+- **Date:** 2026-09-28
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** OU lost Milloy, Berkley/Riley Zache to portal. Gasso adds Sydney Berzon (LSU, 2x NFCA AA) and Macie Harter (Mid Tennessee, .346 BA, 7 HR). Gasso: "We don't need a lot." Fall ball will show integration.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Additional OU portal moves (pitcher/infielder expected)
+  - Berzon's first fall action in crimson and cream
+
+### Story 5: Tennessee Fall Ball — Lady Vols Rolling Through October
+- **Date:** 2026-09-28
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** After Walters State (Sept 25) and Lipscomb (Sept 27), Lady Vols host Carson-Newman Oct. 2. Mardjetko (16-3, 1.26 ERA, 171K) and Nuwer (15-1, 1.01 ERA) racking up fall reps. Nine starters returning.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Oct. 2 Carson-Newman result
+  - Full fall schedule through November
+  - Mardjetko/Nuwer stat lines in fall action
+
+---
+
 ## 2026-09-26
 
 ### Story 1: Asian Games Women's Softball — Day 1 Opens in Anjō, Japan

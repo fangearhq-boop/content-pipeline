@@ -1,0 +1,237 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-28",
+  "compiled_at": "2026-09-28T10:19:22.280284+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Asian Games Softball — Super Round Begins with Japan, China, Chinese Taipei, Philippines",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Asian Games softball Super Round is set.\n\nJapan and China swept the Opening Round unbeaten. Chinese Taipei and Philippines join them.\n\nSouth Korea is out — eliminated by the Philippines 7-3.\n\nFinals: Oct. 3. LA28 qualification on the line. #Softball #AsianGames2026",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball",
+            "#AsianGames2026"
+          ],
+          "char_count": 265
+        },
+        {
+          "label": "Post 1-2",
+          "text": "China beat South Korea 8-4 with THREE home runs in the Asian Games Opening Round.\n\nJapan and China are undefeated. They'll face each other in the Super Round.\n\nThis is the most competitive women's softball field in Asia in years. LA28 is watching. #Softball #AsianGames",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball",
+            "#AsianGames"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-asian-games-softball-super-round-japan-china-philippines-taipei.html",
+        "headline": "Asian Games Softball Super Round Set — Japan and China Unbeaten as Philippines Stun South Korea",
+        "word_count": 711
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Asian Games Softball — Super Round\n\n#### Image Concept 1A — Social (1080x1350)\n- **Mode:** gemini/complete\n- **Scene:** Four national flags (Japan, China, Chinese Taipei, Philippines) arranged around a softball diamond graphic. Text overlay: \"SUPER ROUND / 2026 ASIAN GAMES SOFTBALL\" in bold white sans-serif. Background: deep navy blue with subtle Aichi prefecture imagery.\n- **Mood:** Epic, international, high-stakes\n- **Lighting:** Bright stadium floodlights\n\n#### Image Concept 1B — Article Hero (1200x630)\n- **Mode:** gemini/complete\n- **Scene:** Wide-angle view of Anjō Sports Park from center field looking toward home plate, stadium lights on, text \"2026 ASIAN GAMES / SUPER ROUND BEGINS\" overlaid in white. Four-team graphic at bottom.\n- **Mood:** Grand, atmospheric, championship\n- **Lighting:** Stadium flood lighting at dusk\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Texas Longhorns — Torres + Kavan Fall Debut Is Tomorrow vs. Murray State",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Tomorrow at McCombs Field:\n\nFor the first time ever, Isa Torres (.530 BA, 2026 national POY) and Teagan Kavan (2x WCWS MOP — the only player ever) will play on the same team.\n\nMurray State. 6 PM CT. Free admission.\n\nThe three-peat starts tomorrow. #HookEm #CollegeSoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#CollegeSoftball"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-texas-longhorns-torres-kavan-murray-state-fall-opener.html",
+        "headline": "Torres and Kavan Together for the First Time — Texas Opens Fall Ball Tuesday Against Murray State",
+        "word_count": 548
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Longhorns — Murray State Tomorrow\n\n#### Image Concept 2A — Social (1080x1350)\n- **Mode:** gemini/complete\n- **Scene:** Burnt orange background with bold white text: \"TOMORROW / THE THREE-PEAT BID BEGINS\" — Texas longhorn silhouette above. Below: \"Torres × Kavan / McCombs Field / Sept. 29\" in clean sans-serif.\n- **Mood:** Championship anticipation, bold graphic\n\n#### Image Concept 2B — Article Hero (1200x630)\n- **Mode:** imagn\n- **Search term:** \"Teagan Kavan Texas Longhorns softball\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Big Ten Fall Ball — Nebraska's Bahl, Coor, Farrell Impress in Early Action",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Nebraska came within one run of Omaha in 2026. Not this spring.\n\nThis fall: Bahl (senior), Coor (OU transfer), Farrell (UNLV transfer).\n\nFirst game vs. Colorado State: 5-0. All three contributed.\n\nThe Cornhuskers are ready. #Huskers #CollegeSoftball",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers",
+            "#CollegeSoftball"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-nebraska-big-ten-fall-ball-bahl-coor-farrell.html",
+        "headline": "Nebraska Hits the Ground Running in Fall Ball — Bahl, Coor, and Farrell Make a Strong Early Statement",
+        "word_count": 534
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Big Ten Fall Ball — Nebraska\n\n#### Image Concept 3A — Social (1080x1350)\n- **Mode:** imagn\n- **Search term:** \"Jordy Bahl Nebraska\"\n- **Credit:** (USA TODAY Sports Images)\n- **Caption overlay:** \"SENIOR SEASON / Bahl Is Back\"\n\n#### Image Concept 3B — Article Hero (1200x630)\n- **Mode:** imagn\n- **Search term:** \"Nebraska Cornhuskers softball\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Oklahoma Rebuild — Gasso Lands Berzon (LSU), Addresses Transfer Portal Future",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Oklahoma adds 2x NFCA All-American Sydney Berzon (LSU). One year of eligibility.\n\nThey lost Milloy, Berkley Zache, Riley Zache to the portal.\n\nGasso: \"We don't need a lot, don't need much at all.\"\n\nOU isn't done. #Sooners #Softball",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#Softball"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-oklahoma-softball-gasso-berzon-portal-rebuild.html",
+        "headline": "Gasso Lands 2x NFCA All-American Sydney Berzon — Oklahoma's Transfer Portal Rebuild Takes Shape",
+        "word_count": 563
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Oklahoma Softball — Berzon Commits\n\n#### Image Concept 4A — Social (1080x1350)\n- **Mode:** gemini/complete\n- **Scene:** Crimson and cream graphic with bold text: \"PORTAL WIN / OU ADDS 2x NFCA ALL-AMERICAN\" — Sydney Berzon's former LSU number in background. Bottom: \"Gasso is not done.\" Clean editorial look.\n- **Mood:** Confident, rebuilding, program pride\n\n#### Image Concept 4B — Article Hero (1200x630)\n- **Mode:** imagn\n- **Search term:** \"Patty Gasso Oklahoma softball\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Tennessee Fall Schedule — Lady Vols Rolling With Mardjetko, Nuwer Through October",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Tennessee fall ball update:\n\n✅ Sept. 25 — Walters State\n✅ Sept. 27 — Lipscomb\n📅 Oct. 2 — Carson-Newman\n\nMardjetko (16-3, 1.26 ERA) and Nuwer (15-1, 1.01 ERA) are back in game mode.\n\nNine starters returning. The Lady Vols are dialed in. #LadyVols #Softball",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LadyVols",
+            "#Softball"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-tennessee-lady-vols-fall-ball-mardjetko-nuwer-october.html",
+        "headline": "Tennessee Fall Ball Is Rolling — Mardjetko, Nuwer, and Nine Starters Building Toward 2027",
+        "word_count": 481
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tennessee Fall Ball\n\n#### Image Concept 5A — Social (1080x1350)\n- **Mode:** imagn\n- **Search term:** \"Sage Mardjetko Tennessee\"\n- **Credit:** (USA TODAY Sports Images)\n- **Caption overlay:** \"SHARP IN OCTOBER / Lady Vols Fall Ball Is Rolling\"\n\n#### Image Concept 5B — Article Hero (1200x630)\n- **Mode:** imagn\n- **Search term:** \"Tennessee Lady Volunteers softball Sherri Parker Lee\"\n- **Credit:** (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
