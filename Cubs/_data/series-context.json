@@ -1,42 +1,9 @@
 {
-  "generated_at": "2026-09-27T08:30:00.317314+00:00",
-  "today_ct": "2026-09-27",
-  "off_day": false,
-  "is_series_start_today": true,
-  "series": {
-    "opponent": "Boston Red Sox",
-    "opponent_id": 111,
-    "opponent_record": "87-74",
-    "cubs_record": "88-73",
-    "is_cubs_home": false,
-    "venue": "Tropicana Field",
-    "series_length": 1,
-    "games": [
-      {
-        "game_pk": "824705",
-        "game_date_iso": "2026-09-27T19:05:00Z",
-        "game_date_ct": "Sun 2:05 PM CT",
-        "cubs_probable": "TBD",
-        "opponent_probable": "TBD",
-        "status": "Preview"
-      }
-    ],
-    "rationale": "Off day yesterday. Today: Cubs visit Boston Red Sox \u2192 game 1 of 1."
-  },
-  "today_cubs_game": {
-    "game_pk": "824705",
-    "status": "Preview",
-    "detailed_status": "Scheduled",
-    "game_date_iso": "2026-09-27T19:05:00Z",
-    "game_date_ct": "Sun 2:05 PM CT",
-    "is_cubs_home": false,
-    "opponent_id": 111,
-    "opponent_name": "Boston Red Sox",
-    "opponent_record": "87-74",
-    "cubs_record": "88-73",
-    "cubs_probable": "TBD",
-    "opponent_probable": "TBD",
-    "venue": "Tropicana Field"
-  },
-  "rationale": "Off day yesterday. Today: Cubs visit Boston Red Sox \u2192 game 1 of 1."
+  "generated_at": "2026-09-28T08:30:00.174437+00:00",
+  "today_ct": "2026-09-28",
+  "off_day": true,
+  "is_series_start_today": false,
+  "series": null,
+  "today_cubs_game": null,
+  "rationale": "No upcoming Cubs game on today's CT calendar date."
 }
