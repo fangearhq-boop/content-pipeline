@@ -2,6 +2,48 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-28
+
+### STORY 1: NBA Media Day 2026 — 25 Teams Hit the Stage
+- **Tier:** 1
+- **Category:** NBA / Media Day / Training Camp / Cooper Flagg / Kevin Durant
+- **Key facts:** 25 teams held media day Sept. 28 (Rockets Sept. 22, Mavs Sept. 25 ahead of China Games); Cooper Flagg confirmed height 6'10" (up from 6'9"); Durant "this team is scary" quote; Durant dodged extension questions; training camps open Sept. 29; 76ers media day tomorrow (LeBron first appearance as Sixer)
+- **Byline:** Jake Torres
+- **Status:** NEW
+- **Follow-up ideas:** Training camp reports, preseason game previews, Durant extension decision
+
+### STORY 2: Duren Deadline — 3 Days, Weight Clause Sticking Point
+- **Tier:** 1
+- **Category:** Detroit Pistons / Jalen Duren / Contract / Rose Rule
+- **Key facts:** Oct. 1 deadline 3 days away; Pistons $200M offer includes weight clause (Duren's camp objects); Rose Rule value ~$287M (gap: $87M); QO value $9.6M; accepting QO = UFA 2027; deadline extendable to March 1; age 22; first All-Star, third-team All-NBA; 19.5 pts, 10.5 reb
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Oct. 1 outcome (accept/reject/extend), March 1 hard deadline
+
+### STORY 3: Knicks Banner Night — 22 Days, LeBron Sixers Debut Set
+- **Tier:** 1
+- **Category:** New York Knicks / Opening Night / Banner Ceremony / LeBron James / Philadelphia 76ers
+- **Key facts:** Oct. 20 opening night; ceremony 6:30 PM ET, tip-off 7 PM NBC/Peacock; first Knicks banner since 1973 (53 years); secondary market avg $2,560, get-in $1,000+; 76ers have LeBron (41), Brown, Embiid, Maxey; Knicks swept Philly 4-0 in 2025-26 playoffs
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Media day quotes from both sides, ticket demand updates, training camp previews
+
+### STORY 4: Giannis and the Heat — Training Camp Opens Tomorrow
+- **Tier:** 2
+- **Category:** Miami Heat / Giannis Antetokounmpo / Bam Adebayo / Erik Spoelstra
+- **Key facts:** Official camp opens Sept. 29; Giannis skipped FIBA qualifiers for early California minicamp; additions: Klay Thompson, Bobby Portis, Tim Hardaway Jr., Andrew Wiggins; 21-man roster set; first preseason Oct. 3; Giannis-Bam frontcourt untested in real games
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** First practice report, Giannis-Spoelstra quotes, preseason debut Oct. 3
+
+### STORY 5: 76ers Media Day Tomorrow — LeBron's First Look as a Sixer
+- **Tier:** 2
+- **Category:** Philadelphia 76ers / LeBron James / Jaylen Brown / Joel Embiid / Nick Nurse
+- **Key facts:** 76ers media day Sept. 29; first time LeBron/Brown in Philly uniforms publicly; LeBron podcast quotes: Embiid title quest, Maxey friendship, Brown "misunderstood"; no introductory presser; Nick Nurse first public comments on roster; Eastern Conference implications
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** Media day coverage, training camp first practice, LeBron-Embiid chemistry reports
+
 ## 2026-09-27
 
 ### STORY 1: LeBron "Bunker Mentality" — 76ers Media Day in 2 Days
