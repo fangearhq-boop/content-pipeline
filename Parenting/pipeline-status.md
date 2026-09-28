@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-09-26
+## Current Run: 2026-09-28
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Mikario Trading 5-in-1 Baby Gym recall (CPSC, pink units, Item CBPBG-PIN, ~$50, TikTok Shop May–Oct 2025, suffocation risk, mikariorecall@gmail.com, 209-232-8655, cpsc.gov); D20 leadership changes (Amy Shandy resigned Aug 2026, family moved out of state; Susan Payne assumed board president; superintendent parted May 2026; sources: Gazette, KOAA, KRDO); Venetucci Farm Pumpkin Fest 2026 (90th anniversary, Oct 1–29 Fri–Sun, $5 admission, kids 6 under free, $10 pumpkins, venetuccifarm.org); AAP 2026-27 flu vaccine guidance (2-dose requirement for children 6mo–8yr in specific groups, by end of October, healthychildren.org); Colorado Springs FamilyFest Oct 10 (noon–5 PM, 4845 List Drive, free kids 12 under, ExpoPros, theexpopros.com) |
+| Story History Check | COMPLETE | All 5 stories NEW; Mikario differs from SHEIN/5Color/HALO recalls on prior days; D20 superintendent covered May 2026 but today's angle is board president + fall start context; Venetucci covered in prior Gather/fall events roundups but 90th anniversary pumpkin fest itself not covered; AAP flu vaccine new (AAP COVID guidance Sep 25 was different guideline); FamilyFest not covered before |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 Tier 1, 4 Tier 2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: cpsc.gov, gazette.com, koaa.com, krdo.com, fox21news.com, venetuccifarm.org, coloradosprings.macaronikid.com, healthychildren.org, contemporarypediatrics.com, theexpopros.com, springseventhub.com |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts across 5 stories (2 for T1, 1 each for T2); all ≤280 chars; 4 hashtags each; max 1 emoji per post; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Mikario recall (Jamie Rivera, T1, QR table); article-02 D20 leadership (Sarah Morales, T2); article-03 Venetucci Pumpkin Fest (Jamie Rivera, T2, QR table); article-04 AAP flu vaccine (Sarah Morales, T2, QR table); article-05 FamilyFest (Jamie Rivera, T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 55 claims; MISSING STORY warnings cosmetic (parser header mismatch, known); image manifest OK |
+| Compile Content Data | COMPLETE (partial) | 07-content-data.json — 5 stories, 0 X posts (known parser compat), 0 FB posts (known parser compat), 5 articles |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries across 5 stories, all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 10 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — ran both standard and --tobi |
+| WordPress Publish | BLOCKED | WP credentials blocked by auto mode classifier (known recurring issue) |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Sep 28 section) |
+
+- **Stories:** 5 stories (1 Tier 1, 4 Tier 2)
+- **Posts:** 6 X posts + 5 FB long-form + 5 FB captions = 16 total
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Mikario 5-in-1 Baby Gym recall (CPSC, pink TikTok Shop units, suffocation risk, mikariorecall@gmail.com); D20 board president Amy Shandy resigned, Susan Payne assumed role; Venetucci Farm 90th anniversary Pumpkin Fest Oct 1–29; AAP 2026-27 flu guidance (2 doses for kids 6mo–8yr in specific groups, by end of October); FamilyFest Oct 10 free kids 12 under (4845 List Drive, ExpoPros)
+- **Issues:** PostPlanner 0 posts (known); WordPress blocked (known); dashboard push 403 proxy (known)
+
+---
+
+## Previous Run: 2026-09-26
 
 | Step | Status | Notes |
 |------|--------|-------|

@@ -2,6 +2,50 @@
 
 ---
 
+## September 28, 2026
+
+### Story 1: Mikario Trading 5-in-1 Baby Gym Recall — Suffocation Hazard, TikTok Shop
+- **Date:** 2026-09-28
+- **Tier:** T1
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** CPSC recall 2026; Mikario Trading 5-in-1 Convertible Baby Gym; pink units only; Item No. CBPBG-PIN; ~$50; sold TikTok Shop exclusively May–Oct 2025; floor mat can obstruct infant breathing; violates mandatory standard for infant support cushions (suffocation risk); stop use, cut mat in half, photograph, contact mikariorecall@gmail.com or 209-232-8655 (Mon–Fri, 7 a.m.–1 p.m. ET) for full refund
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 2: D20 Leadership Changes — Shandy Resigns, Payne Assumes Board President Role
+- **Date:** 2026-09-28
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** Amy Shandy resigned as D20 board president August 2026; family relocated out of Colorado for husband's job; last board meeting September 3, 2026; Vice President Susan Payne assumed board president role; board also voted to part ways with superintendent May 2026; D20 has 26 schools; schools operating normally; no impact on instruction
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 3: Venetucci Farm Pumpkin Fest 2026 — 90th Anniversary Season Opens Oct 1
+- **Date:** 2026-09-28
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Venetucci Farm 5210 S. US-85-87 COS CO 80911; 90th anniversary season; Fri–Sun Oct 1–29, 2026; 10 a.m.–4 p.m.; $5/person children 6 under FREE; $10 pumpkins any size; pumpkin patch, hayrides, scarecrow trail, games, concessions, fall photos; Sat/Sun: craft fair in barn, farm animals; Oct 10–11 Great Pumpkin Weekend; Oct 17–18 Scarecrows and Flannel; Oct 30–31 Costume Party and Pup-Kin Fest (trick-or-treating kids and dogs); source: venetuccifarm.org
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 4: AAP 2026-27 Flu Vaccine Guidance — Some Kids 6 Months–8 Years Need Two Doses
+- **Date:** 2026-09-28
+- **Tier:** T2
+- **Pillar:** National Parenting (Health)
+- **Key Facts:** AAP 2026-27 flu guidance; children 6 months–8 years need 2 doses if: first-time flu vaccine recipient, OR received only 1 dose before July 1, 2026, OR vaccine history unknown; doses at least 4 weeks apart; both doses ideally by end of October; same brand/formulation NOT required; all 2026-27 US flu vaccines trivalent updated compositions; no preference between egg-based, cell culture, recombinant, or LAIV; distinct from AAP COVID vaccine guidance (Sep 25); sources: healthychildren.org, contemporarypediatrics.com
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 5: Colorado Springs FamilyFest Oct 10 — Free for Kids 12 and Under
+- **Date:** 2026-09-28
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** FamilyFest Sat Oct 10, 2026; noon–5 PM; 4845 List Drive Colorado Springs; free for all children 12 and under; organizer ExpoPros; specific activities not publicly confirmed as of publication; source: theexpopros.com, springseventhub.com
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+---
+
 ## September 25, 2026
 
 ### Story 1: 5Color Bicycle Helmet Recall — Size Small, 324 Units
