@@ -1,6 +1,37 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-09-26
+## Current Run: 2026-09-28
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Laver Cup final Europe 13-5 (lavercup.com/atptour/skysports/yahoo); Singapore Final Fernandez d. Gibson 7-5, 6-0 (wtatennis.com/wikipedia); China Open draw released (atptour.com/wtatennis.com/tennis365.com/tennistemple.com): ATP Zverev(1)/FAA(2)/Medvedev(3)/Djokovic(6); WTA Rybakina(1)/Sabalenka(2)/Pegula(3)/Gauff(4); Hangzhou final set Medvedev vs Jacquet (tennisnow.com/lastwordonsports.com); Chengdu final set Hurkacz vs Shapovalov (atptour.com/lastwordonsports.com) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Sep 26 S1: Day 2 → Day 3 final, Europe wins); S2 FOLLOW-UP (Sep 26 S2: Prozorova controversy/Gibson to final → Fernandez wins title); S3 FOLLOW-UP (Sep 26 S5: China Open preview → draw released today); S4 FOLLOW-UP (Sep 26 S3: Hangzhou QF → SF results, final set); S5 FOLLOW-UP (Sep 26 S4: Chengdu QF upsets → SF results, final set) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); bylines: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: lavercup.com, atptour.com, skysports.com, sports.yahoo.com, wtatennis.com, wikipedia.org, tennis365.com, tennistemple.com, tennisnow.com, lastwordonsports.com, si.com |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars verified |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories (social + article hero) |
+| Articles (5) | COMPLETE | article-01 Laver Cup final (Ryan Calloway T1); article-02 Singapore Final Fernandez (Elena Voss T1); article-03 China Open draw (Marcus Cole T1); article-04 Hangzhou final preview (Ryan Calloway T2); article-05 Chengdu final preview (Elena Voss T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated; 27 claims; image manifest warnings cosmetic (imagn, known) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 0 FB posts (known parser issue), 5 articles; posting-window warnings cosmetic (known) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries across 5 stories, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 23 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser issue — ran both standard and --tobi |
+| WordPress Publish | BLOCKED | credential classifier + proxy (known recurring issue) |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Sep 28 section) |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Laver Cup Final — Europe 13-5 at The O2, Zverev clinches 4th career Cup (Day 3: Cobolli/Menšík d. Fritz/de Minaur 7-5, 6-3; Zverev d. Tien 7-6(3), 6-3); Singapore Final — Fernandez d. Gibson 7-5, 6-0 for 6th career title; China Open draw (Sep 30 start) — Zverev(1)/Djokovic(6) potential QF, Rybakina enters as WTA No. 1 seed; Hangzhou final Mon — Medvedev vs Jacquet (outside top 100); Chengdu final Mon — Hurkacz vs Shapovalov (Vacherot/Tabilo both out in QF)
+- **Issues:** WordPress credential classifier blocked; dashboard push 403 proxy; PostPlanner 0 posts (known)
+
+---
+
+## Previous Run: 2026-09-26
 
 | Step | Status | Notes |
 |------|--------|-------|

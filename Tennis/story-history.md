@@ -2,6 +2,14 @@
 
 Track previously covered stories to avoid repetition and maintain content freshness.
 
+## September 28, 2026
+
+| 2026-09-28 | Laver Cup 2026 Final — Team Europe wins 13-5 at The O2 London. Day 3 (Sep 27): Cobolli/Menšík (EUR) d. Fritz/de Minaur (WLD) 7-5, 6-3 (doubles, 3 pts); Zverev (EUR) d. Tien (WLD) 7-6(3), 6-3 (clincher, 3 pts). Final score Europe 13–World 5. Zverev's 4th career Laver Cup clinch (2018/2019/2021/2026). Europe all-time 9-1. Sources: lavercup.com, atptour.com, skysports.com, sports.yahoo.com. | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Sep 26 S1: Day 2 → Day 3 final result) |
+| 2026-09-28 | WTA Singapore Open Final — Fernandez (CAN) d. Gibson (AUS) 7-5, 6-0 for 6th career WTA title, 2nd at 500 level. Tournament: Sep 21-27 OCBC Arena. Doubles final: Routliffe/Sutjiadi d. Tang/Xu 6-3, 6-2. Sources: wtatennis.com, wikipedia.org. | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Sep 26 S2: Prozorova controversy/Gibson to final → FINAL RESULT) |
+| 2026-09-28 | China Open draw released. ATP 500: Zverev (1) vs Norrie R1; Djokovic (6) vs Borges R1; Zverev/Djokovic potential QF. FAA (2), Medvedev (3) also seeded. Sinner absent (knee). Djokovic 29-0 all-time Beijing, 6 titles, first return in 11 years. WTA 1000: Rybakina (1, new WTA No. 1), Sabalenka (2), Pegula (3), Gauff (4), Andreeva (5); Rybakina/Sabalenka potential SF. Starts Sep 30. Sources: atptour.com, wtatennis.com, tennis365.com, tennistemple.com. | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Sep 26 S5: China Open preview → draw released) |
+| 2026-09-28 | Hangzhou Open final set — Medvedev (No. 1) vs Jacquet (FRA, outside top 100 entering week). Medvedev d. Coleman Wong in SF. Jacquet advanced from R16 win over Etcheverry (No. 3). Final Monday Sep 29. Prize $1,039,090, hard court. Sources: atptour.com, tennisnow.com, lastwordonsports.com. | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Sep 26 S3: Hangzhou QF → SF results, final set) |
+| 2026-09-28 | Chengdu Open final set — Hurkacz (POL) vs Shapovalov (CAN). SF results: Shapovalov d. Mannarino 6-7(6), 6-3, 6-2; Hurkacz d. Harris 7-6(10), 6-4. Final Monday Sep 29. No. 1 seed Vacherot + defending champ Tabilo both out in QF. Sources: atptour.com, lastwordonsports.com. | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Sep 26 S4: Chengdu QF upsets → SF results, final set) |
+
 ## September 25, 2026
 
 | 2026-09-25 | Laver Cup 2026 Day 1 underway at The O2 London. Day session (1 PM): Ruud (EUR) vs Cerúndolo (World) rematch of 2024 opener; Menšík (EUR) vs Nakashima (World). Night session (7 PM): debutants Jódar vs Bublik; doubles Alcaraz/Menšík (EUR) vs Fritz/Bublik (World). Day 1 pts = 1 each. Europe 8-1 all-time, World defending (15-9, SF 2025). Sources: lavercup.com, atptour.com, skysports.com, tennis365.com, ubitennis.net. | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Sep 24 S1: lineup confirmed → Day 1 in progress) |
