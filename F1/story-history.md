@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-09-28
+
+### STORY 1: Colapinto 5-Place Penalty — Norris Demands Race Ban
+- **Tier:** 1
+- **Category:** F1 / Colapinto / Norris / Baku Crash / Penalty / Malaysia GP
+- **Key facts:** Lap 36 restart crash; Colapinto locked up T1, hit Gasly who collected Norris; both retired; Colapinto also retired; 10s penalty converted to 5-place grid penalty for Malaysia GP; Norris: "If you cause a crash on a restart like this, you should have at least a one-race ban"; Russell: ban too harsh; Alpine reviewing "course of action" on Colapinto's seat; Norris first retirement since Monaco June
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: Antonelli Singapore Math — 66 Points Clear, Title Could Come at Marina Bay
+- **Tier:** 1
+- **Category:** F1 / Kimi Antonelli / Championship / Singapore GP / Title Race
+- **Key facts:** Antonelli 302 pts; Russell 236 pts; gap 66 pts; Singapore Oct 9-11 first realistic clinch window; Singapore first Sprint format; Sprint adds 8 pts; scenario: Antonelli wins Sprint + race, Russell outside points = title; youngest champion if clinched Oct 11 — 20y2m8d; breaks Vettel 2010 record by ~3 years; Antonelli started P16 at Baku after qualifying crash, recovered to P5
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
+### STORY 3: Malaysia GP Preview — Sepang Returns to F1 After Nine Years
+- **Tier:** 1
+- **Category:** F1 / Malaysia Grand Prix / Sepang / Bahrain GP / Preview
+- **Key facts:** Official name 2026 Bahrain Grand Prix at Sepang; Oct 2-4 2026; 5.543km, 15 corners, 56 laps; first F1 race at Sepang since 2017 (9-year gap); race start 15:00 local / 08:00 BST / 03:00 ET; Colapinto 5-place penalty; Verstappen P2 at Baku, hunting win
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 4: Mercedes Constructors at 538 — The Team Title Is Nearly Done
+- **Tier:** 2
+- **Category:** F1 / Mercedes / Constructors Championship / Ferrari
+- **Key facts:** Mercedes 538, Ferrari 378, McLaren 306; Mercedes leads Ferrari by 160 pts; 9 rounds remaining, ~459 pts available; Russell-Antonelli 1-5 at Baku gave Mercedes 35 pts; Ferrari scored 20 pts at Baku; gap grew 15 pts in one weekend
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: Russell's Third Win — Can He Actually Chase Down Antonelli?
+- **Tier:** 2
+- **Category:** F1 / George Russell / Mercedes / Championship Chase
+- **Key facts:** Russell 3rd win of 2026 at Baku; held off Verstappen by 0.196s; gap cut from 81 (after Spain) to 66 (after Baku); 9 rounds remaining, 459 pts available; Russell: "I'm not giving up. The gap is 66 and there are 459 points left. It's not over."
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
 ## 2026-09-27
 
 ### STORY 1: Russell Wins Baku — Antonelli Lead Cut to 66 Points

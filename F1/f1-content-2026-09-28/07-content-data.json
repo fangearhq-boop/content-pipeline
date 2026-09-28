@@ -1,0 +1,272 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-28",
+  "compiled_at": "2026-09-28T11:49:56.403926+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Colapinto 5-Place Penalty — Norris Demands Race Ban",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Franco Colapinto gets a 5-place grid penalty for the Malaysia GP after his restart crash at Baku that took out Norris and Gasly on Lap 36.\n\nNorris: \"If you cause a crash on a restart like this, you should have at least a one-race ban.\"\n\nAlpine is reviewing its \"course of action.\"",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 280
+        },
+        {
+          "label": "Post 1B",
+          "text": "George Russell on whether Colapinto deserved a race ban after Baku:\n\n\"I think a race ban would have been too harsh.\"\n\nLando Norris disagrees. Alpine is still deciding what happens next to Colapinto's seat.",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-colapinto-penalty-norris-ban-malaysia-gp.html",
+        "headline": "Colapinto Gets 5-Place Penalty for Malaysia GP After Wrecking Norris and Gasly at Baku",
+        "word_count": 566
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Colapinto 5-Place Penalty — Norris Demands Race Ban\n\n**Featured image concept:**\nFranco Colapinto's Alpine car at the moment of the Lap 36 restart crash at the 2026 Azerbaijan Grand Prix, or Colapinto walking away from the incident at Baku City Circuit. Secondary option: Lando Norris in the McLaren paddock delivering his post-race comments.\n\n**Social image concept:**\nSide-by-side or split: Colapinto's Alpine (car number 43) and the aftermath of the Turn 1 collision that eliminated both Norris and Gasly. Text overlay: \"5-PLACE PENALTY — MALAYSIA GP.\"\n\n**Photo source:** Imagn Images\n**Keywords:** Franco Colapinto, Alpine, Baku 2026, restart crash, Azerbaijan Grand Prix\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Colapinto 5-Place Penalty — Norris Demands Race Ban\n**Decision:** FOLLOW UP (Baku race Sept. 27)\n**Sources:**\n- formula1.com: \"Colapinto hit with five-place grid penalty for Bahrain GP in Malaysia after Baku collision\" — https://www.formula1.com/en/latest/article/colapinto-hit-with-five-place-grid-penalty-for-bahrain-gp-in-malaysia-after-baku-collision.3gWVfzDMMr5hReiwTt1fPD\n- RACER: \"Norris calls for Colapinto ban after Baku restart crash\" — https://racer.com/2026/09/26/norris-calls-for-colapinto-ban-after-baku-restart-crash\n- ESPN: \"Lando Norris: Drivers should have 'one-race ban' after collision with Franco Colapinto at Azerbaijan GP\" — https://www.espn.com/f1/story/_/id/50011930/lando-norris-takes-aim-franco-colapinto-collision-azerbaijan-grand-prix-some-drivers-formula-1-baku\n- formula1.com: \"Alpine to decide on 'what course of action should be taken' after Franco Colapinto crash\" — https://www.formula1.com/en/latest/article/alpine-to-decide-on-what-course-of-action-should-be-taken-after-colapinto-crash.6GV9ft3KgsH5blrcwnCKqT\n- grande prêmio: \"Colapinto handed grid penalty after causing Baku F1 pile-up\" — https://grandepremio.com/en/f1/colapinto-handed-grid-penalty-after-causing-baku-crash-that-eliminated-norris-and-gasly/\n**Key Facts [HIGH confidence — multiple sources]:**\n- Lap 36 restart: Colapinto locked up under braking at Turn 1, hit Gasly, who collected Norris\n- Both Gasly and Norris retired on the spot\n- Penalty: 10-second time penalty converted to 5-place grid penalty for Malaysia GP\n- Norris quote: \"If you cause a crash on a restart like this, you should have at least a one-race ban\"\n- Russell quote: ban would have been too harsh\n- Alpine: \"deciding what course of action should be taken\" regarding Colapinto\n- Norris's first retirement since Monaco GP in early June\n**Freshness:** Penalty issued Sept. 27-28; Norris comments from paddock. HIGH freshness.\n**Why it matters:** Alpine seat controversy + championship implications (Norris lost points he needed).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Antonelli Singapore Math — 66 Points Clear, Title Could Come at Marina Bay",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "Kimi Antonelli can clinch the 2026 F1 title at Singapore on October 11.\n\nThe scenario: win the Sprint, win the race, Russell finishes outside the points.\n\nIf it happens, he'd be the youngest champion in F1 history. He's 20 years old.",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 233
+        },
+        {
+          "label": "Post 2B",
+          "text": "F1 standings after Baku:\n\nAntonelli: 302 pts\nRussell: 236 pts\nGap: 66 pts\nRounds left: 9\n\nFirst clinch window: Singapore, Oct 9-11. Singapore also runs its first-ever Sprint this year.",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 184
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-antonelli-singapore-title-math.html",
+        "headline": "Kimi Antonelli Can Clinch the 2026 F1 Title at Singapore -- Here's the Math",
+        "word_count": 578
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Singapore Math — 66 Points Clear\n\n**Featured image concept:**\nKimi Antonelli in his Mercedes cockpit or celebrating at the Azerbaijan GP. If Baku celebration not available, use a victory or podium shot from earlier in 2026.\n\n**Social image concept:**\nGraphic with standings visual — Antonelli 302, Russell 236, gap 66. F1 Fanrecap branding. City skyline of Marina Bay in background to signal Singapore target.\n\n**Photo source:** Imagn Images\n**Keywords:** Kimi Antonelli, Mercedes, 2026 F1 championship, Baku recovery, Singapore\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Singapore Math — 66 Points Clear\n**Decision:** FOLLOW UP (updated standings post-Baku)\n**Sources:**\n- PlanetF1: \"Kimi Antonelli title permutations: When can he become F1 World Champion?\" — https://www.planetf1.com/facts-stats/kimi-antonelli-f1-2026-championship-title-win-points\n- RacingNews365: \"When can Kimi Antonelli win the 2026 F1 drivers' world championship?\" — https://racingnews365.com/when-can-kimi-antonelli-win-the-2026-f1-drivers-world-championship\n- Yahoo Sports: \"Here's when Kimi Antonelli can clinch the 2026 F1 world championship\" — https://sports.yahoo.com/articles/heres-kimi-antonelli-clinch-2026-103300993.html\n- formula1.com: \"Points permutations: When is the earliest Antonelli could win?\" — https://www.formula1.com/en/latest/article/points-permutations-when-is-the-earliest-antonelli-could-win-the-world-championship.24UKT2fsQl4GmC5DMrmYUy\n**Key Facts [HIGH confidence — multiple sources]:**\n- Antonelli: 302 pts; Russell: 236 pts; gap: 66 pts\n- Hamilton 3rd on 199 pts; Norris 4th\n- Singapore GP Oct 9-11 is first realistic clinch window\n- Singapore first-ever Sprint format (adds 8 sprint points available)\n- Maximum available: ~459 points across remaining 9 rounds\n- If Antonelli wins Sprint + race, Russell finishes outside points = title clinched\n- Youngest potential champion: 20y2m8d (breaks Vettel's 2010 record by ~3 years)\n- Antonelli's Baku: qualified P16 (crash in qualifying), recovered to P5\n**Freshness:** Standings settled post-Baku. HIGH freshness.\n**Why it matters:** Championship chase, historic record, Singapore buildup.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Malaysia GP Preview — Sepang Returns to F1 After Nine Years",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "F1 returns to Sepang for the first time since 2017.\n\nThe Malaysia GP is October 2-4. Colapinto takes a 5-place penalty. Verstappen goes hunting after finishing 0.196s back at Baku.\n\nSepang: 5.543km, 15 corners, 56 laps.",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 219
+        },
+        {
+          "label": "Post 3B",
+          "text": "Nine years.\n\nThat's how long it's been since F1 last raced at Sepang International Circuit.\n\nMalaysia is back on the calendar October 2-4 for the 2026 Bahrain Grand Prix -- one of F1's most iconic venues.",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-malaysia-gp-preview-sepang-returns.html",
+        "headline": "F1 Returns to Sepang for the First Time Since 2017 -- What to Know About the Malaysia GP",
+        "word_count": 545
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Malaysia GP Preview — Sepang Returns\n\n**Featured image concept:**\nAerial or trackside shot of Sepang International Circuit. Ideally from a previous Malaysian GP era (2015-2017) showing the full circuit layout or the main grandstand with tropical atmosphere.\n\n**Social image concept:**\nCircuit map or aerial of Sepang with text overlay: \"F1 RETURNS TO MALAYSIA — OCT 2-4.\" Include a car on the circuit if available.\n\n**Photo source:** Imagn Images\n**Keywords:** Sepang International Circuit, Malaysia GP, 2026 Bahrain Grand Prix, Sepang 2017\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Malaysia GP Preview — Sepang Returns After 9 Years\n**Decision:** NEW (first preview of Malaysia round)\n**Sources:**\n- formula1.com: \"Formula 1 and FIA confirm Malaysia will join 2026 calendar as host venue for Bahrain Grand Prix\" — https://www.formula1.com/en/latest/article/formula-1-and-fia-confirm-malaysia-will-join-2026-calendar-as-host-venue-for-bahrain-grand-prix.6lL7vjFEM2VVynRHvg1TCf\n- grande prêmio: \"When is the next F1 race after the 2026 Azerbaijan Grand Prix?\" — https://grandepremio.com/en/f1/when-is-the-next-f1-race-after-the-2026-azerbaijan-grand-prix-date-start-time-and-full-schedule/\n- formulaonehistory.com: \"2026 Bahrain Grand Prix in Malaysia\" — https://www.formulaonehistory.com/2026-bahrain-grand-prix-in-malaysia/\n**Key Facts [HIGH confidence — official sources]:**\n- Official name: 2026 Bahrain Grand Prix (hosted at Sepang, Malaysia)\n- Dates: Oct 2-4, 2026 (practice Fri, qualifying/practice Sat, race Sun)\n- Circuit: Sepang International Circuit, 5.543km, 15 corners, 56 laps\n- First F1 race at Sepang since 2017 (9-year gap)\n- Race start: 15:00 local / 08:00 BST / 03:00 ET\n- Colapinto: 5-place grid penalty applied at this race\n- Verstappen P2 at Baku, hunting a win\n**Freshness:** Race 6 days away. HIGH freshness.\n**Why it matters:** Next race on the calendar; historic return of Sepang; Colapinto penalty plays out.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Mercedes Constructors at 538 — The Team Title Is Nearly Done",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "After Baku:\n\nMercedes: 538 pts\nFerrari: 378 pts\nMcLaren: 306 pts\n\nMercedes leads Ferrari by 160 points with 9 rounds left. Ferrari would need to close 161 while Mercedes scores almost nothing.",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 192
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-mercedes-constructors-538.html",
+        "headline": "Mercedes Leads the 2026 Constructors' Championship by 160 Points -- This Is Nearly Over",
+        "word_count": 438
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Mercedes Constructors at 538\n\n**Featured image concept:**\nMercedes W17 in action at Baku, or Russell and Antonelli together celebrating the 1-5 finish. Alternatively, the full Mercedes garage/team celebration at Baku.\n\n**Social image concept:**\nStandings graphic: Mercedes 538, Ferrari 378, McLaren 306. Mercedes logo or Silver Arrows livery in frame. F1 Fanrecap branding.\n\n**Photo source:** Imagn Images\n**Keywords:** Mercedes AMG F1, constructors championship 2026, George Russell, Kimi Antonelli, Baku\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mercedes Constructors at 538\n**Decision:** FOLLOW UP (updated after Baku)\n**Sources:**\n- RacingNews365: \"2026 F1 championship standings after Azerbaijan Grand Prix at Baku\" — https://racingnews365.com/2026-f1-championship-standings-after-azerbaijan-grand-prix-at-baku\n- Scuderia Fans: \"2026 F1 team standings after Azerbaijan GP: Ferrari remains second\" — https://scuderiafans.com/2026-f1-team-standings-after-azerbaijan-gp-ferrari-remains-second/\n- total-motorsport.com: \"F1 2026 Championship Standings after Azerbaijan GP\" — https://www.total-motorsport.com/f1-2026-driver-team-standings-after-azerbaijan/\n**Key Facts [HIGH confidence — standings sources]:**\n- Mercedes: 538 pts (11 wins)\n- Ferrari: 378 pts\n- McLaren: 306 pts\n- Mercedes lead over Ferrari: 160 pts\n- Remaining rounds: ~9 (Malaysia, Singapore + more)\n- Russell-Antonelli 1-5 at Baku gave Mercedes 35 pts from the weekend\n- Ferrari (Leclerc + Hamilton) scored 20 pts at Baku\n**Freshness:** Post-Baku standings. HIGH freshness.\n**Why it matters:** Team title picture; Mercedes near to clinching.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Russell's Third Win — Can He Actually Chase Down Antonelli?",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "George Russell after winning at Baku and closing to 66 points behind Antonelli:\n\n\"I'm not giving up. The gap is 66 and there are 459 points left. It's not over.\"\n\nHe won. He closed the gap by 15 points. It still looks very steep.",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 229
+        },
+        {
+          "label": "Post 5B",
+          "text": "Baku takeaways:\n\n- Russell wins, closes to 66 back\n- Antonelli P5 from P16 after qualifying crash\n- Colapinto wrecks Norris and Gasly on restart\n- Mercedes 1-5, constructors gap now 160 over Ferrari\n- Sepang up next, Oct 2-4",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 224
+        },
+        {
+          "label": "Post 5C",
+          "text": "Malaysia GP weekend starts Friday.\n\nSepang last hosted F1 in 2017. Colapinto: 5-place penalty. Verstappen: wants a win. Antonelli: 66 points clear.\n\nThe 2026 Bahrain Grand Prix at Sepang, Oct 2-4.",
+          "posting_time": "9:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 196
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-russell-championship-chase.html",
+        "headline": "Russell Won at Baku and Cut the Gap to 66. Can He Actually Catch Antonelli?",
+        "word_count": 574
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Russell Championship Chase\n\n**Featured image concept:**\nGeorge Russell on the Baku podium or celebrating in the cockpit after crossing the line. P1 celebration shot preferred.\n\n**Social image concept:**\nRussell holding the winner's trophy at Baku. Text overlay: \"3RD WIN OF 2026 — 66 POINTS BACK.\" F1 Fanrecap branding.\n\n**Photo source:** Imagn Images\n**Keywords:** George Russell, Baku win, Azerbaijan Grand Prix 2026, championship chase, Mercedes\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Russell Championship Chase — 66 Points Back\n**Decision:** FOLLOW UP (Russell 3rd win narrative)\n**Sources:**\n- Sky Sports: \"Azerbaijan GP: George Russell holds off Max Verstappen for victory in thrilling Baku finale\" — https://www.skysports.com/f1/news/13591978/azerbaijan-gp-george-russell-holds-off-max-verstappen-for-victory-in-thrilling-baku-finale-as-kimi-antonelli-recovers-to-fifth\n- grande prêmio: \"Russell cuts Antonelli's F1 championship lead to 66 points with Baku win\" — https://grandepremio.com/en/f1/russell-cuts-antonellis-f1-championship-lead-to-66-points-with-baku-win/\n- GPFans: \"F1 Standings after the Azerbaijan Grand Prix: Antonelli lead cut as Hamilton suffers more misery\" — https://www.gpfans.com/en/f1-news/1090686/f1-standings-2026-latest-points-leaders-azerbaijan-grand-prix/\n**Key Facts [HIGH confidence — multiple sources]:**\n- Russell 3rd win of 2026 season at Baku\n- Gap cut from 81 pts (after Spain) to 66 pts (after Baku)\n- Russell quote: \"I'm not giving up. The gap is 66 and there are 459 points left. It's not over.\"\n- Russell held off Verstappen by 0.196s after two safety car phases\n- 9 rounds remaining; maximum 459 pts available\n**Freshness:** Day after Baku. HIGH freshness.\n**Why it matters:** Russell's momentum; championship gap narrative; keeps title race alive.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 10,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
