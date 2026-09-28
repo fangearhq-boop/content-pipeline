@@ -1,0 +1,238 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-28",
+  "compiled_at": "2026-09-28T10:27:52.687834+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Houston Astros Clinch AL West at 81-81 — Historic First in 162-Game Era",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Houston Astros finished 81-81 in 2026.\n\nThey are also the AL West champions — the first team with a non-winning record to win a division in MLB's 162-game era.\n\nThe Rangers lost to Minnesota. Houston held the tiebreaker. That's it. #Astros #MLB",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#MLB"
+          ],
+          "char_count": 248
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Texas Rangers needed a win AND an Astros loss to take the AL West on Sunday.\n\nThey got neither. Rangers fell to the Twins 6-4. Astros beat the A's 9-0.\n\nHouston is a .500 team going to the playoffs as a division winner. History was made. #Rangers #Astros #MLB",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rangers",
+            "#Astros",
+            "#MLB"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-astros-clinch-al-west-81-81-historic-non-winning-division.html",
+        "headline": "Houston Clinches AL West at 81-81 — The First Sub-.500 Division Champion in MLB History",
+        "word_count": 542
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Houston Astros Clinch AL West\n\n#### Image Concept 1A — Social (1080x1350)\n- **Mode:** gemini/complete\n- **Scene:** Bold graphic: orange and navy Astros color palette. Large text: \"81-81. AL WEST CHAMPIONS.\" Below: \"First team with a non-winning record to win a division in MLB history.\" Stylized baseball diamond with Astros star logo.\n- **Mood:** Surreal, historic, slightly absurd\n- **Lighting:** High contrast, editorial\n\n#### Image Concept 1B — Article Hero (1200x630)\n- **Mode:** imagn\n- **Search term:** \"Houston Astros\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Aaron Judge Injury — PPP Injection, \"Planning on Him Not Being Part Of\" Wild Card Series",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Aaron Judge update:\n\nPPP injection in his right calf Monday.\n\"Planning on him not being a part of\" the Wild Card Series — Boone.\nSeries starts Tuesday vs. Red Sox.\nNot officially ruled out.\n\nThe Yankees need clarity. They don't have it yet. #Yankees #MLB",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-aaron-judge-injury-ppp-injection-wild-card-series-yankees.html",
+        "headline": "Aaron Judge Gets PPP Injection Monday — Yankees \"Planning on Him Not Being a Part Of\" Wild Card Series",
+        "word_count": 553
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aaron Judge Injury\n\n#### Image Concept 2A — Social (1080x1350)\n- **Mode:** imagn\n- **Search term:** \"Aaron Judge New York Yankees\"\n- **Credit:** (USA TODAY Sports Images)\n- **Caption overlay:** \"JUDGE OUT? / WC Series Starts Tomorrow\"\n\n#### Image Concept 2B — Article Hero (1200x630)\n- **Mode:** imagn\n- **Search term:** \"Aaron Judge Yankees batting\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Full 2026 Playoff Bracket Set — 12 Teams, Wild Card Starts Tomorrow",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The 2026 MLB playoff bracket is set.\n\nAL: Rays, Guardians, Astros, Yankees, Red Sox, White Sox\nNL: Brewers, Dodgers, Braves, Padres, Cubs, Phillies\n\nWild Card starts TOMORROW.\n\nTwelve teams. One title. Who's your pick? #MLB #Playoffs2026",
+          "posting_time": "12:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Playoffs2026"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-2026-mlb-playoff-bracket-wild-card-preview.html",
+        "headline": "2026 MLB Playoff Bracket Set — 12 Teams, Wild Card Starts Tomorrow, Here's Everything You Need to Know",
+        "word_count": 538
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Full 2026 Playoff Bracket\n\n#### Image Concept 3A — Social (1080x1350)\n- **Mode:** gemini/complete\n- **Scene:** Clean bracket graphic showing all 12 MLB playoff teams, AL on left / NL on right. Team logos in their colors. Bold header: \"2026 MLB PLAYOFFS / WILD CARD STARTS TOMORROW\" in white on dark navy background.\n- **Mood:** Clean, informational, hype-building\n\n#### Image Concept 3B — Article Hero (1200x630)\n- **Mode:** gemini/complete\n- **Scene:** Wide graphic of twelve team logos arranged in bracket format on dark background. \"THE FIELD IS SET / 2026 MLB POSTSEASON\" text overlay in white.\n- **Mood:** Championship energy\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Pittsburgh Pirates End 8-Year Losing Streak — 82-80 in 2026 Finale",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Pittsburgh Pirates finished 82-80 in 2026.\n\nTheir last winning season was 2018. That is eight years. Seven consecutive losing seasons — the second-longest active streak in baseball entering this year.\n\nThey beat the Tigers 4-2 in the finale. It's over. #Pirates #MLB",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Pirates",
+            "#MLB"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-pittsburgh-pirates-end-8-year-losing-streak-82-80.html",
+        "headline": "Pittsburgh Pirates End Eight-Year Losing Streak — 82-80 in 2026, First Winning Season Since 2018",
+        "word_count": 480
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Pittsburgh Pirates\n\n#### Image Concept 4A — Social (1080x1350)\n- **Mode:** imagn\n- **Search term:** \"Pittsburgh Pirates PNC Park\"\n- **Credit:** (USA TODAY Sports Images)\n- **Caption overlay:** \"82-80 / 8 YEARS OVER\"\n\n#### Image Concept 4B — Article Hero (1200x630)\n- **Mode:** imagn\n- **Search term:** \"Pittsburgh Pirates celebration\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Chicago White Sox Make Playoffs — First Team From Back-to-Back 100-Loss Seasons",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Chicago White Sox are in the playoffs.\n\nThey finished 84-78 and grabbed the final AL Wild Card.\n\nThey are the first team from back-to-back 100-loss seasons to make the playoffs in MLB history.\n\nNobody expected this. That's what makes it great. #WhiteSox #MLB",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-chicago-white-sox-playoffs-historic-back-to-back-100-loss-seasons.html",
+        "headline": "White Sox Make History — First Team From Back-to-Back 100-Loss Seasons to Reach the MLB Playoffs",
+        "word_count": 484
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Chicago White Sox\n\n#### Image Concept 5A — Social (1080x1350)\n- **Mode:** imagn\n- **Search term:** \"Chicago White Sox Guaranteed Rate Field\"\n- **Credit:** (USA TODAY Sports Images)\n- **Caption overlay:** \"THEY'RE IN / White Sox Make History\"\n\n#### Image Concept 5B — Article Hero (1200x630)\n- **Mode:** imagn\n- **Search term:** \"Chicago White Sox players\"\n- **Credit:** (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

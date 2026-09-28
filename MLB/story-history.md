@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-28
+
+### Story 1: Astros Clinch AL West at 81-81 — Historic First in 162-Game Era
+- **Date:** 2026-09-28
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Astros finished 81-81, won AL West when Rangers lost to Twins 6-4 on final day. Houston holds tiebreaker. First team with non-winning record to win a division in MLB's 162-game era. Rangers eliminated with no wild-card backup.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Astros ALDS matchup and rotation setup
+  - Historical context follow-up on worst division champions in October
+
+### Story 2: Aaron Judge Injury — PPP Injection, WC Series Status Uncertain
+- **Date:** 2026-09-28
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Judge received PPP injection for moderate-grade right calf strain Monday. Boone: "Planning on him not being a part of" WC Series vs. Red Sox (starts Sept 29). Not officially ruled out.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Judge Game 1 status update Tuesday morning
+  - Yankees lineup without Judge in WC series
+
+### Story 3: Full 2026 Playoff Bracket Set
+- **Date:** 2026-09-28
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** All 12 teams set; wild card starts tomorrow. AL: Rays/Guardians/Astros + Yankees/Red Sox/White Sox WC. NL: Brewers/Dodgers/Braves + Padres/Cubs/Phillies WC. Phillies beat Rays 7-3 to clinch; D-backs eliminated.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Wild Card results starting Sept 29
+  - Daily playoff coverage
+
+### Story 4: Pittsburgh Pirates End 8-Year Losing Streak
+- **Date:** 2026-09-28
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Pirates finished 82-80, beat Tigers 4-2 in finale at Comerica Park. First winning record since 2018. Seven consecutive losing seasons (2019-2025) ended. Only 5th winning season in 34 years (alongside 2013/2014/2015/2018).
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Pirates offseason roster building on this foundation
+  - Fanbase reaction/city of Pittsburgh coverage
+
+### Story 5: Chicago White Sox Make Playoffs — First From Back-to-Back 100-Loss Seasons
+- **Date:** 2026-09-28
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** White Sox finished 84-78, grabbed final AL Wild Card (No. 6 seed). Guardians won AL Central 85-77. White Sox first team in MLB history to make playoffs after back-to-back 100-loss seasons. Historic rebuild payoff.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - White Sox Wild Card matchup
+  - Rebuild arc narrative through playoff run
+
+---
+
 ## 2026-09-26
 
 ### Story 1: AL West Final Weekend — Astros and Rangers Both 79-81 After Friday Collapses
