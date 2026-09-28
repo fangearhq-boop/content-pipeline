@@ -1,0 +1,311 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-28",
+  "compiled_at": "2026-09-28T09:21:54.763338+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1",
+      "type": "Bregman 4-for-4, 2 HR, 4 RBI finale heroics"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2",
+      "type": "WCS Game 1 preview — Tue 9 PM CT, Petco"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3",
+      "type": "Padres danger watch — 16-5 Sept, Tatis/Merrill"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Story 4",
+      "type": "Gausman \"I don't know\" — rotation puzzle"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Story 5",
+      "type": "Cubs 2026 final record / season stat wrap"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Story 6",
+      "type": "PCA WCS-eve bold take"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 7",
+      "type": "WCS send-off kicker"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Bregman 4-for-4, 2 HR, 4 RBI — Relocated Season Finale",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Alex Bregman went 4-for-4 with two home runs (27th and 28th) and four RBI in his SECOND game back from multiple facial fractures. Game relocated from Fenway to Tropicana Field (FL) due to nor'easter. Cubs win 6-2 to finish 89-73. Bregman full 2026 line: .265/.355/.464, 128 wRC+, 28 HR, 93 RBI. Framing: first-year Cub, ready for October.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Alex Bregman: 4-for-4. Two home runs. Four RBI.\n\nSecond game back from multiple facial fractures — at a relocated season finale at Tropicana Field.\n\n.265/.355/.464, 28 HR, 93 RBI. First year as a Cub. October won't know what hit it. 💪\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / Morning recap",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Bregman 4-for-4, 2 HR, 4 RBI — Relocated Season Finale\n**Type:** NEW STORY\n**Tier:** 1\n**Source age:** <12 hours (game played Sept 27, 2026)\n**Key facts:**\n- Cubs 6, Red Sox 2 — Sept 27 at Tropicana Field (neutral site, relocated from Fenway)\n- Relocation reason: nor'easter battering Northeast coast through Monday\n- Alex Bregman: 4-for-4, HR in 1st (2-run, his 27th), HR later (28th), 4 RBI total\n- This was Bregman's SECOND game back from multiple facial fractures sustained Sept 19\n- Bregman 2026 final line: .265/.355/.464, 128 wRC+, 28 HR, 93 RBI, K% under 15%\n- Cubs final record: 89-73 (NL Wild Card No. 2 seed)\n- Red Sox finish as AL No. 5 seed\n**Primary sources:**\n- ESPN recap: https://www.espn.com/mlb/recap/_/gameId/401817089\n- ABC News/AP: https://abcnews.com/Sports/wireStory/alex-bregmans-huge-day-plate-relocated-season-finale-136806078\n- Chicago Sun-Times: https://chicago.suntimes.com/cubs/2026/09/27/cubs-alex-bregman-face-home-runs-red-sox-mlb-postseason-playoffs-series-padres\n- Bleacher Nation: https://www.bleachernation.com/cubs/2026/09/27/alex-bregman-cubs-2/\n**Story history check:** Bregman game previewed in Story 6 (Sept 27, 1:15 PM \"Pre-Game Kicker\"). The game RESULT is new — this is a follow-up to the game but a new story in terms of content.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "WCS Game 1 Preview — Tuesday 9 PM CT, Petco Park",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Logistics + confidence: Game 1 Tuesday Sept 29 at 9 PM CT, Petco Park. Boyd projected Game 1 starter. Padres had 16-5 September but Cubs went 5-1 vs them this year. Rematch of 2025 WCS (Cubs won in 3). Broadcast: Peacock and NBCSN.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Game 1 is tomorrow. Tuesday, 9 PM CT. Petco Park.\n\nCubs vs. Padres — WCS rematch. Matthew Boyd takes the ball for Chicago. San Diego had a 16-5 September but the Cubs went 5-1 against them this year.\n\nThis is how you earn the right to the road trip.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Informative / Bold kicker",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "WCS Game 1 Preview — Tuesday 9 PM CT, Petco Park\n**Type:** NEW STORY\n**Tier:** 1\n**Source age:** <24 hours (announced/confirmed Sept 27)\n**Key facts:**\n- WCS best-of-three begins Tuesday, Sept 29, 9 PM CT at Petco Park\n- Game 2: Wednesday, Sept 30, 9 PM CT (same venue)\n- Game 3 (if needed): Thursday, Oct 1 at Petco Park\n- Broadcast: Peacock and NBCSN\n- Cubs: WC No. 2 seed; Padres: NL No. 4 seed (home-field)\n- Rematch of 2025 WCS — Cubs eliminated Padres in 3 games at Wrigley last year\n- Boyd projected/expected Game 1 starter for Cubs (multiple sources: SI, Bleacher Nation, Last Word on Sports)\n- NOTE: Boyd as starter is projection-based, not an official Cubs announcement as of 9/28 morning\n- Padres likely starters: Pivetta (1.45 ERA since return) or Buehler for Game 1; King to bullpen\n- Cubs 5-1 vs Padres in 2026 regular season\n**Primary sources:**\n- Yahoo Sports: https://sports.yahoo.com/articles/padres-vs-cubs-schedule-times-161927954.html\n- Bleacher Nation: https://www.bleachernation.com/cubs/2026/09/27/cubs-playoffs-padres-wild-card/\n- MLB.com: https://www.mlb.com/padres/news/cubs-vs-padres-wild-card-series-lineups-and-pitching-matchup\n- CubsHQ: https://www.cubshq.com/cubs-baseball/news/cubs-to-face-padres-in-wild-card-series-game-times-and-tv-channels-announced-34260",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Padres Danger Watch — 16-5 September, Tatis/Merrill Hot",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Honest opponent scouting: Padres went 16-5 in September (MLB-leading). Tatis + Merrill combined 36 HR since All-Star break. Mason Miller closes. This is not the same team the Cubs dominated 5-1 in the regular season — and yet Cubs still went 5-1 vs them. Expect a fight.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Credit where it's due — the Padres went 16-5 in September.\n\nTatis and Merrill combined for 36 HR since the All-Star break. Mason Miller in the pen. This is not the April version of San Diego.\n\nCubs went 5-1 vs them this year. Expect a fight anyway.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Analysis / Informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Padres Danger Watch — 16-5 September, Tatis/Merrill Hot\n**Type:** NEW STORY\n**Tier:** 2\n**Source age:** <24 hours\n**Key facts:**\n- Padres finished 89-71 (NL No. 4 seed), third straight postseason (franchise record)\n- September record: 16-5 (MLB-leading in September)\n- Turnaround: went from 50-53 to winning 39 of next 56\n- Fernando Tatis Jr. + Jackson Merrill: combined 36 HR since All-Star break (most by any MLB outfield duo in H2 2026)\n- Jackson Merrill individual: 26 HR, 27 SB\n- Ty France: .863 OPS, 21 HR (strong return to SD)\n- Pitching additions: Robbie Ray, Casey Mize (mid-season)\n- Pen: Mason Miller (closer), Adrian Morejon\n- Nick Pivetta: 1.45 ERA since IL return\n- Michael King: 3.21 ERA, 1.18 WHIP in 185 IP — to bullpen for WCS\n- BUT: Cubs still went 5-1 against them this year\n**Primary sources:**\n- ESPN: https://www.espn.com/mlb/story/_/id/50026172/padres-clinch-third-straight-playoffs-berth-september-surge\n- Last Word on Sports: https://lastwordonsports.com/baseball/2026/09/27/padres-cubs-wild-card-26/\n- FriarsOnBase: https://friarsonbase.com/padres-cubs-nl-wild-card-rematch-will-define-san-diego-s-2026-turnaround",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Gausman \"I Don't Know\" — WCS Rotation Puzzle",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Gausman left (nonthrowing) shoulder still sore after diving tag play vs Marlins. \"I don't know\" (his words, Sept 27) about WCS availability. Boyd and Holmes locked in. David Peterson ready as fallback. Justin Steele out of plans. Cubs will know in next 48 hours.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Kevin Gausman on WCS availability: \"I don't know.\"\n\nNonthrowing shoulder still sore after that diving tag play. Boyd and Holmes are locked in. David Peterson is ready if Gausman can't go.\n\nThe Cubs find out in the next 48 hours.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Roster news / Injury",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Gausman \"I Don't Know\" — WCS Rotation Puzzle\n**Type:** FOLLOW UP (established Sept 26, continued Sept 27)\n**Tier:** 1\n**Source age:** <24 hours (Gausman quote from Sept 27)\n**Key facts:**\n- Gausman injured nonthrowing left shoulder on diving tag play vs Marlins ~Sept 24\n- Left game in 6th inning\n- Played catch Friday (Sept 25) but reported continued soreness\n- Gausman Sunday Sept 27 quote: \"I don't know\" when asked about WCS readiness\n- Non-throwing shoulder but affects delivery fluidity (his words re: larger glove)\n- Boyd and Holmes confirmed locked in for WCS rotation\n- David Peterson = next option if Gausman unavailable\n- Justin Steele: never returned in 2026; not factoring into WCS plans\n**Primary sources:**\n- Chicago Sun-Times: https://chicago.suntimes.com/cubs/2026/09/27/cubs-kevin-gausman-shoulder-injury-game-1-starter-playoffs-wild-card-series-padres\n- Daily Herald: https://www.dailyherald.com/20260926/chicago-cubs/chicago-cubs-wild-card-rotation-plans-in-flux-as-they-monitor-gausmans-left-shoulder-injury/\n- CBS Sports: https://www.cbssports.com/fantasy/baseball/news/cubs-kevin-gausman-battling-shoulder-injury/",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Cubs 2026 Final Record — Season in Review by Numbers",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Season-end capstone: 89-73. PCA led MLB in fWAR, HR, runs scored. Bregman 128 wRC+. Swanson back from IL. Boyd on the hill tomorrow. Complete roster. Forward-looking kicker.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Final 2026 Cubs record: 89-73. NL Wild Card No. 2.\n\nPCA led all of baseball in fWAR, HR, and runs scored. Bregman: 128 wRC+ in his first year as a Cub. Swanson back from the IL. Boyd on the hill tomorrow.\n\nComplete roster. Tomorrow night it matters.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Stat breakdown / Feature",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Cubs 2026 Final Record — Season in Review by Numbers\n**Type:** NEW STORY (end-of-season stats wrap)\n**Tier:** 2\n**Source age:** <12 hours (game played Sept 27)\n**Key facts:**\n- Final record: 89-73 (NL Wild Card No. 2 seed, going to Petco Park)\n- PCA led all of baseball in fWAR, HR (45), runs scored (119)\n- Bregman: 128 wRC+, 28 HR, 93 RBI in first season with Cubs\n- Swanson healthy and back from IL (Grade 2 oblique, returned Sept 18)\n- Boyd: confirmed WCS Game 1 starter\n- Complete healthy roster heading into playoffs (except Gausman question mark)\n**Note on WAR:** Sources conflict on PCA's WAR total (ESPN says 9.8, story history uses 10.6 fWAR, Chi City Sports says 10.7). Tweet uses \"led all of baseball in fWAR\" without a specific number to avoid claim error.\n**Primary sources:**\n- ESPN: https://www.espn.com/mlb/story/_/id/50014964/mlb-2026-pete-crow-armstrong-chicago-cubs-mvp-clinch-nl-wild-card",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "PCA WCS-Eve Bold Take — Best Player on the Planet",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "PCA walks into Petco Park Tuesday as the most dangerous player in baseball: 45 HR, 40 SB, MLB-leading fWAR. Unanimous NL MVP candidate. Age 24. The Padres have to deal with him in the first inning. EVENING SLOT per insights (18-24 CT window wins).",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Pete Crow-Armstrong. 45 home runs. 40 stolen bases. MLB-leading fWAR.\n\nHe's walking into Petco Park Tuesday as the best player on the planet. The Padres have to deal with that in the first inning of a playoff game.\n\nThis one's different. Fly the W. 🚩\n\n#Cubs #FlyTheW #GoCubs",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Bold / Passionate",
+          "hashtags": [
+            "#Cubs",
+            "#FlyTheW",
+            "#GoCubs"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "PCA WCS-Eve Hype — Best Player Heading Into October\n**Type:** FOLLOW UP (PCA covered multiple times; this is the playoff-eve angle)\n**Tier:** 1\n**Source age:** <24 hours\n**Key facts:**\n- PCA: 45 HR, 40 SB, ~.941-.948 OPS, age 24\n- Led MLB in fWAR, HR (45), runs scored (119)\n- 7th player in MLB history to hit 40-40\n- First Cub ever with 40-40 season\n- Unanimous NL MVP candidate; may be first Cub to win unanimously (per Chi City Sports)\n- Walks into Petco Park Tuesday as WCS centerpiece\n**Primary sources:**\n- Chi City Sports: https://www.chicitysports.com/pete-crow-armstrong-mvp-first-chicago-cubs-unanimous/\n- ESPN: https://www.espn.com/mlb/story/_/id/50014964/",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "WCS Send-Off Bold Kicker — Game 1 Tomorrow",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "WCS eve closer: last year Cubs ended SD's season at Wrigley. Petco Park is home for San Diego. The script doesn't have to change. 89-73, WCS-tested, ready. EVENING SLOT per insights (18-24 CT window wins).",
+      "posting_window": "8:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Cubs vs. Padres. Game 1 tomorrow. One year ago, Chicago ended San Diego's season at Wrigley.\n\nPetco Park is the venue this time. The script doesn't have to change.\n\n89-73. WCS-tested. Ready.\n\n#Cubs #FlyTheW #GoCubs",
+          "posting_time": "8:00 PM CT",
+          "tweet_type": "Bold / Passionate",
+          "hashtags": [
+            "#Cubs",
+            "#FlyTheW",
+            "#GoCubs"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "WCS Bold Send-Off Kicker — Game 1 Tomorrow\n**Type:** NEW STORY (WCS eve momentum tweet)\n**Tier:** 2\n**Source age:** <24 hours\n**Key facts:**\n- Last year's WCS: Cubs eliminated Padres in 3 games at Wrigley\n- 2026 regular season H2H: Cubs 5-1 vs Padres\n- Game 1: Tuesday, 9 PM CT, Petco Park (neutral from Cubs' perspective — road game)\n- Cubs enter 89-73\n**Primary sources:**\n- Multiple sources confirming 2025 WCS result and 2026 schedule",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

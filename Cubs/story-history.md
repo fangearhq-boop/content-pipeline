@@ -5,6 +5,52 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-28 (OFF DAY — Cubs 89-73, WC2. WCS at Petco Park vs. Padres starts TOMORROW Tuesday Sept 29, 9 PM CT. Insights active: evening_18_24 wins; len<140 loses.)
+
+### STORY 1: Bregman 4-for-4, 2 HR, 4 RBI — Relocated Season Finale
+- **Angle:** NEW STORY. Alex Bregman went 4-for-4 with 2 HR (27th and 28th) and 4 RBI in second game back from multiple facial fractures. Cubs 6-2 over Red Sox in finale relocated to Tropicana Field (Fenway nor'easter). Final Bregman 2026 line: .265/.355/.464, 128 wRC+, 28 HR, 93 RBI. Cubs finish 89-73.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, morning recap)
+- **Follow-Up Opportunities:** WCS performance updates starting Tuesday
+
+### STORY 2: WCS Game 1 Preview — Tuesday 9 PM CT, Petco Park
+- **Angle:** NEW STORY. WCS logistics confirmed: Game 1 Tuesday Sept 29, 9 PM CT, Petco Park. Boyd projected Game 1 starter. Cubs 5-1 vs Padres in 2026 regular season. Rematch of 2025 WCS (Cubs won in 3). Broadcast: Peacock and NBCSN.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, preview/bold)
+- **Follow-Up Opportunities:** Game 1 result recap (Wednesday morning)
+
+### STORY 3: Padres Danger Watch — 16-5 September, Tatis/Merrill
+- **Angle:** NEW STORY. Honest opponent scouting: Padres went 16-5 in September (MLB-leading). Tatis + Merrill combined 36 HR since ASB. Mason Miller closing. Third straight postseason. Balanced with Cubs' 5-1 H2H advantage.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, analysis)
+- **Follow-Up Opportunities:** Postgame opponent analysis
+
+### STORY 4: Gausman "I Don't Know" — WCS Rotation Puzzle
+- **Angle:** FOLLOW UP. Gausman nonthrowing shoulder still sore; "I don't know" about WCS readiness (his own words, Sept 27). Boyd and Holmes locked in. David Peterson ready as fallback. Steele out of plans for playoffs.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, roster news)
+- **Follow-Up Opportunities:** Official WCS roster announcement; Gausman availability update
+
+### STORY 5: Cubs 2026 Final Record — Season in Review by Numbers
+- **Angle:** NEW STORY. Season-end capstone: 89-73. PCA led MLB in fWAR/HR/runs scored. Bregman 128 wRC+. Swanson back from IL. Boyd on the hill tomorrow. Complete roster heading into October.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, stat breakdown)
+- **Follow-Up Opportunities:** N/A (season-end wrap)
+
+### STORY 6: PCA WCS-Eve Bold Take — Best Player on the Planet
+- **Angle:** FOLLOW UP. PCA heads to Petco Park Tuesday as the most dangerous player in baseball (45 HR, 40 SB, MLB-leading fWAR, unanimous NL MVP candidate, age 24). Bold playoff-eve take. EVENING SLOT per insights (18-24 window wins).
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, bold/passionate)
+- **Follow-Up Opportunities:** WCS performance updates; NL MVP announcement (November)
+
+### STORY 7: WCS Send-Off Bold Kicker
+- **Angle:** NEW STORY. Final tweet of the off day: Cubs ended Padres' season last year at Wrigley; Petco Park is the venue this time; script doesn't have to change; 89-73, WCS-tested, ready. EVENING SLOT per insights (18-24 window wins).
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:00 PM CT, bold closer)
+- **Follow-Up Opportunities:** WCS Game 1 result recap
+
+---
+
 ## 2026-09-27 (FINAL REG SEASON GAME — Cubs 88-73, WC2. Cubs at Red Sox (neutral Tropicana Field, 2:05 PM CT, nor'easter relocation). WCS at Padres starts Tuesday Sept 29.)
 
 ### STORY 1: Final Regular Season Game Preview — Neutral Site at Tropicana Field

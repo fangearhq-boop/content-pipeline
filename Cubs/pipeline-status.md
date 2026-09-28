@@ -1,33 +1,35 @@
-# Cubs Pipeline Status — Updated 2026-09-27
+# Cubs Pipeline Status — Updated 2026-09-28
 
 ## Latest Run
-- **Date:** 2026-09-27 (Sunday — FINAL REGULAR SEASON GAME; Cubs 88-73 WC2; Neutral site Tropicana Field vs. Red Sox 2:05 PM CT; WCS at Padres starts Tuesday Sept 29)
-- **Stories:** 6
-- **X posts:** 6
+- **Date:** 2026-09-28 (Monday — OFF DAY; Cubs 89-73 WC2; WCS at Padres starts TOMORROW Tuesday Sept 29, 9 PM CT)
+- **Stories:** 7
+- **X posts:** 7
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
-- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 6 stories, 6 tweets
-- **07-content-data.json:** ✅ Valid JSON, all 6 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 10:45 AM / 12:00 PM / 1:15 PM CT)
+- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 7 stories, 7 tweets
+- **07-content-data.json:** ✅ Valid JSON, all 7 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 10:45 AM / 3:45 PM / 6:30 PM / 8:00 PM CT)
 - **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeded)
 
-## Insights Summary (2026-09-27)
-- **Snapshot generated:** 2026-09-27T08:30:00.130927Z (fresh, 30 min before trigger)
-- **significant_findings count:** 0
-- **Note:** "No contrasts cleared all three gates (n>=8 per group, p<0.05, |Cliff's delta|>=0.2). Either too little data or no format/time differences are large enough yet."
-- **Action:** Fell through to brand-voice defaults. No format, length, emoji, or timing adjustments applied.
+## Insights Summary (2026-09-28)
+- **Snapshot generated:** 2026-09-28T08:30:00.124588Z (fresh, 30 min before trigger)
+- **significant_findings count:** 2
+- **Finding 1:** `posting_window=evening_18_24` WINS — median 106 vs 68 impressions, Cliff's delta 0.376 (medium), p=0.031
+  - **Action:** Placed highest-engagement content (PCA WCS-eve bold take, WCS send-off kicker) in 6:30 PM and 8:00 PM CT slots.
+- **Finding 2:** `len_bucket=<140` LOSES — not_<140 wins, Cliff's delta 0.273 (small), p=0.038
+  - **Action:** All 7 tweets drafted at ≥140 characters. Verified at draft stage (range: 214–277 chars).
 
-## Series Context (2026-09-27)
-- **`off_day`:** FALSE
-- **`is_series_start_today`:** TRUE (one-game series vs. Boston Red Sox at Tropicana Field, relocated from Fenway due to nor'easter)
-- **`today_cubs_game`:** Cubs at Red Sox, 2:05 PM CT at Tropicana Field (neutral), probables TBD
-- **Action:** 7:00 AM slot reserved for Series Preview (matchup first, WCS context as kicker).
+## Series Context (2026-09-28)
+- **`off_day`:** TRUE
+- **`is_series_start_today`:** FALSE
+- **`series`:** null
+- **`today_cubs_game`:** null
+- **Action:** No 7 AM series-preview slot. Led morning with game recap (Bregman heroics). Leaned into WCS preview, opponent analysis, rotation puzzle, and playoff-eve hype. No series-preview tweet slot used.
 
-## Current Wild Card Status (entering Sept 27)
-- **Cubs position:** WC2 (88-73)
-- **Padres position:** WC1 (89-71)
-- **Final regular season game (today, Tropicana Field) — seeding locked**
-- **WCS: Cubs at Padres (Petco Park), starts Tuesday September 29, best of 3**
-- **If Cubs advance: NLDS vs. Brewers (#1 NL seed, 97 wins), starts October 3**
+## Current Wild Card Status (after Sept 27)
+- **Cubs position:** WC2 (89-73, finished)
+- **Padres position:** WC1 (89-71, finished)
+- **WCS: Cubs at Padres (Petco Park), starts TUESDAY September 29, 9 PM CT, best of 3**
+- **If Cubs advance: NLDS vs. Brewers (#1 NL seed, 103 wins), starts October 3**
 
 ## Key Ongoing Stories
 - **PCA 40-40 COMPLETE:** .280 / 45 HR / 40 SB — 7th in 40-40 history, first Cub ever, 10.6 fWAR (best Cubs since Hornsby 1929), NL MVP lock
