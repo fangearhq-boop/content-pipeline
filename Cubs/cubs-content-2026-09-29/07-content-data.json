@@ -1,0 +1,319 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-29",
+  "compiled_at": "2026-09-29T09:18:13.540094+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM CT",
+      "description": "WCS Game 1 Series Preview",
+      "type": "Series Preview"
+    },
+    {
+      "time": "8:15 AM CT",
+      "description": "Cubs 5-1 H2H dominance",
+      "type": "Bold take"
+    },
+    {
+      "time": "9:30 AM CT",
+      "description": "Boyd stat breakdown",
+      "type": "Stat breakdown"
+    },
+    {
+      "time": "10:45 AM CT",
+      "description": "Gausman WCS roster confirmed",
+      "type": "Roster news"
+    },
+    {
+      "time": "12:00 PM CT",
+      "description": "Brewers NLDS stakes",
+      "type": "Analysis"
+    },
+    {
+      "time": "3:45 PM CT",
+      "description": "PCA postseason X-factor",
+      "type": "Feature"
+    },
+    {
+      "time": "5:00 PM CT",
+      "description": "Padres opponent scouting",
+      "type": "Informative"
+    },
+    {
+      "time": "6:30 PM CT",
+      "description": "Pre-game bold hype (EVENING)",
+      "type": "Bold/Passionate"
+    },
+    {
+      "time": "8:00 PM CT",
+      "description": "One-hour countdown (EVENING)",
+      "type": "Bold/Passionate"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "WCS Game 1 Series Preview — Boyd vs. King, Petco Park tonight",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Series opens tonight — 3 games, all at Petco Park. Boyd vs. King confirmed. Cubs 5-1 vs. Padres in 2026 regular season. Rematch of 2025 WCS.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs at Padres — 3-game Wild Card Series at Petco Park. Game 1 tonight.\n\nBoyd vs. King. First pitch 9 PM CT on Peacock and NBCSN.\n\nCubs went 5-1 vs. San Diego in 2026. Rematch, new venue, same mission.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Series Preview (MANDATORY — is_series_start_today=true)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Bold take — Cubs have Padres' number (5-1 in 2026 regular season)",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs went 5-1 vs. Padres in 2026 (took 2-of-3 at Petco in April, swept at Wrigley in late June). Home field is the Padres' only structural advantage.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Cubs won 5 of 6 vs. San Diego in 2026. Took two of three at Petco in April. Swept them at Wrigley in late June.\n\nThis is not a neutral matchup — Chicago has the receipts and the Padres know it.\n\nRematch. Different stadium. Same result.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold / Passionate",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Boyd stat breakdown — 2026 All-Star, done this before",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Boyd started 2025 WCS Game 1, allowed 1 run in 4.1 IP in Cubs' 3-1 win. 2026: 3.91 ERA, 9-5, 2026 All-Star, 1.14 ERA over 10 straight starts May–July.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Matthew Boyd started WCS Game 1 last October and allowed 1 run in 4.1 IP in a Cubs 3-1 win.\n\nIn 2026: 3.91 ERA, 9-5, 2026 All-Star. Posted a 1.14 ERA over 10 straight starts from May 28–July 22.\n\nHe's done this before. Tonight he does it again.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Stat breakdown / Informative",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Gausman confirmed on WCS roster — Cubs showing up fully loaded",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Gausman IS on the 26-man WCS roster despite nonthrowing shoulder scare. Five starters on the roster. Steele not on postseason roster.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Kevin Gausman is on the WCS roster.\n\nAfter a shoulder scare and \"I don't know\" quotes, Counsell got his No. 3 starter on the 26-man. Five starters. Full arsenal.\n\nThe Cubs aren't just showing up to Petco. They're showing up loaded.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Roster news",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Brewers await — NLDS stakes if Cubs advance",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Winner faces Brewers (No. 1 seed, 100 wins — first time in franchise history) in NLDS. The mountain is real. First: Petco.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cubs win this series → they face the Brewers in the NLDS.\n\nMilwaukee won 100 games in 2026 — first time in franchise history. They haven't lost to the Cubs in a meaningful series all year.\n\nThat's the mountain. But first, there's Petco tonight.\n\n#Cubs #GoCubs #NorthSiders",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Analysis / Rival watch",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#NorthSiders"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "PCA as WCS X-factor — 45 HR, 40 SB, NL MVP",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Pete Crow-Armstrong: 45 HR, 40 SB, 10.6 fWAR, age 24. NL MVP. Padres went 1-5 against this lineup in 2026.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Pete Crow-Armstrong walks into the postseason as the most dangerous player in the sport.\n\n45 HR. 40 SB. 10.6 fWAR. Age 24. NL MVP.\n\nThe Padres saw him all year. They still went 1-5 against this lineup. There's a reason for that.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Feature / Bold",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "Opponent scouting — Tatis and the Padres are dangerous, and still 1-5",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Tatis hit .914 OPS since May 30 (25 HR). Mason Miller closing. The Padres are a real team. Cubs still went 5-1 vs. them.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Tatis hit .914 OPS from June through September. Mason Miller closed games all year. The Padres are a real team.\n\nThey're still 1-5 against the Cubs in 2026.\n\nPre-game read on the opponent is respect, not fear.\n\n#Cubs #CubsBaseball #GoCubs",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Informative / Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#GoCubs"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 8,
+      "title": "Pre-game bold hype — 2.5 hours to first pitch (EVENING SLOT — insights winner)",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Countdown to first pitch. Boyd takes the mound. Cubs ended the Padres' season last October. Rematch begins tonight.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 8",
+          "text": "Two hours from now, Boyd takes the mound at Petco Park and the Cubs' 2026 playoff run officially begins.\n\nLast October: Cubs ended the Padres' season in three games.\n\nRematch. Petco. 9 PM CT.\n\nLet's do this again.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Bold / Passionate",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 9,
+      "title": "One-hour countdown (EVENING SLOT — insights winner)",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Final pre-game hype. One hour to first pitch. Cubs haven't lost a Wild Card series. 89-73. October baseball.",
+      "posting_window": "8:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 9",
+          "text": "One hour.\n\nBoyd. Petco. Postseason.\n\nCubs haven't lost a Wild Card series. Not in 2025. Not starting tonight.\n\n89-73. October baseball. Same old Cubs — except way better.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "8:00 PM CT",
+          "tweet_type": "Bold / Passionate",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 194
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 9,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
