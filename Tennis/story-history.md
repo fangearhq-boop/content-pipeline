@@ -2,6 +2,17 @@
 
 Track previously covered stories to avoid repetition and maintain content freshness.
 
+
+## September 29, 2026
+
+| 2026-09-29 | Laver Cup 2026 Final Result — Team Europe wins 13-5 at The O2 London. Zverev (EUR) d. Tien (WLD) 7-6(3), 6-3 to clinch; Alcaraz survived 2 match points vs Fritz. Europe 9-3 in singles. Team World's title defense ends. Sources: atptour.com, skysports.com, sports.yahoo.com | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Sep 28 S1: Day 3 final day → RESULT confirmed) |
+| 2026-09-29 | WTA Singapore Open — Fernandez (CAN) d. Gibson (AUS) 7-5, 6-0 for 6th career WTA title. Final 9 games won by Fernandez. QF: upset top seed Andreeva. 2nd WTA 500 title; WTA Race to Singapore boost. Sources: wtatennis.com, yahoo sports | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Sep 28 S2: Final result confirmed) |
+| 2026-09-29 | Jannik Sinner confirmed for China Open — traveling to Beijing, starts Sep 30. Statement to La Repubblica: "The knee? It's all fine." First match back could be Wed Oct 1. Absent since Wimbledon win Jul 12 (knee injury, US Open WD). Earlier reports floated full Asia skip. Sources: Sportmediaset, yardbarker.com, essentiallysports.com | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Sep 25 S2: official WD → confirmed return) |
+| 2026-09-29 | Hangzhou Open Final set — Daniil Medvedev vs. Andrey Rublev (all-Russian final). Rublev d. Jacquet in SF for his 400th career ATP win. Medvedev d. Safiullin. Race to Turin points at stake with Laver Cup field absent. Sources: atptour.com, tennisnow.com, tennis.com | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Sep 28 S4: Hangzhou final preview → finalist confirmed) |
+| 2026-09-29 | Chengdu Open Final — Hurkacz vs. Davidovich Fokina (No. 2 seed). Hurkacz d. Shapovalov 6-7, 6-3, 6-3 in SF; Shapovalov fired 14 aces. Both players chasing ATP Finals qualification points on Asian swing. Final scheduled no earlier than 7 PM local. Sources: atptour.com, cbc.ca | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Sep 28 S5: Chengdu final day) |
+
+---
+
 ## September 28, 2026
 
 | 2026-09-28 | Laver Cup 2026 Final — Team Europe wins 13-5 at The O2 London. Day 3 (Sep 27): Cobolli/Menšík (EUR) d. Fritz/de Minaur (WLD) 7-5, 6-3 (doubles, 3 pts); Zverev (EUR) d. Tien (WLD) 7-6(3), 6-3 (clincher, 3 pts). Final score Europe 13–World 5. Zverev's 4th career Laver Cup clinch (2018/2019/2021/2026). Europe all-time 9-1. Sources: lavercup.com, atptour.com, skysports.com, sports.yahoo.com. | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Sep 26 S1: Day 2 → Day 3 final result) |
