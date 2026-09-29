@@ -5,6 +5,59 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-29
+
+### Story 1: Wild Card Day — All Four Series Open Today
+- **Date:** 2026-09-29
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Full Wild Card Day preview. Phillies at Braves (2 PM), White Sox at Astros (5 PM), Yankees vs Red Sox (8 PM), Cubs at Padres (10 PM). All NBC/Peacock/NBCSN. Best-of-3. AL: No.1 Rays + No.2 Guardians have byes. NL: No.1 Brewers (103-59) + No.2 Dodgers have byes.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Wild Card Game 1 results all four series
+  - Game 2/3 content through Oct 1
+
+### Story 2: Aaron Judge Calf Injury — Yankees Without Their Captain vs. Red Sox
+- **Date:** 2026-09-29
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Judge has right calf strain (soleus), last played Sept 16. Boone: "planning on him not being a part of" WC series. Judge hoping to take BP Tuesday. Played only 66 games in 2026 — career low. Yankees vs Red Sox Game 1 tonight 8 PM ET.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Judge playoff availability updates
+  - Yankees Game 1 result without Judge
+
+### Story 3: White Sox — Three Straight 100-Loss Seasons to the Playoffs
+- **Date:** 2026-09-29
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** First team in MLB history to make playoffs after 3 straight 100-loss seasons. 324 losses 2023-25. MLB-record 121 losses in 2024. Opening Day 2026 playoff odds: 1.1%. Finished 84-78. Clinched Sept 24 vs KC. Both Chicago teams in playoffs — 4th time in history (1906, 2008, 2020, 2026).
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - White Sox vs Astros Wild Card series results
+
+### Story 4: Astros 81-81 — First Sub-.500 Division Champion in MLB History
+- **Date:** 2026-09-29
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Houston 81-81. Beat A's 9-0 on final day. First division champion in 162-game era to finish at .500 or below. One game ahead of Rangers (80-82). 9th postseason in 10 years. No AL West team finished with winning record. Host White Sox tonight 5 PM.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Astros Wild Card series results
+  - Historical framing in final postseason outcome
+
+### Story 5: Pittsburgh Pirates — First Winning Season Since 2018
+- **Date:** 2026-09-29
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Pirates finished 82-80, beat Tigers 4-2 on final day (Sept 27). First winning record since 2018 (82-79). Seven straight losing seasons over. 15-9 in September. 11-win improvement. Third in NL Central. Jared Jones + Konnor Griffin mentioned.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - 2027 Pirates outlook
+  - Young pitching development (Jones, Griffin)
+
+---
+
 ## 2026-09-28
 
 ### Story 1: Astros Clinch AL West at 81-81 — Historic First in 162-Game Era
