@@ -1,0 +1,283 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-29",
+  "compiled_at": "2026-09-29T12:36:53.657157+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Team Europe Wins Laver Cup 2026 — Final Score 13-5",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Team Europe wins the 2026 Laver Cup. 🏆\n\nFinal score: Europe 13 – World 5\n\nZverev sealed it Sunday — 7-6, 6-3 over Tien.\nAlcaraz. Ruud. Europe's depth was the difference.\n\nTeam World's title defense is over. #LaverCup #tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LaverCup",
+            "#tennis"
+          ],
+          "char_count": 224
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Zverev in 2026:\n\n🏆 Roland Garros\n🏆 US Open\n🏆 Laver Cup (clinching win)\n\nThree titles. Three stages.\n\nWhat a year. #tennis #Zverev",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#tennis",
+            "#Zverev"
+          ],
+          "char_count": 129
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-laver-cup-2026-europe-wins-13-5.html",
+        "headline": "Team Europe Wins Laver Cup 2026 — Zverev Seals 13-5 Victory Over Team World at The O2",
+        "word_count": 671
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Team Europe Wins Laver Cup 2026\n\n**Social Image — Text Overlay Spec:**\n- Headline: \"LAVER CUP 2026\"\n- Subtitle: \"EUROPE WINS 13-5\"\n- Headline color: #FFFFFF (White)\n- Subtitle color: #CDDC39 (Tennis Ball Yellow)\n- Background bar: #1A1A2E at 85% opacity (bottom third)\n\n**Photo Search Terms:**\n1. \"Alexander Zverev\"\n2. \"Carlos Alcaraz\"\n3. \"Laver Cup tennis\"\n4. \"Yannick Noah tennis\"\n\n**Composition Notes:** Celebration shot or action mid-match at The O2. Clean lower third for text overlay.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Laver Cup 2026 — RESULT: Team Europe wins 13-5\n**Status:** FOLLOW-UP (Sep 23 S1: 2 days out preview → final result)\n**Sources:**\n- https://sports.yahoo.com/articles/laver-cup-2026-live-scores-090001945.html — live score tracking\n- https://www.atptour.com/en/news/laver-cup-2026-results — official ATP results\n- https://www.atptour.com/en/news/laver-cup-2026-sunday-report — Sunday day report\n- https://www.skysports.com/tennis/news/13592390/laver-cup-us-open-champion-alexander-zverev-seals-victory-for-team-europe-against-team-world-at-londons-o2 — Zverev clinching match detail\n- https://sports.yahoo.com/articles/team-europe-crowned-laver-cup-152514976.html — final result confirmation\n**Key Facts (HIGH confidence — multiple sources):**\n- Team Europe def. Team World 13-5\n- Zverev (EUR) def. Tien (WLD) 7-6(3), 6-3 — clinching match Sunday\n- Day 1 (Friday): Europe 3-1. Day 2 (Saturday): World erased deficit to 5-3, Europe rallied to 7-5. Day 3 (Sunday): Europe clinched 13-5\n- Alcaraz survived 2 match points vs Fritz on Saturday (Day 2)\n- De Minaur def. Zverev (Day 2, Saturday) — comeback win\n- Ruud def. Cerundolo (Day 1, comeback)\n- Cobolli/Mensik (EUR) won doubles Sunday to push Europe close before Zverev clinched\n- Captain Yannick Noah's first Laver Cup title as captain\n- Europe all-time record now 9-1\n**Freshness:** Event concluded Sunday, Sep 27. RESULT story — HIGH urgency.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Leylah Fernandez Wins Singapore Open — Defeats Gibson 7-5, 6-0",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Leylah Fernandez wins the Singapore Open. 🎾\n\nFinal: Fernandez def. Gibson 7-5, 6-0\n\nWon the last 9 games of the match. Her 6th WTA title, 2nd at the 500 level.\n\nKnocked out top seed Andreeva to get there. #WTA #tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTA",
+            "#tennis"
+          ],
+          "char_count": 217
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Fernandez's run in Singapore:\n\nQF: Upset No. 1 seed Andreeva (Roland Garros champion)\nSF: Came back from a set down vs. Chwalinska\nF: Beat Gibson 7-5, 6-0, winning the last 9 games\n\nThat's how you win a title. #WTA #SingaporeOpen #tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTA",
+            "#SingaporeOpen",
+            "#tennis"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-fernandez-wins-singapore-open-wta-500.html",
+        "headline": "Leylah Fernandez Wins Singapore Open — Drops Gibson 7-5, 6-0 to Claim 6th WTA Title",
+        "word_count": 572
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Leylah Fernandez Singapore Open\n\n**Social Image — Text Overlay Spec:**\n- Headline: \"FERNANDEZ WINS\"\n- Subtitle: \"SINGAPORE OPEN 2026\"\n- Headline color: #FFFFFF\n- Subtitle color: #CDDC39\n- Background bar: #1A1A2E at 85%\n\n**Photo Search Terms:**\n1. \"Leylah Fernandez\"\n2. \"Leylah Fernandez tennis\"\n3. \"Leylah Fernandez WTA\"\n4. \"Leylah Fernandez Canada tennis\"\n\n**Composition Notes:** Fernandez celebrating or in action during a match. Wide or portrait crop both work.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WTA Singapore Open — Fernandez wins title\n**Status:** FOLLOW-UP (Sep 23 S3: Andreeva into QFs → tournament concluded)\n**Sources:**\n- https://www.wtatennis.com/news/4582367/fernandez-wins-final-eight-games-to-claim-sixth-career-title-in-singapore — official WTA final result\n- https://www.wtatennis.com/tournaments/1152/singapore/2026/scores/LS001 — tournament scores\n- https://sports.yahoo.com/articles/leylah-fernandez-wins-singapore-open-111633260.html — Yahoo Sports confirmation\n- https://www.wtatennis.com/news/4581896/fernandez-overcomes-andreeva-to-reach-first-semifinal-of-2026 — QF result vs Andreeva\n**Key Facts (HIGH confidence):**\n- Fernandez def. Gibson 7-5, 6-0 in the final\n- Match duration: approximately 1 hour 38 minutes\n- Fernandez won the final nine games of the match\n- 6th WTA Tour singles title for Fernandez; 2nd at the 500 level\n- Fernandez def. Andreeva (top seed) in QFs — first SF of Fernandez's 2026 season\n- SF: Fernandez def. Chwalinska 1-6, 6-4, 6-2 (comeback from a set down)\n- Andreeva (Roland Garros champion, No. 5) was the top seed; her loss to Fernandez was a surprise\n**Freshness:** Tournament concluded this week. RESULT story — HIGH urgency.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Sinner Confirmed for China Open — Returns Sep 30 After 11-Week Absence",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Sinner is back. 🎾\n\nWorld No. 1 confirmed for the China Open — starts TOMORROW in Beijing.\n\nOut since Wimbledon (July 12). 11 weeks. The knee is fine.\n\nThe Asian swing just got a lot more interesting. #Sinner #ChinaOpen #tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sinner",
+            "#ChinaOpen",
+            "#tennis"
+          ],
+          "char_count": 226
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Sinner returning to Beijing matters because:\n\n🎾 He's defending champion (500 Race points)\n📊 Zverev is No. 2 and in outstanding form\n🇨🇳 Draw: Zverev + Djokovic are both there\n\nFirst match back could be Wednesday. #tennis #ATP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#tennis",
+            "#ATP"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-sinner-returns-china-open-september-30.html",
+        "headline": "Sinner Confirmed for China Open — World No. 1 Returns to Competition After 11-Week Absence",
+        "word_count": 588
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sinner Returns — China Open\n\n**Social Image — Text Overlay Spec:**\n- Headline: \"SINNER RETURNS\"\n- Subtitle: \"CHINA OPEN — SEP 30\"\n- Headline color: #FFFFFF\n- Subtitle color: #CDDC39\n- Background bar: #1A1A2E at 85%\n\n**Photo Search Terms:**\n1. \"Jannik Sinner\"\n2. \"Jannik Sinner Wimbledon\"\n3. \"Jannik Sinner training\"\n4. \"Jannik Sinner Italy\"\n\n**Composition Notes:** Sinner in action or warming up. Expressive face or serving motion preferred.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sinner confirmed for China Open — returns Sep 30\n**Status:** FOLLOW-UP (Sep 23 S2: Asian swing doubt → CONFIRMED)\n**Sources:**\n- https://www.yardbarker.com/tennis/articles/jannik_sinner_reportedly_set_to_return_at_china_open_after_asian_swing_doubts/s1_17730_44342536\n- https://www.essentiallysports.com/tennis-news-jannik-sinner-reportedly-set-to-return-at-china-open-after-asian-swing-doubts/\n- https://khelnow.com/tennis/update-jannik-sinner-injury-return-date-202609\n- https://sports.yahoo.com/articles/jannik-sinner-latest-plans-return-120000710.html\n**Key Facts (HIGH confidence):**\n- Sinner traveling to Beijing; plans confirmed for China Open starting Sep 30\n- Sinner told La Repubblica: \"The knee? It's all fine.\"",
+        "sources": "- Source: Sportmediaset confirmed Beijing travel\n- Out since: Wimbledon final (July 12, 2026) — right knee extra-articular tendon inflammation\n- Duration of absence: approximately 11 weeks (Wimbledon → China Open)\n- Race position: No. 1 with 11,500 points; Zverev No. 2 at 9,690 points (pre-week)\n- Defending champion at China Open (500 Race points on the line)\n- Earlier (Sep 23) reporting by Pescosolido/Tuttosport suggested Vienna return — superseded\n**Freshness:** Breaking update — confirmation reverses last week's skepticism. HIGH urgency."
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Hangzhou Open Final — Medvedev vs. Rublev (All-Russian Showdown)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Hangzhou final: Medvedev vs. Rublev.\n\nAll-Russian ATP 250 showdown.\n\nRublev got here by winning his 400th career match.\nMedvedev beat Safiullin in the semis.\n\nTwo rivals. One title. #tennis #HangzhouOpen #ATP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#tennis",
+            "#HangzhouOpen",
+            "#ATP"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-hangzhou-open-final-medvedev-rublev.html",
+        "headline": "Hangzhou Open Final Set — Medvedev Faces Rublev in All-Russian ATP 250 Showdown",
+        "word_count": 518
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hangzhou Open Final\n\n**Social Image — Text Overlay Spec:**\n- Headline: \"HANGZHOU FINAL\"\n- Subtitle: \"MEDVEDEV VS RUBLEV\"\n- Headline color: #FFFFFF\n- Subtitle color: #CDDC39\n- Background bar: #1A1A2E at 85%\n\n**Photo Search Terms:**\n1. \"Daniil Medvedev\"\n2. \"Andrey Rublev\"\n3. \"Daniil Medvedev tennis\"\n4. \"Andrey Rublev tennis\"\n\n**Composition Notes:** Either player in match action; two-shot composite if available.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hangzhou Open Final — Medvedev vs. Rublev\n**Status:** FOLLOW-UP (Sep 23 S4: Hangzhou Day 1 → Final day)\n**Sources:**\n- https://www.atptour.com/en/news/hangzhou-2026-sunday-report — Sunday SF results\n- https://tennisnow.com/rublev-secures-400th-career-win-and-spot-alongside-medvedev-in-hangzhou-final/ — Rublev 400th win\n- https://www.tennis.com/tournaments/hangzhou-open/matches/d-medvedev-vs-a-rublev-2026-09-29 — final matchup\n- https://en.tennistemple.com/match/medvedev-rublev-hangzhou-2026/9483559/ — match details\n**Key Facts (MEDIUM-HIGH confidence):**\n- Rublev def. Jacquet 7-6(7), 6-1 (SF) — Rublev's 400th career ATP win\n- Medvedev def. Safiullin 7-5, 6-4 (SF) — 1 hour 42 minutes\n- Final scheduled Monday Sep 29\n- Jacquet: first ATP Tour SF; upset Marozsan (6th seed) en route\n- Medvedev: seeded No. 1; received first-round bye\n- Head-to-head record between Medvedev and Rublev: historic rivals; exact H2H TBC\n- $1,039,090 prize fund (ATP 250)\n**Freshness:** Final day — scheduled today (Sep 29). CURRENT story.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Chengdu Open Final — Hurkacz vs. Davidovich Fokina",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Chengdu final is set: Hurkacz vs. Davidovich Fokina.\n\nHurkacz came through a tough three-setter vs. Shapovalov.\nShapovalov fired 14 aces — not enough.\n\nBoth fighting for ATP Finals positioning. #tennis #ChengduOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#tennis",
+            "#ChengduOpen"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-chengdu-open-final-hurkacz-davidovich-fokina.html",
+        "headline": "Chengdu Open Final: Hurkacz Meets Davidovich Fokina After Shapovalov Three-Set Battle",
+        "word_count": 519
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Chengdu Open Final\n\n**Social Image — Text Overlay Spec:**\n- Headline: \"CHENGDU FINAL\"\n- Subtitle: \"HURKACZ VS DAVIDOVICH FOKINA\"\n- Headline color: #FFFFFF\n- Subtitle color: #CDDC39\n- Background bar: #1A1A2E at 85%\n\n**Photo Search Terms:**\n1. \"Hubert Hurkacz\"\n2. \"Alejandro Davidovich Fokina\"\n3. \"Hubert Hurkacz tennis\"\n4. \"Alejandro Davidovich Fokina tennis\"\n\n**Composition Notes:** Either player in action; serve or forehand motion preferred."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Chengdu Open Final — Hurkacz vs. Davidovich Fokina\n**Status:** FOLLOW-UP (Sep 23 S5: Chengdu Day 1 → Final day)\n**Sources:**\n- https://www.atptour.com/en/news/chengdu-2026-sunday-report — Sunday report\n- https://www.cbc.ca/sports/tennis/shapovalov-chengdu-open-semifinal-recap-tennis-9.7360958 — Shapovalov SF result\n- https://www.atptour.com/en/news/mannarino-shang-chengdu-2026-thursday — earlier round results\n**Key Facts (MEDIUM confidence):**\n- Hurkacz def. Shapovalov 6-7(8), 6-3, 6-3 (SF) — Shapovalov had 14 aces\n- Shapovalov: 250th career ATP win during the week\n- Davidovich Fokina (No. 2 seed) advanced from other half\n- Final: not before 7 PM local time Monday (Sep 29)\n- Mannarino def. Shang Juncheng (defending champion) in earlier round\n- ATP 250; Race to Turin implications\n**Freshness:** Final day — scheduled today (Sep 29). CURRENT story.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
