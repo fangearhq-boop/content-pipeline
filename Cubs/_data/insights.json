@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-29T08:30:00.087049+00:00",
+  "generated_at": "2026-09-29T15:54:49.483485+00:00",
   "account": "cubs",
   "window_days": 21,
-  "tweet_count": 154,
-  "measured_tweet_count": 154,
+  "tweet_count": 162,
+  "measured_tweet_count": 156,
   "measured_median_impressions": 70.5,
-  "measured_mean_impressions": 98.64,
-  "median_impressions": 70.5,
-  "mean_impressions": 98.64,
-  "max_impressions": 659,
+  "measured_mean_impressions": 101.37,
+  "median_impressions": 69.5,
+  "mean_impressions": 97.62,
+  "max_impressions": 720,
   "significant_findings": [
     {
       "dimension": "posting_window=evening_18_24",
@@ -18,9 +18,9 @@
       "median_impressions_winner": 107.5,
       "median_impressions_loser": 70.0,
       "n_winner": 12,
-      "n_loser": 142,
-      "p_value": 0.0449,
-      "effect_size_cliffs_delta": 0.35,
+      "n_loser": 144,
+      "p_value": 0.0439,
+      "effect_size_cliffs_delta": 0.351,
       "effect_size_label": "medium"
     }
   ],
@@ -29,47 +29,47 @@
     "window_days": 90,
     "sample": "brief posts with a complete impressions snapshot",
     "signals": "reach (impressions, all measured briefs) and engagement rate (engagements / impressions, briefs with above-median reach only), each hour vs the rest of the day, Mann-Whitney + Cliff's delta, Holm-corrected across all hour x signal contrasts",
-    "brief_count": 483,
+    "brief_count": 486,
     "instruction": "When assigning posting_time, prefer recommended_hours and never use avoid_hours, but keep the day's usual shape: the same number of posts, spread across the day, at least 20 minutes apart, no more than 2 posts in any one hour, and within the caps of 5 posts 6AM-noon, 4 posts noon-6PM, 3 posts 6PM-midnight CT. Hours without a verdict are neutral. If recommended_hours is empty, keep the current schedule.",
     "hours": [
       {
         "hour_ct": 7,
-        "n": 82,
-        "median_impressions": 81.5,
+        "n": 83,
+        "median_impressions": 81,
         "engagement_n": 37,
         "median_engagement_rate": 0.0032,
         "reach_verdict": null,
-        "reach_p_value": 0.4486017972168095,
-        "reach_effect_size": -0.05309895991727997,
+        "reach_p_value": 0.4172428623946587,
+        "reach_effect_size": -0.056533827618164965,
         "engagement_verdict": null,
-        "engagement_p_value": 0.9146540484040793,
-        "engagement_effect_size": 0.01041529334212261
+        "engagement_p_value": 0.8975991426453209,
+        "engagement_effect_size": 0.012463920230910521
       },
       {
         "hour_ct": 8,
-        "n": 68,
-        "median_impressions": 81.0,
+        "n": 69,
+        "median_impressions": 81,
         "engagement_n": 30,
         "median_engagement_rate": 0.0091,
         "reach_verdict": null,
-        "reach_p_value": 0.7770866386794577,
-        "reach_effect_size": -0.021438695960311834,
+        "reach_p_value": 0.7136318247900222,
+        "reach_effect_size": -0.02759531505230598,
         "engagement_verdict": null,
-        "engagement_p_value": 0.018635571295672726,
-        "engagement_effect_size": 0.24669811320754717
+        "engagement_p_value": 0.017502842851303324,
+        "engagement_effect_size": 0.24882629107981222
       },
       {
         "hour_ct": 9,
-        "n": 71,
-        "median_impressions": 94,
-        "engagement_n": 37,
+        "n": 72,
+        "median_impressions": 92.0,
+        "engagement_n": 38,
         "median_engagement_rate": 0.0,
         "reach_verdict": null,
-        "reach_p_value": 0.839108247682185,
-        "reach_effect_size": -0.015110077943388487,
+        "reach_p_value": 0.8357516214905489,
+        "reach_effect_size": -0.015331454643048846,
         "engagement_verdict": null,
-        "engagement_p_value": 0.4556259399278897,
-        "engagement_effect_size": -0.07172050098879368
+        "engagement_p_value": 0.3823952890827651,
+        "engagement_effect_size": -0.08292682926829269
       },
       {
         "hour_ct": 10,
@@ -78,11 +78,11 @@
         "engagement_n": 23,
         "median_engagement_rate": 0.003,
         "reach_verdict": null,
-        "reach_p_value": 0.32126211120486414,
-        "reach_effect_size": -0.07854867531660321,
+        "reach_p_value": 0.3420077902983025,
+        "reach_effect_size": -0.07521697203471553,
         "engagement_verdict": null,
-        "engagement_p_value": 0.49470114031760426,
-        "engagement_effect_size": -0.0806035338495136
+        "engagement_p_value": 0.5090187539760123,
+        "engagement_effect_size": -0.07786561264822134
       },
       {
         "hour_ct": 11,
@@ -104,11 +104,11 @@
         "engagement_n": 40,
         "median_engagement_rate": 0.0,
         "reach_verdict": null,
-        "reach_p_value": 0.21486979298789866,
-        "reach_effect_size": 0.09107918476445039,
+        "reach_p_value": 0.20202302024409668,
+        "reach_effect_size": 0.0936349464327175,
         "engagement_verdict": null,
-        "engagement_p_value": 0.2345251203568952,
-        "engagement_effect_size": -0.11064356435643564
+        "engagement_p_value": 0.24524892687201794,
+        "engagement_effect_size": -0.10800492610837438
       },
       {
         "hour_ct": 13,
@@ -117,11 +117,11 @@
         "engagement_n": 13,
         "median_engagement_rate": 0.0089,
         "reach_verdict": null,
-        "reach_p_value": 0.9347163991662819,
-        "reach_effect_size": -0.010207939508506616,
+        "reach_p_value": 0.9569277033311359,
+        "reach_effect_size": -0.006761198234576016,
         "engagement_verdict": null,
-        "engagement_p_value": 0.13188998120940276,
-        "engagement_effect_size": 0.23110513940208263
+        "engagement_p_value": 0.12871048113287387,
+        "engagement_effect_size": 0.23277591973244147
       },
       {
         "hour_ct": 14,
@@ -130,11 +130,11 @@
         "engagement_n": 19,
         "median_engagement_rate": 0.0079,
         "reach_verdict": null,
-        "reach_p_value": 0.4482481351814602,
-        "reach_effect_size": 0.08143020268341422,
+        "reach_p_value": 0.43309602374384903,
+        "reach_effect_size": 0.08415455512229705,
         "engagement_verdict": null,
-        "engagement_p_value": 0.16017083630404927,
-        "engagement_effect_size": 0.18055227755487374
+        "engagement_p_value": 0.15456240986173064,
+        "engagement_effect_size": 0.18280075187969924
       },
       {
         "hour_ct": 15,
@@ -143,11 +143,11 @@
         "engagement_n": 17,
         "median_engagement_rate": 0.0,
         "reach_verdict": null,
-        "reach_p_value": 0.5363708865334595,
-        "reach_effect_size": -0.0685097979644539,
+        "reach_p_value": 0.556221864305747,
+        "reach_effect_size": -0.06519278653889686,
         "engagement_verdict": null,
-        "engagement_p_value": 0.505680358250663,
-        "engagement_effect_size": -0.09019607843137255
+        "engagement_p_value": 0.513295226286703,
+        "engagement_effect_size": -0.08849557522123894
       },
       {
         "hour_ct": 16,
@@ -156,8 +156,8 @@
         "engagement_n": 6,
         "median_engagement_rate": 0.0038,
         "reach_verdict": null,
-        "reach_p_value": 0.13404101431449478,
-        "reach_effect_size": 0.30894736842105264,
+        "reach_p_value": 0.13251297796365957,
+        "reach_effect_size": 0.3101464435146444,
         "engagement_verdict": null,
         "engagement_p_value": null,
         "engagement_effect_size": null
@@ -169,17 +169,17 @@
         "engagement_n": 19,
         "median_engagement_rate": 0.0,
         "reach_verdict": null,
-        "reach_p_value": 0.7026470725500036,
-        "reach_effect_size": 0.038279890628883914,
+        "reach_p_value": 0.6839686487097423,
+        "reach_effect_size": 0.04080246913580247,
         "engagement_verdict": null,
-        "engagement_p_value": 0.08497332017537862,
-        "engagement_effect_size": -0.22138305404767525
+        "engagement_p_value": 0.08839560261776658,
+        "engagement_effect_size": -0.21875
       }
     ],
     "recommended_hours": [],
     "avoid_hours": [],
     "note": "No hour cleared the Holm-corrected significance gates against the rest of the day; keep the current schedule.",
-    "overall_median_impressions": 88
+    "overall_median_impressions": 87.5
   },
   "methodology": {
     "test": "Mann-Whitney U (two-sided, tie-corrected, normal approximation with continuity correction)",
@@ -193,6 +193,33 @@
   },
   "raw_buckets": {
     "by_hour_ct": {
+      "9": {
+        "n": 18,
+        "mean": 72.61,
+        "median": 61.0,
+        "top": {
+          "impressions": 155,
+          "text": "44 home runs. 37 stolen bases.\n\nPete Crow-Armstrong needs 3 more steals to become the first Cub EVER with a 40-40 season \u2014 and just the 7th player in MLB history.\n\n9 games left. Clock is ticking.\n\n#Cubs #GoCubs #ChicagoCubs"
+        }
+      },
+      "8": {
+        "n": 19,
+        "mean": 161.26,
+        "median": 79,
+        "top": {
+          "impressions": 720,
+          "text": "Game 1 is tomorrow. Tuesday, 9 PM CT. Petco Park.\n\nCubs vs. Padres \u2014 WCS rematch. Matthew Boyd takes the ball for Chicago. San Diego had a 16-5 September but the Cubs went 5-1 against them this year.\n\nThis is how you earn the right to the r"
+        }
+      },
+      "7": {
+        "n": 21,
+        "mean": 105.24,
+        "median": 70,
+        "top": {
+          "impressions": 624,
+          "text": "Three home runs. Four innings. Gausman got shelled.\n\nYelich, Chourio, Contreras took him deep. Cubs rallied with five in the ninth \u2014 too little, too late. The Brewers complete the sweep.\n\nWrigley next. Pirates tomorrow. Time to reset.\n\n#Cub"
+        }
+      },
       "15": {
         "n": 9,
         "mean": 86.22,
@@ -209,33 +236,6 @@
         "top": {
           "impressions": 386,
           "text": "Clay Holmes takes the mound at Fenway today.\n\nRed Sox bring Alec Gamboa to the bump. First pitch 12:05 PM CT.\n\nLet's go.\n\n#Cubs #GoCubs #FlyTheW"
-        }
-      },
-      "9": {
-        "n": 17,
-        "mean": 72.88,
-        "median": 61,
-        "top": {
-          "impressions": 155,
-          "text": "44 home runs. 37 stolen bases.\n\nPete Crow-Armstrong needs 3 more steals to become the first Cub EVER with a 40-40 season \u2014 and just the 7th player in MLB history.\n\n9 games left. Clock is ticking.\n\n#Cubs #GoCubs #ChicagoCubs"
-        }
-      },
-      "8": {
-        "n": 18,
-        "mean": 139.11,
-        "median": 80.0,
-        "top": {
-          "impressions": 659,
-          "text": "Miguel Amaya's sixth homer put the Cubs ahead 2-1.\n\nA two-run single in the sixth inning turned it around. Boyd left with runners on; the pen couldn't hold. Final: Pirates 4, Cubs 3.\n\nChicago still took the series 2-1. Braves start tonight."
-        }
-      },
-      "7": {
-        "n": 21,
-        "mean": 105.43,
-        "median": 70,
-        "top": {
-          "impressions": 624,
-          "text": "Three home runs. Four innings. Gausman got shelled.\n\nYelich, Chourio, Contreras took him deep. Cubs rallied with five in the ninth \u2014 too little, too late. The Brewers complete the sweep.\n\nWrigley next. Pirates tomorrow. Time to reset.\n\n#Cub"
         }
       },
       "16": {
@@ -339,13 +339,22 @@
       }
     },
     "by_weekday_ct": {
+      "Tue": {
+        "n": 24,
+        "mean": 100.33,
+        "median": 67.0,
+        "top": {
+          "impressions": 477,
+          "text": "6-1 vs. Philadelphia this season. That tiebreaker means if the Cubs clinch WC1, every Wild Card series game is at Wrigley.\n\nIt's not just about making the playoffs \u2014 it's about making them come to you.\n\nHome field. Wrigley. October.\n\n#Cubs "
+        }
+      },
       "Mon": {
         "n": 18,
-        "mean": 119.5,
+        "mean": 151.44,
         "median": 83.0,
         "top": {
-          "impressions": 659,
-          "text": "Miguel Amaya's sixth homer put the Cubs ahead 2-1.\n\nA two-run single in the sixth inning turned it around. Boyd left with runners on; the pen couldn't hold. Final: Pirates 4, Cubs 3.\n\nChicago still took the series 2-1. Braves start tonight."
+          "impressions": 720,
+          "text": "Game 1 is tomorrow. Tuesday, 9 PM CT. Petco Park.\n\nCubs vs. Padres \u2014 WCS rematch. Matthew Boyd takes the ball for Chicago. San Diego had a 16-5 September but the Cubs went 5-1 against them this year.\n\nThis is how you earn the right to the r"
         }
       },
       "Sun": {
@@ -359,8 +368,8 @@
       },
       "Sat": {
         "n": 19,
-        "mean": 78.26,
-        "median": 68,
+        "mean": 79.74,
+        "median": 70,
         "top": {
           "impressions": 138,
           "text": "Cubs optioned RHP Julian Aguiar to ACL Cubs.\n\nOpens up roster flexibility as the team continues to evaluate depth options.\n\n#Cubs\n#GoCubs\n#MLB"
@@ -392,25 +401,16 @@
           "impressions": 331,
           "text": "0 games in five months. Seiya Suzuki returned Sept. 19 and is healthy heading into tonight.\n\nCounsell's managing his workload, but a healthy Suzuki available for October changes this roster's ceiling.\n\n#Cubs #GoCubs #ChicagoCubs"
         }
-      },
-      "Tue": {
-        "n": 22,
-        "mean": 108.5,
-        "median": 76.0,
-        "top": {
-          "impressions": 477,
-          "text": "6-1 vs. Philadelphia this season. That tiebreaker means if the Cubs clinch WC1, every Wild Card series game is at Wrigley.\n\nIt's not just about making the playoffs \u2014 it's about making them come to you.\n\nHome field. Wrigley. October.\n\n#Cubs "
-        }
       }
     },
     "by_content_type": {
       "brief": {
-        "n": 117,
-        "mean": 99.88,
+        "n": 119,
+        "mean": 103.45,
         "median": 71,
         "top": {
-          "impressions": 659,
-          "text": "Miguel Amaya's sixth homer put the Cubs ahead 2-1.\n\nA two-run single in the sixth inning turned it around. Boyd left with runners on; the pen couldn't hold. Final: Pirates 4, Cubs 3.\n\nChicago still took the series 2-1. Braves start tonight."
+          "impressions": 720,
+          "text": "Game 1 is tomorrow. Tuesday, 9 PM CT. Petco Park.\n\nCubs vs. Padres \u2014 WCS rematch. Matthew Boyd takes the ball for Chicago. San Diego had a 16-5 September but the Cubs went 5-1 against them this year.\n\nThis is how you earn the right to the r"
         }
       },
       "game_final_thread_next": {
@@ -496,22 +496,22 @@
       }
     },
     "by_opening": {
-      "statement": {
-        "n": 109,
-        "mean": 99.22,
-        "median": 69,
-        "top": {
-          "impressions": 659,
-          "text": "Miguel Amaya's sixth homer put the Cubs ahead 2-1.\n\nA two-run single in the sixth inning turned it around. Boyd left with runners on; the pen couldn't hold. Final: Pirates 4, Cubs 3.\n\nChicago still took the series 2-1. Braves start tonight."
-        }
-      },
       "allcaps_lead": {
-        "n": 16,
-        "mean": 89.75,
-        "median": 70.5,
+        "n": 17,
+        "mean": 86.47,
+        "median": 69,
         "top": {
           "impressions": 199,
           "text": "Imanaga was SHARP tonight. 7 K's, 1 ER over 5 innings, zero walks. That's the kind of efficient, dominant pitching that wins ballgames.\n\n#Cubs #GoCubs #FlyTheW"
+        }
+      },
+      "statement": {
+        "n": 110,
+        "mean": 103.68,
+        "median": 69.0,
+        "top": {
+          "impressions": 720,
+          "text": "Game 1 is tomorrow. Tuesday, 9 PM CT. Petco Park.\n\nCubs vs. Padres \u2014 WCS rematch. Matthew Boyd takes the ball for Chicago. San Diego had a 16-5 September but the Cubs went 5-1 against them this year.\n\nThis is how you earn the right to the r"
         }
       },
       "stat_lead": {
@@ -526,18 +526,18 @@
     },
     "by_len_bucket": {
       "260+": {
-        "n": 25,
-        "mean": 92.92,
-        "median": 66,
+        "n": 26,
+        "mean": 112.77,
+        "median": 66.0,
         "top": {
-          "impressions": 659,
-          "text": "Miguel Amaya's sixth homer put the Cubs ahead 2-1.\n\nA two-run single in the sixth inning turned it around. Boyd left with runners on; the pen couldn't hold. Final: Pirates 4, Cubs 3.\n\nChicago still took the series 2-1. Braves start tonight."
+          "impressions": 720,
+          "text": "Game 1 is tomorrow. Tuesday, 9 PM CT. Petco Park.\n\nCubs vs. Padres \u2014 WCS rematch. Matthew Boyd takes the ball for Chicago. San Diego had a 16-5 September but the Cubs went 5-1 against them this year.\n\nThis is how you earn the right to the r"
         }
       },
       "200-260": {
-        "n": 81,
-        "mean": 106.31,
-        "median": 79,
+        "n": 82,
+        "mean": 105.2,
+        "median": 80.0,
         "top": {
           "impressions": 624,
           "text": "Three home runs. Four innings. Gausman got shelled.\n\nYelich, Chourio, Contreras took him deep. Cubs rallied with five in the ninth \u2014 too little, too late. The Brewers complete the sweep.\n\nWrigley next. Pirates tomorrow. Time to reset.\n\n#Cub"
@@ -564,12 +564,12 @@
     },
     "by_hashtag_count": {
       "3": {
-        "n": 153,
-        "mean": 99,
+        "n": 155,
+        "mean": 101.75,
         "median": 71,
         "top": {
-          "impressions": 659,
-          "text": "Miguel Amaya's sixth homer put the Cubs ahead 2-1.\n\nA two-run single in the sixth inning turned it around. Boyd left with runners on; the pen couldn't hold. Final: Pirates 4, Cubs 3.\n\nChicago still took the series 2-1. Braves start tonight."
+          "impressions": 720,
+          "text": "Game 1 is tomorrow. Tuesday, 9 PM CT. Petco Park.\n\nCubs vs. Padres \u2014 WCS rematch. Matthew Boyd takes the ball for Chicago. San Diego had a 16-5 September but the Cubs went 5-1 against them this year.\n\nThis is how you earn the right to the r"
         }
       },
       "4": {
@@ -584,18 +584,18 @@
     },
     "by_has_score": {
       "True": {
-        "n": 84,
-        "mean": 97.94,
-        "median": 72.0,
+        "n": 85,
+        "mean": 103.32,
+        "median": 71,
         "top": {
-          "impressions": 659,
-          "text": "Miguel Amaya's sixth homer put the Cubs ahead 2-1.\n\nA two-run single in the sixth inning turned it around. Boyd left with runners on; the pen couldn't hold. Final: Pirates 4, Cubs 3.\n\nChicago still took the series 2-1. Braves start tonight."
+          "impressions": 720,
+          "text": "Game 1 is tomorrow. Tuesday, 9 PM CT. Petco Park.\n\nCubs vs. Padres \u2014 WCS rematch. Matthew Boyd takes the ball for Chicago. San Diego had a 16-5 September but the Cubs went 5-1 against them this year.\n\nThis is how you earn the right to the r"
         }
       },
       "False": {
-        "n": 70,
-        "mean": 99.47,
-        "median": 68.0,
+        "n": 71,
+        "mean": 99.04,
+        "median": 68,
         "top": {
           "impressions": 624,
           "text": "Three home runs. Four innings. Gausman got shelled.\n\nYelich, Chourio, Contreras took him deep. Cubs rallied with five in the ninth \u2014 too little, too late. The Brewers complete the sweep.\n\nWrigley next. Pirates tomorrow. Time to reset.\n\n#Cub"
@@ -603,33 +603,33 @@
       }
     },
     "by_has_stat": {
-      "False": {
-        "n": 106,
-        "mean": 102.28,
-        "median": 70.0,
-        "top": {
-          "impressions": 659,
-          "text": "Miguel Amaya's sixth homer put the Cubs ahead 2-1.\n\nA two-run single in the sixth inning turned it around. Boyd left with runners on; the pen couldn't hold. Final: Pirates 4, Cubs 3.\n\nChicago still took the series 2-1. Braves start tonight."
-        }
-      },
       "True": {
-        "n": 48,
-        "mean": 90.58,
-        "median": 71.5,
+        "n": 49,
+        "mean": 90.22,
+        "median": 71,
         "top": {
           "impressions": 264,
           "text": "Pete Crow-Armstrong: 41 HR / 36 SB.\n\nFour stolen bases. Seventeen games. The 40-40 club has six members in all of MLB history. No Cub has EVER done it.\n\nPCA is about to change that.\n\n#Cubs #GoCubs #MLB"
+        }
+      },
+      "False": {
+        "n": 107,
+        "mean": 106.48,
+        "median": 70,
+        "top": {
+          "impressions": 720,
+          "text": "Game 1 is tomorrow. Tuesday, 9 PM CT. Petco Park.\n\nCubs vs. Padres \u2014 WCS rematch. Matthew Boyd takes the ball for Chicago. San Diego had a 16-5 September but the Cubs went 5-1 against them this year.\n\nThis is how you earn the right to the r"
         }
       }
     },
     "by_has_emoji_first_line": {
       "False": {
-        "n": 153,
-        "mean": 98.86,
+        "n": 155,
+        "mean": 101.61,
         "median": 71,
         "top": {
-          "impressions": 659,
-          "text": "Miguel Amaya's sixth homer put the Cubs ahead 2-1.\n\nA two-run single in the sixth inning turned it around. Boyd left with runners on; the pen couldn't hold. Final: Pirates 4, Cubs 3.\n\nChicago still took the series 2-1. Braves start tonight."
+          "impressions": 720,
+          "text": "Game 1 is tomorrow. Tuesday, 9 PM CT. Petco Park.\n\nCubs vs. Padres \u2014 WCS rematch. Matthew Boyd takes the ball for Chicago. San Diego had a 16-5 September but the Cubs went 5-1 against them this year.\n\nThis is how you earn the right to the r"
         }
       },
       "True": {
@@ -644,18 +644,18 @@
     },
     "by_has_allcaps": {
       "True": {
-        "n": 107,
-        "mean": 89.12,
-        "median": 70,
+        "n": 108,
+        "mean": 93.89,
+        "median": 70.5,
         "top": {
-          "impressions": 477,
-          "text": "6-1 vs. Philadelphia this season. That tiebreaker means if the Cubs clinch WC1, every Wild Card series game is at Wrigley.\n\nIt's not just about making the playoffs \u2014 it's about making them come to you.\n\nHome field. Wrigley. October.\n\n#Cubs "
+          "impressions": 720,
+          "text": "Game 1 is tomorrow. Tuesday, 9 PM CT. Petco Park.\n\nCubs vs. Padres \u2014 WCS rematch. Matthew Boyd takes the ball for Chicago. San Diego had a 16-5 September but the Cubs went 5-1 against them this year.\n\nThis is how you earn the right to the r"
         }
       },
       "False": {
-        "n": 47,
-        "mean": 120.3,
-        "median": 71,
+        "n": 48,
+        "mean": 118.21,
+        "median": 70.5,
         "top": {
           "impressions": 659,
           "text": "Miguel Amaya's sixth homer put the Cubs ahead 2-1.\n\nA two-run single in the sixth inning turned it around. Boyd left with runners on; the pen couldn't hold. Final: Pirates 4, Cubs 3.\n\nChicago still took the series 2-1. Braves start tonight."
@@ -666,9 +666,9 @@
   "raw_buckets_engagement_above_median": {
     "by_content_type": {
       "brief": {
-        "n": 59,
-        "mean_rate": 0.0097,
-        "median_rate": 0.0047
+        "n": 60,
+        "mean_rate": 0.0096,
+        "median_rate": 0.004
       },
       "game_final": {
         "n": 6,
@@ -713,9 +713,9 @@
         "median_rate": 0.0125
       },
       "statement": {
-        "n": 51,
-        "mean_rate": 0.0116,
-        "median_rate": 0.0046
+        "n": 52,
+        "mean_rate": 0.0114,
+        "median_rate": 0.0039
       },
       "stat_lead": {
         "n": 18,
@@ -725,9 +725,9 @@
     },
     "by_has_score": {
       "False": {
-        "n": 33,
-        "mean_rate": 0.0117,
-        "median_rate": 0.0091
+        "n": 34,
+        "mean_rate": 0.0114,
+        "median_rate": 0.0089
       },
       "True": {
         "n": 44,
@@ -737,9 +737,9 @@
     },
     "by_has_stat": {
       "False": {
-        "n": 52,
-        "mean_rate": 0.0116,
-        "median_rate": 0.0047
+        "n": 53,
+        "mean_rate": 0.0114,
+        "median_rate": 0.0046
       },
       "True": {
         "n": 25,
@@ -749,6 +749,16 @@
     }
   },
   "top_performers": [
+    {
+      "posted_at": "2026-09-28 08:19 CT",
+      "content_type": "brief",
+      "impressions": 720,
+      "engagement": 8,
+      "engagement_rate": 0.0111,
+      "opening": "statement",
+      "len": 273,
+      "text": "Game 1 is tomorrow. Tuesday, 9 PM CT. Petco Park.\n\nCubs vs. Padres \u2014 WCS rematch. Matthew Boyd takes the ball for Chicago. San Diego had a 16-5 September but the Cubs went 5-1 against them this year.\n\nThis is how you earn the right to the road trip.\n\n#Cubs #GoCubs #FlyTheW"
+    },
     {
       "posted_at": "2026-09-14 08:16 CT",
       "content_type": "brief",
@@ -788,39 +798,9 @@
       "opening": "statement",
       "len": 144,
       "text": "Clay Holmes takes the mound at Fenway today.\n\nRed Sox bring Alec Gamboa to the bump. First pitch 12:05 PM CT.\n\nLet's go.\n\n#Cubs #GoCubs #FlyTheW"
-    },
-    {
-      "posted_at": "2026-09-23 13:15 CT",
-      "content_type": "brief",
-      "impressions": 331,
-      "engagement": 3,
-      "engagement_rate": 0.0091,
-      "opening": "statement",
-      "len": 228,
-      "text": "0 games in five months. Seiya Suzuki returned Sept. 19 and is healthy heading into tonight.\n\nCounsell's managing his workload, but a healthy Suzuki available for October changes this roster's ceiling.\n\n#Cubs #GoCubs #ChicagoCubs"
     }
   ],
   "bottom_performers": [
-    {
-      "posted_at": "2026-09-27 13:18 CT",
-      "content_type": "brief",
-      "impressions": 28,
-      "engagement": 0,
-      "engagement_rate": 0.0,
-      "opening": "statement",
-      "len": 237,
-      "text": "In 50 minutes, the Cubs play their last regular season game of 2026.\n\n88-73. Wild Card No. 2. A franchise-best offense. An MVP in center field.\n\nThe warmup's about to start. The real thing is Tuesday in San Diego.\n\n#Cubs #FlyTheW #GoCubs"
-    },
-    {
-      "posted_at": "2026-09-15 12:00 CT",
-      "content_type": "brief",
-      "impressions": 25,
-      "engagement": 0,
-      "engagement_rate": 0.0,
-      "opening": "stat_lead",
-      "len": 224,
-      "text": "Gausman: 9-12, 4.60 ERA. P\u00e9rez: 8-9, 3.08 ERA.\n\nGausman gets the ball tonight at Wrigley (6:40 PM CT). Needs a bounce-back after a 6-ER meltdown vs the Brewers last week.\n\nWrigley crowd, show up loud.\n\n#Cubs #GoCubs #FlyTheW"
-    },
     {
       "posted_at": "2026-09-25 09:31 CT",
       "content_type": "brief",
@@ -842,6 +822,16 @@
       "text": "Boyd takes the mound at Wrigley today.\n\n1:20 PM CT kickoff against Miami. Let's get this W.\n\n#Cubs #GoCubs #FlyTheW"
     },
     {
+      "posted_at": "2026-09-29 08:22 CT",
+      "content_type": "brief",
+      "impressions": 20,
+      "engagement": 0,
+      "engagement_rate": 0.0,
+      "opening": "statement",
+      "len": 259,
+      "text": "Cubs won 5 of 6 vs. San Diego in 2026. Took two of three at Petco in April. Swept them at Wrigley in late June.\n\nThis is not a neutral matchup \u2014 Chicago has the receipts and the Padres know it.\n\nRematch. Different stadium. Same result.\n\n#Cubs #GoCubs #FlyTheW"
+    },
+    {
       "posted_at": "2026-09-16 09:30 CT",
       "content_type": "brief",
       "impressions": 20,
@@ -850,6 +840,16 @@
       "opening": "statement",
       "len": 186,
       "text": "84-68. WC1. Ten games left.\n\nThe Cubs hold home-field for the Wild Card Series at Wrigley. Win tonight and tighten the grip.\n\nPhillies are watching. Don't blink.\n\n#Cubs #NorthSiders #MLB"
+    },
+    {
+      "posted_at": "2026-09-29 07:08 CT",
+      "content_type": "brief",
+      "impressions": 16,
+      "engagement": 0,
+      "engagement_rate": 0.0,
+      "opening": "statement",
+      "len": 225,
+      "text": "Cubs at Padres \u2014 3-game Wild Card Series at Petco Park. Game 1 tonight.\n\nBoyd vs. King. First pitch 9 PM CT on Peacock and NBCSN.\n\nCubs went 5-1 vs. San Diego in 2026. Rematch, new venue, same mission.\n\n#Cubs #GoCubs #FlyTheW"
     }
   ]
 }
