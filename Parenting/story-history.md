@@ -2,6 +2,50 @@
 
 ---
 
+## September 29, 2026
+
+### Story 1: CPSC Recalls Two Children's Products — Bike Helmets and Light-Up Toys
+- **Date:** 2026-09-29
+- **Tier:** T1
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** Two CPSC recalls Sep 24, 2026; 5Color Kids' Bike Helmets — fails federal safety standard; ABC Trading light-up toys — accessible button batteries (fatal if swallowed); stop use immediately; details at cpsc.gov/Recalls
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 2: Oktoberfest at Western Museum of Mining — Free Family Fun This Saturday
+- **Date:** 2026-09-29
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Oktoberfest at Western Museum of Mining and Industry; Saturday October 3, 2026; free admission; Dachshund Dash, baking contest, traditional activities; all ages welcome
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 3: Rock Ledge Ranch Fall Harvest — Wagon Rides and Pumpkins
+- **Date:** 2026-09-29
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Rock Ledge Ranch Fall Harvest; Saturday October 3, 2026; 10 AM–4 PM; wagon rides, pumpkin picking, candy scrambles, blacksmith shop tours; ranch setting in front of Garden of the Gods
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 4: D49 Absorbs $53 Million After ERBOCES Dissolution
+- **Date:** 2026-09-29
+- **Tier:** T1
+- **Pillar:** Local News (D49 Schools)
+- **Key Facts:** D49 Board voted to dissolve ERBOCES (Education ReEnvisioned BOCES); absorbs approximately $53 million in funding; directed by Colorado Department of Education; first reported Gazette September 11, 2026; affects charter/specialized program families; updates at d49.org
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 5: AAP Updates Screen Time Guidance — Quality Over Clock Hours
+- **Date:** 2026-09-29
+- **Tier:** T2
+- **Pillar:** National Parenting (Health & Wellness)
+- **Key Facts:** AAP 2026 framework drops 2-hour daily cap for school-age kids and teens; focus on what screen time displaces (sleep, activity, face-to-face time); under 18 months still no screens (except video chat); ages 2–5 up to 1 hour/day quality content; no screens in bedrooms; screen-free buffer before bed; guidelines at healthychildren.org
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+---
+
 ## September 28, 2026
 
 ### Story 1: Mikario Trading 5-in-1 Baby Gym Recall — Suffocation Hazard, TikTok Shop
