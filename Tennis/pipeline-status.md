@@ -1,6 +1,37 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-09-28
+## Current Run: 2026-09-29
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Laver Cup Final Europe 13-5 (atptour.com/skysports.com/sports.yahoo.com); Fernandez wins Singapore Open 7-5 6-0 (wtatennis.com/yahoo sports); Sinner confirmed China Open return Sep 30 (Sportmediaset/yardbarker.com/essentiallysports.com); Hangzhou Final Medvedev vs Rublev (atptour.com/tennisnow.com/tennis.com); Chengdu Final Hurkacz vs Davidovich Fokina (atptour.com/cbc.ca) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Sep 28 S1: Day 3 result → confirmed Europe 13-5); S2 FOLLOW-UP (Sep 28 S2: final result confirmed → article follow-up angle); S3 FOLLOW-UP (Sep 25 S2: WD confirmation → China Open return confirmed); S4 FOLLOW-UP (Sep 28 S4: final preview → Medvedev/Rublev all-Russian final); S5 FOLLOW-UP (Sep 28 S5: Chengdu final preview → Hurkacz/Davidovich Fokina confirmed) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: atptour.com, lavercup.com, skysports.com, sports.yahoo.com, wtatennis.com, Sportmediaset, yardbarker.com, essentiallysports.com, khelnow.com, tennisnow.com, tennis.com, en.tennistemple.com, cbc.ca |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 8 posts across 5 stories (2 for each T1, 1 each for T2); all ≤280 chars verified |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories (social + article hero) |
+| Articles (5) | COMPLETE | article-01 Laver Cup Europe wins 13-5 (Elena Voss T1); article-02 Fernandez wins Singapore Open (Marcus Cole T1); article-03 Sinner confirmed China Open return (Ryan Calloway T1); article-04 Hangzhou final Medvedev/Rublev (Elena Voss T2); article-05 Chengdu final Hurkacz/Davidovich Fokina (Marcus Cole T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated; claims verified; image manifest warnings cosmetic (imagn, known) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 articles; posting-window warnings cosmetic (known) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries across 5 stories, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (8 posts) | tfr-postplanner-2026-09-29.xlsx + tfr-postplanner-tobi-2026-09-29.xlsx — 8 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com proxy 403 + credential classifier (known recurring issue) |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Sep 29 section) |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** 8 posts (standard + TOBI)
+- **Key stories:** Laver Cup Final — Europe 13-5 (Zverev clinched 7-6(3) 6-3 over Tien, Alcaraz survived 2 mp vs Fritz); Singapore Open Final — Fernandez d. Gibson 7-5 6-0 (6th career title, 2nd WTA 500, 9 straight games to close); Sinner confirmed China Open return Sep 30 (first match since Wimbledon Jul 12 knee injury); Hangzhou Final — Medvedev vs Rublev (Rublev 400th ATP win in SF, all-Russian title match); Chengdu Final — Hurkacz vs Davidovich Fokina (Hurkacz d. Shapovalov 6-7 6-3 6-3)
+- **Issues:** WordPress credential classifier + proxy blocked; dashboard push 403 proxy; PostPlanner exports 8 posts (working format confirmed Sep 29)
+
+---
+
+## Previous Run: 2026-09-28
 
 | Step | Status | Notes |
 |------|--------|-------|
@@ -69,7 +100,7 @@
 | Research (web search) | COMPLETE | Laver Cup Day 1 underway (lavercup.com/atptour/skysports/ubitennis/tennis365); Sinner official China Open WD + statement (yahoo/tennishead/tennistonic/tennisworldusa/sundayguardianlive); Singapore Open QF results (wtatennis/tass/wfmz/tennismajors/justwomenssports); Hangzhou R16 Medvedev enters (atptour/tennismajors/sportskeeda); Chengdu Mannarino d. Shang + Shapovalov 250th (atptour/lastwordonsports/crushrushnews) |
 | Story History Check | COMPLETE | S1 FOLLOW-UP (Sep 24 S1: lineup confirmed → Day 1 in progress); S2 FOLLOW-UP (Sep 24 S2: no WD → official withdrawal + statement); S3 FOLLOW-UP (Sep 24 S3: QF day → all QF results, SF set); S4 FOLLOW-UP (Sep 24 S4: R16 vs Medvedev set → R16 day); S5 FOLLOW-UP (Sep 24 S5: Brooksby upset → more R32 results, Mannarino stuns Shang) |
 | Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3] |
-| Research Notes | COMPLETE | 01-research-notes.md — sources: lavercup.com, atptour.com, skysports.com, tennis365.com, ubitennis.net, sportsworldnews.com, wikipedia.org, sports.yahoo.com, tennishead.net, freemalaysiatoday.com, sundayguardianlive.com, 1027wbow.com, tennistonic.com, tennisworldusa.org, wtatennis.com, tennismajors.com, tass.com, justwomenssports.com, wfmz.com, lastwordonsports.com, sportskeeda.com, tennisexplorer.com, crushrushnews.com, tennisnerd.net, flashscore.com |
+| Research Notes | COMPLETE | 01-research-notes.md |
 | Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
 | X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars verified |
 | Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
@@ -100,9 +131,9 @@
 | Research (web search) | COMPLETE | Laver Cup Day 1 lineup published today (lavercup.com/atptour/skysports/tennis365); Sinner on entry list, no WD filed (tenniswatcher/tennis365/yardbarker/tennisuptodate); Singapore QF day, Anisimova WD (wtatennis/tennis365/sports.inquirer.net/puntodebreak); Hangzhou Royer d. Walton 6-3 6-4 (atptour/tennismajors/tennistemple); Chengdu Brooksby d. Baez 7-5 7-5 (atptour/lastwordonsports/tennistourtalk) |
 | Story History Check | COMPLETE | S1 FOLLOW-UP (Sep 23 S1: 2 days → Day 1 lineup official); S2 FOLLOW-UP (Sep 23 S2: Asia skip floated → still unresolved, draw 4 days away); S3 FOLLOW-UP (Sep 23 S3: Andreeva R2 → QF day, Anisimova WD boosts Eala); S4 FOLLOW-UP (Sep 23 S4: Day 1 → R32 result confirmed, Medvedev R16 set); S5 FOLLOW-UP (Sep 23 S5: Day 1 lineup → Brooksby upsets Baez) |
 | Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3] |
-| Research Notes | COMPLETE | 01-research-notes.md — sources: lavercup.com, atptour.com, skysports.com, tennis365.com, tenniswatcher.com, yardbarker.com, tennisuptodate.com, SI.com, wtatennis.com, sports.inquirer.net, puntodebreak.com, crushrushnews.com, tennismajors.com, tennistemple.com, lastwordonsports.com, tennistourtalk.com, wikipedia.org |
+| Research Notes | COMPLETE | 01-research-notes.md |
 | Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
-| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; S2 tweet #2 trimmed from ~299→~228 chars; all ≤280 chars verified |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars verified |
 | Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
 | Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories (social + article hero) |
 | Articles (5) | COMPLETE | article-01 Laver Cup Day 1 lineup (Ryan Calloway T1); article-02 Sinner China Open no WD (Elena Voss T1); article-03 Singapore QF/Eala (Marcus Cole T2); article-04 Hangzhou Medvedev R16 (Ryan Calloway T2); article-05 Chengdu Brooksby upset (Elena Voss T2) |
@@ -131,9 +162,9 @@
 | Research (web search) | COMPLETE | Laver Cup 2 days out (lavercup.com/atptour/skysports/tntsports); Sinner Asia skip floated (tenniswatcher/essentiallysports/yahoo/tennisuptodate/tennis365); Singapore Open R2 Andreeva def. Sasnovich 7-5 6-0 (wtatennis/flashscore/khelnow); Hangzhou Open Day 1 Medvedev tops field (atptour/tennisuptodate/crushrushnews); Chengdu Open Day 1 Vacherot leads, Shang/Tabilo/Kouame (atptour) |
 | Story History Check | COMPLETE | S1 FOLLOW-UP (Sep 22 S1: 3 days → 2 days, final preview); S2 FOLLOW-UP (Sep 22 S4: targeting China Open → major escalation, potential Asia skip); S3 FOLLOW-UP (Sep 22 S3: draw/preview → R2 results underway); S4 NEW (Hangzhou Day 1); S5 NEW (Chengdu Day 1) |
 | Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3] |
-| Research Notes | COMPLETE | 01-research-notes.md — sources: lavercup.com, atptour.com, skysports.com, tntsports.co.uk, wikipedia.org, tenniswatcher.com, essentiallysports.com, yahoo sports, tennisuptodate.com, tennis365.com, wtatennis.com, flashscore.com, khelnow.com, crushrushnews.com |
+| Research Notes | COMPLETE | 01-research-notes.md |
 | Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
-| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; S2 tweet #1 trimmed from 295→~220 chars; all ≤280 chars verified |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars verified |
 | Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
 | Image Concepts | COMPLETE | 05-image-concepts.md — 9 imagn concepts across 5 stories |
 | Articles (5) | COMPLETE | article-01 Laver Cup countdown (Elena Voss T1); article-02 Sinner Asia skip (Marcus Cole T1); article-03 Singapore R2 Andreeva (Ryan Calloway T2); article-04 Hangzhou Day 1 (Elena Voss T2); article-05 Chengdu Day 1 (Marcus Cole T2) |
