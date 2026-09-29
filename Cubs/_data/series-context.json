@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-09-28T08:30:00.174437+00:00",
-  "today_ct": "2026-09-28",
-  "off_day": true,
-  "is_series_start_today": false,
-  "series": null,
-  "today_cubs_game": null,
-  "rationale": "No upcoming Cubs game on today's CT calendar date."
+  "generated_at": "2026-09-29T08:30:00.127715+00:00",
+  "today_ct": "2026-09-29",
+  "off_day": false,
+  "is_series_start_today": true,
+  "series": {
+    "opponent": "San Diego Padres",
+    "opponent_id": 135,
+    "opponent_record": "0-0",
+    "cubs_record": "0-0",
+    "is_cubs_home": false,
+    "venue": "Petco Park",
+    "series_length": 3,
+    "games": [
+      {
+        "game_pk": "849843",
+        "game_date_iso": "2026-09-30T02:00:00Z",
+        "game_date_ct": "Tue 9:00 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "849842",
+        "game_date_iso": "2026-10-01T02:00:00Z",
+        "game_date_ct": "Wed 9:00 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "849840",
+        "game_date_iso": "2026-10-02T02:00:00Z",
+        "game_date_ct": "Thu 9:00 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      }
+    ],
+    "rationale": "Off day yesterday. Today: Cubs visit San Diego Padres \u2192 game 1 of 3."
+  },
+  "today_cubs_game": {
+    "game_pk": "849843",
+    "status": "Preview",
+    "detailed_status": "Scheduled",
+    "game_date_iso": "2026-09-30T02:00:00Z",
+    "game_date_ct": "Tue 9:00 PM CT",
+    "is_cubs_home": false,
+    "opponent_id": 135,
+    "opponent_name": "San Diego Padres",
+    "opponent_record": "0-0",
+    "cubs_record": "0-0",
+    "cubs_probable": "TBD",
+    "opponent_probable": "TBD",
+    "venue": "Petco Park"
+  },
+  "rationale": "Off day yesterday. Today: Cubs visit San Diego Padres \u2192 game 1 of 3."
 }
