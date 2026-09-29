@@ -3,6 +3,63 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-09-29
+
+### Story 1: Asian Games Softball — Super Round Day 2, China Rolls
+- **Date:** 2026-09-29
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** China beat South Korea 8-4 (3 HR) on Sept 28; Chinese Taipei beat Philippines 10-1. Japan still unbeaten. Super Round Day 2 underway. Finals Oct 3. LA28 qualifying implications for all four teams.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Japan vs. China head-to-head (Super Round)
+  - Finals Oct 3 gold medal match recap
+  - Philippines performance in Super Round
+
+### Story 2: Texas Fall Opener Tonight — Torres + Kavan Debut
+- **Date:** 2026-09-29
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Game day for Texas vs. Murray State at McCombs Field, 6 PM CT, free. First time Torres (.530 BA, 2026 national POY from FSU) and Kavan (2x WCWS MOP, only player ever) take the field together. Three-peat chase (only UCLA 1988-90 and OU 2021-23 have done it).
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Recap of Torres/Kavan first impressions from tonight's game
+  - Full Texas fall schedule results
+  - Three-peat narrative through spring
+
+### Story 3: Oklahoma Fall Ball Opens Tomorrow — Berzon Headlines
+- **Date:** 2026-09-29
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** OU opens Sept 30 at Love's Field. Berzon (LSU, 2x NFCA AA) + Harter (.346 BA, 7 HR, Mid-Tennessee) + 21-player roster (12 returners + 9 newcomers including five-stars Westra and Ho-Ching). 8-game fall schedule.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - First fall game impressions from Love's Field
+  - Berzon's first action in crimson and cream
+
+### Story 4: Tennessee Lady Vols — Hosting Carson-Newman Thursday
+- **Date:** 2026-09-29
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** UT hosts Carson-Newman Oct 2, 6 PM, free. Mardjetko (16-3, 1.26 ERA, 171K) and Nuwer (15-1, 1.01 ERA) continuing fall reps. 31 combined wins + 8 shutouts in 2026. Nine starters back.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Oct 2 Carson-Newman result
+  - Full fall October schedule results
+
+### Story 5: Oklahoma State — Historic 2026 WCWS Run Fuels Fall Ball Momentum
+- **Date:** 2026-09-29
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** OSU made program history in 2026 (first WCWS appearance, 47-13, No. 4 national ranking). Added 5 transfers. Fall opens Wednesday vs. Seminole State; marquee test vs. Arkansas Oct 17. Was 2026 the ceiling or the floor?
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Fall results through October
+  - Arkansas (Oct 17) game as barometer
+  - OSU spring season outlook
+
+---
+
 ## 2026-09-28
 
 ### Story 1: Asian Games Softball — Super Round Underway
