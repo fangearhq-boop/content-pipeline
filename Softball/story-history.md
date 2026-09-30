@@ -3,6 +3,64 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-09-30
+
+### Story 1: Asian Games Super Round — Japan and Chinese Taipei Surge
+- **Date:** 2026-09-30
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Japan and Chinese Taipei both won Super Round games Tuesday (confirmed by WBSC headline). Both nations are leading the charge toward the October 3 Finals in Anjō. LA28 Olympic qualifying implications for all four Super Round teams (Japan, China, Chinese Taipei, Philippines). South Korea eliminated in preliminary round.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Japan vs. China head-to-head results in the Super Round
+  - Finals Oct 3 gold medal match recap
+  - LA28 qualification standings after the Asian Games
+
+### Story 2: Oklahoma Sooners Fall Ball — Battle Series Opener at Love's Field
+- **Date:** 2026-09-30
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Battle Series Game 1 tonight at Love's Field (6:30 PM CT, 1oklahoma.com). First public look at transfers Berzon (LSU, 2x NFCA AA) and Harter (.346 BA, 7 HR, Mid-Tenn) alongside five-star freshmen Westra and Ho-Ching and 12 returners.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Tonight's Battle Series Game 1 results/recap
+  - Early impressions of Berzon in crimson and cream
+  - Full fall schedule results
+
+### Story 3: Illinois Fires Tyra Perry After 11 Seasons
+- **Date:** 2026-09-30
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Perry (87-125 overall, 22-66 Big Ten over final 4 years) dismissed despite contract through 2027. Program begins coaching search in a competitive Big Ten landscape.
+- **Content Produced:** Article (article-03, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Illinois head coach hire announcement
+  - Impact on Illinois recruiting class
+
+### Story 4: Minnesota Fires Piper Ritter — Recruiting Fallout
+- **Date:** 2026-09-30
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** After a 16-36 season and poor Big Ten Tournament, Ritter fired. 2027 recruit Kendal Headley (left-side infield) immediately decommitted. Gophers face dual challenge: hire quickly + stabilize recruiting class.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Minnesota head coach hire
+  - Whether Headley's class can be recovered or replaced
+  - Other decommitments from Minnesota's 2027 class
+
+### Story 5: Tennessee Lady Vols Fall Momentum
+- **Date:** 2026-09-30
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Sophia Knight (.394 BA, team leader) + Mardjetko (16-3, 1.26 ERA) + Nuwer (15-1, 1.01 ERA). Nine starters returning. Hosting Carson-Newman Oct 2, 6 PM, free admission. Already played Walters State (Sept 25) and Lipscomb (Sept 27).
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Oct 2 Carson-Newman result
+  - Full fall schedule results
+  - Sophia Knight's 2027 preseason trajectory
+
+---
+
 ## 2026-09-29
 
 ### Story 1: Asian Games Softball — Super Round Day 2, China Rolls
