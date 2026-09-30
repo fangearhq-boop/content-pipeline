@@ -1,6 +1,37 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-09-29
+## Current Run: 2026-09-30
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Medvedev def. Rublev 7-5, 6-4 Hangzhou final (atptour.com/tennismajors.com); Davidovich Fokina def. Hurkacz 6-4, 7-6(9-7) Chengdu final — comeback from injury (tennismajors.com/atptour.com); China Open Day 1 opens Djokovic vs Borges 29-0 record, Zverev vs Norrie (atptour.com/wtatennis.com); Sinner official WD China Open targets Shanghai (espn.com/skysports.com/atptour.com); Rybakina World No. 1 context first WTA 1000 as No. 1 (wtatennis.com) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Sep 29 S4: Hangzhou Final preview → RESULT); S2 FOLLOW-UP (Sep 29 S5: Chengdu Final preview → RESULT); S3 NEW (China Open Day 1); S4 FOLLOW-UP (Sep 29 S3: Sinner "confirmed return" → WD confirmed); S5 NEW (Rybakina World No. 1 context) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: atptour.com, tennismajors.com, Free Malaysia Today, TennisTour, tennistourtalk.com, espn.com, skysports.com, tennishead.net, wtatennis.com, thesportsencounter.com, puntodebreak.com, lastwordonsports.com, sundayguardianlive.com |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, angles, headlines |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 8 posts across 5 stories (2 each for T1, 1 each for T2); all ≤280 chars verified |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories (social + article hero) |
+| Articles (5) | COMPLETE | article-01 Medvedev Hangzhou (Marcus Cole T1); article-02 Davidovich Fokina Chengdu comeback (Ryan Calloway T1); article-03 China Open opens Djokovic/Rybakina (Elena Voss T1); article-04 Sinner WD Shanghai target (Marcus Cole T2); article-05 Rybakina World No. 1 (Ryan Calloway T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated; 26 claims; consistency check PASSED; image manifest warnings cosmetic (imagn, known) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 0 FB posts (known parser issue), 5 articles |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries across 5 stories, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 23 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (8 posts) | tfr-postplanner-2026-09-30.xlsx + tfr-postplanner-tobi-2026-09-30.xlsx — 8 posts each |
+| WordPress Publish | BLOCKED | Stage 2 auto-mode classifier block (known recurring issue) |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Sep 30 section) |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
+- **PostPlanner exports:** 8 posts (standard + TOBI)
+- **Key stories:** Hangzhou Final — Medvedev def. Rublev 7-5, 6-4 (23 aces, 24th title, 3rd of 2026); Chengdu Final — Davidovich Fokina def. Hurkacz 6-4, 7-6(9-7) (first HC title, comeback from 3-month injury); China Open opens — Djokovic returns 29-0, Zverev vs Norrie, Rybakina as new World No. 1; Sinner WD China Open — targets Shanghai (Oct 7), 4th consecutive missed event; Rybakina World No. 1 — first Kazakh No. 1 ever, first WTA 1000 as top seed
+- **Issues:** WordPress classifier + proxy blocked; dashboard push 403 proxy; PostPlanner 8 posts (working format confirmed)
+
+---
+
+## Previous Run: 2026-09-29
 
 | Step | Status | Notes |
 |------|--------|-------|

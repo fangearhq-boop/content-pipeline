@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## September 30, 2026
+
+| 2026-09-30 | Hangzhou Open Final RESULT — Daniil Medvedev def. Andrey Rublev 7-5, 6-4 in 93 minutes. 23 aces, never dropped serve. Medvedev's 24th career title, 3rd of 2026 (Brisbane, Dubai, Hangzhou). H2H now 8-2 Medvedev. Rublev had earned 400th career ATP win in SF. Sources: atptour.com, tennismajors.com | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Sep 29 S4: Hangzhou Final preview — all-Russian final → RESULT) |
+| 2026-09-30 | Chengdu Open Final RESULT — Alejandro Davidovich Fokina def. Hubert Hurkacz 6-4, 7-6(9-7). First hard court title (was 0-4 in HC finals). 2nd overall title (1st was Mallorca 2026). Comeback from 3-month lower back injury — first tournament back. Saved 4 set points in tiebreak. Quote: "I want to dedicate this to my whole team." Sources: tennismajors.com, tennistourtalk.com, atptour.com | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Sep 29 S5: Chengdu Final preview → RESULT) |
+| 2026-09-30 | China Open 2026 opens in Beijing — ATP 500 (Sep 30–Oct 6) + WTA 1000 (Sep 28–Oct 11). Djokovic's first Beijing appearance since 2015 (29-0 all-time, 6 titles) vs Borges. Zverev (No. 1 seed) vs Norrie; Zverev/Djokovic same quarter. WTA: Rybakina (1) first WTA 1000 as World No. 1; Sabalenka (2), Gauff (3), Andreeva (4), Swiatek (8); Gauff/Swiatek potential QF. Sinner absent (defending champion, knee WD). Sources: atptour.com, wtatennis.com, lastwordonsports.com | T1 | X, FB, Article | Elena Voss; NEW |
+| 2026-09-30 | Sinner withdraws from China Open (knee). Statement: "My knee is not where I would like it to be and I'm not ready to compete yet." Fourth consecutive missed event (Canadian Open, Cincinnati, US Open, China Open). Last match: Wimbledon, July. Defending Beijing champion (2025 winner). Next target: Shanghai Masters Oct 7. ATP No. 1 official (leads 1,810 pts over Zverev) but trails Zverev ~700 pts in Race to Turin. Sources: atptour.com, espn.com, skysports.com | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Sep 29 S3: Sinner "confirmed return" → WD confirmed) |
+| 2026-09-30 | Rybakina enters China Open as new WTA World No. 1 — first Kazakh player (male or female) ever to hold top ranking. Reached No. 1 Sep 14 after 2026 US Open win (def. Sabalenka 6-4, 5-7, 6-2), ending Sabalenka's 99-week reign. Third Grand Slam (Wimbledon 2022, AO 2026, US Open 2026). First WTA 1000 as No. 1. Swiatek fallen to No. 8. Sources: wtatennis.com, thesportsencounter.com | T2 | X, FB, Article | Ryan Calloway; NEW |
+
+---
+
+
 ## September 29, 2026
 
 | 2026-09-29 | Laver Cup 2026 Final Result — Team Europe wins 13-5 at The O2 London. Zverev (EUR) d. Tien (WLD) 7-6(3), 6-3 to clinch; Alcaraz survived 2 match points vs Fritz. Europe 9-3 in singles. Team World's title defense ends. Sources: atptour.com, skysports.com, sports.yahoo.com | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Sep 28 S1: Day 3 final day → RESULT confirmed) |
