@@ -1,0 +1,242 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-30",
+  "compiled_at": "2026-09-30T12:45:53.752577+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CPSC Recalls Blossom Children's Loungewear — Burn Hazard, Sizes 12M–12Y",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "CPSC recall: Blossom children's loungewear — burn hazard.\n\nViolates federal flammability standard. Sizes 12M to 12Y.\n\nStop use. Destroy. Email sales@blossomocc.com for a refund. Details at cpsc.gov/Recalls.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-cpsc-blossom-loungewear-recall-burn-hazard.html",
+        "headline": "CPSC Recalls Blossom Children's Loungewear — Burn Hazard, Sizes 12M to 12Y",
+        "word_count": 398
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CPSC Blossom Loungewear Recall\n\n#### Social Image (1080x1350)\n**Prompt:** A flat-lay photo of folded children's pajamas and sleepwear on a clean white surface, with a prominent red caution or warning symbol graphic element suggesting a recall alert. Soft, neutral background. Clean bottom third for text overlay. No faces, no brand logos. Warm household lighting. Style: clean editorial, safety-focused.\n**Mode:** base_only\n\n#### Article Hero (1200x630)\n**Prompt:** Close-up of children's soft loungewear set (button-up shirt and matching pants, age-appropriate sizing suggestion) on a white or light gray background with subtle caution or warning visual cues. Horizontal crop. Clean, minimal. Style: editorial product safety photography.\n**Mode:** base_only\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "D11's Galileo Middle School Opens Food Pantry and Community Garden for COS Families",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "D11's Galileo Middle School just opened a food pantry for COS families.\n\nThe \"Ascend\" pantry opened Sep 25. Already served 22 families.\n\nSign up: KMcDaniel@jointinitiatives.org\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-galileo-middle-school-food-pantry-d11.html",
+        "headline": "D11's Galileo Middle School Opens Food Pantry for Colorado Springs Families",
+        "word_count": 375
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Galileo Food Pantry\n\n#### Social Image (1080x1350)\n**Prompt:** Bright, warm image of fresh vegetables and bread on a wooden market table or open shelf, suggesting a community pantry market-style display. Warm natural light. Diverse, abundant, welcoming. Green plants visible in background suggesting community garden. No faces. Clean bottom third for text overlay. Style: warm community photography.\n**Mode:** base_only\n\n#### Article Hero (1200x630)\n**Prompt:** Wide horizontal image of a market-style community pantry table with fresh produce, pantry staples, and natural light. Welcoming and community-oriented feel. Background slightly blurred to show a school garden or indoor garden space. Style: warm editorial documentary.\n**Mode:** base_only\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "This Weekend: Ghost Stories of Old Manitou Tours Kick Off Oct 2–3",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Ghost Stories of Old Manitou — 31st year. Oct 2 start.\n\n5:30 PM, 517 Manitou Ave. Tours ~1 hour. Kids under 10 free.\n\nAdvance tickets recommended — these sell out. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-ghost-stories-manitou-walking-tours-oct-2026.html",
+        "headline": "Ghost Stories of Old Manitou Walking Tours — Family-Friendly Halloween Kicks Off Oct 2",
+        "word_count": 481
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ghost Stories of Old Manitou\n\n#### Social Image (1080x1350)\n**Prompt:** Moody, atmospheric night photograph style of a charming Victorian-era mountain town main street at dusk or early evening, with vintage-style lamp posts casting warm orange light, mountains in the background, and a slightly spooky but family-friendly Halloween atmosphere — think fall leaves, pumpkins on stoops, lanterns. No people. Clean bottom third for text overlay. Style: atmospheric fall Halloween, not horror.\n**Mode:** base_only\n\n#### Article Hero (1200x630)\n**Prompt:** Wide horizontal image of a historic Colorado mountain town street at twilight with warm lamp post lighting, autumn leaves on trees, and a gentle Halloween-season atmosphere. Pumpkins or jack-o-lanterns on porches in background. Romantic but slightly eerie. No people or faces. Style: atmospheric fall editorial photography.\n**Mode:** base_only\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "CDC Data: Teen Mental Health Is Improving — But Gaps Remain for Girls and LGBTQ Youth",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "New CDC data: teen sadness fell to 33% in 2025 — down from 42% in 2021.\n\nGirls and LGBTQ youth still face much higher rates.\n\nWorth a conversation with your teens. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-cdc-teen-mental-health-yrbs-2025.html",
+        "headline": "CDC: Teen Mental Health Is Improving — But Colorado Springs Parents Should Still Pay Attention",
+        "word_count": 515
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CDC Teen Mental Health\n\n#### Social Image (1080x1350)\n**Prompt:** Warm, gentle image of a teenager sitting outdoors in afternoon light, back to camera, looking out at a Colorado mountain landscape, in a thoughtful but calm posture — not sad, but contemplative. Fall colors in the landscape. The feel should be hopeful and honest, not clinical. No face visible. Clean bottom third for text overlay. Style: soft editorial portrait, warm and supportive tone.\n**Mode:** base_only\n\n#### Article Hero (1200x630)\n**Prompt:** Wide horizontal image of two people (one adult, one teenager) sitting together on an outdoor bench or step in a park setting, both looking forward or in a natural conversation posture — not staged. Fall light. The scene should feel warm and connected without showing faces clearly. Style: editorial lifestyle, supportive parenting tone.\n**Mode:** base_only\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "October in Colorado Springs — Your Family Outdoor Guide for the Best Month to Be Outside",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "October in Colorado Springs: highs near 67°F early, frost risk by late month.\n\nPeak fall color at Garden of the Gods + North Cheyenne Canyon — mid-October.\n\nLayer up for evening events. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-october-outdoor-guide-cos-families.html",
+        "headline": "October Outdoor Guide for Colorado Springs Families: What to Do Before the Cold Arrives",
+        "word_count": 996
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "October Outdoor Guide\n\n#### Social Image (1080x1350)\n**Prompt:** Vibrant, scenic fall photography of Colorado foliage with deep orange, red, and gold leaves against a backdrop of rocky mountains and blue sky — classic Pikes Peak region aesthetic. Hiking trail or path visible winding through the fall colors. Bright natural light. No people. Clean bottom third for text overlay. Style: landscape nature photography, inviting and beautiful.\n**Mode:** base_only\n\n#### Article Hero (1200x630)\n**Prompt:** Wide panoramic-style horizontal image of a Colorado Springs area fall landscape — fall foliage on hillsides, Garden of the Gods-style red rock formations visible in the middle distance, clear blue sky above. Warm afternoon light. Inviting and active-outdoor feeling. No people. Style: wide landscape editorial.\n**Mode:** base_only"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

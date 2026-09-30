@@ -2,6 +2,50 @@
 
 ---
 
+## September 30, 2026
+
+### Story 1: CPSC Recalls Blossom Children's Loungewear — Burn Hazard
+- **Date:** 2026-09-30
+- **Tier:** T1
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** Blossom OCC two-piece loungewear sets recalled; violates federal flammability standard; sizes 12M–12Y; short-sleeve (5 colors) and long-sleeve holiday designs; destroy, email sales@blossomocc.com for refund; cpsc.gov/Recalls; also: Bellabu Bear bamboo sherpa robes in S/M and M/L recalled separately
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 2: D11 Galileo Middle School Opens "Ascend" Food Pantry
+- **Date:** 2026-09-30
+- **Tier:** T2
+- **Pillar:** Local News (D11 Schools)
+- **Key Facts:** Galileo Middle School opened "Ascend" food pantry and community garden Sep 25, 2026; partnership with Joint Initiatives nonprofit; market-style format; served 22 families in first days; sign up at KMcDaniel@jointinitiatives.org; jointinitiatives.org
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 3: Ghost Stories of Old Manitou Walking Tours — Oct 2 Launch
+- **Date:** 2026-09-30
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** 31st Annual Ghost Stories of Old Manitou; Oct 2–3 launch weekend; runs select Fri/Sat through Oct 30; 5:30 PM, 517 Manitou Ave; tours ~1 hour; $18.84 adult, children under 10 free; advance tickets recommended — sells out; manitouspringsheritagecenter.org or Eventbrite
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 4: CDC YRBS 2025 — Teen Mental Health Improving But Gaps Remain
+- **Date:** 2026-09-30
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** CDC 2025 YRBS released Sep 21; 33% teens report persistent sadness (down from 40% in 2023, peak 42% in 2021); suicidal ideation dropped 20% to 14%; still above 2017 pre-pandemic ~31.5%; girls and LGBTQ youth face substantially higher rates; 36% use social media hourly; EdWeek analysis; COS resources: Pikes Peak Mental Health (ppmentalhealth.org), Colorado Crisis Services (844-493-8255)
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 5: October Outdoor Guide for Colorado Springs Families
+- **Date:** 2026-09-30
+- **Tier:** T2
+- **Pillar:** Evergreen
+- **Key Facts:** Early Oct highs ~67°F, late Oct highs ~58°F with lows ~30°F; Garden of the Gods and North Cheyenne Canyon peak foliage early-to-mid Oct; Boo at the Zoo Oct 16–31 at Cheyenne Mountain Zoo; Emma Crawford Coffin Races Oct 24, 32nd annual, free to watch; Ghost Stories tours through Oct 30; buy advance tickets for evening events
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+---
+
 ## September 29, 2026
 
 ### Story 1: CPSC Recalls Two Children's Products — Bike Helmets and Light-Up Toys
