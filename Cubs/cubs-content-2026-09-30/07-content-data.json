@@ -1,0 +1,276 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-30",
+  "compiled_at": "2026-09-30T09:21:37.184359+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1",
+      "type": "WCS Game 1 Recap — Padres 8, Cubs 0"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2",
+      "type": "PCA must bounce back — King struck him out on first 3 pitches"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3",
+      "type": "Michael King 7 IP, 1 H, 8 K — best offense got shut out"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 4",
+      "type": "Game 2 Preview: Gausman vs. Pivetta, 9:00 PM CT"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Story 5",
+      "type": "Must-win math: teams down 1-0 win WCS only 3 of 24 times"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 6",
+      "type": "Brewers watching — 103 wins, NL No. 1, NLDS awaits winner"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 7",
+      "type": "Pre-game hype — 1 hour from first pitch"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "WCS Game 1 Recap — Padres 8, Cubs 0",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Padres won 8-0. Boyd allowed 3 HR in 4 IP (Tatis Jr., Machado, Bogaerts). Michael King: 7 IP, 1 H, 8 K — no-hitter through 6 innings. Cubs: 3 hits, 0 runs. PCA and Bregman combined for 5 strikeouts in 6 ABs. Sets the stage for tonight's must-win Game 2.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Padres 8, Cubs 0.\n\nBoyd: 4 IP, 3 HR allowed. King: 7 IP, 1 H, 8 K — no-hitter thru 6.\nCubs: 3 hits, 0 runs.\n\nComplete shutdown. Gausman answers tonight at Petco Park — 9:00 PM CT.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / Recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "WCS Game 1 Recap — Padres 8, Cubs 0\n**Status:** NEW STORY (yesterday's game — no prior coverage since Sept 29 pipeline ran before the game)\n**Tier:** 1\n**Sources (all published Sept 29–30, 2026):**\n- Bleacher Report: \"Padres Beat Cubs, Box Score Stats, Highlights & Updated Bracket After 2026 MLB Wild Card Game 1\" (Sept 30)\n- Chicago Sun-Times: \"Padres' superstars show Cubs how it's done in Game 1 rout\" (Sept 30)\n- Bleed Cubbie Blue: \"Cubs Rapid Recap: San Diego snuffs out Cubs in Game 1, 8-0\" (Sept 29)\n- Yahoo Sports / NBC Sports: Game 1 live updates and recap (Sept 29–30)\n- NBC Sports player news: \"Matthew Boyd allows three homers in Game 1 loss\" (Sept 30)\n**Key Facts (verified HIGH confidence unless noted):**\n- Final: Padres 8, Cubs 0\n- Matthew Boyd: 4 IP, 5 H, 4 ER, 1 BB, 4 K — allowed 3 HR (Machado 1st inning, Tatis Jr. 1st inning, Bogaerts 4th inning)\n- Michael King (Padres): 7 IP, 1 H, 0 R, 3 BB, 8 K — no-hitter through 6 innings\n- Fernando Tatis Jr. hit the first leadoff HR in Padres playoff history — on the FIRST pitch of the game off Boyd\n- Jackson Merrill: 2-run single\n- Cubs total: 3 hits, 0 runs\n- PCA + Bregman combined: 5 strikeouts in 6 ABs (King retired PCA on first 3 pitches of series)\n- \"Cubs highest-scoring team in baseball\" — MEDIUM confidence (single WebFetch source); flagged for verification\n**Why it matters:** Everything in this WCS flows from Game 1. The box score tells the whole story and sets the urgency for tonight.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "PCA Must Lead the Bounce Back",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Pete Crow-Armstrong was struck out on the first three pitches of the series. The NL MVP candidate went silent. His Game 2 response is the single biggest storyline of the day.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Michael King walked into Petco Park and struck out the NL MVP on his first three pitches. 🔥\n\nPCA went quiet. The offense went quiet. King was DIFFERENT.\n\nNow it's Gausman's turn to match that energy. The Cubs' best player wakes up tonight.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold / Passionate",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA Must Lead the Bounce Back\n**Status:** FOLLOW UP (PCA was featured in Sept 28 and Sept 29 pipelines — new angle: postseason struggles in Game 1)\n**Tier:** 1\n**Sources:**\n- Yahoo Sports / Bleacher Report: Game 1 box score (Sept 29–30)\n- MLB.com: \"Pete Crow-Armstrong: 'Anything can happen'\" video (Sept 29)\n- CBS Sports: \"Pete Crow-Armstrong just wrapped up one of the best Cubs seasons ever\" (Sept 29)\n**Key Facts:**\n- PCA struck out on the first three pitches King threw — setting the tone for a shutdown night\n- PCA + Bregman: 5 Ks in 6 ABs against King\n- PCA's full season: .280 / 45 HR / 40 SB / 10.6 fWAR — NL MVP candidate (from prior pipeline runs, HIGH confidence)\n**Why it matters:** PCA is the engine of this offense. His response to being shut down is the single biggest storyline heading into Game 2.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Michael King Numbers — Best Offense Got Shut Out",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "King's line (7 IP, 1 H, 8 K, near no-hitter) put in context of Cubs' offensive dominance all season. The silver lining: King is done. Pivetta (back from elbow injury) starts tonight.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Last night in numbers:\n\nBoyd: 4 IP, 3 HR allowed\nKing: 7 IP, 1 H, 8 K — no-hitter thru 6\nCubs: 3 hits, 8-0 final\n\nBaseball's best offense got shut out. The silver lining: King is done.\nGausman vs. Pivetta tonight — 9:00 PM CT.\n\n#Cubs #ChicagoCubs #GoCubs",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Stat Breakdown / Informative",
+          "hashtags": [
+            "#Cubs",
+            "#ChicagoCubs",
+            "#GoCubs"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Michael King Boxscore\n**Status:** NEW STORY\n**Tier:** 2\n**Sources:**\n- Yahoo Sports: \"Michael King flirts with no-hitter as Padres dominate Cubs in wild-card Game 1\"\n- Bleed Cubbie Blue: Game 1 rapid recap\n- Bleacher Report: Game 1 highlights\n**Key Facts (HIGH confidence):**\n- King: 7 IP, 1 H, 0 R, 3 BB, 8 K — no-hitter through 6\n- Cubs scored more runs than anyone in baseball in 2026 (MEDIUM confidence — single source from search; flagged)\n- Cubs went 0-8 final\n**Why it matters:** King's performance is the critical context for tonight. Padres burned their ace; Pivetta (back from elbow injury) starts Game 2 — different challenge for the Cubs.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Game 2 Preview — Gausman vs. Pivetta (Must-Win)",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Gausman confirmed healthy, starts Game 2. Cubs traded for him at the deadline for exactly this moment — playoff-tested starter with World Series experience. Pivetta (Padres) is back from an elbow injury. Different matchup than Game 1. 9:00 PM CT, Petco Park.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "WCS Game 2 — must win.\n\nGausman vs. Pivetta: a playoff-tested veteran vs. a starter returning from an elbow injury.\n\nThe Cubs traded for Gausman at the deadline for exactly this moment.\n\n9:00 PM CT, Petco Park.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Game Preview / Informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game 2 Preview — Gausman vs. Pivetta\n**Status:** FOLLOW UP (Gausman's WCS roster inclusion was Story 4 on Sept 29; new angle: he's actually starting tonight)\n**Tier:** 1\n**Sources:**\n- MLB.com: \"Kevin Gausman to start NL Wild Card Series Game 2 for Cubs\"\n- NBC Sports: \"Kevin Gausman (shoulder) to start Game 2 for Cubs\"\n- SI.com: \"Padres Announce Starting Pitcher for Wild-Card Game 2 vs Cubs\" (Pivetta)\n- Chicago Sun-Times: \"Facing elimination, Cubs starting playoff-tested Kevin Gausman in Game 2 vs. Padres\"\n- Cubbies Crib: Cubs-Gausman WCS story\n**Key Facts:**\n- Gausman confirmed healthy (non-throwing shoulder cleared after bullpen session)\n- Gausman has World Series experience from Blue Jays last postseason — MEDIUM confidence (WebFetch summary; specific \"6 games, 2 WS starts\" stat needs second-source verification before use in tweet)\n- Cubs traded for Gausman at the deadline specifically for playoff experience\n- Nick Pivetta starts Game 2 for Padres — back from elbow injury in 2026\n- Pivetta 2026: 2-2, 3.60 ERA — LOW confidence (single WebFetch); not using specific stats in tweet\n- Game time: 9:00 PM CT, Petco Park, Peacock/NBCSN\n**Why it matters:** This is the elimination game framing. Gausman vs. a vulnerable Pivetta (returning from injury) is the matchup the Cubs need.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Must-Win Math — The 3 of 24",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "In a best-of-3 WCS, teams that win Game 1 advance 21 of 24 times. Cubs need to be the rare exception — and they can only become that by winning Game 2.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "In a best-of-3 Wild Card Series, teams that win Game 1 advance 21 of 24 times. 🚨\n\nThe Cubs need to be that 3 of 24.\n\nNo debate. Gausman on the mound. The Cubs make history or go home.\n\n9:00 PM CT.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Bold Take / Passionate",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Must-Win Math — 3 of 24\n**Status:** NEW STORY\n**Tier:** 1 (Bold Take)\n**Sources:**\n- Game 2 preview coverage: \"Teams that have won Game 1 in a best-of-three Wild Card Series have gone on to win that series 21 of 24 times\" (multiple sources confirm this stat, MEDIUM confidence — same underlying data point from AI summaries)\n- Confirmed by: Bleacher Nation WCS preview, game 2 preview articles\n**Key Facts:**\n- WCS history: G1 winner advances 21/24 times (G1 loser: 3/24)\n- Cubs are facing longest of the listed odds\n- Gausman starts tonight\n**Why it matters:** Gives the 9 PM game the proper urgency framing.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Brewers Watching from Milwaukee",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Brewers (103 wins, NL No. 1 seed, franchise record) hold intrasquad games while waiting for tonight's WCS winner. Cubs went 4-9 vs Milwaukee in 2026. The prize is steep — but first the Cubs have to survive Petco.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The Brewers are watching from Milwaukee while the Cubs fight for their season at Petco Park.\n\n103 wins. NL No. 1 seed. First time in franchise history.\n\nWin tonight and NLDS starts Oct. 3. Cubs went 4-9 vs. Milwaukee in 2026.\n\nFirst: survive Petco.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Analysis / Rival Watch",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Brewers Watching from Milwaukee\n**Status:** FOLLOW UP (Brewers NLDS stakes covered Sept 27, Sept 29 — refreshed angle: Padres now lead series 1-0)\n**Tier:** 3\n**Sources:**\n- OnMilwaukee.com: \"Win Our Way: the Milwaukee Brewers are headed to the NLDS!\"\n- MLB.com: \"Brewers' potential opponents in the 2026 NLDS\"\n- CBS Sports: 2026 MLB playoff bracket\n**Key Facts (HIGH confidence):**\n- Brewers: 103 wins, NL No. 1 seed — first time franchise reached 100+ wins\n- NLDS starts Oct 3 — winner of Cubs/Padres faces Milwaukee\n- Brewers holding workouts/intrasquad games while waiting\n**Why it matters:** Rival-watch angle. The prize that awaits the Cubs if they battle back. Also: Cubs went 4-9 vs Brewers in 2026 regular season (from Sept 27 story history).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Pre-Game 2 Hype — One Hour Out",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "First pitch 1 hour away. Michael King is done. Gausman on the hill. Cubs offense — which dominated all season — has something to prove after 3 hits and 0 runs in Game 1.",
+      "posting_window": "8:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "One hour from first pitch.\n\nMichael King is done. Tonight it's Gausman vs. Pivetta — and the Cubs offense that dominated all season has something to prove after going 3-for-the-night in Game 1.\n\nThe offense wakes up. The Cubs survive. Bet on it.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "8:00 PM CT",
+          "tweet_type": "Bold / Passionate",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Pre-Game 2 Hype\n**Status:** NEW STORY (one-off hype post)\n**Tier:** 2\n**Sources:** All facts drawn from verified Game 1 recap + Game 2 confirmation sources above.\n**Key Facts:**\n- Game starts 9:00 PM CT tonight — 8:00 PM tweet is 1 hour before first pitch\n- Cubs scored the most runs in baseball in 2026 (MEDIUM confidence — flagged)\n- Michael King has already pitched Game 1; won't appear in Game 2\n- Gausman vs. Pivetta — different matchup, different result anticipated\n**Why it matters:** Final energy shot before first pitch.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

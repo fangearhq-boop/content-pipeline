@@ -5,6 +5,52 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-30 (WCS Game 2 Night — Cubs trail Padres 1-0 in best-of-3; Gausman vs. Pivetta at Petco Park, 9:00 PM CT. No significant insights today — brand voice defaults applied.)
+
+### STORY 1: WCS Game 1 Recap — Padres 8, Cubs 0
+- **Angle:** NEW STORY. Padres won Game 1, 8-0. Boyd allowed 3 HR in 4 IP (Tatis Jr., Machado, Bogaerts). King: 7 IP, 1 H, 8 K — near no-hitter through 6. Cubs: 3 hits, 0 runs. PCA + Bregman: 5 Ks in 6 ABs combined.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, morning recap)
+- **Follow-Up Opportunities:** Game 2 result recap (tomorrow morning)
+
+### STORY 2: PCA Must Lead the Bounce Back
+- **Angle:** FOLLOW UP (PCA featured Sept 28–29 in season-stat/WCS-eve angles; new angle: Game 1 failure). King struck PCA out on his first three pitches of the series. NL MVP must respond in Game 2.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold/passionate)
+- **Follow-Up Opportunities:** PCA's actual Game 2 performance
+
+### STORY 3: Michael King Boxscore — Best Offense Got Shut Out
+- **Angle:** NEW STORY. King's 7 IP, 1 H, 8 K near-no-hitter put in context of Cubs' regular season offensive dominance. Silver lining: King is done; Pivetta (returning from elbow injury) starts Game 2.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown)
+- **Follow-Up Opportunities:** Pivetta's actual Game 2 line
+
+### STORY 4: Game 2 Preview — Gausman vs. Pivetta
+- **Angle:** FOLLOW UP (Gausman-on-roster covered Sept 29; new angle: he's starting tonight in elimination game). Gausman: playoff-tested, confirmed healthy. Pivetta: back from elbow injury. 9:00 PM CT, Petco Park.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:** Gausman's actual Game 2 line; rotation plans for Game 3 if needed
+
+### STORY 5: Must-Win Math — The 3 of 24
+- **Angle:** NEW STORY. Teams that win G1 in WCS advance 21/24 times. Cubs need to be the rare G1-loser exception. Bold urgency framing for Game 2.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold take)
+- **Follow-Up Opportunities:** N/A (one-time urgency stat)
+
+### STORY 6: Brewers Watching from Milwaukee
+- **Angle:** FOLLOW UP (Brewers NLDS angle covered Sept 27, Sept 29; freshened with Padres leading series 1-0). Brewers: 103 wins, NL No. 1 seed (franchise record). Cubs went 4-9 vs Milwaukee in 2026.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, rival watch)
+- **Follow-Up Opportunities:** NLDS preview if Cubs advance
+
+### STORY 7: Pre-Game 2 Hype — One Hour Out
+- **Angle:** NEW STORY. Pre-first-pitch energy shot. Michael King is done. Gausman vs. Pivetta. Cubs offense has something to prove after 3 hits in Game 1.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:00 PM CT, bold/passionate)
+- **Follow-Up Opportunities:** Game 2 result recap (tomorrow morning)
+
+---
+
 ## 2026-09-28 (OFF DAY — Cubs 89-73, WC2. WCS at Petco Park vs. Padres starts TOMORROW Tuesday Sept 29, 9 PM CT. Insights active: evening_18_24 wins; len<140 loses.)
 
 ### STORY 1: Bregman 4-for-4, 2 HR, 4 RBI — Relocated Season Finale
