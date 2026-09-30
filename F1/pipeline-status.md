@@ -1,6 +1,6 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-09-29
+## Last Run: 2026-09-30
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** F1 Fanrecap
@@ -9,57 +9,24 @@
 
 ---
 
-## 2026-09-29 Run Log
+## 2026-09-30 Run Log
 
 | Step | Status | Notes |
 |------|--------|-------|
-| 1-9 | ✅ Complete | Research, brief, notes, analysis, X/FB posts, image concepts, 5 articles |
-| 10 | ✅ | verify-facts.py — 5 stories, 20 claims (HIGH), image warnings expected (imagn sourcing) |
-| 10b | ✅ | compile-content-data.py — 8 tweets, 5 articles; posting window warnings (non-blocking); FB=0 known |
-| 11 | ✅ | Image manifest created (8 images, all not_started — imagn sourcing) |
-| 12 | ✅ | Story history updated |
-| 13 | ✅ | Dashboard generated (23 items) |
-| 14a | ❌ | publish-unified-dashboard.py — blocked (content-dashboards not in authorized repo) |
-| 14b/c | ⚠️ | postplanner export — 0 posts (known parsing issue) |
-| 15 | ❌ | WordPress publish blocked (WP credentials not configured) |
-| Git push | ✅ | via GitHub MCP (mcp__github__push_files) |
-
-**Stories covered:**
-1. T1 FOLLOW UP: Ferrari Backs Vasseur — Horner Rumors Won't Die (Ryan Calloway)
-2. T1 FOLLOW UP: Verstappen Engine Penalty — Red Bull Awaits Analysis (Elena Voss)
-3. T1 FOLLOW UP: Bahrain GP in Malaysia — Antonelli Goes In as Favorite (Marcus Cole)
-4. T2 FOLLOW UP: Colapinto Carries 5-Place Penalty into Bahrain (Ryan Calloway)
-5. T2 FOLLOW UP: Antonelli's Title Math — Singapore Sprint Is the Key Window (Elena Voss)
-
----
-
-## Last Run: 2026-09-28
-
-**Status:** COMPLETE (with known proxy limitations)
-**Niche:** F1 Fanrecap
-**Stories:** 5
-**Articles:** 5
-
----
-
-## 2026-09-28 Run Log
-
-| Step | Status | Notes |
-|------|--------|-------|
-| 1-9 | ✅ Complete | Research, brief, notes, analysis, X/FB posts, image concepts, 5 articles |
-| 10 | ✅ | verify-facts.py — 5 stories, 29 claims (HIGH), image warnings expected (imagn sourcing) |
-| 10b | ✅ | compile-content-data.py — 10 tweets, 5 FB posts, 5 articles; posting window warnings (non-blocking); FB=0 known |
-| 11 | ✅ | Image manifest created (10 images, all not_started — imagn sourcing) |
-| 12 | ✅ | Story history updated |
-| 13 | ✅ | Dashboard generated (25 items) |
-| 14a | ❌ | publish-unified-dashboard.py — blocked (content-dashboards not in authorized repo) |
-| 14b/c | ⚠️ | postplanner export — 0 posts (known parsing issue) |
-| 15 | ❌ | WordPress publish blocked (proxy policy — fanrumor.com:443) |
-| Git push | ✅ | via GitHub MCP (mcp__github__push_files) |
-
-**Stories covered:**
-1. T1 FOLLOW UP: Colapinto 5-Place Penalty — Norris Demands Race Ban (Ryan Calloway)
-2. T1 FOLLOW UP: Antonelli Singapore Math — 66 Points Clear, Title Could Come at Marina Bay (Elena Voss)
-3. T1 NEW: Malaysia GP Preview — Sepang Returns to F1 After Nine Years (Marcus Cole)
-4. T2 FOLLOW UP: Mercedes Constructors at 538 — The Team Title Is Nearly Done (Ryan Calloway)
-5. T2 FOLLOW UP: Russell's Third Win — Can He Actually Chase Down Antonelli? (Elena Voss)
+| Research | ✅ Complete | 5 stories — Russell wins Baku, Norris DNF Colapinto incident, Antonelli P5 from P16, standings after R15, Singapore GP preview |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 10 posts, all ≤280 chars |
+| Facebook Posts | ✅ Complete | 04-social-posts-facebook.md — 5 stories |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 HTML articles |
+| Fact Check | ✅ Complete | 06-fact-check-log.md |
+| Compile Content Data | ✅ Complete | 07-content-data.json (posting window warnings — known; FB=0 known) |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (10 images, status: not_started) |
+| Story History | ✅ Complete | story-history.md updated |
+| Review Dashboard | ✅ Complete | review-dashboard.html — 20 items |
+| Publish Dashboard | ⚠ Partial | Blocked — content-dashboards not in authorized repo |
+| PostPlanner Export | ⚠ Blocked | 0 posts (known parsing issue) |
+| WordPress Publish | ⚠ Blocked | fanrumor.com:443 denied by egress proxy |
+| Git Push | ✅ via GitHub MCP | content-pipeline main branch updated |
