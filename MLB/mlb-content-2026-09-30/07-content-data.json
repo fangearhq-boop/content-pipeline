@@ -1,0 +1,270 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-30",
+  "compiled_at": "2026-09-30T10:34:01.538718+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Wild Card Day 1 Recap — Home Teams Go 3-1, Padres and Yankees Dominate",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "WILD CARD DAY 1 FINAL SCORES:\n\n🔴 Braves 5, Phillies 3\n⚪ White Sox 6, Astros 3 (road upset!)\n🔵 Yankees 9, Red Sox 0 (without Judge)\n🟡 Padres 8, Cubs 0 (King's near no-hitter)\n\nThree road teams face elimination TODAY. 🍿⚾ #MLB #MLBPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#MLBPlayoffs"
+          ],
+          "char_count": 236
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Game 2 is today. THREE road teams are one loss from going home.\n\nPhillies @ Braves (1PM ET)\nWhite Sox @ Astros (TBD)\nYankees vs Red Sox (TBD)\nCubs @ Padres (9PM ET)\n\nWild Card is wild. ⚾ #MLBPlayoffs #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLBPlayoffs",
+            "#MLB"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-wild-card-day-1-recap.html",
+        "headline": "Wild Card Day 1: Home Teams Go 3-1 as Yankees and Padres Dominate",
+        "word_count": 564
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wild Card Day 1 Overview\n\n**Concept 1A — Social (1080x1350, 4:5 vertical)**\nMode: base_only\nSearch term: \"baseball stadium playoff atmosphere crowd\"\nCaption area: \"WILD CARD DAY 1\"\nSubtext: \"Home teams 3-1 | All series underway\"\nStyle: Dark stadium atmosphere, bold scoreboard-style layout\n\n**Concept 1B — Social (1080x1350, 4:5 vertical)**\nMode: base_only\nSearch term: \"baseball playoff bunting pennant\"\nCaption area: \"GAME 2 TODAY\"\nSubtext: \"3 road teams face elimination\"\nStyle: October baseball energy, multiple team colors\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wild Card Day 1 Results Overview\n**Source:** ESPN, NBC Sports, CBS Sports, MLB.com, Bleacher Report\n**Confidence:** HIGH (confirmed across multiple outlets)\n**Key Facts:**\n- All 4 Wild Card Game 1s played September 29, 2026 on NBC/Peacock/NBCSN\n- Results: Braves 5, Phillies 3 | White Sox 6, Astros 3 | Yankees 9, Red Sox 0 | Padres 8, Cubs 0\n- Home teams went 3-1 (Phillies beat in Atlanta; Yankees home at Yankee Stadium)\n- Game 2 schedule Sept 30: Phillies @ Braves (1PM ET), Cubs @ Padres (9PM ET)\n- Game 2 pitching: Kevin Gausman (CHC) vs. Nick Pivetta (SD) in the Padres game\n- **HIGH confidence:** All game results and series leads confirmed",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Yankees 9, Red Sox 0 — Depth Wins Without Judge",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Aaron Judge: not on the roster.\nBen Rice: 2 home runs.\nCam Schlittler: 6.1 scoreless innings.\nFinal: Yankees 9, Red Sox 0.\n\nThe Yankees don't need their MVP right now — and that should scare every other AL team. ⚾ #LetsGoYankees #MLBPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LetsGoYankees",
+            "#MLBPlayoffs"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-yankees-9-red-sox-0-without-judge.html",
+        "headline": "Without Aaron Judge, the Yankees' Depth Devoured the Red Sox, 9-0",
+        "word_count": 586
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Yankees 9, Red Sox 0\n\n**Concept 2A — Social (1080x1350, 4:5 vertical)**\nMode: base_only\nSearch term: \"Yankees Ben Rice\"\nCaption area: \"NO JUDGE. NO PROBLEM.\"\nSubtext: \"Yankees 9, Red Sox 0 | Wild Card Game 1\"\nStyle: Yankees navy/white, dominant energy\n\n**Concept 2B — Social (1080x1350, 4:5 vertical)**\nMode: base_only\nSearch term: \"Aaron Judge calf injury\"\nCaption area: \"DEPTH WINS\"\nSubtext: \"Yankees advance without their MVP\"\nStyle: Dark, moody, contrast between star and team depth\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Yankees 9, Red Sox 0\n**Source:** CBS Sports, NBC Sports, MLB.com, Bleacher Report, Fox Sports\n**Confidence:** HIGH\n**Key Facts:**\n- Cam Schlittler (SP, NYY): 6.1 scoreless innings, career-high 117 pitches, homegrown young starter\n- Ben Rice (DH/1B, NYY): Hit TWO home runs\n- Aaron Judge NOT on Wild Card roster (right calf/soleus strain)\n- Judge last played September 16\n- Two injuries in same season: rib stress fracture (June–Sept 7), then calf/soleus strain\n- Judge received platelet-poor plasma injection in calf\n- Judge took live batting practice Monday Sept 28 to make case to play\n- Boone on Game 1 day: \"I don't think he's all the way back\"\n- Surgeon publicly warned returning too quickly risks Achilles rupture\n- Boone suggested Judge could be available for ALDS if Yankees advance\n- Judge had publicly pushed back on Boone's public injury status comments\n- **HIGH confidence:** All facts confirmed via multiple outlets",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "White Sox 6, Astros 3 — The Most Improbable Playoff Win in Modern MLB History",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "In 2024, the White Sox lost 121 games — an MLB record.\n\nIn 2026, Colson Montgomery just hit a 432-foot playoff home run in Houston.\n\nThe most improbable story in baseball is still going. ⚾ #WhiteSox #MLBPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLBPlayoffs"
+          ],
+          "char_count": 211
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Three straight 100-loss seasons → first in MLB history to do it.\nOpening Day playoff odds: 1.1%.\nGame 1 result: WHITE SOX WIN.\n\nChicago's South Side miracle run isn't over. ⚾ #WhiteSox #MLBPlayoffs #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLBPlayoffs",
+            "#MLB"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-white-sox-astros-miracle-playoff-win.html",
+        "headline": "From 121 Losses to a Playoff Win: The White Sox Miracle Run Continues in Houston",
+        "word_count": 636
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "White Sox 6, Astros 3\n\n**Concept 3A — Social (1080x1350, 4:5 vertical)**\nMode: base_only\nSearch term: \"Colson Montgomery White Sox\"\nCaption area: \"FROM WORST TO WILD CARD WINNER\"\nSubtext: \"White Sox 6, Astros 3 | 3 straight 100-loss seasons → Playoff WIN\"\nStyle: Black and white Sox colors, triumphant energy\n\n**Concept 3B — Social (1080x1350, 4:5 vertical)**\nMode: base_only\nSearch term: \"baseball home run celebration dugout\"\nCaption area: \"THE MIRACLE CONTINUES\"\nSubtext: \"Opening Day playoff odds: 1.1%\"\nStyle: Dramatic celebration, South Side energy\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "White Sox 6, Astros 3\n**Source:** Washington Post, ESPN, MLB.com, Daily Caller, Boston Globe\n**Confidence:** HIGH\n**Key Facts:**\n- Colson Montgomery (SS): 432-foot solo HR to dead center (4th inning), his 31st HR of regular season; also set single-season MLB strikeout record at 227 Ks; batted 9th by manager Will Venable\n- Sam Antonacci (LF): Led off lineup; RBI single in 2nd pushed lead to 3-0 with bases loaded\n- Chase Meidroth: Bases-loaded RBI single in 5th, made it 5-0\n- Nelson Velázquez (pinch-hit, HOU): Two-run HR cut it to 5-2 in 5th\n- White Sox used bullpen day (opener strategy), consistent with 31 opener appearances in regular season\n- White Sox historical context:\n- First team in MLB history to reach playoffs after THREE consecutive 100-loss seasons\n- 2023: 61-101; 2024: 41-121 (MLB record losses in 162-game era since 1899); 2025: 60-102\n- Clinched Sept 24, 2026 (beat Royals 9-1)\n- Opening Day 2026 playoff odds: 1.1% (third-lowest in baseball)\n- Identity: 11 walk-off wins, 35 comebacks, 31 opener appearances\n- First postseason since 2021\n- **HIGH confidence:** All facts from multiple sourced outlets",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Michael King Nearly No-Hits the Cubs — Padres 8, Cubs 0",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Michael King took a no-hitter into the 7th inning tonight.\n\nNico Hoerner's soft infield single — the ONLY Cubs hit — ended it.\n\n7 IP. 8 K. Multiple standing ovations. The Padres are LOCKED IN. ⚾ #Padres #MLBPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Padres",
+            "#MLBPlayoffs"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-michael-king-near-no-hitter-padres-cubs.html",
+        "headline": "Michael King's Near-No-Hitter Powers Padres Past Cubs, 8-0",
+        "word_count": 559
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Padres 8, Cubs 0\n\n**Concept 4A — Social (1080x1350, 4:5 vertical)**\nMode: base_only\nSearch term: \"Michael King Padres pitcher\"\nCaption area: \"7 INNINGS. 8 K. NO-HIT BID.\"\nSubtext: \"Padres 8, Cubs 0 | Michael King was untouchable\"\nStyle: Padres brown/gold, heroic pitching moment\n\n**Concept 4B — Social (1080x1350, 4:5 vertical)**\nMode: base_only\nSearch term: \"Fernando Tatis Jr Padres\"\nCaption area: \"FIRST PITCH. FIRST INNING. HOME RUN.\"\nSubtext: \"Tatis Jr. — first leadoff playoff HR in Padres history\"\nStyle: Bold action shot, Petco Park atmosphere\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Padres 8, Cubs 0\n**Source:** NBC Sports, Boston Globe, MLB.com, NBC Chicago, Sports Illustrated\n**Confidence:** HIGH\n**Key Facts:**\n- Michael King (SP, SD): Carried no-hitter into 7th inning; Nico Hoerner broke it up with soft infield single (one out, 7th); Cubs' ONLY hit off King; 7 innings, 8 strikeouts; multiple standing ovations\n- This was the longest individual postseason no-hit bid since Aníbal Sánchez went 7 2/3 innings for Nationals in 2019 NLCS\n- Fernando Tatis Jr. (SD): Hit leadoff HR on very first pitch of the game — first leadoff playoff HR in Padres history\n- Manny Machado (SD): Homered in 1st inning, then added RBI double in 3rd\n- Padres had 7-0 lead before Hoerner's hit; final 8-0\n- **HIGH confidence:** All facts from multiple sourced outlets",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Austin Riley Breaks It Open — Braves 5, Phillies 3",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "8th inning. Two outs. All-Star closer Jhoan Duran on the mound.\n\nAustin Riley says no.\n\nThree-run homer. Braves win 5-3. Phillies must win Game 2 TODAY at 1PM ET. ⚾ #BravesCountry #MLBPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BravesCountry",
+            "#MLBPlayoffs"
+          ],
+          "char_count": 192
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-austin-riley-braves-phillies-game1.html",
+        "headline": "Austin Riley's 8th-Inning Three-Run Homer Lifts Braves Past Phillies, 5-3",
+        "word_count": 534
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Braves 5, Phillies 3\n\n**Concept 5A — Social (1080x1350, 4:5 vertical)**\nMode: base_only\nSearch term: \"Austin Riley Braves\"\nCaption area: \"RILEY DELIVERS\"\nSubtext: \"3-run HR in 8th off Duran | Braves 5, Phillies 3\"\nStyle: Braves red/navy, clutch hit moment"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Braves 5, Phillies 3\n**Source:** Yahoo Sports, Philadelphia Inquirer, MLB.com, Bleacher Report\n**Confidence:** HIGH\n**Key Facts:**\n- Austin Riley (3B, ATL): Go-ahead THREE-RUN homer with two outs in the 8th inning off Jhoan Duran (All-Star closer)\n- Phillies were leading or tied through the 8th inning\n- Braves won in comeback fashion at Truist Park\n- Philadelphia now in must-win Game 2 (1:00 PM ET, September 30)\n- **HIGH confidence:** All facts confirmed\n## Story History Check\nAll 5 stories are NEW STORY classifications — Wild Card series started Sept 29, none covered previously in MLB pipeline.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

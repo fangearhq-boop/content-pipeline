@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-09-30
+
+### Story 1: Wild Card Day 1 Recap — Home Teams Go 3-1
+- **Date:** 2026-09-30
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** All 4 Wild Card Game 1s played Sept 29. Results: Braves 5 Phillies 3 (Riley 3-run HR off Duran in 8th), White Sox 6 Astros 3 (Montgomery 432-ft HR), Yankees 9 Red Sox 0 (Schlittler 6.1 scoreless/Rice 2 HR/no Judge), Padres 8 Cubs 0 (King near-no-hitter/Tatis leadoff HR). Home teams 3-1.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Game 2 results for all four series
+  - Any series that ends today (Yankees, Padres likely)
+
+### Story 2: Yankees 9, Red Sox 0 — Without Aaron Judge
+- **Date:** 2026-09-30
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Judge off Wild Card roster (right calf/soleus strain, last played Sept 16). Cam Schlittler 6.1 scoreless IP (117 pitches). Ben Rice 2 HR. Yankees won 9-0. Judge may return for ALDS.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Judge ALDS return status
+  - Yankees-Red Sox series conclusion
+
+### Story 3: White Sox 6, Astros 3 — Miracle Run Continues
+- **Date:** 2026-09-30
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** First team in MLB history to make playoffs after 3 straight 100-loss seasons (2023: 61-101, 2024: 41-121 MLB record, 2025: 60-102). Opening Day odds 1.1%. Colson Montgomery 432-ft HR (31st). Antonacci and Meidroth RBI singles. White Sox used opener strategy.
+- **Content Produced:** Article (article-03, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - White Sox-Astros Game 2 result
+  - Whether White Sox can advance to ALDS
+
+### Story 4: Padres 8, Cubs 0 — Michael King Near-No-Hitter
+- **Date:** 2026-09-30
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** King carried no-hitter into 7th (longest postseason no-hit bid since Sánchez 7 2/3 in 2019 NLCS). Hoerner soft infield single ended it (only Cubs hit). 7 IP, 8 K. Tatis Jr. leadoff HR first pitch (first leadoff playoff HR in Padres history). Machado HR + RBI double.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Cubs-Padres Game 2 (Gausman vs Pivetta, 9PM ET)
+  - Whether Cubs can respond
+
+### Story 5: Braves 5, Phillies 3 — Austin Riley 8th-Inning HR
+- **Date:** 2026-09-30
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Riley 3-run HR off Jhoan Duran (All-Star closer) with 2 outs in 8th. Braves comeback win. Phillies face must-win Game 2 today at 1PM ET.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Phillies-Braves Game 2 result (1PM ET today)
+  - Series conclusion
+
+---
+
 ## 2026-09-29
 
 ### Story 1: Wild Card Day — All Four Series Open Today
