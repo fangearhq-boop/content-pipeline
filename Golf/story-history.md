@@ -2,6 +2,16 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-10-01
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-01 | T1 | Bank of Utah Championship Heads Into Moving Day With the Leaderboard Packed at the Top | X(2), FB, Article | NEW |
+| 2026-10-01 | T1 | The LIV Golf October 13 Deadline Is 12 Days Away — And Several Key Players Still Haven't Decided | X(2), FB, Article | FOLLOW UP |
+| 2026-10-01 | T1 | The LOTTE Championship Opens in Hawaii — Korda Is Chasing Back-to-Back Wins | X(1), FB, Article | NEW |
+| 2026-10-01 | T2 | Defending Champion vs. His Brother: The Ostrander Storyline That Owns Moving Day at Black Desert | X(1), FB, Article | FOLLOW UP |
+| 2026-10-01 | T2 | The International Team Has Lost 11 Straight Presidents Cups. What Would Actually Change That? | X(2), FB, Article | FOLLOW UP |
+
 ## 2026-09-29
 
 | Date | Tier | Title | Platforms | Status |
