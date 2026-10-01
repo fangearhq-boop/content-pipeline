@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## October 1, 2026
+
+| 2026-10-01 | Djokovic wins China Open Day 2 — def. Borges 6-3, 7-6(2). First tour win since Wimbledon QF July 7. Record in Beijing now 30-0 (6 titles). Medical timeout at 2-3 in second set; closed tiebreak 7-2. Potential QF vs Zverev (same quarter). Sources: atptour.com, tennisworldusa.org | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Sep 30 S3: China Open Day 1 opens, Djokovic on schedule) |
+| 2026-10-01 | Japan Open Tokyo opens — ATP 500, Sep 30–Oct 6, Tokyo. Defending champion Alcaraz in draw. Day 1 results: Fils def. Van Assche 6-3, 6-2 (first match as Top 10 player); Tabilo def. Tommy Paul (7th seed) 6-1, 6-2; Vacherot def. Blockx 7-6(2), 7-6(4); Arnaldi def. Sakamoto 2-6, 6-4, 6-4. Sources: atptour.com, tennis.com | T1 | X, FB, Article | Elena Voss; NEW |
+| 2026-10-01 | Sinner now "unlikely to play Shanghai" per Italian media (tennisnow.com). Injury identified as iliotibial band syndrome. Conservative treatment; surgery last resort. Last match Wimbledon July. Would be 5th consecutive missed event. No official withdrawal filed. Sources: tennisnow.com, essentiallysports.com, espn.com | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Sep 30 S4: Sinner WD China Open targeting Shanghai → Shanghai doubtful) |
+| 2026-10-01 | ATP Race to Turin update — Zverev leads at 8,650 pts (qualified), Sinner 2nd at 7,950 (qualified, injured). Bubble: Shelton 4,430; Alcaraz ~4,050; Medvedev ~2,420; Fils ~1,890; de Minaur ~1,870; Menšík ~1,855. Sinner projects to drop 3,550 more Race pts; Zverev drops only ~1,080. Sources: atptour.com, umpiry.com | T2 | X, FB, Article | Ryan Calloway; NEW |
+| 2026-10-01 | WTA Race to Finals standings — Rybakina leads (7,492), Sabalenka 2nd (6,485), Pegula 3rd (5,825), Andreeva 4th (5,722), Gauff 5th (5,654), Svitolina 6th (4,809), Muchova 7th (4,400), Noskova 8th (4,234, last qualifying spot), Kostyuk 9th (3,910), Swiatek 10th (3,584 — 650 pts outside bubble). Beijing WTA 1000 critical for Swiatek's Finals hopes. Sources: wtatennis.com, courtsidecoffee.substack.com | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Sep 30 S5: Rybakina World No. 1 context → Race standings) |
+
+---
+
+
 ## September 30, 2026
 
 | 2026-09-30 | Hangzhou Open Final RESULT — Daniil Medvedev def. Andrey Rublev 7-5, 6-4 in 93 minutes. 23 aces, never dropped serve. Medvedev's 24th career title, 3rd of 2026 (Brisbane, Dubai, Hangzhou). H2H now 8-2 Medvedev. Rublev had earned 400th career ATP win in SF. Sources: atptour.com, tennismajors.com | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Sep 29 S4: Hangzhou Final preview — all-Russian final → RESULT) |

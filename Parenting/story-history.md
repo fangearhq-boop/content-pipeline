@@ -2,6 +2,50 @@
 
 ---
 
+## October 1, 2026
+
+### Story 1: Things to Do with Kids in Colorado Springs This Weekend (Oct. 2–4)
+- **Date:** 2026-10-01
+- **Tier:** T1
+- **Pillar:** Local Events (Weekend Family Roundup — MANDATORY THURSDAY)
+- **Key Facts:** Cool Science Carnival at UCCS (FREE, Oct 3, 10AM–4PM, K–8); Rock Ledge Ranch Harvest Festival (Oct 3, $6–$12, 3105 Gateway Rd); Venetucci Farm Pumpkin Fest (Sat–Sun, $5 admission, 5210 S US-85); Ghost Stories of Old Manitou opening weekend (Oct 2–3, 5:30 PM, $18.84/free under 10); Concrete Couchella (Oct 2–3, FREE, near Downtown COS)
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 2: CPSC Recalls Two Baby Bath Seats Over Drowning Risk
+- **Date:** 2026-10-01
+- **Tier:** T1
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** YCXXKJ (BenTalk/Amazon, ~9,000 units, May 2024–Oct 2025, blue/gray/pink/yellow, tips over → drowning); NFSVLB (Amazon, May–Oct 2025, $25–$40, leg openings → entrapment+drowning); stop use, full refund at point of purchase; cpsc.gov
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 3: D11 and D49 Fall Break and Parent-Teacher Conference Dates
+- **Date:** 2026-10-01
+- **Tier:** T2
+- **Pillar:** Local News (School Calendar)
+- **Key Facts:** D11: teacher workday Oct 9, PTCs Oct 16, fall break Oct 19–22 (4 days); D49: PTCs Oct 9, fall break Oct 12–23 (~two weeks); both no-school Oct 9; d11.org, d49.org
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 4: AAP 2026 Vaccine Schedule Recommends More Than CDC
+- **Date:** 2026-10-01
+- **Tier:** T2
+- **Pillar:** National Parenting (Health)
+- **Key Facts:** AAP 2026 schedule: 17 diseases; CDC dropped hep A/B, flu, rotavirus, RSV, meningococcal + others; Colorado CDPHE backs AAP; 12 national orgs + 28 states endorse AAP; COVID vax for 6–23 months; ask pediatrician which schedule they follow; healthychildren.org, coloradosun.com (Jan 7 2026)
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 5: Cool Science Festival Oct. 3–18
+- **Date:** 2026-10-01
+- **Tier:** T2
+- **Pillar:** Local Events (STEAM)
+- **Key Facts:** Oct 3–18, 16 days; co-hosted by Space Foundation Discovery Center; Carnival Day UCCS (Oct 3, FREE, K–8); WMMI gem panning Oct 3–18; Science Riot Ivywild Oct 7; Space Science Shows USAFA Oct 8; most events free; coolscience.org
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+---
+
 ## September 30, 2026
 
 ### Story 1: CPSC Recalls Blossom Children's Loungewear — Burn Hazard
