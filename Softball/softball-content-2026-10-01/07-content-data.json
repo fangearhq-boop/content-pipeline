@@ -1,0 +1,321 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-01",
+  "compiled_at": "2026-10-01T10:24:29.809677+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 2 lead (Japan perfect game)",
+      "type": "Breaking/trending"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (OU cancellation)",
+      "type": "Developing"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 3 (Illinois hire)",
+      "type": "Coaching news"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 4 (Minnesota hire)",
+      "type": "Coaching news"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 5 (Fall ball roundup)",
+      "type": "Evergreen"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 2 follow-up thread",
+      "type": "Deep-dive"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "OU Battle Series Opener Cancelled by Lightning",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Oklahoma's fall Battle Series opener at Love's Field on September 30 was cancelled after lightning moved into Norman. The game was moved up 2.5 hours to 4 PM but cancelled 45 minutes into a delay. Ella Parker hit a home run on the very first at-bat, off Audrey Lowry. Next game: October 4 vs. Tarleton State, 1 PM.",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Lightning cancelled OU's fall opener before it barely started — but Ella Parker already made it memorable. She hit a home run on the very first at-bat off Audrey Lowry. Next up: Oct. 4 vs. Tarleton State at Love's Field. 🥎 #SoonerNation",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#SoonerNation"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "Oklahoma's fall Battle Series opener got cut short in the worst way — a lightning storm rolled into Norman on September 30, forcing officials to call the game after just 45 minutes of play.\n\nBut before the weather had its say, Ella Parker made a statement. On the very first at-bat of the 2026-27 season, Parker launched a home run to right-center field off pitcher Audrey Lowry. A small but electric moment that gave OU fans something to smile about amid the soggy afternoon.\n\nThe Sooners had moved the game up 2.5 hours (to 4 PM) in hopes of beating the forecast. It wasn't enough. Lightning made the final call.\n\nNext up for Oklahoma: October 4 at Love's Field, 1 PM — a home exhibition against Tarleton State. If fall ball is any preview of what's coming, it'll be worth the wait.",
+        "image_caption": "Lightning couldn't stop Ella Parker from making a statement ⚡🥎 Oklahoma's fall opener was cancelled, but Parker's first-at-bat home run is the only highlight reel anyone needed.",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-ou-battle-series-lightning-cancellation.html",
+        "headline": "Lightning Cancels Oklahoma's Fall Opener, But Ella Parker Stole the Show First",
+        "word_count": 494
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350, 4:5 vertical)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350, 4:5 vertical)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "OU Battle Series Opener Cancelled by Lightning\n**Sources:**\n- https://www.si.com/college/oklahoma/softball/oklahoma-s-fall-opener-cut-short-by-rain-01m3t1fndcq8\n- https://sports.yahoo.com/articles/oklahomas-fall-opener-cut-short-224352465.html\n- https://www.si.com/college/oklahoma/softball/live-updates-from-oklahoma-s-battle-series-opener-01k6p5d09zvk\n- https://soonersports.com/news/2026/9/29/oklahoma-softball-fall-ball-central-2026\n**Verified Facts (HIGH confidence):**\n- Game cancelled after lightning moved into Norman area Sept. 30\n- Originally scheduled 6:30 PM; moved up to 4 PM due to forecast\n- Lightning struck after ~45 minutes of play; game cancelled ~45 min into delay\n- Ella Parker hit a home run on the first at-bat of the game, off pitcher Audrey Lowry, to right-center field\n- Next fall game: Saturday, October 4 vs. Tarleton State, 1 PM, Love's Field\n**Notes:** No score or full lineup was available due to early cancellation.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Asian Games Day 5 — Japan Perfect Game, Both Japan and China Stay 5-0",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Mio Goto threw a perfect game (18 up, 18 down, 9 K, 64 pitches) in Japan's 8-0 six-inning win over Korea on September 30. Japan also beat Singapore 10-0 earlier. Japan and China are both 5-0. Finals are October 3 at Anjō Sports Park — an LA28 Olympic qualifying event.",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Mio Goto just threw a PERFECT GAME at the Asian Games.\n\n18 up. 18 down. 9 strikeouts. 64 pitches. Japan beat Korea 8-0 and is now 5-0.\n\nThe Oct. 3 final is shaping up to be one of the biggest softball games of 2026. 🥎",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 217
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Japan and China are BOTH 5-0 at the Asian Games.\n\nChinese Taipei (4-1, World No. 5) could still medal. Finals are Oct. 3 in Anjō — and it's an LA28 Olympic qualifier. The stakes don't get much higher. 🇯🇵🥎 #Softball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "Mio Goto just did something extraordinary.\n\nIn Japan's 8-0 win over Korea at the Asian Games on September 30, Goto retired all 18 batters she faced. A perfect game. Nine strikeouts. Sixty-four pitches. Not a single baserunner reached.\n\nIt was one of two Japan wins on the day. Earlier, Saki Miwa had dominated Singapore in a 10-0 run-rule victory, allowing just one hit over four innings while teammates Hotaru Tsukamoto and Eri Shimoyama each went 2-for-2 with two RBIs.\n\nJapan is now 5-0 at the 20th Asian Games, held at Anjō Sports Park in Anjō, Aichi, Japan. China is also 5-0. Chinese Taipei, the World No. 5 team, sits at 4-1 and is firmly in medal contention.\n\nThe stakes couldn't be higher: the October 3 finals at Anjō aren't just for the gold medal — this tournament is part of the LA28 Olympic qualifying pathway. A Japan-China final would be a preview of what the softball world can expect when the sport returns to the Olympics.\n\nAnjō. October 3. Circle the date. 🥎🇯🇵",
+        "image_caption": "PERFECT GAME at the Asian Games 🥎🇯🇵 Mio Goto: 18 batters. 18 outs. 9 strikeouts. Japan is 5-0 and rolling toward the Oct. 3 final. This tournament is an LA28 Olympic qualifier — and Japan looks unstoppable.",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-asian-games-japan-perfect-game.html",
+        "headline": "Mio Goto Throws Perfect Game as Japan Dominates Asian Games Day 5",
+        "word_count": 404
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350, 4:5 vertical)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350, 4:5 vertical)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Asian Games Day 5 — Japan Perfect Game\n**Sources:**\n- https://www.wbsc.org/en/news/asian-games-womens-softball-japan-extend-shutout-run-china-hold-off-chinese-taipei-on-day-5\n- https://en.wikipedia.org/wiki/Softball_at_the_2026_Asian_Games\n- https://www.wbsc.org/en/news/china-and-chinese-taipei-continue-winning-form-in-asian-games-softball\n- https://www.wbscasia.org/en/events/2026-20th-asian-games-aichi-nagoya-2026-womens-softball/home\n**Verified Facts (HIGH confidence):**\n- Tournament: 20th Asian Games, Anjō Sports Park Softball Ground, Anjō, Aichi, Japan\n- 8 teams competing; Prelims Sept. 26–Oct. 2; Finals Oct. 3\n- Sept. 30 Game 1: Japan def. Singapore 10-0 (4 innings, run-rule); Hotaru Tsukamoto and Eri Shimoyama each 2-for-2 with 2 RBIs; Saki Miwa pitched 4 shutout innings (1 hit allowed)\n- Sept. 30 Game 2: Japan def. Korea 8-0 (6 innings); Mio Goto threw a perfect game — 18 batters, 18 retired, 9 strikeouts, 64 pitches\n- Standings after Day 5: Japan 5-0, China 5-0, Chinese Taipei 4-1, Philippines 3-2, Korea 2-3, Hong Kong 1-4, Singapore 0-5, Thailand 0-5\n- Japan and China clinched spots in medal games; Chinese Taipei (World No. 5) positioned for medal\n- Finals: October 3; doubles as LA28 Olympic qualifying\n**Notes:** WBSC is the official governing body — facts treated as HIGH confidence.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Illinois Names Jenna Hall New Head Softball Coach",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Illinois hired former Illini first baseman Jenna Hall — 4x All-Big Ten, 2006 1st-Team All-American, Illinois Athletics Hall of Fame inductee (2019) — as new head softball coach, completing a quick search after releasing Tyra Perry.",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Illinois is bringing home one of its own.\n\nJenna Hall — 4x All-Big Ten, 2006 1st-Team All-American, Illinois Athletics Hall of Famer — is the new head softball coach. A full-circle hire for a program ready for a fresh start. 🧡💙",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "When Illinois went searching for its next softball head coach, it didn't have to look far.\n\nJenna Hall is coming home.\n\nA four-time All-Big Ten First Team selection and 2006 First Team All-American during her playing career at Illinois, Hall was inducted into the Illinois Athletics Hall of Fame in 2019. Now she's being handed the keys to the program she helped build.\n\nHall takes over a team that has struggled badly in recent years — 15-39 overall and 3-20 in the Big Ten during the 2026 season, the third consecutive sub-.500 year under outgoing coach Tyra Perry. But the hire brings a spark of energy and identity back to Champaign.\n\nHall knows what it means to win in Champaign. Now it's time to show the next generation.",
+        "image_caption": "Coming home. 🧡💙 Jenna Hall — four-time All-Big Ten and 2006 All-American — is the new head softball coach at Illinois. The rebuild starts now.",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-03-illinois-hires-jenna-hall.html",
+        "headline": "Illinois Turns to Its Own: Jenna Hall Named New Softball Head Coach",
+        "word_count": 489
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350, 4:5 vertical)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350, 4:5 vertical)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Illinois Hires Jenna Hall\n**Sources:**\n- https://www.news-gazette.com/sports/hall-finding-overwhelming-support-as-new-illinois-softball-coach/article_6ea52926-2aee-4827-82b7-b423055b2e91.html\n- https://www.news-gazette.com/sports/illini-softball-moves-on-from-perry/article_a0e7f0f6-d0b5-4886-a997-b3f2972a3b14.html\n- https://247sports.com/college/illinois/article/illini-fire-softball-coach-tyra-perry-after-11-seasons-284120916/\n- https://www.si.com/onsi/softball/news/2026-ncaa-softball-coaching-carousel-all-the-latest-hires-firings-and-openings\n**Verified Facts (HIGH confidence):**\n- Jenna Hall named new Illinois head softball coach\n- Hall is an Illinois alum — played as first baseman; 4-time All-Big Ten First Team; 2006 First Team All-American\n- Inducted into Illinois Athletics Hall of Fame in 2019\n- Illinois went 15-39 overall (3-20 Big Ten) in 2026 — third consecutive sub-.500 season\n- Tyra Perry was fired after 11 seasons (87-125 overall per pipeline; 22-66 Big Ten final 4 years)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Minnesota Names Gretta Melsted New Head Softball Coach",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Minnesota hired Gretta Melsted — 20 seasons at Augustana (SD), 813-313 record, 2019 D2 national champion, 14 NCAA Tournament appearances, NFCA Hall of Fame (Dec 2024) — to replace fired Piper Ritter.",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Minnesota just hired one of the most decorated coaches in college softball.\n\nGretta Melsted: 813-313 record. 2019 D2 national title. 14 NCAA Tournaments. NFCA Hall of Famer. Gopher softball has a new chapter. 🐾",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "Minnesota didn't go looking for a project. They went looking for a proven winner.\n\nAnd that's exactly what they got.\n\nGretta Melsted arrives in Minneapolis as one of the most decorated coaches in college softball history. Her 20 seasons at Augustana University (Sioux Falls, SD) produced an 813-313 record, a 2019 Division II national championship, 14 NCAA Tournament appearances, and an NFCA Hall of Fame induction in December 2024.\n\nMelsted replaces Piper Ritter, who was let go in May after a 16-36 season and six years without a return to the NCAA Tournament. The Gophers haven't danced since 2023.\n\nMelsted has never had a losing record at Augustana. That track record, combined with the Big Ten platform and Minnesota's recruiting territory, makes this hire one of the most exciting in the 2026 coaching carousel.\n\nMinnesota is back in business. 🐾",
+        "image_caption": "813 wins. 1 national title. NFCA Hall of Fame. 🐾 Gretta Melsted is the new head softball coach at Minnesota — and Gopher softball has a new chapter starting now.",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-04-minnesota-hires-gretta-melsted.html",
+        "headline": "Minnesota Lands NFCA Hall of Famer Gretta Melsted as New Head Coach",
+        "word_count": 447
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350, 4:5 vertical)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Social (1080x1350, 4:5 vertical)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Minnesota Hires Gretta Melsted\n**Sources:**\n- https://www.si.com/college/minnesota/gophers-softball/gophers-hire-augustana-hall-of-famer-as-new-softball-head-coach\n- https://www.on3.com/softball/news/gretta-melsted-named-minnesota-head-coach/\n- https://sports.yahoo.com/articles/minnesota-gophers-hire-gretta-melsted-151350729.html\n- https://www.startribune.com/gophers-fire-softball-coach-piper-ritter/601839002\n**Verified Facts (HIGH confidence):**\n- Gretta Melsted named Minnesota head coach\n- Previously: 20 seasons at Augustana University, Sioux Falls, SD\n- Career record at Augustana: 813-313\n- Won 2019 Division II national championship\n- Led Augustana to 14 NCAA Tournament appearances\n- NFCA Hall of Fame inductee, December 2024\n- Piper Ritter was fired May 8, 2026 after going 16-36 overall (7-17 Big Ten) in her sixth season\n- Minnesota had not reached the NCAA Tournament since 2023\n- 2027 recruit Kendal Headley decommitted after Ritter firing (pipeline notes)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Fall Ball Nation — Programs Set Schedules, Transfer Portal Active",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Oregon hosting 8 free fall exhibitions at Jane Sanders Stadium through November 1. Louisiana unveiled a four-game fall slate. Transfer portal: Tori Edwards to LSU, Ella Dodge (Tennessee) to Florida State, 250+ movers tracked by ON3.",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Fall ball is officially here.\n\nOregon is hosting 8 FREE games at Jane Sanders Stadium. Tori Edwards (top-ranked portal transfer) committed to LSU. Tennessee's Ella Dodge is heading to Florida State.\n\nThe 2026-27 season is already taking shape. 🥎",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "Fall ball is in full swing — and the 2026-27 season is already taking shape across the country.\n\nOregon (Big Ten) is giving fans eight FREE chances to watch the Ducks at Jane Sanders Stadium in Eugene this fall, with games running from October 11 all the way to November 1. Louisiana unveiled a schedule featuring exhibition games against McNeese (Oct. 9) and home contests with Mississippi Gulf Coast and Pearl River on October 14-15.\n\nThe transfer portal has been equally busy. Top-ranked transfer Tori Edwards has committed to LSU. Tennessee infielder Ella Dodge is heading to Florida State. Fresno State added three pitchers, a catcher, and an infielder through the portal. The ON3 portal is tracking more than 250 transfers in the 2026 cycle.\n\nThis is the time of year when rosters get rebuilt and dynasties get challenged. We'll be tracking it all as programs prep for what's shaping up to be a wild 2026-27 season. 🥎",
+        "image_caption": "Fall ball is HERE. Oregon. Louisiana. LSU. Programs everywhere are setting up for 2026-27 — and the transfer portal is already shaking things up. Stay with I Love Softball for every update. 🥎",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-fall-ball-nation-2026.html",
+        "headline": "Fall Ball Nation: How Softball Programs Are Preparing for 2026-27",
+        "word_count": 447
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350, 4:5 vertical)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Fall Ball Nation\n**Sources:**\n- https://nbc16.com/sports/ducks/ncaa-oregon-ducks-big-ten-college-softball-announces-eight-free-fall-exhibition-games-at-jane-sanders-stadium-eugene\n- https://acadiananewsfirst.com/2026/09/29/louisiana-softball-unveils-2026-fall-schedule\n- https://www.on3.com/transfer-portal/wire/softball/2026/\n- https://oceagles.com/news/2026/9/29/softball-kicks-off-fall-slate-this-afternoon-full-schedule-announced.aspx\n- https://on3.com/softball/news/2026-signing-class-breakdown-georgia\n**Verified Facts (MEDIUM confidence):**\n- Oregon hosting eight free fall exhibition games at Jane Sanders Stadium; runs through November 1; games include Clackamas CC (Oct. 11), Western Oregon (Oct. 14), Western Washington DH (Oct. 18), DH Oct. 24-25\n- Louisiana fall schedule includes McNeese (Oct. 9), doubleheaders vs. Mississippi Gulf Coast and Pearl River (Oct. 14-15)\n- Tori Edwards (top-ranked transfer) committed to LSU\n- Ella Dodge (Tennessee infielder) committed to Florida State\n- Fresno State additions: Kaelia Ricks (Ohio State, DP), Samantha Lotus and Delaney Wright (pitchers), Jayden Ramos (Arkansas, infield)\n- ON3 tracking 250+ transfers in 2026 cycle\n**Notes:** Transfer portal data aggregated from ON3; individual commitments should be treated as MEDIUM until confirmed by official team announcements.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
