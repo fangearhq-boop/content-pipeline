@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-01
+
+### STORY 1: Jalen Duren Deadline Day — Pistons Contract or QO?
+- **Tier:** 1
+- **Category:** NBA / Jalen Duren / Detroit Pistons / Contract / RFA
+- **Key facts:** Deadline Oct 1; Pistons offer: $200M/5yr; Duren's QO: $9.6M; Rose Rule max: $287M; gap: $87M; Pistons removed weight clause this morning; still unsigned as of midday; if signs QO, becomes unrestricted FA 2027; if accepts team offer, locked in 5 years
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: LeBron's First 76ers Practice — Helicopter and All
+- **Tier:** 1
+- **Category:** NBA / LeBron James / Philadelphia 76ers / Training Camp
+- **Key facts:** 76ers camp in Camden NJ; LeBron flew helicopter home to NYC (95 miles) after first practice; Nick Nurse: "Glad he's on our team"; VJ Edgecombe: "More fun than pressure"; first official practice Day 1; Embiid also in camp
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Opening Night — 19 Days Away, Knicks vs Sixers at MSG
+- **Tier:** 1
+- **Category:** NBA / Opening Night / Knicks / 76ers / MSG / Ticket Prices
+- **Key facts:** Oct 20, 7 PM ET, NBC; Knicks vs Sixers at MSG; get-in price $1,845; court-side $9,283; most expensive opening night in NBA history; Knicks raise 2026 championship banner (53 years since previous); LeBron's first game as Sixer; Embiid and Jaylen Brown debut together
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: Bradley Beal Knee Inflammation — Clippers Camp Day 1
+- **Tier:** 2
+- **Category:** NBA / Bradley Beal / LA Clippers / Training Camp / Injuries
+- **Key facts:** Beal won't start camp due to knee inflammation (not structurally related per team); Brandon Ingram also out (partial Achilles); Kawhi Leonard traded to Toronto offseason; three key Clippers players unavailable/gone Day 1
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: Giannis and Heat Preseason Opener Tomorrow
+- **Tier:** 2
+- **Category:** NBA / Giannis Antetokounmpo / Miami Heat / Preseason / Bam Adebayo
+- **Key facts:** Preseason Oct 3 vs Hornets; first live game for Giannis + Bam; California minicamp completed; Giannis traded to Miami offseason; Heat project as legitimate title threat; Giannis FG% .587 career; first test of new chemistry
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
 ## 2026-09-28
 
 ### STORY 1: NBA Media Day 2026 — 25 Teams Hit the Stage

@@ -1,0 +1,276 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-01",
+  "compiled_at": "2026-10-01T11:49:52.791258+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Jalen Duren Deadline Day — Pistons Remove Weight Clause, Still No Deal",
+      "tier": 1,
+      "status": "",
+      "angle": "The clock strikes midnight tonight. What are Duren's three options and what happens in each scenario?",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Today is the day. Jalen Duren has until midnight to decide: accept the Pistons' $200M deal, sign his $9.6M qualifying offer, or extend the deadline. Detroit removed the weight clause this morning. He still hasn't signed. #Pistons #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Pistons",
+            "#NBA"
+          ],
+          "char_count": 234
+        },
+        {
+          "label": "Post 2",
+          "text": "If Jalen Duren signs the qualifying offer today, he hits free agency in 2027 with zero strings attached. No Pistons matching rights. But he also plays this season for $9.6M while leaving $190M on the table. The gamble of his career. #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-jalen-duren-pistons-deadline-october.html",
+        "headline": "Jalen Duren's Deadline Is Here: Pistons Removed the Weight Clause. He Still Hasn't Signed.",
+        "word_count": 831
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jalen Duren Deadline Day\n\n**Social Image (1080x1350, 4:5 vertical):**\n- Visual Description: Close-up of a large wall clock face with dramatic lighting — hands pointing near midnight. Dark background with deep blue and silver accents evoking pressure and urgency.\n- Photo Search Terms (Imagn): \"Jalen Duren Detroit Pistons\", \"Jalen Duren center\"\n- Text Overlay: \"DEADLINE DAY\" (headline, Bebas Neue, white) / \"$200M or $9.6M — Duren Decides Tonight\" (subtitle, Montserrat, gold #FFC107)\n- Composition Notes: Tension/urgency mood; dark palette; clock imagery prominent\n\n**Article Hero (1200x630, landscape):**\n- Photo Search Terms (Imagn): \"Jalen Duren Detroit Pistons\"\n- Composition Notes: Horizontal action or portrait shot, game uniform preferred\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jalen Duren Deadline Day\n**Decision:** NEW STORY (deadline arrived; Pistons made concession — new angle)\n**Sources:**\n- Yahoo Sports: \"Jalen Duren Contract Negotiations: Why The Pistons' $200M Offer Stalled\" — https://sports.yahoo.com/articles/jalen-duren-contract-negotiations-why-024807809.html\n- Yahoo Sports: \"Pistons Make MAJOR Concession to Jalen Duren With Deadline Hours Away\" — https://sports.yahoo.com/articles/pistons-major-concession-jalen-duren-011940955.html\n- HoopsHype: \"Pistons, Jalen Duren remain $5M apart\" — https://www.hoopshype.com/story/sports/nba/2026/09/01/pistons-jalen-duren-remain-5-million-apart-in-contract-talks/91559945007/\n- Heavy.com: \"Jalen Duren Set For Unique NBA History After Rejecting $200M\" — https://heavy.com/sports/nba/detroit-pistons/jalen-duren-nba-history-200m-pistons-offer/\n**Key Facts [HIGH confidence — multiple sources]:**\n- October 1, 2026 is the deadline for Duren to accept/reject the qualifying offer\n- Pistons' full offer: 5 years / $200 million, fully guaranteed\n- Pistons removed the weight clause (latest concession); original sticking point\n- Duren's eligible max: 5 years / ~$287 million under the Rose Rule (third-team All-NBA)\n- Gap between Pistons offer and max eligibility: ~$87 million\n- Qualifying offer value: $9.6 million\n- If Duren signs QO: he becomes unrestricted FA in 2027; Pistons lose matching rights\n- Deadline can be extended to March 1, 2027 if both sides agree deal is close\n- Duren is 22 years old; first All-Star selection; third-team All-NBA 2025-26\n- Duren stats: 19.5 pts, 10.5 reb per game (2025-26)\n- Duren absent from media day and training camp start\n**Freshness:** Multiple sources from September 2026; deadline is today. HIGH freshness.\n**Why it matters:** Most consequential contract decision of the 2026-27 offseason.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "LeBron's First Practice — Helicopter, Headlines, and High Expectations",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "What does LeBron's arrival actually look like from inside the facility?",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "After his first Sixers practice, LeBron James got into a helicopter and flew back home to New York. Camp is in Camden. NYC is 95 miles away. The LeBron Experience has officially arrived in Philadelphia. #Sixers #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sixers",
+            "#NBA"
+          ],
+          "char_count": 215
+        },
+        {
+          "label": "Post 4",
+          "text": "Nick Nurse after Day 1 with LeBron: \"To me it looked the same as it looked coaching against him… Glad he's on our team.\" VJ Edgecombe: \"It's more fun than pressure.\" Day 1 at Sixers camp. #Sixers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sixers"
+          ],
+          "char_count": 195
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-lebron-sixers-camp-helicopter.html",
+        "headline": "LeBron James Took a Helicopter Home From His First 76ers Practice",
+        "word_count": 765
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LeBron / 76ers Training Camp\n\n**Social Image (1080x1350, 4:5 vertical):**\n- Visual Description: Basketball court lines from above at a training facility; warm natural light, intensity of practice implied\n- Photo Search Terms (Imagn): \"LeBron James Philadelphia 76ers\", \"76ers training camp\"\n- Text Overlay: \"LEBRON IS A SIXER\" (headline, Bebas Neue, white) / \"Day 1 is done. The season is real.\" (subtitle, Montserrat, royal blue #1565C0)\n- Composition Notes: 76ers red/blue palette; formal but energetic feel\n\n**Article Hero (1200x630, landscape):**\n- Photo Search Terms (Imagn): \"LeBron James Philadelphia\"\n- Composition Notes: Wide shot of LeBron in Sixers uniform at practice facility\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LeBron / 76ers Training Camp Day 1\n**Decision:** FOLLOW UP\n**Sources:**\n- Washington Post: \"76ers training camp begins with LeBron James\" — https://www.washingtonpost.com/sports/nba/2026/09/29/philadelphia-76ers-lebron-james/0c50365e-bc46-11f1-81fc-9b76f8343b6c_story.html\n- NBC Sports Philadelphia: \"Takeaways from 76ers training camp Day 1\" — https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-training-camp-lebron-james-joel-embiid-nick-nurse-vj-edgecombe/754918/\n- Complex: \"LeBron James Lifts Off From Sixers Camp in a Helicopter Bound for New York\" — https://www.complex.com/sports/a/markelibert/lebron-james-helicopter-commute-76ers-new-york\n- The Sixers Sense: \"Takeaways from first day of 76ers training camp\" — https://thesixersense.com/takeaways-from-glimpse-first-day-76ers-training-camp\n**Key Facts [HIGH confidence — multiple sources]:**\n- Training camp location: Penn Medicine Philadelphia 76ers Training Complex, Camden, NJ\n- LeBron James: record 24th NBA season\n- LeBron signed 2-year, $8M deal with 76ers this offseason\n- Starting lineup: LeBron James, Joel Embiid, Tyrese Maxey, Jaylen Brown, VJ Edgecombe\n- Nick Nurse on LeBron Day 1: \"To me it looked the same as it looked coaching against him…Glad he's on our team.\"\n- Nurse described LeBron as \"very vocal\" and \"example setter,\" especially on defense\n- VJ Edgecombe: \"No pressure playing alongside him. It's more fun than pressure.\"\n- LeBron revealed he plans to live in both NYC and Philadelphia during the season\n- After Day 1 practice, LeBron's helicopter was heard leaving the Camden facility, headed to NYC\n- Preseason scrimmage result: Sixers 126, Timberwolves 110\n**Freshness:** Day 1 was September 29; Day 3 is today. HIGH freshness, ongoing story.\n**Why it matters:** LeBron's Sixers debut is the most watched story in the league. Every day matters.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Opening Night in 19 Days — The Most Expensive Tip-Off in NBA History",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Ticket prices tell the story. This game is not just a season opener — it's an event.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Knicks vs. 76ers at MSG on October 20. Get-in price: $1,845. Court-side: $9,283. LeBron's first game as a Sixer. The Knicks raise their 53-year championship banner first. Most expensive opening night in NBA history. #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 220
+        },
+        {
+          "label": "Post 6",
+          "text": "Oct. 20. 7 PM ET. NBC. Knicks raise the championship banner they waited 53 years for. Then LeBron, Embiid, and Jaylen Brown walk in the door. The most layered opening night in recent NBA history. 19 days away. #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-opening-night-knicks-sixers-most-expensive.html",
+        "headline": "Opening Night in 19 Days: The Most Expensive Season Opener in NBA History",
+        "word_count": 760
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Opening Night in 19 Days\n\n**Social Image (1080x1350, 4:5 vertical):**\n- Visual Description: Madison Square Garden exterior at night, lights blazing, dramatic city skyline backdrop\n- Photo Search Terms (Imagn): \"Madison Square Garden NBA exterior\", \"New York Knicks arena night\"\n- Text Overlay: \"19 DAYS\" (headline, Bebas Neue, white) / \"Oct. 20 · MSG · $9,283 Courtside\" (subtitle, Montserrat, gold #FFC107)\n- Composition Notes: Celebratory/anticipatory mood; gold and midnight palette; NBA championship energy\n\n**Article Hero (1200x630, landscape):**\n- Photo Search Terms (Imagn): \"Madison Square Garden interior arena\"\n- Composition Notes: Wide arena interior showing the rafters where the banner will hang\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Opening Night / Knicks Banner Night\n**Decision:** FOLLOW UP\n**Sources:**\n- NBC New York: \"Knicks-76ers opener becomes most expensive season tip-off game in NBA history\" — https://www.nbcnewyork.com/nba/knicks-76ers-opener-becomes-most-expensive-season-tipoff-game-nba-history/6535996/\n- Yahoo Sports: \"Ticket prices for NBA Opening Night matchup featuring Knicks title celebration, LeBron/Sixers debut surpassing $2K\" — https://sports.yahoo.com/nba/article/ticket-prices-for-nba-opening-night-matchup-featuring-knicks-title-celebration-lebron-james-sixers-debut-surpassing-2k-183543275.html\n- ESPN: \"Champion Knicks face Sixers, LeBron on NBA tripleheader\" — https://www.espn.com/nba/story/_/id/49581391/champion-knicks-face-sixers-lebron-nba-tripleheader\n**Key Facts [HIGH confidence — multiple sources]:**\n- Opening Night: October 20, 2026 (19 days from today)\n- Time: 7:00 PM ET\n- Venue: Madison Square Garden\n- Broadcast: NBC and Peacock\n- Knicks: defending NBA champions; raising first banner since 1973 (53 years)\n- Get-in price: $1,845 (400-level)\n- 100-level: $2,700+\n- Court-adjacent seats: up to $9,283\n- Most expensive season-opening game in NBA history (per NBC New York)\n- LeBron's first regular-season appearance as a Sixer\n**Freshness:** Updated pricing data confirms new high. HIGH freshness.\n**Why it matters:** The game has transcended basketball — it's a cultural moment.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Bradley Beal's Knee Adds to Clippers' Camp Misery",
+      "tier": 2,
+      "status": "",
+      "angle": "The Clippers can't catch a break. Who steps up now?",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Clippers camp day: Brandon Ingram (partial Achilles) out. Kawhi Leonard traded to Toronto. Bradley Beal won't start camp — knee inflammation. Three key players, none healthy for Day 1. Not a great start in LA. #Clippers #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Clippers",
+            "#NBA"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-bradley-beal-clippers-knee-camp.html",
+        "headline": "Bradley Beal's Knee Inflammation Is the Latest Blow for the Injury-Cursed Clippers",
+        "word_count": 570
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bradley Beal Knee — Clippers\n\n**Social Image (1080x1350, 4:5 vertical):**\n- Visual Description: Athletic trainer taping a player's knee in a training room — metaphor for the injury pattern\n- Photo Search Terms (Imagn): \"Bradley Beal Los Angeles Clippers\", \"LA Clippers training\"\n- Text Overlay: \"CLIPPERS: ANOTHER BLOW\" (headline, Bebas Neue, white) / \"Beal. Ingram. Kawhi. LA Can't Stay Healthy.\" (subtitle, Montserrat, red #D32F2F)\n- Composition Notes: Somber palette; training room feel; emphasizes injury pattern\n\n**Article Hero (1200x630, landscape):**\n- Photo Search Terms (Imagn): \"Bradley Beal Clippers\"\n- Composition Notes: Portrait or recent action shot of Beal\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Bradley Beal — Clippers Camp Injury\n**Decision:** NEW STORY\n**Sources:**\n- Hoops Rumors: \"Injury updates: Haliburton, Curry, Beal, Bulls, more\" — https://www.hoopsrumors.com/2026/09/injury-updates-haliburton-curry-luka-beal-bulls-more.html\n- ESPN: \"2026-27 preseason biggest questions for all 30 teams\" — https://www.espn.com/nba/story/_/id/50008454/nba-2026-2027-preseason-biggest-question-all-30-teams\n**Key Facts [MEDIUM confidence — single source]:**\n- Bradley Beal: knee inflammation; won't be ready for start of Clippers camp\n- Beal missed all but 6 games in 2025-26 due to hip surgery\n- Brandon Ingram: already confirmed out with partial Achilles tear (from Sept 30 coverage)\n- Clippers lost Kawhi Leonard in trade to Raptors (Sept 14)\n- LA's offseason additions now both sidelined before camp begins\n**Freshness:** Current camp report. MEDIUM freshness (single source for Beal details).\n**Why it matters:** Clippers' season outlook darkens before a single drill is run.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Giannis Plays Tomorrow — The Heat's First Real Test",
+      "tier": 2,
+      "status": "",
+      "angle": "Preview the first public look at Miami's new identity.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 8",
+          "text": "Tomorrow night, Giannis and Bam Adebayo play together in a live game for the first time. After the California minicamp, after the whispers — we find out what the Miami Heat are actually made of. Oct. 3 tip-off. #HeatNation #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HeatNation",
+            "#NBA"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-giannis-heat-preseason-tomorrow.html",
+        "headline": "Giannis Plays Tomorrow: What to Watch in the Heat's First Preseason Game",
+        "word_count": 707
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Giannis / Heat Preseason\n\n**Social Image (1080x1350, 4:5 vertical):**\n- Visual Description: Dynamic two-player formation concept — two dominant figures flanking the paint, suggesting a frontcourt pairing; Miami Heat arena lighting\n- Photo Search Terms (Imagn): \"Giannis Antetokounmpo Miami Heat\", \"Bam Adebayo Miami Heat\"\n- Text Overlay: \"TOMORROW NIGHT\" (headline, Bebas Neue, white) / \"Giannis + Bam. First Live Look. Oct. 3.\" (subtitle, Montserrat, Miami Heat pink #F5425D)\n- Composition Notes: Anticipation/excitement mood; Heat brand colors (black, red, gold); high energy"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Miami Heat Preseason Preview\n**Decision:** NEW STORY\n**Sources:**\n- SI.com: \"Where Every Miami Heat Player Stands as Camp Nears\" — https://www.si.com/nba/heat/onsi/where-every-miami-heat-player-stands-as-camp-nears-01m31y4xjwj3\n- Bleacher Report: \"NBA Training Camps 2026 Start Dates, Schedules and Top Storylines\" — https://bleacherreport.com/articles/25501943-nba-training-camps-2026-start-dates-schedules-and-top-storylines-watch\n**Key Facts [HIGH confidence — consistent across sources]:**\n- First preseason game: October 3 (tomorrow)\n- Official camp opened: September 29\n- Prior unofficial California minicamp ongoing for weeks\n- Giannis skipped FIBA qualifiers to begin early camp work\n- Miami roster additions: Giannis Antetokounmpo, Klay Thompson, Bobby Portis, Tim Hardaway Jr., Andrew Wiggins\n- Core: Bam Adebayo\n- Coach: Erik Spoelstra\n- Key question: How does Giannis/Bam frontcourt work in live action?\n**Freshness:** Preseason game tomorrow. HIGH freshness.\n**Why it matters:** Most anticipated new team alignment — first live look is less than 24 hours away.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
