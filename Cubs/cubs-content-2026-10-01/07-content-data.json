@@ -1,0 +1,191 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-01",
+  "compiled_at": "2026-10-01T09:19:47.090526+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1",
+      "type": "WCS Game 2 Recap — Padres 4, Cubs 1"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2",
+      "type": "Season Postmortem — MLB-best offense, 1 playoff run"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3",
+      "type": "PCA: 45/41, 10.4 fWAR, first 40-40 Cub"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 4",
+      "type": "Offseason pitching crisis: Gausman, Boyd, Holmes"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Story 5",
+      "type": "Brewers vs. Padres NLDS — Cubs watching at home"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "WCS Game 2 Recap — Padres 4, Cubs 1; Cubs Eliminated",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Gausman lasted 3.1 IP (3 ER). Gavin Sheets' pinch-hit 2-run HR was the knockout. Padres bullpen held down the MLB's best offense for 5.2 scoreless innings. Cubs scored 1 run total in 2 WCS games. Season over.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "4-1. Cubs eliminated. 💔\n\nGausman: 3.1 IP, 3 ER. Gavin Sheets pinch-hit 2-run HR locked it up for San Diego.\n\nThe MLB's best offense scored 1 run across both WCS games.\n\nPadres sweep. See you next year.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "game_final / Informative Recap",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Season Postmortem — MLB-Best Offense, Swept Out in 2 Games",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs led MLB in wRC+ (115), runs, OPS (.769), and slugging. Led NL in homers. 89 wins. Then scored 1 run in 2 playoff games. Counsell: \"unfulfilled and disappointed.\" This team was historically unbalanced — October exposed the gap.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "115 wRC+. Led MLB in runs, OPS, and slugging. 89 wins. 🏆\n\n1 run in 2 playoff games.\n\nCounsell: \"We're walking away unfulfilled and disappointed.\"\n\nGreat offense, middling pitching. October exposed the gap. The 2026 Cubs weren't unlucky. They were unbalanced.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold / Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "PCA — NL MVP Season, WCS Silence",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": ".280/.372/.570, 45 HR, 41 SB, 10.4 fWAR. First 40-40 Cub in franchise history. NL MVP frontrunner by a wide margin. Went hitless in the WCS. PCA: \"I'm just feeling pretty disappointed in myself.\" Both things are true.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "45 home runs. 41 stolen bases. 10.4 fWAR. 🔥\n\nFirst 40-40 Cub in franchise history. NL MVP frontrunner.\n\nPCA: \"I'm just feeling pretty disappointed in myself.\"\n\nOne bad series doesn't erase 162 games of historic baseball. The MVP vote is coming.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Stat Breakdown / Milestone",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Offseason Pitching Crisis — Gausman, Boyd, Holmes All Uncertain",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Gausman is a free agent. Boyd's $15M mutual option almost certain to be declined. Holmes has a player option. Cubs could enter November without a guaranteed starting pitcher. Hoyer's biggest offseason challenge.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Gausman: free agent.\nBoyd: $15M mutual option, almost certain to decline.\nHolmes: player option, uncertain.\n\nThe Cubs could start this offseason without a single locked-in rotation arm.\n\nHoyer's defining offseason starts now. ⚾\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Roster / Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Rival Watch — Brewers vs. Padres NLDS",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Brewers (103-59, No. 1 NL seed) face the Padres in the NLDS. Cardinals 77-85, missed playoffs. Cubs watch from home.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "103 wins. No. 1 NL seed. Facing the team that just swept us.\n\nBrewers vs. Padres. NLDS.\n\nCardinals are 77-85. Cubs are 89-73. Both watching at home.\n\nRoot for the Brewers. Or don't. You know what's in your heart. 👀\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Rival Watch / Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

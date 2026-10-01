@@ -1,49 +1,53 @@
-# Cubs Pipeline Status — Updated 2026-09-30
+# Cubs Pipeline Status — Updated 2026-10-01
 
 ## Latest Run
-- **Date:** 2026-09-30 (Wednesday — WCS Game 2 Night; Cubs trail Padres 1-0; Gausman vs. Pivetta, 9:00 PM CT)
-- **Stories:** 7
-- **X posts:** 7
+- **Date:** 2026-10-01 (Thursday — OFF DAY; Cubs eliminated in WCS sweep, Padres 4, Cubs 1 Game 2)
+- **Stories:** 5
+- **X posts:** 5
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
-- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 7 stories, 7 tweets
-- **07-content-data.json:** ✅ Valid JSON, all 7 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 12:00 PM / 1:15 PM / 5:00 PM / 8:00 PM CT)
+- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 5 stories, 5 tweets
+- **07-content-data.json:** ✅ Valid JSON, all 5 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 12:00 PM / 3:45 PM CT)
 - **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeded)
 
-## Insights Summary (2026-09-30)
-- **Snapshot generated:** 2026-09-30T08:30:00.125425Z (fresh, 30 min before trigger)
-- **significant_findings count:** 0
-- **significant_findings_note:** "No contrasts cleared all three gates (n>=8 per group, p<0.05, |Cliff's delta|>=0.2). Either too little data or no format/time differences are large enough yet."
-- **Action:** Brand voice defaults applied. No format or timing adjustments from data.
+## Insights Summary (2026-10-01)
+- **Snapshot generated:** 2026-10-01T08:30:00.152601Z (fresh, 30 min before trigger)
+- **significant_findings count:** 2
+- **Finding 1:** `content_type=game_final` beats all — median 118 vs 75.5, large effect (delta 0.487, p=0.020). **Action:** Story 1 tagged game_final, given prime 7:00 AM slot, leads with score.
+- **Finding 2:** `opening=statement` is a LOSER — non-statement beats statement, median 87.5 vs 72.5, small effect (delta 0.212, p=0.032). **Action:** All 5 tweets open with a stat or score, not a declarative statement.
+- **Posting windows:** No hours cleared Holm-corrected gates. Standard schedule shape maintained.
 
-## Series Context (2026-09-30)
-- **`off_day`:** FALSE
-- **`is_series_start_today`:** FALSE (mid-series, Game 2)
-- **`series`:** Cubs vs. Padres WCS (best of 3) — Cubs trail 1-0
-- **`today_cubs_game`:** Game 2, 9:00 PM CT, Petco Park
-- **Action:** No series-preview slot. Led morning with Game 1 recap (standard posting-order rule). Pre-game hype placed at 8:00 PM CT (1 hour before first pitch).
+## Series Context (2026-10-01)
+- **`off_day`:** TRUE — Cubs 2026 season over
+- **`is_series_start_today`:** FALSE
+- **`series`:** null (WCS complete — Padres swept Cubs 2-0)
+- **`today_cubs_game`:** null
+- **Action:** Off-day playbook. Led with elimination recap (game_final). 5 tweets appropriate for season-ending off day.
 
-## Current WCS Status (after Game 1 Sept 29)
-- **Cubs position:** Trailing 0-1 (must win Game 2 to stay alive)
-- **Padres position:** Leading 1-0
-- **WCS: Cubs at Padres (Petco Park) — Game 2 tonight, Game 3 (if needed) Oct 1**
-- **If Cubs advance: NLDS vs. Brewers (#1 NL seed, 103 wins), starts October 3**
+## Current Season Status
+- **Cubs 2026 season: OVER**
+- Final record: 89-73 (No. 5 NL seed, WC2)
+- WCS: Padres swept Cubs 2-0 (Game 1: Padres 8-0; Game 2: Padres 4-1)
+- Padres now face Brewers (103-59, No. 1 NL seed) in NLDS
+- Cardinals: 77-85, missed playoffs
 
-## Key Ongoing Stories
-- **WCS Game 1:** Padres 8, Cubs 0. King: 7 IP, 1 H, 8 K (near no-hitter). Boyd: 4 IP, 3 HR allowed.
-- **Game 2:** Gausman vs. Pivetta tonight, 9:00 PM CT, Petco Park
-- **PCA:** Struck out on King's first 3 pitches — bounce-back narrative for Game 2
-- **Brewers:** 103 wins, NL No. 1 seed, await winner for NLDS (starts Oct 3)
-- **Teams down 1-0 in WCS:** Advance only 3/24 times historically
+## Offseason Outlook (for follow-up coverage)
+- Gausman: free agent
+- Boyd: $15M mutual option — likely declined
+- Holmes: player option — uncertain
+- Imanaga: status conflicting in sources — monitor
+- Cubs priority: major pitching overhaul, rotation + bullpen
+- PCA: NL MVP frontrunner, vote not yet official
 
-## Previous Run (2026-09-29)
+## Previous Run (2026-09-30)
 - Stories: 7 | X posts: 7 | Status: ✅ Complete
-- Key stories: WCS Game 1 series preview (Boyd vs King), Cubs 5-1 H2H bold take, Boyd stat breakdown, Gausman on WCS roster, Brewers NLDS stakes, PCA WCS X-factor, Padres opponent scouting
+- Key stories: WCS G1 recap (Padres 8-0, Boyd 4 IP 3 HR, King near-no-hitter), PCA bounce-back, King stats, Gausman G2 preview, must-win math (3/24), Brewers watching, pre-game hype
 
 ## Pipeline Run Log (newest first)
 
 | Date | Type | Stories | Tweets | Status |
 |------|------|---------|--------|--------|
+| 2026-10-01 | OFF DAY (eliminated, season over) | 5 | 5 | ✅ |
 | 2026-09-30 | WCS GAME 2 (must-win, trailing 1-0) | 7 | 7 | ✅ |
 | 2026-09-29 | WCS GAME 1 NIGHT (series start) | 7 | 7 | ✅ |
 | 2026-09-28 | OFF DAY (WCS starts tomorrow) | 7 | 7 | ✅ |
