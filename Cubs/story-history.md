@@ -8166,3 +8166,47 @@ Each day's stories are appended at the top (newest first).
   - Bregman return confirmation
   - Gausman October roster decision
   - Steele activation update
+
+## 2026-10-01
+
+### STORY 1: WCS Game 2 Recap — Padres 4, Cubs 1; Cubs Eliminated
+- **Angle:** NEW STORY (Gausman: 3.1 IP, 3 ER; Gavin Sheets pinch-hit 2-run HR; Padres bullpen 5.2 scoreless IP; Cubs scored 1 run across both WCS games; season over; per game_final insight, opened with "4-1. Cubs eliminated.")
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game_final recap)
+- **Follow-Up Opportunities:**
+  - 2026 season final retrospective pieces
+  - PCA MVP vote announcement
+
+### STORY 2: Season Postmortem — MLB-Best Offense, Swept Out in 2 Games
+- **Angle:** NEW STORY (Cubs led MLB: wRC+ 115, runs scored, OPS .769, slugging; 89-73; scored 1 run in 2 WCS games; Counsell: "unfulfilled and disappointed"; "historically unbalanced" narrative; per opening=statement loser insight, opened with "115 wRC+.")
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold/analysis)
+- **Follow-Up Opportunities:**
+  - Offseason preview pieces
+  - Season grades analysis
+
+### STORY 3: PCA — NL MVP Season, WCS Silence
+- **Angle:** FOLLOW UP (40-40 covered Sept 25; freshened: season stats finalized, .280/.372/.570, 45 HR, 41 SB, 10.4 fWAR; first 40-40 Cub; NL MVP frontrunner; WCS hitless; PCA quote "disappointed in myself"; opened with "45 home runs. 41 stolen bases.")
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown/milestone)
+- **Follow-Up Opportunities:**
+  - NL MVP vote announcement
+  - PCA offseason coverage
+
+### STORY 4: Offseason Pitching Crisis — Gausman, Boyd, Holmes All Uncertain
+- **Angle:** NEW STORY (Gausman FA; Boyd $15M mutual option likely declined; Holmes player option; could lose entire rotation to FA/options; Hoyer defining offseason; opened with "Gausman: free agent.")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, roster/analysis)
+- **Follow-Up Opportunities:**
+  - Gausman signing/departure news
+  - Boyd option decision
+  - Holmes option decision
+  - Offseason free agent targets
+
+### STORY 5: Rival Watch — Brewers vs. Padres NLDS
+- **Angle:** FOLLOW UP (Brewers NLDS coverage since Sept 27; opponent now confirmed as Padres who swept Cubs; Cardinals 77-85; opened with "103 wins. No. 1 NL seed.")
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, rival watch)
+- **Follow-Up Opportunities:**
+  - Brewers NLDS result
+  - NL playoff bracket updates
