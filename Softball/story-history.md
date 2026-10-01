@@ -2978,3 +2978,55 @@ _This file tracks every story covered, the angle used, content produced, and fol
 - **Follow-Up Opportunities:**
   - TTU fall opener result Oct. 3
   - 2028 recruiting class updates
+
+## Run: 2026-10-01
+
+### Story 1: OU Battle Series Opener Cancelled by Lightning
+- **Date:** 2026-10-01
+- **Tier:** 2
+- **Classification:** FOLLOW UP (OU fall Battle Series opener; previously covered as upcoming Sept. 30)
+- **Angle:** Oklahoma's fall opener at Love's Field was cancelled after lightning hit Norman on Sept. 30 after ~45 min of play. Game was moved up 2.5 hrs (4 PM) but lightning hit anyway. Ella Parker launched a HR on the first at-bat of the game off Audrey Lowry. Next game: Oct. 4 vs. Tarleton State, 1 PM.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Oct. 4 vs. Tarleton State result
+  - Full fall schedule results
+
+### Story 2: Asian Games Day 5 — Japan Throws Perfect Game, Both Japan and China Stay 5-0
+- **Date:** 2026-10-01
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Asian Games ongoing; previously covered Super Round Sept. 29)
+- **Angle:** Mio Goto threw a perfect game vs. Korea on Sept. 30 (8-0, 6 inn; 18 up/18 down/9K/64 pitches). Japan also beat Singapore 10-0 (Saki Miwa 4 IP shutout; Tsukamoto + Shimoyama each 2-for-2/2 RBIs). Japan 5-0, China 5-0, Chinese Taipei 4-1. Finals Oct. 3 Anjō Sports Park — LA28 qualifier.
+- **Content Produced:** Article (article-02, Emily Rawlings), 2 X posts + thread, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Asian Games Finals Oct. 3 (gold medal + LA28 qualifying)
+  - Japan-China final matchup
+
+### Story 3: Illinois Names Jenna Hall New Head Softball Coach
+- **Date:** 2026-10-01
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Illinois fired Tyra Perry Sept. 30; hire completed)
+- **Angle:** Illinois hired Jenna Hall — Illinois alum, 4x All-Big Ten, 2006 1st-Team All-American, Illinois Athletics HOF (2019) — as new head softball coach. Team went 15-39 (3-20 Big Ten) in 2026.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Hall's first recruiting class / portal moves
+  - 2027 Illinois season preview
+
+### Story 4: Minnesota Names Gretta Melsted New Head Softball Coach
+- **Date:** 2026-10-01
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Minnesota fired Piper Ritter Sept. 30; hire completed)
+- **Angle:** Minnesota hired Gretta Melsted — 20 seasons at Augustana (SD), 813-313 record, 2019 D2 national champion, 14 NCAA Tournaments, NFCA HOF Dec 2024 — to replace Ritter.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Melsted's first recruiting class / portal moves
+  - 2027 Minnesota season preview
+
+### Story 5: Fall Ball Nation — Programs Set Schedules, Transfer Portal Active
+- **Date:** 2026-10-01
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Oregon hosting 8 free fall exhibitions at Jane Sanders Stadium (through Nov. 1). Louisiana fall schedule: McNeese Oct. 9, doubleheaders Oct. 14-15. Transfer portal: Tori Edwards (top-ranked) to LSU; Ella Dodge (Tennessee) to FSU; Fresno State adds 5 through portal; ON3 tracking 250+ transfers.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Transfer portal updates (October signing window)
+  - Oregon, Louisiana fall game results
