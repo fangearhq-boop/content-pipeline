@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-01
+
+### STORY 1: Malaysia GP Preview — F1 Returns to Sepang After Nine Years
+- **Tier:** 1
+- **Category:** F1 / Malaysia Grand Prix / Sepang / Preview / Race Weekend
+- **Key facts:** First F1 race at Sepang since 2017 (9-year gap); official name 2026 Gulf Air Bahrain Grand Prix; Round 16 of 23; 5.543km, 15 corners, 56 laps; 4 Straight Mode zones; race start 15:00 local / 03:00 ET; Vettel 2017 lap record 1:34.080; 12 drivers never raced here; Antonelli and Russell both without Sepang F1 experience
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: Colapinto Grid Penalty — Alpine Seat Under Review
+- **Tier:** 1
+- **Category:** F1 / Franco Colapinto / Alpine / Baku Crash / Penalty / Malaysia GP
+- **Key facts:** 5-place grid penalty for Baku crash; Colapinto locked up T1 on restart, hit Gasly who collected Norris; Norris demanded race ban; FIA gave 5 places; Alpine reviewing "course of action"; 2027 contract exists but not guaranteed; Colapinto needs clean Malaysia weekend to secure seat
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: Championship Math — Antonelli 302, Russell 236
+- **Tier:** 1
+- **Category:** F1 / Kimi Antonelli / George Russell / Mercedes / Championship
+- **Key facts:** Antonelli leads 302-236 (66 pts); gap was 81 before Baku; 8 rounds remaining; Singapore first clinch window; Antonelli could be youngest champion at 20y2m8d; Sprint format at Singapore adds 8 pts; needs Russell scoreless + Antonelli win Sprint + GP to clinch Oct 11
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
+### STORY 4: Alonso Signs Aston Martin 2027 Extension
+- **Tier:** 2
+- **Category:** F1 / Fernando Alonso / Aston Martin / Contract / 2027
+- **Key facts:** Alonso signed for 2027; 24th full-time F1 season; age 46; Lance Stroll also extended; 5th consecutive year same line-up; Alonso debuted 2001; 2005 and 2006 WDC with Renault; returned to F1 2023; skeptics doubted return at 41 but proved himself immediately
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: Singapore Sprint Weekend — First-Ever Sprint at Marina Bay
+- **Tier:** 2
+- **Category:** F1 / Singapore Grand Prix / Sprint / Marina Bay / Championship
+- **Key facts:** Singapore GP Oct 9-11; Round 17 of 23; first-ever Sprint weekend at Marina Bay; final Sprint of 2026 season; Sprint worth 8 pts; The Killers and Lana Del Rey performing; title clinch scenario if Antonelli wins Sprint + GP while Russell scores zero; 61 laps for Grand Prix
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
 ## 2026-09-28
 
 ### STORY 1: Colapinto 5-Place Penalty — Norris Demands Race Ban
