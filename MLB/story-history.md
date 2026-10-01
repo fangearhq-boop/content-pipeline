@@ -8395,3 +8395,54 @@ Each day's stories are appended at the top (newest first).
 - **Follow-Up Opportunities:**
   - Wild Card Series results (Sept. 29+)
   - NLDS bracket/matchups
+
+## Run: 2026-10-01
+
+### Story 1: Phillies Force Wild Card Game 3 With Dramatic Extra-Inning Comeback
+- **Date:** 2026-10-01
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Wild Card Day 1 covered yesterday; Game 2 result)
+- **Angle:** Phillies 4, Braves 3 (10 innings) Sept. 30. Schwarber (447 ft HR) + Harper back-to-back off Dylan Lee in 8th to tie. Bohm walk-off off Fuentes in 10th. Series tied 1-1. Game 3 TONIGHT 8:15 PM ET Truist Park (NBC/Peacock).
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Phillies-Braves Game 3 result tonight (Oct 1)
+  - NLDS matchup announcement
+
+### Story 2: Padres Sweep Cubs, Advance to NLDS to Face Brewers
+- **Date:** 2026-10-01
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Wild Card Day 1 covered yesterday; sweep complete)
+- **Angle:** Padres 4 Cubs 1 (Game 2, Sept. 30). Gavin Sheets pinch-hit 2-run HR. Padres win series 2-0. Cubs eliminated. NLDS vs. Brewers next.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - NLDS Padres vs. Brewers preview/results
+
+### Story 3: White Sox Complete Historic Sweep of Astros — First Playoff Series Win Since 2005
+- **Date:** 2026-10-01
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Wild Card Day 1 covered yesterday; sweep complete)
+- **Angle:** White Sox swept Astros (6-3 G1 / 7-3 G2). First playoff series win since 2005. From 121 losses (2024) to ALDS (2026). Colson Montgomery 432-ft HR in G1. GM Chris Getz/Mgr Will Venable/7 of 9 starters under 2 years MLB experience.
+- **Content Produced:** Article (article-03, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - ALDS White Sox matchup preview/results
+  - White Sox historical context
+
+### Story 4: Yankees Sweep Red Sox Without Judge — Aaron Judge Targets ALDS Return
+- **Date:** 2026-10-01
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Wild Card Day 1 + Judge injury tracked; sweep complete)
+- **Angle:** Yankees 9 Red Sox 2 (Game 2, Sept. 30). Yankees sweep 18-2 combined without Judge (right soleus calf strain). Ben Rice multiple HRs including G1 grand slam. Schlittler 6.1 IP 12K G1. Judge targeting ALDS return vs. Rays.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Aaron Judge ALDS activation update
+  - Yankees vs. Rays ALDS preview/results
+
+### Story 5: Wild Card Round Wrap-Up — Three Sweeps and a Thriller, ALDS/NLDS Bracket Nearly Set
+- **Date:** 2026-10-01
+- **Tier:** 2
+- **Classification:** FOLLOW UP (comprehensive Wild Card recap)
+- **Angle:** Three sweeps (Padres, White Sox, Yankees) + Phillies comeback in G2. Phillies-Braves G3 tonight (Oct 1). ALDS: Yankees vs. Rays; White Sox vs. TBD. NLDS: Padres vs. Brewers; PHI/ATL winner vs. TBD. Notable HRs: Schwarber 447 ft, Montgomery 432 ft.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Phillies-Braves Game 3 result (Oct 1 tonight)
+  - ALDS/NLDS previews
