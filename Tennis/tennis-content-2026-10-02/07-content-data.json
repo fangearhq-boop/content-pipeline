@@ -1,0 +1,276 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-02",
+  "compiled_at": "2026-10-02T12:21:16.744489+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Japan Open R2 Results — Fils Defeats Tiafoe, Tsitsipas Upset in Tokyo",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Arthur Fils is rolling in Tokyo. 🎾\n\nThe 21-year-old beats Frances Tiafoe 6-3, 7-5 in the Japan Open R2 — another top-10 scalp for the French qualifier.\n\nQF next.\n\n#JapanOpen #TennisTokyo #ATPTour #Fils",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 1 S2: Japan Open Day 1)",
+          "hashtags": [
+            "#JapanOpen",
+            "#TennisTokyo",
+            "#ATPTour",
+            "#Fils"
+          ],
+          "char_count": 201
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Tsitsipas at the Japan Open: playing as a QUALIFIER.\n\nHe loses 4-6, 7-6, 6-4 to Vacherot in R2.\n\nOnce ranked No. 3 in the world. Now fighting just to get into draws.\n\n#JapanOpen #Tsitsipas #ATPTour",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 1 S2: Japan Open Day 1)",
+          "hashtags": [
+            "#JapanOpen",
+            "#Tsitsipas",
+            "#ATPTour"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-fils-defeats-tiafoe-japan-open-r2.html",
+        "headline": "Arthur Fils Beats Tiafoe 6-3, 7-5 to Reach Japan Open Quarterfinals",
+        "word_count": 559
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Japan Open R2 — Fils Defeats Tiafoe\n\n**IMAGE 1A — Social (1080x1350)**\n- Search: \"Arthur Fils\"\n- Usage: X post, Facebook\n- Notes: Dynamic action shot, mid-match intensity. Preferred shot: forehand or serve.\n\n**IMAGE 1B — Article Hero (1200x630)**\n- Search: \"Frances Tiafoe\"\n- Usage: Article hero image\n- Notes: Celebration or baseline action shot. Good contrast for article header layout.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Japan Open R2 Results\n**Sources consulted:**\n- tennistonic.com — \"LIVE UPDATES. Arthur Fils wins against Tiafoe in the 2nd round at the Japan Open Tennis Championships — TOKYO RESULTS\" (confirmed match result)\n- atptour.com/en/news/tokyo-2026-results — official ATP Tokyo results page\n- tenngrand.com — \"Fils' run as Tokyo qualifier continues with win over Tiafoe\"\n- bleachernation.com — \"Rakuten Japan Open Tennis Championships Schedule Friday, October 2: Matchups & TV/Live Stream Info\" (listed R2 results)\n- bets.com.au — \"Frances Tiafoe vs Arthur Fils ATP Tokyo Tips... Top 10 stars clash in R2 Japan Open\"\n- sportskeeda.com — \"Frances Tiafoe vs Arthur Fils preview, head-to-head, odds\"\n**Verified facts (HIGH confidence):**\n- Arthur Fils (No. 9) defeated Frances Tiafoe 6-3, 7-5 in R2 Japan Open — multiple sources confirm\n- Match duration: 1 hour 30 minutes (tennistonic.com)\n- Valentin Vacherot (8) defeated Stefanos Tsitsipas (qualifier) 4-6, 7-6, 6-4 — bleachernation.com\n- Jaume Munar (Q) defeated Jaime Faria 6-1, 6-1 — bleachernation.com\n- Japan Open venue: Ariake Coliseum, Tokyo; ATP 500 on hard court\n- Fils is ranked No. 9 — confirmed (entered top 10 earlier this week, noted in Oct 1 research)\n- Tiafoe was seeded No. 8 at the tournament — confirmed\n**Verified facts (MEDIUM confidence):**\n- Fils entered as a wild card — tenngrand.com headline uses qualifier/wild card language; confirmed as \"Q\" qualifier in R1 draw references",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Beijing Day 3 — Djokovic Faces Wild Card Bu, Zverev Also in Action",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Novak Djokovic is 30-0 all-time in Beijing.\n\nToday he faces wild card Yunchaokete Bu (No. 104) in Round 2. A win makes it 31-0.\n\nDjokovic-Zverev QF is one step closer if he advances.\n\n#ChinaOpen #Djokovic #ATPTour",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 1 S1: Djokovic wins R1 in Beijing)",
+          "hashtags": [
+            "#ChinaOpen",
+            "#Djokovic",
+            "#ATPTour"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-djokovic-bu-beijing-day3.html",
+        "headline": "Djokovic Chases 31-0 in Beijing as China Open Day 3 Unfolds",
+        "word_count": 522
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Beijing Day 3 — Djokovic vs Bu\n\n**IMAGE 2A — Social (1080x1350)**\n- Search: \"Novak Djokovic\"\n- Usage: X post, Facebook\n- Notes: Iconic celebration or determined baseline expression. Strong vertical crop preferred.\n\n**IMAGE 2B — Article Hero (1200x630)**\n- Search: \"Novak Djokovic\"\n- Usage: Article hero image\n- Notes: Wide-angle action shot showing full body, hard court background preferred.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Beijing Day 3\n**Sources consulted:**\n- tennis.com — \"China Open — October 2, 2026\" schedule page showing Djokovic vs Bu R2\n- atptour.com — \"China Open 2026: Draws, Dates, History & All You Need To Know\"\n- atptour.com — \"Novak Djokovic maintains perfect Beijing record with win on return\" (R1 recap)\n- tennismajors.com — Djokovic R1 recap, medical timeout detail\n- robinhood.com/us/en/prediction-markets/ — Djokovic vs Bu October 2 (confirms scheduled match)\n**Verified facts (HIGH confidence):**\n- Djokovic vs Bu R2 is confirmed for October 2, 2026 — multiple sources\n- Yunchaokete Bu is ranked No. 104, listed as a Chinese wild card — atptour.com\n- Djokovic's all-time Beijing record after R1 win: 30-0 — from Oct 1 confirmed coverage\n- Djokovic seeded No. 6 at China Open — atptour.com\n- Zverev is the No. 1 seed at the China Open ATP draw — atptour.com\n- Djokovic/Zverev are in the same quarter (potential QF) — atptour.com Beijing draw preview\n**Verified facts (MEDIUM confidence):**\n- Djokovic received a medical timeout during his R1 match vs Borges — tennismajors.com (confirmed from Oct 1 research as well)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Sinner's Shanghai Decision Today — Surgery Risk Looms",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Today is the day Sinner's team decides on Shanghai.\n\nThe update is more serious: if conservative treatment (rest, PT, injections, rehab) fails to fix his ITB syndrome, surgery is on the table.\n\nHe hasn't played since Wimbledon. #Sinner #ATPTour",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 1 S3: Sinner \"unlikely Shanghai,\" ITB syndrome)",
+          "hashtags": [
+            "#Sinner",
+            "#ATPTour"
+          ],
+          "char_count": 244
+        },
+        {
+          "label": "Post 3-2",
+          "text": "If Sinner misses Shanghai, it's his FIFTH straight event missed since Wimbledon.\n\nCanadian Open, Cincinnati, US Open, China Open — now Shanghai?\n\nThe decision comes today. #Sinner #Shanghai #ATPTour",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 1 S3: Sinner \"unlikely Shanghai,\" ITB syndrome)",
+          "hashtags": [
+            "#Sinner",
+            "#Shanghai",
+            "#ATPTour"
+          ],
+          "char_count": 198
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-sinner-shanghai-decision-surgery-risk.html",
+        "headline": "Sinner and Team Face Shanghai Decision as Surgery Risk Surfaces",
+        "word_count": 506
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sinner Shanghai Decision\n\n**IMAGE 3A — Social (1080x1350)**\n- Search: \"Jannik Sinner\"\n- Usage: X post, Facebook\n- Notes: Serious, focused expression preferred to match the injury/decision storyline tone.\n\n**IMAGE 3B — Article Hero (1200x630)**\n- Search: \"Jannik Sinner\"\n- Usage: Article hero image\n- Notes: Portrait-style or mid-match shot, neutral background. Avoid celebration shots for this story angle.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sinner Shanghai Decision\n**Sources consulted:**\n- puntodebreak.com — \"Confirmed: Sinner will decide this Thursday whether to travel to Shanghai\" (key source establishing Thursday = Oct 2)\n- tennis365.com — \"Jannik Sinner could miss Shanghai Masters as surgery possibility emerges over injury\"\n- yahoo sports — \"Concerning update on Jannik Sinner's knee injury after his withdrawal from the China Open\"\n- tennisnow.com — \"Sinner Unlikely to Play Shanghai, Italian Media Reports\"\n- essentiallysports.com — \"Jannik Sinner's Latest Knee Development Emerges After China Open Withdrawal\"\n- heavy.com — \"Jannik Sinner Injury Update Drops After China Open Withdrawal\"\n**Verified facts (HIGH confidence):**\n- Sinner's team will decide \"this Thursday\" (Oct 2) whether to travel to Shanghai — puntodebreak.com\n- Condition is iliotibial band (ITB) syndrome affecting his right knee — tennis365.com, yahoo sports\n- Conservative treatment plan: rest, physical therapy, injections, intensive rehab on hip and glutes — tennis365.com\n- Surgery is possible if conservative measures fail, described as \"extreme scenario\" — tennis365.com\n- Sinner has not competed since Wimbledon (July 2026) — consistent across multiple sources\n- China Open withdrawal was his 4th consecutive missed event (Canadian Open, Cincinnati, US Open, China Open) — confirmed Oct 1\n- Shanghai would be his 5th straight if he withdraws — confirmed\n**Verified facts (MEDIUM confidence):**\n- Italian media specifically reporting Shanghai as \"unlikely\" — tennisnow.com via Italian media sourcing",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Rybakina in Action at Beijing WTA — First WTA 1000 Matches as No. 1",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Elena Rybakina steps onto the court in Beijing today — her first WTA 1000 match as World No. 1.\n\nThe 2026 US Open champion vs Alina Charaeva in Round 2. History in progress. 🎾\n\n#ChinaOpen #Rybakina #WTA",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 1 S5: WTA Race standings, Rybakina leads)",
+          "hashtags": [
+            "#ChinaOpen",
+            "#Rybakina",
+            "#WTA"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-rybakina-beijing-wta-first-no1-match.html",
+        "headline": "Rybakina Steps Onto Court as World No. 1 at Beijing WTA 1000",
+        "word_count": 486
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rybakina Beijing WTA R2\n\n**IMAGE 4A — Social (1080x1350)**\n- Search: \"Elena Rybakina\"\n- Usage: X post, Facebook\n- Notes: Strong power shot — serve or forehand. She has an expressive game that photographs well.\n\n**IMAGE 4B — Article Hero (1200x630)**\n- Search: \"Elena Rybakina\"\n- Usage: Article hero image\n- Notes: Victory or composed focused shot to match \"history in progress\" storyline.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Rybakina Beijing WTA R2\n**Sources consulted:**\n- wtatennis.com — \"China Open 2026 Overview\" and \"China Open 2026 Draws\"\n- tennis365.com — \"WTA China Open Entry List, Draw Date: Elena Rybakina No 1 as seeds confirmed\"\n- khelnow.com — \"China Open 2026: Updated schedule, results, & live streaming details\"\n- rallyher.com — \"WTA China Open 2026 Results, Draw & Schedule\"\n- wtafiles.wtatennis.com — official draw PDF (confirmed second round Oct 2-3)\n**Verified facts (HIGH confidence):**\n- Elena Rybakina is the No. 1 seed at the 2026 China Open (WTA 1000) — multiple sources\n- Rybakina became World No. 1 after winning 2026 US Open over Sabalenka 6-4, 5-7, 6-2 — confirmed from Oct 1 research\n- Rybakina's opponent in R2 is Alina Charaeva — wtatennis.com draw\n- WTA Women's R2 scheduled for Friday Oct 2 – Saturday Oct 3 — khelnow.com\n- China Open WTA runs Sep 28 – Oct 11, 2026 — confirmed\n- Seeds: Rybakina (1), Sabalenka (2), Gauff (3), Andreeva (4), Swiatek (8) — tennis365.com entry list\n**Verified facts (MEDIUM confidence):**\n- This is described as Rybakina's \"first WTA 1000 as World No. 1\" — from Oct 1 coverage context",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "ATP Race to Turin Tightens — Zverev's Lead May Grow Dramatically",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "If Sinner skips Shanghai, Zverev's 700-point Race to Turin lead could hit 4,000+.\n\nSinner loses ~3,550 defending pts. Zverev loses only ~1,080.\n\nThe year-end No. 1 race is basically Zverev's to lose.\n\n#ATPTour #RaceToTurin #Zverev",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 1 S4: Race to Turin standings)",
+          "hashtags": [
+            "#ATPTour",
+            "#RaceToTurin",
+            "#Zverev"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-atp-race-turin-zverev-sinner-shanghai.html",
+        "headline": "If Sinner Misses Shanghai, Zverev's Race to Turin Lead Could Become Insurmountable",
+        "word_count": 565
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ATP Race to Turin Analysis\n\n**IMAGE 5A — Social (1080x1350)**\n- Search: \"Alexander Zverev\"\n- Usage: X post, Facebook\n- Notes: Celebration or confident pose — matches \"Race to Turin lead\" narrative angle.\n\n**IMAGE 5B — Article Hero (1200x630)**\n- Search: \"Alexander Zverev\"\n- Usage: Article hero image\n- Notes: Aggressive serve or forehand to convey dominance in Race narrative."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ATP Race to Turin Analysis\n**Sources consulted:**\n- atptour.com — \"Alexander Zverev passes Jannik Sinner for first in Live Race\"\n- tennis365.com — \"ATP Rankings Race To Turin: Zverev passes Sinner as Alcaraz secures spot with Shelton No 3\"\n- livetennis.com — \"ATP Race to Turin 2026\" (current standings)\n- umpiry.com — Race to Turin projected points analysis (cited in Oct 1 research)\n- yardbarker.com — Zverev comments on Race to Turin\n**Verified facts (HIGH confidence):**\n- Current Race standings: Zverev 8,650; Sinner 7,950; Shelton 4,430; Alcaraz ~4,050 — multiple sources\n- Zverev leads by 700 points after US Open title — atptour.com\n- Sinner projected to lose ~3,550 Race points if he skips Shanghai (defending points) — umpiry.com / Oct 1 research\n- Zverev would lose only ~1,080 Race points even if he exits early in Shanghai — umpiry.com\n- Other bubble contenders: Medvedev ~2,420; Fils ~1,890; de Minaur ~1,870; Menšík ~1,855 — atptour.com, umpiry.com\n**Verified facts (MEDIUM confidence):**\n- Exact bubble standings may shift after ongoing tournaments this week",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

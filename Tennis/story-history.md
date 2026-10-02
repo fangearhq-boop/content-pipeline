@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## October 2, 2026
+
+| 2026-10-02 | Japan Open R2 Results — Fils def. Tiafoe 6-3, 7-5 in 1h30m (Top 10 win); Vacherot (8) def. Tsitsipas (Q) 4-6, 7-6, 6-4; Munar (Q) def. Faria 6-1, 6-1. Fils now in QF. Sources: tennistonic.com, atptour.com, bleachernation.com | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 1 S2: Japan Open Day 1 Fils/Tabilo) |
+| 2026-10-02 | Beijing Day 3 — Djokovic (30-0) faces wild card Yunchaokete Bu (No. 104) in R2; Zverev also in action; Djokovic-Zverev QF in same quarter. Result pending. Sources: atptour.com, tennis.com | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Oct 1 S1: Djokovic 30-0 def. Borges R1) |
+| 2026-10-02 | Sinner Shanghai decision day (Thursday Oct 2) — puntodebreak.com confirmed Thursday as decision date. Surgery risk if conservative treatment fails. ITB syndrome. 5th straight missed event if he withdraws. Sources: puntodebreak.com, tennis365.com, yahoo sports, tennisnow.com | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Oct 1 S3: Sinner "unlikely Shanghai" ITB syndrome) |
+| 2026-10-02 | Rybakina R2 Beijing WTA — first WTA 1000 match as World No. 1 (since Sep 14). Faces Alina Charaeva. Sabalenka (2), Gauff (3), Andreeva (4), Swiatek (8) all in draw. Potential Rybakina-Sabalenka SF. Sources: wtatennis.com, tennis365.com, khelnow.com | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 1 S5: WTA Race standings Rybakina leads) |
+| 2026-10-02 | ATP Race to Turin analysis — Zverev leads 8,650 to Sinner 7,950 (700-pt gap). If Sinner misses Shanghai: gap could hit 4,000+. Sinner loses ~3,550 pts; Zverev loses only ~1,080. Bubble: Shelton 4,430, Alcaraz ~4,050, Medvedev ~2,420, Fils/de Minaur/Menšík ~1,860. Sources: atptour.com, tennis365.com, umpiry.com | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Oct 1 S4: ATP Race standings) |
+
+---
+
+
 ## October 1, 2026
 
 | 2026-10-01 | Djokovic wins China Open Day 2 — def. Borges 6-3, 7-6(2). First tour win since Wimbledon QF July 7. Record in Beijing now 30-0 (6 titles). Medical timeout at 2-3 in second set; closed tiebreak 7-2. Potential QF vs Zverev (same quarter). Sources: atptour.com, tennisworldusa.org | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Sep 30 S3: China Open Day 1 opens, Djokovic on schedule) |
