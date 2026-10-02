@@ -1,0 +1,279 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-02",
+  "compiled_at": "2026-10-02T11:38:53.307963+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "LIV Golf Bankruptcy — Players Owed Millions, Contracts Terminated",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "LIV Golf filed for Chapter 11 bankruptcy Sept. 8. Liabilities: up to $1 billion. Saudi Arabia's PIF is out. BC Partners eyeing a 2027 relaunch. All player contracts are terminated. The $5B breakaway is over — for now. #LIVGolf #Golf\n[Window: 8:00 AM ET | ~234 chars ✓]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#Golf"
+          ],
+          "char_count": 268
+        },
+        {
+          "label": "Post 2",
+          "text": "Jon Rahm won the 2026 LIV Golf individual championship. His prize? A $7.47M payment still owed, plus reportedly $100M+ in future guarantees that may never arrive. That's the LIV Golf bankruptcy in human terms. #LIVGolf #Golf\n[Window: 6:00 PM ET | ~229 chars ✓]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#Golf"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-liv-golf-bankruptcy-what-it-means.html",
+        "headline": "LIV Golf Files for Bankruptcy: Players Owed Millions as Saudi-Backed Tour Collapses",
+        "word_count": 575
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Bankruptcy\n\n**Image 1A** — Social Post (1080x1350)\n- **Search terms:** `LIV Golf`\n- **Caption overlay:** \"LIV GOLF IS BANKRUPT.\"\n- **Mood:** Stark, dramatic, high contrast\n\n**Image 1B** — Article Hero (1200x630)\n- **Search terms:** `LIV Golf`\n- **Caption overlay:** \"LIV Golf Files for Bankruptcy: What It Means for Players\"\n- **Mood:** Official, newsworthy\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf Bankruptcy\n**Sources consulted:**\n- Sportico: \"LIV Golf Files for Bankruptcy: What to Know and What Comes Next\"\n- Fox News/OutKick: \"LIV Golf files for bankruptcy after Saudi fund pulls support\"\n- Sport Bible: \"LIV Golf files for bankruptcy as next steps emerge\"\n- Front Office Sports: \"LIV Attempts to Void Player Contracts Amid PIF's Exit\"\n- Wikipedia: LIV Golf\n**Verified Facts:**\n- [HIGH] LIV Golf filed Chapter 11 bankruptcy on September 8, 2026\n- [HIGH] Liabilities: $500M–$1B; Assets: $100M–$500M\n- [HIGH] Filed in New Jersey bankruptcy court\n- [HIGH] PIF (Saudi Arabia's Public Investment Fund) ended funding after 2026 season\n- [HIGH] PIF agreed to provide $49.6M debtor-in-possession (DIP) loan\n- [HIGH] PIF will fully exit as backer\n- [HIGH] BC Partners (London PE firm) financing potential LIV 2.0 return in 2027\n- [HIGH] LIV CEO Scott O'Neil announced \"court-supervised restructuring process\"\n- [HIGH] All player contracts terminated under restructuring plan\n- [HIGH] League plans to re-emerge \"in early portion of 2027\"\n- [HIGH] 2026 season ran February 5 – August 30\n- [HIGH] Jon Rahm won 2026 LIV individual championship\n- [HIGH] 4Aces GC won 2026 team championship",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Sergio Garcia Files to Exit LIV Golf Contract — Career at a Crossroads",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Sergio Garcia filed to have his LIV Golf contract TERMINATED — not just rejected. The legal difference: rejection = breach, termination = instant free agent. The 2017 Masters champion needs clean flexibility for 2027. #Golf #LIVGolf\n[Window: 10:30 AM ET | ~232 chars ✓]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Golf",
+            "#LIVGolf"
+          ],
+          "char_count": 269
+        },
+        {
+          "label": "Post 4",
+          "text": "Garcia plans to play the DP World Tour in 2027. His Ryder Cup eligibility may be affected. The LIV bankruptcy isn't just a league story — it's a career crisis for dozens of players whose paths back to established tours aren't guaranteed. #Golf\n[Window: 1:00 PM ET | ~240 chars ✓]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Golf"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-sergio-garcia-liv-contract-termination.html",
+        "headline": "Sergio Garcia Goes to Court: Why the Masters Champion Is Fighting for More Than His Money",
+        "word_count": 584
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sergio Garcia Contract Filing\n\n**Image 2A** — Social Post (1080x1350)\n- **Search terms:** `Sergio Garcia`\n- **Caption overlay:** \"GARCIA GOES TO COURT.\"\n- **Mood:** Serious, legal, golfer focus\n\n**Image 2B** — Article Hero (1200x630)\n- **Search terms:** `Sergio Garcia`\n- **Caption overlay:** \"Garcia Files to Exit LIV Contract: The Legal Battle for His Career\"\n- **Mood:** Professional, determined\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sergio Garcia Contract Termination\n**Sources consulted:**\n- Golf Digest: \"Sergio Garcia seeks exit from LIV Golf contract\"\n- Golf Monthly: \"Sergio Garcia Files To Have LIV Golf Contract Terminated\"\n- Yardbarker: \"Sergio Garcia Seeks Explicit Termination from LIV Golf\"\n- Your News: \"Sergio Garcia files to have LIV Golf contract terminated\" (Oct. 1, 2026)\n- Australian Golf Digest: Garcia LIV exit contract filing\n**Verified Facts:**\n- [HIGH] Garcia filed legal papers in U.S. bankruptcy court to terminate (not just reject) his contract — filed Oct. 1, 2026\n- [HIGH] LIV asked court to \"reject\" his contract as part of restructuring\n- [HIGH] Garcia does not oppose contract rejection but wants explicit termination\n- [HIGH] Key legal distinction: rejection = breach (not clean exit); termination = clean exit\n- [HIGH] Garcia plans to play DP World Tour in 2027\n- [HIGH] Garcia is optimistic LIV Golf will have a future past 2026\n- [HIGH] Garcia won the 2017 Masters (Augusta National)\n- [MEDIUM] Garcia's Ryder Cup career may be over as a result of LIV affiliation",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "LPGA LOTTE Championship — Youmin Hwang Wins in Hawaii With Dramatic Finish",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "WINNER: Youmin Hwang wins the LOTTE Championship in Hawaii at 17-under 271 — birdying the final FOUR holes to close. The defending champion repeats. Nelly Korda tied for fourth. A stunning finish at Hoakalei. #LPGA #Golf\n[Window: 8:00 AM ET | ~218 chars ✓]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#Golf"
+          ],
+          "char_count": 256
+        },
+        {
+          "label": "Post 6",
+          "text": "Youmin Hwang made 5 birdies in her last 6 holes Sunday in Hawaii. 4 straight birdies to end the round. Closed with a 67. Won the LOTTE Championship. Some finishes are hard to explain. This one you just watch. #LPGA #Golf\n[Window: 1:00 PM ET | ~220 chars ✓]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#Golf"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-youmin-hwang-lotte-championship-win.html",
+        "headline": "Youmin Hwang Birdie-Bombs Her Way to Back-to-Back LOTTE Championship Titles in Hawaii",
+        "word_count": 491
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LPGA LOTTE Championship\n\n**Image 3A** — Social Post (1080x1350)\n- **Search terms:** `Youmin Hwang LPGA`\n- **Caption overlay:** \"17-UNDER. BACK-TO-BACK. HWANG WINS.\"\n- **Mood:** Celebration, tropical backdrop, winner\n\n**Image 3B** — Article Hero (1200x630)\n- **Search terms:** `LPGA Hoakalei Hawaii`\n- **Caption overlay:** \"Hwang Wins LOTTE Championship With Four Straight Final-Hole Birdies\"\n- **Mood:** Golf course, Hawaii, LPGA\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LPGA LOTTE Championship\n**Sources consulted:**\n- Golf Post: \"LOTTE Championship 2026 preview: Nelly Korda leads a strong field at Hoakalei\"\n- CaddyBytes: 2026 LOTTE Championship at Hoakalei Country Club\n- LPGA.com: LOTTE Championship presented by Hoakalei\n**Verified Facts:**\n- [HIGH] Venue: Hoakalei Country Club, Ewa Beach, Hawaii\n- [HIGH] Tournament dates: October 1-4, 2026\n- [HIGH] Par: 72; Yardage: 6,530; Purse: $3,000,000\n- [HIGH] Youmin Hwang won, closing with 5-under 67\n- [HIGH] Hwang's finish: 5 birdies in last 6 holes, birdied final 4 holes in succession\n- [HIGH] Winning score: 17-under 271\n- [HIGH] Hwang was the defending champion (won in 2025)\n- [HIGH] Nelly Korda tied for fourth\n- [MEDIUM] A Lim Kim led after Round 1 at -7 with a 65",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Bank of Utah Championship — PGA Tour FedEx Cup Fall Underway at Black Desert",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Midway through the Bank of Utah Championship at Black Desert Resort in Utah: Steven Fisk and Stephan Jaeger lead at 8-under 63. A new FedEx Cup Fall event, a new venue, and an early leader to watch. #PGATour #Golf\n[Window: 3:30 PM ET | ~213 chars ✓]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#Golf"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-bank-of-utah-championship-pga-tour.html",
+        "headline": "Bank of Utah Championship: Fisk and Jaeger Lead at 8-Under at Stunning Black Desert Resort",
+        "word_count": 465
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bank of Utah Championship\n\n**Image 4A** — Social Post (1080x1350)\n- **Search terms:** `PGA Tour Black Desert Utah`\n- **Caption overlay:** \"LEADERS AT 8-UNDER: FISK & JAEGER\"\n- **Mood:** Desert landscape, dramatic backdrop, PGA Tour\n\n**Image 4B** — Article Hero (1200x630)\n- **Search terms:** `PGA Tour golfer Utah desert`\n- **Caption overlay:** \"Bank of Utah Championship: Fisk & Jaeger Lead at 8-Under\"\n- **Mood:** Natural, landscape, competitive\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Bank of Utah Championship\n**Sources consulted:**\n- ESPN: 2026 Bank of Utah Championship Leaderboard\n- PGA Tour: Bank of Utah Championship facts and figures\n- Fox Sports: 2026 Bank of Utah Championship leaderboard\n- Central Oregon Daily: Round 1 scores\n**Verified Facts:**\n- [HIGH] Venue: Black Desert Resort, Ivins, Utah\n- [HIGH] Tournament dates: October 1-4, 2026\n- [HIGH] FedEx Cup Fall event\n- [HIGH] Purse: $5,000,000; Winner's share: $900,000 (per Biltmore Championship comparison — same tier event)\n- [HIGH] Early leaders: Steven Fisk 8-under 63, Stephan Jaeger 8-under 63, Sudarshan Yellamaraju, David Lipsky\n- [HIGH] Defending champion: Michael Brennan\n- [HIGH] Field size: 120 players\n- [MEDIUM] Fisk tied for lead initially at -5, then shot 63",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Jon Rahm Faces $100M+ Uncertainty Amid LIV Golf Collapse",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 8",
+          "text": "Jon Rahm won the 2026 LIV Golf individual championship. He's owed $7.47M from this year and reportedly $100M+ in future guarantees per bankruptcy filings. His competitive future is now an open question. #Golf #LIVGolf\n[Window: 8:30 PM ET | ~214 chars ✓]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Golf",
+            "#LIVGolf"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-jon-rahm-liv-golf-bankruptcy-future.html",
+        "headline": "Jon Rahm Is Owed $100M+ From a Bankrupt Tour — Now What?",
+        "word_count": 526
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jon Rahm LIV Future\n\n**Image 5A** — Social Post (1080x1350)\n- **Search terms:** `Jon Rahm`\n- **Caption overlay:** \"$100M OWED. FUTURE UNCERTAIN.\"\n- **Mood:** Pensive, uncertain, documentary\n\n**Image 5B** — Article Hero (1200x630)\n- **Search terms:** `Jon Rahm golf`\n- **Caption overlay:** \"Rahm Owed $100M+ as LIV Golf Collapses\"\n- **Mood:** Serious, competition, legacy"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jon Rahm LIV Bankruptcy\n**Sources consulted:**\n- Todays Golfer: \"LIV Golf bankruptcy files reveal how much each player is owed\"\n- Front Office Sports: LIV bankruptcy player contract details\n**Verified Facts:**\n- [HIGH] Jon Rahm owed $7.47M from the 2026 LIV season per bankruptcy filings\n- [HIGH] Rahm reportedly owed more than $100M in future contract guarantees\n- [HIGH] Rahm won the 2026 LIV Golf individual championship\n- [HIGH] Rahm signed a nine-figure contract with LIV ahead of the 2024 season\n- [MEDIUM] Rahm has been away from PGA Tour since 2024\n- [HIGH] LIV player contracts terminated under bankruptcy plan",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
