@@ -2,6 +2,50 @@
 
 ---
 
+## October 2, 2026
+
+### Story 1: D11 Students Take Over Acacia Park for Chalktober — Plus First Friday Tonight
+- **Date:** 2026-10-02
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** 1,500+ D11 students chalk Acacia Park; theme "Freedom to Thrive"; guest artist Lisa Roman ("Miss Boombox"); First Friday Arts Month at Pioneers Museum 5–8 PM (free); Acacia Park corner of Pikes Peak Ave & Tejon St; museum at 215 S. Tejon St; part of Peak Experience arts integration
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 2: CPSC Recalls Magnetic Toy Sets — Stop Use Immediately, Risk of Death
+- **Date:** 2026-10-02
+- **Tier:** T1
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** GBYMIUY Magnetic Stick Figure Sets (BlissfulDestiny/Walmart, ~10,750 units, recalled Oct 1 2026); Vndueey Magnetic Men Toy Sets (online retailers, units undisclosed, recalled Oct 1 2026); small high-powered magnets → ingestion → perforation, blockage, death; violate ASTM F963; full refund from GBYMIUY; CPSC hotline 1-800-638-2772; SaferProducts.gov; cpsc.gov/Recalls
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 3: Rock Ledge Ranch Harvest Festival Is This Saturday
+- **Date:** 2026-10-02
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Oct 3, 10 AM–4 PM, 3105 Gateway Rd; wagon rides, cider demos, blacksmith tours, candy scramble, pie, live music; pumpkins $6 each; adult $12, senior $8, youth 3–17 $6, under 2 free, military $8; call (719) 578-6777; Galloway/Chambers/Rock Ledge Estate eras
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (Oct 1 Weekend Roundup mentioned this event)
+
+### Story 4: Academy District 20 Earns 18th Consecutive Top Accreditation
+- **Date:** 2026-10-02
+- **Tier:** T2
+- **Pillar:** Local News (School District)
+- **Key Facts:** D20 18th consecutive highest accreditation rating; 40 schools, 26,000+ students; Oct 2: 2-Hour PLC Late Start, Parent Academy "Freshman Year to Graduation", Drive-Thru Toiletry Drive 11 AM–1 PM at Academy Endeavour Elementary; Q1 ends Oct 9; PTCs Oct 13–14; schools closed Oct 15–16; calendar.asd20.org
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 5: Your COS Family Weekend — October 2–4
+- **Date:** 2026-10-02
+- **Tier:** T2
+- **Pillar:** Local Events (Weekend Preview)
+- **Key Facts:** First Friday Arts Month Pioneers Museum 5–8 PM free; D11 Chalktober Acacia Park free; Rock Ledge Ranch Oct 3 10–4 ($6–$12); Venetucci Farm Sat–Sun $5 ages 8+; Cool Science Festival through Oct 18 at WMMI/Ivywild/USAFA; D49 fall break Oct 12–23; D11 fall break Oct 19–22; D20 closed Oct 15–16; Boo at the Zoo Oct 20–22, 27–29; Fossil Day Garden of the Gods Oct 10 free; springsdaily.com/events/this-weekend-with-kids
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+---
+
 ## October 1, 2026
 
 ### Story 1: Things to Do with Kids in Colorado Springs This Weekend (Oct. 2–4)

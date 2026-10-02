@@ -1,0 +1,283 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-02",
+  "compiled_at": "2026-10-02T12:34:47.724065+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "D11 Chalktober Hits Acacia Park Today — Plus First Friday Tonight",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Right now: 1,500+ D11 students are chalking Acacia Park downtown.\n\nTheme this year? \"Freedom to Thrive.\"\n\nTonight: First Friday Arts Month at the Pioneers Museum, 5–8 PM — come see the murals with your kids.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 268
+        },
+        {
+          "label": "Post 1-2",
+          "text": "D11's Chalktober murals are up at Acacia Park.\n\nFirst Friday Arts Month is tonight — Pioneers Museum, 5–8 PM. Art stations, exhibits, and the chalk murals outside.\n\nFree for families. Worth the drive downtown.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-d11-chalktober-acacia-park-first-friday.html",
+        "headline": "D11 Students Take Over Acacia Park for Chalktober — Plus First Friday Tonight",
+        "word_count": 519
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Chalktober + First Friday\n\n**IMAGE 1A — Social (1200x675)**\n- Mode: base_only\n- Prompt: Wide-angle urban park scene in warm autumn morning light. Children and students creating colorful chalk art on a wide sidewalk and pavement. Vibrant chalk murals with abstract shapes and bright colors visible. Clean, uncluttered bottom third with soft concrete texture. Warm golden-hour light. Cheerful, community feel. No text, no watermarks, no overlays. Photorealistic illustration style.\n- Usage: X post, Facebook\n\n**IMAGE 1B — Article Hero (1200x630)**\n- Mode: base_only\n- Prompt: Overhead perspective of colorful chalk murals on pavement in a downtown park setting. Autumn leaves visible at edges. Bright reds, oranges, blues, and yellows. Open concrete space in the bottom third. Soft daylight, artistic and vibrant atmosphere. Photorealistic illustration style. No text, no figures, no watermarks.\n- Usage: Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Chalktober + First Friday\n**Sources consulted:**\n- krdo.com — \"The School Buzz: 'Chalktober' kicks off with D11 students coloring downtown Colorado Springs\" (Oct 1 preview)\n- koaa.com — \"Over 1,500 D11 students transform Acacia Park and the Pioneers Museum with art for Chalktober event\" (confirms 1,500+ students, both locations)\n- downtowncs.com — \"Chalktober: From Class to Concrete\" (Downtown Partnership event page)\n- peakradar.com — \"First Friday: Kick-Off Arts Month with the CSPM\" (5-8 PM event at Pioneers Museum)\n**Verified facts (HIGH):**\n- 1,500+ D11 students at Acacia Park on Friday October 2 morning — koaa.com\n- Chalktober theme: \"Freedom to Thrive\" — krdo.com\n- Guest artist: Lisa Roman, aka \"Miss Boombox,\" a D11 art teacher — krdo.com\n- Thursday: Pioneers Museum (murals); Friday: Acacia Park (murals) — krdo.com\n- First Friday Arts Month event at Pioneers Museum: 5-8 PM, October 2 — peakradar.com\n- Activities: museum exhibits, new art, art-making stations — peakradar.com\n**Verified facts (MEDIUM):**\n- D11 Chalktober is an annual tradition — krdo.com (\"annual tradition\")",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "CPSC Issues Urgent Magnetic Toy Recalls — Stop Use Immediately",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "RECALL: GBYMIUY Magnetic Stick Figures (10,750 units) — STOP use immediately.\n\nSwallowed magnets attract each other inside the body. Risk of perforation, blockage, or death.\n\nFull refund from GBYMIUY.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 261
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Two magnetic toy recalls this week — GBYMIUY Stick Figures and Vndueey Magnetic Men.\n\nBoth linked to death or serious injury from magnet ingestion.\n\nTake them away from kids. Contact seller for a refund.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-cpsc-magnetic-toy-recalls-october-2026.html",
+        "headline": "CPSC Recalls Magnetic Toy Sets — Stop Use Immediately, Risk of Death",
+        "word_count": 523
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CPSC Magnetic Toy Recalls\n\n**IMAGE 2A — Social (1200x675)**\n- Mode: base_only\n- Prompt: Flat lay of colorful toy figurines with small visible round magnets scattered near them on a white surface. Warning-adjacent visual tone — slightly unsettling arrangement. Bright studio lighting. Clean white bottom third with subtle shadows. No text, no brand logos, no children. Photorealistic product-style photography.\n- Usage: X post, Facebook\n\n**IMAGE 2B — Article Hero (1200x630)**\n- Mode: base_only\n- Prompt: Close-up of small round high-powered magnets on a light wood surface, slightly blurred background suggesting a playroom or living room. Warm but cautionary lighting. Clear, open bottom third. No text, no children. Photorealistic, slightly somber tone suggesting caution.\n- Usage: Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CPSC Magnetic Toy Recalls\n**Sources consulted:**\n- cpsc.gov — \"Magnetic Stick Figure Sets Recalled Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys; Sold on Walmart by BlissfulDestiny\" (GBYMIUY, 10,750 units)\n- cpsc.gov — \"Vndueey Magnetic Men Toy Sets Recalled Due to Risk of Serious Injury or Death from Magnet Ingestion; Violates Mandatory Standard for Toys\"\n- cpsc.gov — \"CPSC Warns Consumers to Immediately Stop Using Vndueey Magnet Men Toy Sets...\"\n- playsafe.org — \"Toy Recalls - 2026 Recalls\"\n**Verified facts (HIGH):**\n- GBYMIUY Magnetic Stick Figure Sets recalled October 1, 2026 — cpsc.gov\n- 10,750 units affected (GBYMIUY/BlissfulDestiny Walmart listing) — cpsc.gov\n- Vndueey Magnetic Men Toy Sets also recalled — cpsc.gov\n- Hazard: loose high-powered magnets that can be ingested — cpsc.gov\n- Ingestion risk: magnets attract inside digestive system, causing intestinal perforations, blockage, infection, blood poisoning, death — cpsc.gov\n- Action: take away from children immediately, stop use, contact for full refund — cpsc.gov\n- GBYMIUY contact required for refund — cpsc.gov\n**Verified facts (MEDIUM):**\n- Other similar recalls also issued in 2026: Generic Magnetic Ball Sets (Ritons, Amazon), GLMZZ Fidget Magnet Ball Toys — cpsc.gov (pattern of multiple brands)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Rock Ledge Ranch Harvest Festival This Saturday",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Tomorrow: Rock Ledge Ranch Harvest Festival, 10 AM–4 PM at 3105 Gateway Rd.\n\nWagon rides, cider demos, pumpkins ($6 each), candy scramble, pie, blacksmith tours.\n\nYouth 3–17: $6. Under 2: free. Adults: $12.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-rock-ledge-ranch-harvest-festival-2026.html",
+        "headline": "Rock Ledge Ranch Harvest Festival Is This Saturday — Wagon Rides, Pumpkins, and Pie",
+        "word_count": 396
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rock Ledge Ranch Harvest Festival\n\n**IMAGE 3A — Social (1200x675)**\n- Mode: base_only\n- Prompt: Historic Colorado ranch scene in fall. Horse-drawn wooden wagon with passengers in an open field. Golden autumn grasses, red and orange foliage trees in background. Blue sky with light clouds. Warm harvest light. No text, no modern elements. Open clean bottom third. Photorealistic illustration style, nostalgic and welcoming.\n- Usage: X post, Facebook\n\n**IMAGE 3B — Article Hero (1200x630)**\n- Mode: base_only\n- Prompt: Close-up of orange and white pumpkins arranged on rustic wooden boards at an outdoor harvest market. Autumn sunlight, warm tones. Cornstalks in background, dried flowers. Open bottom third. No text, no people. Rich fall colors. Photorealistic.\n- Usage: Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Rock Ledge Ranch Harvest Festival\n**Sources consulted:**\n- rockledgeranch.com — official event page for Harvest Festival\n- krdo.com — Colorado Springs fall event announcement\n- allevents.in — \"Harvest Festival, 3105 Gateway Rd, Colorado Springs, CO, United States, Colorado 80904, 3 October 2026\" (confirms address)\n- peakradar.com — \"Harvest Festival, Rock Ledge Ranch Historic Site at Rock Ledge Ranch Historic Site\"\n**Verified facts (HIGH):**\n- Date: Saturday, October 3, 2026 — rockledgeranch.com\n- Hours: 10 AM – 4 PM — rockledgeranch.com\n- Address: 3105 Gateway Road, Colorado Springs, CO 80904 — allevents.in, rockledgeranch.com\n- Admission: Adult $12, Senior (65+) $8, Youth (3-17) $6, Child (2 and under) free, Military $8 — rockledgeranch.com\n- Phone: (719) 578-6777 — rockledgeranch.com\n- Activities: wagon rides, old-time music, cider-making, candy scramble, pie, historic home tours, blacksmith — rockledgeranch.com\n- Pumpkins: $6 each to take home — rockledgeranch.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "D20 Earns 18th Straight Top Accreditation, October Events Today",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Academy District 20 just earned Colorado's highest accreditation rating for the 18th year in a row.\n\n26,000+ students. 40 schools. Consistent results.\n\nToday: D20 also has a 2-Hour PLC Late Start. PTCs are Oct 13–14.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-d20-accreditation-october-events.html",
+        "headline": "Academy District 20 Earns 18th Consecutive Top Accreditation — October Events for D20 Families",
+        "word_count": 463
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D20 Accreditation\n\n**IMAGE 4A — Social (1200x675)**\n- Mode: base_only\n- Prompt: Exterior of a modern Colorado elementary school in autumn morning light. Clear blue sky, mature trees with orange-gold fall foliage lining the walkway. American flag visible. Clean, bright, community feel. No children or people. Open bottom third with low grass and sidewalk. Photorealistic.\n- Usage: X post, Facebook\n\n**IMAGE 4B — Article Hero (1200x630)**\n- Mode: base_only\n- Prompt: Wide-angle school hallway with colorful lockers, bulletin boards with bright student artwork. Warm, welcoming lighting. Empty hallway suggesting before-school morning. Colorado Rockies landscape art subtly visible. Clean open bottom third. No text, no people. Photorealistic.\n- Usage: Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D20 Accreditation + October Events\n**Sources consulted:**\n- koaa.com — Colorado Springs district news\n- asd20.org — official Academy District 20 website\n- calendar.asd20.org — D20 district calendar\n**Verified facts (HIGH):**\n- D20 has earned Colorado's highest district accreditation rating for the 18th consecutive year — koaa.com\n- D20 serves over 26,000 students at 40 schools — koaa.com\n- October 2 events: Parent Academy \"From Freshman Year to Graduation,\" PLC 2-Hour Late Start, Board of Education Retreat — calendar.asd20.org\n- Drive-Thru Toiletry Drive: October 2, 11 AM – 1 PM, Academy Endeavour Elementary — D20 social media/asd20.org\n**Verified facts (MEDIUM):**\n- D20 Q1 end date October 9; PTCs October 13-14; schools closed October 15-16 — from initial search summary (calendar.asd20.org)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "COS Family Weekend Preview — Chalktober, Venetucci Farm, and More",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "This weekend in COS:\n\n→ Tonight: First Friday, Pioneers Museum 5–8 PM (free)\n→ Sat: Rock Ledge Ranch Harvest Fest 10–4 ($6–$12)\n→ Sat–Sun: Venetucci Farm pumpkins ($5, 8+)\n→ All weekend: Cool Science Festival\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-cos-family-weekend-preview-oct2-4.html",
+        "headline": "Your COS Family Weekend: Art Downtown Tonight, Pumpkins Saturday, and More",
+        "word_count": 619
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COS Family Weekend Preview\n\n**IMAGE 5A — Social (1200x675)**\n- Mode: base_only\n- Prompt: Colorado family fall activities collage-inspired scene: pumpkin patch in warm afternoon light with Pikes Peak in the distance, fall foliage colors, open grassy field. Welcoming, expansive autumn feel. Clean bottom third. No people, no text, no watermarks. Photorealistic illustration style with rich autumn tones.\n- Usage: X post, Facebook\n\n**IMAGE 5B — Article Hero (1200x630)**\n- Mode: base_only\n- Prompt: Panoramic view of Colorado Springs autumn downtown plaza with leaves on the ground, warm orange and gold tones, historic buildings in the background, a clear fall afternoon. Peaceful, inviting community feel. Open bottom third. No text, no people. Photorealistic.\n- Usage: Article hero"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "COS Family Weekend Preview\n**Sources consulted:**\n- rockledgeranch.com — Harvest Festival details (confirmed in S3)\n- venetuccifarm.org — Pumpkin Fest (referenced from Oct 1 research: Sat–Sun, $5/ages 8+)\n- krdo.com — Colorado Springs fall events\n- coolscience.org — Cool Science Festival Oct 3-18 (confirmed from Oct 1 research)\n**Verified facts (HIGH):**\n- First Friday: Pioneers Museum, 5-8 PM, October 2 — peakradar.com\n- Rock Ledge Ranch Harvest Festival: Oct 3, 10 AM-4 PM — rockledgeranch.com\n- Venetucci Farm Pumpkin Fest: Sat-Sun (Oct 3-4), $5 per person for ages 8+ — from Oct 1 research (venetuccifarm.org)\n- Cool Science Festival runs Oct 3-18 — coolscience.org (from Oct 1 research)\n- Venues include WMMI, Ivywild, USAFA — from Oct 1 research\n**Verified facts (MEDIUM):**\n- Venetucci Farm address/exact hours — cited from Oct 1 research (secondary)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-10-01
+## Current Run: 2026-10-02
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D11 Chalktober Acacia Park (1,500+ students, "Freedom to Thrive", Miss Boombox); First Friday Arts Month Pioneers Museum 5–8 PM free; CPSC recalls GBYMIUY Magnetic Stick Figures (10,750 units, Walmart) + Vndueey Magnetic Men (online) Oct 1 2026; Rock Ledge Ranch Harvest Festival Oct 3 10AM–4PM ($6–$12, wagon rides/cider/blacksmith); D20 18th straight top accreditation (40 schools, 26,000+ students); Venetucci Farm Pumpkin Fest Sat–Sun $5 ages 8+; Cool Science Festival through Oct 18 WMMI/Ivywild/USAFA |
+| Story History Check | COMPLETE | S1 Chalktober NEW (annual event, new date); S2 magnetic toy recalls NEW (different products from Oct 1 bath seats); S3 Rock Ledge Ranch FOLLOW-UP (mentioned in Oct 1 Weekend Roundup, now deeper standalone); S4 D20 accreditation NEW; S5 Weekend Preview NEW (different framing/angle from Oct 1 Weekend Roundup) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Sarah Morales [S1, S2, S5], Jamie Rivera [S3, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: gazette.com, springsdaily.com, rockledgeranch.com, venetuccifarm.org, coolscience.org, cpsc.gov, d20.org, asd20.org, d11.org |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows (8AM/10AM/12PM/3PM/5PM), voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 tweets across 5 stories; 4 tweets fixed for char limit (S1T2: 287→270; S2T1: 303→262; S2T2: 300→266; S5T1: 325→272); all ≤280 chars; 4 hashtags each; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; no hashtags; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 5 Gemini base_only prompts (social + article hero per story); clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 D11 Chalktober (Sarah Morales, T1, QR table); article-02 CPSC magnetic recalls (Sarah Morales, T1, QR table, stop use); article-03 Rock Ledge Ranch Harvest Fest (Jamie Rivera, T2, admission table); article-04 D20 accreditation + Oct calendar (Jamie Rivera, T2, QR table); article-05 COS Weekend Preview Oct 2–4 (Sarah Morales, T2, events table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 79 claims (HIGH: 144, MEDIUM: 64, LOW: 39); all consistency checks pass |
+| Compile Content Data | COMPLETE (partial) | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts parsed, 5 articles; FB 0 is known parser compat issue; posting-window warnings cosmetic (known) |
+| Image Manifest | SKIPPED | 07-image-manifest.md not generated (known — generated at publish time with --images flag) |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (7 posts) | cosp-postplanner-2026-10-02.xlsx + cosp-postplanner-tobi-2026-10-02.xlsx — 7 posts each; redistributed 13:04–20:40 MT |
+| WordPress Publish | BLOCKED | 403 proxy — fanrumor.com not in authorized hosts (known recurring); articles ready as drafts |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Oct 2 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts (+ 0 FB parsed — known issue)
+- **Articles:** 5 (bylines: Sarah Morales [S1, S2, S5], Jamie Rivera [S3, S4])
+- **PostPlanner exports:** 7 posts (standard + TOBI)
+- **Key stories:** D11 Chalktober 1,500+ students at Acacia Park + First Friday Arts Month (free, tonight); CPSC magnetic toy recalls GBYMIUY Stick Figures (10,750 units, Walmart, stop use, refund) + Vndueey Magnetic Men; Rock Ledge Ranch Harvest Festival Oct 3 10AM–4PM ($6–$12, wagon/cider/blacksmith); D20 18th straight top accreditation + Late Start today + PTCs Oct 13–14; Weekend Preview Oct 2–4
+- **Issues:** WordPress blocked (proxy); dashboard deploy blocked (proxy); FB posts not parsed (known)
+
+---
+
+## Previous Run: 2026-10-01
 
 | Step | Status | Notes |
 |------|--------|-------|
