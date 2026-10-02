@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 *.pyo
 .env
+
+# PostPlanner XLSX exports — binary files, cannot push via remote MCP environment
+*.xlsx
