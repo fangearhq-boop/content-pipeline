@@ -1,7 +1,7 @@
-# Cubs Pipeline Status — Updated 2026-10-01
+# Cubs Pipeline Status — Updated 2026-10-02
 
 ## Latest Run
-- **Date:** 2026-10-01 (Thursday — OFF DAY; Cubs eliminated in WCS sweep, Padres 4, Cubs 1 Game 2)
+- **Date:** 2026-10-02 (Friday — OFF DAY; Cubs season over)
 - **Stories:** 5
 - **X posts:** 5
 - **Platforms:** X/Twitter only
@@ -10,43 +10,46 @@
 - **07-content-data.json:** ✅ Valid JSON, all 5 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 12:00 PM / 3:45 PM CT)
 - **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeded)
 
-## Insights Summary (2026-10-01)
-- **Snapshot generated:** 2026-10-01T08:30:00.152601Z (fresh, 30 min before trigger)
-- **significant_findings count:** 2
-- **Finding 1:** `content_type=game_final` beats all — median 118 vs 75.5, large effect (delta 0.487, p=0.020). **Action:** Story 1 tagged game_final, given prime 7:00 AM slot, leads with score.
-- **Finding 2:** `opening=statement` is a LOSER — non-statement beats statement, median 87.5 vs 72.5, small effect (delta 0.212, p=0.032). **Action:** All 5 tweets open with a stat or score, not a declarative statement.
-- **Posting windows:** No hours cleared Holm-corrected gates. Standard schedule shape maintained.
+## Insights Summary (2026-10-02)
+- **Snapshot generated:** 2026-10-02T08:30:00.114642+00:00 (fresh, 30 min before trigger)
+- **significant_findings count:** 1
+- **Finding 1:** `content_type=game_final` beats all — median 118 vs 72.5, LARGE effect (delta 0.543, p=0.0097). **Action:** Off day — no game_final content possible. All tweets grounded in final scores/results (WCS scores, season stats) to approximate signal. Noted in 02-story-analysis.md.
+- **Posting windows / len_bucket / emoji findings:** None — standard schedule shape.
 
-## Series Context (2026-10-01)
-- **`off_day`:** TRUE — Cubs 2026 season over
+## Series Context (2026-10-02)
+- **`off_day`:** TRUE — Cubs season over
 - **`is_series_start_today`:** FALSE
-- **`series`:** null (WCS complete — Padres swept Cubs 2-0)
+- **`series`:** null
 - **`today_cubs_game`:** null
-- **Action:** Off-day playbook. Led with elimination recap (game_final). 5 tweets appropriate for season-ending off day.
+- **Action:** Off-day playbook. No series preview slot. 5 tweets covering offseason, milestones, playoff watch.
 
 ## Current Season Status
 - **Cubs 2026 season: OVER**
 - Final record: 89-73 (No. 5 NL seed, WC2)
-- WCS: Padres swept Cubs 2-0 (Game 1: Padres 8-0; Game 2: Padres 4-1)
-- Padres now face Brewers (103-59, No. 1 NL seed) in NLDS
-- Cardinals: 77-85, missed playoffs
+- WCS: Padres swept Cubs 2-0 (Game 1: Padres 8-0; Game 2: Padres 4-1; Cubs total: 1 run in 2 games)
+- NLDS begins October 3: Brewers (103-59) vs. Padres; Dodgers vs. Braves
 
-## Offseason Outlook (for follow-up coverage)
-- Gausman: free agent
-- Boyd: $15M mutual option — likely declined
-- Holmes: player option — uncertain
-- Imanaga: status conflicting in sources — monitor
-- Cubs priority: major pitching overhaul, rotation + bullpen
-- PCA: NL MVP frontrunner, vote not yet official
+## Offseason Outlook (monitor for follow-up coverage)
+- ALL 5 rotation starters are free agents or options expected to be declined:
+  - Gausman: free agent (expected to leave)
+  - Boyd: $15M mutual option — neither side expected to exercise
+  - Holmes: $12M player option — expected to decline
+  - Imanaga: free agent
+  - Peterson: free agent
+- Prospect trade: Ballesteros + Rojas → Padres (covered Oct 2)
+- Option deadlines: ~Oct 5 (5 days post-season end)
+- PCA: NL MVP frontrunner, expected unanimous vote, announced mid-November
+- Cubs priority: complete rotation rebuild
 
-## Previous Run (2026-09-30)
-- Stories: 7 | X posts: 7 | Status: ✅ Complete
-- Key stories: WCS G1 recap (Padres 8-0, Boyd 4 IP 3 HR, King near-no-hitter), PCA bounce-back, King stats, Gausman G2 preview, must-win math (3/24), Brewers watching, pre-game hype
+## Previous Run (2026-10-01)
+- Stories: 5 | X posts: 5 | Status: ✅ Complete
+- Key stories: WCS G2 recap (Padres 4-1, Cubs eliminated), Season Postmortem, PCA WCS silence / MVP, Offseason pitching crisis (Gausman/Boyd/Holmes), Rival Watch (Brewers-Padres NLDS)
 
 ## Pipeline Run Log (newest first)
 
 | Date | Type | Stories | Tweets | Status |
 |------|------|---------|--------|--------|
+| 2026-10-02 | OFF DAY (offseason begins) | 5 | 5 | ✅ |
 | 2026-10-01 | OFF DAY (eliminated, season over) | 5 | 5 | ✅ |
 | 2026-09-30 | WCS GAME 2 (must-win, trailing 1-0) | 7 | 7 | ✅ |
 | 2026-09-29 | WCS GAME 1 NIGHT (series start) | 7 | 7 | ✅ |
@@ -64,6 +67,3 @@
 | 2026-09-16 | GAME DAY (home) | 7 | 7 | ✅ |
 | 2026-09-15 | GAME DAY (home) | 7 | 7 | ✅ |
 | 2026-09-14 | SERIES START (home) | 7 | 7 | ✅ |
-| 2026-09-13 | GAME DAY (home) | 5 | 5 | ✅ |
-| 2026-09-11 | SERIES START (home) | 7 | 7 | ✅ |
-| 2026-09-10 | GAME DAY | 5 | 5 | ✅ |

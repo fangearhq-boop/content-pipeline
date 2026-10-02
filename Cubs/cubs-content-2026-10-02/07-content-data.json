@@ -1,0 +1,231 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-02",
+  "compiled_at": "2026-10-02T09:19:12.325651+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1",
+      "type": "Full rotation gone — 5 starters are free agents"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2",
+      "type": "Cubs sold prospects to team that swept them"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3",
+      "type": "PCA: First unanimous NL MVP in Cubs history"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 4",
+      "type": "NLDS preview: Brewers vs. Padres starts Saturday"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Story 5",
+      "type": "White Sox to ALDS; Cubs watching"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "The Full Rotation Is Gone — All 5 Cubs Starters Headed to Free Agency",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Gausman is a free agent. Boyd's mutual option won't be exercised. Holmes declining his player option. Imanaga free agent. Peterson free agent. All 5 late-season starters gone. Cubs face a full rotation rebuild — which Hoyer has already flagged as Priority No. 1.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "5 of 5 rotation starters are free agents or options expected to be declined.\n\nGausman. Boyd. Holmes. Imanaga. Peterson.\n\nJed Hoyer doesn't have a single starter locked in heading into the offseason. The rebuild starts now.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / Roster News",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Full Rotation Is Gone — All 5 Starters Headed to Free Agency\n**Key Facts:**\n- Kevin Gausman: free agent. Bleacher Report calls him a secondary option for Cubs, expects him to leave.\n- Matthew Boyd: $15M MUTUAL option. Neither side expected to pick up.\n- Clay Holmes: $12M PLAYER option. Expected to decline.\n- Shota Imanaga: free agent.\n- David Peterson: free agent.\n- All 5 starters confirmed free agents or options expected to be declined — HIGH confidence, multiple sources.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Cubs Sold Their Future to the Team That Swept Them",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "At the 2026 trade deadline, the Cubs shipped Moisés Ballesteros and Jefferson Rojas — two of the Cubs' top prospects — to San Diego. Those Padres just swept the Cubs, outscoring them 12-1 in two WCS games. The irony is brutal and specific.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "The Cubs scored 1 run in 2 WCS games against the Padres. 12-1 outscored.\n\nAt the trade deadline, Chicago shipped Moisés Ballesteros and Jefferson Rojas — two of the Cubs' top prospects — to San Diego.\n\nCubs helped build the team that swept them.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold/Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Both Ballesteros and Rojas traded to Padres at 2026 deadline — HIGH (multiple sources). Cubs scored 1 total run in WCS — HIGH (box scores). Trade-back not confirmed.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "PCA Is About to Make Cubs History as First Unanimous NL MVP",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "PCA is the 7th player in MLB history with a 40-40 season and is on track to win the NL MVP unanimously — a first in Cubs franchise history. Award comes in November.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "45 HR. 41 SB. .280/.372/.570.\n\nPete Crow-Armstrong is on track to become the first unanimous NL MVP in Cubs franchise history — and the first Cub to ever pull off a 40-40 season.\n\nThe season ended too early. The award doesn't.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Stat Breakdown / Milestone",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "PCA: .280/.372/.570, 45 HR, 41 SB in 162 games. 7th 40-40 in MLB history. First Cubs player to achieve 40-40. Expected unanimous NL MVP winner (MLB.com final poll). Award mid-November.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "NLDS Preview — Brewers vs. Padres Starts Tomorrow",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "NLDS Game 1 tomorrow, 7:30 PM CT at Milwaukee. The No. 1 seed Brewers (103-59) host the Padres — the team that just swept the Cubs.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Brewers vs. Padres. NLDS Game 1 is Saturday, 7:30 PM CT at Milwaukee.\n\nNo. 1 seed Brewers (103-59) hosting the team that just swept the Cubs in 2 games.\n\nCubs fans have a complicated rooting interest this October.\n\n#Cubs #MLB #NorthSiders",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Analysis / Rival Watch",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#NorthSiders"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "NLDS G1: Oct 3, 7:30 PM CT, FS1, Milwaukee. Brewers 103-59 No. 1 seed. Padres swept Cubs 2-0.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "White Sox Are Playing in October. Cubs Are Not.",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "The White Sox swept the Astros (6-3, 7-3) and face the Guardians in the ALDS. The Cubs are home after 2 playoff games. City contrast.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The White Sox swept the Astros 6-3, 7-3 and are in the ALDS.\n\nThe Cubs scored 1 run in 2 playoff games and are home.\n\nSouth Side is loud tonight. Again.\n\n#Cubs #MLB #ChicagoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Bold/Humor",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#ChicagoCubs"
+          ],
+          "char_count": 177
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 5,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "White Sox swept Astros 2-0 (6-3, 7-3). Face Guardians in ALDS. Cubs scored 1 run in 2 WCS games.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
