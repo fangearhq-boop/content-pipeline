@@ -7462,3 +7462,48 @@
 - **Byline:** Jake Torres
 - **Status:** NEW
 - **Follow-up ideas:** Duren situation update (other Thompson brother in same org)
+
+### STORY 1: Jalen Duren Signs 5-Year $200M Extension With Pistons
+- **Date:** 2026-10-02
+- **Tier:** 1
+- **Category:** Detroit Pistons / Jalen Duren / Contract Extension
+- **Key facts:** 5-year $200M fully guaranteed; missed media day + training camp start; eligible for $287M max ($87M left on table); 2025-26 stats: 19.5 pts, 10.5 reb, 65% FG; All-Star + All-NBA Third Team at age 22; AAV $40M/year
+- **Byline:** Jake Torres
+- **Status:** RESOLVED (holdout ends)
+- **Follow-up ideas:** First practice back, preseason performance
+
+### STORY 2: Joel Embiid Full Participant at Sixers Camp / LeBron Era
+- **Date:** 2026-10-02
+- **Tier:** 1
+- **Category:** Philadelphia 76ers / Joel Embiid / Training Camp / LeBron James
+- **Key facts:** Full participant all practices; dropped considerable weight; Nick Nurse: "looked great"; LeBron (41) + Jaylen Brown joined Sixers; opener Oct. 20 at MSG (Banner Night); not expecting full 82
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Preseason minute load, Banner Night matchup
+
+### STORY 3: Warriors Take 21-Man Camp to Hawaii
+- **Date:** 2026-10-02
+- **Tier:** 2
+- **Category:** Golden State Warriors / Training Camp / Stephen Curry
+- **Key facts:** 21-man camp roster at BYU-Hawaii; Curry, Draymond, Porzingis, Jimmy Butler III; preseason Oct. 4 vs Clippers in Hawaii; regular season opener Oct. 21
+- **Byline:** Damon Pierce
+- **Status:** NEW
+- **Follow-up ideas:** Preseason opener results
+
+### STORY 4: Knicks Banner Night Oct. 20 at MSG
+- **Date:** 2026-10-02
+- **Tier:** 2
+- **Category:** New York Knicks / Banner Night / Opening Night
+- **Key facts:** Oct. 20, 6:30 PM ET ceremony / 7 PM tipoff NBC/Peacock; vs. Sixers (LeBron debut); first banner since 1973 (53 years); avg ticket $2,560; get-in $1,000+
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Final ticket prices, ceremony details
+
+### STORY 5: Mavericks Head to Macao for Preseason vs. Rockets
+- **Date:** 2026-10-02
+- **Tier:** 2
+- **Category:** Dallas Mavericks / Preseason / Moussa Cisse
+- **Key facts:** Two preseason games in Macao vs Houston; Moussa Cisse $2.2M salary guaranteed; 15 standard contracts finalized
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** Preseason results from Macao
