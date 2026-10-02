@@ -1,28 +1,47 @@
-# Ballpark Banter Pipeline Status
+# Pipeline Status — Ballpark Banter (MLB)
 
+## Current Run: 2026-10-02
 
-## Current Run
-- **Date**: 2026-10-01
-- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch live; 5 stories verified HIGH confidence; KEY FACTS: Phillies 4 Braves 3 (10 inn.) G2 Sept 30/Schwarber+Harper back-to-back HR off Lee in 8th/Bohm walk-off off Fuentes in 10th/series tied 1-1/G3 TONIGHT 8:15 PM ET NBC/Peacock; Padres 4 Cubs 1 G2/Gavin Sheets pinch-hit 2-run HR/Padres sweep 2-0/advance NLDS vs Brewers; White Sox sweep Astros 2-0 (6-3/7-3)/first playoff series win since 2005/Montgomery 432-ft HR G1; Yankees sweep Red Sox 18-2 (9-0/9-2) without Judge/Ben Rice multiple HRs incl grand slam/Schlittler 6.1 IP 12K G1/Judge targeting ALDS return; Wild Card bracket nearly set - 3 sweeps + 1 thriller), brief (5 stories), research notes, story analysis, X posts (8 code-block format; all ≤280), FB posts (5 stories), image concepts (9 items), image manifest (9 entries, not_started), articles (5; Marcus Cole/Jake Torres/Ryan Calloway/Marcus Cole/Jake Torres), fact-check (verify-facts.py ran; 24 claims checked), compile (content-data.json generated; 5 stories, 8 tweets, 5 articles; 28 dashboard items), dashboard (review-dashboard.html generated; 28 items), PostPlanner exports (standard + TOBI). WordPress publish blocked (403 proxy restriction — known issue). Story history updated.
-- **Dashboard Published**: Not attempted (proxy known restriction).
-- **GitHub Pages Status**: unknown (proxy restriction)
+**Status:** COMPLETE
+**Brand:** Ballpark Banter
+**Stories:** 5
+**Articles:** 5
+**X Posts:** 8
+**FB Posts:** 5
 
+### Steps Completed
+- [x] 01 — Research (WebSearch)
+- [x] 02 — Story history check
+- [x] 03 — Daily brief (00-daily-brief.md)
+- [x] 04 — Research notes (01-research-notes.md)
+- [x] 05 — Story analysis (02-story-analysis.md)
+- [x] 06 — X posts (03-social-posts-x.md) — 8 posts
+- [x] 07 — Facebook posts (04-social-posts-facebook.md)
+- [x] 08 — Image concepts (05-image-concepts.md)
+- [x] 09 — Articles (5 of 5 written)
+- [x] 10 — Fact-check log (verify-facts.py)
+- [x] 11 — Compile content data (compile-content-data.py)
+- [x] 12 — Review dashboard (generate-review-dashboard.py)
+- [x] 13 — Publish unified dashboard (publish-unified-dashboard.py) — push blocked (content-dashboards not authorized)
+- [x] 14 — Image manifest (07-image-manifest.md)
+- [x] 15 — PostPlanner exports (bb-postplanner-2026-10-02.xlsx, bb-postplanner-tobi-2026-10-02.xlsx)
+- [x] 16 — Story history updated (story-history.md)
+- [ ] WordPress publish — skipped (WP_FANRUMOR credentials not set)
+- [ ] Git push — pending
 
-## Pipeline Run Log
+### Stories Covered
+1. **Braves Eliminate Phillies 6-2 in Game 3** (Tier 1, Follow Up) — Marcus Cole
+2. **Division Series Bracket Set** (Tier 1, New Story) — Jake Torres
+3. **White Sox ALDS Preview** (Tier 2, Follow Up) — Ryan Calloway
+4. **Aaron Judge ALDS Return Timeline** (Tier 2, Follow Up) — Marcus Cole
+5. **Padres vs. Brewers NLDS Preview** (Tier 2, New Story) — Jake Torres
 
-### 2026-10-01
-- Full pipeline completed
-- Research: WebSearch live results (5 stories)
-- Content: 5 articles, 8 X posts, 5 FB posts, 9 image concepts
-- Scripts: verify-facts.py ✓, compile-content-data.py ✓, generate-review-dashboard.py ✓, generate-postplanner-export.py ✓ (standard + TOBI)
-- WordPress publish: blocked (403 proxy restriction)
-- Dashboard push: not attempted (proxy restriction)
-- Commit: pending push via GitHub MCP
+---
 
-### 2026-09-30
-- Full pipeline completed
-- Research: WebSearch live results (5 stories: Wild Card Day 1 results + Game 2 schedule)
-- Content: 5 articles, 7 X posts, 5 FB posts, 10 image concepts
-- Scripts: verify-facts.py ✓, compile-content-data.py ✓, generate-review-dashboard.py ✓, generate-postplanner-export.py ✓ (standard + TOBI)
-- WordPress publish: blocked (403 proxy restriction)
-- Dashboard push: failed (content-dashboards not authorized)
+## Previous Run: 2026-10-01
+
+**Status:** COMPLETE
+**Stories:** 5
+**Articles:** 5
+**X Posts:** 8
+**FB Posts:** 5
