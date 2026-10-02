@@ -7196,3 +7196,48 @@
 - **Byline:** Ryan Calloway
 - **Status:** NEW
 - **Follow-up ideas:** FP1 setup data confirms wing angles, energy management observations from teams
+
+### STORY 1: Bahrain GP in Malaysia — FP1 Verstappen Leads
+- **Date:** 2026-10-02
+- **Tier:** 1
+- **Category:** Bahrain Grand Prix / Circuit de Sepang / Free Practice 1
+- **Key facts:** Round 16; Sepang host (relocated from Bahrain due to Iran regional war); FP1: Verstappen P1 1:37.520, Russell P2 +0.383, Hadjar P3 +0.783, Leclerc P4, Antonelli P5 +1.060, Hamilton P6; race Sunday Oct. 4
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+- **Follow-up ideas:** FP2 results, qualifying Saturday, race Sunday
+
+### STORY 2: Kimi Antonelli Championship Lead at 302 Points
+- **Date:** 2026-10-02
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / 2026 F1 Championship
+- **Key facts:** 302 pts; 19 years old; youngest F1 championship leader in history (broke Hamilton's 2007 record at age 22); 8 wins; 66 pts ahead of Russell; 103 ahead of Hamilton; standings: Antonelli 302, Russell 236, Hamilton 199, Norris 186, Leclerc 179, Verstappen 163
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Race result, clinch scenarios
+
+### STORY 3: Russell Azerbaijan Grand Slam
+- **Date:** 2026-10-02
+- **Tier:** 2
+- **Category:** George Russell / Azerbaijan Grand Prix / Mercedes
+- **Key facts:** Grand Slam (pole + led all 51 laps + fastest lap 1:44.916 + win); won by 0.196s over Verstappen; Hadjar P3 +10.704; third win of 2026 season
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Championship math if Russell wins Bahrain
+
+### STORY 4: Lewis Hamilton Ferrari Third in Standings
+- **Date:** 2026-10-02
+- **Tier:** 2
+- **Category:** Lewis Hamilton / Ferrari / Championship
+- **Key facts:** Age 41; P3 in championship 199 pts; 103 behind Antonelli; FP1 Sepang P6 (1:38.590); second Ferrari season
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Hamilton qualifying and race at Sepang
+
+### STORY 5: 2026 F1 Season Overview
+- **Date:** 2026-10-02
+- **Tier:** 2
+- **Category:** 2026 F1 Season / New Regulations / Championship
+- **Key facts:** New hybrid-era regs; Bahrain GP in Malaysia (relocated); 6-driver title fight; Verstappen dominant era ended; season has 18 rounds; 3 remaining after Sepang
+- **Byline:** Elena Voss
+- **Status:** NEW
+- **Follow-up ideas:** Season finale coverage
