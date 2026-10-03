@@ -1,0 +1,315 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-03",
+  "compiled_at": "2026-10-03T10:27:29.768162+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 — Asian Games Gold",
+      "type": "X, FB"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 1 — Asian Games Gold",
+      "type": "X"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2 — Beachum/Texas Tech",
+      "type": "X, FB"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 3 — Tennessee 14-2",
+      "type": "X, FB"
+    },
+    {
+      "time": "1:30 PM",
+      "description": "Story 4 — OU vs Tarleton State",
+      "type": "X, FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 2 — Beachum debut",
+      "type": "X"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 5 — Fall Ball Week 3",
+      "type": "X, FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 3 — Barnhart feature",
+      "type": "FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Asian Games Medal Round — Japan Claims 7th Consecutive Gold, Chinese Taipei Takes Bronze",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Japan just won their 7th straight Asian Games gold medal. 🥎\n\nSeven. Straight. Titles. 2002 through 2026 — nobody in softball even comes close.\n\nJapan and China both punch their ticket to the LA28 Olympics.\n\n#Softball #AsianGames #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball",
+            "#AsianGames",
+            "#NCAASoftball"
+          ],
+          "char_count": 242
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Asian Games softball final results:\n\n🥇 Japan (7th consecutive gold)\n🥈 China (LA28 qualifier)\n🥉 Chinese Taipei (12-2 over Philippines)\n\nThe Anjō run is over. The LA28 road has officially begun. #Softball #AsianGames",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball",
+            "#AsianGames"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-japan-asian-games-seventh-gold.html",
+        "headline": "Japan Claims Seventh Straight Asian Games Gold, Books Trip to LA28",
+        "word_count": 629
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Asian Games Gold — Japan Wins 7th Consecutive Title\n\n**Image 1 (Social — 1080x1350)**\n- **Story:** Japan wins Asian Games gold medal game vs. China\n- **Search Term:** Japan softball pitcher\n- **Caption Overlay:** \"GOLD MEDAL / Japan — 7th Straight Asian Games Champion\"\n- **Credit:** (USA TODAY Sports Images)\n\n**Image 2 (Article Hero — 1200x630)**\n- **Story:** Asian Games medal round recap\n- **Search Term:** Japan softball team celebration\n- **Caption Overlay:** \"Asian Games 2026 — Japan Wins Gold, LA28 Berths Awarded\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Asian Games Medal Round — Japan Claims 7th Gold, Chinese Taipei Takes Bronze\n**Classification:** FOLLOW UP\n**Tier:** 1\n**Sources:**\n- Manila Times, Oct. 3, 2026\n- ESPN Philippines tracker\n- SBS Korea (English), Oct. 3, 2026\n- WBSC, Oct. 2, 2026\n- 2026 Asian Games medal table (Wikipedia)\n**Freshness:** TODAY, October 3, 2026. Medal games played at Anjō Sports Park, Aichi Prefecture, Japan.\n**Key Facts:**\n- [HIGH] Bronze medal: Chinese Taipei defeated Philippines (Blu Girls) 12-2\n- [MEDIUM] Gold medal: Japan defeated China — Japan claimed 7th consecutive Asian Games gold\n- [HIGH] Japan had gone 7-0 through the preliminary round\n- [HIGH] Preliminary round walk-off (Oct. 2): Japan 7, China 6\n- [HIGH] Top finishers earn direct LA28 Olympic berths — both Japan (gold) and China (silver) qualified for LA28\n- [HIGH] Tournament: 8 teams, Sept. 26–Oct. 3, 2026, Anjō Sports Park\n- [HIGH] Japan's consecutive Asian Games titles: 2002, 2006, 2010, 2014, 2018, 2022, 2026",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Jaysoni Beachum's Texas Tech Debut — Top Transfer Suits Up in Lubbock Today",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Jaysoni Beachum is in a Texas Tech uniform TODAY. 🔴\n\nThe 2x All-American (.406/10 HR/69 RBI at FSU) + NiJaree Canady + 6 other transfers.\n\nThe Lady Raiders are playing West Texas A&M right now at Tracy Sellers Field. Big 12 is on notice.\n\n#WreckEm #CollegeSoftball #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm",
+            "#CollegeSoftball",
+            "#Softball"
+          ],
+          "char_count": 274
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Beachum to Texas Tech was the No. 1 corner infielder pick in the portal — .406, 10 HR, 69 RBI in her final FSU season.\n\nShe visited Florida. She picked Lubbock. NiJaree Canady is waiting.\n\n2027 Big 12 is wide open. #WreckEm #Softball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm",
+            "#Softball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-jaysoni-beachum-texas-tech-debut.html",
+        "headline": "Jaysoni Beachum Suits Up for Texas Tech — The Lady Raiders' New Era Begins",
+        "word_count": 627
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jaysoni Beachum Texas Tech Debut\n\n**Image 3 (Social — 1080x1350)**\n- **Story:** Beachum's first game as a Lady Raider\n- **Search Term:** Jaysoni Beachum Florida State\n- **Caption Overlay:** \"BEACHUM IN LUBBOCK / Texas Tech Era Begins Today\"\n- **Credit:** (USA TODAY Sports Images)\n\n**Image 4 (Article Hero — 1200x630)**\n- **Story:** Beachum transfer + Texas Tech roster\n- **Search Term:** NiJaree Canady Texas Tech\n- **Caption Overlay:** \"Beachum + Canady — Texas Tech's New Power Duo\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jaysoni Beachum's Texas Tech Debut\n**Key Facts:**\n- [HIGH] Beachum committed to Texas Tech on June 26, 2026\n- [HIGH] 2026 FSU stats: .406 BA, 10 HR, 69 RBI, .549 OBP\n- [HIGH] Career at FSU (3 seasons): .375 BA, 37 HR, 35 doubles, 180 RBI, 202 hits\n- [HIGH] Awards: 2024 NFCA National Freshman of the Year, 2x All-American\n- [HIGH] Rankings: No. 3 overall player in transfer portal; No. 1 corner infielder\n- [HIGH] Today's game: Texas Tech vs. West Texas A&M, Oct. 3, 2 PM CT, Tracy Sellers Field",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Tennessee 14-2 — Barnhart Announces Herself With 2-HR, 5-RBI Night",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Tennessee freshman Meredith Barnhart: 2 home runs. 5 RBIs. In her THIRD CAREER GAME.\n\nLady Vols are 3-0 in fall ball, outscoring opponents 39-4.\n\nErin Nuwer: 4 scoreless innings, 7 Ks vs. Carson-Newman last night. 🔥\n\n#VolsSoftball #NCAASoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#VolsSoftball",
+            "#NCAASoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-tennessee-14-2-carson-newman.html",
+        "headline": "Barnhart Goes Yard Twice in Third Career Game as Tennessee Rolls 14-2",
+        "word_count": 562
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tennessee 14-2 vs. Carson-Newman\n\n**Image 5 (Social — 1080x1350)**\n- **Search Term:** Tennessee Lady Vols softball batter\n- **Caption Overlay:** \"LADY VOLS 3-0 / 39 Runs. 4 Allowed. Fall Ball.\"\n- **Credit:** (USA TODAY Sports Images)\n\n**Image 6 (Article Hero — 1200x630)**\n- **Search Term:** Tennessee softball pitcher\n- **Caption Overlay:** \"Tennessee Falls: 14-2 — Barnhart Announces Herself\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tennessee 14-2 Carson-Newman\n**Key Facts:**\n- [HIGH] Tennessee won 14-2\n- [HIGH] Meredith Barnhart (true freshman): 2 HR, 5 RBI\n- [HIGH] Erin Nuwer (sophomore): 4 scoreless innings, 7 strikeouts\n- [HIGH] Fall record now: 3-0 — outscored opponents 39-4",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Oklahoma vs. Tarleton State — First Outside-Opponent Test for New-Look Sooners",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Oklahoma's new roster gets its first real test today vs. Tarleton State at Love's Field.\n\nBerzon. Harter. Westra. Ho-Ching. First reps against real competition.\n\nParker set the tone — she homered on fall ball's first pitch. Now let's see the rest. #BoomerSooner #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BoomerSooner",
+            "#Softball"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-oklahoma-tarleton-state-fall-ball.html",
+        "headline": "Oklahoma's New Roster Faces Its First Real Test — Berzon, Harter, and the Freshmen Step Up",
+        "word_count": 625
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Oklahoma vs. Tarleton State\n\n**Image 7 (Social — 1080x1350)**\n- **Search Term:** Patty Gasso Oklahoma softball\n- **Caption Overlay:** \"SOONERS IN ACTION / First Outside Test — Love's Field\"\n- **Credit:** (USA TODAY Sports Images)\n\n**Image 8 (Article Hero — 1200x630)**\n- **Search Term:** Sydney Berzon Oklahoma softball\n- **Caption Overlay:** \"New Sooners, Real Competition — Fall Ball Heats Up\"\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Oklahoma vs. Tarleton State — First Outside-Opponent Test\n**Key Facts:**\n- [HIGH] Oklahoma hosted Tarleton State, Oct. 3, 1 PM CT, Love's Field\n- [HIGH] Ella Parker hit a home run on the very first pitch of fall ball\n- [HIGH] Key fall additions: Sydney Berzon (LSU, 2x NFCA All-American), Macie Harter (.346 BA, 7 HR)\n- [HIGH] Five-star freshmen: Emma Westra and Chloe Ho-Ching\n- NOTE: Game result was NOT confirmed at pipeline run time.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Fall Ball Week 3 — Big 12 Showing Out, FSU Opens Saturday",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Fall Ball Week 3 dispatch:\n\nTexas A&M opened 18-3 over Murray State 🤠\nTexas Tech debuts Beachum TODAY vs. West Texas A&M\nFSU opens fall without Beachum vs. Chipola College\n\nBig 12 and SEC are reshuffling. Spring is WILD. #Softball #CollegeSoftball #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball",
+            "#CollegeSoftball",
+            "#NCAASoftball"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-fall-ball-week-3-roundup.html",
+        "headline": "Fall Ball Week 3: Texas A&M Rolls, Texas Tech Debuts Star Duo, FSU Starts Over",
+        "word_count": 689
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Fall Ball Week 3\n\n**Image 9 (Social — 1080x1350)**\n- **Search Term:** Texas Tech softball pitcher\n- **Caption Overlay:** \"FALL BALL WEEK 3 / Big 12 Is Heating Up\"\n- **Credit:** (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Fall Ball Week 3 — Big 12 Showing Out\n**Key Facts:**\n- [HIGH] Texas A&M: 18-3 over Murray State in fall opener Sept. 30\n- [HIGH] Texas Tech: Falls schedule opens Oct. 3 vs. West Texas A&M\n- [HIGH] Florida State: Fall slate begins Oct. 3 vs. Chipola College\n- [HIGH] Louisiana: Opens fall Oct. 9 at McNeese (road)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
