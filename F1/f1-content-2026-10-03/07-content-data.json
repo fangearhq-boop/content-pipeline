@@ -1,0 +1,331 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-03",
+  "compiled_at": "2026-10-03T11:49:07.173460+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Antonelli Championship Math — 66 Clear, Singapore Now the Clinch Window",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Kimi Antonelli leads the 2026 F1 championship with 302 points — 66 clear of Russell with 8 races left.\n\nAt just 20 years old, he could become F1's youngest-ever champion.\n\nSingapore is next. 👀 #F1 #KimiAntonelli\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#KimiAntonelli"
+          ],
+          "char_count": 218
+        },
+        {
+          "label": "Post 1-2",
+          "text": "2026 F1 standings after Round 15:\n\nNo. 1 — Antonelli: 302 pts\nNo. 2 — Russell: 236 pts (-66)\nNo. 3 — Hamilton: 199 pts (-103)\n\n8 races left. Can anyone stop him? #F1 #Formula1\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 182
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-antonelli-championship-math-singapore-clinch-window.html",
+        "headline": "Antonelli Championship Math: Singapore Becomes the First Clinch Window",
+        "word_count": 694
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Championship Math — 66 Clear, Singapore the Clinch Window\n**[HIGH confidence]**\n- Antonelli leads 2026 Drivers' Championship with 302 pts [motorsport.com, gpfans.com standings]\n- Russell 2nd with 236 pts — gap 66 pts [same sources]\n- Hamilton 3rd with 199 pts [same sources]\n- Norris 4th with 186 pts [same sources]\n- Leclerc 5th with 179 pts [same sources]\n- Verstappen 6th with 163 pts [standings after Azerbaijan]\n- 8 rounds remaining (Rounds 16–23) [standings sources]\n- Mercedes Constructors: 538 pts [story-history.md 2026-09-27]\n- Singapore GP: Oct 9-11, Round 17 of 23 [story-history.md + official F1]\n- Singapore is first-ever Sprint format at Marina Bay [singaporegp.sg]\n- Sprint worth maximum 8 points [formula1.com]\n- Antonelli started P16 at Baku (qualifying crash), finished P5 [story-history.md 2026-09-27]\n**[MEDIUM confidence]**\n- Youngest champion if clinched at Singapore: 20y2m8d — breaks Vettel 2010 record by ~3 years [story-history.md note; not independently verified]\n**Championship clinch math:**\n- Max Russell can score from Rounds 17–23 (7 races): 7 × 26 = 182 pts + no further sprints\n- For Antonelli to clinch at Singapore (Round 17): need post-Singapore lead > 182 pts\n- Current lead: 66 pts — cannot clinch AT Singapore even in perfect scenario\n- Singapore is the \"statement\" weekend — Antonelli extending lead to ~80+ pts would be significant",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Malaysia GP Race Day — Sepang's Return After Nine Years",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Race day is almost here. 🏎️\n\nF1 returns to Malaysia for the first time since 2017 — the 2026 Bahrain GP at Sepang tips off tomorrow at 03:00 ET.\n\nNine years. One track. Maximum drama. #MalaysiaGP #F1\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MalaysiaGP",
+            "#F1"
+          ],
+          "char_count": 206
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Verstappen led FP1 at Sepang. He's still looking for his first win of 2026.\n\nCan Malaysia finally be the race that ends the drought for the four-time champion?\n\nRace: Sunday, 03:00 ET 🇲🇾 #MalaysiaGP #F1\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MalaysiaGP",
+            "#F1"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-malaysia-gp-sepang-race-day-preview.html",
+        "headline": "Malaysia GP Race Day: F1 Returns to Sepang After Nine Years",
+        "word_count": 632
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Malaysia GP Race Day — Sepang After Nine Years\n**[HIGH confidence]**\n- Malaysia GP official name: \"2026 Bahrain Grand Prix at Sepang\" [story-history.md]\n- Circuit: Sepang International Circuit, 5.543km, 15 corners, 56 laps [story-history.md]\n- Round 16 of 23 [story-history.md]\n- Race: Oct 4, 2026 — Start: 15:00 local / 03:00 ET [story-history.md]\n- Last F1 race at Sepang: 2017 (9-year gap) [story-history.md]\n- FP1 ran Oct 2 (covered in 10-02 pipeline) [pipeline-status.md]\n- Colapinto serving 5-place grid penalty (Baku crash) [story-history.md]\n- Verstappen P2 at Baku, has yet to win in 2026 [story-history.md]\n**[MEDIUM confidence]**\n- Grid positions from FP1 results: Verstappen reportedly led FP1 at Sepang [pipeline-status.md note: \"FP1 Verstappen leads\"]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Verstappen's Title Defense Is Over — Zero Wins in 2026, P6 in Championship",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Max Verstappen has never gone a full F1 season without a race win.\n\nUntil 2026.\n\n15 races in — still zero wins for the four-time champion. This is uncharted territory. 😳 #F1 #Verstappen\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 192
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Verstappen 2026 — by the numbers:\n\n🏆 Race wins: 0\n📍 Championship position: P6\n📉 Gap to Antonelli: 139 points\n\nThe RB22 has been Red Bull's biggest enemy all season. #F1 #RedBull\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#RedBull"
+          ],
+          "char_count": 184
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-verstappen-zero-wins-2026-title-crisis.html",
+        "headline": "Verstappen's Zero-Win 2026: The Crisis That Changed Everything",
+        "word_count": 670
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen — Zero Wins Through 15 Races\n**[HIGH confidence]**\n- Verstappen: 163 pts, P6 championship [standings]\n- Best 2026 result: P2 at Azerbaijan GP [F1 official highlights, formula1.com]\n- P2 Azerbaijan: \"Verstappen did his utmost to try and secure a first victory of 2026\" [racingnews365.com]\n- Russell won Azerbaijan (his 3rd 2026 victory) [racingnews365.com, story-history.md]\n- Red Bull P4 constructors: 263 pts [story-history.md]\n- Four-time champion 2021–2024 [widely known; HIGH]\n**[MEDIUM confidence]**\n- RB22 reportedly 9-10kg overweight [prior session research from deccanherald.com]\n- RB22 struggles in high-speed corners [same source]\n- Verstappen has never previously finished a full F1 season without a win [deccanherald.com headline confirms this context]\n- Hadjar P3 at Baku (Red Bull second car) [formula1.com highlights]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Hamilton Keeping Ferrari's Title Dream Alive at P3",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Lewis Hamilton left Mercedes for Ferrari — and right now, it looks like a master class.\n\nP3 in the 2026 championship with 199 pts. Ferrari P2 in constructors.\n\nThe Prancing Horse is very much alive. 🐴 #F1 #LewisHamilton\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LewisHamilton"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-hamilton-ferrari-p3-championship-keeps-title-alive.html",
+        "headline": "Hamilton's Ferrari Move Is Working: P3 and Keeping the Title Dream Alive",
+        "word_count": 598
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton — Ferrari P3\n**[HIGH confidence]**\n- Hamilton: 199 pts, P3 championship [standings]\n- Leclerc: 179 pts, P5 [standings]\n- Ferrari: P2 constructors, 378 pts [story-history.md]\n- Hamilton moved to Ferrari for 2026 season [widely known; HIGH]\n**[MEDIUM confidence]**\n- Hamilton's performance level described as \"regular top-5 finishes\" — inferred from standings position; not race-by-race verified",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Cadillac F1 — The American Dream at Zero Points After 15 Races",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "15 races into their F1 debut, Cadillac has 0 points.\n\nThe closest they came: Perez finished P10 in Monaco — then lost it to a post-race penalty, dropping to P15.\n\nThe American dream is still alive. Just delayed. 🇺🇸 #CadillacF1\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CadillacF1"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-cadillac-f1-zero-points-american-debut-season.html",
+        "headline": "Cadillac F1's Zero-Point Debut: America's Dream Still Waiting",
+        "word_count": 742
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cadillac — First American F1 Team, Zero Points\n**[HIGH confidence]**\n- Cadillac F1: 0 points after 15 races [formula1.com half-term report, racingnews365.com]\n- Drivers: Valtteri Bottas and Sergio Perez [formula1.com, skysports.com]\n- Bottas best finish: P13 Chinese GP [formula1.com half-term report]\n- Perez best finish: P14 [same source]\n- Perez Monaco: P10 on track → P15 post-race penalty for being out of position on restart [formula1.com]\n- Perez joint-best qualifying: P18 at Monaco [formula1.com]\n- Bottas joint-best qualifying: P18 at Silverstone [formula1.com]\n- Last in constructors (P10 of 10) [standings]\n**[MEDIUM confidence]**\n- \"First American F1 constructor in the modern era\" — Cadillac joined as 11th team entry for 2026; context of American teams: Haas is American-owned but uses Italian infrastructure; Cadillac considered first US-based full constructor [widely cited in F1 coverage]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
