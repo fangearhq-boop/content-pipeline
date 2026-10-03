@@ -2,6 +2,61 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-10-03
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-03 | T1 | Tom Kim Wins Asian Games Gold — Military Exemption Secured | X(2), FB, Article | NEW |
+| 2026-10-03 | T1 | Bank of Utah Championship: Smotherman Leads Moving Day at -17 | X(2), FB, Article | FOLLOW UP |
+| 2026-10-03 | T1 | LIV Golf Player Deadline — 15 Days to Decide on LIV 2.0 | X(1), FB, Article | FOLLOW UP |
+| 2026-10-03 | T2 | Sergio Garcia's Ryder Cup Career Appears Over After LIV Exit Filing | X(1), FB, Article | FOLLOW UP |
+| 2026-10-03 | T2 | Scheffler World No. 1 — FedEx Cup Won, Fall Season Underway | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Tom Kim Asian Games Gold
+- **Date:** 2026-10-03
+- **Tier:** 1
+- **Category:** International Golf / South Korea / Asian Games / Military Service
+- **Key facts:** Tom Kim shot 64 (5 birdies, 1 eagle) in final round; 18-under total; won by 3 strokes; runners-up Kazuki Higa/Ding Wenyi/Sadom Kaewkanjana tied; 24 years old; secured exemption from South Korea's mandatory 18-21 month military service; Tiger Woods sent inspirational message pre-round; "It's a crazy feeling" quote; tournament at Kasugai Country Club East Course, Japan
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+- **Follow-up ideas:** Kim's 2026 PGA Tour fall schedule, impact on South Korean golf
+
+### STORY 2: Bank of Utah Championship — Smotherman Leads Moving Day
+- **Date:** 2026-10-03
+- **Tier:** 1
+- **Category:** PGA Tour / Bank of Utah Championship / FedEx Cup Fall / Black Desert Resort
+- **Key facts:** Austin Smotherman leads at -17 after rounds 63-62 (career-low 62 in R2); Kevin Roy 1 back at -16; paired together in final group Saturday; shared flight to Utah; tournament Oct 1-4 at Black Desert Resort, Ivins UT; $5M purse; 500 FedExCup points; final round Sunday Oct 4
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Final round Sunday results Oct 4
+
+### STORY 3: LIV Golf Player Deadline — Oct 18
+- **Date:** 2026-10-03
+- **Tier:** 1
+- **Category:** LIV Golf / Bankruptcy / LIV 2.0 / BC Partners / Player futures
+- **Key facts:** Oct 18 deadline for players to commit to LIV 2.0; BC Partners backing 10 events in 2027 (5 intl, 5 US); LIV filed Chapter 11 Sept 8 (liabilities $500M-$1B, assets $100M-$500M); PIF spent ~$6B since 2022; Jon Rahm leads standings 1057.54 pts; DeChambeau 2nd 788.70 pts; Niemann 3rd; season finale Michigan cancelled; Rahm and Hatton linked to departures; LIV stars warned PGA Tour return 2027 "remote"
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Oct 18 player decisions; BC Partners finalization
+
+### STORY 4: Sergio Garcia — Ryder Cup Future
+- **Date:** 2026-10-03
+- **Tier:** 2
+- **Category:** Sergio Garcia / LIV Golf / Ryder Cup / DP World Tour
+- **Key facts:** Garcia filed explicit termination motion (not rejection) in NJ bankruptcy court Oct 1-2; wants DP World Tour 2027; SI.com "Ryder Cup career appears to be over"; 46 years old; 2017 Masters champion; played 10 Ryder Cups, most in history; holds record for most Ryder Cup points; 9-figure LIV deal; LIV Australia venue also filed unpaid claim; Fireballs GC
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Bankruptcy court ruling; DP World Tour 2027 plans; Adare Manor Ryder Cup 2027
+
+### STORY 5: Scheffler FedEx Cup / World No. 1
+- **Date:** 2026-10-03
+- **Tier:** 2
+- **Category:** Scottie Scheffler / World Rankings / FedEx Cup / PGA Tour Fall
+- **Key facts:** Scheffler won 2026 FedEx Cup; $30,937,524 earnings; McIlroy $11,573,749; 3 wins, 13 top-10 finishes; world No. 1 for 175+ weeks career; rankings: No. 1 Scheffler, No. 2 McIlroy, No. 3 Cameron Young; FedEx Cup Fall underway
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Scheffler fall schedule; Cameron Young continued rise
+
 ## 2026-10-01
 
 | Date | Tier | Title | Platforms | Status |
