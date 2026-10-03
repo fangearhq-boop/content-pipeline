@@ -1,0 +1,168 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-03",
+  "compiled_at": "2026-10-03T10:54:56.791224+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 3 — White Sox ALDS Game 1",
+      "type": "X, FB"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 — Judge ALDS Watch",
+      "type": "X, FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 5 — Jackson Merrill",
+      "type": "X, FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 1 — Ohtani NLDS Debut",
+      "type": "X, FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 4 — Braves at Dodger Stadium",
+      "type": "X"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "Story 1 — Ohtani/Dodgers recap",
+      "type": "X, FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Ohtani Opens NLDS on the Mound — His First Career Playoff Pitching Start",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-01-ohtani-nlds-pitching-debut.html",
+        "headline": "Shohei Ohtani Makes His First Career Postseason Pitching Start in NLDS Game 1",
+        "word_count": 760
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Judge Watch — Yankees Captain Targets ALDS Activation for Game 1 vs. Rays",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-02-aaron-judge-alds-status.html",
+        "headline": "Will Aaron Judge Play Tonight? Yankees Face ALDS Game 1 Decision",
+        "word_count": 638
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "White Sox Walk Into Their First ALDS Since 2008 — Game 1 Today at 1 PM",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-03-white-sox-alds-game-1.html",
+        "headline": "From 121 Losses to the ALDS: White Sox Open at Cleveland Today",
+        "word_count": 703
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "The Braves Survived Philly — Now They Walk Into Dodger Stadium",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-04-braves-dodgers-nlds-game-1.html",
+        "headline": "Sale vs. Ohtani: The Braves Survived Philly and Now Face the Dodgers in NLDS Game 1",
+        "word_count": 741
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Jackson Merrill Is Ready for His Close-Up — Padres' Young Star in the NLDS",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-05-jackson-merrill-padres-nlds.html",
+        "headline": "Jackson Merrill's Biggest Moment: Padres Open NLDS Against the Brewers Tonight",
+        "word_count": 702
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 0,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No X/Twitter posts found",
+      "Story 1: No Facebook posts found",
+      "Story 1: No posting window specified",
+      "Story 2: No X/Twitter posts found",
+      "Story 2: No Facebook posts found",
+      "Story 2: No posting window specified",
+      "Story 3: No X/Twitter posts found",
+      "Story 3: No Facebook posts found",
+      "Story 3: No posting window specified",
+      "Story 4: No X/Twitter posts found",
+      "Story 4: No Facebook posts found",
+      "Story 4: No posting window specified",
+      "Story 5: No X/Twitter posts found",
+      "Story 5: No Facebook posts found",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
