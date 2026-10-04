@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-10-04 (OFF DAY — Day 3 post-elimination; NLDS Game 2 today; 5 significant_findings applied)
+
+### STORY 1: Brewers NLDS Game 1 Recap — Brewers 3, Padres 2
+- **Angle:** NEW STORY (Brewers beat Padres 3-2 in NLDS Game 1 Saturday; Dodgers beat Braves 5-3; both Game 2s today — Brewers/Padres 4 PM CT, Braves/Dodgers 8 PM CT; per game_final insight, opened with "Brewers 3, Padres 2.")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, morning recap/informative)
+- **Follow-Up Opportunities:**
+  - Brewers NLDS Game 2 result
+  - Series updates as NLDS progresses
+
+### STORY 2: Cubs Rotation Rebuild — Entire 2026 Rotation Is Gone
+- **Angle:** NEW STORY (Gausman FA, Boyd $2M buyout, Holmes opting out, Peterson FA; Hoyer builds rotation from scratch; per transaction-loser insight, framed as bold analysis not transaction list; opened with "Gausman: FA. Boyd: $2M buyout.")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, bold take/analysis)
+- **Follow-Up Opportunities:**
+  - Boyd option decision announcement (~Oct 5)
+  - Holmes option decision
+  - Gausman free agency news
+  - Cubs rotation free agent signings
+
+### STORY 3: Cardinals Teardown — Donovan on the Block
+- **Angle:** NEW STORY (Cardinals in full Bloom-backed teardown; three straight Octobers watching; Brendan Donovan potentially next to be moved; per brand-voice rival-jab tone; opened with "Brendan Donovan could be the next Cardinal out the door.")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, rival watch/humor)
+- **Follow-Up Opportunities:**
+  - Donovan trade announcement
+  - Cardinals offseason moves
+  - NL Central outlook with Cardinals rebuilding
+
+### STORY 4: NLDS Game 2 Tonight — Braves at Dodgers, 8:00 PM CT
+- **Angle:** NEW STORY (NLDS Game 2; Braves @ Dodgers 8 PM CT main event; Brewers/Padres earlier at 4 PM CT; Cubs watching from home, rooting against Padres; per evening_18_24 WINNER insight placed in 6:30 PM CT slot)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, playoff watch/fan energy)
+- **Follow-Up Opportunities:**
+  - NLDS Game 2 results (both series)
+  - NLDS series updates through completion
+
+---
+
 ## 2026-09-30 (WCS Game 2 Night — Cubs trail Padres 1-0 in best-of-3; Gausman vs. Pivetta at Petco Park, 9:00 PM CT. No significant insights today — brand voice defaults applied.)
 
 ### STORY 1: WCS Game 1 Recap — Padres 8, Cubs 0
