@@ -2,6 +2,48 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-04
+
+### STORY 1: LeBron James 76ers Preseason Debut Eve
+- **Tier:** 1
+- **Category:** Philadelphia 76ers / LeBron James / Preseason
+- **Key facts:** LeBron enters 24th season (record); first official preseason game Oct. 5 vs. Knicks 7 PM ET; open scrimmage drew ~10,000 fans; projected lineup: LeBron, Embiid, Brown, Maxey, Edgecombe; Knicks Banner Night opener Oct. 20 at MSG
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Oct. 5 game recap, LeBron performance
+
+### STORY 2: Warriors Fall to Clippers in Hawaii Preseason Opener
+- **Tier:** 1
+- **Category:** Golden State Warriors / LA Clippers / Preseason / Hawaii
+- **Key facts:** Game at Stan Sheriff Center, Honolulu; new Clippers: Brandon Ingram + Gradey Dick (from Toronto), Rui Hachimura (from Lakers), Max Strus (from Cleveland); Porzingis doubtful (undisclosed, mid-Oct return); Moses Moody (knee) out; Warriors camp at BYU-Hawaii
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** More preseason games, Porzingis return timeline
+
+### STORY 3: Kyrie Irving "No Restrictions" for 2026-27 Return
+- **Tier:** 1
+- **Category:** Dallas Mavericks / Kyrie Irving / ACL Recovery
+- **Key facts:** Tore ACL March 2025; missed entire 2025-26 season; "No restrictions" heading into preseason; praised in summer pickup games; preseason target: Macao games vs. Rockets
+- **Byline:** Damon Pierce
+- **Status:** NEW
+- **Follow-up ideas:** Preseason debut performance, first game back
+
+### STORY 4: Tyrese Haliburton First Game in 16 Months — Oct. 7
+- **Tier:** 2
+- **Category:** Indiana Pacers / Tyrese Haliburton / Achilles Recovery
+- **Key facts:** Tore Achilles Game 7 2025 Finals; not played since June 2025 (~16 months); Oct. 7 preseason return target; carefully managed return
+- **Byline:** Jake Torres
+- **Status:** NEW
+- **Follow-up ideas:** Oct. 7 game report, how he looks on return
+
+### STORY 5: NBA Preseason Sunday Roundup — Oct. 4
+- **Tier:** 2
+- **Category:** NBA Preseason / Multiple Teams
+- **Key facts:** Thunder beat Nuggets; Lakers edge Kings; Warriors vs Clippers in Hawaii; multiple neutral site games; regular season opens Oct. 20
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** Monday preseason slate
+
 ## 2026-10-01
 
 ### STORY 1: Jalen Duren Deadline Day — Pistons Contract or QO?
