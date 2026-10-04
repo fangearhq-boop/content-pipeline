@@ -2,6 +2,61 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-10-04
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-04 | T1 | Austin Smotherman Wins Bank of Utah Championship — First Career PGA Tour Victory | X(2), FB, Article | FOLLOW UP |
+| 2026-10-04 | T1 | Jeeno Thitikul Leads LOTTE Championship Final Round — Three Shots Clear in Hawaii | X(2), FB, Article | FOLLOW UP |
+| 2026-10-04 | T1 | LIV Golf Bankruptcy — Player Deadline Nine Days Away (Oct 13) | X(1), FB, Article | FOLLOW UP |
+| 2026-10-04 | T2 | Jon Rahm Is LIV Golf's Largest Unsecured Creditor — $7.47M Claim | X(1), FB, Article | FOLLOW UP |
+| 2026-10-04 | T2 | Scottie Scheffler Holds World No. 1 — 175-Plus Weeks at the Top | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: Austin Smotherman Wins Bank of Utah Championship
+- **Date:** 2026-10-04
+- **Tier:** 1
+- **Category:** PGA Tour / Bank of Utah Championship / Austin Smotherman / First Win / Black Desert Resort
+- **Key facts:** Smotherman wins at 17-under par; Kevin Roy second at 16-under; first career PGA Tour victory; Black Desert Resort Golf Course, Ivins, Utah; Oct 1-4, 2026; $6M purse; defending champion Michael Brennan
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Smotherman's next events, fall schedule impact
+
+### STORY 2: Jeeno Thitikul Leads LOTTE Championship Final Round
+- **Date:** 2026-10-04
+- **Tier:** 1
+- **Category:** LPGA Tour / LOTTE Championship / Jeeno Thitikul / Hawaii / Final Round
+- **Key facts:** Thitikul at 17-under after 54 holes, 3-shot lead over Ina Yoon and Polly Mack (both 14-under); third round 67; seeking fourth LPGA Tour win of 2026; Hoakalei Country Club, Ewa Beach, Hawaii; final round Oct 4
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Final result, Player of the Year implications
+
+### STORY 3: LIV Golf Bankruptcy — Player Deadline Oct 13
+- **Date:** 2026-10-04
+- **Tier:** 1
+- **Category:** LIV Golf / Bankruptcy / LIV 2.0 / BC Partners / Player Futures / Deadline
+- **Key facts:** Oct 13 deadline (35 days from Sept 8 Chapter 11 filing); BC Partners $300M deal; 50% player count + 2/3 claim value required; LIV 2.0 = players as majority owners, 10 events 2027, commercial rights restored; DeChambeau undecided; Rahm and Hatton linked to departures
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Oct 13 player decisions
+
+### STORY 4: Jon Rahm — $7.47M LIV Bankruptcy Creditor
+- **Date:** 2026-10-04
+- **Tier:** 2
+- **Category:** Jon Rahm / LIV Golf / Bankruptcy / Legion XIII / Player Finances
+- **Key facts:** Rahm listed as largest unsecured creditor at $7,472,527.47 under Player Participation Agreement; signed reported $300M deal in 2023; Legion XIII team: Rahm, Hatton, McKibbin, Surratt, Rottluff; Rahm led 2026 LIV individual standings (1,057.54 pts)
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Oct 13 Rahm decision
+
+### STORY 5: Scottie Scheffler World No. 1 — 175-Plus Weeks
+- **Date:** 2026-10-04
+- **Tier:** 2
+- **Category:** Scottie Scheffler / World Rankings / PGA Tour / FedEx Cup Fall / OWGR
+- **Key facts:** Scheffler OWGR 14.21 pts (No. 1); McIlroy 9.84 pts (No. 2); Cameron Young No. 3; 175+ career weeks at No. 1; FedEx Cup champion 2026; $30,937,524 earnings; 3 wins, 13 top-10s; FedEx Cup Fall underway
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Fall season results, OWGR updates
+
 ## 2026-10-03
 
 | Date | Tier | Title | Platforms | Status |
