@@ -1,0 +1,196 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-04",
+  "compiled_at": "2026-10-04T12:02:50.045406+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Verstappen Wins Malaysia — First F1 Win of 2026 in Dramatic Rain Race",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Max Verstappen. 16 rounds. Zero wins in 2026.\n\nThen Malaysia happened.\n\nP1 in a rain-soaked, safety car-filled, chaotic GP. The King is back. 👑\n\n#F1 #MaxVerstappen #MalaysiaGP\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": ["#F1", "#MaxVerstappen", "#MalaysiaGP"],
+          "char_count": 182
+        },
+        {
+          "label": "Post 1-2",
+          "text": "MALAYSIA GP RESULT:\n\nP1 Verstappen\nP2 Antonelli\nP3 Hamilton (+18 places in the race 🤯)\nP4 Leclerc\nP5 Hadjar\n\nGeorge Russell: retired behind the safety car.\n\nSeason-defining chaos. #F1\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": ["#F1"],
+          "char_count": 190
+        }
+      ],
+      "facebook": {"long_form": "", "image_caption": "", "posting_time": ""},
+      "article": {
+        "filename": "article-01-verstappen-wins-malaysia-first-win-2026.html",
+        "headline": "Verstappen Wins Malaysia — First F1 Victory of 2026 in Dramatic Rain Race",
+        "word_count": 552
+      },
+      "image_concepts": [{"label": "Image", "raw": "Verstappen Wins Malaysia\n\n**Image Concept 1A — Social (1080x1350)**\n- **Type:** imagn\n- **Search term:** Max Verstappen Red Bull Racing"}],
+      "fact_check": null,
+      "research": {"facts": "Verstappen P1, Antonelli P2 (+2.307s), Hamilton P3 (+4.919s), Leclerc P4 (+7.258s), Hadjar P5 (+8.571s). Russell DNF.", "sources": "Sky Sports, RaceFans.net, GPFans, PlanetF1"}
+    },
+    {
+      "story_num": 2,
+      "title": "Russell Retires in Malaysia — Title Gap Widens to 84 Points",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "George Russell retires in Malaysia behind the safety car.\n\nKimi Antonelli finishes second.\n\nTitle gap: 84 POINTS. 7 rounds left.\n\nThis title race is over. #F1 #GeorgeRussell\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": ["#F1", "#GeorgeRussell"],
+          "char_count": 180
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The brutal Malaysia math for Russell:\n\nBefore: Antonelli +66\nAfter: Antonelli +84\n\n7 rounds left. Max remaining for Russell: ~183 pts.\n\nHe needs Antonelli to implode. It's not looking good. #F1\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": ["#F1"],
+          "char_count": 200
+        }
+      ],
+      "facebook": {"long_form": "", "image_caption": "", "posting_time": ""},
+      "article": {
+        "filename": "article-02-russell-retirement-malaysia-title-gap-84-points.html",
+        "headline": "Russell Retires in Malaysia — Title Gap Grows to 84 Points with 7 Rounds Left",
+        "word_count": 482
+      },
+      "image_concepts": [{"label": "Image", "raw": "Russell Retires — Title Gap Widens"}],
+      "fact_check": null,
+      "research": {"facts": "Antonelli 320 pts, Russell 236 pts, gap 84 pts, 7 rounds remaining.", "sources": "Sky Sports, RaceFans.net, GPFans"}
+    },
+    {
+      "story_num": 3,
+      "title": "Hamilton's Stunning P3 Comeback from P18 in Malaysia",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Ferrari dropped Lewis Hamilton to P18 with a tyre strategy gamble in Malaysia.\n\nHe finished THIRD.\n\nFrom 18th to the podium in a rain-hit Grand Prix.\n\nSeven-time world champion, ladies and gentlemen. #F1 #LewisHamilton\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": ["#F1", "#LewisHamilton"],
+          "char_count": 225
+        }
+      ],
+      "facebook": {"long_form": "", "image_caption": "", "posting_time": ""},
+      "article": {
+        "filename": "article-03-hamilton-p18-to-p3-comeback-malaysia-ferrari.html",
+        "headline": "Hamilton's P18-to-P3 Comeback Is One of the Drives of the 2026 Season",
+        "word_count": 490
+      },
+      "image_concepts": [{"label": "Image", "raw": "Hamilton P3 Comeback"}],
+      "fact_check": null,
+      "research": {"facts": "Hamilton P3 from P18. Ferrari strategy gamble backfired. Leclerc P4 double podium.", "sources": "Sky Sports, GPFans, PlanetF1"}
+    },
+    {
+      "story_num": 4,
+      "title": "Championship Math After Malaysia — Antonelli 84 Clear with 7 to Go",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "F1 Championship — after Malaysia:\n\nKimi Antonelli: 320 pts 🔵\nGeorge Russell: 236 pts\n\nGap: 84 points.\n\nSingapore Sprint next weekend. The title race clock is ticking. #F1\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": ["#F1"],
+          "char_count": 177
+        },
+        {
+          "label": "Post 4-2",
+          "text": "Kimi Antonelli could become F1's youngest world champion.\n\nHe's 20. He leads by 84 points. 7 rounds left.\n\nSingapore Sprint is in 5 DAYS. #F1 #KimiAntonelli\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": ["#F1", "#KimiAntonelli"],
+          "char_count": 163
+        }
+      ],
+      "facebook": {"long_form": "", "image_caption": "", "posting_time": ""},
+      "article": {
+        "filename": "article-04-antonelli-championship-math-84-points-clear.html",
+        "headline": "Antonelli 84 Points Clear After Malaysia — The Title Is in His Hands",
+        "word_count": 473
+      },
+      "image_concepts": [{"label": "Image", "raw": "Championship Math"}],
+      "fact_check": null,
+      "research": {"facts": "Antonelli 320, Russell 236, gap 84, 7 rounds left. Max remaining ~183 pts.", "sources": "Calculated from race results"}
+    },
+    {
+      "story_num": 5,
+      "title": "Singapore Sprint Preview — First-Ever Sprint at Marina Bay",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "5 days until the F1 Singapore Sprint.\n\nFirst-ever Sprint weekend at Marina Bay. 🌃\n\nWith Antonelli 84 points clear, the night race stakes just got higher.\n\nOct 9-11. #F1 #SingaporeGP\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": ["#F1", "#SingaporeGP"],
+          "char_count": 188
+        }
+      ],
+      "facebook": {"long_form": "", "image_caption": "", "posting_time": ""},
+      "article": {
+        "filename": "article-05-singapore-gp-sprint-preview-marina-bay.html",
+        "headline": "Singapore Sprint Preview — First-Ever Sprint at Marina Bay in a Title Race That Just Got Real",
+        "word_count": 487
+      },
+      "image_concepts": [{"label": "Image", "raw": "Singapore Sprint Preview"}],
+      "fact_check": null,
+      "research": {"facts": "Singapore GP: Round 17, Oct 9-11. First sprint at Marina Bay. 4.927km, 19 turns, 62 laps. Sprint 21 laps.", "sources": "Formula1.com, RacingNews365"}
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
