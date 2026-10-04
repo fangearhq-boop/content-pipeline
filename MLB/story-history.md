@@ -8446,3 +8446,107 @@ Each day's stories are appended at the top (newest first).
 - **Follow-Up Opportunities:**
   - Phillies-Braves Game 3 result (Oct 1 tonight)
   - ALDS/NLDS previews
+
+## Run: 2026-10-02
+
+### Story 1: Braves Eliminate Phillies 6-2 in Game 3 — Advance to NLDS vs. Dodgers
+- **Date:** 2026-10-02
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Phillies-Braves Wild Card; previously covered Phillies comeback in Game 2 Oct. 1)
+- **Angle:** Atlanta eliminated Philadelphia 6-2 in Wild Card Game 3 at Truist Park. Michael Harris II hit a three-run HR in the first inning, burying the Phillies early. Braves snapped a 6-game winner-take-all losing streak. Now face the defending champion Dodgers in the NLDS starting Saturday.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - NLDS Dodgers vs. Braves Game 1 (Oct. 3)
+  - Braves momentum/roster health heading in
+
+### Story 2: Division Series Bracket Set — Four NLDS/ALDS Matchups Begin Saturday
+- **Date:** 2026-10-02
+- **Tier:** 1
+- **Classification:** NEW STORY (complete DS bracket overview)
+- **Angle:** All four Division Series matchups now confirmed: ALDS — Yankees vs. Rays, White Sox vs. Guardians; NLDS — Dodgers vs. Braves, Brewers vs. Padres. Four games on Saturday Oct. 3. Most condensed DS opening in recent memory.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - All four Game 1 results (Oct. 3)
+  - Series previews/predictions
+
+### Story 3: White Sox ALDS Preview — AL's Cinderella Story Faces Guardians
+- **Date:** 2026-10-02
+- **Tier:** 2
+- **Classification:** FOLLOW UP (White Sox Wild Card sweep covered Oct. 1)
+- **Angle:** White Sox vs. Guardians ALDS preview. AL Central showdown — rested Guardians vs. surging White Sox with momentum from first playoff series win since 2005. From 121 losses (2024) to ALDS contenders (2026). Colson Montgomery, Munetaka Murakami lead young roster.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - ALDS Game 1 result (Oct. 3)
+  - White Sox lineup/pitching rotation updates
+
+### Story 4: Aaron Judge Targeting ALDS Return — Yankees vs. Rays Starts Saturday
+- **Date:** 2026-10-02
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Judge injury tracked since Wild Card; return timeline)
+- **Angle:** Aaron Judge targeting ALDS return for Yankees vs. Rays. Judge out with right calf soleus strain (suffered before postseason). Ben Rice stepped up with multiple HRs in Wild Card sweep. Yankees 18-2 combined over two Wild Card games without their captain. Rays matchup begins Oct. 3.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Judge activation decision for ALDS
+  - Yankees vs. Rays Game 1 result (Oct. 3)
+
+### Story 5: Padres vs. Brewers NLDS Preview — First-Ever Postseason Meeting
+- **Date:** 2026-10-02
+- **Tier:** 2
+- **Classification:** NEW STORY (first-ever postseason matchup preview)
+- **Angle:** First-ever postseason meeting between San Diego and Milwaukee. Padres swept Cubs in Wild Card, have recent October pedigree. Brewers earned bye with NL's best record. Pitching-first Milwaukee identity vs. Padres lineup with experienced October players. Game 1 Saturday Oct. 3.
+- **Content Produced:** Article (article-05, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - NLDS Game 1 result (Oct. 3)
+  - Series pitching matchup analysis
+
+## Run: 2026-10-04
+
+### Story 1: Division Series Day 1 — All Four Game 1 Winners Lead 1-0
+- **Date:** 2026-10-04
+- **Tier:** 1
+- **Classification:** NEW STORY (DS Day 1 comprehensive Game 1 results)
+- **Angle:** All four Division Series openers on Oct. 3: White Sox 3, Guardians 0 (ALDS); Rays 1, Yankees 0 (ALDS); Dodgers 5, Braves 3 (NLDS); Brewers 3, Padres 2 (NLDS). Four underdogs/surprises — White Sox (121 losses in 2024), Rays (without Judge), Brewers (small market) all lead. Dodgers repeat bid on track. Game 2s today Oct. 4.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - All four Game 2 results (Oct. 4)
+  - Series momentum analysis
+
+### Story 2: White Sox Blank Guardians 3-0 in ALDS Game 1 — Cinderella Run Continues
+- **Date:** 2026-10-04
+- **Tier:** 1
+- **Classification:** FOLLOW UP (White Sox ALDS Preview covered Oct. 2)
+- **Angle:** White Sox def. Guardians 3-0, ALDS Game 1 (Oct. 3). No team in MLB history lost 100+ games three consecutive seasons and then won in October — the White Sox did both. Munetaka Murakami leads young core (7 of 9 starters under 2 years MLB experience). White Sox clinched playoff spot Sept. 24 with win over Royals.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - ALDS Game 2 result (Oct. 4)
+  - White Sox pitching/lineup updates
+
+### Story 3: Rays Edge Yankees 1-0 Without Judge — Tampa Bay Takes ALDS Game 1
+- **Date:** 2026-10-04
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Aaron Judge ALDS Return Timeline covered Oct. 2)
+- **Angle:** Rays 1, Yankees 0 (ALDS Game 1, Oct. 3). Aaron Judge unavailable (right calf strain before postseason; had missed May 31–Sept 8 with fractured rib). Yankees manager Aaron Boone confirmed Judge would miss the Wild Card round entirely. Rays needed only one run to take Game 1 from a shorthanded Yankees lineup.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - ALDS Game 2 result (Oct. 4)
+  - Aaron Judge activation update for Game 2+
+
+### Story 4: Dodgers Beat Braves 5-3 in NLDS Game 1 — LA Title Defense Begins
+- **Date:** 2026-10-04
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Division Series Bracket Set Oct. 2; Braves advanced from Wild Card)
+- **Angle:** Dodgers 5, Braves 3 (NLDS Game 1, Oct. 3). Defending champions take early 1-0 series lead. Braves arrived with Wild Card momentum (eliminated Phillies 6-2 in Game 3). Dodgers absorbed that and returned a controlled five-run performance. Braves beat LA in 2021 NLCS before winning WS; Dodgers now defend title against that same rival.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - NLDS Game 2 result (Oct. 4)
+  - Braves pitching response analysis
+
+### Story 5: Brewers Hold Off Padres 3-2 in NLDS Game 1 — Milwaukee's October Continues
+- **Date:** 2026-10-04
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Padres vs. Brewers NLDS Preview covered Oct. 2)
+- **Angle:** Brewers 3, Padres 2 (NLDS Game 1, Oct. 3). Milwaukee wins as road underdog in first-ever postseason matchup. Small-market, pitching-forward Brewers identity holds up in tight October contest. Padres (home team with recent playoff experience) lose Game 1 on their own turf; need a Game 2 win to avoid falling into 2-0 hole going to Milwaukee.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - NLDS Game 2 result (Oct. 4)
+  - Brewers momentum vs. Padres response

@@ -3030,3 +3030,55 @@ _This file tracks every story covered, the angle used, content produced, and fol
 - **Follow-Up Opportunities:**
   - Transfer portal updates (October signing window)
   - Oregon, Louisiana fall game results
+
+## Run: 2026-10-04
+
+### Story 1: Japan Wins 7th Consecutive Asian Games Gold — Blanks China 7-0 in Final
+- **Date:** 2026-10-04
+- **Tier:** 1
+- **Classification:** NEW STORY (Asian Games Final; previously covered semis Oct. 1 and 3)
+- **Angle:** Japan defeated China 7-0 in the Asian Games Softball Final at Anjō Sports Park, claiming their 7th consecutive Asian Games gold medal. Miu Goto threw 5 scoreless innings with 7 strikeouts. Rei Fujimoto drove in the walk-off run. Chinese Taipei defeated South Korea 12-2 for bronze. Japan now holds a perfect 25-0 all-time Asian Games softball record. Major LA28 Olympic qualifying significance.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 3 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - LA28 Olympic qualifying events (Asia region)
+  - Japan national team exhibition schedule
+
+### Story 2: Oklahoma Sooners Open Fall With Tarleton State — Kendall Wells Healthy, Sydney Berzon Arrives
+- **Date:** 2026-10-04
+- **Tier:** 2
+- **Classification:** FOLLOW UP (OU Battle Series Oct. 4 vs. Tarleton State; previous Oct. 1 opener cancelled)
+- **Angle:** OU's fall Battle Series continues with Tarleton State on Oct. 4 after Oct. 1 opener was cancelled by lightning. Key storylines: Kendall Wells returning healthy (holds 39-HR NCAA single-season record), Sydney Berzon arrived as 2x All-American transfer from LSU. Full Battle Series schedule: Oct. 7, 14, 21 at Love's Field.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Battle Series Oct. 7, 14, 21 results
+  - Wells and Berzon performance updates
+
+### Story 3: Tennessee Fall Ball 2-0 — Mardjetko and Nuwer Lead Top-Ranked Staff
+- **Date:** 2026-10-04
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Tennessee fall ball; previously tracked in general fall roundup)
+- **Angle:** Tennessee opened fall 2-0 with its elite pitching staff. Karlyn Mardjetko (16-3, 1.26 ERA, 171 K in 2026) and Payton Nuwer (15-1, 1.01 ERA, 90 K) both looked sharp. Tennessee made four straight WCWS semifinal appearances. Program building toward 2027 WCWS run.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Tennessee fall schedule continuation
+  - 2027 season preview
+
+### Story 4: Texas Tech Fall Opener — Seven All-Americans, No. 1 2028 Recruiting Class
+- **Date:** 2026-10-04
+- **Tier:** 3
+- **Classification:** FOLLOW UP (TTU fall Oct. 3 vs. West Texas A&M; previously covered as upcoming)
+- **Angle:** Texas Tech opened fall at Tracy Sellers Field with 7 All-Americans on roster. Haley Beachum (FSU transfer) .406/.10 HR/69 RBI in 2026. TTU tied for No. 1 in 2028 recruiting class with OU after landing Makenzie Thomas and Khloe Williams. Next: Oct. 11 at WTA&M.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - TTU fall schedule continuation (Oct. 11 at WTA&M, Oct. 18 New Mexico DH, Oct. 24 Odessa College)
+  - 2028 recruiting class developments
+
+### Story 5: Big 12 Fall Ball Week 2 Roundup — Texas 28-1, Transfer Portal 250+ Active
+- **Date:** 2026-10-04
+- **Tier:** 3
+- **Classification:** NEW STORY (comprehensive Big 12 fall roundup; individual programs covered separately)
+- **Angle:** Texas opened fall 28-1, dominating early action. OU active with Wells + Berzon; TTU with 7 All-Americans. Tennessee 2-0 outside Big 12. Transfer portal: ON3 tracking 250+ active entries for the October transfer window. Big 12 continues to dominate with depth of October exhibition action.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Big 12 fall schedule week 3 results
+  - Transfer portal November signing window
