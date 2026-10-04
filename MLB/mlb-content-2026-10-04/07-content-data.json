@@ -1,0 +1,21 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-04",
+  "compiled_at": "2026-10-04T10:58:33.092704+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": ["x_twitter", "facebook"],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "stories": [
+    {"story_num": 1, "title": "Division Series Opens — White Sox, Rays, Dodgers, Brewers All Win Game 1", "article": {"filename": "article-01-division-series-day1-all-four-game1-results.html", "headline": "2026 Division Series Day 1: White Sox, Rays, Dodgers and Brewers Each Win Game 1", "word_count": 574}},
+    {"story_num": 2, "title": "White Sox Blank Guardians in ALDS Game 1 — Cinderella Run Continues", "article": {"filename": "article-02-white-sox-alds-game1-guardians-turnaround.html", "headline": "White Sox Blank Guardians 3-0 in ALDS Game 1: From 121 Losses to October Wins", "word_count": 518}},
+    {"story_num": 3, "title": "Rays Edge Yankees 1-0 Without Judge — Tampa Bay Takes ALDS Game 1", "article": {"filename": "article-03-rays-yankees-alds-game1-judge-injury.html", "headline": "Rays Edge Yankees 1-0 in ALDS Game 1 as Judge Remains Sidelined", "word_count": 546}},
+    {"story_num": 4, "title": "Dodgers Beat Braves 5-3 in NLDS Game 1 — LA Defends Title Bid Begins", "article": {"filename": "article-04-dodgers-braves-nlds-game1-la-leads.html", "headline": "Dodgers Beat Braves 5-3 in NLDS Game 1, Take Early Series Lead in Title Defense", "word_count": 498}},
+    {"story_num": 5, "title": "Brewers Hold Off Padres 3-2 in NLDS Game 1 — Milwaukee's October Continues", "article": {"filename": "article-05-brewers-padres-nlds-game1-milwaukee-leads.html", "headline": "Brewers Hold Off Padres 3-2 in NLDS Game 1, Milwaukee Takes 1-0 Series Lead", "word_count": 436}}
+  ],
+  "pipeline_stats": {"total_stories": 5, "x_posts_count": 7, "facebook_posts_count": 5, "articles_count": 5, "image_concepts_count": 9}
+}
