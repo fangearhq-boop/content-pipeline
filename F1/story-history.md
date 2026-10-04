@@ -2,6 +2,48 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-04
+
+### STORY 1: Verstappen Wins Malaysia — First Win of 2026
+- **Tier:** 1
+- **Category:** F1 / Max Verstappen / Malaysia GP / Race Result / Rain Race
+- **Key facts:** Verstappen P1 first win of 2026 season; race at Sepang (Gulf Air Bahrain GP in Malaysia); torrential rain, delayed start, power unit faults, multiple safety cars; full podium: Verstappen, Antonelli (+2.307s), Hamilton (+4.919s from P18), Leclerc (+7.258s), Hadjar (+8.571s); Russell DNF (stopped behind safety car)
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+- **Follow-up ideas:** Singapore race preview, Verstappen post-win interview
+
+### STORY 2: Russell Retires — Title Gap Widens to 84 Points
+- **Tier:** 1
+- **Category:** F1 / George Russell / Title Race / Retirement / Championship
+- **Key facts:** Russell stopped behind safety car in closing stages; Antonelli P2 collects 18 pts; new standings: Antonelli 320, Russell 236, gap 84 pts (was 66); 7 rounds remaining; max remaining for Russell ~183 pts
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Singapore result, mathematical clinch scenarios
+
+### STORY 3: Hamilton P18 to P3 — Comeback Drive in Malaysia
+- **Tier:** 2
+- **Category:** F1 / Lewis Hamilton / Ferrari / Malaysia GP / Comeback
+- **Key facts:** Ferrari strategy gamble dropped Hamilton to P18; fought back to P3; Leclerc P4 — Ferrari double podium; strategy gamble: early pit for inter tyres during safety car, emerged in traffic
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** Ferrari Singapore strategy, Hamilton confidence heading to Marina Bay
+
+### STORY 4: Championship Math — Antonelli 84 Points Clear
+- **Tier:** 1
+- **Category:** F1 / Kimi Antonelli / Championship / Title Race
+- **Key facts:** Antonelli 320 pts, Russell 236 pts, gap 84 pts; 7 rounds remaining; Singapore Sprint next (Oct 9-11); Singapore adds 8 Sprint pts; Antonelli could become youngest champion at 20 years old
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Singapore clinch scenarios, exact math for title
+
+### STORY 5: Singapore Sprint Preview — First Sprint at Marina Bay
+- **Tier:** 2
+- **Category:** F1 / Singapore Grand Prix / Sprint / Marina Bay / Preview
+- **Key facts:** Oct 9-11; Round 17 of 23; first-ever Sprint at Marina Bay; 4.927km, 19 turns, 62-lap GP; Sprint 21 laps; entertainment: The Killers and Lana Del Rey; title race context — Antonelli 84 pts clear
+- **Byline:** Elena Voss
+- **Status:** NEW
+- **Follow-up ideas:** Singapore race result, Sprint result
+
 ## 2026-10-01
 
 ### STORY 1: Malaysia GP Preview — F1 Returns to Sepang After Nine Years

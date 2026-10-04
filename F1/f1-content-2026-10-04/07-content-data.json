@@ -1,0 +1,278 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-04",
+  "compiled_at": "2026-10-04T12:02:50.045406+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Verstappen Wins Malaysia — First F1 Win of 2026 in Dramatic Rain Race",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Max Verstappen. 16 rounds. Zero wins in 2026.\n\nThen Malaysia happened.\n\nP1 in a rain-soaked, safety car-filled, chaotic GP. The King is back. 👑\n\n#F1 #MaxVerstappen #MalaysiaGP\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MaxVerstappen",
+            "#MalaysiaGP"
+          ],
+          "char_count": 182
+        },
+        {
+          "label": "Post 1-2",
+          "text": "MALAYSIA GP RESULT:\n\nP1 Verstappen\nP2 Antonelli\nP3 Hamilton (+18 places in the race 🤯)\nP4 Leclerc\nP5 Hadjar\n\nGeorge Russell: retired behind the safety car.\n\nSeason-defining chaos. #F1\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 190
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-verstappen-wins-malaysia-first-win-2026.html",
+        "headline": "Verstappen Wins Malaysia — First F1 Victory of 2026 in Dramatic Rain Race",
+        "word_count": 552
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Wins Malaysia\n\n**Image Concept 1A — Social (1080x1350)**\n- **Type:** imagn\n- **Search term:** Max Verstappen Red Bull Racing\n- **Usage:** Primary social post — victory celebration\n- **Notes:** Verstappen in Red Bull uniform, celebration or podium\n\n**Image Concept 1B — Social (1080x1350)**\n- **Type:** imagn\n- **Search term:** Max Verstappen Red Bull Racing\n- **Usage:** Facebook image caption\n- **Notes:** Verstappen helmet or cockpit shot\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Wins Malaysia — First Win of 2026\n**Source:** Sky Sports F1, RaceFans.net, GPFans, PlanetF1, Motorsportweek\n**Confidence:** HIGH\n- 2026 Gulf Air Bahrain Grand Prix held at Sepang International Circuit, Malaysia — Oct 2-4\n- Max Verstappen (Red Bull) wins his first race of the 2026 season\n- Race affected by torrential rain, delayed start, power unit faults, multiple safety cars\n- Full top 5: Verstappen (+0.000s), Antonelli (+2.307s), Hamilton (+4.919s), Leclerc (+7.258s), Hadjar (+8.571s)\n- George Russell stopped behind safety car in closing stages — DNF/no points",
+        "sources": "- Source: Sky Sports headline confirmed \"Bahrain GP in Malaysia: Max Verstappen wins first race of 2026 F1 season in wild, rain-hit Grand Prix as Lewis Hamilton surges back\"\n- Source: RaceFans.net confirmed \"Verstappen takes first win of 2026 in Malaysia after power unit faults delay start\"\n- Verstappen had gone all season without a win — first since 2025\n**Claims to fact-check:**\n- [HIGH] Malaysia race date: Oct 4, 2026\n- [HIGH] Full podium: Verstappen, Antonelli, Hamilton\n- [HIGH] Russell retirement in closing stages\n- [MEDIUM] Exact time gaps (+2.307s, +4.919s etc.)\n- [LOW] Number of safety cars"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Russell Retires in Malaysia — Title Gap Widens to 84 Points",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "George Russell retires in Malaysia behind the safety car.\n\nKimi Antonelli finishes second.\n\nTitle gap: 84 POINTS. 7 rounds left.\n\nThis title race is over. #F1 #GeorgeRussell\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#GeorgeRussell"
+          ],
+          "char_count": 180
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The brutal Malaysia math for Russell:\n\nBefore: Antonelli +66\nAfter: Antonelli +84\n\n7 rounds left. Max remaining for Russell: ~183 pts.\n\nHe needs Antonelli to implode. It's not looking good. #F1\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 200
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-russell-retirement-malaysia-title-gap-84-points.html",
+        "headline": "Russell Retires in Malaysia — Title Gap Grows to 84 Points with 7 Rounds Left",
+        "word_count": 482
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Russell Retires — Title Gap Widens\n\n**Image Concept 2A — Social (1080x1350)**\n- **Type:** imagn\n- **Search term:** George Russell Mercedes AMG\n- **Usage:** Primary social post\n- **Notes:** Russell in Mercedes uniform\n\n**Image Concept 2B — Social (1080x1350)**\n- **Type:** imagn\n- **Search term:** Kimi Antonelli Mercedes AMG\n- **Usage:** Championship lead angle\n- **Notes:** Antonelli in Mercedes uniform\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Russell Retires — Title Gap Widens to 84 Points\n**Source:** Sky Sports F1, RaceFans.net, GPFans\n**Confidence:** HIGH\n- George Russell (Mercedes) stopped behind safety car in the closing stages of Malaysia GP\n- Russell had been contending in the race before the retirement\n- Before Malaysia: Antonelli 302, Russell 236 (gap: 66 pts)\n- After Malaysia: Antonelli 320 (18 pts for P2), Russell 236 (0 pts) — gap now 84 pts\n- 7 rounds remaining after Malaysia (Rounds 17-23)\n- Maximum possible points for Russell remaining: ~183 pts (6 GPs + Singapore Sprint 8 pts)\n- Russell's retirement ends a strong points-scoring run\n**Claims to fact-check:**\n- [HIGH] Russell DNF — stopped behind safety car\n- [HIGH] New championship gap: 84 points (Antonelli 320, Russell 236)\n- [HIGH] 7 rounds remaining\n- [MEDIUM] Maximum remaining points calculations",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Hamilton's Stunning P3 Comeback from P18 in Malaysia",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Ferrari dropped Lewis Hamilton to P18 with a tyre strategy gamble in Malaysia.\n\nHe finished THIRD.\n\nFrom 18th to the podium in a rain-hit Grand Prix.\n\nSeven-time world champion, ladies and gentlemen. #F1 #LewisHamilton\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LewisHamilton"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-hamilton-p18-to-p3-comeback-malaysia-ferrari.html",
+        "headline": "Hamilton's P18-to-P3 Comeback Is One of the Drives of the 2026 Season",
+        "word_count": 490
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton P3 Comeback\n\n**Image Concept 3A — Social (1080x1350)**\n- **Type:** imagn\n- **Search term:** Lewis Hamilton Ferrari\n- **Usage:** Primary social post\n- **Notes:** Hamilton in Ferrari uniform\n\n**Image Concept 3B — Social (1080x1350)**\n- **Type:** imagn\n- **Search term:** Lewis Hamilton Ferrari\n- **Usage:** Facebook post — comeback angle\n- **Notes:** Hamilton close-up or action shot\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton P3 from P18 — Ferrari Comeback\n**Source:** Sky Sports F1, GPFans, PlanetF1\n**Confidence:** HIGH\n- Lewis Hamilton (Ferrari) finished third in Malaysia GP\n- Ferrari made a tyre strategy gamble that initially backfired — Hamilton dropped to P18\n- Hamilton fought through rain chaos to surge back through the field\n- Teammate Charles Leclerc finished P4 — Ferrari double podium\n- Isack Hadjar (Red Bull) P5",
+        "sources": "- Source: Sky Sports confirmed \"Lewis Hamilton surges back\" in headline\n- Ferrari strategy: took early pit stop on rain tyre during safety car, got stuck in traffic\n**Claims to fact-check:**\n- [HIGH] Hamilton finished P3\n- [HIGH] Hamilton dropped to P18 during the race\n- [HIGH] Leclerc P4 — Ferrari double podium\n- [MEDIUM] Specific details of the Ferrari strategy call"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Championship Math After Malaysia — Antonelli 84 Clear with 7 to Go",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "F1 Championship — after Malaysia:\n\nKimi Antonelli: 320 pts 🔵\nGeorge Russell: 236 pts\n\nGap: 84 points.\n\nSingapore Sprint next weekend. The title race clock is ticking. #F1\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 177
+        },
+        {
+          "label": "Post 4-2",
+          "text": "Kimi Antonelli could become F1's youngest world champion.\n\nHe's 20. He leads by 84 points. 7 rounds left.\n\nSingapore Sprint is in 5 DAYS. #F1 #KimiAntonelli\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#KimiAntonelli"
+          ],
+          "char_count": 163
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-antonelli-championship-math-84-points-clear.html",
+        "headline": "Antonelli 84 Points Clear After Malaysia — The Title Is in His Hands",
+        "word_count": 473
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Math\n\n**Image Concept 4A — Social (1080x1350)**\n- **Type:** imagn\n- **Search term:** Kimi Antonelli Mercedes AMG\n- **Usage:** Championship leader post\n- **Notes:** Antonelli in Mercedes, confident expression\n\n**Image Concept 4B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search term:** Kimi Antonelli Mercedes AMG\n- **Usage:** Article featured image\n- **Notes:** Antonelli helmet or driving shot\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Math After Malaysia\n**Source:** Calculated from race results + known pre-race standings\n**Confidence:** HIGH\n- Pre-race standings: Antonelli 302 pts, Russell 236 pts\n- Malaysia result: Antonelli P2 (+18 pts) = 320 pts; Russell DNF = 236 pts\n- New gap: 84 points (from 66 before Malaysia)\n- Rounds remaining after Malaysia: 7 (Rounds 17-23)\n- Singapore Sprint (Round 17) adds bonus 8 points\n- Max remaining points: 6 GPs x 25 = 150, plus Singapore Sprint = 8 total = 158 max\n- Russell maximum total possible: 236 + 158 = 394\n- Antonelli needs 395 to clinch — currently at 320, needs 75 more from 7 rounds\n- With 6 wins + Sprint win: 25*6 + 8 = 158 — plenty of cushion\n**Claims to fact-check:**\n- [HIGH] Antonelli now 320 pts\n- [HIGH] Russell 236 pts\n- [HIGH] Gap = 84 points\n- [MEDIUM] Exact title clinch scenarios",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Singapore Sprint Preview — First-Ever Sprint at Marina Bay",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "5 days until the F1 Singapore Sprint.\n\nFirst-ever Sprint weekend at Marina Bay. 🌃\n\nWith Antonelli 84 points clear, the night race stakes just got higher.\n\nOct 9-11. #F1 #SingaporeGP\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SingaporeGP"
+          ],
+          "char_count": 188
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-singapore-gp-sprint-preview-marina-bay.html",
+        "headline": "Singapore Sprint Preview — First-Ever Sprint at Marina Bay in a Title Race That Just Got Real",
+        "word_count": 487
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Singapore Sprint Preview\n\n**Image Concept 5A — Social (1080x1350)**\n- **Type:** imagn\n- **Search term:** Singapore Grand Prix Marina Bay\n- **Usage:** Preview post\n- **Notes:** Marina Bay street circuit, night race atmosphere"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Singapore Sprint Weekend Preview\n**Source:** Formula1.com, RacingNews365, F1 Story History (Oct 1)\n**Confidence:** HIGH\n- Singapore Grand Prix: Round 17 of 23, Oct 9-11, 2026\n- First-ever Sprint weekend at Marina Bay Street Circuit\n- Circuit: 4.927km, 19 turns, anti-clockwise, 62-lap Grand Prix\n- Sprint: 21 laps on Saturday\n- Weekend schedule: Fri Oct 9 — FP1 + Sprint Qualifying; Sat Oct 10 — Sprint + GP Qualifying; Sun Oct 11 — Race\n- Singapore Sprint is the final Sprint of the 2026 season\n- Race start: 8:00 PM local (12:00 PM ET)\n- Music acts: The Killers and Lana Del Rey performing\n**Claims to fact-check:**\n- [HIGH] Singapore GP dates: Oct 9-11, 2026\n- [HIGH] First sprint at Marina Bay\n- [HIGH] Circuit: 4.927km, 19 turns, 62 laps\n- [MEDIUM] Sprint lap count: 21 laps\n- [MEDIUM] Music acts (The Killers, Lana Del Rey)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

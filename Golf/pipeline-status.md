@@ -1,5 +1,36 @@
 # Golf Fanrecap — Pipeline Status
 
+## Latest Run: 2026-10-04
+
+**Run completed:** 2026-10-04
+**Stories:** 5
+**Articles:** 5
+**X posts:** 7
+**Status:** COMPLETE
+
+### Scripts Run
+- [x] verify-facts.py — 20 claims, image manifest warnings (known non-blocking)
+- [x] compile-content-data.py — 5 stories, 7 tweets, 5 FB posts, 5 articles
+- [x] generate-review-dashboard.py — 22 items
+- [x] publish-unified-dashboard.py — blocked (content-dashboards repo not in authorized set)
+- [x] generate-postplanner-export.py — 0 posts (known parsing issue)
+- [x] publish-to-wordpress.py — blocked (WP credentials not configured in automated session)
+
+### Stories Covered
+1. Austin Smotherman Wins Bank of Utah Championship — First Career PGA Tour Victory — Tier 1 (FOLLOW UP)
+2. Jeeno Thitikul Leads LOTTE Championship Final Round — Three Shots Clear in Hawaii — Tier 1 (FOLLOW UP)
+3. LIV Golf Bankruptcy — Player Deadline Nine Days Away (Oct 13) — Tier 1 (FOLLOW UP)
+4. Jon Rahm Is LIV Golf's Largest Unsecured Creditor — $7.47M Claim — Tier 2 (FOLLOW UP)
+5. Scottie Scheffler Holds World No. 1 — 175-Plus Weeks at the Top — Tier 2 (FOLLOW UP)
+
+### Known Non-Blocking Issues
+- Dashboard push blocked: content-dashboards repo not in this session's authorized repository set
+- WordPress publish blocked: WP credentials not configured in automated session
+- PostPlanner: 0 posts (known parsing issue with markdown format)
+- verify-facts image manifest warnings: story-name mapping issue (non-blocking)
+
+---
+
 ## Latest Run: 2026-10-03
 
 **Run completed:** 2026-10-03
