@@ -2,6 +2,48 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-05
+
+### STORY 1: Singapore Sprint Weekend — Antonelli Can Take a Giant Step Toward Title
+- **Tier:** 1
+- **Category:** F1 / Singapore GP / Sprint / Kimi Antonelli / Title Race
+- **Key facts:** Singapore GP Oct. 9-11, Marina Bay Street Circuit; first-ever Sprint at Marina Bay; Antonelli ~86 pts clear of Russell; Sprint race Saturday, GP Sunday Oct. 11 13:00 local; points 8-7-6-5-4-3-2-1 for top 8 in Sprint
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sprint result, qualifying result, race result
+
+### STORY 2: Can Verstappen Still Win the 2026 Championship? The Math Says Possible, Not Probable
+- **Tier:** 1
+- **Category:** F1 / Max Verstappen / Championship / Title Race / Math
+- **Key facts:** Verstappen first win at Malaysia (Oct. 4); mathematically alive for title but trails Antonelli by more than 80 points; 7 rounds remaining including Singapore Sprint
+- **Byline:** Elena Voss
+- **Status:** NEW
+- **Follow-up ideas:** Singapore result for Verstappen, further title math
+
+### STORY 3: Russell's Impossible Task — Needs Everything to Go Right in Singapore Sprint
+- **Tier:** 1
+- **Category:** F1 / George Russell / Title Race / Recovery / Singapore
+- **Key facts:** Russell trails Antonelli by ~84 pts (236 to 320); 7 rounds remain; DNF Malaysia widened gap; needs Sprint points and race win to stay relevant
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Singapore race result, Russell season review
+
+### STORY 4: Hamilton and Ferrari Target Singapore Podium After Malaysia Momentum
+- **Tier:** 2
+- **Category:** F1 / Lewis Hamilton / Ferrari / Singapore GP / Malaysia
+- **Key facts:** Hamilton drove from P18 to P3 in Malaysia; Ferrari double points with Leclerc P4; starting position P18 in Malaysia after strategy gamble; Singapore target: another podium
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Singapore qualifying/result for Hamilton
+
+### STORY 5: First-Ever Sprint at Marina Bay — Why This Weekend Is Different
+- **Tier:** 2
+- **Category:** F1 / Singapore GP / Sprint / Marina Bay / Format
+- **Key facts:** First Sprint race at Marina Bay Street Circuit; 4.927km, 19 turns; Sprint ~100km Saturday morning; wall-to-wall track action Fri-Sun; no setup testing time in Sprint format
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sprint result, how teams adapted to format
+
 ## 2026-10-04
 
 ### STORY 1: Verstappen Wins Malaysia — First Win of 2026

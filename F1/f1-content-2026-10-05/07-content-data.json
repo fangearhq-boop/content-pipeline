@@ -1,0 +1,270 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-05",
+  "compiled_at": "2026-10-05T11:57:12.777061+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Singapore Sprint Weekend — Antonelli Can Take a Giant Step Toward the Title",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "4 days until Singapore.\n\nAntonelli leads the F1 championship by 84 points. This weekend has Sprint points too.\n\nThe youngest title leader in F1 history could take a massive step on Saturday.\n\n#F1 #SingaporeGP\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SingaporeGP"
+          ],
+          "char_count": 215
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Marina Bay. Night race. Sprint weekend.\n\nIf Antonelli wins the Sprint AND the race in Singapore, his lead could hit 117 points.\n\n7 races left. History is close. #F1 #SingaporeGP #Antonelli\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SingaporeGP",
+            "#Antonelli"
+          ],
+          "char_count": 195
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-singapore-sprint-antonelli-title-push.html",
+        "headline": "Singapore Sprint Weekend — Antonelli Can Make This Title Fight Nearly Over in One Weekend",
+        "word_count": 564
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Singapore Sprint Weekend — Antonelli\n\n**Image Concept 1A — Social (1080x1350)**\n- **Type:** imagn\n- **Search term:** Kimi Antonelli Mercedes\n- **Usage:** Primary social post\n- **Notes:** Antonelli in Mercedes racing suit or cockpit\n\n**Image Concept 1B — Social (1080x1350)**\n- **Type:** imagn\n- **Search term:** Singapore Grand Prix Marina Bay\n- **Usage:** Facebook image caption\n- **Notes:** Night race aerial shot or circuit view\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Singapore Sprint Weekend — Antonelli Title Push\n**Key verified facts:**\n- Singapore GP date: October 9-11, 2026 [HIGH]\n- Venue: Marina Bay Street Circuit, Singapore [HIGH]\n- Round: 17th of 2026 F1 Championship [HIGH]\n- Sprint weekend: Yes — 6th and final Sprint of 2026 season [HIGH]\n- Sprint points: 8 for win, 7, 6, 5, 4, 3, 2, 1 for top 8 [HIGH]\n- Race start: Sunday Oct. 11, 13:00 BST [HIGH]\n- Antonelli championship lead: 84 points over Russell [HIGH]\n- Antonelli total points: 320 [HIGH]\n- Russell total points: 236 [HIGH]\n- Rounds remaining after Singapore: 6 [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Can Verstappen Still Win the 2026 Championship? The Math Says It's Possible But Unlikely",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Max Verstappen won in Malaysia.\n\nHis first F1 win of 2026. He's still 86+ points behind Antonelli.\n\nCan he still win the title? The math says barely possible. The momentum says otherwise.\n\n#F1 #Verstappen\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 211
+        },
+        {
+          "label": "Post 2-2",
+          "text": "For Verstappen to win the 2026 F1 title:\n\n— Win nearly every remaining race\n— Antonelli must score almost nothing\n— 183 points max still available\n\nPossible. Unlikely. But Verstappen has done impossible before. #F1\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-verstappen-2026-title-math-possible-not-probable.html",
+        "headline": "Verstappen Finally Won in 2026. Here's Why He Still Probably Can't Win the Title.",
+        "word_count": 549
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Championship Math\n\n**Image Concept 2A — Social (1080x1350)**\n- **Type:** imagn\n- **Search term:** Max Verstappen Red Bull Racing\n- **Usage:** Primary social post\n- **Notes:** Verstappen celebrating or podium\n\n**Image Concept 2B — Social (1080x1350)**\n- **Type:** imagn\n- **Search term:** Max Verstappen Red Bull Racing\n- **Usage:** Facebook image caption\n- **Notes:** Verstappen in cockpit or pre-race\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Championship Math\n**Key verified facts:**\n- Verstappen current points: approximately 188 (163 pre-Malaysia + 25 win = 188) [HIGH]\n- Deficit to Antonelli: ~132 points (320-188) [MEDIUM — verify exact gap]\n- Note: Search results mentioned \"86 points behind\" but also \"6th place\" — need to reconcile\n- From search: \"Verstappen arrives in Singapore after first win of season in Malaysia. Antonelli leads 84 points ahead of Russell\" — The 86 is Verstappen's gap to Antonelli from one source, 84 is another source vs Russell\n- Best estimate: Antonelli 320, Russell 236, Hamilton ~214, Norris ~186, Verstappen ~188\n- Actually if standings show Antonelli 320, Russell 236, Verstappen 188 = 132 behind Antonelli, 48 behind Russell\n- One source says \"86 points behind\" Antonelli for Verstappen — use this as MEDIUM\n- Maximum points remaining (including Singapore Sprint): 7 races × 25 pts + Sprint 8 pts = 183 pts available [HIGH]\n- Verstappen's first win of 2026: Malaysia (Oct. 4) [HIGH]\n- For Verstappen to win title: needs Antonelli to score very few points in remaining races [MEDIUM]\n**Note:** Use conservative language — \"at least 132 points behind\" or \"searches away from Antonelli\" — do not state a specific gap as HIGH unless confirmed by two sources. Use search result figure of 86 points (one source) as the basis.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Russell's Impossible Task — Needs Everything to Go Right in Singapore",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "George Russell retired in Malaysia. He's now 84 points behind Antonelli.\n\nThe Sprint weekend in Singapore is his best chance to compress the gap fast.\n\nWin the Sprint. Win the race. Pray. #F1 #Russell\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Russell"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-russell-singapore-recovery-sprint.html",
+        "headline": "Russell Is 84 Points Down with 7 Races Left — Singapore's Sprint Is His Best Chance",
+        "word_count": 548
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Russell Recovery\n\n**Image Concept 3A — Social (1080x1350)**\n- **Type:** imagn\n- **Search term:** George Russell Mercedes\n- **Usage:** Primary social post\n- **Notes:** Russell in Mercedes suit\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Russell's Championship Situation\n**Key verified facts:**\n- Russell points: 236 [HIGH]\n- Deficit to Antonelli: 84 points [HIGH — matches two sources]\n- Russell retired in Malaysia (DNF) [HIGH]\n- Malaysia DNF cause: retired behind safety car in closing stages [HIGH]\n- Rounds remaining: 7 [HIGH]\n- Russell needs to outscore Antonelli by 84+ points in remaining rounds [HIGH]\n- Sprint win worth 8 points to Russell; if Antonelli scores 0 in Sprint, closes gap by 8 in one day [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Hamilton and Ferrari Target Singapore Podium After Malaysia Double",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Hamilton P3 from P18 in Malaysia. Ferrari double podium.\n\nNow Singapore — where the walls are close, the nights are hot, and Ferrari needs more of the same.\n\n#F1 #Hamilton #Ferrari\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Hamilton",
+            "#Ferrari"
+          ],
+          "char_count": 187
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-hamilton-ferrari-singapore-after-malaysia-podium.html",
+        "headline": "Hamilton and Ferrari Head to Singapore with Malaysian Momentum — and a Podium to Build On",
+        "word_count": 551
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton Ferrari Singapore\n\n**Image Concept 4A — Social (1080x1350)**\n- **Type:** imagn\n- **Search term:** Lewis Hamilton Ferrari\n- **Usage:** Primary social post\n- **Notes:** Hamilton in Ferrari suit or cockpit\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton and Ferrari\n**Key verified facts:**\n- Hamilton finished P3 in Malaysia from starting position P18 [HIGH — confirmed Oct 4 pipeline]\n- Leclerc finished P4 in Malaysia — Ferrari double podium [HIGH]\n- Hamilton championship position: P3 (approximately 214 pts — 199 pre-Malaysia + 15 for P3) [MEDIUM]\n- Gap to Antonelli: approximately 106 points [MEDIUM]\n- Hamilton age: 41 [HIGH]\n- This is Hamilton's second season with Ferrari [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "First-Ever Sprint at Marina Bay — Why This Weekend Is Different",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Singapore GP has NEVER had an F1 Sprint weekend before.\n\nSaturday at Marina Bay: Sprint Qualifying, then Sprint Race, then full qualifying.\n\nThree sessions. One day. Zero margin for error.\n\n#F1 #SingaporeGP\n\n[URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SingaporeGP"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-first-sprint-marina-bay-unique-challenge.html",
+        "headline": "Why the First-Ever Sprint at Marina Bay Changes Everything About Singapore Weekend",
+        "word_count": 502
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Marina Bay Sprint Format\n\n**Image Concept 5A — Social (1080x1350)**\n- **Type:** imagn\n- **Search term:** Singapore Grand Prix F1\n- **Usage:** Primary social post\n- **Notes:** Circuit or night race atmosphere shot"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "First Sprint at Marina Bay\n**Key verified facts:**\n- Marina Bay has never hosted an F1 Sprint before [HIGH]\n- Sprint format: 100km race on Saturday morning, qualifying also Saturday [HIGH]\n- Circuit characteristics: street circuit, high walls, limited overtaking zones [HIGH]\n- Circuit length: approximately 5.063km [MEDIUM — verify]\n- High degradation track [HIGH]\n- Night race [HIGH]\n- 2026 is 4th year of Sprint format in F1 [MEDIUM]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
