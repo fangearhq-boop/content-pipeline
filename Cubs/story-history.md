@@ -5,6 +5,51 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-10-05 (OFF DAY — Day 4 post-elimination; NLDS Game 3s tomorrow; 5 significant_findings applied)
+
+### STORY 1: NLDS Game 2 Recap — Brewers 4, Padres 3; Braves Tie Dodgers 1-1
+- **Angle:** FOLLOW UP (NLDS watch; Brewers beat Padres 4-3 walk-off to lead NLDS 2-0; Braves tied Dodgers 1-1 with 3-2 win; Cubs watching their WCS executioner get put on the ropes; game_final insight applied)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game_final/informative)
+- **Follow-Up Opportunities:**
+  - NLDS Game 3 results (Oct 6)
+  - Brewers NLDS clinch watch
+  - Padres elimination watch
+
+### STORY 2: Michael King Irony — Cubs Linked to WCS Executioner as FA Target
+- **Angle:** NEW STORY (King threw near-no-hitter in WCS Game 1 vs. Cubs — 7 IP, 1 H, 8 K; Cubs now reportedly linked to King as FA target; irony angle; transaction-loser insight = framed as bold take not transaction)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, bold take/analysis)
+- **Follow-Up Opportunities:**
+  - King signing announcement if Cubs land him
+  - Rotation target signings through Hot Stove
+
+### STORY 3: Cade Horton 2nd Tommy John — 2027 Return at Best
+- **Angle:** FOLLOW UP (Horton injuries referenced in rotation rebuild coverage; new dedicated angle — second TJ surgery April 2026, 15-16 month timeline = summer 2027 at earliest, lower return-to-form rate)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, injury update/analysis)
+- **Follow-Up Opportunities:**
+  - Horton 2027 spring training status update
+  - Internal rotation options update (Steele, Brown timelines)
+
+### STORY 4: Cardinals Three Straight Octobers — NL Central Reality Check
+- **Angle:** FOLLOW UP (Cardinals teardown covered Oct 4; new angle — third consecutive October miss as NL Central context; Jordan Walker/JJ Wetherholt progress; Brewers NL No. 1 seed + Cubs rotation bare = two-team division)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, rival watch/analysis)
+- **Follow-Up Opportunities:**
+  - Cardinals offseason moves
+  - NL Central 2027 spring preview
+
+### STORY 5: Cubs Lineup Is Built — Rotation Is the Only Missing Piece
+- **Angle:** NEW STORY (Forward-looking bold take; Bregman/Swanson/Suzuki/PCA/Alcántara lineup built to win; entire 2026 rotation departing; fix pitching and 2027 is a different October; evening_18_24 WINNER insight applied — 6:30 PM CT slot)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, bold take/offseason outlook)
+- **Follow-Up Opportunities:**
+  - Rotation signings as they happen
+  - 2027 roster preview
+
+---
+
 ## 2026-10-04 (OFF DAY — Day 3 post-elimination; NLDS Game 2 today; 5 significant_findings applied)
 
 ### STORY 1: Brewers NLDS Game 1 Recap — Brewers 3, Padres 2
