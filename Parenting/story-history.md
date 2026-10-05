@@ -2,6 +2,50 @@
 
 ---
 
+## October 5, 2026
+
+### Story 1: D11's $775M Bond Measure Is on the November Ballot — What COS Families Need to Know
+- **Date:** 2026-10-05
+- **Tier:** T1
+- **Pillar:** Local News
+- **Key Facts:** D11 Board voted 6-1 on Aug 5, 2026 to place $775M Ballot Question 4A on November 2026 general election ballot; repairs at every D11 school, new HVAC, asbestos removal, classroom modernization, full rebuild of one school, AC at Coronado High; ~$260/year for average homeowner; district's first voter-approved bond since 2004; more info at d11.org/bond
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 2: Two Squishy Dumpling Toy Lines Recalled Over Deadly Water Bead Hazard — Check Your Kids' Toy Bins
+- **Date:** 2026-10-05
+- **Tier:** T1
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** CPSC dual recall Oct 1, 2026 — LLK Trading Mochi Malrang Mystery Dumpling Toys (480 units, Easy Wholesale San Jose, Jul 2026, ~$10, llktradinginc@gmail.com) + ABC Trading Squishy Dumpling Toy model 3655 + Crazy Squib Ball model 3984 (37,000 units combined, recallabc@gmail.com); water beads expand beyond safe limits — ingestion hazard; CPSC's 5th water-bead recall since Sep 3, ~53,000 toys total; cpsc.gov/Recalls
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 3: D11 Fall Break Is October 19–23 — Activities to Fill the Week
+- **Date:** 2026-10-05
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** D11 fall break confirmed Oct 19–23; AcademyACL same dates; D20/D49 not confirmed (verify at d20.org, d49.org); Boo at the Zoo runs all October at Cheyenne Mountain Zoo; Garden of the Gods fall foliage peaks mid-October; Pumpkins in the Park Oct 24 Bancroft Park free; Emma Crawford Coffin Races Oct 24 Manitou Springs
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 4: Halloween in Colorado Springs — Best Family Events in October 2026
+- **Date:** 2026-10-05
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Pumpkins in the Park Oct 24 Bancroft Park Old Colorado City free (costume contest, live music); Boo at the Bridge Oct 22 4–7:30 PM Royal Gorge Bridge and Park $13 (trick-or-treat, games, live entertainment); Boo at the Zoo all October through Oct 31 Cheyenne Mountain Zoo (trick-or-treat stations, haunted section); Halloween History Detectives Oct 25 Pioneers Museum free (history facts, crafts); late October highs ~58°F, evenings drop to low 30s — layers needed
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 5: Parent-Teacher Conference Season Is Here — What to Expect This October
+- **Date:** 2026-10-05
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** CIVA Charter School PTCs — Oct 14 (Wed) 5–7:30 PM school in session, Oct 15 (Thu) 4–7:30 PM no school, Oct 23 (Fri) 5–7 PM in person cafeteria, Oct 24 (Sat) 4–7 PM in person cafeteria; D11 includes 2 designated PTC days in 2026-27 calendar; D20/D49 verify at d20.org, d49.org; sign-up windows typically open 1-2 weeks before conference days
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+---
+
 ## September 30, 2026
 
 ### Story 1: CPSC Recalls Blossom Children's Loungewear — Burn Hazard

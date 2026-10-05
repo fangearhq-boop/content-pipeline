@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-09-30
+## Current Run: 2026-10-05
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D11 $775M Bond Measure 4A (board vote 6-1 Aug 5, ballot Nov 2026, ~$260/yr, first since 2004, d11.org/bond); CPSC dual recall Oct 1 — LLK Trading Mochi Malrang (480 units, llktradinginc@gmail.com) + ABC Trading Squishy Dumpling/Crazy Squib (37,000 units, recallabc@gmail.com), water bead ingestion hazard; D11 Fall Break Oct 19-23; Halloween events — Pumpkins in the Park Oct 24 free, Boo at the Bridge Oct 22 $13, Boo at the Zoo all October, Halloween History Detectives Oct 25 free; CIVA Charter PTCs Oct 14-15 and 23-24 |
+| Story History Check | COMPLETE | All 5 stories NEW — D11 bond Ballot 4A not previously covered; LLK+ABC water bead recalls different products from prior CPSC recalls; D11 Fall Break not covered this cycle; Halloween guide annual but not yet covered for 2026; CIVA PTC dates not previously covered |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: kktv.com, gazette.com, coloradopolitics.com, d11.org, cpsc.gov, educounty.net, royalgorgebridge.com, cmzoo.org, civacharterschool.org |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 5 tweets across 5 stories; all ≤280 chars (S1 fixed 291→245, S4 duplicate block removed 287→265); 4 hashtags each; max 1 exclamation mark; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 D11 bond measure (Sarah Morales, T1); article-02 water bead toy recall (Jamie Rivera, T1, remedy steps); article-03 D11 fall break activities (Sarah Morales, T2, QR table); article-04 Halloween events guide (Jamie Rivera, T2, QR table); article-05 parent-teacher conferences (Sarah Morales, T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 79 claims; HIGH 132, MEDIUM 63, LOW 25; verify-facts PASSED (0 issues after fixes) |
+| Compile Content Data | COMPLETE (partial) | 07-content-data.json — 5 stories, 5 X posts, 0 FB posts parsed, 5 articles; FB 0 is known parser compat issue; posting-window warnings cosmetic (known) |
+| Image Manifest | NOT GENERATED | 07-image-manifest.md not found — images not yet generated; Gemini generation runs at publish time |
+| Review Dashboard | COMPLETE | review-dashboard.html — 25 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (5 posts) | cosp-postplanner-2026-10-05.xlsx + cosp-postplanner-tobi-2026-10-05.xlsx — 5 posts each; posts redistributed 13:53–19:53 MT |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles queued as drafts |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Oct 5 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 5 X posts (+ 0 FB parsed — known issue)
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+- **PostPlanner exports:** 5 posts (standard + TOBI)
+- **Key stories:** D11 $775M Bond Measure 4A on Nov 2026 ballot (~$260/yr, first since 2004, d11.org/bond); CPSC dual recall Oct 1 — LLK Mochi Malrang (480 units) + ABC Squishy Dumpling/Crazy Squib (37,000 units), water bead ingestion hazard (5th batch since Sep 3, 53K total); D11 Fall Break Oct 19-23 + Boo at the Zoo + Garden of the Gods foliage; Halloween guide — Pumpkins in the Park Oct 24 free, Boo at the Bridge Oct 22 $13, Halloween History Detectives Oct 25 free; CIVA Charter PTCs Oct 14-15 and 23-24
+- **Issues:** S1 tweet trimmed 291→245 chars; S4 duplicate code block removed; WordPress proxy 403; image manifest pending (Gemini generation at publish time); FB posts not parsed by compile script (known)
+
+---
+
+## Previous Run: 2026-09-30
 
 | Step | Status | Notes |
 |------|--------|-------|
