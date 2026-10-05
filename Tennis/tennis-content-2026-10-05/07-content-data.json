@@ -1,0 +1,274 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-05",
+  "compiled_at": "2026-10-05T12:33:48.894168+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Japan Open SFs Set — Alcaraz vs Munar; Vacherot vs Lehecka",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Alcaraz vs. Munar. An all-Spanish SF in Tokyo. 🎾\n\nThe defending champion (7-0 all-time here) meets his compatriot in today's semifinal. Munar came through qualifying to reach the last four.\n\nFinal is Tuesday. Can anyone stop Alcaraz?\n\n#TennisNews #JapanOpen #Alcaraz",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 4 S1: Japan Open QF Alcaraz/Munar/Vacherot SF preview)",
+          "hashtags": [
+            "#TennisNews",
+            "#JapanOpen",
+            "#Alcaraz"
+          ],
+          "char_count": 266
+        },
+        {
+          "label": "Post 1-2",
+          "text": "From qualifier to Japan Open semifinalist.\n\nValentin Vacherot knocked out No. 2 seed Fils and now faces Lehecka in today's SF in Tokyo.\n\nOne of the best underdog runs of 2026. #TennisNews #JapanOpen #ATP",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 4 S1: Japan Open QF Alcaraz/Munar/Vacherot SF preview)",
+          "hashtags": [
+            "#TennisNews",
+            "#JapanOpen",
+            "#ATP"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "Tokyo's Japan Open semifinals are set, and the headline matchup is a rare all-Spanish showdown: Carlos Alcaraz, the defending champion and World No. 1, faces compatriot Jaume Munar.\n\nAlcaraz enters on a remarkable streak — 7-0 all-time at the Japan Open. Munar came through qualifying to reach the semifinals, beating solid opponents all week. His run has surprised a few people, but anyone who watched him closely knew this kind of week was in him.\n\nOn the other side of the draw, Monégasque qualifier Valentin Vacherot faces Czech veteran Jiri Lehecka. Vacherot has been the story of the tournament — an unseeded qualifier who knocked out No. 2 seed Arthur Fils in the quarterfinals. If Vacherot makes the final, it would be one of the most unlikely title runs Tokyo has seen in years.\n\nThe final is scheduled for Tuesday, October 6. Alcaraz is the clear favorite, but in tennis, that only holds until the first serve.\n\nWho are you rooting for today?\n\n---",
+        "image_caption": "Alcaraz vs. Munar. Spain vs. Spain in Tokyo. 🎾 Semifinals day at the Japan Open — the defending champion faces the biggest challenge of his week so far.",
+        "posting_time": "8:30 AM ET"
+      },
+      "article": {
+        "filename": "article-01-japan-open-sf-alcaraz-munar-vacherot-lehecka.html",
+        "headline": "Japan Open Semifinals: Alcaraz vs. Munar, Vacherot vs. Lehecka — Tokyo's Final Four",
+        "word_count": 571
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Japan Open SFs\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- imagn search: \"Carlos Alcaraz\"\n- Preferred: recent action shot, mid-swing on hard court\n- Credit: (USA TODAY Sports Images)\n- Status: not_started\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- imagn search: \"Jaume Munar\"\n- Preferred: celebrating or mid-rally, blue hard court\n- Credit: (USA TODAY Sports Images)\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Japan Open SFs Set\n**Sources:**\n- atptour.com (tokyo-2026-results, alcaraz-arnaldi-tokyo-2026-saturday)\n- tennistale.com (Tokyo 2026 men's draw, scores and results)\n- tennisuptodate.com (Japan Open ATP 2026 results/draw/schedule)\n- gulfnews.com (World No. 1 Carlos Alcaraz enters Japan Open final)\n**Key Facts (MEDIUM confidence — single ATP Tour source):**\n- QF results (Sun/Mon Oct 4-5): Alcaraz def. Shapovalov 7-6(3), 2-1 ret.; Vacherot def. Fils 7-5, 4-6, 6-4; Munar def. Jacquet 6-4, 6-2; Lehecka def. Vallejo 6-1, 6-1\n- SFs today (Oct 5): Alcaraz vs. Munar (all-Spanish); Vacherot vs. Lehecka\n- Alcaraz 7-0 all-time at Japan Open\n- Alcaraz is defending champion (won 2025 title)\n- Vacherot is a qualifier (Monégasque)\n- Final: Tuesday Oct 6\n- Headline from gulfnews confirms Alcaraz reached the final\n**Claim tags:**\n- Match scores: MEDIUM (ATP Tour via AI summary)\n- Tournament dates Sep 30–Oct 6: HIGH (multiple sources)\n- Alcaraz 7-0 in Tokyo: MEDIUM (ATP Tour source only)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Beijing QF — Djokovic Ends Zverev's Run; SFs Set for Monday",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Djokovic 32-0 in Beijing. SIX titles. 🏆\n\nHe beat No. 1 seed Zverev 4-6, 6-4, 6-4 in the QF — biggest win of his Asian swing comeback.\n\nFaces Medvedev in today's semifinal.\n\n#ChinaOpen #Djokovic #Tennis",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 4 S2: Zverev vs. Djokovic Beijing QF)",
+          "hashtags": [
+            "#ChinaOpen",
+            "#Djokovic",
+            "#Tennis"
+          ],
+          "char_count": 201
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Djokovic vs. Medvedev. Beijing SF. Today.\n\nTheir third meeting in 2026 — Djokovic has won both previous matchups this year. 32-0 all-time in Beijing.\n\nCan anyone stop him here? #ChinaOpen #Djokovic #ATP",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 4 S2: Zverev vs. Djokovic Beijing QF)",
+          "hashtags": [
+            "#ChinaOpen",
+            "#Djokovic",
+            "#ATP"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "Novak Djokovic is simply unbeatable in Beijing.\n\nOn Sunday evening, Djokovic rallied from a set down to defeat top seed Alexander Zverev 4-6, 6-4, 6-4 in the China Open quarterfinals, extending his all-time record in the Chinese capital to 32-0. Six titles. Not one loss — ever.\n\nIt was exactly the kind of match Djokovic has made a career of producing: absorbing early pressure, regrouping, and coming through when it matters. Zverev, who entered as the heavy favorite, couldn't find a way to break the spell.\n\nAlso through to the semifinals: Daniil Medvedev, who handled Francisco Cerundolo with authority; Alex de Minaur, who came from a set down to defeat Andrey Rublev; and Hubert Hurkacz, who took out Karen Khachanov in a physical battle.\n\nToday's SFs: Djokovic vs. Medvedev (their third meeting in 2026); de Minaur vs. Hurkacz.\n\nCan anyone stop Djokovic from collecting a seventh Beijing title?\n\n---",
+        "image_caption": "32-0. Six titles. Djokovic has never lost in Beijing — and after defeating Zverev in Sunday's quarterfinal, he moves one step closer to a seventh title. Semifinals today vs. Medvedev.",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-djokovic-32-0-beijing-qf-result-sfs.html",
+        "headline": "Djokovic Defeats Zverev to Go 32-0 in Beijing; Faces Medvedev in Today's Semifinal",
+        "word_count": 524
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Djokovic def. Zverev Beijing QF\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- imagn search: \"Novak Djokovic\"\n- Preferred: fist-pump celebration, outdoor hard court\n- Credit: (USA TODAY Sports Images)\n- Status: not_started\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- imagn search: \"Alexander Zverev\"\n- Preferred: on-court match photo, serve or return\n- Credit: (USA TODAY Sports Images)\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Beijing QF — Djokovic def. Zverev\n**Sources:**\n- atptour.com (beijing-2026-results)\n- espn.com (2026 China Open)\n- tennis.com (China Open WTA Oct 4)\n**Key Facts (MEDIUM confidence):**\n- Djokovic def. Zverev 4-6, 6-4, 6-4 in QF (Sunday Oct 4 evening)\n- Djokovic all-time Beijing record now 32-0 (6 titles)\n- Medvedev def. Cerundolo 7-6(4), 6-3\n- De Minaur def. Rublev 1-6, 6-2, 6-3\n- Hurkacz def. Khachanov 7-6(2), 6-2\n- SFs Monday Oct 5: Djokovic vs. Medvedev; de Minaur vs. Hurkacz\n- Tournament ends Oct 6\n**Claim tags:**\n- Djokovic 32-0 all-time Beijing: MEDIUM (AI summary, verify before article)\n- QF scores: MEDIUM (ESPN/ATP Tour via AI summary)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "WTA Beijing QFs — Gauff and Swiatek Head Into Business End",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "No. 1 Rybakina is out in Beijing. The field is wide open.\n\nGauff, Swiatek, Sabalenka, and Andreeva all alive in today's QFs. A Gauff-Swiatek clash is still possible.\n\nWTA Finals picture gets clearer this week. #ChinaOpen #WTA #Tennis",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 4 S4: WTA Beijing Rybakina exit, Gauff-Swiatek QF looming)",
+          "hashtags": [
+            "#ChinaOpen",
+            "#WTA",
+            "#Tennis"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "The WTA China Open has its most intriguing field in years — because the world No. 1 is already gone.\n\nElena Rybakina, who entered Beijing as the top seed playing her first WTA 1000 as world No. 1, fell in the second round to unseeded Alina Charaeva (ranked No. 118). It was one of the biggest upsets of the WTA season — only the second time in ranking history that a world No. 1 lost her very first match in that ranking.\n\nNow, the quarterfinals deliver a loaded field: No. 2 seed Aryna Sabalenka, No. 3 Coco Gauff, No. 4 Mirra Andreeva, and No. 8 Iga Swiatek — a two-time Beijing champion — are all still alive. Gauff and Swiatek are on a potential collision course, which would be one of the most-watched matches of the week.\n\nSwiatek, who fell to No. 8 in the rankings after a difficult second half of 2026, is quietly playing her best tennis in months. A deep Beijing run would matter enormously for her Race to WTA Finals position.\n\nWith Rybakina out, who do you think wins Beijing this year?\n\n---",
+        "image_caption": "The No. 1 seed is gone, and four of the world's best are fighting for the title in Beijing. Gauff, Sabalenka, Andreeva, and Swiatek — QF day at the China Open. 🎾",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-wta-beijing-qfs-gauff-swiatek-sabalenka.html",
+        "headline": "WTA Beijing QFs: Gauff, Swiatek, Sabalenka, and Andreeva All Alive After Rybakina's Exit",
+        "word_count": 529
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WTA Beijing QFs\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- imagn search: \"Coco Gauff\"\n- Preferred: match action, celebrating\n- Credit: (USA TODAY Sports Images)\n- Status: not_started\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- imagn search: \"Iga Swiatek\"\n- Preferred: ready position or mid-rally\n- Credit: (USA TODAY Sports Images)\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WTA Beijing QFs\n**Sources:**\n- wtatennis.com (China Open 2026 draw/scores)\n- tennis365.com\n**Key Facts (MEDIUM):**\n- Rybakina (1) lost R2 to Charaeva (No. 118) 3-6, 6-4, 6-3 — covered Oct 4\n- QF contenders: Gauff (3), Swiatek (8), Sabalenka (2), Andreeva (4)\n- Swiatek 2-time Beijing champion\n- Gauff-Swiatek potential QF\n- Rybakina second world No. 1 ever to lose first match in that ranking (after Osaka 2019 Dubai)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Sinner Sees Lyon Specialist; Vienna and Paris Increasingly Unlikely",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Sinner saw a knee specialist in Lyon on Friday before withdrawing from Shanghai.\n\nItalian reports say Vienna (Oct 26) and Paris (November) are also in doubt.\n\nHasn't played since winning Wimbledon in July. #Tennis #Sinner",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 4 S3: Sinner rest of 2026 season doubt)",
+          "hashtags": [
+            "#Tennis",
+            "#Sinner"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "Jannik Sinner's 2026 season looks like it may be over.\n\nThe World No. 1 officially withdrew from the Rolex Shanghai Masters on October 3, posting a brief statement on Instagram Stories: \"Unfortunately I won't be able to play at the Rolex Shanghai Masters this year as I had hoped.\" Before the announcement, Sinner traveled to Lyon to consult with a knee specialist on Friday.\n\nMultiple Italian outlets are now reporting that the Vienna Open (October 26) and the Paris Masters (November) are also increasingly unlikely for the Wimbledon champion, who has not played a competitive match since winning at the All England Club in July. That would make seven consecutive missed events.\n\nSinner has already qualified for the ATP Finals in Turin and remains the ATP Rankings No. 1. But watching the most dynamic player on the tour go through an extended absence has been one of the stories of the 2026 season.\n\nHis team has not announced a return timeline. The focus appears to be on recovery for the 2027 season.\n\nAre you expecting Sinner back before the year is out, or does he sit everything out until January?\n\n---",
+        "image_caption": "Sinner saw a knee specialist in Lyon before withdrawing from Shanghai. Reports suggest Vienna and Paris may also be off the calendar. The world No. 1's return timeline remains uncertain.",
+        "posting_time": "3:30 PM ET"
+      },
+      "article": {
+        "filename": "article-04-sinner-lyon-specialist-vienna-paris-doubt.html",
+        "headline": "Sinner's Lyon Consultation Raises Doubts About Vienna and Paris — 2026 Season May Be Over",
+        "word_count": 495
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sinner Season Uncertainty\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- imagn search: \"Jannik Sinner\"\n- Preferred: recent close-up or sideline/court shot\n- Credit: (USA TODAY Sports Images)\n- Status: not_started\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- imagn search: \"Jannik Sinner\"\n- Preferred: Wimbledon trophy or match celebration (2026)\n- Credit: (USA TODAY Sports Images)\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sinner Lyon Specialist\n**Sources:**\n- atptour.com (sinner-shanghai-2026-withdrawal)\n- espn.com (Sinner extends absence withdrawing from Shanghai)\n- france24.com (World No. 1 Sinner pulls out of Shanghai)\n- tennis365.com (Sinner 57-word update)\n- tennisworldusa.org\n**Key Facts (HIGH — multiple independent sources):**\n- Official withdrawal confirmed Oct 3 via Instagram Stories statement\n- Quote: \"Unfortunately I won't be able to play at the Rolex Shanghai Masters this year as I had hoped.\"\n- Knee specialist consulted in Lyon on Friday (Oct 3)\n- Has not played since Wimbledon win in July\n- 6th consecutive missed event (Canadian Open, Cincinnati, US Open, China Open, Shanghai)\n- Vienna (Oct 26) increasingly in doubt per Italian outlets\n- Paris Masters (November) increasingly in doubt\n- ATP Finals spot secured (qualified)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Race to Turin — Sinner's Shanghai Defense Begins Evaporating Wednesday",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Shanghai starts Wednesday. Sinner loses ~3,550 Race to Turin points.\n\nCurrent gap: Zverev 8,740 pts — Sinner 7,950 pts.\n\nBy next week that gap could exceed 4,500 pts. Zverev's Year-End No. 1 is nearly certain. #ATPRace #Tennis",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 4 S5: Zverev Year-End No. 1 race math)",
+          "hashtags": [
+            "#ATPRace",
+            "#Tennis"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "The ATP Race to Turin is about to shift dramatically — and Alexander Zverev is the big winner.\n\nAs it stands today, Zverev leads the Race with approximately 8,740 points to Jannik Sinner's 7,950. That gap looks manageable on paper, but it's about to expand enormously.\n\nWhen the Rolex Shanghai Masters begins this Wednesday (October 7), Sinner — who won the tournament in 2025 — will begin losing approximately 3,550 points from his Race total. His Race position drops from 7,950 to around 4,400. Zverev, meanwhile, plays Shanghai as a top seed and is likely to add several hundred more Race points.\n\nBy the time Shanghai ends, the gap between first and second in the Race could exceed 4,500 points — effectively sealing Zverev's path to Year-End World No. 1. No German player has ever held that title.\n\nThe ATP Finals bubble continues: Shelton (4,430), Alcaraz (4,100), and Medvedev (2,520) are all fighting for the remaining qualification spots.\n\n---",
+        "image_caption": "Zverev leads the Race to Turin — and Sinner's Shanghai defense begins evaporating this Wednesday. Could this be the week Zverev's Year-End No. 1 becomes a certainty?",
+        "posting_time": "9:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-race-to-turin-sinner-shanghai-math.html",
+        "headline": "Shanghai Math: Sinner Loses 3,550 Race Points This Week as Zverev's Year-End No. 1 Bid Accelerates",
+        "word_count": 514
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Race to Turin\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- imagn search: \"Alexander Zverev\"\n- Preferred: celebrating match win, raised fist\n- Credit: (USA TODAY Sports Images)\n- Status: not_started\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- imagn search: \"Alexander Zverev\"\n- Preferred: serve action or post-match portrait\n- Credit: (USA TODAY Sports Images)\n- Status: not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ATP Race to Turin\n**Sources:**\n- atptour.com\n- umpiry.com (ATP Race to Turin 2026 live standings)\n- tennis365.com (Zverev passes Sinner)\n**Key Facts (MEDIUM):**\n- Race to Turin standings (as of ~Oct 2): Zverev 8,650 pts; Sinner 7,950 pts (700-pt gap)\n- Zverev also earned points for Beijing QF (90 pts for ATP 500 QF = +90, bringing to ~8,740)\n- Sinner defending ~3,550 pts from 2025 Shanghai title defense — these drop as Oct 7 tournament progresses\n- Post-Shanghai projected: Zverev ~9,000+ (if wins), Sinner drops to ~4,400\n- Projected gap 4,500+ points — effectively decides Year-End No. 1\n- ATP Finals bubble: Shelton ~4,430, Alcaraz ~4,100, Medvedev ~2,520, de Minaur/Fils/Menšík ~1,860+\n**Notes:**\n- Zverev has never been World No. 1; would be first German player at the top\n- ATP Finals Turin: Nov dates TBD",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

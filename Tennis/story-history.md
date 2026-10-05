@@ -3,6 +3,39 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## October 5, 2026
+
+| 2026-10-05 | Japan Open SFs Set — Alcaraz vs Munar (all-Spanish SF); Vacherot vs Lehecka; Lehecka def. Vallejo 6-1, 6-1; Alcaraz 7-0 in Tokyo; Final Tuesday Oct 6. Sources: atptour.com, tennistale.com, gulfnews.com | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 4 S1: Japan Open QF/SF preview) |
+| 2026-10-05 | Beijing QF Result — Djokovic def. Zverev 4-6, 6-4, 6-4 (32-0 all-time, 6 titles); Medvedev def. Cerundolo 7-6(4), 6-3; de Minaur def. Rublev 1-6, 6-2, 6-3; Hurkacz def. Khachanov 7-6(2), 6-2; SFs: Djokovic vs Medvedev / de Minaur vs Hurkacz. Sources: atptour.com, espn.com | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Oct 4 S2: Zverev vs Djokovic QF preview) |
+| 2026-10-05 | WTA Beijing QFs — Rybakina out (Charaeva upset); Gauff (3), Swiatek (8), Sabalenka (2), Andreeva (4) in QF; Gauff-Swiatek same quarter; Swiatek 2-time Beijing champ; WTA Finals Race implications. Sources: wtatennis.com, tennis365.com | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Oct 4 S4: Rybakina exit, Gauff-Swiatek QF looming) |
+| 2026-10-05 | Sinner Lyon specialist consult Friday Oct 3 before Shanghai WD; Italian reports: Vienna (Oct 26) and Paris (Nov) also doubtful; hasn't played since Wimbledon July; 6 consecutive missed events; ATP Finals spot secure; no return timeline given. Sources: tennis365.com, france24.com, tennisworldusa.org | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 4 S3: Sinner rest-of-2026 season) |
+| 2026-10-05 | Race to Turin — Zverev leads ~8,740 to Sinner 7,950; Shanghai starts Oct 7; Sinner drops ~3,550 defended pts; gap could exceed 4,500 pts post-Shanghai; Zverev Year-End No. 1 nearly certain (first German); bubble: Shelton 4,430/Alcaraz ~4,100/Medvedev ~2,520. Sources: atptour.com, umpiry.com, tennis365.com | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Oct 4 S5: Zverev Year-End No. 1) |
+
+---
+
+
+## October 2, 2026
+
+| 2026-10-02 | Japan Open R2 Results — Fils def. Tiafoe 6-3, 7-5 in 1h30m (Top 10 win); Vacherot (8) def. Tsitsipas (Q) 4-6, 7-6, 6-4; Munar (Q) def. Faria 6-1, 6-1. Fils now in QF. Sources: tennistonic.com, atptour.com, bleachernation.com | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 1 S2: Japan Open Day 1 Fils/Tabilo) |
+| 2026-10-02 | Beijing Day 3 — Djokovic (30-0) faces wild card Yunchaokete Bu (No. 104) in R2; Zverev also in action; Djokovic-Zverev QF in same quarter. Result pending. Sources: atptour.com, tennis.com | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Oct 1 S1: Djokovic 30-0 def. Borges R1) |
+| 2026-10-02 | Sinner Shanghai decision day (Thursday Oct 2) — puntodebreak.com confirmed Thursday as decision date. Surgery risk if conservative treatment fails. ITB syndrome. 5th straight missed event if he withdraws. Sources: puntodebreak.com, tennis365.com, yahoo sports, tennisnow.com | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Oct 1 S3: Sinner "unlikely Shanghai" ITB syndrome) |
+| 2026-10-02 | Rybakina R2 Beijing WTA — first WTA 1000 match as World No. 1 (since Sep 14). Faces Alina Charaeva. Sabalenka (2), Gauff (3), Andreeva (4), Swiatek (8) all in draw. Potential Rybakina-Sabalenka SF. Sources: wtatennis.com, tennis365.com, khelnow.com | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 1 S5: WTA Race standings Rybakina leads) |
+| 2026-10-02 | ATP Race to Turin analysis — Zverev leads 8,650 to Sinner 7,950 (700-pt gap). If Sinner misses Shanghai: gap could hit 4,000+. Sinner loses ~3,550 pts; Zverev loses only ~1,080. Bubble: Shelton 4,430, Alcaraz ~4,050, Medvedev ~2,420, Fils/de Minaur/Menšík ~1,860. Sources: atptour.com, tennis365.com, umpiry.com | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Oct 1 S4: ATP Race standings) |
+
+---
+
+
+## October 1, 2026
+
+| 2026-10-01 | Djokovic wins China Open Day 2 — def. Borges 6-3, 7-6(2). First tour win since Wimbledon QF July 7. Record in Beijing now 30-0 (6 titles). Medical timeout at 2-3 in second set; closed tiebreak 7-2. Potential QF vs Zverev (same quarter). Sources: atptour.com, tennisworldusa.org | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Sep 30 S3: China Open Day 1 opens, Djokovic on schedule) |
+| 2026-10-01 | Japan Open Tokyo opens — ATP 500, Sep 30–Oct 6, Tokyo. Defending champion Alcaraz in draw. Day 1 results: Fils def. Van Assche 6-3, 6-2 (first match as Top 10 player); Tabilo def. Tommy Paul (7th seed) 6-1, 6-2; Vacherot def. Blockx 7-6(2), 7-6(4); Arnaldi def. Sakamoto 2-6, 6-4, 6-4. Sources: atptour.com, tennis.com | T1 | X, FB, Article | Elena Voss; NEW |
+| 2026-10-01 | Sinner now "unlikely to play Shanghai" per Italian media (tennisnow.com). Injury identified as iliotibial band syndrome. Conservative treatment; surgery last resort. Last match Wimbledon July. Would be 5th consecutive missed event. No official withdrawal filed. Sources: tennisnow.com, essentiallysports.com, espn.com | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Sep 30 S4: Sinner WD China Open targeting Shanghai → Shanghai doubtful) |
+| 2026-10-01 | ATP Race to Turin update — Zverev leads at 8,650 pts (qualified), Sinner 2nd at 7,950 (qualified, injured). Bubble: Shelton 4,430; Alcaraz ~4,050; Medvedev ~2,420; Fils ~1,890; de Minaur ~1,870; Menšík ~1,855. Sinner projects to drop 3,550 more Race pts; Zverev drops only ~1,080. Sources: atptour.com, umpiry.com | T2 | X, FB, Article | Ryan Calloway; NEW |
+| 2026-10-01 | WTA Race to Finals standings — Rybakina leads (7,492), Sabalenka 2nd (6,485), Pegula 3rd (5,825), Andreeva 4th (5,722), Gauff 5th (5,654), Svitolina 6th (4,809), Muchova 7th (4,400), Noskova 8th (4,234, last qualifying spot), Kostyuk 9th (3,910), Swiatek 10th (3,584 — 650 pts outside bubble). Beijing WTA 1000 critical for Swiatek's Finals hopes. Sources: wtatennis.com, courtsidecoffee.substack.com | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Sep 30 S5: Rybakina World No. 1 context → Race standings) |
+
+---
+
+
 ## September 30, 2026
 
 | 2026-09-30 | Hangzhou Open Final RESULT — Daniil Medvedev def. Andrey Rublev 7-5, 6-4 in 93 minutes. 23 aces, never dropped serve. Medvedev's 24th career title, 3rd of 2026 (Brisbane, Dubai, Hangzhou). H2H now 8-2 Medvedev. Rublev had earned 400th career ATP win in SF. Sources: atptour.com, tennismajors.com | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Sep 29 S4: Hangzhou Final preview — all-Russian final → RESULT) |
