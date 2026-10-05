@@ -1,0 +1,350 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-01",
+  "compiled_at": "2026-10-01T10:35:04.119691+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 — Phillies comeback/Game 3 tonight",
+      "type": "Breaking/trending"
+    },
+    {
+      "time": "8:00 AM",
+      "description": "Story 2 — Padres sweep",
+      "type": "Breaking"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 3 — White Sox historic sweep",
+      "type": "Follow-up"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 4 — Yankees/Judge update",
+      "type": "Developing"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 5 — Wild Card bracket wrap-up",
+      "type": "Analysis"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 1 reminder — Game 3 TONIGHT preview",
+      "type": "Preview"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Phillies Force Wild Card Game 3 With Dramatic Extra-Inning Comeback",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Philadelphia Phillies rallied from behind to beat the Atlanta Braves 4-3 in 10 innings in Game 2 of the NL Wild Card Series on September 30. Kyle Schwarber and Bryce Harper hit back-to-back home runs off Braves reliever Dylan Lee in the 8th to tie it. Alec Bohm delivered a walk-off homer off Didier Fuentes in the 10th. Series tied 1-1. Winner-take-all Game 3 is tonight (October 1) at Truist Park — 8:15 PM ET, NBC/Peacock. Schwarber's blast traveled 447 feet — the longest home run of the 2026 postseason so far.",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "PHILLIES SURVIVE.\n\nSchwarber and Harper hit back-to-back homers in the 8th. Alec Bohm walked it off in the 10th. Phillies 4, Braves 3.\n\nGame 3 is TONIGHT at Truist Park — 8:15 PM ET on NBC/Peacock. Winner-take-all. 🔔⚾ #RingTheBell",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#RingTheBell"
+          ],
+          "char_count": 230
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Kyle Schwarber's 8th-inning homer last night traveled 447 feet — the longest of the 2026 postseason so far.\n\nTonight in Atlanta: Phillies vs. Braves, Game 3. Winner-take-all. 8:15 PM ET. This one is must-watch baseball. ⚾ #Phillies #Braves",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#Braves"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "Kyle Schwarber stepped in and hit one 447 feet.\n\nBryce Harper, the very next batter, hit another one.\n\nBack-to-back home runs in the eighth inning off Dylan Lee, and the Phillies — who were one out from facing a 2-0 series hole — had completely flipped the script. Then came the tenth inning: Alec Bohm launched a walk-off homer off Didier Fuentes, and Philadelphia had a stunning 4-3 extra-inning win that no Braves fan saw coming.\n\nThe series is tied 1-1. Tonight's winner-take-all Game 3 at Truist Park (8:15 PM ET, NBC/Peacock) is, suddenly, the most electric game on the 2026 postseason schedule.\n\nThis is why you watch October baseball. 🔔⚾",
+        "image_caption": "The Phillies would not go quietly ⚾🔔 Schwarber + Harper back-to-back. Bohm's walk-off. Game 3 is TONIGHT in Atlanta — 8:15 PM ET on NBC/Peacock. #RingTheBell",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-phillies-force-game-3-comeback.html",
+        "headline": "Back-to-Back Home Runs, a Walk-Off, and a Game 3: Phillies Force the Decider in Atlanta",
+        "word_count": 433
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350, 4:5 vertical)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350, 4:5 vertical)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Phillies Force Game 3 With Extra-Inning Comeback\n**Sources:**\n- https://www.si.com/mlb/phillies-braves-comeback-victory-game-2-2026-wild-card-series-takeaways\n- https://bleacherreport.com/articles/25505198-phillies-avoid-elimination-vs-braves-box-score-stats-highlights-after-2026-mlb-wild-card-game-2\n- https://sports.yahoo.com/articles/bryce-harper-drops-honest-quote-022919247.html\n- https://www.foxsports.com/mlb/nl-wild-card-game-2-philadelphia-phillies-vs-atlanta-braves-sep-30-2026-game-boxscore-97197\n- https://www.wsbtv.com/news/local/braves-phillies-meet-under-lights-truist-park-wild-card-series-game-3/AD5EKZ5ZP5ET5EPQJN5KW4YMJI/\n**Verified Facts (HIGH confidence):**\n- Game 2: Phillies 4, Braves 3 (10 innings) — September 30 at Truist Park, Atlanta\n- Game 1: Braves won (home team, Phillies were facing elimination in Game 2)\n- Kyle Schwarber and Bryce Harper hit back-to-back home runs off Dylan Lee in the 8th inning to tie the game\n- Alec Bohm hit a two-out walk-off home run off Didier Fuentes in the 10th inning\n- Series tied 1-1; Game 3: October 1, 8:15 PM ET at Truist Park, Atlanta (NBC/Peacock)\n- Schwarber's HR traveled 447 feet — longest home run of 2026 postseason through Wild Card round\n**Notes:** Game 3 result not available (scheduled for 8:15 PM ET Oct 1 — game had not yet been played when research was conducted).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Padres Sweep Cubs, Advance to NLDS to Face Brewers",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "San Diego Padres eliminated the Chicago Cubs 4-1 in Game 2 on September 30, completing a two-game Wild Card sweep. Gavin Sheets delivered a pinch-hit two-run homer. The Padres advance to the NLDS to face the Milwaukee Brewers. Cubs are eliminated.",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Padres 4, Cubs 1. Series over. Chicago eliminated.\n\nGavin Sheets off the bench with the big swing. San Diego advances to the NLDS to face the Brewers.\n\nThe Cubs couldn't solve Petco Park. Again. ⚾ #Padres #LetsGoPadres",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Padres",
+            "#LetsGoPadres"
+          ],
+          "char_count": 218
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Quick reminder: the Padres have now won their last 5 Wild Card games at Petco Park.\n\nThey went 9-1 in the final 10 regular season games. And they just swept the NL's most dangerous offense.\n\nSan Diego is rolling. ⚾ #Padres",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Padres"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "The San Diego Padres are headed to the NLDS, and the Chicago Cubs are headed home.\n\nSan Diego completed a two-game Wild Card sweep with a 4-1 victory at Petco Park on September 30. It was an efficient, professional performance — one in which Gavin Sheets provided the big moment with a pinch-hit two-run home run — but really, it felt like the Padres were in control from the start.\n\nThe Cubs had one of the best offensive lineups in the National League this year. But they managed just one hit against Dylan King in Game 1 and couldn't find their footing in Game 2, either.\n\nSan Diego advances to face the Milwaukee Brewers in the NLDS. If you weren't nervous about the Padres in October before, you might want to start now. 🔱",
+        "image_caption": "Swept. ⚾🔱 The Padres are in the NLDS after eliminating the Cubs in two games. Next up: Milwaukee Brewers. San Diego is rolling. #Padres #LetsGoPadres",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-padres-sweep-cubs-nlds.html",
+        "headline": "Padres Sweep Cubs, Advance to NLDS: San Diego Is Built for October",
+        "word_count": 470
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350, 4:5 vertical)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350, 4:5 vertical)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Padres Sweep Cubs\n**Sources:**\n- https://bleacherreport.com/articles/25505360-padres-eliminate-cubs-box-score-stats-highlights-bracket-after-2026-mlb-wild-card-game-2\n- https://sports.yahoo.com/mlb/live/cubs-padres-box-score-live-updates-starting-pitchers-news-highlights-stats-where-to-watch-wild-card-game-2-010000197.html\n**Verified Facts (HIGH confidence):**\n- Game 2: Padres 4, Cubs 1 — September 30 at Petco Park, San Diego\n- Game 1 (Sept 29): Padres win (blowout — Padres 8 Cubs 0, per pipeline notes from yesterday)\n- Gavin Sheets hit a pinch-hit two-run home run as key blow in Game 2\n- Padres win series 2-0; Cubs eliminated\n- Padres advance to NLDS vs. Milwaukee Brewers\n- Dylan Cease on mound per prior coverage; Pivetta started for Cubs in Game 2 (per pipeline preview)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "White Sox Complete Historic Sweep of Astros — First Playoff Series Win Since 2005",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Chicago White Sox swept the Houston Astros in the AL Wild Card Series, winning Game 2 on September 30. This is Chicago's first playoff series win since 2005. The White Sox — who had back-to-back 100+ loss seasons in 2023-24 — now advance to the ALDS. Colson Montgomery hit a 432-foot HR in Game 1. The turnaround story of the 2026 postseason.",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "121 losses in 2024.\n\nFirst playoff series WIN since 2005 in 2026.\n\nThe Chicago White Sox just swept the Houston Astros and are in the ALDS. This is one of the best turnaround stories in recent MLB history. ⚾ #WhiteSox #GoodGuysWearBlack",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#GoodGuysWearBlack"
+          ],
+          "char_count": 236
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Colson Montgomery had a .099 batting average in September.\n\nHe still hit a 432-foot home run in the White Sox's playoff opener.\n\nPostseason baseball is different. ⚾ #WhiteSox",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox"
+          ],
+          "char_count": 174
+        }
+      ],
+      "facebook": {
+        "long_form": "Stop and think about what just happened.\n\nTwo years ago, the Chicago White Sox lost 121 games — a modern MLB record for futility. They finished below .500 again in 2025. Then, in 2026, a team of young, unproven players scratched their way into the postseason for the first time in years.\n\nAnd on September 30, they won a playoff series. Their first since 2005.\n\nThe White Sox swept the Houston Astros in the AL Wild Card round, finishing off the series with a victory that completed one of the most unlikely turnarounds in recent baseball history. GM Chris Getz. Manager Will Venable. Seven of nine starters under two years of MLB experience. And Colson Montgomery, who batted .099 in September, hitting a 432-foot home run in Game 1.\n\nThis team isn't just scrappy. They're believers. And now they're in the ALDS.\n\nGet used to them. ⚾🖤",
+        "image_caption": "121 losses in 2024. First playoff SERIES WIN since 2005 in 2026. ⚾🖤 The Chicago White Sox just swept the Houston Astros and are heading to the ALDS. The turnaround story of the 2026 postseason. #WhiteSox",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-03-white-sox-sweep-astros-historic.html",
+        "headline": "From 121 Losses to the ALDS: White Sox Complete Historic Sweep of Astros",
+        "word_count": 418
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350, 4:5 vertical)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350, 4:5 vertical)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "White Sox Sweep Astros\n**Sources:**\n- https://bleacherreport.com/articles/25505227-white-sox-eliminate-astros-box-score-stats-highlights-bracket-after-2026-mlb-wild-card-game-2\n- https://sports.yahoo.com/mlb/live/mlb-wild-card-schedule-live-updates-news-results-scores-bracket-lineups-game-2-starting-pitchers-163000920.html\n- https://www.washingtonpost.com/sports/mlb/2026/09/29/astros-sox-score-playoffs/6d6992ee-bc66-11f1-81fc-9b76f8343b6c_story.html\n**Verified Facts (HIGH confidence):**\n- White Sox swept Astros 2-0 in AL Wild Card Series\n- Game 1 (Sept 29): White Sox 6-3; Colson Montgomery hit 432-foot HR (first White Sox postseason HR since Gavin Sheets HR off Lance McCullers Jr. in 2021 ALDS)\n- Game 2 (Sept 30): White Sox 7-3 (confirmed from research noting series final)\n- First White Sox playoff series win since 2005\n- White Sox advance to ALDS; GM Chris Getz, Manager Will Venable\n- Team was 121 losses in 2024, first playoff berth now; 7 of 9 starters under 2 years MLB experience\n- Montgomery was batting ninth despite .099/.215/.210 September stats",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Yankees Sweep Red Sox Without Judge — Aaron Judge Targets ALDS Return",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "New York Yankees swept the Red Sox in two games, winning Game 2 on September 30 by a score of 9-2. Ben Rice hit multiple home runs across the series. Aaron Judge was not on the Wild Card roster due to a right calf strain (soleus) but is targeting a return for the ALDS vs. Tampa Bay Rays. Yankees outscored Boston 18-2 across two games.",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Yankees outscored the Red Sox 18-2 without Aaron Judge.\n\nBen Rice: multiple home runs, including a grand slam. Cam Schlittler: 6.1 IP, 12 strikeouts in Game 1.\n\nJudge is targeting the ALDS vs. Tampa Bay. Imagine what this lineup looks like healthy. ⚾ #Yankees",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "The Yankees swept the Red Sox 2-0 — and they did it without Aaron Judge.\n\nBen Rice went yard multiple times, including a grand slam in Game 1. Cam Schlittler was unhittable in his Wild Card Game 1 start (6.1 IP, 12 strikeouts, no walks). New York outscored Boston 18-2 across the two games.\n\nJudge, who has been nursing a moderate-grade right calf strain since September 16, was not on the Wild Card roster. He participated in batting practice and on-field running before the series, but the Yankees made the conservative call. With the ALDS vs. Tampa Bay ahead, the plan is to have him ready for a higher-stakes series.\n\nIf the Yankees are this good without the reigning AL MVP, what do they look like when he's back?\n\nThe Rays are about to find out. ⚾ #Yankees",
+        "image_caption": "18 runs. 2 allowed. No Aaron Judge. ⚾ The New York Yankees are through to the ALDS against the Rays — and Judge is targeting his return. #Yankees #RepBX",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-04-yankees-sweep-red-sox-judge-alds.html",
+        "headline": "Yankees Sweep Red Sox 18-2 Without Judge — Now Targeting ALDS Comeback",
+        "word_count": 442
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350, 4:5 vertical)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Social (1080x1350, 4:5 vertical)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Yankees Sweep Red Sox; Judge ALDS Target\n**Sources:**\n- https://bleacherreport.com/articles/25504848-yankees-beat-red-sox-box-score-stats-highlights-updated-bracket-after-2026-mlb-wild-card-game-2\n- https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-29/aaron-judge-calf-not-on-the-wild-card-roster\n- https://bleacherreport.com/articles/25504314-yankees-aaron-judge-provides-injury-update-talks-status-red-sox-series-2026-mlb-playoffs\n- https://www.foxsports.com/stories/mlb/2026-mlb-playoffs-aaron-judge-calf-strain-wild-card\n- https://www.espn.com/mlb/story/_/id/50054624/aaron-judge-set-take-bp-yankees-roster-call-nears\n**Verified Facts (HIGH confidence):**\n- Game 2: Yankees 9, Red Sox 2 — September 30\n- Game 1: Yankees 9, Red Sox 0 — September 29 (Cam Schlittler 6.1 IP, 12 K)\n- Yankees swept Red Sox 2-0; advance to ALDS vs. Tampa Bay Rays\n- Total margin: Yankees 18, Red Sox 2 across two games\n- Ben Rice hit multiple home runs, including grand slam in Game 1 (423-foot blast)\n- Aaron Judge: not on Wild Card roster due to moderate-grade right soleus (calf) strain (suffered Sept 16)\n- Judge had participated in batting practice and live at-bats; ALDS activation described as possible if he continues progressing\n- Cam Schlittler and Ben Rice both grew up in Cohasset, MA (Boston suburb)\n- Clarke Schmidt also on 15-day IL (right bicep neuritis)\n**Notes:** Exact Game 2 Ben Rice stats not fully verified — HR count should be confirmed against box score.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Wild Card Round Wrap-Up — Three Sweeps and a Thriller, ALDS/NLDS Bracket Set",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "The 2026 Wild Card round produced three sweeps (Padres, White Sox, Yankees) and one dramatic series going to a Game 3 (Phillies-Braves tonight). ALDS: Yankees vs. Rays; White Sox vs. TBD in AL. NLDS: Padres vs. Brewers; Phillies/Braves winner vs. TBD.",
+      "posting_window": "12:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "2026 Wild Card results:\n⚾ Padres sweep Cubs\n⚾ White Sox sweep Astros\n⚾ Yankees sweep Red Sox\n⚾ Phillies vs. Braves → Game 3 TONIGHT\n\nThree sweeps. One epic comeback. One final game to decide it all. The bracket is almost set. 🔥",
+          "posting_time": "12:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "Let's recap the 2026 Wild Card round before the Division Series begins.\n\nThree of the four series were sweeps. The Padres dismissed the Cubs efficiently. The White Sox shocked the Astros. The Yankees demolished the Red Sox. All three winning teams go into the ALDS/NLDS with momentum and healthy rosters.\n\nThen there's the Phillies and the Braves — the one series that reminded us why we watch.\n\nDown 0-1 after Atlanta's Game 1 win, Philadelphia punched back with one of the best postseason performances anyone's put together this October: back-to-back home runs in the eighth, a walk-off in the 10th, and a 4-3 comeback for the ages. Tonight, those teams play a winner-take-all Game 3 in Atlanta (8:15 PM ET, NBC/Peacock).\n\nOne game, everything on the line. That's baseball.",
+        "image_caption": "The 2026 Wild Card round had everything: three sweeps, one walk-off, and one win-or-go-home game TONIGHT. ⚾🔥 The bracket is almost set — and it's going to be a great October. #MLB #Postseason",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-wild-card-round-wrap-up-2026.html",
+        "headline": "2026 Wild Card Round Recap: Three Sweeps, One Thriller, and a Bracket Nearly Set",
+        "word_count": 463
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350, 4:5 vertical)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wild Card Round Wrap-Up\n**Sources:**\n- https://www.mlb.com/news/2026-wild-card-series-game-times\n- https://sports.yahoo.com/mlb/article/2026-mlb-wild-card-series-how-to-watch-full-baseball-playoffs-schedule-and-more-204900599.html\n- https://bleacherreport.com/articles/25505227-white-sox-eliminate-astros-box-score-stats-highlights-bracket-after-2026-mlb-wild-card-game-2\n**Verified Facts (HIGH confidence):**\n- NL: Padres sweep Cubs 2-0; Phillies vs. Braves tied 1-1 (Game 3 Oct 1, 8:15 PM ET)\n- AL: Yankees sweep Red Sox 2-0; White Sox sweep Astros 2-0\n- ALDS bracket (confirmed): Yankees vs. Rays; White Sox vs. TBD in AL\n- NLDS bracket (confirmed when Phillies-Braves resolves): Padres vs. Brewers; winner of PHI/ATL vs. TBD\n- Kyle Schwarber HR (447 ft) — longest postseason HR through Wild Card round\n- Cam Smith HR (440 ft, 111.5 mph exit velocity) — another notable postseason blast\n- Colson Montgomery 432-ft HR — notable despite poor September stats (.099 BA)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

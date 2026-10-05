@@ -1,0 +1,2896 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COS Parenting — Content Review Dashboard</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #f5f5f5;
+            display: flex;
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .sidebar {
+            width: 280px;
+            background: #1a1a2e;
+            color: white;
+            padding: 30px 20px;
+            position: fixed;
+            height: 100vh;
+            overflow-y: auto;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            z-index: 10;
+        }
+
+        .sidebar h1 { font-size: 18px; margin-bottom: 10px; color: #FF8A00; font-weight: 700; }
+        .sidebar-date { font-size: 12px; color: #aaa; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #333; }
+        .sidebar-section { margin-bottom: 25px; }
+        .sidebar-section-title { font-size: 12px; text-transform: uppercase; color: #999; margin-bottom: 12px; font-weight: 600; letter-spacing: 1px; }
+
+        .nav-item {
+            display: block; padding: 12px 15px; margin-bottom: 8px; border-radius: 6px;
+            cursor: pointer; transition: all 0.3s ease; font-size: 14px; color: #ddd; user-select: none;
+        }
+        .nav-item:hover { background: #2d2d44; color: #FF8A00; }
+        .nav-item.active { background: #FF8A00; color: white; }
+        .nav-item-count { float: right; background: rgba(255, 107, 53, 0.3); padding: 2px 8px; border-radius: 3px; font-size: 12px; }
+        .nav-item.active .nav-item-count { background: rgba(0, 0, 0, 0.2); }
+
+        .main-content { margin-left: 280px; flex: 1; display: flex; flex-direction: column; }
+
+        .header {
+            background: white; padding: 25px 40px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-bottom: 3px solid #FF8A00;
+        }
+        .header h1 { font-size: 28px; color: #1a1a2e; margin-bottom: 10px; }
+        .header-meta { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px; }
+        .progress-bar { flex: 1; min-width: 200px; }
+        .progress-label { font-size: 13px; color: #666; margin-bottom: 8px; font-weight: 500; }
+        .progress-container { width: 100%; height: 8px; background: #ddd; border-radius: 4px; overflow: hidden; }
+        .progress-fill { height: 100%; background: linear-gradient(90deg, #FF8A00, #E53935); transition: width 0.3s ease; }
+        .header-actions { display: flex; gap: 10px; }
+
+        .btn {
+            padding: 10px 16px; border: none; border-radius: 6px; font-size: 14px;
+            font-weight: 600; cursor: pointer; transition: all 0.3s ease; white-space: nowrap;
+        }
+        .btn-primary { background: #FF8A00; color: white; }
+        .btn-primary:hover { background: #E53935; }
+        .btn-secondary { background: #f0f0f0; color: #333; }
+        .btn-secondary:hover { background: #e0e0e0; }
+
+        .filter-bar {
+            background: white; padding: 20px 40px; display: flex;
+            gap: 10px; flex-wrap: wrap; border-bottom: 1px solid #eee;
+        }
+        .filter-btn {
+            padding: 8px 14px; border: 1px solid #ddd; background: white;
+            border-radius: 5px; cursor: pointer; font-size: 13px; transition: all 0.3s ease;
+        }
+        .filter-btn:hover { border-color: #FF8A00; color: #FF8A00; }
+        .filter-btn.active { background: #FF8A00; color: white; border-color: #FF8A00; }
+
+        .content { flex: 1; padding: 30px 40px; overflow-y: auto; }
+
+        .cards-container { display: flex; flex-direction: column; gap: 20px; max-width: 900px; }
+
+        .card {
+            background: white; border-radius: 8px; padding: 24px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: all 0.3s ease;
+            border-left: 5px solid #ccc; display: none;
+        }
+        .card.show { display: block; }
+        .card.approved { border-left-color: #22c55e; }
+        .card.needs-edit { border-left-color: #eab308; }
+        .card.rejected { border-left-color: #ef4444; }
+        .card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.12); }
+
+        .card-header { display: flex; justify-content: space-between; align-items: start; margin-bottom: 15px; }
+        .card-title { font-size: 16px; font-weight: 600; color: #1a1a2e; flex: 1; margin-right: 10px; }
+
+        .card-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+        }
+        .badge-x-post { background: #1da1f2; color: white; }
+        .badge-facebook { background: #4267b2; color: white; }
+        .badge-article { background: #9333ea; color: white; }
+        .badge-image { background: #06b6d4; color: white; }
+        .badge-brief { background: #10b981; color: white; }
+
+        .fact-check-badge {
+            display: inline-block; padding: 3px 8px; border-radius: 4px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+            margin-left: 6px;
+        }
+        .fact-check-verified { background: #dcfce7; color: #166534; border: 1px solid #86efac; }
+        .fact-check-warning { background: #fef9c3; color: #854d0e; border: 1px solid #fde047; }
+        .fact-check-unverified { background: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; }
+
+        /* Content area — preview (collapsed) and full (expanded) */
+        .card-content {
+            background: #f9f9f9; padding: 15px; border-radius: 6px;
+            margin-bottom: 15px; font-size: 13px; line-height: 1.6; color: #555;
+            position: relative;
+        }
+        .card-content-text {
+            white-space: pre-wrap; word-break: break-word;
+        }
+
+        /* Collapsed state: limit height with fade */
+        .card-content.collapsed {
+            max-height: 200px; overflow: hidden;
+        }
+        .card-content.collapsed::after {
+            content: '';
+            position: absolute; bottom: 0; left: 0; right: 0; height: 60px;
+            background: linear-gradient(transparent, #f9f9f9);
+            pointer-events: none;
+        }
+
+        /* Expanded state: no limit */
+        .card-content.expanded {
+            max-height: none; overflow: visible;
+        }
+        .card-content.expanded::after { display: none; }
+
+        .expand-toggle {
+            display: inline-block; margin-bottom: 12px; padding: 6px 14px;
+            background: #eee; border: 1px solid #ddd; border-radius: 4px;
+            cursor: pointer; font-size: 12px; font-weight: 600; color: #555;
+            transition: all 0.2s ease;
+        }
+        .expand-toggle:hover { background: #ddd; color: #333; }
+
+        /* Inline editing */
+        .edit-textarea {
+            width: 100%; padding: 15px; border: 2px solid #FF8A00;
+            border-radius: 6px; font-size: 13px; font-family: inherit;
+            line-height: 1.6; resize: vertical; min-height: 200px;
+            background: #fffef5; color: #333; display: none;
+        }
+        .edit-textarea:focus {
+            outline: none; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.15);
+        }
+        .card.editing .card-content { display: none; }
+        .card.editing .edit-textarea { display: block; }
+        .card.editing .expand-toggle { display: none; }
+
+        .edit-bar {
+            display: none; gap: 8px; margin-bottom: 12px; padding: 10px;
+            background: #fff8f0; border: 1px solid #ffcc99; border-radius: 6px;
+            align-items: center;
+        }
+        .card.editing .edit-bar { display: flex; }
+        .edit-bar-label { font-size: 12px; font-weight: 600; color: #cc6600; flex: 1; }
+        .edit-bar .btn { padding: 7px 14px; font-size: 12px; }
+
+        .tweet-meta-bar {
+            display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; padding: 0;
+        }
+        .tweet-meta-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 600; letter-spacing: 0.3px;
+        }
+        .tweet-meta-label { background: #e0e7ff; color: #3730a3; }
+        .tweet-meta-time { background: #fef3c7; color: #92400e; }
+        .tweet-meta-type { background: #d1fae5; color: #065f46; }
+        .tweet-meta-tier { background: #f3e8ff; color: #6b21a8; }
+        .tweet-meta-hashtags { background: #dbeafe; color: #1e40af; font-family: monospace; }
+
+        .char-count {
+            font-size: 12px; margin: 0 0 10px 0; padding: 8px;
+            background: #f0f0f0; border-radius: 4px;
+        }
+        .char-count.warning { background: #fee2e2; color: #991b1b; }
+
+        .card-actions { display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+        .action-btn {
+            flex: 1; padding: 10px; border: none; border-radius: 5px;
+            cursor: pointer; font-size: 13px; font-weight: 600;
+            transition: all 0.3s ease; white-space: nowrap; min-width: 100px;
+        }
+        .btn-approve { background: #e8f5e9; color: #22c55e; border: 1px solid #22c55e; }
+        .btn-approve:hover { background: #22c55e; color: white; }
+        .btn-edit { background: #fff3e0; color: #e65100; border: 1px solid #ff9800; }
+        .btn-edit:hover { background: #ff9800; color: white; }
+        .btn-reject { background: #fee2e2; color: #ef4444; border: 1px solid #ef4444; }
+        .btn-reject:hover { background: #ef4444; color: white; }
+        .btn-copy { background: #f0f0f0; color: #333; border: 1px solid #ddd; }
+        .btn-copy:hover { background: #e0e0e0; }
+
+        .notes-section { display: none; margin-bottom: 12px; }
+        .notes-section.show { display: block; }
+        .notes-label { font-size: 12px; font-weight: 600; color: #666; margin-bottom: 6px; }
+        .notes-textarea {
+            width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;
+            font-size: 13px; font-family: inherit; resize: vertical; min-height: 60px;
+        }
+        .notes-textarea:focus { outline: none; border-color: #FF8A00; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.1); }
+
+        .status-label {
+            font-size: 11px; font-weight: 600; text-transform: uppercase;
+            padding: 4px 8px; border-radius: 3px; margin-top: 10px; display: inline-block;
+        }
+        .status-approved { background: #e8f5e9; color: #22c55e; }
+        .status-needs-edit { background: #fffbeb; color: #f59e0b; }
+        .status-rejected { background: #fee2e2; color: #ef4444; }
+        .status-edited { background: #e3f2fd; color: #1565c0; }
+
+        .empty-state { text-align: center; padding: 60px 20px; color: #999; }
+        .empty-state-icon { font-size: 48px; margin-bottom: 15px; }
+
+        /* Approval stats bar */
+        .approval-stats {
+            display: flex; gap: 16px; margin-top: 12px; flex-wrap: wrap;
+        }
+        .stat-chip {
+            display: inline-flex; align-items: center; gap: 6px;
+            padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 600;
+        }
+        .stat-approved { background: #dcfce7; color: #16a34a; }
+        .stat-rejected { background: #fee2e2; color: #dc2626; }
+        .stat-unreviewed { background: #f3f4f6; color: #6b7280; }
+        .stat-dot { width: 8px; height: 8px; border-radius: 50%; }
+        .stat-approved .stat-dot { background: #22c55e; }
+        .stat-rejected .stat-dot { background: #ef4444; }
+        .stat-unreviewed .stat-dot { background: #9ca3af; }
+
+        /* PostPlanner XLSX button */
+        .btn-csv { background: #7c3aed; color: white; }
+        .btn-csv:hover { background: #6d28d9; }
+        .btn-csv:disabled { background: #c4b5fd; cursor: not-allowed; }
+
+        /* Schedule settings panel */
+        .schedule-panel {
+            display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
+            background: white; border-radius: 12px; padding: 30px; z-index: 1000;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3); width: 500px; max-width: 90vw; max-height: 80vh; overflow-y: auto;
+        }
+        .schedule-panel.show { display: block; }
+        .schedule-overlay { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); z-index: 999; }
+        .schedule-overlay.show { display: block; }
+        .schedule-panel h3 { color: #1a1a2e; margin-bottom: 20px; font-size: 18px; }
+        .schedule-section { margin-bottom: 20px; }
+        .schedule-section label { display: block; font-size: 13px; font-weight: 600; color: #555; margin-bottom: 6px; }
+        .schedule-section input { width: 100%; padding: 8px 12px; border: 1px solid #ddd; border-radius: 4px; font-size: 14px; }
+        .schedule-section input:focus { outline: none; border-color: #7c3aed; }
+        .time-slots { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+        .time-slot {
+            display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px;
+            background: #f3f0ff; border: 1px solid #c4b5fd; border-radius: 20px; font-size: 13px;
+        }
+        .time-slot .remove-slot { cursor: pointer; color: #999; font-weight: bold; }
+        .time-slot .remove-slot:hover { color: #ef4444; }
+        .add-slot-btn {
+            padding: 6px 14px; background: #f3f0ff; border: 1px dashed #7c3aed; border-radius: 20px;
+            cursor: pointer; font-size: 13px; color: #7c3aed;
+        }
+        .add-slot-btn:hover { background: #ede9fe; }
+        .schedule-actions { display: flex; gap: 10px; justify-content: flex-end; margin-top: 20px; }
+
+        /* Photo search links for image concepts */
+        .photo-section {
+            margin-bottom: 15px; padding: 12px; background: #f0f9ff;
+            border: 1px solid #bae6fd; border-radius: 6px;
+        }
+        .photo-section-title {
+            font-size: 12px; font-weight: 700; color: #0369a1; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-bottom: 8px;
+        }
+        .photo-links { display: flex; flex-wrap: wrap; gap: 6px; }
+        .photo-link {
+            display: inline-block; padding: 6px 12px; background: #0ea5e9;
+            color: white; border-radius: 4px; font-size: 12px; font-weight: 500;
+            text-decoration: none; transition: all 0.2s ease; cursor: pointer;
+        }
+        .photo-link:hover { background: #0284c7; }
+
+        /* Image URL input and preview for image concepts */
+        .image-url-section {
+            margin-bottom: 15px; padding: 12px; background: #f0fdf4;
+            border: 1px solid #bbf7d0; border-radius: 6px;
+        }
+        .image-url-section label {
+            display: block; font-size: 12px; font-weight: 700; color: #166534;
+            text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px;
+        }
+        .image-url-input {
+            width: 100%; padding: 8px 10px; border: 1px solid #86efac;
+            border-radius: 4px; font-size: 13px; font-family: monospace;
+            background: white; box-sizing: border-box;
+        }
+        .image-url-input:focus { outline: none; border-color: #22c55e; box-shadow: 0 0 0 2px rgba(34,197,94,0.2); }
+        .image-url-hint {
+            font-size: 11px; color: #6b7280; margin-top: 4px;
+        }
+        .image-preview {
+            margin-top: 8px; text-align: center;
+        }
+        .image-preview img {
+            max-width: 100%; max-height: 200px; border-radius: 4px;
+            border: 1px solid #d1d5db; display: none;
+        }
+        .image-preview img.loaded { display: inline-block; }
+
+        /* Image production status badges */
+        .image-badge {
+            display: inline-block; padding: 2px 8px; border-radius: 3px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-left: 6px;
+        }
+        .image-exported { background: #dcfce7; color: #166534; }
+        .image-in-progress { background: #fef3c7; color: #92400e; }
+        .image-not-started { background: #f3f4f6; color: #6b7280; }
+
+        /* Text overlay preview for image concepts */
+        .overlay-section {
+            margin-bottom: 15px; padding: 15px; background: #1a1a2e;
+            border-radius: 6px; text-align: center;
+        }
+        .overlay-line {
+            font-family: 'Bebas Neue', Impact, 'Arial Black', sans-serif;
+            color: #ffd700; font-size: 18px; font-weight: 700; line-height: 1.4;
+            text-transform: uppercase; letter-spacing: 1px;
+        }
+        .overlay-line.sub { color: #ffffff; font-size: 14px; font-weight: 400; letter-spacing: 0; text-transform: none; }
+
+        /* Article content rendered as HTML */
+        .article-frame {
+            width: 100%; border: 1px solid #ddd; border-radius: 6px;
+            background: white; min-height: 300px;
+        }
+
+        @media (max-width: 768px) {
+            .sidebar { width: 100%; height: auto; position: relative; padding: 20px; }
+            .main-content { margin-left: 0; }
+            .content { padding: 20px; }
+            .header { padding: 15px 20px; }
+            .header h1 { font-size: 20px; }
+            .filter-bar { padding: 15px 20px; }
+            .header-meta { flex-direction: column; align-items: stretch; }
+            .progress-bar { min-width: auto; }
+        }
+
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #888; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #555; }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <h1>COS Parenting</h1>
+        <div class="sidebar-date">Review Dashboard<br>2026-10-01</div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Content Types</div>
+            <div class="nav-item" onclick="filterByType('daily_brief')">
+                Daily Brief
+                <span class="nav-item-count">5</span>
+            </div>
+            <div class="nav-item" onclick="filterByType('x_post')">
+                X / Twitter Posts
+                <span class="nav-item-count">8</span>
+            </div>
+            <div class="nav-item" onclick="filterByType('article')">
+                Articles
+                <span class="nav-item-count">5</span>
+            </div>
+
+            <div class="nav-item" onclick="filterByType('all')">
+                All Items
+                <span class="nav-item-count">18</span>
+            </div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Status Filter</div>
+            <div class="nav-item" onclick="filterByStatus('all')">All</div>
+            <div class="nav-item" onclick="filterByStatus('unreviewed')">Unreviewed</div>
+            <div class="nav-item" onclick="filterByStatus('approved')">Approved</div>
+            <div class="nav-item" onclick="filterByStatus('needs-edit')">Needs Edit</div>
+            <div class="nav-item" onclick="filterByStatus('rejected')">Rejected</div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Actions</div>
+            <div class="nav-item" onclick="approveAll()" style="color: #22c55e;">
+                Approve All
+            </div>
+            <div class="nav-item" onclick="exportApprovals()" style="color: #FF8A00;">
+                Export Results JSON
+            </div>
+            <div class="nav-item" onclick="downloadPostPlannerCSV()" style="color: #a78bfa;">
+                PostPlanner Upload
+            </div>
+            <div class="nav-item" onclick="downloadTOBIExport()" style="color: #f472b6;">
+                TOBI Upload
+            </div>
+        </div>
+    </div>
+
+    <div class="main-content">
+        <div class="header">
+            <h1>COS Parenting — Content Review Dashboard</h1>
+            <div class="header-meta">
+                <div class="progress-bar">
+                    <div class="progress-label">
+                        <span id="reviewed-count">0</span> of <span id="total-count">18</span> items reviewed
+                    </div>
+                    <div class="progress-container">
+                        <div class="progress-fill" id="progress-fill" style="width: 0%"></div>
+                    </div>
+                    <div class="approval-stats" id="approval-stats">
+                        <span class="stat-chip stat-approved"><span class="stat-dot"></span> <span id="stat-approved-count">0</span> approved</span>
+                        <span class="stat-chip stat-rejected"><span class="stat-dot"></span> <span id="stat-rejected-count">0</span> rejected</span>
+                        <span class="stat-chip stat-unreviewed"><span class="stat-dot"></span> <span id="stat-unreviewed-count">0</span> unreviewed</span>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <button class="btn btn-secondary" onclick="resetAll()">Reset All</button>
+                    <button class="btn btn-csv" id="btn-csv" onclick="downloadPostPlannerCSV()" disabled>PostPlanner Upload (0 approved)</button>
+                    <button class="btn btn-csv" id="btn-tobi" onclick="downloadTOBIExport()" disabled style="background: #831843; border-color: #f472b6;">TOBI Upload (0 approved)</button>
+                    <button class="btn btn-primary" onclick="exportApprovals()">Export JSON</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="filter-bar">
+            <button class="filter-btn active" onclick="filterByStatus('all')">All</button>
+            <button class="filter-btn" onclick="filterByStatus('unreviewed')">Unreviewed</button>
+            <button class="filter-btn" onclick="filterByStatus('approved')">Approved</button>
+            <button class="filter-btn" onclick="filterByStatus('needs-edit')">Needs Edit</button>
+            <button class="filter-btn" onclick="filterByStatus('rejected')">Rejected</button>
+        </div>
+
+
+        <div class="content">
+            <div class="cards-container" id="cards-container">
+                <div class="card" data-id="story-1-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Things to Do with Kids in Colorado Springs This Weekend (Oct. 2–4)</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-1-daily_brief">
+                        <div class="card-content-text">Things to Do with Kids in Colorado Springs This Weekend (Oct. 2–4)</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-daily_brief" placeholder="Edit content here...">Things to Do with Kids in Colorado Springs This Weekend (Oct. 2–4)</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-1-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-1-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Things to Do with Kids in Colorado Springs This Weekend (Oct. 2–4)</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 1-1</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#COSKids #ColoradoSprings</span></div>
+
+                    <div class="card-content expanded" id="content-story-1-x_post-1">
+                        <div class="card-content-text">Five things to do with kids in Colorado Springs this weekend (Oct. 2–4):
+
+🔬 Cool Science Carnival at UCCS — FREE
+🌾 Rock Ledge Ranch Harvest Festival — $6+
+🎃 Venetucci Farm Pumpkin Fest
+👻 Ghost Stories of Old Manitou
+🎵 Concrete Couchella — FREE
+
+#COSKids #ColoradoSprings</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-x_post-1" placeholder="Edit content here...">Five things to do with kids in Colorado Springs this weekend (Oct. 2–4):
+
+🔬 Cool Science Carnival at UCCS — FREE
+🌾 Rock Ledge Ranch Harvest Festival — $6+
+🎃 Venetucci Farm Pumpkin Fest
+👻 Ghost Stories of Old Manitou
+🎵 Concrete Couchella — FREE
+
+#COSKids #ColoradoSprings</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-1-x_post-1">Characters: 270/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-1-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-1-x_post-2" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Things to Do with Kids in Colorado Springs This Weekend (Oct. 2–4)</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 1-2</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#COSKids #FreeColoradoSprings</span></div>
+
+                    <div class="card-content expanded" id="content-story-1-x_post-2">
+                        <div class="card-content-text">Two free picks for Colorado Springs families this weekend:
+
+🔬 Cool Science Carnival at UCCS — Saturday, 10 AM–4 PM. Rockets, slime, robots, live animals. Great for K–8.
+
+🎵 Concrete Couchella — Oct. 2–3. Live music, art, games, food.
+
+#COSKids #FreeColoradoSprings</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-x_post-2" placeholder="Edit content here...">Two free picks for Colorado Springs families this weekend:
+
+🔬 Cool Science Carnival at UCCS — Saturday, 10 AM–4 PM. Rockets, slime, robots, live animals. Great for K–8.
+
+🎵 Concrete Couchella — Oct. 2–3. Live music, art, games, food.
+
+#COSKids #FreeColoradoSprings</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-x_post-2">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-x_post-2')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-x_post-2')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-1-x_post-2">Characters: 263/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-1-x_post-2">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-x_post-2')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-x_post-2')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-x_post-2')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-x_post-2')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-x_post-2">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-x_post-2" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-x_post-2"></div>
+                </div>
+                <div class="card" data-id="story-1-x_post-3" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Things to Do with Kids in Colorado Springs This Weekend (Oct. 2–4)</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 1-3</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#COSKids</span></div>
+
+                    <div class="card-content expanded" id="content-story-1-x_post-3">
+                        <div class="card-content-text">Full weekend guide for Colorado Springs families is up — five picks for Oct. 2–4 with times, prices, and links.
+
+Link in bio or check springsdaily.com/events/this-weekend-with-kids. #COSKids</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-x_post-3" placeholder="Edit content here...">Full weekend guide for Colorado Springs families is up — five picks for Oct. 2–4 with times, prices, and links.
+
+Link in bio or check springsdaily.com/events/this-weekend-with-kids. #COSKids</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-x_post-3">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-x_post-3')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-x_post-3')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-1-x_post-3">Characters: 190/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-1-x_post-3">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-x_post-3')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-x_post-3')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-x_post-3')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-x_post-3')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-x_post-3">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-x_post-3" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-x_post-3"></div>
+                </div>
+                <div class="card" data-id="story-2-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">CPSC Recalls Two Baby Bath Seats Over Drowning Risk — What Parents Need to Know</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-2-daily_brief">
+                        <div class="card-content-text">CPSC Recalls Two Baby Bath Seats Over Drowning Risk — What Parents Need to Know</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-daily_brief" placeholder="Edit content here...">CPSC Recalls Two Baby Bath Seats Over Drowning Risk — What Parents Need to Know</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-2-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-2-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">CPSC Recalls Two Baby Bath Seats Over Drowning Risk — What Parents Need to Know</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 2-1</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#BabySafety #CPSCRecall</span></div>
+
+                    <div class="card-content expanded" id="content-story-2-x_post-1">
+                        <div class="card-content-text">RECALL: Two baby bath seat models sold on Amazon have been recalled by the CPSC for drowning and entrapment risk.
+
+If you have an YCXXKJ or NFSVLB bath seat, stop using it now.
+
+Contact the seller for a full refund. #BabySafety #CPSCRecall</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-x_post-1" placeholder="Edit content here...">RECALL: Two baby bath seat models sold on Amazon have been recalled by the CPSC for drowning and entrapment risk.
+
+If you have an YCXXKJ or NFSVLB bath seat, stop using it now.
+
+Contact the seller for a full refund. #BabySafety #CPSCRecall</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-2-x_post-1">Characters: 239/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-2-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-2-x_post-2" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">CPSC Recalls Two Baby Bath Seats Over Drowning Risk — What Parents Need to Know</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 2-2</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#CPSCRecall</span></div>
+
+                    <div class="card-content expanded" id="content-story-2-x_post-2">
+                        <div class="card-content-text">YCXXKJ bath seat (BenTalk on Amazon): ~9,000 units recalled. Tips over — drowning risk.
+
+NFSVLB bath seat (Amazon): Leg openings let infants slip through — entrapment and drowning risk.
+
+Both sold 2024–2025. Stop use. Get a refund. Details at cpsc.gov. #CPSCRecall</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-x_post-2" placeholder="Edit content here...">YCXXKJ bath seat (BenTalk on Amazon): ~9,000 units recalled. Tips over — drowning risk.
+
+NFSVLB bath seat (Amazon): Leg openings let infants slip through — entrapment and drowning risk.
+
+Both sold 2024–2025. Stop use. Get a refund. Details at cpsc.gov. #CPSCRecall</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-x_post-2">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-x_post-2')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-x_post-2')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-2-x_post-2">Characters: 264/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-2-x_post-2">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-x_post-2')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-x_post-2')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-x_post-2')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-x_post-2')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-x_post-2">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-x_post-2" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-x_post-2"></div>
+                </div>
+                <div class="card" data-id="story-3-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">D11 and D49 Fall Break and Parent-Teacher Conference Dates — October 2026</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-3-daily_brief">
+                        <div class="card-content-text">D11 and D49 Fall Break and Parent-Teacher Conference Dates — October 2026</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-daily_brief" placeholder="Edit content here...">D11 and D49 Fall Break and Parent-Teacher Conference Dates — October 2026</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-3-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-3-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-3-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">D11 and D49 Fall Break and Parent-Teacher Conference Dates — October 2026</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 3</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#D11 #D49 #COSParenting</span></div>
+
+                    <div class="card-content expanded" id="content-story-3-x_post-1">
+                        <div class="card-content-text">October dates for Colorado Springs school families:
+
+D11: Teacher workday Oct. 9. Parent-teacher conferences Oct. 16. Fall break Oct. 19–22.
+
+D49: PTCs + no school Oct. 9. Fall break Oct. 12–23 — nearly two weeks.
+
+Plan accordingly. #D11 #D49 #COSParenting</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-x_post-1" placeholder="Edit content here...">October dates for Colorado Springs school families:
+
+D11: Teacher workday Oct. 9. Parent-teacher conferences Oct. 16. Fall break Oct. 19–22.
+
+D49: PTCs + no school Oct. 9. Fall break Oct. 12–23 — nearly two weeks.
+
+Plan accordingly. #D11 #D49 #COSParenting</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-3-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-3-x_post-1">Characters: 256/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-3-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-4-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">AAP 2026 Vaccine Schedule Recommends More Shots Than CDC — What Colorado Families Should Know</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-4-daily_brief">
+                        <div class="card-content-text">AAP 2026 Vaccine Schedule Recommends More Shots Than CDC — What Colorado Families Should Know</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-4-daily_brief" placeholder="Edit content here...">AAP 2026 Vaccine Schedule Recommends More Shots Than CDC — What Colorado Families Should Know</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-4-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-4-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-4-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-4-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-4-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-4-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-4-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-4-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-4-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-4-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-4-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-4-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">AAP 2026 Vaccine Schedule Recommends More Shots Than CDC — What Colorado Families Should Know</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 4</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#ChildHealth #Colorado</span></div>
+
+                    <div class="card-content expanded" id="content-story-4-x_post-1">
+                        <div class="card-content-text">The AAP&#x27;s 2026 vaccine schedule covers 17 diseases — more than the CDC&#x27;s, which dropped hep A/B, flu, rotavirus, RSV, and meningococcal.
+
+Colorado CDPHE backs the AAP list. Ask your pediatrician which schedule they follow. #ChildHealth #Colorado</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-4-x_post-1" placeholder="Edit content here...">The AAP&#x27;s 2026 vaccine schedule covers 17 diseases — more than the CDC&#x27;s, which dropped hep A/B, flu, rotavirus, RSV, and meningococcal.
+
+Colorado CDPHE backs the AAP list. Ask your pediatrician which schedule they follow. #ChildHealth #Colorado</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-4-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-4-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-4-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-4-x_post-1">Characters: 245/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-4-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-4-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-4-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-4-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-4-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-4-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-4-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-4-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-5-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Cool Science Festival Returns to Colorado Springs — Free STEAM Events Oct. 3–18</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-5-daily_brief">
+                        <div class="card-content-text">Cool Science Festival Returns to Colorado Springs — Free STEAM Events Oct. 3–18</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-daily_brief" placeholder="Edit content here...">Cool Science Festival Returns to Colorado Springs — Free STEAM Events Oct. 3–18</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-5-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-5-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-5-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Cool Science Festival Returns to Colorado Springs — Free STEAM Events Oct. 3–18</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 5</span><span class="tweet-meta-badge tweet-meta-tier">Tier 0</span><span class="tweet-meta-badge tweet-meta-hashtags">#COSKids #STEAM</span></div>
+
+                    <div class="card-content expanded" id="content-story-5-x_post-1">
+                        <div class="card-content-text">The Cool Science Festival runs Oct. 3–18 in Colorado Springs — 16 days of mostly free STEAM events across the city.
+
+Carnival Day at UCCS kicks it off Saturday. WMMI, Ivywild, and USAFA have events through Oct. 18.
+
+Full schedule at coolscience.org. #COSKids #STEAM</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-x_post-1" placeholder="Edit content here...">The Cool Science Festival runs Oct. 3–18 in Colorado Springs — 16 days of mostly free STEAM events across the city.
+
+Carnival Day at UCCS kicks it off Saturday. WMMI, Ivywild, and USAFA have events through Oct. 18.
+
+Full schedule at coolscience.org. #COSKids #STEAM</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-5-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-5-x_post-1">Characters: 265/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-5-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-x_post-1"></div>
+                </div>
+                <div class="card" data-id="article-article-01-things-to-do-kids-colorado-springs-weekend-oct-2-4" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Things to Do with Kids in Colorado Springs This Weekend (Oct. 2–4, 2026)</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-01-things-to-do-kids-colorado-springs-weekend-oct-2-4">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>Things to Do with Kids in Colorado Springs This Weekend (Oct. 2–4, 2026)</title>
+<meta name=&quot;description&quot; content=&quot;Five family-friendly picks for the October 2–4 weekend in Colorado Springs, including the Cool Science Carnival, Rock Ledge Ranch Harvest Festival, Venetucci Farm, Ghost Stories of Old Manitou, and Concrete Couchella.&quot;>
+</head>
+<body>
+
+<article>
+<header>
+<h1>Things to Do with Kids in Colorado Springs This Weekend (Oct. 2–4, 2026)</h1>
+<p class=&quot;byline&quot;>By Jamie Rivera | COS Parenting | October 1, 2026</p>
+</header>
+
+<p>October arrived in Colorado Springs this week, and the first full weekend of the month is packed. From a free science carnival at UCCS to pumpkin picking at a historic farm, there's no shortage of reasons to get outside with the family. Here are five picks worth adding to your calendar.</p>
+
+<h2>1. Cool Science Carnival at UCCS</h2>
+
+<p><strong>Saturday, Oct. 3 | 10 AM–4 PM | FREE</strong><br>
+UCCS campus, Colorado Springs</p>
+
+<p>The Cool Science Festival kicks off its 2026 run with its annual Carnival Day at UCCS, and it's one of the best free events the city offers all fall. Dozens of hands-on stations cover rockets, slime, robots, live animals, and more — all designed with K–8 learners in mind. It runs from 10 AM to 4 PM on Saturday, and admission is completely free.</p>
+
+<p>This is the flagship event of a larger 16-day festival running through Oct. 18. We've got a full rundown of the festival's other events later this week, but if you can only make one stop, Saturday at UCCS is the one to prioritize.</p>
+
+<h2>2. Rock Ledge Ranch Harvest Festival</h2>
+
+<p><strong>Saturday, Oct. 3 | 10 AM–4 PM</strong><br>
+3105 Gateway Rd, Colorado Springs, CO 80904 | (719) 578-6777</p>
+
+<p>Rock Ledge Ranch hosts its annual Harvest Festival on Saturday. Set on a working historic ranch at the base of the Garden of the Gods, it's a genuinely beautiful fall outing. Admission runs $12 for adults, $8 for seniors and military, $6 for youth ages 3–17, and free for children under 2. Pumpkins are available for $6 each.</p>
+
+<p>It's the kind of event that's easy to spend a few hours at — the setting alone makes it worth the trip.</p>
+
+<h2>3. Venetucci Farm Pumpkin Festival</h2>
+
+<p><strong>Saturday–Sunday | 9:30 AM–4 PM (Fridays: 9:30 AM–2:30 PM)</strong><br>
+5210 S US Highway 85, Colorado Springs, CO 80911 | venetuccifarm.org</p>
+
+<p>Venetucci Farm's pumpkin season is running through October, and the weekend hours are generous — 9:30 AM to 4 PM on Saturday and Sunday. Admission is $5 for ages 8 and up, and pumpkins are $10 each. The farm has been a Colorado Springs tradition for generations, and it holds up year after year as a reliable fall outing for families with kids of any age.</p>
+
+<p>It's worth going early to avoid lines later in the day.</p>
+
+<h2>4. Ghost Stories of Old Manitou — Opening Weekend</h2>
+
+<p><strong>Thursday–Friday, Oct. 2–3 | 5:30 PM</strong><br>
+517 Manitou Ave, Manitou Springs | manitouspringsheritagecenter.org</p>
+
+<p>The Manitou Springs Heritage Center launches its annual Ghost Stories of Old Manitou series this weekend. The evening storytelling events run at 5:30 PM on Oct. 2 and 3. Tickets are $18.84 for adults, and children under 10 are free. It's a genuinely atmospheric way to ease into October for older kids and adults — eerie, but not scary in a cheap way.</p>
+
+<h2>5. Concrete Couchella</h2>
+
+<p><strong>Thursday–Friday, Oct. 2–3 | FREE</strong><br>
+Near Downtown Colorado Springs</p>
+
+<p>Concrete Couchella returns this week with two days of live music, art installations, games, activities, and food in an approximately 8-acre park near Downtown Colorado Springs. It's completely free and designed to be family-friendly throughout. Whether you're looking for a low-key evening out or a full afternoon with kids in tow, it's a solid option to close out the weekend on a budget.</p>
+
+<h2>Find More This Weekend</h2>
+
+<p>For a broader look at what's happening in Colorado Springs this weekend, <a href=&quot;https://springsdaily.com/events/this-weekend-with-kids&quot;>Springs Daily's This Weekend with Kids guide</a> is updated weekly with family-focused picks. If you're watching the budget, the <a href=&quot;https://springsdaily.com/events/free-this-weekend&quot;>Free Events This Weekend roundup</a> is a reliable place to start. The full community events calendar lives at <a href=&quot;https://springsdaily.com/events/this-weekend&quot;>springsdaily.com/events/this-weekend</a>.</p>
+
+<h2>What's Next</h2>
+
+<p>The Cool Science Festival runs through Oct. 18 with events at the Western Museum of Mining and Industry, Ivywild School, and the U.S. Air Force Academy. We'll have a full guide to the festival's lineup later today.</p>
+
+<p>Next weekend brings more fall options across Colorado Springs — check back Friday for the Oct. 9–11 family guide.</p>
+
+</article>
+
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-01-things-to-do-kids-colorado-springs-weekend-oct-2-4" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;Things to Do with Kids in Colorado Springs This Weekend (Oct. 2–4, 2026)&lt;/title&gt;
+&lt;meta name=&quot;description&quot; content=&quot;Five family-friendly picks for the October 2–4 weekend in Colorado Springs, including the Cool Science Carnival, Rock Ledge Ranch Harvest Festival, Venetucci Farm, Ghost Stories of Old Manitou, and Concrete Couchella.&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;article&gt;
+&lt;header&gt;
+&lt;h1&gt;Things to Do with Kids in Colorado Springs This Weekend (Oct. 2–4, 2026)&lt;/h1&gt;
+&lt;p class=&quot;byline&quot;&gt;By Jamie Rivera | COS Parenting | October 1, 2026&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;p&gt;October arrived in Colorado Springs this week, and the first full weekend of the month is packed. From a free science carnival at UCCS to pumpkin picking at a historic farm, there&#x27;s no shortage of reasons to get outside with the family. Here are five picks worth adding to your calendar.&lt;/p&gt;
+
+&lt;h2&gt;1. Cool Science Carnival at UCCS&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Saturday, Oct. 3 | 10 AM–4 PM | FREE&lt;/strong&gt;&lt;br&gt;
+UCCS campus, Colorado Springs&lt;/p&gt;
+
+&lt;p&gt;The Cool Science Festival kicks off its 2026 run with its annual Carnival Day at UCCS, and it&#x27;s one of the best free events the city offers all fall. Dozens of hands-on stations cover rockets, slime, robots, live animals, and more — all designed with K–8 learners in mind. It runs from 10 AM to 4 PM on Saturday, and admission is completely free.&lt;/p&gt;
+
+&lt;p&gt;This is the flagship event of a larger 16-day festival running through Oct. 18. We&#x27;ve got a full rundown of the festival&#x27;s other events later this week, but if you can only make one stop, Saturday at UCCS is the one to prioritize.&lt;/p&gt;
+
+&lt;h2&gt;2. Rock Ledge Ranch Harvest Festival&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Saturday, Oct. 3 | 10 AM–4 PM&lt;/strong&gt;&lt;br&gt;
+3105 Gateway Rd, Colorado Springs, CO 80904 | (719) 578-6777&lt;/p&gt;
+
+&lt;p&gt;Rock Ledge Ranch hosts its annual Harvest Festival on Saturday. Set on a working historic ranch at the base of the Garden of the Gods, it&#x27;s a genuinely beautiful fall outing. Admission runs $12 for adults, $8 for seniors and military, $6 for youth ages 3–17, and free for children under 2. Pumpkins are available for $6 each.&lt;/p&gt;
+
+&lt;p&gt;It&#x27;s the kind of event that&#x27;s easy to spend a few hours at — the setting alone makes it worth the trip.&lt;/p&gt;
+
+&lt;h2&gt;3. Venetucci Farm Pumpkin Festival&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Saturday–Sunday | 9:30 AM–4 PM (Fridays: 9:30 AM–2:30 PM)&lt;/strong&gt;&lt;br&gt;
+5210 S US Highway 85, Colorado Springs, CO 80911 | venetuccifarm.org&lt;/p&gt;
+
+&lt;p&gt;Venetucci Farm&#x27;s pumpkin season is running through October, and the weekend hours are generous — 9:30 AM to 4 PM on Saturday and Sunday. Admission is $5 for ages 8 and up, and pumpkins are $10 each. The farm has been a Colorado Springs tradition for generations, and it holds up year after year as a reliable fall outing for families with kids of any age.&lt;/p&gt;
+
+&lt;p&gt;It&#x27;s worth going early to avoid lines later in the day.&lt;/p&gt;
+
+&lt;h2&gt;4. Ghost Stories of Old Manitou — Opening Weekend&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Thursday–Friday, Oct. 2–3 | 5:30 PM&lt;/strong&gt;&lt;br&gt;
+517 Manitou Ave, Manitou Springs | manitouspringsheritagecenter.org&lt;/p&gt;
+
+&lt;p&gt;The Manitou Springs Heritage Center launches its annual Ghost Stories of Old Manitou series this weekend. The evening storytelling events run at 5:30 PM on Oct. 2 and 3. Tickets are $18.84 for adults, and children under 10 are free. It&#x27;s a genuinely atmospheric way to ease into October for older kids and adults — eerie, but not scary in a cheap way.&lt;/p&gt;
+
+&lt;h2&gt;5. Concrete Couchella&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Thursday–Friday, Oct. 2–3 | FREE&lt;/strong&gt;&lt;br&gt;
+Near Downtown Colorado Springs&lt;/p&gt;
+
+&lt;p&gt;Concrete Couchella returns this week with two days of live music, art installations, games, activities, and food in an approximately 8-acre park near Downtown Colorado Springs. It&#x27;s completely free and designed to be family-friendly throughout. Whether you&#x27;re looking for a low-key evening out or a full afternoon with kids in tow, it&#x27;s a solid option to close out the weekend on a budget.&lt;/p&gt;
+
+&lt;h2&gt;Find More This Weekend&lt;/h2&gt;
+
+&lt;p&gt;For a broader look at what&#x27;s happening in Colorado Springs this weekend, &lt;a href=&quot;https://springsdaily.com/events/this-weekend-with-kids&quot;&gt;Springs Daily&#x27;s This Weekend with Kids guide&lt;/a&gt; is updated weekly with family-focused picks. If you&#x27;re watching the budget, the &lt;a href=&quot;https://springsdaily.com/events/free-this-weekend&quot;&gt;Free Events This Weekend roundup&lt;/a&gt; is a reliable place to start. The full community events calendar lives at &lt;a href=&quot;https://springsdaily.com/events/this-weekend&quot;&gt;springsdaily.com/events/this-weekend&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+
+&lt;p&gt;The Cool Science Festival runs through Oct. 18 with events at the Western Museum of Mining and Industry, Ivywild School, and the U.S. Air Force Academy. We&#x27;ll have a full guide to the festival&#x27;s lineup later today.&lt;/p&gt;
+
+&lt;p&gt;Next weekend brings more fall options across Colorado Springs — check back Friday for the Oct. 9–11 family guide.&lt;/p&gt;
+
+&lt;/article&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-01-things-to-do-kids-colorado-springs-weekend-oct-2-4">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-01-things-to-do-kids-colorado-springs-weekend-oct-2-4')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-01-things-to-do-kids-colorado-springs-weekend-oct-2-4')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-01-things-to-do-kids-colorado-springs-weekend-oct-2-4">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-01-things-to-do-kids-colorado-springs-weekend-oct-2-4')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-01-things-to-do-kids-colorado-springs-weekend-oct-2-4')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-01-things-to-do-kids-colorado-springs-weekend-oct-2-4')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-01-things-to-do-kids-colorado-springs-weekend-oct-2-4')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-01-things-to-do-kids-colorado-springs-weekend-oct-2-4">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-01-things-to-do-kids-colorado-springs-weekend-oct-2-4" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-01-things-to-do-kids-colorado-springs-weekend-oct-2-4"></div>
+                </div>
+                <div class="card" data-id="article-article-02-cpsc-baby-bath-seat-recall-drowning-risk" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">CPSC Recalls Two Baby Bath Seat Models Sold on Amazon Over Drowning and Entrapment Risk</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-02-cpsc-baby-bath-seat-recall-drowning-risk">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>CPSC Recalls Two Baby Bath Seat Models Sold on Amazon Over Drowning and Entrapment Risk</title>
+<meta name=&quot;description&quot; content=&quot;The CPSC has recalled two baby bath seat models — YCXXKJ and NFSVLB — sold on Amazon due to drowning and entrapment hazards. Parents should stop use immediately and seek refunds.&quot;>
+</head>
+<body>
+
+<article>
+<header>
+<h1>CPSC Recalls Two Baby Bath Seat Models Sold on Amazon Over Drowning and Entrapment Risk</h1>
+<p class=&quot;byline&quot;>By Sarah Morales | COS Parenting | October 1, 2026</p>
+</header>
+
+<p>Two baby bath seat models sold on Amazon have been recalled by the Consumer Product Safety Commission due to drowning and entrapment hazards. If your family purchased a baby bath seat on Amazon in the past two years, check the model name now.</p>
+
+<h2>YCXXKJ Baby Bath Seats</h2>
+
+<p>The first recall covers approximately 9,000 YCXXKJ baby bath seats sold by BenTalk on Amazon between May 2024 and October 2025. The seats were sold in blue, gray, pink, and yellow, and came equipped with two detachable arms, four suction cups, and a set of duck, turtle, or whale bath toys.</p>
+
+<p>The problem: the seats are unstable and can tip over during use, creating a drowning risk for infants.</p>
+
+<p>Remedy: Stop using the seat immediately. Contact BenTalk through Amazon for a full refund. Full recall details are available at cpsc.gov.</p>
+
+<h2>NFSVLB Baby Bath Seats</h2>
+
+<p>The second recall covers NFSVLB baby bath seats sold on Amazon between May 2025 and October 2025, priced at $25 to $40. These seats have a different design flaw: the leg openings are large enough to allow infants to slip through, creating both an entrapment hazard and a drowning risk.</p>
+
+<p>Remedy: Stop using the seat immediately. Contact the seller through Amazon for a full refund.</p>
+
+<h2>What to Do Right Now</h2>
+
+<p>If you have either of these bath seats in your home — or if you're unsure whether your seat matches one of the recalled models — stop using it until you've confirmed the model name against the CPSC recall listings at cpsc.gov.</p>
+
+<p>Both recalls share the same core instruction: stop use, get a refund. Do not donate or resell a recalled product.</p>
+
+<p>The CPSC recommends that caregivers never leave a child unattended in a bath seat, even one that isn't subject to a recall. The American Academy of Pediatrics advises within-arm's-reach supervision for any child under age 6 near water, regardless of what safety equipment is in use.</p>
+
+<h2>How to Check Your Seat</h2>
+
+<p>The model name is typically printed on a label on the underside of the seat. Look for &quot;YCXXKJ&quot; or &quot;NFSVLB&quot; on the product label, packaging, or Amazon order history. If you purchased a bath seat through Amazon, you can also check your order history to identify the product and seller.</p>
+
+<h2>What's Next</h2>
+
+<p>The CPSC periodically updates its recall list at cpsc.gov/recalls. Parents and caregivers who want to stay current on product safety notices can sign up for email alerts directly through the CPSC website.</p>
+
+<p>For questions about either of these specific recalls, the CPSC hotline is 800-638-2772 (TTY 301-595-7054), available Monday through Friday, 8 AM to 5:30 PM ET.</p>
+
+</article>
+
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-02-cpsc-baby-bath-seat-recall-drowning-risk" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;CPSC Recalls Two Baby Bath Seat Models Sold on Amazon Over Drowning and Entrapment Risk&lt;/title&gt;
+&lt;meta name=&quot;description&quot; content=&quot;The CPSC has recalled two baby bath seat models — YCXXKJ and NFSVLB — sold on Amazon due to drowning and entrapment hazards. Parents should stop use immediately and seek refunds.&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;article&gt;
+&lt;header&gt;
+&lt;h1&gt;CPSC Recalls Two Baby Bath Seat Models Sold on Amazon Over Drowning and Entrapment Risk&lt;/h1&gt;
+&lt;p class=&quot;byline&quot;&gt;By Sarah Morales | COS Parenting | October 1, 2026&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;p&gt;Two baby bath seat models sold on Amazon have been recalled by the Consumer Product Safety Commission due to drowning and entrapment hazards. If your family purchased a baby bath seat on Amazon in the past two years, check the model name now.&lt;/p&gt;
+
+&lt;h2&gt;YCXXKJ Baby Bath Seats&lt;/h2&gt;
+
+&lt;p&gt;The first recall covers approximately 9,000 YCXXKJ baby bath seats sold by BenTalk on Amazon between May 2024 and October 2025. The seats were sold in blue, gray, pink, and yellow, and came equipped with two detachable arms, four suction cups, and a set of duck, turtle, or whale bath toys.&lt;/p&gt;
+
+&lt;p&gt;The problem: the seats are unstable and can tip over during use, creating a drowning risk for infants.&lt;/p&gt;
+
+&lt;p&gt;Remedy: Stop using the seat immediately. Contact BenTalk through Amazon for a full refund. Full recall details are available at cpsc.gov.&lt;/p&gt;
+
+&lt;h2&gt;NFSVLB Baby Bath Seats&lt;/h2&gt;
+
+&lt;p&gt;The second recall covers NFSVLB baby bath seats sold on Amazon between May 2025 and October 2025, priced at $25 to $40. These seats have a different design flaw: the leg openings are large enough to allow infants to slip through, creating both an entrapment hazard and a drowning risk.&lt;/p&gt;
+
+&lt;p&gt;Remedy: Stop using the seat immediately. Contact the seller through Amazon for a full refund.&lt;/p&gt;
+
+&lt;h2&gt;What to Do Right Now&lt;/h2&gt;
+
+&lt;p&gt;If you have either of these bath seats in your home — or if you&#x27;re unsure whether your seat matches one of the recalled models — stop using it until you&#x27;ve confirmed the model name against the CPSC recall listings at cpsc.gov.&lt;/p&gt;
+
+&lt;p&gt;Both recalls share the same core instruction: stop use, get a refund. Do not donate or resell a recalled product.&lt;/p&gt;
+
+&lt;p&gt;The CPSC recommends that caregivers never leave a child unattended in a bath seat, even one that isn&#x27;t subject to a recall. The American Academy of Pediatrics advises within-arm&#x27;s-reach supervision for any child under age 6 near water, regardless of what safety equipment is in use.&lt;/p&gt;
+
+&lt;h2&gt;How to Check Your Seat&lt;/h2&gt;
+
+&lt;p&gt;The model name is typically printed on a label on the underside of the seat. Look for &quot;YCXXKJ&quot; or &quot;NFSVLB&quot; on the product label, packaging, or Amazon order history. If you purchased a bath seat through Amazon, you can also check your order history to identify the product and seller.&lt;/p&gt;
+
+&lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+
+&lt;p&gt;The CPSC periodically updates its recall list at cpsc.gov/recalls. Parents and caregivers who want to stay current on product safety notices can sign up for email alerts directly through the CPSC website.&lt;/p&gt;
+
+&lt;p&gt;For questions about either of these specific recalls, the CPSC hotline is 800-638-2772 (TTY 301-595-7054), available Monday through Friday, 8 AM to 5:30 PM ET.&lt;/p&gt;
+
+&lt;/article&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-02-cpsc-baby-bath-seat-recall-drowning-risk">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-02-cpsc-baby-bath-seat-recall-drowning-risk')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-02-cpsc-baby-bath-seat-recall-drowning-risk')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-02-cpsc-baby-bath-seat-recall-drowning-risk">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-02-cpsc-baby-bath-seat-recall-drowning-risk')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-02-cpsc-baby-bath-seat-recall-drowning-risk')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-02-cpsc-baby-bath-seat-recall-drowning-risk')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-02-cpsc-baby-bath-seat-recall-drowning-risk')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-02-cpsc-baby-bath-seat-recall-drowning-risk">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-02-cpsc-baby-bath-seat-recall-drowning-risk" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-02-cpsc-baby-bath-seat-recall-drowning-risk"></div>
+                </div>
+                <div class="card" data-id="article-article-03-d11-fall-break-parent-teacher-conference-schedule" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">D11 and D49 Fall Break and Parent-Teacher Conference Dates — October 2026</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-03-d11-fall-break-parent-teacher-conference-schedule">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;em&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>D11 and D49 Fall Break and Parent-Teacher Conference Dates — October 2026</title>
+<meta name=&quot;description&quot; content=&quot;Key October school calendar dates for Colorado Springs D11 and D49 families, including teacher workdays, parent-teacher conferences, and fall break windows.&quot;>
+</head>
+<body>
+
+<article>
+<header>
+<h1>D11 and D49 Fall Break and Parent-Teacher Conference Dates — October 2026</h1>
+<p class=&quot;byline&quot;>By Jamie Rivera | COS Parenting | October 1, 2026</p>
+</header>
+
+<p>October is one of the busier months on the Colorado Springs school calendar, with teacher workdays, parent-teacher conferences, and fall breaks landing across different dates depending on whether your kids are in D11 or D49. Here's a side-by-side look at what's coming up.</p>
+
+<h2>Colorado Springs School District 11 (D11)</h2>
+
+<p>D11 families have a handful of no-school and event dates to track this month:</p>
+
+<ul>
+<li><strong>Oct. 1:</strong> Chalktober — 8th Grade Peak Experience</li>
+<li><strong>Oct. 8:</strong> Discovery Day (PreK program)</li>
+<li><strong>Oct. 9:</strong> Teacher Work Day — No students</li>
+<li><strong>Oct. 14–15:</strong> Rocket Day (5th Grade)</li>
+<li><strong>Oct. 16:</strong> Parent/Teacher Conferences — No students</li>
+<li><strong>Oct. 19–22:</strong> Fall Break — No students (4 days)</li>
+<li><strong>Oct. 24–25:</strong> Coronado High School Craft Fair</li>
+</ul>
+
+<p>The main no-school stretch for D11 families runs Oct. 16–22 — a week that combines the parent-teacher conference day on Thursday and a four-day fall break from Monday through Thursday the following week. It's a good window to plan travel or childcare if you need it.</p>
+
+<h2>Falcon School District 49 (D49)</h2>
+
+<p>D49 families have a notably different fall break calendar:</p>
+
+<ul>
+<li><strong>Oct. 8:</strong> Board of Education meeting</li>
+<li><strong>Oct. 9:</strong> Parent-Teacher Conferences — No school</li>
+<li><strong>Oct. 12–23:</strong> Fall Break — No school (nearly two full weeks)</li>
+</ul>
+
+<p>D49's fall break runs Oct. 12–23 — about twice as long as D11's four-day break. Students in D49 are out for the better part of two weeks, which gives families a longer window but also requires more planning for child care and activities.</p>
+
+<h2>The One Date Both Districts Share</h2>
+
+<p>Both D11 and D49 have Oct. 9 as a no-school day for parent-teacher conferences. If you have kids in both districts, that's one date that lines up cleanly.</p>
+
+<h2>What's Next</h2>
+
+<p>Complete school year calendars for both districts are available at d11.org and d49.org. If you're in another Colorado Springs-area district, check your district's website directly — Palmer, Hanover, and Widefield have their own calendar schedules that don't follow D11 or D49 dates.</p>
+
+</article>
+
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-03-d11-fall-break-parent-teacher-conference-schedule" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;em&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;D11 and D49 Fall Break and Parent-Teacher Conference Dates — October 2026&lt;/title&gt;
+&lt;meta name=&quot;description&quot; content=&quot;Key October school calendar dates for Colorado Springs D11 and D49 families, including teacher workdays, parent-teacher conferences, and fall break windows.&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;article&gt;
+&lt;header&gt;
+&lt;h1&gt;D11 and D49 Fall Break and Parent-Teacher Conference Dates — October 2026&lt;/h1&gt;
+&lt;p class=&quot;byline&quot;&gt;By Jamie Rivera | COS Parenting | October 1, 2026&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;p&gt;October is one of the busier months on the Colorado Springs school calendar, with teacher workdays, parent-teacher conferences, and fall breaks landing across different dates depending on whether your kids are in D11 or D49. Here&#x27;s a side-by-side look at what&#x27;s coming up.&lt;/p&gt;
+
+&lt;h2&gt;Colorado Springs School District 11 (D11)&lt;/h2&gt;
+
+&lt;p&gt;D11 families have a handful of no-school and event dates to track this month:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Oct. 1:&lt;/strong&gt; Chalktober — 8th Grade Peak Experience&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oct. 8:&lt;/strong&gt; Discovery Day (PreK program)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oct. 9:&lt;/strong&gt; Teacher Work Day — No students&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oct. 14–15:&lt;/strong&gt; Rocket Day (5th Grade)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oct. 16:&lt;/strong&gt; Parent/Teacher Conferences — No students&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oct. 19–22:&lt;/strong&gt; Fall Break — No students (4 days)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oct. 24–25:&lt;/strong&gt; Coronado High School Craft Fair&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The main no-school stretch for D11 families runs Oct. 16–22 — a week that combines the parent-teacher conference day on Thursday and a four-day fall break from Monday through Thursday the following week. It&#x27;s a good window to plan travel or childcare if you need it.&lt;/p&gt;
+
+&lt;h2&gt;Falcon School District 49 (D49)&lt;/h2&gt;
+
+&lt;p&gt;D49 families have a notably different fall break calendar:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Oct. 8:&lt;/strong&gt; Board of Education meeting&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oct. 9:&lt;/strong&gt; Parent-Teacher Conferences — No school&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oct. 12–23:&lt;/strong&gt; Fall Break — No school (nearly two full weeks)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;D49&#x27;s fall break runs Oct. 12–23 — about twice as long as D11&#x27;s four-day break. Students in D49 are out for the better part of two weeks, which gives families a longer window but also requires more planning for child care and activities.&lt;/p&gt;
+
+&lt;h2&gt;The One Date Both Districts Share&lt;/h2&gt;
+
+&lt;p&gt;Both D11 and D49 have Oct. 9 as a no-school day for parent-teacher conferences. If you have kids in both districts, that&#x27;s one date that lines up cleanly.&lt;/p&gt;
+
+&lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+
+&lt;p&gt;Complete school year calendars for both districts are available at d11.org and d49.org. If you&#x27;re in another Colorado Springs-area district, check your district&#x27;s website directly — Palmer, Hanover, and Widefield have their own calendar schedules that don&#x27;t follow D11 or D49 dates.&lt;/p&gt;
+
+&lt;/article&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-03-d11-fall-break-parent-teacher-conference-schedule">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-03-d11-fall-break-parent-teacher-conference-schedule')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-03-d11-fall-break-parent-teacher-conference-schedule')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-03-d11-fall-break-parent-teacher-conference-schedule">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-03-d11-fall-break-parent-teacher-conference-schedule')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-03-d11-fall-break-parent-teacher-conference-schedule')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-03-d11-fall-break-parent-teacher-conference-schedule')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-03-d11-fall-break-parent-teacher-conference-schedule')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-03-d11-fall-break-parent-teacher-conference-schedule">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-03-d11-fall-break-parent-teacher-conference-schedule" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-03-d11-fall-break-parent-teacher-conference-schedule"></div>
+                </div>
+                <div class="card" data-id="article-article-04-aap-2026-vaccine-schedule-breaks-cdc" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">AAP 2026 Vaccine Schedule Recommends More Shots Than CDC — What Colorado Families Should Know</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-04-aap-2026-vaccine-schedule-breaks-cdc">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>AAP 2026 Vaccine Schedule Recommends More Shots Than CDC — What Colorado Families Should Know</title>
+<meta name=&quot;description&quot; content=&quot;The AAP's 2026 immunization schedule covers 17 diseases — several more than the CDC's current schedule. Colorado CDPHE backs the AAP list. Here's what COS families should ask their pediatrician.&quot;>
+</head>
+<body>
+
+<article>
+<header>
+<h1>AAP 2026 Vaccine Schedule Recommends More Shots Than CDC — What Colorado Families Should Know</h1>
+<p class=&quot;byline&quot;>By Sarah Morales | COS Parenting | October 1, 2026</p>
+</header>
+
+<p>If you've had a pediatrician's appointment lately and felt like you were getting different answers about which vaccines your child needs, there's a reason for that. The American Academy of Pediatrics and the CDC are no longer recommending the same immunization schedule for children — and the gap between the two lists has real implications for families in Colorado.</p>
+
+<h2>What the AAP Is Recommending</h2>
+
+<p>The American Academy of Pediatrics released its 2026 immunization schedule covering vaccines for 17 diseases. It's a comprehensive list that the AAP developed with input from 12 major national health organizations, and it's the schedule used by the majority of board-certified pediatricians across the country.</p>
+
+<p>Among the vaccines the AAP schedule includes: hepatitis A, hepatitis B, meningococcal disease, rotavirus, flu, and RSV — as well as COVID-19 for children ages 6 to 23 months.</p>
+
+<h2>What the CDC Schedule Currently Covers</h2>
+
+<p>The CDC's 2026 schedule is shorter. It no longer recommends several vaccines that the AAP still includes — among them hepatitis A, hepatitis B, meningococcal disease, rotavirus, flu, and RSV. The total gap is roughly seven diseases where the two schedules diverge.</p>
+
+<p>This kind of divergence between the AAP and CDC is unusual. Historically, the two organizations have aligned closely on immunization guidelines. The current split has created confusion for both families and some healthcare providers about which standard to follow.</p>
+
+<h2>Where Colorado Stands</h2>
+
+<p>Colorado's Department of Public Health and Environment (CDPHE) has come down clearly on the side of the AAP schedule. The agency is urging Colorado families and healthcare providers to follow the AAP's 2026 guidelines, not the CDC's. That position is consistent with 28 other states and 12 national health organizations that have endorsed the AAP schedule.</p>
+
+<p>If your pediatrician is in Colorado, they're operating in a state where the public health authority has explicitly backed the more comprehensive list.</p>
+
+<h2>What to Ask at Your Child's Next Appointment</h2>
+
+<p>The simplest thing you can do is ask your child's doctor which schedule their practice follows and whether they've updated their recommendations for 2026. Most pediatricians who are members of the AAP will likely be following the AAP schedule, but it's worth confirming — especially if your child has a well-child visit coming up this fall.</p>
+
+<p>If your doctor is following the CDC schedule, ask them why and whether they'd consider the AAP list given Colorado CDPHE's guidance.</p>
+
+<h2>What's Next</h2>
+
+<p>The AAP updates its immunization guidelines annually. The most current recommendations, along with a parent-friendly breakdown of the schedule, are available at healthychildren.org. Colorado-specific information is available through cdphe.colorado.gov under childhood immunizations.</p>
+
+</article>
+
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-04-aap-2026-vaccine-schedule-breaks-cdc" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;AAP 2026 Vaccine Schedule Recommends More Shots Than CDC — What Colorado Families Should Know&lt;/title&gt;
+&lt;meta name=&quot;description&quot; content=&quot;The AAP&#x27;s 2026 immunization schedule covers 17 diseases — several more than the CDC&#x27;s current schedule. Colorado CDPHE backs the AAP list. Here&#x27;s what COS families should ask their pediatrician.&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;article&gt;
+&lt;header&gt;
+&lt;h1&gt;AAP 2026 Vaccine Schedule Recommends More Shots Than CDC — What Colorado Families Should Know&lt;/h1&gt;
+&lt;p class=&quot;byline&quot;&gt;By Sarah Morales | COS Parenting | October 1, 2026&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;p&gt;If you&#x27;ve had a pediatrician&#x27;s appointment lately and felt like you were getting different answers about which vaccines your child needs, there&#x27;s a reason for that. The American Academy of Pediatrics and the CDC are no longer recommending the same immunization schedule for children — and the gap between the two lists has real implications for families in Colorado.&lt;/p&gt;
+
+&lt;h2&gt;What the AAP Is Recommending&lt;/h2&gt;
+
+&lt;p&gt;The American Academy of Pediatrics released its 2026 immunization schedule covering vaccines for 17 diseases. It&#x27;s a comprehensive list that the AAP developed with input from 12 major national health organizations, and it&#x27;s the schedule used by the majority of board-certified pediatricians across the country.&lt;/p&gt;
+
+&lt;p&gt;Among the vaccines the AAP schedule includes: hepatitis A, hepatitis B, meningococcal disease, rotavirus, flu, and RSV — as well as COVID-19 for children ages 6 to 23 months.&lt;/p&gt;
+
+&lt;h2&gt;What the CDC Schedule Currently Covers&lt;/h2&gt;
+
+&lt;p&gt;The CDC&#x27;s 2026 schedule is shorter. It no longer recommends several vaccines that the AAP still includes — among them hepatitis A, hepatitis B, meningococcal disease, rotavirus, flu, and RSV. The total gap is roughly seven diseases where the two schedules diverge.&lt;/p&gt;
+
+&lt;p&gt;This kind of divergence between the AAP and CDC is unusual. Historically, the two organizations have aligned closely on immunization guidelines. The current split has created confusion for both families and some healthcare providers about which standard to follow.&lt;/p&gt;
+
+&lt;h2&gt;Where Colorado Stands&lt;/h2&gt;
+
+&lt;p&gt;Colorado&#x27;s Department of Public Health and Environment (CDPHE) has come down clearly on the side of the AAP schedule. The agency is urging Colorado families and healthcare providers to follow the AAP&#x27;s 2026 guidelines, not the CDC&#x27;s. That position is consistent with 28 other states and 12 national health organizations that have endorsed the AAP schedule.&lt;/p&gt;
+
+&lt;p&gt;If your pediatrician is in Colorado, they&#x27;re operating in a state where the public health authority has explicitly backed the more comprehensive list.&lt;/p&gt;
+
+&lt;h2&gt;What to Ask at Your Child&#x27;s Next Appointment&lt;/h2&gt;
+
+&lt;p&gt;The simplest thing you can do is ask your child&#x27;s doctor which schedule their practice follows and whether they&#x27;ve updated their recommendations for 2026. Most pediatricians who are members of the AAP will likely be following the AAP schedule, but it&#x27;s worth confirming — especially if your child has a well-child visit coming up this fall.&lt;/p&gt;
+
+&lt;p&gt;If your doctor is following the CDC schedule, ask them why and whether they&#x27;d consider the AAP list given Colorado CDPHE&#x27;s guidance.&lt;/p&gt;
+
+&lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+
+&lt;p&gt;The AAP updates its immunization guidelines annually. The most current recommendations, along with a parent-friendly breakdown of the schedule, are available at healthychildren.org. Colorado-specific information is available through cdphe.colorado.gov under childhood immunizations.&lt;/p&gt;
+
+&lt;/article&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-04-aap-2026-vaccine-schedule-breaks-cdc">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-04-aap-2026-vaccine-schedule-breaks-cdc')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-04-aap-2026-vaccine-schedule-breaks-cdc')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-04-aap-2026-vaccine-schedule-breaks-cdc">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-04-aap-2026-vaccine-schedule-breaks-cdc')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-04-aap-2026-vaccine-schedule-breaks-cdc')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-04-aap-2026-vaccine-schedule-breaks-cdc')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-04-aap-2026-vaccine-schedule-breaks-cdc')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-04-aap-2026-vaccine-schedule-breaks-cdc">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-04-aap-2026-vaccine-schedule-breaks-cdc" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-04-aap-2026-vaccine-schedule-breaks-cdc"></div>
+                </div>
+                <div class="card" data-id="article-article-05-cool-science-festival-colorado-springs-free-steam" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Cool Science Festival Returns to Colorado Springs — 16 Days of Free STEAM Events Oct. 3–18</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-05-cool-science-festival-colorado-springs-free-steam">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>Cool Science Festival Returns to Colorado Springs — 16 Days of Free STEAM Events Oct. 3–18</title>
+<meta name=&quot;description&quot; content=&quot;The Cool Science Festival runs Oct. 3–18, 2026 in Colorado Springs with mostly free STEAM events at UCCS, WMMI, Ivywild School, and USAFA. Here's how to plan your visit.&quot;>
+</head>
+<body>
+
+<article>
+<header>
+<h1>Cool Science Festival Returns to Colorado Springs — 16 Days of Free STEAM Events Oct. 3–18</h1>
+<p class=&quot;byline&quot;>By Jamie Rivera | COS Parenting | October 1, 2026</p>
+</header>
+
+<p>The Cool Science Festival is back in Colorado Springs, running Oct. 3–18 with 16 days of science, technology, engineering, art, and math programming spread across venues throughout the city. Most events are free or low cost, and the festival is co-hosted by the Space Foundation Discovery Center.</p>
+
+<p>If you've got kids who light up at the idea of rockets, gems, or hands-on experiments — or you're just looking for something to do over fall break — this is a solid two-week stretch to keep on your radar.</p>
+
+<h2>Carnival Day at UCCS — Saturday, Oct. 3 (Free)</h2>
+
+<p>The festival's flagship event is the annual Carnival Day at UCCS, running Saturday from 10 AM to 4 PM. It's free for all ages and designed with K–8 learners in mind. Dozens of demo stations cover everything from rocketry to slime chemistry to robotics to live animals. This is the highest-energy, highest-attendance event of the festival, and it's worth arriving closer to opening time if you want to work through all the stations without a wait.</p>
+
+<p>The Science Carnival also doubles as a great preview of the broader festival — many of the organizations running demos at UCCS host their own events at other venues during the following two weeks.</p>
+
+<h2>WMMI Gem and Mineral Panning — Oct. 3–18</h2>
+
+<p>The Western Museum of Mining and Industry is running gem and mineral panning throughout the full festival period. It's one of the more open-ended options in the lineup — you can drop in on any day during the festival run rather than committing to a single event. WMMI is located at 225 North Gate Blvd near the Air Force Academy entrance.</p>
+
+<h2>Science Riot at Ivywild School — Oct. 7</h2>
+
+<p>Science Riot is a comedy-science show format where researchers present their actual work in short, accessible 10-minute presentations — the kind of science communication that tends to surprise adults more than kids. It runs Oct. 7 at Ivywild School, the converted elementary school at 1604 S Cascade Ave that's become one of Colorado Springs' more interesting event venues. Good for older kids and adults who want something a little different.</p>
+
+<h2>Space Science Shows at USAFA — Oct. 8</h2>
+
+<p>The U.S. Air Force Academy hosts space science programming on Oct. 8 as part of the festival. Check coolscience.org for ticketing and any access requirements for the USAFA events — base entry may require advance registration.</p>
+
+<h2>Full Schedule</h2>
+
+<p>The festival has more events across the 16-day run than are listed here. The complete schedule, including times, locations, and registration links where required, is available at coolscience.org. Most events don't require advance tickets, but a few of the ticketed shows fill up in advance.</p>
+
+<h2>What's Next</h2>
+
+<p>Carnival Day on Saturday, Oct. 3 is the natural entry point for families new to the festival. After that, the WMMI panning and the Ivywild events are easy add-ons for families who want to spread the festival experience across the two weeks.</p>
+
+</article>
+
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-05-cool-science-festival-colorado-springs-free-steam" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;Cool Science Festival Returns to Colorado Springs — 16 Days of Free STEAM Events Oct. 3–18&lt;/title&gt;
+&lt;meta name=&quot;description&quot; content=&quot;The Cool Science Festival runs Oct. 3–18, 2026 in Colorado Springs with mostly free STEAM events at UCCS, WMMI, Ivywild School, and USAFA. Here&#x27;s how to plan your visit.&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;article&gt;
+&lt;header&gt;
+&lt;h1&gt;Cool Science Festival Returns to Colorado Springs — 16 Days of Free STEAM Events Oct. 3–18&lt;/h1&gt;
+&lt;p class=&quot;byline&quot;&gt;By Jamie Rivera | COS Parenting | October 1, 2026&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;p&gt;The Cool Science Festival is back in Colorado Springs, running Oct. 3–18 with 16 days of science, technology, engineering, art, and math programming spread across venues throughout the city. Most events are free or low cost, and the festival is co-hosted by the Space Foundation Discovery Center.&lt;/p&gt;
+
+&lt;p&gt;If you&#x27;ve got kids who light up at the idea of rockets, gems, or hands-on experiments — or you&#x27;re just looking for something to do over fall break — this is a solid two-week stretch to keep on your radar.&lt;/p&gt;
+
+&lt;h2&gt;Carnival Day at UCCS — Saturday, Oct. 3 (Free)&lt;/h2&gt;
+
+&lt;p&gt;The festival&#x27;s flagship event is the annual Carnival Day at UCCS, running Saturday from 10 AM to 4 PM. It&#x27;s free for all ages and designed with K–8 learners in mind. Dozens of demo stations cover everything from rocketry to slime chemistry to robotics to live animals. This is the highest-energy, highest-attendance event of the festival, and it&#x27;s worth arriving closer to opening time if you want to work through all the stations without a wait.&lt;/p&gt;
+
+&lt;p&gt;The Science Carnival also doubles as a great preview of the broader festival — many of the organizations running demos at UCCS host their own events at other venues during the following two weeks.&lt;/p&gt;
+
+&lt;h2&gt;WMMI Gem and Mineral Panning — Oct. 3–18&lt;/h2&gt;
+
+&lt;p&gt;The Western Museum of Mining and Industry is running gem and mineral panning throughout the full festival period. It&#x27;s one of the more open-ended options in the lineup — you can drop in on any day during the festival run rather than committing to a single event. WMMI is located at 225 North Gate Blvd near the Air Force Academy entrance.&lt;/p&gt;
+
+&lt;h2&gt;Science Riot at Ivywild School — Oct. 7&lt;/h2&gt;
+
+&lt;p&gt;Science Riot is a comedy-science show format where researchers present their actual work in short, accessible 10-minute presentations — the kind of science communication that tends to surprise adults more than kids. It runs Oct. 7 at Ivywild School, the converted elementary school at 1604 S Cascade Ave that&#x27;s become one of Colorado Springs&#x27; more interesting event venues. Good for older kids and adults who want something a little different.&lt;/p&gt;
+
+&lt;h2&gt;Space Science Shows at USAFA — Oct. 8&lt;/h2&gt;
+
+&lt;p&gt;The U.S. Air Force Academy hosts space science programming on Oct. 8 as part of the festival. Check coolscience.org for ticketing and any access requirements for the USAFA events — base entry may require advance registration.&lt;/p&gt;
+
+&lt;h2&gt;Full Schedule&lt;/h2&gt;
+
+&lt;p&gt;The festival has more events across the 16-day run than are listed here. The complete schedule, including times, locations, and registration links where required, is available at coolscience.org. Most events don&#x27;t require advance tickets, but a few of the ticketed shows fill up in advance.&lt;/p&gt;
+
+&lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+
+&lt;p&gt;Carnival Day on Saturday, Oct. 3 is the natural entry point for families new to the festival. After that, the WMMI panning and the Ivywild events are easy add-ons for families who want to spread the festival experience across the two weeks.&lt;/p&gt;
+
+&lt;/article&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-05-cool-science-festival-colorado-springs-free-steam">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-05-cool-science-festival-colorado-springs-free-steam')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-05-cool-science-festival-colorado-springs-free-steam')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-05-cool-science-festival-colorado-springs-free-steam">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-05-cool-science-festival-colorado-springs-free-steam')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-05-cool-science-festival-colorado-springs-free-steam')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-05-cool-science-festival-colorado-springs-free-steam')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-05-cool-science-festival-colorado-springs-free-steam')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-05-cool-science-festival-colorado-springs-free-steam">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-05-cool-science-festival-colorado-springs-free-steam" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-05-cool-science-festival-colorado-springs-free-steam"></div>
+                </div>
+            </div>
+
+            <div class="empty-state" id="empty-state" style="display: none;">
+                <div class="empty-state-icon">No items match your filter</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Schedule settings modal -->
+    <div class="schedule-overlay" id="schedule-overlay" onclick="closeSchedulePanel()"></div>
+    <div class="schedule-panel" id="schedule-panel">
+        <h3>Posting Schedule Settings</h3>
+        <div class="schedule-section">
+            <label>Post Date (defaults to content date)</label>
+            <input type="date" id="schedule-date" />
+        </div>
+        <div class="schedule-section">
+            <label>X / Twitter Time Slots</label>
+            <div class="time-slots" id="x-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-x-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('x')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section">
+            <label>Facebook Time Slots</label>
+            <div class="time-slots" id="fb-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-fb-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('fb')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section" style="background:#f9f9f9;padding:12px;border-radius:6px;font-size:12px;color:#666;">
+            Posts will be assigned to time slots in order. If you have more posts than slots, they wrap around. After downloading, upload the file directly to PostPlanner via Bulk Upload.
+        </div>
+        <div class="schedule-actions">
+            <button class="btn btn-secondary" onclick="closeSchedulePanel()">Cancel</button>
+            <button class="btn btn-csv" onclick="generateAndDownload()">Generate &amp; Download XLSX</button>
+        </div>
+    </div>
+
+    <!-- SheetJS for XLSX generation (loaded async so it doesn't block) -->
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <script>
+
+        const DATE = '2026-10-01';
+        const BRAND_NAME = 'COS Parenting';
+        const REVIEW_STORAGE_KEY = 'parenting-content-review';
+        const SCHEDULE_STORAGE_KEY = 'parenting-content-schedule-config';
+        const PHOTO_SOURCE = 'gemini';
+        let reviewData = {};
+        const allStories = [{"id": "story-1-daily_brief", "title": "Things to Do with Kids in Colorado Springs This Weekend (Oct. 2\u20134)", "content": "Things to Do with Kids in Colorado Springs This Weekend (Oct. 2\u20134)", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-1-x_post-1", "title": "Things to Do with Kids in Colorado Springs This Weekend (Oct. 2\u20134)", "content": "Five things to do with kids in Colorado Springs this weekend (Oct. 2\u20134):\n\n\ud83d\udd2c Cool Science Carnival at UCCS \u2014 FREE\n\ud83c\udf3e Rock Ledge Ranch Harvest Festival \u2014 $6+\n\ud83c\udf83 Venetucci Farm Pumpkin Fest\n\ud83d\udc7b Ghost Stories of Old Manitou\n\ud83c\udfb5 Concrete Couchella \u2014 FREE\n\n#COSKids #ColoradoSprings", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#COSKids #ColoradoSprings", "tweet_label": "Post 1-1"}, {"id": "story-1-x_post-2", "title": "Things to Do with Kids in Colorado Springs This Weekend (Oct. 2\u20134)", "content": "Two free picks for Colorado Springs families this weekend:\n\n\ud83d\udd2c Cool Science Carnival at UCCS \u2014 Saturday, 10 AM\u20134 PM. Rockets, slime, robots, live animals. Great for K\u20138.\n\n\ud83c\udfb5 Concrete Couchella \u2014 Oct. 2\u20133. Live music, art, games, food.\n\n#COSKids #FreeColoradoSprings", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#COSKids #FreeColoradoSprings", "tweet_label": "Post 1-2"}, {"id": "story-1-x_post-3", "title": "Things to Do with Kids in Colorado Springs This Weekend (Oct. 2\u20134)", "content": "Full weekend guide for Colorado Springs families is up \u2014 five picks for Oct. 2\u20134 with times, prices, and links.\n\nLink in bio or check springsdaily.com/events/this-weekend-with-kids. #COSKids", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#COSKids", "tweet_label": "Post 1-3"}, {"id": "story-2-daily_brief", "title": "CPSC Recalls Two Baby Bath Seats Over Drowning Risk \u2014 What Parents Need to Know", "content": "CPSC Recalls Two Baby Bath Seats Over Drowning Risk \u2014 What Parents Need to Know", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-2-x_post-1", "title": "CPSC Recalls Two Baby Bath Seats Over Drowning Risk \u2014 What Parents Need to Know", "content": "RECALL: Two baby bath seat models sold on Amazon have been recalled by the CPSC for drowning and entrapment risk.\n\nIf you have an YCXXKJ or NFSVLB bath seat, stop using it now.\n\nContact the seller for a full refund. #BabySafety #CPSCRecall", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#BabySafety #CPSCRecall", "tweet_label": "Post 2-1"}, {"id": "story-2-x_post-2", "title": "CPSC Recalls Two Baby Bath Seats Over Drowning Risk \u2014 What Parents Need to Know", "content": "YCXXKJ bath seat (BenTalk on Amazon): ~9,000 units recalled. Tips over \u2014 drowning risk.\n\nNFSVLB bath seat (Amazon): Leg openings let infants slip through \u2014 entrapment and drowning risk.\n\nBoth sold 2024\u20132025. Stop use. Get a refund. Details at cpsc.gov. #CPSCRecall", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#CPSCRecall", "tweet_label": "Post 2-2"}, {"id": "story-3-daily_brief", "title": "D11 and D49 Fall Break and Parent-Teacher Conference Dates \u2014 October 2026", "content": "D11 and D49 Fall Break and Parent-Teacher Conference Dates \u2014 October 2026", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-3-x_post-1", "title": "D11 and D49 Fall Break and Parent-Teacher Conference Dates \u2014 October 2026", "content": "October dates for Colorado Springs school families:\n\nD11: Teacher workday Oct. 9. Parent-teacher conferences Oct. 16. Fall break Oct. 19\u201322.\n\nD49: PTCs + no school Oct. 9. Fall break Oct. 12\u201323 \u2014 nearly two weeks.\n\nPlan accordingly. #D11 #D49 #COSParenting", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#D11 #D49 #COSParenting", "tweet_label": "Post 3"}, {"id": "story-4-daily_brief", "title": "AAP 2026 Vaccine Schedule Recommends More Shots Than CDC \u2014 What Colorado Families Should Know", "content": "AAP 2026 Vaccine Schedule Recommends More Shots Than CDC \u2014 What Colorado Families Should Know", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-4-x_post-1", "title": "AAP 2026 Vaccine Schedule Recommends More Shots Than CDC \u2014 What Colorado Families Should Know", "content": "The AAP's 2026 vaccine schedule covers 17 diseases \u2014 more than the CDC's, which dropped hep A/B, flu, rotavirus, RSV, and meningococcal.\n\nColorado CDPHE backs the AAP list. Ask your pediatrician which schedule they follow. #ChildHealth #Colorado", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#ChildHealth #Colorado", "tweet_label": "Post 4"}, {"id": "story-5-daily_brief", "title": "Cool Science Festival Returns to Colorado Springs \u2014 Free STEAM Events Oct. 3\u201318", "content": "Cool Science Festival Returns to Colorado Springs \u2014 Free STEAM Events Oct. 3\u201318", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-5-x_post-1", "title": "Cool Science Festival Returns to Colorado Springs \u2014 Free STEAM Events Oct. 3\u201318", "content": "The Cool Science Festival runs Oct. 3\u201318 in Colorado Springs \u2014 16 days of mostly free STEAM events across the city.\n\nCarnival Day at UCCS kicks it off Saturday. WMMI, Ivywild, and USAFA have events through Oct. 18.\n\nFull schedule at coolscience.org. #COSKids #STEAM", "type": "x_post", "posting_window": "", "tweet_type": "", "hashtags": "#COSKids #STEAM", "tweet_label": "Post 5"}, {"id": "article-article-01-things-to-do-kids-colorado-springs-weekend-oct-2-4", "title": "Things to Do with Kids in Colorado Springs This Weekend (Oct. 2\u20134, 2026)", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Things to Do with Kids in Colorado Springs This Weekend (Oct. 2\u20134, 2026)<\/title>\n<meta name=\"description\" content=\"Five family-friendly picks for the October 2\u20134 weekend in Colorado Springs, including the Cool Science Carnival, Rock Ledge Ranch Harvest Festival, Venetucci Farm, Ghost Stories of Old Manitou, and Concrete Couchella.\">\n<\/head>\n<body>\n\n<article>\n<header>\n<h1>Things to Do with Kids in Colorado Springs This Weekend (Oct. 2\u20134, 2026)<\/h1>\n<p class=\"byline\">By Jamie Rivera | COS Parenting | October 1, 2026<\/p>\n<\/header>\n\n<p>October arrived in Colorado Springs this week, and the first full weekend of the month is packed. From a free science carnival at UCCS to pumpkin picking at a historic farm, there's no shortage of reasons to get outside with the family. Here are five picks worth adding to your calendar.<\/p>\n\n<h2>1. Cool Science Carnival at UCCS<\/h2>\n\n<p><strong>Saturday, Oct. 3 | 10 AM\u20134 PM | FREE<\/strong><br>\nUCCS campus, Colorado Springs<\/p>\n\n<p>The Cool Science Festival kicks off its 2026 run with its annual Carnival Day at UCCS, and it's one of the best free events the city offers all fall. Dozens of hands-on stations cover rockets, slime, robots, live animals, and more \u2014 all designed with K\u20138 learners in mind. It runs from 10 AM to 4 PM on Saturday, and admission is completely free.<\/p>\n\n<p>This is the flagship event of a larger 16-day festival running through Oct. 18. We've got a full rundown of the festival's other events later this week, but if you can only make one stop, Saturday at UCCS is the one to prioritize.<\/p>\n\n<h2>2. Rock Ledge Ranch Harvest Festival<\/h2>\n\n<p><strong>Saturday, Oct. 3 | 10 AM\u20134 PM<\/strong><br>\n3105 Gateway Rd, Colorado Springs, CO 80904 | (719) 578-6777<\/p>\n\n<p>Rock Ledge Ranch hosts its annual Harvest Festival on Saturday. Set on a working historic ranch at the base of the Garden of the Gods, it's a genuinely beautiful fall outing. Admission runs $12 for adults, $8 for seniors and military, $6 for youth ages 3\u201317, and free for children under 2. Pumpkins are available for $6 each.<\/p>\n\n<p>It's the kind of event that's easy to spend a few hours at \u2014 the setting alone makes it worth the trip.<\/p>\n\n<h2>3. Venetucci Farm Pumpkin Festival<\/h2>\n\n<p><strong>Saturday\u2013Sunday | 9:30 AM\u20134 PM (Fridays: 9:30 AM\u20132:30 PM)<\/strong><br>\n5210 S US Highway 85, Colorado Springs, CO 80911 | venetuccifarm.org<\/p>\n\n<p>Venetucci Farm's pumpkin season is running through October, and the weekend hours are generous \u2014 9:30 AM to 4 PM on Saturday and Sunday. Admission is $5 for ages 8 and up, and pumpkins are $10 each. The farm has been a Colorado Springs tradition for generations, and it holds up year after year as a reliable fall outing for families with kids of any age.<\/p>\n\n<p>It's worth going early to avoid lines later in the day.<\/p>\n\n<h2>4. Ghost Stories of Old Manitou \u2014 Opening Weekend<\/h2>\n\n<p><strong>Thursday\u2013Friday, Oct. 2\u20133 | 5:30 PM<\/strong><br>\n517 Manitou Ave, Manitou Springs | manitouspringsheritagecenter.org<\/p>\n\n<p>The Manitou Springs Heritage Center launches its annual Ghost Stories of Old Manitou series this weekend. The evening storytelling events run at 5:30 PM on Oct. 2 and 3. Tickets are $18.84 for adults, and children under 10 are free. It's a genuinely atmospheric way to ease into October for older kids and adults \u2014 eerie, but not scary in a cheap way.<\/p>\n\n<h2>5. Concrete Couchella<\/h2>\n\n<p><strong>Thursday\u2013Friday, Oct. 2\u20133 | FREE<\/strong><br>\nNear Downtown Colorado Springs<\/p>\n\n<p>Concrete Couchella returns this week with two days of live music, art installations, games, activities, and food in an approximately 8-acre park near Downtown Colorado Springs. It's completely free and designed to be family-friendly throughout. Whether you're looking for a low-key evening out or a full afternoon with kids in tow, it's a solid option to close out the weekend on a budget.<\/p>\n\n<h2>Find More This Weekend<\/h2>\n\n<p>For a broader look at what's happening in Colorado Springs this weekend, <a href=\"https://springsdaily.com/events/this-weekend-with-kids\">Springs Daily's This Weekend with Kids guide<\/a> is updated weekly with family-focused picks. If you're watching the budget, the <a href=\"https://springsdaily.com/events/free-this-weekend\">Free Events This Weekend roundup<\/a> is a reliable place to start. The full community events calendar lives at <a href=\"https://springsdaily.com/events/this-weekend\">springsdaily.com/events/this-weekend<\/a>.<\/p>\n\n<h2>What's Next<\/h2>\n\n<p>The Cool Science Festival runs through Oct. 18 with events at the Western Museum of Mining and Industry, Ivywild School, and the U.S. Air Force Academy. We'll have a full guide to the festival's lineup later today.<\/p>\n\n<p>Next weekend brings more fall options across Colorado Springs \u2014 check back Friday for the Oct. 9\u201311 family guide.<\/p>\n\n<\/article>\n\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-02-cpsc-baby-bath-seat-recall-drowning-risk", "title": "CPSC Recalls Two Baby Bath Seat Models Sold on Amazon Over Drowning and Entrapment Risk", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>CPSC Recalls Two Baby Bath Seat Models Sold on Amazon Over Drowning and Entrapment Risk<\/title>\n<meta name=\"description\" content=\"The CPSC has recalled two baby bath seat models \u2014 YCXXKJ and NFSVLB \u2014 sold on Amazon due to drowning and entrapment hazards. Parents should stop use immediately and seek refunds.\">\n<\/head>\n<body>\n\n<article>\n<header>\n<h1>CPSC Recalls Two Baby Bath Seat Models Sold on Amazon Over Drowning and Entrapment Risk<\/h1>\n<p class=\"byline\">By Sarah Morales | COS Parenting | October 1, 2026<\/p>\n<\/header>\n\n<p>Two baby bath seat models sold on Amazon have been recalled by the Consumer Product Safety Commission due to drowning and entrapment hazards. If your family purchased a baby bath seat on Amazon in the past two years, check the model name now.<\/p>\n\n<h2>YCXXKJ Baby Bath Seats<\/h2>\n\n<p>The first recall covers approximately 9,000 YCXXKJ baby bath seats sold by BenTalk on Amazon between May 2024 and October 2025. The seats were sold in blue, gray, pink, and yellow, and came equipped with two detachable arms, four suction cups, and a set of duck, turtle, or whale bath toys.<\/p>\n\n<p>The problem: the seats are unstable and can tip over during use, creating a drowning risk for infants.<\/p>\n\n<p>Remedy: Stop using the seat immediately. Contact BenTalk through Amazon for a full refund. Full recall details are available at cpsc.gov.<\/p>\n\n<h2>NFSVLB Baby Bath Seats<\/h2>\n\n<p>The second recall covers NFSVLB baby bath seats sold on Amazon between May 2025 and October 2025, priced at $25 to $40. These seats have a different design flaw: the leg openings are large enough to allow infants to slip through, creating both an entrapment hazard and a drowning risk.<\/p>\n\n<p>Remedy: Stop using the seat immediately. Contact the seller through Amazon for a full refund.<\/p>\n\n<h2>What to Do Right Now<\/h2>\n\n<p>If you have either of these bath seats in your home \u2014 or if you're unsure whether your seat matches one of the recalled models \u2014 stop using it until you've confirmed the model name against the CPSC recall listings at cpsc.gov.<\/p>\n\n<p>Both recalls share the same core instruction: stop use, get a refund. Do not donate or resell a recalled product.<\/p>\n\n<p>The CPSC recommends that caregivers never leave a child unattended in a bath seat, even one that isn't subject to a recall. The American Academy of Pediatrics advises within-arm's-reach supervision for any child under age 6 near water, regardless of what safety equipment is in use.<\/p>\n\n<h2>How to Check Your Seat<\/h2>\n\n<p>The model name is typically printed on a label on the underside of the seat. Look for \"YCXXKJ\" or \"NFSVLB\" on the product label, packaging, or Amazon order history. If you purchased a bath seat through Amazon, you can also check your order history to identify the product and seller.<\/p>\n\n<h2>What's Next<\/h2>\n\n<p>The CPSC periodically updates its recall list at cpsc.gov/recalls. Parents and caregivers who want to stay current on product safety notices can sign up for email alerts directly through the CPSC website.<\/p>\n\n<p>For questions about either of these specific recalls, the CPSC hotline is 800-638-2772 (TTY 301-595-7054), available Monday through Friday, 8 AM to 5:30 PM ET.<\/p>\n\n<\/article>\n\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-03-d11-fall-break-parent-teacher-conference-schedule", "title": "D11 and D49 Fall Break and Parent-Teacher Conference Dates \u2014 October 2026", "content": "<!DOCTYPE html>\n<html lang=\"em\">\n<head>\n<meta charset=\"UTF-8\">\n<title>D11 and D49 Fall Break and Parent-Teacher Conference Dates \u2014 October 2026<\/title>\n<meta name=\"description\" content=\"Key October school calendar dates for Colorado Springs D11 and D49 families, including teacher workdays, parent-teacher conferences, and fall break windows.\">\n<\/head>\n<body>\n\n<article>\n<header>\n<h1>D11 and D49 Fall Break and Parent-Teacher Conference Dates \u2014 October 2026<\/h1>\n<p class=\"byline\">By Jamie Rivera | COS Parenting | October 1, 2026<\/p>\n<\/header>\n\n<p>October is one of the busier months on the Colorado Springs school calendar, with teacher workdays, parent-teacher conferences, and fall breaks landing across different dates depending on whether your kids are in D11 or D49. Here's a side-by-side look at what's coming up.<\/p>\n\n<h2>Colorado Springs School District 11 (D11)<\/h2>\n\n<p>D11 families have a handful of no-school and event dates to track this month:<\/p>\n\n<ul>\n<li><strong>Oct. 1:<\/strong> Chalktober \u2014 8th Grade Peak Experience<\/li>\n<li><strong>Oct. 8:<\/strong> Discovery Day (PreK program)<\/li>\n<li><strong>Oct. 9:<\/strong> Teacher Work Day \u2014 No students<\/li>\n<li><strong>Oct. 14\u201315:<\/strong> Rocket Day (5th Grade)<\/li>\n<li><strong>Oct. 16:<\/strong> Parent/Teacher Conferences \u2014 No students<\/li>\n<li><strong>Oct. 19\u201322:<\/strong> Fall Break \u2014 No students (4 days)<\/li>\n<li><strong>Oct. 24\u201325:<\/strong> Coronado High School Craft Fair<\/li>\n<\/ul>\n\n<p>The main no-school stretch for D11 families runs Oct. 16\u201322 \u2014 a week that combines the parent-teacher conference day on Thursday and a four-day fall break from Monday through Thursday the following week. It's a good window to plan travel or childcare if you need it.<\/p>\n\n<h2>Falcon School District 49 (D49)<\/h2>\n\n<p>D49 families have a notably different fall break calendar:<\/p>\n\n<ul>\n<li><strong>Oct. 8:<\/strong> Board of Education meeting<\/li>\n<li><strong>Oct. 9:<\/strong> Parent-Teacher Conferences \u2014 No school<\/li>\n<li><strong>Oct. 12\u201323:<\/strong> Fall Break \u2014 No school (nearly two full weeks)<\/li>\n<\/ul>\n\n<p>D49's fall break runs Oct. 12\u201323 \u2014 about twice as long as D11's four-day break. Students in D49 are out for the better part of two weeks, which gives families a longer window but also requires more planning for child care and activities.<\/p>\n\n<h2>The One Date Both Districts Share<\/h2>\n\n<p>Both D11 and D49 have Oct. 9 as a no-school day for parent-teacher conferences. If you have kids in both districts, that's one date that lines up cleanly.<\/p>\n\n<h2>What's Next<\/h2>\n\n<p>Complete school year calendars for both districts are available at d11.org and d49.org. If you're in another Colorado Springs-area district, check your district's website directly \u2014 Palmer, Hanover, and Widefield have their own calendar schedules that don't follow D11 or D49 dates.<\/p>\n\n<\/article>\n\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-04-aap-2026-vaccine-schedule-breaks-cdc", "title": "AAP 2026 Vaccine Schedule Recommends More Shots Than CDC \u2014 What Colorado Families Should Know", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>AAP 2026 Vaccine Schedule Recommends More Shots Than CDC \u2014 What Colorado Families Should Know<\/title>\n<meta name=\"description\" content=\"The AAP's 2026 immunization schedule covers 17 diseases \u2014 several more than the CDC's current schedule. Colorado CDPHE backs the AAP list. Here's what COS families should ask their pediatrician.\">\n<\/head>\n<body>\n\n<article>\n<header>\n<h1>AAP 2026 Vaccine Schedule Recommends More Shots Than CDC \u2014 What Colorado Families Should Know<\/h1>\n<p class=\"byline\">By Sarah Morales | COS Parenting | October 1, 2026<\/p>\n<\/header>\n\n<p>If you've had a pediatrician's appointment lately and felt like you were getting different answers about which vaccines your child needs, there's a reason for that. The American Academy of Pediatrics and the CDC are no longer recommending the same immunization schedule for children \u2014 and the gap between the two lists has real implications for families in Colorado.<\/p>\n\n<h2>What the AAP Is Recommending<\/h2>\n\n<p>The American Academy of Pediatrics released its 2026 immunization schedule covering vaccines for 17 diseases. It's a comprehensive list that the AAP developed with input from 12 major national health organizations, and it's the schedule used by the majority of board-certified pediatricians across the country.<\/p>\n\n<p>Among the vaccines the AAP schedule includes: hepatitis A, hepatitis B, meningococcal disease, rotavirus, flu, and RSV \u2014 as well as COVID-19 for children ages 6 to 23 months.<\/p>\n\n<h2>What the CDC Schedule Currently Covers<\/h2>\n\n<p>The CDC's 2026 schedule is shorter. It no longer recommends several vaccines that the AAP still includes \u2014 among them hepatitis A, hepatitis B, meningococcal disease, rotavirus, flu, and RSV. The total gap is roughly seven diseases where the two schedules diverge.<\/p>\n\n<p>This kind of divergence between the AAP and CDC is unusual. Historically, the two organizations have aligned closely on immunization guidelines. The current split has created confusion for both families and some healthcare providers about which standard to follow.<\/p>\n\n<h2>Where Colorado Stands<\/h2>\n\n<p>Colorado's Department of Public Health and Environment (CDPHE) has come down clearly on the side of the AAP schedule. The agency is urging Colorado families and healthcare providers to follow the AAP's 2026 guidelines, not the CDC's. That position is consistent with 28 other states and 12 national health organizations that have endorsed the AAP schedule.<\/p>\n\n<p>If your pediatrician is in Colorado, they're operating in a state where the public health authority has explicitly backed the more comprehensive list.<\/p>\n\n<h2>What to Ask at Your Child's Next Appointment<\/h2>\n\n<p>The simplest thing you can do is ask your child's doctor which schedule their practice follows and whether they've updated their recommendations for 2026. Most pediatricians who are members of the AAP will likely be following the AAP schedule, but it's worth confirming \u2014 especially if your child has a well-child visit coming up this fall.<\/p>\n\n<p>If your doctor is following the CDC schedule, ask them why and whether they'd consider the AAP list given Colorado CDPHE's guidance.<\/p>\n\n<h2>What's Next<\/h2>\n\n<p>The AAP updates its immunization guidelines annually. The most current recommendations, along with a parent-friendly breakdown of the schedule, are available at healthychildren.org. Colorado-specific information is available through cdphe.colorado.gov under childhood immunizations.<\/p>\n\n<\/article>\n\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-05-cool-science-festival-colorado-springs-free-steam", "title": "Cool Science Festival Returns to Colorado Springs \u2014 16 Days of Free STEAM Events Oct. 3\u201318", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Cool Science Festival Returns to Colorado Springs \u2014 16 Days of Free STEAM Events Oct. 3\u201318<\/title>\n<meta name=\"description\" content=\"The Cool Science Festival runs Oct. 3\u201318, 2026 in Colorado Springs with mostly free STEAM events at UCCS, WMMI, Ivywild School, and USAFA. Here's how to plan your visit.\">\n<\/head>\n<body>\n\n<article>\n<header>\n<h1>Cool Science Festival Returns to Colorado Springs \u2014 16 Days of Free STEAM Events Oct. 3\u201318<\/h1>\n<p class=\"byline\">By Jamie Rivera | COS Parenting | October 1, 2026<\/p>\n<\/header>\n\n<p>The Cool Science Festival is back in Colorado Springs, running Oct. 3\u201318 with 16 days of science, technology, engineering, art, and math programming spread across venues throughout the city. Most events are free or low cost, and the festival is co-hosted by the Space Foundation Discovery Center.<\/p>\n\n<p>If you've got kids who light up at the idea of rockets, gems, or hands-on experiments \u2014 or you're just looking for something to do over fall break \u2014 this is a solid two-week stretch to keep on your radar.<\/p>\n\n<h2>Carnival Day at UCCS \u2014 Saturday, Oct. 3 (Free)<\/h2>\n\n<p>The festival's flagship event is the annual Carnival Day at UCCS, running Saturday from 10 AM to 4 PM. It's free for all ages and designed with K\u20138 learners in mind. Dozens of demo stations cover everything from rocketry to slime chemistry to robotics to live animals. This is the highest-energy, highest-attendance event of the festival, and it's worth arriving closer to opening time if you want to work through all the stations without a wait.<\/p>\n\n<p>The Science Carnival also doubles as a great preview of the broader festival \u2014 many of the organizations running demos at UCCS host their own events at other venues during the following two weeks.<\/p>\n\n<h2>WMMI Gem and Mineral Panning \u2014 Oct. 3\u201318<\/h2>\n\n<p>The Western Museum of Mining and Industry is running gem and mineral panning throughout the full festival period. It's one of the more open-ended options in the lineup \u2014 you can drop in on any day during the festival run rather than committing to a single event. WMMI is located at 225 North Gate Blvd near the Air Force Academy entrance.<\/p>\n\n<h2>Science Riot at Ivywild School \u2014 Oct. 7<\/h2>\n\n<p>Science Riot is a comedy-science show format where researchers present their actual work in short, accessible 10-minute presentations \u2014 the kind of science communication that tends to surprise adults more than kids. It runs Oct. 7 at Ivywild School, the converted elementary school at 1604 S Cascade Ave that's become one of Colorado Springs' more interesting event venues. Good for older kids and adults who want something a little different.<\/p>\n\n<h2>Space Science Shows at USAFA \u2014 Oct. 8<\/h2>\n\n<p>The U.S. Air Force Academy hosts space science programming on Oct. 8 as part of the festival. Check coolscience.org for ticketing and any access requirements for the USAFA events \u2014 base entry may require advance registration.<\/p>\n\n<h2>Full Schedule<\/h2>\n\n<p>The festival has more events across the 16-day run than are listed here. The complete schedule, including times, locations, and registration links where required, is available at coolscience.org. Most events don't require advance tickets, but a few of the ticketed shows fill up in advance.<\/p>\n\n<h2>What's Next<\/h2>\n\n<p>Carnival Day on Saturday, Oct. 3 is the natural entry point for families new to the festival. After that, the WMMI panning and the Ivywild events are easy add-ons for families who want to spread the festival experience across the two weeks.<\/p>\n\n<\/article>\n\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}];
+        const imageManifest = {};
+        let imageURLs = {}; // Runtime store: {'1_x_image': 'url', '1_facebook_image': 'url', ...}
+
+        // Image URL management
+        function updateImageURL(inputEl) {
+            var story = inputEl.dataset.story;
+            var platform = inputEl.dataset.platform;
+            var url = inputEl.value.trim();
+            var key = story + '_' + platform;
+            imageURLs[key] = url;
+
+            // Update preview thumbnail
+            var preview = document.getElementById('img-preview-' + story + '-' + platform);
+            if (preview) {
+                if (url) {
+                    preview.src = url;
+                    preview.classList.add('loaded');
+                    preview.onerror = function() { this.classList.remove('loaded'); };
+                } else {
+                    preview.src = '';
+                    preview.classList.remove('loaded');
+                }
+            }
+        }
+
+        function getImageURLForStory(storyTitle, platform) {
+            // Try runtime imageURLs first (user-pasted)
+            // Extract story number from title
+            for (var key in imageURLs) {
+                if (imageURLs[key] && key.endsWith('_' + platform)) {
+                    var storyNum = key.split('_')[0];
+                    // Check if this story matches by looking at allStories
+                    for (var i = 0; i < allStories.length; i++) {
+                        if (allStories[i].title === storyTitle &&
+                            allStories[i].id.indexOf('story-' + storyNum) !== -1) {
+                            return imageURLs[key];
+                        }
+                    }
+                }
+            }
+
+            // Try manifest data
+            for (var num in imageManifest) {
+                var mdata = imageManifest[num];
+                if (mdata && mdata[platform] && mdata[platform].exported_url) {
+                    // Check if this story number matches
+                    for (var j = 0; j < allStories.length; j++) {
+                        if (allStories[j].title === storyTitle &&
+                            allStories[j].id.indexOf('story-' + num) !== -1) {
+                            return mdata[platform].exported_url;
+                        }
+                    }
+                }
+            }
+
+            return '';
+        }
+
+        function initializeApp() {
+            const saved = localStorage.getItem(REVIEW_STORAGE_KEY + '-' + DATE);
+            if (saved) {
+                try {
+                    reviewData = JSON.parse(saved);
+                } catch (e) {
+                    reviewData = {};
+                }
+            }
+
+            allStories.forEach(function(story) {
+                if (!reviewData[story.id]) {
+                    reviewData[story.id] = {
+                        id: story.id,
+                        type: story.type,
+                        status: 'unreviewed',
+                        notes: '',
+                        content: story.content,
+                        editedContent: null
+                    };
+                }
+                // Migrate old data: ensure editedContent field exists
+                if (reviewData[story.id].editedContent === undefined) {
+                    reviewData[story.id].editedContent = null;
+                }
+            });
+
+            // Restore UI state
+            Object.keys(reviewData).forEach(function(storyId) {
+                var data = reviewData[storyId];
+                var card = document.querySelector('[data-id="' + storyId + '"]');
+                if (card) {
+                    card.setAttribute('data-status', data.status);
+                    var textarea = document.getElementById('textarea-' + storyId);
+                    if (textarea) textarea.value = data.notes || '';
+                    // If content was edited, update the display and editor
+                    if (data.editedContent) {
+                        var contentText = card.querySelector('.card-content-text');
+                        if (contentText) contentText.textContent = data.editedContent;
+                        var editor = document.getElementById('editor-' + storyId);
+                        if (editor) editor.value = data.editedContent;
+                    }
+                    updateCardVisuals(storyId, data.status, !!data.editedContent);
+                }
+            });
+
+            updateProgress();
+            filterByStatus('all');
+        }
+
+        function toggleExpand(storyId) {
+            var content = document.getElementById('content-' + storyId);
+            var toggle = document.getElementById('toggle-' + storyId);
+            if (content.classList.contains('collapsed')) {
+                content.classList.remove('collapsed');
+                content.classList.add('expanded');
+                toggle.textContent = 'Collapse';
+            } else {
+                content.classList.remove('expanded');
+                content.classList.add('collapsed');
+                toggle.textContent = 'Show Full Content';
+            }
+        }
+
+        function startEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+            card.classList.add('editing');
+            var editor = document.getElementById('editor-' + storyId);
+            if (editor) {
+                // If previously edited, load edited content; otherwise load original
+                var data = reviewData[storyId];
+                if (data && data.editedContent) {
+                    editor.value = data.editedContent;
+                }
+                editor.focus();
+                // Auto-resize for articles
+                editor.style.minHeight = Math.max(300, editor.scrollHeight) + 'px';
+            }
+        }
+
+        function saveAndApprove(storyId) {
+            var editor = document.getElementById('editor-' + storyId);
+            if (!editor) return;
+            var newContent = editor.value;
+
+            // Save the edited content
+            if (!reviewData[storyId]) {
+                reviewData[storyId] = { id: storyId, status: 'approved', notes: '', content: '', editedContent: null };
+            }
+            reviewData[storyId].editedContent = newContent;
+
+            // Update the display text
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            var contentText = card ? card.querySelector('.card-content-text') : null;
+            if (contentText) contentText.textContent = newContent;
+
+            // Exit edit mode
+            if (card) card.classList.remove('editing');
+
+            // Approve
+            setStatus(storyId, 'approved');
+            updateCardVisuals(storyId, 'approved', true);
+
+            // Update char count for X posts
+            updateCharCount(storyId, newContent);
+        }
+
+        function cancelEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.classList.remove('editing');
+        }
+
+        function updateCharCount(storyId, text) {
+            var el = document.getElementById('charcount-' + storyId);
+            if (!el) return;
+            // Strip metadata tags before counting
+            var clean = text.replace(/\[CHARACTER COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[CHAR COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[\d+\/280\]/g, '');
+            // Remove URLs for Twitter count
+            var textNoUrls = clean.replace(/https?:\/\/\S+/g, '');
+            var count = textNoUrls.trim().length;
+            el.textContent = 'Characters: ' + count + '/280' + (count > 280 ? '  OVER LIMIT' : '');
+            el.className = count > 280 ? 'char-count warning' : 'char-count';
+        }
+
+        function approveCard(storyId) {
+            setStatus(storyId, 'approved');
+            document.getElementById('notes-' + storyId).classList.remove('show');
+        }
+
+        function rejectCard(storyId) {
+            setStatus(storyId, 'rejected');
+            document.getElementById('notes-' + storyId).classList.add('show');
+        }
+
+        function setStatus(storyId, status) {
+            if (!reviewData[storyId]) {
+                var story = allStories.find(function(s) { return s.id === storyId; });
+                reviewData[storyId] = {
+                    id: storyId,
+                    type: story ? story.type : '',
+                    status: status,
+                    notes: '',
+                    content: story ? story.content : '',
+                    editedContent: null
+                };
+            }
+
+            reviewData[storyId].status = status;
+
+            var textarea = document.getElementById('textarea-' + storyId);
+            if (textarea) reviewData[storyId].notes = textarea.value;
+
+            localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.setAttribute('data-status', status);
+            updateCardVisuals(storyId, status, !!(reviewData[storyId] && reviewData[storyId].editedContent));
+            updateProgress();
+        }
+
+        function updateCardVisuals(storyId, status, wasEdited) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+
+            card.classList.remove('approved', 'needs-edit', 'rejected');
+            if (status !== 'unreviewed') card.classList.add(status);
+
+            var statusLabel = document.getElementById('status-' + storyId);
+            if (statusLabel) {
+                statusLabel.className = 'status-label';
+                if (status === 'approved' && wasEdited) {
+                    statusLabel.textContent = 'APPROVED (EDITED)';
+                    statusLabel.classList.add('status-edited');
+                } else if (status === 'approved') {
+                    statusLabel.textContent = 'APPROVED';
+                    statusLabel.classList.add('status-approved');
+                } else if (status === 'needs-edit') {
+                    statusLabel.textContent = 'NEEDS EDIT';
+                    statusLabel.classList.add('status-needs-edit');
+                } else if (status === 'rejected') {
+                    statusLabel.textContent = 'REJECTED';
+                    statusLabel.classList.add('status-rejected');
+                } else {
+                    statusLabel.textContent = '';
+                }
+            }
+        }
+
+        function updateProgress() {
+            var approved = 0, rejected = 0, unreviewed = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status === 'unreviewed') unreviewed++;
+                else if (data.status === 'approved') approved++;
+                else if (data.status === 'rejected') rejected++;
+                else unreviewed++;
+            });
+            var reviewed = approved + rejected;
+            var total = allStories.length;
+            var percentage = total > 0 ? (reviewed / total * 100) : 0;
+            document.getElementById('reviewed-count').textContent = reviewed;
+            document.getElementById('total-count').textContent = total;
+            document.getElementById('progress-fill').style.width = percentage + '%';
+            // Update stat chips
+            document.getElementById('stat-approved-count').textContent = approved;
+            document.getElementById('stat-rejected-count').textContent = rejected;
+            document.getElementById('stat-unreviewed-count').textContent = unreviewed;
+            // Update CSV button
+            var csvBtn = document.getElementById('btn-csv');
+            var tobiBtn = document.getElementById('btn-tobi');
+            var socialApproved = countApprovedSocialPosts();
+            if (csvBtn) {
+                if (socialApproved > 0) {
+                    csvBtn.disabled = false;
+                    csvBtn.textContent = 'PostPlanner Upload (' + socialApproved + ' posts)';
+                } else {
+                    csvBtn.disabled = true;
+                    csvBtn.textContent = 'PostPlanner Upload (0 approved)';
+                }
+            }
+            // Update TOBI button (counts only X/Twitter text posts)
+            if (tobiBtn) {
+                var xApproved = countApprovedXPosts();
+                if (xApproved > 0) {
+                    tobiBtn.disabled = false;
+                    tobiBtn.textContent = 'TOBI Upload (' + xApproved + ' posts)';
+                } else {
+                    tobiBtn.disabled = true;
+                    tobiBtn.textContent = 'TOBI Upload (0 approved)';
+                }
+            }
+        }
+
+        function countApprovedSocialPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && (story.type === 'x_post' || story.type === 'facebook')) {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function countApprovedXPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && story.type === 'x_post') {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function escapeCSVField(text) {
+            if (!text) return '';
+            // If field contains comma, quote, or newline, wrap in quotes and escape inner quotes
+            if (text.indexOf(',') !== -1 || text.indexOf('"') !== -1 || text.indexOf('\n') !== -1) {
+                return '"' + text.replace(/"/g, '""') + '"';
+            }
+            return text;
+        }
+
+        function extractHashtags(text) {
+            if (!text) return '';
+            var matches = text.match(/#\w+/g);
+            return matches ? matches.join(' ') : '';
+        }
+
+        // ========== POSTING SCHEDULE SYSTEM ==========
+        var defaultXSlots = ['09:00', '12:00', '15:00', '18:00', '21:00'];
+        var defaultFBSlots = ['10:00', '13:00', '17:00'];
+
+        function getScheduleConfig() {
+            var saved = localStorage.getItem(SCHEDULE_STORAGE_KEY);
+            if (saved) {
+                try { return JSON.parse(saved); } catch(e) {}
+            }
+            return { xSlots: defaultXSlots.slice(), fbSlots: defaultFBSlots.slice() };
+        }
+
+        function saveScheduleConfig(config) {
+            localStorage.setItem(SCHEDULE_STORAGE_KEY, JSON.stringify(config));
+        }
+
+        function renderTimeSlots() {
+            var config = getScheduleConfig();
+            var xContainer = document.getElementById('x-time-slots');
+            var fbContainer = document.getElementById('fb-time-slots');
+
+            xContainer.innerHTML = config.xSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27x\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+
+            fbContainer.innerHTML = config.fbSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27fb\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+        }
+
+        function addTimeSlot(platform) {
+            var inputId = platform === 'x' ? 'new-x-time' : 'new-fb-time';
+            var val = document.getElementById(inputId).value;
+            if (!val) return;
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            if (arr.indexOf(val) === -1) {
+                arr.push(val);
+                arr.sort();
+            }
+            saveScheduleConfig(config);
+            renderTimeSlots();
+            document.getElementById(inputId).value = '';
+        }
+
+        function removeTimeSlot(platform, index) {
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            arr.splice(index, 1);
+            saveScheduleConfig(config);
+            renderTimeSlots();
+        }
+
+        function downloadPostPlannerCSV() {
+            // Open schedule panel instead of direct download
+            openSchedulePanel();
+        }
+
+        function openSchedulePanel() {
+            document.getElementById('schedule-date').value = DATE;
+            renderTimeSlots();
+            document.getElementById('schedule-panel').classList.add('show');
+            document.getElementById('schedule-overlay').classList.add('show');
+        }
+
+        function closeSchedulePanel() {
+            document.getElementById('schedule-panel').classList.remove('show');
+            document.getElementById('schedule-overlay').classList.remove('show');
+        }
+
+        function formatTimeForPostPlanner(time24, dateStr) {
+            // Output PostPlanner V2 format: MM/DD/YYYY  HH:MM (24hr)
+            var parts = dateStr.split('-');
+            return parts[1] + '/' + parts[2] + '/' + parts[0] + '  ' + time24;
+        }
+
+        function redistributeTimes(rows) {
+            // Ensure all post times are at least 30 min from now,
+            // evenly spaced through the rest of the day.
+            if (rows.length === 0) return rows;
+
+            var now = new Date();
+            var nowMinutes = now.getHours() * 60 + now.getMinutes();
+            var floorMinutes = nowMinutes + 30;
+            var endMinutes = 22 * 60; // 10:00 PM cutoff
+
+            // Check if ANY post times have already passed
+            var anyPast = rows.some(function(row) {
+                var parts = row.time.split(':');
+                var rowMin = parseInt(parts[0], 10) * 60 + parseInt(parts[1], 10);
+                return rowMin < floorMinutes;
+            });
+
+            if (!anyPast) return rows; // all times are in the future, keep them
+
+            if (floorMinutes >= endMinutes) {
+                alert('It is past 9:30 PM — not enough time remaining to schedule all posts today. Posts will use original times.');
+                return rows;
+            }
+
+            var availableMinutes = endMinutes - floorMinutes;
+            var spacing = Math.floor(availableMinutes / rows.length);
+            if (spacing < 15) spacing = 15; // minimum 15 min gap
+            if (spacing > 90) spacing = 90; // maximum 90 min gap
+
+            rows.forEach(function(row, i) {
+                var postMinutes = floorMinutes + (i * spacing);
+                if (postMinutes >= 24 * 60) postMinutes = 23 * 60 + 45;
+                var h = Math.floor(postMinutes / 60);
+                var m = postMinutes % 60;
+                row.time = (h < 10 ? '0' : '') + h + ':' + (m < 10 ? '0' : '') + m;
+            });
+
+            var firstTime = rows[0].time;
+            var lastTime = rows[rows.length - 1].time;
+            console.log('PostPlanner export: redistributed ' + rows.length + ' posts from ' + firstTime + ' to ' + lastTime + ' (' + spacing + ' min apart)');
+            return rows;
+        }
+
+        // Parse actual time from posting_window string like "7:00 AM CT" -> "07:00"
+        function parsePostingTime(timeStr) {
+            if (!timeStr) return null;
+            var m = timeStr.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
+            if (!m) return null;
+            var h = parseInt(m[1], 10);
+            var min = m[2];
+            var ampm = m[3].toUpperCase();
+            if (ampm === 'PM' && h !== 12) h += 12;
+            if (ampm === 'AM' && h === 12) h = 0;
+            return (h < 10 ? '0' : '') + h + ':' + min;
+        }
+
+        // Generic window name fallback
+        var windowToTime = {
+            'Morning': '09:00',
+            'Midday': '12:00',
+            'Afternoon': '15:00',
+            'Evening': '18:00',
+            'Late Night': '21:00'
+        };
+
+        function generateAndDownload() {
+            var config = getScheduleConfig();
+            var postDate = document.getElementById('schedule-date').value || DATE;
+
+            var xRows = [];
+            var fbRows = [];
+
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                var finalContent = data.editedContent || story.content;
+
+                if (story.type === 'x_post') {
+                    // If this is an individual tweet card (has tweet_label), use directly
+                    if (story.tweet_label) {
+                        xRows.push({
+                            content: finalContent,
+                            type: story.tweet_type || 'text',
+                            hashtags: story.hashtags || extractHashtags(finalContent),
+                            story: story.title,
+                            posting_window: story.posting_window || ''
+                        });
+                    } else {
+                        // Legacy: parse full story markdown for individual tweets
+                        var sections = parseXPostContent(finalContent, story.title);
+                        sections.forEach(function(post) {
+                            xRows.push({
+                                content: post.text,
+                                type: post.type,
+                                hashtags: extractHashtags(post.text),
+                                story: story.title
+                            });
+                        });
+                    }
+                } else if (story.type === 'facebook') {
+                    var fbPost = parseFacebookContent(finalContent, story.title);
+                    if (fbPost) {
+                        fbRows.push(fbPost);
+                    }
+                }
+            });
+
+            if (xRows.length === 0 && fbRows.length === 0) {
+                alert('No approved social posts to export.');
+                return;
+            }
+
+            // Assign times: use posting_window property first, then content tag, then round-robin
+            function assignTimes(rows, slots, label) {
+                if (slots.length === 0) slots = ['12:00'];
+                var timeFallbacks = [];
+                return rows.map(function(row, i) {
+                    row.date = postDate;
+                    // 1. Try posting_window property (e.g., "7:00 AM CT")
+                    var parsed = parsePostingTime(row.posting_window);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                    // 2. Try [POSTING WINDOW: ...] tag in content
+                    var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                    if (windowMatch) {
+                        parsed = parsePostingTime(windowMatch[1]);
+                        if (parsed) {
+                            row.time = parsed;
+                            return row;
+                        }
+                        if (windowToTime[windowMatch[1].trim()]) {
+                            row.time = windowToTime[windowMatch[1].trim()];
+                            return row;
+                        }
+                    }
+                    // 3. Fall back to round-robin
+                    row.time = slots[i % slots.length];
+                    timeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                    return row;
+                });
+                // Warn if any posts had to use fallback times
+                if (timeFallbacks.length > 0) {
+                    console.warn('TIME WARNING (' + label + '): ' + timeFallbacks.length + ' post(s) had no parsed posting time:\n' + timeFallbacks.join('\n'));
+                }
+            }
+
+            xRows = assignTimes(xRows, config.xSlots, 'X/Twitter');
+            fbRows = assignTimes(fbRows, config.fbSlots, 'Facebook');
+
+            // Generate XLSX in PostPlanner Bulk Upload V2 format
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Falling back to CSV download.');
+                fallbackCSVDownload(xRows, fbRows, postDate);
+                return;
+            }
+
+            // Combine all rows and sort by original time
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) {
+                return a.time.localeCompare(b.time);
+            });
+
+            // Smart time redistribution
+            allRows = redistributeTimes(allRows);
+
+            var wb = XLSX.utils.book_new();
+
+            // PostPlanner V3.1 format: Row 1 = version marker, Row 2 = headers, Row 3+ = data
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            allRows.forEach(function(row) {
+                var caption = cleanMarkdownForPost(row.content);
+                var mediaUrl = '';
+                if (row.type === 'image' || row.type === 'IMAGE') {
+                    mediaUrl = getImageURLForStory(row.story, row.platform === 'facebook' ? 'facebook_image' : 'x_image') || '';
+                }
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    caption,
+                    '',
+                    mediaUrl,
+                    '', '', '', '', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 30}, {wch: 30}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            // Download
+            XLSX.writeFile(wb, 'postplanner-upload-' + postDate + '.xlsx');
+            closeSchedulePanel();
+
+            var msg = 'Downloaded postplanner-upload-' + postDate + '.xlsx with ';
+            var parts = [];
+            if (xRows.length > 0) parts.push(xRows.length + ' X posts');
+            if (fbRows.length > 0) parts.push(fbRows.length + ' Facebook posts');
+            alert(msg + parts.join(' and ') + '.\n\nUpload this file to PostPlanner via Bulk Upload.');
+        }
+
+        function cleanMarkdownForPost(text) {
+            // Strip markdown formatting and metadata that shouldn't appear in social posts
+            if (!text) return '';
+            return text
+                .replace(/\[CHARACTER COUNT:.*?\]/gi, '')
+                .replace(/\[CHAR COUNT:.*?\]/gi, '')
+                .replace(/\[\d+\/280\]/g, '')
+                .replace(/\*\*\[POSTING WINDOW:.*?\]\*\*/g, '')
+                .replace(/\[POSTING WINDOW:.*?\]/g, '')
+                .replace(/\*\*([^*]+)\*\*/g, '$1')
+                .replace(/\*([^*]+)\*/g, '$1')
+                .replace(/^#+\s+/gm, '')
+                .replace(/^[-*]\s+/gm, '')
+                .replace(/```[\s\S]*?```/g, '')
+                .replace(/\n{3,}/g, '\n\n')
+                .trim();
+        }
+
+        function fallbackCSVDownload(xRows, fbRows, postDate) {
+            // Fallback if SheetJS fails to load — generates CSV in V2-like format
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+            if (allRows.length === 0) {
+                alert('No approved posts to export.');
+                closeSchedulePanel();
+                return;
+            }
+            // Smart time redistribution (same as XLSX path)
+            allRows = redistributeTimes(allRows);
+            var csv = '## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload,' + escapeCSVField('BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.') + ',,,,,,,\n';
+            csv += '## POSTING TIME,CAPTION,LINK,MEDIA,TITLE,FIRST COMMENT,FIRST COMMENT DELAY,TOBI BACKGROUND,REEL OR STORY\n';
+            allRows.forEach(function(row) {
+                csv += escapeCSVField(formatTimeForPostPlanner(row.time, postDate)) + ',' +
+                       escapeCSVField(cleanMarkdownForPost(row.content)) + ',' +
+                       ',,,,,,\n';
+            });
+            downloadFile(csv, 'postplanner-upload-' + postDate + '.csv', 'text/csv');
+            closeSchedulePanel();
+        }
+
+        function downloadTOBIExport() {
+            // Generate TOBI XLSX directly (no schedule panel needed — uses same times)
+            generateAndDownloadTOBI();
+        }
+
+        function stripHashtags(text) {
+            // Remove lines that are entirely hashtags, and trailing blank lines
+            var lines = text.split('\n');
+            var cleaned = [];
+            for (var i = 0; i < lines.length; i++) {
+                var stripped = lines[i].trim();
+                if (stripped && stripped.split(/\s+/).every(function(w) { return w.charAt(0) === '#'; })) {
+                    continue;
+                }
+                cleaned.push(lines[i]);
+            }
+            while (cleaned.length > 0 && !cleaned[cleaned.length - 1].trim()) {
+                cleaned.pop();
+            }
+            return cleaned.join('\n');
+        }
+
+        function generateAndDownloadTOBI() {
+            var postDate = document.getElementById('schedule-date') ?
+                document.getElementById('schedule-date').value || DATE : DATE;
+
+            // Collect approved X/Twitter text posts only
+            var xRows = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                if (story.type !== 'x_post') return;
+
+                var finalContent = data.editedContent || story.content;
+                if (story.tweet_label) {
+                    xRows.push({
+                        content: finalContent,
+                        posting_window: story.posting_window || '',
+                        story: story.title
+                    });
+                }
+            });
+
+            if (xRows.length === 0) {
+                alert('No approved X/Twitter posts for TOBI export.');
+                return;
+            }
+
+            // Assign times — use same logic as regular export (posting_window → content tag → round-robin)
+            var tobiSlots = defaultXSlots.slice();
+            if (tobiSlots.length === 0) tobiSlots = ['12:00'];
+            var tobiTimeFallbacks = [];
+            xRows = xRows.map(function(row, i) {
+                row.date = postDate;
+                // 1. Try posting_window property (e.g., "7:00 AM CT")
+                var parsed = parsePostingTime(row.posting_window);
+                if (parsed) {
+                    row.time = parsed;
+                    return row;
+                }
+                // 2. Try [POSTING WINDOW: ...] tag in content
+                var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                if (windowMatch) {
+                    parsed = parsePostingTime(windowMatch[1]);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                }
+                // 3. Fall back to round-robin through time slots (NOT 12:00)
+                row.time = tobiSlots[i % tobiSlots.length];
+                tobiTimeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                return row;
+            });
+            // Warn if any posts had to use fallback times
+            if (tobiTimeFallbacks.length > 0) {
+                console.warn('TOBI TIME WARNING: ' + tobiTimeFallbacks.length + ' post(s) had no parsed posting time:\n' + tobiTimeFallbacks.join('\n'));
+            }
+
+            // Sort by time
+            xRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+
+            // Smart time redistribution
+            xRows = redistributeTimes(xRows);
+
+            // TOBI processing: preserve hashtags + emojis as much as possible
+            var TOBI_LIMIT = 130;
+
+            function extractHashtags(text) {
+                var matches = text.match(/#\w+/g);
+                return matches || [];
+            }
+
+            function extractTrailingEmoji(text) {
+                var m = text.match(/\s*([\u{1F300}-\u{1FAFF}\u2600-\u27BF\u2B50\u26A0-\u26FF]+)\s*$/u);
+                if (m) {
+                    return { emoji: m[1], text: text.substring(0, m.index).trimEnd() };
+                }
+                return { emoji: null, text: text };
+            }
+
+            function truncateAtSentence(text, limit) {
+                var sentences = text.split(/(?<=[.!?])\s+/);
+                // Merge standalone emoji fragments into preceding sentence
+                var merged = [];
+                for (var s = 0; s < sentences.length; s++) {
+                    var trimmed = sentences[s].trim();
+                    if (!trimmed) continue;
+                    if (merged.length > 0 && !/[A-Za-z0-9]/.test(trimmed)) {
+                        merged[merged.length - 1] = merged[merged.length - 1] + ' ' + trimmed;
+                    } else {
+                        merged.push(trimmed);
+                    }
+                }
+                var truncated = '';
+                for (var s = 0; s < merged.length; s++) {
+                    var candidate = truncated ? truncated + ' ' + merged[s] : merged[s];
+                    if (candidate.length <= limit) {
+                        truncated = candidate;
+                    } else {
+                        break;
+                    }
+                }
+                // Clean up trailing abbreviation fragments (Dr., Mr., vs.)
+                if (truncated) {
+                    var parts = truncated.split(' ');
+                    var last = parts[parts.length - 1];
+                    if (parts.length > 1 && last.length <= 4 && /^[A-Za-z]+\.$/.test(last)) {
+                        parts.pop();
+                        truncated = parts.join(' ');
+                    }
+                }
+                return truncated || text.substring(0, limit - 3) + '...';
+            }
+
+            function fitHashtagsWithinLimit(text, hashtags, limit) {
+                if (!hashtags.length) return text;
+                // Try all hashtags, then progressively fewer
+                for (var n = hashtags.length; n > 0; n--) {
+                    var tagBlock = '\n\n' + hashtags.slice(0, n).join(' ');
+                    if ((text + tagBlock).length <= limit) {
+                        return text + tagBlock;
+                    }
+                }
+                return text;
+            }
+
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Cannot generate TOBI XLSX.');
+                return;
+            }
+
+            var wb = XLSX.utils.book_new();
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner TOBI Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            var keptHashtags = 0;
+            var strippedHashtags = 0;
+
+            xRows.forEach(function(row, i) {
+                var caption = cleanMarkdownForPost(row.content);
+
+                // If full caption fits under limit, use as-is — ALL hashtags + emojis preserved
+                if (caption.length <= TOBI_LIMIT) {
+                    if (extractHashtags(caption).length > 0) keptHashtags++;
+                    data.push([
+                        formatTimeForPostPlanner(row.time, postDate),
+                        caption, '', '', '', '', '', 'true-black', ''
+                    ]);
+                    return;
+                }
+
+                // Over limit — decompose and rebuild intelligently
+                var hashtags = extractHashtags(caption);
+                var coreText = stripHashtags(caption).trimEnd();
+                var emojiResult = extractTrailingEmoji(coreText);
+                var trailing_emoji = emojiResult.emoji;
+                var coreNoEmoji = emojiResult.text.trimEnd();
+
+                // Step 1: Get core text under limit
+                var result;
+                if (coreNoEmoji.length <= TOBI_LIMIT) {
+                    result = coreNoEmoji;
+                } else {
+                    result = truncateAtSentence(coreNoEmoji, TOBI_LIMIT);
+                }
+
+                // Step 2: Try to add back trailing emoji
+                if (trailing_emoji) {
+                    var withEmoji = result + ' ' + trailing_emoji;
+                    if (withEmoji.length <= TOBI_LIMIT) {
+                        result = withEmoji;
+                    }
+                }
+
+                // Step 3: Try to add back as many hashtags as possible
+                if (hashtags.length > 0) {
+                    var before = result;
+                    result = fitHashtagsWithinLimit(result, hashtags, TOBI_LIMIT);
+                    if (result !== before) keptHashtags++;
+                    else strippedHashtags++;
+                }
+
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    result, '', '', '', '', '', 'true-black', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 10}, {wch: 10}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            XLSX.writeFile(wb, 'postplanner-tobi-upload-' + postDate + '.xlsx');
+
+            alert('Downloaded TOBI export with ' + xRows.length + ' posts.\n\n' +
+                  keptHashtags + ' posts kept hashtags, ' + strippedHashtags + ' had hashtags removed for length.\n\n' +
+                  'Background: true-black (Column H).\nUpload to PostPlanner for Facebook TOBI posts.');
+        }
+
+        function parseXPostContent(content, storyTitle) {
+            var posts = [];
+            var lines = content.split('\n');
+
+            var inTextPost = false;
+            var inThread = false;
+            var currentTweetNum = 0;
+            var currentText = [];
+
+            for (var i = 0; i < lines.length; i++) {
+                var line = lines[i];
+                var trimmed = line.trim();
+
+                if (trimmed.match(/^###\s+Text Post/i)) {
+                    flushPost();
+                    inTextPost = true;
+                    inThread = false;
+                    currentText = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Thread Concept/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = true;
+                    currentText = [];
+                    currentTweetNum = 0;
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+
+                if (inThread && trimmed.match(/^\*\*Tweet\s+\d+/i)) {
+                    flushPost();
+                    currentTweetNum++;
+                    currentText = [];
+                    continue;
+                }
+
+                if (inTextPost || (inThread && currentTweetNum > 0)) {
+                    if (trimmed !== '') {
+                        currentText.push(line);
+                    }
+                }
+            }
+            flushPost();
+
+            function flushPost() {
+                if (currentText.length === 0) return;
+                var text = currentText.join('\n').trim();
+                if (!text) return;
+
+                if (inTextPost) {
+                    posts.push({ text: text, type: 'text' });
+                } else if (inThread && currentTweetNum > 0) {
+                    posts.push({
+                        text: text,
+                        type: currentTweetNum === 1 ? 'thread_start' : 'thread_reply'
+                    });
+                }
+                currentText = [];
+            }
+
+            return posts;
+        }
+
+        function parseFacebookContent(content, storyTitle) {
+            var lines = content.split('\n');
+            var inLongForm = false;
+            var inImagePost = false;
+            var longFormLines = [];
+            var imageCaption = '';
+
+            for (var i = 0; i < lines.length; i++) {
+                var trimmed = lines[i].trim();
+
+                if (trimmed.match(/^###\s+Long-Form Post/i)) {
+                    inLongForm = true;
+                    inImagePost = false;
+                    longFormLines = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post Caption/i) || trimmed.match(/^###\s+Image Post/i)) {
+                    inLongForm = false;
+                    inImagePost = true;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/) || trimmed.match(/^---/)) {
+                    inLongForm = false;
+                    inImagePost = false;
+                    continue;
+                }
+
+                if (inLongForm) {
+                    longFormLines.push(lines[i]);
+                }
+                if (inImagePost && trimmed !== '') {
+                    imageCaption = trimmed;
+                    inImagePost = false;
+                }
+            }
+
+            var longForm = longFormLines.join('\n').trim();
+            if (!longForm) return null;
+
+            return {
+                content: longForm,
+                image_caption: imageCaption,
+                story: storyTitle
+            };
+        }
+
+        function downloadFile(content, filename, mimeType) {
+            var blob = new Blob([content], { type: mimeType });
+            var url = URL.createObjectURL(blob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = filename;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            URL.revokeObjectURL(url);
+        }
+
+        var currentStatusFilter = 'all';
+        var currentTypeFilter = 'all';
+
+        function filterByStatus(status) {
+            currentStatusFilter = status;
+            applyFilters();
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim().toLowerCase().replace(/\s+/g, '') === status.replace('-', '').toLowerCase() ||
+                    (status === 'all' && btn.textContent.trim() === 'All') ||
+                    (status === 'needs-edit' && btn.textContent.trim() === 'Needs Edit')) {
+                    btn.classList.add('active');
+                }
+            });
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+        }
+
+        function filterByType(type) {
+            currentTypeFilter = type;
+            currentStatusFilter = 'all';
+            applyFilters();
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim() === 'All') btn.classList.add('active');
+            });
+        }
+
+        function applyFilters() {
+            var cards = document.querySelectorAll('.card');
+            var visibleCount = 0;
+            cards.forEach(function(card) {
+                var cardStatus = card.getAttribute('data-status');
+                var cardType = card.getAttribute('data-type');
+                var matchesStatus = (currentStatusFilter === 'all') || (cardStatus === currentStatusFilter);
+                var matchesType = (currentTypeFilter === 'all') || (cardType === currentTypeFilter);
+                if (matchesStatus && matchesType) {
+                    card.classList.add('show');
+                    visibleCount++;
+                } else {
+                    card.classList.remove('show');
+                }
+            });
+            document.getElementById('empty-state').style.display = visibleCount === 0 ? 'block' : 'none';
+        }
+
+        function approveAll() {
+            if (!confirm('Approve all ' + allStories.length + ' items?')) return;
+            allStories.forEach(function(story) { setStatus(story.id, 'approved'); });
+        }
+
+        function resetAll() {
+            if (confirm('Reset all reviews? This cannot be undone.')) {
+                localStorage.removeItem(REVIEW_STORAGE_KEY + '-' + DATE);
+                location.reload();
+            }
+        }
+
+        function copyContent(storyId) {
+            var data = reviewData[storyId];
+            var story = allStories.find(function(s) { return s.id === storyId; });
+            var text = (data && data.editedContent) ? data.editedContent : (story ? story.content : '');
+            navigator.clipboard.writeText(text).then(function() {
+                var btn = document.querySelector('[data-id="' + storyId + '"] .btn-copy');
+                if (btn) { var orig = btn.textContent; btn.textContent = 'Copied!'; setTimeout(function() { btn.textContent = orig; }, 1500); }
+            });
+        }
+
+        function exportApprovals() {
+            var items = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id] || {};
+                items.push({
+                    id: story.id,
+                    type: story.type,
+                    title: story.title,
+                    status: data.status || 'unreviewed',
+                    notes: data.notes || '',
+                    content: story.content,
+                    editedContent: data.editedContent || null,
+                    finalContent: data.editedContent || story.content
+                });
+            });
+
+            var exportData = {
+                date: DATE,
+                reviewed_by: '',
+                reviewed_at: new Date().toISOString(),
+                items: items
+            };
+
+            var dataStr = JSON.stringify(exportData, null, 2);
+            var dataBlob = new Blob([dataStr], { type: 'application/json' });
+            var url = URL.createObjectURL(dataBlob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = 'approvals-' + DATE + '.json';
+            link.click();
+            URL.revokeObjectURL(url);
+        }
+
+        // Auto-save notes as you type
+        document.addEventListener('input', function(e) {
+            if (e.target.classList.contains('notes-textarea')) {
+                var storyId = e.target.id.replace('textarea-', '');
+                if (reviewData[storyId]) {
+                    reviewData[storyId].notes = e.target.value;
+                    localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+                }
+            }
+        });
+
+        initializeApp();
+
+    </script>
+</body>
+</html>

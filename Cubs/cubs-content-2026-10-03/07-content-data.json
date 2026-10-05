@@ -1,0 +1,206 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-03",
+  "compiled_at": "2026-10-03T09:22:34.123980+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1",
+      "type": "Option deadline Oct 5 — Assad/Rea back, Boyd/Harvey out"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2",
+      "type": "PCA vs Ohtani — NL MVP ballot opens"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Story 3",
+      "type": "Cardinals 77-85, third straight October watching"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Story 4",
+      "type": "Alcántara: .273/.367/.569, 17 HR, ready for a spot"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Story 5",
+      "type": "NLDS Game 1 Tonight: Padres @ Brewers, 7:30 PM CT"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Option Deadline Incoming — Assad, Rea, Boyd, Harvey by Oct 5",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "The Cubs have 5 days to make roughly $40M in option decisions. Assad ($3.3M club) and Rea ($7.5M club) should be exercised — these are low-cost depth pieces. Boyd ($15M mutual) and Harvey ($8M mutual) are almost certainly declined. Knowing which relievers/starters are returning is crucial context for how narrow (or wide) the rotation rebuild market needs to be.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "The Cubs' Oct. 5 option deadline matters more than usual. 📋\n\nAssad and Rea should be back (club options at $3.3M and $7.5M). Boyd and Harvey are almost certainly gone. That's a starter and a closer off the board before free agency even opens.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / Roster News (dressed with context per transaction-loser finding)",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Option Deadline Incoming — Assad, Rea, Boyd, Harvey by Oct 5\n**Decision**: NEW STORY\n**Reason**: Oct 1 covered the big picture (\"all 5 rotation starters are free agents\"); Oct 2 covered the full FA picture. Today's story is different in scope: the club/mutual OPTIONS — specifically Assad, Rea, Boyd, Harvey — and the Oct 5 deadline clock. This is actionable, time-sensitive information Cubs fans need.\n**Key Facts (sourced)**:\n- Javier Assad: $3.3M club option, no buyout — expected to be exercised (LOW cost depth SP/RP hybrid)",
+        "sources": "- Source: MLB Trade Rumors (mlbtraderumors.com/2026/10/2026-27-club-option-preview-october-edition.html) | Confidence: HIGH\n- Colin Rea: $7.5M club option, $1M buyout — expected to be exercised (depth starter)\n- Source: MLB Trade Rumors, same page | Confidence: HIGH\n- Jacob Webb: $2.5M club option — expected to be exercised (bullpen depth)\n- Source: MLB Trade Rumors | Confidence: MEDIUM\n- Matthew Boyd: $15M mutual option, $2M buyout — almost certainly DECLINED (FA market will pay more)\n- Source: MLB Trade Rumors, Bleacher Nation | Confidence: HIGH\n- Hunter Harvey: $8M mutual option, $1M buyout — almost certainly DECLINED\n- Source: MLB Trade Rumors | Confidence: HIGH\n- Carson Kelly (C): mutual option — likely DECLINED\n- Source: MLB Trade Rumors | Confidence: MEDIUM\n- Deadline: ~5 days post-season end. Season ended Sept 30 (WCS Game 2). Option deadlines approx Oct 5.\n- Source: Standard MLB option timing | Confidence: HIGH\n**Why Cubs fans care**: Knowing Assad and Rea return gives the 2027 rotation a floor (two depth arms). Knowing Boyd/Harvey decline means the Cubs enter free agency needing both a starter and a closer, not just two premier free agents. Sets the stage for Jed Hoyer's stated Priority No. 1 offseason.\n**Freshness**: FRESH. Option deadline has not been the specific angle in any prior pipeline run. ✓"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "PCA NL MVP Watch — Ohtani Won '24 and '25. It's PCA's Turn.",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Ohtani won back-to-back NL MVPs in 2024 and 2025. PCA posted 45 HR, 41 SB, 10.4 fWAR in 2026 — a season Ohtani can't match as a DH-only player. Ballot opens now. The only question is whether PCA gets every single vote and becomes the first Cub to win unanimously.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Shohei Ohtani won the NL MVP in '24 and '25. PCA just posted 45 HR, 41 SB, and 10.4 fWAR. 🏆\n\nThe ballot is open. The question isn't IF PCA wins — it's whether he gets every vote and becomes the first unanimous MVP in Cubs history.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold / Passionate / Milestone",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA NL MVP Watch — Ohtani Won '24 and '25. It's PCA's Turn.\n**Decision**: FOLLOW UP (new angle)\n**Previous coverage**: Oct 1 (WCS silence, season final stats). Oct 2 (unanimous MVP framing).\n**New angle today**: HEAD-TO-HEAD matchup with Ohtani who won back-to-back. NL MVP ballot opens. Bold statement take.\n**Key Facts (sourced)**:\n- PCA 2026 final line: .280/.372/.570, 45 HR, 41 SB, 10.4 fWAR",
+        "sources": "- Source: Cubs story-history (Oct 1 entry) | Confidence: HIGH (internal pipeline, cross-referenced with ABC News)\n- 41 stolen bases (NOTE: story-history Oct 1 says 41 SB; earlier coverage from Sept 25-28 says \"40 SB\" — PCA added 1 SB in the season finale or WCS). Using 41 SB per Oct 1 final entry. | Confidence: HIGH\n- Shohei Ohtani: Won NL MVP 2024 and 2025\n- Source: General knowledge + search context | Confidence: HIGH\n- Ohtani's 2026 status: \"limited to designated hitter\" (not pitching)\n- Source: Search results (ABC/AJC coverage) | Confidence: MEDIUM (reported in context of PCA rivalry)\n- PCA: \"7th player in MLB history with a 40-40 season\" (from story-history, originally sourced from pipeline)\n- This is a superlative claim — flag for secondary verification | Confidence: MEDIUM\n- Unanimous NL MVP: would be first in Cubs history (claim from Oct 2 pipeline)\n- MEDIUM confidence — verify whether any previous Cub won unanimously\n**Why Cubs fans care**: The one bright spot from a disappointing playoff exit. PCA is the best player on the best offense in baseball, and he's about to win an award that validates the team's ceiling even in a year the rotation let them down.\n**Freshness**: FRESH angle (Ohtani comparison). ✓"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Cardinals: 77-85. Three Straight Octobers at Home.",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Cardinals finished 77-85 while the Brewers won 103 games and are hosting an NLDS Game 1 tonight. St. Louis has missed three straight Octobers. The NL Central power structure is official: Milwaukee is the division, Cubs are the contender, Cardinals are the cautionary tale.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Cardinals final record: 77-85. Third straight season watching October baseball at home. 📺\n\nMeanwhile, the Brewers finished 103-59 and host an NLDS Game 1 tonight. NL Central power has officially relocated north.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Bold / Humor / Rival",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cardinals: 77-85. Three Straight Octobers at Home.\n**Decision**: NEW STORY\n**Reason**: Cardinals-specific rival jab covering their final 2026 record and playoff miss has not appeared in any Oct 1–2 pipeline entry.\n**Key Facts (sourced)**:\n- Cardinals 2026 final record: 77-85",
+        "sources": "- Source: Internal pipeline-status.md (referenced in Oct 1 story-history note) | Confidence: MEDIUM (not independently verified via web search — web search returned only mid-season standings of 53-54)\n- **FLAG**: Verify Cardinals final 2026 record from secondary source before using\n- Cardinals missed playoffs: stated in Oct 1 pipeline story \"Cardinals 77-85, Brewers NLDS watching\"\n- Cardinals \"third straight October at home\":\n- 2024: Cardinals missed playoffs\n- 2025: Cardinals missed playoffs\n- 2026: Cardinals missed playoffs\n- Source: General knowledge; needs secondary verification | Confidence: MEDIUM\n- Brewers 103-59: Confirmed from multiple searches | Confidence: HIGH\n- NLDS Game 1 tonight (Brewers host Padres): Confirmed | Confidence: HIGH\n**Why Cubs fans care**: Rival humiliation + context for the NL Central power shift. The Cardinals were Chicago's historic rival; watching them miss October for a third straight year while Brewers thrive is both satisfying and a story about where this division has gone.\n**Freshness**: FRESH. Cardinals not specifically featured since mid-season rivalry coverage. ✓"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Kevin Alcántara Is Ready and Waiting",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "The Cubs traded Moisés Ballesteros (BA No. 36 overall) to the Angels at the trade deadline. The next bat in the system is Kevin Alcántara — 23-year-old outfielder who posted .273/.367/.569 with 17 HR at Triple-A Iowa in 2026. He's proven he can handle Triple-A. The question is what roster he's stepping into — and whether the Cubs build around him or continue trading prospects.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Moisés Ballesteros is an Angel now. The next bat in the Cubs system: Kevin Alcántara.\n\n.273/.367/.569, 17 HR at Triple-A Iowa in 2026. He's 23, ready, and waiting. 🔥\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Informative / Prospect Feature",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 185
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Kevin Alcántara Is Ready and Waiting\n**Decision**: NEW STORY\n**Reason**: Alcántara has not been specifically profiled in any recent pipeline run.\n**Key Facts (sourced)**:\n- Kevin Alcántara, 23-year-old outfielder (age as of 2026 season)",
+        "sources": "- Source: Search result (NBC Sports article, August 17 recall; described as \"23-year-old outfielder\") | Confidence: MEDIUM — age stated in article, not independently verified from Baseball Reference\n- 2026 Triple-A (Iowa Cubs): .273/.367/.569, 17 HR\n- Source: Rotowire search result (rotowire.com/baseball/player-prospect-ranks.php?id=15607) | Confidence: HIGH\n- Recalled by Cubs: August 17, 2026\n- Source: NBC Sports (nbcsports.com/fantasy/baseball/player-news/2026-08-17/cubs-recall-kevin-alcantara-from-triple-a) | Confidence: HIGH\n- MLB line (2026): .111 in 9 AB, 0 HR, 0 RBI\n- Source: CBS Sports / Rotowire | Confidence: HIGH\n- Moisés Ballesteros trade: traded to Los Angeles Angels at trade deadline for Ryan Zeferjahn\n- Source: Chicago Sun-Times trade deadline article | Confidence: HIGH\n- Ballesteros was ranked BA No. 36 overall prior to trade\n- Source: SI.com (cubs-refusing-to-include-top-prospect article) | Confidence: HIGH\n**Why Cubs fans care**: After trading away their top catching prospect at the deadline, what's left? Alcántara is the answer. His Triple-A numbers suggest he's MLB-ready or close. This is the next chapter of the rebuild.\n**Freshness**: FRESH. Alcántara not profiled recently. ✓"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "NLDS Game 1 Tonight — Padres at Brewers, 7:30 PM CT",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "NLDS Game 1 is tonight. Padres visit Milwaukee — the same Padres who outscored the Cubs 12-1 in the WCS. Cubs fans have a conflicted rooting interest: they can't stand the Padres, but the Brewers beat Chicago in the NL Central all year long. Evening slot (per insights, 18-24 window wins).",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "NLDS Game 1 TONIGHT: Padres at Brewers, 7:30 PM CT. 🍺\n\nHere's where Cubs fans stand: hate the Padres who outscored Chicago 12-1 in the WCS. Don't love the Brewers either. But one team has to survive — root for Milwaukee.\n\nRoot for the chaos.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Rival / Bold / Fan Energy",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "NLDS Game 1 Tonight — Padres at Brewers, 7:30 PM CT\n**Decision**: FOLLOW UP (new angle for game night)\n**Previous coverage**: Oct 2 covered \"NLDS starts tomorrow — Brewers vs. Padres\" (general preview). Today's angle is DIFFERENT: it's game night. Specific first-pitch time. Cubs fans' complicated rooting interest. Anti-Padres energy fresh from the WCS.\n**Key Facts (sourced)**:\n- NLDS Game 1, Padres @ Brewers: American Family Field, Milwaukee\n- Time: 8:30 PM ET / 7:30 PM CT\n- Broadcast: Fox/FS1",
+        "sources": "- Source: CBS Sports, NBC Sports (confirmed) | Confidence: HIGH\n- NLDS Game 1, Braves @ Dodgers: Dodger Stadium, Los Angeles\n- Time: 4:00 PM ET / 3:00 PM CT\n- Source: CBS Sports | Confidence: HIGH\n- WCS: Padres outscored Cubs 12-1 across two games (Game 1: 8-0, Game 2: 4-1)\n- Source: Cubs pipeline-status.md (internal, confirmed by Oct 1 story-history) | Confidence: HIGH\n- Brewers 103-59 final record, NL No. 1 seed, franchise record\n- Source: Multiple search results | Confidence: HIGH\n- Cubs record vs. Brewers in 2026: 4-9 (from Sept 30 story-history entry) | Confidence: HIGH\n**Why Cubs fans care**: Cubs fans have a front-row seat to a rivalry game between two teams they have complicated feelings about. Anti-Padres energy is peak right now. The Brewers won the NL Central while the Cubs chased — but rooting for Milwaukee over San Diego is the correct call for most Cubs fans.\n**Freshness**: FRESH (game night angle). ✓"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

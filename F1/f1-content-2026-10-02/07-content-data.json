@@ -1,0 +1,275 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-02",
+  "compiled_at": "2026-10-02T11:32:20.908432+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Bahrain GP in Malaysia — FP1 Verstappen Leads, Championship Battle Heats Up",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "FP1 RESULTS — Bahrain GP (Malaysia): Verstappen P1 (1:37.520) | Russell P2 (+0.383) | Hadjar P3 (+0.783) | Leclerc P4 | Antonelli P5 | Hamilton P6. Championship leader Antonelli 1.060s off the pace. Race Sunday, 8 AM local. #F1 #BahrainGP\n[Window: 8:00 AM ET | ~245 chars ✓]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BahrainGP"
+          ],
+          "char_count": 274
+        },
+        {
+          "label": "Post 2",
+          "text": "The Bahrain Grand Prix is happening in Malaysia. Because that's 2026 F1 for you. Sepang Circuit hosting a relocated race while the title fight rages: Antonelli leads Russell by 66 points. Three races left after this weekend. #F1 #BahrainGP\n[Window: 10:00 AM ET | ~238 chars ✓]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BahrainGP"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-bahrain-gp-malaysia-fp1-verstappen-leads.html",
+        "headline": "Bahrain GP in Malaysia: Verstappen Tops FP1 as Championship Battle Heats Up at Sepang",
+        "word_count": 447
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bahrain GP in Malaysia — FP1\n\n**Image 1A** — Social Post (1080x1350)\n- **Search terms:** `Max Verstappen Red Bull Racing`\n- **Caption overlay:** \"FP1 BAHRAIN GP: VERSTAPPEN LEADS\"\n- **Mood:** Track action, intense, Red Bull brand colors\n\n**Image 1B** — Article Hero (1200x630)\n- **Search terms:** `Formula 1 Sepang Malaysia`\n- **Caption overlay:** \"Bahrain GP in Malaysia: FP1 Results — Verstappen Fastest\"\n- **Mood:** Circuit view, race atmosphere\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Bahrain GP in Malaysia — FP1 Results\n**Sources consulted:**\n- formula1.com official: FP1 report Bahrain GP in Malaysia\n- motorsport.com: \"F1 Bahrain GP in Malaysia: Max Verstappen tops FP1\"\n- Motorsport Week: F1 2026 Bahrain GP FP1 and FP2 results\n- The Race: F1 2026 Bahrain GP in Malaysia practice results\n- ESPN: Bahrain GP in Malaysia 2026 schedule and preview\n**Verified Facts:**\n- [HIGH] Venue: Circuit de Sepang, Malaysia (Bahrain GP relocated from Sakhir due to regional war with Iran)\n- [HIGH] Round 16 of the 2026 F1 season\n- [HIGH] FP1 session: Friday Oct. 2, 12:30 local time (UTC+8)\n- [HIGH] FP1 Result: Verstappen P1 in 1m37.520s\n- [HIGH] FP1 Result: Russell P2 at +0.383s\n- [HIGH] FP1 Result: Hadjar P3 at +0.783s\n- [HIGH] FP1 Result: Leclerc P4 at +0.847s\n- [HIGH] FP1 Result: Antonelli P5 at +1.060s\n- [HIGH] FP1 Result: Hamilton P6 at +1.070s\n- [HIGH] FP1 Result: Gasly P7 at +1.195s\n- [HIGH] FP1 Result: Lawson P8 at +1.586s\n- [HIGH] FP1 Result: Lindblad P9 at +1.677s\n- [HIGH] FP1 Result: Hulkenberg P10 at +1.691s\n- [HIGH] Race: Sunday Oct. 4, 8:00 AM local (15:00 local time)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Kimi Antonelli Leads Championship at 302 Points — History-Making 2026 Season",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kimi Antonelli — 19 years old — leads the F1 championship by 66 points with three races to go. The youngest title leader in the sport's history. 302 points. 8 wins. He broke Lewis Hamilton's record from 2007. #F1\n[Window: 10:00 AM ET | ~211 chars ✓]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 249
+        },
+        {
+          "label": "Post 4",
+          "text": "2026 F1 Championship standings after 15 rounds: Antonelli 302 | Russell 236 | Hamilton 199 | Norris 186 | Leclerc 179 | Verstappen 163. A teen is about to become the youngest F1 world champion in history. #F1\n[Window: 12:00 PM ET | ~208 chars ✓]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-antonelli-youngest-f1-championship-leader.html",
+        "headline": "Kimi Antonelli: The 19-Year-Old Rewriting F1 History",
+        "word_count": 563
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kimi Antonelli Championship Lead\n\n**Image 2A** — Social Post (1080x1350)\n- **Search terms:** `Kimi Antonelli Mercedes`\n- **Caption overlay:** \"302 PTS. 19 YEARS OLD. HISTORY.\"\n- **Mood:** Celebration, young driver energy, Mercedes silver-green\n\n**Image 2B** — Article Hero (1200x630)\n- **Search terms:** `Kimi Antonelli Mercedes Formula 1`\n- **Caption overlay:** \"Antonelli: Youngest Championship Leader in F1 History\"\n- **Mood:** On-track action, winner celebration\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kimi Antonelli Championship Lead\n**Sources consulted:**\n- motorsport.com: \"2026 F1 Championship: Kimi Antonelli is the youngest leader\"\n- NBC News: \"Kimi Antonelli becomes youngest Formula 1 championship leader in history\"\n- Al Jazeera: \"Kimi Antonelli wins Japanese GP to become youngest F1 title leader\"\n- Wikipedia: Kimi Antonelli\n**Verified Facts:**\n- [HIGH] Antonelli (Mercedes): 302 championship points\n- [HIGH] Russell (Mercedes): 236 points (66 behind)\n- [HIGH] Hamilton (Ferrari): 199 points\n- [HIGH] Norris (McLaren): 186 points\n- [HIGH] Leclerc (Ferrari): 179 points\n- [HIGH] Verstappen (Red Bull): 163 points\n- [HIGH] Piastri (McLaren): 120 points\n- [HIGH] Antonelli became youngest F1 championship leader in history (at Japanese GP, March 2026)\n- [HIGH] Previous record: Lewis Hamilton in 2007 (age 22)\n- [HIGH] Antonelli age: 19 (Italian, racing in second F1 season)\n- [HIGH] Antonelli wins: 8 Grands Prix, including home race in Italy",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Russell Won Azerbaijan GP With a Grand Slam — His Third 2026 Victory",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "George Russell achieved a Grand Slam in Azerbaijan: pole, led every lap, fastest lap, and the win — by 0.196 seconds over Verstappen. His first career Grand Slam. Third win of 2026. Russell is the only man who can catch Antonelli. #F1\n[Window: 12:00 PM ET | ~233 chars ✓]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-russell-azerbaijan-grand-slam-2026.html",
+        "headline": "Russell's Azerbaijan Grand Slam: The Win That Kept the 2026 Title Fight Alive",
+        "word_count": 526
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Russell Azerbaijan Grand Slam\n\n**Image 3A** — Social Post (1080x1350)\n- **Search terms:** `George Russell Mercedes`\n- **Caption overlay:** \"GRAND SLAM. BAKU. RUSSELL.\"\n- **Mood:** Victory podium, triumphant, Mercedes colors\n\n**Image 3B** — Article Hero (1200x630)\n- **Search terms:** `George Russell Mercedes Formula 1`\n- **Caption overlay:** \"Russell's Grand Slam: Pole, Led All 51 Laps, Fastest Lap, Win\"\n- **Mood:** Race action, Baku street circuit\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Russell Azerbaijan GP Grand Slam\n**Sources consulted:**\n- formula1.com official: \"Russell narrowly holds off Verstappen\" Azerbaijan GP race report\n- PlanetF1: \"George Russell wins Azerbaijan GP\"\n- FIA.com: Russell wins dramatic Azerbaijan GP\n- Yahoo Sports: George Russell wins Formula 1 race in Azerbaijan 2026\n**Verified Facts:**\n- [HIGH] Russell won from pole position\n- [HIGH] Led every lap of the race (51 laps)\n- [HIGH] Achieved fastest lap: 1:44.916\n- [HIGH] Victory margin over Verstappen: 0.196 seconds\n- [HIGH] This was a Grand Slam (pole + led every lap + fastest lap + win) — first of his career\n- [HIGH] Russell's third win of the 2026 season\n- [HIGH] Podium: Russell (1st), Verstappen (2nd), Hadjar (3rd, +10.704s)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Lewis Hamilton Third in Standings — The Ferrari Veteran's Late-Career Surge",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Lewis Hamilton is 41 years old, driving for Ferrari, and sits third in the F1 championship with 199 points. Today in Sepang FP1: sixth-fastest. He hasn't given up on one last title — and neither has his pace. #F1\n[Window: 2:00 PM ET | ~210 chars ✓]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-lewis-hamilton-ferrari-championship-2026.html",
+        "headline": "Lewis Hamilton at 41: Ferrari's Veteran Still Chasing One More Championship",
+        "word_count": 531
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Lewis Hamilton at Ferrari\n\n**Image 4A** — Social Post (1080x1350)\n- **Search terms:** `Lewis Hamilton Ferrari`\n- **Caption overlay:** \"41 YEARS OLD. STILL FIGHTING.\"\n- **Mood:** Determined, veteran presence, Ferrari red\n\n**Image 4B** — Article Hero (1200x630)\n- **Search terms:** `Lewis Hamilton Ferrari Formula 1`\n- **Caption overlay:** \"Hamilton at 41: Ferrari's Veteran Chases One Last Championship\"\n- **Mood:** Focus, experience, Ferrari paddock\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Lewis Hamilton Ferrari / Championship Position\n**Sources consulted:**\n- F1 official standings (formula1.com)\n- Supersport: F1 2026 results and standings\n**Verified Facts:**\n- [HIGH] Hamilton age: 41 (second F1 season with Ferrari)\n- [HIGH] Championship position: P3 with 199 points\n- [HIGH] 36 points behind Russell (P2)\n- [HIGH] 103 points behind Antonelli (P1)\n- [HIGH] FP1 Bahrain GP: P6 in 1m38.590s\n- [MEDIUM] Hamilton has been consistently at the front this season",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "2026 F1 Season — New-Era Cars, Relocated Races, and a Three-Way Title Hunt",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "The 2026 F1 season: new hybrid regs, a 19-year-old championship leader, a Bahrain race run in Malaysia, and three teams still mathematically in the fight. One of the most unusual seasons in the sport's history. #F1\n[Window: 8:00 PM ET | ~212 chars ✓]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 250
+        },
+        {
+          "label": "Post 8",
+          "text": "With three races left in 2026, only 103 points separate Antonelli (1st) and Verstappen (6th). This is genuinely one of the tightest championship top-six gaps in modern F1. Every point this weekend at Sepang matters. #F1 #BahrainGP\n[Window: 5:00 PM ET | ~232 chars ✓]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BahrainGP"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-2026-f1-season-most-unusual-in-years.html",
+        "headline": "The 2026 F1 Season: New Cars, Relocated Races, and the Youngest Title Contender in History",
+        "word_count": 546
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "2026 F1 Season\n\n**Image 5A** — Social Post (1080x1350)\n- **Search terms:** `Formula 1 2026`\n- **Caption overlay:** \"3 RACES. 6 DRIVERS. ONE CHAMPIONSHIP.\"\n- **Mood:** Epic, multi-driver collage feel, F1 brand\n\n**Image 5B** — Article Hero (1200x630)\n- **Search terms:** `Formula 1 championship standings`\n- **Caption overlay:** \"2026 F1: The Most Extraordinary Season in Years\"\n- **Mood:** Drama, competition, championship atmosphere"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "2026 F1 Season Context\n**Sources consulted:**\n- Wikipedia: 2026 Bahrain and Saudi Arabian Grands Prix\n- ESPN: Bahrain GP in Malaysia preview\n- Formula1.com season schedule\n**Verified Facts:**\n- [HIGH] 2026 Bahrain GP relocated to Malaysia (Circuit de Sepang) due to regional war with Iran\n- [HIGH] 2026 = new hybrid-era F1 regulations season\n- [HIGH] 15 rounds completed before Bahrain GP\n- [HIGH] Season has 3-way title battle: Antonelli, Russell, Hamilton",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

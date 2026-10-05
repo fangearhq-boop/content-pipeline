@@ -1,0 +1,180 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-05",
+  "compiled_at": "2026-10-05T09:25:48.489886+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "NLDS Game 2 Recap — Brewers 4, Padres 3 (Walk-off); Braves Tie Dodgers 1-1",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Brewers beat Padres 4-3 on a walk-off to lead NLDS 2-0. San Diego — the team that ended the Cubs' season — is now one loss from going home. Braves tied the Dodgers 1-1 with a 3-2 win. Cubs fans watching with interest.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Brewers 4, Padres 3. Walk-off. Milwaukee leads the NLDS 2-0.\n\nSan Diego knocked us out of October. Now the Brewers have them one game from going home. Poetic.\n\nBraves tied the Dodgers 3-2. Game 3s tomorrow.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "game_final / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "NLDS Game 2 Recap — Brewers 4, Padres 3; Braves Tie Dodgers 1-1\n**Decision:** FOLLOW UP — previous NLDS coverage Oct 4 was Game 1 results + Game 2 preview. Today covers Game 2 outcomes.\n**Key facts:**\n- Brewers 4, Padres 3 — CONFIRMED. ESPN game page URL returns this final score.",
+        "sources": "Source: https://www.espn.com/mlb/game/_/gameId/401908003/padres-brewers\n- CBS Sports headline confirms \"walk-off win\" for Brewers.\nSource: https://www.cbssports.com/mlb/news/2026-mlb-playoffs-nlds-game-2-winners-losers/\n- Brewers lead NLDS 2-0. Padres must win 3 straight to advance (best-of-5).\n- Chourio walk-off single — LOW confidence (AI-summarized detail). Fact-check log flags this.\n- Braves 3, Dodgers 2 — MEDIUM confidence. AI-summarized, consistent across search result.\n- Series tied 1-1.\n- Game 3s: Tuesday, October 6. Brewers/Padres at Petco Park. [Multiple sources confirm]\n- Cubs 2026 WCS: Padres beat Cubs 2-0 in WCS (Sept 29-30). The narrative hook is Padres now on the ropes.\n- Cubs went 4-9 vs. Milwaukee in 2026 regular season. [Story history, HIGH confidence]\n**Why it matters:** Cubs fans watching with playoff interest — rooting against the Padres who eliminated them, nervous about a dominant Brewers squad in the same division.\n**Freshness:** Game played Oct 4, 2026. Report this morning (Oct 5) as morning recap. ✓ Under 24h."
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Michael King Irony — Cubs Linked to the Man Who Dismantled Their October",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Michael King nearly no-hit the Cubs in WCS Game 1 (7 IP, 1 H, 8 K). He's now reportedly on Chicago's free agent radar. The rotation rebuild may start with signing the pitcher who ended their postseason run.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Michael King: 7 IP, 1 H, 8 K in WCS Game 1.\n\nNow the Cubs are linked to him as a free agent target.\n\nChicago's rotation rebuild may start with signing the man who dismantled their October. Bold move. Smart move. Very Cubs.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Bold take / analysis",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Michael King Irony — Cubs Linked to WCS Executioner as FA Target\n**Decision:** NEW STORY — specific King angle not previously covered.\n**Key facts:**\n- Michael King's WCS Game 1 line: 7 IP, 1 H, 8 K, near-no-hitter through 6 IP.",
+        "sources": "Source: Cubs story history, Sept 30 coverage. HIGH confidence.\n- Cubs linked to Michael King as FA starting pitcher target this offseason.\nSource: CBS Sports/SI.com aggregated FA report (AI summary). MEDIUM confidence. Flagged in fact-check log.\n- King is currently/recently a San Diego Padres pitcher; FA status after 2026 season assumed but not independently confirmed.\n- Other linked FA targets: Tatsuya Imai, Ranger Suarez, Zac Gallen.\nSource: AI-summarized from mlbtraderumors.com, si.com. MEDIUM confidence. Not used in tweet.\n- Hoyer confirmed pitching as top offseason priority. Multiple Chicago/national sources confirm.\n**Why it matters:** The irony of Cubs pursuing the guy who shut them out of the postseason is highly shareable and resonates with Cubs fans processing the WCS loss.\n**Freshness:** WCS was Sept 29-30; offseason speculation current as of October 2026. FA target reports emerged post-WCS. ✓ Under 24h for offseason angles."
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Cade Horton 2nd Tommy John — 2027 Return at Best",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Horton underwent a second Tommy John surgery in April 2026. Best-case return is summer 2027. Second TJ surgeries carry notably lower return-to-form rates. The cavalry is not coming — Hoyer must spend.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Cade Horton: second Tommy John. Summer 2027 at the earliest.\n\nSecond TJ surgeries carry a much lower return-to-form rate. He's a hope — not a plan.\n\nThe rotation rebuild can't wait for Horton. It can't.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Injury update / analysis",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cade Horton Second Tommy John — 2027 Return at Best\n**Decision:** FOLLOW UP — Horton's injuries referenced in prior offseason coverage and the rotation rebuild story. This is the first dedicated deep-dive on his specific timeline post-WCS.\n**Key facts:**\n- Horton underwent second Tommy John surgery in April 2026. HIGH confidence (multiple independent sources).",
+        "sources": "Sources: Bleacher Nation, Heavy.com, StatSniper, mdjonline all confirm TJ surgery.\n- Conflicting: Daily Herald headline says \"season-ending shoulder surgery.\" FLAGGED in fact-check log. Treated as likely headline error given weight of TJ evidence.\n- Surgery details: full revision UCL repair + flexor muscle repair + internal brace procedure. MEDIUM confidence (AI-summarized from Heavy.com).\n- Return timeline: 15-16 months post-April 16 surgery = July-August 2027. MEDIUM confidence.\n- First TJ was 2021 (college). This is Horton's second. MEDIUM confidence.\n- Second TJ procedures have lower return-to-form success rates than first. General medical consensus, MEDIUM confidence. Specific stat (60-65%) cited in AI summaries — NOT used in tweet; softened to \"notably lower.\"\n**Why it matters:** Directly affects Cubs rotation rebuild. Horton is/was their top pitching prospect. Understanding he's unavailable until mid-2027 (at earliest) shapes the urgency of offseason spending.\n**Freshness:** Surgery from April 2026 is established; return timeline clarification is offseason-relevant news this week. ✓"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Cardinals Three Straight Octobers — NL Central Reality Check",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Cardinals home for a third straight October. Jordan Walker and JJ Wetherholt show progress. But the Brewers are the NL's No. 1 seed and the Cubs face a full rotation rebuild. The NL Central doesn't wait for rebuilds.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Three straight Octobers watching. That's where the Cardinals are.\n\nJordan Walker and JJ Wetherholt are real. But the Brewers are the NL's No. 1 seed and the Cubs are rebuilding a rotation from scratch.\n\nThe NL Central doesn't wait for rebuilds.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Rival watch / NL Central analysis",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cardinals Third Straight October Watching — NL Central Reality Check\n**Decision:** FOLLOW UP — Cardinals teardown covered Oct 4. Today's angle: third consecutive postseason miss as a data point for the NL Central landscape.\n**Key facts:**\n- Cardinals missed playoffs in 2024, 2025, and 2026 — three straight. HIGH confidence (Oct 4 story and established fact).\n- Chaim Bloom replaced John Mozeliak as president of baseball operations (2025 offseason). MEDIUM confidence (AI summary).\n- Cardinals traded Sonny Gray, Willson Contreras, Nolan Arenado in prior offseason rebuild. MEDIUM confidence.\n- Jordan Walker is a Cardinals prospect/player taking steps. MEDIUM confidence.\n- JJ Wetherholt is a Cardinals young player. MEDIUM confidence (AI-summarized; will verify in fact-check).\n- Cardinals went 75-78 or near .500 in 2026, did not fall below .500 until late July. MEDIUM confidence.\n- Brewers 103 wins, NL No. 1 seed. MEDIUM confidence (referenced in multiple sources).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Cubs Lineup Is Built — Rotation Is the Only Missing Piece",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Bregman, Swanson, Suzuki, Crow-Armstrong, Alcántara — this lineup was built to win. With the entire 2026 rotation departing, fix the pitching and 2027 looks completely different.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Bregman. Swanson. Suzuki. Crow-Armstrong. Alcántara.\n\nThe lineup is built for October baseball.\n\nThe rotation that got us there? Gone. Every single one of them.\n\nFix that this offseason and 2027 is a different October.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Bold take / offseason outlook",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs Lineup Is Built — Rotation Is the Only Missing Piece\n**Decision:** NEW STORY — bold take summarizing the Cubs' position heading into the offseason with a forward-looking frame.\n**Key facts:**\n- Alex Bregman: returned from facial fractures in late September, hit 4-for-4 in season finale with 2 HR, 4 RBI. Story history confirms. HIGH confidence.\n- Dansby Swanson: returned from Grade 2 oblique (Aug 16 injury), back in lineup Sept 2026. Story history confirms. HIGH confidence.\n- Seiya Suzuki: returned from injury Sept 19 after 5+ month absence. Story history confirms. HIGH confidence.\n- Pete Crow-Armstrong: 2026 final line 45 HR, 40+ SB (story history, pipeline-confirmed). HIGH confidence.\n- Kevin Alcántara: MLB experience in 2026, originally prospect. HIGH confidence.\n- Cubs entire 2026 rotation (Gausman, Boyd, Holmes, Peterson) all departing after 2026. HIGH confidence (Oct 4 story).\n- Imanaga situation: Imanaga pitched for Cubs in 2026 (per insights raw data); his 2027 status not confirmed in today's research. NOT used as a specific claim in tweet.\n- No specific offensive ranking claimed in tweet text to avoid unverified superlative.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-01",
+  "compiled_at": "2026-10-01T11:38:40.670985+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Malaysia GP Race Weekend Is Here — Antonelli Wants to \"Re-Establish Order\"",
+      "tier": 1,
+      "status": "",
+      "angle": "What Antonelli needs from Sepang and why this track suits Mercedes.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "F1 is back at Sepang for the first time since 2017. Nine years. 12 drivers have NEVER raced here — including Antonelli and Russell. Race weekend starts Friday. #F1 #MalaysiaGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MalaysiaGP"
+          ],
+          "char_count": 175
+        },
+        {
+          "label": "Post 2",
+          "text": "Kimi Antonelli after Baku: \"We will bring upgrades and we will continue to push until the last corner.\" Championship leader. 66-point lead. Race weekend starts Friday in Malaysia. #F1 #MalaysiaGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MalaysiaGP"
+          ],
+          "char_count": 195
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-malaysia-gp-sepang-preview.html",
+        "headline": "F1 Returns to Sepang After Nine Years: What to Know About the Malaysia GP Weekend",
+        "word_count": 749
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Malaysia GP Race Weekend\n\n**Social Image (1080x1350, 4:5 vertical):**\n- Visual Description: Aerial view of Sepang circuit in tropical heat haze, lush greenery surrounding the circuit, dramatic Malaysian sky\n- Photo Search Terms (Imagn): \"Sepang Formula One circuit Malaysia\", \"F1 Malaysia Grand Prix\"\n- Text Overlay: \"F1 RETURNS TO MALAYSIA\" (headline, Bebas Neue, white) / \"9 Years. 56 Laps. Race Starts Friday.\" (subtitle, Montserrat, silver #C0C0C0)\n- Composition Notes: Wide-angle circuit geography shot; tropical/exotic feel; deep blues and greens\n\n**Article Hero (1200x630, landscape):**\n- Photo Search Terms (Imagn): \"Sepang International Circuit F1\", \"Malaysia Formula One\"\n- Composition Notes: Panoramic circuit or paddock shot; landscape orientation\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Malaysia GP Race Weekend Preview\n**Decision:** NEW STORY\n**Sources:**\n- Formula1.com: \"NEED TO KNOW: Facts, stats and trivia ahead of the 2026 Bahrain Grand Prix in Malaysia\" — https://www.formula1.com/en/latest/article/need-to-know-the-most-important-facts-stats-and-trivia-ahead-of-the-2026-bahrain-grand-prix-in-malaysia.7q5fTKLLQ5TrEcsNerl406\n- Formula1.com: \"5 storylines we're excited about ahead of the Bahrain GP in Malaysia\" — https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-bahrain-grand-prix-in-malaysia.5VJ800Id8hGFvoRpQQFc9u\n- The Herald/AFP: \"Antonelli eager to 're-establish order' as F1 returns to Malaysia\" — https://www.theherald.co.za/sport/2026-09-30-antonelli-eager-to-re-establish-order-as-f1-returns-to-malaysia/\n- Yahoo Sports: \"Bahrain Grand Prix in Malaysia Notebook\" — https://sports.yahoo.com/articles/bahrain-grand-prix-malaysia-notebook-132253770.html\n**Key Facts [HIGH confidence — official F1 sources]:**\n- Official name: 2026 Formula 1 Gulf Air Bahrain Grand Prix in Malaysia\n- Venue: Sepang International Circuit, Malaysia\n- Dates: October 2-4, 2026 (Round 16 of 23)\n- Last F1 race at Sepang: 2017 (9-year gap)\n- Circuit: 5.543 km, 15 corners, 56 laps\n- Race start: 15:00 local time / 08:00 BST / 03:00 ET Sunday\n- 12 of 22 drivers have never raced at Sepang in F1 — including both Mercedes drivers\n- Circuit surface: relatively abrasive, comparable to Bahrain\n- Active aero (replacing DRS): 4 Straight Mode zones confirmed by FIA\n- Weather forecast: Hot and humid, 30-32°C, ~30-50% chance of rain\n- Sebastian Vettel holds the lap record: 1:34.080 (2017)\n- Antonelli's quote: \"We will bring upgrades and we will continue to push until the last corner\"\n**Freshness:** Race weekend begins tomorrow. HIGH freshness.\n**Why it matters:** First race to Sepang in 9 years; Antonelli looking to recover from Baku disaster.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Colapinto Carries 5-Place Grid Penalty — Alpine's Future in Doubt",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "How does Colapinto's Malaysia performance either rescue or end his Alpine seat?",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Franco Colapinto carries a 5-place grid penalty into Malaysia for the Baku crash that took out Gasly and Norris. Alpine is reviewing his seat. One weekend to prove he belongs. #F1 #Colapinto",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Colapinto"
+          ],
+          "char_count": 190
+        },
+        {
+          "label": "Post 4",
+          "text": "Lando Norris: \"If you cause a crash on a restart like this, you should have at least a one-race ban.\" The FIA gave Colapinto 5 grid places. Alpine has its own verdict coming. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 178
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-colapinto-penalty-alpine-seat.html",
+        "headline": "Colapinto Starts Malaysia Five Places Back — and His Alpine Future Is on the Line",
+        "word_count": 723
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Colapinto 5-Place Penalty\n\n**Social Image (1080x1350, 4:5 vertical):**\n- Visual Description: A racing car in a barrier or recovery scene — dramatic, gravel trap or tire barrier contact implied\n- Photo Search Terms (Imagn): \"Franco Colapinto Alpine F1\", \"Colapinto Formula One\"\n- Text Overlay: \"5 PLACES BACK\" (headline, Bebas Neue, white) / \"Colapinto. Baku. Alpine's Decision.\" (subtitle, Montserrat, orange #FF6F00)\n- Composition Notes: Tension/accountability mood; Alpine blue accents; urgency\n\n**Article Hero (1200x630, landscape):**\n- Photo Search Terms (Imagn): \"Franco Colapinto Alpine F1\"\n- Composition Notes: Portrait or action shot of Colapinto\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Colapinto 5-Place Penalty / Alpine Seat\n**Decision:** FOLLOW UP\n**Sources:**\n- GPFans.com: F1 standings and race report — https://www.gpfans.com/en/f1-news/1090686/f1-standings-2026-latest-points-leaders-azerbaijan-grand-prix/\n- Yahoo Sports: \"Bahrain Grand Prix in Malaysia Notebook\" (Colapinto penalty confirmed) — https://sports.yahoo.com/articles/bahrain-grand-prix-malaysia-notebook-132253770.html\n- Story history (2026-09-28): Norris quote \"If you cause a crash on a restart like this, you should have at least a one-race ban\"; Alpine reviewing Colapinto's seat\n**Key Facts [HIGH confidence — race stewards decision]:**\n- Incident: Lap 36 Baku restart; Colapinto locked up at Turn 1, hit Gasly who collected Norris\n- All three — Colapinto, Gasly, Norris — retired from the Azerbaijan GP\n- Penalty: 5-place grid penalty for Malaysia GP (converted from unserved 10-second time penalty in Baku)\n- Norris quote: \"If you cause a crash on a restart like this, you should have at least a one-race ban\"\n- Russell comment: a race ban would be \"too harsh\"\n- Alpine: reviewing \"course of action\" regarding Colapinto's seat following the incident\n- Colapinto age: 21 (Argentine, from Buenos Aires)\n- Colapinto joined Alpine for 2026 after Williams exit\n- 2027 grid: Colapinto confirmed at Alpine alongside Pierre Gasly (contracted to 2028)\n**Freshness:** Penalty confirmed for this weekend. HIGH freshness.\n**Why it matters:** Colapinto's Malaysia result directly affects his Alpine future.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "The Championship Math — Antonelli 302, Russell 236, Eight Rounds Left",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "The math, what Russell needs, and why Singapore looms large.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Standings after Baku (Round 15 of 23):\nAntonelli — 302 pts\nRussell — 236 pts\nGap: 66 points. 8 rounds left. Singapore is 8 days away. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 137
+        },
+        {
+          "label": "Post 6",
+          "text": "Antonelli can clinch the title at Singapore on Oct. 11 if he wins both the Sprint and the Grand Prix while Russell scores nothing. First realistic clinch window. #F1 #Antonelli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Antonelli"
+          ],
+          "char_count": 176
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-antonelli-russell-championship-math.html",
+        "headline": "Antonelli 302, Russell 236: The Championship Math Heading Into Malaysia and Singapore",
+        "word_count": 734
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Standings\n\n**Social Image (1080x1350, 4:5 vertical):**\n- Visual Description: Championship points graphic style concept — two cars in Mercedes livery separated by a number gap, track receding in background\n- Photo Search Terms (Imagn): \"Kimi Antonelli Mercedes F1\", \"Kimi Antonelli Formula One\"\n- Text Overlay: \"302 vs 236\" (headline, Bebas Neue, white) / \"8 Rounds Left. The Title Race Is On.\" (subtitle, Montserrat, silver #C0C0C0)\n- Composition Notes: Minimalist, data-forward aesthetic; Mercedes silver palette\n\n**Article Hero (1200x630, landscape):**\n- Photo Search Terms (Imagn): \"Formula One championship celebration trophy\"\n- Composition Notes: Wide race shot with championship-race feel\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Standings After Azerbaijan (Round 15)\n**Decision:** FOLLOW UP\n**Sources:**\n- GPFans.com: Championship standings — https://www.gpfans.com/en/f1-news/1090686/f1-standings-2026-latest-points-leaders-azerbaijan-grand-prix/\n- Motorsport.com: \"2026 F1 Championship standings: Antonelli closes in on the title\" — https://www.motorsport.com/f1/news/standings-antonelli-closes-in-on-the-title/10855447/\n- F1 Fanrecap story history for standings confirmation\n**Key Facts [HIGH confidence — official standings]:**\n- Antonelli: 302 points (1st)\n- Russell: 236 points (2nd) — gap: 66 points\n- Hamilton: 199 points (3rd)\n- Norris: 186 points (4th)\n- Leclerc: 179 points (5th)\n- Verstappen: 163 points (6th)\n- 8 rounds remain after Azerbaijan (Rounds 16-23)\n- Maximum remaining points: approximately 8 × 26 (no Sprints) = 208 pts (not counting Sprint bonuses)\n- With Singapore Sprint: 8 total points added that weekend\n- Singapore (Round 17, Oct 9-11): First realistic clinch window\n- Clinch scenario at Singapore: Antonelli wins Sprint + Race; Russell outside points\n**Freshness:** Standings are current after Round 15. HIGH freshness.\n**Why it matters:** Championship drama runs through next two weekends.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Alonso Signs Aston Martin 2027 Extension — Into His 24th Season",
+      "tier": 2,
+      "status": "",
+      "angle": "Why Alonso keeps going and what the Aston Martin partnership offers him.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Fernando Alonso has signed a new Aston Martin contract for 2027. His 24th full-time season. Age 46. Lance Stroll also extended. Same line-up, year five. Fernando never retires. #F1 #Alonso",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Alonso"
+          ],
+          "char_count": 188
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-alonso-aston-martin-2027-extension.html",
+        "headline": "Fernando Alonso Signs Through 2027 With Aston Martin — His 24th F1 Season at Age 46",
+        "word_count": 646
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alonso Aston Martin Extension\n\n**Social Image (1080x1350, 4:5 vertical):**\n- Visual Description: Close-up of a race driver's helmet being fastened — timeless quality, confidence, longevity\n- Photo Search Terms (Imagn): \"Fernando Alonso Aston Martin F1\", \"Fernando Alonso Formula One\"\n- Text Overlay: \"SEASON 24\" (headline, Bebas Neue, white) / \"Alonso Signs Through 2027. Age 46. Never Done.\" (subtitle, Montserrat, Aston Martin green #006E51)\n- Composition Notes: Veteran/legend feel; Aston Martin dark British racing green palette\n\n**Article Hero (1200x630, landscape):**\n- Photo Search Terms (Imagn): \"Fernando Alonso Aston Martin\"\n- Composition Notes: Portrait shot, Aston Martin uniform, composed expression\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Fernando Alonso Aston Martin 2027 Extension\n**Decision:** NEW STORY\n**Sources:**\n- RaceFans.net: \"Alonso signs new contract to race for Aston Martin in 2027\" — https://racefans.net/2026/09/29/alonso-signs-new-contract-to-race-for-aston-martin-in-2027\n- The-Race.com: \"The 2027 F1 grid: Every confirmed driver\" — https://www.the-race.com/formula-1/2027-f1-grid-every-confirmed-driver/\n**Key Facts [HIGH confidence — official announcement]:**\n- Alonso signed Aston Martin extension: announced September 29, 2026\n- Lance Stroll also extended; unchanged line-up for fifth consecutive year\n- Alonso's 2027 would be his 24th full-time season in grand prix racing\n- F1 debut: 2001 (Australian GP); full season debut: 2003\n- Alonso's current age: will be 46 during the 2027 season\n- Two-time world champion (2005, 2006 with Renault)\n- Known for remarkable longevity; previously retired 2018-2021\n**Freshness:** Announced two days ago. HIGH freshness.\n**Why it matters:** Alonso's extension confirms F1's oldest active driver continues into 2027.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Singapore Will Be F1's First-Ever Sprint Weekend — Antonelli Can Win the Title There",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "How the Sprint format changes the championship arithmetic for next weekend.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 8",
+          "text": "Singapore week starts October 9. First EVER Sprint weekend at Marina Bay. The Killers and Lana Del Rey are performing. And Antonelli could clinch the title. #F1 #SingaporeGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SingaporeGP"
+          ],
+          "char_count": 173
+        },
+        {
+          "label": "Post 9",
+          "text": "Sepang facts: 5.543km. 56 laps. Race start 03:00 ET Sunday. Forecast: 30-32°C, humid, 30-50% chance of rain. Vettel's 2017 lap record: 1:34.080. F1 is back in Malaysia. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 172
+        },
+        {
+          "label": "Post 10",
+          "text": "On a Baku restart, Colapinto locked up at Turn 1, hit Gasly, who was collected by Norris. Three cars retired from one mistake. Now his entire Alpine future hangs on Malaysia. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 178
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-singapore-sprint-weekend-clinch.html",
+        "headline": "Singapore Will Be F1's First-Ever Sprint Weekend at Marina Bay — And the Title Could Be Settled There",
+        "word_count": 783
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Singapore Sprint Weekend\n\n**Social Image (1080x1350, 4:5 vertical):**\n- Visual Description: Singapore skyline at night glowing behind a street circuit — Marina Bay lights reflected on water, dramatic F1 night-race atmosphere\n- Photo Search Terms (Imagn): \"Singapore Grand Prix Marina Bay night\", \"Singapore Formula One night race\"\n- Text Overlay: \"SPRINT DEBUT\" (headline, Bebas Neue, white) / \"Marina Bay's First Ever Sprint Weekend. Oct. 9-11.\" (subtitle, Montserrat, gold #FFC107)\n- Composition Notes: Night-race drama; city skyline reflections; golden-hour/neon energy\n\n**Article Hero (1200x630, landscape):**\n- Photo Search Terms (Imagn): \"Singapore Grand Prix night race\"\n- Composition Notes: Wide Marina Bay backdrop, cityscape dominant"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Singapore Sprint Weekend Preview\n**Decision:** FOLLOW UP\n**Sources:**\n- Formula1.com: Singapore GP official page\n- KKday Blog: \"F1 Singapore 2026 first-ever Sprint weekend guide\" — https://www.kkday.com/en/blog/96090/f1-singapore\n- Sky Sports: Singapore GP preview\n**Key Facts [HIGH/MEDIUM confidence]:**\n- Singapore GP: October 9-11, 2026 (Round 17)\n- Venue: Marina Bay Street Circuit (night race)\n- First-ever Sprint weekend at Singapore\n- Sprint format adds 8 championship points per Sprint race\n- Final Sprint of the 2026 season\n- Entertainment: The Killers and Lana Del Rey confirmed\n- Title clinch scenario: Antonelli wins Sprint + Race, Russell outside points = Antonelli title\n- Antonelli would need to lead Russell by 151 points entering Singapore to mathematically clinch — he currently leads by 66; clinch at Singapore possible only if Russell has a very bad weekend\n- Singapore tropical showers frequently affect night race strategy\n**Freshness:** 8 days away. HIGH freshness.\n**Why it matters:** Championship could be settled at Singapore — dramatic potential for the Sprint format's debut at Marina Bay.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 10,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
