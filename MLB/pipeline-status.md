@@ -27,7 +27,7 @@
 - [x] 15 — PostPlanner exports (bb-postplanner-2026-10-05.xlsx, bb-postplanner-tobi-2026-10-05.xlsx; 7 posts each)
 - [ ] WordPress publish — blocked (WP credentials not set in environment)
 - [x] Story history — updated (story-history.md appended — 2026-10-05 entries)
-- [ ] Git push — pending (GitHub MCP)
+- [x] Git push — complete (git push, SHA: 4189b4a7)
 
 ### Stories Covered
 1. **Chourio Walk-Off Single Gives Brewers 2-0 NLDS Lead** (Tier 1, Follow Up) — Marcus Cole
