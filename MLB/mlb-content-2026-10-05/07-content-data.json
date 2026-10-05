@@ -1,0 +1,276 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-05",
+  "compiled_at": "2026-10-05T10:37:53.409778+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Chourio Walk-Off Single Gives Brewers 2-0 NLDS Lead Over Padres",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "WALK. OFF. JACKSON CHOURIO.\n\n2 outs. 2 strikes. Bases loaded. Mason Miller on the mound throwing 104 mph.\n\nChourio lined it 101 mph the other way. Yelich and Frelick scored.\n\nBrewers 4, Padres 3. Milwaukee leads the NLDS 2-0.\n\n#Brewers #Padres #NLDS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#Padres",
+            "#NLDS"
+          ],
+          "char_count": 249
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The numbers on that Chourio walk-off:\n\n⚡ Facing Mason Miller — 104+ mph closer\n⚡ Count: 2 outs, 2 strikes, bases loaded\n⚡ Exit velocity: 101.3 mph\n⚡ Result: bases-clearing single\n\nMilwaukee's up 2-0 in the NLDS. They're in position to finish this at home.\n\n#Brewers #NLDS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#NLDS"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-chourio-walk-off-brewers-nlds-2-0-lead.html",
+        "headline": "Chourio Walk-Off Single Sends Brewers to 2-0 NLDS Lead Over Padres",
+        "word_count": 561
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Chourio Walk-Off — Brewers 2-0 NLDS Lead\n\n#### Concept 1 — Social (1080x1350)\n**Type:** imagn photo\n**Search Terms:** Jackson Chourio Milwaukee Brewers\n**Overlay Text:** \"WALK-OFF\" / \"Brewers Lead NLDS 2-0\"\n**Status:** not_started\n\n#### Concept 2 — Article Hero (1200x630)\n**Type:** imagn photo\n**Search Terms:** Jackson Chourio Milwaukee Brewers\n**Overlay Text:** None (article hero)\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Chourio Walk-Off — Brewers vs Padres NLDS Game 2\n**Sources:**\n- SI.com: Reported walk-off details, 2-out 2-strike count, Mason Miller at 104+ mph\n- Fox6 Milwaukee: Confirmed score 4-3, Chourio exit velocity 101.3 mph, runners Yelich and Frelick scored\n- Milwaukee Courier: Confirmed bases loaded, Jake Cronenworth failed to catch\n**Verified Facts:**\n- Score: Brewers 4, Padres 3 — CONFIRMED (multiple sources)\n- Jackson Chourio walk-off single in 9th inning — CONFIRMED\n- At-bat: 2 outs, 2 strikes, bases loaded — CONFIRMED\n- Against pitcher: Mason Miller (Padres closer, 104+ mph arm) — CONFIRMED\n- Chourio exit velocity: 101.3 mph fastball lined — CONFIRMED\n- Runners scoring: Yelich and Frelick — CONFIRMED\n- Cronenworth fielding fail cited — CONFIRMED\n- Series lead: Brewers 2-0 NLDS — CONFIRMED\n**Confidence Tags:**\n- Score and situation: HIGH\n- Chourio exit velo: HIGH (Fox6 reporting)\n- Series status: HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Michael Harris II's Three-Hit Night Lifts Braves Past Dodgers, Ties NLDS 1-1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Michael Harris II last night:\n\n3-for-4\nTriple + go-ahead run\nRBI double for insurance\n\nBraves beat the Dodgers 3-2. Series tied 1-1.\n\nMuncy had a 2-out HR in the 9th to make it interesting, but Iglesias closed the door.\n\n#Braves #Dodgers #NLDS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves",
+            "#Dodgers",
+            "#NLDS"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-michael-harris-ii-braves-tie-nlds-1-1.html",
+        "headline": "Michael Harris II's Three-Hit Night Lifts Braves Past Dodgers, Ties NLDS 1-1",
+        "word_count": 503
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Michael Harris II — Braves Tie NLDS 1-1\n\n#### Concept 3 — Social (1080x1350)\n**Type:** imagn photo\n**Search Terms:** Michael Harris II Atlanta Braves\n**Overlay Text:** \"3 FOR 4\" / \"Braves Tie NLDS 1-1\"\n**Status:** not_started\n\n#### Concept 4 — Article Hero (1200x630)\n**Type:** imagn photo\n**Search Terms:** Michael Harris II Atlanta Braves\n**Overlay Text:** None (article hero)\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Michael Harris II — Braves vs Dodgers NLDS Game 2\n**Sources:**\n- Yahoo Sports: Harris 3-for-4, triple in 5th, scored on wild pitch\n- ESPN: Muncy 2-out, 2-strike HR in 9th off Fuentes\n- CBS Sports: Iglesias save, De Paula foul out, series tied 1-1\n**Verified Facts:**\n- Score: Braves 3, Dodgers 2 — CONFIRMED (multiple sources)\n- Michael Harris II: 3-for-4 — CONFIRMED\n- Harris tripled in 5th, scored go-ahead run on Kris Bubic wild pitch — CONFIRMED\n- Harris hit 2-out RBI double off Edgardo Henriquez in 7th — CONFIRMED\n- Max Muncy 2-strike, 2-out HR off Didier Fuentes in 9th — CONFIRMED\n- Raisel Iglesias save (2nd postseason save) — CONFIRMED\n- Josue De Paula final out (foul out) — CONFIRMED\n- Series: Tied 1-1, Games 3-4 to Los Angeles — CONFIRMED\n**Confidence Tags:**\n- All key facts: HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "ALDS Game 2 Today: White Sox Host Guardians, Rays Host Yankees",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "ALDS Game 2 schedule:\n\n⚾ White Sox at Guardians — 5 PM ET (truTV)\n⚾ Yankees at Rays — 8 PM ET (TBS)\n\nChicago leads 1-0. New York must win without Judge.\n\nTyler Glasnow expected to start for Tampa Bay tonight.\n\n#WhiteSox #Guardians #Yankees #Rays #ALDS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#Guardians",
+            "#Yankees",
+            "#Rays",
+            "#ALDS"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-alds-game-2-preview-white-sox-guardians-yankees-rays.html",
+        "headline": "ALDS Game 2: White Sox Look to Go Up 2-0 While Yankees Try to Survive Without Judge",
+        "word_count": 602
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ALDS Game 2 Preview\n\n#### Concept 5 — Social (1080x1350)\n**Type:** imagn photo\n**Search Terms:** Chicago White Sox Progressive Field\n**Overlay Text:** \"GAME 2 TODAY\" / \"ALDS\"\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ALDS Game 2 Preview\n**Sources:**\n- MLB.com: Schedule confirmed (WHI vs CLE 5 PM truTV; NYY vs TB 8 PM TBS)\n- ESPN: Tyler Glasnow expected for Rays; Judge (calf strain) still unavailable\n- Multiple: White Sox lead 1-0; Yankees trail 1-0\n**Verified Facts:**\n- White Sox vs. Guardians: Game 2, 5 PM ET, Progressive Field, truTV — CONFIRMED\n- Yankees vs. Rays: Game 2, 8 PM ET, Tropicana Field, TBS — CONFIRMED\n- Tyler Glasnow expected to start for Rays — CONFIRMED (ESPN)\n- Aaron Judge status: calf strain, unavailable — CONFIRMED\n**Confidence Tags:**\n- Schedule and times: HIGH\n- Starting pitchers (Glasnow): HIGH (ESPN)\n- Judge availability: HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Jacob Misiorowski Sets Postseason Pitch Speed Record at 104.8 MPH",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "104.8 mph.\n\nJacob Misiorowski just set the fastest postseason pitch record since tracking began in 2008.\n\nPrevious record: Mason Miller, 104.5 mph — this postseason.\nBefore that: Aroldis Chapman, 104.2 mph, 2010.\n\nVelocity is a different sport now.\n\n#Brewers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#MLB"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-misiorowski-104-8-mph-postseason-record.html",
+        "headline": "Jacob Misiorowski Throws 104.8 MPH — The Fastest Postseason Pitch Since Tracking Began",
+        "word_count": 519
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Misiorowski 104.8 MPH Record\n\n#### Concept 6 — Social (1080x1350)\n**Type:** imagn photo\n**Search Terms:** Jacob Misiorowski Milwaukee Brewers\n**Overlay Text:** \"104.8 MPH\" / \"Postseason Record\"\n**Status:** not_started\n\n#### Concept 7 — Article Hero (1200x630)\n**Type:** imagn photo\n**Search Terms:** Jacob Misiorowski Milwaukee Brewers\n**Overlay Text:** None (article hero)\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Misiorowski 104.8 MPH Postseason Record\n**Sources:**\n- MLB.com: Verified 104.8 mph as new record since tracking began 2008\n- Yahoo Sports: Previous record 104.5 mph (Mason Miller, Wild Card 2026); before that Chapman 104.2 mph (2010)\n**Verified Facts:**\n- Misiorowski fastball: 104.8 mph — CONFIRMED (MLB.com)\n- Previous record: Mason Miller 104.5 mph (Wild Card 2026) — CONFIRMED\n- Before Miller: Aroldis Chapman 104.2 mph (2010) — CONFIRMED\n- Tracking began: 2008 — CONFIRMED\n**Confidence Tags:**\n- Record: HIGH (MLB.com primary source)\n- Historical comparison: HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "White Sox Rotation of the Future on Display in ALDS",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5-1",
+          "text": "The White Sox lost 121 games in 2024.\n\nToday they're hosting a postseason series.\n\nHagen Smith (23) started ALDS Game 1. Schultz, Taylor, and Burke are all in the mix.\n\nFirst team in MLB history to make the playoffs after 3 straight 100-loss seasons.\n\n#WhiteSox #ALDS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#ALDS"
+          ],
+          "char_count": 267
+        },
+        {
+          "label": "Post 5-2",
+          "text": "ALDS Game 2 postgame recap thread incoming.\n\nWhite Sox, Guardians, Yankees, Rays — what happened tonight will shape the rest of October.\n\nFollow for scores and analysis.\n\n#ALDS #MLB #WhiteSox #Yankees",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ALDS",
+            "#MLB",
+            "#WhiteSox",
+            "#Yankees"
+          ],
+          "char_count": 200
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-white-sox-youth-rotation-alds.html",
+        "headline": "The White Sox Rotation Is Young, Unproven, and Playing October Baseball",
+        "word_count": 591
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "White Sox Youth Rotation\n\n#### Concept 8 — Social (1080x1350)\n**Type:** imagn photo\n**Search Terms:** Hagen Smith Chicago White Sox\n**Overlay Text:** \"THE FUTURE IS NOW\" / \"White Sox ALDS\"\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "White Sox Youth Rotation\n**Sources:**\n- MLB Trade Rumors: Hagen Smith, Schultz, Taylor, Burke in mix; Castillo returning 2027\n- BVM Sports: White Sox first to make playoffs after 3 straight 100-loss seasons\n- ESPN: Fedde and Newcomb pending FAs\n**Verified Facts:**\n- Hagen Smith (23) started ALDS Game 1 — CONFIRMED\n- Noah Schultz, Grant Taylor, Sean Burke — CONFIRMED prospects (MLB Trade Rumors)\n- Luis Castillo returns 2027 — CONFIRMED\n- First team in MLB history to make playoffs after 3 straight 100-loss seasons — CONFIRMED (BVM Sports, ESPN)\n**Confidence Tags:**\n- Rotation names: HIGH\n- Historical fact (3 straight 100-loss): HIGH",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

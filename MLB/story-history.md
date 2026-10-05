@@ -5,6 +5,56 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-10-05
+
+### Story 1: Chourio Walk-Off Single Gives Brewers 2-0 NLDS Lead Over Padres
+- **Date:** 2026-10-05
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Oct. 4 NLDS Game 1 recap)
+- **Angle:** Jackson Chourio lined a 101.3 mph fastball off Mason Miller with 2 outs, 2 strikes, bases loaded in 9th; Yelich and Frelick scored; Brewers 4 Padres 3; Milwaukee leads NLDS 2-0
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - NLDS Games 3-4 in Milwaukee
+  - Brewers potential series clinch
+
+### Story 2: Michael Harris II's Three-Hit Night Lifts Braves Past Dodgers, Ties NLDS 1-1
+- **Date:** 2026-10-05
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Oct. 4 NLDS Game 1 recap — Dodgers won 5-3)
+- **Angle:** Harris 3-for-4 (triple + go-ahead run + RBI double); Braves 3 Dodgers 2; Muncy 2-out HR in 9th didn't stop it; Iglesias save; series tied 1-1
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - NLDS Games 3-4 in Los Angeles
+
+### Story 3: ALDS Game 2 Today — White Sox Host Guardians, Rays Host Yankees
+- **Date:** 2026-10-05
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Oct. 4 ALDS Game 1 recaps)
+- **Angle:** White Sox (up 1-0) at Progressive Field 5 PM ET; Yankees (down 1-0) vs. Rays with Glasnow expected 8 PM ET; Judge still unavailable
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Game 2 results, Games 3-4 in new venues
+
+### Story 4: Jacob Misiorowski Sets Postseason Pitch Speed Record at 104.8 MPH
+- **Date:** 2026-10-05
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Brewers reliever Misiorowski clocked at 104.8 mph — fastest postseason pitch since tracking began 2008; broke Mason Miller's 104.5 mph (Wild Card 2026); before that Chapman 104.2 mph (2010)
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Ongoing Brewers playoff run; velocity record tracking
+
+### Story 5: White Sox Rotation of the Future on Display in ALDS
+- **Date:** 2026-10-05
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Hagen Smith (23) started ALDS Game 1; Schultz/Taylor/Burke in mix; Castillo returns 2027; first team in MLB history to make playoffs after 3 straight 100-loss seasons
+- **Content Produced:** Article (article-05, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - White Sox ALDS run; rotation development
+
+---
+
 ## 2026-09-30
 
 ### Story 1: Wild Card Day 1 Recap — Home Teams Go 3-1
