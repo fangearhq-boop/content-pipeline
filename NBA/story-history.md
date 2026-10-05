@@ -2,6 +2,48 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-05
+
+### STORY 1: LeBron James 76ers Home Debut Tonight vs. Knicks
+- **Tier:** 1
+- **Category:** Philadelphia 76ers / LeBron James / Preseason / Home Debut
+- **Key facts:** LeBron's first preseason home game at Wells Fargo Center vs. Knicks, 7:00 PM ET Oct. 5; 24th NBA season; opening night Oct. 20 vs. Knicks at MSG
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Game recap, LeBron performance stats, October 20 opener preview
+
+### STORY 2: Jazz Beat Nuggets 109-97 in Preseason Opener — Jokic Steals the Show
+- **Tier:** 1
+- **Category:** Utah Jazz / Denver Nuggets / Preseason / Nikola Jokic
+- **Key facts:** Jazz beat Nuggets 109-97 Oct. 4 preseason opener; Jokic standout performance despite loss; UCU Events Center; results reported Oct. 5
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** Regular season opener, Jokic season outlook
+
+### STORY 3: LaMelo Ball Makes Timberwolves Preseason Debut
+- **Tier:** 1
+- **Category:** Minnesota Timberwolves / LaMelo Ball / Trade / Preseason
+- **Key facts:** LaMelo traded from Charlotte Hornets to Minnesota Timberwolves in June 2026; preseason debut Oct. 5 at Milwaukee; 2026-27 preseason
+- **Byline:** Damon Pierce
+- **Status:** NEW
+- **Follow-up ideas:** LaMelo performance, fit with Wolves roster
+
+### STORY 4: Haliburton Return Now Just 2 Days Away — Pacers Counting Down
+- **Tier:** 2
+- **Category:** Indiana Pacers / Tyrese Haliburton / Achilles Recovery
+- **Key facts:** Haliburton targets Oct. 7 preseason return; out since Game 7 2025 Finals (June 2025); ~16 months without game action; opening night Oct. 20
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Oct. 7 game report, how he looks on return
+
+### STORY 5: Monday NBA Preseason Slate — Multiple Debuts on Tap
+- **Tier:** 2
+- **Category:** NBA Preseason / Multiple Teams
+- **Key facts:** Oct. 5 games: Memphis at Atlanta (7:00 PM), Phoenix at Philadelphia (7:00 PM), Minnesota at Milwaukee (8:00 PM), LA Lakers at Sacramento (10:00 PM); Opening Night Oct. 20
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Game recaps, roster cuts ahead of opening night
+
 ## 2026-10-04
 
 ### STORY 1: LeBron James 76ers Preseason Debut Eve
