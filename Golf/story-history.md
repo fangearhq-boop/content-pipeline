@@ -2,6 +2,61 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-10-05
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-05 | T1 | LIV Golf Secures Enough Player Support for 2027 Relaunch with BC Partners | X(2), FB, Article | FOLLOW UP |
+| 2026-10-05 | T1 | Youmin Hwang Wins LOTTE Championship in Hawaii Comeback | X(2), FB, Article | FOLLOW UP |
+| 2026-10-05 | T1 | LIV Drama — Saudi Backers and BC Partners Clash Over 2027 Vision | X(1), FB, Article | FOLLOW UP |
+| 2026-10-05 | T2 | Tom Kim Wins Asian Games Gold, Withdraws from Baycurrent Classic | X(1), FB, Article | FOLLOW UP |
+| 2026-10-05 | T2 | Jon Rahm Decision Looms — 8 Days Until LIV Deadline | X(1), FB, Article | FOLLOW UP |
+
+### STORY 1: LIV Golf Secures Enough Player Support for 2027 Relaunch with BC Partners
+- **Date:** 2026-10-05
+- **Tier:** 1
+- **Category:** LIV Golf / Bankruptcy / LIV 2.0 / BC Partners / Player Commitments
+- **Key facts:** Enough player commitment signatures secured for BC Partners restructuring threshold (50% player count + 2/3 claim value); Oct. 13 deadline still active; development since Sept. 8 bankruptcy filing; DeChambeau among committed players
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Oct. 13 official announcement, remaining holdouts
+
+### STORY 2: Youmin Hwang Wins LOTTE Championship in Hawaii Comeback
+- **Date:** 2026-10-05
+- **Tier:** 1
+- **Category:** LPGA Tour / LOTTE Championship / Youmin Hwang / Hawaii / Final Round Result
+- **Key facts:** Hwang wins at Hoakalei Country Club, Ewa Beach, Hawaii; Thitikul led by three entering Sunday at 17-under but Hwang came from behind to win; final round Oct. 4 (results reported Oct. 5)
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Hwang career milestone, Player of the Year implications
+
+### STORY 3: LIV Drama — Saudi Backers and BC Partners Clash Over 2027 Vision
+- **Date:** 2026-10-05
+- **Tier:** 1
+- **Category:** LIV Golf / PIF / BC Partners / Governance / Bankruptcy
+- **Key facts:** Tension between PIF (original Saudi backers) and BC Partners over 2027 vision and governance; Oct. 13 deadline for player commitments; structural disagreements over LIV 2.0 format
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Resolution of PIF/BC Partners dispute, Oct. 13 outcome
+
+### STORY 4: Tom Kim Wins Asian Games Gold, Withdraws from Baycurrent Classic
+- **Date:** 2026-10-05
+- **Tier:** 2
+- **Category:** Tom Kim / Asian Games / South Korea / PGA Tour / Military Exemption
+- **Key facts:** Tom Kim wins gold medal at Asian Games; military exemption secured; withdrew from Baycurrent Classic on PGA Tour to compete; Asian Games schedule conflict with PGA Tour event
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Tom Kim return to PGA Tour schedule, military service status
+
+### STORY 5: Jon Rahm Decision Looms — 8 Days Until LIV Deadline
+- **Date:** 2026-10-05
+- **Tier:** 2
+- **Category:** Jon Rahm / LIV Golf / Bankruptcy / Deadline / Player Decision
+- **Key facts:** Rahm is largest unsecured creditor ($7,472,527.47); Oct. 13 deadline (8 days out); won 2026 LIV individual championship; has not publicly committed to LIV 2.0; nine-figure original deal in jeopardy; PGA Tour return complicated
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Oct. 13 Rahm decision, how other large creditors land
+
 ## 2026-10-04
 
 | Date | Tier | Title | Platforms | Status |

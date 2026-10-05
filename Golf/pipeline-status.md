@@ -1,5 +1,36 @@
 # Golf Fanrecap — Pipeline Status
 
+## Latest Run: 2026-10-05
+
+**Run completed:** 2026-10-05
+**Stories:** 5
+**Articles:** 5
+**X posts:** 7
+**Status:** COMPLETE
+
+### Scripts Run
+- [x] verify-facts.py — 18 claims, image manifest warnings (known non-blocking)
+- [x] compile-content-data.py — 5 stories, 7 tweets, 0 FB posts, 5 articles
+- [x] generate-review-dashboard.py — 22 items
+- [x] publish-unified-dashboard.py — blocked (content-dashboards repo not in authorized set)
+- [x] generate-postplanner-export.py — 0 posts (known parsing issue)
+- [x] publish-to-wordpress.py — blocked (WP credentials not configured in automated session)
+
+### Stories Covered
+1. LIV Golf Secures Enough Player Support for 2027 Relaunch with BC Partners — Tier 1 (FOLLOW UP)
+2. Youmin Hwang Wins LOTTE Championship in Hawaii Comeback — Tier 1 (FOLLOW UP)
+3. LIV Drama — Saudi Backers and BC Partners Clash Over 2027 Vision — Tier 1 (FOLLOW UP)
+4. Tom Kim Wins Asian Games Gold, Withdraws from Baycurrent Classic — Tier 2 (FOLLOW UP)
+5. Jon Rahm Decision Looms — 8 Days Until LIV Deadline — Tier 2 (FOLLOW UP)
+
+### Known Non-Blocking Issues
+- Dashboard push blocked: content-dashboards repo not in this session's authorized repository set
+- WordPress publish blocked: WP credentials not configured in automated session
+- PostPlanner: 0 posts (known parsing issue with markdown format)
+- verify-facts image manifest warnings: story-name mapping issue (non-blocking)
+
+---
+
 ## Latest Run: 2026-10-04
 
 **Run completed:** 2026-10-04
