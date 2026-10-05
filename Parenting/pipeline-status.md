@@ -1,61 +1,219 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-10-03
+## Current Run: 2026-10-05
 
 | Step | Status | Notes |
 |------|--------|-------|
-| Research (web search) | COMPLETE | Cool Science Festival Carnival Day UCCS (FREE, Oct 3 10AM–4PM, K–8, 8,000+ attendees); CPSC crib bumper warnings — 7 brands on Amazon/TikTok Shop/SHEIN violating Safe Sleep for Babies Act + Flyboss bouncers + CooCooBaby loungers; D11 Day at Air Force vs. Navy Falcon Stadium (Oct 3, 10 AM MT, CBS, $73+, CiC Trophy); Blodgett Open Space 7 new miles + Quarry/North Trailhead 90 stalls + mountain bike-only trails; COS Park System Master Plan to City Council Oct 2026; AAP 2026 NCE (Oct 2–6 San Diego) TikTok health misinformation beats accurate content in views |
-| Story History Check | COMPLETE | S1 Cool Science Carnival NEW (different angle from Oct 1/2 mentions); S2 CPSC crib bumpers FOLLOW-UP (Oct 2 S2 covered magnetic toys); S3 D11 Day at AF/Navy NEW; S4 Blodgett trails + Park Master Plan NEW; S5 AAP TikTok misinformation NEW |
+| Research (web search) | COMPLETE | D11 $775M Bond Measure 4A (board vote 6-1 Aug 5, ballot Nov 2026, ~$260/yr, first since 2004, d11.org/bond); CPSC dual recall Oct 1 — LLK Trading Mochi Malrang (480 units, llktradinginc@gmail.com) + ABC Trading Squishy Dumpling/Crazy Squib (37,000 units, recallabc@gmail.com), water bead ingestion hazard; D11 Fall Break Oct 19-23; Halloween events — Pumpkins in the Park Oct 24 free, Boo at the Bridge Oct 22 $13, Boo at the Zoo all October, Halloween History Detectives Oct 25 free; CIVA Charter PTCs Oct 14-15 and 23-24 |
+| Story History Check | COMPLETE | All 5 stories NEW — D11 bond Ballot 4A not previously covered; LLK+ABC water bead recalls different products from prior CPSC recalls; D11 Fall Break not covered this cycle; Halloween guide annual but not yet covered for 2026; CIVA PTC dates not previously covered |
 | Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] |
-| Research Notes | COMPLETE | 01-research-notes.md — sources: coolscience.org, uccs.edu, cpsc.gov, d11.org, goairforcefalcons.com, coloradosprings.gov/parks, trails2000.org, aap.org/2026-nce, publications.aap.org |
-| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows (8AM/10AM/12PM/3PM/8PM), voice check |
-| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 5 tweets across 5 stories; all ≤280 chars; 4 hashtags each; COS voice rules applied |
-| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; no hashtags; COS voice rules applied |
-| Image Concepts | COMPLETE | 05-image-concepts.md — 5 Gemini base_only prompts (social + article hero per story); clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
-| Articles (5) | COMPLETE | article-01 Cool Science Festival (Sarah Morales, T1, QR table); article-02 CPSC crib bumpers (Jamie Rivera, T1, products table + safe sleep table); article-03 D11 Day AF vs Navy (Sarah Morales, T2, QR table); article-04 Blodgett + Park Master Plan (Jamie Rivera, T2, QR table); article-05 AAP TikTok misinformation (Sarah Morales, T2) |
-| Fact-Check | COMPLETE | 06-fact-check-log.md — 46 claims (HIGH: 65%, MEDIUM: 35%, LOW: 49%); image manifest warning (known, manifest generated at publish time) |
-| Compile Content Data | COMPLETE (partial) | 07-content-data.json — 5 stories, 5 X posts, 0 FB posts parsed, 5 articles, 5 images; FB 0 is known parser compat issue; posting-window warnings cosmetic (known) |
-| Image Manifest | SKIPPED | 07-image-manifest.md not found (known — generated at publish time with --images flag) |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: kktv.com, gazette.com, coloradopolitics.com, d11.org, cpsc.gov, educounty.net, royalgorgebridge.com, cmzoo.org, civacharterschool.org |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 5 tweets across 5 stories; all ≤280 chars (S1 fixed 291→245, S4 duplicate block removed 287→265); 4 hashtags each; max 1 exclamation mark; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 D11 bond measure (Sarah Morales, T1); article-02 water bead toy recall (Jamie Rivera, T1, remedy steps); article-03 D11 fall break activities (Sarah Morales, T2, QR table); article-04 Halloween events guide (Jamie Rivera, T2, QR table); article-05 parent-teacher conferences (Sarah Morales, T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 79 claims; HIGH 132, MEDIUM 63, LOW 25; verify-facts PASSED (0 issues after fixes) |
+| Compile Content Data | COMPLETE (partial) | 07-content-data.json — 5 stories, 5 X posts, 0 FB posts parsed, 5 articles; FB 0 is known parser compat issue; posting-window warnings cosmetic (known) |
+| Image Manifest | NOT GENERATED | 07-image-manifest.md not found — images not yet generated; Gemini generation runs at publish time |
 | Review Dashboard | COMPLETE | review-dashboard.html — 25 items |
 | Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
-| PostPlanner Export | COMPLETE (5 posts) | cosp-postplanner-2026-10-03.xlsx + cosp-postplanner-tobi-2026-10-03.xlsx — 5 posts each; redistributed 13:16–19:16 MT |
-| WordPress Publish | BLOCKED | WP credentials not configured (known recurring); articles ready as drafts |
-| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Oct 3 section) |
+| PostPlanner Export | COMPLETE (5 posts) | cosp-postplanner-2026-10-05.xlsx + cosp-postplanner-tobi-2026-10-05.xlsx — 5 posts each; posts redistributed 13:53–19:53 MT |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles queued as drafts |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Oct 5 section) |
 
 - **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
 - **Posts:** 5 X posts (+ 0 FB parsed — known issue)
 - **Articles:** 5 (bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
 - **PostPlanner exports:** 5 posts (standard + TOBI)
-- **Key stories:** Cool Science Festival Carnival Day FREE at UCCS (10 AM–4 PM, K–8, 8,000+ expected); CPSC flags 7 crib bumper brands (Amazon/TikTok Shop/SHEIN) + Flyboss bouncers + CooCooBaby loungers; D11 Day at AF vs Navy at Falcon Stadium (10 AM MT, CBS, $73+); Blodgett 7 new trail miles + 90-stall trailhead + MTB trails; AAP: TikTok health misinformation beats accurate content in views
-- **Issues:** WordPress blocked (credentials); dashboard deploy blocked (proxy); FB posts not parsed (known)
+- **Key stories:** D11 $775M Bond Measure 4A on Nov 2026 ballot (~$260/yr, first since 2004, d11.org/bond); CPSC dual recall Oct 1 — LLK Mochi Malrang (480 units) + ABC Squishy Dumpling/Crazy Squib (37,000 units), water bead ingestion hazard (5th batch since Sep 3, 53K total); D11 Fall Break Oct 19-23 + Boo at the Zoo + Garden of the Gods foliage; Halloween guide — Pumpkins in the Park Oct 24 free, Boo at the Bridge Oct 22 $13, Halloween History Detectives Oct 25 free; CIVA Charter PTCs Oct 14-15 and 23-24
+- **Issues:** S1 tweet trimmed 291→245 chars; S4 duplicate code block removed; WordPress proxy 403; image manifest pending (Gemini generation at publish time); FB posts not parsed by compile script (known)
 
 ---
 
-## Previous Run: 2026-10-02
+## Previous Run: 2026-09-30
 
 | Step | Status | Notes |
 |------|--------|-------|
-| Research (web search) | COMPLETE | D11 Chalktober Acacia Park (1,500+ students, "Freedom to Thrive", Miss Boombox); First Friday Arts Month Pioneers Museum 5–8 PM free; CPSC recalls GBYMIUY Magnetic Stick Figures (10,750 units, Walmart) + Vndueey Magnetic Men (online) Oct 1 2026; Rock Ledge Ranch Harvest Festival Oct 3 10AM–4PM ($6–$12, wagon rides/cider/blacksmith); D20 18th straight top accreditation (40 schools, 26,000+ students); Venetucci Farm Pumpkin Fest Sat–Sun $5 ages 8+; Cool Science Festival through Oct 18 WMMI/Ivywild/USAFA |
-| Story History Check | COMPLETE | S1 Chalktober NEW (annual event, new date); S2 magnetic toy recalls NEW (different products from Oct 1 bath seats); S3 Rock Ledge Ranch FOLLOW-UP (mentioned in Oct 1 Weekend Roundup, now deeper standalone); S4 D20 accreditation NEW; S5 Weekend Preview NEW (different framing/angle from Oct 1 Weekend Roundup) |
-| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Sarah Morales [S1, S2, S5], Jamie Rivera [S3, S4] |
-| Research Notes | COMPLETE | 01-research-notes.md — sources: gazette.com, springsdaily.com, rockledgeranch.com, venetuccifarm.org, coolscience.org, cpsc.gov, d20.org, asd20.org, d11.org |
-| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows (8AM/10AM/12PM/3PM/5PM), voice check |
-| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 tweets across 5 stories; 4 tweets fixed for char limit (S1T2: 287→270; S2T1: 303→262; S2T2: 300→266; S5T1: 325→272); all ≤280 chars; 4 hashtags each; COS voice rules applied |
-| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; no hashtags; COS voice rules applied |
-| Image Concepts | COMPLETE | 05-image-concepts.md — 5 Gemini base_only prompts (social + article hero per story); clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
-| Articles (5) | COMPLETE | article-01 D11 Chalktober (Sarah Morales, T1, QR table); article-02 CPSC magnetic recalls (Sarah Morales, T1, QR table, stop use); article-03 Rock Ledge Ranch Harvest Fest (Jamie Rivera, T2, admission table); article-04 D20 accreditation + Oct calendar (Jamie Rivera, T2, QR table); article-05 COS Weekend Preview Oct 2–4 (Sarah Morales, T2, events table) |
-| Fact-Check | COMPLETE | 06-fact-check-log.md — 79 claims (HIGH: 144, MEDIUM: 64, LOW: 39); all consistency checks pass |
-| Compile Content Data | COMPLETE (partial) | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts parsed, 5 articles; FB 0 is known parser compat issue; posting-window warnings cosmetic (known) |
-| Image Manifest | SKIPPED | 07-image-manifest.md not generated (known — generated at publish time with --images flag) |
-| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| Research (web search) | COMPLETE | CPSC Blossom loungewear recall (burn hazard, sizes 12M-12Y); D11 Galileo "Ascend" food pantry (Sep 25 launch, 22 families, Joint Initiatives); Ghost Stories of Old Manitou 31st Annual (Oct 2-3 launch, Oct 2–30 schedule); CDC YRBS 2025 (teen sadness 33% from 42% peak, released Sep 21); October outdoor guide (foliage, Garden of the Gods, Boo at the Zoo Oct 16-31, Emma Crawford Coffin Races Oct 24) |
+| Story History Check | COMPLETE | All 5 stories NEW — Blossom recall different product from Sep 29 (helmets/toys); Galileo food pantry not previously covered; Ghost Stories annual Oct launch not previously covered; CDC YRBS 2025 new report; October outdoor guide evergreen angle |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: cpsc.gov, jointinitiatives.org, manitouspringsheritagecenter.org, cdc.gov, edweek.org, ppmentalhealth.org |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 5 tweets across 5 stories; all ≤280 chars (all 5 trimmed after verify-facts pass); 4 hashtags each; max 1 exclamation mark; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md + 07-image-manifest.md — 5 Gemini base_only prompts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 CPSC Blossom recall (Jamie Rivera, T1, QR table); article-02 Galileo food pantry (Sarah Morales, T2); article-03 Ghost Stories Manitou (Jamie Rivera, T1, fast-facts table); article-04 CDC teen mental health (Sarah Morales, T2); article-05 October outdoor guide (Jamie Rivera, T2, events table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 85 claims; HIGH/MEDIUM/LOW prioritized; 5 char-limit violations fixed (all 5 tweets trimmed) |
+| Compile Content Data | COMPLETE (partial) | 07-content-data.json — 5 stories, 5 X posts, 0 FB posts parsed, 5 articles; FB 0 is known parser compat issue; posting-window warnings cosmetic (known) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 5 entries, all pending (generated by --images flag at publish), gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 20 items |
 | Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
-| PostPlanner Export | COMPLETE (7 posts) | cosp-postplanner-2026-10-02.xlsx + cosp-postplanner-tobi-2026-10-02.xlsx — 7 posts each; redistributed 13:04–20:40 MT |
-| WordPress Publish | BLOCKED | 403 proxy — fanrumor.com not in authorized hosts (known recurring); articles ready as drafts |
-| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Oct 2 section) |
+| PostPlanner Export | COMPLETE (5 posts) | cosp-postplanner-2026-09-30.xlsx + cosp-postplanner-tobi-2026-09-30.xlsx — 5 posts each; posts redistributed 13:16–19:16 MT |
+| WordPress Publish | BLOCKED | WP credentials not configured (known recurring issue); articles queued as drafts |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Sep 30 section) |
 
 - **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
-- **Posts:** 7 X posts (+ 0 FB parsed — known issue)
-- **Articles:** 5 (bylines: Sarah Morales [S1, S2, S5], Jamie Rivera [S3, S4])
-- **PostPlanner exports:** 7 posts (standard + TOBI)
-- **Key stories:** D11 Chalktober 1,500+ students at Acacia Park + First Friday Arts Month (free, tonight); CPSC magnetic toy recalls GBYMIUY Stick Figures (10,750 units, Walmart, stop use, refund) + Vndueey Magnetic Men; Rock Ledge Ranch Harvest Festival Oct 3 10AM–4PM ($6–$12, wagon/cider/blacksmith); D20 18th straight top accreditation + Late Start today + PTCs Oct 13–14; Weekend Preview Oct 2–4
-- **Issues:** WordPress blocked (proxy); dashboard deploy blocked (proxy); FB posts not parsed (known)
+- **Posts:** 5 X posts (+ 0 FB parsed — known issue)
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 5 posts (standard + TOBI)
+- **Key stories:** CPSC Blossom loungewear recall — burn hazard, 12M-12Y, destroy + email for refund; D11 Galileo "Ascend" food pantry open Sep 25 (22 families, KMcDaniel@jointinitiatives.org); Ghost Stories of Old Manitou 31st Annual Oct 2 launch (buy in advance); CDC YRBS 2025 teen sadness 33% (down from 42% peak); October outdoor guide (Garden of the Gods foliage, Boo at the Zoo Oct 16-31, Emma Crawford Coffin Races Oct 24)
+- **Issues:** All 5 X posts trimmed for char limit; WordPress blocked (credentials); dashboard deploy blocked (proxy); FB posts not parsed by compile script (known)
+
+---
+
+## Previous Run: 2026-09-29
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | CPSC recalls Sep 24 2026: 5Color Kids' Bike Helmets (fails federal standard) + ABC Trading light-up toys (button batteries); Oktoberfest at Western Museum of Mining Oct 3 (free admission, Dachshund Dash, wmmi.org); Rock Ledge Ranch Fall Harvest Oct 3 10AM-4PM (wagon rides, pumpkins, blacksmith tours, rockledgeranch.com); D49 ERBOCES dissolution $53M (Gazette Sep 11, d49.org, Colorado Dept of Education directed); AAP 2026 screen time update (drops 2-hr cap school-age, quality focus, healthychildren.org) |
+| Story History Check | COMPLETE | All 5 stories NEW — CPSC recalls new products not previously covered; Oktoberfest WMMI not previously covered; Rock Ledge Ranch Fall Harvest not previously covered; D49 ERBOCES first coverage (original story Sep 11); AAP screen time new update angle (distinct from Sep 18 screen time/sleep story) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: cpsc.gov, gazette.com, d49.org, wmmi.org, rockledgeranch.com, healthychildren.org, health.choc.org |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 5 tweets across 5 stories; all ≤280 chars (Story 1 trimmed after verify-facts pass); 4 hashtags each; max 1 exclamation mark; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 07-image-manifest.md — 5 Gemini base_only prompts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 CPSC recalls helmets+toys (Sarah Morales, T1, QR table); article-02 Oktoberfest WMMI (Jamie Rivera, T2, fast-facts table); article-03 Rock Ledge Ranch Fall Harvest (Sarah Morales, T2, fast-facts table); article-04 D49 ERBOCES dissolution (Jamie Rivera, T1, key-info table); article-05 AAP screen time 2026 (Sarah Morales, T2, age-reference table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 43 claims; HIGH/MEDIUM/LOW prioritized; 1 char-limit violation fixed (Story 1 tweet trimmed from 292 to ~271 chars) |
+| Compile Content Data | COMPLETE (partial) | 07-content-data.json — 5 stories, 5 X posts, 0 FB posts parsed, 5 articles; FB 0 is known parser compat issue; posting-window warnings cosmetic (known) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 5 entries, all pending (generated by --images flag at publish), gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 20 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (5 posts) | cosp-postplanner-2026-09-29.xlsx + cosp-postplanner-tobi-2026-09-29.xlsx — 5 posts each; posts redistributed 13:20–19:20 MT |
+| WordPress Publish | BLOCKED | Stage 2 auto-mode classifier block (known recurring issue); articles queued as drafts |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Sep 29 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 5 X posts (+ 0 FB parsed — known issue)
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+- **PostPlanner exports:** 5 posts (standard + TOBI)
+- **Key stories:** CPSC recalls — 5Color Kids' Bike Helmets (fails federal standard) + ABC Trading light-up toys (button batteries, fatal if swallowed); Oktoberfest at WMMI Oct 3 (free, Dachshund Dash); Rock Ledge Ranch Fall Harvest Oct 3 10AM-4PM (wagon rides, pumpkins, Garden of the Gods backdrop); D49 ERBOCES dissolution $53M absorbed (charter/specialized programs, d49.org); AAP drops 2-hour screen time rule for school-age (quality focus, healthychildren.org)
+- **Issues:** 1 X post trimmed for char limit (Story 1: 292→271 chars); WordPress blocked (classifier); dashboard deploy blocked (proxy); FB posts not parsed by compile script (known)
+
+
+---
+
+## Previous Run: 2026-09-28
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Mikario Trading 5-in-1 Baby Gym recall (CPSC, pink units, Item CBPBG-PIN, ~$50, TikTok Shop May–Oct 2025, suffocation risk, mikariorecall@gmail.com, 209-232-8655, cpsc.gov); D20 leadership changes (Amy Shandy resigned Aug 2026, family moved out of state; Susan Payne assumed board president; superintendent parted May 2026; sources: Gazette, KOAA, KRDO); Venetucci Farm Pumpkin Fest 2026 (90th anniversary, Oct 1–29 Fri–Sun, $5 admission, kids 6 under free, $10 pumpkins, venetuccifarm.org); AAP 2026-27 flu vaccine guidance (2-dose requirement for children 6mo–8yr in specific groups, by end of October, healthychildren.org); Colorado Springs FamilyFest Oct 10 (noon–5 PM, 4845 List Drive, free kids 12 under, ExpoPros, theexpopros.com) |
+| Story History Check | COMPLETE | All 5 stories NEW; Mikario differs from SHEIN/5Color/HALO recalls on prior days; D20 superintendent covered May 2026 but today's angle is board president + fall start context; Venetucci covered in prior Gather/fall events roundups but 90th anniversary pumpkin fest itself not covered; AAP flu vaccine new (AAP COVID guidance Sep 25 was different guideline); FamilyFest not covered before |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 Tier 1, 4 Tier 2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: cpsc.gov, gazette.com, koaa.com, krdo.com, fox21news.com, venetuccifarm.org, coloradosprings.macaronikid.com, healthychildren.org, contemporarypediatrics.com, theexpopros.com, springseventhub.com |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts across 5 stories (2 for T1, 1 each for T2); all ≤280 chars; 4 hashtags each; max 1 emoji per post; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Mikario recall (Jamie Rivera, T1, QR table); article-02 D20 leadership (Sarah Morales, T2); article-03 Venetucci Pumpkin Fest (Jamie Rivera, T2, QR table); article-04 AAP flu vaccine (Sarah Morales, T2, QR table); article-05 FamilyFest (Jamie Rivera, T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 55 claims; MISSING STORY warnings cosmetic (parser header mismatch, known); image manifest OK |
+| Compile Content Data | COMPLETE (partial) | 07-content-data.json — 5 stories, 0 X posts (known parser compat), 0 FB posts (known parser compat), 5 articles |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries across 5 stories, all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 10 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — ran both standard and --tobi |
+| WordPress Publish | BLOCKED | WP credentials blocked by auto mode classifier (known recurring issue) |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Sep 28 section) |
+
+- **Stories:** 5 stories (1 Tier 1, 4 Tier 2)
+- **Posts:** 6 X posts + 5 FB long-form + 5 FB captions = 16 total
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** Mikario 5-in-1 Baby Gym recall (CPSC, pink TikTok Shop units, suffocation risk, mikariorecall@gmail.com); D20 board president Amy Shandy resigned, Susan Payne assumed role; Venetucci Farm 90th anniversary Pumpkin Fest Oct 1–29; AAP 2026-27 flu guidance (2 doses for kids 6mo–8yr in specific groups, by end of October); FamilyFest Oct 10 free kids 12 under (4845 List Drive, ExpoPros)
+- **Issues:** PostPlanner 0 posts (known); WordPress blocked (known); dashboard push 403 proxy (known)
+
+---
+
+## Previous Run: 2026-09-26
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | SHEIN Pull & Chew Montessori teething toy recall (CPSC ~644 units, silicone strings choking hazard, sold SHEIN.com Dec 2025–Apr 2026 ~$10, productrecall@shein.com, cpsc.gov); VFC COVID vaccine 2026-27 (added to VFC contract, providers can request, no shipment timeline, CIDRAP delay story, CDC.gov); D49 Fantastic 49 Sep 24 (Kim Marshall Skyview Middle 7th grade math, Sand Creek HS Rally Day Planning Team 6 members, d49.org); Rock Ledge Ranch Harvest Festival Oct 3 (10am-4pm, 3105 Gateway Rd, $4-$8 tickets kids 2 under free, rockledgeranch.com); COS 2026 Park System Master Plan (comment period closed Sep 22, Mary Starsmore Discovery Plaza opened Jun 2026 at North Cheyenne Cañon Park, coloradosprings.gov) |
+| Story History Check | COMPLETE | All 5 stories NEW; SHEIN Spiral Toys (Sep 19) different product; AAP COVID (Sep 25) different angle (VFC access vs recommendations); D49 Purple Star (Sep 25) different program from Fantastic 49; Gather/Oktoberfest (Sep 24/25) different from Rock Ledge Ranch Harvest Festival |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 Tier 1, 4 Tier 2); bylines: Sarah Morales [S1, S3], Jamie Rivera [S2, S4, S5] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: cpsc.gov, cidrap.umn.edu, cdc.gov, d49.org, rockledgeranch.com, coloradosprings.gov, kktv.com, krdo.com |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts across 5 stories (2 for T1, 1 each for T2); code-block format; all ≤280 chars verified; 4 hashtags each; 0-1 emoji each |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 SHEIN recall (Sarah Morales, T1, QR table); article-02 VFC COVID delays (Jamie Rivera, T2, QR table); article-03 D49 Fantastic 49 (Sarah Morales, T2); article-04 Rock Ledge Ranch Harvest Festival (Jamie Rivera, T2, QR table); article-05 COS Park Master Plan (Jamie Rivera, T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 62 claims; consistency check PASSED (all STORY N headers fixed to uppercase); no char-limit violations |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 0 FB posts (known parser compat), 5 articles; no ERRORS; 5 posting window warnings (expected) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries across 5 stories, all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 21 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — ran both standard and --tobi |
+| WordPress Publish | BLOCKED | WP credentials not set in environment (known recurring issue) |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Sep 26 section) |
+
+- **Stories:** 5 stories (1 Tier 1, 4 Tier 2)
+- **Posts:** 6 X posts + 5 FB long-form + 5 FB captions = 16 total
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3], Jamie Rivera [S2, S4, S5])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** SHEIN Pull & Chew Montessori teething toy recall (CPSC ~644 units, silicone strings, productrecall@shein.com); VFC COVID vaccines 2026-27 available but no CDC ship date (CIDRAP); D49 Fantastic 49 Sep 24 (Kim Marshall Skyview Middle + Sand Creek HS Rally Day Team); Rock Ledge Ranch Harvest Festival Oct 3 ($4-$8, kids 2 under free, 3105 Gateway Rd); COS 2026 Park System Master Plan comments closed Sep 22 + Mary Starsmore Discovery Plaza opened Jun 2026
+- **Issues:** PostPlanner 0 posts (known); WordPress WP_FANRUMOR_APP_PASSWORD not set; dashboard push 403 proxy
+
+---
+
+## Previous Run: 2026-09-25
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | 5Color bicycle helmet recall (CPSC Sep 24, ~324 units, YD-001, Lot YD-260320, Amazon May 2026 ~$25-26, violates federal safety standards, FiveColorCS@163.com, 833-382-6461, cpsc.gov); AAP 2026-27 COVID vaccine guidance (all 6mo-18yr, 1 dose, peds.2026-079045, publications.aap.org); Colorado Cool Science Festival Oct 3-18 (FREE Carnival Day Sat Oct 3 10am-4pm, coolscience.org); D49 Purple Star — all 7 Falcon Zone schools (CDE designation, d49.org); Gather Mountain Blooms Oktoberfest Oct 3-4 ($8 GA free under 3, gathermountainblooms.com) + Emma Crawford Coffin Races Oct 24 Manitou (32nd annual, confirmed Jun 9 city council vote, eventeny.com/manitousprings.org) |
+| Story History Check | COMPLETE | All 5 stories NEW; D49 Student Success Center (covered Sep 13/16) not led with; Gather Harvest Hootenanny Sep 26 (covered Sep 24) different from Oktoberfest Oct 3-4; AAP screen time (covered Sep 18) not duplicated |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 Tier 1, 4 Tier 2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: cpsc.gov, publications.aap.org, coolscience.org, d49.org, gathermountainblooms.com, visitcos.com, eventeny.com, manitousprings.org, fox21news.com, gazette.com, KRDO |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts across 5 stories (2 for T1, 1 each for T2); all ≤280 chars verified; 4 hashtags each; max 1 exclamation mark; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 1 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 5Color recall (Jamie Rivera, T1, QR table); article-02 AAP COVID vaccine (Sarah Morales, T2, QR table); article-03 Cool Science Festival (Jamie Rivera, T2, QR table); article-04 D49 Purple Star (Sarah Morales, T2, QR table); article-05 Fall Events Guide (Jamie Rivera, T2, QR table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 79 claims; MISSING STORY warnings cosmetic (parser header mismatch, known); no char-limit violations |
+| Compile Content Data | COMPLETE (partial) | 07-content-data.json — 5 stories, 5 X posts, 0 FB posts (known parser compat issue); char-count errors false positive from parser |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries across 5 stories, all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 20 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat issue — ran both standard and --tobi |
+| WordPress Publish | BLOCKED | fanrumor.com proxy 403 (known recurring issue) |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Sep 25 section) |
+
+- **Stories:** 5 stories (1 Tier 1, 4 Tier 2)
+- **Posts:** 6 X posts + 5 FB long-form + 1 FB caption = 12 total
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 0 posts (known parser compat issue)
+- **Key stories:** 5Color bicycle helmet recall (CPSC, Model YD-001, Lot YD-260320, ~324 units, FiveColorCS@163.com, 833-382-6461); AAP 2026-27 COVID vaccine (1 dose 6mo-18yr, publications.aap.org); Cool Science Festival Oct 3-18 FREE Carnival Day Sat Oct 3 (coolscience.org); D49 all 7 Falcon Zone schools earn Purple Star (CDE, d49.org); Gather Mountain Blooms Oktoberfest Oct 3-4 ($8 free under 3) + Coffin Races Oct 24 Manitou (confirmed)
+- **Issues:** PostPlanner 0 posts (known); WordPress proxy 403; dashboard push 403 proxy
+
+---
+
+## Previous Run: 2026-09-24
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | CS Oktoberfest (FREE, WMMI, Sep 25-27, Dachshund Dash Sat+Sun 2 PM, gazette.com Sep 24); Harvest Hootenanny Gather Mountain Blooms (Sat Sep 26 8 AM–noon, $5.72, final flower season, first pumpkins, gathermountainblooms.com); Bristol Brewing Oktoberfest family session (Sat Sep 26 11 AM–3 PM FREE, 1604 S. Cascade, bristolbrewing.com); HALO Dream Magic Sleepsuit recall (~45,000 units, zipper choking hazard, batch codes PO30592/PO30641/PO30685, sleepsuitrecall.com, cpsc.gov); Tuyedoqe travel bassinet CPSC warning (~250 units, company refused recall, no refund, cpsc.gov) |
+| Story History Check | COMPLETE | All 5 stories NEW |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md |
+| X/Twitter Posts | COMPLETE | 8 posts across 5 stories; all ≤280 chars |
+| Facebook Posts | COMPLETE | 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md |
+| Articles (5) | COMPLETE | 5 articles |
+| Fact-Check | COMPLETE | 06-fact-check-log.md |
+| Compile Content Data | COMPLETE (partial) | 07-content-data.json |
+| Image Manifest | COMPLETE | 07-image-manifest.md |
+| Review Dashboard | COMPLETE | review-dashboard.html |
+| Publish Dashboard | BLOCKED | 403 proxy |
+| PostPlanner Export | COMPLETE (0 posts) | Known parser compat |
+| WordPress Publish | BLOCKED | Known recurring |
+| Story History | COMPLETE | 5 entries prepended |
+
+---
+
+## Previous Run: 2026-09-23
+
+| Step | Status | Notes |
+|------|--------|-------|
+| All steps | COMPLETE/BLOCKED | See pipeline-status history |
+
