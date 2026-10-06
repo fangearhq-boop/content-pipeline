@@ -2,6 +2,50 @@
 
 ---
 
+## October 6, 2026
+
+### Story 1: ZMC Group Recalls 245,000 Light-Up Toys — Button Battery Ingestion Hazard
+- **Date:** 2026-10-06
+- **Tier:** T1
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** CPSC recall — ZMC Group, 245,124 battery-powered light-up toys (yo-yos, maracas, wands, LED headbands); button cell / lithium coin cell battery hazard; if swallowed, can cause internal burns/death within 2 hrs; stop use, destroy toy, email recallzmctoy@gmail.com for refund; sold at dollar stores, party supply, online
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 2: D49 Fall Break Starts October 12 — PTCs Oct 9, Board Meeting Oct 8
+- **Date:** 2026-10-06
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** D49 Board meeting Oct 8 (agenda: emergency transfer of 6 online schools formerly under state authorization); D49 PTCs Oct 9; D49 fall break Oct 12–23; D11 fall break Oct 19–23 for comparison; sign-up windows at d49.org
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 3: Free Family Events in COS This Week — Fossil Day, Costume Exchange, Jack-o-Lantern Trail
+- **Date:** 2026-10-06
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Halloween Costume Exchange Oct 9 free; National Fossil Day Oct 10 Garden of the Gods free; Cool Science Festival through Oct 18 multiple COS venues free; Jack-o-Lantern Trail Oct 24 Palmer Park $5/person; GoG Trunk-or-Treat Oct 25 free; Little Learners Monster Mash Oct 22; Miner's Pumpkin Patch Saturdays in October
+- **Byline:** Jamie Rivera
+- **Status:** NEW (different events from Oct 5 S4 Halloween guide)
+
+### Story 4: AAP Annual Conference Wraps Up — New AI Guidance for Pediatric Care
+- **Date:** 2026-10-06
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** AAP Annual Conference Oct 2-6, 2026 — new AI guidance for pediatric practice; Pediatrics Oct 2026: "Trends in Parent-Reported Developmental Disabilities 2019-2024"; conference research linked smartphone ownership to depression, obesity, insufficient sleep in youth; aap.org for full guidance
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 5: Gazette Endorses D11 Bond 4A
+- **Date:** 2026-10-06
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** Colorado Springs Gazette editorial board endorsed D11 Ballot Question 4A on Oct 6; $775M bond for repairs at every D11 school (HVAC, asbestos, classroom modernization, school rebuild, Coronado AC); ~$260/yr for avg homeowner; first D11 bond since 2004; ballots arrive late October; d11.org/bond
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (Oct 5 S1)
+
+---
+
 ## October 5, 2026
 
 ### Story 1: D11's $775M Bond Measure Is on the November Ballot — What COS Families Need to Know

@@ -1,0 +1,242 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-06",
+  "compiled_at": "2026-10-06T12:42:59.209221+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "ZMC Group Expands Recall of 245,000 Light-Up Toys — Button Battery Ingestion Hazard",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "CPSC: 245,124 ZMC Group light-up toys recalled.\n\nYo-yos, maracas, wands, LED headbands — button cell batteries. Ingestion can cause severe internal burns.\n\nStop use. Email recallzmctoy@gmail.com for refund.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "If your kids have light-up toys from dollar stores or party supply shops, this recall is worth checking today.\n\nThe CPSC announced an expanded recall of 245,124 battery-powered light-up toys sold by ZMC Group. The products include light-up yo-yos, maracas, wands, and LED headbands — the kind of toys that often show up in goodie bags, party favors, and holiday bins.\n\nThe hazard is the button cell battery (a small lithium coin cell) inside the toy. If a child swallows one, it can become lodged in the throat or stomach. The battery then creates an electrical current that causes severe internal burns, serious injury, or death — sometimes within two hours. It's a well-documented hazard, and the CPSC has issued multiple recalls for button-cell-containing products over the past few years.\n\nWhat to do if you have one of these toys:\n- Stop use immediately\n- Destroy the toy (so other children can't access it)\n- Email recallzmctoy@gmail.com for a full refund\n\nThe toys were sold at dollar stores, party supply retailers, and online. If you're not sure whether you have one, look for small light-up toys with a tiny battery compartment that requires a coin or screwdriver to open — that's a sign of a button cell battery.\n\nHave you seen light-up toys like these in your home?",
+        "image_caption": "CPSC recall: 245,124 ZMC Group light-up toys recalled for button cell battery hazard. Stop use now — destroy and email for refund.",
+        "posting_time": "8:30 AM MT"
+      },
+      "article": {
+        "filename": "article-01-zmcgroup-lightup-toy-recall-button-battery.html",
+        "headline": "ZMC Group Recalls 245,000 Light-Up Toys: Button Cell Battery Hazard Poses Risk to Children",
+        "word_count": 544
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ZMC Group Light-Up Toy Recall — Button Battery Ingestion Hazard\n\n#### Social Image (1200x675)\n**Prompt:** Close-up flat lay of small colorful light-up toys on a white surface — a plastic wand with LED tip, a small yo-yo with blinking light, a sparkly wand, soft studio lighting, bright primary colors (red, blue, yellow, purple), clean product photography style, photorealistic, no brand logos or text on toys, clear space in lower third for text overlay.\n**Mode:** base_only\n**Status:** not_started\n\n#### Article Hero (1200x630)\n**Prompt:** A parent's hand holding a small light-up wand toy over a wooden surface, soft focus background showing a child's bedroom with toys scattered, warm indoor lighting, photorealistic, warm neutral tones, no identifiable faces, clear space in lower third for text overlay.\n**Mode:** base_only\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "D49 Fall Break Starts October 12 — Plus PTCs This Week and a Board Meeting Tomorrow",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "D49 families: a packed week before fall break.\n\nBoard meeting tomorrow (Oct 8). PTCs Thursday (Oct 9). Fall break starts Monday, October 12 — runs through Oct 23.\n\nCheck d49.org for your school's PTC sign-up window.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "D49 families, you've got a full week before fall break — and a couple of things to get on your radar for the next 48 hours.\n\nFirst: the D49 Board of Education meets tomorrow, October 8. The agenda includes an emergency transfer of six online schools that had been operating under a state authorization. If your child is enrolled in one of D49's online programs, it's worth keeping an eye on how that plays out.\n\nSecond: parent-teacher conferences are this Thursday, October 9. If you haven't signed up yet, check your school's website or app — sign-up windows can close a few days before.\n\nThen fall break starts Monday, October 12 and runs all the way through Friday, October 23. That's nearly two full weeks — longer than D11's break (which runs October 19-23) and a great window to get outside before the cold sets in. We'll be running an events roundup this week to help D49 families plan.\n\nFor your school's exact conference schedule and fall break details, check d49.org.\n\nWhat do you have planned for fall break?",
+        "image_caption": "D49 fall break runs October 12–23. PTCs are this Thursday — check d49.org for your school's schedule.",
+        "posting_time": "10:30 AM MT"
+      },
+      "article": {
+        "filename": "article-02-d49-fall-break-ptcs-board-meeting.html",
+        "headline": "D49 Fall Break Starts October 12 — What Families Need to Know This Week",
+        "word_count": 593
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D49 Fall Break — PTCs and Board Meeting This Week\n\n#### Social Image (1200x675)\n**Prompt:** Exterior of a suburban elementary school building in morning light, brick facade, colorful autumn trees lining the entrance, empty drop-off lane, clear blue Colorado sky, photorealistic, warm amber and golden fall tones, clean and inviting, clear space in lower third for text overlay.\n**Mode:** base_only\n**Status:** not_started\n\n#### Article Hero (1200x630)\n**Prompt:** A family of four walking through a fall Colorado park with golden aspen trees, sun-dappled trail, mountains barely visible in the distance, casual outdoor clothing, photorealistic, vibrant amber and rust fall color palette, no identifiable faces, clear space in lower third for text overlay.\n**Mode:** base_only\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Free This Week in COS: Fossil Day, Costume Exchange, and More Coming Up in October",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "COS family events this week and in late October:\n\nOct 9 — Costume Exchange (free)\nOct 10 — Fossil Day at Garden of the Gods (free)\nOct 24 — Jack-o-Lantern Trail, Palmer Park ($5)\nOct 25 — GoG Trunk-or-Treat (free)\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "Here's what's on the COS family calendar for the next few weeks — and the good news is most of it is free.\n\n**This week:**\n\n🦕 **Halloween Costume Exchange (Thursday, Oct 9, free)** — Bring a gently used costume, take one home. A great way to rotate before trick-or-treat season ramps up.\n\n🦕 **National Fossil Day at Garden of the Gods (Friday, Oct 10, free)** — Family-friendly programming celebrating the geology and ancient life of Colorado. If your kiddos have ever asked why the red rocks look the way they do, this is the day for that conversation.\n\nThe **Cool Science Festival** is also running through October 18 at venues across Colorado Springs — free programming for curious families throughout the month.\n\n**Coming up in late October:**\n\n🎃 **Jack-o-Lantern Trail at Palmer Park (October 24, $5/person)** — A lit trail through Palmer Park with carved jack-o-lanterns. A rare paid event in the COS fall lineup — but a popular one.\n\n🎃 **Garden of the Gods Trunk-or-Treat (October 25, free)** — One of the better free Halloween events in COS, with one of the most dramatic backdrops.\n\n**Ongoing on Saturdays in October:**\n\nMiner's Pumpkin Patch is open Saturdays through the end of the month if you're looking for a classic fall outing.\n\nThese are different events from the ones we covered yesterday (Boo at the Bridge, Pumpkins in the Park, Boo at the Zoo, Halloween History Detectives) — so the full COS October calendar is filling out nicely.\n\nWhich event is your family most excited about?",
+        "image_caption": "Free family events this week in Colorado Springs: Fossil Day Oct 10 and Halloween Costume Exchange Oct 9. Plus Jack-o-Lantern Trail Oct 24 and GoG Trunk-or-Treat Oct 25 coming up.",
+        "posting_time": "12:30 PM MT"
+      },
+      "article": {
+        "filename": "article-03-cos-fall-events-fossil-day-halloween.html",
+        "headline": "Free Family Events in Colorado Springs This Week and Through October: Fossil Day, Costume Exchange, and More",
+        "word_count": 754
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Free Family Events in COS — Fossil Day and October Events\n\n#### Social Image (1200x675)\n**Prompt:** The dramatic red rock formations of Garden of the Gods at golden hour, warm orange afternoon light on the sandstone, clear blue Colorado sky, autumn wildflowers in the foreground, no people visible, wide landscape shot, photorealistic, vibrant warm tones, clear space in lower third for text overlay.\n**Mode:** base_only\n**Status:** not_started\n\n#### Article Hero (1200x630)\n**Prompt:** A child crouching on a rocky outdoor trail examining a small rock fossil, outdoor Colorado setting with red rocks and autumn grasses in background, soft afternoon light, jeans and casual jacket, photorealistic, warm earthy tones, face not visible (shot from behind/side), clear space in lower third for text overlay.\n**Mode:** base_only\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "AAP Issues New AI Guidance for Pediatric Care — What COS Parents Should Know",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "AAP wrapped its annual conference (Oct 2–6) with new AI guidance for pediatric care.\n\nAlso: developmental disability trends study 2019–2024, plus research linking smartphones to depression, obesity, and poor sleep.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "The American Academy of Pediatrics wrapped up its annual conference today (October 2-6), and there are a few takeaways worth knowing as a parent.\n\nThe big headline: the AAP released new guidance on artificial intelligence in pediatric care. As AI tools increasingly enter doctor's offices — from AI-assisted diagnosis to automated screening tools — the AAP is laying out how pediatricians should use them and what their limitations are. If you've ever wondered whether your child's doctor is using AI in any part of their care, this guidance is the starting point for that conversation.\n\nThe October 2026 issue of Pediatrics (the AAP's flagship journal) also published a study tracking trends in parent-reported developmental disabilities from 2019 to 2024. The data covers conditions like ADHD, autism spectrum disorder, and developmental delays — and how diagnosis patterns shifted across that five-year window, which included COVID-era disruptions to routine pediatric care.\n\nOn the research side, the conference featured studies linking smartphone ownership in young people to higher rates of depression, obesity, and insufficient sleep. None of these findings are entirely new, but having them consolidated in one conference is a signal that the AAP is treating screen-related health outcomes as a serious clinical issue, not just a lifestyle concern.\n\nIf you want to explore the AAP's resources on any of these topics, aap.org is the best starting point.\n\nWhat questions do you have about AI in your child's healthcare?",
+        "image_caption": "The AAP wrapped up its annual conference today with new guidance on AI in pediatric care and fresh research on developmental health and smartphones. Here's what parents should know.",
+        "posting_time": "3:30 PM MT"
+      },
+      "article": {
+        "filename": "article-04-aap-ai-guidance-pediatric-care.html",
+        "headline": "AAP Annual Conference Wraps Up With New AI Guidance and Developmental Health Research — What Parents Should Know",
+        "word_count": 696
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AAP AI Guidance and Pediatric Research\n\n#### Social Image (1200x675)\n**Prompt:** A pediatrician's office desk from above — stethoscope, clipboard with blank chart, laptop partially visible, soft clinical lighting, clean and professional, photorealistic, muted teal and white color palette, no identifiable faces or brand logos, clear space in lower third for text overlay.\n**Mode:** base_only\n**Status:** not_started\n\n#### Article Hero (1200x630)\n**Prompt:** A parent sitting in a pediatrician's waiting room, slightly blurred child beside them, holding a clipboard, warm clinical interior, soft overhead lighting, photorealistic, neutral warm tones, no identifiable faces, clear space in lower third for text overlay.\n**Mode:** base_only\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "The Gazette Endorses D11 Bond 4A — Follow-Up on Colorado Springs' Largest School Ballot Measure in Decades",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Gazette endorsed D11 Bond 4A today.\n\n$775M for repairs at every D11 school — HVAC, asbestos removal, classroom upgrades, AC at Coronado High.\n\n~$260/year for avg homeowner. Ballots in ~3 weeks.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "Colorado Springs families, the Gazette editorial board came out in support of D11 Bond 4A today.\n\nIf you're just catching up: D11 has a $775 million bond measure on the November ballot — Ballot Question 4A. The district's board voted 6-1 to put it there back in August. It would fund repairs at every D11 school: new HVAC systems, asbestos removal, modernized classrooms, a full rebuild of one school, and — finally — air conditioning at Coronado High School.\n\nIt would be D11's first voter-approved bond since 2004.\n\nThe Gazette's endorsement is significant. It's the largest newspaper in Colorado Springs, and an editorial endorsement from them carries weight with a lot of voters who are still weighing the measure.\n\nThe cost to the average homeowner: approximately $260 per year. That's about $22 per month.\n\nBallots go out in about three weeks. If you want to review the full plan before yours arrives, d11.org/bond has the detailed breakdown.\n\nWhat questions do you have about the D11 bond before voting?",
+        "image_caption": "The Colorado Springs Gazette endorsed D11 Bond 4A today. The $775M measure heads to the November ballot — here's what every D11 family should know before voting. 🏫",
+        "posting_time": "5:30 PM MT"
+      },
+      "article": {
+        "filename": "article-05-gazette-endorses-d11-bond-4a.html",
+        "headline": "The Gazette Endorses D11 Bond 4A: What Colorado Springs Families Should Know Before Ballots Arrive",
+        "word_count": 508
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Gazette Endorses D11 Bond 4A\n\n#### Social Image (1200x675)\n**Prompt:** Exterior of a classic Colorado school building with American and Colorado state flags on a flagpole, clear blue autumn sky, fall foliage on surrounding trees, wide clean shot, photorealistic, warm afternoon light, no people, clear space in lower third for text overlay.\n**Mode:** base_only\n**Status:** not_started\n\n#### Article Hero (1200x630)\n**Prompt:** Wide interior shot of a school hallway with lockers lining both sides, warm afternoon sunlight streaming through a window at the far end, empty hallway, polished linoleum floors, photorealistic, warm amber tones, clear space in lower third for text overlay.\n**Mode:** base_only\n**Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

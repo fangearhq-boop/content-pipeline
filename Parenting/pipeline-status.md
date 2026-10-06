@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-10-05
+## Current Run: 2026-10-06
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | ZMC Group light-up toy recall (245,124 units, button cell battery, recallzmctoy@gmail.com); D49 board meeting Oct 8 (6 online schools), PTCs Oct 9, fall break Oct 12-23; COS events — Fossil Day Oct 10 GoG free, Costume Exchange Oct 9 free, Jack-o-Lantern Trail Oct 24 $5/person, GoG Trunk-or-Treat Oct 25 free; AAP conference Oct 2-6 (AI guidance, developmental disability study, smartphone research); Gazette endorses D11 Bond 4A Oct 6 |
+| Story History Check | COMPLETE | S1 ZMC Group recall NEW (different product/hazard from Oct 5 water bead recalls); S2 D49 calendar NEW; S3 events NEW (different events from Oct 5 S4 Halloween guide); S4 AAP guidance NEW; S5 D11 Bond 4A Gazette endorsement FOLLOW-UP (Oct 5 S1) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 Tier 1, 4 Tier 2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: cpsc.gov (ZMC Group), d49.org, gardenofgods.com, coolsciencefestival.org, nps.gov, aap.org, pediatrics journal, gazette.com |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 5 tweets across 5 stories; all ≤280 chars (5 trimmed after verify-facts pass); 4 hashtags each; max 1 exclamation mark; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 ZMC Group recall (Jamie Rivera, T1, QR table); article-02 D49 fall break + PTCs (Sarah Morales, T2, district comparison table); article-03 COS events guide (Jamie Rivera, T2, events table); article-04 AAP AI guidance (Sarah Morales, T2); article-05 Gazette endorses D11 4A (Jamie Rivera, T2, QR table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 31 manual claims; verify-facts PASSED (0 issues after tweet fixes) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 5 X posts, 5 FB posts, 5 articles; posting-window warnings cosmetic (known) |
+| Image Manifest | NOT GENERATED | 07-image-manifest.md not found — images not yet generated; Gemini generation runs at publish time |
+| Review Dashboard | COMPLETE | review-dashboard.html — 25 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (5 posts) | cosp-postplanner-2026-10-06.xlsx + cosp-postplanner-tobi-2026-10-06.xlsx — 5 posts each; posts redistributed 13:13–19:13 MT |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles queued as drafts |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Oct 6 section) |
+
+- **Stories:** 5 stories (1 Tier 1, 4 Tier 2)
+- **Posts:** 5 X posts (+ 5 FB parsed)
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 5 posts (standard + TOBI)
+- **Key stories:** ZMC Group light-up toy recall — 245,124 units, button cell hazard, destroy + email recallzmctoy@gmail.com; D49 board meeting Oct 8, PTCs Oct 9, fall break Oct 12-23; COS events — Fossil Day Oct 10 GoG free, Costume Exchange Oct 9 free, Jack-o-Lantern Trail Oct 24 $5/person, Trunk-or-Treat Oct 25 free; AAP AI guidance + developmental disability trends 2019-2024 + smartphone/health research; Gazette endorses D11 Bond 4A
+- **Issues:** 5 tweets trimmed after verify-facts; WordPress proxy 403; image manifest pending (Gemini generation at publish time); FB posts not parsed by compile script (known)
+
+---
+
+## Previous Run: 2026-10-05
 
 | Step | Status | Notes |
 |------|--------|-------|
