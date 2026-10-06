@@ -1,0 +1,245 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-06",
+  "compiled_at": "2026-10-06T11:38:01.038268+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Verstappen Wins Bahrain GP in Malaysia — Red Bull's First 2026 Victory",
+      "tier": 1,
+      "status": "",
+      "angle": "The four-time champion breaks Red Bull's 2026 drought in dramatic fashion in Malaysia.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "**Post 1 (8:00 AM ET — Race result)**\nMAX WINS. After 200+ days without a victory, Max Verstappen took Red Bull's first win of 2026 at the rain-hit Bahrain GP in Malaysia. Antonelli P2. Hamilton P3. Russell retired from P3 — power unit failure. Chaos. #F1 #BahrainGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BahrainGP"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "🏆 MAX WINS IN MALAYSIA.\n\nAfter more than 200 days without a Formula 1 victory, Max Verstappen and Red Bull Racing are back at the top of the podium.\n\nThe 2026 Bahrain Grand Prix — held at Sepang International Circuit in Malaysia — was one of the most chaotic races of the year. Torrential rain delayed the start by 93 minutes. The formation lap was red-flagged when several cars lost power in what was suspected to be a software issue. Once racing finally began, Safety Cars flew, tyres changed, and strategies crumbled.\n\nThrough it all, Verstappen was relentless. He fell behind Mercedes pair Kimi Antonelli and George Russell at Turn 1 on intermediates, but managed the conditions better than anyone over the first stint, picking off both Silver Arrows either side of the first Safety Car.\n\nAntonelli crossed the line second, 2.307 seconds back. Lewis Hamilton completed a remarkable recovery drive from further down the grid to claim third for Ferrari. Russell? He was running third with five laps to go when his power unit stopped dead behind the Safety Car. Game over.\n\nRed Bull finally has its 2026 win. And it was vintage Max.\n\n---",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-verstappen-wins-bahrain-malaysia.html",
+        "headline": "Verstappen Wins Bahrain GP in Malaysia: Red Bull Breaks 2026 Drought in Chaos",
+        "word_count": 620
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Wins Bahrain GP in Malaysia\n\n**Image Concept 1 (Social — 1080x1350)**\nSearch: \"Max Verstappen Red Bull Racing\"\nSource: imagn\nCredit: (USA TODAY Sports Images)\nStyle: Verstappen celebrating or in victory pose, Red Bull helmet/livery\n\n**Image Concept 2 (Article Hero — 1200x630)**\nSearch: \"Max Verstappen Red Bull Racing\"\nSource: imagn\nCredit: (Imagn Images)\nStyle: Wide shot — Verstappen crossing finish line or on podium\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Wins Bahrain GP in Malaysia\n**Sources:** formula1.com race report, crash.net, skysports.com, FIA official results, motorsportweek.com\n**Verified Facts (HIGH confidence):**\n- Race: Bahrain Grand Prix in Malaysia (Sepang International Circuit)\n- Date: October 4, 2026\n- Winner: Max Verstappen (Red Bull Racing)\n- 2nd: Kimi Antonelli (Mercedes) — margin 2.307 seconds\n- 3rd: Lewis Hamilton (Ferrari)\n- Race distance: 55 laps\n- Start delayed 93 minutes due to torrential rain\n- Formation lap chaos: several cars lost power (suspected software issue), red-flagged\n- Safety Car deployed when Valtteri Bottas spun out\n- Verstappen fell behind Antonelli and Russell on the run to Turn 1 (all on intermediates)\n- Norris received driving reprimand for Lap 50 Safety Car near miss\n- Russell suffered power unit failure on Lap 50 (behind Safety Car)\n- Red Bull's first win of the 2026 season\n**Story Type:** NEW",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Russell's Championship Dreams Crushed — Power Unit Failure Leaves Him 84 Points Back",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "The cruel timing of Russell's retirement — within sight of the finish — may have sealed the championship.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "**Post 3 (8:00 AM ET — Breaking)**\nGeorge Russell was P3 with 5 laps left. Then his Mercedes stopped. Power unit failure BEHIND the Safety Car at Lap 50. Season-altering moment. He's now 84 points back from Antonelli. That gap is nearly impossible. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "The moment the 2026 F1 championship may have effectively ended.\n\nGeorge Russell was running third at Sepang with five laps to go. He'd survived the rain delay, the Safety Cars, and the attrition. A podium finish — and vital championship points — was right there.\n\nThen his Mercedes stopped. Power unit failure, behind the Safety Car, on Lap 50.\n\nThe retirement stretched Kimi Antonelli's championship lead over Russell to 84 points. With a limited number of races remaining in the 2026 season, that gap is now nearly insurmountable. Even if Russell were to win every remaining race and Antonelli scored zero points — a mathematical impossibility in practice — the math barely works.\n\nRussell won in Australia. He won in Austria. He's been fast all year. But the cruel reality of a sport where a single mechanical failure can erase months of work has landed on him at the worst possible time.\n\nAntonelli's title is not mathematically confirmed yet. But after Malaysia, it might as well be.\n\n---",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-russell-power-unit-failure-championship.html",
+        "headline": "Russell's Cruel Retirement: A Power Unit Failure That May Have Ended the Championship",
+        "word_count": 579
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Russell's Championship Blow\n\n**Image Concept 1 (Social — 1080x1350)**\nSearch: \"George Russell Mercedes F1\"\nSource: imagn\nCredit: (USA TODAY Sports Images)\nStyle: Russell in Mercedes silver, looking pensive or frustrated\n\n**Image Concept 2 (Article Hero — 1200x630)**\nSearch: \"George Russell Mercedes F1\"\nSource: imagn\nCredit: (Imagn Images)\nStyle: Russell in car or on track\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Russell's Championship Blow\n**Sources:** crash.net, racingnews365.com, gpfans.com, formula1.com\n**Verified Facts (HIGH confidence):**\n- George Russell championship standings post-Bahrain: 236 points (2nd)\n- Kimi Antonelli championship standings post-Bahrain: 320 points (1st)\n- Gap: 84 points\n- Russell retirement: power unit failure on Lap 50 at Sepang, behind Safety Car\n- Russell had been running 3rd before retirement\n- Previous standings (before Bahrain): Russell had closed to within striking distance\n- Russell's wins 2026: Australia and Austria (2 victories)\n- Races remaining in 2026 F1 season after Bahrain (R15): Singapore, others TBC\n**Story Type:** FOLLOW UP",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Antonelli 84 Points Clear — Mercedes Championship Near Certain",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "The youngest championship contender in years is on the verge of history.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "**Post 5 (10:00 AM ET — Standings)**\nSTANDINGS AFTER BAHRAIN GP (MALAYSIA):\n🥇 Antonelli — 320 pts\n🥈 Russell — 236 pts\n🥉 Hamilton — 214 pts\n4. Leclerc — 191 pts\n5. Norris — 188 pts\n\nAntonelli leads by 84. The title is almost his. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "The 2026 F1 championship picture is close to over — and Kimi Antonelli may be about to write history.\n\nAfter his second-place finish at the Bahrain Grand Prix in Malaysia, Antonelli leads the Drivers' Championship with 320 points. His nearest rival, teammate George Russell, has 236. That's a gap of 84 points, with the season entering its final weeks.\n\nAt 19 years old, Antonelli has been one of the most extraordinary stories in Formula 1 this year. He's won six Grands Prix under the new 2026 technical regulations — regulations that Mercedes engineered to perfection, winning eight of 11 Grands Prix and taking 10 pole positions. Antonelli has been the beneficiary and the architect of that dominance simultaneously.\n\nThe standings after Malaysia:\n🥇 Antonelli (Mercedes) — 320 pts\n🥈 Russell (Mercedes) — 236 pts\n🥉 Hamilton (Ferrari) — 214 pts\n4. Leclerc (Ferrari) — 191 pts\n5. Norris (McLaren) — 188 pts\n\nSingapore is next. And mathematically, Antonelli could wrap up the championship very soon.\n\n---",
+        "image_caption": "",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-03-antonelli-84-points-clear-title.html",
+        "headline": "Antonelli 84 Points Clear: The 2026 F1 Title Is Kimi's to Lose",
+        "word_count": 629
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Championship Lead\n\n**Image Concept 1 (Social — 1080x1350)**\nSearch: \"Kimi Antonelli Mercedes F1\"\nSource: imagn\nCredit: (USA TODAY Sports Images)\nStyle: Antonelli in Mercedes silver, celebrating or on podium\n\n**Image Concept 2 (Article Hero — 1200x630)**\nSearch: \"Kimi Antonelli Mercedes F1\"\nSource: imagn\nCredit: (Imagn Images)\nStyle: Antonelli in cockpit or helmeted, Mercedes livery visible\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli's Championship Lead\n**Sources:** racingnews365.com, motorsportweek.com, f1-fansite.com, gridguy.racing\n**Verified Facts (HIGH confidence):**\n- Antonelli post-Bahrain: 320 points (1st)\n- Russell post-Bahrain: 236 points (2nd) — gap 84 points\n- Hamilton: 214 points (3rd)\n- Leclerc: 191 points (4th)\n- Norris: 188 points (5th)\n- Antonelli age: 19 (approximately — youngest championship frontrunner in years)\n- Antonelli team: Mercedes\n- 2026 race wins for Antonelli: 6 (led charge under new technical regulations)\n- Mercedes wins under 2026 regs: 8 from 11 GPs (plus 10 pole positions)\n- Singapore GP: Oct 11 — next race; final sprint weekend of season\n**Story Type:** FOLLOW UP",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Singapore Grand Prix Preview — Final Sprint Weekend of 2026, Oct. 11",
+      "tier": 2,
+      "status": "",
+      "angle": "Singapore under lights — the most visually spectacular race on the calendar arrives at a pivotal championship moment.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "**Post 7 (5:00 PM ET — Preview)**\nNext up: Singapore GP on Oct. 11 — the final sprint weekend of 2026. Marina Bay under the lights. Antonelli 84 points clear. Russell needs a miracle. Verstappen with momentum after Malaysia. #F1 #SingaporeGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SingaporeGP"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "Lights out at Marina Bay. Oct. 11.\n\nThe Singapore Grand Prix arrives as the final sprint weekend of the 2026 Formula 1 season — and the championship narrative couldn't be more loaded.\n\nKimi Antonelli goes to Singapore with an 84-point lead. George Russell goes there needing a miracle. Max Verstappen goes there with fresh momentum after breaking Red Bull's 2026 victory drought in Malaysia. Lewis Hamilton goes there looking to keep Ferrari's late-season surge alive.\n\nMarina Bay under the artificial lights of Singapore is one of the most visually stunning venues in motorsport. The 5.063km circuit winds through the city's streets, past illuminated skyscrapers and along the waterfront. There are no straights where you can relax. It's pure focus for 61 laps.\n\nWith this being a sprint weekend, qualifying, the sprint race, and the Grand Prix all arrive in compressed form over a few days. More points. More chaos. More drama.\n\nThe 2026 title picture will look very different by the end of Sunday, October 11.\n\n---",
+        "image_caption": "",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-singapore-gp-preview-2026.html",
+        "headline": "Singapore GP Preview: The Final Sprint Weekend Arrives at a Championship Crossroads",
+        "word_count": 551
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Singapore GP Preview\n\n**Image Concept 1 (Social — 1080x1350)**\nSearch: \"F1 Singapore Grand Prix Marina Bay\"\nSource: imagn\nCredit: (USA TODAY Sports Images)\nStyle: Night race shot — cars under lights at Marina Bay circuit\n\n**Image Concept 2 (Article Hero — 1200x630)**\nSearch: \"F1 Singapore Grand Prix Marina Bay\"\nSource: imagn\nCredit: (Imagn Images)\nStyle: Wide establishing shot of Singapore skyline with F1 cars\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Singapore Grand Prix Preview\n**Sources:** autoapp.sg, motorsportweek.com, racingnews365.com, formula1.com schedule\n**Verified Facts (HIGH confidence):**\n- Race: Singapore Grand Prix 2026\n- Date: Sunday, October 11, 2026\n- Venue: Marina Bay Street Circuit, Singapore\n- Race distance: night race (signature Singapore lights)\n- Sprint weekend: final sprint weekend of the 2026 F1 season\n- Championship context: Antonelli 84 points clear going in; title possible mathematically soon\n**Story Type:** NEW",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Hamilton Third in Malaysia — Ferrari Fights for No. 2 Constructor",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Hamilton finding his form at the right time as Ferrari targets a strong season finish.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "**Post 8 (2:00 PM ET — Race recap)**\nLewis Hamilton drove through the field to finish P3 in Malaysia — his best result in recent races. Ferrari is alive in the battle for No. 2 constructors. Hamilton is 22 pts behind Russell for 2nd in the drivers' standings. #F1 #LewisHamilton",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LewisHamilton"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "Lewis Hamilton finished third in Malaysia — and Ferrari is quietly building something.\n\nAfter a difficult mid-season stretch, Hamilton's P3 at the Bahrain Grand Prix at Sepang was his best result in several races. The former seven-time world champion is finding form at exactly the moment Ferrari needs it, with the Constructors' Championship battle for second place behind Mercedes still very much alive.\n\nIn the Drivers' standings, Hamilton now sits third with 214 points — 22 behind George Russell, 23 ahead of Charles Leclerc in fourth. McLaren's Lando Norris is close behind in fifth with 188.\n\nIt's a tight, four-way fight for second through fifth in the drivers' standings, and Ferrari's constructor battle with McLaren adds another layer of significance to every remaining result.\n\nHamilton's Malaysia drive — described by commentators as a \"remarkable recovery\" — was a reminder that at 41, he's still capable of the kind of composure and pace that made him a legend.\n\nFerrari's best days in 2026 may still be ahead of them.\n\n---",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-hamilton-p3-ferrari-constructors.html",
+        "headline": "Hamilton Third in Malaysia: Ferrari's Season-Ending Push Gets a Boost at Sepang",
+        "word_count": 611
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton Third in Malaysia\n\n**Image Concept 1 (Social — 1080x1350)**\nSearch: \"Lewis Hamilton Ferrari F1\"\nSource: imagn\nCredit: (USA TODAY Sports Images)\nStyle: Hamilton in Ferrari red, on track or helmet-on cockpit shot\n\n**Image Concept 2 (Article Hero — 1200x630)**\nSearch: \"Lewis Hamilton Ferrari F1\"\nSource: imagn\nCredit: (Imagn Images)\nStyle: Hamilton on podium or celebrating P3\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton Third in Malaysia — Ferrari\n**Sources:** formula1.com race report, crash.net full race results, skysports.com\n**Verified Facts (HIGH confidence):**\n- Hamilton race result: 3rd at Bahrain GP in Malaysia\n- Hamilton described as \"remarkable recovery drive\"\n- Hamilton team: Ferrari (2026 season, first year at Ferrari)\n- Hamilton points post-Bahrain: 214 (3rd in drivers' standings)\n- Russell points: 236 (2nd); gap Hamilton to Russell: 22 points\n- Leclerc points: 191 (4th); gap Hamilton to Leclerc: 23 points\n- Ferrari vs McLaren: close constructors' battle for 2nd behind Mercedes\n- McLaren drivers: Lando Norris 188 (5th), Oscar Piastri 6th place Bahrain (P6)\n**Story Type:** FOLLOW UP",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

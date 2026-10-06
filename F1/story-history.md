@@ -7159,3 +7159,52 @@
 - **Byline:** Ryan Calloway
 - **Status:** NEW
 - **Follow-up ideas:** FP1 setup data confirms wing angles, energy management observations from teams
+
+---
+
+## 2026-10-06
+
+### STORY 1: Verstappen Wins Bahrain GP in Malaysia — Red Bull's First 2026 Victory
+- **Date:** 2026-10-06
+- **Tier:** 1
+- **Category:** Max Verstappen / Red Bull Racing / Bahrain Grand Prix Malaysia
+- **Key facts:** Verstappen wins Bahrain GP at Sepang; 2.307s ahead of Antonelli (P2); Hamilton P3; Russell DNF (power unit failure Lap 50); race delayed 93 min (rain); Red Bull's first 2026 win; Norris driving reprimand
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+- **Follow-up ideas:** Singapore GP result, Red Bull's momentum in final races
+
+### STORY 2: Russell's Championship Blow — Power Unit Failure at Lap 50
+- **Date:** 2026-10-06
+- **Tier:** 1
+- **Category:** George Russell / Mercedes / Championship / Retirement
+- **Key facts:** Russell DNF Lap 50, running P3; power unit failure behind Safety Car; Russell now 84 points back (236 vs Antonelli 320); Russell 2026 wins: Australia, Austria
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Singapore result, championship math update
+
+### STORY 3: Antonelli 84 Points Clear — Mercedes Championship Near Certain
+- **Date:** 2026-10-06
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / Drivers' Championship
+- **Key facts:** Antonelli 320 pts (1st); Russell 236 (2nd); Hamilton 214 (3rd); Leclerc 191 (4th); Norris 188 (5th); Antonelli 6 wins in 2026; Mercedes 8 wins from 11 GPs; 10 pole positions
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Championship confirmation timing, Singapore GP result
+
+### STORY 4: Singapore Grand Prix Preview — Final Sprint Weekend, Oct. 11
+- **Date:** 2026-10-06
+- **Tier:** 2
+- **Category:** Singapore Grand Prix / F1 2026 Calendar
+- **Key facts:** Oct 11 at Marina Bay; final sprint weekend of 2026 season; Antonelli 84 pts clear; Verstappen has momentum; 5.063km night circuit
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+- **Follow-up ideas:** Singapore qualifying result, race result
+
+### STORY 5: Hamilton Third in Malaysia — Ferrari Fights for No. 2 Constructor
+- **Date:** 2026-10-06
+- **Tier:** 2
+- **Category:** Lewis Hamilton / Ferrari / Constructors' Championship
+- **Key facts:** Hamilton P3 Bahrain GP Malaysia; Hamilton 214 pts (3rd in WDC); 22 pts behind Russell; 23 ahead of Leclerc; Ferrari vs McLaren for P2 constructors; Norris P5 in WDC (188 pts)
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Singapore result, Ferrari vs McLaren constructors final race tallies

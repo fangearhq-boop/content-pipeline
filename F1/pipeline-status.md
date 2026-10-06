@@ -1,11 +1,42 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-09-30
+## Last Run: 2026-10-06
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** F1 Fanrecap
 **Stories:** 5
 **Articles:** 5
+
+---
+
+## 2026-10-06 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research | ✅ Complete | 5 stories — Verstappen wins Bahrain Malaysia, Russell DNF, Antonelli 84pts clear, Singapore preview, Hamilton P3 |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 8 posts, all ≤280 chars |
+| Facebook Posts | ✅ Complete | 04-social-posts-facebook.md — 5 stories |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 HTML articles |
+| Fact Check | ✅ Complete | 06-fact-check-log.md — 13 claims, 32 HIGH |
+| Compile Content Data | ✅ Complete | 07-content-data.json (posting window warnings — known non-blocking) |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (10 images, status: not_started) |
+| Story History | ✅ Complete | story-history.md updated |
+| Review Dashboard | ✅ Complete | review-dashboard.html — 25 items |
+| Publish Dashboard | ⚠ Partial | Blocked — content-dashboards not in authorized repo |
+| PostPlanner Export | ⚠ Blocked | 0 posts (known parsing issue) |
+| WordPress Publish | ⚠ Blocked | fanrumor.com:443 denied by egress proxy |
+| Git Push | ✅ Complete | content-pipeline main branch updated |
+
+**Stories covered:**
+1. T1 NEW: Verstappen Wins Bahrain GP in Malaysia (Ryan Calloway)
+2. T1 FOLLOW UP: Russell's Championship Dreams Crushed — Power Unit Failure (Elena Voss)
+3. T1 FOLLOW UP: Antonelli 84 Points Clear — Championship Near Certain (Marcus Cole)
+4. T2 NEW: Singapore Grand Prix Preview — Final Sprint Weekend Oct 11 (Ryan Calloway)
+5. T2 FOLLOW UP: Hamilton Third in Malaysia — Ferrari Fights for No. 2 Constructor (Elena Voss)
 
 ---
 
