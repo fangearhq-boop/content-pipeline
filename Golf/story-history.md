@@ -2,6 +2,16 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-10-06
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-06 | T1 | Austin Smotherman Wins Bank of Utah Championship — First Title in 100th Start | X(2), FB, Article | NEW |
+| 2026-10-06 | T1 | LIV Golf October 13 Deadline — 7 Days for Players to Secure 52.5% Ownership | X(2), FB, Article | FOLLOW UP |
+| 2026-10-06 | T2 | Baycurrent Classic Preview — PGA Tour's Only Asian Stop, Oct. 8-11 | X(1), FB, Article | NEW |
+| 2026-10-06 | T2 | Bank of Utah Championship — Doug Ghim's Runner-Up Validates His Resurgence | X(1), FB, Article | NEW |
+| 2026-10-06 | T2 | FedExCup Fall Update — Smotherman Enters New World After Black Desert | X(1), FB, Article | FOLLOW UP |
+
 ## 2026-09-29
 
 | Date | Tier | Title | Platforms | Status |

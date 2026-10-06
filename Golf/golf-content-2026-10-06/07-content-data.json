@@ -1,0 +1,306 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-06",
+  "compiled_at": "2026-10-06T11:52:25.908831+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Austin Smotherman Wins Bank of Utah Championship — First Title in 100th Start",
+      "tier": 1,
+      "status": "",
+      "angle": "The 100th-start milestone win is one of the most compelling storylines in the sport — perseverance rewarded.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "**Post 1 (8:00 AM ET — Announcement)**\nAustin Smotherman just won his first PGA Tour title — in his 100th career start. 26-under at Black Desert Resort. Two shots over Doug Ghim. $1,080,000. Entry into the Masters. Sometimes it just takes time. #PGATour #BankOfUtah",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#BankOfUtah"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-smotherman-bank-utah-first-win.html",
+        "headline": "Austin Smotherman Wins Bank of Utah Championship in His 100th Career Start",
+        "word_count": 565
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Primary",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Secondary",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Austin Smotherman Wins Bank of Utah Championship\n**Sources:** pgatour.com, Yahoo Sports, nbcsports.com, golfchannel.com, stgeorgeutah.com\n**Verified Facts (HIGH confidence):**\n- Tournament: Bank of Utah Championship 2026\n- Course: Black Desert Resort, Ivins, Utah\n- Date: Final round October 4, 2026\n- Winner: Austin Smotherman\n- Total score: 26-under 258\n- Final round: 68 (-3)\n- Margin: 2 shots\n- Runner-up: Doug Ghim (24-under, final round 69)\n- Purse: $6 million\n- Winner's share: $1,080,000\n- Notable moments: Double bogey on par-4 13th (approach plugged in bunker); 70-foot eagle putt lagged to 2 feet on 18 for easy tap-in birdie\n- Career start: 100th career start\n- Smotherman age: 32\n- After 3 rounds: 23-under 190 (tournament record through 54 holes), leading by 2\n- Rewards: 2-year Tour exemption (through 2028); entry into Masters, PGA Championship, The Players Championship; qualifies for \"Championship Series\" starting 2028\n**Story Type:** NEW",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "LIV Golf October 13 Deadline — 7 Days for Players to Secure 52.5% Ownership",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "The countdown to golf's most consequential deadline since the original LIV announcement.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "**Post 3 (10:30 AM ET — Countdown)**\nOne week from today, LIV Golf's October 13 restructuring deadline arrives. Players who sign must commit to LIV 2.0 and become 52.5% owners in the new entity. About half the player field needs to sign. The clock is ticking. #LIVGolf #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#Golf"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-liv-golf-october-13-deadline.html",
+        "headline": "LIV Golf's October 13 Deadline: One Week for Players to Shape the Future",
+        "word_count": 582
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Primary",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Secondary",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf October 13 Deadline\n**Sources:** golfmonthly.com, westhawaiitoday.com, newstribune.com, todays-golfer.com\n**Verified Facts (HIGH confidence):**\n- LIV Golf filed for bankruptcy protection: September 8, 2026\n- October 13 deadline: 35 days after bankruptcy filing\n- Investor: BC Partners; lead person: Ted Goldthorpe\n- Term: New entity would be 52.5% player-owned\n- Deadline requirement: \"Requisite number of players\" — roughly half the players with claims against LIV must sign up for LIV 2.0\n- LIV CEO stated August 2026: \"Funding secured to play beyond 2026\"\n- Players cannot be guaranteed by LIV yet: Rahm, DeChambeau (per ten-golf.com)\n- Background: PGA Tour-LIV merger talks began ~Sept 2025 but fell apart by Dec 31 deadline\n**Story Type:** FOLLOW UP (previous: Sept 29 pipeline covered Oct 13 deadline as 14 days away)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Baycurrent Classic Preview — PGA Tour's Only Asian Stop, Oct. 8-11",
+      "tier": 2,
+      "status": "",
+      "angle": "Golf's annual Japan trip arrives fresh off the Bank of Utah, with FedExCup Fall standings still being shaped.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "**Post 5 (3:30 PM ET — Preview)**\nPGA Tour tees it up in Japan this week: Baycurrent Classic at Yokohama Country Club, Oct. 8-11. $8M purse. 500 FedExCup points. Only official PGA Tour event in Asia. Xander Schauffele is the defending champ. #BaycurrentClassic #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BaycurrentClassic",
+            "#PGATour"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-baycurrent-classic-preview-japan.html",
+        "headline": "Baycurrent Classic Preview: PGA Tour Heads to Japan for $8 Million Asian Stop",
+        "word_count": 560
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Primary",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Secondary",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Baycurrent Classic Preview\n**Sources:** pgatour.com, golfchannel.com, jbsagolf.com, aol.com Golf Glance\n**Verified Facts (HIGH confidence):**\n- Tournament: Baycurrent Classic 2026\n- Course: Yokohama Country Club (West Course), Yokohama, Japan\n- Dates: October 8-11, 2026\n- Purse: $8 million\n- FedExCup points: 500\n- Field: 72 players, no-cut format\n- Co-sanctioned: JGTO (Japan Golf Tour Organization); 14 JGTO members in field\n- Defending champion: Xander Schauffele (won with closing 64; 10th PGA Tour title; won by 1 shot over Max Greyserman)\n- PGA Tour's only official event in Asia\n**Story Type:** NEW",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Bank of Utah Championship — Doug Ghim's Runner-Up Validates His Resurgence",
+      "tier": 2,
+      "status": "",
+      "angle": "Ghim's consistent form in the FedExCup Fall suggests a breakout year may be building.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "**Post 6 (8:30 PM ET — Recap)**\nDoug Ghim finished second at the Bank of Utah Championship — one of the best results of his career. 24-under, final-round 69. Two shots back from Smotherman. It's been a strong FedExCup Fall for Ghim. More to come? #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-doug-ghim-runner-up-bank-utah.html",
+        "headline": "Doug Ghim's Runner-Up at Bank of Utah Championship Signals a Breakout Fall",
+        "word_count": 482
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Primary",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Secondary",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Doug Ghim Runner-Up at Bank of Utah\n**Sources:** pgatour.com, nbcsports.com, Yahoo Sports\n**Verified Facts (HIGH confidence):**\n- Doug Ghim finished T2 (sole) at Bank of Utah Championship 2026\n- Ghim score: 24-under 260 total, final round 69\n- Ghim age: 29\n- Result described as one of Ghim's best career finishes\n- Gap to winner: 2 shots\n**Story Type:** NEW",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "FedExCup Fall Update — Smotherman Enters New World After Black Desert",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "The FedExCup Fall is producing first-time winners and reshaping Tour cards with the season winding down.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "**Post 7 (6:00 PM ET — Standings context)**\n3 stops left in the FedExCup Fall: Baycurrent Classic (Japan, Oct. 8), Bermuda Championship (Oct. 22), Mexico Open (Oct. 29). Smotherman just secured his Tour card through 2028. The Fall reshapes careers. #FedExCupFall #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#FedExCupFall",
+            "#PGATour"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-fedexcup-fall-update.html",
+        "headline": "FedExCup Fall Update: Smotherman's Win, Three Events Left, and the Race for Status",
+        "word_count": 514
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Primary",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Secondary",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "FedExCup Fall Update\n**Sources:** pgatour.com schedule, espn.com golf, foxsports.com\n**Verified Facts (HIGH confidence):**\n- FedExCup Fall remaining events after Bank of Utah:\n- Baycurrent Classic: Oct 8-11, Yokohama, Japan ($8M)\n- Butterfield Bermuda Championship: Oct 22-25, Port Royal Golf Course, Bermuda ($6M)\n- VidantaWorld Mexico Open: Oct 29-Nov 1, Vidanta Vallarta, Nuevo Vallarta, Mexico ($6M)\n- Bank of Utah Championship winner gets 2-year exemption through 2028\n- Austin Smotherman earns entry to major championships\n**Story Type:** FOLLOW UP",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
