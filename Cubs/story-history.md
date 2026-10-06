@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-10-06 (OFF DAY — Cubs eliminated by Padres in WCS sweep (2-0). Early offseason. Insights active: overnight_00_06 loser; game_final winner; evening_18_24 winner; transaction loser.)
+
+### STORY 1: WCS Sweep / Season Postmortem
+- **Angle:** FOLLOW UP (WCS Game 2 result — immediate result posted at midnight ~1 AM 10/1, no pipeline ran 10/01–10/05). Season ends 89-73. Padres swept Cubs 2-0. One run in 18 postseason innings. PCA + Bregman 0-for-15. Gausman battled, offense couldn't deliver.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game_final/morning recap)
+- **Follow-Up Opportunities:** None (postmortem complete)
+
+### STORY 2: Rotation Rebuilt from Scratch — Hoyer's Starting Point
+- **Angle:** NEW STORY (fresh angle from what was auto-posted ~10/02: "Gausman: FA. Boyd: $2M buyout…"). Focus on who STAYS — Steele, Cabrera, Assad, Horton midseason. Hoyer must build rotation from zero.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold analysis)
+- **Follow-Up Opportunities:** FA signings; rotation moves throughout winter
+
+### STORY 3: Ian Happ FA Era Begins
+- **Angle:** NEW STORY. 10 seasons as Cub, FA for first time at 32. Three-year $61M extension expired. Possible hometown discount per reports.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, informative/passionate)
+- **Follow-Up Opportunities:** Re-signing news; competing offers
+
+### STORY 4: Rival Watch — Brewers vs. Padres NLDS Game 3
+- **Angle:** NEW STORY. Padres (who swept Cubs) face Brewers (4 straight NL Central titles) in NLDS Game 3 tonight at American Family Field. Cubs fan rival-watch angle.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, rival watch)
+- **Follow-Up Opportunities:** NLDS result watch; offseason framing if Brewers advance
+
+### STORY 5: PCA NL MVP — Historic Season Survives the WCS
+- **Angle:** FOLLOW UP. 45 HR, 40 SB, 10.4 fWAR — 7th 40-40 in MLB history, first Cub ever. Two quiet playoff games don't affect the BBWAA ballot. Bold evening take (insights: evening_18_24 WINNER).
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, bold/passionate)
+- **Follow-Up Opportunities:** NL MVP announcement (November)
+
+---
+
 ## 2026-09-30 (WCS Game 2 Night — Cubs trail Padres 1-0 in best-of-3; Gausman vs. Pivetta at Petco Park, 9:00 PM CT. No significant insights today — brand voice defaults applied.)
 
 ### STORY 1: WCS Game 1 Recap — Padres 8, Cubs 0

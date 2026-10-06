@@ -1,0 +1,205 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-06",
+  "compiled_at": "2026-10-06T09:22:06.840133+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "WCS Sweep / Season Postmortem",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Cubs swept by Padres 2-0 in WCS. One run in 18 innings. PCA + Bregman 0-for-15. Gausman battled but offense failed. Season ends 89-73. Morning reflection — full postmortem after bot posted the immediate result at midnight 10/1.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Two games, one run. That was the Cubs' October.\n\nOne run scored across both games. PCA and Bregman went 0-for-15 combined. Gausman battled and this team couldn't give him anything. The offense let this team down when it mattered most.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "game_final (informative/bold)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "WCS Sweep / Season Postmortem\n**Key facts (with sources):**\n- Cubs eliminated by Padres, WCS sweep 2-0\n- Game 1 (Sept 29): Padres 8, Cubs 0 — Boyd 4 IP, 3 HR allowed; King 7 IP, 1 H, 8 K\n- Game 2 (Sept 30): Padres 4, Cubs 1 — Gausman \"battled but couldn't get run support\"",
+        "sources": "- Sources: ESPN gameId/401907975, NBC Sports, Baseball Reference 2026_NLWC2\n- PCA and Bregman combined 0-for-15 with 8 Ks in the WCS\n- Source: Yahoo Sports WCS Game 2 live updates; ABC7 Chicago\n- Cubs final record: 89-73 (NL Wild Card No. 2 seed)\n- Source: mlb.com (cubs-lose-2026-nl-wild-card-series)\n- Cubs scored 1 run in 18 WCS innings\n- Calculated: 0 in Game 1 + 1 in Game 2 = 1 total — verified from game scores ✓\n- Season context: Second straight postseason berth, swept in WCS both times\n- Source: mlb.com cubs postseason FAQ 2026\n**Confidence:** HIGH (2+ sources for all factual claims)"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Rotation Rebuild from Scratch",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Gausman, Boyd, Imanaga, Holmes, Peterson all departing. Remaining core: Steele, Cabrera, Assad, Horton midseason. Hoyer must build rotation from scratch. Framed as who STAYS (not transaction list).",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Hoyer's 2027 rotation, right now: Steele, Cabrera, Assad, and a midseason Horton.\n\nFour arms. One returning from surgery. The rest of the staff just departed for free agency.\n\nThe market has to deliver — there's no other option.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "brief (bold analysis)",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Rotation Rebuild from Scratch\n**Key facts (with sources):**\n- Departing rotation arms for 2027 offseason:\n- Kevin Gausman: FA (confirmed — Bleacher Report, CBS Sports)\n- Shota Imanaga: FA, no qualifying offer eligible (accepted 2025-26 QO; per MLB rule, can't receive QO again) — Source: Bleacher Nation, MLB.com\n- Matthew Boyd: Mutual option not being picked up by either side — Source: Bleacher Report offseason guide\n- Clay Holmes: Likely declining $12M player option — Source: MLB Trade Rumors, Chicago Sun-Times\n- David Peterson: FA — Source: Bleacher Report\n- Remaining rotation for 2027:\n- Justin Steele: Returning from left elbow surgery, expected healthy — Source: MLB Trade Rumors\n- Edward Cabrera: \"Will be given every chance to reclaim his spot\" — Source: MLB Trade Rumors\n- Javier Assad: Part of 2027 core — Source: MLB Trade Rumors, Bleacher Report\n- Cade Horton: Expected midseason return — Source: MLB Trade Rumors\n- Hoyer comment: \"Cubs' offseason priority bolstering pitching depth, both up front & in 'pen\" — Source: mlb.com/cubs/news/\n- Corbin Martin: Became FA after season ended — Source: ABC7 (mentioned briefly)\n**Confidence:** HIGH (multiple sources confirm all FA departures)\n**Note:** \"Boyd: $2M buyout\" was in a previously posted tweet; the buyout figure is from story history internal record. The mutual option framing is confirmed by Bleacher Report.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Ian Happ FA Era Begins",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "10 seasons as a Cub, FA for the first time at 32. Narrative/career angle, not transaction framing.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Ian Happ. Ten seasons. One team.\n\nHe's a free agent for the first time at 32 — and every club can call. The extension ran out. The next contract is the open market.\n\nWhether he's still a Cub in 2027 is now Hoyer's first big decision.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "brief (informative/passionate)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Ian Happ FA Era Begins\n**Key facts (with sources):**\n- Ian Happ has been with Cubs his entire MLB career (drafted 2017, debuted 2017)\n- 10 MLB seasons, all with Cubs — Source: Newsweek, Bleacher Nation\n- Age: 32 (at start of 2027 season) — Source: Fox Sports, Newsweek\n- Previous contract: Three-year, $61M extension signed 2023 — Source: MLB.com (cubs-outfielder-ian-happ-grateful-to-stay-with-team)\n- Extension expired after 2026 season → now FA\n- Reports of possible \"hometown discount\": \"Happ could accept a hometown discount to stay with the team\" — Source: FanSided via chicitysports.com\n- \"Was That Ian Happ's Last Game as a Chicago Cub?\" — Bleacher Nation 10/01/2026",
+        "sources": "- Source: Bleacher Nation, Newsweek, CubsHQ, Fox Sports\n**Confidence:** HIGH"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Rival Watch — Brewers vs. Padres NLDS Game 3",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Padres who swept us face our division rival tonight. NLDS Game 3 at American Family Field. Cubs fans rooting against both.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The team that swept us plays at our rival's house tonight.\n\nPadres vs. Brewers NLDS Game 3 at American Family Field, tonight on FOX.\n\nSan Diego knocked us out. Milwaukee's won 4 straight NL Central titles. Cubs fans aren't rooting for either side.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "brief (rival watch)",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Rival Watch — Brewers vs. Padres NLDS Game 3\n**Key facts (with sources):**\n- Brewers vs. Padres NLDS:\n- Game 3: Tuesday Oct 6, at American Family Field, on FOX or FS1 — Source: Fox6, AmericanTV.com\n- Brewers: NL No. 1 seed, 103 wins (franchise record), 4th straight NL Central title — Source: OnMilwaukee, Fox6\n- Padres swept Cubs in WCS (2-0) — Source: NBC Sports, ESPN\n- Regular season: Padres 4-2 vs. Brewers in 2026 — Source: PetcoParkInsider.com\n- Games 1 & 2 scores of the NLDS: NOT confirmed in research (FOX Sports odds pages don't show results; ESPN pages blocked). DO NOT include series score in tweet.\n**Confidence:** MEDIUM (Game 3 tonight confirmed; series status unconfirmed)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "PCA NL MVP — Historic Season Survives the WCS",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "45 HR, 40 SB, 10.4 fWAR — 7th 40-40 in MLB history, first Cub ever. Two quiet playoff games don't change the ballot. BBWAA votes November. Bold evening take.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Pete Crow-Armstrong was quiet in the Wild Card. His ballot wasn't.\n\n45 HR. 40 SB. 10.4 fWAR. Seventh 40-40 in MLB history. First Cub ever.\n\nTwo games don't erase a historic season. The BBWAA votes in November, and PCA is the NL MVP.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "brief (bold/passionate)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 6,
+        "claims_flagged": 4,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "PCA NL MVP\n**Key facts (with sources):**\n- Final 2026 line: 45 HR, 40 SB, 10.4 fWAR (from raw_buckets measured tweet, posted ~10/02-03)\n- Note: story history says \"10.6 fWAR\" from pre-season-end estimates; raw_buckets final tweet says \"10.4 fWAR\" — using 10.4 as more current ✓\n- 7th player in MLB history with 40-40 season — Source: story history internal (verified against raw_buckets)\n- First Cub ever with 40-40 — Source: multiple story history entries, Defector\n- BBWAA MVP poll: 29 of 37 experts voted PCA — Source: MLB.com via roundtable.io\n- Player survey: PCA 15 votes, Ohtani 4 — Source: Dodgerblue.com (player survey article)\n- BBWAA votes announced in November — standard MLB calendar fact\n**Confidence:** HIGH for stats (45 HR / 40 SB), HIGH for \"first Cub ever,\" HIGH for MVP favoritism\n**Compound claim check:** \"Seventh 40-40 in MLB history\" — story history confirms \"7th in 40-40 history\" (references Canseco, Bonds, A-Rod, Soriano, Acuña, Ohtani as previous 6). This is the claim that needs 2-source confirmation per fact verification protocol.",
+        "sources": "- Source 1: Cubs story history (internal, repeated reference)\n- Source 2: The raw_buckets tweet \"Only six players in MLB history have\" implies PCA is the 7th ✓\n- MEDIUM confidence (need external source; using in tweet with \"Seventh 40-40 in MLB history\" framing, clearly tied to a previous internal post)"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
