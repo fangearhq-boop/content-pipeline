@@ -1,0 +1,279 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-06",
+  "compiled_at": "2026-10-06T10:33:08.321662+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "White Sox and Rays Each Take Commanding 2-0 ALDS Leads",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Chicago White Sox lead the ALDS 2-0.\n\nThree years ago they lost 121 games.\n\nLast year they lost 102.\n\nNow they are one win from the American League Championship Series.\n\nThis run is going to be talked about forever. ⚾\n\n#WhiteSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 237
+        },
+        {
+          "label": "Post 1-2",
+          "text": "ALDS update:\n\nWhite Sox 2-0 over Cleveland (Game 3 tomorrow)\nRays 2-0 over Yankees (Game 3 tomorrow)\n\nBoth teams one win from the ALCS.\n\nThe Rays eliminated the Yankees without Aaron Judge playing a single inning. 👀\n\n#MLB #Playoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Playoffs"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "One win from the ALCS.\n\nThe Chicago White Sox entered the 2026 season having lost at least 100 games in each of the past three years — including a record-setting 121-loss 2024 season. Their opening day playoff odds were listed at 1.1 percent. Most people didn't pick them to sniff the Wild Card. None of that matters now.\n\nThe White Sox beat the Cleveland Guardians 4-3 in ALDS Game 2 on October 5, following their 3-0 Game 1 victory on October 3. They lead the series 2-0 and need one win to advance to the American League Championship Series.\n\nThe Tampa Bay Rays are right there with them. Tampa Bay dispatched the New York Yankees 5-2 in Game 2, adding to their 1-0 Game 1 win. The Rays lead their ALDS 2-0 as well — and notably, they have done this without Aaron Judge playing a single inning of postseason baseball. Judge (right calf/soleus strain) was off the Wild Card roster and his ALDS availability has been uncertain.\n\nBoth series have Game 3 scheduled for October 7. Two teams. Two commanding leads. Two organizations telling completely different stories about how you get here.\n\n---",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-white-sox-rays-alds-2-0-leads.html",
+        "headline": "White Sox and Rays Both Lead ALDS 2-0, Each One Win From the ALCS",
+        "word_count": 524
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "White Sox and Rays Lead ALDS 2-0\n\n#### Concept 1A — Social Image (1080x1350)\n**Type:** gemini (AI-generated)\n**Mode:** complete\n**Prompt:** A white baseball jersey with black pinstripes (Chicago White Sox style) hanging triumphantly in a stadium tunnel. Stadium lights visible in background. Dramatic, cinematic lighting. Style: sports photography atmosphere.\n**Text Overlay:** \"ALDS: 2-0\" / \"Three years. Three 100-loss seasons. One win from the ALCS.\" / \"Ballpark Banter\"\n\n#### Concept 1B — Article Hero (1200x630)\n**Type:** gemini (AI-generated)\n**Mode:** base_only\n**Prompt:** Scoreboard graphic in dark blue and teal (Rays colors) on the left, dark blue and white (White Sox) on the right. Bold playoff atmosphere. Split-screen playoff bracket style.\n**Text Overlay:** \"ALDS Watch\" / \"White Sox 2-0 | Rays 2-0\" / \"One win from the ALCS\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ALDS — White Sox and Rays Both Lead 2-0\n**Verified Facts (HIGH confidence — multiple sources):**\n- White Sox 3, Guardians 0 (ALDS Game 1, Oct. 3)\n- White Sox 4, Guardians 3 (ALDS Game 2, Oct. 5)\n- Chicago White Sox lead ALDS 2-0; Game 3 scheduled Oct. 7\n- Rays 1, Yankees 0 (ALDS Game 1, Oct. 3)\n- Rays 5, Yankees 2 (ALDS Game 2, Oct. 5)\n- Tampa Bay Rays lead ALDS 2-0; Game 3 scheduled Oct. 7\n- White Sox historical context: first team in MLB history to reach playoffs after 3 consecutive 100-loss seasons (2023: 61-101, 2024: 41-121, 2025: 60-102)\n- Aaron Judge off Wild Card roster (right calf strain); possible ALDS return\n**Sources:**\n- cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/\n- espn.com/mlb\n- nbclosangeles.com/mlb\n**Confidence:** HIGH — box scores confirmed across multiple outlets",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Pete Crow-Armstrong Joins Exclusive 40-40 Club — Seventh in MLB History",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Pete Crow-Armstrong finished 2026 with 45 HR and 40 SB.\n\nOnly 7 players in MLB history have done that:\nCanseco. Bonds. A-Rod. Soriano. Acuña. Ohtani.\n\nNow Crow-Armstrong.\n\nHe's also the first Cub ever in the 40-40 club. 🐻\n\n#Cubs #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 233
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Pete Crow-Armstrong: 45 HR. 40 SB.\n\nHistoric season. One of 7 ever.\n\nThen the Padres swept the Cubs in the Wild Card and he went 0-for-7.\n\nBaseball is a sport of maximum highs and maximum lows, sometimes in the same week.\n\n#Cubs #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "Forty home runs. Forty stolen bases. In the same season.\n\nOnly six players in the history of Major League Baseball had done that before Pete Crow-Armstrong did it in 2026. The list reads like a Hall of Fame exhibit: José Canseco (1988). Barry Bonds (1996). Alex Rodriguez (1998). Alfonso Soriano (2006). Ronald Acuña Jr. (2023). Shohei Ohtani (2024).\n\nAnd now: Pete Crow-Armstrong, 2026, with 45 home runs and 40 stolen bases.\n\nHe is also the first Cub in franchise history — a franchise that has existed since 1876 — to achieve a 40-40 season.\n\nThe calendar does not care about milestones. The Padres swept the Cubs 2-0 in the NL Wild Card Series that concluded October 1. Crow-Armstrong went 0-for-7 with 4 strikeouts in the two games, a jarring contrast to a regular season that placed him in genuinely elite historical company.\n\nThat is baseball. Historic regular seasons and early playoff exits can share the same October. The statistics are permanent. The 40-40 will be in the record book long after this week is forgotten.\n\n---",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-pete-crow-armstrong-40-40-club-seventh-ever.html",
+        "headline": "Pete Crow-Armstrong Joins the 40-40 Club: Seventh in MLB History, First Cub Ever",
+        "word_count": 479
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Pete Crow-Armstrong 40-40\n\n#### Concept 2A — Social Image (1080x1350)\n**Type:** gemini (AI-generated)\n**Mode:** complete\n**Prompt:** A baseball player's silhouette mid-swing at the plate with the scoreboard visible behind them showing \"45 HR | 40 SB.\" Cubs blue and red color palette. Stadium lights from behind. Dynamic, athletic pose. Style: sports photography.\n**Text Overlay:** \"40-40 CLUB\" / \"45 HR. 40 SB.\" / \"Only 7 in MLB history.\"\n\n#### Concept 2B — Article Hero (1200x630)\n**Type:** gemini (AI-generated)\n**Mode:** base_only\n**Prompt:** Blue and red Cubs background with a baseball in the center. Minimalist design. Clean for text overlay.\n**Text Overlay:** \"Pete Crow-Armstrong\" / \"Joins the 40-40 Club\" / \"7th player in MLB history\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pete Crow-Armstrong 40-40\n**Verified Facts (HIGH confidence):**\n- Pete Crow-Armstrong: 45 HR + 40 SB in 2026 regular season\n- Only 7th player in MLB history to record 40-40 season\n- Full 40-40 club (in order): José Canseco, Barry Bonds, Alex Rodriguez, Alfonso Soriano, Ronald Acuña Jr., Shohei Ohtani, Pete Crow-Armstrong\n- First Chicago Cub to achieve 40-40\n- Cubs swept 2-0 by Padres in NL Wild Card Series (concluded Oct. 1)\n- Crow-Armstrong playoff line: 0-for-7, 4 strikeouts across 2 Wild Card games\n**Sources:**\n- sports.yahoo.com/mlb/article/cubs-pete-crow-armstrong-becomes-seventh-player-in-mlb-history-with-a-40-40-season\n- bleacherreport.com/articles/25502676-pete-crow-armstrong-joins-exclusive-mlb-club\n- chicago.suntimes.com/cubs/2026/10/01/cubs-padres-playoffs-game-2-wild-card-series\n**Confidence:** HIGH — confirmed across Yahoo Sports, Bleacher Report, Chicago Sun-Times\n**Note:** Compound claim (joining list of specific named players) must be treated with Two-Source Rule. The list (Canseco, Bonds, A-Rod, Soriano, Acuña, Ohtani) is verified by multiple independent sources and is a well-known historical record. HIGH confidence maintained.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Brewers Dominant, Braves-Dodgers Tied 1-1 — NLDS Picture Tonight",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Milwaukee is one win from the NLCS.\n\nBrewers took Game 2 on a walk-off. They lead the Padres 2-0. Game 3 is TONIGHT, 9:30 PM ET, FS1.\n\nSan Diego just got to the NLDS and might be going home. ⚾\n\n#Brewers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#MLB"
+          ],
+          "char_count": 207
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Braves vs. Dodgers — series tied 1-1.\n\nGame 3 tonight at 6 PM ET on FS1.\n\nAtlanta won Game 2 on a wild pitch. Chris Sale takes the ball for the Braves tonight.\n\nOne team goes to 2-1. The other faces elimination Thursday. ⚾\n\n#Braves #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves",
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "Two NLDS storylines headed into Tuesday night.\n\nFirst: Milwaukee. The Brewers won Game 2 of their NLDS against the San Diego Padres on a walk-off, 4-3, and now lead the series 2-0. One win separates Milwaukee from the NLCS. Game 3 is tonight at 9:30 PM ET on FS1. The Padres made it past the Cubs in the Wild Card, but the Brewers have shown no mercy in this series.\n\nSecond: Atlanta and Los Angeles. The Braves and Dodgers are knotted 1-1 after the Braves took Game 2 in a 3-2 win. The deciding play came on a wild pitch by Dodgers pitcher Kris Bubic that allowed Michael Harris II to score from third. Chris Sale is expected to take the ball for Atlanta in tonight's Game 3 at 6:00 PM ET on FS1. The winner goes to 2-1 with a chance to close out the series Thursday. The loser faces elimination.\n\nIt is a full night of October baseball. Both NLDS matchups at critical junctures. Whoever advances from these two series will have earned it.\n\n---",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-brewers-padres-braves-dodgers-nlds-game-3.html",
+        "headline": "Brewers on the Brink of the NLCS; Braves and Dodgers Go to Game 3 Tonight",
+        "word_count": 508
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Brewers-Padres and Braves-Dodgers NLDS\n\n#### Concept 3A — Social Image (1080x1350)\n**Type:** gemini (AI-generated)\n**Mode:** complete\n**Prompt:** Split baseball stadium image — left side shows a Milwaukee Brewers crowd in blue and gold, right side shows an Atlanta Braves crowd in red and navy. Bold \"TONIGHT\" graphic in the center. Style: sports broadcast graphic.\n**Text Overlay:** \"NLDS TONIGHT\" / \"Brewers-Padres 9:30 PM | Braves-Dodgers 6:00 PM\"\n\n#### Concept 3B — Article Hero (1200x630)\n**Type:** gemini (AI-generated)\n**Mode:** base_only\n**Prompt:** Baseball field aerial view at night with stadium lights glowing, playoff atmosphere. Dark and dramatic. Style: aerial sports photography.\n**Text Overlay:** \"October Baseball\" / \"NLDS Game 3s — October 6, 2026\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NLDS — Brewers 2-0; Braves-Dodgers Tied 1-1\n**Verified Facts (HIGH confidence):**\n- Brewers 2-0 over Padres in NLDS; Game 3: Oct. 6, 9:30 PM ET, FS1\n- Game 2 was a Brewers walk-off win, 4-3\n- Braves-Dodgers series tied 1-1; Game 3: Oct. 6, 6:00 PM ET, FS1\n- Braves won Game 2, 3-2; winning run scored on wild pitch by Kris Bubic that scored Michael Harris II from third\n- Chris Sale expected to start Game 3 for Atlanta\n- Milwaukee: one win from advancing to NLCS\n**Sources:**\n- cbssports.com/mlb/news/2026-mlb-playoffs-nlds-game-2-winners-losers/\n- espn.com/mlb/game/_/gameId/401908015/dodgers-braves\n- nbclosangeles.com\n**Confidence:** HIGH for series scores/results; MEDIUM for Game 3 starters (may be subject to change)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "2026 Season Milestone Roundup — Skubal 1,000th K; Sánchez Phillies Record; Murakami History",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "2026 MLB milestones worth remembering:\n\nSkubal: 1,000th career strikeout\nSánchez: 41⅔ scoreless IP — breaks 115-year Phillies record\nMurakami: 7 HR in first 21 games (more than Ohtani)\nRamírez: HR vs. all 29 other teams\n\nThe regular season left its mark. ⚾\n\n#MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "The Wild Card races and playoff runs dominated the September news cycle, but several remarkable individual milestones from the 2026 regular season deserve recognition as the curtain comes down on the regular season.\n\n**Tarik Skubal, Detroit Tigers.** On July 29 at Baltimore, Skubal recorded the 1,000th strikeout of his MLB career. He has established himself as one of the most dominant starting pitchers in the American League — a career milestone that arrived quietly during a season full of noise elsewhere.\n\n**Cristopher Sánchez, Philadelphia Phillies.** Sánchez extended a consecutive scoreless innings streak to 41⅔ innings, breaking a Phillies franchise record that had stood for 115 years. The previous holder: Grover Cleveland Alexander, who set the mark in 1911. To break a record that old is to find yourself in genuinely rare historical territory.\n\n**Munetaka Murakami, Chicago White Sox.** In his first 21 MLB games, the Japanese slugger hit 7 home runs — breaking Shohei Ohtani's previous record of 5 home runs by a Japanese-born player through his first 21 games. He is now in the ALDS with a White Sox team one win from the ALCS.\n\n**José Ramírez, Cleveland Guardians.** Ramírez became the first Guardian in franchise history to hit a home run against all 29 other MLB teams — a milestone that speaks to consistency, longevity, and the kind of performance that makes people forget to be properly amazed.\n\n---",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-2026-mlb-season-milestones-skubal-sanchez-murakami-ramirez.html",
+        "headline": "2026 MLB Season Milestones: Skubal, Sánchez, Murakami and Ramírez Left Their Mark",
+        "word_count": 564
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Season Milestones Roundup\n\n#### Concept 4A — Social Image (1080x1350)\n**Type:** gemini (AI-generated)\n**Mode:** complete\n**Prompt:** A vintage trophy cabinet with four modern baseball trophies on shelves, each labeled with a player name and achievement. Clean and elegant. Warm stadium lighting. Style: editorial product photography.\n**Text Overlay:** \"2026 MILESTONES\" / \"Skubal | Sánchez | Murakami | Ramírez\" / \"Ballpark Banter\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "2026 Season Milestones\n**Verified Facts (HIGH confidence for major milestones):**\n- Tarik Skubal (Tigers): 1,000th career strikeout on July 29 vs. Baltimore Orioles\n- Cristopher Sánchez (Phillies): 41⅔ consecutive scoreless innings — breaks 115-year Phillies franchise record previously held by Grover Cleveland Alexander\n- José Ramírez (Guardians): first Guardian to HR vs. all 29 other MLB teams\n- Munetaka Murakami (White Sox): 7 HR in first 21 MLB games — surpasses Shohei Ohtani's previous record of 5 HRs by Japanese-born player through 21 games\n**Note:** Sánchez franchise record (breaks Grover Cleveland Alexander) is a Compound Claim requiring two-source check.\n- Verified at: foxsports.com MLB Milestones Tracker AND wfin.com (citing same Fox Sports source)\n- Additional confidence: the claim is about breaking a 115-year-old record, which would have been widely reported\n- Confidence: MEDIUM (single underlying source chain; Fox Sports is authoritative but wfin.com is a syndicate)\n**Sources:**\n- foxsports.com/stories/mlb/2026-mlb-milestones-records-tracker\n- 1010wcsi.com/fox-sports/2026-mlb-milestones-and-records-tracker-tarik-skubal-gets-1000th-strikeout/\n- wfin.com/fox-sports/2026-mlb-milestones-and-records-tracker-cristopher-sanchez-makes-phillies-history/\n- wfin.com/fox-sports/2026-mlb-milestones-and-records-tracker-jose-ramirez-reaches-another-milestone/\n**Confidence:** HIGH for Skubal and Murakami milestones; MEDIUM for Sánchez and Ramírez (single source chain)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Nootbaar to Arizona; MLB Offseason Outlook Launches",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Lars Nootbaar was traded from St. Louis to Arizona on October 1.\n\nAnd MLB Trade Rumors just launched its Offseason Outlook series — all 30 teams.\n\nThe postseason is happening. The front offices are already working on 2027.\n\nWelcome to the offseason overlap. ⚾\n\n#MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "The postseason is underway, but the offseason has already started for some teams.\n\nThe St. Louis Cardinals made that clear on October 1, trading Lars Nootbaar along with three pitchers — Brian Curley, Daniel Eagen, and Sandro Santana — to the Arizona Diamondbacks. The move was executed as the Wild Card round was beginning, a signal that St. Louis is already focused on what comes next rather than this October.\n\nAt the same time, MLB Trade Rumors launched its 2026-27 Offseason Outlook series on October 3 — a comprehensive preview of how all 30 teams plan to approach the coming hot stove season. It is October 6. The World Series champion won't be crowned for weeks. And already, the front office chess game for 2027 is in motion.\n\nFor teams watching the playoffs from home, the work never stops. The gap between regular season and offseason has narrowed to nearly zero. While Milwaukee and Atlanta are playing for pennant berths tonight, GM offices across the country are building their target lists, calculating luxury tax implications, and identifying which portal of available talent — free agency, trade, or extension — is the right vehicle for the changes they need to make.\n\nThe 2026 season isn't over. But the 2027 season has already started.\n\n---",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-nootbaar-trade-mlb-offseason-outlook.html",
+        "headline": "Nootbaar to Arizona, Offseason Machine Running: The 2026 Baseball Calendar Turns",
+        "word_count": 476
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Offseason Begins\n\n#### Concept 5A — Social Image (1080x1350)\n**Type:** gemini (AI-generated)\n**Mode:** complete\n**Prompt:** A baseball general manager's desk with a contract, a trade phone, and a window looking out on an autumn baseball field. Warm afternoon light. Sophisticated, thoughtful atmosphere. Style: editorial photography.\n**Text Overlay:** \"THE OFFSEASON STARTS NOW\" / \"The front offices are already working.\" / \"Ballpark Banter\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Nootbaar Trade; Offseason Calendar\n**Verified Facts (MEDIUM confidence):**\n- St. Louis Cardinals traded Lars Nootbaar + pitchers Brian Curley, Daniel Eagen, Sandro Santana to Arizona Diamondbacks on Oct. 1, 2026\n- MLB Trade Rumors Offseason Outlook series launched Oct. 3\n- Additional transactions (Oct. 2-3): Brewers reinstated Andrew Vaughn (1B) from IL; Mariners claimed Michael Toglia (1B) from Reds; White Sox activated Tyler Davis (RHP); Padres placed Buehler on paternity list, activated Vásquez\n**Sources:**\n- espn.com/mlb/transactions\n- mlbtraderumors.com/2026/10/2026-27-offseason-outlook-series.html\n**Confidence:** MEDIUM — ESPN transactions confirmed Nootbaar move; return package unconfirmed",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

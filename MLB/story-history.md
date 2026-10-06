@@ -5,6 +5,64 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-10-06
+
+### Story 1: White Sox and Rays Both Lead ALDS 2-0
+- **Date:** 2026-10-06
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Both the White Sox (vs. Guardians) and Rays (vs. Yankees) won their ALDS Game 2 matchups Oct 5, each leading 2-0. White Sox 4-3 in Game 2 (3-0 in Game 1); Rays 5-2 in Game 2 (1-0 in Game 1). Both one win from ALCS. Game 3 for both Oct 7. White Sox historic context: first team ever to make playoffs after 3 straight 100-loss seasons.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Game 3 results (Oct 7)
+  - White Sox potential ALCS berth
+  - Aaron Judge ALDS return timeline
+
+### Story 2: Pete Crow-Armstrong 40-40 — 7th in MLB History
+- **Date:** 2026-10-06
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Crow-Armstrong finished 2026 with 45 HR + 40 SB — 7th player in MLB history (joining Canseco, Bonds, A-Rod, Soriano, Acuña, Ohtani), first Cub ever. Cubs swept 2-0 by Padres in Wild Card; PCA went 0-for-7, 4 K in the series.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - NL MVP vote outcome
+  - Cubs offseason direction
+
+### Story 3: Brewers 2-0 Over Padres; Braves-Dodgers Tied 1-1, Game 3 Tonight
+- **Date:** 2026-10-06
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Brewers won Game 2 walkoff 4-3, lead NLDS 2-0 (Game 3 tonight 9:30PM ET FS1). Braves won Game 2 3-2 (Bubic wild pitch scored Harris II); series tied 1-1 (Game 3 tonight 6PM ET FS1). Chris Sale to start for Atlanta.
+- **Content Produced:** Article (article-03, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Game 3 results for both series
+  - Milwaukee NLCS berth
+  - Sale performance in Game 3
+
+### Story 4: 2026 Season Milestones Roundup
+- **Date:** 2026-10-06
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Four notable 2026 milestones: Skubal (Tigers) 1,000th K July 29 vs BAL; Sánchez (Phillies) 41⅔ scoreless IP streak breaks 115-year franchise record (Grover Cleveland Alexander); Murakami (White Sox) 7 HR in first 21 games surpasses Ohtani (5) for Japanese-born player record; Ramírez (Guardians) first Guardian to HR vs all 29 teams.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Skubal Cy Young voting
+  - Murakami ALDS performance
+  - Sánchez postseason role for Phillies (eliminated)
+
+### Story 5: Nootbaar to Arizona; Offseason Outlook Begins
+- **Date:** 2026-10-06
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Cardinals traded Nootbaar + Curley + Eagen + Santana to Arizona Oct 1. MLB Trade Rumors launched 2026-27 Offseason Outlook Oct 3. Other Oct 2-3 transactions: Brewers reinstated Vaughn; Mariners claimed Toglia; White Sox activated Davis; Padres placed Buehler on paternity list.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Full Nootbaar Arizona terms
+  - Cardinals offseason direction
+  - Top free agent targets this winter
+
+---
+
 ## 2026-09-30
 
 ### Story 1: Wild Card Day 1 Recap — Home Teams Go 3-1
