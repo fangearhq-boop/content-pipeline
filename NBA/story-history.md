@@ -7425,3 +7425,52 @@
 - **Byline:** Jake Torres
 - **Status:** NEW
 - **Follow-up ideas:** Duren situation update (other Thompson brother in same org)
+
+---
+
+## 2026-10-06
+
+### STORY 1: Jalen Duren Signs $200M Extension With Pistons
+- **Date:** 2026-10-06
+- **Tier:** 1
+- **Category:** Detroit Pistons / Jalen Duren / Contract Extension
+- **Key facts:** 5-year $200M fully guaranteed; conditioning clauses removed; Tom Gores personal involvement; Shams Charania confirmed via agent Chafie Fields; previous season 19.5 pts/10.5 reb, No. 1 seed East, All-Star, 3rd team All-NBA; Ausar Thompson (5yr/$155M) also locked up; Thompson twins $363M combined
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Duren first preseason game appearance, Pistons full roster preview
+
+### STORY 2: Jaylen Brown's Blazing 76ers Debut
+- **Date:** 2026-10-06
+- **Tier:** 1
+- **Category:** Philadelphia 76ers / Jaylen Brown / Preseason
+- **Key facts:** 76ers beat Knicks 120-97 (Oct 5 preseason); Brown 22 pts, 2 reb, 2 ast, 1 blk in 17 min, 8-13 FG, 2-3 3PT; LeBron James, Maxey, Embiid all sat; game at Xfinity Mobile Arena
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron preseason debut, full starting 5 first action together
+
+### STORY 3: Luka Doncic Returns — 31 Points in Lakers Preseason Opener
+- **Date:** 2026-10-06
+- **Tier:** 1
+- **Category:** Los Angeles Lakers / Luka Doncic / Return from Injury
+- **Key facts:** 200+ day absence (hamstring); 31 pts, 5 reb, 9 ast vs Kings; Lakers win 127-103 (Oct 5); LeBron departed to Sixers; new Lakers: Walker Kessler, Quentin Grimes, Collin Sexton, Matisse Thybulle; regular season opener Oct 21 vs Warriors
+- **Byline:** Damon Pierce
+- **Status:** NEW
+- **Follow-up ideas:** Lakers at Warriors preseason (Oct 6), Luka first regular season game
+
+### STORY 4: Knicks Banner Night 14 Days Away
+- **Date:** 2026-10-06
+- **Tier:** 2
+- **Category:** New York Knicks / Opening Night / Banner Ceremony / Philadelphia 76ers
+- **Key facts:** Banner ceremony Oct 20, 6:30 PM ET; tipoff 7 PM NBC/Peacock vs 76ers; avg ticket $2,560; get-in >$1,000; Knicks first title since 1973; LeBron James 76ers debut vs Knicks
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Knicks starting lineup decisions, LeBron debut preview
+
+### STORY 5: Bucks 103, Heat 93 — Giannis Faces Former Team
+- **Date:** 2026-10-06
+- **Tier:** 2
+- **Category:** Miami Heat / Giannis Antetokounmpo / Bucks / Preseason
+- **Key facts:** Bucks win 103-93 preseason (Oct 6); Giannis first game vs former team; 13 seasons with Bucks (2013-2026); Heat new additions: Klay Thompson, Bobby Portis, Tim Hardaway Jr.; Spoelstra coaching Giannis
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** Heat first home preseason game, Giannis fitting into Spoelstra system
