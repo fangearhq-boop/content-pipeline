@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## October 6, 2026
+
+| 2026-10-06 | Japan Open Final — Alcaraz def. Lehecka 7-6(4), 6-4; first to defend Japan Open since Sampras 1994; Alcaraz 9-0 all-time Tokyo; first title since wrist injury return. Sources: tennis365.com, sundayguardianlive.com, sports.inquirer.net, dubaieye1038.com | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Oct 5 S1: Japan Open SFs → Final result) |
+| 2026-10-06 | Beijing ATP SFs — Medvedev DQ'd (hit spectator near left eye with ball in frustration, Djokovic leading 7-5, 5-3); de Minaur def. Hurkacz (ret.) 6-4, 3-2; Final today: Djokovic (33-0) vs de Minaur (H2H 3-1 Djokovic); Medvedev loses all points + prize money. Sources: espn.com, cnn.com, washingtonpost.com, olympics.com, abc.net.au | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 5 S2: Beijing QF → SFs drama + Final set) |
+| 2026-10-06 | WTA Beijing R4 — Gauff, Swiatek, Andreeva, Noskova in R4 action; Rybakina out (Oct 5 coverage); Gauff def. Sun 7-5, 6-1 in R3; Swiatek def. Vekic in R3; Gauff-Swiatek potential QF (Oct 8); QF Oct 8, SF Oct 10, F Oct 11. Sources: wtatennis.com, tennis365.com, tennistonic.com | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Oct 5 S3: WTA Beijing QFs → R4 in progress, QF bracket) |
+| 2026-10-06 | Sinner official Shanghai WD confirmed (atptour.com); statement: "I'm very sorry that I won't be able to [play]"; 7th consecutive missed event; last match: Wimbledon win July; Vienna (Oct 26) and Paris-Bercy also uncertain; ATP Finals spot secure. Sources: atptour.com, foxsports.com, deccanherald.com, aljazeera.com, yahoo sports | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Oct 5 S4: Sinner Vienna/Paris doubt → Official Shanghai WD confirmed) |
+| 2026-10-06 | Shanghai Masters preview — Oct 7-18, Zverev top seed; Zverev/Djokovic same half; Alcaraz/Medvedev opposite half; Alcaraz vs Cerundolo R1; defending champ Vacherot; Race: Zverev ~8,740 vs Sinner 7,950, Sinner drops ~3,550 pts; Shelton/FAA/de Minaur bubble. Sources: tennisnerd.net, puntodebreak.com, sundayguardianlive.com, tennisuptodate.com | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 5 S5: Race math → Shanghai draw released, starts tomorrow) |
+
+---
+
+
 ## October 5, 2026
 
 | 2026-10-05 | Japan Open SFs Set — Alcaraz vs Munar (all-Spanish SF); Vacherot vs Lehecka; Lehecka def. Vallejo 6-1, 6-1; Alcaraz 7-0 in Tokyo; Final Tuesday Oct 6. Sources: atptour.com, tennistale.com, gulfnews.com | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 4 S1: Japan Open QF/SF preview) |

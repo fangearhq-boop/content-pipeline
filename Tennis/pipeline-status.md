@@ -1,5 +1,36 @@
 # Tennis Fanrecap — Pipeline Status
 
+## Current Run: 2026-10-06
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Japan Open Final: Alcaraz def. Lehecka 7-6(4), 6-4 (tennis365.com/sundayguardianlive.com/sports.inquirer.net/dubaieye1038.com); Beijing SFs: Medvedev DQ'd (hit spectator near left eye, Djokovic 7-5, 5-3) + de Minaur def. Hurkacz ret. 6-4, 3-2; Final Djokovic(33-0) vs de Minaur (espn.com/cnn.com/washingtonpost.com/olympics.com/abc.net.au); WTA Beijing R4: Gauff def. Sun 7-5,6-1 / Swiatek def. Vekic / Noskova/Andreeva in R4; Sinner official Shanghai WD (atptour.com/foxsports/aljazeera/yahoo); Shanghai draw: Zverev(1)/Djokovic same half, Alcaraz/Medvedev opposite half (tennisnerd.net/puntodebreak.com) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Oct 5 S1: SFs set → Final result); S2 FOLLOW-UP (Oct 5 S2: QF result → SFs drama + Final); S3 FOLLOW-UP (Oct 5 S3: WTA QFs → R4 in progress); S4 FOLLOW-UP (Oct 5 S4: Sinner Vienna/Paris → official Shanghai WD); S5 FOLLOW-UP (Oct 5 S5: Race math → Shanghai draw released, starts tomorrow) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: tennis365.com, sundayguardianlive.com, sports.inquirer.net, dubaieye1038.com, espn.com, cnn.com, washingtonpost.com, olympics.com, abc.net.au, wtatennis.com, tennistonic.com, atptour.com, foxsports.com, aljazeera.com, yahoo sports, tennisnerd.net, puntodebreak.com, tennisuptodate.com |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, angles |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories (2+2 T1, 1+1+1 T2); all ≤280 chars verified; code-block format |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories (social + article hero) |
+| Articles (5) | COMPLETE | article-01 Japan Open Final (Ryan Calloway T1); article-02 Medvedev DQ Beijing Final (Elena Voss T1); article-03 WTA Beijing R4 (Marcus Cole T2); article-04 Sinner Shanghai WD (Ryan Calloway T2); article-05 Shanghai Masters preview (Elena Voss T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated; 46 claims; HIGH 80% |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 5 images; posting-window warnings cosmetic (known) |
+| Image Manifest | SKIPPED | 07-image-manifest.md not generated (generated at publish time with --images flag) |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (7 posts) | tfr-postplanner-2026-10-06.xlsx + tfr-postplanner-tobi-2026-10-06.xlsx — 7 posts each; redistributed 12:55–20:37 ET |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Oct 6 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3])
+- **PostPlanner exports:** 7 posts (standard + TOBI)
+- **Key stories:** Japan Open Final — Alcaraz def. Lehecka 7-6(4), 6-4, first to defend since Sampras 1994, 9-0 all-time Tokyo; Beijing drama — Medvedev DQ'd (spectator), Djokovic 33-0 vs de Minaur in final (7th title attempt); WTA Beijing R4 — Gauff/Swiatek/Andreeva/Noskova in R4, QFs Oct 8; Sinner official Shanghai WD (7th straight missed event since Wimbledon win); Shanghai preview — starts Oct 7, Zverev top seed, Alcaraz enters fresh
+- **Issues:** WordPress proxy 403; dashboard push 403; FB posts 0 parsed (known); Beijing ATP final result not confirmed at research time (final happening today)
+
+---
+
 ## Current Run: 2026-10-05
 
 | Step | Status | Notes |
