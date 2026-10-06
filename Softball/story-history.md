@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-10-06
+
+### Story 1: Japan Wins 7th Consecutive Asian Games Softball Gold Medal
+- **Date:** 2026-10-06
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Japan completed a perfect 8-0 tournament run with a 7-0 mercy-rule gold medal final victory over China at Anjō Softball Ground on Oct. 3. Captain Kyoko Ishikawa hit a two-run triple in the 4th inning. Yukiko Ueno was part of all seven consecutive Asian Games gold medal teams. Chinese Taipei bronze (12-2 over Philippines). LA28 qualifying implications for all.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - LA28 qualification standings/schedule
+  - Ueno retrospective as career winds down
+  - Japan 2027 preparation
+
+### Story 2: Isa Torres Transfer — FSU Player of Year to Texas
+- **Date:** 2026-10-06
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** D1Softball National Player of the Year Isa Torres (.530 BA, 16 HR at FSU) entered portal and committed to Texas — ranked No. 2 impact transfer in the entire 2026-27 cycle by ON3/SI. Biggest headline of the portal cycle.
+- **Content Produced:** Article (article-02, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Texas 2027 lineup preview
+  - FSU roster reload after losing Torres + Beachum
+  - Big 12 power structure heading into 2027
+
+### Story 3: Kentucky Hires Maddi Hackbarth; 2026 Coaching Carousel Closes
+- **Date:** 2026-10-06
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Kentucky hired Hackbarth Oct. 1 (from Santa Clara assistant). Kristine Himes moved to Director of Player Analytics. Carousel also features Cal (Steve Singleton), Boston College (Beth Krysiak from Saint Francis), Houston (Chrissy Schoonmaker from GWU). Houston was 8-41 in Big 12 over 2 seasons.
+- **Content Produced:** Article (article-03, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Kentucky 2027 recruiting impact
+  - Singleton era at Cal
+  - Krysiak first year at BC
+
+### Story 4: Oklahoma Battle Series Game 2 Preview
+- **Date:** 2026-10-06
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** After Game 1 sold-out crowd (2,351) and back-to-back HRs from Garcia/Wells, Battle Series Game 2 is tonight (Oct. 7, 6:30 PM CT, Love's Field). 21-player roster includes Sydney Berzon (LSU, 2x NFCA AA) and 6 freshmen. $10.88 tickets.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Game 2 results/recap
+  - Berzon early impressions
+  - Full Battle Series wrap (Oct. 14 and Oct. 21 remaining)
+
+### Story 5: Transfer Portal Tracker — Beachum, Pickering, Plumlee
+- **Date:** 2026-10-06
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Beyond Torres: Jaysoni Beachum (FSU) → Texas Tech; Kasidi Pickering weighing OU or Texas Tech; Kailey Plumlee (LHP, Tennessee) → Alabama. 137 total entries, 121 committed (~88%), 15 still available. Window closing.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Pickering final commitment
+  - Alabama 2027 pitching staff with Plumlee
+  - Portal window close date
+
+---
+
 ## 2026-09-30
 
 ### Story 1: Asian Games Super Round — Japan and Chinese Taipei Surge
