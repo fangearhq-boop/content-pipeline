@@ -1,0 +1,219 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-07",
+  "compiled_at": "2026-10-07T09:17:38.277506+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Rival Watch — Brewers Lead NLDS 2-1, Game 4 Tonight in San Diego",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Padres survived NLDS elimination in Game 3 (4-3). Brewers still lead series 2-1. Game 4 tonight at Petco Park. Cubs fan angle: the team that swept us (Padres) is still alive — if Brewers close it out tonight, that WCS sting fades just a bit.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Padres 4, Brewers 3 last night. Series is 2-1 Brewers. Game 4 tonight in San Diego.\n\nThe Padres — who outscored the Cubs 12-1 in the WCS — are still breathing.\n\nIf the Brewers close it out tonight, that sweep stings a little less.\n\n#Cubs #MLB #NorthSiders",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "game_final (rival watch / informative)",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#NorthSiders"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Hoyer's Offseason Reckoning — Pitching Overhaul Priority",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Hoyer's end-of-season presser: Cubs led NL with 231 HR allowed, set club record with 14 different save-recorders. Gausman, Imanaga, Boyd, Holmes, Peterson all free agents. Promising aggressive pitching overhaul. Most critical offseason in Hoyer era.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Jed Hoyer is taking accountability — and he should.\n\n231 HR allowed. FOURTEEN different pitchers recorded saves.\n\nGausman. Imanaga. Boyd. Holmes. Peterson. All gone.\n\nThis is the most critical offseason in the Hoyer era. Time to prove it.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "brief (bold analysis)",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "PCA NL MVP — The Vote Is Coming",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "PCA is -1100 MVP favorite. 45 HR, 40 SB, 10.4 fWAR — 7th 40-40 in MLB history, first Cub ever. Two quiet WCS games don't move the needle. BBWAA votes in November.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Pete Crow-Armstrong's 2026 season: 45 HR. 40 SB. 10.4 fWAR.\n\nThe 7th player in MLB history to go 40-40 — and the FIRST Cub ever.\n\nHe's the -1100 favorite to win NL MVP. Two quiet WCS games don't change what happened over 162.\n\nThe ballot is already filled out.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "brief (stat breakdown / informative)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Rotation Rebuild Market — Hoyer Must Spend",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cubs need 2-3 SP this winter. Market includes Cease, Valdez, Suárez, Gallen — and Michael King (who nearly no-hit them in WCS G1). Horton and Steele both out until 2027. No choice but to spend.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cubs need 2-3 starting pitchers this winter — Cease, Valdez, Suárez, Gallen are all available.\n\nIncluding Michael King. The guy who nearly no-hit them in WCS Game 1.\n\nHorton and Steele won't be back until 2027. Hoyer must spend.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "brief (analysis / offseason preview)",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Seiya Suzuki — Will Cubs Win the Bidding War?",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Reports say Cubs \"unlikely\" to win Suzuki bidding war. Toronto interested. Budget stretched by Bregman/PCA/Hoerner deals. Losing Suzuki AND Happ in same winter while Horton rehabs = significant risk. Framed as decision analysis, not transaction.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Reports say the Cubs are \"unlikely\" to win the Suzuki bidding war. Toronto is circling.\n\nAfter Bregman, Hoerner, and PCA's deals, the budget is tight.\n\nLosing Happ AND Suzuki in the same winter while Horton rehabs is a real risk.\n\n#Cubs #MLB #ChicagoCubs",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "brief (decision analysis)",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#ChicagoCubs"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Steele + Horton 2027 — Both Out, But the Upside Is Real",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Both Cade Horton (15-month TJ, return July/Aug 2027) and Justin Steele (UCL surgery) are out until 2027. Silver lining: if Hoyer adds 2 arms this winter AND both return healthy, this rotation's ceiling is elite.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Bad news: Horton (15-month TJ) and Steele (UCL) are both out until at least mid-2027.\n\nGood news: add two starters this winter AND get both back healthy, and this rotation's ceiling is elite.\n\nThe 2027 upside is REAL.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "brief (informative / forward-looking)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "Ian Happ — 10 Seasons, Now He Earns His Market",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Prime evening slot (insights: evening_18_24 WINNER). Ian Happ hits FA for first time at 32. Ten seasons, one team. No extension talks. Bold passionate case for Cubs to bring him home — not nostalgia, his bat still plays.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Ten seasons as a Cub. Never worn another uniform.\n\nIan Happ hits free agency for the first time at 32. He's earned every dollar of whatever market he finds.\n\nHoyer has a rotation to rebuild. He can't afford to lose Happ too.\n\nBring him home.\n\n#Cubs #GoCubs #CubNation",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "brief (bold / passionate)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubNation"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
