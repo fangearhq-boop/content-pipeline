@@ -1,0 +1,321 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-07",
+  "compiled_at": "2026-10-07T11:30:09.115106+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Jalen Duren Extension Done — What It Means for Detroit's Championship Window",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Relief in Detroit turns into genuine championship ambition. Duren anchors a 60-win Pistons team now playing for more.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Jalen Duren is a Piston for the next five years. $200M fully guaranteed. Weight clause gone. Cornerstone locked in at age 22. Detroit's 60-win core is intact.\n\n#DetroitPistons #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DetroitPistons",
+            "#NBA"
+          ],
+          "char_count": 180
+        },
+        {
+          "label": "Post 2",
+          "text": "Duren: 18 pts, 10.2 reb, All-Star, All-NBA last season. Locked in through age 27 on a fully guaranteed deal. This is what a championship window looks like being built.\n\n#DetroitPistons #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DetroitPistons",
+            "#NBA"
+          ],
+          "char_count": 189
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-duren-extension-pistons-season-outlook.html",
+        "headline": "Jalen Duren's $200M Extension Changes Everything for Detroit's Championship Hopes",
+        "word_count": 603
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jalen Duren Extension — Detroit Pistons\n**Sources searched:** AP/KSL.com, La Nacion (AP wire), Rotoballer, AJC, Eurohoops, BlackAmericaWeb\n**Verified Facts (HIGH confidence):**\n- Duren agreed to a five-year, $200 million fully guaranteed extension with the Detroit Pistons [AP source confirmed by Rotoballer, AJC, La Nacion/AP]\n- Deal reached hours before the restricted free agency deadline [AP source]\n- Agent Chafie Fields confirmed the agreement to ESPN senior NBA insider Shams Charania [Eurohoops/AP reports]\n- Pistons completely removed conditioning/weight clauses from the proposal — that was the sticking point all summer [Eurohoops, BlackAmericaWeb context]\n- Duren stats in 2025-26: 18.0 points per game, 10.2 rebounds per game [Rotoballer]\n- Duren earned All-Star honors and Third Team All-NBA selection in 2025-26 [Rotoballer]\n- Detroit went 60-22 in the regular season 2025-26 [Rotoballer context; also matches pipeline history]\n- Duren is age 22 (from pipeline story history 2026-09-27: \"age 22\")\n**NOTE — Discrepancy on stats:**\n- Story history (Sept 27-28 pipeline) had Duren at 19.5 pts, 10.5 reb\n- New search (AP/Rotoballer) says 18.0 pts, 10.2 reb\n- Likely: 19.5/10.5 was a projection or early-season pace; 18.0/10.2 is final 2025-26 season average\n- **Using 18.0 pts, 10.2 reb** (from verified AP-sourced report) — tag as MEDIUM due to single new-search source; flag for fact-check\n**Facts to avoid (LOW confidence):**\n- Exact contract start/end years not confirmed — avoid using\n- Signing bonus breakdown — not confirmed",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Knicks Banner Night — 13 Days Away, and the Buzz Is Not Cooling Off",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "The calendar is ticking. This is the most anticipated NBA regular-season opener in a generation.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "13 days until the Knicks raise their first championship banner since 1973. LeBron and the 76ers are the opponent. Tickets averaging $2,560. This is the most anticipated opening night in years.\n\n#NewYorkKnicks #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkKnicks",
+            "#NBA"
+          ],
+          "char_count": 213
+        },
+        {
+          "label": "Post 4",
+          "text": "The Knicks swept the 76ers 4-0 last season. Now LeBron is suiting up for Philly and opening night is at MSG. The NBA storyline writes itself. Oct. 20 can't come fast enough.\n\n#NewYorkKnicks #Sixers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkKnicks",
+            "#Sixers"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-knicks-banner-night-13-days.html",
+        "headline": "Knicks Banner Night Is 13 Days Away — and the NBA Has Never Hyped an Opener Like This",
+        "word_count": 640
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Knicks Banner Night — Oct. 20, 2026\n**Sources searched:** 6abc.com, Empire Sports Media, NBC Boston/Bay Area, iHeart, Channel3000/Reuters, Lufkin Daily News/Reuters\n**Verified Facts (HIGH confidence):**\n- Oct. 20 is opening night; ceremony at 6:30 PM ET, tip-off at 7 PM ET on NBC/Peacock [multiple sources]\n- Opponent: Philadelphia 76ers (LeBron's new team) [multiple sources]\n- This is the Knicks' first championship banner since 1973 — 53 years [multiple sources]\n- 76ers swept the Knicks 4-0 in the 2025-26 Eastern Conference semifinals [multiple sources confirm this — correction: Knicks swept Sixers 4-0, not Sixers swept Knicks]\n- Secondary market average ticket price: ~$2,560; get-in: $1,000+ [pipeline history, 10-06 brief]\n- Opening night tripleheader: Celtics at Pistons (3 PM ET), Knicks vs. Sixers (7 PM), Thunder vs. Spurs (9:30 PM) [NBC Bay Area, NBC Boston]\n- LeBron is 41 years old (born Dec. 30, 1984) [widely known; confirm via primary source for articles]\n**Verified Facts (MEDIUM confidence):**\n- LeBron signed 2-year, $8 million deal with Sixers [multiple reports from pipeline history]\n- Knicks took down the San Antonio Spurs in five games to win the championship [search result mentions \"five-game Finals triumph over the San Antonio Spurs\"]\n- Jalen Brunson is the Finals MVP [search result shows \"Jalen Brunson holds the Larry O'Brien Trophy\"]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "LaMelo Ball Makes Timberwolves Debut Tonight — New Dynamic Duo Unveiled",
+      "tier": 2,
+      "status": "",
+      "angle": "The Wolves' retooled roster gets its first real look tonight. LaMelo + Edwards could be must-watch basketball all season.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "LaMelo Ball makes his Timberwolves debut TONIGHT vs. Indiana at 7 PM ET. He averaged 20.1 pts and 7.1 ast last season. Now he runs alongside Anthony Edwards.\n\n#MNTimberwolves #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MNTimberwolves",
+            "#NBA"
+          ],
+          "char_count": 179
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-lamelo-ball-timberwolves-debut.html",
+        "headline": "LaMelo Ball Makes His Timberwolves Debut Tonight — Can He and Edwards Become the West's Next Great Duo?",
+        "word_count": 591
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LaMelo Ball — Timberwolves Debut\n**Sources searched:** Valley News Live (LaMelo intro presser), Rotowire, AllStarMagazine, Roundtable.io, RotoWire\n**Verified Facts (HIGH confidence):**\n- LaMelo Ball and Josh Green were introduced as Timberwolves on July 14, 2026 [Valley News Live]\n- Trade details: Minnesota acquired Ball and Green from Charlotte for Naz Reid, an unprotected 2033 first-round pick, three first-round pick swaps, and three second-round picks [Yahoo Sports preseason preview context]\n- LaMelo averaged 20.1 points, 7.1 assists, 4.8 rebounds per game last season [from pipeline search summary — MEDIUM, single source]\n- LaMelo's Timberwolves preseason debut was scheduled for tonight (Oct. 7) vs. Indiana Pacers at 7 PM ET [preseason schedule source]\n- LaMelo and Giannis (Heat) have their first head-to-head on Oct. 21 regular season debut [Roundtable.io]\n- Josh Green also acquired in the deal [Valley News Live]\n**Facts to avoid (LOW confidence):**\n- Anthony Edwards' exact 2025-26 stats — not confirmed in searches, don't state specific numbers",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "76ers Preseason — LeBron Eyes His Sixers Debut",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "The supporting cast already looks elite. The main event is still coming.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Jaylen Brown had 22 pts in 17 minutes in his 76ers debut. LeBron, Embiid, and Maxey haven't even played yet. The Sixers' main event is still coming. Oct. 20 at the Knicks.\n\n#Sixers #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sixers",
+            "#NBA"
+          ],
+          "char_count": 185
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-sixers-preseason-lebron-debut-coming.html",
+        "headline": "Brown's Hot Start Is the Opening Act — The 76ers' Main Event Is Still Coming",
+        "word_count": 652
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "76ers Preseason — LeBron Sitting Out\n**Sources searched:** Philadelphia Inquirer, HawaiiTribune-Herald, Northeast Times, PostGuam\n**Verified Facts (HIGH confidence):**\n- Jaylen Brown scored 22 points (8-of-13 FG, 2-of-3 from three), 2 rebounds, 2 assists, 1 block in 17 minutes in Sixers' 120-97 win over Knicks on Oct. 5 [from 10-06 pipeline brief, confirmed as research]\n- LeBron James, Tyrese Maxey, and Joel Embiid all sat out the Oct. 5 game [from 10-06 pipeline brief]\n- Sixers will open regular season at Knicks on Oct. 20, then host Cavaliers on Oct. 22 [HawaiiTribune, PostGuam]\n- Sixers will play in 30 national TV games in 2026-27 [Inquirer]\n- Title odds improved from +2000 to +900 after LeBron's signing [pipeline history]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Bucks Open Preseason Without Giannis Tonight — A New Era in Milwaukee",
+      "tier": 2,
+      "status": "",
+      "angle": "The Giannis era is over in Milwaukee. What does this team become? Tonight is the first clue.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "For the first time since 2021, the Bucks tip off without Giannis. He's in Miami. Tonight vs. OKC at 8 PM ET is the first look at what comes next in Milwaukee.\n\n#MilwaukeeBucks #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MilwaukeeBucks",
+            "#NBA"
+          ],
+          "char_count": 180
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-bucks-post-giannis-era-begins.html",
+        "headline": "The Giannis Era Is Over in Milwaukee — Now What?",
+        "word_count": 638
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Bucks Begin Post-Giannis Era\n**Sources searched:** Various pipeline searches\n**Verified Facts (HIGH confidence):**\n- Giannis Antetokounmpo was traded from Milwaukee to the Miami Heat for five picks and four players [pipeline history 09-28: \"acquired from Bucks for 5 picks + 4 players\"]\n- Heat additions include: Klay Thompson, Bobby Portis, Tim Hardaway Jr., Andrew Wiggins [pipeline 09-28 brief]\n- Bucks vs. OKC Thunder is scheduled for Oct. 7 at 8 PM ET [preseason schedule]\n- OKC is in an opening night West finals rematch vs. San Antonio (Oct. 20) suggesting they were in the West Finals [NBC sources]\n**Facts to avoid (LOW confidence):**\n- Bucks' specific new roster additions — not confirmed\n- Giannis' exact trade package details",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -2,6 +2,48 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-07
+
+### STORY 1: Jalen Duren Extension — What It Means for Detroit's Championship Window
+- **Tier:** 1
+- **Category:** Detroit Pistons / Jalen Duren / Contract Extension / Season Preview
+- **Key facts:** 5-year $200M fully guaranteed extension; weight clause removed; deal signed hours before RFA deadline; agent Chafie Fields confirmed to Shams Charania; stats: 18.0 pts, 10.2 reb (2025-26); All-Star, Third Team All-NBA; age 22; Pistons went 60-22 in 2025-26
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Preseason performance, season chemistry with supporting cast, Eastern Conference contention outlook
+
+### STORY 2: Knicks Banner Night — 13 Days Away, Buzz Not Cooling Off
+- **Tier:** 1
+- **Category:** New York Knicks / Opening Night / Banner Ceremony / LeBron James / Philadelphia 76ers
+- **Key facts:** Oct. 20 opening night; ceremony 6:30 PM ET, tip-off 7 PM on NBC/Peacock; first Knicks banner since 1973 (53 years); secondary market avg $2,560, get-in $1,000+; tripleheader: Celtics vs Pistons (3 PM), Knicks vs Sixers (7 PM), Thunder vs Spurs (9:30 PM); Knicks swept Sixers 4-0 in 2025-26 EC semifinals; LeBron signed 2-year $8M with Sixers; Sixers title odds +900
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Preseason lead-up, LeBron/Sixers first look together, ticket demand updates
+
+### STORY 3: LaMelo Ball Makes Timberwolves Debut Tonight
+- **Tier:** 2
+- **Category:** Minnesota Timberwolves / LaMelo Ball / Anthony Edwards / Trade
+- **Key facts:** Ball acquired from Charlotte Hornets for Naz Reid, unprotected 2033 first-round pick, 3 pick swaps, 3 second-round picks; Josh Green also acquired; Ball averaged 20.1 pts, 7.1 ast, 4.8 reb last season; debut vs Indiana Pacers Oct. 7 at 7 PM ET; introduced as Timberwolf July 14, 2026
+- **Byline:** Damon Pierce
+- **Status:** NEW
+- **Follow-up ideas:** First game stats, chemistry with Edwards, Timberwolves Western Conference outlook
+
+### STORY 4: 76ers Preseason — LeBron Eyes His Sixers Debut
+- **Tier:** 2
+- **Category:** Philadelphia 76ers / LeBron James / Preseason / Jaylen Brown / Joel Embiid
+- **Key facts:** Brown: 22 pts (8-13 FG, 2-3 3PT), 2 reb, 2 ast, 1 blk in 17 min in Sixers' 120-97 win vs Knicks Oct. 5; LeBron/Embiid/Maxey all sat out; Sixers open at Knicks Oct. 20, host Cavaliers Oct. 22; 30 national TV games in 2026-27; title odds +900
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron's preseason debut, full lineup chemistry, opening night at MSG
+
+### STORY 5: Bucks Begin Post-Giannis Era — Preseason vs. Thunder
+- **Tier:** 2
+- **Category:** Milwaukee Bucks / Giannis Antetokounmpo / Preseason / Rebuild / OKC Thunder
+- **Key facts:** Giannis traded to Miami Heat for 5 picks + 4 players; Bucks vs OKC Thunder Oct. 7 at 8 PM ET (first game without Giannis since 2021); OKC plays Spurs in "West Finals rematch" on opening night; Heat added Klay Thompson, Bobby Portis, Tim Hardaway Jr., Andrew Wiggins
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** Bucks rebuild direction, draft picks' impact, first signs of new team identity
+
 ## 2026-09-28
 
 ### STORY 1: NBA Media Day 2026 — 25 Teams Hit the Stage
