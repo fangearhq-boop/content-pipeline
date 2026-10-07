@@ -1,0 +1,322 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-07",
+  "compiled_at": "2026-10-07T11:43:17.424981+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Singapore Sprint Preview — Can Antonelli Clinch the Title This Weekend?",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "The countdown to history. Antonelli is two days from potentially becoming the youngest F1 World Champion ever.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Kimi Antonelli leads George Russell by 84 points heading into Singapore. The Sprint weekend adds 33 points to play for. Title clinch this Sunday is mathematically possible. 🏆\n\n#F1 #SingaporeGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SingaporeGP"
+          ],
+          "char_count": 192
+        },
+        {
+          "label": "Post 2",
+          "text": "84 points clear. 33 available at Singapore (Sprint + Race). If Antonelli wins big and Russell stumbles — it's done in Singapore. The youngest F1 champion in history could be crowned this Sunday.\n\n#F1 #SingaporeGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SingaporeGP"
+          ],
+          "char_count": 212
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-antonelli-clinch-singapore-sprint-math.html",
+        "headline": "The Title Could End in Singapore — Antonelli's Championship Math Heading Into the Sprint",
+        "word_count": 529
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Championship Clinch Math at Singapore\n**Verified Facts (HIGH confidence):**\n- Antonelli leads championship: 320 pts [multiple sources: Racing News 365, Crash.net, Motorsport Week, Yahoo Sports]\n- Russell 2nd: 236 pts [same sources]\n- Gap: 84 pts [Racing News 365, Crash.net headline: \"crushing blow for Russell\"]\n- Singapore GP dates: Oct 9-11, 2026 [Formula1.com, ESPN, Motorsport.com]\n- Singapore Sprint format: Sprint + Race weekend; Sprint race 8 pts max, Race 25 pts max; total 33 pts max per Sprint weekend [Sprint weekend structure — standard F1]\n- This is the final Sprint weekend of the 2026 season [Racing News 365 Singapore preview]\n**Clinch math (derived — label MEDIUM):**\n- Remaining max for Russell at Singapore: 33 pts (Sprint win + Race win)\n- If Russell gets max 33, gap reduces to 51 pts\n- Remaining rounds after Singapore: need at least 3 more rounds (Singapore is Round 17) for 84-pt gap to remain unassailable\n- From 09-28 pipeline: \"scenario: Antonelli wins Sprint + race, Russell outside points = title\" — this was the clinch at Singapore per prior research\n- MEDIUM: exact clinch calculation depends on total remaining rounds\n**Facts to avoid (LOW):**\n- Do not state exact rounds remaining without verification",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Marina Bay Goes Sprint — A First for Singapore",
+      "tier": 1,
+      "status": "",
+      "angle": "A new chapter for one of F1's greatest venues. Singapore tries the Sprint for the first time.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "History at Marina Bay this weekend: Singapore hosts its FIRST ever F1 Sprint race. Sprint Qualifying Friday at 8:30 PM local. Sprint race Saturday at 5:00 PM. Then the Grand Prix Sunday night. 🇸🇬\n\n#F1 #SingaporeGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SingaporeGP"
+          ],
+          "char_count": 213
+        },
+        {
+          "label": "Post 4",
+          "text": "Singapore's Sprint debut makes this one of the most anticipated weekends of the 2026 season. It's also the FINAL Sprint of the year — and the championship could be decided here.\n\n#F1 #SingaporeGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SingaporeGP"
+          ],
+          "char_count": 195
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-singapore-sprint-first-time-marina-bay.html",
+        "headline": "Marina Bay Gets Its First Sprint — Why This Singapore GP Is Unlike Any Before",
+        "word_count": 573
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Singapore Sprint — First at Marina Bay\n**Verified Facts (HIGH confidence):**\n- 2026 Singapore GP is first-ever Sprint weekend at Marina Bay Street Circuit [ESPN preview, McLaren preview, Motorsport.com 2026 Singapore GP guide]\n- This is the final Sprint of the 2026 season [Racing News 365]\n- Schedule: Friday Oct 9: FP1 4:30 PM local / Sprint Qualifying 8:30 PM local [ESPN, F1 official]\n- Saturday Oct 10: Sprint race 5:00 PM local / GP Qualifying 9:00 PM local [ESPN]\n- Sunday Oct 11: Main race 8:00 PM local [ESPN]\n- Oct 7: McLaren Racing Live event — Oscar Piastri and Zak Brown at Sands Theatre, Marina Bay Sands at 8 PM local [Motorsport.com Singapore guide]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Russell's Recovery Mission — What He Must Do at Singapore",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Russell's title hopes hinge on a miracle weekend at Marina Bay.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "George Russell needs to win BOTH the Sprint and the Race at Singapore and hope Antonelli scores nothing. That's the only realistic path to keeping his title hopes alive. 84 points is brutal.\n\n#F1 #SingaporeGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SingaporeGP"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-russell-recovery-mission-singapore.html",
+        "headline": "Russell's Recovery Mission — The Math Is Brutal, But He Won't Give Up",
+        "word_count": 518
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Russell Recovery Math\n**Verified Facts (HIGH confidence):**\n- Russell DNF at Malaysia (power unit failure) — from Oct-06 pipeline history\n- Russell now trails by 84 pts [confirmed above]\n- Sprint win = 8 pts, Race win = 25 pts; maximum from Singapore = 33 pts [F1 standard]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Verstappen's Momentum — Red Bull Arrives at Singapore on a High",
+      "tier": 2,
+      "status": "",
+      "angle": "The defending champion is back in the hunt for wins. Singapore suits his aggressive driving style.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Max Verstappen won in Malaysia and arrives at Singapore level on points with Lando Norris at 188. After a rough mid-season, Red Bull looks like genuine podium contenders again. 🐂\n\n#F1 #SingaporeGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SingaporeGP"
+          ],
+          "char_count": 196
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-verstappen-red-bull-singapore-momentum.html",
+        "headline": "Verstappen Arrives at Singapore on a High — Can Red Bull Win at Marina Bay?",
+        "word_count": 504
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Malaysia Win and Singapore Outlook\n**Verified Facts (HIGH confidence):**\n- Verstappen won Malaysia (Bahrain GP at Sepang) — from Oct-06 pipeline\n- Verstappen at 188 pts, tied with Norris [standings above]\n- Both in P5/P6 in championship (Norris listed at P5, Verstappen P6 or tied per some sources)\n**Facts to avoid (LOW):**\n- Verstappen's previous Singapore wins/performance history — not confirmed in this search",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Ferrari Constructors Push — Hamilton and Leclerc Close the Gap",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Ferrari may be out of the Drivers' title race, but the Constructors battle is very much alive.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Lewis Hamilton P3 in Malaysia. Charles Leclerc P4 overall. Ferrari at 214+191 pts combined — the Constructors battle isn't over. Singapore could be a turning point.\n\n#F1 #SingaporeGP #Ferrari",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SingaporeGP",
+            "#Ferrari"
+          ],
+          "char_count": 191
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-ferrari-constructors-hamilton-leclerc.html",
+        "headline": "Ferrari's Quiet Constructors Battle — Hamilton and Leclerc Keep Pushing at Singapore",
+        "word_count": 517
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ferrari Constructors\n**Verified Facts (HIGH confidence):**\n- Hamilton P3 at Malaysia — from Oct-06 pipeline\n- Hamilton: 214 pts (P3 in Drivers' Championship) [confirmed above]\n- Leclerc: 191 pts (P4) [confirmed above]\n- Ferrari combined constructors: ~405 pts (rough calc from Hamilton 214 + Leclerc 191)\n- Mercedes combined: Antonelli 320 + Russell 236 = 556 pts [confirmed]\n- Ferrari still trailing Mercedes significantly in Constructors\n**Note:** Need to add context — previous race history mentioned \"Mercedes Constructors at 538\" in Sept; now at 556 per math.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

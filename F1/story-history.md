@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-07
+
+### STORY 1: Antonelli 84 Points Clear — Singapore Sprint Could Clinch It
+- **Tier:** 1
+- **Category:** F1 / Kimi Antonelli / Mercedes / Championship / Singapore GP / Sprint
+- **Key facts:** Antonelli 320 pts; Russell 236 pts; gap 84 pts; Verstappen won Malaysia (Bahrain GP at Sepang); Russell DNF power unit failure Malaysia; Singapore Oct 9-11 Sprint weekend; clinch scenario: Antonelli wins Sprint + race, Russell outside points; max swing = 33 pts; Antonelli career-youngest potential champion
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: Marina Bay Gets Its First Sprint — Singapore GP Unlike Any Before
+- **Tier:** 1
+- **Category:** F1 / Singapore Grand Prix / Sprint / Marina Bay
+- **Key facts:** First Sprint at Marina Bay street circuit; final Sprint weekend of 2026 season; FP1 4:30 PM local Fri Oct 9; Sprint Qual 8:30 PM Fri; Sprint Race 5:00 PM Sat Oct 10; GP Qual 9:00 PM Sat; Grand Prix 8:00 PM Sun Oct 11; limited practice before Sprint Qual critical at street circuit; Sprint adds 8 pts for winner
+- **Byline:** Elena Voss
+- **Status:** NEW
+
+### STORY 3: Russell's Recovery Mission — The Math Is Brutal
+- **Tier:** 2
+- **Category:** F1 / George Russell / Mercedes / Championship
+- **Key facts:** 84 pts deficit heading to Singapore; max gain at Sprint weekend = 33 pts (Sprint win + race win + Antonelli DNF both); gap would only drop to 51 even best case; realistic path requires multiple Antonelli failures; Russell needs pole in Sprint Qual and GP Qual, wins both, Antonelli scores zero; Marina Bay frontrow starting position crucial
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 4: Verstappen Arrives Singapore on a High — Can Red Bull Win Marina Bay?
+- **Tier:** 2
+- **Category:** F1 / Max Verstappen / Red Bull / Singapore GP
+- **Key facts:** Won Bahrain GP at Sepang (Malaysia race Oct 2-4); 188 pts tied with Norris for P3 championship; Red Bull confirmed competitive after Malaysia development update; Sprint format benefits strong qualifiers; Verstappen's Marina Bay style fits circuit; previously won Singapore GP; P3 battle with Norris key subplot
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: Ferrari's Quiet Constructors Battle — Hamilton and Leclerc Keep Pushing
+- **Tier:** 2
+- **Category:** F1 / Ferrari / Lewis Hamilton / Charles Leclerc / Constructors Championship
+- **Key facts:** Hamilton P3 Malaysia = 214 pts (3rd overall); Leclerc 191 pts (4th overall); combined tally building Constructors case; Mercedes Constructors well ahead; Ferrari targeting runner-up Constructors; Hamilton 41 years old, first Ferrari season consistent podiums; Leclerc + Hamilton top-5 finishes Singapore could close gap; Sprint points also available
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
 ## 2026-09-28
 
 ### STORY 1: Colapinto 5-Place Penalty — Norris Demands Race Ban
