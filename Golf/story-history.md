@@ -2,6 +2,16 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-10-07
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-07 | T1 | Baycurrent Classic Starts Thursday — Yokohama Preview | X(2), FB, Article | FOLLOW UP |
+| 2026-10-07 | T1 | LIV Golf Pushes Deadline to October 25 — BC Partners $300M Confirmed | X(1), FB, Article | FOLLOW UP |
+| 2026-10-07 | T1 | Jeeno Thitikul Wins LOTTE Championship — Fourth Win of 2026 | X(2), FB, Article | NEW |
+| 2026-10-07 | T2 | Wyndham Clark — From No. 75 to No. 5, and Now Yokohama | X(1), FB, Article | NEW |
+| 2026-10-07 | T2 | LPGA Asian Swing — Shanghai, South Korea, Malaysia Next | X(1), FB, Article | FOLLOW UP |
+
 ## 2026-10-06
 
 | Date | Tier | Title | Platforms | Status |

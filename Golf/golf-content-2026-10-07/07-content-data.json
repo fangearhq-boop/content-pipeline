@@ -1,0 +1,241 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-07",
+  "compiled_at": "2026-10-07T11:54:41.023187+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Baycurrent Classic Starts Thursday — Yokohama's Biggest Week",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Schauffele defending. Clark at No. 5 in the world. Matsuyama on home turf. The Baycurrent Classic at Yokohama Country Club starts Thursday — 72 players, no cut, $8M purse.\n\n#BaycurrentClassic #PGATour #FedExCupFall",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BaycurrentClassic",
+            "#PGATour",
+            "#FedExCupFall"
+          ],
+          "char_count": 214
+        },
+        {
+          "label": "Post 2",
+          "text": "500 FedExCup Fall points up for grabs at Yokohama this week. That's the third-biggest prize remaining in the Fall series. Xander Schauffele is trying to become the first player to defend this title.\n\n#BaycurrentClassic #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BaycurrentClassic",
+            "#PGATour"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-01-baycurrent-classic-preview-yokohama.html",
+        "headline": "Baycurrent Classic Preview — Schauffele, Clark, and Matsuyama Head to Yokohama",
+        "word_count": 639
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Baycurrent Classic Preview\n\n**Social (1080x1350):**\n- Search: \"Xander Schauffele PGA Tour\"\n- Caption overlay: \"Yokohama Week Is Here. Schauffele, Clark, Matsuyama.\"\n\n**Article Hero (1200x630):**\n- Search: \"Xander Schauffele PGA Tour\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "LIV Golf Pushes Its Deadline to October 25",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The LIV Golf player commitment deadline has been pushed from October 13 to October 25. BC Partners confirmed $300M in initial funding. Players who sign get 52.5% equity in the new league — but give up half their unpaid contracts to do it.\n\n#LIVGolf #GolfNews",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#GolfNews"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-02-liv-golf-deadline-extended-bc-partners.html",
+        "headline": "LIV Golf's October 25 Deadline — What the Equity Deal Means for the League's Future",
+        "word_count": 583
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Deadline Extended\n\n**Social (1080x1350):**\n- Search: \"Jon Rahm LIV Golf\"\n- Caption overlay: \"Deadline Extended to Oct. 25. Players Weigh Equity Deal.\"\n\n**Article Hero (1200x630):**\n- Search: \"Bryson DeChambeau LIV Golf\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Jeeno Thitikul Wins LOTTE Championship — Fourth Win of 2026",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jeeno Thitikul drives into the water on 16, loses her 2-shot lead — then makes a 20-foot birdie on 17 and birdies 18 to win the LOTTE Championship by 3. Four wins in 2026. Matching Nelly Korda.\n\n#LPGATour #LOTTEChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGATour",
+            "#LOTTEChampionship"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-03-thitikul-lotte-championship-fourth-win.html",
+        "headline": "Thitikul's LOTTE Championship Win — Four Wins, One Dramatic Finish",
+        "word_count": 525
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jeeno Thitikul LOTTE Championship Win\n\n**Social (1080x1350):**\n- Search: \"Atthaya Thitikul LPGA Tour\"\n- Caption overlay: \"Four Wins. Thitikul Takes the LOTTE Championship.\"\n\n**Article Hero (1200x630):**\n- Search: \"Atthaya Thitikul LPGA Tour\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Wyndham Clark Arrives at Yokohama as the Season's Standout",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Wyndham Clark started 2026 at No. 75 in the world. He won the Byron Nelson. He won the U.S. Open wire-to-wire at Shinnecock Hills. He arrives at Yokohama ranked No. 5 globally. That's a season.\n\n#BaycurrentClassic #WyndhamClark #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BaycurrentClassic",
+            "#WyndhamClark",
+            "#PGATour"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-04-wyndham-clark-2026-season-baycurrent.html",
+        "headline": "Wyndham Clark's 2026 — From No. 75 to No. 5, and Now Yokohama",
+        "word_count": 551
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wyndham Clark Feature\n\n**Social (1080x1350):**\n- Search: \"Wyndham Clark PGA Tour\"\n- Caption overlay: \"No. 75 to No. 5. Clark's 2026 Was Something Else.\"\n\n**Article Hero (1200x630):**\n- Search: \"Wyndham Clark PGA Tour\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "LPGA Asian Swing Heads to Shanghai After Hawaii",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "LOTTE Championship: done. Next up for the LPGA Tour — Buick LPGA Shanghai at Sheshan Golf Club, Oct 15-18. Then BMW Ladies Championship in South Korea Oct 22-25. The Asian swing runs three straight weeks.\n\n#LPGATour #BuickLPGAShanghai",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGATour",
+            "#BuickLPGAShanghai"
+          ],
+          "char_count": 234
+        },
+        {
+          "label": "Post 7",
+          "text": "Four wins in 2026. Jeeno Thitikul has matched Nelly Korda and built the strongest case for LPGA Player of the Year heading into the Asian swing. Shanghai in eight days.\n\n#LPGATour #Thitikul",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGATour",
+            "#Thitikul"
+          ],
+          "char_count": 189
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-05-lpga-asian-swing-shanghai-south-korea.html",
+        "headline": "LPGA Asian Swing — Three Countries, Three Weeks, One Player of the Year Race",
+        "word_count": 584
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LPGA Asian Swing\n\n**Social (1080x1350):**\n- Search: \"Atthaya Thitikul LPGA Tour\"\n- Caption overlay: \"Shanghai, South Korea, Malaysia. Three Weeks. Let's Go.\"\n\n**Article Hero (1200x630):**\n- Search: \"Nelly Korda LPGA Tour\""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No Facebook posts found",
+      "Story 1: No posting window specified",
+      "Story 2: No Facebook posts found",
+      "Story 2: No posting window specified",
+      "Story 3: No Facebook posts found",
+      "Story 3: No posting window specified",
+      "Story 4: No Facebook posts found",
+      "Story 4: No posting window specified",
+      "Story 5: No Facebook posts found",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
