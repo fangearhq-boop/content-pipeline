@@ -1,0 +1,330 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-08",
+  "compiled_at": "2026-10-08T12:27:02.174741+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Djokovic Wins 7th Beijing Title, 102nd Career Crown — De Minaur Retires",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "DJOKOVIC WINS BEIJING. Beats de Minaur 7-6(3), 1-0 ret. as de Minaur retires with a groin injury.\n\nNo. 7 Beijing title. No. 102 career title. At 39, the oldest ATP 500 champion in the Open Era. 34-0 all-time.\n\n#ATP #ChinaOpen #Djokovic",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 6 S2: Beijing SFs → Final result)",
+          "hashtags": [
+            "#ATP",
+            "#ChinaOpen",
+            "#Djokovic"
+          ],
+          "char_count": 235
+        },
+        {
+          "label": "Post 1-2",
+          "text": "34-0 in Beijing. 102 career titles. Oldest ATP 500 champion ever.\n\nNovak Djokovic's 7th China Open title came a day after Medvedev was defaulted for hitting a spectator. Wild two days in Beijing.\n\n#Djokovic #ChinaOpen #ATP",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 6 S2: Beijing SFs → Final result)",
+          "hashtags": [
+            "#Djokovic",
+            "#ChinaOpen",
+            "#ATP"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "7-0, 7-0, 7 titles. Djokovic in Beijing is simply untouchable. 🎾 His 102nd career title and 34-0 record at the China Open says everything.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-djokovic-102nd-title-beijing-final.html",
+        "headline": "Djokovic Wins 7th Beijing Title and 102nd Career Crown as De Minaur Retires",
+        "word_count": 591
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "WTA Beijing R16 Shock — Gauff Out, Swiatek Ties Serena's Record, QF Field Set",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "UPSET ALERT: Elise Mertens def. No. 3 seed Coco Gauff 6-3, 6-3 in WTA Beijing R16 — Mertens' FIRST win over Gauff in six career meetings.\n\nDefending champion Gauff is out. No top-3 seed remains. #WTA #ChinaOpen",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 6 S3: WTA Beijing R4 → R16 results, QF bracket set)",
+          "hashtags": [
+            "#WTA",
+            "#ChinaOpen"
+          ],
+          "char_count": 210
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Iga Swiatek's R16 win at WTA Beijing was her 148th WTA 1000 main-draw win — TYING Serena Williams' all-time record.\n\nOne more win vs. Mertens in the QF (Oct 9) and Swiatek owns it outright. #Swiatek #WTA #ChinaOpen",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 6 S3: WTA Beijing R4 → R16 results, QF bracket set)",
+          "hashtags": [
+            "#Swiatek",
+            "#WTA",
+            "#ChinaOpen"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "148 WTA 1000 wins. Tied with Serena Williams for the all-time record. Iga Swiatek is one win away from history at WTA Beijing. 🎾",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-wta-beijing-gauff-mertens-swiatek-serena-record.html",
+        "headline": "Gauff Out in Beijing Shock as Swiatek Ties Serena Williams' WTA 1000 Record",
+        "word_count": 507
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Shanghai Masters Day 2 — Rune Falls to Altmaier, R1 Underway",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "EARLY SHOCK at Shanghai: Daniel Altmaier def. No. 7 seed Holger Rune 1-6, 7-6(5), 6-4 in R1.\n\nAltmaier next faces Ben Shelton. Zverev (top seed) and Djokovic enter with byes. #Shanghai #RolexShanghaiMasters #ATP",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 6 S5: Shanghai preview, tournament starts → Day 2 R1 results)",
+          "hashtags": [
+            "#Shanghai",
+            "#RolexShanghaiMasters",
+            "#ATP"
+          ],
+          "char_count": 211
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Shanghai Masters Day 2: Hurkacz d. Duckworth 6-3, 7-6(4); Tsitsipas d. Coppejans 6-3, 7-5; Baez, Borges, Brooksby, Arnaldi also through.\n\nHurkacz lines up vs. Djokovic in R2. #Shanghai #ATP #RolexShanghaiMasters",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 6 S5: Shanghai preview, tournament starts → Day 2 R1 results)",
+          "hashtags": [
+            "#Shanghai",
+            "#ATP",
+            "#RolexShanghaiMasters"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "Shanghai is open for business 🎾 — and Rune is already out the door. Day 2 recap: Hurkacz, Tsitsipas, and company advance as the top seeds wait for their entries.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-shanghai-masters-day-2-rune-upset.html",
+        "headline": "Shanghai Masters R1: Rune Falls to Altmaier, Hurkacz Sets Up Djokovic Clash",
+        "word_count": 481
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Race to Turin — Zverev's Year-End No. 1 Now Almost Certain with Sinner Out of Shanghai",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "With Sinner out of Shanghai (hasn't played since Wimbledon), Zverev's Year-End No. 1 is nearly sealed.\n\nZverev ~8,740 Race pts. Sinner set to drop ~3,550 defending pts. Gap could exceed 4,500 after Shanghai. #ATPRace #ATP",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 6 S4/S5: Sinner WD confirmed; Race math → Shanghai R1 in progress, Sinner absent)",
+          "hashtags": [
+            "#ATPRace",
+            "#ATP"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "Sinner is out. Shanghai is running. And Zverev's Year-End No. 1 is looking nearly inevitable. 🎾 Here's where the Race to Turin stands.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-atp-race-to-turin-zverev-sinner-absent.html",
+        "headline": "Race to Turin: Zverev's Year-End No. 1 All But Decided with Sinner Out of Shanghai",
+        "word_count": 531
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Swiatek's Path to WTA Finals — One Win Away From Outright Serena WTA 1000 Record",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Iga Swiatek vs. Elise Mertens in WTA Beijing QF tomorrow (Oct 9).\n\nWhat's at stake: A Swiatek win gives her sole possession of the WTA 1000 all-time wins record — surpassing Serena Williams' 148.\n\nAlso crucial for her WTA Finals push. #Swiatek #WTA",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 5 S3 WTA Race; connects to Story 2)",
+          "hashtags": [
+            "#Swiatek",
+            "#WTA"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "History on the line 🎾: Iga Swiatek needs ONE more win to hold the all-time WTA 1000 wins record outright — and it's coming tomorrow in Beijing.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-swiatek-serena-wta-1000-record-beijing-qf.html",
+        "headline": "One Win From History: Swiatek Chases Outright WTA 1000 Wins Record in Beijing QF",
+        "word_count": 496
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -3,6 +3,16 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## October 8, 2026
+
+| 2026-10-08 | Djokovic wins 7th Beijing title, 102nd career crown — def. de Minaur 7-6(3), 1-0 ret. (groin injury retirement); 34-0 all-time in Beijing; oldest ATP 500 champion in Open Era (age 39); Medvedev DQ'd in SF (hit spectator). Sources: olympics.com, sofascore.com, si.com, tennismajors.com, atptour.com | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Oct 6 S2: Beijing SFs → Final result) |
+| 2026-10-08 | WTA Beijing R16 shock — Mertens def. Gauff 6-3, 6-3 (first win in 6 meetings); Swiatek def. Jovic 6-1, 6-3 (148th WTA 1000 win = ties Serena Williams all-time record, 31st WTA 1000 QF); Muchova def. Osaka 7-5, 1-6, 7-6(7) in 2:52; no top-3 seed remains; QF field: Swiatek(8)/Mertens(13), Zheng, Svitolina(6), Muchova(7), Andreeva(4), Alexandrova(19); Swiatek-Mertens QF Oct 9. Sources: wtatennis.com, sundayguardianlive.com, thesportsencounter.com | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Oct 6 S3: WTA Beijing R4 → R16 results, QF bracket) |
+| 2026-10-08 | Shanghai Masters Day 2 — Altmaier def. Rune 1-6, 7-6(5), 6-4 (Day 1 upset); Hurkacz def. Duckworth 6-3, 7-6(4); Tsitsipas def. Coppejans 6-3, 7-5; Baez, Borges, Brooksby, Arnaldi advance; Hurkacz vs. Djokovic R2; Zverev top seed, tournament runs Oct 7-18. Sources: atptour.com, en.rolexshanghaimasters.com, tennisworldusa.org, english.aawsat.com | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 6 S5: Shanghai preview, starts Oct 7 → Day 2 results) |
+| 2026-10-08 | ATP Race to Turin — Zverev (~8,740 pts) near-certain Year-End No. 1; Sinner (~7,950 pts) confirmed absent from Shanghai, drops ~3,550 defending pts, gap widens to 4,500+; bubble: Shelton (4,430), Alcaraz (~4,100), Medvedev/Fils/de Minaur/Menšík in 3-8 fight; first German Year-End No. 1 if confirmed. Sources: atptour.com, umpiry.com, tennis365.com | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Oct 6 S4/S5: Sinner WD + Race math → Shanghai R1 underway) |
+| 2026-10-08 | Swiatek WTA 1000 record milestone — 148 WTA 1000 wins (tied Serena Williams); one win in QF vs. Mertens (Oct 9) gives sole record; Swiatek 10th in Race (3,584 pts), 650 pts outside bubble for WTA Finals Riyadh; QF vs. Mertens critical for both record and Finals qualification. Sources: wtatennis.com, courtsidecoffee.substack.com | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (WTA Race context + Oct 6 S3 angle) |
+
+---
+
 ## October 6, 2026
 
 | 2026-10-06 | Japan Open Final — Alcaraz def. Lehecka 7-6(4), 6-4; first to defend Japan Open since Sampras 1994; Alcaraz 9-0 all-time Tokyo; first title since wrist injury return. Sources: tennis365.com, sundayguardianlive.com, sports.inquirer.net, dubaieye1038.com | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Oct 5 S1: Japan Open SFs → Final result) |

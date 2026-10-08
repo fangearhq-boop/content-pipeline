@@ -1,6 +1,37 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-10-06
+## Current Run: 2026-10-08
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Djokovic def. de Minaur 7-6(3), 1-0 ret. Beijing Final (olympics.com/sofascore.com/si.com/tennismajors.com); WTA Beijing R16: Mertens def. Gauff 6-3,6-3 (1st in 6), Swiatek def. Jovic 6-1,6-3 (148th WTA 1000 win=ties Serena), Muchova def. Osaka 7-5,1-6,7-6(7) 2:52 (wtatennis.com); Shanghai Day 2: Altmaier def. Rune 1-6,7-6(5),6-4 + Hurkacz def. Duckworth 6-3,7-6(4) (atptour.com/rolexshanghaimasters.com); Race: Zverev~8740 vs Sinner~7950 (umpiry.com/tennis365.com) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Oct 6 S2: Beijing SFs → Final result); S2 FOLLOW-UP (Oct 6 S3: WTA Beijing R4 → R16/QF); S3 FOLLOW-UP (Oct 6 S5: Shanghai preview → Day 2); S4 FOLLOW-UP (Oct 6 S4/S5: Sinner WD + Race → Shanghai underway); S5 FOLLOW-UP (WTA Race context + Oct 6 S3) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 8 posts across 5 stories; all ≤280 chars verified |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories |
+| Articles (5) | COMPLETE | article-01 Djokovic Beijing Final (Marcus Cole T1); article-02 WTA Beijing QF/Gauff/Swiatek (Ryan Calloway T1); article-03 Shanghai Day 2 Rune upset (Elena Voss T2); article-04 Race to Turin Zverev (Marcus Cole T2); article-05 Swiatek WTA 1000 record (Ryan Calloway T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated; 46 claims; image manifest warnings cosmetic (imagn, known) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 0 FB posts (known parser), 5 articles; posting-window warnings cosmetic (known) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries across 5 stories, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 28 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (8 posts) | tfr-postplanner-2026-10-08.xlsx + tfr-postplanner-tobi-2026-10-08.xlsx |
+| WordPress Publish | BLOCKED | auto-mode classifier 403 (known recurring issue) |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Oct 8 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
+- **PostPlanner exports:** 8 posts (parser working this run)
+- **Key stories:** Djokovic 7th Beijing title/102nd career/34-0/oldest ATP 500 champ; WTA Beijing shock (Mertens def. Gauff first time in 6, Swiatek ties Serena 148 WTA 1000 wins, Muchova-Osaka thriller, no top-3 seed left); Shanghai Masters Day 2 (Rune out, Hurkacz vs Djokovic R2); Race to Turin (Zverev near-certain Year-End No. 1, Sinner out, bubble tight); Swiatek one win from outright Serena WTA 1000 wins record
+- **Issues:** WordPress blocked by proxy (known recurring); dashboard push 403 (known); FB posts 0 in compiled (known parser)
+
+---
+
+## Previous Run: 2026-10-06
 
 | Step | Status | Notes |
 |------|--------|-------|
