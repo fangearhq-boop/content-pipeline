@@ -16,7 +16,7 @@
 - [x] publish-to-wordpress.py — no articles parsed (known parsing issue)
 
 ### Known Non-Blocking Issues
-- Dashboard push blocked: review-dashboard.html too large for inline MCP push (~155KB)
+- Dashboard push blocked: review-dashboard.html too large for inline MCP push (~200KB)
 - story-history.md too large for inline MCP push (>150KB)
 - WordPress publish blocked: fanrumor.com egress denied by proxy
 - PostPlanner export shows 0 posts: known social post format parsing issue

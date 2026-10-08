@@ -1,0 +1,2281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Golf Fanrecap — Content Review Dashboard</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #f5f5f5;
+            display: flex;
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .sidebar {
+            width: 280px;
+            background: #1a1a2e;
+            color: white;
+            padding: 30px 20px;
+            position: fixed;
+            height: 100vh;
+            overflow-y: auto;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            z-index: 10;
+        }
+
+        .sidebar h1 { font-size: 18px; margin-bottom: 10px; color: #FF8A00; font-weight: 700; }
+        .sidebar-date { font-size: 12px; color: #aaa; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #333; }
+        .sidebar-section { margin-bottom: 25px; }
+        .sidebar-section-title { font-size: 12px; text-transform: uppercase; color: #999; margin-bottom: 12px; font-weight: 600; letter-spacing: 1px; }
+
+        .nav-item {
+            display: block; padding: 12px 15px; margin-bottom: 8px; border-radius: 6px;
+            cursor: pointer; transition: all 0.3s ease; font-size: 14px; color: #ddd; user-select: none;
+        }
+        .nav-item:hover { background: #2d2d44; color: #FF8A00; }
+        .nav-item.active { background: #FF8A00; color: white; }
+        .nav-item-count { float: right; background: rgba(255, 107, 53, 0.3); padding: 2px 8px; border-radius: 3px; font-size: 12px; }
+        .nav-item.active .nav-item-count { background: rgba(0, 0, 0, 0.2); }
+
+        .main-content { margin-left: 280px; flex: 1; display: flex; flex-direction: column; }
+
+        .header {
+            background: white; padding: 25px 40px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-bottom: 3px solid #FF8A00;
+        }
+        .header h1 { font-size: 28px; color: #1a1a2e; margin-bottom: 10px; }
+        .header-meta { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px; }
+        .progress-bar { flex: 1; min-width: 200px; }
+        .progress-label { font-size: 13px; color: #666; margin-bottom: 8px; font-weight: 500; }
+        .progress-container { width: 100%; height: 8px; background: #ddd; border-radius: 4px; overflow: hidden; }
+        .progress-fill { height: 100%; background: linear-gradient(90deg, #FF8A00, #E53935); transition: width 0.3s ease; }
+        .header-actions { display: flex; gap: 10px; }
+
+        .btn {
+            padding: 10px 16px; border: none; border-radius: 6px; font-size: 14px;
+            font-weight: 600; cursor: pointer; transition: all 0.3s ease; white-space: nowrap;
+        }
+        .btn-primary { background: #FF8A00; color: white; }
+        .btn-primary:hover { background: #E53935; }
+        .btn-secondary { background: #f0f0f0; color: #333; }
+        .btn-secondary:hover { background: #e0e0e0; }
+
+        .filter-bar {
+            background: white; padding: 20px 40px; display: flex;
+            gap: 10px; flex-wrap: wrap; border-bottom: 1px solid #eee;
+        }
+        .filter-btn {
+            padding: 8px 14px; border: 1px solid #ddd; background: white;
+            border-radius: 5px; cursor: pointer; font-size: 13px; transition: all 0.3s ease;
+        }
+        .filter-btn:hover { border-color: #FF8A00; color: #FF8A00; }
+        .filter-btn.active { background: #FF8A00; color: white; border-color: #FF8A00; }
+
+        .content { flex: 1; padding: 30px 40px; overflow-y: auto; }
+
+        .cards-container { display: flex; flex-direction: column; gap: 20px; max-width: 900px; }
+
+        .card {
+            background: white; border-radius: 8px; padding: 24px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: all 0.3s ease;
+            border-left: 5px solid #ccc; display: none;
+        }
+        .card.show { display: block; }
+        .card.approved { border-left-color: #22c55e; }
+        .card.needs-edit { border-left-color: #eab308; }
+        .card.rejected { border-left-color: #ef4444; }
+        .card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.12); }
+
+        .card-header { display: flex; justify-content: space-between; align-items: start; margin-bottom: 15px; }
+        .card-title { font-size: 16px; font-weight: 600; color: #1a1a2e; flex: 1; margin-right: 10px; }
+
+        .card-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+        }
+        .badge-x-post { background: #1da1f2; color: white; }
+        .badge-facebook { background: #4267b2; color: white; }
+        .badge-article { background: #9333ea; color: white; }
+        .badge-image { background: #06b6d4; color: white; }
+        .badge-brief { background: #10b981; color: white; }
+
+        .fact-check-badge {
+            display: inline-block; padding: 3px 8px; border-radius: 4px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+            margin-left: 6px;
+        }
+        .fact-check-verified { background: #dcfce7; color: #166534; border: 1px solid #86efac; }
+        .fact-check-warning { background: #fef9c3; color: #854d0e; border: 1px solid #fde047; }
+        .fact-check-unverified { background: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; }
+
+        /* Content area — preview (collapsed) and full (expanded) */
+        .card-content {
+            background: #f9f9f9; padding: 15px; border-radius: 6px;
+            margin-bottom: 15px; font-size: 13px; line-height: 1.6; color: #555;
+            position: relative;
+        }
+        .card-content-text {
+            white-space: pre-wrap; word-break: break-word;
+        }
+
+        /* Collapsed state: limit height with fade */
+        .card-content.collapsed {
+            max-height: 200px; overflow: hidden;
+        }
+        .card-content.collapsed::after {
+            content: '';
+            position: absolute; bottom: 0; left: 0; right: 0; height: 60px;
+            background: linear-gradient(transparent, #f9f9f9);
+            pointer-events: none;
+        }
+
+        /* Expanded state: no limit */
+        .card-content.expanded {
+            max-height: none; overflow: visible;
+        }
+        .card-content.expanded::after { display: none; }
+
+        .expand-toggle {
+            display: inline-block; margin-bottom: 12px; padding: 6px 14px;
+            background: #eee; border: 1px solid #ddd; border-radius: 4px;
+            cursor: pointer; font-size: 12px; font-weight: 600; color: #555;
+            transition: all 0.2s ease;
+        }
+        .expand-toggle:hover { background: #ddd; color: #333; }
+
+        /* Inline editing */
+        .edit-textarea {
+            width: 100%; padding: 15px; border: 2px solid #FF8A00;
+            border-radius: 6px; font-size: 13px; font-family: inherit;
+            line-height: 1.6; resize: vertical; min-height: 200px;
+            background: #fffef5; color: #333; display: none;
+        }
+        .edit-textarea:focus {
+            outline: none; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.15);
+        }
+        .card.editing .card-content { display: none; }
+        .card.editing .edit-textarea { display: block; }
+        .card.editing .expand-toggle { display: none; }
+
+        .edit-bar {
+            display: none; gap: 8px; margin-bottom: 12px; padding: 10px;
+            background: #fff8f0; border: 1px solid #ffcc99; border-radius: 6px;
+            align-items: center;
+        }
+        .card.editing .edit-bar { display: flex; }
+        .edit-bar-label { font-size: 12px; font-weight: 600; color: #cc6600; flex: 1; }
+        .edit-bar .btn { padding: 7px 14px; font-size: 12px; }
+
+        .tweet-meta-bar {
+            display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; padding: 0;
+        }
+        .tweet-meta-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 600; letter-spacing: 0.3px;
+        }
+        .tweet-meta-label { background: #e0e7ff; color: #3730a3; }
+        .tweet-meta-time { background: #fef3c7; color: #92400e; }
+        .tweet-meta-type { background: #d1fae5; color: #065f46; }
+        .tweet-meta-tier { background: #f3e8ff; color: #6b21a8; }
+        .tweet-meta-hashtags { background: #dbeafe; color: #1e40af; font-family: monospace; }
+
+        .char-count {
+            font-size: 12px; margin: 0 0 10px 0; padding: 8px;
+            background: #f0f0f0; border-radius: 4px;
+        }
+        .char-count.warning { background: #fee2e2; color: #991b1b; }
+
+        .card-actions { display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+        .action-btn {
+            flex: 1; padding: 10px; border: none; border-radius: 5px;
+            cursor: pointer; font-size: 13px; font-weight: 600;
+            transition: all 0.3s ease; white-space: nowrap; min-width: 100px;
+        }
+        .btn-approve { background: #e8f5e9; color: #22c55e; border: 1px solid #22c55e; }
+        .btn-approve:hover { background: #22c55e; color: white; }
+        .btn-edit { background: #fff3e0; color: #e65100; border: 1px solid #ff9800; }
+        .btn-edit:hover { background: #ff9800; color: white; }
+        .btn-reject { background: #fee2e2; color: #ef4444; border: 1px solid #ef4444; }
+        .btn-reject:hover { background: #ef4444; color: white; }
+        .btn-copy { background: #f0f0f0; color: #333; border: 1px solid #ddd; }
+        .btn-copy:hover { background: #e0e0e0; }
+
+        .notes-section { display: none; margin-bottom: 12px; }
+        .notes-section.show { display: block; }
+        .notes-label { font-size: 12px; font-weight: 600; color: #666; margin-bottom: 6px; }
+        .notes-textarea {
+            width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;
+            font-size: 13px; font-family: inherit; resize: vertical; min-height: 60px;
+        }
+        .notes-textarea:focus { outline: none; border-color: #FF8A00; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.1); }
+
+        .status-label {
+            font-size: 11px; font-weight: 600; text-transform: uppercase;
+            padding: 4px 8px; border-radius: 3px; margin-top: 10px; display: inline-block;
+        }
+        .status-approved { background: #e8f5e9; color: #22c55e; }
+        .status-needs-edit { background: #fffbeb; color: #f59e0b; }
+        .status-rejected { background: #fee2e2; color: #ef4444; }
+        .status-edited { background: #e3f2fd; color: #1565c0; }
+
+        .empty-state { text-align: center; padding: 60px 20px; color: #999; }
+        .empty-state-icon { font-size: 48px; margin-bottom: 15px; }
+
+        /* Approval stats bar */
+        .approval-stats {
+            display: flex; gap: 16px; margin-top: 12px; flex-wrap: wrap;
+        }
+        .stat-chip {
+            display: inline-flex; align-items: center; gap: 6px;
+            padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 600;
+        }
+        .stat-approved { background: #dcfce7; color: #16a34a; }
+        .stat-rejected { background: #fee2e2; color: #dc2626; }
+        .stat-unreviewed { background: #f3f4f6; color: #6b7280; }
+        .stat-dot { width: 8px; height: 8px; border-radius: 50%; }
+        .stat-approved .stat-dot { background: #22c55e; }
+        .stat-rejected .stat-dot { background: #ef4444; }
+        .stat-unreviewed .stat-dot { background: #9ca3af; }
+
+        /* PostPlanner XLSX button */
+        .btn-csv { background: #7c3aed; color: white; }
+        .btn-csv:hover { background: #6d28d9; }
+        .btn-csv:disabled { background: #c4b5fd; cursor: not-allowed; }
+
+        /* Schedule settings panel */
+        .schedule-panel {
+            display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
+            background: white; border-radius: 12px; padding: 30px; z-index: 1000;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3); width: 500px; max-width: 90vw; max-height: 80vh; overflow-y: auto;
+        }
+        .schedule-panel.show { display: block; }
+        .schedule-overlay { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); z-index: 999; }
+        .schedule-overlay.show { display: block; }
+        .schedule-panel h3 { color: #1a1a2e; margin-bottom: 20px; font-size: 18px; }
+        .schedule-section { margin-bottom: 20px; }
+        .schedule-section label { display: block; font-size: 13px; font-weight: 600; color: #555; margin-bottom: 6px; }
+        .schedule-section input { width: 100%; padding: 8px 12px; border: 1px solid #ddd; border-radius: 4px; font-size: 14px; }
+        .schedule-section input:focus { outline: none; border-color: #7c3aed; }
+        .time-slots { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+        .time-slot {
+            display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px;
+            background: #f3f0ff; border: 1px solid #c4b5fd; border-radius: 20px; font-size: 13px;
+        }
+        .time-slot .remove-slot { cursor: pointer; color: #999; font-weight: bold; }
+        .time-slot .remove-slot:hover { color: #ef4444; }
+        .add-slot-btn {
+            padding: 6px 14px; background: #f3f0ff; border: 1px dashed #7c3aed; border-radius: 20px;
+            cursor: pointer; font-size: 13px; color: #7c3aed;
+        }
+        .add-slot-btn:hover { background: #ede9fe; }
+        .schedule-actions { display: flex; gap: 10px; justify-content: flex-end; margin-top: 20px; }
+
+        /* Photo search links for image concepts */
+        .photo-section {
+            margin-bottom: 15px; padding: 12px; background: #f0f9ff;
+            border: 1px solid #bae6fd; border-radius: 6px;
+        }
+        .photo-section-title {
+            font-size: 12px; font-weight: 700; color: #0369a1; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-bottom: 8px;
+        }
+        .photo-links { display: flex; flex-wrap: wrap; gap: 6px; }
+        .photo-link {
+            display: inline-block; padding: 6px 12px; background: #0ea5e9;
+            color: white; border-radius: 4px; font-size: 12px; font-weight: 500;
+            text-decoration: none; transition: all 0.2s ease; cursor: pointer;
+        }
+        .photo-link:hover { background: #0284c7; }
+
+        /* Image URL input and preview for image concepts */
+        .image-url-section {
+            margin-bottom: 15px; padding: 12px; background: #f0fdf4;
+            border: 1px solid #bbf7d0; border-radius: 6px;
+        }
+        .image-url-section label {
+            display: block; font-size: 12px; font-weight: 700; color: #166534;
+            text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px;
+        }
+        .image-url-input {
+            width: 100%; padding: 8px 10px; border: 1px solid #86efac;
+            border-radius: 4px; font-size: 13px; font-family: monospace;
+            background: white; box-sizing: border-box;
+        }
+        .image-url-input:focus { outline: none; border-color: #22c55e; box-shadow: 0 0 0 2px rgba(34,197,94,0.2); }
+        .image-url-hint {
+            font-size: 11px; color: #6b7280; margin-top: 4px;
+        }
+        .image-preview {
+            margin-top: 8px; text-align: center;
+        }
+        .image-preview img {
+            max-width: 100%; max-height: 200px; border-radius: 4px;
+            border: 1px solid #d1d5db; display: none;
+        }
+        .image-preview img.loaded { display: inline-block; }
+
+        /* Image production status badges */
+        .image-badge {
+            display: inline-block; padding: 2px 8px; border-radius: 3px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-left: 6px;
+        }
+        .image-exported { background: #dcfce7; color: #166534; }
+        .image-in-progress { background: #fef3c7; color: #92400e; }
+        .image-not-started { background: #f3f4f6; color: #6b7280; }
+
+        /* Text overlay preview for image concepts */
+        .overlay-section {
+            margin-bottom: 15px; padding: 15px; background: #1a1a2e;
+            border-radius: 6px; text-align: center;
+        }
+        .overlay-line {
+            font-family: 'Bebas Neue', Impact, 'Arial Black', sans-serif;
+            color: #ffd700; font-size: 18px; font-weight: 700; line-height: 1.4;
+            text-transform: uppercase; letter-spacing: 1px;
+        }
+        .overlay-line.sub { color: #ffffff; font-size: 14px; font-weight: 400; letter-spacing: 0; text-transform: none; }
+
+        /* Article content rendered as HTML */
+        .article-frame {
+            width: 100%; border: 1px solid #ddd; border-radius: 6px;
+            background: white; min-height: 300px;
+        }
+
+        @media (max-width: 768px) {
+            .sidebar { width: 100%; height: auto; position: relative; padding: 20px; }
+            .main-content { margin-left: 0; }
+            .content { padding: 20px; }
+            .header { padding: 15px 20px; }
+            .header h1 { font-size: 20px; }
+            .filter-bar { padding: 15px 20px; }
+            .header-meta { flex-direction: column; align-items: stretch; }
+            .progress-bar { min-width: auto; }
+        }
+
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #888; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #555; }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <h1>Golf Fanrecap</h1>
+        <div class="sidebar-date">Review Dashboard<br>2026-10-08</div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Content Types</div>
+            <div class="nav-item" onclick="filterByType('article')">
+                Articles
+                <span class="nav-item-count">5</span>
+            </div>
+
+            <div class="nav-item" onclick="filterByType('all')">
+                All Items
+                <span class="nav-item-count">5</span>
+            </div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Status Filter</div>
+            <div class="nav-item" onclick="filterByStatus('all')">All</div>
+            <div class="nav-item" onclick="filterByStatus('unreviewed')">Unreviewed</div>
+            <div class="nav-item" onclick="filterByStatus('approved')">Approved</div>
+            <div class="nav-item" onclick="filterByStatus('needs-edit')">Needs Edit</div>
+            <div class="nav-item" onclick="filterByStatus('rejected')">Rejected</div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Actions</div>
+            <div class="nav-item" onclick="approveAll()" style="color: #22c55e;">
+                Approve All
+            </div>
+            <div class="nav-item" onclick="exportApprovals()" style="color: #FF8A00;">
+                Export Results JSON
+            </div>
+            <div class="nav-item" onclick="downloadPostPlannerCSV()" style="color: #a78bfa;">
+                PostPlanner Upload
+            </div>
+            <div class="nav-item" onclick="downloadTOBIExport()" style="color: #f472b6;">
+                TOBI Upload
+            </div>
+        </div>
+    </div>
+
+    <div class="main-content">
+        <div class="header">
+            <h1>Golf Fanrecap — Content Review Dashboard</h1>
+            <div class="header-meta">
+                <div class="progress-bar">
+                    <div class="progress-label">
+                        <span id="reviewed-count">0</span> of <span id="total-count">5</span> items reviewed
+                    </div>
+                    <div class="progress-container">
+                        <div class="progress-fill" id="progress-fill" style="width: 0%"></div>
+                    </div>
+                    <div class="approval-stats" id="approval-stats">
+                        <span class="stat-chip stat-approved"><span class="stat-dot"></span> <span id="stat-approved-count">0</span> approved</span>
+                        <span class="stat-chip stat-rejected"><span class="stat-dot"></span> <span id="stat-rejected-count">0</span> rejected</span>
+                        <span class="stat-chip stat-unreviewed"><span class="stat-dot"></span> <span id="stat-unreviewed-count">0</span> unreviewed</span>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <button class="btn btn-secondary" onclick="resetAll()">Reset All</button>
+                    <button class="btn btn-csv" id="btn-csv" onclick="downloadPostPlannerCSV()" disabled>PostPlanner Upload (0 approved)</button>
+                    <button class="btn btn-csv" id="btn-tobi" onclick="downloadTOBIExport()" disabled style="background: #831843; border-color: #f472b6;">TOBI Upload (0 approved)</button>
+                    <button class="btn btn-primary" onclick="exportApprovals()">Export JSON</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="filter-bar">
+            <button class="filter-btn active" onclick="filterByStatus('all')">All</button>
+            <button class="filter-btn" onclick="filterByStatus('unreviewed')">Unreviewed</button>
+            <button class="filter-btn" onclick="filterByStatus('approved')">Approved</button>
+            <button class="filter-btn" onclick="filterByStatus('needs-edit')">Needs Edit</button>
+            <button class="filter-btn" onclick="filterByStatus('rejected')">Rejected</button>
+        </div>
+
+
+        <div class="content">
+            <div class="cards-container" id="cards-container">
+                <div class="card" data-id="article-article-01-rahm-leaves-liv-golf-deadline-extended" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Jon Rahm Officially Leaves LIV Golf — And the Rescue Deal Has a $296M Problem</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-01-rahm-leaves-liv-golf-deadline-extended">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
+<title>Jon Rahm Officially Leaves LIV Golf — And the Rescue Deal Has a $296M Problem</title>
+<meta name=&quot;description&quot; content=&quot;Rahm's attorney confirmed his departure to a bankruptcy judge as LIV pushes its player commitment deadline to October 25. Court docs reveal only $4M of the announced $300M has been committed.&quot;>
+<meta name=&quot;author&quot; content=&quot;Ryan Calloway&quot;>
+<meta name=&quot;date&quot; content=&quot;2026-10-08&quot;>
+</head>
+<body>
+<article>
+<header>
+<h1>Jon Rahm Officially Leaves LIV Golf — And the Rescue Deal Has a $296M Problem</h1>
+<p><strong>By Ryan Calloway</strong> | October 8, 2026 | Golf Fanrecap</p>
+</header>
+
+<section>
+<p>Jon Rahm is leaving LIV Golf. His attorney confirmed to a bankruptcy judge this week that the two-time major champion is no longer participating in the circuit, with a separation agreement from his LIV contract targeted for finalization by October 15. The departure of the 2026 LIV individual points and money list leader marks the most significant defection yet in a bankruptcy proceeding that is rapidly defining the future of professional golf.</p>
+
+<p>The timing illuminates the full picture of LIV's crisis. BC Partners Credit announced a $300 million investment to rescue the circuit on October 6. That headline dominated the golf news cycle. Court documents told a different story: of that $300 million, only $4 million has actually been committed so far. The rest remains contingent on conditions that have not been met — including the player commitment threshold now extended to October 25.</p>
+
+<p>For Rahm, the decision represents a clean break from an experiment that began with enormous ambition and significant guaranteed money, and ends with him watching from the exit as the circuit he led statistically in 2026 fights for its survival.</p>
+</section>
+
+<section>
+<h2>Rahm Was the Prize — Now He's the Signal</h2>
+<p>When Rahm signed with LIV Golf ahead of the 2024 season, his move was the most consequential roster addition the circuit had made since its founding. A reigning Masters champion, a player ranked among the top five in the world, joining the Saudi-backed league sent a message that LIV could attract elite talent regardless of controversy.</p>
+
+<p>His departure sends the opposite message. If the player who led LIV's individual money list in 2026 will not commit to the restructuring deal, the question of who will commit — and whether enough creditors will — becomes far more urgent. BC Partners' deal requires 50 percent of players by count and two-thirds of total claim value. Rahm was, by some measures, LIV's most valuable individual asset.</p>
+
+<p>Sergio Garcia was separately released from his LIV contract by a New Jersey bankruptcy court. Adrian Meronk, who won the Alfred Dunhill Links Championship this week and secured his DP World Tour card for 2027, is expected to exit as well. The talent exodus is accelerating at precisely the moment LIV needs player commitment to close its financing.</p>
+</section>
+
+<section>
+<h2>The Deadline That Moved</h2>
+<p>The original player commitment deadline of October 13 was extended to October 25. That extension may have been presented publicly as additional time for the deal to come together. In context, it reads differently: with Rahm leaving, Garcia released, and questions about the $300 million headline figure, the extension suggests the deal is not tracking where BC Partners needs it to be.</p>
+
+<p>The gap between the $300 million announcement and the $4 million actually committed is the central question now facing every LIV player weighing their future. If the money is not there — or if the conditions required to release it cannot be met before October 25 — the restructuring fails, and LIV's path forward becomes deeply uncertain.</p>
+
+<p>The 2026 LIV season ran from February 5 through August 30 and concluded on schedule. A 2027 season in any form now depends on the next 17 days of legal and financial maneuvering.</p>
+</section>
+
+<section>
+<h2>What's Next</h2>
+<p>Rahm's separation agreement is targeted for finalization by October 15. The revised player commitment deadline for BC Partners is October 25. Any remaining LIV players weighing their decision will be watching both dates closely, as well as the circuit's ability to demonstrate that the $300 million headline reflects actual, committed financing rather than a number still contingent on their agreement.</p>
+
+<p>For Rahm, the next question is where his 2027 season unfolds. A return to the PGA Tour or DP World Tour would require navigating membership and eligibility considerations that will likely be negotiated in parallel with his LIV exit agreement. One of golf's best players is about to reenter the established tour ecosystem — and every major organizer will be paying close attention.</p>
+</section>
+</article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-01-rahm-leaves-liv-golf-deadline-extended" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+&lt;title&gt;Jon Rahm Officially Leaves LIV Golf — And the Rescue Deal Has a $296M Problem&lt;/title&gt;
+&lt;meta name=&quot;description&quot; content=&quot;Rahm&#x27;s attorney confirmed his departure to a bankruptcy judge as LIV pushes its player commitment deadline to October 25. Court docs reveal only $4M of the announced $300M has been committed.&quot;&gt;
+&lt;meta name=&quot;author&quot; content=&quot;Ryan Calloway&quot;&gt;
+&lt;meta name=&quot;date&quot; content=&quot;2026-10-08&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;article&gt;
+&lt;header&gt;
+&lt;h1&gt;Jon Rahm Officially Leaves LIV Golf — And the Rescue Deal Has a $296M Problem&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;By Ryan Calloway&lt;/strong&gt; | October 8, 2026 | Golf Fanrecap&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;section&gt;
+&lt;p&gt;Jon Rahm is leaving LIV Golf. His attorney confirmed to a bankruptcy judge this week that the two-time major champion is no longer participating in the circuit, with a separation agreement from his LIV contract targeted for finalization by October 15. The departure of the 2026 LIV individual points and money list leader marks the most significant defection yet in a bankruptcy proceeding that is rapidly defining the future of professional golf.&lt;/p&gt;
+
+&lt;p&gt;The timing illuminates the full picture of LIV&#x27;s crisis. BC Partners Credit announced a $300 million investment to rescue the circuit on October 6. That headline dominated the golf news cycle. Court documents told a different story: of that $300 million, only $4 million has actually been committed so far. The rest remains contingent on conditions that have not been met — including the player commitment threshold now extended to October 25.&lt;/p&gt;
+
+&lt;p&gt;For Rahm, the decision represents a clean break from an experiment that began with enormous ambition and significant guaranteed money, and ends with him watching from the exit as the circuit he led statistically in 2026 fights for its survival.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;Rahm Was the Prize — Now He&#x27;s the Signal&lt;/h2&gt;
+&lt;p&gt;When Rahm signed with LIV Golf ahead of the 2024 season, his move was the most consequential roster addition the circuit had made since its founding. A reigning Masters champion, a player ranked among the top five in the world, joining the Saudi-backed league sent a message that LIV could attract elite talent regardless of controversy.&lt;/p&gt;
+
+&lt;p&gt;His departure sends the opposite message. If the player who led LIV&#x27;s individual money list in 2026 will not commit to the restructuring deal, the question of who will commit — and whether enough creditors will — becomes far more urgent. BC Partners&#x27; deal requires 50 percent of players by count and two-thirds of total claim value. Rahm was, by some measures, LIV&#x27;s most valuable individual asset.&lt;/p&gt;
+
+&lt;p&gt;Sergio Garcia was separately released from his LIV contract by a New Jersey bankruptcy court. Adrian Meronk, who won the Alfred Dunhill Links Championship this week and secured his DP World Tour card for 2027, is expected to exit as well. The talent exodus is accelerating at precisely the moment LIV needs player commitment to close its financing.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;The Deadline That Moved&lt;/h2&gt;
+&lt;p&gt;The original player commitment deadline of October 13 was extended to October 25. That extension may have been presented publicly as additional time for the deal to come together. In context, it reads differently: with Rahm leaving, Garcia released, and questions about the $300 million headline figure, the extension suggests the deal is not tracking where BC Partners needs it to be.&lt;/p&gt;
+
+&lt;p&gt;The gap between the $300 million announcement and the $4 million actually committed is the central question now facing every LIV player weighing their future. If the money is not there — or if the conditions required to release it cannot be met before October 25 — the restructuring fails, and LIV&#x27;s path forward becomes deeply uncertain.&lt;/p&gt;
+
+&lt;p&gt;The 2026 LIV season ran from February 5 through August 30 and concluded on schedule. A 2027 season in any form now depends on the next 17 days of legal and financial maneuvering.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+&lt;p&gt;Rahm&#x27;s separation agreement is targeted for finalization by October 15. The revised player commitment deadline for BC Partners is October 25. Any remaining LIV players weighing their decision will be watching both dates closely, as well as the circuit&#x27;s ability to demonstrate that the $300 million headline reflects actual, committed financing rather than a number still contingent on their agreement.&lt;/p&gt;
+
+&lt;p&gt;For Rahm, the next question is where his 2027 season unfolds. A return to the PGA Tour or DP World Tour would require navigating membership and eligibility considerations that will likely be negotiated in parallel with his LIV exit agreement. One of golf&#x27;s best players is about to reenter the established tour ecosystem — and every major organizer will be paying close attention.&lt;/p&gt;
+&lt;/section&gt;
+&lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-01-rahm-leaves-liv-golf-deadline-extended">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-01-rahm-leaves-liv-golf-deadline-extended')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-01-rahm-leaves-liv-golf-deadline-extended')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-01-rahm-leaves-liv-golf-deadline-extended">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-01-rahm-leaves-liv-golf-deadline-extended')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-01-rahm-leaves-liv-golf-deadline-extended')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-01-rahm-leaves-liv-golf-deadline-extended')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-01-rahm-leaves-liv-golf-deadline-extended')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-01-rahm-leaves-liv-golf-deadline-extended">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-01-rahm-leaves-liv-golf-deadline-extended" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-01-rahm-leaves-liv-golf-deadline-extended"></div>
+                </div>
+                <div class="card" data-id="article-article-02-smotherman-bank-of-utah-100th-start" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Smotherman Wins Bank of Utah in His 100th PGA Tour Start — A Number That Tells the Story</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-02-smotherman-bank-of-utah-100th-start">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
+<title>Smotherman Wins Bank of Utah in His 100th PGA Tour Start — A Number That Tells the Story</title>
+<meta name=&quot;description&quot; content=&quot;Austin Smotherman shot 26-under at Black Desert Golf Course to win his first PGA Tour title in his 100th career start, earning $1,080,000 and 500 FedExCup points.&quot;>
+<meta name=&quot;author&quot; content=&quot;Jake Torres&quot;>
+<meta name=&quot;date&quot; content=&quot;2026-10-08&quot;>
+</head>
+<body>
+<article>
+<header>
+<h1>Smotherman Wins Bank of Utah in His 100th PGA Tour Start — A Number That Tells the Story</h1>
+<p><strong>By Jake Torres</strong> | October 8, 2026 | Golf Fanrecap</p>
+</header>
+
+<section>
+<p>Austin Smotherman shot 26-under par at Black Desert Golf Course in Ivins, Utah, and won the Bank of Utah Championship. It was his first PGA Tour victory. It was also his 100th career start on tour.</p>
+
+<p>The number 100 carries a specific weight in professional golf that does not translate easily to other sports. Most players who turn professional and pursue PGA Tour membership never reach 100 starts. The card system, the Monday qualifiers, the conditional status, the gradations of priority — the tour is designed to continuously filter out everyone except those who keep producing results. To reach 100 starts requires years of consistency, competitive nerve, and the ability to survive in a field of the best players in the world without ever winning.</p>
+
+<p>Smotherman defeated Doug Ghim by two strokes, closing at 26-under after responding each time a challenger closed the gap. He earned $1,080,000 and 500 FedExCup points — a meaningful haul in the FedExCup Fall series, which determines tour card security and positioning for the following season.</p>
+</section>
+
+<section>
+<h2>The Course and the Conditions</h2>
+<p>Black Desert Golf Course in Ivins, Utah, sits in red rock country in the southwestern corner of the state. The course opened to acclaim and has been a popular stop on the FedExCup Fall calendar since its addition. The scoring conditions during the Bank of Utah Championship allowed for deep scoring, with Smotherman's 26-under representing a winning total that reflects both the course's playability and the field's quality.</p>
+
+<p>Ghim, the runner-up at 24-under, pushed Smotherman throughout the final rounds. The two-stroke margin was comfortable by the end, but it was not always comfortable to achieve. Smotherman's ability to hold his nerve — to produce results under pressure on a course where low scores were available to anyone in the field — was the distinguishing quality of his week.</p>
+</section>
+
+<section>
+<h2>What the Win Means</h2>
+<p>The 500 FedExCup points Smotherman earned are significant in the context of the fall schedule. The FedExCup Fall events serve as a bridge season, providing players on the bubble opportunities to secure their playing privileges and improve their priority ranking for the following year. A first win also comes with a two-year tour exemption, meaning Smotherman does not need to worry about his card for the foreseeable future.</p>
+
+<p>Beyond the logistics, there is something worth acknowledging about what 100 starts represents. Most people who play competitive golf never stand on a PGA Tour tee box at all. Most who do stand there get far fewer than 100 chances. Smotherman used each of those 100 opportunities to stay competitive enough to be in contention when the right week arrived.</p>
+
+<p>The right week arrived at Black Desert. He did not waste it.</p>
+</section>
+
+<section>
+<h2>What's Next</h2>
+<p>The PGA Tour's FedExCup Fall continues with the Baycurrent Classic in Yokohama, Japan (October 8-11), which is currently underway. After Japan, the Butterfield Bermuda Championship at Port Royal Golf Course (October 22-25) provides the next opportunity for FedExCup points accumulation. Smotherman arrives at these events with a win on his record, renewed status, and momentum that tends to follow a player's first career victory.</p>
+</section>
+</article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-02-smotherman-bank-of-utah-100th-start" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+&lt;title&gt;Smotherman Wins Bank of Utah in His 100th PGA Tour Start — A Number That Tells the Story&lt;/title&gt;
+&lt;meta name=&quot;description&quot; content=&quot;Austin Smotherman shot 26-under at Black Desert Golf Course to win his first PGA Tour title in his 100th career start, earning $1,080,000 and 500 FedExCup points.&quot;&gt;
+&lt;meta name=&quot;author&quot; content=&quot;Jake Torres&quot;&gt;
+&lt;meta name=&quot;date&quot; content=&quot;2026-10-08&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;article&gt;
+&lt;header&gt;
+&lt;h1&gt;Smotherman Wins Bank of Utah in His 100th PGA Tour Start — A Number That Tells the Story&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;By Jake Torres&lt;/strong&gt; | October 8, 2026 | Golf Fanrecap&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;section&gt;
+&lt;p&gt;Austin Smotherman shot 26-under par at Black Desert Golf Course in Ivins, Utah, and won the Bank of Utah Championship. It was his first PGA Tour victory. It was also his 100th career start on tour.&lt;/p&gt;
+
+&lt;p&gt;The number 100 carries a specific weight in professional golf that does not translate easily to other sports. Most players who turn professional and pursue PGA Tour membership never reach 100 starts. The card system, the Monday qualifiers, the conditional status, the gradations of priority — the tour is designed to continuously filter out everyone except those who keep producing results. To reach 100 starts requires years of consistency, competitive nerve, and the ability to survive in a field of the best players in the world without ever winning.&lt;/p&gt;
+
+&lt;p&gt;Smotherman defeated Doug Ghim by two strokes, closing at 26-under after responding each time a challenger closed the gap. He earned $1,080,000 and 500 FedExCup points — a meaningful haul in the FedExCup Fall series, which determines tour card security and positioning for the following season.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;The Course and the Conditions&lt;/h2&gt;
+&lt;p&gt;Black Desert Golf Course in Ivins, Utah, sits in red rock country in the southwestern corner of the state. The course opened to acclaim and has been a popular stop on the FedExCup Fall calendar since its addition. The scoring conditions during the Bank of Utah Championship allowed for deep scoring, with Smotherman&#x27;s 26-under representing a winning total that reflects both the course&#x27;s playability and the field&#x27;s quality.&lt;/p&gt;
+
+&lt;p&gt;Ghim, the runner-up at 24-under, pushed Smotherman throughout the final rounds. The two-stroke margin was comfortable by the end, but it was not always comfortable to achieve. Smotherman&#x27;s ability to hold his nerve — to produce results under pressure on a course where low scores were available to anyone in the field — was the distinguishing quality of his week.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;What the Win Means&lt;/h2&gt;
+&lt;p&gt;The 500 FedExCup points Smotherman earned are significant in the context of the fall schedule. The FedExCup Fall events serve as a bridge season, providing players on the bubble opportunities to secure their playing privileges and improve their priority ranking for the following year. A first win also comes with a two-year tour exemption, meaning Smotherman does not need to worry about his card for the foreseeable future.&lt;/p&gt;
+
+&lt;p&gt;Beyond the logistics, there is something worth acknowledging about what 100 starts represents. Most people who play competitive golf never stand on a PGA Tour tee box at all. Most who do stand there get far fewer than 100 chances. Smotherman used each of those 100 opportunities to stay competitive enough to be in contention when the right week arrived.&lt;/p&gt;
+
+&lt;p&gt;The right week arrived at Black Desert. He did not waste it.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+&lt;p&gt;The PGA Tour&#x27;s FedExCup Fall continues with the Baycurrent Classic in Yokohama, Japan (October 8-11), which is currently underway. After Japan, the Butterfield Bermuda Championship at Port Royal Golf Course (October 22-25) provides the next opportunity for FedExCup points accumulation. Smotherman arrives at these events with a win on his record, renewed status, and momentum that tends to follow a player&#x27;s first career victory.&lt;/p&gt;
+&lt;/section&gt;
+&lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-02-smotherman-bank-of-utah-100th-start">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-02-smotherman-bank-of-utah-100th-start')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-02-smotherman-bank-of-utah-100th-start')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-02-smotherman-bank-of-utah-100th-start">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-02-smotherman-bank-of-utah-100th-start')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-02-smotherman-bank-of-utah-100th-start')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-02-smotherman-bank-of-utah-100th-start')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-02-smotherman-bank-of-utah-100th-start')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-02-smotherman-bank-of-utah-100th-start">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-02-smotherman-bank-of-utah-100th-start" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-02-smotherman-bank-of-utah-100th-start"></div>
+                </div>
+                <div class="card" data-id="article-article-03-baycurrent-classic-round-1-coody-bridgeman" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Baycurrent Classic Round 1: Coody and Bridgeman Share the Lead at -6 in Japan</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-03-baycurrent-classic-round-1-coody-bridgeman">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
+<title>Baycurrent Classic Round 1: Coody and Bridgeman Share the Lead at -6 in Japan</title>
+<meta name=&quot;description&quot; content=&quot;Parker Coody and Jonathan Bridgeman share the first-round lead at 6-under at Yokohama Country Club. Defending champion Xander Schauffele is the favourite in the $8M PGA Tour event.&quot;>
+<meta name=&quot;author&quot; content=&quot;Marcus Cole&quot;>
+<meta name=&quot;date&quot; content=&quot;2026-10-08&quot;>
+</head>
+<body>
+<article>
+<header>
+<h1>Baycurrent Classic Round 1: Coody and Bridgeman Share the Lead at -6 in Japan</h1>
+<p><strong>By Marcus Cole</strong> | October 8, 2026 | Golf Fanrecap</p>
+</header>
+
+<section>
+<p>The Baycurrent Classic at Yokohama Country Club in Kanagawa, Japan, opened with Parker Coody and Jonathan Bridgeman sharing the first-round lead at 6-under par. The $8 million purse event, part of the PGA Tour's international fall swing, runs October 8-11 with defending champion Xander Schauffele entering the week as the field's betting favourite.</p>
+
+<p>Coody and Bridgeman's -6 opening rounds put them at the top of a leaderboard that will shift considerably over the next three days. Yokohama Country Club presents a demanding test that tends to compress scoring as the week progresses, rewarding players who build early leads rather than those who chase late.</p>
+</section>
+
+<section>
+<h2>Schauffele Defending</h2>
+<p>Xander Schauffele enters as the defending champion and the player with the most experience at this venue on tour. His familiarity with Yokohama Country Club, combined with his form throughout the 2026 season, makes him the clear favourite despite Coody and Bridgeman's early advantage.</p>
+
+<p>Schauffele has demonstrated throughout his career an ability to close tournaments from within striking distance rather than leading wire-to-wire. A position three or four strokes back after 36 holes has historically not prevented him from winning — a fact that the rest of the field will keep in mind as the leaderboard takes shape over the next two days.</p>
+</section>
+
+<section>
+<h2>The FedExCup Fall Context</h2>
+<p>The Baycurrent Classic, with its $8 million purse, is among the richer FedExCup Fall events on the calendar. The FedExCup Fall serves as a bridge season between the main FedExCup competition and the following year's tour schedule, with players competing for card security, priority ranking improvement, and the points that can reshape their 2027 positioning.</p>
+
+<p>The field in Japan represents a mix of established tour veterans, players fighting to secure their status, and international competitors for whom the Japan setting provides a meaningful home-market advantage. Japan's golf fanbase is among the most devoted in the world, and the Baycurrent Classic benefits from that enthusiasm.</p>
+
+<p>With LIV Golf's bankruptcy proceedings continuing to reshape the professional game, PGA Tour events this fall have seen more depth than in recent seasons as some players who previously committed to LIV now compete on established tours.</p>
+</section>
+
+<section>
+<h2>What's Next</h2>
+<p>Round 2 of the Baycurrent Classic takes place Friday, with Round 3 on Saturday and the final round on Sunday, October 11. After Japan, the PGA Tour moves to the Butterfield Bermuda Championship at Port Royal Golf Course in Bermuda (October 22-25, $6 million purse) before the fall schedule continues through November. Full leaderboard updates at PGATour.com.</p>
+</section>
+</article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-03-baycurrent-classic-round-1-coody-bridgeman" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+&lt;title&gt;Baycurrent Classic Round 1: Coody and Bridgeman Share the Lead at -6 in Japan&lt;/title&gt;
+&lt;meta name=&quot;description&quot; content=&quot;Parker Coody and Jonathan Bridgeman share the first-round lead at 6-under at Yokohama Country Club. Defending champion Xander Schauffele is the favourite in the $8M PGA Tour event.&quot;&gt;
+&lt;meta name=&quot;author&quot; content=&quot;Marcus Cole&quot;&gt;
+&lt;meta name=&quot;date&quot; content=&quot;2026-10-08&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;article&gt;
+&lt;header&gt;
+&lt;h1&gt;Baycurrent Classic Round 1: Coody and Bridgeman Share the Lead at -6 in Japan&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;By Marcus Cole&lt;/strong&gt; | October 8, 2026 | Golf Fanrecap&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;section&gt;
+&lt;p&gt;The Baycurrent Classic at Yokohama Country Club in Kanagawa, Japan, opened with Parker Coody and Jonathan Bridgeman sharing the first-round lead at 6-under par. The $8 million purse event, part of the PGA Tour&#x27;s international fall swing, runs October 8-11 with defending champion Xander Schauffele entering the week as the field&#x27;s betting favourite.&lt;/p&gt;
+
+&lt;p&gt;Coody and Bridgeman&#x27;s -6 opening rounds put them at the top of a leaderboard that will shift considerably over the next three days. Yokohama Country Club presents a demanding test that tends to compress scoring as the week progresses, rewarding players who build early leads rather than those who chase late.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;Schauffele Defending&lt;/h2&gt;
+&lt;p&gt;Xander Schauffele enters as the defending champion and the player with the most experience at this venue on tour. His familiarity with Yokohama Country Club, combined with his form throughout the 2026 season, makes him the clear favourite despite Coody and Bridgeman&#x27;s early advantage.&lt;/p&gt;
+
+&lt;p&gt;Schauffele has demonstrated throughout his career an ability to close tournaments from within striking distance rather than leading wire-to-wire. A position three or four strokes back after 36 holes has historically not prevented him from winning — a fact that the rest of the field will keep in mind as the leaderboard takes shape over the next two days.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;The FedExCup Fall Context&lt;/h2&gt;
+&lt;p&gt;The Baycurrent Classic, with its $8 million purse, is among the richer FedExCup Fall events on the calendar. The FedExCup Fall serves as a bridge season between the main FedExCup competition and the following year&#x27;s tour schedule, with players competing for card security, priority ranking improvement, and the points that can reshape their 2027 positioning.&lt;/p&gt;
+
+&lt;p&gt;The field in Japan represents a mix of established tour veterans, players fighting to secure their status, and international competitors for whom the Japan setting provides a meaningful home-market advantage. Japan&#x27;s golf fanbase is among the most devoted in the world, and the Baycurrent Classic benefits from that enthusiasm.&lt;/p&gt;
+
+&lt;p&gt;With LIV Golf&#x27;s bankruptcy proceedings continuing to reshape the professional game, PGA Tour events this fall have seen more depth than in recent seasons as some players who previously committed to LIV now compete on established tours.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+&lt;p&gt;Round 2 of the Baycurrent Classic takes place Friday, with Round 3 on Saturday and the final round on Sunday, October 11. After Japan, the PGA Tour moves to the Butterfield Bermuda Championship at Port Royal Golf Course in Bermuda (October 22-25, $6 million purse) before the fall schedule continues through November. Full leaderboard updates at PGATour.com.&lt;/p&gt;
+&lt;/section&gt;
+&lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-03-baycurrent-classic-round-1-coody-bridgeman">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-03-baycurrent-classic-round-1-coody-bridgeman')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-03-baycurrent-classic-round-1-coody-bridgeman')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-03-baycurrent-classic-round-1-coody-bridgeman">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-03-baycurrent-classic-round-1-coody-bridgeman')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-03-baycurrent-classic-round-1-coody-bridgeman')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-03-baycurrent-classic-round-1-coody-bridgeman')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-03-baycurrent-classic-round-1-coody-bridgeman')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-03-baycurrent-classic-round-1-coody-bridgeman">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-03-baycurrent-classic-round-1-coody-bridgeman" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-03-baycurrent-classic-round-1-coody-bridgeman"></div>
+                </div>
+                <div class="card" data-id="article-article-04-meronk-dunhill-links-liv-exit" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Meronk Wins Alfred Dunhill Links, Secures DP World Tour Card — and Sets Up His LIV Exit</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-04-meronk-dunhill-links-liv-exit">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
+<title>Meronk Wins Alfred Dunhill Links, Secures DP World Tour Card — and Sets Up His LIV Exit</title>
+<meta name=&quot;description&quot; content=&quot;Adrian Meronk rallied past overnight leader Casey Jarvis to win the Alfred Dunhill Links Championship at St Andrews, earning a full DP World Tour card for 2027 and paving his way out of LIV Golf.&quot;>
+<meta name=&quot;author&quot; content=&quot;Ryan Calloway&quot;>
+<meta name=&quot;date&quot; content=&quot;2026-10-08&quot;>
+</head>
+<body>
+<article>
+<header>
+<h1>Meronk Wins Alfred Dunhill Links, Secures DP World Tour Card — and Sets Up His LIV Exit</h1>
+<p><strong>By Ryan Calloway</strong> | October 8, 2026 | Golf Fanrecap</p>
+</header>
+
+<section>
+<p>Adrian Meronk won the Alfred Dunhill Links Championship at St Andrews this past weekend, rallying past overnight leader Casey Jarvis of South Africa in the final round to claim victory. The win secured Meronk a full DP World Tour card for 2027 and, in practical terms, cleared the path for his expected exit from LIV Golf.</p>
+
+<p>The Alfred Dunhill Links is one of European golf's most historic events, played across three of Scotland's most celebrated courses: St Andrews, Carnoustie, and Kingsbarns. The setting adds weight to any victory. For Meronk, a Polish player and five-time DP World Tour champion, winning at St Andrews while his future on the tour hung in the balance was precisely the kind of moment that defines careers.</p>
+</section>
+
+<section>
+<h2>The Final Round</h2>
+<p>Jarvis, the young South African who led entering Sunday, was unable to hold off Meronk's charge in the final round. Meronk played steady, disciplined golf across the back nine at St Andrews to overtake him, converting the lead he needed to close out the championship.</p>
+
+<p>The margin of victory was ultimately less important than what the win delivered: confirmation that Meronk can still compete at the highest level of European professional golf after spending the 2026 season on LIV Golf. For players who made the jump to LIV, one of the persistent questions has been whether their games would translate back when the opportunity arose. Meronk answered that question on Sunday.</p>
+</section>
+
+<section>
+<h2>The LIV Context</h2>
+<p>Meronk's departure from the DP World Tour for LIV Golf was driven by the same forces that pulled other European players toward the Saudi-backed league: guaranteed money and a different competitive structure. He was one of the most accomplished European players to make the move, and his presence on LIV was a signal of the league's ability to attract talent from across the global game.</p>
+
+<p>With LIV now in bankruptcy proceedings, Meronk is among the players expected to exit his contract and return to the established tours. His Alfred Dunhill Links victory arrives at exactly the right moment — he did not need to wait for LIV's situation to resolve to begin securing his 2027 position. The DP World Tour card is his. The path back is already open.</p>
+
+<p>Jon Rahm's departure from LIV, confirmed this week by his attorney in a bankruptcy proceeding, has accelerated the conversation about which players will follow. Meronk's exit, when formalized, fits that pattern: the circuit's talent base continues to shrink at the moment it most needs player commitment to close its BC Partners rescue financing.</p>
+</section>
+
+<section>
+<h2>What's Next</h2>
+<p>Meronk's separation from LIV Golf is expected to be formalized in the coming weeks, in parallel with Jon Rahm's targeted October 15 finalization date. With his DP World Tour card secured, Meronk has the foundation to compete across the European calendar in 2027. The DP World Tour's fall and winter events provide an immediate set of opportunities, with the tour's final-series events determining season rankings before the calendar closes.</p>
+
+<p>For the Alfred Dunhill Links itself, the championship continues its place as one of the calendar's most beloved events. St Andrews remains the sport's most resonant venue. Meronk's win there, under the circumstances, will be remembered as one of the more meaningful results of the 2026 European golf season.</p>
+</section>
+</article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-04-meronk-dunhill-links-liv-exit" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+&lt;title&gt;Meronk Wins Alfred Dunhill Links, Secures DP World Tour Card — and Sets Up His LIV Exit&lt;/title&gt;
+&lt;meta name=&quot;description&quot; content=&quot;Adrian Meronk rallied past overnight leader Casey Jarvis to win the Alfred Dunhill Links Championship at St Andrews, earning a full DP World Tour card for 2027 and paving his way out of LIV Golf.&quot;&gt;
+&lt;meta name=&quot;author&quot; content=&quot;Ryan Calloway&quot;&gt;
+&lt;meta name=&quot;date&quot; content=&quot;2026-10-08&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;article&gt;
+&lt;header&gt;
+&lt;h1&gt;Meronk Wins Alfred Dunhill Links, Secures DP World Tour Card — and Sets Up His LIV Exit&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;By Ryan Calloway&lt;/strong&gt; | October 8, 2026 | Golf Fanrecap&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;section&gt;
+&lt;p&gt;Adrian Meronk won the Alfred Dunhill Links Championship at St Andrews this past weekend, rallying past overnight leader Casey Jarvis of South Africa in the final round to claim victory. The win secured Meronk a full DP World Tour card for 2027 and, in practical terms, cleared the path for his expected exit from LIV Golf.&lt;/p&gt;
+
+&lt;p&gt;The Alfred Dunhill Links is one of European golf&#x27;s most historic events, played across three of Scotland&#x27;s most celebrated courses: St Andrews, Carnoustie, and Kingsbarns. The setting adds weight to any victory. For Meronk, a Polish player and five-time DP World Tour champion, winning at St Andrews while his future on the tour hung in the balance was precisely the kind of moment that defines careers.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;The Final Round&lt;/h2&gt;
+&lt;p&gt;Jarvis, the young South African who led entering Sunday, was unable to hold off Meronk&#x27;s charge in the final round. Meronk played steady, disciplined golf across the back nine at St Andrews to overtake him, converting the lead he needed to close out the championship.&lt;/p&gt;
+
+&lt;p&gt;The margin of victory was ultimately less important than what the win delivered: confirmation that Meronk can still compete at the highest level of European professional golf after spending the 2026 season on LIV Golf. For players who made the jump to LIV, one of the persistent questions has been whether their games would translate back when the opportunity arose. Meronk answered that question on Sunday.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;The LIV Context&lt;/h2&gt;
+&lt;p&gt;Meronk&#x27;s departure from the DP World Tour for LIV Golf was driven by the same forces that pulled other European players toward the Saudi-backed league: guaranteed money and a different competitive structure. He was one of the most accomplished European players to make the move, and his presence on LIV was a signal of the league&#x27;s ability to attract talent from across the global game.&lt;/p&gt;
+
+&lt;p&gt;With LIV now in bankruptcy proceedings, Meronk is among the players expected to exit his contract and return to the established tours. His Alfred Dunhill Links victory arrives at exactly the right moment — he did not need to wait for LIV&#x27;s situation to resolve to begin securing his 2027 position. The DP World Tour card is his. The path back is already open.&lt;/p&gt;
+
+&lt;p&gt;Jon Rahm&#x27;s departure from LIV, confirmed this week by his attorney in a bankruptcy proceeding, has accelerated the conversation about which players will follow. Meronk&#x27;s exit, when formalized, fits that pattern: the circuit&#x27;s talent base continues to shrink at the moment it most needs player commitment to close its BC Partners rescue financing.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+&lt;p&gt;Meronk&#x27;s separation from LIV Golf is expected to be formalized in the coming weeks, in parallel with Jon Rahm&#x27;s targeted October 15 finalization date. With his DP World Tour card secured, Meronk has the foundation to compete across the European calendar in 2027. The DP World Tour&#x27;s fall and winter events provide an immediate set of opportunities, with the tour&#x27;s final-series events determining season rankings before the calendar closes.&lt;/p&gt;
+
+&lt;p&gt;For the Alfred Dunhill Links itself, the championship continues its place as one of the calendar&#x27;s most beloved events. St Andrews remains the sport&#x27;s most resonant venue. Meronk&#x27;s win there, under the circumstances, will be remembered as one of the more meaningful results of the 2026 European golf season.&lt;/p&gt;
+&lt;/section&gt;
+&lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-04-meronk-dunhill-links-liv-exit">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-04-meronk-dunhill-links-liv-exit')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-04-meronk-dunhill-links-liv-exit')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-04-meronk-dunhill-links-liv-exit">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-04-meronk-dunhill-links-liv-exit')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-04-meronk-dunhill-links-liv-exit')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-04-meronk-dunhill-links-liv-exit')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-04-meronk-dunhill-links-liv-exit')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-04-meronk-dunhill-links-liv-exit">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-04-meronk-dunhill-links-liv-exit" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-04-meronk-dunhill-links-liv-exit"></div>
+                </div>
+                <div class="card" data-id="article-article-05-lpga-asian-swing-thitikul-shanghai" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LPGA Asian Swing Opens in Shanghai: Thitikul Leads Season as Hwang&#x27;s LOTTE Win Resets the Race</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-05-lpga-asian-swing-thitikul-shanghai">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
+<title>LPGA Asian Swing Opens in Shanghai: Thitikul Leads Season as Hwang's LOTTE Win Resets the Race</title>
+<meta name=&quot;description&quot; content=&quot;Atthaya Thitikul leads the 2026 LPGA season points standings as the Asian swing begins. Youmin Hwang's dramatic LOTTE Championship win last week, closing with four consecutive birdies, tightened the season picture heading to Shanghai.&quot;>
+<meta name=&quot;author&quot; content=&quot;Jake Torres&quot;>
+<meta name=&quot;date&quot; content=&quot;2026-10-08&quot;>
+</head>
+<body>
+<article>
+<header>
+<h1>LPGA Asian Swing Opens in Shanghai: Thitikul Leads Season as Hwang's LOTTE Win Resets the Race</h1>
+<p><strong>By Jake Torres</strong> | October 8, 2026 | Golf Fanrecap</p>
+</header>
+
+<section>
+<p>The LPGA Tour's Asian swing is underway, with the Buick LPGA Shanghai at Sheshan Golf Club in China set for October 15-18 as the stretch run of the 2026 season begins in earnest. Atthaya &quot;Jeeno&quot; Thitikul arrives as the dominant player of the year, leading the season points standings, though the LOTTE Championship last week served notice that the picture is more complicated than the standings alone suggest.</p>
+
+<p>At the LOTTE Championship in Hawaii, 22-year-old South Korean Youmin Hwang won on a sponsor exemption, closing with a birdie on each of the final four holes to finish at 17-under 271. Thitikul, who had led the tournament by three strokes entering Sunday, faded and finished back in the field. It was among the season's most dramatic final-round reversals, and it underscored that Thitikul's season-long dominance has not made every tournament a formality.</p>
+</section>
+
+<section>
+<h2>Thitikul's Season and What's at Stake</h2>
+<p>Despite the LOTTE setback, Thitikul remains the player to beat across the remainder of the LPGA calendar. Her consistency throughout 2026 has built a points cushion that gives her flexibility in the Asian swing events, but the stretch from Shanghai through the season finale offers multiple opportunities for challengers to close the gap.</p>
+
+<p>The Buick LPGA Shanghai at Sheshan Golf Club carries a $3.2 million purse, making it one of the richer events in the Asian swing sequence. Sheshan is a demanding, tree-lined course where positioning off the tee is critical and approach play determines outcomes. International fields in Asian swing events are typically strong — the host nation's players compete with particular motivation, and the leaderboards often reflect a global range of contenders.</p>
+</section>
+
+<section>
+<h2>Hwang and Zibilski: Two First-Time Wins</h2>
+<p>Youmin Hwang's LOTTE win was one of two significant first victories in the recent stretch of LPGA events. Reagan Zibilski won the Epson Tour Championship with a final-round 62, earning her LPGA Tour card for 2027. The Epson Tour serves as the LPGA's developmental circuit, and a card earned through the Epson Tour Championship represents the culmination of a full season's work at a lower level of professional golf.</p>
+
+<p>Zibilski's 62 in the final round at the Epson Tour Championship was the kind of closing number that announces a player's readiness for the next level. She arrives on the LPGA Tour in 2027 with momentum and with a week that will be difficult to forget.</p>
+</section>
+
+<section>
+<h2>Schedule and What's Next</h2>
+<p>The LPGA also released its 2027 schedule this week, with the LOTTE Championship relocating to Kapalua Resort in Hawaii beginning next year. The current LOTTE venue's final edition in its present form added a layer of significance to Hwang's win — she closed out an era at the course with one of the most dramatic finishes the tournament has seen.</p>
+
+<p>After Shanghai, the Asian swing continues before the season closes at the CME Group Tour Championship in Naples, Florida on November 22. The season finale carries the tour's largest purse and typically determines the final season points title. Thitikul will enter Naples as the favorite if she performs in the Asian swing as expected — but Hwang's LOTTE win is a reminder that form can shift quickly, and that the final stretch of the LPGA calendar rarely resolves cleanly.</p>
+</section>
+</article>
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-05-lpga-asian-swing-thitikul-shanghai" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+&lt;title&gt;LPGA Asian Swing Opens in Shanghai: Thitikul Leads Season as Hwang&#x27;s LOTTE Win Resets the Race&lt;/title&gt;
+&lt;meta name=&quot;description&quot; content=&quot;Atthaya Thitikul leads the 2026 LPGA season points standings as the Asian swing begins. Youmin Hwang&#x27;s dramatic LOTTE Championship win last week, closing with four consecutive birdies, tightened the season picture heading to Shanghai.&quot;&gt;
+&lt;meta name=&quot;author&quot; content=&quot;Jake Torres&quot;&gt;
+&lt;meta name=&quot;date&quot; content=&quot;2026-10-08&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;article&gt;
+&lt;header&gt;
+&lt;h1&gt;LPGA Asian Swing Opens in Shanghai: Thitikul Leads Season as Hwang&#x27;s LOTTE Win Resets the Race&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;By Jake Torres&lt;/strong&gt; | October 8, 2026 | Golf Fanrecap&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;section&gt;
+&lt;p&gt;The LPGA Tour&#x27;s Asian swing is underway, with the Buick LPGA Shanghai at Sheshan Golf Club in China set for October 15-18 as the stretch run of the 2026 season begins in earnest. Atthaya &quot;Jeeno&quot; Thitikul arrives as the dominant player of the year, leading the season points standings, though the LOTTE Championship last week served notice that the picture is more complicated than the standings alone suggest.&lt;/p&gt;
+
+&lt;p&gt;At the LOTTE Championship in Hawaii, 22-year-old South Korean Youmin Hwang won on a sponsor exemption, closing with a birdie on each of the final four holes to finish at 17-under 271. Thitikul, who had led the tournament by three strokes entering Sunday, faded and finished back in the field. It was among the season&#x27;s most dramatic final-round reversals, and it underscored that Thitikul&#x27;s season-long dominance has not made every tournament a formality.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;Thitikul&#x27;s Season and What&#x27;s at Stake&lt;/h2&gt;
+&lt;p&gt;Despite the LOTTE setback, Thitikul remains the player to beat across the remainder of the LPGA calendar. Her consistency throughout 2026 has built a points cushion that gives her flexibility in the Asian swing events, but the stretch from Shanghai through the season finale offers multiple opportunities for challengers to close the gap.&lt;/p&gt;
+
+&lt;p&gt;The Buick LPGA Shanghai at Sheshan Golf Club carries a $3.2 million purse, making it one of the richer events in the Asian swing sequence. Sheshan is a demanding, tree-lined course where positioning off the tee is critical and approach play determines outcomes. International fields in Asian swing events are typically strong — the host nation&#x27;s players compete with particular motivation, and the leaderboards often reflect a global range of contenders.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;Hwang and Zibilski: Two First-Time Wins&lt;/h2&gt;
+&lt;p&gt;Youmin Hwang&#x27;s LOTTE win was one of two significant first victories in the recent stretch of LPGA events. Reagan Zibilski won the Epson Tour Championship with a final-round 62, earning her LPGA Tour card for 2027. The Epson Tour serves as the LPGA&#x27;s developmental circuit, and a card earned through the Epson Tour Championship represents the culmination of a full season&#x27;s work at a lower level of professional golf.&lt;/p&gt;
+
+&lt;p&gt;Zibilski&#x27;s 62 in the final round at the Epson Tour Championship was the kind of closing number that announces a player&#x27;s readiness for the next level. She arrives on the LPGA Tour in 2027 with momentum and with a week that will be difficult to forget.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;Schedule and What&#x27;s Next&lt;/h2&gt;
+&lt;p&gt;The LPGA also released its 2027 schedule this week, with the LOTTE Championship relocating to Kapalua Resort in Hawaii beginning next year. The current LOTTE venue&#x27;s final edition in its present form added a layer of significance to Hwang&#x27;s win — she closed out an era at the course with one of the most dramatic finishes the tournament has seen.&lt;/p&gt;
+
+&lt;p&gt;After Shanghai, the Asian swing continues before the season closes at the CME Group Tour Championship in Naples, Florida on November 22. The season finale carries the tour&#x27;s largest purse and typically determines the final season points title. Thitikul will enter Naples as the favorite if she performs in the Asian swing as expected — but Hwang&#x27;s LOTTE win is a reminder that form can shift quickly, and that the final stretch of the LPGA calendar rarely resolves cleanly.&lt;/p&gt;
+&lt;/section&gt;
+&lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-05-lpga-asian-swing-thitikul-shanghai">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-05-lpga-asian-swing-thitikul-shanghai')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-05-lpga-asian-swing-thitikul-shanghai')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-05-lpga-asian-swing-thitikul-shanghai">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-05-lpga-asian-swing-thitikul-shanghai')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-05-lpga-asian-swing-thitikul-shanghai')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-05-lpga-asian-swing-thitikul-shanghai')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-05-lpga-asian-swing-thitikul-shanghai')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-05-lpga-asian-swing-thitikul-shanghai">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-05-lpga-asian-swing-thitikul-shanghai" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-05-lpga-asian-swing-thitikul-shanghai"></div>
+                </div>
+            </div>
+
+            <div class="empty-state" id="empty-state" style="display: none;">
+                <div class="empty-state-icon">No items match your filter</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Schedule settings modal -->
+    <div class="schedule-overlay" id="schedule-overlay" onclick="closeSchedulePanel()"></div>
+    <div class="schedule-panel" id="schedule-panel">
+        <h3>Posting Schedule Settings</h3>
+        <div class="schedule-section">
+            <label>Post Date (defaults to content date)</label>
+            <input type="date" id="schedule-date" />
+        </div>
+        <div class="schedule-section">
+            <label>X / Twitter Time Slots</label>
+            <div class="time-slots" id="x-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-x-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('x')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section">
+            <label>Facebook Time Slots</label>
+            <div class="time-slots" id="fb-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-fb-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('fb')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section" style="background:#f9f9f9;padding:12px;border-radius:6px;font-size:12px;color:#666;">
+            Posts will be assigned to time slots in order. If you have more posts than slots, they wrap around. After downloading, upload the file directly to PostPlanner via Bulk Upload.
+        </div>
+        <div class="schedule-actions">
+            <button class="btn btn-secondary" onclick="closeSchedulePanel()">Cancel</button>
+            <button class="btn btn-csv" onclick="generateAndDownload()">Generate &amp; Download XLSX</button>
+        </div>
+    </div>
+
+    <!-- SheetJS for XLSX generation (loaded async so it doesn't block) -->
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <script>
+
+        const DATE = '2026-10-08';
+        const BRAND_NAME = 'Golf Fanrecap';
+        const REVIEW_STORAGE_KEY = 'golf-content-review';
+        const SCHEDULE_STORAGE_KEY = 'golf-content-schedule-config';
+        const PHOTO_SOURCE = 'imagn';
+        let reviewData = {};
+        const allStories = [{"id": "article-article-01-rahm-leaves-liv-golf-deadline-extended", "title": "Jon Rahm Officially Leaves LIV Golf \u2014 And the Rescue Deal Has a $296M Problem", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Jon Rahm Officially Leaves LIV Golf \u2014 And the Rescue Deal Has a $296M Problem<\/title>\n<meta name=\"description\" content=\"Rahm's attorney confirmed his departure to a bankruptcy judge as LIV pushes its player commitment deadline to October 25. Court docs reveal only $4M of the announced $300M has been committed.\">\n<meta name=\"author\" content=\"Ryan Calloway\">\n<meta name=\"date\" content=\"2026-10-08\">\n<\/head>\n<body>\n<article>\n<header>\n<h1>Jon Rahm Officially Leaves LIV Golf \u2014 And the Rescue Deal Has a $296M Problem<\/h1>\n<p><strong>By Ryan Calloway<\/strong> | October 8, 2026 | Golf Fanrecap<\/p>\n<\/header>\n\n<section>\n<p>Jon Rahm is leaving LIV Golf. His attorney confirmed to a bankruptcy judge this week that the two-time major champion is no longer participating in the circuit, with a separation agreement from his LIV contract targeted for finalization by October 15. The departure of the 2026 LIV individual points and money list leader marks the most significant defection yet in a bankruptcy proceeding that is rapidly defining the future of professional golf.<\/p>\n\n<p>The timing illuminates the full picture of LIV's crisis. BC Partners Credit announced a $300 million investment to rescue the circuit on October 6. That headline dominated the golf news cycle. Court documents told a different story: of that $300 million, only $4 million has actually been committed so far. The rest remains contingent on conditions that have not been met \u2014 including the player commitment threshold now extended to October 25.<\/p>\n\n<p>For Rahm, the decision represents a clean break from an experiment that began with enormous ambition and significant guaranteed money, and ends with him watching from the exit as the circuit he led statistically in 2026 fights for its survival.<\/p>\n<\/section>\n\n<section>\n<h2>Rahm Was the Prize \u2014 Now He's the Signal<\/h2>\n<p>When Rahm signed with LIV Golf ahead of the 2024 season, his move was the most consequential roster addition the circuit had made since its founding. A reigning Masters champion, a player ranked among the top five in the world, joining the Saudi-backed league sent a message that LIV could attract elite talent regardless of controversy.<\/p>\n\n<p>His departure sends the opposite message. If the player who led LIV's individual money list in 2026 will not commit to the restructuring deal, the question of who will commit \u2014 and whether enough creditors will \u2014 becomes far more urgent. BC Partners' deal requires 50 percent of players by count and two-thirds of total claim value. Rahm was, by some measures, LIV's most valuable individual asset.<\/p>\n\n<p>Sergio Garcia was separately released from his LIV contract by a New Jersey bankruptcy court. Adrian Meronk, who won the Alfred Dunhill Links Championship this week and secured his DP World Tour card for 2027, is expected to exit as well. The talent exodus is accelerating at precisely the moment LIV needs player commitment to close its financing.<\/p>\n<\/section>\n\n<section>\n<h2>The Deadline That Moved<\/h2>\n<p>The original player commitment deadline of October 13 was extended to October 25. That extension may have been presented publicly as additional time for the deal to come together. In context, it reads differently: with Rahm leaving, Garcia released, and questions about the $300 million headline figure, the extension suggests the deal is not tracking where BC Partners needs it to be.<\/p>\n\n<p>The gap between the $300 million announcement and the $4 million actually committed is the central question now facing every LIV player weighing their future. If the money is not there \u2014 or if the conditions required to release it cannot be met before October 25 \u2014 the restructuring fails, and LIV's path forward becomes deeply uncertain.<\/p>\n\n<p>The 2026 LIV season ran from February 5 through August 30 and concluded on schedule. A 2027 season in any form now depends on the next 17 days of legal and financial maneuvering.<\/p>\n<\/section>\n\n<section>\n<h2>What's Next<\/h2>\n<p>Rahm's separation agreement is targeted for finalization by October 15. The revised player commitment deadline for BC Partners is October 25. Any remaining LIV players weighing their decision will be watching both dates closely, as well as the circuit's ability to demonstrate that the $300 million headline reflects actual, committed financing rather than a number still contingent on their agreement.<\/p>\n\n<p>For Rahm, the next question is where his 2027 season unfolds. A return to the PGA Tour or DP World Tour would require navigating membership and eligibility considerations that will likely be negotiated in parallel with his LIV exit agreement. One of golf's best players is about to reenter the established tour ecosystem \u2014 and every major organizer will be paying close attention.<\/p>\n<\/section>\n<\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-02-smotherman-bank-of-utah-100th-start", "title": "Smotherman Wins Bank of Utah in His 100th PGA Tour Start \u2014 A Number That Tells the Story", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Smotherman Wins Bank of Utah in His 100th PGA Tour Start \u2014 A Number That Tells the Story<\/title>\n<meta name=\"description\" content=\"Austin Smotherman shot 26-under at Black Desert Golf Course to win his first PGA Tour title in his 100th career start, earning $1,080,000 and 500 FedExCup points.\">\n<meta name=\"author\" content=\"Jake Torres\">\n<meta name=\"date\" content=\"2026-10-08\">\n<\/head>\n<body>\n<article>\n<header>\n<h1>Smotherman Wins Bank of Utah in His 100th PGA Tour Start \u2014 A Number That Tells the Story<\/h1>\n<p><strong>By Jake Torres<\/strong> | October 8, 2026 | Golf Fanrecap<\/p>\n<\/header>\n\n<section>\n<p>Austin Smotherman shot 26-under par at Black Desert Golf Course in Ivins, Utah, and won the Bank of Utah Championship. It was his first PGA Tour victory. It was also his 100th career start on tour.<\/p>\n\n<p>The number 100 carries a specific weight in professional golf that does not translate easily to other sports. Most players who turn professional and pursue PGA Tour membership never reach 100 starts. The card system, the Monday qualifiers, the conditional status, the gradations of priority \u2014 the tour is designed to continuously filter out everyone except those who keep producing results. To reach 100 starts requires years of consistency, competitive nerve, and the ability to survive in a field of the best players in the world without ever winning.<\/p>\n\n<p>Smotherman defeated Doug Ghim by two strokes, closing at 26-under after responding each time a challenger closed the gap. He earned $1,080,000 and 500 FedExCup points \u2014 a meaningful haul in the FedExCup Fall series, which determines tour card security and positioning for the following season.<\/p>\n<\/section>\n\n<section>\n<h2>The Course and the Conditions<\/h2>\n<p>Black Desert Golf Course in Ivins, Utah, sits in red rock country in the southwestern corner of the state. The course opened to acclaim and has been a popular stop on the FedExCup Fall calendar since its addition. The scoring conditions during the Bank of Utah Championship allowed for deep scoring, with Smotherman's 26-under representing a winning total that reflects both the course's playability and the field's quality.<\/p>\n\n<p>Ghim, the runner-up at 24-under, pushed Smotherman throughout the final rounds. The two-stroke margin was comfortable by the end, but it was not always comfortable to achieve. Smotherman's ability to hold his nerve \u2014 to produce results under pressure on a course where low scores were available to anyone in the field \u2014 was the distinguishing quality of his week.<\/p>\n<\/section>\n\n<section>\n<h2>What the Win Means<\/h2>\n<p>The 500 FedExCup points Smotherman earned are significant in the context of the fall schedule. The FedExCup Fall events serve as a bridge season, providing players on the bubble opportunities to secure their playing privileges and improve their priority ranking for the following year. A first win also comes with a two-year tour exemption, meaning Smotherman does not need to worry about his card for the foreseeable future.<\/p>\n\n<p>Beyond the logistics, there is something worth acknowledging about what 100 starts represents. Most people who play competitive golf never stand on a PGA Tour tee box at all. Most who do stand there get far fewer than 100 chances. Smotherman used each of those 100 opportunities to stay competitive enough to be in contention when the right week arrived.<\/p>\n\n<p>The right week arrived at Black Desert. He did not waste it.<\/p>\n<\/section>\n\n<section>\n<h2>What's Next<\/h2>\n<p>The PGA Tour's FedExCup Fall continues with the Baycurrent Classic in Yokohama, Japan (October 8-11), which is currently underway. After Japan, the Butterfield Bermuda Championship at Port Royal Golf Course (October 22-25) provides the next opportunity for FedExCup points accumulation. Smotherman arrives at these events with a win on his record, renewed status, and momentum that tends to follow a player's first career victory.<\/p>\n<\/section>\n<\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-03-baycurrent-classic-round-1-coody-bridgeman", "title": "Baycurrent Classic Round 1: Coody and Bridgeman Share the Lead at -6 in Japan", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Baycurrent Classic Round 1: Coody and Bridgeman Share the Lead at -6 in Japan<\/title>\n<meta name=\"description\" content=\"Parker Coody and Jonathan Bridgeman share the first-round lead at 6-under at Yokohama Country Club. Defending champion Xander Schauffele is the favourite in the $8M PGA Tour event.\">\n<meta name=\"author\" content=\"Marcus Cole\">\n<meta name=\"date\" content=\"2026-10-08\">\n<\/head>\n<body>\n<article>\n<header>\n<h1>Baycurrent Classic Round 1: Coody and Bridgeman Share the Lead at -6 in Japan<\/h1>\n<p><strong>By Marcus Cole<\/strong> | October 8, 2026 | Golf Fanrecap<\/p>\n<\/header>\n\n<section>\n<p>The Baycurrent Classic at Yokohama Country Club in Kanagawa, Japan, opened with Parker Coody and Jonathan Bridgeman sharing the first-round lead at 6-under par. The $8 million purse event, part of the PGA Tour's international fall swing, runs October 8-11 with defending champion Xander Schauffele entering the week as the field's betting favourite.<\/p>\n\n<p>Coody and Bridgeman's -6 opening rounds put them at the top of a leaderboard that will shift considerably over the next three days. Yokohama Country Club presents a demanding test that tends to compress scoring as the week progresses, rewarding players who build early leads rather than those who chase late.<\/p>\n<\/section>\n\n<section>\n<h2>Schauffele Defending<\/h2>\n<p>Xander Schauffele enters as the defending champion and the player with the most experience at this venue on tour. His familiarity with Yokohama Country Club, combined with his form throughout the 2026 season, makes him the clear favourite despite Coody and Bridgeman's early advantage.<\/p>\n\n<p>Schauffele has demonstrated throughout his career an ability to close tournaments from within striking distance rather than leading wire-to-wire. A position three or four strokes back after 36 holes has historically not prevented him from winning \u2014 a fact that the rest of the field will keep in mind as the leaderboard takes shape over the next two days.<\/p>\n<\/section>\n\n<section>\n<h2>The FedExCup Fall Context<\/h2>\n<p>The Baycurrent Classic, with its $8 million purse, is among the richer FedExCup Fall events on the calendar. The FedExCup Fall serves as a bridge season between the main FedExCup competition and the following year's tour schedule, with players competing for card security, priority ranking improvement, and the points that can reshape their 2027 positioning.<\/p>\n\n<p>The field in Japan represents a mix of established tour veterans, players fighting to secure their status, and international competitors for whom the Japan setting provides a meaningful home-market advantage. Japan's golf fanbase is among the most devoted in the world, and the Baycurrent Classic benefits from that enthusiasm.<\/p>\n\n<p>With LIV Golf's bankruptcy proceedings continuing to reshape the professional game, PGA Tour events this fall have seen more depth than in recent seasons as some players who previously committed to LIV now compete on established tours.<\/p>\n<\/section>\n\n<section>\n<h2>What's Next<\/h2>\n<p>Round 2 of the Baycurrent Classic takes place Friday, with Round 3 on Saturday and the final round on Sunday, October 11. After Japan, the PGA Tour moves to the Butterfield Bermuda Championship at Port Royal Golf Course in Bermuda (October 22-25, $6 million purse) before the fall schedule continues through November. Full leaderboard updates at PGATour.com.<\/p>\n<\/section>\n<\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-04-meronk-dunhill-links-liv-exit", "title": "Meronk Wins Alfred Dunhill Links, Secures DP World Tour Card \u2014 and Sets Up His LIV Exit", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Meronk Wins Alfred Dunhill Links, Secures DP World Tour Card \u2014 and Sets Up His LIV Exit<\/title>\n<meta name=\"description\" content=\"Adrian Meronk rallied past overnight leader Casey Jarvis to win the Alfred Dunhill Links Championship at St Andrews, earning a full DP World Tour card for 2027 and paving his way out of LIV Golf.\">\n<meta name=\"author\" content=\"Ryan Calloway\">\n<meta name=\"date\" content=\"2026-10-08\">\n<\/head>\n<body>\n<article>\n<header>\n<h1>Meronk Wins Alfred Dunhill Links, Secures DP World Tour Card \u2014 and Sets Up His LIV Exit<\/h1>\n<p><strong>By Ryan Calloway<\/strong> | October 8, 2026 | Golf Fanrecap<\/p>\n<\/header>\n\n<section>\n<p>Adrian Meronk won the Alfred Dunhill Links Championship at St Andrews this past weekend, rallying past overnight leader Casey Jarvis of South Africa in the final round to claim victory. The win secured Meronk a full DP World Tour card for 2027 and, in practical terms, cleared the path for his expected exit from LIV Golf.<\/p>\n\n<p>The Alfred Dunhill Links is one of European golf's most historic events, played across three of Scotland's most celebrated courses: St Andrews, Carnoustie, and Kingsbarns. The setting adds weight to any victory. For Meronk, a Polish player and five-time DP World Tour champion, winning at St Andrews while his future on the tour hung in the balance was precisely the kind of moment that defines careers.<\/p>\n<\/section>\n\n<section>\n<h2>The Final Round<\/h2>\n<p>Jarvis, the young South African who led entering Sunday, was unable to hold off Meronk's charge in the final round. Meronk played steady, disciplined golf across the back nine at St Andrews to overtake him, converting the lead he needed to close out the championship.<\/p>\n\n<p>The margin of victory was ultimately less important than what the win delivered: confirmation that Meronk can still compete at the highest level of European professional golf after spending the 2026 season on LIV Golf. For players who made the jump to LIV, one of the persistent questions has been whether their games would translate back when the opportunity arose. Meronk answered that question on Sunday.<\/p>\n<\/section>\n\n<section>\n<h2>The LIV Context<\/h2>\n<p>Meronk's departure from the DP World Tour for LIV Golf was driven by the same forces that pulled other European players toward the Saudi-backed league: guaranteed money and a different competitive structure. He was one of the most accomplished European players to make the move, and his presence on LIV was a signal of the league's ability to attract talent from across the global game.<\/p>\n\n<p>With LIV now in bankruptcy proceedings, Meronk is among the players expected to exit his contract and return to the established tours. His Alfred Dunhill Links victory arrives at exactly the right moment \u2014 he did not need to wait for LIV's situation to resolve to begin securing his 2027 position. The DP World Tour card is his. The path back is already open.<\/p>\n\n<p>Jon Rahm's departure from LIV, confirmed this week by his attorney in a bankruptcy proceeding, has accelerated the conversation about which players will follow. Meronk's exit, when formalized, fits that pattern: the circuit's talent base continues to shrink at the moment it most needs player commitment to close its BC Partners rescue financing.<\/p>\n<\/section>\n\n<section>\n<h2>What's Next<\/h2>\n<p>Meronk's separation from LIV Golf is expected to be formalized in the coming weeks, in parallel with Jon Rahm's targeted October 15 finalization date. With his DP World Tour card secured, Meronk has the foundation to compete across the European calendar in 2027. The DP World Tour's fall and winter events provide an immediate set of opportunities, with the tour's final-series events determining season rankings before the calendar closes.<\/p>\n\n<p>For the Alfred Dunhill Links itself, the championship continues its place as one of the calendar's most beloved events. St Andrews remains the sport's most resonant venue. Meronk's win there, under the circumstances, will be remembered as one of the more meaningful results of the 2026 European golf season.<\/p>\n<\/section>\n<\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-05-lpga-asian-swing-thitikul-shanghai", "title": "LPGA Asian Swing Opens in Shanghai: Thitikul Leads Season as Hwang's LOTTE Win Resets the Race", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>LPGA Asian Swing Opens in Shanghai: Thitikul Leads Season as Hwang's LOTTE Win Resets the Race<\/title>\n<meta name=\"description\" content=\"Atthaya Thitikul leads the 2026 LPGA season points standings as the Asian swing begins. Youmin Hwang's dramatic LOTTE Championship win last week, closing with four consecutive birdies, tightened the season picture heading to Shanghai.\">\n<meta name=\"author\" content=\"Jake Torres\">\n<meta name=\"date\" content=\"2026-10-08\">\n<\/head>\n<body>\n<article>\n<header>\n<h1>LPGA Asian Swing Opens in Shanghai: Thitikul Leads Season as Hwang's LOTTE Win Resets the Race<\/h1>\n<p><strong>By Jake Torres<\/strong> | October 8, 2026 | Golf Fanrecap<\/p>\n<\/header>\n\n<section>\n<p>The LPGA Tour's Asian swing is underway, with the Buick LPGA Shanghai at Sheshan Golf Club in China set for October 15-18 as the stretch run of the 2026 season begins in earnest. Atthaya \"Jeeno\" Thitikul arrives as the dominant player of the year, leading the season points standings, though the LOTTE Championship last week served notice that the picture is more complicated than the standings alone suggest.<\/p>\n\n<p>At the LOTTE Championship in Hawaii, 22-year-old South Korean Youmin Hwang won on a sponsor exemption, closing with a birdie on each of the final four holes to finish at 17-under 271. Thitikul, who had led the tournament by three strokes entering Sunday, faded and finished back in the field. It was among the season's most dramatic final-round reversals, and it underscored that Thitikul's season-long dominance has not made every tournament a formality.<\/p>\n<\/section>\n\n<section>\n<h2>Thitikul's Season and What's at Stake<\/h2>\n<p>Despite the LOTTE setback, Thitikul remains the player to beat across the remainder of the LPGA calendar. Her consistency throughout 2026 has built a points cushion that gives her flexibility in the Asian swing events, but the stretch from Shanghai through the season finale offers multiple opportunities for challengers to close the gap.<\/p>\n\n<p>The Buick LPGA Shanghai at Sheshan Golf Club carries a $3.2 million purse, making it one of the richer events in the Asian swing sequence. Sheshan is a demanding, tree-lined course where positioning off the tee is critical and approach play determines outcomes. International fields in Asian swing events are typically strong \u2014 the host nation's players compete with particular motivation, and the leaderboards often reflect a global range of contenders.<\/p>\n<\/section>\n\n<section>\n<h2>Hwang and Zibilski: Two First-Time Wins<\/h2>\n<p>Youmin Hwang's LOTTE win was one of two significant first victories in the recent stretch of LPGA events. Reagan Zibilski won the Epson Tour Championship with a final-round 62, earning her LPGA Tour card for 2027. The Epson Tour serves as the LPGA's developmental circuit, and a card earned through the Epson Tour Championship represents the culmination of a full season's work at a lower level of professional golf.<\/p>\n\n<p>Zibilski's 62 in the final round at the Epson Tour Championship was the kind of closing number that announces a player's readiness for the next level. She arrives on the LPGA Tour in 2027 with momentum and with a week that will be difficult to forget.<\/p>\n<\/section>\n\n<section>\n<h2>Schedule and What's Next<\/h2>\n<p>The LPGA also released its 2027 schedule this week, with the LOTTE Championship relocating to Kapalua Resort in Hawaii beginning next year. The current LOTTE venue's final edition in its present form added a layer of significance to Hwang's win \u2014 she closed out an era at the course with one of the most dramatic finishes the tournament has seen.<\/p>\n\n<p>After Shanghai, the Asian swing continues before the season closes at the CME Group Tour Championship in Naples, Florida on November 22. The season finale carries the tour's largest purse and typically determines the final season points title. Thitikul will enter Naples as the favorite if she performs in the Asian swing as expected \u2014 but Hwang's LOTTE win is a reminder that form can shift quickly, and that the final stretch of the LPGA calendar rarely resolves cleanly.<\/p>\n<\/section>\n<\/article>\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}];
+        const imageManifest = {};
+        let imageURLs = {}; // Runtime store: {'1_x_image': 'url', '1_facebook_image': 'url', ...}
+
+        // Image URL management
+        function updateImageURL(inputEl) {
+            var story = inputEl.dataset.story;
+            var platform = inputEl.dataset.platform;
+            var url = inputEl.value.trim();
+            var key = story + '_' + platform;
+            imageURLs[key] = url;
+
+            // Update preview thumbnail
+            var preview = document.getElementById('img-preview-' + story + '-' + platform);
+            if (preview) {
+                if (url) {
+                    preview.src = url;
+                    preview.classList.add('loaded');
+                    preview.onerror = function() { this.classList.remove('loaded'); };
+                } else {
+                    preview.src = '';
+                    preview.classList.remove('loaded');
+                }
+            }
+        }
+
+        function getImageURLForStory(storyTitle, platform) {
+            // Try runtime imageURLs first (user-pasted)
+            // Extract story number from title
+            for (var key in imageURLs) {
+                if (imageURLs[key] && key.endsWith('_' + platform)) {
+                    var storyNum = key.split('_')[0];
+                    // Check if this story matches by looking at allStories
+                    for (var i = 0; i < allStories.length; i++) {
+                        if (allStories[i].title === storyTitle &&
+                            allStories[i].id.indexOf('story-' + storyNum) !== -1) {
+                            return imageURLs[key];
+                        }
+                    }
+                }
+            }
+
+            // Try manifest data
+            for (var num in imageManifest) {
+                var mdata = imageManifest[num];
+                if (mdata && mdata[platform] && mdata[platform].exported_url) {
+                    // Check if this story number matches
+                    for (var j = 0; j < allStories.length; j++) {
+                        if (allStories[j].title === storyTitle &&
+                            allStories[j].id.indexOf('story-' + num) !== -1) {
+                            return mdata[platform].exported_url;
+                        }
+                    }
+                }
+            }
+
+            return '';
+        }
+
+        function initializeApp() {
+            const saved = localStorage.getItem(REVIEW_STORAGE_KEY + '-' + DATE);
+            if (saved) {
+                try {
+                    reviewData = JSON.parse(saved);
+                } catch (e) {
+                    reviewData = {};
+                }
+            }
+
+            allStories.forEach(function(story) {
+                if (!reviewData[story.id]) {
+                    reviewData[story.id] = {
+                        id: story.id,
+                        type: story.type,
+                        status: 'unreviewed',
+                        notes: '',
+                        content: story.content,
+                        editedContent: null
+                    };
+                }
+                // Migrate old data: ensure editedContent field exists
+                if (reviewData[story.id].editedContent === undefined) {
+                    reviewData[story.id].editedContent = null;
+                }
+            });
+
+            // Restore UI state
+            Object.keys(reviewData).forEach(function(storyId) {
+                var data = reviewData[storyId];
+                var card = document.querySelector('[data-id="' + storyId + '"]');
+                if (card) {
+                    card.setAttribute('data-status', data.status);
+                    var textarea = document.getElementById('textarea-' + storyId);
+                    if (textarea) textarea.value = data.notes || '';
+                    // If content was edited, update the display and editor
+                    if (data.editedContent) {
+                        var contentText = card.querySelector('.card-content-text');
+                        if (contentText) contentText.textContent = data.editedContent;
+                        var editor = document.getElementById('editor-' + storyId);
+                        if (editor) editor.value = data.editedContent;
+                    }
+                    updateCardVisuals(storyId, data.status, !!data.editedContent);
+                }
+            });
+
+            updateProgress();
+            filterByStatus('all');
+        }
+
+        function toggleExpand(storyId) {
+            var content = document.getElementById('content-' + storyId);
+            var toggle = document.getElementById('toggle-' + storyId);
+            if (content.classList.contains('collapsed')) {
+                content.classList.remove('collapsed');
+                content.classList.add('expanded');
+                toggle.textContent = 'Collapse';
+            } else {
+                content.classList.remove('expanded');
+                content.classList.add('collapsed');
+                toggle.textContent = 'Show Full Content';
+            }
+        }
+
+        function startEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+            card.classList.add('editing');
+            var editor = document.getElementById('editor-' + storyId);
+            if (editor) {
+                // If previously edited, load edited content; otherwise load original
+                var data = reviewData[storyId];
+                if (data && data.editedContent) {
+                    editor.value = data.editedContent;
+                }
+                editor.focus();
+                // Auto-resize for articles
+                editor.style.minHeight = Math.max(300, editor.scrollHeight) + 'px';
+            }
+        }
+
+        function saveAndApprove(storyId) {
+            var editor = document.getElementById('editor-' + storyId);
+            if (!editor) return;
+            var newContent = editor.value;
+
+            // Save the edited content
+            if (!reviewData[storyId]) {
+                reviewData[storyId] = { id: storyId, status: 'approved', notes: '', content: '', editedContent: null };
+            }
+            reviewData[storyId].editedContent = newContent;
+
+            // Update the display text
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            var contentText = card ? card.querySelector('.card-content-text') : null;
+            if (contentText) contentText.textContent = newContent;
+
+            // Exit edit mode
+            if (card) card.classList.remove('editing');
+
+            // Approve
+            setStatus(storyId, 'approved');
+            updateCardVisuals(storyId, 'approved', true);
+
+            // Update char count for X posts
+            updateCharCount(storyId, newContent);
+        }
+
+        function cancelEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.classList.remove('editing');
+        }
+
+        function updateCharCount(storyId, text) {
+            var el = document.getElementById('charcount-' + storyId);
+            if (!el) return;
+            // Strip metadata tags before counting
+            var clean = text.replace(/\[CHARACTER COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[CHAR COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[\d+\/280\]/g, '');
+            // Remove URLs for Twitter count
+            var textNoUrls = clean.replace(/https?:\/\/\S+/g, '');
+            var count = textNoUrls.trim().length;
+            el.textContent = 'Characters: ' + count + '/280' + (count > 280 ? '  OVER LIMIT' : '');
+            el.className = count > 280 ? 'char-count warning' : 'char-count';
+        }
+
+        function approveCard(storyId) {
+            setStatus(storyId, 'approved');
+            document.getElementById('notes-' + storyId).classList.remove('show');
+        }
+
+        function rejectCard(storyId) {
+            setStatus(storyId, 'rejected');
+            document.getElementById('notes-' + storyId).classList.add('show');
+        }
+
+        function setStatus(storyId, status) {
+            if (!reviewData[storyId]) {
+                var story = allStories.find(function(s) { return s.id === storyId; });
+                reviewData[storyId] = {
+                    id: storyId,
+                    type: story ? story.type : '',
+                    status: status,
+                    notes: '',
+                    content: story ? story.content : '',
+                    editedContent: null
+                };
+            }
+
+            reviewData[storyId].status = status;
+
+            var textarea = document.getElementById('textarea-' + storyId);
+            if (textarea) reviewData[storyId].notes = textarea.value;
+
+            localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.setAttribute('data-status', status);
+            updateCardVisuals(storyId, status, !!(reviewData[storyId] && reviewData[storyId].editedContent));
+            updateProgress();
+        }
+
+        function updateCardVisuals(storyId, status, wasEdited) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+
+            card.classList.remove('approved', 'needs-edit', 'rejected');
+            if (status !== 'unreviewed') card.classList.add(status);
+
+            var statusLabel = document.getElementById('status-' + storyId);
+            if (statusLabel) {
+                statusLabel.className = 'status-label';
+                if (status === 'approved' && wasEdited) {
+                    statusLabel.textContent = 'APPROVED (EDITED)';
+                    statusLabel.classList.add('status-edited');
+                } else if (status === 'approved') {
+                    statusLabel.textContent = 'APPROVED';
+                    statusLabel.classList.add('status-approved');
+                } else if (status === 'needs-edit') {
+                    statusLabel.textContent = 'NEEDS EDIT';
+                    statusLabel.classList.add('status-needs-edit');
+                } else if (status === 'rejected') {
+                    statusLabel.textContent = 'REJECTED';
+                    statusLabel.classList.add('status-rejected');
+                } else {
+                    statusLabel.textContent = '';
+                }
+            }
+        }
+
+        function updateProgress() {
+            var approved = 0, rejected = 0, unreviewed = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status === 'unreviewed') unreviewed++;
+                else if (data.status === 'approved') approved++;
+                else if (data.status === 'rejected') rejected++;
+                else unreviewed++;
+            });
+            var reviewed = approved + rejected;
+            var total = allStories.length;
+            var percentage = total > 0 ? (reviewed / total * 100) : 0;
+            document.getElementById('reviewed-count').textContent = reviewed;
+            document.getElementById('total-count').textContent = total;
+            document.getElementById('progress-fill').style.width = percentage + '%';
+            // Update stat chips
+            document.getElementById('stat-approved-count').textContent = approved;
+            document.getElementById('stat-rejected-count').textContent = rejected;
+            document.getElementById('stat-unreviewed-count').textContent = unreviewed;
+            // Update CSV button
+            var csvBtn = document.getElementById('btn-csv');
+            var tobiBtn = document.getElementById('btn-tobi');
+            var socialApproved = countApprovedSocialPosts();
+            if (csvBtn) {
+                if (socialApproved > 0) {
+                    csvBtn.disabled = false;
+                    csvBtn.textContent = 'PostPlanner Upload (' + socialApproved + ' posts)';
+                } else {
+                    csvBtn.disabled = true;
+                    csvBtn.textContent = 'PostPlanner Upload (0 approved)';
+                }
+            }
+            // Update TOBI button (counts only X/Twitter text posts)
+            if (tobiBtn) {
+                var xApproved = countApprovedXPosts();
+                if (xApproved > 0) {
+                    tobiBtn.disabled = false;
+                    tobiBtn.textContent = 'TOBI Upload (' + xApproved + ' posts)';
+                } else {
+                    tobiBtn.disabled = true;
+                    tobiBtn.textContent = 'TOBI Upload (0 approved)';
+                }
+            }
+        }
+
+        function countApprovedSocialPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && (story.type === 'x_post' || story.type === 'facebook')) {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function countApprovedXPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && story.type === 'x_post') {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function escapeCSVField(text) {
+            if (!text) return '';
+            // If field contains comma, quote, or newline, wrap in quotes and escape inner quotes
+            if (text.indexOf(',') !== -1 || text.indexOf('"') !== -1 || text.indexOf('\n') !== -1) {
+                return '"' + text.replace(/"/g, '""') + '"';
+            }
+            return text;
+        }
+
+        function extractHashtags(text) {
+            if (!text) return '';
+            var matches = text.match(/#\w+/g);
+            return matches ? matches.join(' ') : '';
+        }
+
+        // ========== POSTING SCHEDULE SYSTEM ==========
+        var defaultXSlots = ['09:00', '12:00', '15:00', '18:00', '21:00'];
+        var defaultFBSlots = ['10:00', '13:00', '17:00'];
+
+        function getScheduleConfig() {
+            var saved = localStorage.getItem(SCHEDULE_STORAGE_KEY);
+            if (saved) {
+                try { return JSON.parse(saved); } catch(e) {}
+            }
+            return { xSlots: defaultXSlots.slice(), fbSlots: defaultFBSlots.slice() };
+        }
+
+        function saveScheduleConfig(config) {
+            localStorage.setItem(SCHEDULE_STORAGE_KEY, JSON.stringify(config));
+        }
+
+        function renderTimeSlots() {
+            var config = getScheduleConfig();
+            var xContainer = document.getElementById('x-time-slots');
+            var fbContainer = document.getElementById('fb-time-slots');
+
+            xContainer.innerHTML = config.xSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27x\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+
+            fbContainer.innerHTML = config.fbSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27fb\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+        }
+
+        function addTimeSlot(platform) {
+            var inputId = platform === 'x' ? 'new-x-time' : 'new-fb-time';
+            var val = document.getElementById(inputId).value;
+            if (!val) return;
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            if (arr.indexOf(val) === -1) {
+                arr.push(val);
+                arr.sort();
+            }
+            saveScheduleConfig(config);
+            renderTimeSlots();
+            document.getElementById(inputId).value = '';
+        }
+
+        function removeTimeSlot(platform, index) {
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            arr.splice(index, 1);
+            saveScheduleConfig(config);
+            renderTimeSlots();
+        }
+
+        function downloadPostPlannerCSV() {
+            // Open schedule panel instead of direct download
+            openSchedulePanel();
+        }
+
+        function openSchedulePanel() {
+            document.getElementById('schedule-date').value = DATE;
+            renderTimeSlots();
+            document.getElementById('schedule-panel').classList.add('show');
+            document.getElementById('schedule-overlay').classList.add('show');
+        }
+
+        function closeSchedulePanel() {
+            document.getElementById('schedule-panel').classList.remove('show');
+            document.getElementById('schedule-overlay').classList.remove('show');
+        }
+
+        function formatTimeForPostPlanner(time24, dateStr) {
+            // Output PostPlanner V2 format: MM/DD/YYYY  HH:MM (24hr)
+            var parts = dateStr.split('-');
+            return parts[1] + '/' + parts[2] + '/' + parts[0] + '  ' + time24;
+        }
+
+        function redistributeTimes(rows) {
+            // Ensure all post times are at least 30 min from now,
+            // evenly spaced through the rest of the day.
+            if (rows.length === 0) return rows;
+
+            var now = new Date();
+            var nowMinutes = now.getHours() * 60 + now.getMinutes();
+            var floorMinutes = nowMinutes + 30;
+            var endMinutes = 22 * 60; // 10:00 PM cutoff
+
+            // Check if ANY post times have already passed
+            var anyPast = rows.some(function(row) {
+                var parts = row.time.split(':');
+                var rowMin = parseInt(parts[0], 10) * 60 + parseInt(parts[1], 10);
+                return rowMin < floorMinutes;
+            });
+
+            if (!anyPast) return rows; // all times are in the future, keep them
+
+            if (floorMinutes >= endMinutes) {
+                alert('It is past 9:30 PM — not enough time remaining to schedule all posts today. Posts will use original times.');
+                return rows;
+            }
+
+            var availableMinutes = endMinutes - floorMinutes;
+            var spacing = Math.floor(availableMinutes / rows.length);
+            if (spacing < 15) spacing = 15; // minimum 15 min gap
+            if (spacing > 90) spacing = 90; // maximum 90 min gap
+
+            rows.forEach(function(row, i) {
+                var postMinutes = floorMinutes + (i * spacing);
+                if (postMinutes >= 24 * 60) postMinutes = 23 * 60 + 45;
+                var h = Math.floor(postMinutes / 60);
+                var m = postMinutes % 60;
+                row.time = (h < 10 ? '0' : '') + h + ':' + (m < 10 ? '0' : '') + m;
+            });
+
+            var firstTime = rows[0].time;
+            var lastTime = rows[rows.length - 1].time;
+            console.log('PostPlanner export: redistributed ' + rows.length + ' posts from ' + firstTime + ' to ' + lastTime + ' (' + spacing + ' min apart)');
+            return rows;
+        }
+
+        // Parse actual time from posting_window string like "7:00 AM CT" -> "07:00"
+        function parsePostingTime(timeStr) {
+            if (!timeStr) return null;
+            var m = timeStr.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
+            if (!m) return null;
+            var h = parseInt(m[1], 10);
+            var min = m[2];
+            var ampm = m[3].toUpperCase();
+            if (ampm === 'PM' && h !== 12) h += 12;
+            if (ampm === 'AM' && h === 12) h = 0;
+            return (h < 10 ? '0' : '') + h + ':' + min;
+        }
+
+        // Generic window name fallback
+        var windowToTime = {
+            'Morning': '09:00',
+            'Midday': '12:00',
+            'Afternoon': '15:00',
+            'Evening': '18:00',
+            'Late Night': '21:00'
+        };
+
+        function generateAndDownload() {
+            var config = getScheduleConfig();
+            var postDate = document.getElementById('schedule-date').value || DATE;
+
+            var xRows = [];
+            var fbRows = [];
+
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                var finalContent = data.editedContent || story.content;
+
+                if (story.type === 'x_post') {
+                    // If this is an individual tweet card (has tweet_label), use directly
+                    if (story.tweet_label) {
+                        xRows.push({
+                            content: finalContent,
+                            type: story.tweet_type || 'text',
+                            hashtags: story.hashtags || extractHashtags(finalContent),
+                            story: story.title,
+                            posting_window: story.posting_window || ''
+                        });
+                    } else {
+                        // Legacy: parse full story markdown for individual tweets
+                        var sections = parseXPostContent(finalContent, story.title);
+                        sections.forEach(function(post) {
+                            xRows.push({
+                                content: post.text,
+                                type: post.type,
+                                hashtags: extractHashtags(post.text),
+                                story: story.title
+                            });
+                        });
+                    }
+                } else if (story.type === 'facebook') {
+                    var fbPost = parseFacebookContent(finalContent, story.title);
+                    if (fbPost) {
+                        fbRows.push(fbPost);
+                    }
+                }
+            });
+
+            if (xRows.length === 0 && fbRows.length === 0) {
+                alert('No approved social posts to export.');
+                return;
+            }
+
+            // Assign times: use posting_window property first, then content tag, then round-robin
+            function assignTimes(rows, slots, label) {
+                if (slots.length === 0) slots = ['12:00'];
+                var timeFallbacks = [];
+                return rows.map(function(row, i) {
+                    row.date = postDate;
+                    // 1. Try posting_window property (e.g., "7:00 AM CT")
+                    var parsed = parsePostingTime(row.posting_window);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                    // 2. Try [POSTING WINDOW: ...] tag in content
+                    var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                    if (windowMatch) {
+                        parsed = parsePostingTime(windowMatch[1]);
+                        if (parsed) {
+                            row.time = parsed;
+                            return row;
+                        }
+                        if (windowToTime[windowMatch[1].trim()]) {
+                            row.time = windowToTime[windowMatch[1].trim()];
+                            return row;
+                        }
+                    }
+                    // 3. Fall back to round-robin
+                    row.time = slots[i % slots.length];
+                    timeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                    return row;
+                });
+                // Warn if any posts had to use fallback times
+                if (timeFallbacks.length > 0) {
+                    console.warn('TIME WARNING (' + label + '): ' + timeFallbacks.length + ' post(s) had no parsed posting time:\n' + timeFallbacks.join('\n'));
+                }
+            }
+
+            xRows = assignTimes(xRows, config.xSlots, 'X/Twitter');
+            fbRows = assignTimes(fbRows, config.fbSlots, 'Facebook');
+
+            // Generate XLSX in PostPlanner Bulk Upload V2 format
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Falling back to CSV download.');
+                fallbackCSVDownload(xRows, fbRows, postDate);
+                return;
+            }
+
+            // Combine all rows and sort by original time
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) {
+                return a.time.localeCompare(b.time);
+            });
+
+            // Smart time redistribution
+            allRows = redistributeTimes(allRows);
+
+            var wb = XLSX.utils.book_new();
+
+            // PostPlanner V3.1 format: Row 1 = version marker, Row 2 = headers, Row 3+ = data
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            allRows.forEach(function(row) {
+                var caption = cleanMarkdownForPost(row.content);
+                var mediaUrl = '';
+                if (row.type === 'image' || row.type === 'IMAGE') {
+                    mediaUrl = getImageURLForStory(row.story, row.platform === 'facebook' ? 'facebook_image' : 'x_image') || '';
+                }
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    caption,
+                    '',
+                    mediaUrl,
+                    '', '', '', '', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 30}, {wch: 30}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            // Download
+            XLSX.writeFile(wb, 'postplanner-upload-' + postDate + '.xlsx');
+            closeSchedulePanel();
+
+            var msg = 'Downloaded postplanner-upload-' + postDate + '.xlsx with ';
+            var parts = [];
+            if (xRows.length > 0) parts.push(xRows.length + ' X posts');
+            if (fbRows.length > 0) parts.push(fbRows.length + ' Facebook posts');
+            alert(msg + parts.join(' and ') + '.\n\nUpload this file to PostPlanner via Bulk Upload.');
+        }
+
+        function cleanMarkdownForPost(text) {
+            // Strip markdown formatting and metadata that shouldn't appear in social posts
+            if (!text) return '';
+            return text
+                .replace(/\[CHARACTER COUNT:.*?\]/gi, '')
+                .replace(/\[CHAR COUNT:.*?\]/gi, '')
+                .replace(/\[\d+\/280\]/g, '')
+                .replace(/\*\*\[POSTING WINDOW:.*?\]\*\*/g, '')
+                .replace(/\[POSTING WINDOW:.*?\]/g, '')
+                .replace(/\*\*([^*]+)\*\*/g, '$1')
+                .replace(/\*([^*]+)\*/g, '$1')
+                .replace(/^#+\s+/gm, '')
+                .replace(/^[-*]\s+/gm, '')
+                .replace(/```[\s\S]*?```/g, '')
+                .replace(/\n{3,}/g, '\n\n')
+                .trim();
+        }
+
+        function fallbackCSVDownload(xRows, fbRows, postDate) {
+            // Fallback if SheetJS fails to load — generates CSV in V2-like format
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+            if (allRows.length === 0) {
+                alert('No approved posts to export.');
+                closeSchedulePanel();
+                return;
+            }
+            // Smart time redistribution (same as XLSX path)
+            allRows = redistributeTimes(allRows);
+            var csv = '## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload,' + escapeCSVField('BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.') + ',,,,,,,\n';
+            csv += '## POSTING TIME,CAPTION,LINK,MEDIA,TITLE,FIRST COMMENT,FIRST COMMENT DELAY,TOBI BACKGROUND,REEL OR STORY\n';
+            allRows.forEach(function(row) {
+                csv += escapeCSVField(formatTimeForPostPlanner(row.time, postDate)) + ',' +
+                       escapeCSVField(cleanMarkdownForPost(row.content)) + ',' +
+                       ',,,,,,\n';
+            });
+            downloadFile(csv, 'postplanner-upload-' + postDate + '.csv', 'text/csv');
+            closeSchedulePanel();
+        }
+
+        function downloadTOBIExport() {
+            // Generate TOBI XLSX directly (no schedule panel needed — uses same times)
+            generateAndDownloadTOBI();
+        }
+
+        function stripHashtags(text) {
+            // Remove lines that are entirely hashtags, and trailing blank lines
+            var lines = text.split('\n');
+            var cleaned = [];
+            for (var i = 0; i < lines.length; i++) {
+                var stripped = lines[i].trim();
+                if (stripped && stripped.split(/\s+/).every(function(w) { return w.charAt(0) === '#'; })) {
+                    continue;
+                }
+                cleaned.push(lines[i]);
+            }
+            while (cleaned.length > 0 && !cleaned[cleaned.length - 1].trim()) {
+                cleaned.pop();
+            }
+            return cleaned.join('\n');
+        }
+
+        function generateAndDownloadTOBI() {
+            var postDate = document.getElementById('schedule-date') ?
+                document.getElementById('schedule-date').value || DATE : DATE;
+
+            // Collect approved X/Twitter text posts only
+            var xRows = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                if (story.type !== 'x_post') return;
+
+                var finalContent = data.editedContent || story.content;
+                if (story.tweet_label) {
+                    xRows.push({
+                        content: finalContent,
+                        posting_window: story.posting_window || '',
+                        story: story.title
+                    });
+                }
+            });
+
+            if (xRows.length === 0) {
+                alert('No approved X/Twitter posts for TOBI export.');
+                return;
+            }
+
+            // Assign times — use same logic as regular export (posting_window → content tag → round-robin)
+            var tobiSlots = defaultXSlots.slice();
+            if (tobiSlots.length === 0) tobiSlots = ['12:00'];
+            var tobiTimeFallbacks = [];
+            xRows = xRows.map(function(row, i) {
+                row.date = postDate;
+                // 1. Try posting_window property (e.g., "7:00 AM CT")
+                var parsed = parsePostingTime(row.posting_window);
+                if (parsed) {
+                    row.time = parsed;
+                    return row;
+                }
+                // 2. Try [POSTING WINDOW: ...] tag in content
+                var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                if (windowMatch) {
+                    parsed = parsePostingTime(windowMatch[1]);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                }
+                // 3. Fall back to round-robin through time slots (NOT 12:00)
+                row.time = tobiSlots[i % tobiSlots.length];
+                tobiTimeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                return row;
+            });
+            // Warn if any posts had to use fallback times
+            if (tobiTimeFallbacks.length > 0) {
+                console.warn('TOBI TIME WARNING: ' + tobiTimeFallbacks.length + ' post(s) had no parsed posting time:\n' + tobiTimeFallbacks.join('\n'));
+            }
+
+            // Sort by time
+            xRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+
+            // Smart time redistribution
+            xRows = redistributeTimes(xRows);
+
+            // TOBI processing: preserve hashtags + emojis as much as possible
+            var TOBI_LIMIT = 130;
+
+            function extractHashtags(text) {
+                var matches = text.match(/#\w+/g);
+                return matches || [];
+            }
+
+            function extractTrailingEmoji(text) {
+                var m = text.match(/\s*([\u{1F300}-\u{1FAFF}\u2600-\u27BF\u2B50\u26A0-\u26FF]+)\s*$/u);
+                if (m) {
+                    return { emoji: m[1], text: text.substring(0, m.index).trimEnd() };
+                }
+                return { emoji: null, text: text };
+            }
+
+            function truncateAtSentence(text, limit) {
+                var sentences = text.split(/(?<=[.!?])\s+/);
+                // Merge standalone emoji fragments into preceding sentence
+                var merged = [];
+                for (var s = 0; s < sentences.length; s++) {
+                    var trimmed = sentences[s].trim();
+                    if (!trimmed) continue;
+                    if (merged.length > 0 && !/[A-Za-z0-9]/.test(trimmed)) {
+                        merged[merged.length - 1] = merged[merged.length - 1] + ' ' + trimmed;
+                    } else {
+                        merged.push(trimmed);
+                    }
+                }
+                var truncated = '';
+                for (var s = 0; s < merged.length; s++) {
+                    var candidate = truncated ? truncated + ' ' + merged[s] : merged[s];
+                    if (candidate.length <= limit) {
+                        truncated = candidate;
+                    } else {
+                        break;
+                    }
+                }
+                // Clean up trailing abbreviation fragments (Dr., Mr., vs.)
+                if (truncated) {
+                    var parts = truncated.split(' ');
+                    var last = parts[parts.length - 1];
+                    if (parts.length > 1 && last.length <= 4 && /^[A-Za-z]+\.$/.test(last)) {
+                        parts.pop();
+                        truncated = parts.join(' ');
+                    }
+                }
+                return truncated || text.substring(0, limit - 3) + '...';
+            }
+
+            function fitHashtagsWithinLimit(text, hashtags, limit) {
+                if (!hashtags.length) return text;
+                // Try all hashtags, then progressively fewer
+                for (var n = hashtags.length; n > 0; n--) {
+                    var tagBlock = '\n\n' + hashtags.slice(0, n).join(' ');
+                    if ((text + tagBlock).length <= limit) {
+                        return text + tagBlock;
+                    }
+                }
+                return text;
+            }
+
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Cannot generate TOBI XLSX.');
+                return;
+            }
+
+            var wb = XLSX.utils.book_new();
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner TOBI Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            var keptHashtags = 0;
+            var strippedHashtags = 0;
+
+            xRows.forEach(function(row, i) {
+                var caption = cleanMarkdownForPost(row.content);
+
+                // If full caption fits under limit, use as-is — ALL hashtags + emojis preserved
+                if (caption.length <= TOBI_LIMIT) {
+                    if (extractHashtags(caption).length > 0) keptHashtags++;
+                    data.push([
+                        formatTimeForPostPlanner(row.time, postDate),
+                        caption, '', '', '', '', '', 'true-black', ''
+                    ]);
+                    return;
+                }
+
+                // Over limit — decompose and rebuild intelligently
+                var hashtags = extractHashtags(caption);
+                var coreText = stripHashtags(caption).trimEnd();
+                var emojiResult = extractTrailingEmoji(coreText);
+                var trailing_emoji = emojiResult.emoji;
+                var coreNoEmoji = emojiResult.text.trimEnd();
+
+                // Step 1: Get core text under limit
+                var result;
+                if (coreNoEmoji.length <= TOBI_LIMIT) {
+                    result = coreNoEmoji;
+                } else {
+                    result = truncateAtSentence(coreNoEmoji, TOBI_LIMIT);
+                }
+
+                // Step 2: Try to add back trailing emoji
+                if (trailing_emoji) {
+                    var withEmoji = result + ' ' + trailing_emoji;
+                    if (withEmoji.length <= TOBI_LIMIT) {
+                        result = withEmoji;
+                    }
+                }
+
+                // Step 3: Try to add back as many hashtags as possible
+                if (hashtags.length > 0) {
+                    var before = result;
+                    result = fitHashtagsWithinLimit(result, hashtags, TOBI_LIMIT);
+                    if (result !== before) keptHashtags++;
+                    else strippedHashtags++;
+                }
+
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    result, '', '', '', '', '', 'true-black', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 10}, {wch: 10}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            XLSX.writeFile(wb, 'postplanner-tobi-upload-' + postDate + '.xlsx');
+
+            alert('Downloaded TOBI export with ' + xRows.length + ' posts.\n\n' +
+                  keptHashtags + ' posts kept hashtags, ' + strippedHashtags + ' had hashtags removed for length.\n\n' +
+                  'Background: true-black (Column H).\nUpload to PostPlanner for Facebook TOBI posts.');
+        }
+
+        function parseXPostContent(content, storyTitle) {
+            var posts = [];
+            var lines = content.split('\n');
+
+            var inTextPost = false;
+            var inThread = false;
+            var currentTweetNum = 0;
+            var currentText = [];
+
+            for (var i = 0; i < lines.length; i++) {
+                var line = lines[i];
+                var trimmed = line.trim();
+
+                if (trimmed.match(/^###\s+Text Post/i)) {
+                    flushPost();
+                    inTextPost = true;
+                    inThread = false;
+                    currentText = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Thread Concept/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = true;
+                    currentText = [];
+                    currentTweetNum = 0;
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+
+                if (inThread && trimmed.match(/^\*\*Tweet\s+\d+/i)) {
+                    flushPost();
+                    currentTweetNum++;
+                    currentText = [];
+                    continue;
+                }
+
+                if (inTextPost || (inThread && currentTweetNum > 0)) {
+                    if (trimmed !== '') {
+                        currentText.push(line);
+                    }
+                }
+            }
+            flushPost();
+
+            function flushPost() {
+                if (currentText.length === 0) return;
+                var text = currentText.join('\n').trim();
+                if (!text) return;
+
+                if (inTextPost) {
+                    posts.push({ text: text, type: 'text' });
+                } else if (inThread && currentTweetNum > 0) {
+                    posts.push({
+                        text: text,
+                        type: currentTweetNum === 1 ? 'thread_start' : 'thread_reply'
+                    });
+                }
+                currentText = [];
+            }
+
+            return posts;
+        }
+
+        function parseFacebookContent(content, storyTitle) {
+            var lines = content.split('\n');
+            var inLongForm = false;
+            var inImagePost = false;
+            var longFormLines = [];
+            var imageCaption = '';
+
+            for (var i = 0; i < lines.length; i++) {
+                var trimmed = lines[i].trim();
+
+                if (trimmed.match(/^###\s+Long-Form Post/i)) {
+                    inLongForm = true;
+                    inImagePost = false;
+                    longFormLines = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post Caption/i) || trimmed.match(/^###\s+Image Post/i)) {
+                    inLongForm = false;
+                    inImagePost = true;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/) || trimmed.match(/^---/)) {
+                    inLongForm = false;
+                    inImagePost = false;
+                    continue;
+                }
+
+                if (inLongForm) {
+                    longFormLines.push(lines[i]);
+                }
+                if (inImagePost && trimmed !== '') {
+                    imageCaption = trimmed;
+                    inImagePost = false;
+                }
+            }
+
+            var longForm = longFormLines.join('\n').trim();
+            if (!longForm) return null;
+
+            return {
+                content: longForm,
+                image_caption: imageCaption,
+                story: storyTitle
+            };
+        }
+
+        function downloadFile(content, filename, mimeType) {
+            var blob = new Blob([content], { type: mimeType });
+            var url = URL.createObjectURL(blob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = filename;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            URL.revokeObjectURL(url);
+        }
+
+        var currentStatusFilter = 'all';
+        var currentTypeFilter = 'all';
+
+        function filterByStatus(status) {
+            currentStatusFilter = status;
+            applyFilters();
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim().toLowerCase().replace(/\s+/g, '') === status.replace('-', '').toLowerCase() ||
+                    (status === 'all' && btn.textContent.trim() === 'All') ||
+                    (status === 'needs-edit' && btn.textContent.trim() === 'Needs Edit')) {
+                    btn.classList.add('active');
+                }
+            });
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+        }
+
+        function filterByType(type) {
+            currentTypeFilter = type;
+            currentStatusFilter = 'all';
+            applyFilters();
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim() === 'All') btn.classList.add('active');
+            });
+        }
+
+        function applyFilters() {
+            var cards = document.querySelectorAll('.card');
+            var visibleCount = 0;
+            cards.forEach(function(card) {
+                var cardStatus = card.getAttribute('data-status');
+                var cardType = card.getAttribute('data-type');
+                var matchesStatus = (currentStatusFilter === 'all') || (cardStatus === currentStatusFilter);
+                var matchesType = (currentTypeFilter === 'all') || (cardType === currentTypeFilter);
+                if (matchesStatus && matchesType) {
+                    card.classList.add('show');
+                    visibleCount++;
+                } else {
+                    card.classList.remove('show');
+                }
+            });
+            document.getElementById('empty-state').style.display = visibleCount === 0 ? 'block' : 'none';
+        }
+
+        function approveAll() {
+            if (!confirm('Approve all ' + allStories.length + ' items?')) return;
+            allStories.forEach(function(story) { setStatus(story.id, 'approved'); });
+        }
+
+        function resetAll() {
+            if (confirm('Reset all reviews? This cannot be undone.')) {
+                localStorage.removeItem(REVIEW_STORAGE_KEY + '-' + DATE);
+                location.reload();
+            }
+        }
+
+        function copyContent(storyId) {
+            var data = reviewData[storyId];
+            var story = allStories.find(function(s) { return s.id === storyId; });
+            var text = (data && data.editedContent) ? data.editedContent : (story ? story.content : '');
+            navigator.clipboard.writeText(text).then(function() {
+                var btn = document.querySelector('[data-id="' + storyId + '"] .btn-copy');
+                if (btn) { var orig = btn.textContent; btn.textContent = 'Copied!'; setTimeout(function() { btn.textContent = orig; }, 1500); }
+            });
+        }
+
+        function exportApprovals() {
+            var items = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id] || {};
+                items.push({
+                    id: story.id,
+                    type: story.type,
+                    title: story.title,
+                    status: data.status || 'unreviewed',
+                    notes: data.notes || '',
+                    content: story.content,
+                    editedContent: data.editedContent || null,
+                    finalContent: data.editedContent || story.content
+                });
+            });
+
+            var exportData = {
+                date: DATE,
+                reviewed_by: '',
+                reviewed_at: new Date().toISOString(),
+                items: items
+            };
+
+            var dataStr = JSON.stringify(exportData, null, 2);
+            var dataBlob = new Blob([dataStr], { type: 'application/json' });
+            var url = URL.createObjectURL(dataBlob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = 'approvals-' + DATE + '.json';
+            link.click();
+            URL.revokeObjectURL(url);
+        }
+
+        // Auto-save notes as you type
+        document.addEventListener('input', function(e) {
+            if (e.target.classList.contains('notes-textarea')) {
+                var storyId = e.target.id.replace('textarea-', '');
+                if (reviewData[storyId]) {
+                    reviewData[storyId].notes = e.target.value;
+                    localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+                }
+            }
+        });
+
+        initializeApp();
+
+    </script>
+</body>
+</html>

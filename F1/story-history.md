@@ -7245,3 +7245,45 @@
 - **Byline:** Elena Voss
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Singapore result, Ferrari vs McLaren constructors final race tallies
+
+## 2026-10-08
+
+### STORY 1: Russell Singapore Grid Penalty — Engine Failure Puts Title Hopes on the Line
+- **Tier:** 1
+- **Category:** George Russell / Mercedes / Engine Penalty / Singapore Grand Prix / Drivers' Championship
+- **Key facts:** Russell retired Malaysia P3 with 5 laps remaining (PU failure); 5th engine of 2026 required; exceeds 4-unit 2026 allocation; back-of-grid penalty for Singapore GP; possible "double whammy" (2 component penalties per PlanetF1); original plan was Austin engine upgrade (Oct 23-25); Mercedes deputy TP Bradley Lord: "Potentially so, yeah"; gap to Antonelli now 84 pts (was ~60 with podium finish); Marina Bay notoriously difficult for overtaking; Antonelli won from P19 Monza
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Singapore Sprint Qualifying result, GP race result, championship gap post-Singapore
+
+### STORY 2: Antonelli's 84-Point Championship Lead — Can Anyone Stop Him?
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / Drivers' Championship / Season Review
+- **Key facts:** Antonelli 320 pts, Russell 236 (-84), Hamilton 214 (-106), Leclerc 191 (-129), Norris 188 (-132), Verstappen 188 (-132); Mercedes constructors 556 pts; Ferrari 405 (-151); 7 rounds remaining; Antonelli won from P19 Monza (R14); youngest potential WDC in history (20 yrs old); needs avg 12+ pts/race more than Russell to clinch
+- **Byline:** Elena Voss
+- **Status:** NEW
+- **Follow-up ideas:** Singapore result, potential clinch scenarios, youngest champion record watch
+
+### STORY 3: Singapore Sprint Weekend — First-Ever Marina Bay Sprint, Everything You Need to Know
+- **Tier:** 2
+- **Category:** Singapore Grand Prix / Sprint Weekend / Marina Bay Street Circuit / Round 17
+- **Key facts:** Round 17, first-ever sprint at Marina Bay; circuit: 4.927km, 19 corners, street, night race; Sprint weekend: 1 FP only before SQ; schedule (SGT): Fri FP 4:30PM / SQ 8:30PM; Sat Sprint 5PM / GQ 9PM; Sun Race 8PM; tyre allocation 6 sets only; Williams: "qualifying pace 25% more rewarding than race pace" at Singapore; Verstappen bookmakers' favourite; Russell starts from back
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** Sprint Qualifying result, Sprint Race result, Grand Prix result
+
+### STORY 4: Verstappen & Norris Tied 188pts — Malaysia Win Reignites Red Bull Title Math
+- **Tier:** 2
+- **Category:** Max Verstappen / Red Bull Racing / Lando Norris / McLaren / Malaysia GP Follow-Up / Red Bull Ford Powertrains
+- **Key facts:** Sepang podium: Verstappen P1, Antonelli P2 +2.307s, Hamilton P3 +4.919s, Leclerc P4 +7.258s, Hadjar P5; Verstappen first win 2026; back-to-back Malaysia victories; Red Bull Ford Powertrains first win under 2026 regs; Verstappen and Norris both 188 pts (tied P5/P6); 132 pts behind Antonelli; Ford's first F1 win since 2004
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Singapore qualifying, race result, Red Bull Singapore form
+
+### STORY 5: Ferrari CEO Backs Vasseur — But Horner Speculation Won't Stop
+- **Tier:** 2
+- **Category:** Ferrari / Frederic Vasseur / Christian Horner / Team Leadership / Constructors' Championship
+- **Key facts:** Vasseur contract extended July 2025, multi-year; Vigna Oct 3 statement: "shared ambition, mutual expectations, clear responsibility"; Ferrari official: "full confidence in Fred Vasseur"; RacingNews365: Ferrari has "provisional plan" for Vasseur exit at season end; internal successors: Antonello Coletta (Ferrari WEC) and Jérôme d'Ambrosio (deputy F1 boss); Horner: Ferrari "the dream," only team without ownership stake; Vasseur calls Horner reports "speculation"; Ferrari trail Mercedes 151 pts constructors'; Ferrari 7 different TPs since 2007
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** End-of-season leadership announcement, Singapore constructors' result
