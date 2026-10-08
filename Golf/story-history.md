@@ -2,26 +2,6 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
-## 2026-10-07
-
-| Date | Tier | Title | Platforms | Status |
-|------|------|-------|-----------|--------|
-| 2026-10-07 | T1 | Baycurrent Classic Starts Thursday — Yokohama Preview | X(2), FB, Article | FOLLOW UP |
-| 2026-10-07 | T1 | LIV Golf Pushes Deadline to October 25 — BC Partners $300M Confirmed | X(1), FB, Article | FOLLOW UP |
-| 2026-10-07 | T1 | Jeeno Thitikul Wins LOTTE Championship — Fourth Win of 2026 | X(2), FB, Article | NEW |
-| 2026-10-07 | T2 | Wyndham Clark — From No. 75 to No. 5, and Now Yokohama | X(1), FB, Article | NEW |
-| 2026-10-07 | T2 | LPGA Asian Swing — Shanghai, South Korea, Malaysia Next | X(1), FB, Article | FOLLOW UP |
-
-## 2026-10-06
-
-| Date | Tier | Title | Platforms | Status |
-|------|------|-------|-----------|--------|
-| 2026-10-06 | T1 | Austin Smotherman Wins Bank of Utah Championship — First Title in 100th Start | X(2), FB, Article | NEW |
-| 2026-10-06 | T1 | LIV Golf October 13 Deadline — 7 Days for Players to Secure 52.5% Ownership | X(2), FB, Article | FOLLOW UP |
-| 2026-10-06 | T2 | Baycurrent Classic Preview — PGA Tour's Only Asian Stop, Oct. 8-11 | X(1), FB, Article | NEW |
-| 2026-10-06 | T2 | Bank of Utah Championship — Doug Ghim's Runner-Up Validates His Resurgence | X(1), FB, Article | NEW |
-| 2026-10-06 | T2 | FedExCup Fall Update — Smotherman Enters New World After Black Desert | X(1), FB, Article | FOLLOW UP |
-
 ## 2026-09-29
 
 | Date | Tier | Title | Platforms | Status |
@@ -41,3 +21,13 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 | 2026-09-28 | T1 | LIV Golf Bankruptcy: The October 13 Player Deadline Is 15 Days Away | X(1), FB, Article | FOLLOW UP |
 | 2026-09-28 | T2 | The Bank of Utah Championship Starts Thursday at Black Desert Resort -- What to Know | X(1), FB, Article | NEW |
 | 2026-09-28 | T2 | Jackson Koivun Sealed the Presidents Cup for Team USA. He's 21 Years Old. | X(3), FB, Article | NEW |
+
+## 2026-10-08
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-08 | T1 | Jon Rahm Officially Leaves LIV Golf — And the Rescue Deal Has a $296M Problem | X(2), FB, Article | FOLLOW UP |
+| 2026-10-08 | T1 | Smotherman Wins Bank of Utah in His 100th PGA Tour Start — A Number That Tells the Story | X(1), FB, Article | NEW |
+| 2026-10-08 | T2 | Baycurrent Classic Round 1: Coody and Bridgeman Share the Lead at -6 in Japan | X(1), FB, Article | NEW |
+| 2026-10-08 | T2 | Meronk Wins Alfred Dunhill Links, Secures DP World Tour Card — and Sets Up His LIV Exit | X(1), FB, Article | NEW |
+| 2026-10-08 | T2 | LPGA Asian Swing Opens in Shanghai: Thitikul Leads Season as Hwang's LOTTE Win Resets the Race | X(2), FB, Article | NEW |

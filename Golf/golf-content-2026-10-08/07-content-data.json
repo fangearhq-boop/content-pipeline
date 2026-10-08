@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-08",
+  "compiled_at": "2026-10-08T12:39:35.218974+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [],
+  "pipeline_stats": {
+    "total_stories": 0,
+    "x_posts_count": 0,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
