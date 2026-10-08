@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-08",
+  "compiled_at": "2026-10-08T12:16:40.135134+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [],
+  "pipeline_stats": {
+    "total_stories": 0,
+    "x_posts_count": 0,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
