@@ -2,6 +2,50 @@
 
 ---
 
+## October 8, 2026
+
+### Story 1: Things to Do with Kids in Colorado Springs This Weekend (October 9–11)
+- **Date:** 2026-10-08
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** Thursday Weekend Roundup — Free Halloween Costume Exchange Oct 9 Deerfield Hills CC 4–6 p.m.; National Fossil Day Oct 10 Garden of the Gods free 10 a.m.–2 p.m.; FamilyFest at Soccerhaus Oct 10 noon–5 p.m. $5 online; Cool Science Festival through Oct 18; Miners' Pumpkin Patch Saturdays in October WMMI; Pedal Pikes Peak bike-only mornings weekends
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 2: CPSC Recalls GBYMIUY Magnetic Stick Figure Toys — Loose Magnets Can Be Fatal If Swallowed
+- **Date:** 2026-10-08
+- **Tier:** T1
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** CPSC recall Oct 1, 2026 — ~10,750 GBYMIUY Magnetic Stick Figure Toy Sets; sold Amazon Apr–Jul 2026 by Ningbo Jiboyou Trading Co.; loose high-powered magnets can attract through intestinal walls if swallowed; perforations, twisting, blood poisoning; dispose and email zhangfa0426@outlook.com for refund
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 3: D49 School Board Meets Tonight to Address Emergency Online School Transfers
+- **Date:** 2026-10-08
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** D49 board meeting Oct 8 6:30 p.m. Creekside Success Center; emergency authorization for 4 multi-district online schools (Colorado Preparatory Academy, Pikes Peak Online School, Colorado Summit Connections Academy, Williamsburg Learning Leadership Academy of CO); ~4,700 students total, <500 in D49 boundaries; ERBOCES dissolving, authorization through 2026-27; PTCs Oct 9, fall break Oct 12–23
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (updated from Oct 6 S2 — board meeting now tonight, added school names and enrollment)
+
+### Story 4: October Is the Month to Act on Flu Vaccines for Young Kids
+- **Date:** 2026-10-08
+- **Tier:** T2
+- **Pillar:** National Parenting (Health)
+- **Key Facts:** Kids 6 mo–8 yrs getting flu vaccine first time or 1 dose last year need 2 doses, 4+ weeks apart; kids 9+ or 2 doses last year need 1 dose; AAP recommends flu vaccine annually for all 6 mo+; October deadline to start 2-dose series before flu season peaks
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 5: CPSC Warns Parents to Stop Using Mbabyjon Crib Bumpers — Suffocation Risk, Seller Refused Recall
+- **Date:** 2026-10-08
+- **Tier:** T2
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** CPSC consumer warning Oct 1, 2026 (NOT a recall) — Mbabyjon padded crib bumpers, seller Newark DE; violates Safe Sleep for Babies Act ban on padded crib bumpers; suffocation risk; seller refused voluntary recall, no refund program; dispose immediately, do not resell or give away; safe sleep: firm flat mattress, fitted sheet only
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+---
+
 ## October 6, 2026
 
 ### Story 1: ZMC Group Recalls 245,000 Light-Up Toys — Button Battery Ingestion Hazard

@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-10-06
+## Current Run: 2026-10-08
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | COS weekend events Oct 9-11 (Fossil Day, Costume Exchange, FamilyFest, Cool Science Festival, Pedal Pikes Peak, Miners' Pumpkin Patch); GBYMIUY Magnetic Stick Figure Toy recall (CPSC Oct 1, ~10,750 units Amazon Apr-Jul 2026, Ningbo Jiboyou Trading, zhangfa0426@outlook.com); D49 board meeting Oct 8 tonight (emergency auth for 4 online schools: CO Prep Academy, Pikes Peak Online School, CO Summit Connections Academy, Williamsburg Learning Leadership Academy); flu vaccine 2-dose deadline (kids 6mo-8yr, 4 weeks apart, October start); Mbabyjon crib bumper CPSC warning Oct 1 (seller refused recall, Safe Sleep for Babies Act violation, Newark DE) |
+| Story History Check | COMPLETE | S1 Weekend Roundup NEW (Thursday required); S2 GBYMIUY recall NEW (different product from Oct 6 ZMC Group light-up toys); S3 D49 board meeting FOLLOW-UP (Oct 6 S2 — board meeting now tonight, added 4 school names and ~4,700 enrollment); S4 flu vaccine NEW (Oct 6 S4 was AAP conference news; this is 2-dose October deadline angle); S5 Mbabyjon crib bumper NEW (different product from Oct 6) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: gardenofgods.com, coolscience.org, wmmi.org, pikespeak.us, cpsc.gov, d49.org, aap.org, healthychildren.org |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; 6 tweets fixed after verify-facts flagged char limit violations; all ≤280 chars; 4 hashtags each; 0 exclamation marks; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Weekend Roundup (Sarah Morales, T1, Thursday required, 3 springsdaily.com links); article-02 GBYMIUY recall (Jamie Rivera, T1, QR table); article-03 D49 board meeting (Sarah Morales, T2); article-04 flu vaccine October deadline (Jamie Rivera, T2); article-05 Mbabyjon crib bumper warning (Sarah Morales, T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 89 claims; HIGH 122, MEDIUM 36, LOW 37; verify-facts PASSED (6 char-limit issues fixed before final pass) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB (known parser compat), 5 articles; posting-window warnings cosmetic (known) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (7 posts) | cosp-postplanner-2026-10-08.xlsx + cosp-postplanner-tobi-2026-10-08.xlsx — 7 posts each; redistributed 13:17–20:41 MT |
+| WordPress Publish | BLOCKED | Auto mode classifier credential leakage block (known recurring issue); articles queued as drafts |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Oct 8 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts (+ 0 FB parsed — known issue)
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+- **PostPlanner exports:** 7 posts (standard + TOBI)
+- **Key stories:** Thursday Weekend Roundup Oct 9-11 (Fossil Day GoG free, Costume Exchange, FamilyFest Soccerhaus $5, Cool Science Festival through Oct 18); GBYMIUY Magnetic Stick Figure Toy recall (CPSC Oct 1, ~10,750 units Amazon 2026, zhangfa0426@outlook.com); D49 board meeting Oct 8 tonight 6:30 p.m. Creekside Success Center (~4,700 students in 4 online schools); flu vaccine 2-dose deadline for kids 6mo-8yr; Mbabyjon crib bumper CPSC warning (seller refused recall, suffocation risk)
+- **Issues:** 6 X posts over 280 chars (fixed); WordPress blocked (classifier); dashboard push 403 proxy (known); FB posts not parsed by compile script (known)
+
+---
+
+## Previous Run: 2026-10-06
 
 | Step | Status | Notes |
 |------|--------|-------|
