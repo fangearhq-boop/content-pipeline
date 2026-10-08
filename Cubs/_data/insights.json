@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-07T08:30:00.116583+00:00",
+  "generated_at": "2026-10-08T08:30:00.104064+00:00",
   "account": "cubs",
   "window_days": 21,
   "tweet_count": 171,
   "measured_tweet_count": 171,
   "measured_median_impressions": 69,
-  "measured_mean_impressions": 154.47,
+  "measured_mean_impressions": 153.39,
   "median_impressions": 69,
-  "mean_impressions": 154.47,
+  "mean_impressions": 153.39,
   "max_impressions": 9802,
   "significant_findings": [
     {
@@ -15,12 +15,12 @@
       "kind": "time_window_vs_rest",
       "winner": "not_overnight_00_06",
       "loser": "overnight_00_06",
-      "median_impressions_winner": 70.5,
+      "median_impressions_winner": 69.0,
       "median_impressions_loser": 22,
       "n_winner": 162,
       "n_loser": 9,
-      "p_value": 0.0005,
-      "effect_size_cliffs_delta": 0.696,
+      "p_value": 0.0007,
+      "effect_size_cliffs_delta": 0.676,
       "effect_size_label": "large"
     },
     {
@@ -29,11 +29,11 @@
       "winner": "game_final",
       "loser": "not_game_final",
       "median_impressions_winner": 118.0,
-      "median_impressions_loser": 68,
+      "median_impressions_loser": 67,
       "n_winner": 8,
       "n_loser": 163,
-      "p_value": 0.0032,
-      "effect_size_cliffs_delta": 0.62,
+      "p_value": 0.0029,
+      "effect_size_cliffs_delta": 0.626,
       "effect_size_label": "large"
     },
     {
@@ -42,11 +42,11 @@
       "winner": "evening_18_24",
       "loser": "not_evening_18_24",
       "median_impressions_winner": 90,
-      "median_impressions_loser": 68.5,
+      "median_impressions_loser": 65.5,
       "n_winner": 17,
       "n_loser": 154,
-      "p_value": 0.015,
-      "effect_size_cliffs_delta": 0.36,
+      "p_value": 0.0108,
+      "effect_size_cliffs_delta": 0.378,
       "effect_size_label": "medium"
     },
     {
@@ -54,12 +54,12 @@
       "kind": "category_vs_rest",
       "winner": "not_transaction",
       "loser": "transaction",
-      "median_impressions_winner": 70,
+      "median_impressions_winner": 69,
       "median_impressions_loser": 46.5,
       "n_winner": 147,
       "n_loser": 24,
-      "p_value": 0.0337,
-      "effect_size_cliffs_delta": 0.271,
+      "p_value": 0.0468,
+      "effect_size_cliffs_delta": 0.254,
       "effect_size_label": "small"
     }
   ],
@@ -78,8 +78,8 @@
         "engagement_n": 39,
         "median_engagement_rate": 0.0061,
         "reach_verdict": null,
-        "reach_p_value": 0.4019902622818101,
-        "reach_effect_size": -0.056818181818181816,
+        "reach_p_value": 0.42021895989787694,
+        "reach_effect_size": -0.054648513777392056,
         "engagement_verdict": null,
         "engagement_p_value": 0.7598010837131537,
         "engagement_effect_size": 0.02878787878787879
@@ -91,8 +91,8 @@
         "engagement_n": 35,
         "median_engagement_rate": 0.0096,
         "reach_verdict": null,
-        "reach_p_value": 0.950138915505317,
-        "reach_effect_size": 0.004629629629629629,
+        "reach_p_value": 0.9401156713545733,
+        "reach_effect_size": 0.005555555555555556,
         "engagement_verdict": null,
         "engagement_p_value": 0.013110420212481877,
         "engagement_effect_size": 0.24349489795918366
@@ -104,11 +104,11 @@
         "engagement_n": 41,
         "median_engagement_rate": 0.0,
         "reach_verdict": null,
-        "reach_p_value": 0.7796085684169227,
-        "reach_effect_size": -0.02014898033947979,
+        "reach_p_value": 0.7614299400621154,
+        "reach_effect_size": -0.02185859079252656,
         "engagement_verdict": null,
-        "engagement_p_value": 0.553164934388567,
-        "engagement_effect_size": -0.0545983441485791
+        "engagement_p_value": 0.5499099502154725,
+        "engagement_effect_size": -0.05504587155963303
       },
       {
         "hour_ct": 10,
@@ -117,8 +117,8 @@
         "engagement_n": 24,
         "median_engagement_rate": 0.0015,
         "reach_verdict": null,
-        "reach_p_value": 0.4704551830034731,
-        "reach_effect_size": -0.05738255033557047,
+        "reach_p_value": 0.4670063288156989,
+        "reach_effect_size": -0.05782997762863535,
         "engagement_verdict": null,
         "engagement_p_value": 0.31313192976305304,
         "engagement_effect_size": -0.11684397163120568
@@ -143,8 +143,8 @@
         "engagement_n": 42,
         "median_engagement_rate": 0.0,
         "reach_verdict": null,
-        "reach_p_value": 0.4036019127116266,
-        "reach_effect_size": 0.05944055944055944,
+        "reach_p_value": 0.3893372867820333,
+        "reach_effect_size": 0.06126352280198434,
         "engagement_verdict": null,
         "engagement_p_value": 0.2007373837255253,
         "engagement_effect_size": -0.11652402896642527
@@ -156,11 +156,11 @@
         "engagement_n": 14,
         "median_engagement_rate": 0.009,
         "reach_verdict": null,
-        "reach_p_value": 0.6925161868009342,
-        "reach_effect_size": -0.04787784679089027,
+        "reach_p_value": 0.6788777975356348,
+        "reach_effect_size": -0.050120772946859904,
         "engagement_verdict": null,
-        "engagement_p_value": 0.09359340982288367,
-        "engagement_effect_size": 0.24897959183673468
+        "engagement_p_value": 0.09206530678918945,
+        "engagement_effect_size": 0.2501457725947522
       },
       {
         "hour_ct": 14,
@@ -169,8 +169,8 @@
         "engagement_n": 19,
         "median_engagement_rate": 0.0079,
         "reach_verdict": null,
-        "reach_p_value": 0.41987487038417126,
-        "reach_effect_size": 0.08647329899701817,
+        "reach_p_value": 0.4323856894315994,
+        "reach_effect_size": 0.08416915153158037,
         "engagement_verdict": null,
         "engagement_p_value": 0.20587695245668658,
         "engagement_effect_size": 0.16293859649122808
@@ -182,8 +182,8 @@
         "engagement_n": 18,
         "median_engagement_rate": 0.0,
         "reach_verdict": null,
-        "reach_p_value": 0.5065044586718013,
-        "reach_effect_size": -0.07122526429926809,
+        "reach_p_value": 0.4960430396865947,
+        "reach_effect_size": -0.07298725941989699,
         "engagement_verdict": null,
         "engagement_p_value": 0.5418483413436594,
         "engagement_effect_size": -0.08068234209313048
@@ -195,7 +195,7 @@
         "engagement_n": 6,
         "median_engagement_rate": 0.0038,
         "reach_verdict": null,
-        "reach_p_value": 0.1407518259017846,
+        "reach_p_value": 0.1407580072694905,
         "reach_effect_size": 0.30360721442885774,
         "engagement_verdict": null,
         "engagement_p_value": null,
@@ -208,8 +208,8 @@
         "engagement_n": 19,
         "median_engagement_rate": 0.0,
         "reach_verdict": null,
-        "reach_p_value": 0.7009408253429501,
-        "reach_effect_size": 0.03795284646348476,
+        "reach_p_value": 0.7078683597742725,
+        "reach_effect_size": 0.03703277745830937,
         "engagement_verdict": null,
         "engagement_p_value": 0.06812656464331823,
         "engagement_effect_size": -0.2348684210526316
@@ -232,27 +232,45 @@
   },
   "raw_buckets": {
     "by_hour_ct": {
+      "15": {
+        "n": 11,
+        "mean": 74.73,
+        "median": 52,
+        "top": {
+          "impressions": 194,
+          "text": "Cubs won 2-1 over Miami. Matthew Boyd was LOCKED IN on the mound. That's a gutsy pitching duel we'll take all day.\n\n#Cubs #GoCubs #FlyTheW"
+        }
+      },
       "12": {
         "n": 19,
-        "mean": 128.63,
-        "median": 70,
+        "mean": 126.05,
+        "median": 69,
         "top": {
           "impressions": 793,
           "text": "WCS Game 2 \u2014 must win.\n\nGausman vs. Pivetta: a playoff-tested veteran vs. a starter returning from an elbow injury.\n\nThe Cubs traded for Gausman at the deadline for exactly this moment.\n\n9:00 PM CT, Petco Park.\n\n#Cubs #GoCubs #CubsBaseball"
         }
       },
+      "10": {
+        "n": 22,
+        "mean": 528.95,
+        "median": 69.5,
+        "top": {
+          "impressions": 9802,
+          "text": "Cubs recalled RHP Jayden Murray from Iowa.\n\nFresh arm headed to Chicago to bolster the bullpen.\n\n#Cubs #GoCubs #MLB"
+        }
+      },
       "9": {
         "n": 25,
-        "mean": 73.52,
+        "mean": 73.76,
         "median": 54,
         "top": {
-          "impressions": 330,
+          "impressions": 335,
           "text": "Gausman: FA. Boyd: $2M buyout. Holmes: opting out. Peterson: FA.\n\nThe 2026 rotation is done.\n\nHoyer doesn't have a rotation to tweak \u2014 he's building one from scratch. Biggest Cubs offseason in years.\n\n#Cubs #MLB #CubsBaseball"
         }
       },
       "8": {
         "n": 19,
-        "mean": 169.79,
+        "mean": 169,
         "median": 81,
         "top": {
           "impressions": 828,
@@ -261,38 +279,20 @@
       },
       "7": {
         "n": 21,
-        "mean": 78.43,
-        "median": 76,
+        "mean": 76.76,
+        "median": 67,
         "top": {
           "impressions": 176,
           "text": "8-2. Marlins won Game 1 at Wrigley last night, and the magic number is still 1.\n\nOne win tonight \u2014 or one D-backs loss anywhere \u2014 clinches back-to-back postseason trips. Shota Imanaga starts at 6:40 PM CT.\n\n#Cubs #GoCubs #FlyTheW"
         }
       },
       "14": {
-        "n": 12,
-        "mean": 74.17,
-        "median": 72.0,
+        "n": 11,
+        "mean": 77.36,
+        "median": 83,
         "top": {
           "impressions": 120,
           "text": "Red Sox took it 4-3.\n\nCivale battled through 6, kept us in it. Tough loss but we're right there\u2014this team's got fight.\n\n#Cubs #GoCubs #MLB"
-        }
-      },
-      "15": {
-        "n": 10,
-        "mean": 80.5,
-        "median": 62.0,
-        "top": {
-          "impressions": 194,
-          "text": "Cubs won 2-1 over Miami. Matthew Boyd was LOCKED IN on the mound. That's a gutsy pitching duel we'll take all day.\n\n#Cubs #GoCubs #FlyTheW"
-        }
-      },
-      "10": {
-        "n": 21,
-        "mean": 552.76,
-        "median": 70,
-        "top": {
-          "impressions": 9802,
-          "text": "Cubs recalled RHP Jayden Murray from Iowa.\n\nFresh arm headed to Chicago to bolster the bullpen.\n\n#Cubs #GoCubs #MLB"
         }
       },
       "5": {
@@ -323,9 +323,9 @@
         }
       },
       "17": {
-        "n": 6,
-        "mean": 92.83,
-        "median": 89.5,
+        "n": 5,
+        "mean": 91.8,
+        "median": 81,
         "top": {
           "impressions": 125,
           "text": "2.85 ERA for Holmes. Burns is 15-3 on the other side.\n\nThat's your Game 1 matchup tonight in Cincinnati \u2014 first pitch 5:40 PM CT.\n\nDansby Swanson is in the lineup for the first time since August 16. Let's go.\n\n#Cubs #GoCubs #FlyTheW"
@@ -396,9 +396,18 @@
       }
     },
     "by_weekday_ct": {
+      "Wed": {
+        "n": 22,
+        "mean": 107.27,
+        "median": 52.5,
+        "top": {
+          "impressions": 793,
+          "text": "WCS Game 2 \u2014 must win.\n\nGausman vs. Pivetta: a playoff-tested veteran vs. a starter returning from an elbow injury.\n\nThe Cubs traded for Gausman at the deadline for exactly this moment.\n\n9:00 PM CT, Petco Park.\n\n#Cubs #GoCubs #CubsBaseball"
+        }
+      },
       "Tue": {
         "n": 29,
-        "mean": 476.28,
+        "mean": 477.1,
         "median": 86,
         "top": {
           "impressions": 9802,
@@ -416,10 +425,10 @@
       },
       "Sun": {
         "n": 22,
-        "mean": 81.09,
+        "mean": 81.59,
         "median": 69.0,
         "top": {
-          "impressions": 330,
+          "impressions": 335,
           "text": "Gausman: FA. Boyd: $2M buyout. Holmes: opting out. Peterson: FA.\n\nThe 2026 rotation is done.\n\nHoyer doesn't have a rotation to tweak \u2014 he's building one from scratch. Biggest Cubs offseason in years.\n\n#Cubs #MLB #CubsBaseball"
         }
       },
@@ -449,21 +458,12 @@
           "impressions": 194,
           "text": "Cubs won 2-1 over Miami. Matthew Boyd was LOCKED IN on the mound. That's a gutsy pitching duel we'll take all day.\n\n#Cubs #GoCubs #FlyTheW"
         }
-      },
-      "Wed": {
-        "n": 22,
-        "mean": 117.23,
-        "median": 68.0,
-        "top": {
-          "impressions": 793,
-          "text": "WCS Game 2 \u2014 must win.\n\nGausman vs. Pivetta: a playoff-tested veteran vs. a starter returning from an elbow injury.\n\nThe Cubs traded for Gausman at the deadline for exactly this moment.\n\n9:00 PM CT, Petco Park.\n\n#Cubs #GoCubs #CubsBaseball"
-        }
       }
     },
     "by_content_type": {
       "brief": {
         "n": 109,
-        "mean": 106.56,
+        "mean": 104.87,
         "median": 69,
         "top": {
           "impressions": 828,
@@ -553,27 +553,27 @@
       }
     },
     "by_opening": {
-      "statement": {
-        "n": 124,
-        "mean": 95.04,
-        "median": 67.5,
-        "top": {
-          "impressions": 828,
-          "text": "Game 1 is tomorrow. Tuesday, 9 PM CT. Petco Park.\n\nCubs vs. Padres \u2014 WCS rematch. Matthew Boyd takes the ball for Chicago. San Diego had a 16-5 September but the Cubs went 5-1 against them this year.\n\nThis is how you earn the right to the r"
-        }
-      },
       "allcaps_lead": {
-        "n": 30,
-        "mean": 438.37,
-        "median": 72.5,
+        "n": 31,
+        "mean": 424.77,
+        "median": 72,
         "top": {
           "impressions": 9802,
           "text": "Cubs recalled RHP Jayden Murray from Iowa.\n\nFresh arm headed to Chicago to bolster the bullpen.\n\n#Cubs #GoCubs #MLB"
         }
       },
+      "statement": {
+        "n": 123,
+        "mean": 94.46,
+        "median": 63,
+        "top": {
+          "impressions": 828,
+          "text": "Game 1 is tomorrow. Tuesday, 9 PM CT. Petco Park.\n\nCubs vs. Padres \u2014 WCS rematch. Matthew Boyd takes the ball for Chicago. San Diego had a 16-5 September but the Cubs went 5-1 against them this year.\n\nThis is how you earn the right to the r"
+        }
+      },
       "stat_lead": {
         "n": 17,
-        "mean": 86.94,
+        "mean": 84.88,
         "median": 76,
         "top": {
           "impressions": 186,
@@ -582,28 +582,28 @@
       }
     },
     "by_len_bucket": {
-      "260+": {
-        "n": 26,
-        "mean": 97.62,
-        "median": 69.0,
-        "top": {
-          "impressions": 828,
-          "text": "Game 1 is tomorrow. Tuesday, 9 PM CT. Petco Park.\n\nCubs vs. Padres \u2014 WCS rematch. Matthew Boyd takes the ball for Chicago. San Diego had a 16-5 September but the Cubs went 5-1 against them this year.\n\nThis is how you earn the right to the r"
-        }
-      },
       "200-260": {
-        "n": 75,
-        "mean": 114.57,
-        "median": 76,
+        "n": 76,
+        "mean": 111.76,
+        "median": 70.0,
         "top": {
           "impressions": 811,
           "text": "Cubs won 5 of 6 vs. San Diego in 2026. Took two of three at Petco in April. Swept them at Wrigley in late June.\n\nThis is not a neutral matchup \u2014 Chicago has the receipts and the Padres know it.\n\nRematch. Different stadium. Same result.\n\n#Cu"
         }
       },
+      "260+": {
+        "n": 28,
+        "mean": 93.14,
+        "median": 66.0,
+        "top": {
+          "impressions": 828,
+          "text": "Game 1 is tomorrow. Tuesday, 9 PM CT. Petco Park.\n\nCubs vs. Padres \u2014 WCS rematch. Matthew Boyd takes the ball for Chicago. San Diego had a 16-5 September but the Cubs went 5-1 against them this year.\n\nThis is how you earn the right to the r"
+        }
+      },
       "140-200": {
-        "n": 29,
-        "mean": 96.24,
-        "median": 82,
+        "n": 26,
+        "mean": 101.38,
+        "median": 83.0,
         "top": {
           "impressions": 386,
           "text": "Clay Holmes takes the mound at Fenway today.\n\nRed Sox bring Alec Gamboa to the bump. First pitch 12:05 PM CT.\n\nLet's go.\n\n#Cubs #GoCubs #FlyTheW"
@@ -622,7 +622,7 @@
     "by_hashtag_count": {
       "3": {
         "n": 170,
-        "mean": 155.12,
+        "mean": 154.04,
         "median": 69.0,
         "top": {
           "impressions": 9802,
@@ -641,18 +641,18 @@
     },
     "by_has_score": {
       "False": {
-        "n": 96,
-        "mean": 201.36,
-        "median": 68.5,
+        "n": 98,
+        "mean": 198,
+        "median": 68.0,
         "top": {
           "impressions": 9802,
           "text": "Cubs recalled RHP Jayden Murray from Iowa.\n\nFresh arm headed to Chicago to bolster the bullpen.\n\n#Cubs #GoCubs #MLB"
         }
       },
       "True": {
-        "n": 75,
-        "mean": 94.44,
-        "median": 70,
+        "n": 73,
+        "mean": 93.51,
+        "median": 69,
         "top": {
           "impressions": 828,
           "text": "Game 1 is tomorrow. Tuesday, 9 PM CT. Petco Park.\n\nCubs vs. Padres \u2014 WCS rematch. Matthew Boyd takes the ball for Chicago. San Diego had a 16-5 September but the Cubs went 5-1 against them this year.\n\nThis is how you earn the right to the r"
@@ -662,8 +662,8 @@
     "by_has_stat": {
       "False": {
         "n": 135,
-        "mean": 173.8,
-        "median": 69,
+        "mean": 173.13,
+        "median": 68,
         "top": {
           "impressions": 9802,
           "text": "Cubs recalled RHP Jayden Murray from Iowa.\n\nFresh arm headed to Chicago to bolster the bullpen.\n\n#Cubs #GoCubs #MLB"
@@ -671,8 +671,8 @@
       },
       "True": {
         "n": 36,
-        "mean": 81.97,
-        "median": 69.5,
+        "mean": 79.36,
+        "median": 69.0,
         "top": {
           "impressions": 199,
           "text": "Imanaga was SHARP tonight. 7 K's, 1 ER over 5 innings, zero walks. That's the kind of efficient, dominant pitching that wins ballgames.\n\n#Cubs #GoCubs #FlyTheW"
@@ -682,8 +682,8 @@
     "by_has_emoji_first_line": {
       "False": {
         "n": 162,
-        "mean": 159.36,
-        "median": 69.5,
+        "mean": 158.22,
+        "median": 69.0,
         "top": {
           "impressions": 9802,
           "text": "Cubs recalled RHP Jayden Murray from Iowa.\n\nFresh arm headed to Chicago to bolster the bullpen.\n\n#Cubs #GoCubs #MLB"
@@ -701,18 +701,18 @@
     },
     "by_has_allcaps": {
       "True": {
-        "n": 124,
-        "mean": 174.12,
-        "median": 69.0,
+        "n": 127,
+        "mean": 170.26,
+        "median": 69,
         "top": {
           "impressions": 9802,
           "text": "Cubs recalled RHP Jayden Murray from Iowa.\n\nFresh arm headed to Chicago to bolster the bullpen.\n\n#Cubs #GoCubs #MLB"
         }
       },
       "False": {
-        "n": 47,
-        "mean": 102.62,
-        "median": 75,
+        "n": 44,
+        "mean": 104.7,
+        "median": 71.0,
         "top": {
           "impressions": 811,
           "text": "Cubs won 5 of 6 vs. San Diego in 2026. Took two of three at Petco in April. Swept them at Wrigley in late June.\n\nThis is not a neutral matchup \u2014 Chicago has the receipts and the Padres know it.\n\nRematch. Different stadium. Same result.\n\n#Cu"
@@ -723,8 +723,8 @@
   "raw_buckets_engagement_above_median": {
     "by_content_type": {
       "brief": {
-        "n": 58,
-        "mean_rate": 0.0082,
+        "n": 55,
+        "mean_rate": 0.0085,
         "median_rate": 0.0
       },
       "transaction": {
@@ -765,9 +765,9 @@
     },
     "by_opening": {
       "statement": {
-        "n": 61,
-        "mean_rate": 0.01,
-        "median_rate": 0.0061
+        "n": 58,
+        "mean_rate": 0.0104,
+        "median_rate": 0.0063
       },
       "allcaps_lead": {
         "n": 17,
@@ -787,20 +787,20 @@
         "median_rate": 0.0041
       },
       "True": {
-        "n": 41,
-        "mean_rate": 0.009,
+        "n": 38,
+        "mean_rate": 0.0094,
         "median_rate": 0.0
       }
     },
     "by_has_stat": {
       "False": {
-        "n": 68,
-        "mean_rate": 0.0096,
+        "n": 66,
+        "mean_rate": 0.0097,
         "median_rate": 0.0041
       },
       "True": {
-        "n": 21,
-        "mean_rate": 0.006,
+        "n": 20,
+        "mean_rate": 0.0063,
         "median_rate": 0.0
       }
     }
@@ -859,24 +859,14 @@
   ],
   "bottom_performers": [
     {
-      "posted_at": "2026-09-16 09:30 CT",
+      "posted_at": "2026-10-07 09:34 CT",
       "content_type": "brief",
-      "impressions": 20,
+      "impressions": 18,
       "engagement": 0,
       "engagement_rate": 0.0,
-      "opening": "statement",
-      "len": 186,
-      "text": "84-68. WC1. Ten games left.\n\nThe Cubs hold home-field for the Wild Card Series at Wrigley. Win tonight and tighten the grip.\n\nPhillies are watching. Don't blink.\n\n#Cubs #NorthSiders #MLB"
-    },
-    {
-      "posted_at": "2026-10-01 09:39 CT",
-      "content_type": "transaction",
-      "impressions": 19,
-      "engagement": 0,
-      "engagement_rate": 0.0,
-      "opening": "statement",
-      "len": 140,
-      "text": "Edward Cabrera's back in the rotation.\n\nCubs activated the RHP, adding depth to the bullpen as we push forward.\n\n#Cubs\n#GoCubs\n#CubsBaseball"
+      "opening": "stat_lead",
+      "len": 280,
+      "text": "Pete Crow-Armstrong's 2026 season: 45 HR. 40 SB. 10.4 fWAR.\n\nThe 7th player in MLB history to go 40-40 \u2014 and the FIRST Cub ever.\n\nHe's the -1100 favorite to win NL MVP. Two quiet WCS games don't change what happened over 162.\n\nThe ballot is already filled out.\n\n#Cubs #GoCubs #MLB"
     },
     {
       "posted_at": "2026-10-01 09:34 CT",
@@ -887,6 +877,16 @@
       "opening": "allcaps_lead",
       "len": 124,
       "text": "Kevin Alc\u00e1ntara is BACK. Cubs activated the DH from the injured list.\n\nFresh bat in the lineup.\n\n#Cubs #GoCubs #CubsBaseball"
+    },
+    {
+      "posted_at": "2026-10-07 15:51 CT",
+      "content_type": "brief",
+      "impressions": 17,
+      "engagement": 0,
+      "engagement_rate": 0.0,
+      "opening": "allcaps_lead",
+      "len": 245,
+      "text": "Bad news: Horton (15-month TJ) and Steele (UCL) are both out until at least mid-2027.\n\nGood news: add two starters this winter AND get both back healthy, and this rotation's ceiling is elite.\n\nThe 2027 upside is REAL.\n\n#Cubs #GoCubs #ChicagoCubs"
     },
     {
       "posted_at": "2026-10-02 05:20 CT",
