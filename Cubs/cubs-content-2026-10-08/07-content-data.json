@@ -1,0 +1,205 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-08",
+  "compiled_at": "2026-10-08T09:20:02.706179+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Padres Eliminated — Brewers Beat San Diego 3-1 in NLDS G4",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Brewers won Game 4, 3-1, at Petco Park. Padres season is over. The team that swept the Cubs out of October is now out themselves. Cubs fan angle: bittersweet closure.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "The team that swept the Cubs out of October is done.\n\nBrewers 3-1 in NLDS G4 last night. Padres go home. Milwaukee advances to the NLCS.\n\nNo Cubs in October still stings — but watching their WCS nemesis eliminated is something.\n\n#Cubs #MLB #GoCubs",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "game_final (rival watch)",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#GoCubs"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Padres Eliminated — Brewers Beat San Diego 3-1 in NLDS G4\n**Sources:**\n- fox5sandiego.com: \"Brewers defeat Padres 3-1 in NLDS Game 4, Milwaukee advances to championship series\" [<24h] ✓\n- Yahoo Sports: \"Brewers finish off Padres to set up repeat clash with Dodgers in NLCS\" [<24h] ✓\n- brewcrewball.com: \"Brewers drop Game 3 of NLDS\" + ESPN game recap (cross-reference) ✓\n**Verified Facts:**\n- Final score: Brewers 3, Padres 1 [HIGH — two sources]\n- Padres season ends; Brewers advance to NLCS [HIGH]\n- Scoring: Garrett Mitchell RBI single (3rd inning), Sal Frelick sacrifice fly (6th), Xander Bogaerts scored go-ahead run on broken-bat bouncer (6th) [MEDIUM — single source]\n- Mitchell robbed Machado of potential tying homer in 8th inning [MEDIUM — single source]\n- Series result: Brewers win NLDS 3-1 (won Games 1, 2, 4; lost Game 3) [HIGH]\n**Freshness:** Published last night / this morning. ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "NLCS Set — Brewers vs. Dodgers",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Brewers (4 straight NL Central titles, Cubs' chief rival) vs. Dodgers (100-win powerhouse, NLCS rematch of 2025). Cubs watching from home. Bold take: the motivation to fix this team has never been stronger.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Brewers vs. Dodgers in the NLCS.\n\nThe NL Central bully (4 straight titles) vs. the West Coast machine (100-62 this year). Cubs watching from home after a 1-run WCS.\n\nFix the rotation. Take the Central back in 2027.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "brief (bold/analysis)",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "NLCS Set — Brewers vs. Dodgers\n**Sources:**\n- Fox Sports: \"NLDS Highlights: Dodgers, Brewers Both Advance, Set Up NLCS Rematch\" [<24h] ✓\n- b999fm.com: \"Los Angeles Dodgers Beat Atlanta Braves 3-1; Will Face Milwaukee Brewers In NL Championship Series\" [<24h, MEDIUM confidence — unverified outlet]\n**Verified Facts:**\n- NLCS matchup: Brewers vs. Dodgers [HIGH — Fox Sports headline confirms both teams advanced]\n- Described as \"NLCS rematch\" → 2025 NLCS was Brewers vs. Dodgers [HIGH — multiple references to \"repeat clash\" and \"rematch\"]\n- Dodgers finished regular season 100-62 [MEDIUM — from NLDS preview article]\n- Brewers won 4 straight NL Central titles [HIGH — confirmed across multiple prior research days]\n**Freshness:** Published last night / this morning. ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "NL Central 2027 — Cardinals Rebuilding, Cubs' Window Opens",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cardinals finished ~77-83, traded Arenado for a lottery ticket, are rebuilding. NL Central race will be Brewers vs Cubs in 2027 if Chicago fixes the rotation. Division is there for the taking.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Cardinals finished below .500 in 2026 and traded Nolan Arenado to Arizona for near-nothing. They're rebuilding.\n\nThe NL Central title is in Milwaukee right now. Add two arms this winter and it comes home to Wrigley in 2027.\n\n#Cubs #NorthSiders #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "brief (analysis/bold)",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#CubsBaseball"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "NL Central 2027 — Cardinals Rebuilding, Cubs' Window Opens\n**Sources:**\n- bleachernation.com / roundtable.io: Brewers 101-59, Cardinals 77-83 (September 26, 2026 box) [MEDIUM — 2 games remaining at that point; final record ~77-85]\n- bleachernation.com: Cardinals traded Nolan Arenado to Arizona for pitcher Jack Martinez + 2025 8th-round pick (January 2026) [HIGH — confirmed in multiple searches]\n**Verified Facts:**\n- Cardinals approx record 2026: 77-83 (MEDIUM — with 2 games remaining Sept 26; final likely 77-85)\n- Arenado trade to Arizona for lottery-ticket return: HIGH\n- Cardinals described as rebuilding: HIGH\n- Brewers won 4 straight NL Central titles + 101 wins in 2026: HIGH\n**Note:** Will say \"approximately 77-83\" or \"finished below .500\" to be safe on the Cardinals record.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Hoyer's Rotation Emergency — By the Numbers",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "231 HR allowed (NL-leading). 14 save-recorders (club record). Five starters hitting free agency. Horton + Steele both out until 2027. The stats make the offseason priority undeniable.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cubs led the NL with 231 home runs allowed in 2026. Set a club record using 14 different save-recorders.\n\nGausman, Imanaga, Boyd, Holmes, Peterson: all free agents. Horton and Steele out until 2027.\n\nHoyer said it plainly. Now he has to write the checks.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "brief (informative/stat breakdown)",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Hoyer's Rotation Emergency — By the Numbers\n**Sources:**\n- mlb.com/cubs/news: \"Hoyer talks Cubs wild card series loss\" press conference coverage [<7 days] ✓\n- fox32chicago.com: \"Cubs exec Jed Hoyer regrets late collapse, says offseason focus will be on pitching\" [<7 days] ✓\n- bleachernation.com: Jed Hoyer end-of-season press conference summary [<7 days] ✓\n- bleacherreport.com: Cubs 2026 offseason guide — FA list [<7 days] ✓\n**Verified Facts:**\n- Cubs led NL with 231 HR allowed in 2026 [HIGH — Hoyer confirmed in presser; bleachernation summary]\n- 14 different save-recorders (club record) [HIGH — Hoyer presser]\n- Hoyer: \"I did a poor job on the bullpen this year\" [HIGH — direct quote from presser]\n- FAs: Gausman, Imanaga, Boyd, Holmes, Peterson [HIGH — bleacherreport offseason guide]\n- Boyd $15M mutual option likely declined [MEDIUM — bleacherreport \"almost certainly\"]\n- Horton TJ surgery April 2026, 15-16 month timeline → July/Aug 2027 [HIGH — AP, wtop.com, mlb.com]\n- Steele UCL surgery 2025, still rehabbing, pain-free but no timetable [HIGH — Chicago Sun-Times July 2026]\n**Freshness:** Presser Oct 3, within 5 days. ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "The WCS Contrast — Elite Offense, Brittle Rotation (Evening)",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Cubs were 5-1 vs Padres in the regular season. WCS: 1 run, 18 innings, swept. The offense wasn't the problem. The take: this entire offseason is reducible to that one contrast.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cubs went 5-1 vs. San Diego in the regular season.\n\nIn the WCS: 1 run, 18 innings, swept.\n\nThe 2026 offense was elite. The rotation wasn't. That contrast IS the entire Cubs offseason.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "brief (bold/passionate)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "The WCS Contrast — Elite Offense, Brittle Rotation\n**Sources (cross-referenced from pipeline logs):**\n- Cubs 5-1 vs Padres in 2026 regular season: HIGH [story-history.md, Sept 28 entry]\n- Cubs WCS: 1 run in 18 innings, swept 2-0: HIGH [pipeline-status.md; confirmed Game 1 8-0, Game 2 4-1]\n- 2026 offense was elite (highest-scoring in NL per bleacherreport): HIGH\n**Note:** This story builds entirely on verified prior facts — no new claims requiring additional sourcing.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

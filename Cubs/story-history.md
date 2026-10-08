@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-10-08 (OFF DAY — Early offseason. Brewers eliminated Padres in NLDS G4 overnight (3-1); NLCS set: Brewers vs Dodgers. Insights active: overnight_00_06 loser; game_final winner; evening_18_24 winner; transaction loser.)
+
+### STORY 1: Padres Eliminated — Brewers Beat San Diego 3-1 in NLDS G4
+- **Angle:** FOLLOW UP (Brewers-Padres NLDS covered 10/06, 10/07; fresh result: Padres eliminated). Brewers win Game 4, 3-1, at Petco Park. Padres season over. Cubs fan angle: the team that swept us is done. Mitchell robbed Machado in 8th.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game_final/rival watch)
+- **Follow-Up Opportunities:** Brewers-Dodgers NLCS results (ongoing)
+
+### STORY 2: NLCS Set — Brewers vs. Dodgers
+- **Angle:** NEW STORY. NLCS rematch of 2025 confirmed. Brewers (4 straight NL Central titles) vs Dodgers (100-62). Cubs watching from home. Bold motivational take: fix the rotation, take the Central back in 2027.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold/analysis)
+- **Follow-Up Opportunities:** NLCS results; Cubs offseason reaction
+
+### STORY 3: NL Central 2027 — Cardinals Rebuilding, Cubs' Window Opens
+- **Angle:** NEW STORY. Cardinals finished below .500, traded Arenado for minimal return, rebuilding. NL Central race = Brewers vs Cubs in 2027 if rotation gets fixed. Division is winnable.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, analysis)
+- **Follow-Up Opportunities:** Cardinals offseason moves; NL Central landscape heading into Hot Stove
+
+### STORY 4: Hoyer's Rotation Emergency — By the Numbers
+- **Angle:** FOLLOW UP (10/07 covered broad "Cubs must spend" angle; fresh angle: Hoyer press conference stats). 231 HR allowed (NL-leading). 14 save-recorders (club record). Gausman/Imanaga/Boyd/Holmes/Peterson all FAs. Horton + Steele out until 2027.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, informative/stat breakdown)
+- **Follow-Up Opportunities:** FA signings; rotation moves throughout winter
+
+### STORY 5: The WCS Contrast — Elite Offense, Brittle Rotation (Evening)
+- **Angle:** FOLLOW UP. Cubs went 5-1 vs Padres in regular season. WCS: 1 run, 18 innings, swept. Frame: the 2026 offense was elite; the rotation wasn't. That contrast IS the entire Cubs offseason. Evening slot per insights (evening_18_24 WINNER).
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, bold/passionate)
+- **Follow-Up Opportunities:** None — season-end framing; rotation rebuild story ongoing
+
+---
+
 ## 2026-10-06 (OFF DAY — Cubs eliminated by Padres in WCS sweep (2-0). Early offseason. Insights active: overnight_00_06 loser; game_final winner; evening_18_24 winner; transaction loser.)
 
 ### STORY 1: WCS Sweep / Season Postmortem
