@@ -2,7 +2,7 @@
 
 ## Current Status
 **Last Run:** 2026-10-08
-**Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy; git push via GitHub MCP
+**Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy; git push via GitHub MCP (15 of 17 files pushed; review-dashboard.html and story-history.md pending — too large for inline MCP push)
 
 ## Deploy Info
 - **Repo:** fangearhq-boop/content-dashboards
