@@ -2,6 +2,36 @@
 
 How to research, tier, and fact-check Cubs/MLB stories for daily content.
 
+## HARD RULE — First pitch and ballpark
+
+Game start times and ballparks come from MLB's official schedule, not from a national listing with "CT" typed on the end.
+
+1. Before writing a first pitch or a ballpark, run:
+
+```bash
+python Cubs/mlb_schedule.py --date YYYY-MM-DD
+```
+
+2. Paste that output into `00-research.md` and `01-research-notes.md`.
+3. Copy the clock and the venue name from that output into the brief, the story files, and the posts. The clock is already Central. It is the Stats API `gameDate` (UTC) converted with the `America/Chicago` time zone, so daylight time and standard time are both handled. Do not subtract 5 or 6 hours by hand.
+4. CBS, Yahoo, ESPN, Fox, and TV listings are not a source for a first pitch or a ballpark. They often print an Eastern clock with no zone. Two of them agreeing does not make the clock Central.
+
+The same rule covers the park. A best-of-five flips parks after Game 2. Use `venue.name` on that date's game. Do not reuse the Game 1 park for Game 3 because a preview or a local listing still names it.
+
+If the script cannot reach the Stats API, leave the first pitch and the ballpark out. Do not fill them from a secondary site.
+
+Scores, inning lines, and player game stats follow the same official-source rule. Use the box score URL the script prints (`/api/v1/game/{gamePk}/boxscore`), or the MLB.com box score for that game. Two recap articles agreeing is not verification when that box score exists. Season-long stats still come from Baseball Reference or FanGraphs, as in the tables below.
+
+Fact-check runs the comparison again. `verify-facts.py` calls this script. A mismatch fails the fact-check. You can also run it directly:
+
+```bash
+python Cubs/mlb_schedule.py --date YYYY-MM-DD --check Cubs/cubs-content-YYYY-MM-DD
+```
+
+Exit code 2 means do not mark the fact-check PASS. Fix the copy so it matches the official line.
+
+What this caught: on Oct 4, 2026 the brief labeled NLDS Game 2 as 4:00 PM CT and 8:00 PM CT because CBS and Yahoo agreed. Official `gameDate` values were `2026-10-04T20:00:00Z` and `2026-10-05T00:00:00Z`, which are 3:00 PM CT and 7:00 PM CT. On Oct 6, 2026 the brief put Brewers at Padres Game 3 at American Family Field. The official venue was Petco Park, 8:30 PM CT.
+
 ## Research Categories
 
 Run **8-10 web searches** across these categories before writing content.
@@ -124,14 +154,16 @@ Every post must be verified before publishing. Priority order:
 | Service time / years in MLB | Baseball Reference player page — count debut year to present |
 | Draft history | Baseball Reference or MLB.com draft tracker |
 
-### Priority 4 — Game Times and Schedule
+### Priority 4 — Game Times, Ballparks, and Schedule
 
 | Check | How to Verify |
 |-------|--------------|
-| Game time | Official Cubs schedule at mlb.com/cubs/schedule — ALWAYS use CT |
-| TV/streaming broadcast | ESPN or MLB.com schedule — broadcasts change, especially nationally |
+| First pitch | `python Cubs/mlb_schedule.py --date YYYY-MM-DD`. The clock is `gameDate` converted to America/Chicago. Always publish CT. Two secondary sites agreeing is not verification. |
+| Ballpark | `venue.name` from that same script output. Do not carry a park forward from an earlier game in the series. |
+| Score and game line | Stats API box score for the `gamePk` the script prints. Two recap sites agreeing is not verification. |
+| TV/streaming broadcast | MLB.com schedule. Broadcasts change, and a TV listing is still not the first-pitch source. |
 | Day of week | Cross-reference the calendar — never say "tonight's game" for an afternoon start |
-| Series length | Verify 3-game vs 4-game vs 2-game series from official schedule |
+| Series length | Verify 3-game vs 4-game vs 2-game series from the official schedule output |
 
 ### Priority 5 — Contract and Financial Data
 
@@ -159,9 +191,10 @@ Every post must be verified before publishing. Priority order:
 
 ### Time Zone Reminder
 
-- All game times posted in **CT (Central Time)** — the Cubs play in Chicago
-- Verify time zone when Cubs play on the West Coast (PT games start late CT)
-- Never post "7:00 PM" without confirming the time zone — West Coast games are often 9:10 PM CT
+- All game times posted in **CT (Central Time)** — the label is always CT, including during daylight time
+- The number comes from `America/Chicago`, not from an Eastern listing and not from a fixed 5-hour or 6-hour offset. Chicago is CDT (UTC−5) from the second Sunday in March until the first Sunday in November, and CST (UTC−6) otherwise. The schedule script applies that.
+- A West Coast first pitch is still written in CT. A 9:10 PM CT game is not "7:10 PM" with CT added.
+- Never post a bare "7:00 PM". If the official start is TBD, say TBD and do not invent a clock.
 
 ## NL Central Quick Reference
 
