@@ -3,6 +3,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-10-09
+
+### Story 1: Oklahoma Battle Series Game 2 Recap — Veterans Shine
+- **Date:** 2026-10-09
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Veterans took center stage in OU's second Fall Battle Series intrasquad scrimmage (Oct. 7, Love's Field). Sydney Berzon and key returners showing form ahead of 2027. Game 3 is Oct. 14.
+- **Content Produced:** Article (article-01, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Game 3 recap (Oct. 14)
+  - Game 4 recap (Oct. 21)
+  - Full fall ball evaluation piece
+
+### Story 2: Texas Tech 2027 Coaching Staff Overhaul
+- **Date:** 2026-10-09
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Texas Tech will not renew assistants Hunter Veach and Kayla Kowalik; hired Jeff Cottrill and Shelby Pendley. Gerry Glasco enters Year 3 (41-7 Big 12 record) with No. 1 portal class in country.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Texas Tech 2027 roster preview
+  - Glasco Year 3 expectations
+
+### Story 3: Big 12 Drops 2027 Softball Schedule — Texas Tech Begins 3-Peat Bid
+- **Date:** 2026-10-09
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Big 12 released full 2027 softball schedule. Texas Tech opens Feb. 12 vs. Notre Dame (NFCA Leadoff Classic). Big 12 play starts March 12 vs. Kansas. Ends with Arizona State rematch.
+- **Content Produced:** Article (article-03, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Season preview as February approaches
+  - Leadoff Classic preview
+
+### Story 4: NCAA Names Marty Abezetian Softball Officiating Director
+- **Date:** 2026-10-09
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** NCAA named Abezetian Director of Training and Video Review for softball umpires (Oct. 5). 17 seasons collegiate umpiring experience including 2025 WCWS. Returning to role he helped create.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Umpire quality stories during 2027 season
+
+### Story 5: Texas State Breaks Ground on $16.5M Softball/Baseball Facility
+- **Date:** 2026-10-09
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Texas State broke ground on $16.5M project funded by $11M Hays family gift. Phase 1 complete June 2027. Sun Belt program making major infrastructure investment.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Phase 1 completion story (June 2027)
+  - Texas State 2027-28 recruiting impact
+
+---
+
 ## 2026-10-06
 
 ### Story 1: Japan Wins 7th Consecutive Asian Games Softball Gold Medal
