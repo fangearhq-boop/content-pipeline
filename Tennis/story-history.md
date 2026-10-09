@@ -3,6 +3,16 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## October 9, 2026
+
+| 2026-10-09 | Hurkacz stuns Djokovic 6-4, 6-3 at Shanghai R2 — first career win over Djokovic (was 0-8); Djokovic's earliest-ever Shanghai exit; Hurkacz: 13 aces, 2 DFs, 70% first serve, saved both BPs; Djokovic drained after Beijing title; Hurkacz had retired Beijing SF (adductor). Sources: tennisnow.com, thebiglead.com, tennistonic.com, tennisworldusa.org, yahoo sports | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 8 S3: Shanghai Day 2, Hurkacz vs. Djokovic R2 set up → R2 RESULT) |
+| 2026-10-09 | Zverev advances Shanghai R2 vs. Wu Yibing 6-4, 7-6(4) despite ankle scare (landed awkwardly on dive in set 2); top seed in Shanghai; Year-End No. 1 near-certain (Sinner absent, Djokovic out); Zverev ~8,740 Race pts, Sinner loses ~3,550 defending. Sources: tribune.com.pk, flashscore.com | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Oct 8 S3/S4: Shanghai Day 2, Zverev enters R2 → ankle scare result) |
+| 2026-10-09 | WTA Beijing QFs — Swiatek vs. Mertens (record on line: win = 149 WTA 1000 wins = outright Serena record at 148); Swiatek leads H2H 2-0; Zheng vs. Svitolina (first meeting ever, home crowd); Andreeva(4) vs. Alexandrova(19) (Alexandrova 2-0 H2H); SF Oct 10, Final Oct 11. Sources: wtatennis.com, puntodebreak.com, sofascore.com, tennistonic.com | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Oct 8 S2: WTA Beijing R16/QF bracket set → QF Day 1 in progress) |
+| 2026-10-09 | Shanghai Masters Day 3 — Alcaraz (No. 4 seed) and Medvedev (No. 3) enter draw with byes; Altmaier (def. Rune R1) vs. Shelton (No. 5 seed); Djokovic out (lost to Hurkacz 6-4, 6-3); Zverev through with ankle concern; tournament Oct 7-18. Sources: atptour.com, en.rolexshanghaimasters.com, tennisnerd.net | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 8 S3: Shanghai Day 2 → Day 3) |
+| 2026-10-09 | Race to Turin update — Djokovic out R2 (loses defending points, not a deep run); Hurkacz suddenly Race-relevant (beat Djokovic, advancing); Zverev top seed, Year-End No. 1 near-certain; bubble: Shelton/Alcaraz/Medvedev/Fils/de Minaur/Menšík/Hurkacz all in play; Vienna+Paris-Bercy follow Shanghai before Turin. Sources: atptour.com, tennisnow.com, umpiry.com | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Oct 8 S4: Race math → Djokovic out of Shanghai) |
+
+---
+
 ## October 8, 2026
 
 | 2026-10-08 | Djokovic wins 7th Beijing title, 102nd career crown — def. de Minaur 7-6(3), 1-0 ret. (groin injury retirement); 34-0 all-time in Beijing; oldest ATP 500 champion in Open Era (age 39); Medvedev DQ'd in SF (hit spectator). Sources: olympics.com, sofascore.com, si.com, tennismajors.com, atptour.com | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Oct 6 S2: Beijing SFs → Final result) |

@@ -1,0 +1,273 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-09",
+  "compiled_at": "2026-10-09T12:28:51.944852+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Shanghai Shock — Hurkacz Beats Djokovic for First Time, Ends Four-Time Champion's Run",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "HUGE UPSET IN SHANGHAI: Hubert Hurkacz def. Novak Djokovic 6-4, 6-3 — the first time Hurkacz has beaten Djokovic. Was 0-8 all-time.\n\nDjokovic, fresh off his 102nd career title in Beijing, falls in his earliest-ever Shanghai exit. #ATP #Shanghai",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 8 S3: Shanghai Day 2, Hurkacz vs. Djokovic R2 set up → R2 RESULT)",
+          "hashtags": [
+            "#ATP",
+            "#Shanghai"
+          ],
+          "char_count": 244
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Hurkacz on his first career win over Djokovic: \"It's a special night.\"\n\n13 aces, saved both break points. Djokovic looked drained after winning the Beijing title days earlier. 6-4, 6-3. #Shanghai #ATP #Hurkacz",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 8 S3: Shanghai Day 2, Hurkacz vs. Djokovic R2 set up → R2 RESULT)",
+          "hashtags": [
+            "#Shanghai",
+            "#ATP",
+            "#Hurkacz"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-hurkacz-stuns-djokovic-shanghai-first-career-win.html",
+        "headline": "Hurkacz Stuns Djokovic at Shanghai for First Career Win, Ending Four-Time Champion's Run",
+        "word_count": 687
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hurkacz Beats Djokovic\n\n#### Social Image (1080x1350)\n- **Search term:** \"Hubert Hurkacz\"\n- **Caption text overlay:** \"FIRST WIN OVER DJOKOVIC / Hurkacz def. Djokovic 6-4, 6-3 / Shanghai Masters R2\"\n- **Status:** not_started\n\n#### Article Hero (1200x630)\n- **Search term:** \"Novak Djokovic\"\n- **Caption text overlay:** \"SHOCK EXIT / Earliest-Ever Shanghai Defeat\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hurkacz Beats Djokovic at Shanghai\n**Source 1:** tennisnow.com — \"Hurkacz Tops Djokovic for First Time, Stretches Shanghai Streak to 8 Wins\"\n- Score confirmed: 6-4, 6-3\n- \"First time Hurkacz has topped Djokovic\" (was 0-8 before this match)\n- Hurkacz: 13 aces, 2 double faults, 70% first serve\n- Broke at 5-4 to take first set (53 minutes)\n- Broke in fourth game of second set, served out at 5-3\n- \"Drained by his rousing Beijing run\" — Djokovic fatigue factor\n- Hurkacz had retired in Beijing SF with adductor problem\n**Source 2:** thebiglead.com — \"Hubert Hurkacz ousts Novak Djokovic at Shanghai Masters\"\n- Confirms R2 result, describes as \"Djokovic's earliest Shanghai Masters defeat\"\n- Multiple reports describe it as R2 (second round)\n**Source 3:** tennistonic.com — \"LIVE UPDATES. Hubert Hurkacz defeats Djokovic in the 2nd round at the Shanghai Rolex Masters\"\n- Live coverage, confirms 6-4, 6-3\n**Source 4:** tennisworldusa.org — \"Hubert Hurkacz provides Novak Djokovic's earliest Shanghai Masters defeat\"\n- Confirms earliest Shanghai exit\n**Source 5:** yahoo sports — Hurkacz reaction quote: \"It's a special night\"\n**Confidence:** HIGH — Score 6-4, 6-3 confirmed by multiple sources; first career win confirmed; serve stats from tennisnow.com (single source — MEDIUM)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Zverev Survives Ankle Scare to Advance at Shanghai",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Alexander Zverev survives a scare — landed awkwardly on his ankle in set 2 but still beats Wu Yibing 6-4, 7-6(4) to advance at Shanghai.\n\nWith Djokovic out and Sinner absent, Zverev's Year-End No. 1 path looks clear. If he stays healthy. #ATP #Shanghai",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 8 S3/S4: Shanghai Day 2, Zverev has bye → R2 opener played Oct 9)",
+          "hashtags": [
+            "#ATP",
+            "#Shanghai"
+          ],
+          "char_count": 252
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Top seed Zverev is through at Shanghai. Djokovic is not.\n\nDraw is now wide open as Alcaraz and Medvedev enter on Day 3. Zverev's ankle bears watching after today's scare. #ATPRace #Shanghai #Zverev",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 8 S3/S4: Shanghai Day 2, Zverev has bye → R2 opener played Oct 9)",
+          "hashtags": [
+            "#ATPRace",
+            "#Shanghai",
+            "#Zverev"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-zverev-ankle-concern-shanghai-year-end-no-1.html",
+        "headline": "Zverev Advances at Shanghai Despite Ankle Scare, Year-End No. 1 Race Now His to Lose",
+        "word_count": 662
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Zverev Advances with Ankle Concern\n\n#### Social Image (1080x1350)\n- **Search term:** \"Alexander Zverev\"\n- **Caption text overlay:** \"ZVEREV ADVANCES / Ankle scare in set 2 / Shanghai R2\"\n- **Status:** not_started\n\n#### Article Hero (1200x630)\n- **Search term:** \"Alexander Zverev\"\n- **Caption text overlay:** \"THROUGH BUT HURTING? / Zverev survives ankle scare\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Zverev Advances vs. Wu Yibing with Ankle Concern\n**Source 1:** tribune.com.pk — \"Zverev churns out win in Shanghai Masters opener\"\n- Score: 6-4, 7-6(7/4)\n- \"Landed awkwardly on a dive and grabbed his left ankle\" in set 2\n- \"Capitalising on a series of errors to win on his second match point when the home hope fired long\"\n- Zverev spotlighted in Year-End No. 1 race\n**Source 2:** flashscore.com — \"Zverev battles through foot pain to book spot in third round\"\n- Confirms ankle/foot concern, advancing to R3\n**Confidence:** HIGH — Score and advancement confirmed; ankle concern single-sourced (MEDIUM)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "WTA Beijing QFs — Swiatek Bids for Solo Serena Record; Zheng Faces Svitolina at Home",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "WTA Beijing QFs today. The big one: Iga Swiatek vs. Elise Mertens.\n\nA Swiatek win = her 149th WTA 1000 main-draw win = sole possession of the all-time record, passing Serena Williams' 148. Swiatek leads H2H 2-0. #WTA #Swiatek #ChinaOpen",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 8 S2: WTA Beijing R16/QF bracket set → QF Day 1 in progress)",
+          "hashtags": [
+            "#WTA",
+            "#Swiatek",
+            "#ChinaOpen"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-wta-beijing-qf-swiatek-serena-record-zheng.html",
+        "headline": "Swiatek Plays for Serena's WTA 1000 Record in WTA Beijing Quarterfinals",
+        "word_count": 620
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WTA Beijing QFs\n\n#### Social Image (1080x1350)\n- **Search term:** \"Iga Swiatek\"\n- **Caption text overlay:** \"SERENA RECORD ON THE LINE / Swiatek vs. Mertens / WTA Beijing QF\"\n- **Status:** not_started\n\n#### Article Hero (1200x630)\n- **Search term:** \"Iga Swiatek\"\n- **Caption text overlay:** \"WTA 1000 RECORD CHASE / 149 wins = outright Serena record\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WTA Beijing QFs\n**Source 1:** wtatennis.com — \"Andreeva seeks first win over Alexandrova in Beijing quarterfinal\"\n- Confirms Andreeva vs. Alexandrova QF; Alexandrova 2-0 H2H (Stuttgart and Bad Homburg)\n**Source 2:** puntodebreak.com — \"This is how the quarterfinals of the WTA Beijing look\"\n- QF bracket as of Oct 7: Swiatek (8) vs. Mertens (13); Zheng vs. Svitolina (6); Andreeva (4) vs. Alexandrova (19); other QF TBD\n**Source 3:** sofascore.com — Swiatek vs. Mertens scheduled 11:00 UTC Oct 9 (Diamond Court)\n- Result: Not confirmed at pipeline runtime (match may be in progress)\n**Source 4:** tennistonic.com — Swiatek leads H2H 2-0 vs. Mertens (both wins in straight sets)\n**Source 5:** wtatennis.com — \"By the numbers: Swiatek defeats Jovic to strengthen WTA 1000 record\"\n- Swiatek at 148 WTA 1000 main-draw wins (tied Serena at 148)\n- Win vs. Mertens = 149 = outright record\n**Confidence:** QF matchups HIGH; Swiatek record milestone HIGH; today's results NOT YET CONFIRMED",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Shanghai Day 3 — Alcaraz, Medvedev Enter; Altmaier Faces Shelton",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Shanghai Day 3 is here — and the draw just got a lot more open.\n\nDjokovic is OUT (Hurkacz). Alcaraz and Medvedev enter today. Altmaier (def. Rune R1) faces No. 5 seed Shelton. Zverev, ankle and all, is through. #ATP #Shanghai #RolexShanghaiMasters",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 8 S3: Shanghai Day 2 → Day 3 schedule, seeded players entering)",
+          "hashtags": [
+            "#ATP",
+            "#Shanghai",
+            "#RolexShanghaiMasters"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-shanghai-day-3-alcaraz-medvedev-altmaier-shelton.html",
+        "headline": "Shanghai Masters Day 3 — Alcaraz and Medvedev Enter an Open Draw",
+        "word_count": 508
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Shanghai Day 3\n\n#### Social Image (1080x1350)\n- **Search term:** \"Carlos Alcaraz\"\n- **Caption text overlay:** \"ALCARAZ ENTERS / Shanghai Masters Day 3\"\n- **Status:** not_started\n\n#### Article Hero (1200x630)\n- **Search term:** \"Daniel Altmaier\"\n- **Caption text overlay:** \"UPSET ARTIST IN ACTION / Altmaier vs. Shelton\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Shanghai Day 3\n**Source 1:** tennisnerd.net — Shanghai Masters guide, lists seeded players and draw\n- Alcaraz No. 4 seed; Medvedev No. 3 seed\n- Both have byes and enter in R2\n**Source 2:** atptour.com — draw and schedule (tournament Oct 7-18)\n**Source 3:** en.rolexshanghaimasters.com — official tournament site\n**Altmaier vs. Shelton matchup:** From Oct 8 coverage — Altmaier def. Rune R1; Shelton (No. 5 seed) in same section of the draw\n**Confidence:** MEDIUM — draw matchups from pre-match; results not yet in for all Day 3 matches",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Race to Turin Ripple Effect — Djokovic's Shanghai Exit Shakes Up the Bubble",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Race to Turin shake-up: Djokovic loses in Shanghai R2 — costs him big Race points as he won't defend a deep run.\n\nHurkacz (def. Djokovic) is suddenly relevant in the bubble. Zverev still leads. Bubble: Shelton/Alcaraz/Medvedev/Fils/de Minaur/Menšík. #ATPRace #ATP",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 8 S4: Race math, Zverev near-certain Year-End No. 1 → Djokovic out of Shanghai)",
+          "hashtags": [
+            "#ATPRace",
+            "#ATP"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-race-to-turin-djokovic-out-hurkacz-bubble.html",
+        "headline": "Race to Turin: Djokovic's Shanghai Exit Reshapes the Bubble, Zverev Remains in Command",
+        "word_count": 554
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Race to Turin\n\n#### Social Image (1080x1350)\n- **Search term:** \"Hubert Hurkacz\"\n- **Caption text overlay:** \"RACE SHAKEUP / Hurkacz beats Djokovic / Turin bubble tightens\"\n- **Status:** not_started\n\n#### Article Hero (1200x630)\n- **Search term:** \"Alexander Zverev\"\n- **Caption text overlay:** \"RACE TO TURIN / Djokovic out, Zverev in command\"\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Race to Turin\n**Source 1:** atptour.com — Race standings (entering Shanghai)\n- Zverev ~8,740 pts; Sinner ~7,950 pts (absent all season since Wimbledon)\n- Bubble: Shelton 4,430; Alcaraz ~4,100; Medvedev; Fils; de Minaur; Menšík\n**Source 2:** umpiry.com — Race to Turin analysis\n- Sinner drops ~3,550 defending pts from Shanghai\n- Hurkacz previously outside top 8 in Race\n**Context from Day's results:**\n- Djokovic out in R2 = loses defending finalist/champion points\n- Hurkacz into R3 = accumulating Race pts\n- Zverev into R3 = maintaining lead\n**Confidence:** MEDIUM — Race standings from pre-Shanghai baseline; exact updated figures require end-of-day ATP update",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
