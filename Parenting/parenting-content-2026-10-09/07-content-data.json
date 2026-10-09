@@ -1,0 +1,262 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-09",
+  "compiled_at": "2026-10-09T12:54:05.924019+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Parent-Teacher Conference Day — D11 and D49",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Today is parent-teacher conference day for D11 and D49 families in Colorado Springs. Check your school's schedule and come in with your top 3 questions ready. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "7:00 AM MT",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 218
+        },
+        {
+          "label": "Post 1-2",
+          "text": "PTC tip: write down your questions before you walk in. Ask about academic level, social skills, and what you can do at home. D11 and D49 conferences are today. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "7:00 AM MT",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "7:00 AM MT"
+      },
+      "article": {
+        "filename": "article-01-parent-teacher-conferences-d11-d49-october-2026.html",
+        "headline": "Parent-Teacher Conference Day for D11 and D49 Families in Colorado Springs",
+        "word_count": 504
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Parent-Teacher Conferences\n\n#### Social Image (1200x675 for X)\n**Gemini Prompt:**\nA warm, softly lit scene inside a school classroom in autumn. A parent and teacher sit across a small table covered with papers and a notebook, both leaning in attentively. The classroom has fall decorations in the background — leaves, a small pumpkin, colorful posters. Soft natural light from a window. Warm tones: teal, amber, cream. Photorealistic illustration style, clean and inviting. Leave clean open space in the bottom third for text overlay.\n\n#### Article Hero Image (1200x630 for Facebook/article)\n**Gemini Prompt:**\nA close-up of a parent's hand holding a pen over a notepad with written questions, sitting next to a child's school folder and report card on a wooden table. Warm autumn light. Teal and gold accents. Clean, organized composition. Photorealistic style. Leave clean open space in the bottom third for text overlay.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "D49 Fall Break Starts Sunday Oct 12 — D11 Break Oct 19-23",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:30 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "D49 families: fall break starts this Sunday, October 12. 🗓️ D11 families, yours is October 19-23. Both are coming up fast — start planning now. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:30 AM MT",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 203
+        },
+        {
+          "label": "Post 2-2",
+          "text": "D49 fall break = 8 days starting Sunday. D11 break = October 19-23. Two good windows to explore Colorado Springs with your kids this fall. 🍂 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:30 AM MT",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 200
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:30 AM MT"
+      },
+      "article": {
+        "filename": "article-02-d49-fall-break-october-12-d11-october-19.html",
+        "headline": "D49 Fall Break Starts Sunday — D11 Break is October 19: What COS Families Need to Know",
+        "word_count": 578
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D49 Fall Break\n\n#### Social Image (1200x675 for X)\n**Gemini Prompt:**\nA joyful Colorado Springs family — two parents and two elementary-age children — walking through a golden autumn park with Pikes Peak in the soft background. Trees display vivid orange and yellow fall foliage. Bright, sunny midday light. Warm color palette: amber, teal, golden yellow. Photorealistic illustration style. Clean open space in the bottom third for text overlay. No recognizable faces.\n\n#### Article Hero Image (1200x630 for Facebook/article)\n**Gemini Prompt:**\nA handwritten family calendar on a refrigerator, showing October dates circled with colorful markers labeled \"FALL BREAK.\" Magnets, family photos blurred in background. Warm kitchen setting. Soft natural light. Teal and coral color accents. Photorealistic style. Clean open space in the bottom third for text overlay.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "CPSC Recall — SHEIN Spiral Toys Choking Hazard",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "CPSC recall: SHEIN Spiral Toys (Sept 3, 2026). Small balls detach — choking hazard for kids under 3. ~963 units sold on SHEIN.com, $6-$16, Sept 2025-May 2026. Full refund: 833-853-8668. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "10:30 AM MT",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM MT"
+      },
+      "article": {
+        "filename": "article-03-shein-spiral-toys-cpsc-recall-choking-hazard.html",
+        "headline": "CPSC Recall: SHEIN Spiral Toys Pose Choking Hazard for Children Under 3",
+        "word_count": 492
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "SHEIN Spiral Toys Recall\n\n#### Social Image (1200x675 for X)\n**Gemini Prompt:**\nA brightly colored spiral toy — a coil spring with small ball ends — sitting on a white surface with a bold red caution symbol overlay area. Clean, clinical white and light gray background. Product clearly visible. Alert visual — bold contrast between the toy's bright colors and the neutral background. Leave clear open space in the bottom third for text overlay. No brand logos visible.\n\n#### Article Hero Image (1200x630 for Facebook/article)\n**Gemini Prompt:**\nAn overhead flat-lay of a small colorful toy on a white background surrounded by safety-themed items: a first aid kit corner, a caution cone miniature, a parent's hand visible pointing to the toy. Clean, bright white background. Bold red and yellow accent tones for safety emphasis. Photorealistic style. Clean open space in the bottom third for text overlay. No brand logos or text on toy.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "COS Halloween Family Events Guide — October 2026",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Halloween in COS is here. 🎃 KOA Halloween weekend starts today. Pumpkins in the Park Oct 24 at Bancroft Park (free). Boo at the Zoo at Cheyenne Mountain Zoo — multiple weekends. Full guide linked. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "12:00 PM MT",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM MT"
+      },
+      "article": {
+        "filename": "article-04-cos-halloween-family-events-guide-october-2026.html",
+        "headline": "Halloween Family Events in Colorado Springs — October 2026 Guide",
+        "word_count": 685
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COS Halloween Events Guide\n\n#### Social Image (1200x675 for X)\n**Gemini Prompt:**\nA cheerful Colorado autumn scene with children in Halloween costumes — a witch, a superhero, and a pumpkin — holding jack-o'-lantern buckets while walking through a beautiful mountain-view park at golden hour. Trees in deep orange and red fall foliage. Warm sunset light with purple-orange sky. Pikes Peak silhouette barely visible in background. Joyful, festive mood. Photorealistic illustration style. Leave clean open space in the bottom third for text overlay. No recognizable faces.\n\n#### Article Hero Image (1200x630 for Facebook/article)\n**Gemini Prompt:**\nA flat-lay overhead view of Halloween planning items on a wooden table: a pumpkin, autumn leaves, a family calendar with October dates marked, candy in a bowl, and small costume accessories. Warm, rich fall colors — deep orange, teal, gold. Cozy mood. Photorealistic style. Clean open space in the bottom third for text overlay.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Where to Get Flu Shots for Kids in Colorado Springs",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Colorado had 5 pediatric flu deaths last season. AAP recommends getting kids vaccinated by end of October. COS options: Penrose-St. Francis, UCHealth, El Paso County Public Health (free/low-cost). #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "3:00 PM MT",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM MT"
+      },
+      "article": {
+        "filename": "article-05-flu-shots-colorado-springs-kids-fall-2026.html",
+        "headline": "Where to Get Flu Shots for Kids in Colorado Springs This Fall",
+        "word_count": 685
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Flu Shots COS\n\n#### Social Image (1200x675 for X)\n**Gemini Prompt:**\nA warm, reassuring scene of a pediatric nurse gently administering a flu shot to a smiling young child (approximately age 5-8) while a parent holds the child's hand supportively. Medical office setting with soft, warm lighting. Teal and white color palette. Calm, safe atmosphere. Photorealistic style. No identifiable faces. Leave clean open space in the bottom third for text overlay.\n\n#### Article Hero Image (1200x630 for Facebook/article)\n**Gemini Prompt:**\nA close-up of a family health checklist on a clipboard, with \"Flu Shot\" checked off, along with seasonal health items like hand sanitizer, tissues, and an apple on a wooden desk. Warm autumn morning light. Teal, gold, and cream color palette. Organized, positive, health-focused mood. Photorealistic style. Clean open space in the bottom third for text overlay.\n\n---\n\n**Total concepts:** 10 (2 per story: 1 social + 1 article hero)\n**Source:** gemini | **Mode:** base_only | **No celebrity likenesses:** ✓ | **No brand logos:** ✓\n**Bottom third clean for text overlay:** ✓ on all\n**Brand colors:** Teal (#0097A7), Coral (#FF6F61), Gold (#F4C542) referenced ✓"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

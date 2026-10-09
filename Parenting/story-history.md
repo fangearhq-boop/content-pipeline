@@ -2,6 +2,50 @@
 
 ---
 
+## October 9, 2026
+
+### Story 1: Parent-Teacher Conference Day — D11 and D49
+- **Date:** 2026-10-09
+- **Tier:** T1
+- **Pillar:** Local News
+- **Key Facts:** D11 Oct 9 = teacher work day/conferences; D49 Oct 9 = conference day (check individual school for student schedule); ParentVUE or call front office to confirm appointment
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 2: D49 Fall Break Starts Sunday Oct 12 — D11 Break Oct 19-23
+- **Date:** 2026-10-09
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** D49 break Oct 12 start, return Oct 20 (8 days); D11 break Oct 19-23, return Oct 26; staggered timing affects childcare and activities planning; planning resources: YMCA, Boys and Girls Club, Garden of the Gods, Cheyenne Mountain Zoo Boo at the Zoo, Royal Gorge
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (from Oct 6 S2 — D49 break dates first covered Oct 6; today adding D11 comparison and planning guide)
+
+### Story 3: CPSC Recall — SHEIN Spiral Toys Choking Hazard
+- **Date:** 2026-10-09
+- **Tier:** T2
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** CPSC recall Sept 3, 2026; ~963 SHEIN Spiral Toys; small balls detach, violate federal small parts ban (16 CFR 1501); choking hazard for under-3s; sold SHEIN.com $6-$16 Sept 2025-May 2026; full refund: 833-853-8668 or uscsteam@shein.com; no injuries reported
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 4: COS Halloween Family Events Guide — October 2026
+- **Date:** 2026-10-09
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** KOA Halloween weekends Oct 9-11 and Oct 16-18 (trick-or-treating, heated pool); Pumpkins in the Park Oct 24 Bancroft Park free noon-6pm; Trunk or Treat Garden of the Gods Visitor Center Oct 25; Boo at the Zoo Cheyenne Mountain Zoo multiple October weekends (tickets required)
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 5: Where to Get Flu Shots for Kids in Colorado Springs
+- **Date:** 2026-10-09
+- **Tier:** T2
+- **Pillar:** National Parenting (Health)
+- **Key Facts:** Follow-up to Oct 8 S4 AAP story; CO had 5 pediatric flu deaths 2025-26 season; 34.4% child vaccination rate; COS locations: Penrose-St. Francis (719) 776-5000, UCHealth Memorial, El Paso County Public Health free/low-cost (719) 578-3199, Walgreens/CVS/Safeway pharmacy; FluMist for healthy ages 2-49; 2-dose schedule for first-timers under 9
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (from Oct 8 S4 — AAP recommendation → COS-specific where-to-go guide)
+
+---
+
 ## October 8, 2026
 
 ### Story 1: Things to Do with Kids in Colorado Springs This Weekend (October 9–11)

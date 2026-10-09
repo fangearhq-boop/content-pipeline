@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-10-08
+## Current Run: 2026-10-09
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D11/D49 PTC day Oct 9; D49 fall break Oct 12 (return Oct 20), D11 fall break Oct 19-23; SHEIN Spiral Toys CPSC recall Sept 3 2026 (~963 units, SHEIN.com $6-$16 Sept 2025-May 2026, small balls detach, choking hazard under-3s, 833-853-8668/uscsteam@shein.com); COS Halloween events — KOA Oct 9-11 and Oct 16-18, Pumpkins in Park Oct 24 Bancroft Park free noon-6pm, Trunk or Treat Garden of the Gods Oct 25, Boo at the Zoo multiple weekends; flu shot COS locations (Penrose-St. Francis 719-776-5000, UCHealth, El Paso County Public Health free/low-cost 719-578-3199, pharmacies, school clinics); CO 5 pediatric flu deaths 2025-26 season, 34.4% child vaccination rate |
+| Story History Check | COMPLETE | S1 PTC Day NEW (Oct 5 S5 covered CIVA PTCs Oct 14-15/23-24 — different schools, different angle); S2 D49 Fall Break FOLLOW-UP (Oct 6 S2 covered D49 dates only, today adds D11 comparison + planning guide); S3 SHEIN Spiral Toys recall NEW (Sept 3, 2026 — different product from SHEIN Pull & Chew Sep 26 S1); S4 Halloween Events NEW (Oct 5 S4 was Halloween guide with different events — Pumpkins in Park, Boo at the Bridge, Zoo; today adds KOA weekends + Garden of the Gods + updated Oct 24 free event); S5 Flu Shots FOLLOW-UP (Oct 8 S4 AAP flu dates, today is COS-specific where-to-go guide) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: D11/D49 district calendars, CPSC.gov, KOA Colorado Springs, Colorado Springs Parks & Rec, Cheyenne Mountain Zoo, AAP, Colorado CDPHE, Penrose-St. Francis, UCHealth, El Paso County Public Health |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows (7am/8:30am/10:30am/12pm/3pm), voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories (2 for T1 S1, 2 for T1 S2, 1 each for T2 S3-S5); all ≤280 chars; 4 hashtags each; 0-1 emoji each; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 PTC Day (Jamie Rivera, T1, QR table); article-02 Fall Break D49/D11 (Sarah Morales, T1, district table); article-03 SHEIN Spiral Toys recall (Jamie Rivera, T2, QR table); article-04 Halloween Events Guide (Sarah Morales, T2, events table); article-05 Flu Shots COS (Jamie Rivera, T2, provider table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 89 claims; HIGH 172, MEDIUM 100, LOW 39; verify-facts PASSED clean (0 char-limit errors, 0 consistency issues) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB (known parser compat), 5 articles; validation all clear |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (7 posts) | cosp-postplanner-2026-10-09.xlsx + cosp-postplanner-tobi-2026-10-09.xlsx — 7 posts each; redistributed 13:24–20:42 MT |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles queued as drafts |
+| Story History | COMPLETE | 5 new entries prepended to Parenting/story-history.md (Oct 9 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts (+ 0 FB parsed — known issue)
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 7 posts (standard + TOBI)
+- **Key stories:** D11/D49 PTC day Oct 9; D49 fall break starts Sunday Oct 12 (return Oct 20), D11 Oct 19-23; SHEIN Spiral Toys recall CPSC Sept 3 (~963 units, choking hazard, 833-853-8668/uscsteam@shein.com); COS Halloween events (KOA Oct 9-11/16-18, Pumpkins in Park Oct 24 Bancroft Park free noon-6pm, Trunk or Treat GoG Oct 25, Boo at the Zoo multiple weekends); flu shot COS locations — Penrose-St. Francis (719) 776-5000, UCHealth, El Paso County Public Health free/low-cost (719) 578-3199
+- **Issues:** Dashboard push 403 proxy (known); WordPress proxy 403 (known); FB posts not parsed by compile script (known)
+
+---
+
+## Previous Run: 2026-10-08
 
 | Step | Status | Notes |
 |------|--------|-------|
