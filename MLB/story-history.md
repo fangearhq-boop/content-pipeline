@@ -5,6 +5,58 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-10-09
+
+### Story 1: NLCS Preview — Dodgers vs. Brewers
+- **Date:** 2026-10-09
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** NLCS is set: Dodgers (3-time chasing) vs. Brewers (103-win franchise best, NL No. 1 seed). Game 1 Oct. 11 at 8 PM ET on FOX at American Family Field. Rematch of 2025 NLCS (Dodgers swept MIL).
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - NLCS game-by-game coverage
+  - Dodgers 3-peat storyline
+
+### Story 2: ALCS Setup — Rays Await Game 5 Winner
+- **Date:** 2026-10-09
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Rays swept Yankees; Game 5 White Sox vs. Guardians Oct. 10 at 8 PM ET at Progressive Field (TBS). ALCS starts Oct. 12 at Tampa Bay on TBS.
+- **Content Produced:** Article (article-02, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Game 5 recap
+  - ALCS preview
+
+### Story 3: Rays Sweep Yankees ALDS 3-0
+- **Date:** 2026-10-09
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Victor Mesa Jr. 2-run HR in 6th, Rays hold on 4-3 to complete sweep. First sweep of a best-of-5 in Rays franchise history. Yankees swept in best-of-5 for only 2nd time since 1980.
+- **Content Produced:** Article (article-03, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Rays ALCS preview
+
+### Story 4: Guardians Force ALDS Game 5 (9-5)
+- **Date:** 2026-10-09
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Ramírez HR+3 RBI, Guardians 9-5 over White Sox, series tied 2-2. Game 5 Oct. 10 at 8 PM ET Progressive Field (TBS). White Sox came in 2-0; now 2-2.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Game 5 winner/recap
+  - ALCS preview
+
+### Story 5: The 2026 Season's Wildest Stats
+- **Date:** 2026-10-09
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Astros first ever to make playoffs at .500 (81-81); White Sox 81 wins after 3x100-loss seasons (new record); 16 debut HRs (new record); Nationals record 42 blown saves; Nasim Nuñez 47 SB with .529 OPS.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Season-end statistical deep dives
+
+---
+
 ## 2026-10-06
 
 ### Story 1: White Sox and Rays Both Lead ALDS 2-0

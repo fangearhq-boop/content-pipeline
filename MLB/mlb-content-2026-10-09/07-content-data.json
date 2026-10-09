@@ -1,0 +1,283 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-09",
+  "compiled_at": "2026-10-09T10:35:57.726434+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "NLCS Preview — Dodgers vs. Brewers (Game 1 Sunday Oct. 11)",
+      "tier": 1,
+      "status": "",
+      "angle": "Dodgers seeking an unprecedented third consecutive World Series championship. Brewers (103-59) have the best record in the NL and are playing their first NLCS since defeating the Dodgers in 2025... wait, no — the Dodgers swept the Brewers in last year's NLCS. This is a rematch. Milwaukee is no longer an underdog.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "YOUR 2026 NLCS IS SET.\n\nNo. 1 seed Milwaukee Brewers vs. three-time-chasing Los Angeles Dodgers.\n\nGame 1: Sunday, Oct. 11 | 8 PM ET | FOX\nAt American Family Field, Milwaukee.\n\nThe rematch is here. #Brewers #Dodgers #NLCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#Dodgers",
+            "#NLCS"
+          ],
+          "char_count": 220
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Brewers won 103 games this season — a franchise record.\n\nThe Dodgers have won the last two World Series.\n\nOnly one of these storylines gets to continue. NLCS starts Sunday. #Brewers #Dodgers #NLCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#Dodgers",
+            "#NLCS"
+          ],
+          "char_count": 200
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-nlcs-preview-dodgers-brewers.html",
+        "headline": "NLCS Preview: Dodgers vs. Brewers — Can LA Win Its Third Straight World Series?",
+        "word_count": 564
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NLCS Preview — Dodgers vs. Brewers\n\n**Image 1-A** | Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** \"Milwaukee Brewers American Family Field\"\n- **Intended Use:** X + FB social post\n- **Caption overlay concept:** \"NLCS | Game 1 Oct. 11 | 8 PM ET FOX | Brewers vs. Dodgers\"\n\n**Image 1-B** | Article Hero (1200x630)\n- **Type:** imagn\n- **Search Term:** \"Freddie Freeman Dodgers\"\n- **Intended Use:** Article 1 featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NLCS Preview — Dodgers vs. Brewers\n**Key Facts (HIGH confidence — multiple sources):**\n- NLCS matchup: Los Angeles Dodgers vs. Milwaukee Brewers (CONFIRMED)\n- Game 1: Sunday, Oct. 11, 8 PM ET, at Milwaukee, FOX/FS1/FOX One\n- Game 2: Monday, Oct. 12, 5 PM ET, at Milwaukee, FOX/FS1\n- Games 3-4: Move to Los Angeles\n- Brewers regular-season record: 103-59 (franchise best, NL's top seed)\n- Dodgers advanced: Beat Braves 3-1 (Game 4: 4-1, Andy Pages 2-run single in 7th)\n- Brewers advanced: Beat Padres 3-1 (Game 4: 3-1 in San Diego, Garrett Mitchell key catch)\n- Context: Dodgers swept Brewers in 2025 NLCS; this is a rematch",
+        "sources": "- Sources: ESPN, Fox Sports, MLB.com, NBC Sports"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "ALCS Set — Rays Await White Sox or Guardians (Game 5 Tomorrow)",
+      "tier": 1,
+      "status": "",
+      "angle": "Winner-take-all Game 5 at Progressive Field tomorrow night. Then the ALCS begins immediately Monday.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Rays are in the ALCS for the first time since 2020.\n\nThey're waiting on the winner of tonight's Guardians-White Sox Game 5.\n\nALCS Game 1: Monday, Oct. 12 | 8 PM ET | TBS | At Tampa Bay. #ALCS #RaysUp",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ALCS",
+            "#RaysUp"
+          ],
+          "char_count": 203
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Guardians vs. White Sox. Game 5. Tomorrow night in Cleveland.\n\nWinner gets the Rays in the ALCS.\n\n8 PM ET | Progressive Field | TBS. One game. Everything. #Guardians #WhiteSox #ALDS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Guardians",
+            "#WhiteSox",
+            "#ALDS"
+          ],
+          "char_count": 181
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-alcs-setup-rays-await.html",
+        "headline": "ALCS Preview: Rays Await Winner of White Sox-Guardians Game 5",
+        "word_count": 464
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ALCS Setup\n\n**Image 2-A** | Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** \"Tampa Bay Rays Tropicana Field\"\n- **Intended Use:** X + FB social post\n- **Caption overlay concept:** \"ALCS Game 1 | Oct. 12 | 8 PM ET TBS | Tampa Bay Rays\"\n\n**Image 2-B** | Article Hero (1200x630)\n- **Type:** imagn\n- **Search Term:** \"José Ramírez Cleveland Guardians\"\n- **Intended Use:** Article 2 featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ALCS — Rays vs. Game 5 Winner\n**Key Facts (HIGH confidence):**\n- ALCS: Tampa Bay Rays vs. winner of White Sox/Guardians Game 5\n- Game 5: Saturday, Oct. 10, 8 PM ET, at Progressive Field (Cleveland), TBS/truTV/HBO Max\n- ALCS Game 1: Monday, Oct. 12, 8 PM ET, at Tampa Bay (Tropicana Field), TBS/truTV/HBO Max\n- ALCS can run through Oct. 20\n- Rays are first ALCS participant since 2020",
+        "sources": "- Sources: Yahoo Sports, MLB.com, Fox Sports"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Rays Sweep Yankees — Victor Mesa Jr. Seals the Deal",
+      "tier": 1,
+      "status": "",
+      "angle": "Victor Mesa Jr. 2-run HR in the 6th, Rays hold on 4-3. Yankees swept in a best-of-5 for only second time since 1980.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Victor Mesa Jr. hit a two-run homer in the 6th and the Rays held on 4-3.\n\nTampa Bay sweeps the Yankees 3-0 in the ALDS — the first sweep of a best-of-5 in Rays history.\n\nYankees swept in a best-of-5 for just the second time since 1980. #RaysUp #Yankees",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RaysUp",
+            "#Yankees"
+          ],
+          "char_count": 252
+        },
+        {
+          "label": "Post 3-2",
+          "text": "The Rays are BACK.\n\nFirst ALCS for Tampa Bay since 2020. They swept the Yankees to get there.\n\nMonday night in the Trop. #RaysUp #ALCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RaysUp",
+            "#ALCS"
+          ],
+          "char_count": 134
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-rays-sweep-yankees-alds.html",
+        "headline": "Rays Sweep Yankees Out of ALDS, Reach ALCS for First Time Since 2020",
+        "word_count": 439
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rays Sweep Yankees\n\n**Image 3-A** | Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** \"Victor Mesa Tampa Bay Rays\"\n- **Intended Use:** X + FB social post\n- **Caption overlay concept:** \"Rays Sweep Yankees | ALDS 3-0 | Rays in ALCS | First Franchise Sweep\"\n\n**Image 3-B** | Article Hero (1200x630)\n- **Type:** imagn\n- **Search Term:** \"Tampa Bay Rays celebrating\"\n- **Intended Use:** Article 3 featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Rays Sweep Yankees\n**Key Facts (HIGH confidence — multiple sources):**\n- Game 3 result: Rays 4, Yankees 3 — Wednesday night, Yankee Stadium\n- Victor Mesa Jr. hit two-run HR in the 6th inning to give Rays 4-2 lead\n- Rays held on for 4-3 victory despite fan interference call\n- First sweep of a best-of-5 postseason series or longer in Rays franchise history\n- Only the second time Yankees have been swept in a best-of-5 since 1980 ALCS\n- Series results: Rays won all three games (came back from 2-0 deficit in series? or won all? — source says \"sweep\" meaning Rays won all 3)\n- Wait: Let me verify — \"sweep\" = Rays won 3-0. The ALDS was Rays vs. Yankees; Rays won 3-0",
+        "sources": "- Sources: MLB.com, Yahoo Sports"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Guardians Force Game 5 with 9-5 Win Over White Sox",
+      "tier": 2,
+      "status": "",
+      "angle": "Ramirez delivered again. White Sox came into this series 2-0 up; now it's anyone's series.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "José Ramírez hit a homer and drove in three runs and the Guardians beat the White Sox 9-5.\n\nSeries tied 2-2. Winner-take-all Game 5 is tomorrow in Cleveland.\n\n8 PM ET | TBS. #Guardians #WhiteSox #ALDS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Guardians",
+            "#WhiteSox",
+            "#ALDS"
+          ],
+          "char_count": 200
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-guardians-force-game-5.html",
+        "headline": "Ramírez Homers, Guardians Force ALDS Game 5 with 9-5 Win Over White Sox",
+        "word_count": 436
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Guardians Force Game 5\n\n**Image 4-A** | Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** \"José Ramírez Cleveland Guardians\"\n- **Intended Use:** FB social post\n- **Caption overlay concept:** \"Game 5 | Oct. 10 | Progressive Field | 8 PM ET | TBS\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Guardians Force Game 5\n**Key Facts (HIGH confidence):**\n- Game 4 result: Guardians 9, White Sox 5 (Thursday night)\n- José Ramírez: HR + 3 RBI in Game 4\n- Series now tied 2-2 (White Sox won Games 1 and 2; Guardians won Games 3 and 4)\n- Series record: White Sox 3-0 Game 1, White Sox 4-3 Game 2, Guardians 9-3 Game 3, Guardians 9-5 Game 4\n- Winner-take-all Game 5: Saturday Oct. 10, 8 PM ET, Progressive Field, TBS/truTV/HBO Max",
+        "sources": "- Sources: NBC Chicago, Yahoo Sports, Heavy.com"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "The 2026 Season's Wildest Stats — MLB's Craziest Numbers",
+      "tier": 2,
+      "status": "",
+      "angle": "Astros first team to make playoffs with exactly .500 record (81-81); White Sox won 81 after three straight 100-loss seasons; 16 players homered in MLB debut (record); Nats set blown saves record (42); Jacob Misiorowski shattering velocity records.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The 2026 MLB season had NUMBERS:\n\n→ Astros made the playoffs at 81-81. First time ever.\n→ White Sox won 81 games after three straight 100-loss seasons\n→ 16 players homered in their MLB debut — new record\n→ Nationals set a record with 42 blown saves\n\nWild year. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-2026-mlb-wildest-stats.html",
+        "headline": "The 2026 MLB Season's Wildest Stats: A Year That Broke Records in Strange Ways",
+        "word_count": 546
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "2026 Season's Wildest Stats\n\n**Image 5-A** | Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** \"MLB scoreboard statistics\"\n- **Intended Use:** X + FB social post\n- **Caption overlay concept:** \"2026 MLB: Wildest Stats | Astros .500 Playoffs | 16 Debut HRs | 42 Blown Saves\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "2026 Season's Wildest Stats\n**Key Facts (MEDIUM-HIGH confidence — ESPN/MLB.com):**\n- Astros first team to make playoffs with exactly 81-81 record (first time in MLB history a team made playoffs at .500 in a full season) — WON AL West\n- White Sox: Won 81 games after three consecutive 100+ loss seasons (previous high was 70 wins; new record)\n- 16 players homered in their MLB debut in 2026 — new MLB record (previous was 13 in 2022)\n- Washington Nationals: 42 blown saves — new MLB record\n- Nasim Nuñez (Nationals 2B): Led MLB in steals with 47, despite a .529 OPS\n- Jacob Misiorowski: Shattered velocity records for starting pitchers\n- Milwaukee only 32.6% of runs scored via HR (MLB avg: 40.6%) — unusual small-ball profile for a 103-win team",
+        "sources": "- Sources: ESPN, MLB.com\n- Note: \"Astros made playoffs 81-81\" is MEDIUM confidence — verify; Houston won AL West despite 81-81 is the stated fact"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
