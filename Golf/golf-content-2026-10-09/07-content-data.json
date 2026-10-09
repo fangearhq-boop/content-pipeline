@@ -1,0 +1,137 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-09",
+  "compiled_at": "2026-10-09T11:52:05.366428+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Baycurrent Classic R2 — Mitchell and Bridgeman Share Lead at -11",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-01-mitchell-bridgeman-baycurrent-classic-r2.html",
+        "headline": "Mitchell and Bridgeman Share the Lead at the Baycurrent Classic After Two Rounds",
+        "word_count": 678
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Sergio Garcia Freed from LIV Contract — Court Lifts Stay",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-02-garcia-liv-golf-contract-exit.html",
+        "headline": "Sergio Garcia Clears Legal Path to Leave LIV Golf as Bankruptcy Court Lifts Contract Stay",
+        "word_count": 719
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "La Sasso Youngest LIV Winner Ever — HyFlyers GC Runner-Up in Indianapolis",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-03-la-sasso-youngest-liv-winner-indianapolis.html",
+        "headline": "Michael La Sasso, 22, Becomes the Youngest Winner in LIV Golf History at Indianapolis",
+        "word_count": 717
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "LPGA Asian Swing — Buick Shanghai Preview, Thitikul Leads Season",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-04-lpga-buick-shanghai-thitikul-preview.html",
+        "headline": "Buick LPGA Shanghai Is Next — Thitikul Leads the Season Heading Into the Asian Swing",
+        "word_count": 585
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Scheffler World No. 1 Watch — PGA Tour Fall Swing Begins",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-05-scheffler-fall-swing-pga-tour.html",
+        "headline": "Scheffler and the PGA Tour Fall Swing — Five Events Left to Define the 2026 Season",
+        "word_count": 729
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 0,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No X/Twitter posts found",
+      "Story 1: No Facebook posts found",
+      "Story 1: No posting window specified",
+      "Story 2: No X/Twitter posts found",
+      "Story 2: No Facebook posts found",
+      "Story 2: No posting window specified",
+      "Story 3: No X/Twitter posts found",
+      "Story 3: No Facebook posts found",
+      "Story 3: No posting window specified",
+      "Story 4: No X/Twitter posts found",
+      "Story 4: No Facebook posts found",
+      "Story 4: No posting window specified",
+      "Story 5: No X/Twitter posts found",
+      "Story 5: No Facebook posts found",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

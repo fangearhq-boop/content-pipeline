@@ -22,6 +22,16 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 | 2026-09-28 | T2 | The Bank of Utah Championship Starts Thursday at Black Desert Resort -- What to Know | X(1), FB, Article | NEW |
 | 2026-09-28 | T2 | Jackson Koivun Sealed the Presidents Cup for Team USA. He's 21 Years Old. | X(3), FB, Article | NEW |
 
+## 2026-10-09
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-09 | T1 | Mitchell and Bridgeman Share the Lead at the Baycurrent Classic After Two Rounds | X(2), FB, Article | FOLLOW UP |
+| 2026-10-09 | T1 | Sergio Garcia Clears Legal Path to Leave LIV Golf as Bankruptcy Court Lifts Contract Stay | X(1), FB, Article | FOLLOW UP |
+| 2026-10-09 | T2 | Michael La Sasso, 22, Becomes the Youngest Winner in LIV Golf History at Indianapolis | X(2), FB, Article | NEW |
+| 2026-10-09 | T2 | Buick LPGA Shanghai Is Next — Thitikul Leads the Season Heading Into the Asian Swing | X(1), FB, Article | FOLLOW UP |
+| 2026-10-09 | T2 | Scheffler and the PGA Tour Fall Swing — Five Events Left to Define the 2026 Season | X(1), FB, Article | NEW |
+
 ## 2026-10-08
 
 | Date | Tier | Title | Platforms | Status |
