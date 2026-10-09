@@ -2,6 +2,50 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-09
+
+### STORY 1: Singapore FP1 — Russell Fastest, Penalty Looms for Sunday
+- **Tier:** 1
+- **Category:** George Russell / Mercedes / Singapore GP / Free Practice
+- **Key facts:** Russell P1 (1:32.274s); Leclerc P2 (-0.198s); Norris P3; only 1 practice session in sprint weekend format; Russell GP grid penalty (5th PU, back of grid Sunday); penalty does NOT apply to Sprint; sprint weekend = Marina Bay's first ever sprint format
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sprint Qualifying result, Sprint race result
+
+### STORY 2: Antonelli Youngest Champion Watch — Austin Could Be Clinch
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / Drivers' Championship / History
+- **Key facts:** Antonelli 320 pts, Russell 236 (-84); 150 pts remaining post-Singapore; cannot clinch at Singapore; Austin clinch scenario if max points + Russell scores 0; Vettel youngest champion record: 23 years 134 days (2010); Antonelli will be 20 years old at season end; youngest WDC leader in history (19yr 7mo 4d at Japan); 6 wins in 2026; "AI agent driver" characterization from GPFans
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Singapore Sprint/GP results, championship gap post-Singapore, Austin clinch watch
+
+### STORY 3: First-Ever Sprint at Marina Bay — Complete Guide
+- **Tier:** 2
+- **Category:** Singapore GP / Sprint Weekend / Format Guide
+- **Key facts:** First sprint at Marina Bay; 1 practice session (FP1 4:30 PM SGT) → SQ 8:30 PM → Sprint Sat 5 PM (21 laps) → GQ Sat 9 PM → Race Sun 8 PM; 6th and final sprint of 2026; circuit: 4.927km, 19 corners, night race; only 6 tyre sets for sprint weekend
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** Sprint race result, GQ result
+
+### STORY 4: Russell's Singapore Dilemma — Sprint Full Attack, GP Back of Grid
+- **Tier:** 2
+- **Category:** George Russell / Mercedes / Strategy / Grid Penalty
+- **Key facts:** Penalty only applies to GP; Sprint starts from SQ grid; Marina Bay hardest circuit to overtake; Antonelli won Monza from P19 (different circuit type); Mercedes engine upgrade planned for Austin; gap 84 pts; 5th PU installed post-Malaysia
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** SQ result, whether Mercedes brings Austin upgrade forward
+
+### STORY 5: Verstappen & Norris Tied at 188 — Singapore Could Decide P3/P4
+- **Tier:** 2
+- **Category:** Max Verstappen / Red Bull / Lando Norris / McLaren / Drivers' Championship
+- **Key facts:** Verstappen and Norris tied at 188 pts; Hamilton P3 (214), Leclerc P4 (191); Verstappen won Malaysia (first 2026 win, Red Bull Ford first win, Ford first since 2004); Sepang podium: Verstappen, Antonelli, Hamilton, Leclerc, Hadjar; Singapore street circuit varies for Red Bull vs McLaren
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Singapore qualifying, race result, championship position shift
+
+---
+
 ## 2026-10-07
 
 ### STORY 1: Antonelli 84 Points Clear — Singapore Sprint Could Clinch It

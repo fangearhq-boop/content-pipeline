@@ -1,11 +1,41 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-10-08
+## Last Run: 2026-10-09
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** F1 Fanrecap
 **Stories:** 5
 **Articles:** 5
+
+---
+
+## 2026-10-09 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research | ✅ Complete | 5 stories — Singapore FP1 Russell leads, Antonelli youngest champion watch, first Marina Bay sprint guide, Russell dilemma, Verstappen/Norris tied 188 |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 7 posts, all ≤280 chars |
+| FB Posts | ✅ Complete | 04-social-posts-facebook.md |
+| Image Concepts | ✅ Complete | 05-image-concepts.md — 10 concepts |
+| Articles | ✅ Complete | 5 articles in articles/ |
+| verify-facts.py | ✅ Complete | 28 claims, 59 HIGH; image warnings expected (imagn) |
+| compile-content-data.py | ✅ Complete | 5 stories, 7 tweets, 5 FB, 5 articles |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (not_started — imagn sourcing manual) |
+| Story History | ✅ Complete | story-history.md updated |
+| generate-review-dashboard.py | ✅ Complete | 27 items |
+| generate-postplanner-export.py | ⚠️ 0 posts | Known parsing issue (consistent with previous runs) |
+| publish-to-wordpress.py | ❌ BLOCKED | fanrumor.com:443 denied by egress proxy (consistent) |
+| Git push | ✅ Complete | via git push to main |
+
+**Stories covered:**
+1. T1 FOLLOW UP: Singapore FP1 — Russell Fastest, Penalty Looms for Sunday (Ryan Calloway)
+2. T1 FOLLOW UP: Antonelli Youngest Champion Watch — Austin Could Be Clinch (Elena Voss)
+3. T2 NEW: First-Ever Sprint at Marina Bay — Complete Weekend Guide (Marcus Cole)
+4. T2 FOLLOW UP: Russell's Singapore Dilemma — Sprint Full Attack, GP Back of Grid (Ryan Calloway)
+5. T2 FOLLOW UP: Verstappen & Norris Tied at 188 — Singapore Could Decide P3/P4 (Elena Voss)
 
 ---
 
