@@ -113,6 +113,10 @@ WebFetch returns AI-summarized content, NOT raw page text. The summarizer can di
 - Superlative claims ("first to...", "only player to...", "record for...") need 2nd-source confirmation
 - See `_engine/CLAUDE.md` → Fact Verification Protocol for the full ruleset
 
+### Official schedule, when the niche has one
+
+If the niche playbook names an official schedule feed, first-pitch times and venues come only from that feed. Do not copy a clock off a national listing and attach the home time zone. Two secondary sites agreeing is not verification for a start time, a venue, or a game stat when the league's own schedule or box score exists. For the Cubs brief, run `python Cubs/mlb_schedule.py --date YYYY-MM-DD` during research and paste its output into the research notes. The fact-check step runs the same check.
+
 ## Step 2: Story History Check
 
 Read `story-history.md` in the niche's project root. For each potential story, determine:
@@ -392,6 +396,10 @@ Cross-reference claims against:
 - A second web source for any compound, biographical, or superlative claim
 
 **If a claim cannot be verified, mark it UNVERIFIED — never guess.**
+
+### 10d: Official schedule (when the niche provides one)
+
+Start times, venues, and game stats are not verified by two secondary outlets agreeing. National listings often share one unlabeled Eastern clock. If the niche has `mlb_schedule.py`, this script's fact-check mode runs `check_content_folder` and writes an **Official MLB Schedule** section into `06-fact-check-log.md`. A mismatch exits 2. Do not mark that fact-check PASS, and do not replace the official clock with the listing that failed.
 
 ## Step 11: Image Production (Interactive)
 
