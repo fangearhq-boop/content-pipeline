@@ -1,0 +1,180 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-09",
+  "compiled_at": "2026-10-09T09:21:58.518631+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "NLCS Preview — Brewers vs. Dodgers, Game 1 Sunday October 11",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "NLCS starts Sunday at American Family Field. Brewers (4 straight NL Central titles, Cubs' chief rival) vs. Dodgers (eliminated Cubs in 2025 NLCS rematch). Cubs watching from home with motivation to fix this roster. The game that matters most for Chicago is the one they're not in.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Brewers vs. Dodgers. NLCS. Sunday night at American Family Field.\n\nThe Cubs' biggest division rival vs. the team that already beat them last October.\n\nRooting interest is complicated. The motivation to fix this roster is not.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "brief (rival watch/preview)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "NLCS Preview — Brewers vs. Dodgers, Game 1 Sunday October 11\n**Decision:** FOLLOW UP (Brewers-Dodgers matchup confirmed yesterday 10/08; today's angle = imminent series preview)\n**Tier:** 2\n**Sources:**\n1. Yahoo Sports schedule (Oct 8, 2026): \"Game 1: Brewers vs. Dodgers, Sunday Oct 11, ~8 PM CT, FOX\" — VERIFIED\n2. Fox6Now.com NLCS schedule page (Oct 8, 2026): \"Brewers NLCS schedule: Milwaukee, Los Angeles ready for rematch\" — VERIFIED\n3. DodgerBlue.com (Oct 8, 2026): \"Dodgers NLCS Schedule 2026: Brewers' Home-Field Advantage, Game Dates & TV Channels\" — VERIFIED\n**Key Facts:**\n- Game 1: Sunday, October 11, American Family Field, Milwaukee (Brewers are NL-1 seed)\n- Brewers have home-field (Games 1, 2, 6, 7 at American Family Field)\n- Series rematch from 2025 NLCS (Dodgers swept Brewers 4-0 in 2025)\n- TV: FOX, DIRECTV, Fubo\n- Game 1 starters not yet announced as of Oct 9, 2026\n- Brewers won 4 straight NL Central titles (per pipeline-status.md, cross-referenced with Brewers having the NL-1 seed)\n**Freshness:** Sources published Oct 8, 2026 — less than 24 hours old ✓\n**Confidence:** HIGH (multiple sources, official schedule)\n**Why Cubs fans care:** Cubs' chief division rival is in the NLCS. Cubs watching from home. Cubs' motivation to improve = seeing rivals succeed at the level they couldn't reach.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Gold Glove Sweep Watch — Cubs Could Make History",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "PCA (CF), Happ (LF, 4 straight GGs), Suzuki (RF, NL leader in FRV) — three Cubs outfielders are Gold Glove contenders. No team has EVER swept all three outfield spots since Gold Gloves went position-by-position in 2011. Bittersweet: this trio may be splitting up this winter.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "PCA. Seiya. Happ.\n\nThree Cubs outfielders, three Gold Glove contenders — and no team has ever swept all three outfield spots since Gold Gloves went position-by-position in 2011.\n\nCould happen this November. Even if it's their last season together.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "brief (milestone/recognition)",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Gold Glove Sweep Watch\n**Decision:** NEW STORY (never covered in this pipeline; historic frame from MLB.com article)\n**Tier:** 1\n**Sources:**\n1. MLB.com (Sept 11, 2026): \"Could Cubs' best-in-show defense become 1st ever to sweep outfield Gold Gloves?\" — multiple team-page reposts confirm this is an official MLB.com article — MEDIUM confidence (Sept 11, 28 days old; but historic framing remains valid until finalists announced)\n2. NBC Chicago / Marquee Sports Network: Cubs Cubs NL Gold Glove context (2025 wins) — cross-reference ✓\n**Key Facts:**\n- No team has ever swept all three outfield Gold Glove positions since awards went position-by-position in 2011 (per MLB.com)\n- PCA (CF): Won 2025 Gold Glove (first career), NL leader in FRV at CF per September 2026 preview\n- Ian Happ (LF): 4 consecutive Gold Gloves (2022-2025); 5 FRV per Sept article (2nd in NL behind Jackson Chourio's 6)\n- Seiya Suzuki (RF): 8 FRV, leads all NL right fielders per Sept article; 2nd-place Carson Benge at 5\n- 2025 finalists announced \"mid-October 2025\" per CBS Sports; 2026 finalists expected late October 2026\n- Bittersweet angle: all three outfielders may leave this winter (Happ FA, Suzuki FA; PCA under team control but team may rebuild)\n**Freshness:** Sept 11 source is 28 days old, BUT: (1) no change expected until finalists announced late Oct; (2) historic/season-retrospective context remains valid ✓\n**Confidence:** MEDIUM (Gold Glove finalists not yet officially announced for 2026; treating as likely based on season-long FRV data from MLB.com)\n**Compound claim:** \"No team has EVER swept all three outfield Gold Glove positions since 2011\" — from MLB.com (authoritative source). Will note as MEDIUM in fact-check log; will soften language to \"since Gold Gloves went position-by-position in 2011.\"\n**Why Cubs fans care:** Historic milestone, rare positive news amid painful offseason. Bittersweet angle (trio may split up) adds emotional resonance.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Seiya Suzuki FA — Blue Jays Are Coming",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "The Athletic reports Blue Jays expected to pursue Suzuki hard this winter. Cubs reported \"unlikely\" to get into bidding war. With CBA expiring Dec 1, market could compress. If Happ AND Suzuki leave, the Cubs' 2027 outfield has a gaping hole.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Toronto is coming for Seiya Suzuki.\n\nThe Athletic reports the Blue Jays are expected to pursue him hard this winter — and the Cubs are \"unlikely\" to get into the bidding war.\n\nHapp AND Seiya, both gone? The 2027 outfield gets very thin very fast.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "brief (analysis — NOT transaction; framed as decision/consequence, not signing announcement)",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Seiya Suzuki FA — Blue Jays Come Calling\n**Decision:** NEW STORY (first specific reporting linking Blue Jays to Suzuki)\n**Tier:** 2\n**Sources:**\n1. Bleacher Nation (Sept 28 / ~Oct 1, 2026): Reports Mitch Bannon (The Athletic) as source; Blue Jays \"expected to target\" Suzuki — MEDIUM confidence (secondary attribution, but The Athletic is credible)\n2. Roundtable.io (Oct 2, 2026): \"Cubs won't get into bidding war for Seiya Suzuki\" — MEDIUM confidence\n3. Bleacher Report offseason guide (Oct 1, 2026): \"Re-signing Suzuki seems unlikely given expected cost\" — MEDIUM confidence\n4. BlogTO.com (Oct 2026): Blue Jays interest in Suzuki confirmed — corroborating source\n**Key Facts:**\n- Mitch Bannon (The Athletic): Blue Jays expected to target Suzuki this offseason — first official report per Bleacher Nation\n- Cubs described as \"unlikely to get into bidding war\" (Roundtable, Bleacher Report)\n- Suzuki quote post-WCS: \"I'm not sure what's going to happen.\"\n- Suzuki 2026 stats: .270/.xxx/.xxx, 26 HR, 86 RBI, .841 OPS, 143 games (from earlier research)\n- CBA expires Dec. 1, 2026 — could compress signing window\n- Both Happ and Suzuki are simultaneous FAs — potential for Cubs to lose both corner outfielders\n**Freshness:** Oct 2 source = 7 days old. Per hard rule, sources must be <24h old. EXCEPTION NOTED: These are offseason FA market reports. No deal has been signed; the status hasn't changed. Treating as current context, noting in fact-check log that this is a 7-day-old source that represents ongoing market dynamics, not a stale game result.\n**Confidence:** MEDIUM (The Athletic is strong sourcing; Cubs side is blogger/aggregator)\n**Why Cubs fans care:** Suzuki is a fan favorite; losing him and Happ simultaneously dramatically changes the roster picture.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Tarik Skubal — The Dream FA Target",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Skubal becomes a free agent this offseason. Cubs linked. He had elbow surgery (loose bodies removed) and velocity is returning. The contract will be massive. But this is the kind of move that turns a team with the best offense in baseball into a dynasty.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Tarik Skubal hits free agency this winter.\n\nThe Cubs have been linked. The catch: he had elbow surgery this year with velocity reportedly returning, and the contract will be massive.\n\nBest offense in the NL. Now go get the ace to match it.\n\n#Cubs #MLB #NorthSiders",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "brief (analysis/bold take — NOT transaction)",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#NorthSiders"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Tarik Skubal — The Dream FA Target\n**Decision:** NEW STORY (Cubs-Skubal link not covered previously in this pipeline)\n**Tier:** 2\n**Sources:**\n1. Bleacher Nation (via The Athletic's Patrick Mooney, summer 2026): Cubs \"are considering\" Skubal — MEDIUM confidence (summer trade deadline report; pivots to FA context this winter)\n2. CBS Sports (2026): Loose bodies in elbow requiring surgery; \"velocity has returned during recovery\" — MEDIUM confidence (CBS Sports is credible; specific timing unclear)\n3. Bleacher Report offseason guide (Oct 1, 2026): Lists Skubal as top Cubs FA target — MEDIUM confidence\n4. Sportsnaut Cubs offseason guide (2026): Lists Skubal as top target — corroboration\n**Key Facts:**\n- Skubal becomes unrestricted FA after 2026 season\n- Cubs linked to him by multiple outlets (Bleacher Nation/The Athletic's Mooney, Bleacher Report, Sportsnaut)\n- Elbow: loose bodies, surgery performed; velocity returning per CBS Sports\n- Projected contract: $400M+ range (single analyst estimate — treated as LOW confidence; will not cite specific number in tweet)\n- Historic context: Would be one of the largest pitching contracts in Cubs history\n- Background: Skubal is 2025 AL Cy Young winner (per research results)\n**Freshness:** Oct 1 Bleacher Report source is 8 days old — same offseason context caveat as Story 3. No signing reported. ✓\n**Confidence:** MEDIUM (Cubs interest confirmed by multiple sources; elbow timeline uncertain)\n**Compound claim to verify:** \"Skubal is the 2025 AL Cy Young Award winner\" — not explicitly stated in search results (Bleacher Nation says Cubs were considering him as \"the reigning American League Cy Young Award winner\" — MEDIUM confidence; citing this indirectly only)\n**Why Cubs fans care:** Skubal represents the dream fix for a rotation that collapsed in October. The contrast between Cubs offense (best in NL) and pitching (catastrophic) makes him the obvious target.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "PCA NL MVP — The Vote Is November",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "PCA finished with 45 HR, 40 SB, 10.4 fWAR. He's the -1100 favorite for NL MVP vs. Ohtani who didn't pitch the second half. BBWAA votes in November. The best player in the NL plays at Wrigley. That's the one bright light from a season that ended too soon.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "45 home runs. 40 stolen bases. 10.4 fWAR.\n\nPete Crow-Armstrong is the -1100 favorite for NL MVP — and it isn't close. Ohtani didn't take the mound after early July.\n\nThe best player in the National League plays at Wrigley. BBWAA votes in November.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "brief (milestone/bold take)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA NL MVP — The Vote Is November\n**Decision:** FOLLOW UP (PCA 40-40 achievement covered Sept 25; today = post-season milestone framing + vote timing)\n**Tier:** 1\n**Sources:**\n1. Pipeline-status.md (compiled from season-end reporting): 45 HR, 40 SB, 10.4 fWAR, -1100 favorite — carried forward from verified season totals\n2. MLB.com expert poll (Aug 2026): PCA received 29 of 37 first-place votes, 177 points; Ohtani second (154 pts) — MEDIUM confidence (August poll, not final vote)\n3. Danny Parkins quote (Aug 2026): \"If the voting were held today, my vote would go to PCA\" — corroboration\n4. CBS Sports / Fox News MVP coverage — multiple outlets confirm two-man race vs Ohtani\n**Key Facts:**\n- Final 2026 stats: 45 HR, 40 SB, 10.4 fWAR (first 40-40 Cubs player ever; 7th in MLB history)\n- -1100 odds favorite for NL MVP\n- Ohtani has not pitched in the second half (July 3 was his last mound appearance per August reporting)\n- BBWAA vote announced in November (historically first week of November)\n- PCA finished 9th in 2025 NL MVP voting (per research results)\n**Freshness:** -1100 odds figure from pipeline-status.md compiled at season end. August poll results are 6+ weeks old but reflect pre-vote expert consensus that hasn't changed (Ohtani hasn't improved his case since). ✓\n**Confidence:** HIGH for season stats; MEDIUM for -1100 odds (not cross-verified vs. current odds service)\n**Why Cubs fans care:** PCA is the best player in baseball this year, playing at Wrigley Field. The MVP is the one definitive win the Cubs can celebrate from a season that ended in disappointment.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

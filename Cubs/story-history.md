@@ -8234,3 +8234,50 @@ Each day's stories are appended at the top (newest first).
   - Bregman return confirmation
   - Gausman October roster decision
   - Steele activation update
+
+## 2026-10-09
+
+### STORY 1: NLCS Preview — Brewers vs. Dodgers, Game 1 Sunday October 11
+- **Angle:** FOLLOW UP (Brewers-Dodgers matchup covered 10/08; today's angle = two-day-out preview with Cubs-fan stakes framing; Game 1 Sunday at American Family Field, 8 PM CT; Brewers NL-1 seed with home field; per overnight=LOSER insight, no pre-7AM slots; rival-watch content at 7:00 AM lead)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, rival watch/preview)
+- **Follow-Up Opportunities:**
+  - NLCS Game 1 result (Monday morning)
+  - Brewers advance/eliminated watch
+  - Cubs motivation angle if Dodgers win
+
+### STORY 2: Gold Glove Sweep Watch — Cubs Could Make History
+- **Angle:** NEW STORY (MLB.com Sept 11: no team has ever swept all three outfield GGs since 2011; PCA leads NL CF FRV, Suzuki leads NL RF, Happ 4-time consecutive LF winner; finalists expected late October; bittersweet — may be last season for this trio)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, milestone/recognition)
+- **Follow-Up Opportunities:**
+  - Official Gold Glove finalists announcement (late October)
+  - Sweep achievement if all three win
+  - Bittersweet angle when Happ/Suzuki sign elsewhere
+
+### STORY 3: Seiya Suzuki FA — Blue Jays Come Calling
+- **Angle:** NEW STORY (The Athletic's Mitch Bannon: Blue Jays expected to pursue Suzuki; Cubs "unlikely" to match per Roundtable/Bleacher Report; Suzuki post-WCS: "I'm not sure what's going to happen"; CBA expires Dec 1; framed as analysis not transaction)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, analysis/informative)
+- **Follow-Up Opportunities:**
+  - Suzuki signing announcement (whenever it happens)
+  - Cubs replacement OF strategy
+  - Blue Jays formally offering
+
+### STORY 4: Tarik Skubal — The Dream FA Target
+- **Angle:** NEW STORY (Skubal becomes FA this winter; Cubs linked by The Athletic's Mooney and Bleacher Report offseason guide; elbow surgery this year, velocity returning; contract expected to be massive; framed as aspiration/analysis)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, analysis/bold take)
+- **Follow-Up Opportunities:**
+  - Skubal formal FA announcement
+  - Cubs pursuit confirmed or denied
+  - Contract signing or Cubs' alternative move
+
+### STORY 5: PCA NL MVP — The Vote Is November
+- **Angle:** FOLLOW UP (PCA 40-40 and season stats covered Sept 25; today = post-season milestone framing + -1100 odds favorite vs Ohtani; BBWAA votes in November; placed at 6:30 PM CT per evening_18_24 WINNER insight)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, bold take/milestone)
+- **Follow-Up Opportunities:**
+  - BBWAA NL MVP announcement (November)
+  - PCA contract extension talk (pre-arb)
+  - PCA 2026 final stat wrap-up feature
