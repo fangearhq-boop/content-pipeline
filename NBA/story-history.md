@@ -2,6 +2,50 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-09
+
+### STORY 1: NBA China Games — Mavericks vs. Rockets in Macao
+- **Tier:** 1
+- **Category:** Dallas Mavericks / Houston Rockets / NBA China Games / Cooper Flagg / Kevin Durant
+- **Key facts:** Game 1 at The Venetian Arena, Macao, Oct. 9 at 7:30 PM CST; Game 2 Oct. 11; 16th edition of NBA China Games; Cooper Flagg (2025 No. 1 pick) global debut; Kyrie Irving on Mavs; Kevin Durant, Alperen Sengun, Amen Thompson on Rockets; broadcast in 200+ countries; venue connected to Mavericks governor Patrick Dumont's family
+- **Byline:** Jake Torres
+- **Status:** NEW
+- **Follow-up ideas:** Game 1 recap, Cooper Flagg performance, Game 2 preview
+
+### STORY 2: Sixers Lose Hukporti to Torn Achilles — Season Over
+- **Tier:** 1
+- **Category:** Philadelphia 76ers / Ariel Hukporti / Injury / Roster
+- **Key facts:** Ruptured right Achilles Oct. 5 vs. Knicks, first quarter, non-contact while guarding Karl-Anthony Towns; MRI confirmed Oct. 6; surgery successful; season-ending; age 24; $3.4M 1-year contract; also tore left Achilles in 2022 (Melbourne United, NBL); $1.8M under first apron — limited ability to replace; Adem Bona becomes primary backup to Embiid; previously won championship with Knicks
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** Sixers' replacement options, Adem Bona performance
+
+### STORY 3: Pelicans Overcome 24-Point Deficit to Beat Thunder 116-110
+- **Tier:** 2
+- **Category:** New Orleans Pelicans / Oklahoma City Thunder / Preseason / Jamahl Mosley
+- **Key facts:** Pelicans won 116-110; down 24 points in first half; BOK Center, Tulsa; new coach Jamahl Mosley's first win; Q3: Pelicans outscored Thunder 38-26; Q4: 26-17; Bennedict Mathurin led NOP with 13 pts off bench; Bennett Stirtz led OKC with 15 pts, 6 ast, 5 reb; Thunder sat Shai Gilgeous-Alexander and most starters
+- **Byline:** Damon Pierce
+- **Status:** NEW
+- **Follow-up ideas:** Pelicans regular season opener, Mosley's coaching style
+
+### STORY 4: Giannis Heat Debut — Done, Eyes on October 21
+- **Tier:** 2
+- **Category:** Miami Heat / Giannis Antetokounmpo / Preseason / Chemistry
+- **Key facts:** Debut Oct. 3 at Videotron Centre, Quebec City; Heat 129, Toronto 105; Giannis: 9 pts, 7 ast (game-high), 3-of-3 FG, 14 min; preseason home games remaining vs. Pelicans (Oct. 8), Timberwolves (Oct. 10), Nets (Oct. 14), at Orlando (Oct. 16); regular season opener vs. Minnesota Oct. 21 at Kaseya Center; new Heat additions: Klay Thompson, Bobby Portis, Tim Hardaway Jr.
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Giannis chemistry with Klay, Oct. 10 Timberwolves preview game
+
+### STORY 5: Stephen Curry Signs 2-Year, $116M Extension With Warriors
+- **Tier:** 2
+- **Category:** Golden State Warriors / Stephen Curry / Contract Extension
+- **Key facts:** 2-year, $116M extension; through 2028-29 season; player option in final year; eligible for $136.7M (took $20M+ discount); never played for another franchise; in preseason vs. Lakers scored 16 pts in under 15 minutes (Warriors won 124-98); agreement late September 2026
+- **Byline:** Marcus Cole
+- **Status:** NEW
+- **Follow-up ideas:** Warriors regular season opener, Curry milestone watch
+
+---
+
 ## 2026-10-07
 
 ### STORY 1: Jalen Duren Extension — What It Means for Detroit's Championship Window

@@ -1,8 +1,8 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Current Status
-**Last Run:** 2026-10-08
-**Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy; git push via GitHub MCP (15 of 17 files pushed; review-dashboard.html and story-history.md pending — too large for inline MCP push)
+**Last Run:** 2026-10-09
+**Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy; git push via GitHub MCP
 
 ## Deploy Info
 - **Repo:** fangearhq-boop/content-dashboards
@@ -11,6 +11,26 @@
 - **Note:** Dashboard publish push blocked (content-dashboards not in authorized repo set)
 
 ## Pipeline Run Log
+### 2026-10-09 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 33 claims, 62 HIGH; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 5 FB posts, 5 articles compiled (posting window warnings — non-blocking)
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (27 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 15: publish-to-wordpress.py — BLOCKED (fanrumor.com:443 denied by egress proxy)
+- Git commit + push: via GitHub MCP
+
+**Stories covered:**
+1. T1 NEW: NBA China Games — Cooper Flagg's World Stage Debut in Macao (Jake Torres)
+2. T1 NEW: Sixers Lose Hukporti to Torn Achilles — Season Over Before It Started (Marcus Cole)
+3. T2 NEW: Pelicans Overcome 24-Point Deficit to Beat Thunder 116-110 (Damon Pierce)
+4. T2 FOLLOW UP: Giannis Heat Debut Done — Eyes on October 21 Regular Season Opener (Jake Torres)
+5. T2 NEW: Stephen Curry Signs 2-Year $116M Extension — Warrior for Life (Marcus Cole)
+
+---
+
 ### 2026-10-08 ✅ (Automated)
 - Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
 - Step 10: verify-facts.py — 5 stories, 32 claims, image manifest warning (expected; imagn sourcing)
