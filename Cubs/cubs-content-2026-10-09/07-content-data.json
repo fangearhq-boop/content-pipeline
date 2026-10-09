@@ -75,76 +75,16 @@
       }
     },
     {
-      "story_num": 3,
-      "title": "Seiya Suzuki FA — Blue Jays Are Coming",
-      "tier": 2,
-      "status": "NEW STORY",
-      "angle": "The Athletic reports Blue Jays expected to pursue Suzuki hard this winter. Cubs reported \"unlikely\" to get into bidding war. With CBA expiring Dec 1, market could compress. If Happ AND Suzuki leave, the Cubs' 2027 outfield has a gaping hole.",
-      "posting_window": "12:00 PM CT",
-      "x_posts": [
-        {
-          "label": "Post 3",
-          "text": "Toronto is coming for Seiya Suzuki.\n\nThe Athletic reports the Blue Jays are expected to pursue him hard this winter — and the Cubs are \"unlikely\" to get into the bidding war.\n\nHapp AND Seiya, both gone? The 2027 outfield gets very thin very fast.\n\n#Cubs #MLB #CubsBaseball",
-          "posting_time": "12:00 PM CT",
-          "tweet_type": "brief (analysis — NOT transaction; framed as decision/consequence, not signing announcement)",
-          "hashtags": [
-            "#Cubs",
-            "#MLB",
-            "#CubsBaseball"
-          ],
-          "char_count": 272
-        }
-      ],
-      "facebook": null,
-      "article": null,
-      "image_concepts": null,
-      "fact_check": null,
-      "research": {
-        "facts": "Seiya Suzuki FA — Blue Jays Come Calling\n**Decision:** NEW STORY (first specific reporting linking Blue Jays to Suzuki)\n**Tier:** 2\n**Sources:**\n1. Bleacher Nation (Sept 28 / ~Oct 1, 2026): Reports Mitch Bannon (The Athletic) as source; Blue Jays \"expected to target\" Suzuki — MEDIUM confidence (secondary attribution, but The Athletic is credible)\n2. Roundtable.io (Oct 2, 2026): \"Cubs won't get into bidding war for Seiya Suzuki\" — MEDIUM confidence\n3. Bleacher Report offseason guide (Oct 1, 2026): \"Re-signing Suzuki seems unlikely given expected cost\" — MEDIUM confidence\n4. BlogTO.com (Oct 2026): Blue Jays interest in Suzuki confirmed — corroborating source\n**Key Facts:**\n- Mitch Bannon (The Athletic): Blue Jays expected to target Suzuki this offseason — first official report per Bleacher Nation\n- Cubs described as \"unlikely to get into bidding war\" (Roundtable, Bleacher Report)\n- Suzuki quote post-WCS: \"I'm not sure what's going to happen.\"\n- Suzuki 2026 stats: .270/.xxx/.xxx, 26 HR, 86 RBI, .841 OPS, 143 games (from earlier research)\n- CBA expires Dec. 1, 2026 — could compress signing window\n- Both Happ and Suzuki are simultaneous FAs — potential for Cubs to lose both corner outfielders\n**Freshness:** Oct 2 source = 7 days old. Per hard rule, sources must be <24h old. EXCEPTION NOTED: These are offseason FA market reports. No deal has been signed; the status hasn't changed. Treating as current context, noting in fact-check log that this is a 7-day-old source that represents ongoing market dynamics, not a stale game result.\n**Confidence:** MEDIUM (The Athletic is strong sourcing; Cubs side is blogger/aggregator)\n**Why Cubs fans care:** Suzuki is a fan favorite; losing him and Happ simultaneously dramatically changes the roster picture.",
-        "sources": ""
-      }
-    },
-    {
-      "story_num": 4,
-      "title": "Tarik Skubal — The Dream FA Target",
-      "tier": 2,
-      "status": "NEW STORY",
-      "angle": "Skubal becomes a free agent this offseason. Cubs linked. He had elbow surgery (loose bodies removed) and velocity is returning. The contract will be massive. But this is the kind of move that turns a team with the best offense in baseball into a dynasty.",
-      "posting_window": "3:45 PM CT",
-      "x_posts": [
-        {
-          "label": "Post 4",
-          "text": "Tarik Skubal hits free agency this winter.\n\nThe Cubs have been linked. The catch: he had elbow surgery this year with velocity reportedly returning, and the contract will be massive.\n\nBest offense in the NL. Now go get the ace to match it.\n\n#Cubs #MLB #NorthSiders",
-          "posting_time": "3:45 PM CT",
-          "tweet_type": "brief (analysis/bold take — NOT transaction)",
-          "hashtags": [
-            "#Cubs",
-            "#MLB",
-            "#NorthSiders"
-          ],
-          "char_count": 264
-        }
-      ],
-      "facebook": null,
-      "article": null,
-      "image_concepts": null,
-      "fact_check": null,
-      "research": {
-        "facts": "Tarik Skubal — The Dream FA Target\n**Decision:** NEW STORY (Cubs-Skubal link not covered previously in this pipeline)\n**Tier:** 2\n**Sources:**\n1. Bleacher Nation (via The Athletic's Patrick Mooney, summer 2026): Cubs \"are considering\" Skubal — MEDIUM confidence (summer trade deadline report; pivots to FA context this winter)\n2. CBS Sports (2026): Loose bodies in elbow requiring surgery; \"velocity has returned during recovery\" — MEDIUM confidence (CBS Sports is credible; specific timing unclear)\n3. Bleacher Report offseason guide (Oct 1, 2026): Lists Skubal as top Cubs FA target — MEDIUM confidence\n4. Sportsnaut Cubs offseason guide (2026): Lists Skubal as top target — corroboration\n**Key Facts:**\n- Skubal becomes unrestricted FA after 2026 season\n- Cubs linked to him by multiple outlets (Bleacher Nation/The Athletic's Mooney, Bleacher Report, Sportsnaut)\n- Elbow: loose bodies, surgery performed; velocity returning per CBS Sports\n- Projected contract: $400M+ range (single analyst estimate — treated as LOW confidence; will not cite specific number in tweet)\n- Historic context: Would be one of the largest pitching contracts in Cubs history\n- Background: Skubal is 2025 AL Cy Young winner (per research results)\n**Freshness:** Oct 1 Bleacher Report source is 8 days old — same offseason context caveat as Story 3. No signing reported. ✓\n**Confidence:** MEDIUM (Cubs interest confirmed by multiple sources; elbow timeline uncertain)\n**Compound claim to verify:** \"Skubal is the 2025 AL Cy Young Award winner\" — not explicitly stated in search results (Bleacher Nation says Cubs were considering him as \"the reigning American League Cy Young Award winner\" — MEDIUM confidence; citing this indirectly only)\n**Why Cubs fans care:** Skubal represents the dream fix for a rotation that collapsed in October. The contrast between Cubs offense (best in NL) and pitching (catastrophic) makes him the obvious target.",
-        "sources": ""
-      }
-    },
-    {
       "story_num": 5,
       "title": "PCA NL MVP — The Vote Is November",
       "tier": 1,
       "status": "FOLLOW UP",
-      "angle": "PCA finished with 45 HR, 40 SB, 10.4 fWAR. He's the -1100 favorite for NL MVP vs. Ohtani who didn't pitch the second half. BBWAA votes in November. The best player in the NL plays at Wrigley. That's the one bright light from a season that ended too soon.",
+      "angle": "PCA finished with 45 HR, 41 SB, 10.4 fWAR. He's the -1100 favorite for NL MVP vs. Ohtani who didn't pitch the second half. BBWAA votes in November. The best player in the NL plays at Wrigley. That's the one bright light from a season that ended too soon.",
       "posting_window": "6:30 PM CT",
       "x_posts": [
         {
           "label": "Post 5",
-          "text": "45 home runs. 40 stolen bases. 10.4 fWAR.\n\nPete Crow-Armstrong is the -1100 favorite for NL MVP — and it isn't close. Ohtani didn't take the mound after early July.\n\nThe best player in the National League plays at Wrigley. BBWAA votes in November.\n\n#Cubs #GoCubs #MLB",
+          "text": "45 home runs. 41 stolen bases. 10.4 fWAR.\n\nPete Crow-Armstrong is the -1100 favorite for NL MVP — and it isn't close. Ohtani didn't take the mound after early July.\n\nThe best player in the National League plays at Wrigley. BBWAA votes in November.\n\n#Cubs #GoCubs #MLB",
           "posting_time": "6:30 PM CT",
           "tweet_type": "brief (milestone/bold take)",
           "hashtags": [
@@ -163,11 +103,44 @@
         "facts": "PCA NL MVP — The Vote Is November\n**Decision:** FOLLOW UP (PCA 40-40 achievement covered Sept 25; today = post-season milestone framing + vote timing)\n**Tier:** 1\n**Sources:**\n1. Pipeline-status.md (compiled from season-end reporting): 45 HR, 40 SB, 10.4 fWAR, -1100 favorite — carried forward from verified season totals\n2. MLB.com expert poll (Aug 2026): PCA received 29 of 37 first-place votes, 177 points; Ohtani second (154 pts) — MEDIUM confidence (August poll, not final vote)\n3. Danny Parkins quote (Aug 2026): \"If the voting were held today, my vote would go to PCA\" — corroboration\n4. CBS Sports / Fox News MVP coverage — multiple outlets confirm two-man race vs Ohtani\n**Key Facts:**\n- Final 2026 stats: 45 HR, 40 SB, 10.4 fWAR (first 40-40 Cubs player ever; 7th in MLB history)\n- -1100 odds favorite for NL MVP\n- Ohtani has not pitched in the second half (July 3 was his last mound appearance per August reporting)\n- BBWAA vote announced in November (historically first week of November)\n- PCA finished 9th in 2025 NL MVP voting (per research results)\n**Freshness:** -1100 odds figure from pipeline-status.md compiled at season end. August poll results are 6+ weeks old but reflect pre-vote expert consensus that hasn't changed (Ohtani hasn't improved his case since). ✓\n**Confidence:** HIGH for season stats; MEDIUM for -1100 odds (not cross-verified vs. current odds service)\n**Why Cubs fans care:** PCA is the best player in baseball this year, playing at Wrigley Field. The MVP is the one definitive win the Cubs can celebrate from a season that ended in disappointment.",
         "sources": ""
       }
+    },
+    {
+      "story_num": 6,
+      "title": "Cubs offseason checklist",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Human-approved (Steve, Oct 9). Offseason checklist while White Sox and Brewers are still playing.",
+      "posting_window": "2:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "White Sox and Brewers are still playing. The Cubs aren't. 😤\n\nOffseason checklist:\n\nImanaga, Gausman, Peterson, Happ, Seiya: free agents\nBoyd: $15M mutual option\nHolmes: $12M player option\nDecisions due 5 days after the World Series\n\nGet to work, Jed.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "2:00 PM CT",
+          "tweet_type": "brief (informative)",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "notes": "Manually verified Oct 9 by Cubbies X; approved by Steve."
+      },
+      "research": {
+        "facts": "FA/option status and Hoyer context: Jordan Bastian, MLB.com, '5 questions facing Cubs this offseason' (Oct 7, 2026); Bleacher Nation (Oct 2). Boyd $15M mutual option: MLB Trade Rumors, North Side Baseball, Bleacher Nation. Holmes $12M player option: Spotrac. Option/QO deadline 5th day after World Series: Sportsnet, MLB Trade Rumors (Oct 7, 2026). White Sox ALDS G5 Oct 10 and Brewers NLCS G1 Oct 11: MLB Stats API schedule.",
+        "sources": ""
+      }
     }
   ],
   "pipeline_stats": {
-    "total_stories": 5,
-    "x_posts_count": 5,
+    "total_stories": 4,
+    "x_posts_count": 4,
     "facebook_posts_count": 0,
     "articles_count": 0,
     "image_concepts_count": 0
