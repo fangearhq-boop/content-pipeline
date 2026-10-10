@@ -3,6 +3,16 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## October 10, 2026
+
+| 2026-10-10 | Andreeva def. Bartunkova 6-2, 6-2 in WTA Beijing SF; 4th WTA 1000 final; rises to World No. 3 Monday; 50 wins in 2026 season; Bartunkova ended week in top 30 (first WTA 1000 SF). Sources: wtatennis.com, sundayguardianlive.com, tennisworldusa.org | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Oct 9 S3: WTA Beijing QF → SF RESULT) |
+| 2026-10-10 | WTA Beijing SF: Zheng vs. Mertens — Mertens def. Gauff 6-3,6-3 R16 + def. Swiatek 7-6(0),6-3 QF (87% 1st-serve, 24W/11UE, 0 BPs); Zheng def. Svitolina 6-3,7-6(6) QF; winner meets Andreeva in final. Sources: wtatennis.com, tennistonic.com, lastwordonsports.com | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 9 S3: WTA Beijing QF Swiatek upset → SF matchup) |
+| 2026-10-10 | Shanghai Day 4: Alcaraz (No. 2 seed) opens vs. Cerundolo; Cerundolo def. Mejía 6-4,6-4; Medvedev 21 aces def. Struff R2; Zhou Yi (No. 277) def. Musetti (No. 5) 7-6(7),3-6,7-6(1); Alcaraz arrives fresh from Japan Open (def. Lehecka 7-6(4),6-4). Sources: atptour.com, tennis.com, ticotimes.net | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Oct 9 S4: Shanghai Day 3 → Day 4) |
+| 2026-10-10 | Zverev ankle watch: def. Wu Yibing 6-4,7-6(4) but late fall, favoring left ankle; R3 opponent Blockx or Halys; Year-End No. 1 virtually locked (Sinner out rest of season); withdrawal would affect Race bubble below him. Sources: atptour.com (Oct 9) | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Oct 9 S2: Zverev ankle scare → update) |
+| 2026-10-10 | Race to Turin bubble: Zverev (~8,800) + Alcaraz (4,560) qualified; Sinner (7,950) out; 4 spots for Shelton (4,440)/Cobolli (3,540)/Tiafoe (3,340)/Fils/Medvedev/Djokovic (climbed 6 places after Beijing); Shanghai + Paris Bercy still to distribute. Sources: atptour.com Oct 7, wikipedia.org | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 9 S5: Race → Djokovic in hunt, bubble) |
+
+---
+
 ## October 9, 2026
 
 | 2026-10-09 | Hurkacz stuns Djokovic 6-4, 6-3 at Shanghai R2 — first career win over Djokovic (was 0-8); Djokovic's earliest-ever Shanghai exit; Hurkacz: 13 aces, 2 DFs, 70% first serve, saved both BPs; Djokovic drained after Beijing title; Hurkacz had retired Beijing SF (adductor). Sources: tennisnow.com, thebiglead.com, tennistonic.com, tennisworldusa.org, yahoo sports | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 8 S3: Shanghai Day 2, Hurkacz vs. Djokovic R2 set up → R2 RESULT) |
