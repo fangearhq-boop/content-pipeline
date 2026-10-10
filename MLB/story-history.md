@@ -8505,3 +8505,55 @@ Each day's stories are appended at the top (newest first).
 - **Follow-Up Opportunities:**
   - Wild Card Series results (Sept. 29+)
   - NLDS bracket/matchups
+
+---
+
+## Pipeline Run: 2026-10-10
+
+### Story 1: ALDS Game 5 Tonight — Guardians vs. White Sox, Winner-Take-All at Progressive Field
+- **Date:** 2026-10-10
+- **Tier:** 1
+- **Classification:** FOLLOW UP (series tied 2-2 after Guardians' Game 4 comeback)
+- **Angle:** Game 5 Oct. 10, 8PM ET Progressive Field TBS. Gavin Williams (CLE) vs Sean Burke (CHW). White Sox haven't been to ALCS since 2005. Winner faces Rays in ALCS Oct. 12. Ramírez HR+3RBI in Game 4.
+- **Content Produced:** Article (article-01, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Game 5 result
+  - ALCS matchup (Rays vs winner)
+
+### Story 2: Rays Sweep Yankees — Mesa Jr. Homer, Fan Interference Drama
+- **Date:** 2026-10-10
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Rays swept Yankees 3-0, Game 3 Oct. 7)
+- **Angle:** Victor Mesa Jr. 2-run HR off Max Fried in 6th; fan interference call reviewed and upheld (ball wouldn't have cleared wall); Yankees first swept in best-of-5 postseason since 1980 ALCS; Rays 3rd ALCS in franchise history; 5 runs allowed in series.
+- **Content Produced:** Article (article-02, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - ALCS Game 1 (Rays vs CLE/CHW winner, Oct. 12)
+
+### Story 3: NLCS Preview — Dodgers vs. Brewers (Game 1 Oct. 11)
+- **Date:** 2026-10-10
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Game 1 Oct. 11 American Family Field Milwaukee 8PM ET FOX. Brewers first NLCS since 2025 (lost to Dodgers). Dodgers 3-peat bid. Blake Snell active/in rotation (started NLDS G2). Misiorowski 11-5/1.76 ERA. Ohtani pitching TBD. Rojas (back/hip) on active roster questionable.
+- **Content Produced:** Article (article-03, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - NLCS Game 1 result
+  - Ohtani pitching assignment announcement
+
+### Story 4: Altuve 28 Career Postseason HRs — One Short of Manny Ramírez Record
+- **Date:** 2026-10-10
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Astros eliminated by White Sox. Altuve hit 28th career postseason HR in ALDS G2. Manny Ramírez record: 29. Altuve holds record for most postseason HRs by infielder; most first-inning postseason HRs (8). Chase continues 2027.
+- **Content Produced:** Article (article-04, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Altuve postseason HR No. 29 (2027 or later)
+
+### Story 5: Jacob Misiorowski — Brewers' Ace Profile (NLCS Preview)
+- **Date:** 2026-10-10
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Misiorowski 11-5/1.76 ERA 2026. Brewers No.1 NL seed/103 wins. First NLCS start vs Dodgers. Profile of under-the-radar national ace. Brewers built quietly; 2025 NLCS loss gave blueprint.
+- **Content Produced:** Article (article-05, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Misiorowski NLCS performance
+  - Brewers pennant race

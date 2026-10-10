@@ -1,0 +1,260 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-10",
+  "compiled_at": "2026-10-10T10:33:36.162925+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "ALDS Game 5 Tonight — Guardians vs. White Sox, Winner-Take-All at Progressive Field",
+      "tier": 1,
+      "status": "",
+      "angle": "Winner meets Tampa Bay Rays in ALCS starting Oct. 12. The White Sox — who haven't reached the ALCS since their 2005 World Series run — are one game from ending a 21-year drought. The Guardians have the crowd, the momentum, and José Ramírez.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "TONIGHT: Guardians vs. White Sox. Winner-take-all. Game 5.\n\nProgressive Field. 8 PM ET. TBS.\n\nThe White Sox haven't been to the ALCS since 2005. Cleveland wants to stop that. #ForTheLand #WhiteSox",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ForTheLand",
+            "#WhiteSox"
+          ],
+          "char_count": 196
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Gavin Williams vs. Sean Burke. Progressive Field. 8 PM ET.\n\nOne game. One ticket to the ALCS.\n\nThe Guardians erased a 0-2 series deficit to get here. Can Cleveland finish it tonight? #ForTheLand",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ForTheLand"
+          ],
+          "char_count": 194
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-alds-game-5-guardians-white-sox-preview.html",
+        "headline": "Winner-Take-All: Guardians vs. White Sox in ALDS Game 5 at Progressive Field",
+        "word_count": 448
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ALDS Game 5 Preview\n\n#### Image 1 (Social — 1080x1350)\n- **Type:** imagn search\n- **Search Term:** \"José Ramírez Cleveland Guardians\"\n- **Usage:** Social post graphic\n- **Design Direction:** Ramírez at bat or celebrating; Progressive Field background; red/navy\n- **Status:** not_started\n\n#### Image 2 (Article Hero — 1200x630)\n- **Type:** imagn search\n- **Search Term:** \"Progressive Field Cleveland\"\n- **Usage:** Article featured image\n- **Design Direction:** Stadium shot; packed crowd or twilight atmosphere\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Rays' Historic ALDS Sweep — Mesa Jr. Homer, Fan Interference Drama",
+      "tier": 1,
+      "status": "",
+      "angle": "The Yankees hadn't been swept in a best-of-five postseason since the 1980 ALCS. The Rays' third ALCS in franchise history begins Oct. 12.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Victor Mesa Jr. hit a 2-run homer off Max Fried. Fan interference gave the Yankees false hope. The review upheld it.\n\nTampa Bay swept New York 3-0. The Yankees hadn't been swept in a best-of-5 postseason since 1980.\n\nThe Rays are going to the ALCS. #RaysUp",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RaysUp"
+          ],
+          "char_count": 256
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Rays gave up 5 total runs in their 3-game ALDS sweep of the Yankees.\n\nFIVE runs. In a sweep.\n\nTampa Bay's third ALCS in franchise history starts Monday. #RaysUp",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RaysUp"
+          ],
+          "char_count": 164
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-rays-sweep-yankees-mesa-fan-interference.html",
+        "headline": "Rays Sweep Yankees in ALDS: Mesa Jr. Homer, Fan Interference Drama, and Tampa Bay's Third ALCS",
+        "word_count": 510
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rays Sweep Yankees\n\n#### Image 3 (Social — 1080x1350)\n- **Type:** imagn search\n- **Search Term:** \"Victor Mesa Tampa Bay Rays\"\n- **Usage:** Social post graphic\n- **Design Direction:** Mesa Jr. celebrating or hitting; Rays navy and gold\n- **Status:** not_started\n\n#### Image 4 (Article Hero — 1200x630)\n- **Type:** imagn search\n- **Search Term:** \"Tampa Bay Rays\"\n- **Usage:** Article featured image\n- **Design Direction:** Team celebration or pitching in action\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "NLCS Preview — Dodgers vs. Brewers, Game 1 Tomorrow Night",
+      "tier": 1,
+      "status": "",
+      "angle": "Blake Snell is back and in the rotation. Jacob Misiorowski (11-5, 1.76 ERA) is the Brewers' ace. Shohei Ohtani's pitching status is unresolved.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Blake Snell is healthy. Yoshinobu Yamamoto is ready.\n\nMilwaukee's Jacob Misiorowski went 11-5 with a 1.76 ERA this year.\n\nDodgers-Brewers NLCS starts TOMORROW at 8 PM ET on FOX. Game 1 in Milwaukee. #Dodgers #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#Brewers"
+          ],
+          "char_count": 216
+        },
+        {
+          "label": "Post 3-2",
+          "text": "The Dodgers are going for a 3-peat World Series.\n\nThe Brewers are in their first NLCS since 2025.\n\nOne of them gets the pennant. Game 1 is tomorrow in Milwaukee. #Dodgers #BrewCrew",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#BrewCrew"
+          ],
+          "char_count": 180
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-nlcs-preview-dodgers-brewers-snell-misiorowski.html",
+        "headline": "NLCS Preview: Dodgers vs. Brewers — Snell's Return, Misiorowski's Moment, and the 3-Peat Chase",
+        "word_count": 494
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NLCS Dodgers vs. Brewers Preview\n\n#### Image 5 (Social — 1080x1350)\n- **Type:** imagn search\n- **Search Term:** \"Blake Snell Los Angeles Dodgers\"\n- **Usage:** Social post graphic\n- **Design Direction:** Snell pitching or celebrating; Dodger blue\n- **Status:** not_started\n\n#### Image 6 (Article Hero — 1200x630)\n- **Type:** imagn search\n- **Search Term:** \"Jacob Misiorowski Milwaukee Brewers\"\n- **Usage:** Article featured image\n- **Design Direction:** Misiorowski pitching; Milwaukee gold and navy\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Altuve Falls One Homer Short of All-Time Postseason HR Record",
+      "tier": 2,
+      "status": "",
+      "angle": "Altuve already owns records for most career postseason HRs by an infielder and most first-inning postseason HRs (8). One more next year would make history.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "José Altuve finished the 2026 postseason with 28 career postseason home runs.\n\nManny Ramírez's all-time record: 29.\n\nThe Astros are done. The chase continues in 2027. #Astros",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros"
+          ],
+          "char_count": 174
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-altuve-28-postseason-hrs-one-short-manny-ramirez.html",
+        "headline": "Altuve Ends 2026 at 28 Postseason Home Runs — One Short of Manny Ramírez's All-Time Record",
+        "word_count": 411
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Altuve Postseason HR Record\n\n#### Image 7 (Social — 1080x1350)\n- **Type:** imagn search\n- **Search Term:** \"José Altuve Houston Astros\"\n- **Usage:** Social post graphic\n- **Design Direction:** Altuve home run trot or celebrating; Astros navy and orange\n- **Status:** not_started\n\n#### Image 8 (Article Hero — 1200x630)\n- **Type:** imagn search\n- **Search Term:** \"José Altuve Houston Astros\"\n- **Usage:** Article featured image\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Brewers' Jacob Misiorowski — The Ace Nobody Outside Milwaukee Saw Coming",
+      "tier": 2,
+      "status": "",
+      "angle": "Profile of the Brewers' young ace who quietly put together one of the best pitching seasons in the NL this year — and now faces the Dodgers on the biggest stage.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Jacob Misiorowski. 11-5. 1.76 ERA.\n\nHe might be the best pitcher you're not talking about.\n\nHe's pitching in the NLCS against the Dodgers tomorrow. You might start talking now. #BrewCrew",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BrewCrew"
+          ],
+          "char_count": 186
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-misiorowski-brewers-ace-nlcs.html",
+        "headline": "Jacob Misiorowski: The Brewers Ace Who Earned His NLCS Moment",
+        "word_count": 442
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Misiorowski Profile\n\n#### Image 9 (Social — 1080x1350)\n- **Type:** imagn search\n- **Search Term:** \"Jacob Misiorowski Milwaukee Brewers\"\n- **Usage:** Social post graphic\n- **Design Direction:** Misiorowski on the mound; American Family Field background\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
