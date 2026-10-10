@@ -1,0 +1,210 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-10",
+  "compiled_at": "2026-10-10T09:22:36.551254+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "White Sox vs Guardians, ALDS Game 5 — Tonight in Cleveland",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Series tied 2-2. White Sox vs Guardians, winner-take-all tonight at Progressive Field, 8 PM CT. CWS starters went up 2-0 then dropped back-to-back. City rival still alive in October while Cubs watch from home. Starters: Gavin Williams (CLE) vs Sean Burke (CWS).",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "The South Side is in a must-win tonight.\n\nWhite Sox vs. Guardians, ALDS Game 5 at Progressive Field. Series tied 2-2. 8:00 PM CT.\n\nCubs are watching from home. City rivals are still playing in October.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "brief (city-rival watch / game preview)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "White Sox vs Guardians, ALDS Game 5 — Tonight in Cleveland\n**Decision:** NEW STORY (White Sox ALDS not covered in this pipeline)\n**Tier:** 2\n**Sources:**\n1. ESPN box score: \"Guardians 9-5 White Sox (Oct 8, 2026)\" — confirmed Game 4 final ✓\n2. Yahoo Sports: \"Guardians force Game 5 after going down 0-2 in ALDS\" (Oct 8, 2026) — confirmed series tie 2-2 ✓\n3. OntapSportsNet: \"White Sox Fall to Guardians 9-5 After Six-Run Sixth, ALDS Heads to Game 5\" (Oct 8, 2026) ✓\n4. MLB.com postseason bracket: Game 5 at Progressive Field, 8:00 PM CT, Saturday Oct 10 ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Tarik Skubal Starts NLCS Game 1 for the Dodgers (Tomorrow)",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Dave Roberts confirmed Skubal starts NLCS Game 1 Sunday, 7 PM CT, American Family Field. He was acquired from Detroit at the trade deadline. The arm Cubs wanted this summer is dominating in October. This is exactly what Hoyer needs to find this winter.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Tarik Skubal starts NLCS Game 1 for the Dodgers tomorrow. 7:00 PM CT. FOX.\n\nHe's the arm Cubs fans spent the summer dreaming about.\n\nWatch closely. This is what Hoyer needs to find this winter.\n\n#Cubs #MLB #NorthSiders",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "brief (rival watch / bold/analysis)",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#NorthSiders"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Tarik Skubal Starts NLCS Game 1 for the Dodgers (Tomorrow)\n**Decision:** FOLLOW UP\n**Tier:** 2\n**Sources:**\n1. ESPN: \"Skubal gets Game 1 start for Dodgers in NLCS\" (Oct 10, 2026) ✓\n2. CBS Sports: \"Dodgers' Tarik Skubal: Starting NLCS Game 1\" (Oct 9-10, 2026) ✓\n3. Yahoo Sports: \"Tarik Skubal starts for Dodgers in NLCS Game 1\" (Oct 9-10, 2026) ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Ian Happ QO Decision — $23.15 Million, Deadline in Days",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "2026-27 QO confirmed at $23.15M (Joel Sherman / MLB Trade Rumors). Happ IS eligible (full season, one team, no prior QO). Deadline: 5 days after World Series ends. Cubs must decide whether to extend it; Happ must decide whether to take it. His decade in Chicago adds emotional weight.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Ian Happ has been a Cub for 10 years. This offseason could be his last.\n\nThe qualifying offer: $23.15 million. Decision deadline: 5 days after the World Series.\n\nHoyer decides whether to extend it. Happ decides whether to accept. Neither choice is easy.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "brief (informative / roster news)",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Ian Happ QO Decision\n**Sources:**\n1. MLB Trade Rumors: \"Report: 2026-27 Qualifying Offer To Be $23.15MM\" (Oct 8, 2026) ✓\n2. Bleacher Nation: \"The Qualifying Offer Number For Post-2026 Free Agents is Out\" (Oct 8, 2026) ✓\n3. Bleed Cubbie Blue: \"This year's MLB qualifying offer has been set. Should any Cubs be given one?\" (Oct 8-9, 2026) ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Cubs Could Enter Spring Training With ZERO Established SPs Under Contract",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Gausman, Imanaga, Holmes (opt-out expected), Boyd (opt-out expected), Peterson — all FAs. Horton out (TJ surgery). Steele out (elbow). The Cubs may arrive at spring training with no established starting pitcher under contract. Hoyer's stated priority: pitching.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Gausman. Imanaga. Boyd. Holmes. Peterson.\n\nFive starters. All free agents this winter. Add Horton (TJ) and Steele (elbow). The Cubs could enter spring training with ZERO established pitchers under contract.\n\nHoyer's offseason is a five-alarm fire.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "brief (bold/informative stat breakdown)",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs Zero SPs\n**Sources:**\n1. MLB Trade Rumors: \"Hoyer: Cubs To Prioritize Offseason Around Pitching\" (Oct 2026) ✓\n2. ESPN: \"Cubs' Jed Hoyer makes 'pitching acquisition' top offseason priority\" (Oct 2026) ✓\n3. Bleacher Report: \"Each MLB Team's Biggest Roster Hole\" (Oct 8, 2026) ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "PCA MVP Market Closed — BetMGM Pulled It, Polymarket at 99%",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Yesterday it was -1100. Today BetMGM closed the PCA NL MVP market — too one-sided to offer. Polymarket: 99% probability. Ohtani hasn't pitched since July. BBWAA vote is a formality.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Yesterday: -1100.\n\nToday: BetMGM closed the Pete Crow-Armstrong NL MVP market. It's not worth offering odds on anymore.\n\nOhtani hasn't pitched since July. Polymarket: 99%. BBWAA votes in November.\n\nBest player in the National League plays at Wrigley.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "brief (milestone / bold take)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA MVP Market Closed\n**Sources:**\n1. BetMGM: NL MVP market closed/pulled (Oct 9-10, 2026) ✓\n2. ESPN \"2026 MLB Awards Sports Betting Odds Tracker\": PCA \"running away\" (Oct 2026) ✓\n3. Polymarket: PCA at 99% probability ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Cardinals vs Cubs — 2027 Rotation Contrast (Evening Rival Jab)",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cardinals have rotation stability and no holes to fill. Cubs need five new starters plus two injured returnees. Pointed but not mean-spirited — brand-voice rival jab. Evening slot per insights.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The Cardinals head into the offseason with rotation stability and no holes to fill.\n\nThe Cubs need five new starters — plus two rotation prospects still recovering from elbow surgery.\n\nNo hard feelings, St. Louis. Build something worth beating.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "brief (bold / rival jab)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cardinals vs Cubs Contrast\n**Sources:**\n1. Redbird Rants: \"Cubs' Latest Playoff Disappointment Hints at a Future the Cardinals Can Capitalize On\" (Oct 5, 2026) ✓\n2. Pipeline-status.md: Cardinals finished below .500 in 2026 ✓",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

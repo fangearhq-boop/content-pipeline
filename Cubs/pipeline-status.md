@@ -1,28 +1,27 @@
-# Cubs Pipeline Status — Updated 2026-10-09
+# Cubs Pipeline Status — Updated 2026-10-10
 
 ## Latest Run
-- **Date:** 2026-10-09 (Friday — Off day, early offseason; NLCS (Brewers vs Dodgers) starts Sunday)
-- **Stories:** 5
-- **X posts:** 5
+- **Date:** 2026-10-10 (Saturday — Off day, early offseason; NLCS (Brewers vs Dodgers) starts TOMORROW Sunday Oct 11; White Sox ALDS G5 tonight)
+- **Stories:** 6
+- **X posts:** 6
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
-- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 5 stories, 5 tweets
-- **07-content-data.json:** ✅ Valid JSON, all 5 posts with posting_time (7:00 AM / 9:30 AM / 12:00 PM / 3:45 PM / 6:30 PM CT), all strptime-parseable
-- **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeded)
+- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 6 stories, 6 tweets
+- **07-content-data.json:** ✅ Valid JSON, all 6 posts with posting_time (7:00 AM / 9:30 AM / 10:45 AM / 12:00 PM / 3:45 PM / 6:30 PM CT), all strptime-parseable
+- **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
 
-## Insights Summary (2026-10-09)
-- **Snapshot generated:** 2026-10-09T08:30:00.123587Z (fresh, 30 min before trigger)
-- **significant_findings count:** 4
-  1. `posting_window=overnight_00_06` LOSER (delta=0.69, LARGE) → No overnight slots; earliest is 7:00 AM ✓
-  2. `content_type=game_final` WINNER (delta=0.629, LARGE) → Off day, no game — rival watch at lead slot; noted for future game days ✓
-  3. `posting_window=evening_18_24` WINNER (delta=0.38, MEDIUM) → Story 5 (PCA MVP bold take) at 6:30 PM CT ✓
-  4. `content_type=transaction` LOSER (delta=0.264, SMALL) → Stories 3 & 4 (Suzuki FA, Skubal) framed as analysis only ✓
+## Insights Summary (2026-10-10)
+- **Snapshot generated:** 2026-10-10T08:30:00.127114Z (fresh, 30 min before trigger)
+- **significant_findings count:** 3
+  1. `posting_window=overnight_00_06` LOSER (delta=0.675, LARGE) → No overnight slots; earliest is 7:00 AM ✓
+  2. `content_type=game_final` WINNER (delta=0.655, LARGE) → Off day, no Cubs game. White Sox G5 tonight but result unknown at pipeline time. Evening slot reserved for boldest content. ✓
+  3. `posting_window=evening_18_24` WINNER (delta=0.408, MEDIUM) → Story 6 (Cardinals rival jab) at 6:30 PM CT ✓
 
-## Series Context (2026-10-09)
+## Series Context (2026-10-10)
 - **`off_day`:** TRUE
 - **`is_series_start_today`:** FALSE
 - **`today_cubs_game`:** NULL
-- **Action:** Fourth straight off-day pipeline. NLCS starts Sunday Oct 11 (Brewers vs Dodgers). Content = NLCS preview + Gold Glove history + Suzuki FA report + Skubal target analysis + PCA MVP watch.
+- **Action:** Fifth straight off-day pipeline. NLCS starts tomorrow (Brewers vs Dodgers, Game 1 Oct 11, 7 PM CT). White Sox in ALDS G5 tonight vs Guardians at Progressive Field. Content = city-rival watch, Skubal/NLCS angle, Happ QO deadline, rotation zero-SP math, PCA MVP market closed, Cardinals contrast jab.
 
 ## Current Cubs Status
 - **2026 season:** OVER. Cubs eliminated by Padres in NL Wild Card Series (swept 2-0, Oct 1)
@@ -37,13 +36,16 @@
 - **Ian Happ FA:** No extension talks; return "unlikely"; 4-time Gold Glover
 - **Seiya Suzuki FA:** Blue Jays (The Athletic's Mitch Bannon) expected to pursue hard; Cubs "unlikely to match"
 - **Gold Glove sweep:** PCA/Happ/Suzuki could be first-ever outfield Gold Glove sweep (since 2011); finalists announced late October
-- **PCA MVP:** -1100 favorite; 45 HR, 40 SB, 10.4 fWAR; BBWAA vote in November
-- **Injured returnees:** Horton (TJ, July/Aug 2027); Steele (UCL, 2027 TBD)
+- **PCA MVP:** BetMGM market CLOSED (too one-sided); Polymarket 99%; Ohtani on IL; BBWAA vote November — covered Oct 10
+- **Injured returnees:** Horton (TJ, April 2026; ~mid-2027 return target); Steele (elbow surgery; 2027 status unclear)
+- **Happ QO:** $23.15M qualifying offer (Happ IS eligible); deadline 5 days after World Series; covered Oct 10
+- **Skubal:** Acquired by Dodgers (Aug 2 trade deadline); starting NLCS G1 Oct 11; NOT confirmed FA — avoid FA claims
 
 ## Pipeline Run Log (newest first)
 
 | Date | Type | Stories | Tweets | Status |
-|------|------|---------|--------|---------|
+|------|------|---------|--------|--------|
+| 2026-10-10 | OFF DAY (White Sox G5 tonight, Skubal NLCS G1, Happ QO, zero-SP math, PCA MVP closed, Cardinals contrast) | 6 | 6 | ✅ |
 | 2026-10-09 | OFF DAY (NLCS preview, Gold Glove, Suzuki/Skubal FA, PCA MVP) | 5 | 5 | ✅ |
 | 2026-10-08 | OFF DAY (early offseason, Padres eliminated/NLCS set) | 5 | 5 | ✅ |
 | 2026-10-07 | OFF DAY (early offseason, NLDS rival watch) | 7 | 7 | ✅ |
