@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-10-09
+## Current Run: 2026-10-10
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D11 $775M Bond Measure 4A Nov 3 ballot (krdo.com/kktv.com/gazette.com Oct 6 endorsement/d11.org); CPSC recalls: YCXXKJ bath seats (Amazon/BenTalk, drowning/entrapment, violates mandatory standard); ONTHEWEI bath seats Oct 8 2026 (>2,000 units Amazon, tips over, 0 injuries); D11 fall break Oct 19-23 return Oct 26 (d11.org calendar); AAP updated raw milk ban policy (H5N1 risk, listeriosis 12-14x higher in pregnancy, Nov 2026 Pediatrics; contemporarypediatrics.com/aap.org/eurekalert.org); BabyBond retractable gate recall #26-168 Jan 8 2026 (~280 units Target.com Nov 2024-Oct 2025 ~$50, child torso entrapment, return any Target full refund, cpsc.gov) |
+| Story History Check | COMPLETE | S1 D11 Bond FOLLOW-UP (Oct 5 S1 initial coverage, Oct 6 S5 Gazette endorsement — today: full Nov 3 ballot explainer with homeowner cost + oversight structure); S2 Bath Seat Recalls NEW (different products from prior CPSC recalls); S3 D11 Fall Break FOLLOW-UP (Oct 9 S2 had D49+D11 dates overview — today: D11-specific planning guide with COS activities); S4 AAP Raw Milk NEW (Oct 6 S4 was AAP AI/conference news — different topic); S5 BabyBond Gate Recall NEW (different product from all prior gate/safety recalls) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows (8am/9am/12pm/2pm/4pm) |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories (2 for S1, 1 each S2-S5 + S1 follow-up at 6pm); all ≤280 chars; 4 hashtags each; COS voice rules applied; 1 tweet trimmed (S5 283→266 chars) |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 D11 Bond 4A (Sarah Morales, T1, QR table); article-02 Bath Seat Recalls CPSC (Jamie Rivera, T1, QR table); article-03 D11 Fall Break planning guide (Sarah Morales, T2, QR table); article-04 AAP Raw Milk H5N1 (Jamie Rivera, T2, QR table); article-05 BabyBond Gate Recall (Sarah Morales, T2, QR table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 83 claims; HIGH 136, MEDIUM 50, LOW 74; verify-facts PASSED clean (1 char-limit issue fixed before final pass) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 0 FB (known parser), 5 articles; posting-window warnings cosmetic (known) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 21 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (7 posts) | cosp-postplanner-2026-10-10.xlsx + cosp-postplanner-tobi-2026-10-10.xlsx — 7 posts each; redistributed 13:06–20:42 MT |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | 5 entries prepended to Parenting/story-history.md (Oct 10 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts (+ 0 FB parsed — known issue)
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+- **PostPlanner exports:** 7 posts (standard + TOBI)
+- **Key stories:** D11 $775M Bond Measure 4A — Nov 3 ballot, ~$260/yr homeowner, safety/HVAC/CTE/libraries, independent oversight; CPSC bath seat recalls — YCXXKJ (drowning/entrapment, stop use) + ONTHEWEI Oct 8 (>2,000 units, tips over, stop use); D11 fall break Oct 19-23 COS planning guide (Boo at Zoo, YMCA, Garden of the Gods); AAP renews raw milk ban — H5N1 + listeriosis 12-14x pregnancy risk; BabyBond gate recall #26-168 (~280 units Target.com, torso entrapment, return Target full refund)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); FB posts 0 parsed (known)
+
+---
+
+## Previous Run: 2026-10-09
 
 | Step | Status | Notes |
 |------|--------|-------|

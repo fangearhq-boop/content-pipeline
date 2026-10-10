@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-10",
+  "compiled_at": "2026-10-10T12:36:32.940670+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "D11 Bond Measure 4A — $775M on the November Ballot",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "D11 families: there's a $775M bond on the November 3 ballot.\n\nThe funds cover safety upgrades, HVAC replacement, asbestos removal, CTE renovations, and more. Cost: ~$260/year for a typical homeowner.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "Local News",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 260
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The D11 bond measure also prepays lease-purchase obligations — freeing up mill levy funds for teacher pay.\n\nIndependent citizens' oversight committee required. Vote November 3. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "Local News",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-d11-bond-4a-november-ballot.html",
+        "headline": "D11's $775M Bond Measure Is on the November Ballot — What COS Families Need to Know",
+        "word_count": 430
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Bond Measure 4A\n\n#### Image 1 — Social (1200x675)\n\n**Prompt:** A bright, welcoming Colorado elementary school hallway interior. Morning light streams through large windows onto clean, modern lockers and freshly painted walls. A row of backpacks hangs neatly. Warm teal and soft gold color palette. Clean, inviting atmosphere. No text, no people, no logos. Photorealistic style. Leave the bottom third of the frame as a clean, softly lit open space for text overlay.\n\n**Use:** X post and Facebook image caption (8:00 AM MT)\n**Status:** not_started\n\n#### Image 2 — Article Hero (1200x630)\n\n**Prompt:** Exterior of a classic brick school building in Colorado on a sunny autumn morning. Blue sky, golden cottonwood trees visible in the background. Clean architectural lines. Warm, optimistic mood. No text, no people, no logos, no signage. Photorealistic style. Leave the bottom third of the frame as a clean area for text overlay.\n\n**Use:** Article 01 hero image\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Bond Measure 4A — $775M on the November Ballot\n**Sources:**\n- krdo.com (Oct 9, 2026) — news coverage of ballot measure details\n- kktv.com — D11 bond coverage\n- gazette.com (Oct 6, 2026) — editorial endorsement\n- d11.org — official district bond information\n**Verified Facts:**\n- Bond amount: $775 million\n- Ballot date: November 3, 2026\n- Board vote: 6-1 on August 5, 2026\n- Cost to homeowners: ~$260/year (~$6.50/month per $100,000 of assessed property value)\n- Uses: safety/security upgrades, HVAC and air filtration replacement, asbestos and lead pipe removal, CTE program renovations, classroom modernization, library renovations\n- Bond also prepays existing lease-purchase obligations (frees up MLO for teacher pay)\n- Independent citizens' oversight committee required by the measure",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "CPSC Recalls Two Baby Bath Seat Models — Drowning and Entrapment Risks",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "⚠️ Two baby bath seat models have been recalled.\n\nYCXXKJ seats: drowning/entrapment risk. ONTHEWEI seats (Oct 8): tips over, 2,000+ units on Amazon.\n\nIf you have either, stop use now and check cpsc.gov for the remedy. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "National Parenting / Safety",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-baby-bath-seat-recalls-cpsc.html",
+        "headline": "Two Baby Bath Seat Models Recalled for Drowning and Tip-Over Risks",
+        "word_count": 418
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Baby Bath Seat Recalls\n\n#### Image 3 — Social (1200x675)\n\n**Prompt:** A clean, well-lit bathroom sink with a small empty plastic baby bath seat beside it on a white countertop. Soft natural light from a frosted window. Neutral white and light gray tones. Simple, minimal, informational mood. No text, no watermarks, no logos, no brand markings. Photorealistic style. Clean bottom third for text overlay.\n\n**Use:** X post and Facebook image caption (9:00 AM MT)\n**Status:** not_started\n\n#### Image 4 — Article Hero (1200x630)\n\n**Prompt:** Top-down view of a white porcelain baby bathtub on a clean bathroom tile floor. Soft, even lighting. Pale blue and white color palette. Calm, informational mood. No text, no people, no logos, no product branding. Photorealistic style. Clean bottom third for text overlay.\n\n**Use:** Article 02 hero image\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CPSC Recalls Two Baby Bath Seat Models\n**Sources:**\n- cpsc.gov — official recall pages for both products\n- consumeraffairs.com (Oct 9, 2026 roundup) — compiled recall summary\n**Verified Facts:**\n- YCXXKJ Baby Bath Seats: sold on Amazon by BenTalk; recall reason: drowning and entrapment risk; violates mandatory federal safety standard\n- ONTHEWEI bath seats: recall date Oct 8, 2026; >2,000 units sold on Amazon; hazard: unstable, tips over, drowning risk; 0 reported injuries\n- Both: stop use immediately, follow CPSC remedy instructions",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "D11 Fall Break Starts October 19 — Nine Days to Plan",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "D11 fall break is October 19–23. That's nine days away.\n\nBoo at the Zoo, YMCA drop-in programs, Garden of the Gods hikes — Colorado Springs has plenty to keep kids busy all week.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "Local Events / Family Planning",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-d11-fall-break-october-19-guide.html",
+        "headline": "D11 Fall Break Starts October 19 — A Planning Guide for Colorado Springs Families",
+        "word_count": 522
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Fall Break\n\n#### Image 5 — Social (1200x675)\n\n**Prompt:** A family hiking trail through Garden of the Gods in Colorado Springs on a crisp autumn afternoon. Red sandstone formations in the background, golden and orange foliage in the foreground. Bright Colorado blue sky. Warm, adventurous mood. No people, no text, no logos. Photorealistic style. Clean bottom third for text overlay.\n\n**Use:** X post and Facebook image caption (12:00 PM MT)\n**Status:** not_started\n\n#### Image 6 — Article Hero (1200x630)\n\n**Prompt:** Cheyenne Mountain Zoo entrance path decorated with carved pumpkins and fall foliage in early morning light. Orange, yellow, and teal color palette. Festive, family-friendly autumn mood. No text, no people, no logos, no signage. Photorealistic style. Clean bottom third for text overlay.\n\n**Use:** Article 03 hero image\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Fall Break Starts October 19\n**Sources:**\n- d11.org calendar (official district calendar)\n**Verified Facts:**\n- D11 fall break: October 19–23, 2026\n- Return to school: October 26, 2026\n- Days until break from Oct 10: 9 days\n- D49 fall break: starts October 12 (already noted in Oct 9 story, different district)\n- COS activities during fall break: Boo at the Zoo (Cheyenne Mountain Zoo), YMCA drop-in programs, Boys and Girls Club, Garden of the Gods hiking",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "AAP Renews Call to Ban Raw Milk — New H5N1 and Listeria Data",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The AAP is renewing its call to ban raw milk — citing H5N1 risk and listeriosis rates 12-14x higher in pregnancy.\n\nIf you buy raw milk at COS farm markets, this new guidance is worth reading before your next trip. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "National Parenting / Health",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-aap-raw-milk-ban-h5n1.html",
+        "headline": "AAP Renews Call to Ban Raw Milk — What the New H5N1 and Listeria Data Mean for Families",
+        "word_count": 494
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AAP Raw Milk Warning\n\n#### Image 7 — Social (1200x675)\n\n**Prompt:** A glass bottle of white milk with a small farm market wooden stall in the soft-focus background. Natural morning light. Earthy, warm tones — cream, brown, green. Clean, informational mood. No text, no labels, no logos, no brand names. Photorealistic style. Clean bottom third for text overlay.\n\n**Use:** X post and Facebook image caption (2:00 PM MT)\n**Status:** not_started\n\n#### Image 8 — Article Hero (1200x630)\n\n**Prompt:** Close-up of a glass of fresh milk on a wooden farm table, with a blurred green pastoral background suggesting a farm setting. Warm afternoon light. Clean, honest, neutral mood. No text, no labels, no logos, no people. Photorealistic style. Clean bottom third for text overlay.\n\n**Use:** Article 04 hero image\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AAP Raw Milk Policy Update\n**Sources:**\n- contemporarypediatrics.com (week review Oct 5-9, 2026) — AAP conference coverage\n- aap.org — policy statement details\n- eurekalert.org — press release on updated policy\n**Verified Facts:**\n- AAP updated policy statement renews call to ban raw milk and raw dairy products\n- H5N1 risk cited — raw milk can contain H5N1 avian influenza virus\n- Listeriosis risk: 12-14 times higher during pregnancy from raw dairy\n- Publication scheduled: November 2026 issue of Pediatrics journal\n- AAP Annual Conference: October 2-6, 2026, San Diego (AI guidance also released at same conference)\n- COS relevance: raw milk sold at some local farm markets",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "BabyBond Retractable Safety Gate Recalled — Entrapment Hazard",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "BabyBond retractable safety gates are recalled (#26-168).\n\nA child's torso can pass through the floor gap — entrapment risk. Sold on Target.com 2024–2025.\n\nStop use. Return to any Target for a full refund. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "National Parenting / Safety",
+          "hashtags": [
+            "#26",
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-babybond-gate-recall.html",
+        "headline": "BabyBond Retractable Safety Gates Recalled — Entrapment Hazard, Return to Target for Refund",
+        "word_count": 486
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "BabyBond Gate Recall\n\n#### Image 9 — Social (1200x675)\n\n**Prompt:** A retractable mesh baby safety gate installed in a doorway of a bright, modern home interior. White walls, light hardwood floors, soft natural window light. Clean, minimal home safety aesthetic. Teal and light gray color palette. No text, no logos, no product branding, no people. Photorealistic style. Clean bottom third for text overlay.\n\n**Use:** X post and Facebook image caption (4:00 PM MT)\n**Status:** not_started\n\n#### Image 10 — Article Hero (1200x630)\n\n**Prompt:** A doorway in a clean, minimal home with a retractable mesh safety gate in the frame. Bright, airy interior, white walls, natural light. Safety and home protection mood. No text, no logos, no product branding, no people. Photorealistic style. Clean bottom third for text overlay.\n\n**Use:** Article 05 hero image\n**Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "BabyBond Retractable Safety Gate Recall\n**Sources:**\n- cpsc.gov/Recalls/2026/Infant-Innovations-dba-BabyBond (official CPSC recall page)\n**Verified Facts:**\n- Official recall number: #26-168\n- Recall issued: January 8, 2026\n- Company: Infant Innovations LLC dba BabyBond, Sheridan, WY\n- Units recalled: approximately 280\n- Product: retractable mesh safety gate, model SH20.006DB\n- Colors: black, gray, white mesh\n- Dimensions: 33 inches high, adjustable width up to 55 inches\n- Hazard: gap between gate bottom and floor large enough for child's torso — entrapment risk\n- Sale location: Target.com\n- Sale period: November 2024 through October 2025\n- Price: approximately $50\n- Reported incidents: none\n- Remedy: stop use; return to any Target store for full refund (no receipt needed)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

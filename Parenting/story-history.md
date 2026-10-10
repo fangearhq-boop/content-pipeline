@@ -2,6 +2,50 @@
 
 ---
 
+## October 10, 2026
+
+### Story 1: D11 Bond Measure 4A — $775M on the November Ballot
+- **Date:** 2026-10-10
+- **Tier:** T1
+- **Pillar:** Local News
+- **Key Facts:** $775M bond; Nov 3 ballot; board voted 6-1 Aug 5; ~$260/year typical homeowner; uses: safety/security, HVAC, asbestos/lead, CTE, classrooms, libraries; prepays lease-purchase obligations; independent oversight committee required
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 2: CPSC Recalls Two Baby Bath Seat Models — Drowning and Entrapment Risks
+- **Date:** 2026-10-10
+- **Tier:** T1
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** YCXXKJ bath seats (Amazon/BenTalk) — drowning/entrapment, violates mandatory standard; ONTHEWEI bath seats Oct 8 2026 — >2,000 units Amazon, tips over, 0 injuries; both: stop use, cpsc.gov for remedy
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 3: D11 Fall Break Starts October 19 — Nine Days to Plan
+- **Date:** 2026-10-10
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** D11 fall break Oct 19-23, return Oct 26; D49 already out from Oct 12; COS activities: Boo at the Zoo, YMCA drop-in, Boys and Girls Club, Garden of the Gods; Halloween season overlap
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (from Oct 9 S2 — D11 fall break first noted; today full planning guide)
+
+### Story 4: AAP Renews Call to Ban Raw Milk — New H5N1 and Listeria Data
+- **Date:** 2026-10-10
+- **Tier:** T2
+- **Pillar:** National Parenting (Health)
+- **Key Facts:** AAP updated policy Nov 2026 Pediatrics; H5N1 detected in raw milk; listeriosis 12-14x higher risk in pregnancy; relevant to COS farm market shoppers; recommendation: no raw milk for children or pregnant people
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 5: BabyBond Retractable Safety Gate Recalled — Entrapment Hazard
+- **Date:** 2026-10-10
+- **Tier:** T2
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** Recall #26-168; Jan 8 2026; Infant Innovations dba BabyBond; ~280 units; model SH20.006DB; 33" high up to 55" wide; black/gray/white mesh; sold Target.com Nov 2024-Oct 2025 ~$50; child torso entrapment risk; 0 incidents; return any Target for full refund
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+---
+
 ## October 9, 2026
 
 ### Story 1: Parent-Teacher Conference Day — D11 and D49
