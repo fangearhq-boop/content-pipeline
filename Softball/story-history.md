@@ -3091,3 +3091,57 @@ _This file tracks every story covered, the angle used, content produced, and fol
 - **Follow-Up Opportunities:**
   - TTU fall opener result Oct. 3
   - 2028 recruiting class updates
+
+---
+
+## Pipeline Run: 2026-10-10
+
+### Story 1: Tennessee's Emma Clarke Hits for the Cycle in Fall Ball
+- **Date:** 2026-10-10
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Tennessee fall ball tracked; Clarke cycle is new achievement)
+- **Angle:** Sophomore Emma Clarke hit for the cycle (S/2B/3B/HR) + 6 RBI in a 32-0 win over Tusculum during fall ball. Clarke hit 14 HR as a freshman in 2026. Tennessee returns Mardjetko (16-3), Nuwer (15-1), A.Leach (13 HR), G.Leach (10 HR).
+- **Content Produced:** Article (article-01, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Tennessee 2027 preseason ranking
+  - Clarke sophomore season development
+
+### Story 2: Kylie Holden (No. 2 Prospect, Class of 2028) Commits to Florida
+- **Date:** 2026-10-10
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Five-star MI Kylie Holden, No. 2 overall in 2028 class, commits to Florida softball (~Oct. 2). Source: Yahoo Sports. Contact period opened Sept. 1.
+- **Content Produced:** Article (article-02, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Other top 2028 commits
+  - Florida's full 2028 class development
+
+### Story 3: OU Battle Series — Game 3 Preview (October 14)
+- **Date:** 2026-10-10
+- **Tier:** 2
+- **Classification:** FOLLOW UP (OU fall ball ongoing; Game 3 in 4 days)
+- **Angle:** Game 3 of Battle Series Oct. 14, 6:30 PM CT, Love's Field, free admission. Game 4 Oct. 21. Wells + Berzon continuing to develop chemistry. OU missed WCWS in 2026; roster built to return.
+- **Content Produced:** Article (article-03, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Game 3 result Oct. 14
+  - Game 4 (Oct. 21) preview
+
+### Story 4: Tennessee Assistants Craig Snider and Stephanie Sanders Departing
+- **Date:** 2026-10-10
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Per D1Softball carousel, Snider and Sanders not returning to Tennessee for 2027. Snider was TTU head coach before joining UT June 2024. Tennessee reached WCWS in 2025 and 2026. No replacement hires announced.
+- **Content Produced:** Article (article-04, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Tennessee replacement hires
+  - 2027 staff composition
+
+### Story 5: Arizona Fall Ball — Newcomers Harrison and Moffitt Impress
+- **Date:** 2026-10-10
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Arizona held Red-Blue intrasquad ~Oct. 9. Ryley Harrison (pitcher, 4H/2BB/5IP) and Elizabeth Moffitt impressed. Blue team comeback win in top of 7th. Head coach Panita Thanatharn.
+- **Content Produced:** Article (article-05, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Arizona fall schedule results
+  - 2027 roster development
