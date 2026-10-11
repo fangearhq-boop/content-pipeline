@@ -2,6 +2,50 @@
 
 ---
 
+## October 11, 2026
+
+### Story 1: Avengers Infinity Gauntlet Medal Recall — Dangerous Magnets
+- **Date:** 2026-10-11
+- **Key Facts:** CPSC recall Oct 8, 2026; ~476 units; The Conqueror's virtual race medal; high-powered magnets can detach; child ingestion risk (internal injury/death); sold ~$50 via their app/website Mar–May 2026; 3 reports of detachment, 0 injuries; remedy: full refund or replacement; contact 833-799-0368 or theconqueror.events/recall-inf; disposal: cut ribbon, write RECALLED, email photo
+- **Content Produced:** Article, 2 X posts, FB Long-Form, FB Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 2: D49 Fall Break Starts Monday — Week Guide for COS Families
+- **Date:** 2026-10-11
+- **Key Facts:** D49 fall break Oct 12–19 (8 school days, returns Oct 20); D11 break Oct 19–23 (returns Oct 26); Cool Science Festival through Oct 18 free multiple COS venues; Boo at the Zoo all October weekends tickets required; KOA Halloween weekends Oct 16–18 "Boo-tastic Science Spree"; Garden of the Gods free fall foliage peak mid-Oct; YMCA drop-in (check branch); Boys and Girls Club for members
+- **Content Produced:** Article, 2 X posts, FB Long-Form, FB Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (Oct 9 S2 covered break dates overview; today: starts-tomorrow angle with this week's events)
+
+### Story 3: Sweet Cubby Loungewear Recall — Burn Risk
+- **Date:** 2026-10-11
+- **Key Facts:** CPSC recall Sep 11, 2026; ~12,461 units; two-piece sets (short-sleeved shirt + matching shorts); sizes 5-6Y through 13-14Y; batch number 272779 on neck/seam labels; sold Shein.com June 2025–May 2026 $8–12; fails federal flammability standard for children's sleepwear; 0 injuries; remedy: full refund — cut in half, email photo to SweetCubby@163.com
+- **Content Produced:** Article, 1 X post, FB Long-Form, FB Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 4: COS Halloween Week Events — Oct 12–18
+- **Date:** 2026-10-11
+- **Key Facts:** Cool Science Festival through Oct 18 free; Boo at the Zoo all October weekends tickets; KOA Oct 16–18 "Boo-tastic Science Spree" (trick-or-treating, campsite decorating); Garden of the Gods free fall foliage; Pumpkins in the Park Oct 24 Bancroft Park free noon–6PM; GoG Trunk-or-Treat Oct 25 free
+- **Content Produced:** Article, 1 X post, FB Long-Form, FB Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (prior coverage had dates; today specific Oct 12–18 week guide for D49 break)
+
+### Story 5: Halloween Safety Checklist for COS Families
+- **Date:** 2026-10-11
+- **Key Facts:** CSPD safety checklist pre-Halloween; children 2x more likely to be hit by car on Halloween (Red Cross/widely sourced); plan route, stick to familiar neighborhoods, never enter homes, glow sticks for dark costumes, reflective tape, face paint not masks, check candy before eating; CSPD guidance 2025
+- **Content Produced:** Article, 1 X post, FB Long-Form, FB Image Caption, 2 Image Concepts
+- **Tier:** 3
+- **Byline:** Jamie Rivera
+- **Status:** EVERGREEN (new piece; prior Halloween coverage was events guides, not safety checklist)
+
+---
+
 ## October 10, 2026
 
 ### Story 1: D11 Bond Measure 4A — $775M on the November Ballot

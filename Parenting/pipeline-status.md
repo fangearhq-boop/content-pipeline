@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-10-10
+## Current Run: 2026-10-11
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Avengers Infinity Gauntlet medal recall (CPSC Oct 8 2026; ~476 units; The Conqueror virtual race app; high-powered magnets can detach; ingestion risk; theconqueror.events/recall-inf; 833-799-0368); D49 fall break Oct 12–19 (return Oct 20), D11 fall break Oct 19–23; Sweet Cubby 2-piece loungewear recall (CPSC; sizes 5-6Y to 13-14Y; batch 272779; Shein; fails flammability standard; SweetCubby@163.com); COS Halloween events week Oct 12–18 (Cool Science Festival through Oct 18 free; Garden of the Gods trails; Boo at the Zoo tickets required; KOA Holiday Fountain Oct 16–18 "Boo-tastic Science Spree"); Halloween safety checklist (CSPD/Red Cross; children 2x more likely hit by car on Halloween; costume visibility, candy check, route planning) |
+| Story History Check | COMPLETE | S1 Avengers Recall NEW (different product from all prior recalls; virtual race medal niche); S2 D49 Fall Break FOLLOW-UP (Oct 9 S2 had D49+D11 dates comparison — today: D49 starts tomorrow, full week guide angle); S3 Sweet Cubby Recall NEW (different product from Oct 10 CPSC bath seat recalls and prior loungewear recall); S4 COS Halloween Events FOLLOW-UP (Oct 9 S4 had upcoming events guide — today: Oct 12–18 specific week with D49 break tie-in); S5 Halloween Safety EVERGREEN (Oct 5 S4 was Halloween guide with events — today: safety checklist angle, two weeks out) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 2 Tier 2, 1 Tier 3); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — sources: cpsc.gov, theconqueror.events, kktv.com, gazette.com, krdo.com, d49.org, d11.org, cheyennemountainzoo.org, koacampgrounds.com, coolscience.org, gardenofgods.com, cspd.coloradosprings.gov, redcross.org |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows (8am/9am/10am/12pm/3pm/5pm/8pm), voice check |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories (2 for T1 S1, 2 for T1 S2, 1 each for S3-S5); all ≤280 chars; 4 hashtags each; COS voice rules applied; 1 tweet trimmed (S1 Post 1 from 320→264 chars); ### STORY N: / #### Text Post -- format (dual-parser compatible) |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Avengers medal recall (Jamie Rivera, T1, QR table); article-02 D49 fall break week guide (Sarah Morales, T1, QR table); article-03 Sweet Cubby loungewear recall (Jamie Rivera, T2, QR table); article-04 COS Halloween events Oct 12–18 (Sarah Morales, T2, events list); article-05 Halloween safety checklist (Jamie Rivera, T3, QR checklist table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 101 claims; HIGH 171, MEDIUM 39, LOW 73; verify-facts PASSED clean (IMAGE MISSING warnings cosmetic — known for table-format manifest) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles; validation clear |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, table format, all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (7 posts) | cosp-postplanner-2026-10-11.xlsx + cosp-postplanner-tobi-2026-10-11.xlsx — 7 posts each; redistributed 13:13–20:43 MT |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 + auto-mode credential leakage classifier (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | 5 entries prepended to Parenting/story-history.md (Oct 11 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 2 Tier 2, 1 Tier 3)
+- **Posts:** 7 X posts (+ 5 FB parsed)
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 7 posts (standard + TOBI)
+- **Key stories:** Avengers Infinity Gauntlet medal recalled (CPSC Oct 8, ~476 units, The Conqueror virtual race, magnets detach ingestion risk, theconqueror.events/recall-inf, 833-799-0368); D49 fall break starts Monday Oct 12 — full week guide (Cool Science Festival free, Boo at the Zoo, KOA Oct 16–18); Sweet Cubby loungewear recall (Shein, sizes 5-6Y to 13-14Y, batch 272779, fails flammability standard, SweetCubby@163.com); COS Halloween events Oct 12–18 (Cool Science Festival free through Oct 18, Boo at the Zoo tickets, KOA "Boo-tastic Science Spree" Oct 16–18); Halloween safety checklist (CSPD/Red Cross — visibility, route, candy check, 2x car strike risk on Halloween)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); S1 Post 1 tweet trimmed 320→264 chars; IMAGE MISSING warnings cosmetic (known)
+
+---
+
+## Previous Run: 2026-10-10
 
 | Step | Status | Notes |
 |------|--------|-------|
