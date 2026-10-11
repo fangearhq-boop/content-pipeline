@@ -2,6 +2,50 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-11
+
+### STORY 1: 2026 Singapore Grand Prix — Race Day Preview
+- **Tier:** 1
+- **Category:** Singapore GP / Race Day / Max Verstappen / George Russell / Weather
+- **Key facts:** Verstappen on pole for GP; Russell starts 20th (engine component penalty); thunderstorms forecast; Antonelli 89 points ahead of Russell; 6 races remaining; race starts 1pm BST / 8am ET; 62-lap GP
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Race result, championship standings update post-Singapore GP
+
+### STORY 2: Antonelli Championship Clinch Math — Austin Could Be the Venue
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / Drivers' Championship / Clinch Scenarios
+- **Key facts:** Antonelli 325 pts, Russell 236 pts, gap 89 points; 6 races remaining; if gap extends to 100+ after Singapore, Austin clinch becomes possible; Antonelli 8 wins, 6 poles, 13 podiums in 2026; would be youngest F1 champion in history
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Post-Singapore standings, Austin clinch watch confirmation
+
+### STORY 3: Russell's Miracle Mission — Starting 20th at Marina Bay
+- **Tier:** 1
+- **Category:** George Russell / Mercedes / Singapore GP / Championship
+- **Key facts:** Russell 20th on grid; engine component penalties; sprint DNF on lap 1; Marina Bay 61 corners; one of hardest circuits to overtake; rain forecast could help via safety cars; 89 points down with 6 races left
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Race result, points scored, championship implications
+
+### STORY 4: McLaren's Sprint Disaster — Can Norris and Piastri Respond Sunday?
+- **Tier:** 2
+- **Category:** McLaren / Lando Norris / Oscar Piastri / Constructors' Championship
+- **Key facts:** Norris-Piastri collision in Sprint; no penalty (racing incident); Norris P8, Piastri P14; Constructors: Mercedes 561, Ferrari 418, McLaren 317; McLaren 101 pts behind Ferrari; Sunday reset required
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** GP race result, constructors' standings update
+
+### STORY 5: Marina Bay Circuit Feature — Why Singapore is F1's Ultimate Challenge
+- **Tier:** 2
+- **Category:** Marina Bay Street Circuit / Singapore GP / Circuit Feature / History
+- **Key facts:** 61 corners (most in F1); 5.063km lap; 1,500+ floodlights; night race; tropical heat 30°C+; first sprint weekend in 2026; highest safety car deployment rate on calendar; one of two full hours of racing
+- **Byline:** Elena Voss
+- **Status:** NEW
+- **Follow-up ideas:** Race result, safety car appearances count
+
+---
+
 ## 2026-10-10
 
 ### STORY 1: Verstappen Wins Rain-Hit Singapore Sprint — Russell DNF as Hamilton Surges to P2
@@ -67,23 +111,25 @@
 ### STORY 3: First-Ever Sprint at Marina Bay — Complete Guide
 - **Tier:** 2
 - **Category:** Singapore GP / Sprint Weekend / Format Guide
-- **Key facts:** First sprint at Marina Bay; 1 practice session (FP1 4:30 PM SGT) → SQ 8:30 PM → Sprint Sat 5 PM (21 laps) → GQ Sat 9 PM → Race Sun 8 PM; 6th and final sprint of 2026; circuit: 4.927km, 19 corners, night race; only 6 tyre sets for sprint weekend
+- **Key facts:** 2026 = first sprint weekend at Marina Bay; Sprint Qualifying Saturday morning; Sprint Race Saturday afternoon (8 laps); no full qualifying in sprint format; FP1 only on Friday; F1 sprint format explanation; Russell penalty applies to GP only (back of grid Sunday)
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+- **Follow-up ideas:** Sprint result, GP preview
+
+### STORY 4: Norris vs Leclerc P3 Battle — Marina Bay Preview
+- **Tier:** 2
+- **Category:** Lando Norris / Charles Leclerc / F1 Championship / Singapore GP
+- **Key facts:** Norris 189 pts (P6), Leclerc 197 pts (P4); gap = 8 pts; both in top-6 championship fight; McLaren P3 constructors (317 pts); Ferrari P2 constructors (418 pts); P3 driver fight relevant for team bonus
 - **Byline:** Marcus Cole
 - **Status:** NEW
-- **Follow-up ideas:** Sprint race result, GQ result
+- **Follow-up ideas:** Singapore GP result, championship gap movement
 
-### STORY 4: Russell's Singapore Dilemma — Sprint Full Attack, GP Back of Grid
+### STORY 5: Singapore GP History — Most Dramatic Moments at Marina Bay
 - **Tier:** 2
-- **Category:** George Russell / Mercedes / Singapore GP / Strategy
-- **Key facts:** Russell GP grid penalty confirmed; Sprint strategy: go full attack (penalty already applied to GP, not Sprint); championship lead 84 pts; 6 races left post-Singapore; aggressive Sprint = maximize points before Sunday damage limitation begins
-- **Byline:** Ryan Calloway
-- **Status:** FOLLOW UP
-- **Follow-up ideas:** Sprint result, how strategy played out
-
-### STORY 5: Verstappen & Norris Tied at 188 — Singapore Could Decide P3/P4
-- **Tier:** 2
-- **Category:** Max Verstappen / Lando Norris / Red Bull / McLaren / Standings
-- **Key facts:** Verstappen 188 pts = Norris 188 pts (tied P5 pre-Sprint); Singapore Sprint could break the tie; Leclerc 194 in P4; mid-field standings battle tighter than top
+- **Category:** Singapore GP / History / Marina Bay / F1 Classic Moments
+- **Key facts:** First race 2008; famous for Crashgate 2008 (Piquet-Alonso); 2017 first-lap chaos (Vettel, Hamilton, Raikkonen); 2021 Ricciardo wins; 2023 Carlos Sainz wins from pole; high safety car rate historically; night race since inception
 - **Byline:** Elena Voss
-- **Status:** FOLLOW UP
-- **Follow-up ideas:** Sprint result, standings after Singapore GP
+- **Status:** NEW
+- **Follow-up ideas:** 2026 race result adds to history list
+
+---
