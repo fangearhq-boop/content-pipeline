@@ -1,0 +1,326 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-11",
+  "compiled_at": "2026-10-11T12:27:47.053469+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "WTA Beijing Final — Andreeva vs. Zheng, Home Crowd Dreams vs. No. 3 Destiny",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "History is on the line in Beijing 🎾 Qinwen Zheng is the first Chinese player EVER to reach the China Open women's final. She faces Mirra Andreeva, who rises to World No. 3 win or lose. Who wins the title? #WTATennis #ChinaOpen #WTA #TennisUpdate",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 10 S1: Andreeva into final; Oct 10 S2: Zheng def. Mertens SF)",
+          "hashtags": [
+            "#WTATennis",
+            "#ChinaOpen",
+            "#WTA",
+            "#TennisUpdate"
+          ],
+          "char_count": 245
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Andreeva enters the Beijing final having won her SF 6-2, 6-2. Zheng stunned Mertens 7-5, 6-2. The only time they've met before? Zheng won in the 2024 China Open QF — right here in Beijing. Full circle Sunday. #WTATennis #ChinaOpen #Andreeva #ZhengQinwen",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 10 S1: Andreeva into final; Oct 10 S2: Zheng def. Mertens SF)",
+          "hashtags": [
+            "#WTATennis",
+            "#ChinaOpen",
+            "#Andreeva",
+            "#ZhengQinwen"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-andreeva-zheng-beijing-final.html",
+        "headline": "Andreeva vs. Zheng: History Meets Destiny in the WTA Beijing Final",
+        "word_count": 640
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (X/Facebook)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Shanghai Day 5 — Zverev, Alcaraz, Shelton Face R3 Tests on Sunday",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Big Sunday in Shanghai 🎾 Zverev vs. Halys • Alcaraz vs. his R3 opponent • Shelton (day after his 24th birthday) vs. Gea Three of the draw's biggest names all in action today. #RolexShanghaiMasters #ATPTennis #Alcaraz #Zverev",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 10 S3: Shanghai Day 4 Alcaraz/Medvedev/Zhou Yi)",
+          "hashtags": [
+            "#RolexShanghaiMasters",
+            "#ATPTennis",
+            "#Alcaraz",
+            "#Zverev"
+          ],
+          "char_count": 224
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Shanghai Masters R3 wrap: Zverev, Alcaraz, and Shelton all move through to the last 16. The top of the draw is holding its shape heading into Monday. #RolexShanghaiMasters #ATPTennis #Shanghai2026",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 10 S3: Shanghai Day 4 Alcaraz/Medvedev/Zhou Yi)",
+          "hashtags": [
+            "#RolexShanghaiMasters",
+            "#ATPTennis",
+            "#Shanghai2026"
+          ],
+          "char_count": 196
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-shanghai-day5-r3-action.html",
+        "headline": "Shanghai Day 5: Zverev, Alcaraz, and Shelton All in Third-Round Action",
+        "word_count": 622
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3",
+          "size_desc": "Social (X/Facebook)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4",
+          "size_desc": "Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Zverev Practice Court Drama — New Off-Court Controversy at Shanghai",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Reports on Rednote claim No. 1 seed Zverev held a Shanghai practice court well past his slot — forcing Shelton and Cruz Hewitt (son of Lleyton) to switch courts. Zverev, Shelton, and organizers have not confirmed or denied the story. #ATPTennis #Zverev #Shanghai2026 #Tennis",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#ATPTennis",
+            "#Zverev",
+            "#Shanghai2026",
+            "#Tennis"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-zverev-practice-court-controversy.html",
+        "headline": "Zverev's Shanghai Masters Stays On-Court — and Off — After Practice Court Controversy",
+        "word_count": 549
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5",
+          "size_desc": "Social (X/Facebook)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 6",
+          "size_desc": "Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Alcaraz Returns to Shanghai After Two-Year Absence — Message to Chinese Fans",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Carlos Alcaraz hadn't played in Shanghai in 730 days. He walked back on court Saturday and beat Cerundolo 6-3, 6-3 in 66 minutes. 24 winners. 78% first-serve percentage. And a new mustache. He said he missed this place. #Alcaraz #RolexShanghaiMasters #ATPTennis",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 10 S3 — new human-interest angle: emotional return)",
+          "hashtags": [
+            "#Alcaraz",
+            "#RolexShanghaiMasters",
+            "#ATPTennis"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-alcaraz-returns-shanghai-730-days.html",
+        "headline": "Alcaraz Returns to Shanghai After 730 Days: 'I Missed This Place'",
+        "word_count": 469
+      },
+      "image_concepts": [
+        {
+          "label": "Image 7",
+          "size_desc": "Social (X/Facebook)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 8",
+          "size_desc": "Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Race to Turin — Sunday's R3 Results Shift the Bubble Math",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Race to Turin update after Shanghai R3: Shelton 4th, Cobolli 5th, Tiafoe 6th — four spots still open and two events left after Shanghai (Vienna + Paris Bercy). Every win from here shifts the standings. #RaceToTurin #ATPFinals #ATPTennis #TennisNews",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (Oct 10 S5: Race bubble)",
+          "hashtags": [
+            "#RaceToTurin",
+            "#ATPFinals",
+            "#ATPTennis",
+            "#TennisNews"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-race-to-turin-bubble-math.html",
+        "headline": "Race to Turin: How Shanghai's Third-Round Results Shift the Bubble Math",
+        "word_count": 581
+      },
+      "image_concepts": [
+        {
+          "label": "Image 9",
+          "size_desc": "Social (X/Facebook)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 10",
+          "size_desc": "Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
