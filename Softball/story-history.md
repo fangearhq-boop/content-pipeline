@@ -3145,3 +3145,57 @@ _This file tracks every story covered, the angle used, content produced, and fol
 - **Follow-Up Opportunities:**
   - Arizona fall schedule results
   - 2027 roster development
+
+## Pipeline Run: 2026-10-11
+
+### Story 1: Texas Longhorns Fall Ball — Torres and Kavan's Championship Defense Begins
+- **Date:** 2026-10-11
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Torres transfer covered Sept. 25; first joint fall action)
+- **Angle:** Torres (FSU POTY, .530 BA, 16 HR, 56 RBI) and Kavan (2x WCWS MOP) together for the first time in fall ball. Texas hosting Texas State Oct. 13, Texas A&M showdown Nov. 6. Three-peat bid context (UCLA 1988-90/OU 2021-23 only).
+- **Content Produced:** Article (article-01, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Texas State game result (Oct. 13)
+  - Texas A&M fall result (Nov. 6)
+  - 2027 three-peat chances feature
+
+### Story 2: Class of 2027 Recruiting Roundup — Tennessee, OU, Arizona, UCLA All Make Moves
+- **Date:** 2026-10-11
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** October recruiting surge. Tennessee (Emma Pynes 4-star OF), OU (Finlee Williams No.3 overall/4th commit), Arizona (3 top commits under Lowe), UCLA top-ranked standouts, Florida trio of sluggers. No. 1 overall: Aspen Boulware to South Carolina.
+- **Content Produced:** Article (article-02, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Class of 2027 final rankings (spring 2027)
+  - More October/November commits across top programs
+
+### Story 3: Tennessee Coaching Search — Lady Vols Seek Replacements for Snider and Sanders
+- **Date:** 2026-10-11
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Snider/Sanders departures reported Oct. 10; no hires yet)
+- **Angle:** No replacements named 24 hours after departure news. Snider was former TTU HC/hitting coach. Tennessee needs staff in place before signing day opens. Karen Weekly's search underway.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Tennessee coaching hires (expected within 2-3 weeks)
+  - Impact on 2027 recruiting
+
+### Story 4: Texas Tech Fall Ball — Red Raiders at West Texas A&M
+- **Date:** 2026-10-11
+- **Tier:** 3
+- **Classification:** FOLLOW UP (TTU fall schedule; Oct. 11 at WTA&M confirmed)
+- **Angle:** TTU national runner-up (54-14), 7 All-Americans, new additions Beachum/Pickering/Heavener. Fall game at West Texas A&M gives Glasco first extended look at newcomers.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Oct. 18 New Mexico DH
+  - Oct. 24 Odessa College
+  - 2027 title contender piece
+
+### Story 5: OU's Sold-Out Love's Field — Gasso Emotional Over Fan Support
+- **Date:** 2026-10-11
+- **Tier:** 3
+- **Classification:** FOLLOW UP (OU fall ball ongoing; sold-out crowd at Battle Series opener)
+- **Angle:** Patty Gasso emotional about sold-out Love's Field in October. Wells (39 HR record) + Berzon (2.02 ERA, 52W, 416K) driving fan expectations. Battle Series Game 3 Oct. 14, 6:30 PM CT, free.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Game 3 recap (Oct. 14)
+  - Season preview feature around Wells/Berzon
