@@ -1,0 +1,240 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-11",
+  "compiled_at": "2026-10-11T09:18:25.921256+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "NLCS Game 1 Tonight — Rival Watch: Brewers vs. Dodgers",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "NLCS Game 1 is tonight in Milwaukee. Brewers (4 straight NL Central titles) vs. Dodgers (100-62, added Skubal at deadline). Cubs watching from home. Rival watch framing — fans can root against both.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "The team that stole 4 straight NL Central titles from us opens the NLCS tonight in Milwaukee.\n\nBrewers vs. Dodgers. Game 1. 7 PM CT. Fox.\n\nFeel free to root against both. 😤\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "brief (informative/rival watch)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 192
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "NLCS Game 1 Tonight — Brewers vs. Dodgers\n**Decision:** NEW STORY (previous coverage on 10/08 was \"NLCS set\" preview; today is Game 1 itself — a fresh event)\n**Sources:**\n- Fox Sports NLCS preview/odds (Oct 8, 2026): Dodgers -160 series favorites; Brewers went 5-3 vs. LAD in 2026 regular season\n- Fox6Now NLCS schedule (Oct 8, 2026): Game 1 at American Family Field, Oct. 11, ~7 PM, Fox/FS1\n- DodgerBlue.com NLCS schedule (Oct 7-8, 2026): Full schedule confirmed; Brewers have home-field advantage\n- Roundtable.io: Brewers won NLDS 3-1 vs. Padres (confirmed)\n**Key Facts:**\n- NLCS Game 1: Brewers vs. Dodgers, American Family Field, Milwaukee, tonight ~7 PM CT\n- Brewers: 103-59 regular season record, 4th straight NL Central title\n- Dodgers: 100-62; added Tarik Skubal at the trade deadline (stole him from Cubs' pursuit)\n- Dodgers swept Brewers in 2025 NLCS; revenge series angle for Milwaukee\n- Cubs fan angle: watching the division rival who denied them 4 straight NL Central titles; Dodgers who stole their rotation ace\n- Brewers 5-3 vs. Dodgers in regular season\n**Confidence:** HIGH (multiple sources, all within 72 hours)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "PCA NL MVP — Ohtani Missed 3 Months, Race Is Over",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Ohtani missed the final ~3 months of the 2026 season with a knee and biceps injury. PCA played all 162 games. 45 HR, 40 SB, 10.4 fWAR. The MVP race isn't a race anymore. BBWAA announces in November.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Shohei Ohtani missed the final THREE MONTHS of 2026 with a knee and biceps injury.\n\nPete Crow-Armstrong played all 162. 45 HR. 40 SB. 10.4 fWAR.\n\nThis NL MVP race is over. PCA finishes what he started. 🏆\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "brief (bold/passionate)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "PCA NL MVP Case Gets Stronger — Ohtani Missed 3 Months\n**Decision:** FOLLOW UP (first covered 10/06/2026 \"PCA NL MVP — Historic Season Survives the WCS\")\n**Sources:**\n- Story history (10/06/2026): 45 HR, 40 SB, 10.4 fWAR, 7th 40-40 in MLB history, first Cub ever\n- Las Vegas Sun (Aug 5, 2026): Ohtani missed ~July 3 through season end with left knee soreness + right biceps injury. \"hasn't been able to pitch since July 3\"\n- Fantasy Nerds (Aug 13, 2026): PCA challenging Ohtani for 2026 NL MVP\n- Just Baseball: \"Pete Crow-Armstrong Has a Real Shot to Win NL MVP\"\n- Baseball Reference (reference): BBWAA announces MVP in early November\n- Story history context: PCA went 0-for-8 in the WCS (2 quiet games); BBWAA ballot is regular-season-only\n**Key Facts:**\n- PCA: 45 HR, 40 SB, 10.4 fWAR (7th 40-40 in MLB history, 1st Cub ever)\n- Ohtani: missed roughly the last 3 months of 2026 season with left knee soreness + right biceps injury\n- BBWAA MVP votes are cast on regular season performance only (not playoffs)\n- PCA played virtually all of the 162-game schedule; Ohtani's injury absences will hurt his WAR total\n- Award announced in November — not decided yet\n- **NEW angle today**: Ohtani's injury timeline being confirmed by post-season reporting strengthens PCA's candidacy significantly. The MVP race is PCA's to lose.\n**Confidence:** MEDIUM (Ohtani injury timeline from a single Aug 2026 source; 45 HR/40 SB from story history which has been tracking; fWAR from story history). Cross-reference note: need second source on Ohtani injury duration for 2026 — flagged in fact-check.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Imanaga Is Likely Gone — Rotation Hole Bigger Than You Think",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Cubs insider says Imanaga won't be back. Add him to: Gausman (FA), Boyd (FA), Horton (out until mid-2027), Steele (TBD). What remains: Cabrera, Ben Brown, Assad, Rea. Hoyer's biggest winter ever.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Not sugarcoating it — the Cubs' 2027 rotation is in rough shape.\n\nImanaga is likely leaving. Add him to: Gausman (FA), Boyd (FA), Horton (out until mid-2027), Steele (TBD).\n\nWhat's left? Cabrera, Ben Brown, Assad, Rea. And questions.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "brief (informative/analysis)",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Imanaga Is Likely Gone — Cubs Face Bigger Rotation Hole Than You Think\n**Decision:** FOLLOW UP (10/06 covered \"Rotation Rebuilt from Scratch\"; 10/08 covered Hoyer's rotation stats; fresh angle = Imanaga's departure is now being confirmed by an insider, and the scope of the rebuild is now clear)\n**Sources:**\n- SI/Inside The Cubs (recent): \"Cubs star pitcher to enter free agency after declining option\" — Imanaga declined player option; Cubs declined team option; insider says he's likely leaving\n- TBNL newsletter: \"Shota Imanaga, Cubs decline options with free agency looming\"\n- Marquee Sports Network: \"mlb free agency chicago cubs pitching rotation cade horton shota imanaga\"\n- Roundtable.io (10/06/2026): Carson Kelly, Matthew Boyd, Clay Holmes, Kevin Gausman all headed to FA; \"Chicago could have a very different rotation in 2027\"\n- Story history (10/06, 10/08): Horton out until mid-2027; Steele out until 2027; Gausman/Boyd/Holmes all FA\n**Key Facts:**\n- Imanaga's deal was 4 years/$53M with options. Cubs and Imanaga both declined. Cubs hold a qualifying offer (~$22M) as a potential 1-year bid or leverage.\n- Cubs insider says Imanaga is \"likely not returning.\"\n- If Imanaga leaves, the 2027 rotation could look like: Edward Cabrera, Ben Brown, Javier Assad, Colin Rea, and … unknown.\n- Cade Horton is out until ~July 2027; Steele TBD.\n- This is the biggest offseason for Cubs pitching in franchise history.\n**Confidence:** MEDIUM-HIGH (insider report from SI/Inside The Cubs is reputable sourcing; contract mechanics from original reporting)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Michael King — Cubs' Biggest Winter Target",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Michael King (Padres, 3.23 ERA, 27 starts) has a player opt-out for 2027 due days after the World Series. Analysts call him the No. 2 starter on the FA market. If he opts out, he's the prime Cubs target.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The No. 2 starter on this winter's FA market is one opt-out decision away.\n\nMichael King: 3.23 ERA, 27 Padres starts in 2026. His opt-out deadline hits days after the World Series.\n\nHoyer, the phone better be ready. 🎯\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "brief (informative/analysis)",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Michael King Could Be the Cubs' Biggest Winter Target\n**Decision:** NEW STORY (not covered in story history)\n**Sources:**\n- MLB.com (Aug 29, 2026): King \"widely viewed as second-best starter on this winter's FA market.\" Has opt-out clauses allowing him to opt out for 2027 (and 2028). Decision due ~5 days after World Series concludes.\n- Gaslamp Ball: \"michael king opts out mlbpa announces free agents\" — suggests opt-out is happening\n- Sportsnaut (offseason guide, post-2026): Names Michael King as \"strong Plan B\" for Cubs if he opts out\n- Background: King's deal is 3 years/$75M with Padres (signed last offseason). Posted 3.23 ERA in 27 starts in 2026.\n**Key Facts:**\n- Michael King, RHP, Padres: 3.23 ERA, 27 starts in 2026\n- Has a player opt-out for 2027. Under the deal, he's owed 2 years/$58M ($5M buyout) if he stays. Opting out means he hits the open market.\n- \"Second best starter on the winter FA market\" (behind Skubal, who went to Dodgers)\n- Opt-out deadline: 5 days after World Series ends\n- Cubs clearly need starting pitching. King is a realistic, high-upside target.\n- **Caveat**: Decision hasn't been made yet as of research. This is a watch/preview story.\n**Confidence:** MEDIUM (King's opt-out clause confirmed; Cubs interest is analyst projection, not official reporting. Framed accordingly in post.)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "AFL — 9 Cubs Prospects in Mesa, Cole Mathis the Name to Watch",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Nine Cubs prospects in the Mesa Solar Sox through Nov. 14. Cole Mathis (No. 17 prospect, 1B/3B, 2024 2nd-rounder) is the top name, coming back from an injury-shortened season at Myrtle Beach.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "While the big-league club plans a rotation overhaul, nine Cubs prospects are putting in work.\n\nArizona Fall League. Mesa Solar Sox. Through November 14.\n\nTop name to watch: Cole Mathis — No. 17 prospect, switch-hitting 1B/3B. 🌵\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "brief (informative/prospect update)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "AFL — 9 Cubs Prospects in Mesa, Cole Mathis the One to Watch\n**Decision:** NEW STORY (AFL started Oct. 3; not covered in story history)\n**Sources:**\n- MLB.com (2026 AFL rosters): Cubs sending 9 prospects to Mesa Solar Sox; season Oct 3 – Nov 14\n- SI/Inside The Cubs AFL primer: Cole Mathis (No. 17 prospect), Owen Ayers (C), Ed Howard (SS)\n- MLB.com top AFL prospect piece: Mathis is Cubs' only Top-30 prospect in AFL\n**Key Facts:**\n- Arizona Fall League: Mesa Solar Sox. Started Oct. 3; championship Nov. 14.\n- Cubs prospects: Cole Mathis (1B/3B, No. 17 Cubs prospect, 2024 2nd-rounder — played Myrtle Beach this year, injury cost him ~4 months), Owen Ayers (C, 65 games in 2026, using AFL for development), Ed Howard (SS, veteran prospect), plus 6 pitchers\n- Mathis is the only Top-30 Cubs prospect in the AFL\n- AFL is a postseason development showcase for top prospects across the minor leagues\n**Confidence:** MEDIUM (AFL roster sourced from MLB.com; prospect rankings from Baseball America reference)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Ian Happ QO Decision Coming — Clock Ticking Before the WS Ends",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "QO deadline ($23.15M) is 5 days after the WS. Hoyer only extends the QO if he wants Happ back. Ten seasons, one decision. The offseason starts before the World Series ends.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The qualifying offer deadline for Ian Happ is five days after the World Series.\n\n10 seasons. Every day. This entire rebuild era.\n\nHoyer sends the offer only if he wants Happ back. The clock is already ticking. ⏳\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "brief (bold/passionate)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Happ QO Decision Coming — Hoyer Must Act Within Days of the World Series\n**Decision:** FOLLOW UP (10/06 covered \"Ian Happ FA Era Begins\"; fresh angle = QO mechanics and deadline are now clearer, plus Happ publicly saying he doesn't know what's next)\n**Sources:**\n- Bleacher Nation (10/08/2026): QO number set at $23.15M; Happ QO is a \"tough call\"; Cubs only extend it if they actually want him back (he'd likely accept)\n- Bleacher Nation (10/06/2026): \"Ian Happ Doesn't Yet Know What Will Come Next\" — Happ candid about uncertainty post-elimination\n- MLB Trade Rumors: Qualifying offer deadline is 5 days after the World Series concludes\n- Roundtable.io (likelihood piece): Happ re-sign odds 40-50%\n**Key Facts:**\n- QO amount: $23.15M (one-year)\n- Deadline: 5 days after the World Series ends (World Series in progress now — Brewers/Dodgers NLCS Game 1 tonight, so WS is probably 2+ weeks away)\n- If Cubs extend QO and Happ accepts: he stays for $23.15M. If he declines, Cubs get draft compensation.\n- Cubs only extend QO if they want him; otherwise they could let him walk without even making an offer.\n- Happ: 10 seasons as a Cub, but \"can't just assume he'd give a massive discount\" per analyst\n- 40-50% odds of re-signing according to analysts\n**Confidence:** HIGH (QO mechanics and number from Bleacher Nation same-day sourcing 10/08/2026; Happ uncertainty from Bleacher Nation 10/06/2026)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

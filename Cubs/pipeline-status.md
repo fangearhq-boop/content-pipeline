@@ -1,50 +1,53 @@
-# Cubs Pipeline Status — Updated 2026-10-10
+# Cubs Pipeline Status — Updated 2026-10-11
 
 ## Latest Run
-- **Date:** 2026-10-10 (Saturday — Off day, early offseason; NLCS (Brewers vs Dodgers) starts TOMORROW Sunday Oct 11; White Sox ALDS G5 tonight)
+- **Date:** 2026-10-11 (Sunday — Off day, early offseason; NLCS Game 1 tonight: Brewers vs Dodgers)
 - **Stories:** 6
 - **X posts:** 6
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
 - **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 6 stories, 6 tweets
-- **07-content-data.json:** ✅ Valid JSON, all 6 posts with posting_time (7:00 AM / 9:30 AM / 10:45 AM / 12:00 PM / 3:45 PM / 6:30 PM CT), all strptime-parseable
+- **07-content-data.json:** ✅ Valid JSON, all 6 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 12:00 PM / 3:45 PM / 6:30 PM CT), all strptime-parseable
 - **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
 
-## Insights Summary (2026-10-10)
-- **Snapshot generated:** 2026-10-10T08:30:00.127114Z (fresh, 30 min before trigger)
-- **significant_findings count:** 3
-  1. `posting_window=overnight_00_06` LOSER (delta=0.675, LARGE) → No overnight slots; earliest is 7:00 AM ✓
-  2. `content_type=game_final` WINNER (delta=0.655, LARGE) → Off day, no Cubs game. White Sox G5 tonight but result unknown at pipeline time. Evening slot reserved for boldest content. ✓
-  3. `posting_window=evening_18_24` WINNER (delta=0.408, MEDIUM) → Story 6 (Cardinals rival jab) at 6:30 PM CT ✓
+## Insights Summary (2026-10-11)
+- **Snapshot generated:** 2026-10-11T08:30:00.132365Z (fresh, 30 min before trigger)
+- **significant_findings count:** 4
+  1. `posting_window=overnight_00_06` LOSER (delta=0.689, LARGE) → No overnight slots; earliest is 7:00 AM ✓
+  2. `content_type=game_final` WINNER (delta=0.648, LARGE) → Off day, no Cubs game. No game_final possible. Reserved for future game days. ✓
+  3. `posting_window=evening_18_24` WINNER (delta=0.398, MEDIUM) → Story 6 (Happ QO bold take) at 6:30 PM CT ✓
+  4. `content_type=transaction` LOSER (delta=0.258, SMALL) → Imanaga/King/Happ stories framed as analysis/stakes, not transaction announcements ✓
 
-## Series Context (2026-10-10)
+## Series Context (2026-10-11)
 - **`off_day`:** TRUE
 - **`is_series_start_today`:** FALSE
 - **`today_cubs_game`:** NULL
-- **Action:** Fifth straight off-day pipeline. NLCS starts tomorrow (Brewers vs Dodgers, Game 1 Oct 11, 7 PM CT). White Sox in ALDS G5 tonight vs Guardians at Progressive Field. Content = city-rival watch, Skubal/NLCS angle, Happ QO deadline, rotation zero-SP math, PCA MVP market closed, Cardinals contrast jab.
+- **Action:** Sixth straight off-day pipeline. NLCS Game 1 tonight (Brewers vs Dodgers, American Family Field, ~7 PM CT on Fox/FS1). Content = rival watch, PCA MVP follow-up, Imanaga departure confirmed, Michael King FA target preview, AFL prospects, Happ QO decision clock.
 
 ## Current Cubs Status
 - **2026 season:** OVER. Cubs eliminated by Padres in NL Wild Card Series (swept 2-0, Oct 1)
 - **Final record:** 89-73 (NL Wild Card No. 2)
 - **Postseason:** Lost WCS Game 1 (8-0), Game 2 (4-1). 1 run in 18 innings total.
-- **Now:** Early offseason. NLCS: Brewers vs Dodgers (Game 1 Sunday Oct 11).
+- **Now:** Early offseason. NLCS: Brewers vs Dodgers (Game 1 tonight Oct 11).
 
 ## Key Ongoing Stories
-- **Rotation rebuild:** Need 2-3 SP this winter; Hoyer confirmed pitching overhaul priority No. 1; Gausman/Boyd/Imanaga/Holmes/Peterson all FA
-- **Tarik Skubal:** Cubs linked to top FA target; became FA after 2026; had elbow surgery, velocity returning
-- **Michael King:** May opt out of Padres deal; could re-enter market
-- **Ian Happ FA:** No extension talks; return "unlikely"; 4-time Gold Glover
-- **Seiya Suzuki FA:** Blue Jays (The Athletic's Mitch Bannon) expected to pursue hard; Cubs "unlikely to match"
-- **Gold Glove sweep:** PCA/Happ/Suzuki could be first-ever outfield Gold Glove sweep (since 2011); finalists announced late October
-- **PCA MVP:** BetMGM market CLOSED (too one-sided); Polymarket 99%; Ohtani on IL; BBWAA vote November — covered Oct 10
-- **Injured returnees:** Horton (TJ, April 2026; ~mid-2027 return target); Steele (elbow surgery; 2027 status unclear)
-- **Happ QO:** $23.15M qualifying offer (Happ IS eligible); deadline 5 days after World Series; covered Oct 10
-- **Skubal:** Acquired by Dodgers (Aug 2 trade deadline); starting NLCS G1 Oct 11; NOT confirmed FA — avoid FA claims
+- **Rotation rebuild:** Need 2-3 SP this winter. Hoyer confirmed pitching is priority No. 1. Gausman/Boyd/Imanaga all FA; Holmes/Peterson also FA. Horton out until mid-2027; Steele TBD.
+- **Imanaga:** Cubs insider says "likely not returning." Both sides declined options. Cubs could still extend QO (~$22M) as leverage/draft pick.
+- **Michael King:** Padres RHP (3.23 ERA, 2026). Has player opt-out for 2027 — decision days after WS. Viewed as No. 2 starter on FA market. Key Cubs target if he opts out.
+- **Ian Happ FA:** QO ($23.15M) deadline 5 days after WS. Hoyer extends only if he wants Happ back. Return odds ~40-50%. Covered Oct 6, 10, 11.
+- **Seiya Suzuki FA:** Expected to receive QO; Blue Jays strongly interested.
+- **PCA MVP:** Ohtani missed ~final 3 months of 2026 season (knee + biceps). PCA: 45 HR, 40 SB, 10.4 fWAR, 162 games. BBWAA announces November. Covered Oct 6, 10, 11.
+- **AFL:** 9 Cubs prospects in Mesa Solar Sox through Nov 14. Cole Mathis (No. 17, 1B/3B) is top name. Covered Oct 11.
+- **Gold Glove finalists:** PCA/Happ/Suzuki could sweep outfield Gold Gloves. Finalists announced late October.
+- **Injured returnees:** Horton (TJ April 2026; ~mid-2027 target); Steele (elbow; 2027 status unclear).
+- **Skubal:** On Dodgers (acquired Aug 2 trade deadline). NOT a FA. Do not claim as FA target.
+- **Nico Hoerner:** Locked up 6-year/$141M extension through 2032. Not available for trade/FA.
 
 ## Pipeline Run Log (newest first)
 
 | Date | Type | Stories | Tweets | Status |
 |------|------|---------|--------|--------|
+| 2026-10-11 | OFF DAY (NLCS G1 rival watch, PCA MVP Ohtani injury, Imanaga gone, Michael King target, AFL prospects, Happ QO) | 6 | 6 | ✅ |
 | 2026-10-10 | OFF DAY (White Sox G5 tonight, Skubal NLCS G1, Happ QO, zero-SP math, PCA MVP closed, Cardinals contrast) | 6 | 6 | ✅ |
 | 2026-10-09 | OFF DAY (NLCS preview, Gold Glove, Suzuki/Skubal FA, PCA MVP) | 5 | 5 | ✅ |
 | 2026-10-08 | OFF DAY (early offseason, Padres eliminated/NLCS set) | 5 | 5 | ✅ |
@@ -66,6 +69,3 @@
 | 2026-09-16 | GAME DAY (home) | 7 | 7 | ✅ |
 | 2026-09-15 | GAME DAY (home) | 7 | 7 | ✅ |
 | 2026-09-14 | SERIES START (home) | 7 | 7 | ✅ |
-| 2026-09-13 | GAME DAY (home) | 5 | 5 | ✅ |
-| 2026-09-11 | SERIES START (home) | 7 | 7 | ✅ |
-| 2026-09-10 | GAME DAY | 5 | 5 | ✅ |

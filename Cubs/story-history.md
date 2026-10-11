@@ -5,6 +5,46 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-10-11 (OFF DAY — Early offseason. NLCS Game 1 tonight: Brewers vs Dodgers at Milwaukee, 7 PM CT. Insights active: overnight_00_06 loser (large); game_final winner (large, off-day so unused); evening_18_24 winner (medium); transaction loser (small).)
+
+### STORY 1: NLCS Game 1 Tonight — Rival Watch: Brewers vs. Dodgers
+- **Angle:** NEW STORY (10/08 covered NLCS "set" announcement; today is Game 1 itself). Brewers vs. Dodgers at American Family Field, ~7 PM CT, Fox/FS1. Cubs' rival (4 straight NL Central titles) in the NLCS. Fan angle: root against both.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, informative/rival watch)
+- **Follow-Up Opportunities:** NLCS results each day; Brewers series outcome as Cubs offseason motivation
+
+### STORY 2: PCA NL MVP — Ohtani Missed Final 3 Months, Race Is Over
+- **Angle:** FOLLOW UP (10/06 covered WCS-context MVP case; 10/10 covered betting markets closing; fresh angle = Ohtani's ~3-month injury absence confirmed, PCA's 162-game case). 45 HR, 40 SB, 10.4 fWAR. BBWAA announces in November.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold/passionate)
+- **Follow-Up Opportunities:** BBWAA NL MVP announcement (early November); Gold Glove finalists (late October)
+
+### STORY 3: Imanaga Likely Gone — Rotation Hole Bigger Than You Think
+- **Angle:** FOLLOW UP (10/06 "Rotation Rebuilt from Scratch"; fresh angle = Cubs insider confirms Imanaga likely leaving). Running tally of rotation losses: Gausman/Boyd/Imanaga all FA, Horton out until mid-2027, Steele TBD.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, informative/analysis)
+- **Follow-Up Opportunities:** Imanaga signing announcement; any QO decision from Cubs
+
+### STORY 4: Michael King — Cubs' Biggest Winter Target
+- **Angle:** NEW STORY. King (3.23 ERA, 27 starts, Padres) has player opt-out due days after WS. Viewed as No. 2 starter on FA market. Cubs prime target if he opts out.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, informative/analysis)
+- **Follow-Up Opportunities:** King opt-out decision (days after WS ends); Cubs signing announcement
+
+### STORY 5: AFL — 9 Cubs Prospects in Mesa Solar Sox
+- **Angle:** NEW STORY. AFL started Oct 3, runs through Nov 14. Cubs have 9 prospects with Mesa Solar Sox. Cole Mathis (No. 17 prospect, 1B/3B, 2024 2nd-rounder) is top name. Ed Howard (SS), Owen Ayers (C) also in the mix.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, informative/prospect)
+- **Follow-Up Opportunities:** AFL standout performances; Mathis development update
+
+### STORY 6: Ian Happ QO Decision — Clock Ticking Before the World Series Ends
+- **Angle:** FOLLOW UP (10/06 "Ian Happ FA Era Begins"; 10/10 covered QO mechanics; fresh angle = framing Hoyer's decision as intentional signal). QO ($23.15M) due 5 days after WS. Hoyer only extends it if he wants Happ back.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, bold/passionate, EVENING WINNER window)
+- **Follow-Up Opportunities:** QO decision announcement; Happ FA signing news
+
+---
+
 ## 2026-10-08 (OFF DAY — Early offseason. Brewers eliminated Padres in NLDS G4 overnight (3-1); NLCS set: Brewers vs Dodgers. Insights active: overnight_00_06 loser; game_final winner; evening_18_24 winner; transaction loser.)
 
 ### STORY 1: Padres Eliminated — Brewers Beat San Diego 3-1 in NLDS G4
