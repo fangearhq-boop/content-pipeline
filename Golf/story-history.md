@@ -2,6 +2,18 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-10-11
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-11 | T1 | Michael Brennan Wins 2026 Baycurrent Classic — Third PGA Tour Title in 33 Starts | X(2), FB, Article | NEW |
+| 2026-10-11 | T1 | Three Wins, 33 Starts: The Extraordinary Rise of Michael Brennan on the PGA Tour | X(2), FB, Article | NEW |
+| 2026-10-11 | T2 | FedExCup Fall Bubble Watch: Five Events Remain, The Race for the Top 60 Is On | X(1), FB, Article | FOLLOW UP |
+| 2026-10-11 | T2 | Adam Scott's Baycurrent Near-Miss: A Reminder of a Legend's Enduring Quality | X(1), FB, Article | FOLLOW UP |
+| 2026-10-11 | T2 | PGA Tour Fall 2026: A Complete Guide to the Five Remaining Events | X(1), FB, Article | NEW |
+
+---
+
 ## 2026-10-10
 
 | Date | Tier | Title | Platforms | Status |
@@ -13,10 +25,3 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 | 2026-10-10 | T2 | Jacob Bridgeman Co-Leads Baycurrent Classic — Rookie's Shot at First PGA Tour Title | X(1), FB, Article | NEW |
 
 ---
-
-## 2026-09-29
-
-| Date | Tier | Title | Platforms | Status |
-|------|------|-------|-----------|--------|
-| 2026-09-29 | T1 | Presidents Cup Aftermath: USA Won, But Left More Questions Than Answers | X(2), FB, Article | FOLLOW UP |
-| 2026-09-29 | T1 | Bank of Utah Championship Preview — Black Desert's $6M FedExCup Fall Stop Opens Thursday | X(1), FB, Article | FOLLOW UP |
