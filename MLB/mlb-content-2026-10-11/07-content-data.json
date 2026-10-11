@@ -1,0 +1,320 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-11",
+  "compiled_at": "2026-10-11T10:27:41.775136+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Guardians Complete Stunning Comeback — Beat White Sox in Game 5, Advance to ALCS",
+      "tier": 1,
+      "status": "",
+      "angle": "Ramirez was the offensive engine despite hamate surgery. The Guardians were massive underdogs after falling 0-2. Now they face a Rays team that swept the Yankees.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Cleveland Guardians were down 0-2 to the White Sox.\n\nThey won three straight games to advance to the ALCS.\n\nThe last team to pull off a 0-2 comeback in a best-of-5 was the 2017 Yankees — against Cleveland. October is wild. #ForTheLand",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ForTheLand"
+          ],
+          "char_count": 238
+        },
+        {
+          "label": "Post 1-2",
+          "text": "José Ramírez played the ALDS on a surgically repaired hamate bone.\n\nHe hit a HR and drove in 3 in Game 4. He was everywhere in this series.\n\nCleveland is going back to the ALCS. J-Ram made sure of it. #ForTheLand #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ForTheLand",
+            "#MLB"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-guardians-complete-comeback-beat-white-sox-advance-alcs.html",
+        "headline": "Guardians Complete Historic Comeback, Beat White Sox in ALDS Game 5 to Advance to ALCS",
+        "word_count": 395
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article hero for article-01"
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Social post for Story 1"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Guardians Complete ALDS Comeback\n**Verified Facts (HIGH confidence):**\n- Guardians advanced to ALCS after beating White Sox in Game 5 (ESPN: \"Guardians complete stunning comeback, head to ALCS\") — HIGH\n- Guardians were down 0-2 in the series after Games 1-2 — HIGH (multiple sources)\n- Teams leading 2-0 in a best-of-5 postseason series win 83 of 93 times historically — HIGH (Roundtable.io, Oct. 7)\n- Last team to come back from 0-2 in a best-of-5 postseason series was the 2017 New York Yankees — HIGH (CBS Sports)\n- Gavin Williams started Game 5 for Cleveland — HIGH (confirmed lineups from pre-game MLB.com)\n- Sean Burke started Game 5 for Chicago — HIGH (same source)\n- Ramírez hit a HR and drove in 3 runs in Game 4 (9-5 CLE win) — HIGH (multiple sources)\n- Ramírez playing with lingering effects from left hamate surgery in June — HIGH (MLB.com)\n- Game 3: Guardians recorded two triples — first time in franchise postseason history (confirmed in Roundtable research) — MEDIUM\n- ALCS Game 1 vs Rays is Monday Oct. 12 at Tropicana Field — HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "NLCS Game 1 Is Tonight — Dodgers and Ohtani Arrive in Milwaukee",
+      "tier": 1,
+      "status": "",
+      "angle": "The most anticipated matchup of the LCS round. Second straight NLCS between these teams. Ohtani's pitching addition is new compared to the 2025 series.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Shohei Ohtani is in the Dodgers' NLCS rotation.\n\nJacob Misiorowski (11-5, 1.76 ERA) goes for Milwaukee tonight.\n\nNLCS Game 1: 8PM ET on FOX, American Family Field. Second straight year these two meet for the pennant. #Dodgers #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#Brewers"
+          ],
+          "char_count": 234
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Dodgers are chasing a 3-peat. The Brewers want their first pennant since 1982.\n\nNLCS Game 1 is TONIGHT. 8PM ET FOX. The best matchup of October starts now. #MLB #NLCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#NLCS"
+          ],
+          "char_count": 170
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-nlcs-game-1-tonight-dodgers-brewers-ohtani-misiorowski.html",
+        "headline": "NLCS Game 1 Tonight: Ohtani, Misiorowski, and the Pennant Race Begin at American Family Field",
+        "word_count": 437
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article hero for article-02"
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Social post for Story 2"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NLCS Game 1 Tonight\n**Verified Facts (HIGH/MEDIUM confidence):**\n- NLCS Game 1 is tonight, Oct. 11, at American Family Field Milwaukee — HIGH (multiple sources)\n- Game time: 8PM ET on FOX, FS1, FOX Deportes — HIGH\n- Brewers are No. 1 seed (103-59) — HIGH (MLB.com)\n- Dodgers are No. 2 seed, two-time defending champions — HIGH\n- Jacob Misiorowski starts Game 1 for Brewers (11-5, 1.76 ERA) — HIGH (from Oct. 10 pipeline)\n- Tyler Glasnow and Shohei Ohtani both in Dodgers NLCS rotation (NBC Sports confirmed) — MEDIUM\n- Blake Snell active on Dodgers NLCS roster — HIGH (from Oct. 10 pipeline)\n- Game 2: Monday Oct. 12, 5PM ET — HIGH (mlb.com schedule)\n- Games 3-5 shift to Dodger Stadium, Los Angeles — HIGH\n- Second straight NLCS between Dodgers and Brewers (2025 was also Dodgers vs Brewers; Dodgers won) — HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "ALCS Preview — Guardians vs. Rays: Comeback Kids vs. Sweep Kings",
+      "tier": 1,
+      "status": "",
+      "angle": "Two contrasting narratives. Tampa swept a powerhouse Yankees team without drama. Cleveland survived an elimination deficit, winning 3 straight games from 0-2 down. Messick vs Rasmussen potential Game 1 starters.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "ALCS preview: Guardians vs. Rays\n\n🔹 Rays: swept the Yankees, allowed only 5 runs in 3 games\n🔹 Guardians: came back from 0-2 down, won 3 straight\n\nGame 1: Monday, Oct. 12, 8PM ET at Tropicana Field on TBS. #MLB #ALCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#ALCS"
+          ],
+          "char_count": 215
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Parker Messick (2.68 ERA) vs Drew Rasmussen (3.28 ERA).\n\nThat's the potential Game 1 ALCS pitching matchup on Monday.\n\nCleveland-Tampa Bay. Comeback kids vs. sweep kings. It does not get better than this. #ALCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ALCS"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-alcs-preview-guardians-vs-rays-game-1-monday.html",
+        "headline": "ALCS Preview: Guardians vs. Rays — Comeback Kids vs. Sweep Kings Begin Monday",
+        "word_count": 419
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article hero for article-03"
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Social post for Story 3"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ALCS Preview\n**Verified Facts (HIGH/MEDIUM confidence):**\n- ALCS Game 1: Monday Oct. 12, 8PM ET TBS/truTV/HBO Max at Tropicana Field — HIGH\n- Rays swept Yankees 3-0 in ALDS — HIGH (from Oct. 10 pipeline)\n- Victor Mesa Jr. hit 2-run HR in Rays sweep — HIGH (from Oct. 10 pipeline)\n- Rays allowed only 5 runs in 3-game ALDS sweep of Yankees — MEDIUM (from Oct. 10 pipeline)\n- Parker Messick: 2.68 ERA, 116 K, 36 BB in 20 starts for Cleveland — MEDIUM (from ALCS search snippets)\n- Drew Rasmussen: 3.28 ERA for Rays — MEDIUM (from ALCS search)\n- Rays lineup: Junior Caminero, Yandy Díaz, Jonathan Aranda anchor middle of order — MEDIUM\n- Rays won regular season series vs Guardians 5-1 — MEDIUM (from search snippet)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "White Sox Season Ends — The Most Surprising ALDS Run in Recent Memory",
+      "tier": 2,
+      "status": "",
+      "angle": "The White Sox went 81-81, the first non-winning team to clinch a playoff berth in MLB history. They beat the Astros in Wild Card, went up 2-0 on Cleveland. Ultimately fell short, but changed what we thought was possible in one offseason.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The White Sox season is over.\n\nThey were the first team in MLB history to follow back-to-back 100-loss seasons with a playoff berth. They beat the Astros. They led Cleveland 2-0 in the ALDS.\n\nThat was not supposed to happen. Respect the run. #WhiteSox",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-white-sox-season-ends-historic-rebuild-farewell.html",
+        "headline": "The White Sox Season Is Over — Remember What They Actually Did",
+        "word_count": 396
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Social post for Story 4"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "White Sox Season Ends\n**Verified Facts (HIGH confidence):**\n- White Sox finished 81-81 regular season — HIGH (from Oct. 6 pipeline)\n- First team in MLB history to clinch a playoff berth with a non-winning record — HIGH (multiple sources)\n- White Sox had back-to-back 100-loss seasons (121 in 2024) before 2026 playoff run — HIGH\n- Jim Montgomery hit 41 HR in 2026 — MEDIUM (from earlier Oct. 6 pipeline coverage; need to verify as \"Montgomery\")\n- Sean Burke started for CHW in ALDS — HIGH\n- GM Chris Getz / Manager Will Venable — HIGH (from Sept. 25 pipeline)\n- White Sox beat Astros in Wild Card round — HIGH\n- Led Guardians 2-0 in ALDS before losing 3 straight — HIGH\n**Note:** The \"Montgomery\" with 41 HR from Oct. 6 pipeline coverage should be treated as MEDIUM — verify exact name (may be a different CHW player).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "2026 Division Series by the Numbers",
+      "tier": 2,
+      "status": "",
+      "angle": "Best performances: Ramírez vs White Sox; Mesa Jr.'s fan-interference HR vs Yankees; Misiorowski's NLDS numbers; Cleveland's 0-2 comeback odds (historically 10 of 93 times teams have done this); Rays holding the Yankees to 5 runs in 3 games.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Division Series by the numbers:\n\n• Guardians beat 0-2 odds: 83/93 teams with a 2-0 lead win in best-of-5\n• Rays allowed 5 runs vs Yankees in 3 games\n• Misiorowski: 1.76 ERA entering NLCS\n• Ramírez: HR + 3 RBI in Game 4 while playing hurt\n\nOctober delivers. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-division-series-by-the-numbers-2026.html",
+        "headline": "2026 Division Series by the Numbers: Comebacks, Dominance, and the Stars Who Defined the Round",
+        "word_count": 497
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Social post for Story 5"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Division Series by the Numbers\n**Verified Facts (HIGH/MEDIUM confidence):**\n- Guardians came back from 0-2 (1 of 10 times this has been done since 1969 in best-of-5) — MEDIUM\n- Teams down 0-2 in best-of-5 win only 10 of 93 times (10.8%) — HIGH (Roundtable.io)\n- Mesa Jr. 2-run HR in Rays sweep of Yankees — HIGH\n- Fan interference call reviewed and upheld in Rays-Yankees Game 3 — HIGH\n- Misiorowski 11-5/1.76 ERA in 2026 NLDS — MEDIUM\n- Ramírez: HR + 3 RBI in Game 4 vs White Sox — HIGH\n- Guardians' Game 3 featured two triples in one postseason game — MEDIUM",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

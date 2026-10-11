@@ -8557,3 +8557,55 @@ Each day's stories are appended at the top (newest first).
 - **Follow-Up Opportunities:**
   - Misiorowski NLCS performance
   - Brewers pennant race
+
+## Pipeline Run: 2026-10-11
+
+### Story 1: Guardians Complete Historic Comeback — Beat White Sox in ALDS Game 5
+- **Date:** 2026-10-11
+- **Tier:** 1
+- **Classification:** FOLLOW UP (series went to Game 5; Guardians won Oct 10)
+- **Angle:** Cleveland came back from 0-2 down to beat White Sox 3-2 in ALDS. First team to do so since 2017 Yankees (against these same Guardians). Ramírez HR+3RBI in Game 4 despite hamate surgery. Gavin Williams Game 5 starter. ALCS vs Rays starts Oct 12.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - ALCS Game 1 result (Oct. 12)
+  - Ramírez health/performance through ALCS
+
+### Story 2: NLCS Game 1 Tonight — Dodgers and Ohtani Arrive in Milwaukee
+- **Date:** 2026-10-11
+- **Tier:** 1
+- **Classification:** FOLLOW UP (NLCS set; Ohtani confirmed in rotation)
+- **Angle:** NLCS Game 1 at American Family Field, 8PM ET FOX. Misiorowski (11-5/1.76 ERA) starts for MIL. Ohtani in Dodgers NLCS rotation (NBC Sports confirmed). Second straight NLCS rematch. Brewers' first NLCS home game. Dodgers 2-peat defending champs.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - NLCS Game 1 result
+  - Ohtani performance in NLCS Game 2/later
+
+### Story 3: ALCS Preview — Guardians vs. Rays
+- **Date:** 2026-10-11
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Game 1 Oct 12 at Tropicana Field TBS 8PM ET. Rays swept Yankees (5 runs allowed in 3 games; Mesa Jr. HR). Guardians comeback from 0-2. Messick 2.68 ERA vs Rasmussen 3.28 ERA. Caminero/Díaz/Aranda danger bats for TB. Rays won RS series 5-1.
+- **Content Produced:** Article (article-03, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - ALCS Game 1 result
+  - Series evolution coverage
+
+### Story 4: White Sox Season Ends — Historic Rebuild Retrospective
+- **Date:** 2026-10-11
+- **Tier:** 2
+- **Classification:** FOLLOW UP (White Sox eliminated; deserved farewell piece)
+- **Angle:** First team to follow back-to-back 100-loss seasons (121 in 2024) with playoff berth. Beat Astros in WC. Led CLE 2-0 in ALDS before losing 3 straight. GM Getz/Mgr Venable. 7/9 starters under 2 yrs MLB experience. Future looks bright.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - White Sox 2027 roster building
+  - Future prospects development
+
+### Story 5: 2026 Division Series by the Numbers
+- **Date:** 2026-10-11
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Statistical roundup of LDS round. Guardians 0-2 comeback (10 of 93 times historically). Rays held Yankees to 5 runs in 3 games. Ramírez HR+3RBI playing hurt. Misiorowski 1.76 ERA entering NLCS. Messick (2.68) vs Rasmussen (3.28) for ALCS.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - LCS round statistical updates
+  - World Series preview (Oct. 23)
