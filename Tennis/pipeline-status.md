@@ -1,6 +1,37 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-10-10
+## Current Run: 2026-10-11
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | WTA Beijing Final: Zheng vs. Andreeva — Zheng first Chinese player in China Open women's final; Andreeva rises to World No. 3; Zverev practice court controversy on Rednote; Alcaraz def. Cerundolo 6-3,6-3 66min 24W (atptour.com); Shelton def. Altmaier 6-3,7-6(6) (birthday win, turned 24 Oct 10) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Oct 10 S2: WTA Beijing SFs → Final day preview); S2 FOLLOW-UP (Oct 10 S3: Shanghai Day 4 → Day 5 R3); S3 NEW (Rednote practice court controversy); S4 FOLLOW-UP new angle (Oct 10 Alcaraz enters Shanghai → emotional return/730 days); S5 FOLLOW-UP (Oct 10 S5: Race bubble → post-R3 update) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tagging; H2H conflict noted (sporza vs. tennismajors) |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars verified; reformatted to ## STORY N: / #### Text Post -- time format |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories |
+| Articles (5) | COMPLETE | article-01 Andreeva vs. Zheng Beijing final preview (Marcus Cole T1); article-02 Shanghai Day 5 R3 action (Ryan Calloway T1); article-03 Zverev practice court controversy (Elena Voss T2); article-04 Alcaraz returns Shanghai 730 days (Marcus Cole T2); article-05 Race to Turin bubble math (Ryan Calloway T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated; 38 claims; PASSED clean |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (known parser), 5 articles; posting-window warnings cosmetic |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries across 5 stories, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (7 posts) | tfr-postplanner-2026-10-11.xlsx + tfr-postplanner-tobi-2026-10-11.xlsx — 7 posts each; redistributed 13:00–20:42 ET |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Oct 11 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
+- **PostPlanner exports:** 7 posts (standard + TOBI)
+- **Key stories:** WTA Beijing Final Andreeva vs. Zheng (first Chinese player in China Open women's final); Shanghai Day 5 R3 Zverev/Alcaraz/Shelton all in action; Zverev practice court controversy (Rednote, unconfirmed); Alcaraz returns Shanghai after 730-day absence (7-match win streak); Race to Turin bubble math (Shelton 4th, 4 spots still open, Vienna+Paris Bercy remain)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); FB posts 0 parsed (known)
+
+---
+
+## Previous Run: 2026-10-10
 
 | Step | Status | Notes |
 |------|--------|-------|
