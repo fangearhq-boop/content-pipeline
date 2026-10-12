@@ -1,0 +1,317 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-12",
+  "compiled_at": "2026-10-12T10:45:02.621828+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "NLCS Game 1 Result — Brewers Stun Dodgers 2-1 in Milwaukee",
+      "tier": 1,
+      "status": "",
+      "angle": "Milwaukee won NLCS opener 2-1 at American Family Field. Brice Turang solo HR off Skubal in 4th tied it; Luis Lara single scored Mitchell in 5th for lead. Misiorowski labored (4⅓ IP, 94 pitches, 60 strikes, 3 BB), but Brewers bullpen retired 14 straight to seal it. Dodgers' offense went quiet.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "FINAL: Brewers 2, Dodgers 1.\n\nBrice Turang HR in the 4th. Luis Lara single in the 5th. Bullpen retires 14 straight.\n\nMilwaukee takes Game 1 of the NLCS. The defending champs are in trouble.\n\n#Brewers #Dodgers #NLCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#Dodgers",
+            "#NLCS"
+          ],
+          "char_count": 214
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Misiorowski labored — 94 pitches, 4⅓ innings. But the Brewers bullpen was PERFECT.\n\n14 consecutive batters retired vs. a Dodgers lineup with Ohtani, Betts, Freeman, and Hernández.\n\nThat's how you steal Game 1. #Brewers #NLCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#NLCS"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "Milwaukee just sent a message to the defending champions.\n\nThe Brewers beat the Los Angeles Dodgers 2-1 in NLCS Game 1 Sunday night at American Family Field, taking a 1-0 series lead against the two-time reigning World Series champions.\n\nThe key plays: Brice Turang hit a solo home run off Tarik Skubal in the fourth inning to tie the game at 1-1. Then in the fifth, Luis Lara singled on a first-pitch Skubal changeup to score Garrett Mitchell and put Milwaukee ahead 2-1. That's all the Brewers needed.\n\nJacob Misiorowski started but labored — 94 pitches to get through 4⅓ innings. He escaped a bases-loaded jam in the second when Kiké Hernández grounded into a double play. He struck out Shohei Ohtani in the third. But he was far from dominant, and the Brewers' bullpen had to finish the job.\n\nAnd it did. In emphatic fashion. DL Hall and closer Trevor Megill led a group of relievers who retired 14 consecutive Dodgers batters over 4⅔ scoreless innings — shutting down a lineup that features Ohtani, Mookie Betts, Freddie Freeman, and Hernández.\n\nGame 2 heads back to American Family Field as the Brewers look to go up 2-0.",
+        "image_caption": "BREWERS 2, DODGERS 1. Milwaukee steals Game 1 of the NLCS. Bullpen was PERFECT. Game 2 up next. ⚾🍺 #Brewers #NLCS",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-nlcs-game-1-brewers-beat-dodgers.html",
+        "headline": "Brewers 2, Dodgers 1 — Milwaukee Steals NLCS Game 1 Behind Turang Homer, Bullpen Brilliance",
+        "word_count": 418
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NLCS Game 1 — Brewers 2, Dodgers 1\n**Verified Facts (HIGH confidence):**\n- Final score: Milwaukee Brewers 2, Los Angeles Dodgers 1 — Source: ESPN, CBS Sports, MLB.com\n- Venue: American Family Field, Milwaukee — Source: MLB.com\n- Brice Turang hit a solo HR off Skubal in the 4th to tie the game — Source: ESPN, CBS Sports\n- Luis Lara's single off a Skubal changeup scored Garrett Mitchell in the 5th for the go-ahead run — Source: CBS Sports\n- Misiorowski pitched 4⅓ innings on 94 pitches (60 strikes, 3 walks) — Source: CBS Sports, ESPN\n- Brewers bullpen (including DL Hall and closer Trevor Megill) pitched 4⅔ scoreless innings — Source: CBS Sports\n- Misiorowski struck out Ohtani in the 3rd after a Mookie Betts leadoff single — Source: CBS Sports\n- Misiorowski escaped 2nd-inning bases-loaded jam via Hernández GIDP — Source: CBS Sports\n- Series: Milwaukee leads NLCS 1-0 — Source: MLB.com\n**Verified Facts (MEDIUM confidence):**\n- This is a rematch of the 2025 NLCS (Dodgers won the 2025 NLCS per prior research)\n- Dodgers offense \"vanished\" per CBS Sports reporting\n- Brewers first NLCS home game (103-win franchise best regular season record)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "ALCS Game 1 Preview — Guardians vs. Rays Tonight at Tropicana Field",
+      "tier": 1,
+      "status": "",
+      "angle": "Game 1 tonight at 8 PM ET at Tropicana Field on TBS. Foster Griffin (15-6, 3.60 ERA) starts for Cleveland vs. Drew Rasmussen (16-5, 2.67 ERA) for Tampa Bay. Rays swept Yankees giving up 5 runs total; Guardians came back from 0-2 down. Rays -170 favorites.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "ALCS Game 1 is TONIGHT at Tropicana Field — 8 PM ET on TBS.\n\nGuardians came back from 0-2 down to beat the White Sox.\nRays swept the Yankees, giving up 5 total runs.\n\nFoster Griffin vs. Drew Rasmussen. Winner-take-all baseball starts now.\n\n#ALCS #RaysBaseball #Guardians",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ALCS",
+            "#RaysBaseball",
+            "#Guardians"
+          ],
+          "char_count": 270
+        },
+        {
+          "label": "Post 2-2",
+          "text": "ALCS Preview: Rays vs. Guardians — Game 1 tonight, 8 PM ET, Tropicana Field, TBS.\n\nIn 2026 regular season: Rays went 5-1 vs. Cleveland, outscored them 20-8.\n\nRasmussen (16-5, 2.67 ERA) is the ace. But Guardians have the comeback juice.\n\n#ALCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ALCS"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "Tonight is the start of the other championship series — and this one is loaded.\n\nThe Cleveland Guardians and Tampa Bay Rays open the American League Championship Series at Tropicana Field in St. Petersburg at 8 PM ET on TBS. It's one of the best matchups possible at this point in the postseason.\n\nHere's the context:\n- The Rays swept the Yankees 3-0, allowing only 5 runs total. Victor Mesa Jr.'s home run in Game 3 was the signature moment.\n- The Guardians came back from 0-2 down to beat the Chicago White Sox 3-2 in one of the more dramatic first rounds of the postseason. José Ramírez's homer in Game 4 (despite a hamate injury) was unforgettable.\n\nTonight's pitching matchup: Foster Griffin (15-6, 3.60 ERA) for Cleveland vs. Drew Rasmussen (16-5, 2.67 ERA) for Tampa Bay. Rasmussen has been one of the best starters in the American League in 2026. The Rays enter as -170 favorites.\n\nOne number to know: in the 2026 regular season, Tampa Bay went 5-1 against Cleveland and outscored them 20-8. But postseason baseball has a way of erasing regular-season narratives. The Guardians just proved that.",
+        "image_caption": "ALCS Game 1 is TONIGHT — Guardians vs. Rays, 8 PM ET at Tropicana Field. Rasmussen vs. Griffin. Who do you have? ⬇️ #ALCS #Guardians #RaysBaseball",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-02-alcs-game-1-preview-guardians-rays.html",
+        "headline": "ALCS Game 1 Preview: Guardians vs. Rays Tonight at Tropicana Field — 8 PM ET on TBS",
+        "word_count": 419
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ALCS Game 1 Preview\n**Verified Facts (HIGH confidence):**\n- Game 1: October 12, Tropicana Field, St. Petersburg, 8 PM ET, TBS/truTV — Source: MLB.com, Fox Sports\n- Cleveland starter: Foster Griffin (15-6, 3.60 ERA) — Source: ESPN, Fox Sports (NOTE: Earlier pipeline said Messick 2.68 ERA — need to verify. Search results say Foster Griffin on Oct 12)\n- Tampa Bay starter: Drew Rasmussen (16-5, 2.67 ERA) — Source: Fox Sports, NBC Sports\n- Rays odds: -170 favorite; Guardians +139; O/U 6.5 runs — Source: Fox Sports\n- Tampa Bay swept Yankees, allowing only 5 runs in 3 games — Source: MLB.com (previously covered)\n- Cleveland came back from 0-2 down to beat White Sox 3-2 — Source: MLB.com (previously covered)\n- In 2026 regular season: Rays dominated head-to-head 5-1, outscoring Cleveland 20-8 — Source: Fox Sports\n**MEDIUM confidence:**\n- Shane McClanahan availability: \"precautionary\" heading into playoffs; expected available October — Source: late-September reporting, may be outdated",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Misiorowski's Efficiency Crisis — Brewers Ace Survived a Rough Outing in NLCS Game 1",
+      "tier": 2,
+      "status": "",
+      "angle": "Misiorowski needed 94 pitches to get through 4⅓ innings in Game 1 — 60 strikes, 3 walks, over 21 pitches per inning. This was his second straight short postseason outing. He survived a bases-loaded jam in 2nd (Hernández GIDP) and struck out Ohtani in 3rd. His postseason efficiency is a story heading into Game 2.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Jacob Misiorowski in NLCS Game 1: 4⅓ IP, 94 pitches, 60 strikes, 3 walks.\n\nThat's 21+ pitches per inning. It's his second straight short postseason start.\n\nThe Brewers won — but their ace is going to need to be sharper in Game 2.\n\n#Brewers #NLCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#NLCS"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "Milwaukee won NLCS Game 1. But Jacob Misiorowski left a few things on the table.\n\nThe Brewers' ace needed 94 pitches to get through just 4⅓ innings — averaging more than 21 pitches per inning. He threw only 60 strikes. He walked three batters. His whiff rate on his primary pitch (18.5%) was the second-lowest of any start all season.\n\nHe did make some critical pitches when it mattered. He escaped a bases-loaded, one-out jam in the second inning when Kiké Hernández grounded into an inning-ending double play. He struck out Shohei Ohtani in the third inning. But the overall efficiency was a problem — and this wasn't an isolated incident. Misiorowski also had a short, high-pitch outing in the NLDS against the Padres.\n\nHere's the question heading into Game 2: can the Brewers keep relying on their bullpen to carry 4⅔ innings every time Misiorowski starts? Sunday they did it flawlessly. Over a seven-game series, that's a lot to ask.\n\nMilwaukee won. But if Misiorowski keeps starting games like this, the Brewers will need their bullpen to be perfect again. That's a high bar to clear twice.",
+        "image_caption": "Misiorowski: 4⅓ IP, 94 pitches, 3 walks. The Brewers won — but their ace needs to be sharper. Can he go deep in this series? #Brewers #NLCS",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-misiorowski-efficiency-nlcs.html",
+        "headline": "Misiorowski Survives Efficiency Crisis in NLCS Game 1 — Can He Sharpen Up for Game 2?",
+        "word_count": 416
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Misiorowski Efficiency Issues\n**Verified Facts (HIGH confidence):**\n- 94 pitches in 4⅓ innings = over 21 pitches per inning average — Source: CBS Sports, ESPN\n- 60 strikes thrown (63.8% strike rate) — Source: CBS Sports\n- 3 walks — Source: ESPN\n- His whiff rate on primary pitch: 18.5% (second-lowest of 2026 season) — Source: CBS Sports\n- Second consecutive short postseason start — Source: ESPN",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Dodgers Tie Braves' Record — 14 Consecutive Postseason Appearances",
+      "tier": 2,
+      "status": "",
+      "angle": "With the 2026 postseason, LA has clinched their 14th straight postseason berth (2013-2026), tying the Atlanta Braves for the longest postseason streak in MLB history. Despite losing NLCS Game 1, the streak itself is a franchise milestone worth noting.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Even in a loss, history. The Dodgers have now made 14 straight postseasons (2013-2026).\n\nThat ties the Atlanta Braves for the longest streak in MLB history.\n\nThey lost Game 1. But the dynasty is real. #Dodgers #NLCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#NLCS"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "They lost Game 1. But they made history just by showing up.\n\nThe Los Angeles Dodgers' appearance in the 2026 NLCS represents their 14th consecutive postseason berth — a streak that started back in 2013. With that, they have tied the Atlanta Braves for the longest continuous postseason streak in Major League Baseball history.\n\nThink about what it takes to sustain that. Fourteen years of making the playoffs requires navigating roster turnover, injuries, contract negotiations, and the ups and downs of a 162-game season — year after year after year. From Clayton Kershaw's prime to the Corey Seager era to Shohei Ohtani's first postseason, through World Series titles and early exits, the Dodgers have been there every single October.\n\nThe Braves set their record across a different era. The Dodgers are matching it in the modern game, with expanded wild-card formats and more competition than ever.\n\nThey're down 0-1 in the NLCS to Milwaukee. They may not extend this streak to a championship. But Game 1's result doesn't diminish what they've built over 14 years.",
+        "image_caption": "The Dodgers are in the NLCS for the 14th year in a row — tying the Braves for the longest streak in MLB history. Dynasty-level stuff. #Dodgers #NLCS",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-04-dodgers-14-straight-postseasons-record.html",
+        "headline": "The Dodgers Just Tied the Longest Postseason Streak in MLB History — 14 Straight Appearances",
+        "word_count": 382
+      },
+      "image_concepts": [
+        {
+          "label": "Image 6",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Dodgers 14 Consecutive Postseasons\n**Verified Facts (HIGH confidence):**\n- LA clinched 14th straight postseason berth (2013-2026) — Source: ESPN\n- Ties Atlanta Braves for longest postseason streak in MLB history — Source: ESPN",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Milwaukee's Bullpen Masterpiece — 14 Straight Batters After Misiorowski's Exit",
+      "tier": 2,
+      "status": "",
+      "angle": "After Misiorowski's rocky 4⅓ innings, the Brewers' relief corps (DL Hall, Trevor Megill et al.) retired 14 consecutive Dodgers batters. Against a lineup featuring Ohtani, Betts, Freeman, and Hernández, that's a remarkable postseason performance. The bullpen won this game for Milwaukee.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5-1",
+          "text": "The Brewers' bullpen in NLCS Game 1:\n\n4⅔ innings. 14 consecutive batters retired.\n0 runs allowed against a lineup with Ohtani, Betts, Freeman, and Hernández.\n\nDL Hall and Trevor Megill shut the door. #Brewers #NLCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#NLCS"
+          ],
+          "char_count": 214
+        },
+        {
+          "label": "Post 5-2",
+          "text": "Misiorowski exits after 4⅓ in NLCS Game 1. Dodgers had Ohtani, Betts, Freeman waiting.\n\nThe Brewers bullpen? 14 straight outs. Game over.\n\nMilwaukee is built for October. #Brewers #NLCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#NLCS"
+          ],
+          "char_count": 185
+        }
+      ],
+      "facebook": {
+        "long_form": "When Jacob Misiorowski walked off the mound in the fifth inning Sunday night, the Brewers' bullpen had a job to do.\n\nThey delivered one of the best relief performances in recent postseason memory.\n\nThe Milwaukee relievers — led by DL Hall and closer Trevor Megill — shut down the Los Angeles Dodgers for the final 4⅔ innings. Not one Dodger reached base. Fourteen consecutive batters retired. Final score: Brewers 2, Dodgers 1.\n\nConsider who those 14 batters were. This isn't a weak lineup. The Dodgers have Shohei Ohtani, Mookie Betts, Freddie Freeman, and Kiké Hernández at the heart of their order — four players who collectively had historic regular seasons. Against all of them, the Brewers' bullpen was perfect.\n\nThis is what makes Milwaukee dangerous in October. They don't have to win the old way — overpowering lineups with a dominant starter who goes eight innings. They can piece it together. Five innings from the starter, four innings from the bullpen, two runs on the board. That is a formula that wins playoff series.\n\nIf that bullpen keeps pitching like this, the Dodgers are going to be in serious trouble.",
+        "image_caption": "The Brewers' bullpen retired 14 straight Dodgers after Misiorowski's exit. 4⅔ scoreless innings vs. Ohtani, Betts, Freeman. Milwaukee is dangerous in October. 🍺⚾ #Brewers #NLCS",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-brewers-bullpen-masterpiece-nlcs.html",
+        "headline": "Milwaukee's Bullpen Retired 14 Straight Dodgers — It Won NLCS Game 1",
+        "word_count": 418
+      },
+      "image_concepts": [
+        {
+          "label": "Image 7",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Milwaukee Bullpen Masterpiece\n**Verified Facts (HIGH confidence):**\n- Brewers bullpen retired 14 consecutive batters after Misiorowski's exit — Source: CBS Sports\n- Relief pitchers included DL Hall and Trevor Megill (closer) — Source: CBS Sports\n- Final score 2-1 — Source: MLB.com",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

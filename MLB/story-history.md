@@ -8609,3 +8609,55 @@ Each day's stories are appended at the top (newest first).
 - **Follow-Up Opportunities:**
   - LCS round statistical updates
   - World Series preview (Oct. 23)
+
+## Pipeline Run: 2026-10-12
+
+### Story 1: NLCS Game 1 — Brewers 2, Dodgers 1
+- **Date:** 2026-10-12
+- **Tier:** 1
+- **Classification:** FOLLOW UP (NLCS set; Misiorowski previewed Oct 11)
+- **Angle:** Milwaukee wins NLCS opener 2-1 at American Family Field. Turang solo HR off Skubal in 4th; Lara RBI single in 5th. Misiorowski 4⅓ IP/94 pitches/60 strikes/3 BB. Brewers bullpen retires 14 straight (DL Hall, Megill). Milwaukee leads series 1-0.
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - NLCS Game 2 result
+  - Misiorowski adjustment in next start
+
+### Story 2: ALCS Game 1 Preview — Guardians vs. Rays Tonight
+- **Date:** 2026-10-12
+- **Tier:** 1
+- **Classification:** FOLLOW UP (ALCS set; Guardians comeback/Rays sweep covered previously)
+- **Angle:** Game 1 Oct 12 at Tropicana Field, 8 PM ET TBS. Foster Griffin (15-6, 3.60 ERA) vs Drew Rasmussen (16-5, 2.67 ERA). Rays -170 favorites. Rays went 5-1 vs CLE in RS, outscored 20-8. Guardians came back from 0-2 to beat CHW.
+- **Content Produced:** Article (article-02, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - ALCS Game 1 result
+  - Series evolution coverage
+
+### Story 3: Misiorowski Efficiency Crisis — NLCS Game 1 Analysis
+- **Date:** 2026-10-12
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** 94 pitches in 4⅓ innings (21+ per inning). 60 strikes, 3 BB. Whiff rate 18.5% (2nd-lowest 2026). Second straight short postseason start. Survived 2nd-inning bases-loaded jam (Hernández GIDP). Struck out Ohtani in 3rd. Bullpen had to carry 4⅔ innings.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Misiorowski NLCS Game 2/Game 3 outing
+  - Brewers bullpen load management
+
+### Story 4: Dodgers Tie Braves — 14 Consecutive Postseason Appearances
+- **Date:** 2026-10-12
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** 2026 = 14th straight postseason for LA (2013-2026). Ties Atlanta Braves for longest streak in MLB history. Through Kershaw/Seager/Ohtani eras. Even down 0-1 in NLCS, the dynasty is real.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Dodgers NLCS result — can they still win?
+  - 15th straight postseason bid 2027
+
+### Story 5: Milwaukee Bullpen Masterpiece — 14 Straight Batters in NLCS Game 1
+- **Date:** 2026-10-12
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Brewers bullpen (DL Hall, Trevor Megill et al.) retired 14 consecutive Dodgers batters over 4⅔ scoreless innings against Ohtani/Betts/Freeman/Hernández. Won Game 1 despite Misiorowski's short start. Formula: imperfect starter + perfect bullpen + 2 runs.
+- **Content Produced:** Article (article-05, Marcus Cole), 2 X posts, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Brewers bullpen in Game 2 — can they repeat?
+  - NLCS series outcome
