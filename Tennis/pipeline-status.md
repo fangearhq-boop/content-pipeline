@@ -1,6 +1,37 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-10-10
+## Current Run: 2026-10-12
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Zheng def. Andreeva 7-5,6-4 WTA Beijing Final (wtatennis.com/tennismajors.com/skysports.com); Shanghai Day 6-7: Alcaraz def. Cerundolo 6-3,6-3; Zverev def. Halys 6-4,6-7(8),6-3 (60th win); Medvedev def. Struff post-Beijing-DQ; Shelton upset by Gea 7-6(5),7-6(3); Djokovic out R2; Tiafoe out; De Minaur R4; Race to Turin bubble reshuffled (atptour.com/sundayguardianlive.com/racetotur.in) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Oct 10 S1: Andreeva → WTA Beijing Final RESULT Zheng wins); S2 FOLLOW-UP (Oct 10 S3: Shanghai Day 4 → Day 6-7 multi-results); S3 FOLLOW-UP (Oct 10 S4: Zverev ankle → 60th win confirmed OK); S4 FOLLOW-UP (Oct 10 S5: Race bubble → Shelton/Djokovic/Tiafoe out); S5 NEW (French rising: Gea + Jodar) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars verified |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories |
+| Articles (5) | COMPLETE | article-01 Zheng China Open champion (Marcus Cole T1); article-02 Shanghai Day 6-7 multi-results (Ryan Calloway T1); article-03 Zverev 60 wins Year-End No. 1 (Elena Voss T2); article-04 Race to Turin bubble reshuffled (Marcus Cole T2); article-05 French rising Gea/Jodar (Ryan Calloway T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated; 17 claims; PASSED clean |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (known parser), 5 articles; posting-window warnings cosmetic |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries across 5 stories, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (7 posts) | tfr-postplanner-2026-10-12.xlsx + tfr-postplanner-tobi-2026-10-12.xlsx — 7 posts each; redistributed 13:04–20:40 ET |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Oct 12 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
+- **PostPlanner exports:** 7 posts (standard + TOBI)
+- **Key stories:** Zheng wildcard (No. 54) def. Andreeva 7-5,6-4 — first Chinese WTA China Open champion; Shanghai Day 6-7 Alcaraz/Zverev/Medvedev R16; Shelton upset by Gea (21, first Masters 1000 MD); Djokovic R2 exit; Zverev 60 wins/Year-End No. 1 march; Race bubble reshuffled (Shelton/Djokovic/Tiafoe out); French wave (Gea + Jodar at Shanghai)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); FB posts 0 parsed (known); git remote needs PAT repoint (blocked by auto-mode classifier)
+
+---
+
+## Previous Run: 2026-10-10
 
 | Step | Status | Notes |
 |------|--------|-------|

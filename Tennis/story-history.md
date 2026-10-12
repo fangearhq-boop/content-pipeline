@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## October 12, 2026
+
+| 2026-10-12 | Zheng Qinwen def. Mirra Andreeva 7-5, 6-4 to win 2026 China Open WTA; wildcard ranked No. 54; first Chinese player to win China Open; 6th career WTA title; first title since Tokyo 2024 (right elbow injury return); Andreeva's 5th final of 2026, would have been World No. 3. Sources: wtatennis.com, tennismajors.com, skysports.com | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Oct 10 S1: Andreeva advances to WTA Beijing final) |
+| 2026-10-12 | Shanghai Masters Day 6-7: Alcaraz def. Cerundolo 6-3, 6-3 (7-match win streak); Zverev def. Halys 6-4, 6-7(8), 6-3 (60th win of 2026); Medvedev def. Struff 4-6, 6-4, 6-3 (post-Beijing DQ return); Shelton (No. 5) upset by Gea 7-6(5), 7-6(3) (Gea's first Masters 1000 main draw, age 21); Djokovic exits R2; Tsitsipas def. Fritz (No. 11) 3-6, 7-5, 6-3. Sources: atptour.com, sundayguardianlive.com, skysports.com | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Oct 10 S3: Shanghai Day 4) |
+| 2026-10-12 | Zverev 60th win of 2026 at Shanghai vs. Halys; ankle recovered; leads Race to Turin ~8,650 pts; first German Year-End No. 1 if confirmed; Sinner out for season; R16 vs. Bublik. Sources: atptour.com, sundayguardianlive.com | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 10 S4: Zverev ankle watch) |
+| 2026-10-12 | Race to Turin bubble: Shelton (R3 exit), Djokovic (R2 exit), Tiafoe (lost to Davidovich Fokina) all eliminated; De Minaur R4 vs. Khachanov; Medvedev advancing; Tsitsipas def. Fritz; 6 rounds + Vienna + Paris-Bercy remaining. Sources: atptour.com, racetotur.in | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Oct 10 S5: Race to Turin bubble) |
+| 2026-10-12 | French tennis at Shanghai: Arthur Gea (21) def. Shelton 7-6(5), 7-6(3) — first Masters 1000 main draw ever; Rafael Jodar def. Lehecka 4-6, 7-6(2), 6-4, reaches R16; French depth behind Humbert/Mpetshi Perricard growing. Sources: sundayguardianlive.com, atptour.com | T2 | X, FB, Article | Ryan Calloway; NEW STORY |
+
+---
+
+
 ## October 10, 2026
 
 | 2026-10-10 | Andreeva def. Bartunkova 6-2, 6-2 in WTA Beijing SF; 4th WTA 1000 final; rises to World No. 3 Monday; 50 wins in 2026 season; Bartunkova ended week in top 30 (first WTA 1000 SF). Sources: wtatennis.com, sundayguardianlive.com, tennisworldusa.org | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Oct 9 S3: WTA Beijing QF → SF RESULT) |
