@@ -1,0 +1,264 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-12",
+  "compiled_at": "2026-10-12T11:51:55.517635+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Grant Forrest Wins Open de España — Earns 2027 Masters and Open Championship Invitations",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "GRANT FORREST WINS THE OPEN DE ESPAÑA.\n\nBirdie on 18 to beat Chacarra and Perez by one shot at 14-under.\n\nThird DP World Tour title. First win outside Scotland.\n\nAnd the prize: invitations to the 2027 Masters AND The Open at St Andrews.\n\n#SpanishOpen #DPWorldTour",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#SpanishOpen",
+            "#DPWorldTour"
+          ],
+          "char_count": 263
+        },
+        {
+          "label": "Post 2",
+          "text": "Grant Forrest wins in Spain and earns:\n\n⛳ 2027 Masters invitation\n🏆 2027 Open Championship at St Andrews invitation\n\nA birdie at the last. One shot better than a Spanish hometown favourite.\n\nThat's a career round. #SpanishOpen",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#SpanishOpen"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-grant-forrest-wins-open-de-espana.html",
+        "headline": "Grant Forrest Wins Open de España — Double Major Invitation and a Birdie for the Ages",
+        "word_count": 491
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Grant Forrest Wins Open de España\n\n**Imagn Search Terms:** `Grant Forrest golf`\n**Credit:** (USA TODAY Sports Images)\n\n**Concept A — Celebration at 18**\nForrest celebrating after his birdie on the 18th green at Real Club de Campo Villa de Madrid. Arms raised, crowd in background. The decisive moment of the tournament.\n\n**Concept B — Trophy Presentation**\nForrest lifting the Open de España trophy. European Tour branding visible. Podium or green setting in Madrid.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Grant Forrest Wins Open de España\n**Sources:**\n- Golf Channel: \"2026 Spanish Open: Grant Forrest wins to earn spot at Augusta, St. Andrews next year\"\n- DP World Tour (europeantour.com): \"Grant Forrest wins in Spain to earn double Major invite\"\n- GolfMagic: \"Spanish Open Final Scores — Grant Forrest lands DP World Tour hat-trick\"\n- thegolfnewsnet.com: \"2026 Open de Espana final results: Prize money payout\"\n- Golf Monthly: \"Grant Forrest Wins Open De Espana And Secures Place At The Masters And Open Championship\"\n**Verified Facts:**\n- Forrest wins 2026 Open de España (Confidence: HIGH — Golf Channel, DP World Tour, multiple)\n- Final score: 14-under, 270 (Confidence: HIGH — thegolfnewsnet.com)\n- Runner-up: Eugenio Chacarra and Victor Perez tied at 13-under (Confidence: HIGH — Golf Channel)\n- Chacarra had clubhouse lead before Forrest birdie on 18th (Confidence: HIGH — Golf Channel)\n- Third DP World Tour title (Confidence: HIGH — GolfMagic headline \"hat-trick\")\n- First win outside Scotland (Confidence: HIGH — Golf Channel)\n- Earned 2027 Masters invitation (Confidence: HIGH — DP World Tour, Golf Monthly)\n- Earned 2027 Open Championship at St Andrews invitation (Confidence: HIGH — DP World Tour)\n- Prize: €567,564 / ~$637,500 (Confidence: HIGH — thegolfnewsnet.com, GolfMagic — two independent sources agree)\n- Venue: Real Club de Campo Villa de Madrid (Confidence: HIGH — DP World Tour)\n- Event dates: October 8–11, 2026 (Confidence: HIGH — multiple)\n**Notes:**\n- Chacarra is Spanish, so the home-favourite narrative angle is available\n- 835 Race to Dubai points earned (from thegolfnewsnet.com — MEDIUM, single source, not for article use)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Jon Rahm Leaving LIV Golf — Separation Agreement Deadline October 15",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Jon Rahm is leaving LIV Golf.\n\nHis attorney told bankruptcy court the proposed LIV 2.0 terms are \"unacceptable.\" A separation deal is due by October 15.\n\nHe's owed between $100M and $150M.\n\nHis path back to the PGA Tour? Unclear.\n\n#JonRahm #LIVGolf",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [
+            "#JonRahm",
+            "#LIVGolf"
+          ],
+          "char_count": 248
+        },
+        {
+          "label": "Post 4",
+          "text": "Jon Rahm signed with LIV in December 2023.\n\nNow the bankrupt league can't pay him what it owes.\n\nHe wants out. The PGA Tour has no current path for his return.\n\nTwo-time major champion. No tour. One of golf's most extraordinary situations.\n\n#JonRahm #LIVGolf",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [
+            "#JonRahm",
+            "#LIVGolf"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-jon-rahm-leaving-liv-golf.html",
+        "headline": "Jon Rahm Is Leaving LIV Golf — And He's Owed Up to $150 Million",
+        "word_count": 493
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jon Rahm Leaving LIV Golf\n\n**Imagn Search Terms:** `Jon Rahm golf`\n**Credit:** (USA TODAY Sports Images)\n\n**Concept A — Rahm in Action**\nRahm mid-swing, powerful follow-through. Neutral background preferred to avoid LIV Golf-specific branding issues.\n\n**Concept B — Rahm Portrait / Press**\nRahm at a press conference or media availability. Thoughtful expression fitting the seriousness of the situation.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jon Rahm Leaving LIV Golf\n**Sources:**\n- ESPN: \"Jon Rahm leaving LIV Golf in blow to future of bankrupt league\"\n- Sky Sports Golf: \"Jon Rahm to quit LIV Golf over 'unacceptable' terms for proposed relaunch\"\n- Sports Illustrated: \"Jon Rahm Just Quit LIV Golf. Here's Why a Quick Return to the PGA Tour Will Be Tricky\"\n- Yardbarker: \"Jon Rahm leaves LIV Golf with no job and a $150 million hole in his wallet\"\n- Daily Dispatch (South Africa): LIV Golf files for bankruptcy protection, 2026-09-09\n**Verified Facts:**\n- Rahm will not participate in LIV 2.0 relaunch (Confidence: HIGH — ESPN, Sky Sports, SI)\n- Attorney: John Beck (Confidence: HIGH — ESPN, Sky Sports)\n- Beck stated terms were \"unacceptable\" to Rahm (Confidence: HIGH — Sky Sports, ESPN)\n- Separation agreement deadline: October 15 (Confidence: HIGH — ESPN, Sky Sports both cite same deadline)\n- If no deal, matter could return to court November 5 (Confidence: HIGH — ESPN)\n- Rahm owed $100M+ (ESPN) or up to $150M (Sky Sports) (Confidence: HIGH — two sources, different figures; article uses \"approximately $100–150 million\" or range)\n- LIV filed Chapter 11 bankruptcy in New Jersey, September 2026 (Confidence: HIGH — multiple sources from September)\n- PIF withdrew backing from LIV (Confidence: HIGH — multiple sources)\n- PGA Tour CEO Brian Rolapp: \"There's no merger\" — August 7, 2026 (Confidence: HIGH — Bloomberg Government News)\n- Rahm previously declined PGA Tour's Returning Member Program (Confidence: HIGH — SI)\n- No immediate PGA Tour reinstatement path currently available (Confidence: HIGH — SI)\n**Notes:**\n- Rahm signed with LIV in December 2023; was league's most high-profile recruit\n- LIV liabilities: $500M–$1B (single source — too LOW for article use)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Tiger, Rory, Day and Matsuyama — Skins Match Preview, October 21 in Japan",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Tiger. Rory. Jason Day. Hideki Matsuyama.\n\nJapan skins match — October 21 at Accordia Golf Narashino CC.\n\nMcIlroy (Masters champion) opens as favorite at +150.\nWoods at +175.\n\nThis is appointment golf. 🇯🇵",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-tiger-rory-day-matsuyama-japan-skins-preview.html",
+        "headline": "Tiger, Rory, Day and Matsuyama Set for Japan Skins Match — October 21 at Narashino",
+        "word_count": 420
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tiger-Rory-Day-Matsuyama Skins Match\n\n**Imagn Search Terms:** `Tiger Woods golf` / `Rory McIlroy golf`\n**Credit:** (USA TODAY Sports Images)\n\n**Concept A — Tiger in Action**\nWoods in his swing or walking a fairway. High-quality action shot.\n\n**Concept B — McIlroy Action**\nMcIlroy in full swing, Masters champion kit or neutral gear. Celebration expression preferred.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tiger-Rory-Day-Matsuyama Skins Match\n**Sources:**\n- GolfWRX: \"Rory McIlroy opens as betting favorite for October skins match with Tiger Woods in Japan\"\n**Verified Facts:**\n- Skins match: Tiger Woods, Rory McIlroy, Jason Day, Hideki Matsuyama (Confidence: HIGH — GolfWRX)\n- Date: October 21 (Confidence: HIGH — GolfWRX)\n- Venue: Accordia Golf Narashino Country Club, Japan (Confidence: HIGH — GolfWRX)\n- PGA Tour-sanctioned event (Confidence: HIGH — GolfWRX)\n- McIlroy betting favourite: +150 (Confidence: HIGH — GolfWRX/BetOnline)\n- Woods: +175 (Confidence: HIGH — GolfWRX)\n- McIlroy won 2026 Masters (Confidence: HIGH — GolfWRX, broader multiple sources)\n**Notes:**\n- Prize pool not confirmed — do not use\n- Tiger Woods playing status confirmed per GolfWRX piece citing the event",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Butterfield Bermuda Championship Preview — PGA Tour Returns October 22–25",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "No PGA Tour event this week — the Fall season takes a breath after Japan.\n\nNext up: Butterfield Bermuda Championship, Oct 22–25 at Port Royal Golf Course.\n\nThen Mexico. The bubble race has four events left. #PGATour #FedExCup",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#PGATour",
+            "#FedExCup"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-butterfield-bermuda-championship-preview.html",
+        "headline": "Next Stop Bermuda: PGA Tour FedExCup Fall Resumes October 22–25 at Port Royal",
+        "word_count": 426
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Butterfield Bermuda Championship Preview\n\n**Imagn Search Terms:** `Port Royal Golf Course Bermuda` / `PGA Tour Bermuda golf`\n**Credit:** (USA TODAY Sports Images)\n\n**Concept A — Port Royal Course**\nAerial or wide-angle shot of Port Royal's coastline holes. Atlantic Ocean visible in background. Bermuda's distinctive pink-sand aesthetic if possible.\n\n**Concept B — Previous Bermuda Event**\nA player competing at the Bermuda Championship — colorful flag, ocean background, wind-swept appearance.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Butterfield Bermuda Championship Preview\n**Sources:**\n- Heavy.com: FedExCup Fall Schedule 2026 — Bermuda Championship Oct 22–25\n- ESPN/Africa (via PGA Tour): FedExCup Fall schedule with Mexico swing\n- CBS Sports: PGA Tour FedExCup Fall Schedule 2026\n**Verified Facts:**\n- Butterfield Bermuda Championship: Oct 22–25 at Port Royal Golf Course, Bermuda (Confidence: HIGH — Heavy.com; CBS says Oct 19–25 — using Oct 22–25 per majority of sources)\n- No PGA Tour event week of Oct 12–18 (Confidence: HIGH — sources confirm gap/break after Baycurrent)\n- VidantaWorld Mexico Open: Oct 29–Nov 1 in Nuevo Vallarta (Confidence: HIGH — ESPN/PGA Tour)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "LPGA Shanghai Preview — Buick LPGA Shanghai Opens October 15",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "The LPGA Tour is heading to Shanghai.\n\n🇨🇳 Buick LPGA Shanghai — Oct 15-18\n🇰🇷 BMW Ladies Championship — Oct 22-25\n🇲🇾 Maybank Championship — Oct 29-Nov 1\n\nThree countries. Three weeks. The Race to CME Globe enters its final stretch.\n\n#LPGA",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [
+            "#LPGA"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-lpga-shanghai-asian-swing-preview.html",
+        "headline": "LPGA Heads to Shanghai — Three Weeks, Three Countries, the Race to CME Globe Heats Up",
+        "word_count": 408
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LPGA Shanghai Preview\n\n**Imagn Search Terms:** `LPGA golf Shanghai`\n**Credit:** (USA TODAY Sports Images)\n\n**Concept A — LPGA Player in Action**\nA leading LPGA Tour player in their full swing. Neutral or Shanghai-setting background.\n\n**Concept B — LPGA Trophy / Course**\nShanghai event trophy or course overview — skyline visible in background if available."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LPGA Shanghai Preview\n**Sources:**\n- Multiple copies of \"LPGA Tour 2026 schedule\" article (Dec 2025) — verified on non-spam versions\n**Verified Facts:**\n- Buick LPGA Shanghai: October 15–18, 2026 (Confidence: HIGH — consistent across multiple 2026 schedule sources)\n- BMW Ladies Championship: October 22–25, Pine Beach Golf Links, South Korea (Confidence: HIGH)\n- Maybank Championship: October 29–Nov 1, Kuala Lumpur Golf and Country Club, Malaysia (Confidence: HIGH)\n- 2026 LPGA season: 33 events, 13 countries, $132M+ total prize fund (Confidence: HIGH — Dec 2025 schedule article)\n**Notes:**\n- No current LPGA result news found for Oct 12. Story is preview-only.\n- Specific player field for Shanghai not confirmed — do not list players in article",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

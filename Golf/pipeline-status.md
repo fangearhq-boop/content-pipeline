@@ -1,5 +1,31 @@
 # Golf Fanrecap — Pipeline Status
 
+## Latest Run: 2026-10-12
+
+**Run completed:** 2026-10-12
+**Stories:** 5
+**Articles:** 5
+**X posts:** 7
+**Status:** COMPLETE (with known proxy limitations)
+
+### Scripts Run (2026-10-12)
+- [x] verify-facts.py — 43 claims, 92 HIGH (imagn image warnings expected)
+- [x] compile-content-data.py — 5 stories, 7 tweets, 0 FB (known parsing issue), 5 articles
+- [x] generate-review-dashboard.py — 22 items
+- [ ] generate-postplanner-export.py — 0 posts (known parsing issue)
+- [ ] publish-unified-dashboard.py — BLOCKED (content-dashboards not in authorized repo set, consistent)
+- [ ] publish-to-wordpress.py — BLOCKED (WordPress credentials not configured, consistent)
+- [x] git push — main branch
+
+**Stories covered (2026-10-12):**
+1. T1 FOLLOW UP: Grant Forrest Wins Open de España — Double Major Invitation (Ryan Calloway)
+2. T1 NEW: Jon Rahm Leaving LIV Golf — Separation Agreement Deadline October 15 (Jake Torres)
+3. T2 NEW: Tiger-Rory-Day-Matsuyama Japan Skins Match Preview, October 21 (Marcus Cole)
+4. T2 FOLLOW UP: Butterfield Bermuda Championship Preview — Oct 22–25 at Port Royal (Ryan Calloway)
+5. T2 NEW: LPGA Shanghai Preview — Asian Swing Begins October 15 (Jake Torres)
+
+---
+
 ## Latest Run: 2026-10-11
 
 **Run completed:** 2026-10-11

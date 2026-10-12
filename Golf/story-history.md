@@ -2,6 +2,18 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-10-12
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-12 | T1 | Grant Forrest Wins Open de España — Double Major Invitation and a Birdie for the Ages | X(2), FB, Article | FOLLOW UP |
+| 2026-10-12 | T1 | Jon Rahm Is Leaving LIV Golf — And He's Owed Up to $150 Million | X(2), FB, Article | NEW |
+| 2026-10-12 | T2 | Tiger, Rory, Day and Matsuyama — Skins Match Preview, October 21 in Japan | X(1), FB, Article | NEW |
+| 2026-10-12 | T2 | Next Stop Bermuda: PGA Tour FedExCup Fall Resumes October 22–25 at Port Royal | X(1), FB, Article | FOLLOW UP |
+| 2026-10-12 | T2 | LPGA Heads to Shanghai — Three Weeks, Three Countries, the Race to CME Globe Heats Up | X(1), FB, Article | NEW |
+
+---
+
 ## 2026-10-11
 
 | Date | Tier | Title | Platforms | Status |

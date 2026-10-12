@@ -1,0 +1,2968 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Golf Fanrecap — Content Review Dashboard</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #f5f5f5;
+            display: flex;
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .sidebar {
+            width: 280px;
+            background: #1a1a2e;
+            color: white;
+            padding: 30px 20px;
+            position: fixed;
+            height: 100vh;
+            overflow-y: auto;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            z-index: 10;
+        }
+
+        .sidebar h1 { font-size: 18px; margin-bottom: 10px; color: #FF8A00; font-weight: 700; }
+        .sidebar-date { font-size: 12px; color: #aaa; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #333; }
+        .sidebar-section { margin-bottom: 25px; }
+        .sidebar-section-title { font-size: 12px; text-transform: uppercase; color: #999; margin-bottom: 12px; font-weight: 600; letter-spacing: 1px; }
+
+        .nav-item {
+            display: block; padding: 12px 15px; margin-bottom: 8px; border-radius: 6px;
+            cursor: pointer; transition: all 0.3s ease; font-size: 14px; color: #ddd; user-select: none;
+        }
+        .nav-item:hover { background: #2d2d44; color: #FF8A00; }
+        .nav-item.active { background: #FF8A00; color: white; }
+        .nav-item-count { float: right; background: rgba(255, 107, 53, 0.3); padding: 2px 8px; border-radius: 3px; font-size: 12px; }
+        .nav-item.active .nav-item-count { background: rgba(0, 0, 0, 0.2); }
+
+        .main-content { margin-left: 280px; flex: 1; display: flex; flex-direction: column; }
+
+        .header {
+            background: white; padding: 25px 40px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-bottom: 3px solid #FF8A00;
+        }
+        .header h1 { font-size: 28px; color: #1a1a2e; margin-bottom: 10px; }
+        .header-meta { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px; }
+        .progress-bar { flex: 1; min-width: 200px; }
+        .progress-label { font-size: 13px; color: #666; margin-bottom: 8px; font-weight: 500; }
+        .progress-container { width: 100%; height: 8px; background: #ddd; border-radius: 4px; overflow: hidden; }
+        .progress-fill { height: 100%; background: linear-gradient(90deg, #FF8A00, #E53935); transition: width 0.3s ease; }
+        .header-actions { display: flex; gap: 10px; }
+
+        .btn {
+            padding: 10px 16px; border: none; border-radius: 6px; font-size: 14px;
+            font-weight: 600; cursor: pointer; transition: all 0.3s ease; white-space: nowrap;
+        }
+        .btn-primary { background: #FF8A00; color: white; }
+        .btn-primary:hover { background: #E53935; }
+        .btn-secondary { background: #f0f0f0; color: #333; }
+        .btn-secondary:hover { background: #e0e0e0; }
+
+        .filter-bar {
+            background: white; padding: 20px 40px; display: flex;
+            gap: 10px; flex-wrap: wrap; border-bottom: 1px solid #eee;
+        }
+        .filter-btn {
+            padding: 8px 14px; border: 1px solid #ddd; background: white;
+            border-radius: 5px; cursor: pointer; font-size: 13px; transition: all 0.3s ease;
+        }
+        .filter-btn:hover { border-color: #FF8A00; color: #FF8A00; }
+        .filter-btn.active { background: #FF8A00; color: white; border-color: #FF8A00; }
+
+        .content { flex: 1; padding: 30px 40px; overflow-y: auto; }
+
+        .cards-container { display: flex; flex-direction: column; gap: 20px; max-width: 900px; }
+
+        .card {
+            background: white; border-radius: 8px; padding: 24px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: all 0.3s ease;
+            border-left: 5px solid #ccc; display: none;
+        }
+        .card.show { display: block; }
+        .card.approved { border-left-color: #22c55e; }
+        .card.needs-edit { border-left-color: #eab308; }
+        .card.rejected { border-left-color: #ef4444; }
+        .card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.12); }
+
+        .card-header { display: flex; justify-content: space-between; align-items: start; margin-bottom: 15px; }
+        .card-title { font-size: 16px; font-weight: 600; color: #1a1a2e; flex: 1; margin-right: 10px; }
+
+        .card-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+        }
+        .badge-x-post { background: #1da1f2; color: white; }
+        .badge-facebook { background: #4267b2; color: white; }
+        .badge-article { background: #9333ea; color: white; }
+        .badge-image { background: #06b6d4; color: white; }
+        .badge-brief { background: #10b981; color: white; }
+
+        .fact-check-badge {
+            display: inline-block; padding: 3px 8px; border-radius: 4px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+            margin-left: 6px;
+        }
+        .fact-check-verified { background: #dcfce7; color: #166534; border: 1px solid #86efac; }
+        .fact-check-warning { background: #fef9c3; color: #854d0e; border: 1px solid #fde047; }
+        .fact-check-unverified { background: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; }
+
+        /* Content area — preview (collapsed) and full (expanded) */
+        .card-content {
+            background: #f9f9f9; padding: 15px; border-radius: 6px;
+            margin-bottom: 15px; font-size: 13px; line-height: 1.6; color: #555;
+            position: relative;
+        }
+        .card-content-text {
+            white-space: pre-wrap; word-break: break-word;
+        }
+
+        /* Collapsed state: limit height with fade */
+        .card-content.collapsed {
+            max-height: 200px; overflow: hidden;
+        }
+        .card-content.collapsed::after {
+            content: '';
+            position: absolute; bottom: 0; left: 0; right: 0; height: 60px;
+            background: linear-gradient(transparent, #f9f9f9);
+            pointer-events: none;
+        }
+
+        /* Expanded state: no limit */
+        .card-content.expanded {
+            max-height: none; overflow: visible;
+        }
+        .card-content.expanded::after { display: none; }
+
+        .expand-toggle {
+            display: inline-block; margin-bottom: 12px; padding: 6px 14px;
+            background: #eee; border: 1px solid #ddd; border-radius: 4px;
+            cursor: pointer; font-size: 12px; font-weight: 600; color: #555;
+            transition: all 0.2s ease;
+        }
+        .expand-toggle:hover { background: #ddd; color: #333; }
+
+        /* Inline editing */
+        .edit-textarea {
+            width: 100%; padding: 15px; border: 2px solid #FF8A00;
+            border-radius: 6px; font-size: 13px; font-family: inherit;
+            line-height: 1.6; resize: vertical; min-height: 200px;
+            background: #fffef5; color: #333; display: none;
+        }
+        .edit-textarea:focus {
+            outline: none; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.15);
+        }
+        .card.editing .card-content { display: none; }
+        .card.editing .edit-textarea { display: block; }
+        .card.editing .expand-toggle { display: none; }
+
+        .edit-bar {
+            display: none; gap: 8px; margin-bottom: 12px; padding: 10px;
+            background: #fff8f0; border: 1px solid #ffcc99; border-radius: 6px;
+            align-items: center;
+        }
+        .card.editing .edit-bar { display: flex; }
+        .edit-bar-label { font-size: 12px; font-weight: 600; color: #cc6600; flex: 1; }
+        .edit-bar .btn { padding: 7px 14px; font-size: 12px; }
+
+        .tweet-meta-bar {
+            display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; padding: 0;
+        }
+        .tweet-meta-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 600; letter-spacing: 0.3px;
+        }
+        .tweet-meta-label { background: #e0e7ff; color: #3730a3; }
+        .tweet-meta-time { background: #fef3c7; color: #92400e; }
+        .tweet-meta-type { background: #d1fae5; color: #065f46; }
+        .tweet-meta-tier { background: #f3e8ff; color: #6b21a8; }
+        .tweet-meta-hashtags { background: #dbeafe; color: #1e40af; font-family: monospace; }
+
+        .char-count {
+            font-size: 12px; margin: 0 0 10px 0; padding: 8px;
+            background: #f0f0f0; border-radius: 4px;
+        }
+        .char-count.warning { background: #fee2e2; color: #991b1b; }
+
+        .card-actions { display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+        .action-btn {
+            flex: 1; padding: 10px; border: none; border-radius: 5px;
+            cursor: pointer; font-size: 13px; font-weight: 600;
+            transition: all 0.3s ease; white-space: nowrap; min-width: 100px;
+        }
+        .btn-approve { background: #e8f5e9; color: #22c55e; border: 1px solid #22c55e; }
+        .btn-approve:hover { background: #22c55e; color: white; }
+        .btn-edit { background: #fff3e0; color: #e65100; border: 1px solid #ff9800; }
+        .btn-edit:hover { background: #ff9800; color: white; }
+        .btn-reject { background: #fee2e2; color: #ef4444; border: 1px solid #ef4444; }
+        .btn-reject:hover { background: #ef4444; color: white; }
+        .btn-copy { background: #f0f0f0; color: #333; border: 1px solid #ddd; }
+        .btn-copy:hover { background: #e0e0e0; }
+
+        .notes-section { display: none; margin-bottom: 12px; }
+        .notes-section.show { display: block; }
+        .notes-label { font-size: 12px; font-weight: 600; color: #666; margin-bottom: 6px; }
+        .notes-textarea {
+            width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;
+            font-size: 13px; font-family: inherit; resize: vertical; min-height: 60px;
+        }
+        .notes-textarea:focus { outline: none; border-color: #FF8A00; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.1); }
+
+        .status-label {
+            font-size: 11px; font-weight: 600; text-transform: uppercase;
+            padding: 4px 8px; border-radius: 3px; margin-top: 10px; display: inline-block;
+        }
+        .status-approved { background: #e8f5e9; color: #22c55e; }
+        .status-needs-edit { background: #fffbeb; color: #f59e0b; }
+        .status-rejected { background: #fee2e2; color: #ef4444; }
+        .status-edited { background: #e3f2fd; color: #1565c0; }
+
+        .empty-state { text-align: center; padding: 60px 20px; color: #999; }
+        .empty-state-icon { font-size: 48px; margin-bottom: 15px; }
+
+        /* Approval stats bar */
+        .approval-stats {
+            display: flex; gap: 16px; margin-top: 12px; flex-wrap: wrap;
+        }
+        .stat-chip {
+            display: inline-flex; align-items: center; gap: 6px;
+            padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 600;
+        }
+        .stat-approved { background: #dcfce7; color: #16a34a; }
+        .stat-rejected { background: #fee2e2; color: #dc2626; }
+        .stat-unreviewed { background: #f3f4f6; color: #6b7280; }
+        .stat-dot { width: 8px; height: 8px; border-radius: 50%; }
+        .stat-approved .stat-dot { background: #22c55e; }
+        .stat-rejected .stat-dot { background: #ef4444; }
+        .stat-unreviewed .stat-dot { background: #9ca3af; }
+
+        /* PostPlanner XLSX button */
+        .btn-csv { background: #7c3aed; color: white; }
+        .btn-csv:hover { background: #6d28d9; }
+        .btn-csv:disabled { background: #c4b5fd; cursor: not-allowed; }
+
+        /* Schedule settings panel */
+        .schedule-panel {
+            display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
+            background: white; border-radius: 12px; padding: 30px; z-index: 1000;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3); width: 500px; max-width: 90vw; max-height: 80vh; overflow-y: auto;
+        }
+        .schedule-panel.show { display: block; }
+        .schedule-overlay { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); z-index: 999; }
+        .schedule-overlay.show { display: block; }
+        .schedule-panel h3 { color: #1a1a2e; margin-bottom: 20px; font-size: 18px; }
+        .schedule-section { margin-bottom: 20px; }
+        .schedule-section label { display: block; font-size: 13px; font-weight: 600; color: #555; margin-bottom: 6px; }
+        .schedule-section input { width: 100%; padding: 8px 12px; border: 1px solid #ddd; border-radius: 4px; font-size: 14px; }
+        .schedule-section input:focus { outline: none; border-color: #7c3aed; }
+        .time-slots { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+        .time-slot {
+            display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px;
+            background: #f3f0ff; border: 1px solid #c4b5fd; border-radius: 20px; font-size: 13px;
+        }
+        .time-slot .remove-slot { cursor: pointer; color: #999; font-weight: bold; }
+        .time-slot .remove-slot:hover { color: #ef4444; }
+        .add-slot-btn {
+            padding: 6px 14px; background: #f3f0ff; border: 1px dashed #7c3aed; border-radius: 20px;
+            cursor: pointer; font-size: 13px; color: #7c3aed;
+        }
+        .add-slot-btn:hover { background: #ede9fe; }
+        .schedule-actions { display: flex; gap: 10px; justify-content: flex-end; margin-top: 20px; }
+
+        /* Photo search links for image concepts */
+        .photo-section {
+            margin-bottom: 15px; padding: 12px; background: #f0f9ff;
+            border: 1px solid #bae6fd; border-radius: 6px;
+        }
+        .photo-section-title {
+            font-size: 12px; font-weight: 700; color: #0369a1; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-bottom: 8px;
+        }
+        .photo-links { display: flex; flex-wrap: wrap; gap: 6px; }
+        .photo-link {
+            display: inline-block; padding: 6px 12px; background: #0ea5e9;
+            color: white; border-radius: 4px; font-size: 12px; font-weight: 500;
+            text-decoration: none; transition: all 0.2s ease; cursor: pointer;
+        }
+        .photo-link:hover { background: #0284c7; }
+
+        /* Image URL input and preview for image concepts */
+        .image-url-section {
+            margin-bottom: 15px; padding: 12px; background: #f0fdf4;
+            border: 1px solid #bbf7d0; border-radius: 6px;
+        }
+        .image-url-section label {
+            display: block; font-size: 12px; font-weight: 700; color: #166534;
+            text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px;
+        }
+        .image-url-input {
+            width: 100%; padding: 8px 10px; border: 1px solid #86efac;
+            border-radius: 4px; font-size: 13px; font-family: monospace;
+            background: white; box-sizing: border-box;
+        }
+        .image-url-input:focus { outline: none; border-color: #22c55e; box-shadow: 0 0 0 2px rgba(34,197,94,0.2); }
+        .image-url-hint {
+            font-size: 11px; color: #6b7280; margin-top: 4px;
+        }
+        .image-preview {
+            margin-top: 8px; text-align: center;
+        }
+        .image-preview img {
+            max-width: 100%; max-height: 200px; border-radius: 4px;
+            border: 1px solid #d1d5db; display: none;
+        }
+        .image-preview img.loaded { display: inline-block; }
+
+        /* Image production status badges */
+        .image-badge {
+            display: inline-block; padding: 2px 8px; border-radius: 3px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-left: 6px;
+        }
+        .image-exported { background: #dcfce7; color: #166534; }
+        .image-in-progress { background: #fef3c7; color: #92400e; }
+        .image-not-started { background: #f3f4f6; color: #6b7280; }
+
+        /* Text overlay preview for image concepts */
+        .overlay-section {
+            margin-bottom: 15px; padding: 15px; background: #1a1a2e;
+            border-radius: 6px; text-align: center;
+        }
+        .overlay-line {
+            font-family: 'Bebas Neue', Impact, 'Arial Black', sans-serif;
+            color: #ffd700; font-size: 18px; font-weight: 700; line-height: 1.4;
+            text-transform: uppercase; letter-spacing: 1px;
+        }
+        .overlay-line.sub { color: #ffffff; font-size: 14px; font-weight: 400; letter-spacing: 0; text-transform: none; }
+
+        /* Article content rendered as HTML */
+        .article-frame {
+            width: 100%; border: 1px solid #ddd; border-radius: 6px;
+            background: white; min-height: 300px;
+        }
+
+        @media (max-width: 768px) {
+            .sidebar { width: 100%; height: auto; position: relative; padding: 20px; }
+            .main-content { margin-left: 0; }
+            .content { padding: 20px; }
+            .header { padding: 15px 20px; }
+            .header h1 { font-size: 20px; }
+            .filter-bar { padding: 15px 20px; }
+            .header-meta { flex-direction: column; align-items: stretch; }
+            .progress-bar { min-width: auto; }
+        }
+
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #888; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #555; }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <h1>Golf Fanrecap</h1>
+        <div class="sidebar-date">Review Dashboard<br>2026-10-12</div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Content Types</div>
+            <div class="nav-item" onclick="filterByType('daily_brief')">
+                Daily Brief
+                <span class="nav-item-count">5</span>
+            </div>
+            <div class="nav-item" onclick="filterByType('x_post')">
+                X / Twitter Posts
+                <span class="nav-item-count">7</span>
+            </div>
+            <div class="nav-item" onclick="filterByType('article')">
+                Articles
+                <span class="nav-item-count">5</span>
+            </div>
+            <div class="nav-item" onclick="filterByType('image_concept')">
+                Image Concepts
+                <span class="nav-item-count">5</span>
+            </div>
+
+            <div class="nav-item" onclick="filterByType('all')">
+                All Items
+                <span class="nav-item-count">22</span>
+            </div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Status Filter</div>
+            <div class="nav-item" onclick="filterByStatus('all')">All</div>
+            <div class="nav-item" onclick="filterByStatus('unreviewed')">Unreviewed</div>
+            <div class="nav-item" onclick="filterByStatus('approved')">Approved</div>
+            <div class="nav-item" onclick="filterByStatus('needs-edit')">Needs Edit</div>
+            <div class="nav-item" onclick="filterByStatus('rejected')">Rejected</div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Actions</div>
+            <div class="nav-item" onclick="approveAll()" style="color: #22c55e;">
+                Approve All
+            </div>
+            <div class="nav-item" onclick="exportApprovals()" style="color: #FF8A00;">
+                Export Results JSON
+            </div>
+            <div class="nav-item" onclick="downloadPostPlannerCSV()" style="color: #a78bfa;">
+                PostPlanner Upload
+            </div>
+            <div class="nav-item" onclick="downloadTOBIExport()" style="color: #f472b6;">
+                TOBI Upload
+            </div>
+        </div>
+    </div>
+
+    <div class="main-content">
+        <div class="header">
+            <h1>Golf Fanrecap — Content Review Dashboard</h1>
+            <div class="header-meta">
+                <div class="progress-bar">
+                    <div class="progress-label">
+                        <span id="reviewed-count">0</span> of <span id="total-count">22</span> items reviewed
+                    </div>
+                    <div class="progress-container">
+                        <div class="progress-fill" id="progress-fill" style="width: 0%"></div>
+                    </div>
+                    <div class="approval-stats" id="approval-stats">
+                        <span class="stat-chip stat-approved"><span class="stat-dot"></span> <span id="stat-approved-count">0</span> approved</span>
+                        <span class="stat-chip stat-rejected"><span class="stat-dot"></span> <span id="stat-rejected-count">0</span> rejected</span>
+                        <span class="stat-chip stat-unreviewed"><span class="stat-dot"></span> <span id="stat-unreviewed-count">0</span> unreviewed</span>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <button class="btn btn-secondary" onclick="resetAll()">Reset All</button>
+                    <button class="btn btn-csv" id="btn-csv" onclick="downloadPostPlannerCSV()" disabled>PostPlanner Upload (0 approved)</button>
+                    <button class="btn btn-csv" id="btn-tobi" onclick="downloadTOBIExport()" disabled style="background: #831843; border-color: #f472b6;">TOBI Upload (0 approved)</button>
+                    <button class="btn btn-primary" onclick="exportApprovals()">Export JSON</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="filter-bar">
+            <button class="filter-btn active" onclick="filterByStatus('all')">All</button>
+            <button class="filter-btn" onclick="filterByStatus('unreviewed')">Unreviewed</button>
+            <button class="filter-btn" onclick="filterByStatus('approved')">Approved</button>
+            <button class="filter-btn" onclick="filterByStatus('needs-edit')">Needs Edit</button>
+            <button class="filter-btn" onclick="filterByStatus('rejected')">Rejected</button>
+        </div>
+
+
+        <div class="content">
+            <div class="cards-container" id="cards-container">
+                <div class="card" data-id="story-1-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Grant Forrest Wins Open de España — Earns 2027 Masters and Open Championship Invitations</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-1-daily_brief">
+                        <div class="card-content-text">Grant Forrest Wins Open de España — Earns 2027 Masters and Open Championship Invitations
+- **Tier:** 1</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-daily_brief" placeholder="Edit content here...">Grant Forrest Wins Open de España — Earns 2027 Masters and Open Championship Invitations
+- **Tier:** 1</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-1-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-1-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Grant Forrest Wins Open de España — Earns 2027 Masters and Open Championship Invitations</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 1</span><span class="tweet-meta-badge tweet-meta-type">FOLLOW UP</span><span class="tweet-meta-badge tweet-meta-tier">Tier 1</span><span class="tweet-meta-badge tweet-meta-hashtags">#SpanishOpen #DPWorldTour</span></div>
+
+                    <div class="card-content expanded" id="content-story-1-x_post-1">
+                        <div class="card-content-text">GRANT FORREST WINS THE OPEN DE ESPAÑA.
+
+Birdie on 18 to beat Chacarra and Perez by one shot at 14-under.
+
+Third DP World Tour title. First win outside Scotland.
+
+And the prize: invitations to the 2027 Masters AND The Open at St Andrews.
+
+#SpanishOpen #DPWorldTour</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-x_post-1" placeholder="Edit content here...">GRANT FORREST WINS THE OPEN DE ESPAÑA.
+
+Birdie on 18 to beat Chacarra and Perez by one shot at 14-under.
+
+Third DP World Tour title. First win outside Scotland.
+
+And the prize: invitations to the 2027 Masters AND The Open at St Andrews.
+
+#SpanishOpen #DPWorldTour</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-1-x_post-1">Characters: 263/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-1-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-1-x_post-2" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Grant Forrest Wins Open de España — Earns 2027 Masters and Open Championship Invitations</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 2</span><span class="tweet-meta-badge tweet-meta-type">FOLLOW UP</span><span class="tweet-meta-badge tweet-meta-tier">Tier 1</span><span class="tweet-meta-badge tweet-meta-hashtags">#SpanishOpen</span></div>
+
+                    <div class="card-content expanded" id="content-story-1-x_post-2">
+                        <div class="card-content-text">Grant Forrest wins in Spain and earns:
+
+⛳ 2027 Masters invitation
+🏆 2027 Open Championship at St Andrews invitation
+
+A birdie at the last. One shot better than a Spanish hometown favourite.
+
+That&#x27;s a career round. #SpanishOpen</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-x_post-2" placeholder="Edit content here...">Grant Forrest wins in Spain and earns:
+
+⛳ 2027 Masters invitation
+🏆 2027 Open Championship at St Andrews invitation
+
+A birdie at the last. One shot better than a Spanish hometown favourite.
+
+That&#x27;s a career round. #SpanishOpen</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-x_post-2">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-x_post-2')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-x_post-2')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-1-x_post-2">Characters: 226/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-1-x_post-2">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-x_post-2')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-x_post-2')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-x_post-2')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-x_post-2')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-x_post-2">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-x_post-2" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-x_post-2"></div>
+                </div>
+                <div class="card" data-id="story-1-image_concept" data-type="image_concept" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Grant Forrest Wins Open de España — Earns 2027 Masters and Open Championship Invitations — Image Concept</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-image">IMAGE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-1-image_concept">
+                        <div class="card-content-text">**Image — **
+</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-image_concept" placeholder="Edit content here...">**Image — **
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-image_concept">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-image_concept')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-image_concept')">Cancel</button>
+                    </div>
+                    
+                    <div class="image-url-section">
+                        <label>Selected Image URL <span class="image-badge image-not-started" title="No image manifest found">NO IMAGES</span></label>
+                        <input type="text" class="image-url-input"
+                               data-story="1" data-platform="facebook_image"
+                               placeholder="Paste Imagn or exported image URL here"
+                               value=""
+                               onchange="updateImageURL(this)"
+                               onpaste="setTimeout(function(){ updateImageURL(event.target) }, 100)">
+                        <div class="image-url-hint">Copy the direct image URL from your photo source after selecting</div>
+                        <div class="image-preview">
+                            <img src="" alt="Image preview" class=""
+                                 id="img-preview-1-facebook_image"
+                                 onerror="this.classList.remove('loaded')">
+                        </div>
+                    </div>
+
+                    <div class="card-actions" id="actions-story-1-image_concept">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-image_concept')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-image_concept')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-image_concept')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-image_concept')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-image_concept">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-image_concept" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-image_concept"></div>
+                </div>
+                <div class="card" data-id="story-2-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Jon Rahm Leaving LIV Golf — Separation Agreement Deadline October 15</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-2-daily_brief">
+                        <div class="card-content-text">Jon Rahm Leaving LIV Golf — Separation Agreement Deadline October 15
+- **Tier:** 1</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-daily_brief" placeholder="Edit content here...">Jon Rahm Leaving LIV Golf — Separation Agreement Deadline October 15
+- **Tier:** 1</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-2-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-2-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Jon Rahm Leaving LIV Golf — Separation Agreement Deadline October 15</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 3</span><span class="tweet-meta-badge tweet-meta-type">NEW</span><span class="tweet-meta-badge tweet-meta-tier">Tier 1</span><span class="tweet-meta-badge tweet-meta-hashtags">#JonRahm #LIVGolf</span></div>
+
+                    <div class="card-content expanded" id="content-story-2-x_post-1">
+                        <div class="card-content-text">Jon Rahm is leaving LIV Golf.
+
+His attorney told bankruptcy court the proposed LIV 2.0 terms are &quot;unacceptable.&quot; A separation deal is due by October 15.
+
+He&#x27;s owed between $100M and $150M.
+
+His path back to the PGA Tour? Unclear.
+
+#JonRahm #LIVGolf</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-x_post-1" placeholder="Edit content here...">Jon Rahm is leaving LIV Golf.
+
+His attorney told bankruptcy court the proposed LIV 2.0 terms are &quot;unacceptable.&quot; A separation deal is due by October 15.
+
+He&#x27;s owed between $100M and $150M.
+
+His path back to the PGA Tour? Unclear.
+
+#JonRahm #LIVGolf</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-2-x_post-1">Characters: 248/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-2-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-2-x_post-2" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Jon Rahm Leaving LIV Golf — Separation Agreement Deadline October 15</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 4</span><span class="tweet-meta-badge tweet-meta-type">NEW</span><span class="tweet-meta-badge tweet-meta-tier">Tier 1</span><span class="tweet-meta-badge tweet-meta-hashtags">#JonRahm #LIVGolf</span></div>
+
+                    <div class="card-content expanded" id="content-story-2-x_post-2">
+                        <div class="card-content-text">Jon Rahm signed with LIV in December 2023.
+
+Now the bankrupt league can&#x27;t pay him what it owes.
+
+He wants out. The PGA Tour has no current path for his return.
+
+Two-time major champion. No tour. One of golf&#x27;s most extraordinary situations.
+
+#JonRahm #LIVGolf</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-x_post-2" placeholder="Edit content here...">Jon Rahm signed with LIV in December 2023.
+
+Now the bankrupt league can&#x27;t pay him what it owes.
+
+He wants out. The PGA Tour has no current path for his return.
+
+Two-time major champion. No tour. One of golf&#x27;s most extraordinary situations.
+
+#JonRahm #LIVGolf</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-x_post-2">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-x_post-2')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-x_post-2')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-2-x_post-2">Characters: 258/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-2-x_post-2">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-x_post-2')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-x_post-2')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-x_post-2')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-x_post-2')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-x_post-2">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-x_post-2" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-x_post-2"></div>
+                </div>
+                <div class="card" data-id="story-2-image_concept" data-type="image_concept" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Jon Rahm Leaving LIV Golf — Separation Agreement Deadline October 15 — Image Concept</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-image">IMAGE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-2-image_concept">
+                        <div class="card-content-text">**Image — **
+</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-image_concept" placeholder="Edit content here...">**Image — **
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-image_concept">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-image_concept')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-image_concept')">Cancel</button>
+                    </div>
+                    
+                    <div class="image-url-section">
+                        <label>Selected Image URL <span class="image-badge image-not-started" title="No image manifest found">NO IMAGES</span></label>
+                        <input type="text" class="image-url-input"
+                               data-story="2" data-platform="facebook_image"
+                               placeholder="Paste Imagn or exported image URL here"
+                               value=""
+                               onchange="updateImageURL(this)"
+                               onpaste="setTimeout(function(){ updateImageURL(event.target) }, 100)">
+                        <div class="image-url-hint">Copy the direct image URL from your photo source after selecting</div>
+                        <div class="image-preview">
+                            <img src="" alt="Image preview" class=""
+                                 id="img-preview-2-facebook_image"
+                                 onerror="this.classList.remove('loaded')">
+                        </div>
+                    </div>
+
+                    <div class="card-actions" id="actions-story-2-image_concept">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-image_concept')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-image_concept')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-image_concept')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-image_concept')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-image_concept">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-image_concept" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-image_concept"></div>
+                </div>
+                <div class="card" data-id="story-3-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Tiger, Rory, Day and Matsuyama — Skins Match Preview, October 21 in Japan</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-3-daily_brief">
+                        <div class="card-content-text">Tiger, Rory, Day and Matsuyama — Skins Match Preview, October 21 in Japan
+- **Tier:** 2</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-daily_brief" placeholder="Edit content here...">Tiger, Rory, Day and Matsuyama — Skins Match Preview, October 21 in Japan
+- **Tier:** 2</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-3-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-3-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-3-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Tiger, Rory, Day and Matsuyama — Skins Match Preview, October 21 in Japan</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 5</span><span class="tweet-meta-badge tweet-meta-type">NEW</span><span class="tweet-meta-badge tweet-meta-tier">Tier 2</span></div>
+
+                    <div class="card-content expanded" id="content-story-3-x_post-1">
+                        <div class="card-content-text">Tiger. Rory. Jason Day. Hideki Matsuyama.
+
+Japan skins match — October 21 at Accordia Golf Narashino CC.
+
+McIlroy (Masters champion) opens as favorite at +150.
+Woods at +175.
+
+This is appointment golf. 🇯🇵</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-x_post-1" placeholder="Edit content here...">Tiger. Rory. Jason Day. Hideki Matsuyama.
+
+Japan skins match — October 21 at Accordia Golf Narashino CC.
+
+McIlroy (Masters champion) opens as favorite at +150.
+Woods at +175.
+
+This is appointment golf. 🇯🇵</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-3-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-3-x_post-1">Characters: 204/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-3-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-3-image_concept" data-type="image_concept" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Tiger, Rory, Day and Matsuyama — Skins Match Preview, October 21 in Japan — Image Concept</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-image">IMAGE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-3-image_concept">
+                        <div class="card-content-text">**Image — **
+</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-image_concept" placeholder="Edit content here...">**Image — **
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-3-image_concept">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-image_concept')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-image_concept')">Cancel</button>
+                    </div>
+                    
+                    <div class="image-url-section">
+                        <label>Selected Image URL <span class="image-badge image-not-started" title="No image manifest found">NO IMAGES</span></label>
+                        <input type="text" class="image-url-input"
+                               data-story="3" data-platform="facebook_image"
+                               placeholder="Paste Imagn or exported image URL here"
+                               value=""
+                               onchange="updateImageURL(this)"
+                               onpaste="setTimeout(function(){ updateImageURL(event.target) }, 100)">
+                        <div class="image-url-hint">Copy the direct image URL from your photo source after selecting</div>
+                        <div class="image-preview">
+                            <img src="" alt="Image preview" class=""
+                                 id="img-preview-3-facebook_image"
+                                 onerror="this.classList.remove('loaded')">
+                        </div>
+                    </div>
+
+                    <div class="card-actions" id="actions-story-3-image_concept">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-image_concept')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-image_concept')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-image_concept')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-image_concept')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-image_concept">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-image_concept" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-image_concept"></div>
+                </div>
+                <div class="card" data-id="story-4-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Butterfield Bermuda Championship Preview — PGA Tour Returns October 22–25</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-4-daily_brief">
+                        <div class="card-content-text">Butterfield Bermuda Championship Preview — PGA Tour Returns October 22–25
+- **Tier:** 2</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-4-daily_brief" placeholder="Edit content here...">Butterfield Bermuda Championship Preview — PGA Tour Returns October 22–25
+- **Tier:** 2</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-4-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-4-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-4-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-4-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-4-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-4-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-4-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-4-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-4-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-4-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-4-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-4-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Butterfield Bermuda Championship Preview — PGA Tour Returns October 22–25</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 6</span><span class="tweet-meta-badge tweet-meta-type">FOLLOW UP</span><span class="tweet-meta-badge tweet-meta-tier">Tier 2</span><span class="tweet-meta-badge tweet-meta-hashtags">#PGATour #FedExCup</span></div>
+
+                    <div class="card-content expanded" id="content-story-4-x_post-1">
+                        <div class="card-content-text">No PGA Tour event this week — the Fall season takes a breath after Japan.
+
+Next up: Butterfield Bermuda Championship, Oct 22–25 at Port Royal Golf Course.
+
+Then Mexico. The bubble race has four events left. #PGATour #FedExCup</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-4-x_post-1" placeholder="Edit content here...">No PGA Tour event this week — the Fall season takes a breath after Japan.
+
+Next up: Butterfield Bermuda Championship, Oct 22–25 at Port Royal Golf Course.
+
+Then Mexico. The bubble race has four events left. #PGATour #FedExCup</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-4-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-4-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-4-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-4-x_post-1">Characters: 225/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-4-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-4-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-4-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-4-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-4-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-4-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-4-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-4-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-4-image_concept" data-type="image_concept" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Butterfield Bermuda Championship Preview — PGA Tour Returns October 22–25 — Image Concept</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-image">IMAGE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-4-image_concept">
+                        <div class="card-content-text">**Image — **
+</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-4-image_concept" placeholder="Edit content here...">**Image — **
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-4-image_concept">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-4-image_concept')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-4-image_concept')">Cancel</button>
+                    </div>
+                    
+                    <div class="image-url-section">
+                        <label>Selected Image URL <span class="image-badge image-not-started" title="No image manifest found">NO IMAGES</span></label>
+                        <input type="text" class="image-url-input"
+                               data-story="4" data-platform="facebook_image"
+                               placeholder="Paste Imagn or exported image URL here"
+                               value=""
+                               onchange="updateImageURL(this)"
+                               onpaste="setTimeout(function(){ updateImageURL(event.target) }, 100)">
+                        <div class="image-url-hint">Copy the direct image URL from your photo source after selecting</div>
+                        <div class="image-preview">
+                            <img src="" alt="Image preview" class=""
+                                 id="img-preview-4-facebook_image"
+                                 onerror="this.classList.remove('loaded')">
+                        </div>
+                    </div>
+
+                    <div class="card-actions" id="actions-story-4-image_concept">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-4-image_concept')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-4-image_concept')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-4-image_concept')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-4-image_concept')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-4-image_concept">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-4-image_concept" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-4-image_concept"></div>
+                </div>
+                <div class="card" data-id="story-5-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LPGA Shanghai Preview — Buick LPGA Shanghai Opens October 15</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-5-daily_brief">
+                        <div class="card-content-text">LPGA Shanghai Preview — Buick LPGA Shanghai Opens October 15
+- **Tier:** 2</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-daily_brief" placeholder="Edit content here...">LPGA Shanghai Preview — Buick LPGA Shanghai Opens October 15
+- **Tier:** 2</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-5-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-5-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-5-x_post-1" data-type="x_post" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LPGA Shanghai Preview — Buick LPGA Shanghai Opens October 15</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-x-post">X POST</span></div>
+                    </div>
+                    <div class="tweet-meta-bar"><span class="tweet-meta-badge tweet-meta-label">Post 7</span><span class="tweet-meta-badge tweet-meta-type">NEW</span><span class="tweet-meta-badge tweet-meta-tier">Tier 2</span><span class="tweet-meta-badge tweet-meta-hashtags">#LPGA</span></div>
+
+                    <div class="card-content expanded" id="content-story-5-x_post-1">
+                        <div class="card-content-text">The LPGA Tour is heading to Shanghai.
+
+🇨🇳 Buick LPGA Shanghai — Oct 15-18
+🇰🇷 BMW Ladies Championship — Oct 22-25
+🇲🇾 Maybank Championship — Oct 29-Nov 1
+
+Three countries. Three weeks. The Race to CME Globe enters its final stretch.
+
+#LPGA</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-x_post-1" placeholder="Edit content here...">The LPGA Tour is heading to Shanghai.
+
+🇨🇳 Buick LPGA Shanghai — Oct 15-18
+🇰🇷 BMW Ladies Championship — Oct 22-25
+🇲🇾 Maybank Championship — Oct 29-Nov 1
+
+Three countries. Three weeks. The Race to CME Globe enters its final stretch.
+
+#LPGA</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-5-x_post-1">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-x_post-1')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-x_post-1')">Cancel</button>
+                    </div>
+                    <div class="char-count" id="charcount-story-5-x_post-1">Characters: 237/280</div>
+                    
+
+                    <div class="card-actions" id="actions-story-5-x_post-1">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-x_post-1')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-x_post-1')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-x_post-1')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-x_post-1')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-x_post-1">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-x_post-1" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-x_post-1"></div>
+                </div>
+                <div class="card" data-id="story-5-image_concept" data-type="image_concept" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LPGA Shanghai Preview — Buick LPGA Shanghai Opens October 15 — Image Concept</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-image">IMAGE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-5-image_concept">
+                        <div class="card-content-text">**Image — **
+</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-image_concept" placeholder="Edit content here...">**Image — **
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-5-image_concept">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-image_concept')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-image_concept')">Cancel</button>
+                    </div>
+                    
+                    <div class="image-url-section">
+                        <label>Selected Image URL <span class="image-badge image-not-started" title="No image manifest found">NO IMAGES</span></label>
+                        <input type="text" class="image-url-input"
+                               data-story="5" data-platform="facebook_image"
+                               placeholder="Paste Imagn or exported image URL here"
+                               value=""
+                               onchange="updateImageURL(this)"
+                               onpaste="setTimeout(function(){ updateImageURL(event.target) }, 100)">
+                        <div class="image-url-hint">Copy the direct image URL from your photo source after selecting</div>
+                        <div class="image-preview">
+                            <img src="" alt="Image preview" class=""
+                                 id="img-preview-5-facebook_image"
+                                 onerror="this.classList.remove('loaded')">
+                        </div>
+                    </div>
+
+                    <div class="card-actions" id="actions-story-5-image_concept">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-image_concept')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-image_concept')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-image_concept')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-image_concept')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-image_concept">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-image_concept" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-image_concept"></div>
+                </div>
+                <div class="card" data-id="article-article-01-grant-forrest-wins-open-de-espana" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Grant Forrest Wins Open de España — Double Major Invitation and a Birdie for the Ages</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-01-grant-forrest-wins-open-de-espana">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>Grant Forrest Wins Open de España — Double Major Invitation and a Birdie for the Ages</title>
+</head>
+<body>
+
+<h1>Grant Forrest Wins Open de España — Double Major Invitation and a Birdie for the Ages</h1>
+<p><strong>By Ryan Calloway</strong></p>
+
+<p>Grant Forrest birdied the 18th hole at Real Club de Campo Villa de Madrid on Sunday to win the 2026 Open de España, claiming his third DP World Tour title and earning invitations to both the 2027 Masters at Augusta National and The Open Championship at St Andrews.</p>
+
+<p>The Scottish golfer finished at 14-under, one stroke ahead of Eugenio Chacarra and Victor Perez, who shared second place at 13-under. Chacarra — the Spanish home favourite — had held the clubhouse lead before Forrest's decisive finish.</p>
+
+<h2>The Birdie That Won Everything</h2>
+
+<p>Chacarra made his run. Perez was in contention. But when Forrest stood on the 18th tee at Real Club de Campo Villa de Madrid with the tournament in the balance, he delivered the shot that mattered. The birdie putt fell. The crowd's reaction, the scoreboard shift, the sudden mathematics of the leaderboard — all of it turned in Forrest's favour in one stroke.</p>
+
+<p>It is the kind of finish that defines a career. Forrest had won twice on the DP World Tour before Sunday, both titles earned in Scotland. This was his first victory on foreign soil, in a country that had its own player in serious contention for the title. That context makes the win harder. He rose to it anyway.</p>
+
+<h2>The Prize That Comes With It</h2>
+
+<p>Open de España winners receive invitations to the following year's Masters Tournament and The Open Championship. For Forrest, that means Augusta National in April 2027 and St Andrews in July 2027 — two of the four majors, on two of the most celebrated courses in the sport's history.</p>
+
+<p>His prize money from the win amounts to approximately €567,564 — roughly $637,500. The Race to Dubai points haul strengthens his position in the DP World Tour's season-long standings.</p>
+
+<h2>Chacarra's Near Miss</h2>
+
+<p>Eugenio Chacarra arrived at the Open de España as the Spanish favourite, and for much of Sunday's final round he gave the Madrid crowd what they wanted. His 13-under total held the clubhouse lead before Forrest came home. A one-shot loss at your home Open is a different kind of defeat — not a collapse, but a near miss that will stay with him.</p>
+
+<p>Forrest's victory does not diminish what Chacarra and Perez produced. Both players finished at 13-under on a course that demands precision and punishes lapses. The margin at the top was one shot, and on a different day it might have been the other way.</p>
+
+<h2>A New Chapter</h2>
+
+<p>Three DP World Tour titles at 26 is a career with genuine momentum. Forrest has won in Scotland twice and now in Spain. Augusta and St Andrews await in 2027. The game's grandest stages are no longer theoretical destinations — they are confirmed dates on his calendar.</p>
+
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-01-grant-forrest-wins-open-de-espana" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;Grant Forrest Wins Open de España — Double Major Invitation and a Birdie for the Ages&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;h1&gt;Grant Forrest Wins Open de España — Double Major Invitation and a Birdie for the Ages&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;By Ryan Calloway&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Grant Forrest birdied the 18th hole at Real Club de Campo Villa de Madrid on Sunday to win the 2026 Open de España, claiming his third DP World Tour title and earning invitations to both the 2027 Masters at Augusta National and The Open Championship at St Andrews.&lt;/p&gt;
+
+&lt;p&gt;The Scottish golfer finished at 14-under, one stroke ahead of Eugenio Chacarra and Victor Perez, who shared second place at 13-under. Chacarra — the Spanish home favourite — had held the clubhouse lead before Forrest&#x27;s decisive finish.&lt;/p&gt;
+
+&lt;h2&gt;The Birdie That Won Everything&lt;/h2&gt;
+
+&lt;p&gt;Chacarra made his run. Perez was in contention. But when Forrest stood on the 18th tee at Real Club de Campo Villa de Madrid with the tournament in the balance, he delivered the shot that mattered. The birdie putt fell. The crowd&#x27;s reaction, the scoreboard shift, the sudden mathematics of the leaderboard — all of it turned in Forrest&#x27;s favour in one stroke.&lt;/p&gt;
+
+&lt;p&gt;It is the kind of finish that defines a career. Forrest had won twice on the DP World Tour before Sunday, both titles earned in Scotland. This was his first victory on foreign soil, in a country that had its own player in serious contention for the title. That context makes the win harder. He rose to it anyway.&lt;/p&gt;
+
+&lt;h2&gt;The Prize That Comes With It&lt;/h2&gt;
+
+&lt;p&gt;Open de España winners receive invitations to the following year&#x27;s Masters Tournament and The Open Championship. For Forrest, that means Augusta National in April 2027 and St Andrews in July 2027 — two of the four majors, on two of the most celebrated courses in the sport&#x27;s history.&lt;/p&gt;
+
+&lt;p&gt;His prize money from the win amounts to approximately €567,564 — roughly $637,500. The Race to Dubai points haul strengthens his position in the DP World Tour&#x27;s season-long standings.&lt;/p&gt;
+
+&lt;h2&gt;Chacarra&#x27;s Near Miss&lt;/h2&gt;
+
+&lt;p&gt;Eugenio Chacarra arrived at the Open de España as the Spanish favourite, and for much of Sunday&#x27;s final round he gave the Madrid crowd what they wanted. His 13-under total held the clubhouse lead before Forrest came home. A one-shot loss at your home Open is a different kind of defeat — not a collapse, but a near miss that will stay with him.&lt;/p&gt;
+
+&lt;p&gt;Forrest&#x27;s victory does not diminish what Chacarra and Perez produced. Both players finished at 13-under on a course that demands precision and punishes lapses. The margin at the top was one shot, and on a different day it might have been the other way.&lt;/p&gt;
+
+&lt;h2&gt;A New Chapter&lt;/h2&gt;
+
+&lt;p&gt;Three DP World Tour titles at 26 is a career with genuine momentum. Forrest has won in Scotland twice and now in Spain. Augusta and St Andrews await in 2027. The game&#x27;s grandest stages are no longer theoretical destinations — they are confirmed dates on his calendar.&lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-01-grant-forrest-wins-open-de-espana">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-01-grant-forrest-wins-open-de-espana')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-01-grant-forrest-wins-open-de-espana')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-01-grant-forrest-wins-open-de-espana">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-01-grant-forrest-wins-open-de-espana')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-01-grant-forrest-wins-open-de-espana')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-01-grant-forrest-wins-open-de-espana')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-01-grant-forrest-wins-open-de-espana')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-01-grant-forrest-wins-open-de-espana">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-01-grant-forrest-wins-open-de-espana" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-01-grant-forrest-wins-open-de-espana"></div>
+                </div>
+                <div class="card" data-id="article-article-02-jon-rahm-leaving-liv-golf" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Jon Rahm Is Leaving LIV Golf — And He&#x27;s Owed Up to $150 Million</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-02-jon-rahm-leaving-liv-golf">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>Jon Rahm Is Leaving LIV Golf — And He's Owed Up to $150 Million</title>
+</head>
+<body>
+
+<h1>Jon Rahm Is Leaving LIV Golf — And He's Owed Up to $150 Million</h1>
+<p><strong>By Jake Torres</strong></p>
+
+<p>Jon Rahm is walking away from LIV Golf. His attorney, John Beck, told a New Jersey bankruptcy court that Rahm considers the proposed terms of LIV's 2027 relaunch — known internally as LIV 2.0 — unacceptable, and that both sides are working toward a separation agreement. The deadline for that deal is October 15.</p>
+
+<p>If no agreement is reached by then, the matter could return to court on November 5.</p>
+
+<p>Rahm is reported to be owed between $100 million and $150 million by the bankrupt league — money that, at this stage, the league cannot pay.</p>
+
+<h2>How It Started</h2>
+
+<p>Rahm signed with LIV Golf in December 2023 for a reported contract that made him one of the highest-paid players in the history of the sport. He was a two-time major champion, a former world No. 1, and the kind of name that changed the conversation about LIV's legitimacy as a professional tour.</p>
+
+<p>The move was controversial. It was also transformative for LIV's public profile. Where the league had signed recognizable names before, Rahm was a player at the peak of his career — not winding down, but at the stage where titles were still being won and rankings still being climbed.</p>
+
+<h2>What LIV Became</h2>
+
+<p>LIV Golf filed for Chapter 11 bankruptcy protection in a New Jersey court in September 2026, after Saudi Arabia's Public Investment Fund withdrew its financial backing. The league listed liabilities between its players and creditors, with Rahm among the highest-profile names owed significant sums.</p>
+
+<p>LIV's CEO has said the league intends to return in 2027 under a player-first ownership model. Rahm — through his attorney — has made clear he will not be part of that plan. The proposed terms were, in Beck's words, unacceptable.</p>
+
+<h2>The PGA Tour Question</h2>
+
+<p>Returning to the PGA Tour is not straightforward for Rahm. When the Tour introduced a Returning Member Program following LIV's difficulties, Rahm declined to participate. No formal reinstatement path is currently available to him.</p>
+
+<p>PGA Tour CEO Brian Rolapp stated clearly in August that there is no merger between the organizations and no conversations toward one. Rahm's situation — a world-class golfer with no tour to play on and significant unpaid obligations from his previous employer — is one of the most complex in the sport's recent history.</p>
+
+<h2>The Broader Picture</h2>
+
+<p>Rahm is not the only LIV player owed money by the bankrupt league. He is simply the most prominent one, and his departure, when finalized, will be the clearest symbol of what LIV's bankruptcy means for the players who bet their careers on it.</p>
+
+<p>Golf's landscape has been transformed since 2021, not always for the better. Where the next chapter leads — for Rahm, for the LIV players, and for the PGA Tour — is still being written.</p>
+
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-02-jon-rahm-leaving-liv-golf" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;Jon Rahm Is Leaving LIV Golf — And He&#x27;s Owed Up to $150 Million&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;h1&gt;Jon Rahm Is Leaving LIV Golf — And He&#x27;s Owed Up to $150 Million&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;By Jake Torres&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Jon Rahm is walking away from LIV Golf. His attorney, John Beck, told a New Jersey bankruptcy court that Rahm considers the proposed terms of LIV&#x27;s 2027 relaunch — known internally as LIV 2.0 — unacceptable, and that both sides are working toward a separation agreement. The deadline for that deal is October 15.&lt;/p&gt;
+
+&lt;p&gt;If no agreement is reached by then, the matter could return to court on November 5.&lt;/p&gt;
+
+&lt;p&gt;Rahm is reported to be owed between $100 million and $150 million by the bankrupt league — money that, at this stage, the league cannot pay.&lt;/p&gt;
+
+&lt;h2&gt;How It Started&lt;/h2&gt;
+
+&lt;p&gt;Rahm signed with LIV Golf in December 2023 for a reported contract that made him one of the highest-paid players in the history of the sport. He was a two-time major champion, a former world No. 1, and the kind of name that changed the conversation about LIV&#x27;s legitimacy as a professional tour.&lt;/p&gt;
+
+&lt;p&gt;The move was controversial. It was also transformative for LIV&#x27;s public profile. Where the league had signed recognizable names before, Rahm was a player at the peak of his career — not winding down, but at the stage where titles were still being won and rankings still being climbed.&lt;/p&gt;
+
+&lt;h2&gt;What LIV Became&lt;/h2&gt;
+
+&lt;p&gt;LIV Golf filed for Chapter 11 bankruptcy protection in a New Jersey court in September 2026, after Saudi Arabia&#x27;s Public Investment Fund withdrew its financial backing. The league listed liabilities between its players and creditors, with Rahm among the highest-profile names owed significant sums.&lt;/p&gt;
+
+&lt;p&gt;LIV&#x27;s CEO has said the league intends to return in 2027 under a player-first ownership model. Rahm — through his attorney — has made clear he will not be part of that plan. The proposed terms were, in Beck&#x27;s words, unacceptable.&lt;/p&gt;
+
+&lt;h2&gt;The PGA Tour Question&lt;/h2&gt;
+
+&lt;p&gt;Returning to the PGA Tour is not straightforward for Rahm. When the Tour introduced a Returning Member Program following LIV&#x27;s difficulties, Rahm declined to participate. No formal reinstatement path is currently available to him.&lt;/p&gt;
+
+&lt;p&gt;PGA Tour CEO Brian Rolapp stated clearly in August that there is no merger between the organizations and no conversations toward one. Rahm&#x27;s situation — a world-class golfer with no tour to play on and significant unpaid obligations from his previous employer — is one of the most complex in the sport&#x27;s recent history.&lt;/p&gt;
+
+&lt;h2&gt;The Broader Picture&lt;/h2&gt;
+
+&lt;p&gt;Rahm is not the only LIV player owed money by the bankrupt league. He is simply the most prominent one, and his departure, when finalized, will be the clearest symbol of what LIV&#x27;s bankruptcy means for the players who bet their careers on it.&lt;/p&gt;
+
+&lt;p&gt;Golf&#x27;s landscape has been transformed since 2021, not always for the better. Where the next chapter leads — for Rahm, for the LIV players, and for the PGA Tour — is still being written.&lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-02-jon-rahm-leaving-liv-golf">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-02-jon-rahm-leaving-liv-golf')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-02-jon-rahm-leaving-liv-golf')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-02-jon-rahm-leaving-liv-golf">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-02-jon-rahm-leaving-liv-golf')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-02-jon-rahm-leaving-liv-golf')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-02-jon-rahm-leaving-liv-golf')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-02-jon-rahm-leaving-liv-golf')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-02-jon-rahm-leaving-liv-golf">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-02-jon-rahm-leaving-liv-golf" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-02-jon-rahm-leaving-liv-golf"></div>
+                </div>
+                <div class="card" data-id="article-article-03-tiger-rory-day-matsuyama-japan-skins-preview" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Tiger, Rory, Day and Matsuyama Set for Japan Skins Match — October 21 at Narashino</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-03-tiger-rory-day-matsuyama-japan-skins-preview">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>Tiger, Rory, Day and Matsuyama Set for Japan Skins Match — October 21 at Narashino</title>
+</head>
+<body>
+
+<h1>Tiger, Rory, Day and Matsuyama Set for Japan Skins Match — October 21 at Narashino</h1>
+<p><strong>By Marcus Cole</strong></p>
+
+<p>Four of the biggest names in world golf will meet at Accordia Golf Narashino Country Club in Japan on October 21 for a PGA Tour-sanctioned skins match. The field: Tiger Woods, Rory McIlroy, Jason Day and Hideki Matsuyama.</p>
+
+<p>Early betting has McIlroy as the favourite at +150, with Woods right behind at +175.</p>
+
+<h2>Why This Event Matters</h2>
+
+<p>Skins golf is not stroke play. The format rewards boldness over management — a birdie or eagle on the right hole can win more than a dozen pars. It is a format that brings personality to the surface in a way that conventional tournament golf doesn't, and it creates moments that fans remember long after the number on the 18th is posted.</p>
+
+<p>The four players selected for this event are not chosen at random. McIlroy won the 2026 Masters — he arrives as the reigning Augusta champion, carrying the confidence that major title produces. Woods is Tiger Woods, which is a sentence that still means something in Japan. Day has been one of the game's most consistent performers for more than a decade. Matsuyama, at Narashino, will be playing in front of a crowd that considers him a national hero.</p>
+
+<h2>The Japan Factor</h2>
+
+<p>Japan has embraced professional golf at the highest level, and the combination of Matsuyama's popularity and Woods's global stature has made the country one of the most enthusiastic hosts on the global golf calendar. Accordia Golf Narashino Country Club, located just outside Tokyo, provides a venue that Japanese fans know well and international fans will be watching closely.</p>
+
+<p>McIlroy comes as favourite, which makes sense — he is playing the best golf of his generation right now. But skins matches have a way of equalizing things. One good hole from Woods or a birdie on a contested skin from Day can shift the result entirely.</p>
+
+<h2>What to Watch</h2>
+
+<p>The October 21 event sits one day before the Butterfield Bermuda Championship begins — a reminder that the PGA Tour's Fall season continues even as exhibition events capture attention. For the players involved, the Japan skins match is a chance to connect with fans in one of the sport's most passionate markets and deliver the kind of compelling golf that only this specific combination of personalities can produce.</p>
+
+<p>October 21. Narashino. Four champions. This one should be worth watching.</p>
+
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-03-tiger-rory-day-matsuyama-japan-skins-preview" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;Tiger, Rory, Day and Matsuyama Set for Japan Skins Match — October 21 at Narashino&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;h1&gt;Tiger, Rory, Day and Matsuyama Set for Japan Skins Match — October 21 at Narashino&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;By Marcus Cole&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Four of the biggest names in world golf will meet at Accordia Golf Narashino Country Club in Japan on October 21 for a PGA Tour-sanctioned skins match. The field: Tiger Woods, Rory McIlroy, Jason Day and Hideki Matsuyama.&lt;/p&gt;
+
+&lt;p&gt;Early betting has McIlroy as the favourite at +150, with Woods right behind at +175.&lt;/p&gt;
+
+&lt;h2&gt;Why This Event Matters&lt;/h2&gt;
+
+&lt;p&gt;Skins golf is not stroke play. The format rewards boldness over management — a birdie or eagle on the right hole can win more than a dozen pars. It is a format that brings personality to the surface in a way that conventional tournament golf doesn&#x27;t, and it creates moments that fans remember long after the number on the 18th is posted.&lt;/p&gt;
+
+&lt;p&gt;The four players selected for this event are not chosen at random. McIlroy won the 2026 Masters — he arrives as the reigning Augusta champion, carrying the confidence that major title produces. Woods is Tiger Woods, which is a sentence that still means something in Japan. Day has been one of the game&#x27;s most consistent performers for more than a decade. Matsuyama, at Narashino, will be playing in front of a crowd that considers him a national hero.&lt;/p&gt;
+
+&lt;h2&gt;The Japan Factor&lt;/h2&gt;
+
+&lt;p&gt;Japan has embraced professional golf at the highest level, and the combination of Matsuyama&#x27;s popularity and Woods&#x27;s global stature has made the country one of the most enthusiastic hosts on the global golf calendar. Accordia Golf Narashino Country Club, located just outside Tokyo, provides a venue that Japanese fans know well and international fans will be watching closely.&lt;/p&gt;
+
+&lt;p&gt;McIlroy comes as favourite, which makes sense — he is playing the best golf of his generation right now. But skins matches have a way of equalizing things. One good hole from Woods or a birdie on a contested skin from Day can shift the result entirely.&lt;/p&gt;
+
+&lt;h2&gt;What to Watch&lt;/h2&gt;
+
+&lt;p&gt;The October 21 event sits one day before the Butterfield Bermuda Championship begins — a reminder that the PGA Tour&#x27;s Fall season continues even as exhibition events capture attention. For the players involved, the Japan skins match is a chance to connect with fans in one of the sport&#x27;s most passionate markets and deliver the kind of compelling golf that only this specific combination of personalities can produce.&lt;/p&gt;
+
+&lt;p&gt;October 21. Narashino. Four champions. This one should be worth watching.&lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-03-tiger-rory-day-matsuyama-japan-skins-preview">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-03-tiger-rory-day-matsuyama-japan-skins-preview')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-03-tiger-rory-day-matsuyama-japan-skins-preview')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-03-tiger-rory-day-matsuyama-japan-skins-preview">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-03-tiger-rory-day-matsuyama-japan-skins-preview')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-03-tiger-rory-day-matsuyama-japan-skins-preview')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-03-tiger-rory-day-matsuyama-japan-skins-preview')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-03-tiger-rory-day-matsuyama-japan-skins-preview')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-03-tiger-rory-day-matsuyama-japan-skins-preview">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-03-tiger-rory-day-matsuyama-japan-skins-preview" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-03-tiger-rory-day-matsuyama-japan-skins-preview"></div>
+                </div>
+                <div class="card" data-id="article-article-04-butterfield-bermuda-championship-preview" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Next Stop Bermuda: PGA Tour FedExCup Fall Resumes October 22–25 at Port Royal</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-04-butterfield-bermuda-championship-preview">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>Next Stop Bermuda: PGA Tour FedExCup Fall Resumes October 22–25 at Port Royal</title>
+</head>
+<body>
+
+<h1>Next Stop Bermuda: PGA Tour FedExCup Fall Resumes October 22–25 at Port Royal</h1>
+<p><strong>By Ryan Calloway</strong></p>
+
+<p>The PGA Tour takes a week off following last weekend's Baycurrent Classic in Yokohama, Japan. When the FedExCup Fall season resumes, it does so at one of the most distinctive venues on the calendar — Port Royal Golf Course in Bermuda, home of the Butterfield Bermuda Championship from October 22–25.</p>
+
+<h2>Port Royal and What Makes It Different</h2>
+
+<p>Port Royal is a public golf course built into Bermuda's coastline, and it plays nothing like the manicured parkland courses that dominate the American tour schedule. The layout winds through the island's terrain — past stretches of Atlantic coastline, over elevation changes that a flat scorecard can never fully communicate, into and out of wind corridors that make club selection a conversation rather than a calculation.</p>
+
+<p>Bermuda's wind is the defining element. Players who fight it instead of working with it pay a price. The holes that run along the ocean — particularly the par-three 16th, with its cliff-side green above the water — are among the most photographed on the tour schedule. The setting rewards players who manage their emotions alongside their game.</p>
+
+<h2>The Fall Bubble</h2>
+
+<p>Four events remain in the FedExCup Fall season after this week's break: Bermuda, the VidantaWorld Mexico Open (October 29–November 1), and two further rounds. Players finishing in the top 60 of the FedExCup Fall standings earn status for the following season's full schedule.</p>
+
+<p>For the players inside the bubble — those within striking distance of that top-60 cutoff — there are very few chances left to move. The Bermuda Championship is not just another 72-hole event. For those players, it is a do-or-die opportunity in a setting that makes golf difficult even when the pressure is low.</p>
+
+<h2>Coming Off Yokohama</h2>
+
+<p>Michael Brennan won the Baycurrent Classic last weekend, his third PGA Tour title and second of 2026. He enters Bermuda with momentum, points, and the attention that a recent winner carries into the next event. The question the Fall season consistently asks is whether a player's form translates across different course types and conditions.</p>
+
+<p>Port Royal's demands are specific. Speed on greens differs from Japan. Wind factors don't exist at Yokohama Country Club the way they do on a coastal Bermuda layout. Bermuda is its own test, and the Fall season's diversity is part of what makes the bubble race compelling.</p>
+
+<p>The tour is ten days away from Bermuda. The standings are alive.</p>
+
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-04-butterfield-bermuda-championship-preview" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;Next Stop Bermuda: PGA Tour FedExCup Fall Resumes October 22–25 at Port Royal&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;h1&gt;Next Stop Bermuda: PGA Tour FedExCup Fall Resumes October 22–25 at Port Royal&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;By Ryan Calloway&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The PGA Tour takes a week off following last weekend&#x27;s Baycurrent Classic in Yokohama, Japan. When the FedExCup Fall season resumes, it does so at one of the most distinctive venues on the calendar — Port Royal Golf Course in Bermuda, home of the Butterfield Bermuda Championship from October 22–25.&lt;/p&gt;
+
+&lt;h2&gt;Port Royal and What Makes It Different&lt;/h2&gt;
+
+&lt;p&gt;Port Royal is a public golf course built into Bermuda&#x27;s coastline, and it plays nothing like the manicured parkland courses that dominate the American tour schedule. The layout winds through the island&#x27;s terrain — past stretches of Atlantic coastline, over elevation changes that a flat scorecard can never fully communicate, into and out of wind corridors that make club selection a conversation rather than a calculation.&lt;/p&gt;
+
+&lt;p&gt;Bermuda&#x27;s wind is the defining element. Players who fight it instead of working with it pay a price. The holes that run along the ocean — particularly the par-three 16th, with its cliff-side green above the water — are among the most photographed on the tour schedule. The setting rewards players who manage their emotions alongside their game.&lt;/p&gt;
+
+&lt;h2&gt;The Fall Bubble&lt;/h2&gt;
+
+&lt;p&gt;Four events remain in the FedExCup Fall season after this week&#x27;s break: Bermuda, the VidantaWorld Mexico Open (October 29–November 1), and two further rounds. Players finishing in the top 60 of the FedExCup Fall standings earn status for the following season&#x27;s full schedule.&lt;/p&gt;
+
+&lt;p&gt;For the players inside the bubble — those within striking distance of that top-60 cutoff — there are very few chances left to move. The Bermuda Championship is not just another 72-hole event. For those players, it is a do-or-die opportunity in a setting that makes golf difficult even when the pressure is low.&lt;/p&gt;
+
+&lt;h2&gt;Coming Off Yokohama&lt;/h2&gt;
+
+&lt;p&gt;Michael Brennan won the Baycurrent Classic last weekend, his third PGA Tour title and second of 2026. He enters Bermuda with momentum, points, and the attention that a recent winner carries into the next event. The question the Fall season consistently asks is whether a player&#x27;s form translates across different course types and conditions.&lt;/p&gt;
+
+&lt;p&gt;Port Royal&#x27;s demands are specific. Speed on greens differs from Japan. Wind factors don&#x27;t exist at Yokohama Country Club the way they do on a coastal Bermuda layout. Bermuda is its own test, and the Fall season&#x27;s diversity is part of what makes the bubble race compelling.&lt;/p&gt;
+
+&lt;p&gt;The tour is ten days away from Bermuda. The standings are alive.&lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-04-butterfield-bermuda-championship-preview">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-04-butterfield-bermuda-championship-preview')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-04-butterfield-bermuda-championship-preview')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-04-butterfield-bermuda-championship-preview">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-04-butterfield-bermuda-championship-preview')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-04-butterfield-bermuda-championship-preview')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-04-butterfield-bermuda-championship-preview')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-04-butterfield-bermuda-championship-preview')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-04-butterfield-bermuda-championship-preview">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-04-butterfield-bermuda-championship-preview" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-04-butterfield-bermuda-championship-preview"></div>
+                </div>
+                <div class="card" data-id="article-article-05-lpga-shanghai-asian-swing-preview" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">LPGA Heads to Shanghai — Three Weeks, Three Countries, the Race to CME Globe Heats Up</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-05-lpga-shanghai-asian-swing-preview">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<title>LPGA Heads to Shanghai — Three Weeks, Three Countries, the Race to CME Globe Heats Up</title>
+</head>
+<body>
+
+<h1>LPGA Heads to Shanghai — Three Weeks, Three Countries, the Race to CME Globe Heats Up</h1>
+<p><strong>By Jake Torres</strong></p>
+
+<p>The LPGA Tour is heading into one of the most demanding stretches on its 2026 calendar — a three-tournament Asian swing spanning three countries across three consecutive weeks. It begins with the Buick LPGA Shanghai in China from October 15–18.</p>
+
+<h2>The Asian Swing: Three Events, Three Countries</h2>
+
+<p>Shanghai opens the sequence. The BMW Ladies Championship follows at Pine Beach Golf Links in South Korea (October 22–25). The stretch concludes with the Maybank Championship at Kuala Lumpur Golf and Country Club in Malaysia (October 29–November 1).</p>
+
+<p>The players who navigate these three events well will arrive at the season's closing stretch with real momentum in the Race to CME Globe standings. Those who falter — whether from travel fatigue, course unfamiliarity, or the pressure of playing three marquee international events back-to-back-to-back — will find themselves fighting from behind when it matters most.</p>
+
+<h2>Shanghai as a Stage</h2>
+
+<p>The Buick LPGA Shanghai has established itself as one of the LPGA's premier international events. The combination of the sponsorship profile, the venue quality, and the Chinese fan engagement has made it a consistent highlight of the tour's overseas schedule. Players arrive knowing the galleries will be substantial and the coverage broad.</p>
+
+<p>The 2026 LPGA season spans 33 events across 13 countries and offers a total prize fund exceeding $132 million. The Asian swing accounts for three of those 33 events and a meaningful share of the season's available points. In a season where the Race to CME Globe will determine seedings and tour status for 2027, the timing of this stretch — late in the calendar, before the year-end final events — makes it decisive.</p>
+
+<h2>The Race to CME Globe Context</h2>
+
+<p>The CME Group Tour Championship, the LPGA's season-ending event, carries the sport's largest single prize. Players who arrive at that event with strong CME Globe standings have the best chance at the biggest cheque in women's golf. The Asian swing is the last major cluster of events before that finale — making Shanghai, South Korea and Malaysia not just individual tournaments, but chapters in a larger story about who finishes 2026 on top.</p>
+
+<p>Tee times for the Buick LPGA Shanghai begin Thursday, October 15. The first drives of the LPGA's Asian swing are three days away.</p>
+
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-05-lpga-shanghai-asian-swing-preview" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;LPGA Heads to Shanghai — Three Weeks, Three Countries, the Race to CME Globe Heats Up&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;h1&gt;LPGA Heads to Shanghai — Three Weeks, Three Countries, the Race to CME Globe Heats Up&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;By Jake Torres&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The LPGA Tour is heading into one of the most demanding stretches on its 2026 calendar — a three-tournament Asian swing spanning three countries across three consecutive weeks. It begins with the Buick LPGA Shanghai in China from October 15–18.&lt;/p&gt;
+
+&lt;h2&gt;The Asian Swing: Three Events, Three Countries&lt;/h2&gt;
+
+&lt;p&gt;Shanghai opens the sequence. The BMW Ladies Championship follows at Pine Beach Golf Links in South Korea (October 22–25). The stretch concludes with the Maybank Championship at Kuala Lumpur Golf and Country Club in Malaysia (October 29–November 1).&lt;/p&gt;
+
+&lt;p&gt;The players who navigate these three events well will arrive at the season&#x27;s closing stretch with real momentum in the Race to CME Globe standings. Those who falter — whether from travel fatigue, course unfamiliarity, or the pressure of playing three marquee international events back-to-back-to-back — will find themselves fighting from behind when it matters most.&lt;/p&gt;
+
+&lt;h2&gt;Shanghai as a Stage&lt;/h2&gt;
+
+&lt;p&gt;The Buick LPGA Shanghai has established itself as one of the LPGA&#x27;s premier international events. The combination of the sponsorship profile, the venue quality, and the Chinese fan engagement has made it a consistent highlight of the tour&#x27;s overseas schedule. Players arrive knowing the galleries will be substantial and the coverage broad.&lt;/p&gt;
+
+&lt;p&gt;The 2026 LPGA season spans 33 events across 13 countries and offers a total prize fund exceeding $132 million. The Asian swing accounts for three of those 33 events and a meaningful share of the season&#x27;s available points. In a season where the Race to CME Globe will determine seedings and tour status for 2027, the timing of this stretch — late in the calendar, before the year-end final events — makes it decisive.&lt;/p&gt;
+
+&lt;h2&gt;The Race to CME Globe Context&lt;/h2&gt;
+
+&lt;p&gt;The CME Group Tour Championship, the LPGA&#x27;s season-ending event, carries the sport&#x27;s largest single prize. Players who arrive at that event with strong CME Globe standings have the best chance at the biggest cheque in women&#x27;s golf. The Asian swing is the last major cluster of events before that finale — making Shanghai, South Korea and Malaysia not just individual tournaments, but chapters in a larger story about who finishes 2026 on top.&lt;/p&gt;
+
+&lt;p&gt;Tee times for the Buick LPGA Shanghai begin Thursday, October 15. The first drives of the LPGA&#x27;s Asian swing are three days away.&lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-05-lpga-shanghai-asian-swing-preview">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-05-lpga-shanghai-asian-swing-preview')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-05-lpga-shanghai-asian-swing-preview')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-05-lpga-shanghai-asian-swing-preview">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-05-lpga-shanghai-asian-swing-preview')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-05-lpga-shanghai-asian-swing-preview')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-05-lpga-shanghai-asian-swing-preview')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-05-lpga-shanghai-asian-swing-preview')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-05-lpga-shanghai-asian-swing-preview">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-05-lpga-shanghai-asian-swing-preview" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-05-lpga-shanghai-asian-swing-preview"></div>
+                </div>
+            </div>
+
+            <div class="empty-state" id="empty-state" style="display: none;">
+                <div class="empty-state-icon">No items match your filter</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Schedule settings modal -->
+    <div class="schedule-overlay" id="schedule-overlay" onclick="closeSchedulePanel()"></div>
+    <div class="schedule-panel" id="schedule-panel">
+        <h3>Posting Schedule Settings</h3>
+        <div class="schedule-section">
+            <label>Post Date (defaults to content date)</label>
+            <input type="date" id="schedule-date" />
+        </div>
+        <div class="schedule-section">
+            <label>X / Twitter Time Slots</label>
+            <div class="time-slots" id="x-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-x-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('x')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section">
+            <label>Facebook Time Slots</label>
+            <div class="time-slots" id="fb-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-fb-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('fb')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section" style="background:#f9f9f9;padding:12px;border-radius:6px;font-size:12px;color:#666;">
+            Posts will be assigned to time slots in order. If you have more posts than slots, they wrap around. After downloading, upload the file directly to PostPlanner via Bulk Upload.
+        </div>
+        <div class="schedule-actions">
+            <button class="btn btn-secondary" onclick="closeSchedulePanel()">Cancel</button>
+            <button class="btn btn-csv" onclick="generateAndDownload()">Generate &amp; Download XLSX</button>
+        </div>
+    </div>
+
+    <!-- SheetJS for XLSX generation (loaded async so it doesn't block) -->
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <script>
+
+        const DATE = '2026-10-12';
+        const BRAND_NAME = 'Golf Fanrecap';
+        const REVIEW_STORAGE_KEY = 'golf-content-review';
+        const SCHEDULE_STORAGE_KEY = 'golf-content-schedule-config';
+        const PHOTO_SOURCE = 'imagn';
+        let reviewData = {};
+        const allStories = [{"id": "story-1-daily_brief", "title": "Grant Forrest Wins Open de Espa\u00f1a \u2014 Earns 2027 Masters and Open Championship Invitations", "content": "Grant Forrest Wins Open de Espa\u00f1a \u2014 Earns 2027 Masters and Open Championship Invitations\n- **Tier:** 1", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-1-x_post-1", "title": "Grant Forrest Wins Open de Espa\u00f1a \u2014 Earns 2027 Masters and Open Championship Invitations", "content": "GRANT FORREST WINS THE OPEN DE ESPA\u00d1A.\n\nBirdie on 18 to beat Chacarra and Perez by one shot at 14-under.\n\nThird DP World Tour title. First win outside Scotland.\n\nAnd the prize: invitations to the 2027 Masters AND The Open at St Andrews.\n\n#SpanishOpen #DPWorldTour", "type": "x_post", "posting_window": "", "tweet_type": "FOLLOW UP", "hashtags": "#SpanishOpen #DPWorldTour", "tweet_label": "Post 1"}, {"id": "story-1-x_post-2", "title": "Grant Forrest Wins Open de Espa\u00f1a \u2014 Earns 2027 Masters and Open Championship Invitations", "content": "Grant Forrest wins in Spain and earns:\n\n\u26f3 2027 Masters invitation\n\ud83c\udfc6 2027 Open Championship at St Andrews invitation\n\nA birdie at the last. One shot better than a Spanish hometown favourite.\n\nThat's a career round. #SpanishOpen", "type": "x_post", "posting_window": "", "tweet_type": "FOLLOW UP", "hashtags": "#SpanishOpen", "tweet_label": "Post 2"}, {"id": "story-1-image_concept", "title": "Grant Forrest Wins Open de Espa\u00f1a \u2014 Earns 2027 Masters and Open Championship Invitations \u2014 Image Concept", "content": "**Image \u2014 **\n", "type": "image_concept", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-2-daily_brief", "title": "Jon Rahm Leaving LIV Golf \u2014 Separation Agreement Deadline October 15", "content": "Jon Rahm Leaving LIV Golf \u2014 Separation Agreement Deadline October 15\n- **Tier:** 1", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-2-x_post-1", "title": "Jon Rahm Leaving LIV Golf \u2014 Separation Agreement Deadline October 15", "content": "Jon Rahm is leaving LIV Golf.\n\nHis attorney told bankruptcy court the proposed LIV 2.0 terms are \"unacceptable.\" A separation deal is due by October 15.\n\nHe's owed between $100M and $150M.\n\nHis path back to the PGA Tour? Unclear.\n\n#JonRahm #LIVGolf", "type": "x_post", "posting_window": "", "tweet_type": "NEW", "hashtags": "#JonRahm #LIVGolf", "tweet_label": "Post 3"}, {"id": "story-2-x_post-2", "title": "Jon Rahm Leaving LIV Golf \u2014 Separation Agreement Deadline October 15", "content": "Jon Rahm signed with LIV in December 2023.\n\nNow the bankrupt league can't pay him what it owes.\n\nHe wants out. The PGA Tour has no current path for his return.\n\nTwo-time major champion. No tour. One of golf's most extraordinary situations.\n\n#JonRahm #LIVGolf", "type": "x_post", "posting_window": "", "tweet_type": "NEW", "hashtags": "#JonRahm #LIVGolf", "tweet_label": "Post 4"}, {"id": "story-2-image_concept", "title": "Jon Rahm Leaving LIV Golf \u2014 Separation Agreement Deadline October 15 \u2014 Image Concept", "content": "**Image \u2014 **\n", "type": "image_concept", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-3-daily_brief", "title": "Tiger, Rory, Day and Matsuyama \u2014 Skins Match Preview, October 21 in Japan", "content": "Tiger, Rory, Day and Matsuyama \u2014 Skins Match Preview, October 21 in Japan\n- **Tier:** 2", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-3-x_post-1", "title": "Tiger, Rory, Day and Matsuyama \u2014 Skins Match Preview, October 21 in Japan", "content": "Tiger. Rory. Jason Day. Hideki Matsuyama.\n\nJapan skins match \u2014 October 21 at Accordia Golf Narashino CC.\n\nMcIlroy (Masters champion) opens as favorite at +150.\nWoods at +175.\n\nThis is appointment golf. \ud83c\uddef\ud83c\uddf5", "type": "x_post", "posting_window": "", "tweet_type": "NEW", "hashtags": "", "tweet_label": "Post 5"}, {"id": "story-3-image_concept", "title": "Tiger, Rory, Day and Matsuyama \u2014 Skins Match Preview, October 21 in Japan \u2014 Image Concept", "content": "**Image \u2014 **\n", "type": "image_concept", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-4-daily_brief", "title": "Butterfield Bermuda Championship Preview \u2014 PGA Tour Returns October 22\u201325", "content": "Butterfield Bermuda Championship Preview \u2014 PGA Tour Returns October 22\u201325\n- **Tier:** 2", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-4-x_post-1", "title": "Butterfield Bermuda Championship Preview \u2014 PGA Tour Returns October 22\u201325", "content": "No PGA Tour event this week \u2014 the Fall season takes a breath after Japan.\n\nNext up: Butterfield Bermuda Championship, Oct 22\u201325 at Port Royal Golf Course.\n\nThen Mexico. The bubble race has four events left. #PGATour #FedExCup", "type": "x_post", "posting_window": "", "tweet_type": "FOLLOW UP", "hashtags": "#PGATour #FedExCup", "tweet_label": "Post 6"}, {"id": "story-4-image_concept", "title": "Butterfield Bermuda Championship Preview \u2014 PGA Tour Returns October 22\u201325 \u2014 Image Concept", "content": "**Image \u2014 **\n", "type": "image_concept", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-5-daily_brief", "title": "LPGA Shanghai Preview \u2014 Buick LPGA Shanghai Opens October 15", "content": "LPGA Shanghai Preview \u2014 Buick LPGA Shanghai Opens October 15\n- **Tier:** 2", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-5-x_post-1", "title": "LPGA Shanghai Preview \u2014 Buick LPGA Shanghai Opens October 15", "content": "The LPGA Tour is heading to Shanghai.\n\n\ud83c\udde8\ud83c\uddf3 Buick LPGA Shanghai \u2014 Oct 15-18\n\ud83c\uddf0\ud83c\uddf7 BMW Ladies Championship \u2014 Oct 22-25\n\ud83c\uddf2\ud83c\uddfe Maybank Championship \u2014 Oct 29-Nov 1\n\nThree countries. Three weeks. The Race to CME Globe enters its final stretch.\n\n#LPGA", "type": "x_post", "posting_window": "", "tweet_type": "NEW", "hashtags": "#LPGA", "tweet_label": "Post 7"}, {"id": "story-5-image_concept", "title": "LPGA Shanghai Preview \u2014 Buick LPGA Shanghai Opens October 15 \u2014 Image Concept", "content": "**Image \u2014 **\n", "type": "image_concept", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-01-grant-forrest-wins-open-de-espana", "title": "Grant Forrest Wins Open de Espa\u00f1a \u2014 Double Major Invitation and a Birdie for the Ages", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Grant Forrest Wins Open de Espa\u00f1a \u2014 Double Major Invitation and a Birdie for the Ages<\/title>\n<\/head>\n<body>\n\n<h1>Grant Forrest Wins Open de Espa\u00f1a \u2014 Double Major Invitation and a Birdie for the Ages<\/h1>\n<p><strong>By Ryan Calloway<\/strong><\/p>\n\n<p>Grant Forrest birdied the 18th hole at Real Club de Campo Villa de Madrid on Sunday to win the 2026 Open de Espa\u00f1a, claiming his third DP World Tour title and earning invitations to both the 2027 Masters at Augusta National and The Open Championship at St Andrews.<\/p>\n\n<p>The Scottish golfer finished at 14-under, one stroke ahead of Eugenio Chacarra and Victor Perez, who shared second place at 13-under. Chacarra \u2014 the Spanish home favourite \u2014 had held the clubhouse lead before Forrest's decisive finish.<\/p>\n\n<h2>The Birdie That Won Everything<\/h2>\n\n<p>Chacarra made his run. Perez was in contention. But when Forrest stood on the 18th tee at Real Club de Campo Villa de Madrid with the tournament in the balance, he delivered the shot that mattered. The birdie putt fell. The crowd's reaction, the scoreboard shift, the sudden mathematics of the leaderboard \u2014 all of it turned in Forrest's favour in one stroke.<\/p>\n\n<p>It is the kind of finish that defines a career. Forrest had won twice on the DP World Tour before Sunday, both titles earned in Scotland. This was his first victory on foreign soil, in a country that had its own player in serious contention for the title. That context makes the win harder. He rose to it anyway.<\/p>\n\n<h2>The Prize That Comes With It<\/h2>\n\n<p>Open de Espa\u00f1a winners receive invitations to the following year's Masters Tournament and The Open Championship. For Forrest, that means Augusta National in April 2027 and St Andrews in July 2027 \u2014 two of the four majors, on two of the most celebrated courses in the sport's history.<\/p>\n\n<p>His prize money from the win amounts to approximately \u20ac567,564 \u2014 roughly $637,500. The Race to Dubai points haul strengthens his position in the DP World Tour's season-long standings.<\/p>\n\n<h2>Chacarra's Near Miss<\/h2>\n\n<p>Eugenio Chacarra arrived at the Open de Espa\u00f1a as the Spanish favourite, and for much of Sunday's final round he gave the Madrid crowd what they wanted. His 13-under total held the clubhouse lead before Forrest came home. A one-shot loss at your home Open is a different kind of defeat \u2014 not a collapse, but a near miss that will stay with him.<\/p>\n\n<p>Forrest's victory does not diminish what Chacarra and Perez produced. Both players finished at 13-under on a course that demands precision and punishes lapses. The margin at the top was one shot, and on a different day it might have been the other way.<\/p>\n\n<h2>A New Chapter<\/h2>\n\n<p>Three DP World Tour titles at 26 is a career with genuine momentum. Forrest has won in Scotland twice and now in Spain. Augusta and St Andrews await in 2027. The game's grandest stages are no longer theoretical destinations \u2014 they are confirmed dates on his calendar.<\/p>\n\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-02-jon-rahm-leaving-liv-golf", "title": "Jon Rahm Is Leaving LIV Golf \u2014 And He's Owed Up to $150 Million", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Jon Rahm Is Leaving LIV Golf \u2014 And He's Owed Up to $150 Million<\/title>\n<\/head>\n<body>\n\n<h1>Jon Rahm Is Leaving LIV Golf \u2014 And He's Owed Up to $150 Million<\/h1>\n<p><strong>By Jake Torres<\/strong><\/p>\n\n<p>Jon Rahm is walking away from LIV Golf. His attorney, John Beck, told a New Jersey bankruptcy court that Rahm considers the proposed terms of LIV's 2027 relaunch \u2014 known internally as LIV 2.0 \u2014 unacceptable, and that both sides are working toward a separation agreement. The deadline for that deal is October 15.<\/p>\n\n<p>If no agreement is reached by then, the matter could return to court on November 5.<\/p>\n\n<p>Rahm is reported to be owed between $100 million and $150 million by the bankrupt league \u2014 money that, at this stage, the league cannot pay.<\/p>\n\n<h2>How It Started<\/h2>\n\n<p>Rahm signed with LIV Golf in December 2023 for a reported contract that made him one of the highest-paid players in the history of the sport. He was a two-time major champion, a former world No. 1, and the kind of name that changed the conversation about LIV's legitimacy as a professional tour.<\/p>\n\n<p>The move was controversial. It was also transformative for LIV's public profile. Where the league had signed recognizable names before, Rahm was a player at the peak of his career \u2014 not winding down, but at the stage where titles were still being won and rankings still being climbed.<\/p>\n\n<h2>What LIV Became<\/h2>\n\n<p>LIV Golf filed for Chapter 11 bankruptcy protection in a New Jersey court in September 2026, after Saudi Arabia's Public Investment Fund withdrew its financial backing. The league listed liabilities between its players and creditors, with Rahm among the highest-profile names owed significant sums.<\/p>\n\n<p>LIV's CEO has said the league intends to return in 2027 under a player-first ownership model. Rahm \u2014 through his attorney \u2014 has made clear he will not be part of that plan. The proposed terms were, in Beck's words, unacceptable.<\/p>\n\n<h2>The PGA Tour Question<\/h2>\n\n<p>Returning to the PGA Tour is not straightforward for Rahm. When the Tour introduced a Returning Member Program following LIV's difficulties, Rahm declined to participate. No formal reinstatement path is currently available to him.<\/p>\n\n<p>PGA Tour CEO Brian Rolapp stated clearly in August that there is no merger between the organizations and no conversations toward one. Rahm's situation \u2014 a world-class golfer with no tour to play on and significant unpaid obligations from his previous employer \u2014 is one of the most complex in the sport's recent history.<\/p>\n\n<h2>The Broader Picture<\/h2>\n\n<p>Rahm is not the only LIV player owed money by the bankrupt league. He is simply the most prominent one, and his departure, when finalized, will be the clearest symbol of what LIV's bankruptcy means for the players who bet their careers on it.<\/p>\n\n<p>Golf's landscape has been transformed since 2021, not always for the better. Where the next chapter leads \u2014 for Rahm, for the LIV players, and for the PGA Tour \u2014 is still being written.<\/p>\n\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-03-tiger-rory-day-matsuyama-japan-skins-preview", "title": "Tiger, Rory, Day and Matsuyama Set for Japan Skins Match \u2014 October 21 at Narashino", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Tiger, Rory, Day and Matsuyama Set for Japan Skins Match \u2014 October 21 at Narashino<\/title>\n<\/head>\n<body>\n\n<h1>Tiger, Rory, Day and Matsuyama Set for Japan Skins Match \u2014 October 21 at Narashino<\/h1>\n<p><strong>By Marcus Cole<\/strong><\/p>\n\n<p>Four of the biggest names in world golf will meet at Accordia Golf Narashino Country Club in Japan on October 21 for a PGA Tour-sanctioned skins match. The field: Tiger Woods, Rory McIlroy, Jason Day and Hideki Matsuyama.<\/p>\n\n<p>Early betting has McIlroy as the favourite at +150, with Woods right behind at +175.<\/p>\n\n<h2>Why This Event Matters<\/h2>\n\n<p>Skins golf is not stroke play. The format rewards boldness over management \u2014 a birdie or eagle on the right hole can win more than a dozen pars. It is a format that brings personality to the surface in a way that conventional tournament golf doesn't, and it creates moments that fans remember long after the number on the 18th is posted.<\/p>\n\n<p>The four players selected for this event are not chosen at random. McIlroy won the 2026 Masters \u2014 he arrives as the reigning Augusta champion, carrying the confidence that major title produces. Woods is Tiger Woods, which is a sentence that still means something in Japan. Day has been one of the game's most consistent performers for more than a decade. Matsuyama, at Narashino, will be playing in front of a crowd that considers him a national hero.<\/p>\n\n<h2>The Japan Factor<\/h2>\n\n<p>Japan has embraced professional golf at the highest level, and the combination of Matsuyama's popularity and Woods's global stature has made the country one of the most enthusiastic hosts on the global golf calendar. Accordia Golf Narashino Country Club, located just outside Tokyo, provides a venue that Japanese fans know well and international fans will be watching closely.<\/p>\n\n<p>McIlroy comes as favourite, which makes sense \u2014 he is playing the best golf of his generation right now. But skins matches have a way of equalizing things. One good hole from Woods or a birdie on a contested skin from Day can shift the result entirely.<\/p>\n\n<h2>What to Watch<\/h2>\n\n<p>The October 21 event sits one day before the Butterfield Bermuda Championship begins \u2014 a reminder that the PGA Tour's Fall season continues even as exhibition events capture attention. For the players involved, the Japan skins match is a chance to connect with fans in one of the sport's most passionate markets and deliver the kind of compelling golf that only this specific combination of personalities can produce.<\/p>\n\n<p>October 21. Narashino. Four champions. This one should be worth watching.<\/p>\n\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-04-butterfield-bermuda-championship-preview", "title": "Next Stop Bermuda: PGA Tour FedExCup Fall Resumes October 22\u201325 at Port Royal", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Next Stop Bermuda: PGA Tour FedExCup Fall Resumes October 22\u201325 at Port Royal<\/title>\n<\/head>\n<body>\n\n<h1>Next Stop Bermuda: PGA Tour FedExCup Fall Resumes October 22\u201325 at Port Royal<\/h1>\n<p><strong>By Ryan Calloway<\/strong><\/p>\n\n<p>The PGA Tour takes a week off following last weekend's Baycurrent Classic in Yokohama, Japan. When the FedExCup Fall season resumes, it does so at one of the most distinctive venues on the calendar \u2014 Port Royal Golf Course in Bermuda, home of the Butterfield Bermuda Championship from October 22\u201325.<\/p>\n\n<h2>Port Royal and What Makes It Different<\/h2>\n\n<p>Port Royal is a public golf course built into Bermuda's coastline, and it plays nothing like the manicured parkland courses that dominate the American tour schedule. The layout winds through the island's terrain \u2014 past stretches of Atlantic coastline, over elevation changes that a flat scorecard can never fully communicate, into and out of wind corridors that make club selection a conversation rather than a calculation.<\/p>\n\n<p>Bermuda's wind is the defining element. Players who fight it instead of working with it pay a price. The holes that run along the ocean \u2014 particularly the par-three 16th, with its cliff-side green above the water \u2014 are among the most photographed on the tour schedule. The setting rewards players who manage their emotions alongside their game.<\/p>\n\n<h2>The Fall Bubble<\/h2>\n\n<p>Four events remain in the FedExCup Fall season after this week's break: Bermuda, the VidantaWorld Mexico Open (October 29\u2013November 1), and two further rounds. Players finishing in the top 60 of the FedExCup Fall standings earn status for the following season's full schedule.<\/p>\n\n<p>For the players inside the bubble \u2014 those within striking distance of that top-60 cutoff \u2014 there are very few chances left to move. The Bermuda Championship is not just another 72-hole event. For those players, it is a do-or-die opportunity in a setting that makes golf difficult even when the pressure is low.<\/p>\n\n<h2>Coming Off Yokohama<\/h2>\n\n<p>Michael Brennan won the Baycurrent Classic last weekend, his third PGA Tour title and second of 2026. He enters Bermuda with momentum, points, and the attention that a recent winner carries into the next event. The question the Fall season consistently asks is whether a player's form translates across different course types and conditions.<\/p>\n\n<p>Port Royal's demands are specific. Speed on greens differs from Japan. Wind factors don't exist at Yokohama Country Club the way they do on a coastal Bermuda layout. Bermuda is its own test, and the Fall season's diversity is part of what makes the bubble race compelling.<\/p>\n\n<p>The tour is ten days away from Bermuda. The standings are alive.<\/p>\n\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-05-lpga-shanghai-asian-swing-preview", "title": "LPGA Heads to Shanghai \u2014 Three Weeks, Three Countries, the Race to CME Globe Heats Up", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>LPGA Heads to Shanghai \u2014 Three Weeks, Three Countries, the Race to CME Globe Heats Up<\/title>\n<\/head>\n<body>\n\n<h1>LPGA Heads to Shanghai \u2014 Three Weeks, Three Countries, the Race to CME Globe Heats Up<\/h1>\n<p><strong>By Jake Torres<\/strong><\/p>\n\n<p>The LPGA Tour is heading into one of the most demanding stretches on its 2026 calendar \u2014 a three-tournament Asian swing spanning three countries across three consecutive weeks. It begins with the Buick LPGA Shanghai in China from October 15\u201318.<\/p>\n\n<h2>The Asian Swing: Three Events, Three Countries<\/h2>\n\n<p>Shanghai opens the sequence. The BMW Ladies Championship follows at Pine Beach Golf Links in South Korea (October 22\u201325). The stretch concludes with the Maybank Championship at Kuala Lumpur Golf and Country Club in Malaysia (October 29\u2013November 1).<\/p>\n\n<p>The players who navigate these three events well will arrive at the season's closing stretch with real momentum in the Race to CME Globe standings. Those who falter \u2014 whether from travel fatigue, course unfamiliarity, or the pressure of playing three marquee international events back-to-back-to-back \u2014 will find themselves fighting from behind when it matters most.<\/p>\n\n<h2>Shanghai as a Stage<\/h2>\n\n<p>The Buick LPGA Shanghai has established itself as one of the LPGA's premier international events. The combination of the sponsorship profile, the venue quality, and the Chinese fan engagement has made it a consistent highlight of the tour's overseas schedule. Players arrive knowing the galleries will be substantial and the coverage broad.<\/p>\n\n<p>The 2026 LPGA season spans 33 events across 13 countries and offers a total prize fund exceeding $132 million. The Asian swing accounts for three of those 33 events and a meaningful share of the season's available points. In a season where the Race to CME Globe will determine seedings and tour status for 2027, the timing of this stretch \u2014 late in the calendar, before the year-end final events \u2014 makes it decisive.<\/p>\n\n<h2>The Race to CME Globe Context<\/h2>\n\n<p>The CME Group Tour Championship, the LPGA's season-ending event, carries the sport's largest single prize. Players who arrive at that event with strong CME Globe standings have the best chance at the biggest cheque in women's golf. The Asian swing is the last major cluster of events before that finale \u2014 making Shanghai, South Korea and Malaysia not just individual tournaments, but chapters in a larger story about who finishes 2026 on top.<\/p>\n\n<p>Tee times for the Buick LPGA Shanghai begin Thursday, October 15. The first drives of the LPGA's Asian swing are three days away.<\/p>\n\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}];
+        const imageManifest = {};
+        let imageURLs = {}; // Runtime store: {'1_x_image': 'url', '1_facebook_image': 'url', ...}
+
+        // Image URL management
+        function updateImageURL(inputEl) {
+            var story = inputEl.dataset.story;
+            var platform = inputEl.dataset.platform;
+            var url = inputEl.value.trim();
+            var key = story + '_' + platform;
+            imageURLs[key] = url;
+
+            // Update preview thumbnail
+            var preview = document.getElementById('img-preview-' + story + '-' + platform);
+            if (preview) {
+                if (url) {
+                    preview.src = url;
+                    preview.classList.add('loaded');
+                    preview.onerror = function() { this.classList.remove('loaded'); };
+                } else {
+                    preview.src = '';
+                    preview.classList.remove('loaded');
+                }
+            }
+        }
+
+        function getImageURLForStory(storyTitle, platform) {
+            // Try runtime imageURLs first (user-pasted)
+            // Extract story number from title
+            for (var key in imageURLs) {
+                if (imageURLs[key] && key.endsWith('_' + platform)) {
+                    var storyNum = key.split('_')[0];
+                    // Check if this story matches by looking at allStories
+                    for (var i = 0; i < allStories.length; i++) {
+                        if (allStories[i].title === storyTitle &&
+                            allStories[i].id.indexOf('story-' + storyNum) !== -1) {
+                            return imageURLs[key];
+                        }
+                    }
+                }
+            }
+
+            // Try manifest data
+            for (var num in imageManifest) {
+                var mdata = imageManifest[num];
+                if (mdata && mdata[platform] && mdata[platform].exported_url) {
+                    // Check if this story number matches
+                    for (var j = 0; j < allStories.length; j++) {
+                        if (allStories[j].title === storyTitle &&
+                            allStories[j].id.indexOf('story-' + num) !== -1) {
+                            return mdata[platform].exported_url;
+                        }
+                    }
+                }
+            }
+
+            return '';
+        }
+
+        function initializeApp() {
+            const saved = localStorage.getItem(REVIEW_STORAGE_KEY + '-' + DATE);
+            if (saved) {
+                try {
+                    reviewData = JSON.parse(saved);
+                } catch (e) {
+                    reviewData = {};
+                }
+            }
+
+            allStories.forEach(function(story) {
+                if (!reviewData[story.id]) {
+                    reviewData[story.id] = {
+                        id: story.id,
+                        type: story.type,
+                        status: 'unreviewed',
+                        notes: '',
+                        content: story.content,
+                        editedContent: null
+                    };
+                }
+                // Migrate old data: ensure editedContent field exists
+                if (reviewData[story.id].editedContent === undefined) {
+                    reviewData[story.id].editedContent = null;
+                }
+            });
+
+            // Restore UI state
+            Object.keys(reviewData).forEach(function(storyId) {
+                var data = reviewData[storyId];
+                var card = document.querySelector('[data-id="' + storyId + '"]');
+                if (card) {
+                    card.setAttribute('data-status', data.status);
+                    var textarea = document.getElementById('textarea-' + storyId);
+                    if (textarea) textarea.value = data.notes || '';
+                    // If content was edited, update the display and editor
+                    if (data.editedContent) {
+                        var contentText = card.querySelector('.card-content-text');
+                        if (contentText) contentText.textContent = data.editedContent;
+                        var editor = document.getElementById('editor-' + storyId);
+                        if (editor) editor.value = data.editedContent;
+                    }
+                    updateCardVisuals(storyId, data.status, !!data.editedContent);
+                }
+            });
+
+            updateProgress();
+            filterByStatus('all');
+        }
+
+        function toggleExpand(storyId) {
+            var content = document.getElementById('content-' + storyId);
+            var toggle = document.getElementById('toggle-' + storyId);
+            if (content.classList.contains('collapsed')) {
+                content.classList.remove('collapsed');
+                content.classList.add('expanded');
+                toggle.textContent = 'Collapse';
+            } else {
+                content.classList.remove('expanded');
+                content.classList.add('collapsed');
+                toggle.textContent = 'Show Full Content';
+            }
+        }
+
+        function startEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+            card.classList.add('editing');
+            var editor = document.getElementById('editor-' + storyId);
+            if (editor) {
+                // If previously edited, load edited content; otherwise load original
+                var data = reviewData[storyId];
+                if (data && data.editedContent) {
+                    editor.value = data.editedContent;
+                }
+                editor.focus();
+                // Auto-resize for articles
+                editor.style.minHeight = Math.max(300, editor.scrollHeight) + 'px';
+            }
+        }
+
+        function saveAndApprove(storyId) {
+            var editor = document.getElementById('editor-' + storyId);
+            if (!editor) return;
+            var newContent = editor.value;
+
+            // Save the edited content
+            if (!reviewData[storyId]) {
+                reviewData[storyId] = { id: storyId, status: 'approved', notes: '', content: '', editedContent: null };
+            }
+            reviewData[storyId].editedContent = newContent;
+
+            // Update the display text
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            var contentText = card ? card.querySelector('.card-content-text') : null;
+            if (contentText) contentText.textContent = newContent;
+
+            // Exit edit mode
+            if (card) card.classList.remove('editing');
+
+            // Approve
+            setStatus(storyId, 'approved');
+            updateCardVisuals(storyId, 'approved', true);
+
+            // Update char count for X posts
+            updateCharCount(storyId, newContent);
+        }
+
+        function cancelEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.classList.remove('editing');
+        }
+
+        function updateCharCount(storyId, text) {
+            var el = document.getElementById('charcount-' + storyId);
+            if (!el) return;
+            // Strip metadata tags before counting
+            var clean = text.replace(/\[CHARACTER COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[CHAR COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[\d+\/280\]/g, '');
+            // Remove URLs for Twitter count
+            var textNoUrls = clean.replace(/https?:\/\/\S+/g, '');
+            var count = textNoUrls.trim().length;
+            el.textContent = 'Characters: ' + count + '/280' + (count > 280 ? '  OVER LIMIT' : '');
+            el.className = count > 280 ? 'char-count warning' : 'char-count';
+        }
+
+        function approveCard(storyId) {
+            setStatus(storyId, 'approved');
+            document.getElementById('notes-' + storyId).classList.remove('show');
+        }
+
+        function rejectCard(storyId) {
+            setStatus(storyId, 'rejected');
+            document.getElementById('notes-' + storyId).classList.add('show');
+        }
+
+        function setStatus(storyId, status) {
+            if (!reviewData[storyId]) {
+                var story = allStories.find(function(s) { return s.id === storyId; });
+                reviewData[storyId] = {
+                    id: storyId,
+                    type: story ? story.type : '',
+                    status: status,
+                    notes: '',
+                    content: story ? story.content : '',
+                    editedContent: null
+                };
+            }
+
+            reviewData[storyId].status = status;
+
+            var textarea = document.getElementById('textarea-' + storyId);
+            if (textarea) reviewData[storyId].notes = textarea.value;
+
+            localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.setAttribute('data-status', status);
+            updateCardVisuals(storyId, status, !!(reviewData[storyId] && reviewData[storyId].editedContent));
+            updateProgress();
+        }
+
+        function updateCardVisuals(storyId, status, wasEdited) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+
+            card.classList.remove('approved', 'needs-edit', 'rejected');
+            if (status !== 'unreviewed') card.classList.add(status);
+
+            var statusLabel = document.getElementById('status-' + storyId);
+            if (statusLabel) {
+                statusLabel.className = 'status-label';
+                if (status === 'approved' && wasEdited) {
+                    statusLabel.textContent = 'APPROVED (EDITED)';
+                    statusLabel.classList.add('status-edited');
+                } else if (status === 'approved') {
+                    statusLabel.textContent = 'APPROVED';
+                    statusLabel.classList.add('status-approved');
+                } else if (status === 'needs-edit') {
+                    statusLabel.textContent = 'NEEDS EDIT';
+                    statusLabel.classList.add('status-needs-edit');
+                } else if (status === 'rejected') {
+                    statusLabel.textContent = 'REJECTED';
+                    statusLabel.classList.add('status-rejected');
+                } else {
+                    statusLabel.textContent = '';
+                }
+            }
+        }
+
+        function updateProgress() {
+            var approved = 0, rejected = 0, unreviewed = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status === 'unreviewed') unreviewed++;
+                else if (data.status === 'approved') approved++;
+                else if (data.status === 'rejected') rejected++;
+                else unreviewed++;
+            });
+            var reviewed = approved + rejected;
+            var total = allStories.length;
+            var percentage = total > 0 ? (reviewed / total * 100) : 0;
+            document.getElementById('reviewed-count').textContent = reviewed;
+            document.getElementById('total-count').textContent = total;
+            document.getElementById('progress-fill').style.width = percentage + '%';
+            // Update stat chips
+            document.getElementById('stat-approved-count').textContent = approved;
+            document.getElementById('stat-rejected-count').textContent = rejected;
+            document.getElementById('stat-unreviewed-count').textContent = unreviewed;
+            // Update CSV button
+            var csvBtn = document.getElementById('btn-csv');
+            var tobiBtn = document.getElementById('btn-tobi');
+            var socialApproved = countApprovedSocialPosts();
+            if (csvBtn) {
+                if (socialApproved > 0) {
+                    csvBtn.disabled = false;
+                    csvBtn.textContent = 'PostPlanner Upload (' + socialApproved + ' posts)';
+                } else {
+                    csvBtn.disabled = true;
+                    csvBtn.textContent = 'PostPlanner Upload (0 approved)';
+                }
+            }
+            // Update TOBI button (counts only X/Twitter text posts)
+            if (tobiBtn) {
+                var xApproved = countApprovedXPosts();
+                if (xApproved > 0) {
+                    tobiBtn.disabled = false;
+                    tobiBtn.textContent = 'TOBI Upload (' + xApproved + ' posts)';
+                } else {
+                    tobiBtn.disabled = true;
+                    tobiBtn.textContent = 'TOBI Upload (0 approved)';
+                }
+            }
+        }
+
+        function countApprovedSocialPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && (story.type === 'x_post' || story.type === 'facebook')) {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function countApprovedXPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && story.type === 'x_post') {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function escapeCSVField(text) {
+            if (!text) return '';
+            // If field contains comma, quote, or newline, wrap in quotes and escape inner quotes
+            if (text.indexOf(',') !== -1 || text.indexOf('"') !== -1 || text.indexOf('\n') !== -1) {
+                return '"' + text.replace(/"/g, '""') + '"';
+            }
+            return text;
+        }
+
+        function extractHashtags(text) {
+            if (!text) return '';
+            var matches = text.match(/#\w+/g);
+            return matches ? matches.join(' ') : '';
+        }
+
+        // ========== POSTING SCHEDULE SYSTEM ==========
+        var defaultXSlots = ['09:00', '12:00', '15:00', '18:00', '21:00'];
+        var defaultFBSlots = ['10:00', '13:00', '17:00'];
+
+        function getScheduleConfig() {
+            var saved = localStorage.getItem(SCHEDULE_STORAGE_KEY);
+            if (saved) {
+                try { return JSON.parse(saved); } catch(e) {}
+            }
+            return { xSlots: defaultXSlots.slice(), fbSlots: defaultFBSlots.slice() };
+        }
+
+        function saveScheduleConfig(config) {
+            localStorage.setItem(SCHEDULE_STORAGE_KEY, JSON.stringify(config));
+        }
+
+        function renderTimeSlots() {
+            var config = getScheduleConfig();
+            var xContainer = document.getElementById('x-time-slots');
+            var fbContainer = document.getElementById('fb-time-slots');
+
+            xContainer.innerHTML = config.xSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27x\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+
+            fbContainer.innerHTML = config.fbSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27fb\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+        }
+
+        function addTimeSlot(platform) {
+            var inputId = platform === 'x' ? 'new-x-time' : 'new-fb-time';
+            var val = document.getElementById(inputId).value;
+            if (!val) return;
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            if (arr.indexOf(val) === -1) {
+                arr.push(val);
+                arr.sort();
+            }
+            saveScheduleConfig(config);
+            renderTimeSlots();
+            document.getElementById(inputId).value = '';
+        }
+
+        function removeTimeSlot(platform, index) {
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            arr.splice(index, 1);
+            saveScheduleConfig(config);
+            renderTimeSlots();
+        }
+
+        function downloadPostPlannerCSV() {
+            // Open schedule panel instead of direct download
+            openSchedulePanel();
+        }
+
+        function openSchedulePanel() {
+            document.getElementById('schedule-date').value = DATE;
+            renderTimeSlots();
+            document.getElementById('schedule-panel').classList.add('show');
+            document.getElementById('schedule-overlay').classList.add('show');
+        }
+
+        function closeSchedulePanel() {
+            document.getElementById('schedule-panel').classList.remove('show');
+            document.getElementById('schedule-overlay').classList.remove('show');
+        }
+
+        function formatTimeForPostPlanner(time24, dateStr) {
+            // Output PostPlanner V2 format: MM/DD/YYYY  HH:MM (24hr)
+            var parts = dateStr.split('-');
+            return parts[1] + '/' + parts[2] + '/' + parts[0] + '  ' + time24;
+        }
+
+        function redistributeTimes(rows) {
+            // Ensure all post times are at least 30 min from now,
+            // evenly spaced through the rest of the day.
+            if (rows.length === 0) return rows;
+
+            var now = new Date();
+            var nowMinutes = now.getHours() * 60 + now.getMinutes();
+            var floorMinutes = nowMinutes + 30;
+            var endMinutes = 22 * 60; // 10:00 PM cutoff
+
+            // Check if ANY post times have already passed
+            var anyPast = rows.some(function(row) {
+                var parts = row.time.split(':');
+                var rowMin = parseInt(parts[0], 10) * 60 + parseInt(parts[1], 10);
+                return rowMin < floorMinutes;
+            });
+
+            if (!anyPast) return rows; // all times are in the future, keep them
+
+            if (floorMinutes >= endMinutes) {
+                alert('It is past 9:30 PM — not enough time remaining to schedule all posts today. Posts will use original times.');
+                return rows;
+            }
+
+            var availableMinutes = endMinutes - floorMinutes;
+            var spacing = Math.floor(availableMinutes / rows.length);
+            if (spacing < 15) spacing = 15; // minimum 15 min gap
+            if (spacing > 90) spacing = 90; // maximum 90 min gap
+
+            rows.forEach(function(row, i) {
+                var postMinutes = floorMinutes + (i * spacing);
+                if (postMinutes >= 24 * 60) postMinutes = 23 * 60 + 45;
+                var h = Math.floor(postMinutes / 60);
+                var m = postMinutes % 60;
+                row.time = (h < 10 ? '0' : '') + h + ':' + (m < 10 ? '0' : '') + m;
+            });
+
+            var firstTime = rows[0].time;
+            var lastTime = rows[rows.length - 1].time;
+            console.log('PostPlanner export: redistributed ' + rows.length + ' posts from ' + firstTime + ' to ' + lastTime + ' (' + spacing + ' min apart)');
+            return rows;
+        }
+
+        // Parse actual time from posting_window string like "7:00 AM CT" -> "07:00"
+        function parsePostingTime(timeStr) {
+            if (!timeStr) return null;
+            var m = timeStr.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
+            if (!m) return null;
+            var h = parseInt(m[1], 10);
+            var min = m[2];
+            var ampm = m[3].toUpperCase();
+            if (ampm === 'PM' && h !== 12) h += 12;
+            if (ampm === 'AM' && h === 12) h = 0;
+            return (h < 10 ? '0' : '') + h + ':' + min;
+        }
+
+        // Generic window name fallback
+        var windowToTime = {
+            'Morning': '09:00',
+            'Midday': '12:00',
+            'Afternoon': '15:00',
+            'Evening': '18:00',
+            'Late Night': '21:00'
+        };
+
+        function generateAndDownload() {
+            var config = getScheduleConfig();
+            var postDate = document.getElementById('schedule-date').value || DATE;
+
+            var xRows = [];
+            var fbRows = [];
+
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                var finalContent = data.editedContent || story.content;
+
+                if (story.type === 'x_post') {
+                    // If this is an individual tweet card (has tweet_label), use directly
+                    if (story.tweet_label) {
+                        xRows.push({
+                            content: finalContent,
+                            type: story.tweet_type || 'text',
+                            hashtags: story.hashtags || extractHashtags(finalContent),
+                            story: story.title,
+                            posting_window: story.posting_window || ''
+                        });
+                    } else {
+                        // Legacy: parse full story markdown for individual tweets
+                        var sections = parseXPostContent(finalContent, story.title);
+                        sections.forEach(function(post) {
+                            xRows.push({
+                                content: post.text,
+                                type: post.type,
+                                hashtags: extractHashtags(post.text),
+                                story: story.title
+                            });
+                        });
+                    }
+                } else if (story.type === 'facebook') {
+                    var fbPost = parseFacebookContent(finalContent, story.title);
+                    if (fbPost) {
+                        fbRows.push(fbPost);
+                    }
+                }
+            });
+
+            if (xRows.length === 0 && fbRows.length === 0) {
+                alert('No approved social posts to export.');
+                return;
+            }
+
+            // Assign times: use posting_window property first, then content tag, then round-robin
+            function assignTimes(rows, slots, label) {
+                if (slots.length === 0) slots = ['12:00'];
+                var timeFallbacks = [];
+                return rows.map(function(row, i) {
+                    row.date = postDate;
+                    // 1. Try posting_window property (e.g., "7:00 AM CT")
+                    var parsed = parsePostingTime(row.posting_window);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                    // 2. Try [POSTING WINDOW: ...] tag in content
+                    var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                    if (windowMatch) {
+                        parsed = parsePostingTime(windowMatch[1]);
+                        if (parsed) {
+                            row.time = parsed;
+                            return row;
+                        }
+                        if (windowToTime[windowMatch[1].trim()]) {
+                            row.time = windowToTime[windowMatch[1].trim()];
+                            return row;
+                        }
+                    }
+                    // 3. Fall back to round-robin
+                    row.time = slots[i % slots.length];
+                    timeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                    return row;
+                });
+                // Warn if any posts had to use fallback times
+                if (timeFallbacks.length > 0) {
+                    console.warn('TIME WARNING (' + label + '): ' + timeFallbacks.length + ' post(s) had no parsed posting time:\n' + timeFallbacks.join('\n'));
+                }
+            }
+
+            xRows = assignTimes(xRows, config.xSlots, 'X/Twitter');
+            fbRows = assignTimes(fbRows, config.fbSlots, 'Facebook');
+
+            // Generate XLSX in PostPlanner Bulk Upload V2 format
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Falling back to CSV download.');
+                fallbackCSVDownload(xRows, fbRows, postDate);
+                return;
+            }
+
+            // Combine all rows and sort by original time
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) {
+                return a.time.localeCompare(b.time);
+            });
+
+            // Smart time redistribution
+            allRows = redistributeTimes(allRows);
+
+            var wb = XLSX.utils.book_new();
+
+            // PostPlanner V3.1 format: Row 1 = version marker, Row 2 = headers, Row 3+ = data
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            allRows.forEach(function(row) {
+                var caption = cleanMarkdownForPost(row.content);
+                var mediaUrl = '';
+                if (row.type === 'image' || row.type === 'IMAGE') {
+                    mediaUrl = getImageURLForStory(row.story, row.platform === 'facebook' ? 'facebook_image' : 'x_image') || '';
+                }
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    caption,
+                    '',
+                    mediaUrl,
+                    '', '', '', '', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 30}, {wch: 30}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            // Download
+            XLSX.writeFile(wb, 'postplanner-upload-' + postDate + '.xlsx');
+            closeSchedulePanel();
+
+            var msg = 'Downloaded postplanner-upload-' + postDate + '.xlsx with ';
+            var parts = [];
+            if (xRows.length > 0) parts.push(xRows.length + ' X posts');
+            if (fbRows.length > 0) parts.push(fbRows.length + ' Facebook posts');
+            alert(msg + parts.join(' and ') + '.\n\nUpload this file to PostPlanner via Bulk Upload.');
+        }
+
+        function cleanMarkdownForPost(text) {
+            // Strip markdown formatting and metadata that shouldn't appear in social posts
+            if (!text) return '';
+            return text
+                .replace(/\[CHARACTER COUNT:.*?\]/gi, '')
+                .replace(/\[CHAR COUNT:.*?\]/gi, '')
+                .replace(/\[\d+\/280\]/g, '')
+                .replace(/\*\*\[POSTING WINDOW:.*?\]\*\*/g, '')
+                .replace(/\[POSTING WINDOW:.*?\]/g, '')
+                .replace(/\*\*([^*]+)\*\*/g, '$1')
+                .replace(/\*([^*]+)\*/g, '$1')
+                .replace(/^#+\s+/gm, '')
+                .replace(/^[-*]\s+/gm, '')
+                .replace(/```[\s\S]*?```/g, '')
+                .replace(/\n{3,}/g, '\n\n')
+                .trim();
+        }
+
+        function fallbackCSVDownload(xRows, fbRows, postDate) {
+            // Fallback if SheetJS fails to load — generates CSV in V2-like format
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+            if (allRows.length === 0) {
+                alert('No approved posts to export.');
+                closeSchedulePanel();
+                return;
+            }
+            // Smart time redistribution (same as XLSX path)
+            allRows = redistributeTimes(allRows);
+            var csv = '## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload,' + escapeCSVField('BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.') + ',,,,,,,\n';
+            csv += '## POSTING TIME,CAPTION,LINK,MEDIA,TITLE,FIRST COMMENT,FIRST COMMENT DELAY,TOBI BACKGROUND,REEL OR STORY\n';
+            allRows.forEach(function(row) {
+                csv += escapeCSVField(formatTimeForPostPlanner(row.time, postDate)) + ',' +
+                       escapeCSVField(cleanMarkdownForPost(row.content)) + ',' +
+                       ',,,,,,\n';
+            });
+            downloadFile(csv, 'postplanner-upload-' + postDate + '.csv', 'text/csv');
+            closeSchedulePanel();
+        }
+
+        function downloadTOBIExport() {
+            // Generate TOBI XLSX directly (no schedule panel needed — uses same times)
+            generateAndDownloadTOBI();
+        }
+
+        function stripHashtags(text) {
+            // Remove lines that are entirely hashtags, and trailing blank lines
+            var lines = text.split('\n');
+            var cleaned = [];
+            for (var i = 0; i < lines.length; i++) {
+                var stripped = lines[i].trim();
+                if (stripped && stripped.split(/\s+/).every(function(w) { return w.charAt(0) === '#'; })) {
+                    continue;
+                }
+                cleaned.push(lines[i]);
+            }
+            while (cleaned.length > 0 && !cleaned[cleaned.length - 1].trim()) {
+                cleaned.pop();
+            }
+            return cleaned.join('\n');
+        }
+
+        function generateAndDownloadTOBI() {
+            var postDate = document.getElementById('schedule-date') ?
+                document.getElementById('schedule-date').value || DATE : DATE;
+
+            // Collect approved X/Twitter text posts only
+            var xRows = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                if (story.type !== 'x_post') return;
+
+                var finalContent = data.editedContent || story.content;
+                if (story.tweet_label) {
+                    xRows.push({
+                        content: finalContent,
+                        posting_window: story.posting_window || '',
+                        story: story.title
+                    });
+                }
+            });
+
+            if (xRows.length === 0) {
+                alert('No approved X/Twitter posts for TOBI export.');
+                return;
+            }
+
+            // Assign times — use same logic as regular export (posting_window → content tag → round-robin)
+            var tobiSlots = defaultXSlots.slice();
+            if (tobiSlots.length === 0) tobiSlots = ['12:00'];
+            var tobiTimeFallbacks = [];
+            xRows = xRows.map(function(row, i) {
+                row.date = postDate;
+                // 1. Try posting_window property (e.g., "7:00 AM CT")
+                var parsed = parsePostingTime(row.posting_window);
+                if (parsed) {
+                    row.time = parsed;
+                    return row;
+                }
+                // 2. Try [POSTING WINDOW: ...] tag in content
+                var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                if (windowMatch) {
+                    parsed = parsePostingTime(windowMatch[1]);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                }
+                // 3. Fall back to round-robin through time slots (NOT 12:00)
+                row.time = tobiSlots[i % tobiSlots.length];
+                tobiTimeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                return row;
+            });
+            // Warn if any posts had to use fallback times
+            if (tobiTimeFallbacks.length > 0) {
+                console.warn('TOBI TIME WARNING: ' + tobiTimeFallbacks.length + ' post(s) had no parsed posting time:\n' + tobiTimeFallbacks.join('\n'));
+            }
+
+            // Sort by time
+            xRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+
+            // Smart time redistribution
+            xRows = redistributeTimes(xRows);
+
+            // TOBI processing: preserve hashtags + emojis as much as possible
+            var TOBI_LIMIT = 130;
+
+            function extractHashtags(text) {
+                var matches = text.match(/#\w+/g);
+                return matches || [];
+            }
+
+            function extractTrailingEmoji(text) {
+                var m = text.match(/\s*([\u{1F300}-\u{1FAFF}\u2600-\u27BF\u2B50\u26A0-\u26FF]+)\s*$/u);
+                if (m) {
+                    return { emoji: m[1], text: text.substring(0, m.index).trimEnd() };
+                }
+                return { emoji: null, text: text };
+            }
+
+            function truncateAtSentence(text, limit) {
+                var sentences = text.split(/(?<=[.!?])\s+/);
+                // Merge standalone emoji fragments into preceding sentence
+                var merged = [];
+                for (var s = 0; s < sentences.length; s++) {
+                    var trimmed = sentences[s].trim();
+                    if (!trimmed) continue;
+                    if (merged.length > 0 && !/[A-Za-z0-9]/.test(trimmed)) {
+                        merged[merged.length - 1] = merged[merged.length - 1] + ' ' + trimmed;
+                    } else {
+                        merged.push(trimmed);
+                    }
+                }
+                var truncated = '';
+                for (var s = 0; s < merged.length; s++) {
+                    var candidate = truncated ? truncated + ' ' + merged[s] : merged[s];
+                    if (candidate.length <= limit) {
+                        truncated = candidate;
+                    } else {
+                        break;
+                    }
+                }
+                // Clean up trailing abbreviation fragments (Dr., Mr., vs.)
+                if (truncated) {
+                    var parts = truncated.split(' ');
+                    var last = parts[parts.length - 1];
+                    if (parts.length > 1 && last.length <= 4 && /^[A-Za-z]+\.$/.test(last)) {
+                        parts.pop();
+                        truncated = parts.join(' ');
+                    }
+                }
+                return truncated || text.substring(0, limit - 3) + '...';
+            }
+
+            function fitHashtagsWithinLimit(text, hashtags, limit) {
+                if (!hashtags.length) return text;
+                // Try all hashtags, then progressively fewer
+                for (var n = hashtags.length; n > 0; n--) {
+                    var tagBlock = '\n\n' + hashtags.slice(0, n).join(' ');
+                    if ((text + tagBlock).length <= limit) {
+                        return text + tagBlock;
+                    }
+                }
+                return text;
+            }
+
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Cannot generate TOBI XLSX.');
+                return;
+            }
+
+            var wb = XLSX.utils.book_new();
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner TOBI Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            var keptHashtags = 0;
+            var strippedHashtags = 0;
+
+            xRows.forEach(function(row, i) {
+                var caption = cleanMarkdownForPost(row.content);
+
+                // If full caption fits under limit, use as-is — ALL hashtags + emojis preserved
+                if (caption.length <= TOBI_LIMIT) {
+                    if (extractHashtags(caption).length > 0) keptHashtags++;
+                    data.push([
+                        formatTimeForPostPlanner(row.time, postDate),
+                        caption, '', '', '', '', '', 'true-black', ''
+                    ]);
+                    return;
+                }
+
+                // Over limit — decompose and rebuild intelligently
+                var hashtags = extractHashtags(caption);
+                var coreText = stripHashtags(caption).trimEnd();
+                var emojiResult = extractTrailingEmoji(coreText);
+                var trailing_emoji = emojiResult.emoji;
+                var coreNoEmoji = emojiResult.text.trimEnd();
+
+                // Step 1: Get core text under limit
+                var result;
+                if (coreNoEmoji.length <= TOBI_LIMIT) {
+                    result = coreNoEmoji;
+                } else {
+                    result = truncateAtSentence(coreNoEmoji, TOBI_LIMIT);
+                }
+
+                // Step 2: Try to add back trailing emoji
+                if (trailing_emoji) {
+                    var withEmoji = result + ' ' + trailing_emoji;
+                    if (withEmoji.length <= TOBI_LIMIT) {
+                        result = withEmoji;
+                    }
+                }
+
+                // Step 3: Try to add back as many hashtags as possible
+                if (hashtags.length > 0) {
+                    var before = result;
+                    result = fitHashtagsWithinLimit(result, hashtags, TOBI_LIMIT);
+                    if (result !== before) keptHashtags++;
+                    else strippedHashtags++;
+                }
+
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    result, '', '', '', '', '', 'true-black', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 10}, {wch: 10}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            XLSX.writeFile(wb, 'postplanner-tobi-upload-' + postDate + '.xlsx');
+
+            alert('Downloaded TOBI export with ' + xRows.length + ' posts.\n\n' +
+                  keptHashtags + ' posts kept hashtags, ' + strippedHashtags + ' had hashtags removed for length.\n\n' +
+                  'Background: true-black (Column H).\nUpload to PostPlanner for Facebook TOBI posts.');
+        }
+
+        function parseXPostContent(content, storyTitle) {
+            var posts = [];
+            var lines = content.split('\n');
+
+            var inTextPost = false;
+            var inThread = false;
+            var currentTweetNum = 0;
+            var currentText = [];
+
+            for (var i = 0; i < lines.length; i++) {
+                var line = lines[i];
+                var trimmed = line.trim();
+
+                if (trimmed.match(/^###\s+Text Post/i)) {
+                    flushPost();
+                    inTextPost = true;
+                    inThread = false;
+                    currentText = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Thread Concept/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = true;
+                    currentText = [];
+                    currentTweetNum = 0;
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+
+                if (inThread && trimmed.match(/^\*\*Tweet\s+\d+/i)) {
+                    flushPost();
+                    currentTweetNum++;
+                    currentText = [];
+                    continue;
+                }
+
+                if (inTextPost || (inThread && currentTweetNum > 0)) {
+                    if (trimmed !== '') {
+                        currentText.push(line);
+                    }
+                }
+            }
+            flushPost();
+
+            function flushPost() {
+                if (currentText.length === 0) return;
+                var text = currentText.join('\n').trim();
+                if (!text) return;
+
+                if (inTextPost) {
+                    posts.push({ text: text, type: 'text' });
+                } else if (inThread && currentTweetNum > 0) {
+                    posts.push({
+                        text: text,
+                        type: currentTweetNum === 1 ? 'thread_start' : 'thread_reply'
+                    });
+                }
+                currentText = [];
+            }
+
+            return posts;
+        }
+
+        function parseFacebookContent(content, storyTitle) {
+            var lines = content.split('\n');
+            var inLongForm = false;
+            var inImagePost = false;
+            var longFormLines = [];
+            var imageCaption = '';
+
+            for (var i = 0; i < lines.length; i++) {
+                var trimmed = lines[i].trim();
+
+                if (trimmed.match(/^###\s+Long-Form Post/i)) {
+                    inLongForm = true;
+                    inImagePost = false;
+                    longFormLines = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post Caption/i) || trimmed.match(/^###\s+Image Post/i)) {
+                    inLongForm = false;
+                    inImagePost = true;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/) || trimmed.match(/^---/)) {
+                    inLongForm = false;
+                    inImagePost = false;
+                    continue;
+                }
+
+                if (inLongForm) {
+                    longFormLines.push(lines[i]);
+                }
+                if (inImagePost && trimmed !== '') {
+                    imageCaption = trimmed;
+                    inImagePost = false;
+                }
+            }
+
+            var longForm = longFormLines.join('\n').trim();
+            if (!longForm) return null;
+
+            return {
+                content: longForm,
+                image_caption: imageCaption,
+                story: storyTitle
+            };
+        }
+
+        function downloadFile(content, filename, mimeType) {
+            var blob = new Blob([content], { type: mimeType });
+            var url = URL.createObjectURL(blob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = filename;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            URL.revokeObjectURL(url);
+        }
+
+        var currentStatusFilter = 'all';
+        var currentTypeFilter = 'all';
+
+        function filterByStatus(status) {
+            currentStatusFilter = status;
+            applyFilters();
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim().toLowerCase().replace(/\s+/g, '') === status.replace('-', '').toLowerCase() ||
+                    (status === 'all' && btn.textContent.trim() === 'All') ||
+                    (status === 'needs-edit' && btn.textContent.trim() === 'Needs Edit')) {
+                    btn.classList.add('active');
+                }
+            });
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+        }
+
+        function filterByType(type) {
+            currentTypeFilter = type;
+            currentStatusFilter = 'all';
+            applyFilters();
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim() === 'All') btn.classList.add('active');
+            });
+        }
+
+        function applyFilters() {
+            var cards = document.querySelectorAll('.card');
+            var visibleCount = 0;
+            cards.forEach(function(card) {
+                var cardStatus = card.getAttribute('data-status');
+                var cardType = card.getAttribute('data-type');
+                var matchesStatus = (currentStatusFilter === 'all') || (cardStatus === currentStatusFilter);
+                var matchesType = (currentTypeFilter === 'all') || (cardType === currentTypeFilter);
+                if (matchesStatus && matchesType) {
+                    card.classList.add('show');
+                    visibleCount++;
+                } else {
+                    card.classList.remove('show');
+                }
+            });
+            document.getElementById('empty-state').style.display = visibleCount === 0 ? 'block' : 'none';
+        }
+
+        function approveAll() {
+            if (!confirm('Approve all ' + allStories.length + ' items?')) return;
+            allStories.forEach(function(story) { setStatus(story.id, 'approved'); });
+        }
+
+        function resetAll() {
+            if (confirm('Reset all reviews? This cannot be undone.')) {
+                localStorage.removeItem(REVIEW_STORAGE_KEY + '-' + DATE);
+                location.reload();
+            }
+        }
+
+        function copyContent(storyId) {
+            var data = reviewData[storyId];
+            var story = allStories.find(function(s) { return s.id === storyId; });
+            var text = (data && data.editedContent) ? data.editedContent : (story ? story.content : '');
+            navigator.clipboard.writeText(text).then(function() {
+                var btn = document.querySelector('[data-id="' + storyId + '"] .btn-copy');
+                if (btn) { var orig = btn.textContent; btn.textContent = 'Copied!'; setTimeout(function() { btn.textContent = orig; }, 1500); }
+            });
+        }
+
+        function exportApprovals() {
+            var items = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id] || {};
+                items.push({
+                    id: story.id,
+                    type: story.type,
+                    title: story.title,
+                    status: data.status || 'unreviewed',
+                    notes: data.notes || '',
+                    content: story.content,
+                    editedContent: data.editedContent || null,
+                    finalContent: data.editedContent || story.content
+                });
+            });
+
+            var exportData = {
+                date: DATE,
+                reviewed_by: '',
+                reviewed_at: new Date().toISOString(),
+                items: items
+            };
+
+            var dataStr = JSON.stringify(exportData, null, 2);
+            var dataBlob = new Blob([dataStr], { type: 'application/json' });
+            var url = URL.createObjectURL(dataBlob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = 'approvals-' + DATE + '.json';
+            link.click();
+            URL.revokeObjectURL(url);
+        }
+
+        // Auto-save notes as you type
+        document.addEventListener('input', function(e) {
+            if (e.target.classList.contains('notes-textarea')) {
+                var storyId = e.target.id.replace('textarea-', '');
+                if (reviewData[storyId]) {
+                    reviewData[storyId].notes = e.target.value;
+                    localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+                }
+            }
+        });
+
+        initializeApp();
+
+    </script>
+</body>
+</html>
