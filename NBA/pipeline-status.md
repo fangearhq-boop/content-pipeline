@@ -1,7 +1,7 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Current Status
-**Last Run:** 2026-10-11
+**Last Run:** 2026-10-12
 **Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy; git push via GitHub MCP
 
 ## Deploy Info
@@ -11,6 +11,26 @@
 - **Note:** Dashboard publish push blocked (content-dashboards not in authorized repo set)
 
 ## Pipeline Run Log
+### 2026-10-12 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 58 claims, 90 HIGH; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 8 tweets, 0 FB (known parsing issue), 5 articles compiled (posting window warnings — non-blocking)
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (23 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 15: publish-to-wordpress.py — BLOCKED (credentials not injectable via scheduler)
+- Git commit + push: via GitHub MCP
+
+**Stories covered:**
+1. T1 FOLLOW UP: Knicks Banner Night — 8 Days Away (Jake Torres)
+2. T1 NEW: Victor Wembanyama $252M Extension — Spurs Built for Another Finals Run (Marcus Cole)
+3. T1 NEW: Giannis in Miami — Heat's New Era Taking Shape (Damon Pierce)
+4. T2 NEW: NBA Roster Deadline Is Five Days Away (Jake Torres)
+5. T2 NEW: Anthony Davis, Trae Young, AJ Dybantsa — Washington's New Core (Marcus Cole)
+
+---
+
 ### 2026-10-11 ✅ (Automated)
 - Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
 - Step 10: verify-facts.py — 5 stories, 44 claims, 71 HIGH; image manifest warnings (expected; imagn sourcing)

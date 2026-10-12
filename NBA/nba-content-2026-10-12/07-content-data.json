@@ -1,0 +1,340 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-12",
+  "compiled_at": "2026-10-12T11:26:37.477999+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Knicks Banner Night Is 8 Days Away — Madison Square Garden Is Ready",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "8 days.\n\nThe Knicks raise their first championship banner since 1973.\nJalen Brunson gets his ring.\nLeBron walks into MSG in a Sixers jersey.\n\nOctober 20. 7 PM ET. NBC.\n\nNo script needed. #NewYorkForever #HoopHeroes",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#NewYorkForever",
+            "#HoopHeroes"
+          ],
+          "char_count": 214
+        },
+        {
+          "label": "Post 2",
+          "text": "The Knicks erased a 29-point deficit in Game 4 of the Finals.\n\nGreatest comeback in NBA Finals history.\n\nAnd now they get to celebrate it at MSG in 8 days.\n\nWhat a time to be a Knicks fan. 🏆 #NewYorkForever #HoopHeroes",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#NewYorkForever",
+            "#HoopHeroes"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-knicks-banner-night-8-days-away.html",
+        "headline": "8 Days: Knicks Banner Night Is Almost Here — and LeBron Is Coming to MSG",
+        "word_count": 623
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Knicks Banner Night — 8 Days Away\n**Sources:**\n- 28/22 News: \"The New York Knicks Win the NBA Championship\"\n- ESPN/Bleacher Report: 2026 NBA Finals bracket coverage\n- Empire Sports Media: \"Knicks Banner Night Comes With An Immediate Problem\"\n- Awful Announcing: \"2026-27 Opening Night and Christmas Day Schedule — LeBron Sixers\"\n- iHeart: \"NBA Unveils 2026 Opening Night Schedule\"\n- Dunkest.com: \"NBA 2026-27 Schedule: Opening Night and Christmas Day\"\n**Verified Facts:**\n- Knicks won 2026 NBA Finals, beat Spurs 4-1 (Confidence: HIGH — ESPN, Wikipedia, multiple outlets)\n- Series games: G1 NY 105-95, G2 NY 105-104, G3 SA 115-111, G4 NY 107-106, G5 NY 94-90 in SA (Confidence: HIGH — ESPN bracket)\n- Jalen Brunson Finals MVP, 45 points in Game 5 clincher (Confidence: HIGH — Ticketmaster roundup, multiple sources)\n- Game 4: Knicks erased 29-point deficit, described as greatest comeback in Finals history (Confidence: HIGH — 28/22 News)\n- First Knicks championship since 1973 (Confidence: HIGH — universal agreement)\n- Oct 20, 7 PM ET on NBC: Sixers at Knicks (Confidence: HIGH — Fox Sports, Awful Announcing, multiple sources)\n- LeBron James (Sixers) making regular-season debut (Confidence: HIGH — story-history.md)\n- Adam Silver presenting rings to Brunson, Karl-Anthony Towns, etc. (Confidence: MEDIUM — Empire Sports Media)\n- Get-in tickets historically expensive (Confidence: MEDIUM — referenced in prior research)\n**Notes:**\n- Multiple sources confirm Knicks championship and Finals result\n- The \"greatest comeback in Finals history\" claim (29-pt deficit in G4) — cited by 28/22 News; treat as MEDIUM without second source, but the narrative detail is widely reported",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Victor Wembanyama Signs $252M Extension — Spurs Built for Another Finals Run",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Victor Wembanyama: $252 million extension. 5 years. Staying in San Antonio.\n\nHe scored 32 points in the only Finals game the Spurs won.\n\nUnfinished business doesn't begin to cover it. #GoSpursGo #HoopHeroes",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [
+            "#GoSpursGo",
+            "#HoopHeroes"
+          ],
+          "char_count": 206
+        },
+        {
+          "label": "Post 4",
+          "text": "Wembanyama in 2026:\n• WCF MVP ✅\n• Defensive Player of the Year ✅\n• All-NBA center ✅\n• $252M extension ✅\n• NBA championship ❌\n\nOct. 20, 9:30 PM ET — the Spurs host the Knicks to open the season.\n\nRound 2. #GoSpursGo #HoopHeroes",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [
+            "#GoSpursGo",
+            "#HoopHeroes"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-wembanyama-252m-extension-spurs.html",
+        "headline": "Victor Wembanyama Signs $252M Extension — The Spurs Have Unfinished Business",
+        "word_count": 581
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Victor Wembanyama $252M Extension\n**Sources:**\n- SI.com / Bleacher Report: \"San Antonio Spurs sign Victor Wembanyama to $251/252 million rookie max extension\"\n- NBA.com: \"Spurs sign Victor Wembanyama to multi-year contract extension\"\n- Bleacher Report: \"Victor Wembanyama Spurs reportedly agree new $252M contract\"\n- Good Morning America: \"Spurs Victor Wembanyama previews Game 4 NBA Finals\" (June 10, 2026)\n- primicias.ec: Spurs vs Knicks 2026 NBA Finals coverage\n**Verified Facts:**\n- Wembanyama signed 5-year extension with Spurs, announced July 10, 2026 (Confidence: HIGH — NBA.com + Bleacher Report + SI)\n- Extension value: $252 million maximum rookie scale, player option in Year 5 (Confidence: HIGH — multiple)\n- Took 25% max (not 30% supermax) (Confidence: HIGH — SI report)\n- Spurs won WCF over OKC, 111-103 in Game 7 (Confidence: HIGH — primicias.ec / multiple)\n- Wembanyama named 2026 WCF MVP (Confidence: HIGH — ESPN/sources from Wemby search)\n- Spurs lost 2026 NBA Finals to Knicks 4-1 (Confidence: HIGH — ESPN, Wikipedia)\n- Wembanyama 32 pts in Finals Game 3 (115-111 SA win) (Confidence: HIGH — Good Morning America)\n- Wembanyama is unanimous Kia Defensive Player of the Year and All-NBA center (Confidence: HIGH — Google search snippet)\n- Oct 20 Opening Night: Thunder at Spurs, 9:30 PM ET on NBC (Confidence: HIGH — schedule sources)\n**Notes:**\n- Extension announced July 10, 2026; lock solid\n- One source said $251M, another $252M — Bleacher Report and NBA.com use $252M, using that",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Giannis in Miami — The Heat's New Big Three Is Taking Shape",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Giannis Antetokounmpo: 18 pts vs. New Orleans. Under 18 minutes.\n\nHe also said the Heat will be a \"nightmare defensively.\"\n\nGiannis + Klay Thompson in South Beach. The East just got more interesting. #HeatNation #HoopHeroes",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [
+            "#HeatNation",
+            "#HoopHeroes"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-giannis-miami-heat-preseason.html",
+        "headline": "Giannis in Miami: Two Preseason Games In, the Heat's New Era Is Taking Shape",
+        "word_count": 642
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 6",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Giannis to Miami\n**Sources:**\n- Eurohoops: \"Giannis shines as Heat offense clicks: 'Getting better'\" (preseason game vs NO)\n- Tixel.com: \"Miami Heat's Giannis Antetokounmpo Shines in Preseason Debut Against Toronto Raptors\" (Oct 4, 2026)\n- Tixel.com: \"Giannis Antetokounmpo's Impactful Debut Signals New Era for Miami Heat\"\n- Bleacher Report: \"Giannis predicts Heat will be nightmare defensively\"\n- RotoBaller: \"Giannis Antetokounmpo to Play in Saturday's Preseason Game\"\n- SI.com/Heat: \"Giannis Antetokounmpo Era to Open in Quebec City\"\n- Bleacher Report: \"Giannis posts new photos with Klay Thompson Heat teammates on boat during team bonding trip\"\n**Verified Facts:**\n- Giannis traded from Bucks to Heat in July 2026 (Confidence: HIGH — multiple sources)\n- Trade details: Miami sent Herro, Jaquez Jr., Kel'el Ware to Milwaukee; Giannis + Bobby Portis came to Miami (Confidence: HIGH — Tixel + RotoBaller)\n- Preseason game 1: Oct 3, Quebec City, Heat beat Toronto 129-105; Giannis: 9 pts, 4 reb, 7 ast in 14 min (Confidence: HIGH — Tixel + SI)\n- Preseason game 2: Kaseya Center vs NO; Heat won 128-118; Giannis: 18 pts, 8-of-13 on two-pointers, under 18 min (Confidence: HIGH — Eurohoops)\n- Giannis had knee issues in 2025-26 but has been full go in training camp (Confidence: HIGH — Tixel)\n- Klay Thompson on Miami Heat (Confidence: HIGH — from injuries/trades search result: \"Klay Thompson moved to Miami\")\n- Giannis predicted Heat will be \"nightmare defensively\" (Confidence: HIGH — Bleacher Report headline)\n**Notes:**\n- Heat's five-game preseason slate runs through Oct 16\n- Team bonding trip confirmed (boat photos)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "NBA Roster Deadline Is Five Days Away — The Final Cuts Are Coming",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Oct. 17 — Last day to waive non-guaranteed contracts.\nOct. 19 — Final rosters set (15 + 3 two-ways).\nOct. 20 — Opening Night.\n\nThe NBA's roster crunch is REAL this week. Several players find out their fates by Friday.\n\n#NBA #HoopHeroes",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [
+            "#NBA",
+            "#HoopHeroes"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-nba-roster-deadline-october-17.html",
+        "headline": "NBA Roster Deadline Is Five Days Away — Every Team Has a Decision to Make",
+        "word_count": 649
+      },
+      "image_concepts": [
+        {
+          "label": "Image 7",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 8",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NBA Roster Deadline\n**Sources:**\n- Yardbarker: \"Key 2026 NBA Preseason Dates and Deadlines\"\n- EssentiallySports: \"Five major names facing potential roster cuts ahead of new season\"\n- Livescore: \"NBA Preseason 2026: New Faces, Roster Battles and the Storylines to Watch\"\n- Hoops Rumors: \"NBA Roster, Contract Deadlines To Watch In October\"\n**Verified Facts:**\n- October 16: Last preseason game (Confidence: HIGH — multiple schedule sources)\n- October 17: Last day to waive fully non-guaranteed contract players without cap implications (Confidence: HIGH — Yardbarker)\n- October 19, 4 PM CT: Roster limit drops from 21 to 15 standard + 3 two-way (Confidence: HIGH — multiple)\n- October 19: Opening-night rosters must be finalized before Oct 20 tip-off (Confidence: HIGH)\n- Lakers entered camp with 16 standard contracts (Confidence: MEDIUM — EssentiallySports)\n- Dalton Knecht mentioned as potential cut; Walker Kessler listed as guaranteed starter making Knecht likely cut (Confidence: MEDIUM — EssentiallySports)\n**Notes:**\n- Full deadline calendar from Yardbarker is reliable source\n- Knecht/Kessler situation is single-source (EssentiallySports), mark MEDIUM",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Anthony Davis, Trae Young, AJ Dybantsa — Washington's Unlikely New Core",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "The Washington Wizards in 2026-27:\n\n• Anthony Davis (33) — $58.5M, still elite\n• Trae Young — one of the best PGs in the East\n• AJ Dybantsa — No. 1 pick, 4 steals in his preseason debut\n\nThe East sleeper nobody is talking about. #WashingtonWizards #HoopHeroes",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [
+            "#WashingtonWizards",
+            "#HoopHeroes"
+          ],
+          "char_count": 259
+        },
+        {
+          "label": "Post 8",
+          "text": "AJ Dybantsa's preseason debut: 11 pts, 2 reb, 2 ast, 4 steals in 23 min.\n\nThe Wizards won 111-109.\n\nNo. 1 overall pick is ALREADY making noise. Anthony Davis and Trae Young watched from the same bench. 👀 #WashingtonWizards #HoopHeroes",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [
+            "#WashingtonWizards",
+            "#HoopHeroes"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-wizards-davis-young-dybantsa-core.html",
+        "headline": "Anthony Davis, Trae Young, AJ Dybantsa — Washington's Unlikely New Core Is Real",
+        "word_count": 680
+      },
+      "image_concepts": [
+        {
+          "label": "Image 9",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 10",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wizards — AD + Young + Dybantsa\n**Sources:**\n- NBA.com / AP / Fox News: Anthony Davis traded to Wizards in 3-team deal (Feb 2026)\n- Dunkest.com: \"Anthony Davis to the Wizards: 'We Can Compete at a High Level'\"\n- The Analyst: \"Anthony Davis traded to Wizards — 2026 NBA Trade Deadline\"\n- Bleacher Report: \"Anthony Davis trade rumors addressed by Wizards GM after Trae Young contract and 2026 NBA Draft\"\n- Tixel.com: \"AJ Dybantsa's Debut Highlights Wizards' Preseason Win Over Knicks\"\n- Ground.news: \"AJ Dybantsa makes bold NBA future prediction\"\n- NBA.com: Official player page\n**Verified Facts:**\n- Anthony Davis traded to Wizards in Feb 2026 from Dallas (3-team trade with Charlotte) (Confidence: HIGH — NBA.com, AP, multiple)\n- Davis earning $58.5M in 2026-27 season (Confidence: HIGH — multiple sources)\n- Davis holds $62.8M player option for 2027-28 (Confidence: HIGH)\n- Trade included: Davis + D'Angelo Russell + Jaden Hardy + Dante Exum going to Washington; Khris Middleton + others going to Dallas and Charlotte (Confidence: HIGH — multiple)\n- Trae Young acquired by Wizards in January 2026 (Confidence: HIGH — Bleacher Report reference)\n- AJ Dybantsa: No. 1 overall pick, 2026 NBA Draft, to Washington Wizards (Confidence: HIGH — multiple)\n- Dybantsa preseason debut vs Knicks (Oct 8, Wizards won 111-109): 11 pts, 2 reb, 2 ast, 4 stl, 23 min (Confidence: MEDIUM — single source, Tixel)\n- Dybantsa Summer League: averaged ~27 pts per game, shut down after 2 games (Confidence: HIGH — multiple sources)\n- Washington GM said Davis wants to stay and team wants to keep him (June 2026) (Confidence: HIGH — Bleacher Report)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
