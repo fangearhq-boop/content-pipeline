@@ -2,6 +2,50 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-12
+
+### STORY 1: Verstappen Wins Singapore — 73rd Career Victory at Marina Bay
+- **Tier:** 1
+- **Category:** Singapore GP / Max Verstappen / Red Bull / Race Result
+- **Key facts:** Verstappen P1 (first-ever Singapore win); Leclerc P2 (+7.3s); Antonelli P3 (+24.5s); Norris P4; Piastri P5; Hamilton P6; Russell P9 (started P20); 73rd career win; Verstappen also won sprint; race led lights-to-flag
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Austin GP preview, Verstappen's record at COTA
+
+### STORY 2: Antonelli Championship Lead Grows to ~93 Points — Austin Clinch Watch
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / Drivers' Championship / Clinch Scenarios
+- **Key facts:** Post-Singapore: Antonelli ~335 pts, Russell ~242 pts, gap ~93 pts; 5 races remain; USGP Austin Oct 23-25 earliest clinch venue; youngest F1 champion in history if wins at 19
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Austin clinch result, championship final outcome
+
+### STORY 3: Russell P9 From P20 at Marina Bay — Brilliant Drive, Championship Recedes
+- **Tier:** 1
+- **Category:** George Russell / Mercedes / Singapore GP / Drivers' Championship
+- **Key facts:** Russell started 20th (engine penalty); finished P9; 11 positions gained without safety car; earned 6 points; gap grew from ~84 to ~93 pts; Marina Bay hardest overtaking circuit in F1
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Austin result, championship outcome
+
+### STORY 4: McLaren's Singapore Redemption — Norris P4, Piastri P5 After Sprint Disaster
+- **Tier:** 2
+- **Category:** McLaren / Lando Norris / Oscar Piastri / Constructors' Championship
+- **Key facts:** Norris P4, Piastri P5; 22 combined constructors' points; sprint collision ruled racing incident; bounce-back from both DNFs in Saturday sprint; Mercedes still leads Constructors
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Austin constructors' standings, McLaren COTA pace
+
+### STORY 5: Austin Preview — F1's Americas Swing Begins October 23
+- **Tier:** 2
+- **Category:** USGP / Circuit of the Americas / F1 Calendar / Preview
+- **Key facts:** USGP Austin Oct 23-25; Mexico City Oct 30-Nov 1; São Paulo follows; COTA famous for Turn 1 elevation; Antonelli could clinch at Austin; American F1 fanbase growing
+- **Byline:** Elena Voss
+- **Status:** NEW
+- **Follow-up ideas:** Austin GP race result, championship clinch story
+
+---
+
 ## 2026-10-11
 
 ### STORY 1: 2026 Singapore Grand Prix — Race Day Preview

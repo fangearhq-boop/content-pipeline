@@ -1,0 +1,284 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-12",
+  "compiled_at": "2026-10-12T11:46:03.485871+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Verstappen Finally Conquers Singapore — 73rd Career Victory at Marina Bay",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "VERSTAPPEN WINS SINGAPORE.\n\nFor the first time in his career, Max Verstappen has won at Marina Bay.\n\nP1 Verstappen. P2 Leclerc (+7.3s). P3 Antonelli (+24.5s). P4 Norris. P5 Piastri.\n\n73rd career win. Perfect weekend. 🏆 #F1 #SingaporeGP",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#F1",
+            "#SingaporeGP"
+          ],
+          "char_count": 235
+        },
+        {
+          "label": "Post 2",
+          "text": "Max Verstappen in Singapore 2026:\n\n• Sprint — P1 ✅\n• GP Pole — ✅\n• Grand Prix — P1 ✅\n\nHe finally did it. First-ever win at Marina Bay in 73 career grand prix victories.\n\nDominant from lights to flag. #SingaporeGP #F1",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#SingaporeGP",
+            "#F1"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-verstappen-wins-singapore-73rd-career-victory.html",
+        "headline": "Verstappen Finally Wins in Singapore — 73rd Career Victory at Marina Bay",
+        "word_count": 541
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Wins Singapore\n\n**Imagn Search Terms:** `Max Verstappen Red Bull`\n**Credit:** (USA TODAY Sports Images)\n\n**Concept A — Race Win Celebration**\nVerstappen in his Red Bull cockpit at Marina Bay, helmet on, fist pump or hands raised after crossing the finish line. Night race atmosphere — floodlights, wet track sheen, Singapore skyline in background. Horizontal format preferred.\n\n**Concept B — Podium**\nVerstappen on the top step of the Singapore GP podium, Leclerc second, Antonelli third. P1 trophy raised. Broad crowd visible in background.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Wins Singapore — 73rd Career Victory\n**Sources:**\n- Formula1.com: \"Verstappen seals commanding Singapore Grand Prix victory from Leclerc and Antonelli\"\n- Planetf1.com: \"Max Verstappen finally conquers Singapore with dominant Grand Prix victory\"\n- The-race.com: \"F1 2026 Singapore Grand Prix race result\"\n- Sky Sports F1: \"Singapore GP: Max Verstappen wins event for first time in F1 career\"\n- Yahoo Sports: \"Lando Norris fourth as Max Verstappen seals perfect weekend with comfortable Singapore Grand Prix win\"\n- RacingNews365: \"2026 F1 Singapore Grand Prix results\"\n- Crash.net: \"Formula 1 Singapore Grand Prix: Full race results\"\n**Verified Facts:**\n- Verstappen P1 — first-ever Singapore win (Confidence: HIGH — Formula1.com, Sky Sports, multiple)\n- Leclerc P2, +7.3s (Confidence: HIGH — multiple sources agree)\n- Antonelli P3, +24.5s (Confidence: HIGH — multiple sources agree)\n- Norris P4, Piastri P5, Hamilton P6 (Confidence: HIGH — Yahoo Sports, the-race.com)\n- Lawson P7, Hulkenberg P8, Russell P9, Hadjar P10 (Confidence: HIGH — multiple)\n- Verstappen 73rd career win (Confidence: HIGH — Formula1.com article)\n- Verstappen also won Saturday's sprint (Confidence: HIGH — established in prior session)\n- Hamilton apologized for strategy (P6) (Confidence: HIGH — Sky Sports)\n- DNFs: Stroll, Colapinto, Bortoleto (Confidence: HIGH — Yahoo Sports)\n- Race at Marina Bay Street Circuit, 62 laps (Confidence: HIGH — story-history.md)\n**Notes:**\n- Albon DNF status: Crash.net and Formula1.com list him as DNF after 59 laps; one source says classified. Using DNF per Formula1.com (provisional results).\n- Multiple sources confirm Verstappen's Singapore win is a career first; he had notably struggled at this circuit before.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Antonelli Extends Championship Lead to 93 Points — Austin Clinch Watch Is ON",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kimi Antonelli after Singapore:\n\n~335 points\nChampionship lead: ~93 points\nRaces remaining: 5\nNext race: Austin 🤠\n\nThe youngest F1 world champion in history could be crowned in Texas.\n\nOct 25. #F1 #USGP",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#F1",
+            "#USGP"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-antonelli-93-point-lead-austin-clinch-watch.html",
+        "headline": "Antonelli's Championship Lead Grows to 93 Points — Austin Clinch Watch Begins Now",
+        "word_count": 485
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Championship Lead\n\n**Imagn Search Terms:** `Kimi Antonelli Mercedes`\n**Credit:** (USA TODAY Sports Images)\n\n**Concept A — Podium / Celebration**\nAntonelli in Mercedes kit at Marina Bay — podium ceremony, third step, or post-race debrief with team. Calm, focused expression preferred to contrast with championship narrative.\n\n**Concept B — In-Car Action**\nAntonelli in the Mercedes cockpit mid-race, floodlights illuminating Singapore street circuit, Silver Arrow through a tight section of the circuit.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Championship Lead After Singapore\n**Sources:**\n- Formula1.com race result / standings\n- Pre-race source (story-history.md Oct 11): Antonelli 325 pts, Russell 236 pts, gap 89 pts, 6 races remaining\n- Alternative pre-race source: Antonelli 320 pts, Russell 236 pts, gap 84 pts\n- Post-race calculation: Antonelli P3 = +15 pts; Russell P9 = +6 pts\n- Previous session notes: \"Antonelli cannot win in Singapore, could be crowned at USGP if Russell scores nothing\"\n- LBC.co.uk: \"When could Kimi Antonelli win 2026 F1 title\"\n- Multiple calendar sources: USGP Austin Oct 23–25, Mexico City Oct 30 – Nov 1\n**Verified Facts:**\n- Pre-Singapore standings: Antonelli ~320-325 pts, Russell ~236 pts (Confidence: HIGH — two independent sources)\n- Post-Singapore Antonelli: ~335-340 pts (P3 = +15) (Confidence: HIGH — calculated from verified result)\n- Post-Singapore Russell: ~242 pts (P9 = +6) (Confidence: HIGH — calculated from verified result)\n- Post-Singapore gap: ~93-98 pts (Confidence: HIGH — calculated)\n- USGP Austin: Oct 23–25, 2026 (Confidence: HIGH — crash.net calendar, FIA, McLaren.com)\n- Mexico City GP: Oct 30 – Nov 1 (Confidence: HIGH — multiple calendars)\n- Austin earliest possible clinch venue (Confidence: MEDIUM — dependent on exact point gaps and scoring possibilities)\n**Notes:**\n- Using approximate gap of ~93 pts (from 320 pre-race base: 320+15=335, 236+6=242, gap=93)\n- \"Youngest F1 champion in history\" claim if Antonelli wins: verified earlier (story-history.md)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Russell's Brilliant P9 From P20 — But the Championship Gap Has Grown",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "George Russell drove from P20 to P9 at the hardest circuit in F1 to overtake.\n\nThat's 11 cars passed. No safety car help.\n\nSix points. A brilliant drive.\n\nNot enough. The title gap grew anyway. #GeorgeRussell #SingaporeGP #F1",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#GeorgeRussell",
+            "#SingaporeGP",
+            "#F1"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-russell-p9-from-p20-singapore-recovery.html",
+        "headline": "Russell Drives From 20th to 9th in Singapore — But the Title Is Slipping Away",
+        "word_count": 454
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Russell Recovery Drive\n\n**Imagn Search Terms:** `George Russell Mercedes`\n**Credit:** (USA TODAY Sports Images)\n\n**Concept A — In-Car Action**\nRussell in the Silver Arrow weaving through a tight sequence at Marina Bay. Low-angle shot emphasizing the confined walls of the street circuit. Night race lighting.\n\n**Concept B — Post-Race**\nRussell in his car or walking pitlane after the race — a reflective expression rather than a celebration, fitting the narrative of a stunning drive that wasn't enough.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Russell P9 From P20 at Singapore\n**Sources:**\n- race result: Russell P9 confirmed (the-race.com, crash.net, Yahoo Sports, racingnews365.com)\n- Pre-race: Russell starts 20th due to engine component penalty (story-history.md, multiple sources)\n- Silverstone.co.uk: \"All George Russell's bad luck in the 2026 F1 season\" (broader context)\n- GPblog.com: \"How far can George Russell climb from the back in Singapore? Marina Bay history says the Sprint matters more\"\n- Pre-race note: Antonelli cannot clinch in Singapore; Austin is first chance for clinch if Russell scores nothing (LBC)\n**Verified Facts:**\n- Russell started 19th/20th (engine penalty) (Confidence: HIGH — multiple sources)\n- Russell finished P9 (Confidence: HIGH — race result confirmed by multiple sources)\n- Russell earned 6 points (Confidence: HIGH — P9 = 6 pts in F1 points system)\n- Gap to Antonelli grew from ~84-89 to ~93 pts (Confidence: HIGH — calculated)\n- Marina Bay is historically one of hardest circuits to overtake (Confidence: HIGH — established in pipeline)\n- Russell DNF in sprint (Confidence: HIGH — story-history.md)\n**Notes:**\n- Russell's P9 from P20 (or P19) is a genuinely impressive recovery at this circuit",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "McLaren's Singapore Redemption — Norris P4, Piastri P5 After Sprint Disaster",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "McLaren sprint: BOTH cars crash on lap 1 😬\nMcLaren Sunday: Norris P4, Piastri P5 ✅\n\n22 constructor points in the GP after a disaster in the sprint.\n\nThat's a team bounce-back. #McLaren #SingaporeGP #F1",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP",
+          "hashtags": [
+            "#McLaren",
+            "#SingaporeGP",
+            "#F1"
+          ],
+          "char_count": 201
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-mclaren-norris-piastri-singapore-bounce-back.html",
+        "headline": "McLaren's Singapore Redemption: Norris P4, Piastri P5 After Sprint Disaster",
+        "word_count": 379
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McLaren Bounce-Back\n\n**Imagn Search Terms:** `Lando Norris McLaren` / `Oscar Piastri McLaren`\n**Credit:** (USA TODAY Sports Images)\n\n**Concept A — Both Cars on Track**\nMcLaren papaya cars 1 and 2 running in formation through Singapore's street circuit. The paired image reinforces the double-points haul narrative.\n\n**Concept B — Norris Post-Race**\nNorris out of cockpit, McLaren mechanics surrounding, fists up or helmet off. Celebration of a strong P4 result after Saturday's sprint crash.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "McLaren — Norris P4, Piastri P5\n**Sources:**\n- Race result (multiple): Norris P4, Piastri P5 confirmed\n- Sprint context (story-history.md Oct 11): Norris-Piastri Sprint collision on lap 1; both failed to finish sprint\n- Pre-Singapore constructors: Mercedes 561, Ferrari 418, McLaren 317 (from Oct 11 story-history.md)\n- Post-Singapore McLaren: 317 + 12 (Norris P4) + 10 (Piastri P5) = 339 pts (approx)\n**Verified Facts:**\n- Norris P4, Piastri P5 in Singapore GP (Confidence: HIGH — multiple)\n- Combined McLaren GP haul: 22 constructors' points (Confidence: HIGH — calculated: P4=12, P5=10)\n- Sprint collision: ruled racing incident, no penalties (Confidence: HIGH — story-history.md)\n- McLaren constructors' gap to Mercedes still large (Confidence: HIGH — Mercedes leads)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Austin Awaits — F1's Americas Swing Begins October 23",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Singapore is done. Now F1 heads to Texas.\n\n🇺🇸 USGP at Circuit of the Americas — Oct 23–25\n🇲🇽 Mexico City — Oct 30 – Nov 1\n🇧🇷 São Paulo follows\n\nAnd Antonelli could clinch the title at COTA.\n\n11 days. #F1 #USGP",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [
+            "#F1",
+            "#USGP"
+          ],
+          "char_count": 209
+        },
+        {
+          "label": "Post 7",
+          "text": "The 2026 F1 season title could be decided at Austin in 11 days.\n\nKimi Antonelli. ~93 points clear. 5 races left.\n\nCircuit of the Americas has a champion's ceremony ready.\n\nCan Verstappen or Russell stop him? #F1 #USGP #KimiAntonelli",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [
+            "#F1",
+            "#USGP",
+            "#KimiAntonelli"
+          ],
+          "char_count": 232
+        },
+        {
+          "label": "Post 8",
+          "text": "Hamilton P6, apologized for strategy.\n\nRussell P9 from P20 — incredible drive.\n\nLeclerc P2.\n\nFerrari had a mixed Singapore GP. They have better on the horizon at COTA and Mexico.\n\n#Ferrari #SingaporeGP #F1",
+          "posting_time": "",
+          "tweet_type": "NEW",
+          "hashtags": [
+            "#Ferrari",
+            "#SingaporeGP",
+            "#F1"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-austin-usgp-preview-americas-swing.html",
+        "headline": "Next Stop Austin: F1's Americas Swing Begins October 23 at COTA",
+        "word_count": 488
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Austin Preview\n\n**Imagn Search Terms:** `Circuit of the Americas Formula 1`\n**Credit:** (USA TODAY Sports Images)\n\n**Concept A — COTA Turn 1 Elevation**\nWide-angle shot of COTA's famous Turn 1 hill — packed grandstands on both sides, a Formula 1 car cresting the elevation change. The most iconic shot in American F1.\n\n**Concept B — American Crowd**\nPacked COTA grandstands — flags, fan energy, Texas atmosphere. American F1 fandom on full display. Daytime or twilight lighting."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "USGP Austin Preview\n**Sources:**\n- Crash.net: \"2026 F1 calendar: Full race schedule revealed\"\n- FIA.com: \"FIA and Formula 1 announce 2026 calendar\"\n- Mercedes-AMG F1 website: 2026 calendar\n- McLaren.com: 2026 calendar\n- Silverstone.co.uk: F1 2026 calendar\n**Verified Facts:**\n- USGP at COTA, Austin: October 23–25, 2026 (Confidence: HIGH — multiple calendars agree)\n- Mexico City: October 30 – November 1, 2026 (Confidence: HIGH — multiple)\n- São Paulo follows (Confidence: HIGH — standard F1 Americas swing)\n- COTA features famous Turn 1 elevation change (Confidence: HIGH — circuit fact)\n- F1 has a strong and growing American fanbase (Confidence: HIGH — widely reported)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

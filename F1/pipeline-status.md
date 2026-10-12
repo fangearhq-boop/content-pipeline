@@ -1,11 +1,42 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-10-11
+## Last Run: 2026-10-12
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** F1 Fanrecap
 **Stories:** 5
 **Articles:** 5
+
+---
+
+## 2026-10-12 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research | ✅ Complete | 5 stories — Singapore GP result: Verstappen P1 (73rd win), Antonelli 93-pt lead, Russell P9 from P20, McLaren double top-5, Austin preview |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 8 posts, all ≤280 chars |
+| FB Posts | ✅ Complete | 04-social-posts-facebook.md |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 articles in articles/ |
+| verify-facts.py | ✅ Complete | 35 claims, 60 HIGH; image warnings expected (imagn) |
+| compile-content-data.py | ✅ Complete | 5 stories, 8 tweets, 0 FB (known parsing issue), 5 articles |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (not_started — imagn sourcing manual) |
+| Story History | ✅ Complete | story-history.md updated |
+| generate-review-dashboard.py | ✅ Complete | 23 items |
+| generate-postplanner-export.py | ⚠️ 0 posts | Known parsing issue (consistent with previous runs) |
+| publish-unified-dashboard.py | ❌ BLOCKED | content-dashboards not in authorized repo set (consistent) |
+| publish-to-wordpress.py | ❌ BLOCKED | WordPress credentials not configured (consistent) |
+| Git push | ✅ Complete | main branch |
+
+**Stories covered:**
+1. T1 FOLLOW UP: Verstappen Wins Singapore — 73rd Career Victory at Marina Bay (Ryan Calloway)
+2. T1 FOLLOW UP: Antonelli Championship Lead Grows to ~93 Points — Austin Clinch Watch (Elena Voss)
+3. T1 FOLLOW UP: Russell P9 From P20 at Marina Bay — Brilliant Drive, Championship Recedes (Marcus Cole)
+4. T2 FOLLOW UP: McLaren's Singapore Redemption — Norris P4, Piastri P5 After Sprint Disaster (Ryan Calloway)
+5. T2 NEW: Austin Preview — F1's Americas Swing Begins October 23 (Elena Voss)
 
 ---
 
