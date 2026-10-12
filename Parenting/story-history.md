@@ -2,6 +2,50 @@
 
 ---
 
+## October 12, 2026
+
+### Story 1: D49 Fall Break Starts Today — COS Activities Guide
+- **Date:** 2026-10-12
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** D49 fall break Oct 12-19, return Oct 20; D11 break Oct 19-23 return Oct 26; Cool Science Festival final week Oct 12-18 (visitcos.com, most events free); Venetucci Farm Pumpkin Fest Fri-Sun through Oct 31; Cheyenne Mountain Zoo Boo at the Zoo; YMCA Pikes Peak Region drop-in programs; Colorado Kids Ranch Monument through Oct 31 ($18-20)
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (Oct 9 S2 — D49 break dates; Oct 10 S3 — D11 planning guide; today: D49 day-of guide)
+
+### Story 2: Colorado Springs Cool Science Festival — Final Week Oct 12-18
+- **Date:** 2026-10-12
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** Festival Oct 3-18, 2026; 100+ events across COS; most free or low-cost; all ages; final week coincides with D49 fall break; visitcos.com for schedule
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 3: CPSC Recalls Squishy Dumpling Toys and Crazy Squib Ball Toys — Water Beads
+- **Date:** 2026-10-12
+- **Tier:** T2
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** ABC Trading; ~37,000 units; Squishy Dumpling Toys + Crazy Squib Ball Toys; water beads violate mandatory safety standards; ingestion hazard — expand inside body; remedy: write "recalled," email photo for refund; recall date ~Oct 2, 2026; cpsc.gov
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 4: D11 Bond Measure 4A — 3 Weeks to Election Day
+- **Date:** 2026-10-12
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** Nov 3 election; $775M Ballot Question 4A; board voted 6-1 Aug 5; ~$260/yr typical homeowner; safety/security/HVAC/asbestos/CTE/classrooms/libraries; mail ballots going out this week; d11.org/4A
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (Oct 10 S1: full explainer → today: 3-weeks-out voter guide angle)
+
+### Story 5: COS Pumpkin Patch Picks — Venetucci Farm, Colorado Kids Ranch, Western Museum
+- **Date:** 2026-10-12
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Venetucci Farm Pumpkin Fest Fri-Sun through Oct 31; Colorado Kids Ranch Monument through Oct 31 $18-20 (under 3 free); Western Museum Miner's Pumpkin Patch Saturdays in Oct (hayrides, hay maze, gold panning)
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+---
+
 ## October 10, 2026
 
 ### Story 1: D11 Bond Measure 4A — $775M on the November Ballot

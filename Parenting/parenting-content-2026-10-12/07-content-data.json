@@ -1,0 +1,315 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-12",
+  "compiled_at": "2026-10-12T12:47:18.807190+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "D49 Fall Break Starts Today — Kids Are Out All Week",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "D49 families — fall break starts TODAY (Oct 12). Kids are home through Oct 19.\n\nGood news: the Cool Science Festival runs through Oct 18 and most events are free.\n\nWhat are you doing with your kids this week? #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 268
+        },
+        {
+          "label": "Post 1-2",
+          "text": "D49 fall break tip: Venetucci Farm Pumpkin Fest is open Fri-Sun this week.\n\nCider, pumpkins, cornhole, and fresh air. Perfect for kids who need to get out of the house.\n\nOpen through Oct 31. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-d49-fall-break-starts-today-cos-activities.html",
+        "headline": "D49 Fall Break Starts Today — Here's What to Do in Colorado Springs This Week",
+        "word_count": 530
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "S1 Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "S1 Facebook (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Colorado Springs Cool Science Festival — Final Week Roundup",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Final week of the Colorado Springs Cool Science Festival — runs through Oct 18.\n\n100+ events across COS. Most are free or low-cost. Perfect for D49 families on fall break this week. [URL]\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-cool-science-festival-final-week-cos.html",
+        "headline": "Colorado Springs Cool Science Festival — Final Week Runs Through October 18",
+        "word_count": 446
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3",
+          "size_desc": "S2 Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4",
+          "size_desc": "S2 Facebook (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "CPSC Recalls Squishy Dumpling and Crazy Squib Ball Toys — Water Bead Hazard",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "RECALL: Squishy Dumpling Toys and Crazy Squib Ball Toys — ~37,000 units.\n\nThey contain water beads that expand inside a child's body if swallowed.\n\nWrite \"recalled\" on it, email a photo for a refund. cpsc.gov #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-squishy-dumpling-water-bead-toy-recall.html",
+        "headline": "CPSC Recalls Squishy Dumpling and Crazy Squib Ball Toys Over Water Bead Hazard",
+        "word_count": 470
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5",
+          "size_desc": "S3 Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 6",
+          "size_desc": "S3 Facebook (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "D11 Bond Measure 4A — Three Weeks to Election Day",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "D11 families: mail ballots are arriving now for the Nov 3 election.\n\nBallot 4A would fund $775M in school safety, HVAC, CTE programs, and library upgrades — roughly $260/year for a typical homeowner.\n\nMore at d11.org. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-d11-bond-4a-three-weeks-election-day.html",
+        "headline": "D11 Bond Measure 4A: Mail Ballots Arriving Now as Election Day Approaches",
+        "word_count": 367
+      },
+      "image_concepts": [
+        {
+          "label": "Image 7",
+          "size_desc": "S4 Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 8",
+          "size_desc": "S4 Facebook (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Pumpkin Patch Picks — COS Family Farms and Activities This Week",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "COS pumpkin patches for fall break:\n\n🎃 Venetucci Farm — Fri-Sun through Oct 31\n🎃 Colorado Kids Ranch, Monument — $18-20, under 3 free\n🎃 Western Museum Miner's Pumpkin Patch — Saturdays, hayrides + gold panning\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-pumpkin-patch-picks-cos-families.html",
+        "headline": "Best Pumpkin Patches Near Colorado Springs for Families This Fall",
+        "word_count": 490
+      },
+      "image_concepts": [
+        {
+          "label": "Image 9",
+          "size_desc": "S5 Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 10",
+          "size_desc": "S5 Facebook (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

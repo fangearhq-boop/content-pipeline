@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-10-10
+## Current Run: 2026-10-12
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D49 fall break Oct 12-19 (d49.org); D11 fall break Oct 19-23 (d11.org); Cool Science Festival Oct 3-18 (visitcos.com, 100+ events free/low-cost); Squishy Dumpling + Crazy Squib Ball water bead toy recall ~Oct 2 ~37,000 units ABC Trading (cpsc.gov/abc27.com); D11 4A mail ballots going out, Nov 3 election (krdo.com); Venetucci Farm Fri-Sun through Oct 31; Colorado Kids Ranch $18-20 through Oct 31; Western Museum Miner's Pumpkin Patch Saturdays (coloradosprings.gov/gazette.com) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Oct 9 S2 + Oct 10 S3: D49/D11 break dates → D49 day-of guide); S2 NEW (Cool Science Festival final week); S3 NEW (Squishy Dumpling water bead recall — different from prior CPSC bath seat/gate recalls); S4 FOLLOW-UP (Oct 10 S1: D11 Bond 4A explainer → voter guide angle, 3 weeks out); S5 NEW (pumpkin patches — different from Oct 9 S4 Halloween events guide) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts across 5 stories; all ≤280 chars verified (2 trimmed); 4 hashtags each; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 D49 Fall Break guide (Jamie Rivera T1 QR table); article-02 Cool Science Festival final week (Sarah Morales T1 QR table); article-03 Squishy Dumpling water bead recall (Jamie Rivera T2 QR table); article-04 D11 Bond 4A voter guide (Sarah Morales T2 QR table); article-05 Pumpkin Patch picks (Jamie Rivera T2 QR table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 84 claims; PASSED clean (2 char-limit issues fixed before final pass) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 0 FB posts (known parser), 5 articles |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 21 items |
+| Publish Dashboard | BLOCKED | 403 proxy — cos-parenting not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (6 posts) | cosp-postplanner-2026-10-12.xlsx + cosp-postplanner-tobi-2026-10-12.xlsx — 6 posts each; redistributed 13:17–20:32 MT |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | 5 entries prepended to Parenting/story-history.md (Oct 12 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 6 X posts + 5 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 6 posts (standard + TOBI)
+- **Key stories:** D49 fall break starts today (Oct 12-19) — COS activities guide; Cool Science Festival final week Oct 12-18 (100+ events, most free); Squishy Dumpling + Crazy Squib Ball water bead toy recall (~37,000 units ABC Trading); D11 Bond 4A 3 weeks to election, mail ballots arriving; Pumpkin patch picks (Venetucci Farm, Colorado Kids Ranch, Western Museum)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); FB posts 0 parsed (known); git remote needs PAT (set via env for push)
+
+---
+
+## Previous Run: 2026-10-10
 
 | Step | Status | Notes |
 |------|--------|-------|
