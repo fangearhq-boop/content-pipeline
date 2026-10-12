@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-10-12 (OFF DAY — Early offseason. NLCS Game 2 tonight: Brewers vs Dodgers at Milwaukee (series 1-0), ~7 PM CT. Insights active: overnight_00_06 loser (large); game_final winner (large, off-day so unused); evening_18_24 winner (medium); transaction loser (small); len_bucket=140-200 winner (small).)
+
+### STORY 1: NLCS Game 1 Result — Brewers 2-1 Dodgers
+- **Angle:** FOLLOW UP (10/11 preview; fresh angle = actual result). Brice Turang solo HR. Luis Lara singled off Skubal in the 5th. Bullpen delivered. Brewers lead NLCS 1-0.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, rival watch/morning recap)
+- **Follow-Up Opportunities:** NLCS Game 2 result; series outcome
+
+### STORY 2: Cubs Not Chasing Skubal — King Is the Real Target
+- **Angle:** NEW STORY (with 10/11 context). Cubs insider rules out Skubal pursuit. Michael King (3.23 ERA, 27 starts) opt-out decision due days after WS.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, informative/analysis)
+- **Follow-Up Opportunities:** King opt-out decision; Cubs signing announcement
+
+### STORY 3: NLCS Game 2 Tonight — Yamamoto vs Henderson
+- **Angle:** NEW STORY. NLCS Game 2 tonight at American Family Field, ~7 PM CT. Brewers lead 1-0. Yamamoto vs Henderson.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview/rival watch)
+- **Follow-Up Opportunities:** Game 2 result (tomorrow morning)
+
+### STORY 4: AFL Early Returns — Cabada Is 2nd-Youngest in the League
+- **Angle:** FOLLOW UP (10/11 AFL overview). 18yo No. 12 prospect Juan Cabada is 2nd-youngest player in 2026 AFL. Walk and single in first two games.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect feature)
+- **Follow-Up Opportunities:** AFL performances; Cabada/Mathis development updates
+
+### STORY 5: Seiya Suzuki to Blue Jays — Cubs Won't Match
+- **Angle:** NEW STORY. The Athletic names Blue Jays as expected Suzuki suitors. Cubs unlikely to match at $130M+. QO dilemma framed as "either way, money goes to pitching."
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, bold/analytical, EVENING WINNER window)
+- **Follow-Up Opportunities:** QO decision; Suzuki signing news
+
+---
+
 ## 2026-10-11 (OFF DAY — Early offseason. NLCS Game 1 tonight: Brewers vs Dodgers at Milwaukee, 7 PM CT. Insights active: overnight_00_06 loser (large); game_final winner (large, off-day so unused); evening_18_24 winner (medium); transaction loser (small).)
 
 ### STORY 1: NLCS Game 1 Tonight — Rival Watch: Brewers vs. Dodgers

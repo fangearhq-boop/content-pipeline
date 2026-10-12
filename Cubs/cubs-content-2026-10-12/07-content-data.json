@@ -1,0 +1,180 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-12",
+  "compiled_at": "2026-10-12T09:19:53.141132+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "NLCS Game 1 Result — Brewers Beat Dodgers 2-1",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Brewers win NLCS Game 1, 2-1, at American Family Field. Brice Turang HR. Luis Lara singled off Skubal in the 5th. Bullpen delivered. Brewers lead series 1-0.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Brewers 2-1 Dodgers in NLCS Game 1.\n\nBrice Turang solo HR. Luis Lara singled off Skubal in the 5th. Bullpen locked it down.\n\nThe team that's owned the NL Central just stole home field from LA.\n\n#Cubs #MLB #GoCubs",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "brief",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#GoCubs"
+          ],
+          "char_count": 212
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "NLCS Game 1 Result — Brewers 2-1 Dodgers\n**Facts (MEDIUM confidence — from AP/ESPN summary, single-pass verification):**\n- Final score: Brewers 2, Dodgers 1 ✓ (confirmed across multiple outlets: Boston Globe, ESPN, NBC Washington/AP)\n- Brice Turang solo HR was a key blow\n- Luis Lara singled off Tarik Skubal to break the tie in the 5th inning\n- Jacob Misiorowski started for Milwaukee; had a short outing\n- Brewers bullpen completed the win\n- Game was at American Family Field, Milwaukee\n- Brewers lead NLCS 1-0\n**Freshness:** October 11, 2026 — confirmed via Boston Globe, ESPN NLCS coverage\n**Confidence level:** MEDIUM (multiple outlets confirm Brewers win 2-1; Turang HR and Lara hit confirmed; Skubal confirmed as starter)\n**Sources:**\n- Boston Globe, Oct 11: \"Bryce Turang homers, Milwaukee's bullpen delivers as Brewers nip Dodgers in NLCS opener\"\n- ESPN, Oct 11: \"Brice Turang, bullpen lift Brewers past Dodgers in Game 1\"\n- NBC Washington/AP, Oct 11: \"Dodgers drop Game 1 of the NLCS to Brewers 2-1\"\n- TrueBlueLA, Oct 11: \"In a battle of little things, Brewers did the big thing to beat Dodgers in NLCS Game 1\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Cubs Not Chasing Skubal — Michael King Is the Real Target",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs insiders say they won't chase Skubal (Dodger now, $400M market, elbow issue). Michael King (3.23 ERA, 27 starts) has his opt-out decision due days after the World Series. He's the prize Cubs fans should actually be watching for.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Cubs insiders are already out on Skubal. The real target is Michael King.\n\n3.23 ERA in 27 starts in 2026. Opt-out decision comes days after the World Series ends.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "brief",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 188
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs Not Chasing Skubal — King Is the Real Target\n**Facts (MEDIUM confidence):**\n- Tarik Skubal was traded from Tigers to Dodgers at 2026 trade deadline (confirmed by multiple sources)\n- Skubal is a Scott Boras client; $400M+ market projected (confirmed by CBS Sports/BN)\n- Cubs insider report (ClutchPoints): Cubs \"are not likely to get involved\" in Skubal bidding\n- Cubs already committed ~$110M in future contracts (ClutchPoints source)\n- Skubal has loose bodies in elbow requiring surgery (CBS Sports, Oct 2026)\n- Michael King: 3.23 ERA, 27 starts in 2026 (confirmed, ESPN/MLB.com)\n- King's opt-out: due 5 days after WS; widely expected to opt out (MLB.com, Aug 29 2026)\n- King is \"widely viewed as second-best starting pitcher on this winter's FA market behind Skubal\" per MLB.com\n**Notes:** King opt-out not confirmed yet (WS hasn't started). Cubs interest in King is prior reporting (10/11 covered). Do NOT state King opt-out as confirmed.\n**Sources:**\n- ClutchPoints (Oct 2026): Cubs insider Skubal report\n- MLB.com Mark Feinsand (Aug 29 2026): King opt-out likelihood\n- Bleacher Report offseason guide (Oct 2026): mentions King and Joe Ryan\n- Gaslamp Ball: King opt-out background",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "NLCS Game 2 Tonight — Yamamoto vs. Henderson",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "NLCS Game 2 tonight in Milwaukee. Brewers lead 1-0. Dodgers send Yamamoto; Brewers counter with Henderson. Cubs fans watch from home — rooting for chaos.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "NLCS Game 2 is tonight at American Family Field. Brewers lead the series 1-0.\n\nYamamoto vs. Henderson. First pitch ~7 PM CT.\n\nCubs fans: root for extra innings and a rain delay.\n\n#Cubs #MLB #GoCubs",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "brief",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#GoCubs"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "NLCS Game 2 Tonight — Yamamoto vs Henderson\n**Facts (MEDIUM confidence):**\n- Game 2: Monday Oct 12, tonight, at American Family Field, Milwaukee\n- Brewers starter: Logan Henderson\n- Dodgers starter: Yoshinobu Yamamoto\n- Series: Brewers lead 1-0\n- Broadcast: Fox (inferred from NLCS broadcast patterns; Fox Sports has NLCS)\n**Note:** Broadcast time (~7 PM CT) from search results. Confirm before stating exact time.\n**Sources:**\n- Boston Globe Oct 11 recap (mentions Game 2 details)\n- ESPN NLCS coverage",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "AFL Early Returns — Cabada Is 2nd-Youngest in the League",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Juan Cabada (18, No. 12 prospect) is the 2nd-youngest player in the 2026 AFL and already getting on base for Mesa Solar Sox. Kade Snell also picking up hits. Farm system showing up.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Juan Cabada is 18 years old and playing in the Arizona Fall League.\n\nThe Cubs' No. 12 prospect is the 2nd-youngest player in the AFL — and he's already getting on base.\n\n#Cubs #MLB #ChicagoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "brief",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#ChicagoCubs"
+          ],
+          "char_count": 193
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "AFL Early Returns — Cabada 2nd-Youngest in League\n**Facts (MEDIUM confidence):**\n- Juan Cabada: 18 years old, No. 12 Cubs prospect per MLB Pipeline\n- Dominican Republic signing, $1.5M international bonus (2025)\n- 2nd-youngest player in 2026 AFL (youngest: Royals OF Angeibel Gomez)\n- Early AFL result: 1 walk, 1 hard single (first two games per BN Oct 5)\n- Missed ~3 months in 2026 with abdominal strain; returned to Single-A\n- Kade Snell: \"several hits\" in first two AFL games; ground-rule double Oct 6\n- Mesa Solar Sox split first two games (1-1)\n**Cross-check needed:** Cabada's MLB Pipeline ranking and \"2nd-youngest\" claim need to be verified vs. primary source before use as superlative. Flagged in fact-check.\n**Sources:**\n- Bleacher Nation, Oct 5, 2026: \"cubs prospect notes afl bailey cabada snell reid cabral meyer more\"\n- MLB.com: Cubs Arizona Fall League overview 2026\n- SI Cubs AFL primer: 9-prospect roster listed",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Seiya Suzuki to the Blue Jays — Cubs Won't Match",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "The Athletic confirms Blue Jays are expected to pursue Suzuki. Cubs almost certainly won't match at $130M+. Frame: whether they offer the QO or not, that money has to go to pitching.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Seiya Suzuki to the Blue Jays is a real rumor. The Cubs almost certainly won't match.\n\nQO him and lose a draft pick when he rejects it, or don't and lose him for nothing.\n\nEither way: that money goes to starting pitching.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "brief",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Seiya Suzuki to Blue Jays — Cubs Won't Match\n**Facts (MEDIUM confidence):**\n- Mitch Bannon (The Athletic): Blue Jays expected to pursue Suzuki this offseason\n- QO amount: $23.15M (Joel Sherman, New York Post — confirmed BN cited same figure)\n- Cubs unlikely to match per inside report: \"unlikely to get into a bidding war for Suzuki's services\"\n- Suzuki market: expected 5yr/$130M+ range\n- Cubs face the QO dilemma: extend it (lose draft pick if he rejects) or don't (lose him for nothing)\n- Comparable: Santander 5yr/$92.5M (Blue Jays), Schwarber 5yr/$150M (Phillies)\n**Note:** No final QO decision has been made yet. World Series hasn't started. Do NOT frame as a completed transaction.\n**Sources:**\n- The Athletic (Mitch Bannon): Blue Jays interest in Suzuki\n- Bleacher Nation (Oct 2026): QO analysis + Cubs' payroll situation\n- MLB Trade Rumors: Suzuki market analysis",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
