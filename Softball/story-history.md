@@ -3199,3 +3199,56 @@ _This file tracks every story covered, the angle used, content produced, and fol
 - **Follow-Up Opportunities:**
   - Game 3 recap (Oct. 14)
   - Season preview feature around Wells/Berzon
+
+## Pipeline Run: 2026-10-12
+
+### Story 1: Texas Hosts Texas State — Fall Preview (Oct 13)
+- **Date:** 2026-10-12
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Texas fall ball ongoing; Torres+Kavan previewed Oct 11)
+- **Angle:** Texas hosts Texas State at McCombs Field Oct. 13, 6 PM CT, free admission. Longhorns opened fall 28-1 vs Murray State. Second fall test ahead of Nov. 6 rivalry game at Texas A&M. Torres (.530 BA, 16 HR) and Kavan (2x WCWS MOP) first real test together.
+- **Content Produced:** Article (article-01, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Texas State game result (Oct. 13)
+  - Nov. 6 Texas A&M preview/result
+
+### Story 2: LSU Opens Fall Wednesday — Orange Beach vs. FSU Oct 24-25
+- **Date:** 2026-10-12
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** LSU opens fall Oct. 15 vs Northwestern State (Tiger Park, free). Travel to Orange Beach Sportsplex Oct. 24-25 for back-to-back games vs Florida State. Purple/Gold World Series Nov. 17-19 at Tiger Park. FSU closes fall Nov. 13 at Florida.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - LSU opener result (Oct. 15)
+  - LSU vs FSU Orange Beach results (Oct. 24-25)
+  - Purple/Gold World Series (Nov. 17-19)
+
+### Story 3: OU Battle Series Game 3 Preview (Oct 14)
+- **Date:** 2026-10-12
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Battle Series ongoing; Game 3 in 2 days)
+- **Angle:** Battle Series Game 3 at Love's Field Oct. 14, 6:30 PM CT, $10.88 GA, streamed 1Oklahoma.com. Walk-off opener Sept. 30 (Agbayani 2-RBI double). Wells (39 HR, NFCA Freshman of the Year, 2026), Kavan, Cruz, Ludlow headlining.
+- **Content Produced:** Article (article-03, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Game 3 result (Oct. 14)
+  - Game 4 preview (Oct. 21)
+
+### Story 4: Class of 2028 Recruiting — Tonga to OU, Evans to Florida
+- **Date:** 2026-10-12
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Grace Tonga (OF) committed to OU Sept. 22 — 5th 2028 commit. Brooklyn Evans (C) to Florida. Contact window Oct. 17-18 and Oct. 24-25 opens wave of commits. OU 5 commits in before contact period. Florida has Holden (No. 2 overall) + Evans.
+- **Content Produced:** Article (article-04, Jordan Reeves), 2 X posts, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Contact period commit wave (Oct. 17-18)
+  - Final 2028 class rankings
+
+### Story 5: Florida 2027 Roster Preview — Six Starters + Full Pitching Staff Return
+- **Date:** 2026-10-12
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Florida opens fall Oct. 16 vs Santa Fe (Katie Seashole Pressly, free). Returns 6 of 9 starters + entire pitching staff + 2 transfers + top recruit class. Quiet 2027 title contender under Tim Walton.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Florida fall opener result (Oct. 16)
+  - Florida 2027 roster breakdown feature
