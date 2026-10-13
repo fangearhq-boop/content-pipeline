@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-13
+
+### STORY 1: Timberwolves 122, Knicks 104 — Edwards and McDaniels Dominate Preseason Tune-Up
+- **Tier:** 1
+- **Category:** Minnesota Timberwolves / New York Knicks / Anthony Edwards / Jaden McDaniels / Jalen Brunson / NBA Preseason
+- **Key facts:** Final: Timberwolves 122, Knicks 104 (Oct. 12); Edwards 26 pts; McDaniels 22 pts; Brunson 20 pts; defending champs drop preseason game 7 days before Opening Night banner ceremony
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Spurs Drop to 0-2 in Preseason — Jazz 119, San Antonio 109
+- **Tier:** 1
+- **Category:** San Antonio Spurs / Victor Wembanyama / Utah Jazz / NBA Preseason / Opening Night
+- **Key facts:** Jazz 119, Spurs 109 (Oct. 12, at Delta Center); Spurs also lost to Hawks 123-116 (Oct. 8, blew 23-pt lead); Wembanyama vs. Hawks: 9 pts, 6 reb in 17 min; $252M extension (5 yr, July 2026); Spurs host Knicks Opening Night Oct. 20, 9:30 PM ET, NBC
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: Giannis Posts 18 Points in Heat Game 2 — Spoelstra Invokes Magic Johnson
+- **Tier:** 1
+- **Category:** Miami Heat / Giannis Antetokounmpo / Klay Thompson / Erik Spoelstra / NBA Preseason
+- **Key facts:** G1 (vs. TOR, Oct. 3): 9 pts/4 reb/7 ast in 14 min, Heat won 129-105; G2 (vs. NO): 18 pts/4 reb/4 ast in 18 min, Heat won 128-118; combined 27 pts/11 ast, 11-for-16 FG; Spoelstra compared playmaking to Magic Johnson; Klay Thompson also on Miami; Heat title odds ~+3,000
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+
+### STORY 4: LeBron James Makes 76ers Preseason Debut — 10 Points, 5 Assists in 18 Minutes
+- **Tier:** 2
+- **Category:** Philadelphia 76ers / LeBron James / Jaylen Brown / Joel Embiid / Tyrese Maxey / NBA Preseason
+- **Key facts:** Nets 114, Sixers 108 (Oct. 8 preseason); LeBron: 10 pts/4 reb/5 ast in 18 min first half, 8-for-8 FTs, 1 FG attempt; Brown led Sixers 18 pts; Nets outscored Sixers 37-23 in Q3; LeBron contract 2-yr $8M (July 2026); Opening Night: Sixers at Knicks, Oct. 20, 7 PM ET, NBC
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: NBA Title Odds One Week Out — Thunder Favored, Knicks at +950
+- **Tier:** 2
+- **Category:** NBA Season Preview / Title Odds / Oklahoma City Thunder / San Antonio Spurs / New York Knicks
+- **Key facts:** FanDuel: Thunder +230, Spurs +270, Knicks +950, 76ers +1000, Celtics +1400; Hard Rock: Spurs +225, Thunder +250, Knicks +600; ESPN Kram: Knicks/Thunder/Spurs top tier, returning 14 of 15 starters combined; Dort (OKC→ATL) only notable departure; West "flawed contenders": Nuggets, Rockets, Lakers, Wolves; Opening Night Oct. 20 tripleheader on NBC
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
 ## 2026-10-12
 
 ### STORY 1: Knicks Banner Night — 8 Days Away
