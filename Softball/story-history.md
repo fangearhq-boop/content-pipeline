@@ -3252,3 +3252,55 @@ _This file tracks every story covered, the angle used, content produced, and fol
 - **Follow-Up Opportunities:**
   - Florida fall opener result (Oct. 16)
   - Florida 2027 roster breakdown feature
+
+## Pipeline Run: 2026-10-13
+
+### Story 1: OU Battle Series Game 3 — Tomorrow at Love's Field
+- **Date:** 2026-10-13
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Battle Series ongoing; Gasso emotional sold-out covered Oct 12)
+- **Angle:** Game 3 of the Battle Series is tomorrow (Oct. 14) at Love's Field, 6:30 PM CT, $10.88 GA, streamed on 1Oklahoma.com. Wells (39 HR, NFCA Freshman of the Year), Kavan (2x WCWS MOP), Cruz, Ludlow, and Berzon the headliners. Walk-off opener Sept. 30 sold out Love's Field.
+- **Content Produced:** Article (article-01, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Game 3 result (Oct. 14)
+  - Game 4 preview (Oct. 21)
+
+### Story 2: Texas vs. Texas State — Gameday at McCombs Field
+- **Date:** 2026-10-13
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Texas previewed Oct 12; game is tonight)
+- **Angle:** Texas hosts Texas State tonight, Oct. 13, 6 PM CT, McCombs Field, free. First competitive game for Torres (.530 BA, 16 HR, D1Softball POY) and Kavan (2x WCWS MOP) together. Texas opened 28-1 vs Murray State. Nov. 6 at A&M is the marquee fall date.
+- **Content Produced:** Article (article-02, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Texas vs Texas State result (Oct. 13)
+  - Nov. 6 Texas A&M preview/result
+
+### Story 3: Tennessee 2027 Staff Takes Shape — Earleywine Joins
+- **Date:** 2026-10-13
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Snider/Sanders departures reported Oct 10; Earleywine hire now confirmed)
+- **Angle:** Karen Weekly hired Ehren Earleywine as associate head coach/hitting coach in June 2026 after Snider/Sanders departed to Auburn as co-head coaches. Earleywine: 20+ yrs coaching, 14-yr HC tenure, most recently associate HC at 2026 champion Texas.
+- **Content Produced:** Article (article-03, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Tennessee fall ball results
+  - 2027 season preview with full staff
+
+### Story 4: ABS Challenge System Coming to NCAA Softball in 2027
+- **Date:** 2026-10-13
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** NCAA approved ABS challenge system for all NCAA levels in 2027 (confirmed baseball; softball experimental). Sun Belt expanding Trackman partnership for both sports. Teams can challenge ball-strike calls. SEC tested at 2026 baseball tournament: 105 challenges, ~56% overturned.
+- **Content Produced:** Article (article-04, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - More conferences announce Trackman partnerships
+  - Softball-specific ABS rules formalization (winter 2026-27)
+
+### Story 5: 2028 Contact Period Opens Next Week
+- **Date:** 2026-10-13
+- **Tier:** 2
+- **Classification:** FOLLOW UP (2028 recruiting covered Oct 12; contact period Oct 17-18 now 4 days out)
+- **Angle:** Contact window Oct. 17-18 and Oct. 24-25. OU has 5 2028 commits (Grace Tonga, OF). Florida has Kylie Holden (No. 2 overall) + Brooklyn Evans (C). Expect wave of high school commits Oct. 18-21.
+- **Content Produced:** Article (article-05, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Contact period commit wave (Oct. 17-18)
+  - Final 2028 class rankings
