@@ -1,11 +1,42 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-10-12
+## Last Run: 2026-10-13
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** F1 Fanrecap
 **Stories:** 5
 **Articles:** 5
+
+---
+
+## 2026-10-13 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research | ✅ Complete | 5 stories — Antonelli 102-pt lead, Verstappen 73rd win/250th GP, Mercedes both championships, Russell 10 days to regroup, COTA preview |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 8 posts, all ≤280 chars |
+| FB Posts | ✅ Complete | 04-social-posts-facebook.md |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 articles in articles/ |
+| verify-facts.py | ✅ Complete | 32 claims, 59 HIGH; image warnings expected (imagn) |
+| compile-content-data.py | ✅ Complete | 5 stories, 8 tweets, 0 FB (known parsing issue), 5 articles |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (not_started — imagn sourcing manual) |
+| Story History | ✅ Complete | story-history.md updated |
+| generate-review-dashboard.py | ✅ Complete | 23 items |
+| generate-postplanner-export.py | ⚠️ 0 posts | Known parsing issue |
+| publish-unified-dashboard.py | ❌ BLOCKED | content-dashboards not in authorized repo set |
+| publish-to-wordpress.py | ❌ BLOCKED | proxy policy (consistent) |
+| Git push | ✅ Complete | via GitHub MCP |
+
+**Stories covered:**
+1. T1 FOLLOW UP: Antonelli Championship Math — 102 Points Clear, Austin Watch (Marcus Cole)
+2. T1 NEW: Verstappen 73rd Win / 250th Weekend — Singapore Curse Broken (Ryan Calloway)
+3. T1 NEW: Mercedes Leads Both Championships — Historic 2026 Season (Elena Voss)
+4. T2 FOLLOW UP: Russell 102 Points Down — 10 Days to Regroup for Austin (Ryan Calloway)
+5. T2 NEW: COTA Preview — US GP Oct. 23-25 Austin (Elena Voss)
 
 ---
 

@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-13
+
+### STORY 1: Antonelli Championship Math — 102 Points Clear, Austin Clinch Watch
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / F1 2026 Championship / US Grand Prix
+- **Key facts:** Standings after Singapore: Antonelli 340, Russell 238, Hamilton 229, Verstappen 221, Leclerc 215; Gap: 102 pts; 6 races remain; max 156 pts available; US GP Oct. 23-25 at COTA; Antonelli: 7 wins, youngest-ever F1 championship leader
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 2: Verstappen Finally Breaks Singapore Curse — 73rd Win on 250th Weekend
+- **Tier:** 1
+- **Category:** Max Verstappen / Red Bull / Singapore Grand Prix / F1 History
+- **Key facts:** Singapore GP (Oct. 11): Verstappen P1, Leclerc P2 (+7.3s), Antonelli P3; Led every lap from pole; 73rd career win; 250th GP weekend milestone; Also won sprint on Oct. 10; Russell sprint DNF (crashed while leading lap 2); First career Singapore win
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 3: Mercedes Leads Both Championships — Historic Season Taking Shape
+- **Tier:** 1
+- **Category:** Mercedes AMG F1 / Kimi Antonelli / George Russell / Constructors' Championship
+- **Key facts:** Constructors': Mercedes 578, Ferrari 444, McLaren 339 (gap of 134 pts); Drivers' 1-2: Antonelli (340) + Russell (238) = 578 combined; Hamilton P3 (229); Last Mercedes drivers' 1-2: 2016 Hamilton-Rosberg; 6 races remain
+- **Byline:** Elena Voss
+- **Status:** NEW
+
+### STORY 4: Russell Has 10 Days to Regroup — 102 Points Down With Six Races Left
+- **Tier:** 2
+- **Category:** George Russell / Mercedes / F1 2026 Championship / Singapore Grand Prix
+- **Key facts:** Singapore sprint: crashed out leading (lap 2); GP: 40-place grid penalty (extra PU components); started P21, finished P9; Gap to Antonelli: 102 pts; Won Azerbaijan GP; Also had Bahrain engine failure; Next: US GP Austin Oct. 23-25
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: COTA Preview — Austin's US Grand Prix Arrives Oct. 23-25
+- **Tier:** 2
+- **Category:** US Grand Prix / Circuit of the Americas / Austin / F1 Race Preview
+- **Key facts:** US GP: Oct. 23-25, COTA, Austin TX; 5.513-km circuit; Standard (no sprint); Race: Sunday Oct. 25, ~15:00 local/20:00 GMT; 2025 winner: Verstappen (Norris P2, Leclerc P3); Austin F1 contract through 2034; Grand PrixView Thursday Oct. 22
+- **Byline:** Elena Voss
+- **Status:** NEW
+
 ## 2026-10-12
 
 ### STORY 1: Verstappen Wins Singapore — 73rd Career Victory at Marina Bay
