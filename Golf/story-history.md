@@ -2,6 +2,18 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-10-13
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-13 | T1 | Thitikul Survives Water on 16, Wins Lotte Championship — Her Fourth LPGA Title of 2026 | X(2), FB, Article | NEW |
+| 2026-10-13 | T1 | Rahm Completes LIV Hat Trick — Third Straight Individual Title as Indianapolis Wraps the Season | X(2), FB, Article | FOLLOW UP |
+| 2026-10-13 | T1 | After the Final Putt at Indianapolis, LIV Golf Players Wait to See If There's a 2027 | X(2), FB, Article | NEW |
+| 2026-10-13 | T2 | La Sasso Steals LIV Golf Indianapolis — 22-Year-Old Edges Rahm in Season Finale | X(1), FB, Article | NEW |
+| 2026-10-13 | T2 | Thitikul Takes Four Wins Into Shanghai — Buick LPGA Shanghai Opens Wednesday | X(1), FB, Article | NEW |
+
+---
+
 ## 2026-10-12
 
 | Date | Tier | Title | Platforms | Status |
