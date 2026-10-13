@@ -1,7 +1,7 @@
-# Cubs Pipeline Status — Updated 2026-10-12
+# Cubs Pipeline Status — Updated 2026-10-13
 
 ## Latest Run
-- **Date:** 2026-10-12 (Monday — Off day. NLCS Game 2 tonight: Brewers vs Dodgers. Early offseason.)
+- **Date:** 2026-10-13 (Tuesday — Off day. Brewers lead NLCS 2-0 over Dodgers after G2 Monday. Early offseason.)
 - **Stories:** 5
 - **X posts:** 5
 - **Platforms:** X/Twitter only
@@ -10,44 +10,45 @@
 - **07-content-data.json:** ✅ Valid JSON, all 5 posts with posting_time (7:00 AM / 9:30 AM / 12:00 PM / 3:45 PM / 6:30 PM CT), all strptime-parseable
 - **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
 
-## Insights Summary (2026-10-12)
-- **Snapshot generated:** 2026-10-12T08:30:00.116506Z (fresh, 30 min before trigger)
-- **significant_findings count:** 5
-  1. `posting_window=overnight_00_06` LOSER (delta=0.686, LARGE) → No overnight slots; earliest is 7:00 AM ✓
-  2. `content_type=game_final` WINNER (delta=0.637, LARGE) → Off day, no Cubs game. No game_final possible. Reserved for future game days. ✓
-  3. `posting_window=evening_18_24` WINNER (delta=0.392, MEDIUM) → Story 5 (Suzuki/Blue Jays bold take) at 6:30 PM CT ✓
-  4. `content_type=transaction` LOSER (delta=0.262, SMALL) → Suzuki/King stories framed as analysis/stakes, not transaction announcements ✓
-  5. `len_bucket=140-200` WINNER (delta=0.25, SMALL) → 4 of 5 tweets landed in 140-200 char window ✓
+## Insights Summary (2026-10-13)
+- **Snapshot generated:** 2026-10-13T08:30:00.122986Z (fresh, 30 min before trigger)
+- **significant_findings count:** 4
+  1. `posting_window=overnight_00_06` LOSER (delta=0.688, LARGE) → No overnight slots; earliest is 7:00 AM ✓
+  2. `content_type=game_final` WINNER (delta=0.615, LARGE) → Off day, no Cubs game. Rival watch (NLCS G1+G2 recap) placed at 7:00 AM; framed with game scores to approximate game_final format ✓
+  3. `posting_window=evening_18_24` WINNER (delta=0.369, MEDIUM) → Story 5 (Skubal/King bold take) at 6:30 PM CT ✓
+  4. `content_type=transaction` LOSER (delta=0.270, SMALL) → Alcantara story leads with prospect (not Suzuki departure); rotation story framed as analysis/stakes; Skubal story is a redirect/bold take ✓
 
-## Series Context (2026-10-12)
+## Series Context (2026-10-13)
 - **`off_day`:** TRUE
 - **`is_series_start_today`:** FALSE
 - **`series`:** null
 - **`today_cubs_game`:** null
-- **Action:** Off-day pipeline. NLCS rival watch (Game 2 tonight). Offseason rotation/FA analysis. AFL prospect update.
+- **Action:** Off-day pipeline. NLCS rival watch (Brewers 2-0 on Dodgers). Offseason analysis (rotation, Alcantara, PCA MVP, Skubal redirect).
 
 ## Current Cubs Status
 - **2026 season:** OVER. Cubs eliminated by Padres in NL Wild Card Series (swept 2-0, Oct 1)
 - **Final record:** 89-73 (NL Wild Card No. 2)
 - **Postseason:** Lost WCS Game 1 (8-0), Game 2 (4-1). 1 run in 18 innings total.
-- **Now:** Early offseason. NLCS: Brewers vs Dodgers (Brewers lead 1-0 after Game 1 on Oct 11).
+- **Now:** Early offseason. NLCS: Brewers vs Dodgers (Brewers lead 2-0 after Games 1+2 at Milwaukee).
 
 ## Key Ongoing Stories
-- **Rotation rebuild:** Need 2-3 SP this winter. Hoyer confirmed pitching is priority No. 1. Gausman/Boyd/Imanaga all FA; Holmes/Peterson also FA. Horton out until mid-2027; Steele TBD.
-- **Imanaga:** Cubs insider says "likely not returning." Both sides declined options. Cubs could still extend QO (~$22M) as leverage/draft pick.
-- **Michael King:** Padres RHP (3.23 ERA, 2026). Has player opt-out for 2027 — decision days after WS. Viewed as No. 2 starter on FA market. Key Cubs target if he opts out.
-- **Ian Happ FA:** QO ($23.15M) deadline 5 days after WS. Hoyer extends only if he wants Happ back. Covered Oct 6, 10, 11.
-- **Seiya Suzuki FA:** Expected to receive QO; Blue Jays strongly interested (The Athletic, Oct 12). Cubs unlikely to match.
-- **PCA MVP:** Ohtani missed ~final 3 months of 2026 season (knee + biceps). PCA: 45 HR, 40 SB, 10.4 fWAR, 162 games. BBWAA announces November. Covered Oct 6, 10, 11.
-- **AFL:** 9 Cubs prospects in Mesa Solar Sox through Nov 14. Cole Mathis (No. 17, 1B/3B) top name. Juan Cabada (No. 12, 18yo) is 2nd-youngest player in 2026 AFL. Covered Oct 11, 12.
-- **Gold Glove finalists:** PCA/Happ/Suzuki could sweep outfield Gold Gloves. Finalists announced late October.
-- **Skubal:** On Dodgers (acquired Aug 2 trade deadline). NOT a Cubs FA target. Do not claim as FA target.
+- **Rotation rebuild:** Need 3 SP this winter (per Roundtable Oct 6). Horton TJ — out until mid-2027 (post-All-Star break). Gausman expected to leave (could return to Toronto per Mitch Bannon). Imanaga: "likely not returning" (both sides declined options after 2026). Boyd/Holmes likely options declined.
+- **Michael King:** Padres RHP. Has two player options: $28M/2027, $30M/2028. If he opts out, viewed as No. 2 SP on FA market; key Cubs target. Decision days after WS.
+- **Ian Happ FA:** QO ($23.15M) deadline 5 days after WS. More likely to return than Suzuki.
+- **Seiya Suzuki FA:** Blue Jays strongly interested (The Athletic, Mitch Bannon). Cubs unlikely to match projected $130M+ deal. Covered Oct 9, 13 (Alcantara heir framing).
+- **PCA MVP:** 45 HR, 40 SB, MLB WAR leader (7.8 as of late Aug; final TBD). BBWAA announces November. -1100 favorite. Covered Oct 6, 9, 10, 11, 13.
+- **AFL:** 9 Cubs prospects in Mesa Solar Sox through Nov 14. Cole Mathis (No. 17, 1B/3B), Juan Cabada (No. 12) key names. Covered Oct 11, 12.
+- **Gold Glove finalists:** PCA/Happ/Suzuki could sweep outfield Gold Gloves (first since 2011). Finalists announced late October. Covered Oct 9.
+- **Skubal:** On Dodgers (acquired Aug 2 trade deadline). Cubs insider said team will NOT pursue in FA (ClutchPoints Oct 2026). Projected to set pitcher contract record. Story covered Oct 9 (dream target), Oct 13 (cold water + redirect to King/Ryan). **DO NOT re-frame as a Cubs target** — covered both angles; story is closed unless new development.
 - **Nico Hoerner:** Locked up 6-year/$141M extension through 2032.
+- **Kevin Alcantara:** 23yo OF. Iowa 2026: .273/.367/.569, 16 HR (through June 17), Aug 17 recall. Five-tool profile. Likely 2027 roster consideration. Covered Oct 13 (first coverage).
+- **Joe Ryan (Twins):** Expected FA, multi-year deal. Cubs target alongside King. Not yet covered directly.
 
 ## Pipeline Run Log (newest first)
 
 | Date | Type | Stories | Tweets | Status |
 |------|------|---------|--------|--------|
+| 2026-10-13 | OFF DAY (NLCS G1+G2 recap, Alcantara 2027, rotation crisis, PCA MVP final, Skubal cold water) | 5 | 5 | ✅ |
 | 2026-10-12 | OFF DAY (NLCS G2 tonight, Skubal/King rotation, AFL Cabada, Suzuki/Jays) | 5 | 5 | ✅ |
 | 2026-10-11 | OFF DAY (NLCS G1 rival watch, PCA MVP Ohtani injury, Imanaga gone, Michael King target, AFL prospects, Happ QO) | 6 | 6 | ✅ |
 | 2026-10-10 | OFF DAY (White Sox G5 tonight, Skubal NLCS G1, Happ QO, zero-SP math, PCA MVP closed, Cardinals contrast) | 6 | 6 | ✅ |

@@ -8355,3 +8355,46 @@ Each day's stories are appended at the top (newest first).
   - BBWAA NL MVP announcement (November)
   - PCA contract extension talk (pre-arb)
   - PCA 2026 final stat wrap-up feature
+
+## 2026-10-13
+
+### STORY 1: NLCS Game 1 & 2 Recap — Brewers Lead Dodgers 2-0
+- **Angle:** FOLLOW UP (NLCS Preview covered 10/09; today = Games 1+2 results with rival-watch framing for Cubs fans; Brewers beat Dodgers 2-1 Sunday + 7-4 Monday; Contreras HR in G2; Yamamoto faltered; series shifts to LA; per opening=result_lead "Milwaukee is two wins from the World Series"; sardonic Cubs-fan kicker)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, rival watch/morning news)
+- **Follow-Up Opportunities:**
+  - NLCS Games 3-5 in LA (Oct 14+); update if Brewers win/lose
+  - NLCS series winner angle (Cubs' offseason motivation if Brewers reach WS)
+
+### STORY 2: Kevin Alcantara — The 2027 Heir Apparent
+- **Angle:** NEW STORY (prospect/offseason angle not previously covered; Alcantara 23, .273/.367/.569 with 16 HR at Iowa through June, recalled Aug 17; framed as Suzuki heir apparent without leading with transaction; per transaction=LOSER insight, led with Alcantara not Suzuki departure)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, prospect/informative)
+- **Follow-Up Opportunities:**
+  - Alcantara 2027 roster status (spring training)
+  - Suzuki signing elsewhere triggers this story's follow-up angle
+
+### STORY 3: The Rotation Is Broken — Cubs Need 3 SPs This Winter
+- **Angle:** NEW STORY (offseason analysis; Horton TJ out mid-2027; Gausman expected to leave; need 3 new starters; per Roundtable Oct 6 analysis; framed as bold analysis not roster news)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, analysis/bold take)
+- **Follow-Up Opportunities:**
+  - Cubs SP signing announcement (whenever it happens)
+  - Winter Meetings (December) — rotation pursuit coverage
+  - Horton rehab updates
+
+### STORY 4: PCA NL MVP — Season Final Lines + November Vote
+- **Angle:** FOLLOW UP (Oct 9 PCA MVP covered frontrunner odds; today = final stat wrap-up framing + historical argument; 45 HR/40 SB confirmed; per opening=stat_lead "45 home runs. 40 stolen bases. MLB's best WAR.")
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, milestone/bold take)
+- **Follow-Up Opportunities:**
+  - BBWAA NL MVP announcement (November)
+
+### STORY 5: Skubal Off-Table — Cubs Should Pivot to King + Ryan
+- **Angle:** FOLLOW UP (Oct 9 Skubal covered "Dream FA Target"; today = new insider cold water + bold redirect to realistic targets Michael King + Joe Ryan; per ClutchPoints Oct 2026 report; per evening_18_24 WINNER insight, placed at 6:30 PM CT)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, bold take/evening)
+- **Follow-Up Opportunities:**
+  - Michael King opt-out decision (November)
+  - Joe Ryan FA declaration
+  - Cubs signing announcement for any SP

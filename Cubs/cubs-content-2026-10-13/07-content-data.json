@@ -1,0 +1,165 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-13",
+  "compiled_at": "2026-10-13T09:22:47.380656+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "NLCS Game 1 & 2 Recap — Brewers Lead Dodgers 2-0",
+      "tier": 1,
+      "status": "",
+      "angle": "Brewers won Game 1 (2-1 Sunday) and Game 2 (7-4 Monday). Contreras was the hero in G2. Series heads to LA. Division rival Cubs fans have feelings.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Milwaukee is two wins from the World Series.\n\nBrewers beat the Dodgers in Games 1 AND 2 at American Family Field — 2-1 Sunday, 7-4 Monday. Contreras homered, Yamamoto got torched.\n\nGood news for Cubs fans: the Dodgers aren't done yet.\n\n#Cubs #MLB #NorthSiders",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "FOLLOW UP (from Oct 9 NLCS Preview)",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#NorthSiders"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Kevin Alcantara — The 2027 Heir Apparent",
+      "tier": 2,
+      "status": "",
+      "angle": "With Suzuki likely departing, 23-year-old Alcantara (.273/.367/.569, 16 HR at Iowa through June, recalled August) is the heir apparent. Five-tool ceiling, years of team control.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Kevin Alcantara is the name to know this offseason.\n\nThe 23-year-old had 16 home runs at Iowa before his August recall. Five-tool ceiling, strong arm, years of team control.\n\nIf Suzuki signs elsewhere, Alcantara's ready. The heir apparent is already here.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "The Rotation Is Broken — Cubs Need 3 SPs This Winter",
+      "tier": 1,
+      "status": "",
+      "angle": "Horton out until mid-2027 (Tommy John). Gausman expected to leave. Cubs need 3 starters. Bold take: most consequential offseason in years.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The rotation crisis is real.\n\nCade Horton: out until mid-2027 (Tommy John). Gausman: expected to leave. That's the top of the rotation — both out.\n\nCubs need three new starters this winter. The most consequential offseason in years.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "NEW STORY (expands on offseason context)",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Pete Crow-Armstrong NL MVP — Vote Is in November",
+      "tier": 1,
+      "status": "",
+      "angle": "Season's final stat line (45 HR, 40+ SB, MLB's WAR leader). BBWAA votes in November. Historical framing — one of the best Cubs position-player seasons ever.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "45 home runs. 40 stolen bases. MLB's best WAR.\n\nPete Crow-Armstrong didn't just have a great season — he had one of the best by a Cubs position player EVER. The kind of season you put in the history books.\n\nBBWAA MVP vote is in November. Save the date.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "FOLLOW UP (from Oct 9 PCA MVP)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Skubal Off-Table — Cubs Should Pivot to King + Ryan",
+      "tier": 2,
+      "status": "",
+      "angle": "Cubs insider poured cold water on Skubal pursuit (projected to set pitcher contract record). Bold redirect: Michael King (if opts out) + Joe Ryan are the real targets.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "A Cubs insider pumped the brakes on Tarik Skubal this week.\n\nGood. Skubal's expected to set a record for pitching contracts. The real targets this winter: Michael King (if he opts out) and Joe Ryan. Those are your two aces.\n\nNow go get them, Carter.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "FOLLOW UP (from Oct 9 Skubal story — new insider cold water angle)",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
