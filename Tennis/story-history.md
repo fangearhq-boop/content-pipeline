@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## October 13, 2026
+
+| 2026-10-13 | Alexander Zverev clinches 2026 ATP Year-End No. 1 after Alcaraz's loss to Bergs; first German Year-End No. 1 in ATP history; first German world No. 1 since Boris Becker's era; won French Open (def. Cobolli) + US Open (def. Shelton) in 2026; official rankings November 23. Sources: atptour.com, olympics.com, tennistonic.com | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 12 S3: Zverev 60 wins/Year-End No. 1 march) |
+| 2026-10-13 | Zizou Bergs (Belgium, ATP ~33) stuns Carlos Alcaraz 7-5, 7-6(4) Shanghai R3 — biggest win of Bergs' career; triggers Zverev Year-End No. 1 confirmation; Alcaraz title defense over; H2H now 1-1; Bergs next vs. Tommy Paul. Sources: atptour.com, skysports.com, sporza.be | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Oct 12 S2: Shanghai Day 6-7 Alcaraz def. Cerundolo) |
+| 2026-10-13 | WTA Wuhan Open (final WTA 1000 of 2026) Round 1: Eala (13th seed) upset by qualifier Han Shi 4-6, 6-3, 6-3; Noskova WD left calf; Sabalenka-Swiatek in same QF quarter (potential first 2026 meeting); Sakkari def. Vekic 6-4, 6-2; tournament Oct 10-18 Wuhan China. Sources: wtatennis.com, sundayguardianlive.com, olympics.com | T2 | X, FB, Article | Ryan Calloway; NEW STORY |
+| 2026-10-13 | Arthur Gea (France, 21) def. Mensik (No. 15, 13th seed) 7-6(4), 6-4 — first Masters 1000 QF; virtual Top 50; second straight top-15 upset after Shelton in R3; first Masters 1000 main draw ever. Sources: tennistemple.com, sundayguardianlive.com | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 12 S5: French rising stars Gea + Jodar) |
+| 2026-10-13 | Alex de Minaur def. Khachanov (6-3, 6-4, 1h24) — back-to-back Masters 1000 QF; 22 winners, 80% first-serve points; injury update post-match; next vs. winner of Zverev vs. Bublik. Sources: tennis.com.au, tennistemple.com, yahoo sports | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Oct 12 S4: Race to Turin — De Minaur R4 vs. Khachanov) |
+
+---
+
+
 ## October 12, 2026
 
 | 2026-10-12 | Zheng Qinwen def. Mirra Andreeva 7-5, 6-4 to win 2026 China Open WTA; wildcard ranked No. 54; first Chinese player to win China Open; 6th career WTA title; first title since Tokyo 2024 (right elbow injury return); Andreeva's 5th final of 2026, would have been World No. 3. Sources: wtatennis.com, tennismajors.com, skysports.com | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Oct 10 S1: Andreeva advances to WTA Beijing final) |

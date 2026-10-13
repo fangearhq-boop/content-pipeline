@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-10-12
+## Current Run: 2026-10-13
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D11 Coronado forfeit vs Lutheran Oct 15 (krdo.com + gazette.com + fox21news.com); D20 Air Academy forfeit homecoming earlier (krdo.com + Yahoo Sports); Sand Creek + Rampart racism allegations; Lutheran denies; CHSAA investigation ongoing (gazette.com); Cool Science Festival Oct 3-18 100+ events free/low-cost (visitcos.com); D49 fall break Oct 12-19 return Oct 20 (d49.org); Mbabyjon padded crib bumpers CPSC stop-use Oct 1 (consumeraffairs.com + cpsc.gov); Safe Sleep for Babies Act ban; LEGO Brick Convention Oct 17 Events Center $17.46; Free Robotics Workshop Oct 17 DoubleTree ages 5-14 free; Día de la Catrina Oct 17 Crisálida noon registration required; Barks & Boos Fall Fest Oct 18 free 11AM-3PM; D11 Bond 4A mail ballots arriving, Nov 3 election, $775M ~$260/yr (krdo.com + d11.org/4A) |
+| Story History Check | COMPLETE | S1 NEW (D11/D20 forfeit Lutheran — first coverage); S2 FOLLOW-UP (Oct 12 S2: festival final week → today: final five days); S3 NEW (Mbabyjon crib bumpers — different from Oct 8 S5 Mbabyjon warning and Oct 10 ONTHEWEI bath seat recalls); S4 NEW (weekend events Oct 17-18 — different events from prior weekends); S5 FOLLOW-UP (Oct 12 S4: 3-weeks-out voter guide → today: ballots-arriving angle) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts across 5 stories; all ≤280 chars (S1 post 1 trimmed from 284→277); 4 hashtags each; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 D11/D20 forfeit (Sarah Morales T1 QR table); article-02 Cool Science Festival (Jamie Rivera T1 QR table); article-03 Mbabyjon crib bumper recall (Sarah Morales T2 QR table); article-04 COS Weekend Events Oct 17-18 (Jamie Rivera T2 events table); article-05 D11 Bond 4A mail ballots (Sarah Morales T2 QR table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 79 claims; PASSED clean (1 char-limit issue fixed before final pass) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 0 FB posts (known parser), 5 articles |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 21 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (6 posts) | cosp-postplanner-2026-10-13.xlsx + cosp-postplanner-tobi-2026-10-13.xlsx — 6 posts each; redistributed 13:15–20:30 MT |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | 5 entries prepended to Parenting/story-history.md (Oct 13 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 6 X posts + 5 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+- **PostPlanner exports:** 6 posts (standard + TOBI)
+- **Key stories:** D11 Coronado + D20 Air Academy forfeit vs Lutheran HS (racism allegations, CHSAA investigating); Cool Science Festival final 5 days through Oct 18 (100+ events, D49 fall break overlap); Mbabyjon crib bumper CPSC stop-use (banned Safe Sleep Act, remove + dispose); COS weekend Oct 17-18 (LEGO Brick Convention $17.46, Free Robotics Workshop ages 5-14, Día de la Catrina, trunk-or-treats, Barks & Boos free); D11 Bond 4A ballots arriving ($775M, Nov 3)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); FB posts 0 parsed (known); S1 tweet 1 trimmed 284→277
+
+---
+
+## Previous Run: 2026-10-12
 
 | Step | Status | Notes |
 |------|--------|-------|

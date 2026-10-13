@@ -2,6 +2,50 @@
 
 ---
 
+## October 13, 2026
+
+### Story 1: D11/D20 Schools Forfeit vs. Lutheran HS — Racism Allegations
+- **Date:** 2026-10-13
+- **Tier:** T1
+- **Pillar:** Local News
+- **Key Facts:** D11 Coronado will not play Lutheran Oct 15; D20 Air Academy forfeited homecoming earlier; Sand Creek + Rampart alleged racist remarks/gestures from Lutheran players; Lutheran denies; CHSAA investigation ongoing; D11 requested racism-denouncing statement from Lutheran + CHSAA, received none
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 2: Colorado Springs Cool Science Festival — Final Days Through Oct 18
+- **Date:** 2026-10-13
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** Festival ends Sunday Oct 18; 100+ events; free/low-cost; some require advance registration; D49 fall break through Oct 19 overlaps perfectly; visitcos.com for schedule
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (Oct 12 S2: festival final week → today: final five days angle)
+
+### Story 3: Mbabyjon Crib Bumper CPSC Recall
+- **Date:** 2026-10-13
+- **Tier:** T2
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** CPSC stop-use notice Oct 1 2026; Mbabyjon padded crib bumpers; banned under Safe Sleep for Babies Act (May 2022); action: stop use immediately + dispose; safe sleep = firm/flat/bare + fitted sheet + sleep sack only; cpsc.gov/Recalls; healthychildren.org
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 4: COS Weekend Events Oct 17–18
+- **Date:** 2026-10-13
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** LEGO Brick Convention Oct 17 COS Events Center $17.46; Free Robotics Workshop Oct 17 DoubleTree ages 5-14 11AM free; Día de la Catrina Oct 17 Crisálida noon registration required; Trunk-or-treat Citadel Mall free 11AM; Hope COS 4PM; Rex Environmental 1PM; Barks & Boos Fall Fest Oct 18 free 11AM-3PM dog parade/costume contest
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 5: D11 Bond 4A — Mail Ballots Arriving This Week
+- **Date:** 2026-10-13
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** Mail ballots arriving week of Oct 13; Nov 3 election; $775M Measure 4A; drop boxes open ~Oct 14; ~$260/yr typical homeowner; uses: safety/HVAC/asbestos/CTE/classrooms/libraries; d11.org/4A
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (Oct 12 S4: 3-weeks-out voter guide → today: ballots-arriving angle)
+
+---
+
 ## October 12, 2026
 
 ### Story 1: D49 Fall Break Starts Today — COS Activities Guide
