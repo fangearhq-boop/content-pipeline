@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## Pipeline Run: 2026-10-13
+
+### Story 1: NLCS Game 2 Recap — Brewers 7, Dodgers 4
+- **Date:** 2026-10-13
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Milwaukee wins Game 2 at American Family Field, 7-4. William Contreras: solo HR in 5th (tie), go-ahead RBI single in 6th. Brewers bullpen retires final 15 batters in order. Dodgers 0-for-8 RISP in series. Brewers lead NLCS 2-0.
+- **Content Produced:** Article (article-01, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+
+### Story 2: ALCS Game 2 Tonight — Parker Messick Returns to Tampa
+- **Date:** 2026-10-13
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Guardians lead ALCS 1-0 after 7-3 Game 1 comeback win. Parker Messick (Tampa native, 2026 All-Star, 15-10, 2.59 ERA) starts Game 2 at Tropicana Field against Freddy Peralta. 8 PM ET on TBS.
+- **Content Produced:** Article (article-02, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+
+### Story 3: NLCS Game 3 Preview — Gasser vs. Snell at Dodger Stadium
+- **Date:** 2026-10-13
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Dodgers down 2-0, Blake Snell (post-surgery return, 1.13 ERA in 8 starts) starts Game 3 vs. Brewers' Robert Gasser (5-5, 3.87 ERA). Wednesday, October 14 at 8 PM ET on FS1.
+- **Content Produced:** Article (article-03, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+
+### Story 4: William Contreras Profile — The Brewers' Catcher Is Running the NLCS
+- **Date:** 2026-10-13
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Contreras (career .275 BA, 89 HR, 2x All-Star) has delivered the 2 biggest swings of the NLCS. Traded from Braves to Brewers before 2024; 2026 regular season .308 BA. In Game 2: HR in 5th, go-ahead RBI single in 6th.
+- **Content Produced:** Article (article-04, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+
+### Story 5: Guardians Comeback DNA — Cleveland Has Done This Before
+- **Date:** 2026-10-13
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Cleveland came back from 0-2 in ALDS vs. White Sox (11th team ever). Game 5 Oct. 10: 21 total Ks (postseason record), Williams 12 K, Ramirez go-ahead HR. Now up 1-0 in ALCS after 7-3 road win.
+- **Content Produced:** Article (article-05, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+
+---
+
 ## 2026-10-09
 
 ### Story 1: NLCS Preview — Dodgers vs. Brewers
