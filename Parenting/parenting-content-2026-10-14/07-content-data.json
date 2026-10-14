@@ -1,0 +1,269 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-14",
+  "compiled_at": "2026-10-14T12:44:12.802239+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Palmer Ridge Refuses Forfeit — Lutheran Controversy Escalates",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Palmer Ridge says it WILL play Lutheran High on Oct 30 — breaking with Coronado and Air Academy, who both forfeited. CHSAA investigation still open. NAACP and a state rep now weighing in. 🏈 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 249
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Lutheran forfeit fallout continues. Both D11 and CHSAA have now issued statements denouncing racism. The ranking impact: forfeit games count as wins for Lutheran in state standings. Situation is still developing. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-lutheran-palmer-ridge-cos-schools-forfeit.html",
+        "headline": "Palmer Ridge Won't Forfeit: The Lutheran Racism Controversy Takes Another Turn",
+        "word_count": 589
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Palmer Ridge Refuses Forfeit — Lutheran Controversy Escalates\n\n**image-01-a**\n- type: gemini\n- dimensions: 1200x675\n- use: social (X)\n- prompt: American high school football field at dusk, empty stadium bleachers in the background, a lone football resting on the 50-yard line, dramatic golden-hour light casting long shadows across the green turf, mood is contemplative and tense, muted warm tones with deep blue sky, photorealistic style, clean lower third with minimal visual elements for text overlay\n- status: not_started\n\n**image-01-b**\n- type: gemini\n- dimensions: 1200x675\n- use: article-hero\n- prompt: Wide-angle view of a high school football stadium exterior in Colorado, red-brick school facade visible in background, autumn afternoon light, orange and gold fall foliage along the fence line, no players present, subtle sense of conflict and community tension, photorealistic warm autumn palette, clean lower third for text overlay\n- status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Boo at the Zoo Opens Friday — Buy Tickets Now",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "🎃 Boo at the Zoo opens THIS Friday! Cheyenne Mountain Zoo — Oct 16, 17, 23–25, 30–31, 4–8:30 PM. 25 treat stations, giraffe feeding, spooky fun. No walk-ups — advance tickets only. cmzoo.org #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 250
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Reminder: Boo at the Zoo is advance tickets ONLY this year. No walk-ups at the gate. Zoo members still need tickets (but get $5 off). Check cmzoo.org — some nights are nearly sold out already. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-boo-at-the-zoo-2026-colorado-springs.html",
+        "headline": "Boo at the Zoo 2026: Cheyenne Mountain Zoo's Halloween Event Opens Friday",
+        "word_count": 429
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Boo at the Zoo Opens Friday\n\n**image-02-a**\n- type: gemini\n- dimensions: 1200x675\n- use: social (X)\n- prompt: Whimsical Halloween zoo scene at twilight, carved glowing jack-o-lanterns lining a pathway through a lush zoo garden, warm orange and purple atmospheric lighting, cheerful spooky decorations including friendly ghosts and cobwebs on trees, no animals or people visible, inviting and magical mood, illustrative storybook style, clean lower third with open space for text overlay\n- status: not_started\n\n**image-02-b**\n- type: gemini\n- dimensions: 1200x630\n- use: article-hero\n- prompt: Halloween-decorated zoo entrance at dusk, glowing orange lanterns along a stone pathway, autumn leaves scattered on the ground, playful jack-o-lantern displays flanking the walkway, warm amber and deep purple twilight sky, festive yet family-friendly atmosphere, soft painterly illustration style, clean lower third for text overlay\n- status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Sweet Cubby Sleepwear Recall — Burn Hazard, 12,000+ Units",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "🚨 RECALL: Sweet Cubby kids' loungewear from Shein — flammability hazard. ~12,400 units, sizes 5–14. Batch #272779 on the label. Stop use, cut in half, email photo to SweetCubby@163.com for refund. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#272779",
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-sweet-cubby-sleepwear-recall-burn-hazard.html",
+        "headline": "Sweet Cubby Children's Loungewear Recalled for Burn Hazard — 12,400 Units from Shein",
+        "word_count": 509
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sweet Cubby Sleepwear Recall\n\n**image-03-a**\n- type: gemini\n- dimensions: 1200x675\n- use: social (X)\n- prompt: Flat lay of children's pajama set on a neutral white surface, folded short-sleeve shirt and matching shorts in soft pastel tones, a small red warning tag or label visible near the collar, clean minimal studio lighting, mood is cautionary and informational, no brand logos or copyrighted elements, clean lower third for text overlay\n- status: not_started\n\n**image-03-b**\n- type: gemini\n- dimensions: 1200x630\n- use: article-hero\n- prompt: Children's loungewear set laid flat on a light wood surface, soft focus background, neutral pastel color palette, a warning symbol subtly visible near the garment, clean natural lighting from above, informational and serious but calm mood, photorealistic style, open lower third for text overlay\n- status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "D11 Bond 4A — Drop Boxes Open, 3 Weeks to Vote",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "D11 ballot drop boxes are open now. Measure 4A — $775M school bond — is on the Nov 3 ballot. About $260/yr for a typical homeowner. Safety, HVAC, CTE, classrooms. Drop it off or mail it back. d11.org/4A #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-d11-bond-4a-drop-boxes-open.html",
+        "headline": "D11 Bond Measure 4A: Drop Boxes Are Open, November 3 Deadline Approaching",
+        "word_count": 389
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Bond 4A — Drop Boxes Open\n\n**image-04-a**\n- type: gemini\n- dimensions: 1200x675\n- use: social (X)\n- prompt: Closeup of a hand placing a white sealed envelope into a blue official ballot drop box mounted on a post outside, blurred suburban neighborhood background with autumn trees, warm afternoon light, civic and hopeful mood, photorealistic style, clean lower third for text overlay\n- status: not_started\n\n**image-04-b**\n- type: gemini\n- dimensions: 1200x630\n- use: article-hero\n- prompt: Blue official ballot drop box mounted outdoors in front of a blurred school building, autumn foliage in background, golden afternoon light, clean civic visual, mood is informational and empowering, photorealistic style, open lower third for text overlay\n- status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Recall Alert — 2.3 Million Ricky Joy Sour Crush Candy Bottles Pulled",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "🍬 Halloween candy check: Ricky Joy Sour Crush recalled — 2.3 million bottles. Rollerball top can detach — choking hazard. Check your candy stash now. cpsc.gov/Recalls for details. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-ricky-joy-sour-crush-candy-recall.html",
+        "headline": "2.3 Million Ricky Joy Sour Crush Candy Bottles Recalled: What Parents Need to Know Before Halloween",
+        "word_count": 532
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ricky Joy Sour Crush Candy Recall\n\n**image-05-a**\n- type: gemini\n- dimensions: 1200x675\n- use: social (X)\n- prompt: Small colorful sour candy bottles with rollerball tops arranged on a neutral surface, Halloween candy assortment in background softly blurred, a single red warning symbol near one bottle, vibrant candy colors with cautionary red accent, clean studio lighting, no brand logos, mood is alert and informational, clean lower third for text overlay\n- status: not_started\n\n**image-05-b**\n- type: gemini\n- dimensions: 1200x630\n- use: article-hero\n- prompt: Assorted Halloween candy spread on a rustic wood surface, small liquid candy rollerball bottle prominently placed in the foreground with a subtle red caution icon nearby, warm festive Halloween colors (orange, purple, yellow) in the background candy mix, mood is cautionary yet seasonal, photorealistic style, clean lower third for text overlay\n- status: not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

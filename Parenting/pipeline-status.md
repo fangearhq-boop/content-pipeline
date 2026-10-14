@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-10-13
+## Current Run: 2026-10-14
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Palmer Ridge refuses Lutheran forfeit Oct 30 (krdo.com); KKTV Oct 14 forfeit = win for Lutheran in standings; NAACP + State Rep English respond (krdo.com); Boo at the Zoo opens Oct 16-17,23-25,30-31 4-8:30 PM advance tickets only (denvergazette.com Oct 10 2026); Sweet Cubby children's loungewear recall ~12,461 units burn hazard Shein $8-12 batch #272779 (cpsc.gov/fox affiliates Sep 11 2026); D11 Bond 4A drop boxes open Oct 14 Nov 3 election $775M (krdo.com/d11.org); Ricky Joy Sour Crush recall 2.3M bottles rollerball choking hazard (fox affiliates Sep 11 2026) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Oct 13 S1: D11/D20 forfeit Lutheran → today: Palmer Ridge refuses, ranking impact, NAACP/state rep respond); S2 NEW (Boo at the Zoo 2026 opens Friday); S3 NEW (Sweet Cubby recall — different from Mbabyjon Oct 13 S3, water beads Oct 12 S3, bath seats Oct 10 S5); S4 FOLLOW-UP (Oct 13 S5: mail ballots arriving → drop boxes open); S5 NEW (Ricky Joy Sour Crush 2.3M recall — not previously covered) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars verified; 4 hashtags each; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Lutheran/Palmer Ridge forfeit controversy (Jamie Rivera T1); article-02 Boo at the Zoo 2026 (Sarah Morales T1 schedule table); article-03 Sweet Cubby sleepwear recall (Jamie Rivera T2 QR table); article-04 D11 Bond 4A drop boxes (Sarah Morales T2 QR table); article-05 Ricky Joy candy recall (Jamie Rivera T2 QR table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated; 95 claims; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (known parser), 5 articles; posting-window warnings cosmetic |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (7 posts) | cosp-postplanner-2026-10-14.xlsx + cosp-postplanner-tobi-2026-10-14.xlsx — 7 posts each; redistributed 13:14–20:44 MT |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | 5 entries prepended to Parenting/story-history.md (Oct 14 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 7 posts (standard + TOBI)
+- **Key stories:** Palmer Ridge refuses Lutheran forfeit (KKTV Oct 14: forfeit = win for Lutheran rankings; NAACP + State Rep English respond; CHSAA investigating); Boo at the Zoo opens Oct 16 (advance tickets only, 25 treat stations, giraffe feeding, sell-out risk); Sweet Cubby sleepwear recall (~12,461 units, burn hazard, batch #272779, Shein); D11 Bond 4A drop boxes open (Nov 3, $775M, ~$260/yr); Ricky Joy Sour Crush recall (2.3M bottles, rollerball choking hazard, Halloween timing)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); FB posts 0 parsed (known)
+
+---
+
+## Previous Run: 2026-10-13
 
 | Step | Status | Notes |
 |------|--------|-------|
