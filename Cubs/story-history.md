@@ -5,6 +5,52 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-10-14 (OFF DAY — Early offseason. NLCS Game 3 tonight: Brewers at Dodgers, Dodger Stadium, 7 PM CT; Brewers lead 2-0. Insights active: overnight_00_06 loser (large); evening_18_24 winner (medium).)
+
+### STORY 1: Sonny Gray — Cubs rotation rebuild, Gray as top FA target
+- **Angle:** NEW STORY (Oct 13 covered King/Ryan; today's angle = Sonny Gray specifically + 4-of-5-starters-gone scale of rebuild)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, morning analysis)
+- **Follow-Up Opportunities:**
+  - Gray signing announcement (whenever)
+  - Each additional starter signed
+  - Horton rehab updates
+
+### STORY 2: Josiah Hartshorn — No. 1 Cubs prospect, No. 35 MLB Pipeline overall
+- **Angle:** NEW STORY (first dedicated Hartshorn feature; Alcantara covered Oct 13)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, prospect/stat breakdown)
+- **Follow-Up Opportunities:**
+  - AFL performance updates
+  - Spring training 2027 roster battle
+  - Full season 2027 stats
+
+### STORY 3: Happ & Suzuki free agency — Will Cubs break up OF core?
+- **Angle:** FOLLOW UP (Suzuki/Jays covered Oct 9, Oct 12; today adds Happ + both-FAs dual framing)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, analysis/roster news)
+- **Follow-Up Opportunities:**
+  - Suzuki signing (Toronto or elsewhere)
+  - Happ QO decision + eventual contract
+  - Replacement OF acquisition
+
+### STORY 4: Ryan Flaherty — Phillies managerial candidate
+- **Angle:** NEW STORY (Alex Cora declined Phillies; Flaherty reportedly linked)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, coaching news)
+- **Follow-Up Opportunities:**
+  - Flaherty hired or passes
+  - Cubs bench coach replacement if he leaves
+  - Phillies manager announcement
+
+### STORY 5: NLCS Game 3 tonight — Brewers vs Dodgers, one win from World Series
+- **Angle:** FOLLOW UP (NLCS Games 1+2 recap covered Oct 13; today = Game 3 specific preview)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, rival watch, evening WINNER slot)
+- **Follow-Up Opportunities:**
+  - NLCS Game 4 if series continues
+  - NLCS series winner + World Series matchup angle
+
 ## 2026-10-12 (OFF DAY — Early offseason. NLCS Game 2 tonight: Brewers vs Dodgers at Milwaukee (series 1-0), ~7 PM CT. Insights active: overnight_00_06 loser (large); game_final winner (large, off-day so unused); evening_18_24 winner (medium); transaction loser (small); len_bucket=140-200 winner (small).)
 
 ### STORY 1: NLCS Game 1 Result — Brewers 2-1 Dodgers
