@@ -1,0 +1,268 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-14",
+  "compiled_at": "2026-10-14T10:34:17.938164+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "NLCS Game 3 Recap — Dodgers 3, Brewers 1; Snell Answers the Call",
+      "tier": 1,
+      "status": "",
+      "angle": "Blake Snell delivered exactly what the Dodgers needed — a dominant outing in a must-win Game 3 at Dodger Stadium. LA won 3-1, with the bullpen using four relievers to get the final 10 outs. The Brewers still lead the NLCS 2-1, but the series is alive. Game 4 is Thursday at 9 PM ET on FS1 with Tyler Glasnow expected to start for Los Angeles.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Blake Snell showed up when the Dodgers needed him most.\n\nLA wins Game 3, 3-1. Series now 2-1 Brewers.\n\nThe bullpen closed out the final 10 outs. Game 4 is tomorrow. #Dodgers #NLCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#NLCS"
+          ],
+          "char_count": 179
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Brewers still lead the NLCS 2-1.\n\nBut the Dodgers just got their best pitcher on the mound at home and won.\n\nSnell. 3-1. Series alive. #Dodgers #Brewers #NLCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#Brewers",
+            "#NLCS"
+          ],
+          "char_count": 162
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-nlcs-game-3-dodgers-3-brewers-1.html",
+        "headline": "NLCS Game 3 Recap: Snell Dominates, Dodgers Win 3-1 to Breathe Life Into Series",
+        "word_count": 466
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NLCS Game 3 — Dodgers Win\n\n#### Image 1 — X/FB Social (1080x1350)\n- **Type:** imagn\n- **Search Terms:** \"Blake Snell Dodgers\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** X post + FB caption post\n\n#### Image 2 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search Terms:** \"Blake Snell Dodgers\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Article hero image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NLCS Game 3 Recap — Dodgers 3, Brewers 1\n**Sources:**\n- TrueBlueLA: \"Dodgers score: Bullpen finishes 3-1 win over Brewers in NLCS Game 3\"\n- Fox News: \"4 takeaways from dodgers nlcs game 3 win over brewers\"\n- TribLive: \"Dodgers take Game 3 of NLCS, send Brewers to brink\"\n- Brewcrew Ball: \"UPDATED: Brewers drop NLCS Game 3 to Dodgers, Jackson Chourio exits with injury\"\nKey facts (HIGH confidence — multiple sources confirm Dodgers win):\n- Score: Dodgers 3, Brewers 1\n- Starters: Blake Snell (LAD) vs. Robert Gasser (MIL)\n- Bullpen: 4 relievers got the final 10 outs for LA\n- Jackson Chourio (MIL): Exited with injury during the game\n- Series: Brewers still lead NLCS 2-1\n- Game 4: Thursday, October 15, 9 PM ET on FS1/FOX One at Dodger Stadium\n- Tyler Glasnow expected to start Game 4 for Los Angeles\n**Confidence:** HIGH (multiple independent sources confirm 3-1 Dodgers win)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "ALCS Game 2 Recap — Peralta Gem, Ramirez Error Sink Guardians 3-1; Series Tied 1-1",
+      "tier": 1,
+      "status": "",
+      "angle": "Freddy Peralta threw a gem — 6 scoreless innings, 6 strikeouts — and all three Tampa Bay runs came courtesy of a critical Jose Ramirez error in the 4th inning. A ground ball hit the turf seam and rolled through Ramirez's legs; Liam Hicks followed with a 2-run single and three unearned runs crossed. Rays 3, Guardians 1. Series tied 1-1. Game 3 is Thursday Oct. 15 at 6 PM ET at Progressive Field.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The ball hit the seam. Bounced through Ramirez's legs. Liam Hicks drove in 2.\n\nAll 3 Rays runs in the ALCS were unearned. Peralta threw 6 scoreless.\n\nRays 3, Guardians 1. Series tied 1-1. #Rays #Guardians #ALCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rays",
+            "#Guardians",
+            "#ALCS"
+          ],
+          "char_count": 210
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Freddy Peralta. 6 innings. 0 earned runs. 6 strikeouts.\n\nWith McClanahan out, Peralta just became the most important arm in Tampa Bay's rotation.\n\nRays lead nothing yet — but last night showed what they're capable of. #Rays #ALCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rays",
+            "#ALCS"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-alcs-game-2-rays-3-guardians-1.html",
+        "headline": "ALCS Game 2 Recap: Peralta Gem and Ramirez Error Carry Rays to 3-1 Win; Series Tied 1-1",
+        "word_count": 572
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ALCS Game 2 — Rays Win\n\n#### Image 3 — X/FB Social (1080x1350)\n- **Type:** imagn\n- **Search Terms:** \"Freddy Peralta Tampa Bay\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** X post + FB caption post\n\n#### Image 4 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search Terms:** \"Jose Ramirez Cleveland\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Article hero image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ALCS Game 2 Recap — Rays 3, Guardians 1\n**Sources:**\n- Yahoo Sports live recap (401696887 game ID ESPN link)\n- ESPN story: \"Peralta tosses gem, Rays cash Ramirez gaffe in Game 2\"\n- MLB.com: \"Rays play small ball in 3-run fourth in 2026 ALCS Game 2 win\"\n- ClutchPoints: \"Rays open scoring in ALCS Game 2 vs. Guardians: Critical Jose Ramirez error\"\nKey facts (HIGH confidence):\n- Score: Rays 3, Guardians 1\n- Peralta (TB): 6 IP, 0 ER, 4 H, 2 BB, 6 K — dominant start\n- Messick (CLE): Started, worked into 5th (83 pitches, first time completing 5 in 3 postseason starts) — exact stat line not fully confirmed\n- 4th inning decisive moment: Ground ball hit turf seam, bounced through Jose Ramirez's legs (error); Liam Hicks followed with 2-run single\n- All 3 Tampa Bay runs were unearned\n- Ramirez said ball hit dirt/turf seam; manager Stephen Vogt said Ramirez didn't move his feet\n- Game 1: Cleveland won 7-3 on Oct. 12\n- Series: Now tied 1-1\n- Game 3: Thursday, October 15, 6 PM ET, TBS, Progressive Field, Cleveland\n**Confidence:** HIGH (confirmed via ESPN, Yahoo, MLB.com, ClutchPoints all citing same event)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Ohtani's October Disappearing Act — .150 Average, 0 HR Since August",
+      "tier": 2,
+      "status": "",
+      "angle": "Shohei Ohtani is hitting .150 in the 2026 postseason (3-for-20), with 7 strikeouts, 0 home runs, and a .411 OPS. He hasn't homered since August 18 in Colorado. Despite discussion about benching him, manager Dave Roberts kept him in Game 3's lineup. Ohtani has been managing left knee and biceps discomfort for three months. The biggest offensive weapon in baseball has gone missing at the worst possible moment.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Shohei Ohtani this postseason:\n\n.150 BA. 0 HR. 7 K. 0 RBI. Last homer: August 18.\n\nDave Roberts is keeping him in the lineup. The Dodgers need October Ohtani to show up — fast. #Dodgers #NLCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#NLCS"
+          ],
+          "char_count": 191
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-ohtani-october-slump.html",
+        "headline": "Ohtani's October Disappearing Act: .150, 0 HR, and a Dodgers Problem That Won't Go Away",
+        "word_count": 536
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ohtani Slump\n\n#### Image 5 — X/FB Social (1080x1350)\n- **Type:** imagn\n- **Search Terms:** \"Shohei Ohtani Dodgers\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** X post + FB caption post\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Shohei Ohtani Postseason Slump\n**Sources:**\n- CBS Sports: \"Shohei Ohtani injury update: Dodgers vs. Brewers NLCS Game 3 MLB playoffs\"\n- ESPN: \"Ohtani in Dodgers Game 3 NLCS lineup, Roberts says\"\n- Research agent search results confirming postseason stats\nKey facts (MEDIUM-HIGH confidence):\n- Ohtani postseason stats: .150 BA (3-for-20), 7 K, 0 HR, 0 RBI, .411 OPS\n- Last home run: August 18 at Colorado (regular season)\n- Game 2 line: 0-for-4, 2 K\n- Health: Left knee and biceps discomfort for ~3 months; playing through it\n- Manager Dave Roberts: Kept Ohtani in Game 3 lineup despite benching discussion\n- Was considered for rest/benching but Roberts declined\n**Confidence:** MEDIUM (stats from research agent, single primary source chain; CBS confirms injury context)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "McClanahan's Postseason Is Over — What Tampa Bay Loses Without Its Ace",
+      "tier": 2,
+      "status": "",
+      "angle": "Shane McClanahan is out for the rest of the postseason with a forearm injury. The Rays ace was a key part of Tampa's rotation plan entering October. His loss now falls on arms like Peralta (six scoreless innings in Game 2) and the rest of a bullpen that has been up to the challenge. This is one of the most significant injury stories of the 2026 playoffs.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Shane McClanahan is done for the postseason.\n\nForearm injury. Rays' ace is out.\n\nPeralta stepped into that void last night with 6 scoreless innings. Tampa Bay's pitching depth is being tested in the ALCS. #Rays #ALCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rays",
+            "#ALCS"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-mcclanahan-out-rays-depth.html",
+        "headline": "McClanahan Is Out for the Postseason — Can the Rays' Depth Carry Them to the World Series?",
+        "word_count": 543
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McClanahan Injury\n\n#### Image 6 — X/FB Social (1080x1350)\n- **Type:** imagn\n- **Search Terms:** \"Shane McClanahan Tampa Bay\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** X post + FB caption post\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Shane McClanahan Postseason Injury\n**Sources:**\n- SI: \"Biggest Injuries Impacting 2026 Contenders Before Playoffs\"\n- Research agent confirmation: McClanahan out for rest of postseason with forearm injury\nKey facts (MEDIUM confidence):\n- Shane McClanahan (Tampa Bay): Out for the rest of postseason with forearm injury\n- Was a key rotation piece for the Rays entering October\n- Freddy Peralta (acquired midseason) has stepped up — 6 scoreless in Game 2\n- McClanahan's absence means more reliance on Peralta and bullpen\n- Other Rays injury noted: Tommy Edman out of Game 1 lineup (Dodgers)\n**Confidence:** MEDIUM (research agent found SI injury reference; specific \"rest of postseason\" from agent research)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Thursday's Pivotal Doubleheader — Both Series at a Crossroads",
+      "tier": 2,
+      "status": "",
+      "angle": "Thursday features back-to-back must-watch games. ALCS Game 3 goes first (6 PM ET, TBS, Progressive Field) — series tied 1-1, Rays trying to steal homefield advantage in Cleveland. Then NLCS Game 4 (9 PM ET, FS1, Dodger Stadium) — Brewers leading 2-1, Glasnow starts for LA in a potential series-defining moment. One of these teams could seize commanding series control before the weekend.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Tomorrow night is the most important night of the 2026 playoffs:\n\n6 PM ET — ALCS Game 3: Rays at Cleveland. Series tied 1-1.\n9 PM ET — NLCS Game 4: Brewers at Dodgers. Brewers lead 2-1.\n\nTwo series. Two crossroads. TBS then FS1.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-thursday-playoff-doubleheader-preview.html",
+        "headline": "Thursday's Playoff Doubleheader: Two Series at Crossroads, One Night That Changes Everything",
+        "word_count": 551
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Thursday Preview\n\n#### Image 7 — X/FB Social (1080x1350)\n- **Type:** gemini/complete\n- **Prompt:** Baseball playoff bracket graphic showing ALCS Game 3 (Rays vs Guardians) and NLCS Game 4 (Brewers vs Dodgers) on Thursday October 15, bold \"PLAYOFF THURSDAY\" headline, two-panel split design showing both venues (Tropicana Field and Dodger Stadium), dark navy and gold color scheme, ESPN-style sports graphic aesthetic\n- **Usage:** X post + FB caption post"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Thursday's NLCS/ALCS Schedule\n**Sources:**\n- NBC Los Angeles: NLCS/ALCS schedule bracket\n- Lufkin Daily News: MLB Playoff Bracket 2026 schedule\nKey facts (HIGH confidence):\n- ALCS Game 3: Thursday, Oct. 15, 6 PM ET — Rays at Guardians, Progressive Field, TBS/truTV/HBO Max; series tied 1-1\n- NLCS Game 4: Thursday, Oct. 15, 9 PM ET — Brewers at Dodgers, Dodger Stadium, FS1/FOX One; Brewers lead 2-1\n- Glasnow expected for LAD in NLCS Game 4\n- If NLCS ends in sweep, ALCS Game 4 shifts to 8 PM ET\n- Games 5-7 NLCS (if needed) in Milwaukee\n- Games 5-7 ALCS (if needed): alternating\n**Confidence:** HIGH (schedule confirmed via multiple sources)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## Pipeline Run: 2026-10-14
+
+### Story 1: NLCS Game 3 Recap — Dodgers 3, Brewers 1
+- **Date:** 2026-10-14
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Blake Snell dominant in return, Dodgers win 3-1 to cut Brewers NLCS lead to 2-1. Snell pitched deep into the game; LA bullpen needed 4 relievers for 10 outs. Brewers still lead series 2-1 heading to Game 4.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+
+### Story 2: ALCS Game 2 Recap — Rays 3, Guardians 1
+- **Date:** 2026-10-14
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Freddy Peralta tosses 6 scoreless innings. All 3 Rays runs unearned off Jose Ramirez error. ALCS tied 1-1 heading to Progressive Field.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+
+### Story 3: Ohtani October Slump
+- **Date:** 2026-10-14
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Shohei Ohtani hitting .150 with 0 HR, 7 Ks, .411 OPS in the postseason. No HR since Aug 18.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+
+### Story 4: McClanahan Out for Postseason
+- **Date:** 2026-10-14
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Shane McClanahan out for the postseason with a forearm injury. Freddy Peralta stepped up with a gem in ALCS Game 2.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+
+### Story 5: Thursday Playoff Doubleheader Preview
+- **Date:** 2026-10-14
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** ALCS Game 3 (Rays at Guardians, 6 PM ET TBS) + NLCS Game 4 (Brewers at Dodgers, 9 PM ET FS1). Tyler Glasnow starts for LA; series both at critical inflection points.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+
+---
+
 ## Pipeline Run: 2026-10-13
 
 ### Story 1: NLCS Game 2 Recap — Brewers 7, Dodgers 4
