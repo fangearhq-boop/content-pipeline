@@ -3,6 +3,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-10-14
+
+### Story 1: OU Battle Series Game 3 Recap — Weather Shortens Scrimmage, Team Maxwell Wins
+- **Date:** 2026-10-14
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Game 3 of Oklahoma's fall Battle Series was weather-shortened. Team Maxwell scored 11 runs before the game was called. Recap of fall evaluation for Wells, Kavan, Berzon, Cruz, Ludlow. Game 4 scheduled for October 21.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Game 4 recap (Oct. 21)
+  - Fall season wrap-up
+
+### Story 2: 5-for-5 Eligibility Ruling — Class of 2022 Athletes Eligible for 5th Season
+- **Date:** 2026-10-14
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Judge Sweeney's preliminary injunction in Wisne v. NCAA means Class of 2022 athletes can return for a fifth year. Softball impact: coaches may have veterans available they thought were gone. NCAA appealing to 10th Circuit; injunction stands for now.
+- **Content Produced:** Article (article-02, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - 10th Circuit appeal ruling
+  - Specific program roster changes using 5-for-5 veterans
+
+### Story 3: 2028 Recruiting Snapshot — Tennessee No. 4, OU and Florida Loading Up
+- **Date:** 2026-10-14
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Tennessee has 5 commits including No. 4 nationally-ranked player. OU has 5 commits (Tonga, Schlader). Florida has No. 2 Holden + Evans. Evaluation window opens Oct. 17-18.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Post-Oct. 17-18 commitment wave coverage
+  - 2028 class rankings update
+
+### Story 4: Florida Opens Fall Ball Thursday — Six Starters Back, 2027 Title Contender
+- **Date:** 2026-10-14
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Florida opens fall ball Oct. 16 at Katie Seashole Pressly Stadium, free admission. Six of nine starters return. Full pitching staff. Two impact transfers. Top recruiting class. Tim Walton's Gators are a legitimate 2027 national title contender.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Florida fall ball recap
+  - Florida 2027 season preview
+
+### Story 5: Texas Fall Ball — Torres and Kavan Building Championship Chemistry
+- **Date:** 2026-10-14
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Texas (defending 2026 WCWS champions) using fall ball to build the Torres-Kavan partnership. Torres (.530 BA, 16 HR, FSU transfer, D1Softball POTY) + Kavan (2x WCWS MOP) sharing a dugout for first time. Opened 28-1 over Murray State.
+- **Content Produced:** Article (article-05, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Texas fall ball wrap-up
+  - Torres + Kavan 2027 preview
+
+---
+
 ## 2026-10-09
 
 ### Story 1: Oklahoma Battle Series Game 2 Recap — Veterans Shine
