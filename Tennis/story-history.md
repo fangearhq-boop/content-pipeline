@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## October 14, 2026
+
+| 2026-10-14 | Daniil Medvedev def. Stefanos Tsitsipas 6-4, 7-5 in Shanghai Masters R4 (Round of 16) — QF berth secured; post-Beijing DQ comeback; QF opponent = winner of Bergs vs. Paul; Medvedev won 3 titles in 2026. Sources: tennistemple.com, tennistonic.com, lastwordonsports.com | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Oct 12 S2: Shanghai Days 6-7, Medvedev advancing) |
+| 2026-10-14 | Zizou Bergs (Belgium, ~No. 39) vs. Tommy Paul in Shanghai Masters R4 — Bergs' first Masters 1000 QF attempt; fresh from stunning Alcaraz 7-5, 7-6(4) in R3; Paul def. defending champion Vacherot 6-4, 6-2; winner faces Medvedev in QF. Sources: clickondetroit.com, arynews.tv, tennismajors.com, tennistourtalk.com | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Oct 13 S2: Bergs stuns Alcaraz) |
+| 2026-10-14 | Iga Swiatek def. Magdalena Frech 6-2, 6-1 in Wuhan Open R2 — 40th win of 2026 season; WTA Finals race context; in same quarter as top seed Sabalenka; potential QF Oct 16; next opponent Krueger or Tararudee. Sources: wtatennis.com, abcnews.com, cp24.com, martincid.com | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 13 S3: Wuhan R1 began) |
+| 2026-10-14 | Shanghai Masters QF bracket: Zverev (def. Bublik 7-6(6),4-6,7-6(1), ankle concern) vs. de Minaur (def. Khachanov 6-3,6-4; de Min won last 2 Laver Cup vs. Zverev); Gea (def. Mensik 7-6(4),6-4) vs. Davidovich Fokina (def. Hurkacz); Ruud (via FAA ret. knee, Ruud leading 5-2) vs. Jodar (def. van de Zandschulp 6-7(4),6-4,6-2); Medvedev vs. Bergs/Paul. QFs Oct 15. Sources: thescore.com, abc.net.au, tennis.com.au, sundayguardianlive.com, yardbarker.com | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Oct 13 S1: Zverev Year-End No. 1) |
+| 2026-10-14 | Aryna Sabalenka vs. Ann Li in Wuhan Open R3 — Sabalenka defending 3-time champion with unbeaten streak at Wuhan (all-time); projected QF vs. Swiatek Oct 16; WTA Finals race final WTA 1000 of 2026. Sources: tennismajors.com, lastwordonsports.com, wtatennis.com, tennis365.com | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Oct 13 S3: Wuhan R1 — Sabalenka on schedule) |
+
+---
+
+
 ## October 13, 2026
 
 | 2026-10-13 | Alexander Zverev clinches 2026 ATP Year-End No. 1 after Alcaraz's loss to Bergs; first German Year-End No. 1 in ATP history; first German world No. 1 since Boris Becker's era; won French Open (def. Cobolli) + US Open (def. Shelton) in 2026; official rankings November 23. Sources: atptour.com, olympics.com, tennistonic.com | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 12 S3: Zverev 60 wins/Year-End No. 1 march) |
