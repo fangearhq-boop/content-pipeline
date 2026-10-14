@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-14
+
+### STORY 1: Opening Night Preview — Six Days Out: Knicks Banner, LeBron's Return, Finals Rematch
+- **Tier:** 1
+- **Category:** NBA Opening Night / New York Knicks / Philadelphia 76ers / Oklahoma City Thunder / San Antonio Spurs / Boston Celtics / Detroit Pistons / LeBron James / Victor Wembanyama
+- **Key facts:** Oct. 20 tripleheader on NBC: Celtics at Pistons (3 PM ET), Sixers at Knicks (7 PM ET), Thunder at Spurs (9:30 PM ET); Knicks first banner since 1973; LeBron (2yr $8M, signed July 2026) regular-season MSG debut; Wembanyama $252M extension debut vs. Knicks (Finals rematch); Brunson Finals MVP (45 pts in Game 5)
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+
+### STORY 2: LeBron James at MSG — The Villain Role He Never Wanted and Always Expected
+- **Tier:** 1
+- **Category:** Philadelphia 76ers / LeBron James / New York Knicks / Opening Night / MSG
+- **Key facts:** LeBron 2yr $8M signed July 2026; announced July 24 "I believe I can help make 76ers a championship team"; 24th season; preseason debut Oct. 8: 10 pts/4 reb/5 ast/8-8 FTs in 18 min vs. Brooklyn (Nets 114-Sixers 108); Sixers Big Four: LeBron + Brown + Embiid + Maxey; Brown acquired for Paul George + 4 picks from Boston
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: The Heat's Final Dress Rehearsal — Giannis and Miami's East Dark-Horse Status
+- **Tier:** 1
+- **Category:** Miami Heat / Giannis Antetokounmpo / Klay Thompson / Erik Spoelstra / NBA Preseason
+- **Key facts:** Through 2 games: 27 pts/11 ast/11-16 FG in 32 min; Game 1 (vs. TOR, Oct. 3): 9 pts/7 ast, Heat won 129-105; Game 2 (vs. NO, Oct. 8): 18 pts/4 ast, Heat won 128-118; Spoelstra compared to Magic Johnson; Klay Thompson on roster; Heat +3,000+ to win title; regular season starts Oct. 20
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+
+### STORY 4: Miles Bridges Traded to Phoenix — The Suns Make a Move Before the Deadline
+- **Tier:** 2
+- **Category:** Phoenix Suns / Miles Bridges / Charlotte Hornets / NBA Transactions / Roster Deadline
+- **Key facts:** Trade: Miles Bridges (Charlotte) → Phoenix Suns; return: Grayson Allen + Royce O'Neale + 2033 1st-round pick; Bridges 28 yrs old, 20+ ppg scorer; roster deadline Oct. 17 (4:00 PM CT); final rosters Oct. 19 (4:00 PM CT)
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: NBA Roster Deadline Is Three Days Away — Last Window for Moves Before the Season
+- **Tier:** 2
+- **Category:** NBA Transactions / Roster Deadline / Season Preview
+- **Key facts:** Deadline: Oct. 17 at 4 PM CT; final rosters: Oct. 19 at 4 PM CT; Rob Dillingham (Chicago Bulls) — wrist ganglion cyst surgery, return TBD; Nikola Topic (OKC Thunder) — back surgery offseason, expected ready; Miles Bridges already traded Charlotte→Phoenix
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
 ## 2026-10-13
 
 ### STORY 1: Timberwolves 122, Knicks 104 — Edwards and McDaniels Dominate Preseason Tune-Up
