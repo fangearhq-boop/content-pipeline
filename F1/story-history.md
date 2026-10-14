@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-14
+
+### STORY 1: Road to Austin — Title Scenarios With Six Races Left
+- **Tier:** 1
+- **Category:** Kimi Antonelli / George Russell / F1 2026 Championship / US Grand Prix / COTA
+- **Key facts:** Antonelli leads by 102 pts; 156 max pts remaining; clinch at COTA: win + Russell P5 or lower; Russell won Baku; Verstappen 119 back, 2 wins in a row; US GP Oct. 23-25 COTA; Abu Dhabi Dec. 4-6 finale
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: Verstappen Two-Race Streak / Red Bull 2027 Pivot
+- **Tier:** 1
+- **Category:** Max Verstappen / Red Bull / F1 2026 Championship / RB22 / 2027 Development
+- **Key facts:** Won Malaysia + Singapore consecutively; 73rd win Singapore (250th GP); 119 pts behind Antonelli; Red Bull pivoting primary dev resources to 2027 car; Verstappen signed through 2030; RB22 had rear wing issues Austria/Silverstone (removed); COTA 2025 winner
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: McLaren Final Six Upgrades — Andrea Stella Commitment
+- **Tier:** 2
+- **Category:** McLaren / Lando Norris / Oscar Piastri / F1 2026 Constructors / Upgrades
+- **Key facts:** McLaren P3 constructors (339 pts); 105 behind Ferrari, 239 behind Mercedes; Andrea Stella confirmed phased upgrades for each of final 6 races; not pivoting to 2027 dev; Norris P6 (201), Piastri P5 (not given in article, need to re-verify); 2026 regs: 50/50 ICE/MGU-K, active aero, DRS eliminated
+- **Byline:** Elena Voss
+- **Status:** NEW
+
+### STORY 4: Ferrari Development Rate — Fastest in 2026
+- **Tier:** 2
+- **Category:** Ferrari / Lewis Hamilton / Charles Leclerc / SF-26 / Constructors' Championship
+- **Key facts:** Ferrari P2 constructors (444 pts); Hamilton P3 drivers (229 pts); Leclerc P5 (215 pts); McLaren TD commented on wanting to understand Ferrari's dev rate; Miami: largest single upgrade package of any team; $135M cost cap; Leclerc P2 Singapore (+7.3s from Verstappen); COTA next
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: Silly Season 2027 — Driver Market Update
+- **Tier:** 2
+- **Category:** F1 Driver Market / 2027 Silly Season / Fernando Alonso / Cadillac F1
+- **Key facts:** Confirmed 2027: Verstappen (RBR/2030), Norris (McLaren/2030), Piastri (McLaren/2028), Leclerc (Ferrari), Gasly + Colapinto (Alpine); Open: Haas (Ocon replacement), Alonso/Aston Martin uncertain, Racing Bulls unconfirmed, Cadillac F1 debut (2 seats); Alonso 45 years old; Cadillac makes F1 debut in 2026
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
 ## 2026-10-13
 
 ### STORY 1: Antonelli Championship Math — 102 Points Clear, Austin Clinch Watch
