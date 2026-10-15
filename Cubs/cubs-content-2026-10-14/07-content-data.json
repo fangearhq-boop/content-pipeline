@@ -1,0 +1,180 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-14",
+  "compiled_at": "2026-10-14T09:22:31.619877+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Sonny Gray — Cubs' top FA target as rotation faces total rebuild",
+      "tier": 1,
+      "status": "",
+      "angle": "Four of five Cubs starters are free agents. Horton out until July 2027. Multiple outlets name Cubs as favorites to land Gray. Bold framing: that's one — they need three more.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "4 of 5 Cubs starters are headed to free agency this winter.\n\nGausman. Holmes. Peterson. Imanaga. Gone. Horton's out until July 2027.\n\nThe Cubs are reportedly the favorites to land Sonny Gray. That's one. They need three more. 🔧\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "NEW STORY (Oct 13 covered King/Ryan; today's angle is Sonny Gray specifically + scale of the rebuild)",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Sonny Gray — Cubs rotation rebuild\n**Decision:** NEW STORY (Oct 13 covered \"pivot to King + Ryan\"; today's angle is Sonny Gray specifically as Cubs' reported top target, confirmed by multiple Oct 14 sources)\n**Sources:**\n1. Yahoo Sports, \"Chicago Cubs Continue to Be Named Favorites to Land Red Sox Star Pitcher\" (Oct 2026, <24h) — MEDIUM confidence (AI summary)\n2. Yardbarker, \"Chicago Cubs Emerge as Top Destination for Elite Pitcher\" (Oct 2026, <24h) — MEDIUM confidence (AI summary)\n3. MLB Trade Rumors, \"Sonny Gray Plans To Pitch In 2027\" (Oct 2026, <24h) — MEDIUM confidence\n4. Yahoo Sports, \"An Early Look At The Cubs Rotation For Next Season\" (Oct 2026, <24h) — MEDIUM confidence\n5. Bleacher Report, \"Cubs 2026 Offseason Guide\" (Oct 2026, <24h) — MEDIUM confidence\n**Key Facts (verified where possible):**\n- Four of five Cubs starters headed to free agency: Kevin Gausman, Matthew Boyd, David Peterson, Shota Imanaga. Clay Holmes expected to decline $12M player option. Boyd's mutual option unlikely to be exercised. [Multiple sources — HIGH confidence]\n- Cade Horton: second TJ surgery April 16, 2026; expected return July-August 2027 [Multiple sources — HIGH confidence]\n- Sonny Gray: Cubs \"repeatedly named favorites\" and \"top destination\" — multiple Oct 2026 sources [MEDIUM confidence — no official Cubs statement, sourced from scouts/analysts]\n- Gray plans to pitch in 2027 [MLB Trade Rumors — MEDIUM confidence]\n- Gray's age: sources disagree (36 vs 37) — DO NOT cite age in content\n**Why this matters:** The Cubs need 3-4 starting pitchers. With Horton's return 9+ months away, acquiring a No. 1-quality starter is urgent. Gray is the most frequently cited target.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Josiah Hartshorn — No. 1 prospect, No. 35 overall, the next wave",
+      "tier": 2,
+      "status": "",
+      "angle": "19-year-old Cubs No. 1 prospect slashed .285/.405/.521 with 18 HR in his pro debut. No. 35 on MLB Pipeline Top 100. The next generation is loading.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Josiah Hartshorn isn't even 20 years old yet. The Cubs' No. 1 prospect slashed .285/.405/.521 with 18 HR in his pro debut — as a teenager.\n\nThe next wave is coming. Hartshorn is No. 35 on MLB Pipeline's Top 100. 🌱\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "NEW STORY (Alcantara covered Oct 13; Hartshorn hasn't been the dedicated feature yet)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Josiah Hartshorn — No. 1 prospect\n**Decision:** NEW STORY (Kevin Alcantara covered Oct 13; Hartshorn/Caple Pipeline Prospects of Year were from Oct 9 ceremony but not yet covered as a dedicated story in pipeline. Fresh enough.)\n**Sources:**\n1. Bleacher Nation, \"mlb pipeline names its cubs prospects of the year\" (Oct 9, 2026) — MEDIUM confidence\n2. MLB.com, \"Hartshorn, Ayers headline Cubs' updated Top 30 Prospects list\" (midseason Aug 2026) — HIGH confidence\n3. Roundtable, \"mlb pipeline names cubs top pitching prospect for 2026\" (Oct 9, 2026) — MEDIUM confidence\n**Key Facts:**\n- Hartshorn: No. 1 Cubs prospect, No. 35 overall (Bleacher Nation Oct 9, citing Pipeline) [MEDIUM — conflicting sources; some say No. 60. Using No. 35 per most recent source but flagging]\n- Hartshorn stats (2026 season, minor leagues): .285/.405/.521, 18 HR, 20 2B, 92 RBI, 73 runs, 10 SB in 98 games [MLB.com midseason update — HIGH confidence]\n- Hartshorn age: 19 years old (6th round pick, 2025 Draft) [MLB.com — HIGH confidence]\n- Brooks Caple: Cubs' best pitching prospect per Pipeline (Oct 9); 94-98 mph fastball [MEDIUM confidence]\n- Only Cubs prospect on MLB Pipeline Top 100 after Rojas trade [MEDIUM confidence — one source]\n**Why this matters:** Cubs are entering a transition phase. The farm system's crown jewel is a 19-year-old who hit .521 slugging in his debut. Hartshorn represents the post-PCA era.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Happ & Suzuki — Will the Cubs break up the outfield core?",
+      "tier": 2,
+      "status": "",
+      "angle": "Both are free agents. Reports say Cubs won't bid war for Suzuki. Happ finishes his $61M deal. Hoyer has decisions to make.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Ian Happ. Seiya Suzuki. Both free agents this winter. Both could be gone.\n\nReports say the Cubs won't get into a bidding war for Suzuki. Happ finishes his $61M deal.\n\nJed Hoyer has decisions to make — and the window is closing. 👀\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "FOLLOW UP (Suzuki/Blue Jays covered Oct 9; today adds Happ + \"both FAs\" dual framing)",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Happ & Suzuki free agency\n**Decision:** FOLLOW UP (Suzuki/Blue Jays covered Oct 9; today adds Happ + \"both FAs\" dual-angle framing)\n**Sources:**\n1. Roundtable, \"Cubs Won't Get Into 'Bidding War' For Seiya Suzuki\" (Oct 2026) — MEDIUM confidence\n2. Heavy.com, \"Blue Jays Given Offseason Pitch for Cubs Free Agent Seiya Suzuki\" (Oct 2026) — MEDIUM confidence\n3. Bleed Cubbie Blue, \"Ian Happ and Seiya Suzuki are both free agents after 2026...\" (Oct 2026) — MEDIUM confidence\n4. CubsHQ, \"Cubs offseason begins with major decisions on Suzuki, Happ, Imanaga and more\" (Oct 2026) — MEDIUM confidence\n**Key Facts:**\n- Seiya Suzuki: 2026 slash line .309/.429/.537, 8 HR (from Heavy.com Blue Jays piece) [MEDIUM confidence — AI summary]\n- Cubs \"won't get into bidding war\" for Suzuki per Roundtable [MEDIUM confidence — one source]\n- Ian Happ: finishing 3-year/$61M extension [MEDIUM confidence]\n- Both are free agents at conclusion of 2026 World Series [HIGH confidence — multiple sources]\n- No confirmed signings or extensions as of Oct 14\n**Why this matters:** Two of the Cubs' most reliable outfielders are walking into free agency simultaneously. Given Alcantara as Suzuki's heir apparent and the rotation being the spending priority, one or both may not return.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Ryan Flaherty — Phillies managerial vacancy puts Cubs coach on the board",
+      "tier": 3,
+      "status": "",
+      "angle": "Cubs bench coach reportedly linked to Phillies vacancy after Alex Cora turned down their offer. Cubs could lose key Counsell lieutenant this offseason.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cubs bench coach Ryan Flaherty is a managerial candidate — reportedly linked to the Phillies vacancy after Alex Cora turned down their offer.\n\nIf Flaherty leaves, Chicago loses one of Counsell's most trusted lieutenants this offseason. 👁\n\n#Cubs #MLB #ChicagoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#ChicagoCubs"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Ryan Flaherty — Phillies manager candidate\n**Decision:** NEW STORY\n**Sources:**\n1. SI.com (Inside The Cubs), \"NL rival reportedly targeting Cubs bench coach Ryan Flaherty for manager role\" (Oct 2026) — MEDIUM confidence\n2. Yahoo Sports Cubs aggregation, Oct 14 2026 — MEDIUM confidence (AI summary mentions \"Ryan Flaherty could be a name to watch\")\n**Key Facts:**\n- Alex Cora turned down offer to manage the Philadelphia Phillies [MEDIUM confidence — one source, recent]\n- Ryan Flaherty is Cubs' bench coach; has been since 2024 [HIGH confidence]\n- Flaherty reportedly linked to Phillies vacancy [MEDIUM confidence — single specific SI.com source]\n- Craig Counsell's contract: through 2028, $8M/year [HIGH confidence — 2023 reports]\n**RED FLAG:** This story has only ONE specific source (SI.com) for the Phillies-Flaherty link. Hedge with \"reportedly\" in all content. Do not make this definitive.\n**Why this matters:** If Flaherty takes the Phillies job, Cubs lose a key coaching piece mid-offseason — another log on the fire of what could be a messy transition year.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "NLCS Game 3 tonight — Brewers one win from World Series",
+      "tier": 2,
+      "status": "",
+      "angle": "Milwaukee leads 2-0. Tonight Gasser vs Snell (4-0, 1.13 ERA). 7 PM CT at Dodger Stadium. Division rival one win from the Fall Classic.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Milwaukee is one win from the World Series.\n\nTonight: Robert Gasser vs. Blake Snell (4-0, 1.13 ERA). Dodger Stadium. 7 PM CT. FS1.\n\nIf the Dodgers don't answer tonight, a division rival is going to the Fall Classic. 🔥\n\n#Cubs #MLB #NLCS",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "FOLLOW UP (NLCS 2-0 Brewers covered Oct 9 preview and Oct 13 Games 1+2 recap)",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#NLCS"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "NLCS Game 3 — Brewers at Dodgers tonight\n**Decision:** FOLLOW UP (NLCS 2-0 Brewers series covered Oct 9 preview and Oct 13 Games 1&2 recap; today = Game 3 preview, evening slot per insights winner)\n**Sources:**\n1. Fox Sports / Fox.com, \"Watch Brewers vs Dodgers Game 3 Live: Streaming, TV Channel & Start Time — Oct 14, 2026\" (Oct 14) — HIGH confidence (official broadcast info)\n2. NBC Sports, \"How to watch Dodgers vs. Brewers in 2026 MLB NLCS\" (Oct 14) — HIGH confidence\n3. SI.com, \"Dodgers, Brewers Starting Pitchers Set for NLCS Game 3\" (Oct 14) — MEDIUM confidence\n**Key Facts:**\n- Game 3: tonight at Dodger Stadium, first pitch 8 PM ET / 7 PM CT, on FS1 [HIGH confidence — broadcast info]\n- Series: Brewers lead 2-0 [HIGH confidence — multiple sources + story history match]\n- Starting pitchers: Robert Gasser (Brewers) vs Blake Snell (Dodgers) [MEDIUM confidence — NBC Sports/SI.com]\n- Snell stats since returning: 4-0, 1.13 ERA [MEDIUM confidence — AI summary from NBC Sports]\n- Gasser: 0-2 vs Dodgers in 2026 regular season, 7 runs over 10.2 IP [MEDIUM confidence]\n- Winner meets ALCS champion in World Series [HIGH confidence — playoff format]\n**Why this matters:** A division rival is one win from the Fall Classic. This is the highest-stakes thing happening in baseball tonight, and Cubs fans have a rooting interest (anything but a Brewers WS appearance).",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

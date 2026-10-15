@@ -5,6 +5,97 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-10-15 (OFF DAY — Early offseason. NLCS Game 4 tonight: Brewers at Dodgers, Dodger Stadium; Brewers lead 3-0. Insights active: overnight_00_06 loser (large); evening_18_24 winner (medium).)
+
+### STORY 1: NLCS Game 3 Result — Brewers 6-2 Dodgers, Lead 3-0
+- **Angle:** FOLLOW UP (Oct 14 had Game 3 preview; today = result). Chourio leadoff HR on Snell's first pitch. Bauers + Mitchell back-to-back HRs. Gasser 5 scoreless innings. Brewers 3-0, one win from WS. Game 4 tonight.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, morning rival watch recap)
+- **Follow-Up Opportunities:**
+  - NLCS Game 4 result (tomorrow morning if series continues)
+  - Brewers World Series opponent + Cubs motivation angle
+
+### STORY 2: Skubal Is Now a Free Agent — The Real Test Begins
+- **Angle:** NEW STORY (Oct 12 covered Cubs backing out of Skubal trade talks; today = his actual FA status, one-year Dodgers deal, now hitting the open market). Two-time Cy Young. Best arm on the market. Cubs need 3 starters.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, bold/analytical)
+- **Follow-Up Opportunities:**
+  - Skubal signs (whenever) — if with Cubs, Tier 1; if elsewhere, Tier 1 reaction
+  - Cubs response move if Skubal goes elsewhere
+
+### STORY 3: QO Countdown — Offseason Clock Tied to NLCS
+- **Angle:** NEW STORY. If Brewers clinch tonight, WS starts ~Oct 20. QO window opens 5 days after WS ends. Suzuki, Happ QO decisions + King opt-out all converge in the same ~2-week window.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, informative/urgency)
+- **Follow-Up Opportunities:**
+  - Cubs QO announcement (Suzuki, Happ)
+  - King opt-out decision
+  - WS schedule if Brewers clinch tonight
+
+### STORY 4: AFL — Myles Bailey's Power Tool
+- **Angle:** NEW STORY (first dedicated Bailey feature; first 2026 draft pick AFL coverage). Came back from broken ankle. Best exit velocities in his draft class. Mesa Solar Sox.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect/informative)
+- **Follow-Up Opportunities:**
+  - Bailey's AFL stats as season progresses
+  - AFL standings and standout performances
+
+### STORY 5: Four Straight Titles. One Win from the WS. Cubs, It's Time.
+- **Angle:** FOLLOW UP (rival motivation frame; Brewers now 3-0 in NLCS sharpens the contrast vs Cubs WCS exit). Bold evening take: fix the rotation or watch this happen again in 2027.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, bold/passionate, EVENING WINNER)
+- **Follow-Up Opportunities:**
+  - Brewers World Series result — either way it's Cubs motivation content
+  - Offseason moves that respond to this narrative
+
+---
+
+## 2026-10-14 (OFF DAY — Early offseason. NLCS Game 3 tonight: Brewers at Dodgers, Dodger Stadium, 7 PM CT; Brewers lead 2-0. Insights active: overnight_00_06 loser (large); evening_18_24 winner (medium).)
+
+### STORY 1: Sonny Gray — Cubs rotation rebuild, Gray as top FA target
+- **Angle:** NEW STORY (Oct 13 covered King/Ryan; today's angle = Sonny Gray specifically + 4-of-5-starters-gone scale of rebuild)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, morning analysis)
+- **Follow-Up Opportunities:**
+  - Gray signing announcement (whenever)
+  - Each additional starter signed
+  - Horton rehab updates
+
+### STORY 2: Josiah Hartshorn — No. 1 Cubs prospect, No. 35 MLB Pipeline overall
+- **Angle:** NEW STORY (first dedicated Hartshorn feature; Alcantara covered Oct 13)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, prospect/stat breakdown)
+- **Follow-Up Opportunities:**
+  - AFL performance updates
+  - Spring training 2027 roster battle
+  - Full season 2027 stats
+
+### STORY 3: Happ & Suzuki free agency — Will Cubs break up OF core?
+- **Angle:** FOLLOW UP (Suzuki/Jays covered Oct 9, Oct 12; today adds Happ + both-FAs dual framing)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, analysis/roster news)
+- **Follow-Up Opportunities:**
+  - Suzuki signing (Toronto or elsewhere)
+  - Happ QO decision + eventual contract
+  - Replacement OF acquisition
+
+### STORY 4: Ryan Flaherty — Phillies managerial candidate
+- **Angle:** NEW STORY (Alex Cora declined Phillies; Flaherty reportedly linked)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, coaching news)
+- **Follow-Up Opportunities:**
+  - Flaherty hired or passes
+  - Cubs bench coach replacement if he leaves
+  - Phillies manager announcement
+
+### STORY 5: NLCS Game 3 tonight — Brewers vs Dodgers, one win from World Series
+- **Angle:** FOLLOW UP (NLCS Games 1+2 recap covered Oct 13; today = Game 3 specific preview)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, rival watch, evening WINNER slot)
+- **Follow-Up Opportunities:**
+  - NLCS Game 4 if series continues
+  - NLCS series winner + World Series matchup angle
+
 ## 2026-10-12 (OFF DAY — Early offseason. NLCS Game 2 tonight: Brewers vs Dodgers at Milwaukee (series 1-0), ~7 PM CT. Insights active: overnight_00_06 loser (large); game_final winner (large, off-day so unused); evening_18_24 winner (medium); transaction loser (small); len_bucket=140-200 winner (small).)
 
 ### STORY 1: NLCS Game 1 Result — Brewers 2-1 Dodgers

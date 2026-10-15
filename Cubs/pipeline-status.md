@@ -1,7 +1,7 @@
-# Cubs Pipeline Status — Updated 2026-10-13
+# Cubs Pipeline Status — Updated 2026-10-15
 
 ## Latest Run
-- **Date:** 2026-10-13 (Tuesday — Off day. Brewers lead NLCS 2-0 over Dodgers after G2 Monday. Early offseason.)
+- **Date:** 2026-10-15 (Thursday — Off day. Brewers lead NLCS 3-0; Game 4 tonight at Dodger Stadium. Brewers won Game 3 6-2 last night. Skubal free agency, QO countdown, AFL Bailey.)
 - **Stories:** 5
 - **X posts:** 5
 - **Platforms:** X/Twitter only
@@ -10,44 +10,44 @@
 - **07-content-data.json:** ✅ Valid JSON, all 5 posts with posting_time (7:00 AM / 9:30 AM / 12:00 PM / 3:45 PM / 6:30 PM CT), all strptime-parseable
 - **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
 
-## Insights Summary (2026-10-13)
-- **Snapshot generated:** 2026-10-13T08:30:00.122986Z (fresh, 30 min before trigger)
-- **significant_findings count:** 4
-  1. `posting_window=overnight_00_06` LOSER (delta=0.688, LARGE) → No overnight slots; earliest is 7:00 AM ✓
-  2. `content_type=game_final` WINNER (delta=0.615, LARGE) → Off day, no Cubs game. Rival watch (NLCS G1+G2 recap) placed at 7:00 AM; framed with game scores to approximate game_final format ✓
-  3. `posting_window=evening_18_24` WINNER (delta=0.369, MEDIUM) → Story 5 (Skubal/King bold take) at 6:30 PM CT ✓
-  4. `content_type=transaction` LOSER (delta=0.270, SMALL) → Alcantara story leads with prospect (not Suzuki departure); rotation story framed as analysis/stakes; Skubal story is a redirect/bold take ✓
+## Insights Summary (2026-10-15)
+- **Snapshot generated:** 2026-10-15T08:30:00.113911+00:00 (fresh, 30 min before trigger)
+- **significant_findings count:** 2 (same as Oct 14)
+  1. `posting_window=overnight_00_06` LOSER (large effect, p=0.0015) → No overnight slots used ✓
+  2. `posting_window=evening_18_24` WINNER (medium effect, p=0.0307) → Brewers motivation bold take placed at 6:30 PM CT (evening winner) ✓
+- **No other significant findings** — brand-voice defaults applied for all other dimensions
 
-## Series Context (2026-10-13)
+## Series Context (2026-10-15)
 - **`off_day`:** TRUE
 - **`is_series_start_today`:** FALSE
 - **`series`:** null
 - **`today_cubs_game`:** null
-- **Action:** Off-day pipeline. NLCS rival watch (Brewers 2-0 on Dodgers). Offseason analysis (rotation, Alcantara, PCA MVP, Skubal redirect).
+- **Action:** Off-day pipeline. NLCS Game 4 tonight (Brewers can clinch). Skubal FA reality, QO countdown, AFL Myles Bailey, rival watch.
 
 ## Current Cubs Status
 - **2026 season:** OVER. Cubs eliminated by Padres in NL Wild Card Series (swept 2-0, Oct 1)
 - **Final record:** 89-73 (NL Wild Card No. 2)
 - **Postseason:** Lost WCS Game 1 (8-0), Game 2 (4-1). 1 run in 18 innings total.
-- **Now:** Early offseason. NLCS: Brewers vs Dodgers (Brewers lead 2-0 after Games 1+2 at Milwaukee).
+- **Now:** Early offseason. NLCS: Brewers lead Dodgers 3-0. Game 4 tonight.
 
 ## Key Ongoing Stories
-- **Rotation rebuild:** Need 3 SP this winter (per Roundtable Oct 6). Horton TJ — out until mid-2027 (post-All-Star break). Gausman expected to leave (could return to Toronto per Mitch Bannon). Imanaga: "likely not returning" (both sides declined options after 2026). Boyd/Holmes likely options declined.
-- **Michael King:** Padres RHP. Has two player options: $28M/2027, $30M/2028. If he opts out, viewed as No. 2 SP on FA market; key Cubs target. Decision days after WS.
-- **Ian Happ FA:** QO ($23.15M) deadline 5 days after WS. More likely to return than Suzuki.
-- **Seiya Suzuki FA:** Blue Jays strongly interested (The Athletic, Mitch Bannon). Cubs unlikely to match projected $130M+ deal. Covered Oct 9, 13 (Alcantara heir framing).
-- **PCA MVP:** 45 HR, 40 SB, MLB WAR leader (7.8 as of late Aug; final TBD). BBWAA announces November. -1100 favorite. Covered Oct 6, 9, 10, 11, 13.
-- **AFL:** 9 Cubs prospects in Mesa Solar Sox through Nov 14. Cole Mathis (No. 17, 1B/3B), Juan Cabada (No. 12) key names. Covered Oct 11, 12.
-- **Gold Glove finalists:** PCA/Happ/Suzuki could sweep outfield Gold Gloves (first since 2011). Finalists announced late October. Covered Oct 9.
-- **Skubal:** On Dodgers (acquired Aug 2 trade deadline). Cubs insider said team will NOT pursue in FA (ClutchPoints Oct 2026). Projected to set pitcher contract record. Story covered Oct 9 (dream target), Oct 13 (cold water + redirect to King/Ryan). **DO NOT re-frame as a Cubs target** — covered both angles; story is closed unless new development.
-- **Nico Hoerner:** Locked up 6-year/$141M extension through 2032.
-- **Kevin Alcantara:** 23yo OF. Iowa 2026: .273/.367/.569, 16 HR (through June 17), Aug 17 recall. Five-tool profile. Likely 2027 roster consideration. Covered Oct 13 (first coverage).
-- **Joe Ryan (Twins):** Expected FA, multi-year deal. Cubs target alongside King. Not yet covered directly.
+- **Rotation rebuild:** 4 of 5 starters FA (Gausman, Holmes, Peterson, Imanaga; Boyd mutual option unlikely). Horton TJ — out until July 2027. Sonny Gray (covered Oct 14). **Tarik Skubal** now officially FA after WS (covered today Oct 15 — one-year Dodgers deal; two-time Cy Young; best arm on market). King opt-out decision pending. Do NOT re-cover Skubal FA angle without new development (signing news, etc.).
+- **Michael King:** Padres RHP. Opt-out decision 5 days after WS. Expected to opt out (second-best pitcher on market). QO countdown covered Oct 15. Next: opt-out announcement.
+- **Ian Happ FA:** QO deadline covered Oct 15 (QO countdown framing). Next: actual QO announcement.
+- **Seiya Suzuki FA:** Blue Jays strongly interested. Cubs won't bid war. QO deadline covered Oct 15. Next: signing announcement.
+- **Josiah Hartshorn:** No. 1 Cubs prospect, No. 35 MLB Pipeline overall. Covered Oct 14 (first feature). Next: AFL stats, 2027 spring.
+- **Myles Bailey:** 2026 draft pick, AFL Mesa Solar Sox. First coverage Oct 15. Next: AFL stats as season progresses.
+- **Ryan Flaherty:** Bench coach reportedly linked to Phillies manager vacancy. Covered Oct 14. Next: Flaherty hired or stays.
+- **PCA MVP:** 45 HR, 40 SB, MLB WAR leader. BBWAA announces November. Next: official BBWAA NL MVP announcement.
+- **AFL:** Mesa Solar Sox through Nov 14. Bailey (Oct 15 — first coverage), Cabrada (Oct 12), Mathis/Howard/Ayers in system.
+- **Gold Glove finalists:** PCA/Happ/Suzuki could sweep outfield. Finalists announced late October.
 
 ## Pipeline Run Log (newest first)
 
 | Date | Type | Stories | Tweets | Status |
 |------|------|---------|--------|--------|
+| 2026-10-15 | OFF DAY (NLCS G3 result, Skubal FA, QO countdown, AFL Bailey, Brewers motivation) | 5 | 5 | ✅ |
+| 2026-10-14 | OFF DAY (Sonny Gray rotation target, Hartshorn prospect, Happ/Suzuki FA, Flaherty manager, NLCS G3 tonight) | 5 | 5 | ✅ |
 | 2026-10-13 | OFF DAY (NLCS G1+G2 recap, Alcantara 2027, rotation crisis, PCA MVP final, Skubal cold water) | 5 | 5 | ✅ |
 | 2026-10-12 | OFF DAY (NLCS G2 tonight, Skubal/King rotation, AFL Cabada, Suzuki/Jays) | 5 | 5 | ✅ |
 | 2026-10-11 | OFF DAY (NLCS G1 rival watch, PCA MVP Ohtani injury, Imanaga gone, Michael King target, AFL prospects, Happ QO) | 6 | 6 | ✅ |

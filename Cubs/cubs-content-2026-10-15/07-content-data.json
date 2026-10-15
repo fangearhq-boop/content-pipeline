@@ -1,0 +1,206 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-15",
+  "compiled_at": "2026-10-15T09:20:29.172008+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "NLCS G3 Result + G4 tonight",
+      "type": "Informative (rival watch)"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Skubal free agent",
+      "type": "Bold/analytical"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "QO countdown",
+      "type": "Informative"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "AFL: Myles Bailey",
+      "type": "Prospect/informative"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Brewers 3-0 → Cubs motivation",
+      "type": "Bold/passionate (evening WINNER)"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "NLCS Game 3 Result — Brewers 6-2 Dodgers, Lead 3-0",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Brewers 6-2 over the Dodgers. NLCS lead: 3-0.\n\nChourio crushed a leadoff homer on Snell's first pitch. Bauers and Mitchell went back-to-back. Gasser threw 5 scoreless innings.\n\nGame 4 tonight at Dodger Stadium. Milwaukee is one win from the World Series.\n\n#Cubs #MLB #GoCubs",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "FOLLOW UP (Oct 14 had G3 preview; today = result)",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#GoCubs"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "NLCS Game 3 Result — Brewers 6-2 Dodgers, Lead 3-0\n**Sources:**\n- Boston Globe (Oct 14, 2026): \"Jake Bauers and Garrett Mitchell stun Dodgers with back-to-back homers, Brewers take 3-0 lead in NLCS\" — confirms 3-0 series lead, Bauers and Mitchell back-to-back HRs\n- CBS Sports (2026 MLB playoff bracket page): \"Brewers' Game 3 win puts Dodgers on brink of elimination\" — confirms 3-0 lead\n- Seoul Economic Daily (Oct 15, 2026): \"Brewers Push Dodgers to Brink With 6-2 Win in NLCS Game 3\" — confirms final score 6-2\n- BrewCrew Ball (Oct 14, 2026): \"Brewers drop NLCS Game 3 to Dodgers\" — DISCARD: this headline contradicts other sources; likely 2025 data in search\n- Yahoo Sports (2026): \"Brewers push Dodgers to brink, homer their way to 3-0 lead in NLCS\" — confirms 3-0\n- True Blue LA (Oct 14, 2026): \"Jake Bauers stuns Blake Snell, Brewers win NLCS Game 3\" — confirms Bauers HR off Snell, Brewers win\n- ESPN Africa: \"Brewers Jackson Chourio exits Game 3 NLCS bat\" — DISCARD: this is 2025 NLCS Chourio injury, NOT 2026 (confirmed by search engine note)\n**Confirmed facts (HIGH confidence):**\n- Brewers won NLCS Game 3, score 6-2\n- Brewers lead NLCS 3-0\n- Jackson Chourio hit a leadoff homer on the first pitch from Blake Snell (Yahoo, True Blue LA)\n- Jake Bauers hit a home run (Boston Globe, True Blue LA)\n- Garrett Mitchell hit a home run (Boston Globe, Yahoo — back-to-back with Bauers)\n- Robert Gasser started and pitched 5 scoreless innings (Yahoo Sports search summary)\n- Game 4 tonight at Dodger Stadium\n**MEDIUM confidence:**\n- Exact final score 6-2 (one source; most others confirm Brewers win and 3-0 lead without giving final score)\n**Facts NOT used (insufficient verification):**\n- Distance of Chourio's homer — not reported in any source; DO NOT use\n- Chourio injury — confirmed by search engine to be from 2025 NLCS, not 2026",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Skubal Is Now a Free Agent — The Real Test Begins",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Tarik Skubal goes to free agency the moment this World Series ends. One-year Dodgers deal. That was always the plan.\n\nTwo-time Cy Young winner. Best arm on the market. Cubs need 3 starters.\n\nHoyer has to at least try.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "NEW STORY (Oct 12 covered Cubs backing out of trade talks; this = his actual FA status as WS ends)",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Skubal Is Now a Free Agent\n**Sources:**\n- WWMT/AP wire (2026): \"Tigers trade Tarik Skubal to Los Angeles Dodgers\" — confirms trade\n- TSN (2026): \"Report: Tigers deal star pitcher Skubal to Dodgers\" — confirms trade\n- Sports Illustrated/Sportsnaut (2026): Multiple pieces on Skubal trade\n- RotoBaller/Telemundo Nebraska/other: \"2-time Cy Young winner Tarik Skubal could set more contract records next offseason\" — confirms two-time Cy Young, confirms FA status after 2026\n- Bleacher Report: \"Tarik Skubal discusses potential Tigers reunion, MLB free agency after blockbuster Dodgers trade\" — confirms he's aware of FA status\n- MLB Trade Rumors / Roundtable (Oct 8, 2026): Cubs \"are unlikely to land prized free agent\" — supports Skubal pricing concerns\n**Confirmed facts (HIGH confidence):**\n- Skubal traded to Dodgers at 2026 trade deadline\n- One-year deal (he is a free agent after the 2026 season)\n- Two-time Cy Young winner (confirmed in multiple sources)\n- Viewed as the best pitcher on the 2026-27 free agent market (multiple sources call him this)\n- Cubs need multiple starting pitchers this offseason (Roundtable, Bleacher Report, MLB.com)\n**MEDIUM confidence:**\n- Specific contract value \"$32M\" — one search mention; use as general reference only\n- \"$245M+ projections\" — speculative, one ESPN source via aggregator; DO NOT use in tweet\n**Facts NOT used (insufficient confidence):**\n- \"$245M+ record deal\" — too speculative; omit from tweet\n- Specific Skubal ERA/stats this season — not fully confirmed, omit",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Offseason Clock — If Brewers Clinch Tonight, QO Countdown Starts",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "If Milwaukee closes out tonight, the World Series starts in 5 days.\n\nCubs' QO window opens 5 days after the WS ends. Hoyer has ~2 weeks on Suzuki and Happ. Michael King's opt-out falls in the same window.\n\nEverything drops at once.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "QO Countdown\n**Sources:**\n- Bleacher Nation (Oct 8, 2026): \"The qualifying offer number for post-2026 free agents is out\" — confirms $23.15M figure (Joel Sherman, NY Post)\n- Bleacher Nation (multiple 2026): Suzuki expected to receive QO; Happ TBD\n- MLB rules (established): QO window opens/closes 5 days after World Series ends (well-established MLB procedure)\n- NLCS series state: Brewers 3-0, confirmed via Game 3 sources above\n**Confirmed facts (HIGH confidence):**\n- QO figure: $23.15M\n- QO window = 5 days after WS ends (standard MLB procedure)\n- Suzuki is a virtual lock to receive a QO\n- Happ is uncertain\n- Brewers lead NLCS 3-0\n- Michael King opt-out window is also 5 days after WS\n**Timeline inference (MEDIUM confidence — arithmetic from established rules):**\n- If Brewers win Game 4 tonight, WS could start ~Oct 20-21\n- WS typically 5-7 games. QO window would open ~Oct 28–Nov 4 depending on WS length\n- This is directionally correct but exact dates are projections",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "AFL — Myles Bailey's Exit Velocity Is Turning Heads",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Myles Bailey came back from a broken ankle to reach the Arizona Fall League.\n\nThe Cubs' 2026 draft pick showed the best exit velocities in his class. Raw power tool. He's in Mesa.\n\nFollow him on the Solar Sox.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "NEW STORY (first dedicated Bailey feature; Cabrada covered Oct 12, Hartshorn Oct 14)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "AFL — Myles Bailey\n**Sources:**\n- MLB.com (2026): \"Under-the-radar prospects to watch in the Arizona Fall League\" — mentions Bailey as 2026 draft pick with \"most raw power and best exit velocities in the 2026 Draft, coming back from broken ankle\"\n- MLB.com (2026): AFL roster page confirms Mesa Solar Sox = Cubs affiliate\n**Confirmed facts (HIGH confidence):**\n- Bailey is in the 2026 AFL with Mesa Solar Sox\n- He is a 2026 Cubs draft pick\n- He was coming back from a broken ankle\n**MEDIUM confidence:**\n- \"Best exit velocities in the 2026 Draft\" — one MLB.com source; compelling hook but single source\n- No game stats or specific AFL performance data available\n**Facts NOT used:**\n- No prospect ranking for Bailey confirmed — do NOT assign a number ranking\n- No specific AFL stats — too early or not indexed",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Four Straight Titles. One Win from the WS. Cubs, It's Time.",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Four straight NL Central titles. One win from the World Series. The Brewers are doing it again tonight.\n\nThe Cubs watched the Wild Card from the couch.\n\nFix the rotation. Sign the arms. Take the division back in 2027.\n\n#Cubs #GoCubs #CubNation",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "FOLLOW UP (rival motivation angle, freshened around 3-0 series lead)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubNation"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Brewers 3-0 → Cubs Motivation\n**Sources:**\n- NLCS Game 3 sources (above): Brewers 3-0, one win from WS — all confirmed HIGH\n- Previous pipeline entries: Brewers have won 4 straight NL Central titles (established fact, verified in multiple prior pipeline runs)\n- Story history: Cubs eliminated in WCS, watched postseason from home — confirmed\n**Confirmed facts (HIGH confidence):**\n- Brewers lead NLCS 3-0\n- Brewers have won 4 consecutive NL Central titles\n- Cubs were eliminated in the Wild Card Series (Oct 1)\n- Cubs need multiple starting pitchers this offseason\n**Tone note:** This is a bold/passionate take tweet. All factual claims are verified. The opinion layer (\"this offseason is non-negotiable\") is editorial and appropriate per brand voice.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
