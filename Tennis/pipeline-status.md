@@ -1,6 +1,36 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-10-14
+## Current Run: 2026-10-15
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Zverev def. de Minaur 6-4,6-4 Shanghai QF (France24, Infobae); Gea ret. injured vs. Fokina QF (Tennis Watcher, Sunday Guardian); Ann Li def. Sabalenka 3-6,6-4,7-6(5) Wuhan R2 (WTA official, Tennis Now, Just Women's Sports); Ostapenko def. Fernandez 6-1,1-6,6-4 + Chwalinska def. Jovic 6-4,6-1 Wuhan QF field (Sunday Guardian) |
+| Story History Check | COMPLETE | S1 CONFIRMED (Zverev def. de Minaur QF); S2 NEW (Ann Li stuns Sabalenka — massive upset, Wuhan streak ends); S3 CONFIRMED (Gea ret. injured vs. Fokina); S4 PREVIEW (Shanghai SFs + upcoming QFs Oct 16); S5 CONFIRMED/PREVIEW (Wuhan QF field) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Marcus Cole [S1, S4], Elena Voss [S2, S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories |
+| Articles (5) | COMPLETE | article-01 Zverev def. de Minaur (Marcus Cole T1); article-02 Ann Li stuns Sabalenka (Elena Voss T1); article-03 Gea retirement (Ryan Calloway T2); article-04 Shanghai SF preview (Marcus Cole T2); article-05 Wuhan QF field (Elena Voss T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 45 claims; HIGH claims all VERIFIED or MEDIUM |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | 403 proxy — known recurring issue |
+| PostPlanner Export | COMPLETE (7 posts) | tfr-postplanner-2026-10-15.xlsx + tfr-postplanner-tobi-2026-10-15.xlsx |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue) |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Oct 15 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Elena Voss [S2, S5], Ryan Calloway [S3])
+- **Key stories:** Zverev def. de Minaur 6-4,6-4 Shanghai QF → SF vs. Davidovich Fokina; ANN LI STUNS SABALENKA 3-6,6-4,7-6(5) Wuhan — Wuhan unbeaten streak since 2018 OVER; Gea ret. injured vs. Fokina QF (right leg, 22 min); Shanghai SF preview (Zverev vs. Fokina + Oct 16 QFs); Wuhan QF field (Li, Ostapenko, Chwalinska, Sakkari, Svitolina, Swiatek)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known)
+
+---
+
+## Previous Run: 2026-10-14
 
 | Step | Status | Notes |
 |------|--------|-------|

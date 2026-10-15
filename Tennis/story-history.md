@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## October 15, 2026
+
+| 2026-10-15 | Alexander Zverev def. Alex de Minaur 6-4, 6-4 in Shanghai Masters QF — under 80 min; Zverev broke once each set, never faced break; de Minaur had not dropped set/service game all week; Zverev into SF vs. Davidovich Fokina Oct 17; ankle concerns managed. Sources: France 24, Infobae | T1 | X, FB, Article | Marcus Cole; CONFIRMED RESULT |
+| 2026-10-15 | Ann Li (USA) def. Aryna Sabalenka 3-6, 6-4, 7-6(5) in Wuhan Open R2 — MASSIVE upset; Li converted on 10th match point after 9 saves; Sabalenka right knee timeout; Sabalenka 44 UE vs. Li 28; ends Sabalenka's historic Wuhan unbeaten streak (2018-2026, 3 titles); WTA: "THE BIGGEST WIN OF HER CAREER"; Li's first win vs. Sabalenka in 4 meetings. Sources: WTA official, Tennis Now, Just Women's Sports | T1 | X, FB, Article | Elena Voss; NEW |
+| 2026-10-15 | Arthur Gea (France) retired injured vs. Alejandro Davidovich Fokina in Shanghai Masters QF — right leg injury; retired after 22 min, trailing 4-1 in 1st set; Gea had beaten Shelton + Mensik (13th seed) to reach 1st-ever Masters 1000 QF; Fokina advances to 4th career Masters 1000 SF vs. Zverev. Sources: Tennis Watcher, Sunday Guardian Live, Tennis Tonic | T2 | X, FB, Article | Ryan Calloway; CONFIRMED RESULT |
+| 2026-10-15 | Shanghai Masters SF confirmed: Zverev vs. Davidovich Fokina; Oct 16 QFs: Medvedev vs. Paul + Jodar vs. Ruud; Paul reached QF all 6 ATP Masters 1000 hard-court events 2026; Jodar slight favorite vs. Ruud; SFs Oct 17, F Oct 18. Sources: Tennis.com, Tennis Tonic, Sports Encounter | T2 | X, FB, Article | Marcus Cole; PREVIEW |
+| 2026-10-15 | Wuhan Open QF field: Ostapenko def. Fernandez 6-1,1-6,6-4 (also beat Pegula saving 3 MPs); Chwalinska (16th seed) def. Jovic (No. 11) 6-4,6-1 (first WTA 1000 QF); Sakkari + Svitolina advanced in straights; Ann Li vs. Tjen for QF; Swiatek advancing. Sources: Sunday Guardian Live, Sports Encounter | T2 | X, FB, Article | Elena Voss; CONFIRMED/PREVIEW |
+
+---
+
+
 ## October 14, 2026
 
 | 2026-10-14 | Daniil Medvedev def. Stefanos Tsitsipas 6-4, 7-5 in Shanghai Masters R4 (Round of 16) — QF berth secured; post-Beijing DQ comeback; QF opponent = winner of Bergs vs. Paul; Medvedev won 3 titles in 2026. Sources: tennistemple.com, tennistonic.com, lastwordonsports.com | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Oct 12 S2: Shanghai Days 6-7, Medvedev advancing) |
