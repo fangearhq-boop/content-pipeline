@@ -1,0 +1,257 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-15",
+  "compiled_at": "2026-10-15T11:24:32.423649+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Opening Night Five Days Away — Banner, LeBron, and the Finals Rematch",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Five days. The Knicks hang the banner. LeBron walks into MSG as the villain. The Finals rematch tips at 9:30.\n\nOctober 20 can't get here fast enough. 🏀 #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 156
+        },
+        {
+          "label": "Post 2",
+          "text": "$2,200+. That's the going rate on the secondary market to watch LeBron debut with the Sixers at MSG on Oct. 20.\n\nKnicks fans are paying it without hesitation. #NewYorkKnicks",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkKnicks"
+          ],
+          "char_count": 173
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-opening-night-five-days-knicks-banner-lebron.html",
+        "headline": "Five Days to Opening Night: The Knicks' Banner, LeBron's MSG Debut, and One Historic Tripleheader",
+        "word_count": 677
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Opening Night Five Days Away\n\n**Social Image 1** (1080x1350)\n- **Type:** imagn\n- **Search Term:** Jalen Brunson New York Knicks\n- **Status:** not_started\n- **Notes:** Championship celebration or MSG crowd shot\n\n**Social Image 2** (1080x1350)\n- **Type:** imagn\n- **Search Term:** LeBron James Philadelphia 76ers\n- **Status:** not_started\n- **Notes:** Game action or arrival shot\n\n**Article Hero** (1200x630)\n- **Type:** imagn\n- **Search Term:** New York Knicks MSG banner ceremony\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Roster Deadline Two Days Away — Lakers, Nuggets, Warriors Face Cuts",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The NBA roster deadline is 48 hours away. Most teams are doing math.\n\nThe Warriors are doing something different — they don't know when their starting center will be healthy. #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 179
+        },
+        {
+          "label": "Post 4",
+          "text": "Roster deadline roundup:\n— Nuggets cut Lonnie Walker IV\n— Raptors waived Trey Jemison (hand injury)\n— Jazz waived Mohamed Wague\n— Clippers signed Fletcher Loyer\n\nOct. 17 at 4 PM CT is when it all locks in. #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-roster-deadline-two-days-lakers-warriors-nuggets.html",
+        "headline": "NBA Roster Deadline Is Two Days Away: Lakers, Warriors, and Nuggets Have Decisions to Make",
+        "word_count": 674
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Roster Deadline\n\n**Social Image 1** (1080x1350)\n- **Type:** imagn\n- **Search Term:** NBA training camp roster\n- **Status:** not_started\n\n**Article Hero** (1200x630)\n- **Type:** imagn\n- **Search Term:** NBA roster deadline trades\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Kristaps Porzingis Out Indefinitely — Warriors' Opening Night Problem",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Steve Kerr this week: Porzingis should return to the facility soon.\n\nBut Kerr has zero timetable for when he'll practice. The Warriors open in five days.\n\nBig problem. #GoldenStateWarriors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GoldenStateWarriors"
+          ],
+          "char_count": 188
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-kristaps-porzingis-warriors-out-indefinitely.html",
+        "headline": "Kristaps Porzingis Is Out Indefinitely and the Warriors Have Five Days to Figure It Out",
+        "word_count": 595
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kristaps Porzingis Warriors\n\n**Social Image 1** (1080x1350)\n- **Type:** imagn\n- **Search Term:** Kristaps Porzingis Golden State Warriors\n- **Status:** not_started\n\n**Article Hero** (1200x630)\n- **Type:** imagn\n- **Search Term:** Kristaps Porzingis Warriors\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "OKC Thunder Preview — Shai Gilgeous-Alexander's Third-MVP Chase Begins",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Two MVP awards. Third-straight title race begins in five days.\n\nShai Gilgeous-Alexander is the most dangerous repeat-MVP candidate in the league. OKC opens at San Antonio, Oct. 20. #OKCThunder",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#OKCThunder"
+          ],
+          "char_count": 192
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-okc-thunder-sga-third-mvp-season-preview.html",
+        "headline": "Shai Gilgeous-Alexander and the Thunder Are Ready to Take What Last Year Took From Them",
+        "word_count": 581
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "OKC Thunder Preview\n\n**Social Image 1** (1080x1350)\n- **Type:** imagn\n- **Search Term:** Shai Gilgeous-Alexander Oklahoma City Thunder\n- **Status:** not_started\n\n**Article Hero** (1200x630)\n- **Type:** imagn\n- **Search Term:** Shai Gilgeous-Alexander Thunder\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "The Knicks' Villain Tour Begins — How Every Arena Will Treat the New Champions",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "For one more night, MSG belongs to the Knicks.\n\nAfter Oct. 20, every road game is enemy territory. Brunson's hero chapter closes — the villain tour begins.\n\n#NewYorkKnicks",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkKnicks"
+          ],
+          "char_count": 171
+        },
+        {
+          "label": "Post 8",
+          "text": "Lakers still have guaranteed-contract calls to make before Friday's 4 PM CT deadline.\n\nThey came into camp with 16 standard contracts. They need 15 by Sunday. The math isn't done yet. #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 188
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-knicks-villain-tour-champion-road-life.html",
+        "headline": "After October 20, the Knicks Go on the Road. No One Is Happy to See Them.",
+        "word_count": 537
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks Villain Tour\n\n**Social Image 1** (1080x1350)\n- **Type:** imagn\n- **Search Term:** Jalen Brunson New York Knicks\n- **Status:** not_started\n\n**Article Hero** (1200x630)\n- **Type:** imagn\n- **Search Term:** New York Knicks championship celebration\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

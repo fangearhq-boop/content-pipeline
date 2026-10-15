@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-15
+
+### STORY 1: Opening Night Five Days Away — Banner, LeBron, and the Finals Rematch
+- **Tier:** 1
+- **Category:** NBA Opening Night / New York Knicks / Philadelphia 76ers / Oklahoma City Thunder / San Antonio Spurs
+- **Key facts:** Oct. 20 tripleheader on NBC: Celtics at Pistons (3 PM ET), Sixers at Knicks (7 PM ET), Thunder at Spurs (9:30 PM ET); Knicks first banner since 1973; secondary market tickets $2,200+ for Sixers-Knicks; LeBron 24th season, Sixers debut; Brunson Finals MVP (45 pts Game 5)
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+
+### STORY 2: Roster Deadline Two Days Away — Lakers, Warriors, Nuggets Face Cuts
+- **Tier:** 1
+- **Category:** NBA Transactions / Roster Deadline / Los Angeles Lakers / Denver Nuggets / Golden State Warriors
+- **Key facts:** Oct. 17 4 PM CT non-guaranteed waiver deadline; Oct. 19 final rosters (15+3 two-way); Lakers signed Young + Tait-Jones (Exhibit 10), guaranteed calls pending; Nuggets cut Walker IV; Clippers signed Loyer; Jazz waived Wague; Raptors waived Jemison (hand injury)
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: Kristaps Porzingis Out Indefinitely — Warriors' Opening Night Problem
+- **Tier:** 1
+- **Category:** Golden State Warriors / Kristaps Porzingis / Injuries
+- **Key facts:** Out indefinitely since before training camp; undisclosed health issue; Kerr expected return to facility this week but no timetable for practice/games; previously dealt with POTS; Warriors may pursue center depth move; season opens in 5 days
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: OKC Thunder Preview — SGA's Third-MVP Chase Begins
+- **Tier:** 2
+- **Category:** Oklahoma City Thunder / Shai Gilgeous-Alexander / MVP / Season Preview
+- **Key facts:** Thunder 64-18 last season (best record); lost WCF G7 to Spurs; SGA two-time MVP, age 28; traded Dort/Joe/Wiggins; bigger roles for Wallace/Mitchell/McCain; FanDuel title odds +230; Opening Night at San Antonio Oct. 20, 9:30 PM ET, NBC
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: The Knicks' Villain Tour Begins
+- **Tier:** 2
+- **Category:** New York Knicks / Jalen Brunson / NBA Champions / Season Preview
+- **Key facts:** Knicks defending champs (first since 1973); Brunson Finals MVP; road schedule: Timberwolves, Warriors, Suns, Celtics in first 10 road games; banner ceremony Oct. 20, after that every road game is enemy territory
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
 ## 2026-10-14
 
 ### STORY 1: Opening Night Preview — Six Days Out: Knicks Banner, LeBron's Return, Finals Rematch
