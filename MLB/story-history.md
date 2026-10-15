@@ -5,6 +5,61 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+
+## 2026-10-15
+
+### Story 1: NLCS Game 4 Preview — Brewers One Win from World Series
+- **Date:** 2026-10-15
+- **Tier:** 1
+- **Classification:** FOLLOW UP (NLCS Game 3 recap)
+- **Angle:** Milwaukee leads the NLCS 3-0 after Jake Bauers and Garrett Mitchell hit back-to-back HRs off Blake Snell in Game 3's seventh inning (Brewers 6-2). Game 4 tonight at Dodger Stadium, 8 PM ET on FS1 (moved 1 hour earlier for weather). Tyler Glasnow starts for a desperate LA team. Brewers haven't been to World Series since 1982.
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Game 4 result — potential Brewers World Series clinch
+  - Series recap if Brewers close it out
+
+### Story 2: ALCS Game 3 — Guardians Host Rays at Progressive Field
+- **Date:** 2026-10-15
+- **Tier:** 1
+- **Classification:** FOLLOW UP (ALCS series tied 1-1)
+- **Angle:** ALCS Game 3 moved up to 1 PM ET (from 6 PM) due to rain forecast at Progressive Field. Series tied 1-1. Gavin Williams (Guardians) vs. Griffin Jax (Rays, acquired from Twins at trade deadline). Williams starred in ALDS Game 5 clincher. The team that wins today takes the series lead.
+- **Content Produced:** Article (article-02, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Game 3 result
+  - Series momentum heading into Game 4
+
+### Story 3: Ohtani at the Crossroads — Can He Wake Up in Game 4?
+- **Date:** 2026-10-15
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Ohtani postseason struggles)
+- **Angle:** Shohei Ohtani is hitting .150 with 0 HR and 7 strikeouts in the NLCS. .411 OPS. Last HR was August 18 — nearly 2 months ago. Tonight is a must-win for the Dodgers and Ohtani's moment to step up. Tyler Glasnow starts. If LA loses, season over.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Ohtani's Game 4 performance — step up or season over
+  - 2026 postseason context for his legacy
+
+### Story 4: How the Brewers Built a 3-0 NLCS Lead
+- **Date:** 2026-10-15
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Feature on Milwaukee's NLCS construction: 103-59 franchise-best regular season, NLDS sweep, then systematic NLCS dominance. Key factors: elite pitching (starters + bullpen), clutch hitting (Contreras go-ahead hits Game 2; Bauers+Mitchell back-to-back HRs off Snell Game 3), roster depth. Brewers last in World Series 1982.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - World Series preview if Brewers close out
+  - Milwaukee sports story if they make it
+
+### Story 5: Williams vs. Jax — ALCS Game 3 Pitching Breakdown
+- **Date:** 2026-10-15
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Today's ALCS Game 3 matchup: Gavin Williams (Cleveland) — ALDS Game 5 hero, already proved October mettle — vs. Griffin Jax (Tampa Bay) — mid-season acquisition from Minnesota Twins, now being asked for the most important game of his career. Series lead on the line. Teams with 2-1 lead win LCS at high historical rate.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - ALCS Game 3 result — who takes the series lead?
+  - Williams vs. Jax performance comparison
+
+---
+
 ## Pipeline Run: 2026-10-14
 
 ### Story 1: NLCS Game 3 Recap — Dodgers 3, Brewers 1
