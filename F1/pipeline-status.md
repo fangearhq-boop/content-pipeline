@@ -1,11 +1,46 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-10-14
+## Last Run: 2026-10-15
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** F1 Fanrecap
 **Stories:** 5
 **Articles:** 5
+
+---
+
+## 2026-10-15 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research | ✅ Complete | 5 stories — Austin clinch watch, Verstappen momentum, Antonelli story, Ferrari/Hamilton at COTA, COTA preview |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 8 posts, all ≤280 chars |
+| FB Posts | ✅ Complete | 04-social-posts-facebook.md |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 articles in articles/ |
+| verify-facts.py | ✅ Complete | 36 claims, 55 HIGH; image warnings expected (imagn) |
+| compile-content-data.py | ✅ Complete | 5 stories, 8 tweets, 0 FB (known parsing issue), 5 articles |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (not_started — imagn sourcing manual) |
+| Story History | ✅ Complete | story-history.md updated |
+| generate-review-dashboard.py | ✅ Complete | 23 items |
+| generate-postplanner-export.py | ⚠️ 0 posts | Known parsing issue |
+| publish-unified-dashboard.py | ❌ BLOCKED | content-dashboards not in authorized repo set |
+| publish-to-wordpress.py | ❌ BLOCKED | proxy policy; known scheduler limitation |
+| git push | ✅ Complete | main branch |
+
+**Stories (2026-10-15):**
+1. T1 FOLLOW UP: Austin Clinch Watch — Antonelli's Window Opens in Eight Days (Ryan Calloway)
+2. T1 FOLLOW UP: Verstappen's COTA Momentum — Two-Race Streak Into Austin (Marcus Cole)
+3. T1 FOLLOW UP: Antonelli "Dares to Dream" — The Championship Story (Elena Voss)
+4. T2 FOLLOW UP: Ferrari and Hamilton at COTA — Constructors' Battle (Ryan Calloway)
+5. T2 NEW: COTA Circuit Preview — 56 Laps, 20 Turns (Elena Voss)
+
+---
+
+## Last Run: 2026-10-14
 
 ---
 

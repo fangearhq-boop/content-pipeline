@@ -1,0 +1,262 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-15",
+  "compiled_at": "2026-10-15T11:43:56.135844+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Austin Clinch Watch — Antonelli's Window Opens in Eight Days",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Kimi Antonelli can clinch the 2026 F1 world title in Austin — 8 days away.\n\nConditions: win the race, Russell P9 or lower, Hamilton P5 or lower.\n\nHe leads by 102 points. The clock is ticking. 🏆 #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 197
+        },
+        {
+          "label": "Post 2",
+          "text": "If Antonelli wins the title in Austin, he would do it with FIVE races still to go.\n\nOne shy of Schumacher's 2002 record for earliest-ever F1 title clinch.\n\nHistory is within reach. #F1 #KimiAntonelli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#KimiAntonelli"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-antonelli-austin-clinch-watch-usgp.html",
+        "headline": "Antonelli Can Win the 2026 F1 Title in Austin — Here's Exactly What Has to Happen",
+        "word_count": 566
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Austin Clinch Watch\n\n**Social Image 1** (1080x1350)\n- **Type:** imagn\n- **Search Term:** Kimi Antonelli Mercedes\n- **Status:** not_started\n\n**Article Hero** (1200x630)\n- **Type:** imagn\n- **Search Term:** Kimi Antonelli Mercedes celebration\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen's Momentum — Can Red Bull Spoil Antonelli's Title Party at COTA?",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Max Verstappen won Malaysia. Won Singapore.\n\nHe's on a two-race streak. He won COTA in 2025.\n\nThe man most likely to ruin Antonelli's title party in Austin knows exactly what he's doing. #F1 #MaxVerstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MaxVerstappen"
+          ],
+          "char_count": 205
+        },
+        {
+          "label": "Post 4",
+          "text": "Verstappen is 119 points behind Antonelli with 150 still available.\n\nMathematically alive. Momentum real. Red Bull may be developing the 2027 car — but Verstappen is racing the 2026 one. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 190
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-verstappen-cota-momentum-streak.html",
+        "headline": "Verstappen Has Won Two in a Row. He Won COTA Last Year. Antonelli Should Be Nervous.",
+        "word_count": 516
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen COTA Momentum\n\n**Social Image 1** (1080x1350)\n- **Type:** imagn\n- **Search Term:** Max Verstappen Red Bull Racing\n- **Status:** not_started\n\n**Article Hero** (1200x630)\n- **Type:** imagn\n- **Search Term:** Max Verstappen Red Bull\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Antonelli \"Dares to Dream\" — The Story Behind F1's Most Unlikely Championship Run",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Kimi Antonelli is 19. He replaced Lewis Hamilton at Mercedes.\n\nIn 8 days, he can become the youngest F1 world champion in history.\n\nHe \"dares to dream.\" So do we. #F1 #KimiAntonelli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#KimiAntonelli"
+          ],
+          "char_count": 181
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-antonelli-youngest-champion-story.html",
+        "headline": "Kimi Antonelli Replaced Hamilton, Won Seven Races, and Is Eight Days From History",
+        "word_count": 552
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Championship Story\n\n**Social Image 1** (1080x1350)\n- **Type:** imagn\n- **Search Term:** Kimi Antonelli Mercedes\n- **Status:** not_started\n\n**Article Hero** (1200x630)\n- **Type:** imagn\n- **Search Term:** Kimi Antonelli Mercedes Formula 1\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Ferrari and Hamilton at COTA — The Constructors' Battle Heats Up",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Lewis Hamilton needs a big result at COTA.\n\nHe's No. 3 in the Drivers' standings. Ferrari is No. 2 in the Constructors'. McLaren is closing.\n\nThis US Grand Prix matters for multiple championships. #F1 #LewisHamilton",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LewisHamilton"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-ferrari-hamilton-cota-constructors.html",
+        "headline": "Hamilton, Leclerc, and Ferrari's COTA Mission: Protect Second Place and Push Mercedes",
+        "word_count": 578
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ferrari/Hamilton at COTA\n\n**Social Image 1** (1080x1350)\n- **Type:** imagn\n- **Search Term:** Lewis Hamilton Ferrari\n- **Status:** not_started\n\n**Article Hero** (1200x630)\n- **Type:** imagn\n- **Search Term:** Lewis Hamilton Ferrari Formula 1\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "COTA Preview — 56 Laps, 20 Turns, and the Biggest Elevation Change in F1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "COTA primer before race week:\n• 5.513 km circuit\n• 20 turns\n• Massive Turn 1 elevation change\n• 56 laps on race day\n\nPractice: Oct. 23 | Qualifying: Oct. 24 | Race: Oct. 25 #F1 #USGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#USGP"
+          ],
+          "char_count": 182
+        },
+        {
+          "label": "Post 8",
+          "text": "F1 2026 Constructors' standings heading into Austin:\n\nNo. 1 Mercedes: 578 pts\nNo. 2 Ferrari: 444 pts (+134 back)\nNo. 3 McLaren: 339 pts (+239 back)\n\nSix races left. The title race in both championships is far from over. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-cota-circuit-preview-usgp-2026.html",
+        "headline": "COTA Preview: Everything You Need to Know Before the 2026 United States Grand Prix",
+        "word_count": 562
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COTA Circuit Preview\n\n**Social Image 1** (1080x1350)\n- **Type:** imagn\n- **Search Term:** Circuit of the Americas Formula 1\n- **Status:** not_started\n\n**Article Hero** (1200x630)\n- **Type:** imagn\n- **Search Term:** COTA Austin Formula 1\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

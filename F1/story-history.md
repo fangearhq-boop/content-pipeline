@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-15
+
+### STORY 1: Austin Clinch Watch — Antonelli's Window Opens in Eight Days
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / F1 2026 Championship / US Grand Prix / COTA
+- **Key facts:** Antonelli leads by 102 pts; 150 max remaining (6 races); clinch scenario at Austin: win + Russell P9 or lower + Hamilton P5 or lower; if clinched leaves 5 rounds remaining (one shy of Schumacher's 2002 record); calendar uncertainty around Qatar/Abu Dhabi
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: Verstappen's COTA Momentum — Two-Race Streak Into Austin
+- **Tier:** 1
+- **Category:** Max Verstappen / Red Bull / Singapore Grand Prix / Championship / COTA
+- **Key facts:** Won Malaysia + Singapore back-to-back; 73rd career win Singapore (250th GP); 7.3s ahead of Leclerc P2; also won sprint; P4 standings (221 pts, 119 behind Antonelli); won COTA 2025 + 2024; Red Bull pivoting to 2027 dev
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: Antonelli "Dares to Dream" — The Championship Story
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / F1 History / Youngest Champion
+- **Key facts:** Age 19 (born 2006); replaced Hamilton at Mercedes; 7 wins; youngest-ever F1 championship leader; leads by 102 pts; if wins at 19 = youngest world champion in F1 history (record: Vettel age 23 in 2010)
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
+### STORY 4: Ferrari and Hamilton at COTA — Constructors' Battle
+- **Tier:** 2
+- **Category:** Ferrari / Lewis Hamilton / Charles Leclerc / McLaren / Constructors' Championship
+- **Key facts:** Constructors': Mercedes 578, Ferrari 444, McLaren 339; Drivers': Hamilton P3 (229), Verstappen P4 (221), Leclerc P5 (215); Leclerc P2 Singapore; Ferrari fastest dev rate in 2026; McLaren committed to phased upgrades for each of last 6 races
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: COTA Circuit Preview — 56 Laps, 20 Turns
+- **Tier:** 2
+- **Category:** US Grand Prix / Circuit of the Americas / COTA / F1 Race Preview
+- **Key facts:** COTA 5.513 km, 20 turns; Race Oct. 25 ~3 PM Austin; 2025 winner Verstappen (Norris P2, Leclerc P3); contract through 2034; Grand PrixView Thursday Oct. 22; no sprint at 2026 USGP; 40m elevation change
+- **Byline:** Elena Voss
+- **Status:** NEW
+
 ## 2026-10-14
 
 ### STORY 1: Road to Austin — Title Scenarios With Six Races Left
