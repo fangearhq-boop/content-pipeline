@@ -3,6 +3,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-10-15
+
+### Story 1: LSU Opens Fall Ball Tonight — Tiger Park vs. Northwestern State
+- **Date:** 2026-10-15
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** LSU softball opens its 2026 fall schedule tonight against Northwestern State at Tiger Park. Beth Torina's staff uses the 8-game fall schedule to evaluate depth and freshmen. Purple/Gold World Series closes Nov. 17-19. Free admission.
+- **Content Produced:** Article (article-01, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Fall schedule recap
+  - Purple/Gold World Series preview (Nov. 17-19)
+
+### Story 2: Oct. 17-18 NCAA Contact Window Opens — 2028 Recruiting Race Heats Up
+- **Date:** 2026-10-15
+- **Tier:** 2
+- **Classification:** FOLLOW UP (2028 recruiting)
+- **Angle:** The NCAA fall evaluation and contact window opens this Saturday. Coaches can meet recruits off-campus. 2028 class leaders: OU (5 commits, Schlader), Tennessee (5 commits, No. 4 overall), Texas (4 commits, Landers + Abdullah), Florida (Holden + Evans). Major uncommitted prospects still available.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Commitment announcements from contact window weekend
+  - 2028 class rankings update
+
+### Story 3: Texas 2028 — Zoey Abdullah Commits to Longhorns
+- **Date:** 2026-10-15
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Outfielder Zoey Abdullah commits to Texas 2028 class, bringing Longhorns to 4 known commits. Class already includes top-ranked Michaela Landers. Context: 2027 team anchored by Isa Torres (.530 avg, 16 HR) and Teagan Kavan (back-to-back WCWS MOP).
+- **Content Produced:** Article (article-03, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Texas 2028 class completion tracking
+  - Torres/Kavan 2027 season preview
+
+### Story 4: Florida Fall Ball Preview — Katie Seashole Pressly Opens Oct. 16
+- **Date:** 2026-10-15
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Florida opens fall ball tomorrow (Oct. 16) at Katie Seashole Pressly Stadium. Six of nine starters back from 2026. Tim Walton has full pitching staff, two impact transfers, and top recruiting class. Key watch items: pitching order, transfer fit, freshman breakouts. Free admission.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Florida fall ball recap
+  - Gators 2027 season preview
+
+### Story 5: 5-for-5 Eligibility Follow-Up — Coaches Making Calls, Rosters Shifting
+- **Date:** 2026-10-15
+- **Tier:** 1
+- **Classification:** FOLLOW UP (5-for-5 ruling from Oct. 14)
+- **Angle:** One week after Judge Sweeney's injunction, coaches are actively pursuing 5-for-5 veterans. Practical reality: scholarship limits still apply, appeal still pending at 10th Circuit, decisions must be made now before rosters finalize.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - 10th Circuit appeal ruling
+  - Specific program roster changes (names of returning veterans)
+
+---
+
 ## 2026-10-14
 
 ### Story 1: OU Battle Series Game 3 Recap — Weather Shortens Scrimmage, Team Maxwell Wins
