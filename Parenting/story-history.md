@@ -2,6 +2,94 @@
 
 ---
 
+## October 14, 2026
+
+### Story 1: Palmer Ridge Refuses Forfeit — Lutheran Controversy Escalates
+- **Date:** 2026-10-14
+- **Tier:** T1
+- **Pillar:** Local News
+- **Key Facts:** KKTV Oct 14: forfeit counted as win for Lutheran in state standings; Palmer Ridge coach says team WILL play Lutheran Oct 30 — breaks with Coronado + Air Academy; NAACP (Douglas County + COS) requested meeting with Lutheran admin; State Rep. Regina English concerned adults didn't "intervene appropriately"; D11 + CHSAA both issued statements denouncing racism; CHSAA investigation ongoing; Lutheran exec director Dan Gehrke: investigation ongoing, will take action if warranted
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (Oct 13 S1: D11/D20 forfeit Lutheran → today: Palmer Ridge refuses, ranking impact, NAACP/state rep respond)
+
+### Story 2: Boo at the Zoo Opens Friday — Buy Tickets Now
+- **Date:** 2026-10-14
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** Cheyenne Mountain Zoo; opens Oct 16; dates: Oct 16, 17, 23, 24, 25, 30, 31; hours 4–8:30 PM; 25 treat stations incl. non-food options; giraffe + budgie feeding; spooky graveyard + Magic Manor pumpkins; advance tickets ONLY — no walk-ups; members need tickets ($5 off); cmzoo.org
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 3: Sweet Cubby Children's Sleepwear Recall — Burn Hazard
+- **Date:** 2026-10-14
+- **Tier:** T2
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** CPSC recall ~Sep 11 2026; Sweet Cubby two-piece loungewear (shirt+shorts); ~12,461 units; sizes 5-6Y to 13-14Y; sold Shein.com June 2025–May 2026 ~$8-12; batch #272779 on neck/seam labels; fails mandatory children's sleepwear flammability standard; no injuries; action: stop use, cut in half, email photo to SweetCubby@163.com for full refund; cpsc.gov/Recalls
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 4: D11 Bond 4A — Drop Boxes Open, 3 Weeks to Vote
+- **Date:** 2026-10-14
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** El Paso County drop boxes open week of Oct 14; Nov 3, 2026 election; D11 Measure 4A $775M; board voted 6-1 Aug 5; ~$260/yr typical homeowner; covers safety/security, HVAC/asbestos, CTE, classrooms, libraries; d11.org/4A
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (Oct 13 S5: mail ballots arriving → today: drop boxes open, action angle)
+
+### Story 5: Ricky Joy Sour Crush Candy Recall — Choking Hazard
+- **Date:** 2026-10-14
+- **Tier:** T2
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** CPSC recall ~Sep 11 2026; Ricky Joy Sour Crush; 1.85 fl oz sour liquid candy with rollerball top; ~2.3 million bottles; rollerball can detach → choking hazard; no injuries; Halloween season hook (17 days out); check cpsc.gov/Recalls for remedy
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+---
+
+## October 13, 2026
+
+### Story 1: D11/D20 Schools Forfeit vs. Lutheran HS — Racism Allegations
+- **Date:** 2026-10-13
+- **Tier:** T1
+- **Pillar:** Local News
+- **Key Facts:** D11 Coronado will not play Lutheran Oct 15; D20 Air Academy forfeited homecoming earlier; Sand Creek + Rampart alleged racist remarks/gestures from Lutheran players; Lutheran denies; CHSAA investigation ongoing; D11 requested racism-denouncing statement from Lutheran + CHSAA, received none
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 2: Colorado Springs Cool Science Festival — Final Days Through Oct 18
+- **Date:** 2026-10-13
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** Festival ends Sunday Oct 18; 100+ events; free/low-cost; some require advance registration; D49 fall break through Oct 19 overlaps perfectly; visitcos.com for schedule
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (Oct 12 S2: festival final week → today: final five days angle)
+
+### Story 3: Mbabyjon Crib Bumper CPSC Recall
+- **Date:** 2026-10-13
+- **Tier:** T2
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** CPSC stop-use notice Oct 1 2026; Mbabyjon padded crib bumpers; banned under Safe Sleep for Babies Act (May 2022); action: stop use immediately + dispose; safe sleep = firm/flat/bare + fitted sheet + sleep sack only; cpsc.gov/Recalls; healthychildren.org
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 4: COS Weekend Events Oct 17–18
+- **Date:** 2026-10-13
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** LEGO Brick Convention Oct 17 COS Events Center $17.46; Free Robotics Workshop Oct 17 DoubleTree ages 5-14 11AM free; Día de la Catrina Oct 17 Crisálida noon registration required; Trunk-or-treat Citadel Mall free 11AM; Hope COS 4PM; Rex Environmental 1PM; Barks & Boos Fall Fest Oct 18 free 11AM-3PM dog parade/costume contest
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 5: D11 Bond 4A — Mail Ballots Arriving This Week
+- **Date:** 2026-10-13
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** Mail ballots arriving week of Oct 13; Nov 3 election; $775M Measure 4A; drop boxes open ~Oct 14; ~$260/yr typical homeowner; uses: safety/HVAC/asbestos/CTE/classrooms/libraries; d11.org/4A
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (Oct 12 S4: 3-weeks-out voter guide → today: ballots-arriving angle)
+
+---
+
 ## October 12, 2026
 
 ### Story 1: D49 Fall Break Starts Today — COS Activities Guide

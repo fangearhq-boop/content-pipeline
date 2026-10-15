@@ -1,0 +1,315 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-13",
+  "compiled_at": "2026-10-13T12:44:57.814427+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "D11, D20 Schools Forfeit Football Games vs. Lutheran HS Over Racism Allegations",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "D11 update: Coronado High School will not play Thursday vs. Lutheran High School.\n\nD20's Air Academy already forfeited. Both districts cited racism allegations against Lutheran players. CHSAA investigation is ongoing. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 277
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Two Colorado Springs high schools (Coronado and Air Academy) have now forfeited games against Lutheran HS over racism allegations.\n\nD11 asked Lutheran and CHSAA for a statement denouncing racism. Neither responded. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-d11-d20-forfeit-lutheran-racism-allegations.html",
+        "headline": "Two Colorado Springs School Districts Forfeit Football Games Against Lutheran High School Over Racism Allegations",
+        "word_count": 811
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Hero (Article / Facebook Long-Form)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article hero + FB long-form"
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Social",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Social (X + FB caption)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Cool Science Festival Final Days — Through Sunday Oct 18",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "5 days left: Colorado Springs Cool Science Festival runs through Sunday, Oct. 18.\n\n100+ free and low-cost STEAM events across COS — perfect for D49 fall break. Don't miss the final days. visitcos.com for schedule. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-cool-science-festival-final-days.html",
+        "headline": "Cool Science Festival Wraps Up Sunday — Five Days Left for Colorado Springs Families",
+        "word_count": 685
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Hero (Article / Facebook Long-Form)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article hero + FB long-form"
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Social",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Social (X + FB caption)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "CPSC Recalls Mbabyjon Crib Bumpers — Stop Use Immediately",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "CPSC: Stop using Mbabyjon padded crib bumpers immediately.\n\nPadded crib bumpers are banned under the Safe Sleep for Babies Act. Remove and dispose of them now. Your baby's sleep space should be firm, flat, and bare. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-mbabyjon-crib-bumper-recall.html",
+        "headline": "CPSC Issues Stop-Use Notice for Mbabyjon Padded Crib Bumpers — What Parents Need to Do Now",
+        "word_count": 768
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Hero (Article / Facebook Long-Form)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article hero + FB long-form"
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Social",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Social (X + FB caption)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "COS Weekend Family Events — Oct 17-18 Roundup",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "This weekend in Colorado Springs:\n\n🧱 LEGO Brick Convention (Oct. 17) — $17.46\n🤖 Free Robotics Workshop for ages 5-14 (Oct. 17)\n🎃 Trunk-or-treats at Citadel Mall + more\n🌸 Día de la Catrina at Crisálida (Oct. 17)\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-cos-weekend-events-oct-17-18.html",
+        "headline": "Family Weekend Guide: Colorado Springs Events for October 17–18, 2026",
+        "word_count": 729
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Hero (Article / Facebook Long-Form)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article hero + FB long-form"
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Social",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Social (X + FB caption)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "D11 Bond 4A — Mail Ballots Are In Your Mailbox Now",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "D11 families: your mail ballot for Measure 4A should be arriving this week.\n\nNov. 3 is election day. The $775M measure covers school safety, HVAC, asbestos removal, CTE, and libraries. Three weeks to decide. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-d11-bond-4a-mail-ballots.html",
+        "headline": "D11 Mail Ballots Are Arriving This Week — Here's What Measure 4A Asks You to Decide",
+        "word_count": 707
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Hero (Article / Facebook Long-Form)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article hero + FB long-form"
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Social",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Social (X + FB caption)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

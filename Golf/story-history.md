@@ -2,6 +2,30 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-10-14
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-14 | T1 | LIV Golf's Oct. 25 Ultimatum: Rahm Walks, Garcia Is Free, and the League Faces Its Reckoning | X(2), FB, Article | FOLLOW UP |
+| 2026-10-14 | T2 | Thitikul Arrives in Shanghai as Defending Champion — and Golf's Most In-Form Player Right Now | X(2), FB, Article | FOLLOW UP |
+| 2026-10-14 | T2 | Down Three With 12 Matches Left: How Jacob Bridgeman Won the Presidents Cup for America | X(1), FB, Article | NEW |
+| 2026-10-14 | T2 | 178 Weeks and Counting: Scottie Scheffler and the Quiet Chase for Tiger's Record | X(1), FB, Article | NEW |
+| 2026-10-14 | T2 | Less Than a Year to Limerick: The Road to the 2027 Ryder Cup at Adare Manor | X(2), FB, Article | NEW |
+
+---
+
+## 2026-10-13
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-13 | T1 | Thitikul Survives Water on 16, Wins Lotte Championship — Her Fourth LPGA Title of 2026 | X(2), FB, Article | NEW |
+| 2026-10-13 | T1 | Rahm Completes LIV Hat Trick — Third Straight Individual Title as Indianapolis Wraps the Season | X(2), FB, Article | FOLLOW UP |
+| 2026-10-13 | T1 | After the Final Putt at Indianapolis, LIV Golf Players Wait to See If There's a 2027 | X(2), FB, Article | NEW |
+| 2026-10-13 | T2 | La Sasso Steals LIV Golf Indianapolis — 22-Year-Old Edges Rahm in Season Finale | X(1), FB, Article | NEW |
+| 2026-10-13 | T2 | Thitikul Takes Four Wins Into Shanghai — Buick LPGA Shanghai Opens Wednesday | X(1), FB, Article | NEW |
+
+---
+
 ## 2026-10-12
 
 | Date | Tier | Title | Platforms | Status |

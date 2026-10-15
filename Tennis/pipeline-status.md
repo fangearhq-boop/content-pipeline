@@ -1,6 +1,68 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-10-12
+## Current Run: 2026-10-14
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Medvedev def. Tsitsipas 6-4,7-5 Shanghai R4 (tennistemple.com/tennistonic.com); Bergs vs. Paul R4 scheduled (tennismajors.com/clickondetroit.com); Swiatek def. Frech 6-2,6-1 Wuhan R2 — 40th win 2026 (wtatennis.com/abcnews.com/cp24.com); Shanghai QF bracket confirmed (thescore.com/abc.net.au/sundayguardianlive.com); Sabalenka vs. Ann Li Wuhan R3 scheduled (tennismajors.com/lastwordonsports.com) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Oct 12 S2: Shanghai Medvedev post-DQ → QF); S2 FOLLOW-UP (Oct 13 S2: Bergs stuns Alcaraz → vs. Paul R4); S3 FOLLOW-UP (Oct 13 S3: Wuhan R1 → Swiatek R2 win); S4 FOLLOW-UP (Oct 13 S1: Zverev Year-End No. 1 → QF bracket); S5 FOLLOW-UP (Oct 13 S3: Wuhan Sabalenka → R3 streak) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars verified |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories |
+| Articles (5) | COMPLETE | article-01 Medvedev def. Tsitsipas (Marcus Cole T1); article-02 Bergs vs. Paul Cinderella run (Ryan Calloway T1); article-03 Swiatek 40 wins Wuhan (Elena Voss T2); article-04 Shanghai QF bracket (Marcus Cole T2); article-05 Sabalenka Wuhan streak (Ryan Calloway T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated; 49 claims; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (known parser), 5 articles; posting-window warnings cosmetic |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries across 5 stories, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (7 posts) | tfr-postplanner-2026-10-14.xlsx + tfr-postplanner-tobi-2026-10-14.xlsx — 7 posts each; redistributed 12:54–20:42 ET |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Oct 14 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
+- **PostPlanner exports:** 7 posts (standard + TOBI)
+- **Key stories:** Medvedev def. Tsitsipas 6-4,7-5 Shanghai R4 → QF (post-Beijing DQ comeback); Bergs vs. Paul Shanghai R4 for QF berth (after Alcaraz upset); Swiatek def. Frech 6-2,6-1 Wuhan R2 — 40th win of 2026, WTA Finals race; Shanghai QF bracket set (Zverev vs. de Minaur; Gea vs. Davidovich Fokina; Ruud vs. Jodar); Sabalenka unbeaten Wuhan streak continues vs. Ann Li R3
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); FB posts 0 parsed (known)
+
+---
+
+## Previous Run: 2026-10-13
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Zverev Year-End No. 1 confirmed after Alcaraz R3 loss to Bergs (atptour.com/olympics.com/skysports.com); Bergs def. Alcaraz 7-5,7-6(4) Shanghai R3 biggest career win (atptour.com/sporza.be); WTA Wuhan Open R1: Eala upset by Han Shi 4-6,6-3,6-3; Sabalenka-Swiatek same QF quarter (wtatennis.com); Gea def. Mensik 7-6(4),6-4 first Masters 1000 QF (tennistemple.com/sundayguardianlive.com); De Minaur def. Khachanov 6-3,6-4 back-to-back QF (tennis.com.au) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Oct 12 S3: Zverev 60 wins → Year-End No. 1 CONFIRMED); S2 FOLLOW-UP (Oct 12 S2: Shanghai Day 6-7 Alcaraz → Bergs upset R3); S3 NEW (WTA Wuhan Open begins); S4 FOLLOW-UP (Oct 12 S5: French rising stars → Gea first Masters QF); S5 FOLLOW-UP (Oct 12 S4: De Minaur R4 → QF confirmed) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars verified |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories |
+| Articles (5) | COMPLETE | article-01 Zverev Year-End No. 1 (Elena Voss T1); article-02 Bergs stuns Alcaraz (Marcus Cole T1); article-03 Wuhan Open R1 (Ryan Calloway T2); article-04 Gea first Masters 1000 QF (Elena Voss T2); article-05 De Minaur Shanghai QF (Marcus Cole T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — auto-generated; 31 claims; PASSED clean |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (known parser), 5 articles; posting-window warnings cosmetic |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries across 5 stories, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards not in authorized repos (known recurring) |
+| PostPlanner Export | COMPLETE (7 posts) | tfr-postplanner-2026-10-13.xlsx + tfr-postplanner-tobi-2026-10-13.xlsx — 7 posts each; redistributed 12:54–20:42 ET |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Oct 13 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** 7 posts (standard + TOBI)
+- **Key stories:** Zverev clinches 2026 Year-End No. 1 — first German ever (French Open + US Open champ); Bergs (Belgium, ATP ~33) stuns Alcaraz 7-5,7-6(4) biggest career win → triggers Zverev confirmation; WTA Wuhan Open R1 Eala upset by Han Shi, Sabalenka-Swiatek QF track; Gea first Masters 1000 QF (second top-15 upset — Shelton then Mensik); De Minaur back-to-back Masters QF dominates Khachanov 6-3,6-4
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); FB posts 0 parsed (known); git PAT — using GitHub MCP push
+
+---
+
+## Previous Run: 2026-10-12
 
 | Step | Status | Notes |
 |------|--------|-------|

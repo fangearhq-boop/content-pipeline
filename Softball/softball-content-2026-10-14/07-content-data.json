@@ -1,0 +1,268 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-14",
+  "compiled_at": "2026-10-14T10:27:22.105957+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "OU Battle Series Game 3 Recap — Weather Shortens Scrimmage, Team Maxwell Wins",
+      "tier": 2,
+      "status": "",
+      "angle": "Oklahoma's third fall Battle Series scrimmage was shortened by weather Wednesday night at Love's Field. Team Maxwell emerged with the victory, scoring 11 runs before the game was called. Even in a weather-shortened format, the fall evaluation of key 2027 assets — Wells, Kavan, Cruz, Berzon — continues. Game 4 is October 21.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Weather called it early.\n\nTeam Maxwell still got to 11 runs before Love's Field cleared Wednesday night.\n\nOU Battle Series Game 3 is in the books. Game 4 is October 21. #Sooners #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#Softball"
+          ],
+          "char_count": 187
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ou-battle-series-game-3-recap.html",
+        "headline": "OU Battle Series Game 3: Weather Shortens Scrimmage, Team Maxwell Claims Victory",
+        "word_count": 565
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "OU Battle Series Game 3\n\n#### Image 1 — X/FB Social (1080x1350)\n- **Type:** gemini/complete\n- **Prompt:** Oklahoma softball fall scrimmage at Love's Field, dramatic night sky with storm clouds clearing behind the stadium lights, close-up action shot of a power hitter at the plate, red and white Sooners color scheme, headline overlay: \"BATTLE SERIES GAME 3 — TEAM MAXWELL WINS\", bold athletic typography, dark moody atmosphere\n- **Usage:** X post + FB caption post\n\n#### Image 2 — Article Hero (1200x630)\n- **Type:** gemini/complete\n- **Prompt:** Oklahoma Love's Field softball stadium at night with stadium lights glowing, crowd in red Sooners gear, rain clouds visible in background, cinematic sports photography style, text overlay: \"BATTLE SERIES GAME 3\", red and white color palette\n- **Usage:** Article hero image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "OU Battle Series Game 3 Recap\n**Source:** SI/Sooners on SI — Live Updates, Takeaways from Third Battle Series Scrimmage (2026)\n- Game 3 of fall Battle Series held at Love's Field — weather-shortened\n- Team Maxwell won with 11 runs before game was called\n- Series format uses three squads named for program legends\n- Game 4 is scheduled for October 21 at Love's Field\n- Game 1 (Sept. 30): Walk-off win, sold-out Love's Field (2,351 fans), dramatic opener\n- Key players: Kendall Wells (39 HR, 2026 NFCA Freshman of Year), Jayda Kavan (2x WCWS MOP), Alex Berzon (2.02 ERA), Jordan Cruz, Rylee Ludlow, Ho-Ching\n- Conference: OU moves to SEC for 2027 season\n**Confidence:** MEDIUM (Team Maxwell result from SI live updates, date context matches scheduled Game 3)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "5-for-5 Eligibility Ruling — Class of 2022 Athletes Can Return for a 5th Season",
+      "tier": 1,
+      "status": "",
+      "angle": "A federal injunction issued by Judge Charlotte Sweeney (D. Colorado) in Wisne v. NCAA means Class of 2022 athletes who exhausted eligibility in 2025-26 are eligible to return for a 5th year in 2026-27. The ruling covers softball players directly — any Class of 2022 player can petition their school to return. The NCAA is appealing to the 10th Circuit, but the injunction stands while litigation continues. This is the biggest eligibility shake-up for softball since COVID waivers.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "College softball just got more interesting.\n\nClass of 2022 athletes can return for a 5th season — a federal court injunction overrides the NCAA's ruling.\n\nCoaches who thought they lost seniors last spring need to make some phone calls. #Softball #NCAA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball",
+            "#NCAA"
+          ],
+          "char_count": 251
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The 5-for-5 ruling means rosters you thought were set… aren't.\n\nJudge Sweeney's injunction stands while the NCAA appeals.\n\nWhich program benefits most if veterans come back? #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball"
+          ],
+          "char_count": 183
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-class-of-2022-fifth-year-eligibility.html",
+        "headline": "Class of 2022 Athletes Win Fifth Year: What the 5-for-5 Ruling Means for College Softball",
+        "word_count": 661
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "5-for-5 Eligibility\n\n#### Image 3 — X/FB Social (1080x1350)\n- **Type:** gemini/complete\n- **Prompt:** Split graphic: left side shows a softball player in a graduation cap and gown holding her glove, right side shows the same player in a uniform returning to the dugout. Text overlay: \"5TH YEAR IS BACK — CLASS OF 2022 WINS\", bold legal/news typography, gold and navy color scheme, clean editorial design\n- **Usage:** X post + FB caption post\n\n#### Image 4 — Article Hero (1200x630)\n- **Type:** gemini/complete\n- **Prompt:** Courtroom-inspired split design — gavel on one side, softball in catcher's mitt on other side, headline: \"CLASS OF 2022: ELIGIBLE FOR YEAR 5\", clean bold editorial graphic, gold and dark blue color palette, strong typography\n- **Usage:** Article hero image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "5-for-5 Eligibility Ruling\n**Sources:**\n- SI: \"How the Court's NCAA 5-for-5 Ruling Impacts College Softball\"\n- Steptoe law firm analysis: \"Court Enjoins NCAA's Five-for-Five Eligibility Rule as Applied to the Class of 2022\"\n- ESPN: Preliminary injunction coverage\n- Swimswam: \"Judge Clarifies NCAA Eligibility Order, Limits Injunction to Fifth-Year Waiver\"\nKey facts (HIGH confidence):\n- Case: Wisne et al. v. NCAA\n- Judge: Charlotte Sweeney, U.S. District Court (District of Colorado)\n- Ruling: Preliminary injunction granted July 31, 2026\n- Scope: Class of 2022 athletes who exhausted 4th season in spring 2026 are eligible for 5th season in 2026-27\n- Basis: Alleged violation of Section 1 of the Sherman Act\n- NCAA response: Appealing to 10th Circuit; requested administrative stay (denied by Sweeney)\n- Impact on softball: Class of 2022 players can petition to return IF already enrolled at their school; transfer eligibility question still unresolved\n- Status: Injunction stands while appeal proceeds; other injunctions (different courts) were stayed by appellate courts in some states\n- NCAA 5-for-5 model adopted June 23, 2026 — excluded Class of 2022; this injunction overrides that exclusion for Colo. District\n**Confidence:** HIGH (multiple independent legal and sports news sources confirm injunction)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "2028 Recruiting Snapshot — Tennessee's No. 4 Prospect and the Race to Oct. 17",
+      "tier": 2,
+      "status": "",
+      "angle": "Tennessee has locked in five 2028 commits, including the No. 4 ranked player in the class — a major recruiting haul for Karen Weekly's rebuilt staff. Oklahoma also has five commits. The evaluation window opens October 17-18, setting up a wave of announcements this weekend. Florida already has No. 2 overall Kylie Holden and Brooklyn Evans committed. The 2028 class is shaping up as one of the most talent-dense in recent memory.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Tennessee already has the No. 4 recruit in the 2028 class locked in.\n\nOU has 5 commits. Florida has No. 2 overall Kylie Holden.\n\nThe evaluation window opens Oct. 17. A wave of announcements is coming. #Softball #Recruiting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball",
+            "#Recruiting"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-2028-recruiting-tennessee-ou-florida.html",
+        "headline": "2028 Recruiting Snapshot: Tennessee's No. 4 Prospect and the Race Before the Evaluation Window",
+        "word_count": 633
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "2028 Recruiting\n\n#### Image 5 — X/FB Social (1080x1350)\n- **Type:** gemini/complete\n- **Prompt:** College softball recruiting graphic showing a young player in front of multiple school logos (Tennessee, Oklahoma, Florida), bold title: \"2028 RECRUITING RACE\", trophy icons and star ratings visible, vibrant colors — orange/blue/orange combination, clean modern sports graphic design\n- **Usage:** X post + FB caption post\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "2028 Recruiting — Tennessee, OU, Florida\n**Sources:**\n- Yahoo Sports / Knox News: Tennessee 2028 five commits, including No. 4 ranked player\n- Research from previous pipeline: OU 5 commits (including Grace Tonga, OF, committed Sept. 22; Sophia Schlader, Sept. 16)\n- D1Softball 2028 Class Commitment Master List\n- Pipeline status notes: Florida — No. 2 overall Kylie Holden (MI/five-star), Brooklyn Evans (C) committed\nKey facts (HIGH confidence):\n- Tennessee: 5 commits in 2028 class; No. 4 nationally ranked player included; Karen Weekly leading rebuild\n- Oklahoma: 5 commits, including Grace Tonga (OF, committed Sept. 22), Sophia Schlader (committed Sept. 16)\n- Florida: No. 2 overall Kylie Holden committed; Brooklyn Evans (C) committed\n- LSU, Clemson, Oklahoma State also added commits in Sept./early Oct.\n- Evaluation window: October 17-18 (3 days from today) — not a contact period but evaluation events; coaches can attend open/closed events\n- 2028 class: One of the talent-densest in recent memory per On3\n**Confidence:** HIGH for specific commits (multiple sources), MEDIUM for overall class ranking comparison",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Florida Opens Fall Ball Thursday — Six Starters Back for 2027 Title Run",
+      "tier": 2,
+      "status": "",
+      "angle": "Florida softball opens its fall schedule Thursday at Katie Seashole Pressly Stadium — free to the public. Six of nine starters from 2026 return. Head coach Tim Walton has a full pitching staff, two impact transfers, and a top recruiting class. The Gators are a legitimate national title contender and fall ball is their first public showcase of what the 2027 squad looks like.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Florida opens fall ball TOMORROW at Katie Seashole Pressly Stadium. Free admission.\n\n6 of 9 starters back. Full pitching staff. Two impact transfers. Top recruiting class.\n\nThe Gators are locked and loaded for 2027. #GatorSoftball #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GatorSoftball",
+            "#Softball"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-florida-opens-fall-ball-thursday.html",
+        "headline": "Florida Gators Open Fall Ball Thursday: Six Starters Back, Loaded Roster Eyes 2027 Title",
+        "word_count": 514
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Florida Fall Ball\n\n#### Image 6 — X/FB Social (1080x1350)\n- **Type:** gemini/complete\n- **Prompt:** Florida Gators softball player taking a big swing in fall practice, Katie Seashole Pressly Stadium background with Florida blue and orange, text overlay: \"GATORS OPEN FALL BALL — OCT. 16\", bold athletic typography, Florida's iconic blue and orange color scheme\n- **Usage:** X post + FB caption post\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Florida Opens Fall Ball Thursday\n**Sources:**\n- Pipeline status from Oct. 12: \"Florida opens fall Oct 16 Katie Seashole Pressly free/6 of 9 starters return/full pitching staff/2 transfers+top class\"\nKey facts (MEDIUM confidence — from prior pipeline research):\n- Florida fall opener: Thursday, October 16\n- Venue: Katie Seashole Pressly Stadium, Gainesville\n- Admission: Free\n- Returners: 6 of 9 starters back from 2026 season\n- Full pitching staff intact\n- Two notable transfers added\n- Top 2027 recruiting class\nNote: Head coach is Tim Walton (confirmed from general softball knowledge; would verify if this changed).\n**Confidence:** MEDIUM (from pipeline notes, no fresh source found today for Florida specifically)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Texas Fall Ball: Defending Champions Building Chemistry With Torres and Kavan",
+      "tier": 2,
+      "status": "",
+      "angle": "Texas softball — defending 2026 WCWS champions — is using fall ball to forge the Torres-Kavan partnership that could define next spring. Isa Torres (.530 BA, 16 HR as FSU transfer, D1Softball POTY) and Teagan Kavan (2x WCWS MOP) are sharing a dugout for the first time. The Longhorns opened fall 28-1 over Murray State. Tuesday's Texas State matchup was their second test. Six more fall games remain before February.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5-1",
+          "text": "Isa Torres. Teagan Kavan. Same dugout.\n\nTexas opened fall 28-1 and is now mid-schedule as defending WCWS champions.\n\nThe Torres-Kavan partnership is the most exciting thing in college softball. #HookEm #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#Softball"
+          ],
+          "char_count": 211
+        },
+        {
+          "label": "Post 5-2",
+          "text": "Three months ago Teagan Kavan won her second WCWS MOP.\n\nNow she's sharing a lineup with Isa Torres, D1Softball Player of the Year.\n\nThe 2027 Texas squad is going to be something else. #HookEm #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#Softball"
+          ],
+          "char_count": 201
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-texas-fall-ball-torres-kavan.html",
+        "headline": "Defending Champions Building Something Special: Texas Fall Ball and the Torres-Kavan Partnership",
+        "word_count": 657
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Torres + Kavan\n\n#### Image 7 — X/FB Social (1080x1350)\n- **Type:** gemini/complete\n- **Prompt:** Texas Longhorns softball graphic featuring two silhouetted hitters at the plate with dramatic sunset behind McCombs Field, bold overlaid text: \"TORRES. KAVAN. SAME LINEUP.\", burnt orange and white color scheme, championship banners in the background, cinematic and aspirational composition\n- **Usage:** X post + FB caption post\n\n#### Image 8 — Article Hero (1200x630)\n- **Type:** gemini/complete\n- **Prompt:** Wide shot of McCombs Field at dusk with Texas Longhorns in fall practice, two players celebrating in the foreground, WCWS trophy visible in the background in a dreamy bokeh effect, text overlay: \"DEFENDING CHAMPIONS: BUILDING FOR 2027\", burnt orange and white palette\n- **Usage:** Article hero image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Fall Ball — Torres + Kavan Partnership\n**Sources:**\n- Multiple pipeline notes confirming: Isa Torres (.530 BA, 16 HR FSU transfer), Teagan Kavan (2x WCWS MOP, transferred to Texas)\n- Texas opened fall 28-1 over Murray State\n- Earleywine came from Texas, confirmed 2026 WCWS champions\n- Texas State game scheduled Oct. 13 (6 PM CT, McCombs Field, free)\n- 6 total fall games in schedule, ending Nov. 6 at Texas A&M\n- Katie Stewart: walk-off homer beat OU in spring 2026 (from Oct. 13 article notes)\nKey facts (HIGH confidence):\n- Texas won 2026 WCWS — confirmed via Earleywine being hired for \"championship staff\"\n- Torres: .530 BA, 16 HR (FSU transfer, D1Softball POTY)\n- Kavan: 2x WCWS MOP\n- Fall opener: 28-1 over Murray State\n- Texas State game: Oct. 13 at McCombs Field (no confirmed result found)\n**Confidence:** HIGH for player credentials/context, LOW for Texas State game result (do not invent score)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
