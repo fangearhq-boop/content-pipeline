@@ -2,6 +2,50 @@
 
 ---
 
+## October 15, 2026
+
+### Story 1: Things to Do with Kids in Colorado Springs This Weekend (October 16–18)
+- **Date:** 2026-10-15
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** Weekend Roundup (required Thursday slot); Pumpkinfest at Venetucci Farm Fri–Sun $8/person kids 3 & under free Fri 9:30AM–2PM; Boo at the Zoo Oct 16+ 4–8:30 PM advance tickets only cmzoo.org; Free Robotics Workshop DoubleTree Sat Oct 17 11AM ages 5–14 free; Barks & Boos Fall Fest Sun Oct 18 11AM–3PM FREE pup costume parade; Cool Science Festival through Oct 18; 3 required SpringsDaily.com links included
+- **Byline:** Jamie Rivera
+- **Status:** NEW (required Thursday Weekend Roundup)
+
+### Story 2: Today Was Game Day. Coronado Didn't Show — and the Forfeit Controversy Keeps Growing.
+- **Date:** 2026-10-15
+- **Tier:** T1
+- **Pillar:** Local News
+- **Key Facts:** Oct 15 was the scheduled Coronado vs Lutheran game — Coronado did not play (forfeit announced Oct 12); two COS-area forfeits total (Air Academy + Coronado); Palmer Ridge says it will still play Lutheran Oct 30; Lutheran gets 2 automatic CHSAA wins; students accused not enrolled at Lutheran (per Lutheran); CHSAA investigation ongoing; NAACP meeting request; State Rep. Regina English concerned
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (Oct 14 S1: Palmer Ridge refuses forfeit → today: game day that wasn't, update on two forfeits confirmed)
+
+### Story 3: D11's $775 Million Bond: What Colorado Springs Homeowners Would Pay If It Passes
+- **Date:** 2026-10-15
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** Issue 4A on Nov 3 ballot; $775M bond; average homeowner ~$264/year per KKTV Oct 15; board voted 6-1 Aug 5; covers safety/security, HVAC, asbestos, CTE, classrooms; drop boxes open; d11.org/4A
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (Oct 14 S4: drop boxes open action angle → today: property tax impact angle from KKTV)
+
+### Story 4: ONTHEWEI Baby Bath Seats Recalled and Dresser Warning Issued
+- **Date:** 2026-10-15
+- **Tier:** T2
+- **Pillar:** National Parenting (Product Safety)
+- **Key Facts:** ONTHEWEI baby bath seats recalled Oct 8 2026; ~2,140 units; tip-over hazard; violates mandatory infant bath seat standard; no injuries; full refund at cpsc.gov/Recalls; Jocoevol 6-drawer dressers CPSC warning; tip-over + entrapment risk; violates clothing storage unit standard
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 5: The AAP Says Kids Should Get Their Flu Shot by End of October
+- **Date:** 2026-10-15
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** AAP 2026–27 flu guidelines published Sept 2026 in Pediatrics; all children 6 months+ without contraindications; end of October deadline; first-time vaccine recipients need 2 doses 4 weeks apart; available at pediatricians, pharmacies, El Paso County Public Health, school-based clinics
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+---
+
 ## October 14, 2026
 
 ### Story 1: Palmer Ridge Refuses Forfeit — Lutheran Controversy Escalates

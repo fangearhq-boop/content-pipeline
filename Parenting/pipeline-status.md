@@ -1,6 +1,36 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-10-14
+## Current Run: 2026-10-15
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Weekend events (visitcos.com, cospringsmom.com, allevents.in): Pumpkinfest $8, Boo at Zoo advance tickets, Robotics Workshop free DoubleTree, Barks & Boos free; Coronado/Lutheran game day update (KRDO + KKTV + CBS CO Oct 12-15): game didn't happen, Palmer Ridge will play Oct 30, Lutheran gets 2 automatic wins; D11 Bond KKTV Oct 15: ~$264/yr tax impact; CPSC ONTHEWEI bath seat recall ~2,140 units Oct 8; CPSC Jocoevol dresser warning; AAP 2026-27 flu guidelines end-of-October deadline |
+| Story History Check | COMPLETE | S1 NEW (Thursday Weekend Roundup required); S2 FOLLOW-UP (Oct 14: Palmer Ridge refuses → Oct 15: game day that wasn't, update); S3 FOLLOW-UP (Oct 14: drop boxes open → Oct 15: property tax impact angle); S4 NEW (ONTHEWEI bath seat + Jocoevol dresser — different from Oct 14 recalls); S5 NEW (AAP flu shot deadline) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2) |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 5 posts; all ≤280 chars (max 260); 4 hashtags each; COS voice rules applied; ## STORY N: format |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; no hashtags; COS voice rules applied |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Weekend Roundup Oct 16-18 (Jamie Rivera T1, 3 SpringsDaily links); article-02 Coronado/Lutheran game day (Sarah Morales T1); article-03 D11 Bond property tax (Jamie Rivera T2); article-04 Baby recalls (Sarah Morales T2); article-05 AAP flu shot (Jamie Rivera T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 42 claims; HIGH confidence on all recall/AAP claims; MEDIUM on allevents.in event details |
+| Compile Content Data | COMPLETE (manual JSON) | 07-content-data.json — 5 stories, 5 X posts, 5 FB posts, 5 articles, 10 images; script overwrite issue, JSON manually restored |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 25 items |
+| PostPlanner Export | COMPLETE (15 posts) | cosp-postplanner-2026-10-15.xlsx + cosp-postplanner-tobi-2026-10-15.xlsx — 15 posts each; redistributed 13:16–21:12 MT |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | 5 entries prepended to Parenting/story-history.md (Oct 15 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 5 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 15 posts standard + 15 TOBI
+- **Key stories:** Weekend Roundup Oct 16-18 (Pumpkinfest, Boo at Zoo, Robotics Workshop, Barks & Boos, CSF); Coronado/Lutheran game day update (two forfeits, Palmer Ridge split, CHSAA ongoing); D11 Bond tax impact $264/yr (KKTV Oct 15); ONTHEWEI baby bath seat recall (2,140 units tip-over) + Jocoevol dresser warning; AAP flu shot end-of-October deadline
+- **Issues:** WordPress proxy 403 (known); compile-content-data.py markdown format mismatch (restored JSON manually); postplanner format needed ## STORY N: headers in markdown
+
+---
+
+## Previous Run: 2026-10-14
 
 | Step | Status | Notes |
 |------|--------|-------|
