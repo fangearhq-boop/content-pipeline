@@ -1,5 +1,31 @@
 # Golf Fanrecap — Pipeline Status
 
+## Latest Run: 2026-10-15
+
+**Run completed:** 2026-10-15
+**Stories:** 5
+**Articles:** 5
+**X posts:** 8
+**Status:** COMPLETE (with known proxy limitations)
+
+### Scripts Run (2026-10-15)
+- [x] verify-facts.py — 37 claims, 74 HIGH (imagn image warnings expected)
+- [x] compile-content-data.py — 5 stories, 8 tweets, 0 FB (known parsing issue), 5 articles
+- [x] generate-review-dashboard.py — 23 items
+- [ ] generate-postplanner-export.py — 0 posts (known parsing issue)
+- [ ] publish-unified-dashboard.py — BLOCKED (content-dashboards not in authorized repo set, consistent)
+- [ ] publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- [x] git push — main branch
+
+**Stories covered (2026-10-15):**
+1. T1 FOLLOW UP: LIV Golf's Oct. 25 Player Deadline — 10 Days to Decide the Tour's Future (Ryan Calloway)
+2. T1 FOLLOW UP: Buick LPGA Shanghai Opens Today — Thitikul Defends With Four 2026 Wins (Jake Torres)
+3. T2 FOLLOW UP: Jon Rahm Is a Free Agent — Where Does He Play in 2027? (Marcus Cole)
+4. T2 NEW: Butterfield Bermuda Championship Preview — Port Royal Oct. 22-25 (Ryan Calloway)
+5. T2 FOLLOW UP: Scheffler's ~178 Weeks at No. 1 — Tiger's Record Is Two Years Away (Jake Torres)
+
+---
+
 ## Latest Run: 2026-10-14
 
 **Run completed:** 2026-10-14

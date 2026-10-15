@@ -2,6 +2,18 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-10-15
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-15 | T1 | LIV Golf's Oct. 25 Player Deadline: 10 Days to Decide the Tour's Future | X(2), FB, Article | FOLLOW UP |
+| 2026-10-15 | T1 | Buick LPGA Shanghai Opens Today: Thitikul Defends With Four 2026 Wins Behind Her | X(2), FB, Article | FOLLOW UP |
+| 2026-10-15 | T2 | Jon Rahm Is a Free Agent: Where Does He Play in 2027? | X(1), FB, Article | FOLLOW UP |
+| 2026-10-15 | T2 | Butterfield Bermuda Championship Preview: Port Royal, Wind, and the Race for FedExCup Points | X(1), FB, Article | NEW |
+| 2026-10-15 | T2 | Scheffler's ~178 Weeks at No. 1: Tiger's Record Is Two Years Away | X(2), FB, Article | FOLLOW UP |
+
+---
+
 ## 2026-10-14
 
 | Date | Tier | Title | Platforms | Status |
