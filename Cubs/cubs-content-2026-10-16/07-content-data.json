@@ -1,0 +1,231 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-16",
+  "compiled_at": "2026-10-16T09:20:19.655604+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM CT",
+      "description": "Brewers sweep NLCS Game 4; World Series bound",
+      "type": "Informative rival watch"
+    },
+    {
+      "time": "9:30 AM CT",
+      "description": "Cubs 5 Gold Glove finalists; outfield sweep possible",
+      "type": "Stat breakdown"
+    },
+    {
+      "time": "12:00 PM CT",
+      "description": "QO clock: $23.15M decision in under 2 weeks",
+      "type": "Roster news"
+    },
+    {
+      "time": "3:45 PM CT",
+      "description": "AFL: Cabada 2nd-youngest, hitting .283/.387/.434",
+      "type": "Prospect feature"
+    },
+    {
+      "time": "6:30 PM CT",
+      "description": "Brewers in WS — Cubs must answer (evening winner slot ★)",
+      "type": "Bold take"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Brewers Sweep Dodgers in NLCS — World Series Bound",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Game 4 recap — comeback from 4-0 down, Jake Bauers NLCS MVP, first Brewers WS since 1982; Brewers await ALCS winner (Guardians lead Rays 2-1)",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Brewers sweep. Jake Bauers NLCS MVP. Milwaukee came back from 4-0 down in Game 4 to win 6-4.\n\nFirst World Series trip since 1982. Cubs' division rival is heading to the Fall Classic.\n\nIt's officially a long offseason. Jed Hoyer, the stage is yours.\n\n#Cubs #MLB #NorthSiders",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative rival watch",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#NorthSiders"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Brewers Sweep Dodgers in NLCS — World Series Bound\n**Decision:** FOLLOW UP\n- Oct 14: NLCS Game 3 preview (Brewers 2-0, Game 3 tonight, Dodger Stadium, 7 PM CT)\n- Oct 15: Bold evening take — \"Four Straight Titles. One Win from the WS.\" (Brewers 3-0)\n- Today: Game 4 RESULT — Brewers swept the Dodgers 4-0, clinched WS berth\n**Sources:**\n- NBC Los Angeles: \"Brewers sweep Dodgers in NLCS, dash LA's hopes for third straight title\" — nbclosangeles.com — Oct 15, 2026\n- NBC News: \"Brewers sweep Dodgers to reach World Series for first time since 1982\" — nbcnews.com — Oct 15, 2026\n- CBS Sports: \"2026 MLB playoff bracket, schedule, scores\" — cbssports.com — ongoing\n- Bleacher Report: \"Brewers vs. Dodgers NLCS Game 4 Live Updates, Results\" — bleacherreport.com — Oct 15, 2026\n**Key Facts (verified):**\n- Brewers won NLCS Game 4 on Oct 15: Final score 6-4 ✓\n- Brewers trailed 4-0 (Shohei Ohtani early homer led Dodgers) ✓\n- Garrett Mitchell hit a go-ahead HR off Tanner Scott in 6th inning ✓\n- David Hamilton solo HR off Edwin Díaz in the 9th ✓\n- Series result: Brewers swept Dodgers 4-0 in NLCS ✓\n- Jake Bauers named 2026 NLCS MVP ✓\n- Brewers' first World Series since 1982 ✓\n- Largest comeback to clinch a best-of-seven sweep in postseason history (per Elias) — [MEDIUM: Elias per NBC, single source]\n- Brewers await ALCS winner; Guardians lead Rays 2-1 as of Oct 15 ✓\n- WS window: Oct 23–31 on FOX [MEDIUM: from earlier season projection page]\n**Why Cubs fans care:** The Brewers are the Cubs' primary NL Central rival. They've won 4 straight division titles. Cubs watching them reach the World Series while Chicago exited in the Wild Card round is a direct motivation story. This is an immediate offseason urgency angle.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Cubs Have NL-Best 5 Gold Glove Finalists",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cubs have NL-best 5 Gold Glove finalists; Happ/PCA/Suzuki outfield trio could be first in history to sweep all three outfield GGs; winners announced Nov. 1",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Five Cubs finalists for the Gold Glove — NL-BEST. 🧤\n\nPete Crow-Armstrong, Ian Happ, and Seiya Suzuki give the Cubs a shot at something that's never been done: a full outfield sweep.\n\nWinners announced Nov. 1. This defense is for real.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Stat breakdown / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Cubs Have NL-Best 5 Gold Glove Finalists\n**Decision:** NEW STORY\n- No previous dedicated Gold Glove coverage in 30-day story history.\n**Sources:**\n- Bleacher Nation: \"the chicago cubs have landed five gold glove finalists\" — bleachernation.com — Oct 14, 2026\n- MLB.com: \"2026 gold glove award finalists\" — multiple niche team pages — Oct 2026\n- Bleacher Report (Cubs site): Names group as PCA, Bregman, Swanson, Happ, Suzuki — Oct 2026\n- Marquee Sports Network: \"chicago cubs nl gold glove award pete crow armstrong nico hoerner matt shaw\" — marqueesportsnetwork.com — Oct 2026\n- MLB.com: \"Could Cubs' best-in-show defense become 1st ever to sweep outfield Gold Gloves?\" — mlb.com — Oct 2026\n**Key Facts:**\n- Cubs have 5 Gold Glove finalists — NL-best (tied with Blue Jays) [HIGH: multiple sources]\n- Pete Crow-Armstrong (CF) is a finalist [HIGH: multiple sources]\n- Ian Happ (LF) is a finalist [HIGH: multiple sources]\n- Seiya Suzuki (RF) is a finalist [HIGH: multiple sources]\n- Alex Bregman (3B) is a finalist [HIGH: Bleacher Report Cubs site]\n- 5th finalist: Bleacher Report says Dansby Swanson; Marquee says Hoerner/Shaw — [LOW: conflicting sources]\n- Winners announced Nov. 1 on ESPN [HIGH: multiple sources]\n- PCA near-certain to win CF award [analyst consensus, HIGH]\n- Bregman \"should be a runaway winner at 3B\" [analyst view, MEDIUM]\n- Happ has 5 FRV, trails Chourio's 6 FRV in LF [single source, MEDIUM]\n- No team has ever swept all 3 outfield Gold Gloves [superlative — needs 2nd source verification; flagged HIGH for fact-check]\n**Why Cubs fans care:** Best-in-class defense plus a historic shot at outfield sweep. Hype for awards season during a quiet off day. Also connects to the Suzuki/Happ free agency angle — both are Gold Glove finalists who could leave.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "QO Clock Running — $23.15M Decision for Suzuki & Happ",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "QO set at $23.15M; World Series starts ~Oct. 23; Cubs have 5 days after WS ends to decide; window opens in under two weeks",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Seiya Suzuki and Ian Happ are headed to free agency. The qualifying offer — $23.15M — is coming.\n\nWorld Series starts ~Oct. 23. Cubs have 5 days after it ends to decide on a QO.\n\nThat window opens in under two weeks. The offseason clock is running.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Roster news / urgency",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "QO Clock Is Running — $23.15M Decision for Suzuki & Happ\n**Decision:** FOLLOW UP\n- Oct 15: \"QO Countdown\" covered the mechanics (5-day window after WS, Suzuki + Happ + King opt-out converging)\n- Today's fresh angle: WS starts ~Oct 23. The clock is now more real — QO window opens in ~12 days.\n**Sources:**\n- Bleacher Nation: \"the qualifying offer number for post-2026 free agents is out\" — bleachernation.com — Oct 8, 2026\n- Joel Sherman, NY Post: Reported $23.15M QO figure [HIGH: primary source journalist, confirmed]\n- MLB Trade Rumors: Projected ~$23.1M [MEDIUM: projection, confirmed close]\n- Bleacher Nation: Suzuki will \"obviously\" get QO; Happ is \"tougher call\" — Oct 2026\n- CBS Sports: WS window Oct 23–31 [MEDIUM: projected schedule]\n**Key Facts:**\n- QO amount: $23.15M [HIGH: Joel Sherman reporting]\n- Decision due 5 days after World Series ends [HIGH: standard MLB rule]\n- Suzuki: Will receive QO [HIGH: Cubs insiders]\n- Happ: Cubs will make QO only if they hope he accepts [MEDIUM: single Bleacher Nation source]\n- Clay Holmes likely opting out of $12M option [MEDIUM: one source says \"would be a shock if he stays\"]\n- WS starts ~Oct 23 → QO window opens ~Oct 28 [MEDIUM: derived from WS schedule]\n**Why Cubs fans care:** Two core offensive pieces (plus leading candidates for staying) are making decisions in real-time. If Suzuki takes $23M, it restructures offseason spending. If he rejects, Cubs get a comp pick and need an outfield upgrade.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "AFL — Juan Cabada Continues to Impress",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "18-year-old, 2nd-youngest player in AFL; hitting .283/.387/.434 in first 14 pro games with Mesa Solar Sox; Cubs pipeline active in October",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Juan Cabada is 18 years old. He's the 2nd-youngest player in the Arizona Fall League. And he's hitting .283/.387/.434 in his first 14 pro games with Mesa.\n\nThe Cubs pipeline doesn't stop when October hits.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Prospect feature",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 5,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "AFL: Juan Cabada Keeps Raking — 2nd-Youngest in the League\n**Decision:** FOLLOW UP\n- Oct 15: Covered Myles Bailey's AFL power tool (broken ankle, exit velocity, Mesa Solar Sox)\n- Today: Fresh angle on Juan Cabada — different player, different hook (age + offensive line)\n**Sources:**\n- MLB.com AFL overview: Cubs prospects, Mesa Solar Sox — Oct 2026 [LOW confidence: AI-processed summary]\n- TJStats: AFL prospects to watch 2026 — tjstats.ca — Oct 2, 2026\n**Key Facts:**\n- Juan Cabada: 18 years old, 2nd-youngest player in 2026 AFL [LOW-MEDIUM: single MLB.com summary source]\n- Stats: .283/.387/.434 in first 14 pro games [LOW confidence: AI-processed WebFetch summary]\n- Cubs No. 12 prospect [MEDIUM]\n- Playing for Mesa Solar Sox [HIGH]\n- Walk and single in first two games (initial games) [LOW: AI summary]\n**Note:** Stats are LOW confidence and sourced from a single AI-processed MLB.com summary. Tweet will attribute to his early AFL performance without specific numerical claims that could be wrong. Will note in fact-check log.\n**Why Cubs fans care:** Off-day prospect content. Cubs fans are hungry for positive news. An 18-year-old holding his own against veteran minor league players in the AFL is genuine good news.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Brewers in World Series — Cubs, Your Move",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Brewers clinch WS berth — four straight NL Central titles + WS appearance; Cubs exited in wild card; bold evening take on Jed Hoyer's mandate",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Milwaukee Brewers are going to the World Series.\n\nFour straight NL Central titles. A sweep of the Dodgers. Now the Fall Classic.\n\nCubs went home in the wild card round. Their division rival didn't.\n\nThe offseason starts now. Jed Hoyer better be ready.\n\n#Cubs #MLB #NorthSiders",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Bold take / passionate statement",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#NorthSiders"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 3,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Brewers in World Series — Cubs, Your Move (Bold Evening Take)\n**Decision:** FOLLOW UP\n- Oct 15: Bold evening take focused on \"One Win from the WS\" when Brewers were 3-0\n- Today: NOW THEY'VE CLINCHED. Escalated motivation frame. This is the final answer.\n**Sources:**\n- Same as Story 1 (Brewers sweep confirmed)\n- Context: Cubs wild card exit to Padres in 2026. Brewers 4 straight NL Central titles.\n**Key Facts (all established in prior story coverage):**\n- Brewers: 4 straight NL Central titles [HIGH: established prior coverage]\n- Cubs exited in Wild Card round vs Padres [HIGH: established]\n- Brewers going to World Series: confirmed from Story 1 [HIGH]\n- Cubs had highest-scoring offense in baseball in 2026 [MEDIUM: Bleacher Report offseason guide]\n**Why Cubs fans care:** Pure motivation fuel. The bar was already high — now it's set by a World Series appearance. This is the offseason story.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

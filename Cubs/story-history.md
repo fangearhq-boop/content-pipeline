@@ -5,6 +5,54 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-10-16 (OFF DAY — Early offseason. Brewers swept Dodgers 4-0 in NLCS, heading to World Series for first time since 1982. Jake Bauers NLCS MVP. Guardians lead Rays 2-1 in ALCS. Insights active: overnight_00_06 loser (large); evening_18_24 winner (medium).)
+
+### STORY 1: Brewers Sweep Dodgers in NLCS — World Series Bound
+- **Angle:** FOLLOW UP (Oct 14 NLCS G3 preview; Oct 15 bold take when Brewers 3-0; today = Game 4 result). Brewers came back from 4-0 down to win 6-4. Jake Bauers NLCS MVP. First WS since 1982. Guardians lead Rays 2-1 in ALCS.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, informative rival watch)
+- **Follow-Up Opportunities:**
+  - ALCS result + World Series matchup/schedule
+  - Brewers WS result (either way = Cubs motivation content)
+  - Cubs offseason moves framed against WS backdrop
+
+### STORY 2: Cubs Have NL-Best 5 Gold Glove Finalists
+- **Angle:** NEW STORY (first dedicated Gold Glove feature). Cubs lead NL with 5 finalists. PCA (CF), Happ (LF), Suzuki (RF) could be first outfield trio to sweep all three Gold Gloves. Winners Nov. 1.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown/informative)
+- **Follow-Up Opportunities:**
+  - Gold Glove winners (Nov. 1 on ESPN)
+  - Cy Young/MVP awards as they drop through November
+
+### STORY 3: QO Clock Running — $23.15M Decision for Suzuki & Happ
+- **Angle:** FOLLOW UP (Oct 15 QO countdown; fresh angle = now more concrete timing). $23.15M QO; World Series starts ~Oct 23; window opens in under 2 weeks.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, roster news/urgency)
+- **Follow-Up Opportunities:**
+  - Actual QO announcements (Suzuki, Happ)
+  - Clay Holmes opt-out decision
+  - King opt-out decision (Padres RHP)
+
+### STORY 4: AFL — Juan Cabada Continues to Impress
+- **Angle:** FOLLOW UP (Oct 15 covered Bailey; today = Cabada). 18 years old, 2nd-youngest in AFL, .283/.387/.434 in first 14 pro games (LOW confidence stats — WebFetch source).
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect feature)
+- **Follow-Up Opportunities:**
+  - Cabada AFL stats as season progresses (verify primary source)
+  - Bailey stats update
+  - AFL standings/playoffs
+
+### STORY 5: Brewers in World Series — Cubs, Your Move
+- **Angle:** FOLLOW UP (rival motivation frame escalated; Brewers now CONFIRMED for WS). Bold evening take: four titles, now the Fall Classic. Cubs must answer this winter.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, bold/passionate, EVENING WINNER slot)
+- **Follow-Up Opportunities:**
+  - Each Cubs offseason signing/trade as a "response" story
+  - Brewers World Series result — win or lose, it's Cubs motivation
+  - Hoyer/Counsell offseason presser
+
+---
+
 ## 2026-10-15 (OFF DAY — Early offseason. NLCS Game 4 tonight: Brewers at Dodgers, Dodger Stadium; Brewers lead 3-0. Insights active: overnight_00_06 loser (large); evening_18_24 winner (medium).)
 
 ### STORY 1: NLCS Game 3 Result — Brewers 6-2 Dodgers, Lead 3-0

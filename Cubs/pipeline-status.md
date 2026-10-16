@@ -1,7 +1,7 @@
-# Cubs Pipeline Status — Updated 2026-10-15
+# Cubs Pipeline Status — Updated 2026-10-16
 
 ## Latest Run
-- **Date:** 2026-10-15 (Thursday — Off day. Brewers lead NLCS 3-0; Game 4 tonight at Dodger Stadium. Brewers won Game 3 6-2 last night. Skubal free agency, QO countdown, AFL Bailey.)
+- **Date:** 2026-10-16 (Friday — Off day. Brewers swept Dodgers 4-0 in NLCS (Game 4: 6-4 comeback). First WS since 1982. Guardians lead Rays 2-1 in ALCS. Gold Gloves, QO timeline, AFL Cabada, bold take.)
 - **Stories:** 5
 - **X posts:** 5
 - **Platforms:** X/Twitter only
@@ -9,20 +9,21 @@
 - **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 5 stories, 5 tweets
 - **07-content-data.json:** ✅ Valid JSON, all 5 posts with posting_time (7:00 AM / 9:30 AM / 12:00 PM / 3:45 PM / 6:30 PM CT), all strptime-parseable
 - **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
+- **Note:** git remote set-url (PAT embed) blocked by CCR auto-mode classifier; content push via GitHub MCP push_files instead
 
-## Insights Summary (2026-10-15)
-- **Snapshot generated:** 2026-10-15T08:30:00.113911+00:00 (fresh, 30 min before trigger)
-- **significant_findings count:** 2 (same as Oct 14)
-  1. `posting_window=overnight_00_06` LOSER (large effect, p=0.0015) → No overnight slots used ✓
-  2. `posting_window=evening_18_24` WINNER (medium effect, p=0.0307) → Brewers motivation bold take placed at 6:30 PM CT (evening winner) ✓
+## Insights Summary (2026-10-16)
+- **Snapshot generated:** 2026-10-16T08:30:00.138449+00:00 (fresh, 30 min before trigger)
+- **significant_findings count:** 2 (same as Oct 14–15)
+  1. `posting_window=overnight_00_06` LOSER (large effect, p=0.0016, delta=0.63) → No overnight slots used ✓
+  2. `posting_window=evening_18_24` WINNER (medium effect, p=0.0247, delta=0.409) → Bold Brewers WS take at 6:30 PM CT ✓
 - **No other significant findings** — brand-voice defaults applied for all other dimensions
 
-## Series Context (2026-10-15)
+## Series Context (2026-10-16)
 - **`off_day`:** TRUE
 - **`is_series_start_today`:** FALSE
 - **`series`:** null
 - **`today_cubs_game`:** null
-- **Action:** Off-day pipeline. NLCS Game 4 tonight (Brewers can clinch). Skubal FA reality, QO countdown, AFL Myles Bailey, rival watch.
+- **Action:** Off-day pipeline. Brewers clinched WS berth (Game 4 result). Gold Gloves, QO timing, AFL Cabada, rival motivation take.
 
 ## Current Cubs Status
 - **2026 season:** OVER. Cubs eliminated by Padres in NL Wild Card Series (swept 2-0, Oct 1)
@@ -46,6 +47,7 @@
 
 | Date | Type | Stories | Tweets | Status |
 |------|------|---------|--------|--------|
+| 2026-10-16 | OFF DAY (Brewers NLCS sweep/WS bound, Gold Gloves 5 finalists, QO clock, AFL Cabada, bold WS take) | 5 | 5 | ✅ |
 | 2026-10-15 | OFF DAY (NLCS G3 result, Skubal FA, QO countdown, AFL Bailey, Brewers motivation) | 5 | 5 | ✅ |
 | 2026-10-14 | OFF DAY (Sonny Gray rotation target, Hartshorn prospect, Happ/Suzuki FA, Flaherty manager, NLCS G3 tonight) | 5 | 5 | ✅ |
 | 2026-10-13 | OFF DAY (NLCS G1+G2 recap, Alcantara 2027, rotation crisis, PCA MVP final, Skubal cold water) | 5 | 5 | ✅ |
