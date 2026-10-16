@@ -464,3 +464,27 @@
 |------|--------|-------|
 | All steps | COMPLETE/BLOCKED | See pipeline-status history |
 
+
+---
+
+## Current Run: 2026-10-16
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D49 fall break Oct 12–23; Cool Science star party Sat Oct 17 free; Barks & Boos Sun Oct 18 free; Venetucci Farm weekends; Primark 101 Dalmatians recall CPSC Oct 15 ~2,100 units phthalates Model 2595301; LandTale bed rail recall CPSC Oct 1 ~730 units entrapment risk SKU EBR001; Halloween safety AAP/CPSC tips |
+| Story History Check | COMPLETE | All 5 stories NEW |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md |
+| X/Twitter Posts | COMPLETE | 5 posts across 5 stories; all ≤280 chars (S4 tweet trimmed from 281 to ~269) |
+| Facebook Posts | COMPLETE | 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only concepts |
+| Articles (5) | COMPLETE | 5 articles (Sarah Morales: S1, S3, S5; Jamie Rivera: S2, S4) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 80 claims |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 5 tweets, 5 articles |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, not_started, gemini base_only |
+| Review Dashboard | COMPLETE | review-dashboard.html — 20 items |
+| Publish Dashboard | BLOCKED | 403 proxy (known recurring) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-10-16.xlsx (15 posts) + TOBI xlsx (10 posts) |
+| WordPress Publish | BLOCKED | 403 proxy (known recurring) |
+| Story History | COMPLETE | 5 entries appended to story-history.md |

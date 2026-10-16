@@ -8278,3 +8278,56 @@
 - **Tier:** 3
 - **Key Facts (MEDIUM):** Week counts calculated from prior pipeline start-date data; fall parent-teacher conferences typically October in D11/D20/D49
 - **Follow-Up Opportunity:** Fall parent-teacher conference preview; mid-semester academic check-in
+
+## October 16, 2026
+
+### Story 1: D49 Fall Break Activity Guide
+- **Date:** 2026-10-16
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — D49 fall break runs Oct 12–23. Mid-break service piece covering free/low-cost COS activities: Cool Science Festival star party (Sat Oct 17, free, Cheyenne Mountain SP), Barks & Boos (Sun Oct 18, free, Bear Creek Dog Park 11 AM–3 PM), Venetucci Farm pumpkin picking (weekends Fri–Sun through Oct 31), Boo at Zoo (advance tickets required, remaining dates Oct 17, 23–25, 30–31).
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 2 X Posts + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** D49 break Oct 12–23; star party Sat Oct 17 free Cheyenne Mountain SP; Barks & Boos Sun Oct 18 free 11 AM–3 PM Bear Creek; Venetucci Fri–Sun through Oct 31; Boo at Zoo advance tickets cmzoo.org
+- **Follow-Up Opportunity:** Post-break recap; Halloween event roundup
+
+### Story 2: Primark 101 Dalmatians Coin Purse Recall
+- **Date:** 2026-10-16
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall Oct 15, 2026. ~2,100 Primark 101 Dalmatians faux leather children's coin purses (Model No. 2595301, ~$9). Phthalates above legal limits. Sold Mar–Jun 2026 at Primark NE/FL/MD/IL locations. Return to any Primark store for full refund. Recall #27-028. UK recall Sept 4. No injuries.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 1
+- **Key Facts (HIGH):** Recall date Oct 15 2026; recall # 27-028; ~2,100 units; Model No. 2595301; ~$9; phthalates above limits; Mar–Jun 2026 sale period; NE/FL/MD/IL Primark locations; full refund at any Primark store
+- **Follow-Up Opportunity:** None (completed recall coverage)
+
+### Story 3: Cool Science Festival Final Weekend
+- **Date:** 2026-10-16
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Cool Science Festival 2026 final weekend Oct 17–18. Star party Sat Oct 17 at Cheyenne Mountain State Park (free). Festival wraps Sun Oct 18. D49 fall break overlap. Most events free; coolscience.org for full schedule.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Festival runs Oct 3–18; final weekend Oct 17–18; star party Sat Oct 17 free Cheyenne Mountain SP; coolscience.org
+- **Follow-Up Opportunity:** Post-festival recap if significant turnout; 2027 festival dates
+
+### Story 4: LandTale Bed Rail Recall
+- **Date:** 2026-10-16
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall Oct 1, 2026. ~730 YunHeng LandTale adult portable bed rails (SKU EBR001, ~$43). Sold on Amazon Feb–Jun 2026. Entrapment/asphyxiation risk; violates mandatory federal standard; lacks required warning labels. Contact LandtaleBedRailsRecall@outlook.com for full refund (photo proof of destruction required). No injuries.
+- **Byline:** Jamie Rivera
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Recall date Oct 1 2026; YunHeng; SKU EBR001; ~730 units; ~$43; Amazon Feb–Jun 2026; contact LandtaleBedRailsRecall@outlook.com; photo proof required
+- **Follow-Up Opportunity:** None (completed recall coverage)
+
+### Story 5: Halloween Safety Tips for COS Families
+- **Date:** 2026-10-16
+- **Content Pillar:** Evergreen
+- **Angle:** NEW STORY — Halloween Oct 31 (2 weeks out). Seasonal safety checklist for COS families: glow sticks/reflective tape on costumes, face paint over restrictive masks, familiar well-lit neighborhoods, inspect candy before eating, set curfew. AAP and CPSC sources. COS events: Boo at Zoo remaining dates, Garden of the Gods trunk-or-treat Oct 25.
+- **Byline:** Sarah Morales
+- **Content Produced:** Article + 1 X Post + FB Long-Form + FB Image Caption + 2 Image Concepts (Gemini base_only)
+- **Tier:** 2
+- **Key Facts (HIGH):** Halloween Oct 31 2026; Boo at Zoo remaining dates Oct 17, 23–25, 30–31; advance tickets cmzoo.org; GOG trunk-or-treat Oct 25 free
+- **Follow-Up Opportunity:** Halloween recap Nov 1; trunk-or-treat roundup
+
