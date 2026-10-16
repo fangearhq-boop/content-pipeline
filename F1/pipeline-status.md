@@ -1,5 +1,45 @@
 # F1 Fanrecap — Pipeline Status
 
+## Last Run: 2026-10-16
+
+**Status:** COMPLETE (with known proxy limitations)
+**Niche:** F1 Fanrecap
+**Stories:** 5
+**Articles:** 5
+
+---
+
+## 2026-10-16 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research | ✅ Complete | 5 stories — Antonelli clinch watch, Ferrari final upgrade Austin, Russell last stand, Racing Bulls tortoise livery, Camara to Haas 2027 |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 8 posts, all ≤280 chars |
+| FB Posts | ✅ Complete | 04-social-posts-facebook.md |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 articles in articles/ |
+| verify-facts.py | ✅ Complete | 18 claims, 34 HIGH; image warnings expected (imagn) |
+| compile-content-data.py | ✅ Complete | 5 stories, 8 tweets, 5 FB posts, 5 articles (posting window warnings — non-blocking) |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (not_started — imagn sourcing manual) |
+| Story History | ✅ Complete | story-history.md updated |
+| generate-review-dashboard.py | ✅ Complete | 23 items |
+| generate-postplanner-export.py | ⚠️ 0 posts | Known parsing issue |
+| publish-unified-dashboard.py | ❌ BLOCKED | content-dashboards not in authorized repo set |
+| publish-to-wordpress.py | ❌ BLOCKED | proxy policy; known scheduler limitation |
+| git push | ✅ Complete | via GitHub MCP |
+
+**Stories (2026-10-16):**
+1. T1 FOLLOW UP: Antonelli Clinch Watch — Seven Days to Austin (Ryan Calloway)
+2. T1 NEW: Ferrari's Final Major Upgrade — New Floor and Sidepods for Austin (Elena Voss)
+3. T1 FOLLOW UP: George Russell's Last Stand — Austin Is His Only Hope (Marcus Cole)
+4. T2 NEW: Racing Bulls Tortoise Livery — One-Weekend Special at COTA (Ryan Calloway)
+5. T2 NEW: Rafael Camara to Haas 2027 — Brazil Returns to F1 Grid (Marcus Cole)
+
+---
+
 ## Last Run: 2026-10-15
 
 **Status:** COMPLETE (with known proxy limitations)

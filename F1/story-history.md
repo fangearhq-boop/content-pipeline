@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-16
+
+### STORY 1: Antonelli Clinch Watch — Seven Days to Austin
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / F1 2026 Championship / US Grand Prix / COTA
+- **Key facts:** Antonelli leads by 102 pts; 150 max remaining (6 races); clinch at Austin: win + Russell P9/lower + Hamilton P5/lower; would leave 5 rounds remaining (one shy of Schumacher 2002 record); youngest-ever champion at 19 if clinched (Vettel was 23 in 2010)
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: Ferrari's Final Major Upgrade — New Floor and Sidepods for Austin
+- **Tier:** 1
+- **Category:** Ferrari / Lewis Hamilton / Charles Leclerc / SF-26 / Constructors' Championship / COTA
+- **Key facts:** Final major aero package of 2026: new floor + revised sidepods + weight reduction; last upgrade before 2027 dev focus; Ferrari P2 constructors 444 pts (134 behind Mercedes 578); McLaren P3 339; COTA high-downforce suits SF-26 strengths
+- **Byline:** Elena Voss
+- **Status:** NEW
+
+### STORY 3: George Russell's Last Stand — Austin Is His Only Hope
+- **Tier:** 1
+- **Category:** George Russell / Mercedes / F1 2026 Championship / COTA
+- **Key facts:** Russell P2 238 pts, 102 behind Antonelli; Singapore DNF nearly sealed it; max available 150 pts; to prevent Austin clinch Russell must finish P8 or higher; won Baku 2026
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 4: Racing Bulls Tortoise Livery — One-Weekend Special at COTA
+- **Tier:** 2
+- **Category:** Racing Bulls / COTA / US Grand Prix / Special Livery
+- **Key facts:** Special "tortoise" color scheme for COTA weekend; second alternate livery of 2026 season (first was Miami special); Yuki Tsunoda and Isack Hadjar driving
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: Rafael Camara to Haas 2027 — Brazil Returns to F1 Grid
+- **Tier:** 2
+- **Category:** Haas F1 / Rafael Camara / Ferrari Academy / 2027 Driver Market / Esteban Ocon
+- **Key facts:** Camara (2025 F3 champion, Ferrari junior) set to replace Ocon at Haas for 2027; Bortoleto confirmed at Audi; Brazil to have 2 drivers on 2027 grid (first since 2016); Haas TPS Komatsu said confirmation "within weeks" (late Sept 2026)
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
 ## 2026-10-15
 
 ### STORY 1: Austin Clinch Watch — Antonelli's Window Opens in Eight Days
