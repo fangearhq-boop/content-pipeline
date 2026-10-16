@@ -3,6 +3,62 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-10-16
+
+### Story 1: Tennessee Lady Vols 3-0 in Fall Ball — Pickens and Mardjetko Lead Deepest Staff
+- **Date:** 2026-10-16
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Tennessee is 3-0 in fall ball, including 19-1 win over Carson-Newman. Karen Weekly calls this the deepest pitching staff in program history: Karlyn Pickens (4 no-hitters, No. 1 AU draft pick, 2x First Team All-SEC) + Sage Mardjetko (16-3, 1.26 ERA, 171 Ks, NFCA All-American). Next game Oct 18 at Middle Tennessee, Oct 21 rescheduled Roane State game.
+- **Content Produced:** Article (article-01, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Tennessee fall ball wrap-up
+  - Tennessee vs. OU, Florida 2027 preview
+  - Pickens AU draft profile
+
+### Story 2: 10th Circuit Grants NCAA Stay in Wisne v. NCAA
+- **Date:** 2026-10-16
+- **Tier:** 1
+- **Classification:** FOLLOW UP (major update — last run said "NCAA appealing"; stay was GRANTED Aug 21)
+- **Angle:** 10th Circuit voted 2-1 on Aug 21 to grant NCAA emergency stay. Class of 2022 fifth-year eligibility paused pending appeal. NCAA not penalizing good-faith schools. Tennessee state court denied stay for a separate suit. Expedited appeal underway; no ruling date.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - 10th Circuit full appeal ruling
+  - Tennessee state court case developments
+  - Individual program roster impact stories
+
+### Story 3: Florida Opens Fall Ball Tonight vs. Santa Fe College
+- **Date:** 2026-10-16
+- **Tier:** 2
+- **Classification:** FOLLOW UP (previewed Oct 14; game is tonight)
+- **Angle:** Florida opens fall ball at 6 PM at Katie Seashole Pressly Stadium vs. Santa Fe College. Free admission. 7-inning opener. Six starters back, full staff, two transfers, top recruiting class. Tim Walton's Gators are 2027 WCWS contenders.
+- **Content Produced:** Article (article-03, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Florida fall ball recap (result from tonight)
+  - Florida 2027 preview after full fall schedule
+
+### Story 4: 2028 Recruiting Contact Window Opens Oct 17-18
+- **Date:** 2026-10-16
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Oct 17-18 contact period opens tomorrow. D1 coaches can reach 2028 prospects directly. Showcase camps in Lehi UT, Bellevue NE. Tennessee (No. 4 nationally), OU (5 commits), Florida (Holden No. 2, Evans) are loaded. Uncommitted top-50 names are targets.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Post-contact-window commitment roundup (Oct 18-19)
+  - 2028 class rankings update after wave
+
+### Story 5: LSU Lands Mickey Winchell / Fall Portal Roundup
+- **Date:** 2026-10-16
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Notre Dame OF Mickey Winchell (.335 BA, 14 SB 2026) commits to LSU. LSU lost Heavener to Texas Tech. OU adds Harter, Hansen, Gregus; lost Pickering (50 HR) and Zache sisters to portal. Texas Tech portal class is No. 1 per analysts.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - LSU 2027 preview
+  - Texas Tech full portal class breakdown
+
+---
+
 ## 2026-10-14
 
 ### Story 1: OU Battle Series Game 3 Recap — Weather Shortens Scrimmage, Team Maxwell Wins
