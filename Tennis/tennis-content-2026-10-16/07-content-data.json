@@ -1,0 +1,254 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-16",
+  "compiled_at": "2026-10-16T12:33:07.799343+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Jodar Stuns Ruud to Reach First Masters 1000 Semifinal in Shanghai",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Rafael Jodar stuns Casper Ruud 4-6, 6-4, 6-3. His first ATP Masters 1000 semifinal. He dropped the first set. Again. He won anyway. Again. The Cinderella run in Shanghai continues. #ShanghaiMasters #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ShanghaiMasters",
+            "#Tennis"
+          ],
+          "char_count": 205
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Jodar is in the Shanghai semis and his ATP Finals hopes are very much alive. He's beaten van de Zandschulp, Lehecka, and now Ruud — always from behind. That's the kind of week that changes careers. #ShanghaiMasters #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ShanghaiMasters",
+            "#Tennis"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-jodar-stuns-ruud-shanghai-semifinal.html",
+        "headline": "Jodar Stuns Ruud to Reach First ATP Masters 1000 Semifinal at Shanghai",
+        "word_count": 671
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jodar Stuns Ruud — Shanghai SF\n\n#### Image Concept 1-A (Social)\n**Search term:** `Rafael Jodar Shanghai`\n**Credit:** (USA TODAY Sports Images)\n**Description:** Jodar celebrating or mid-match at Shanghai — intense expression, baseline play, preferably pumping fist after winning point\n\n#### Image Concept 1-B (Article Hero)\n**Search term:** `Casper Ruud Shanghai`\n**Credit:** (USA TODAY Sports Images)\n**Description:** Ruud in match action at Shanghai; or split image of both players\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Kartal Shocks World No. 6 Svitolina to Reach First WTA 1000 Semifinal",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "SONAY KARTAL BEATS ELINA SVITOLINA. World No. 170 vs. World No. 6 — and the qualifier wins 6-2, 2-6, 6-4. Kartal has never beaten a Top 10 player before today. She just did it in a WTA 1000 quarterfinal. #WuhanOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WuhanOpen",
+            "#Tennis"
+          ],
+          "char_count": 222
+        },
+        {
+          "label": "Post 2-2",
+          "text": "A British qualifier. Ranked No. 170 in the world. First WTA 1000 semifinal. Sonay Kartal just had the best day of her career and she's not done yet. Ostapenko awaits. #WuhanOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WuhanOpen",
+            "#Tennis"
+          ],
+          "char_count": 185
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-kartal-upsets-svitolina-wuhan-semifinal.html",
+        "headline": "Kartal Shocks World No. 6 Svitolina to Reach First WTA 1000 Semifinal",
+        "word_count": 612
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kartal Shocks Svitolina — Wuhan SF\n\n#### Image Concept 2-A (Social)\n**Search term:** `Sonay Kartal`\n**Credit:** (USA TODAY Sports Images)\n**Description:** Kartal celebrating a point or match win — joyful expression, tennis court background\n\n#### Image Concept 2-B (Article Hero)\n**Search term:** `Elina Svitolina Wuhan`\n**Credit:** (USA TODAY Sports Images)\n**Description:** Svitolina in match play at Wuhan\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Ostapenko Powers Past Shnaider to Reach Wuhan Semifinals",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Ostapenko is through in Wuhan — def. Shnaider 7-6(6), 6-1. She meets Kartal in the SF: the powerhouse vs. the qualifier. One of the more compelling WTA semifinal matchups of the year. #WuhanOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WuhanOpen",
+            "#Tennis"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-ostapenko-shnaider-wuhan-quarterfinal.html",
+        "headline": "Ostapenko Overpowers Shnaider to Reach Wuhan Open Semifinals",
+        "word_count": 548
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ostapenko def. Shnaider\n\n#### Image Concept 3-A (Social)\n**Search term:** `Jelena Ostapenko`\n**Credit:** (USA TODAY Sports Images)\n**Description:** Ostapenko in aggressive forehand position or celebrating — powerful, dynamic shot\n\n#### Image Concept 3-B (Article Hero)\n**Search term:** `Diana Shnaider`\n**Credit:** (USA TODAY Sports Images)\n**Description:** Shnaider in match action\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Shanghai Masters Semifinals Preview — Zverev, Fokina Await Friday's QF Winners",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Shanghai semis are set. Zverev vs. Davidovich Fokina. Jodar vs. whoever comes out of Medvedev–Paul. Year-end No. 1 vs. a player who's beaten him before. Saturday can't come soon enough. #ShanghaiMasters #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ShanghaiMasters",
+            "#Tennis"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-shanghai-sf-preview-zverev-fokina-jodar.html",
+        "headline": "Shanghai Masters Semifinals Set: Zverev Faces Fokina, Jodar Into Final Four",
+        "word_count": 575
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Shanghai SF Preview\n\n#### Image Concept 4-A (Social)\n**Search term:** `Alexander Zverev Shanghai`\n**Credit:** (USA TODAY Sports Images)\n**Description:** Zverev in confident pose or mid-match play at Shanghai\n\n#### Image Concept 4-B (Article Hero)\n**Search term:** `Alejandro Davidovich Fokina`\n**Credit:** (USA TODAY Sports Images)\n**Description:** Fokina in match action — aggressive baseline play\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Wuhan Semifinals Set — Kartal vs. Ostapenko; Li-Swiatek QF Completes Picture",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Wuhan Open SF picture: Kartal vs. Ostapenko on one side. Ann Li vs. Iga Swiatek on the other. Li just beat Sabalenka. Swiatek needs the points for the WTA Finals. This QF had everything. #WuhanOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WuhanOpen",
+            "#Tennis"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-wuhan-sf-kartal-ostapenko-ann-li-swiatek.html",
+        "headline": "Wuhan Open Semifinals Set: Kartal, Ostapenko Confirmed — Ann Li vs. Swiatek Completes Picture",
+        "word_count": 597
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wuhan SF Picture\n\n#### Image Concept 5-A (Social)\n**Search term:** `Ann Li`\n**Credit:** (USA TODAY Sports Images)\n**Description:** Ann Li in match action — ideally celebrating or serving\n\n#### Image Concept 5-B (Article Hero)\n**Search term:** `Iga Swiatek Wuhan`\n**Credit:** (USA TODAY Sports Images)\n**Description:** Swiatek at Wuhan tournament — focused, baseline or service position\n\n---\n\n## Summary\n- **Total concepts:** 10 (2 per story)\n- **Photo source:** imagn\n- **All search terms:** player name only (no years, events, context) ✓"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

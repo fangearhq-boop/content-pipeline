@@ -1,6 +1,36 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-10-15
+## Current Run: 2026-10-16
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Jodar def. Ruud 4-6,6-4,6-3 Shanghai QF (Sunday Guardian Live, Perfect Tennis); Kartal def. Svitolina 6-2,2-6,6-4 Wuhan QF — No. 170 first WTA 1000 SF (Sofascore, Yardbarker, tennisworldusa.org); Ostapenko def. Shnaider 7-6(6),6-1 Wuhan QF (WTA, Sofascore); Medvedev vs. Paul result unconfirmed (leading 2-1 sets per one source; SF bracket confirmed Oct 17); Ann Li vs. Swiatek QF result pending |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Oct 15 S4: Jodar vs. Ruud QF previewed → RESULT); S2 NEW (Kartal qualifier shock — first Top 10 win, first WTA 1000 SF); S3 FOLLOW-UP (Oct 15 S5: Ostapenko in QF field → RESULT); S4 PREVIEW (Shanghai SF picture: Zverev+Fokina confirmed, Jodar in, Medvedev/Paul TBD); S5 CONFIRMED/PREVIEW (Wuhan SFs: Kartal+Ostapenko set; Ann Li vs. Swiatek QF) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Ryan Calloway [S1, S4], Marcus Cole [S2, S5], Elena Voss [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories |
+| Articles (5) | COMPLETE | article-01 Jodar def. Ruud (Ryan Calloway T1); article-02 Kartal def. Svitolina (Marcus Cole T1); article-03 Ostapenko def. Shnaider (Elena Voss T2); article-04 Shanghai SF preview (Ryan Calloway T2); article-05 Wuhan SF picture + Ann Li/Swiatek (Marcus Cole T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 39 claims; HIGH confidence; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 articles |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| Publish Dashboard | BLOCKED | 403 proxy — known recurring issue |
+| PostPlanner Export | COMPLETE (7 posts) | tfr-postplanner-2026-10-16.xlsx + tfr-postplanner-tobi-2026-10-16.xlsx |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue) |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Oct 16 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts
+- **Articles:** 5 (bylines: Ryan Calloway [S1, S4], Marcus Cole [S2, S5], Elena Voss [S3])
+- **Key stories:** Jodar stuns Ruud 4-6,6-4,6-3 → first Masters 1000 SF (ATP Finals boost); KARTAL (No. 170) UPSETS SVITOLINA (No. 6) 6-2,2-6,6-4 → first WTA 1000 SF for British qualifier; Ostapenko def. Shnaider 7-6(6),6-1 → Wuhan SF vs. Kartal; Shanghai SF preview (Zverev vs. Fokina Oct 17, Jodar awaits); Wuhan SFs (Kartal vs. Ostapenko + Ann Li vs. Swiatek QF)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); FB posts 0 parsed (known); Medvedev vs. Paul result unconfirmed at time of writing; git PAT blocked by auto-mode classifier (using GitHub MCP push)
+
+---
+
+## Previous Run: 2026-10-15
 
 | Step | Status | Notes |
 |------|--------|-------|

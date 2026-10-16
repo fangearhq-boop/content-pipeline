@@ -3,6 +3,16 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## October 16, 2026
+
+| 2026-10-16 | Rafael Jodar (Spain, No. 12 seed) def. Casper Ruud 4-6, 6-4, 6-3 in Shanghai Masters QF — first Masters 1000 SF; dropped opening set (3rd time this week); ATP Finals hopes surge; will face winner of Medvedev vs. Paul in SF Oct 17. Sources: Sunday Guardian Live, Perfect Tennis Day Nine Recap | T1 | X, FB, Article | Ryan Calloway; CONFIRMED RESULT |
+| 2026-10-16 | Sonay Kartal (GB, No. 170) def. Elina Svitolina (No. 6) 6-2, 2-6, 6-4 in Wuhan Open QF — first WTA 1000 SF for Kartal; career-first Top 10 win; Svitolina eliminated from WTA Finals race; Kartal vs. Ostapenko in SF. Sources: Sofascore, Yardbarker, Tennis World USA, ua.news | T1 | X, FB, Article | Marcus Cole; NEW |
+| 2026-10-16 | Jelena Ostapenko def. Diana Shnaider 7-6(6), 6-1 in Wuhan Open QF — 105 min match; tight first set won in TB, dominant second; Ostapenko into SF vs. Kartal. Sources: WTA official, Sofascore | T2 | X, FB, Article | Elena Voss; CONFIRMED RESULT |
+| 2026-10-16 | Shanghai Masters SF preview: Zverev vs. Fokina confirmed (Oct 17); Jodar awaits winner of Medvedev vs. Paul; SFs Oct 17, Final Oct 18; Jodar's Cinderella run continues after Ruud win. Sources: ATP Tour, Tennis Tonic, Sunday Guardian Live | T2 | X, FB, Article | Ryan Calloway; PREVIEW |
+| 2026-10-16 | Wuhan Open SFs set: Kartal vs. Ostapenko confirmed; Ann Li (100th career win vs. Tjen) vs. Iga Swiatek QF — final WTA 1000 of 2026, WTA Finals race stakes; Svitolina eliminated. Sources: WTA official, Last Word on Sports, Tennis Now, tennisworldusa.org | T2 | X, FB, Article | Marcus Cole; CONFIRMED/PREVIEW |
+
+---
+
 ## October 15, 2026
 
 | 2026-10-15 | Alexander Zverev def. Alex de Minaur 6-4, 6-4 in Shanghai Masters QF — under 80 min; Zverev broke once each set, never faced break; de Minaur had not dropped set/service game all week; Zverev into SF vs. Davidovich Fokina Oct 17; ankle concerns managed. Sources: France 24, Infobae | T1 | X, FB, Article | Marcus Cole; CONFIRMED RESULT |
