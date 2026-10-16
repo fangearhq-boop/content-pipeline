@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## Pipeline Run: 2026-10-16
+
+### Story 1: NLCS Game 4 Recap — Brewers 6, Dodgers 4
+- **Date:** 2026-10-16
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Garrett Mitchell go-ahead homer off Tanner Scott in the 6th. Brewers lead NLCS 3-1, one win from first World Series since 1982. Game 5 tonight at Dodger Stadium.
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+
+### Story 2: ALCS Game 3 Recap — Guardians 3, Rays 2
+- **Date:** 2026-10-16
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Petey Halpin 2-run HR in the 8th inning, revenge against Peralta who struck him out in Game 2. Cleveland leads ALCS 2-1. Game 4 tonight 8PM ET on TBS.
+- **Content Produced:** Article (article-02, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+
+### Story 3: Ohtani October — .150 Average, 0 HR Through NLCS Game 4
+- **Date:** 2026-10-16
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Ohtani .150/0 HR/.411 OPS in postseason. No HR since Aug 18 in Colorado. Managing knee and biceps discomfort. Brewers pitching has neutralized him. Game 5 tonight is last chance.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+
+### Story 4: NLCS Game 5 Preview — Glasnow vs. Brewers, Dodgers Last Stand
+- **Date:** 2026-10-16
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Glasnow starts for Dodgers facing elimination. Brewers lead 3-1, need one win. Dodgers dynasty (14 consecutive postseason appearances) at stake. Game 5 tonight at Dodger Stadium on FS1.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+
+### Story 5: Petey Halpin — Cleveland's Surprise October Hero
+- **Date:** 2026-10-16
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Rookie outfielder profile. Peralta struck him out on 3-2 changeup in Game 2; he answered with 2-run HR in Game 3 8th inning. September homer vs. White Sox set the stage. Symbol of Cleveland's ALCS push.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+
+---
+
 ## Pipeline Run: 2026-10-14
 
 ### Story 1: NLCS Game 3 Recap — Dodgers 3, Brewers 1

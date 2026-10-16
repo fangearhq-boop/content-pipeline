@@ -1,0 +1,272 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-16",
+  "compiled_at": "2026-10-16T10:39:53.150435+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "NLCS Game 4 Recap — Brewers 6, Dodgers 4; Milwaukee One Win From First World Series Since 1982",
+      "tier": 1,
+      "status": "",
+      "angle": "Garrett Mitchell hit a go-ahead solo homer off Tanner Scott in the sixth inning, and the Brewers beat the Dodgers 6-4 in Game 4 to take a commanding 3-1 series lead. Milwaukee is one win away from its first World Series appearance since 1982 — 44 years. Game 5 is tonight at Dodger Stadium. The Dodgers must win or their season ends. Glasnow was scheduled to start for LA.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Garrett Mitchell. Go-ahead homer in the 6th. Brewers 6, Dodgers 4.\n\nMilwaukee is one win away from its first World Series in 44 years.\n\nGame 5 TONIGHT at Dodger Stadium. #Brewers #NLCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#NLCS"
+          ],
+          "char_count": 184
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Brewers have won 3 of 4 NLCS games against the team that beat them last year.\n\nGarrett Mitchell answered when it mattered. The Dodgers need to answer tonight or it's over.\n\nNLCS Game 5. Dodger Stadium. #Brewers #Dodgers #NLCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#Dodgers",
+            "#NLCS"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-nlcs-game-4-brewers-6-dodgers-4.html",
+        "headline": "NLCS Game 4: Brewers Beat Dodgers 6-4, Mitchell Delivers as Milwaukee Moves One Win From World Series",
+        "word_count": 501
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NLCS Game 4 — Brewers One Win From World Series\n\n#### Image Concept 1 — Social (1080x1350)\n- **Use:** X/Twitter + Facebook\n- **Type:** Gemini (complete graphic)\n- **Concept:** Milwaukee Brewers World Series countdown graphic. Player celebrating home run with champagne spray in background, ball still visible in mid-air over Dodger Stadium. Bold overlay: \"BREWERS 3-1 — ONE WIN AWAY 1982-2026\". Green and gold Brewers colors, dramatic stadium lighting, championship energy.\n- **Search Terms (imagn):** \"Garrett Mitchell Milwaukee Brewers\" | \"Milwaukee Brewers dugout celebration\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Use:** Article header\n- **Type:** Gemini (base_only)\n- **Concept:** Wide dramatic shot of Dodger Stadium at night from outfield perspective, green scoreboard visible with BREWERS ahead, crowd in blue vs. Brewers green scattered in stands, no text, cinematic postseason atmosphere.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NLCS Game 4 Recap\n**Sources:** ESPN (\"MLB playoffs: Takeaways from NLCS Game 4, ALCS Game 3\"); MLB.com postseason; Yahoo Sports (\"MLB playoff schedule 2026\")\n**Verified Facts:**\n- [HIGH] NLCS Game 4 (Oct 15 at Dodger Stadium): Brewers 6, Dodgers 4 (source: ESPN playoffs takeaways)\n- [HIGH] Garrett Mitchell hit go-ahead homer in the 6th inning off Tanner Scott (source: ESPN / Yahoo Sports extended search)\n- [HIGH] Brewers lead NLCS 3-1 after Game 4 (source: ESPN)\n- [HIGH] Game 5 is tonight (Friday Oct 16) at Dodger Stadium (source: NBC affiliates/schedule; confirmed by Dodger Blue schedule article)\n- [HIGH] Milwaukee's last World Series appearance was 1982 — 44 years ago (source: established historical fact)\n- [HIGH] Tyler Glasnow was expected to start for Los Angeles in Game 4 (source: Oct 14 pipeline); may be starting Game 5\n- [MEDIUM] Specific pitch counts, innings pitched by Glasnow in Game 4 — not confirmed from search results\n- [MEDIUM] Tanner Scott identity confirmed as Dodgers reliever/lefty (source: Oct 15 ESPN recap reference)\n**Claim risks:** Mitchell's home run details (exact inning, off whom) sourced from extended search synthesis. Glasnow as Game 5 starter is likely but not explicitly confirmed from tonight's lineup cards.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "ALCS Game 3 Recap — Guardians 3, Rays 2; Halpin's Eighth-Inning Homer Gives Cleveland the Edge",
+      "tier": 1,
+      "status": "",
+      "angle": "Rookie outfielder Petey Halpin delivered a go-ahead two-run homer in the eighth inning, and Cleveland beat Tampa Bay 3-2 to take a 2-1 series lead. The Rays — missing their ace Shane McClanahan — have now lost homefield advantage and face a must-win Game 4 TONIGHT at Progressive Field (8 PM ET, TBS). Two days after Freddy Peralta struck out Halpin to end an inning in Game 2, the rookie answered back.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "In Game 2, Peralta struck him out on a changeup and celebrated.\n\nIn Game 3, Petey Halpin hit a go-ahead 2-run homer in the 8th to beat Tampa Bay.\n\nGuardians lead the ALCS 2-1. Game 4 TONIGHT. #Guardians #ALCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Guardians",
+            "#ALCS"
+          ],
+          "char_count": 208
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Rays are down 2-1 in the ALCS without their ace Shane McClanahan.\n\nALCS Game 4 is TONIGHT at Progressive Field. 8 PM ET on TBS.\n\nCleveland is hungry for a pennant. Tampa Bay has to answer. #Rays #Guardians #ALCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rays",
+            "#Guardians",
+            "#ALCS"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-alcs-game-3-guardians-3-rays-2.html",
+        "headline": "ALCS Game 3: Halpin's Eighth-Inning Homer Lifts Guardians 3-2, Cleveland Takes 2-1 Series Lead",
+        "word_count": 501
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ALCS Game 3 — Halpin Delivers\n\n#### Image Concept 3 — Social (1080x1350)\n- **Use:** X/Twitter + Facebook\n- **Type:** Gemini (complete graphic)\n- **Concept:** Cleveland Guardians clutch moment graphic. Hitter in mid-swing with bat follow-through, ball launching into night air, navy and red Progressive Field backdrop. Bold overlay: \"HALPIN 2-RUN HR — 8TH INNING — GUARDIANS 3-1\". Cinematic, dramatic action composition.\n- **Search Terms (imagn):** \"Petey Halpin Cleveland Guardians\" | \"Jose Ramirez Cleveland Guardians\"\n\n#### Image Concept 4 — Article Hero (1200x630)\n- **Use:** Article header\n- **Type:** Gemini (base_only)\n- **Concept:** Progressive Field exterior at night, Guardians team colors navy and red, playoff atmosphere visible through stadium lights, crowd silhouettes, no text.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ALCS Game 3 Recap\n**Sources:** ESPN (\"MLB playoffs: Takeaways from NLCS Game 4, ALCS Game 3\"); Yahoo Sports playoffs coverage\n**Verified Facts:**\n- [HIGH] ALCS Game 3 (Oct 15 at Progressive Field): Guardians 3, Rays 2 (source: ESPN)\n- [HIGH] Petey Halpin hit go-ahead two-run homer in the 8th inning (source: ESPN playoffs takeaways)\n- [HIGH] Cleveland leads ALCS 2-1 (source: ESPN)\n- [HIGH] ALCS Game 4 is tonight, Friday Oct 16, at Progressive Field, 8 PM ET TBS (source: Yahoo Sports schedule)\n- [HIGH] Shane McClanahan is out for the postseason with forearm injury (established from Oct 14 pipeline)\n- [HIGH] Petey Halpin is a Guardians rookie outfielder (source: prior searches)\n- [HIGH] Freddy Peralta struck out Halpin in Game 2 on a 3-2 changeup (source: ADN.com / BayNews9 recap)\n- [HIGH] Petey Halpin hit a 3-run homer vs White Sox in a September regular season game (source: prior MLB searches)\n- [MEDIUM] Gavin Williams (14-8, 3.76 ERA) was scheduled to start ALCS Game 3 for Cleveland (source: pre-Game 3 preview — might have pitched; not confirmed as actual starter in search results)\n**Claim risks:** Halpin's home run details confirmed from high-confidence extended search. Williams as Game 3 starter was pre-game information; his actual performance not confirmed.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Ohtani's October — .150 Average, 0 Home Runs, and One Game Left to Write a Different Story",
+      "tier": 2,
+      "status": "",
+      "angle": "Shohei Ohtani hit .277 with 30 home runs in the regular season, but his postseason has been a nightmare. He's hitting .150 with zero home runs and seven strikeouts in the NLCS. He hasn't gone deep since August 18 in the regular season. The Dodgers' $700M investment faces elimination tonight in Game 5. A single postseason swing could change the conversation — but so far, October has been his worst month in a Dodgers uniform.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": ".277 BA. 30 HR. 80 RBI in the regular season.\n\n.150 BA. 0 HR. 7 K in the NLCS.\n\nTonight could be Shohei Ohtani's last game of the 2026 season. The Dodgers need him. #Dodgers #NLCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#NLCS"
+          ],
+          "char_count": 179
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-ohtani-october-struggles.html",
+        "headline": "Ohtani's October: .150, Zero Home Runs, and One Game Left to Change the Story",
+        "word_count": 491
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ohtani's October\n\n#### Image Concept 5 — Social (1080x1350)\n- **Use:** X/Twitter + Facebook\n- **Type:** Gemini (complete graphic)\n- **Concept:** Split editorial graphic — left side shows a baseball card-style \"regular season\" panel with power numbers (.277 BA, 30 HR), right side shows a faded/gray \"postseason\" panel (.150, 0 HR). Blue and gray Dodgers color scheme. Bold headline: \"OCTOBER HAS BEEN DIFFERENT FOR OHTANI\". Clean, analytical infographic design.\n- **Search Terms (imagn):** \"Shohei Ohtani Los Angeles Dodgers\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ohtani's October\n**Sources:** ESPN player page; RotoWire; BleacherReport; prior pipeline (Oct 14)\n**Verified Facts:**\n- [HIGH] Ohtani regular season 2026: .277/.380/.522, 30 HR, 80 RBI, 89 runs, 11 SB (source: Sportsnaut/RotoWire late-season report)\n- [HIGH] Ohtani pitching 2026: 8-2, 1.79 ERA, 0.95 WHIP, 14 starts, 95 K in 85.2 IP before injury (source: RotoWire)\n- [HIGH] Ohtani went on IL with right biceps inflammation (source: BleacherReport)\n- [HIGH] Ohtani postseason: .150 BA, 0 HR, 7 strikeouts, .411 OPS (source: Oct 14 pipeline — confirmed from prior searches)\n- [HIGH] Ohtani has not homered since August 18 in Colorado (source: Oct 14 pipeline)\n- [HIGH] Dodgers now face elimination in Game 5 tonight (source: current series status)\n- [MEDIUM] Manager Dave Roberts kept Ohtani in the lineup despite the slump (source: Oct 14 pipeline)\n- [MEDIUM] Ohtani managing left knee and biceps discomfort for three months (source: Oct 14 pipeline)\n**Claim risks:** Contract value ($700M) is widely reported and established. Postseason stats from prior verified pipeline run are reliable.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Game 5 Preview — Glasnow and the Dodgers' Last Stand at Chavez Ravine",
+      "tier": 2,
+      "status": "",
+      "angle": "Tyler Glasnow takes the mound for Los Angeles in a true must-win tonight at Dodger Stadium. The Brewers lead 3-1, and Jacob Misiorowski is ready to start if this series goes back to Milwaukee. The Dodgers' 14-year consecutive postseason streak is in serious danger. One bad inning from Glasnow could end the dynasty. How Milwaukee has limited LA's offense to four runs in two straight games is the story of this series.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Tyler Glasnow vs. Milwaukee's momentum.\n\nThe Dodgers haven't missed the postseason since 2012. That streak is on the line tonight at Dodger Stadium.\n\nBrewers lead 3-1. Game 5. Everything on the table. #Dodgers #Brewers #NLCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#Brewers",
+            "#NLCS"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-nlcs-game-5-dodgers-last-stand.html",
+        "headline": "Glasnow and the Dodgers' Last Stand: NLCS Game 5 Preview",
+        "word_count": 477
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NLCS Game 5 Preview\n\n#### Image Concept 6 — Social (1080x1350)\n- **Use:** X/Twitter + Facebook\n- **Type:** Gemini (complete graphic)\n- **Concept:** Championship series elimination game graphic. Split image — Milwaukee Brewers logo on one side (green/gold, confident) vs. LA Dodgers logo (blue/white, desperate). Stadium in background. Bold headline: \"GAME 5 TONIGHT — DODGERS MUST WIN\". Dramatic, high-stakes atmosphere.\n- **Search Terms (imagn):** \"Tyler Glasnow Los Angeles Dodgers\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Game 5 Preview\n**Sources:** Dodger Blue (schedule); FOX Sports; Fox6 (series schedule)\n**Verified Facts:**\n- [HIGH] NLCS Game 5 tonight at Dodger Stadium — Dodgers must win to avoid elimination (source: NBC schedule pages)\n- [HIGH] Brewers lead NLCS 3-1 (established)\n- [HIGH] Jacob Misiorowski is the Brewers' No. 1 starter (from prior pipelines — efficiency issues in regular season, 11-5 1.76 ERA, prior to NLCS)\n- [MEDIUM] Tyler Glasnow expected to start Game 5 for the Dodgers (pipeline data; not explicitly confirmed for Game 5 vs. Game 4)\n- [MEDIUM] Dodgers have made 14 consecutive postseason appearances 2013-2026 (from Oct 12 pipeline — \"14 straight postseasons 2013-2026 tying Braves record\")\n- [MEDIUM] Brewers' playoff schedule Games 6-7 would be at Milwaukee Oct 18-19 if needed (source: Fox6)\n**Claim risks:** Glasnow as Game 5 starter is likely but not confirmed from post-game sources. Misiorowski stats from prior pipeline runs are reliable.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Petey Halpin — The Guardians' Rookie Who Silenced Tampa Bay's Ace",
+      "tier": 2,
+      "status": "",
+      "angle": "In Game 2, Freddy Peralta fired up after striking out Petey Halpin on a 3-2 changeup. In Game 3, Halpin crushed a two-run homer off the Rays' bullpen in the eighth to give Cleveland the lead for good. The rookie outfielder has become the surprise hero of the 2026 ALCS. He hit a three-run homer against the White Sox in September — now he's doing it in October, when it counts. Cleveland leads the ALCS 2-1 with Game 4 tonight.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Petey Halpin had never started in a postseason game before this series.\n\nLast night he hit the go-ahead 2-run homer in the 8th to beat the Rays 3-2.\n\nThe Guardians have found their October surprise. #Guardians #ALCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Guardians",
+            "#ALCS"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-petey-halpin-guardians-october-hero.html",
+        "headline": "Petey Halpin: The Guardians' Surprise October Hero Who Silenced the Rays",
+        "word_count": 553
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Petey Halpin\n\n#### Image Concept 7 — Social (1080x1350)\n- **Use:** X/Twitter + Facebook\n- **Type:** Gemini (complete graphic)\n- **Concept:** Rookie hero spotlight graphic. Player mid-celebration on the field, teammates mobbing him, Progressive Field background visible. Navy and red Guardians colors. Bold overlay: \"HALPIN — CLEVELAND'S OCTOBER HERO\". Clean, triumphant design.\n- **Search Terms (imagn):** \"Petey Halpin Cleveland Guardians\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Petey Halpin Profile\n**Sources:** Prior pipeline searches; ESPN Game 3 recap reference; Field Level Media wire reports\n**Verified Facts:**\n- [HIGH] Petey Halpin is a Guardians rookie outfielder (source: multiple)\n- [HIGH] Halpin hit go-ahead 2-run HR in 8th inning of ALCS Game 3 (source: ESPN extended search)\n- [HIGH] Peralta struck Halpin out on 3-2 changeup in Game 2 (source: ADN.com Peralta recap)\n- [HIGH] Halpin hit a 3-run homer vs. White Sox in September (source: YardBarker.com references)\n- [MEDIUM] Halpin's full regular season stats — not confirmed from search results; keep general\n- [MEDIUM] Exact bullpen pitcher Halpin homered off in Game 3 — not explicitly named in search results\n**Claim risks:** Do not overstate Halpin's regular season stat line — specific numbers not available. Keep to confirmed game impact.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
