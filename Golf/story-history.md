@@ -2,6 +2,18 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-10-16
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-16 | T1 | Buick LPGA Shanghai Round 2 — Choi Leads, Thitikul Four Back | X(2), FB, Article | FOLLOW UP |
+| 2026-10-16 | T1 | LIV Golf Oct. 25 Deadline — Nine Days Left as Exits Mount | X(2), FB, Article | FOLLOW UP |
+| 2026-10-16 | T2 | Bermuda Championship One Week Out — FedExCup Bubble Race to Port Royal | X(1), FB, Article | FOLLOW UP |
+| 2026-10-16 | T2 | Scheffler at 179 Consecutive Weeks No. 1 — Tiger's Record 100 Away | X(1), FB, Article | FOLLOW UP |
+| 2026-10-16 | T2 | Tiger-Rory-Day-Matsuyama Skins Match — Five Days Until Japan | X(1), FB, Article | NEW |
+
+---
+
 ## 2026-10-15
 
 | Date | Tier | Title | Platforms | Status |
@@ -43,7 +55,7 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 | Date | Tier | Title | Platforms | Status |
 |------|------|-------|-----------|--------|
 | 2026-10-12 | T1 | Grant Forrest Wins Open de España — Double Major Invitation and a Birdie for the Ages | X(2), FB, Article | FOLLOW UP |
-| 2026-10-12 | T1 | Jon Rahm Is Leaving LIV Golf — And He's Owed Up to $150 Million | X(2), FB, Article | NEW |
+| 2026-10-12 | T1 | Jon Rahm Is a Free Agent: Where Does He Play in 2027? | X(2), FB, Article | NEW |
 | 2026-10-12 | T2 | Tiger, Rory, Day and Matsuyama — Skins Match Preview, October 21 in Japan | X(1), FB, Article | NEW |
 | 2026-10-12 | T2 | Next Stop Bermuda: PGA Tour FedExCup Fall Resumes October 22–25 at Port Royal | X(1), FB, Article | FOLLOW UP |
 | 2026-10-12 | T2 | LPGA Heads to Shanghai — Three Weeks, Three Countries, the Race to CME Globe Heats Up | X(1), FB, Article | NEW |

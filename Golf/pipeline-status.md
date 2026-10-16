@@ -1,5 +1,30 @@
 # Golf Fanrecap — Pipeline Status
 
+## Latest Run: 2026-10-16
+
+**Run completed:** 2026-10-16
+**Stories:** 5
+**Articles:** 5
+**X posts:** 7
+**Status:** COMPLETE (with known proxy limitations)
+
+### Scripts Run (2026-10-16)
+- [x] verify-facts.py — 30 claims, 67 HIGH (image manifest warning — manifest created after script run)
+- [x] compile-content-data.py — 5 stories, 7 tweets, 5 FB, 5 articles
+- [x] generate-review-dashboard.py — 22 items (209KB, skipped from push)
+- [ ] generate-postplanner-export.py — 0 posts (known parsing issue)
+- [ ] publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- [x] git push — main branch
+
+**Stories covered (2026-10-16):**
+1. T1 FOLLOW UP: Buick LPGA Shanghai Round 2 — Choi Leads, Thitikul Four Back (Jake Torres)
+2. T1 FOLLOW UP: LIV Golf Oct. 25 Deadline — Nine Days Left as Exits Mount (Ryan Calloway)
+3. T2 FOLLOW UP: Bermuda Championship One Week Out — FedExCup Bubble Race to Port Royal (Marcus Cole)
+4. T2 FOLLOW UP: Scheffler at 179 Consecutive Weeks No. 1 — Tiger's Record 100 Away (Jake Torres)
+5. T2 NEW: Tiger-Rory-Day-Matsuyama Skins Match — Five Days Until Japan (Ryan Calloway)
+
+---
+
 ## Latest Run: 2026-10-15
 
 **Run completed:** 2026-10-15
@@ -136,9 +161,3 @@
 **Articles:** 5
 **X posts:** 7
 **Status:** COMPLETE (with known proxy limitations)
-
-### Scripts Run (2026-10-10)
-- [x] verify-facts.py — 16 claims, 31 HIGH (imagn image warnings expected)
-- [x] compile-content-data.py — 5 stories, 5 tweets, 0 FB (known parsing issue), 5 articles
-- [x] generate-review-dashboard.py — 15 items
-- [ ] generate-postplanner-export.py — 0 posts (known parsing issue)
