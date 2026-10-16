@@ -2,6 +2,44 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-16
+
+### STORY 1: Opening Night Four Days Away — Banner, LeBron, and Monday Night on NBC
+- **Tier:** 1
+- **Category:** NBA Opening Night / New York Knicks / Philadelphia 76ers / Oklahoma City Thunder / San Antonio Spurs
+- **Key facts:** Oct. 20 tripleheader NBC: Celtics-Pistons 3 PM ET, Sixers-Knicks 7 PM ET (banner ceremony first), Thunder-Spurs 9:30 PM ET; Knicks first banner since 1973; Brunson Finals MVP 45 pts Game 5; LeBron 41 years old 24th season in Sixers debut; Sixers Big Four: Brown, LeBron, Embiid, Maxey
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+
+### STORY 2: Roster Deadline Tomorrow — Knicks Cut Three, Wiseman vs. Brown Battle Continues
+- **Tier:** 1
+- **Category:** NBA Roster Moves / New York Knicks / James Wiseman / Bruce Brown
+- **Key facts:** Knicks waived Eubanks (torn pec), Agbaji, Bradley; final spot Wiseman vs Brown; Wiseman early favorite; Jazz cut Funk/Moore; Nets cut Humrichous; Hawks cut Bezhanishvili; Oct 17 non-guaranteed waiver deadline; Oct 19 rosters to 15+3 two-way by 4 PM CT
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: Porzingis Still Out, No Timeline — Warriors' Opening Night Problem
+- **Tier:** 1
+- **Category:** Golden State Warriors / Kristaps Porzingis / Injuries
+- **Key facts:** Porzingis out indefinitely undisclosed health issue; missed all training camp and all 6 preseason games; Warriors play Portland tonight 10 PM ET; GM Dunleavy said not marking him out for season start but no timetable
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+
+### STORY 4: Sixers vs. Celtics Final Preseason Tonight — LeBron Game-Time Decision
+- **Tier:** 2
+- **Category:** Philadelphia 76ers / Boston Celtics / LeBron James / Preseason
+- **Key facts:** Sixers host Celtics 7 PM ET final preseason game; LeBron game-time decision (rest); probable starters if healthy: Maxey, Edgecombe, Brown, James, Embiid; Jaylen Brown faces former team
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: SGA vs. Wembanyama — The WCF Rematch Closes Opening Night
+- **Tier:** 2
+- **Category:** Oklahoma City Thunder / San Antonio Spurs / Shai Gilgeous-Alexander / Victor Wembanyama
+- **Key facts:** Thunder at Spurs 9:30 PM ET Opening Night NBC; SGA two-time MVP entering 2026-27 as favorite for third; Wembanyama $252M 5-year extension signed July 2026; Spurs eliminated OKC in WCF Game 7 last June
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+
 ## 2026-10-15
 
 ### STORY 1: Opening Night Five Days Away — Banner, LeBron, and the Finals Rematch
