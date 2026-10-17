@@ -137,6 +137,9 @@ Ages, birthdays, birth places, draft positions, and career timelines must be ver
 **3. Superlative and Historical Claims Need Explicit Verification**
 Claims containing "first to...", "only player to...", "franchise record...", "ties the record for..." must be verified against the actual record book or a second source. These are the most commonly distorted claims in AI summaries.
 
+**4. Official source beats two secondary sites**
+When an official league source exists, two news sites or TV listings agreeing is not verification for a start time, a venue, or a game stat. Secondary pages often repeat one national listing, including an unlabeled Eastern clock. Do not relabel that clock with the home time zone. Use the official feed (for MLB: Stats API `gameDate` in UTC converted with the IANA home zone, `venue.name`, and the game box score).
+
 ### Confidence Tagging for Fact Sheets
 
 When building a verified-facts file (or equivalent research document), tag each fact:
@@ -177,5 +180,6 @@ Append-only. Record WHY, not just WHAT.
 - **2026-03-05:** Added daily-runbook.md, pipeline-status.md per niche, and hardened publish-dashboard.py — daily pipeline was running into different errors each day (Pages build failures, stale Jekyll, missing .nojekyll). Solution: pre-flight checks, auto-fix infrastructure, post-deploy verification, and cross-session state tracking.
 - **2026-03-17:** Added Fact Verification Protocol — WebFetch AI summary of a Broncos team article said "Joins Peyton Manning and Justin Herbert as Broncos QBs" when the actual stat was NFL-wide (Herbert is a Charger, never a Bronco). The bad fact propagated from a verified-facts file into 2 of 5 articles. Also caught age/birthday errors from AI summaries. Solution: two-source rule for compound claims, primary-source verification for biographical data, confidence tagging (HIGH/MEDIUM/LOW) for fact sheets, and explicit warning about WebFetch distortion patterns.
 - **2026-03-22:** Added Content Performance panel to softball dashboard — queries GA4 for fanrumor.com traffic, filters to softball articles by keyword matching on page titles. Pipeline-time bake-in approach (query GA4 during pipeline run, embed data into static dashboard HTML) chosen over client-side API calls because the dashboard is static GitHub Pages and data freshness from daily pipeline runs is sufficient. Softball dominates fanrumor.com traffic (~68% of all pageviews). Uses the sports-digest service account (`sports-digest@sports-news-digest.iam.gserviceaccount.com`) which has Viewer access on the GA4 property. GA4 property ID for fanrumor.com: 377089089.
+- **2026-10-08:** Cubs first pitch and ballpark must come from the Stats API, not from two national listings. On Oct 4 the brief labeled NLDS Game 2 as 4:00 PM CT and 8:00 PM CT because CBS and Yahoo agreed; `gameDate` was 20:00Z and 00:00Z, which is 3:00 PM and 7:00 PM Chicago (CDT). On Oct 6 Game 3 was placed at American Family Field; the official venue was Petco Park. The playbook already said "use Central" and the model still relabeled the Eastern clock. Enforcement is `Cubs/mlb_schedule.py` (America/Chicago via zoneinfo), wired into `verify-facts.py`, plus an explicit rule that two secondary sites are not an official source for times, venues, or game stats.
 
 <!-- /GSD-inspired: 2026-02-23 -->

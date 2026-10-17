@@ -147,6 +147,26 @@ def load_niche_claim_patterns(niche_root):
         return None
 
 
+def load_official_schedule_checker(niche_root):
+    """Load niche mlb_schedule.check_content_folder when that file exists.
+
+    Niches without the module are unchanged. The Cubs brief uses it so a
+    first pitch or ballpark cannot pass on two secondary listings.
+    """
+    path = os.path.join(niche_root, "mlb_schedule.py")
+    if not os.path.isfile(path):
+        return None
+    spec = importlib.util.spec_from_file_location("niche_mlb_schedule", path)
+    module = importlib.util.module_from_spec(spec)
+    # dataclass needs the module registered before execution.
+    sys.modules[spec.name] = module
+    spec.loader.exec_module(module)
+    checker = getattr(module, "check_content_folder", None)
+    if checker is None:
+        print("WARNING: mlb_schedule.py has no check_content_folder()")
+    return checker
+
+
 def load_niche_priority_labels(niche_root):
     """Load niche-specific priority labels, with universal defaults."""
     labels = {1: 'HIGH', 2: 'MEDIUM', 3: 'LOW'}
@@ -475,7 +495,7 @@ def check_image_manifest(content_folder, brief_stories):
 # ---------------------------------------------------------------------------
 
 def generate_fact_check_log(display_date, brand_name, brief_stories, all_claims,
-                            consistency_issues, priority_labels):
+                            consistency_issues, priority_labels, schedule_markdown=""):
     """Generate the fact-check log markdown, grouped by story."""
 
     # Deduplicate claims within each story
@@ -495,9 +515,13 @@ def generate_fact_check_log(display_date, brand_name, brief_stories, all_claims,
         f"**Generated:** {datetime.now().strftime('%Y-%m-%d %H:%M')}",
         f"**Claims extracted:** {len(deduped)}",
         "",
+    ]
+    if schedule_markdown:
+        lines.extend([schedule_markdown, "", "---", ""])
+    lines.extend([
         "## Verification Priority Guide",
         "",
-    ]
+    ])
 
     for pri in sorted(priority_labels):
         lines.append(f"- **{priority_labels[pri]} (Priority {pri}):** {priority_labels.get(f'{pri}_desc', '')}")
@@ -572,6 +596,9 @@ def main():
     if not date_str:
         print("Usage: python verify-facts.py --niche <name> YYYY-MM-DD [--facts|--consistency|--images]")
         sys.exit(1)
+
+    schedule_markdown = ""
+    schedule_blocking = False
 
     try:
         date_obj = datetime.strptime(date_str, '%Y-%m-%d')
@@ -657,10 +684,22 @@ def main():
                 if niche_claim_fn:
                     niche_claim_fn(header, all_claims, '0')
 
+        checker = load_official_schedule_checker(niche_root)
+        if checker:
+            report = checker(content_folder, date_str)
+            schedule_markdown = report.get("markdown") or ""
+            schedule_blocking = bool(report.get("blocking"))
+            if schedule_blocking:
+                print("\n⚠ OFFICIAL SCHEDULE MISMATCH:")
+                for issue in report.get("issues") or []:
+                    print(f"  - {issue}")
+            else:
+                print("✓ Official schedule check found no first-pitch or ballpark mismatches")
+
         # Generate the log
         log_content, claim_count = generate_fact_check_log(
             display_date, brand_name, brief_stories, all_claims,
-            consistency_issues, priority_labels
+            consistency_issues, priority_labels, schedule_markdown
         )
 
         output_path = os.path.join(content_folder, '06-fact-check-log.md')
@@ -710,6 +749,10 @@ def main():
             with open(output_path, 'w', encoding='utf-8') as f:
                 f.write("\n".join(lines))
             print(f"\n✓ Consistency report written to: {output_path}")
+
+    if schedule_blocking:
+        print("\nOfficial schedule check FAILED. Do not mark this fact-check PASS.")
+        sys.exit(2)
 
 
 if __name__ == "__main__":
