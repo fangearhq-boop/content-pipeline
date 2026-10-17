@@ -1,5 +1,31 @@
 # Golf Fanrecap — Pipeline Status
 
+## Latest Run: 2026-10-17
+
+**Run completed:** 2026-10-17
+**Stories:** 5
+**Articles:** 5
+**X posts:** 7
+**Status:** COMPLETE (with known proxy limitations)
+
+### Scripts Run (2026-10-17)
+- [x] verify-facts.py — 27 claims, 49 HIGH (image manifest warning — manifest created after script run)
+- [x] compile-content-data.py — 5 stories, 7 tweets, 5 FB, 5 articles
+- [x] generate-review-dashboard.py — 27 items
+- [ ] generate-postplanner-export.py — 0 posts (known parsing issue)
+- [ ] publish-unified-dashboard.py — BLOCKED (content-dashboards not in authorized repo set, consistent)
+- [ ] publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- [x] git push — main branch
+
+**Stories covered (2026-10-17):**
+1. T1 FOLLOW UP: Buick LPGA Shanghai R3 — Choi Holds Two-Shot Lead (Ryan Calloway)
+2. T1 FOLLOW UP: LIV Golf 2.0 Eight Days Left — Bland In, Rahm Out, DP World Tour Bans (Jake Torres)
+3. T2 FOLLOW UP: Jon Rahm LIV Exit Path — Nov. 5 Hearing, 12-Month Suspension (Marcus Cole)
+4. T2 FOLLOW UP: Butterfield Bermuda Championship Preview — Five Days to Port Royal (Jake Torres)
+5. T2 FOLLOW UP: Scheffler ~180 Consecutive Weeks No. 1 — Tiger's Record 101 Away (Ryan Calloway)
+
+---
+
 ## Latest Run: 2026-10-16
 
 **Run completed:** 2026-10-16

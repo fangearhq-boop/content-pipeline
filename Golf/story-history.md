@@ -2,6 +2,18 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-10-17
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-17 | T1 | Buick LPGA Shanghai R3 — Choi Holds Two-Shot Lead Into Penultimate Round | X(2), FB, Article | FOLLOW UP |
+| 2026-10-17 | T1 | LIV Golf 2.0 Eight Days Left — Bland Commits, Rahm Out, DP World Tour Bans Players | X(2), FB, Article | FOLLOW UP |
+| 2026-10-17 | T2 | Jon Rahm LIV Exit Path — Nov. 5 Court Date, 12-Month Suspension Ahead | X(1), FB, Article | FOLLOW UP |
+| 2026-10-17 | T2 | Butterfield Bermuda Championship Preview — Five Days to Port Royal, $6M on Line | X(1), FB, Article | FOLLOW UP |
+| 2026-10-17 | T2 | Scheffler at ~180 Consecutive Weeks No. 1 — Tiger's Record Still 101 Away | X(1), FB, Article | FOLLOW UP |
+
+---
+
 ## 2026-10-16
 
 | Date | Tier | Title | Platforms | Status |
