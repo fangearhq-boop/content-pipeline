@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-17
+
+### STORY 1: Three Days to Opening Night — Injury Wave Won't Stop Monday's Tripleheader
+- **Tier:** 1
+- **Category:** NBA Opening Night / Season Preview / Injuries
+- **Key facts:** Opening Night Oct. 20 — Celtics at Pistons 3 PM, Sixers at Knicks 7 PM (Knicks banner ceremony), Thunder at Spurs 9:30 PM; all NBC; SGA two-time MVP chasing third; Spurs eliminated Thunder in 2026 WCF Game 7; Wemby on $252M extension; LeBron Sixers debut at MSG; Jaylen Brown also on Sixers; Paul George makes Celtics debut at Detroit
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+
+### STORY 2: Roster Deadline Day — Wiseman vs. Brown and the NBA's Final Cuts
+- **Tier:** 1
+- **Category:** NBA Roster Moves / New York Knicks / James Wiseman / Bruce Brown
+- **Key facts:** Non-guaranteed deadline Oct. 17 4 PM CT; Knicks deciding Wiseman vs. Brown for final spot; Wiseman frontrunner; Knicks already waived Eubanks (torn pec), Agbaji, Bradley on Oct. 16; Jazz cut Funk/Moore; Nets cut Humrichous; Hawks cut Bezhanishvili
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: Clippers Opening Night Injury Disaster — Ingram, Strus, Konan Niederhauser Out
+- **Tier:** 1
+- **Category:** Los Angeles Clippers / Brandon Ingram / Injuries / Opening Night
+- **Key facts:** Ingram out (partial Achilles tear, heel surgery May 8, hasn't played since April 29 vs Toronto); Strus out (partial torn plantar fascia, right foot); Konan Niederhauser out; Garland + Wagler carry offense; Sanders optimistically available; Coach Lue gave reassuring update Oct. 14; Clippers open Oct. 21 vs Sacramento
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: Otega Oweh Out for Season — Achilles Tear Before WCF Rematch
+- **Tier:** 2
+- **Category:** Oklahoma City Thunder / Otega Oweh / Injuries
+- **Key facts:** Oweh torn right Achilles tendon, out for 2026-27 season; Thunder open Oct. 20 at San Antonio (WCF rematch); SGA healthy
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: Nuggets' Strawther Knee Scare — MRI Pending Before Season Opens
+- **Tier:** 2
+- **Category:** Denver Nuggets / Julian Strawther / Injuries
+- **Key facts:** Strawther left knee sprain from Oct. 14 preseason; MRI planned; results not reported as of Oct. 17; Nuggets open Oct. 21; Jokic healthy
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
 ## 2026-10-16
 
 ### STORY 1: Opening Night Four Days Away — Banner, LeBron, and Monday Night on NBC
