@@ -3,6 +3,16 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## October 17, 2026
+
+| 2026-10-17 | Alejandro Davidovich Fokina (Spain, No. 26) def. Alexander Zverev (Germany, No. 1) 5-7, 6-4, 6-3 in Shanghai Masters SF — Fokina into 2nd career Masters 1000 final; 36 winners vs 28; lost only 3 pts on serve in 3rd set; H2H now 2-6 vs Zverev; moves back into ATP Top 15; faces Medvedev in Sunday final. Sources: Sunday Guardian Live (307452), Tennis Temple, Malay Mail (239502), Tennis365 | T1 | X, FB, Article | Elena Voss; CONFIRMED RESULT |
+| 2026-10-17 | Sonay Kartal (GB, No. 170) def. Jelena Ostapenko 7-6(11), 7-6(5) in Wuhan Open SF — Kartal into first WTA 1000 final; 88-87 total points; 2h 12min; comeback story: 6 months off with back injury; will face Swiatek or Chwalinska in Sunday final. Sources: Sofascore, Yahoo Sports, Tennis.com, Infobae/EFE | T1 | X, FB, Article | Marcus Cole; CONFIRMED RESULT |
+| 2026-10-17 | Daniil Medvedev (Russia, 5th seed) def. Rafael Jodar (Spain) in Shanghai Masters SF — Medvedev into 6th consecutive Shanghai Masters final; Asian swing record 11-1 across Hangzhou/Beijing/Shanghai; Jodar exits as youngest-ever Shanghai SF (20yo); Jodar ATP Finals hopes still alive; Medvedev faces Fokina in Sunday final. Sources: Gulf News (6th consecutive final headline), Arab News | T2 | X, FB, Article | Ryan Calloway; CONFIRMED RESULT (score unconfirmed at pipeline time) |
+| 2026-10-17 | Iga Swiatek vs. Maja Chwalinska — first all-Polish WTA 1000 SF in history — Wuhan Open; Swiatek beat Ann Li 6-4, 6-1 for 25th WTA 1000 SF (record); Chwalinska (2026 FO runner-up) beat Sakkari 6-0, 3-6, 7-5 for first WTA 1000 SF; winner faces Kartal in Wuhan final Sunday. Sources: WTA Tennis, Field Level Media, Sunday Guardian Live, TVP World | T2 | X, FB, Article | Elena Voss; DEVELOPING (result pending at pipeline time) |
+| 2026-10-17 | Shanghai Masters final Sunday Oct 18: Fokina vs. Medvedev; Wuhan Open final Sunday Oct 18: Kartal vs. Swiatek or Chwalinska; closes out 2026 Asian swing. Sources: ATP Tour, WTA Tennis, Gulf News | T2 | X, FB | Marcus Cole; PREVIEW |
+
+---
+
 ## October 16, 2026
 
 | 2026-10-16 | Rafael Jodar (Spain, No. 12 seed) def. Casper Ruud 4-6, 6-4, 6-3 in Shanghai Masters QF — first Masters 1000 SF; dropped opening set (3rd time this week); ATP Finals hopes surge; will face winner of Medvedev vs. Paul in SF Oct 17. Sources: Sunday Guardian Live, Perfect Tennis Day Nine Recap | T1 | X, FB, Article | Ryan Calloway; CONFIRMED RESULT |

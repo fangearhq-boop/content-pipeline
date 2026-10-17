@@ -1,0 +1,255 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-17",
+  "compiled_at": "2026-10-17T12:20:13.599172+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Davidovich Fokina Stuns No. 1 Zverev to Reach First Masters 1000 Final in Shanghai",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "ALEJANDRO DAVIDOVICH FOKINA BEATS ALEXANDER ZVEREV. The No. 26 stuns the World No. 1, 5-7, 6-4, 6-3. Fokina is in the Shanghai Masters final. Zverev — tournament favorite — is going home. #ShanghaiMasters #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ShanghaiMasters",
+            "#Tennis"
+          ],
+          "char_count": 212
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Fokina vs. Zverev in Shanghai: 36 winners vs. 28. 3 points lost on serve in the third set. He's back in the ATP Top 15 and he has a Masters 1000 final waiting on Sunday. #ShanghaiMasters #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ShanghaiMasters",
+            "#Tennis"
+          ],
+          "char_count": 194
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-davidovich-fokina-stuns-zverev-shanghai-final.html",
+        "headline": "Davidovich Fokina Stuns World No. 1 Zverev to Reach Shanghai Masters Final",
+        "word_count": 560
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Davidovich Fokina Stuns Zverev\n\n#### Image Concept 1 (Social 1080x1350)\n- **Search term:** `Alejandro Davidovich Fokina Spain`\n- **Shot type:** Celebration, fist pump, emotional reaction\n- **Status:** not_started\n\n#### Image Concept 2 (Article Hero 1200x630)\n- **Search term:** `Alexander Zverev Germany`\n- **Shot type:** Match-action forehand or serve\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Kartal Beats Ostapenko in Back-to-Back Tiebreaks to Reach First WTA 1000 Final",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "SONAY KARTAL IS IN THE WUHAN FINAL. No. 170 in the world def. Ostapenko 7-6(11), 7-6(5). Won by ONE point in total (88-87). Six months out injured. Now in the biggest final of her career. #WuhanOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WuhanOpen",
+            "#Tennis"
+          ],
+          "char_count": 206
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Kartal's week: beat Svitolina (No. 6), beat Ostapenko (No. 34), did it all from a wildcard slot after six months off with a back injury. She faces either Swiatek or Chwalinska on Sunday. #WuhanOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WuhanOpen",
+            "#Tennis"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-kartal-beats-ostapenko-wuhan-final.html",
+        "headline": "Kartal Beats Ostapenko in Consecutive Tiebreaks to Reach Wuhan Open Final",
+        "word_count": 546
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kartal Beats Ostapenko\n\n#### Image Concept 3 (Social 1080x1350)\n- **Search term:** `Sonay Kartal Great Britain`\n- **Shot type:** Celebration, arms raised, emotional\n- **Status:** not_started\n\n#### Image Concept 4 (Article Hero 1200x630)\n- **Search term:** `Jelena Ostapenko Latvia`\n- **Shot type:** Match action, aggressive forehand\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Medvedev Into Shanghai Final — Sixth Consecutive Year Reaching Title Match",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Daniil Medvedev is in the Shanghai Masters final for the sixth year in a row. Nobody else has done that. He beat Rafael Jodar in the semis and meets Fokina on Sunday. #ShanghaiMasters #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ShanghaiMasters",
+            "#Tennis"
+          ],
+          "char_count": 191
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-medvedev-sixth-consecutive-shanghai-final.html",
+        "headline": "Medvedev Reaches Sixth Consecutive Shanghai Masters Final, Ends Jodar's Historic Run",
+        "word_count": 592
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Medvedev Into Shanghai Final\n\n#### Image Concept 5 (Social 1080x1350)\n- **Search term:** `Daniil Medvedev Russia`\n- **Shot type:** Victory pose, arms spread, confident expression\n- **Status:** not_started\n\n#### Image Concept 6 (Article Hero 1200x630)\n- **Search term:** `Rafael Jodar Spain`\n- **Shot type:** Action shot, forehand or serve\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "All-Polish Wuhan SF — Swiatek vs. Chwalinska Developing",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Swiatek vs. Chwalinska — the first all-Polish WTA 1000 semifinal ever. One of them reaches the Wuhan final today. The other goes home knowing they made a piece of history just by being here. #WuhanOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WuhanOpen",
+            "#Tennis"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-swiatek-chwalinska-all-polish-wuhan-semifinal.html",
+        "headline": "Swiatek vs. Chwalinska: The First All-Polish Semifinal in WTA 1000 History",
+        "word_count": 601
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Swiatek vs. Chwalinska — All-Polish SF\n\n#### Image Concept 7 (Social 1080x1350)\n- **Search term:** `Iga Swiatek Poland`\n- **Shot type:** Focused expression, ready position, serving\n- **Status:** not_started\n\n#### Image Concept 8 (Article Hero 1200x630)\n- **Search term:** `Maja Chwalinska Poland`\n- **Shot type:** Match action, baseline rally\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Shanghai & Wuhan Finals Preview — Fokina vs. Medvedev, Kartal vs. TBD",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Sunday in tennis: Fokina vs. Medvedev for the Shanghai title. Kartal vs. Swiatek or Chwalinska for Wuhan. A wild two weeks in Asia ends with two genuinely compelling finals. #ShanghaiMasters #WuhanOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ShanghaiMasters",
+            "#WuhanOpen",
+            "#Tennis"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-shanghai-wuhan-finals-preview-sunday.html",
+        "headline": "Shanghai and Wuhan Finals Preview: Fokina vs. Medvedev, Kartal Awaits",
+        "word_count": 573
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Finals Preview\n\n#### Image Concept 9 (Social 1080x1350)\n- **Search term:** `Daniil Medvedev Russia`\n- **Shot type:** Post-match press conference or warm-up\n- **Status:** not_started\n\n#### Image Concept 10 (Social 1080x1350)\n- **Search term:** `Sonay Kartal Great Britain`\n- **Shot type:** Walking on court, ready for match\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

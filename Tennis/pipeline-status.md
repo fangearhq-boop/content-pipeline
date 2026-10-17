@@ -1,5 +1,35 @@
 # Tennis Fanrecap — Pipeline Status
 
+## Current Run: 2026-10-17
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Fokina def. Zverev 5-7,6-4,6-3 Shanghai SF (Sunday Guardian Live, Tennis Temple, Malay Mail); Kartal def. Ostapenko 7-6(11),7-6(5) Wuhan SF (Sofascore, Yahoo Sports, Tennis.com); Medvedev into 6th consecutive Shanghai final (Gulf News headline — score unconfirmed); Swiatek vs. Chwalinska all-Polish Wuhan SF result pending |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Oct 16 S4: Shanghai SF Fokina vs Zverev → RESULT: Fokina wins); S2 FOLLOW-UP (Oct 16 S2: Kartal SF → RESULT: Kartal def. Ostapenko); S3 FOLLOW-UP (Oct 16 S4: Jodar/Medvedev SF → RESULT: Medvedev wins, 6th consecutive final); S4 FOLLOW-UP (Oct 16 S5: Wuhan SFs → all-Polish developing); S5 PREVIEW (Shanghai Final: Fokina vs. Medvedev Sunday; Wuhan Final: Kartal vs. Swiatek/Chwalinska) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories |
+| Articles (5) | COMPLETE | article-01 Fokina def. Zverev (Elena Voss T1); article-02 Kartal def. Ostapenko (Marcus Cole T1); article-03 Medvedev 6th Shanghai final (Ryan Calloway T2); article-04 Swiatek/Chwalinska all-Polish SF (Elena Voss T2); article-05 Finals preview (Marcus Cole T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 30 claims; auto-generated; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 articles |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| Publish Dashboard | BLOCKED | 403 proxy — known recurring issue |
+| PostPlanner Export | COMPLETE (7 posts) | tfr-postplanner-2026-10-17.xlsx + tfr-postplanner-tobi-2026-10-17.xlsx |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue) |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Oct 17 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **Key stories:** Fokina stuns No. 1 Zverev 5-7,6-4,6-3 → first Masters 1000 final; KARTAL (No. 170) def. Ostapenko 7-6(11),7-6(5) → first WTA 1000 final (comeback from back injury); Medvedev into 6th consecutive Shanghai final; Swiatek vs. Chwalinska all-Polish Wuhan SF (result pending); Finals preview Sunday (Fokina vs. Medvedev; Kartal vs. Swiatek/Chwalinska)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); FB posts 0 parsed (known); Jodar vs. Medvedev score unconfirmed at pipeline time (Gulf News headline confirms result); Swiatek vs. Chwalinska result still pending; git PAT blocked by auto-mode classifier (using GitHub MCP push)
+
+---
+
 ## Current Run: 2026-10-16
 
 | Step | Status | Notes |
