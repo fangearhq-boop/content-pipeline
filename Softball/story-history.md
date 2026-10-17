@@ -3,6 +3,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-10-17
+
+### Story 1: 2028 Recruiting Contact Period Opens Today (Oct 17-18)
+- **Date:** 2026-10-17
+- **Tier:** 1
+- **Classification:** FOLLOW UP (previewed Oct 16, 2026 — now happening)
+- **Angle:** Oct 17-18 contact window open. D1 coaches calling 2028 prospects directly for first time. Tennessee No. 4 class (Eldred), OU 5 commits (Schlader), Florida Holden No. 2 + Evans, Texas No. 1 prospect Michaela Landers, FSU twins Luderer. 48-hour sprint that shapes programs for years.
+- **Content Produced:** Article (article-01, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Post-window commitment roundup (Oct 18-19)
+  - 2028 class rankings update after contact wave
+
+### Story 2: Tennessee Road Trip — Lady Vols at Middle Tennessee Saturday
+- **Date:** 2026-10-17
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Tennessee fall ball covered Oct 16 — specific road game preview)
+- **Angle:** Tennessee 3-0 in fall ball; only road game Oct 18 at Middle Tennessee 3 PM ET. Karlyn Pickens + Sage Mardjetko anchor staff Karen Weekly calls deepest in program history. Oct 21 Roane State (rescheduled), Oct 23 Lee University follow.
+- **Content Produced:** Article (article-02, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Middle Tennessee result recap (Oct 18)
+  - Roane State + Lee University follow-ups
+
+### Story 3: Florida Fall Ball Opener — Gators Begin 2027 Journey
+- **Date:** 2026-10-17
+- **Tier:** 2
+- **Classification:** FOLLOW UP (opener previewed Oct 16 — game played Oct 16 vs Santa Fe)
+- **Angle:** Florida opened fall ball at Katie Seashole Pressly Stadium Oct 16 vs Santa Fe College. 7-inning format, free, six starters back, full staff, two transfers, top recruiting class. Article focuses on roster depth and 2027 WCWS outlook; score not confirmed at press time.
+- **Content Produced:** Article (article-03, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Florida fall ball recap with confirmed results
+  - 2027 Florida preview after full fall schedule
+
+### Story 4: Transfer Portal Roundup — Fall's Biggest Movers
+- **Date:** 2026-10-17
+- **Tier:** 2
+- **Classification:** FOLLOW UP (portal covered Oct 16 briefly — deeper dive)
+- **Angle:** LSU lands Mickey Winchell (ND OF, .335 BA, 14 SB). Heavener to Texas Tech. OU adds Harter, Hansen, Gregus. Plumlee (Tennessee LHP) to Alabama. Kasidi Pickering unresolved (OU/TTU options). 137+ entries total.
+- **Content Produced:** Article (article-04, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Kasidi Pickering commitment announcement
+  - TTU portal class full breakdown
+
+### Story 5: Big 12 Fall Ball Roundup — Torres, Kavan, and a Conference on the Rise
+- **Date:** 2026-10-17
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Big 12 programs covered individually; first combined roundup)
+- **Angle:** Texas (Torres .530 BA/16 HR + Kavan 2x WCWS MOP, first game together, 28-1). OU Battle Series weather-shortened Game 3 Oct 14 (Wells 39 HR NFCA FY + Berzon). TTU new coaches Cottrill+Pendley/No. 1 portal class/Beachum from FSU.
+- **Content Produced:** 1 X post, FB long-form + caption, 1 image concept (Tier 3 — no article)
+- **Follow-Up Opportunities:**
+  - Texas spring 2027 preview
+  - TTU coaching staff results at first Big 12 games
+
+---
+
 ## 2026-10-16
 
 ### Story 1: Tennessee Lady Vols 3-0 in Fall Ball — Pickens and Mardjetko Lead Deepest Staff
