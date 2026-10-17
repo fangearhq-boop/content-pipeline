@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-10-15
+## Current Run: 2026-10-17
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D11/D49 fall break Oct 19-23; weekend events (Family Fun Festival, Citadel Trick-or-Treat, Barks & Boos, CMSP Fall Festival); Papablic bedside sleeper recall Oct 15 ~248 units (CPSC); Bellabu Bear bamboo sherpa robes recall #26-013 ~1,300 units (CPSC); AAP 2026 screen time 5 C's framework (EdSurge Feb 2026) |
+| Story History Check | COMPLETE | All 5 stories NEW; avoided Oct 15 repeats (ONTHEWEI, Jocoevol, D11 Bond, AAP flu, weekend roundup) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2) |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 5 posts; all ≤280 chars; 4 hashtags each; COS voice rules; ### STORY N: format |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; **Long-Form Post (time)** format; engagement questions; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Fall Break Guide (Sarah Morales T1); article-02 Free Events Weekend (Jamie Rivera T1); article-03 Papablic Recall (Sarah Morales T2); article-04 Bellabu Bear Recall (Jamie Rivera T2); article-05 AAP Screen Time 5 C's (Sarah Morales T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 61 claims; char limit fixes applied to S4/S5 tweets |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 5 X posts, 5 FB posts, 5 articles |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, gemini base_only |
+| Review Dashboard | COMPLETE | review-dashboard.html — 20 items |
+| Unified Dashboard Publish | BLOCKED | content-dashboards not in authorized repo set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-10-17.xlsx + cosp-postplanner-tobi-2026-10-17.xlsx — 5 posts each; redistributed 13:09–19:09 MT |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | 5 entries prepended to Parenting/story-history.md (Oct 17 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 5 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+- **PostPlanner exports:** 5 posts standard + 5 TOBI
+- **Key stories:** Fall break guide D11/D49 Oct 19-23; free weekend events (Family Fun Festival, Citadel Trick-or-Treat, Barks & Boos); Papablic bedside sleeper recall Oct 15 (248 units, suffocation risk); Bellabu Bear bamboo robes recall #26-013 (1,300 units, burn hazard); AAP 5 C's screen time framework 2026
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); tweet char fix on S4/S5 (removed one word each)
+
+---
+
+## Prior Run: 2026-10-15
 
 | Step | Status | Notes |
 |------|--------|-------|

@@ -2,6 +2,50 @@
 
 ---
 
+## October 17, 2026
+
+### Story 1: Fall Break Starts Monday — Your COS Family Guide for Oct 19–23
+- **Date:** 2026-10-17
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** D11 + D49 fall break Oct 19–23; Boo at the Zoo Oct 23–24 (advance tickets); KOA Fountain Camp Creepy Crawlies Oct 23–25; Bear Creek Nature Center self-guided free; Cheyenne Mountain State Park hiking; D20 not confirmed but typically aligns
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 2: Free Family Events Happening in COS This Weekend (Oct 17–18)
+- **Date:** 2026-10-17
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** Family Fun Festival at Family Worship Center Sat Oct 17 noon–4 PM free; Citadel Mall Halloween Trick-or-Treat Sat Oct 17 11 AM–3 PM free; Barks and Boos Fall Fest Sun Oct 18 11 AM–3 PM free; Fall Festival Cheyenne Mountain State Park Sun Oct 18 2–4 PM trunk-or-treat (park day-use fee)
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 3: Recall Alert: Papablic Bedside Sleepers Pose Suffocation and Entrapment Risk
+- **Date:** 2026-10-17
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** CPSC recall Oct 15 2026; ~248 units; mattress shift traps infant suffocation risk; latch failure collapse risk; sold Amazon + baby retailers; cut mattress in half, email support@papablic.com for refund; cpsc.gov/Recalls
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 4: Recall Alert: Bellabu Bear Children's Robes Fail Flammability Standards
+- **Date:** 2026-10-17
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** CPSC recall #26-013; ~1,300 units; bamboo sherpa robes sizes S/M and M/L; sold Saks Fifth Avenue + boutiques Jan 2024–Jul 2025 ~$60; burn hazard fails flammability standard; return for full refund; bellabubear.com/pages/recall; no injuries reported
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 5: The AAP Changed Its Screen Time Advice in 2026 — Here's What the 5 C's Framework Means
+- **Date:** 2026-10-17
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** AAP Feb 2026 update; shifted from minute limits to 5 C's (Child Content Calm Crowding-Out Communication); Family Media Plan tool at healthychildren.org; for ages 6+ build family-agreed limits together; secondary sources (EdSurge Feb 2026, Jellie's App blog)
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+---
+
 ## October 15, 2026
 
 ### Story 1: Things to Do with Kids in Colorado Springs This Weekend (October 16–18)
