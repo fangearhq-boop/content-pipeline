@@ -8537,3 +8537,50 @@ Each day's stories are appended at the top (newest first).
   - Michael King opt-out decision (November)
   - Joe Ryan FA declaration
   - Cubs signing announcement for any SP
+
+## 2026-10-17
+
+### STORY 1: Suzuki QO Incoming — Formal Farewell Begins
+- **Angle:** FOLLOW UP (Oct 9 Suzuki/Jays first covered; today = QO imminent per Heyman report + departure framing; 5 seasons, .270/.368/.473, 26 HR; per allcaps_lead WINNER, opened "FIVE SEASONS.")
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, informative/morning news)
+- **Follow-Up Opportunities:**
+  - Suzuki QO official announcement (5 days after WS ends)
+  - Suzuki declines QO and signs elsewhere
+  - Blue Jays formally sign Suzuki
+
+### STORY 2: ALCS Game 4 Today — Cubs Fans Pick a Side
+- **Angle:** NEW STORY (Guardians lead Rays 2-1; G4 rained out Friday, happens today Oct 17; bold rival-watch take for Cubs fans; per allcaps_lead WINNER, opened "GAME 4 TODAY.")
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, bold take/rival watch)
+- **Follow-Up Opportunities:**
+  - ALCS result (today or tomorrow)
+  - WS matchup confirmed (Brewers vs winner)
+  - WS Game 1 preview
+
+### STORY 3: Michael King Countdown — Cubs' Must-Have FA
+- **Angle:** FOLLOW UP (Oct 13/15 King covered broadly; today = active countdown since WS starts imminently; Skubal gone; King (3.23 ERA, 28) expected to opt out 5 days post-WS; per allcaps_lead WINNER, opened "FOUR starters needed.")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, analysis/roster news)
+- **Follow-Up Opportunities:**
+  - King opt-out confirmed announcement
+  - Cubs formal pursuit/contract offer
+  - King signing announcement
+
+### STORY 4: Phillies Hire Mattingly — Flaherty Stays in Chicago
+- **Angle:** FOLLOW UP (Oct 14 Flaherty/Phillies first covered; update: Phillies gave Mattingly 2-year deal Oct 14, Cora out; Flaherty confirmed staying as Cubs bench coach; per allcaps_lead WINNER, opened "DONE.")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, analysis/org news)
+- **Follow-Up Opportunities:**
+  - Other manager openings that could affect Cubs staff (if any)
+  - Counsell contract extension/renewal
+  - Flaherty future (2028+)
+
+### STORY 5: Bold Take — Jed Hoyer, Go Get Michael King
+- **Angle:** NEW STORY (synthesis/evening bold take; Brewers in WS framing; Cubs' lineup top-10 NL; pitching the only gap; King = the move; per evening_18_24 WINNER insight + allcaps_lead WINNER, placed 6:30 PM CT, opened "THE BREWERS")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, bold take/passionate)
+- **Follow-Up Opportunities:**
+  - King signing/Cubs offer
+  - Hoyer press conference / offseason plan announcement
+  - WS storyline as motivation reminder

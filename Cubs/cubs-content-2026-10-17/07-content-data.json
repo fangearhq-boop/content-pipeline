@@ -1,0 +1,206 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-17",
+  "compiled_at": "2026-10-17T09:23:41.490091+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM CT",
+      "description": "Suzuki $23.15M QO expected; Blue Jays waiting",
+      "type": "Informative"
+    },
+    {
+      "time": "9:30 AM CT",
+      "description": "ALCS Game 4 today; Guardians lead 2-1; Cubs fans pick a side",
+      "type": "Bold rival watch"
+    },
+    {
+      "time": "12:00 PM CT",
+      "description": "Michael King countdown — opt-out clock ticking post-WS",
+      "type": "Analysis"
+    },
+    {
+      "time": "3:45 PM CT",
+      "description": "Phillies hire Mattingly 2-year deal; Flaherty stays Cubs bench coach",
+      "type": "Analysis"
+    },
+    {
+      "time": "6:30 PM CT",
+      "description": "Bold take — Brewers in WS; Hoyer must go get King (★ evening WINNER)",
+      "type": "Bold take"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Suzuki QO Incoming — Formal Farewell Begins",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Jon Heyman: Cubs expected to extend $23.15M QO to Suzuki. He will decline. Five seasons, career-best 2026 (.270/.368/.473, 26 HR). Blue Jays lead suitors. Market projected at $100M+. QO comes 5 days after WS ends.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "FIVE SEASONS. 26 homers. .270/.368/.473 in 2026.\n\nJon Heyman: Cubs expected to extend Seiya Suzuki a $23.15M qualifying offer.\n\nHe'll decline it. The Blue Jays are waiting. The market will pay him $100M+.\n\nThank you, Seiya.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / Morning news",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Suzuki QO Incoming\n**Decision:** NEW STORY (QO news is fresh per Heyman report. Oct 9 story was about Blue Jays interest/speculation. Today's angle is the QO itself being imminent — a different hook.)\n**Sources:**\n1. Bleacher Nation (Oct 2026) — Heyman report embedded: \"Cubs expected to make him a qualifying offer\" — MEDIUM confidence (industry reporting, not official Cubs statement yet)\n2. Bleacher Nation, Oct 8, 2026: \"The qualifying offer number for post-2026 free agents is out\" — $23.15M confirmed — HIGH confidence (corroborated Joel Sherman/NY Post)\n3. Spotrac player page (Suzuki contract): Final year of 5-year/$85M, 2026 — HIGH\n4. Baseball Reference (via research) — 2026 stats: .270/.368/.473, 26 HR, 5.1 WAR — MEDIUM (web summary, not directly verified from BBRef page)\n5. The Athletic's Mitch Bannon (via Bleacher Nation Oct 2): Blue Jays expected to pursue — MEDIUM\n**Key Facts:**\n- QO = $23.15M one-year offer (5th straight year rising ~$1M)\n- Suzuki 2026: .270 BA, .368 OBP, .473 SLG, 26 HR, 5.1 WAR (career-best)\n- Age: 32 (born January 18, 1994 — verify for any age claims)\n- Final year of 5-year/$85M deal\n- Cubs \"unlikely to win a bidding war\" (Bleacher Nation)\n- Blue Jays lead suitors\n- QO timeline: 5 days after World Series ends (WS hasn't started; ALCS ongoing)\n**Fact-Check Flags:**\n- Do NOT cite Suzuki's exact age in tweet without BBRef verification\n- \"5.1 WAR\" is from AI-summarized web result — MEDIUM confidence. Do not claim as superlative\n- \"Career-best\" WAR — plausible given earlier WAR totals, but not cross-referenced. Flag.\n**Why It Matters:**\nSuzuki has been a cornerstone of the Cubs' outfield for 5 years. This is the beginning of the formal goodbye process. Cubs fans know they're losing him — this makes it official and quantifies his value one more time before he walks.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "ALCS Game 4 Today — Cubs Fans Pick a Side",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Guardians lead Rays 2-1; G4 rained out Friday, happening today. Cleveland can close. Bold take: Cubs fans root for whoever can beat the Brewers in the World Series. Guardians have the momentum.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "GAME 4 TODAY. Guardians lead the Rays 2-1 in the ALCS.\n\nCleveland closes it out or Tampa ties the series. Either way, the Brewers wait.\n\nCubs fans, your assignment is clear: root for whoever beats Milwaukee in October.\n\nThe Guardians have the momentum. Lock in.\n\n#Cubs #ALCS #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Bold take / Rival watch",
+          "hashtags": [
+            "#Cubs",
+            "#ALCS",
+            "#MLB"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "ALCS Game 4 Today — Cubs Fans Pick a Side\n**Decision:** NEW STORY (ALCS series status fresh today; G4 rescheduled from yesterday's rainout)\n**Sources:**\n1. CBS Sports 2026 playoff bracket article — \"ALCS Game 4 now set for Saturday\" — HIGH confidence\n2. ESPN game summaries: G1 (CLE 7, TB 3), G3 (CLE 3, TB 2, Halpin HR) — HIGH\n3. Baseball Reference 2026 ALCS page — HIGH\n4. NBC affiliate playoff bracket article — MEDIUM (summaries)\n**Key Facts:**\n- Guardians lead Rays 2-1 in ALCS\n- G4 today (Saturday Oct 17) — CLE can close; TB can tie at 2-2\n- Game 1: CLE 7, TB 3 (Oct 12) — Jose Ramirez and Chase DeLauter led CLE\n- Game 2: TB 3, CLE 1 (Oct 13) — Rays tied it\n- Game 3: CLE 3, TB 2 (Oct 15) — Petey Halpin go-ahead HR\n- G4 was rained out Oct 16; rescheduled for today\n- Brewers await winner for World Series\n- Brewers in WS for first time since 1982 (confirmed multiple sources Oct 16 coverage)\n**Why It Matters:**\nOff day with big game happening. Cubs fans are the most invested NL Central fan base after the Brewers clinched. Who do Cubs fans root for? Division rival Brewers winning vs. AL team in WS = Cubs fan schadenfreude dilemma.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Michael King Countdown — Cubs' Must-Have FA",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "WS starts imminently; King opt-out deadline 5 days after WS. Skubal gone. King (3.23 ERA, 2026) is the best arm on the market. Cubs need 4 starters. Horton TJ. This is the move of the offseason.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "FOUR starters needed. Horton out until mid-2027. Gausman, Holmes, Peterson, Imanaga all gone.\n\nMichael King (3.23 ERA, 28) is expected to opt out 5 days after the World Series.\n\nHe's the best arm available this winter. The Cubs don't have a Plan B.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Analysis / Roster news",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Michael King Countdown\n**Decision:** FOLLOW UP (Oct 13 story covered King broadly; Oct 15 QO countdown mentioned King timing. Today = fresh angle with WS opponent being finalized imminently, making King's opt-out clock active.)\n**Sources:**\n1. GaslampBall (Padres blog, Oct 2026): King opts out per MLBPA free agent announcement — note: this may be from prior offseason (pre-re-signing). Treat as LOW confidence for 2026 opt-out confirmation.\n2. CBS Sports (via research): King re-signed Padres 3yr/$75M with two player options — HIGH confidence\n3. MLB.com opt-out preview (Aug 29, 2026): King's mutual option for 2026/27 — HIGH. \"Second-best pitcher on the market\" behind Skubal — MEDIUM\n4. MLB.com opt-out article: Deadline 5 days after WS — HIGH\n**Key Facts:**\n- King 2026: 3.23 ERA, 27 starts\n- Contract: 3-year/$75M signed after 2025; has player options after '26 and '27\n- Deadline: 5 days post-WS (WS starts within days)\n- Ranked No. 2 FA this offseason (Skubal No. 1 — but Skubal signed 1-year Dodgers deal per Oct 15 coverage)\n- Expected to opt out per multiple reports\n- Cubs need: 4 rotation spots open (Gausman, Holmes, Peterson, Imanaga all FA; Boyd mutual option unlikely; Horton TJ out until mid-2027)\n- Sonny Gray was one target (covered Oct 14)\n**Fact-Check Flags:**\n- King's ERA \"3.23\" — from MLB.com opt-out preview (Aug 2026 data), not season-final stats. Note as approximate.\n- \"27 starts\" — same caveat, may be partial season count\n- Do NOT state King \"will opt out\" — say \"expected to\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Phillies Hire Mattingly — Flaherty Stays in Chicago",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Phillies gave Mattingly a 2-year deal (Oct 14). Alex Cora turned down the job. PHI search over. Ryan Flaherty stays as Cubs bench coach. Counsell keeps full staff going into the most important Cubs winter in years.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "DONE. Phillies gave Don Mattingly a 2-year deal. Alex Cora said no. Search is over.\n\nMattingly went 79-55 as interim and got Philadelphia to the playoffs for the fifth straight year.\n\nRyan Flaherty stays as Cubs bench coach. Continuity intact.\n\n#Cubs #MLB #GoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Analysis / Org news",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#GoCubs"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Phillies Manager Update / Flaherty\n**Decision:** FOLLOW UP (Oct 14 first linked Flaherty to PHI opening. New development: Alex Cora out = field narrows; Mattingly leading; Flaherty situation potentially clearer.)\n**Sources:**\n1. Nightengale/USA Today via Newsweek (Oct 2026): \"Alex Cora turns down Phillies, plans to sit out 2027 season\" — HIGH confidence\n2. The Athletic (Gelb/Stark, Oct 7, 2026): \"Everything on the table, including removing Mattingly's interim tag\" — MEDIUM\n3. Bleacher Report (Oct 7, 2026): Mattingly 79-55 record as interim — HIGH (verifiable)\n4. SI.com (Cubs coverage): \"NL rival reportedly targeting Ryan Flaherty for manager role\" — MEDIUM\n5. No new Flaherty interview update found — remain at MEDIUM\n**Key Facts:**\n- Phillies fired Rob Thomson 28 games in\n- Mattingly interim: 79-55 record, 5th straight postseason for PHI\n- Alex Cora: reportedly rejected Phillies, plans to take 2027 off (same as his 2026 off)\n- Mattingly: conflicting on his future — one report says PHI keeps him, another says they'll part ways \"gracefully\"\n- Ryan Flaherty: Cubs bench coach, linked to PHI opening per SI.com (Oct 14 original story)\n- No confirmed interview found\n**Fact-Check Flags:**\n- \"79-55\" Mattingly record — HIGH confidence (Bleacher Report)\n- Do NOT claim Flaherty interviewed with PHI — only \"linked to\" or \"reported interest\"\n- Do NOT state Mattingly will or won't get the job — use \"leading candidate\" language",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Bold Take — Jed Hoyer, Go Get Michael King",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Brewers in the World Series. Cubs watching from home. The gap is real but fixable: one elite SP changes everything. Cubs' lineup (PCA, Bregman, Swanson, Busch) is already top-10 NL. One move — King — makes 2027 a real year.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "THE BREWERS are in the World Series. The Cubs are watching.\n\nThe gap is real — and it's fixable. Chicago's lineup is top-10 in the NL. PCA. Bregman. Swanson. Busch.\n\nOne move changes this winter: Michael King.\n\nJed Hoyer, go get him.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Bold take / Evening WINNER slot",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Bold Offseason Take\n**Decision:** NEW STORY (synthesis take not directly covered before — framing Cubs' entire winter around one SP acquisition)\n**Sources:**\n- Pipeline knowledge: Horton TJ (out until mid-2027), Gausman/Holmes/Peterson/Imanaga all FA, Boyd mutual option unlikely to be picked up, Bregman 5yr/$175M signed, PCA/Swanson core in place\n- Research: King as No. 2 FA, Skubal gone, Gray targeted (Oct 14)\n**Key Facts:**\n- 4 of 5 rotation spots open entering winter\n- Horton: Tommy John, not back until mid-2027\n- Core intact: PCA (45/40, MVP candidate), Bregman (5.8 WAR in 2026), Swanson, Happ (if retained)\n- Brewers in WS: direct competitor with a complete roster\n- Cubs path: add 1-2 quality SPs, let Alcantara/Hartshorn develop, target King\n**Why It Matters:**\nThe juxtaposition of Brewers in WS vs. Cubs watching from home crystallizes exactly what Chicago needs. Not a teardown moment — a targeted rebuild moment. The pieces are there offensively; the rotation is the only real problem. That makes this winter decisive.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
