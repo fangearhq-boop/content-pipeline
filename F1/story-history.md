@@ -2,6 +2,44 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-17
+
+### STORY 1: Verstappen Wins Singapore — First Marina Bay Victory, Antonelli Extends Lead to 102
+- **Tier:** 1
+- **Category:** Singapore GP / Max Verstappen / Kimi Antonelli / Race Result
+- **Key facts:** Verstappen wins from pole; P2 Leclerc (+7.3s); P3 Antonelli; P9 Russell (started 21st after 40-place penalty); 73rd career win for Verstappen; first Singapore win; 2nd win of 2026; Russell crashed in Sprint (lap 2 DNF); championship: Antonelli 340, Russell 238, Hamilton 229, Verstappen 221; Mercedes leads constructors 578-444 (Ferrari); 6 races/150 pts remaining
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: Antonelli Clinch Watch — Austin Is the Moment, Youngest Champion Ever on the Line
+- **Tier:** 1
+- **Category:** Kimi Antonelli / F1 Championship / United States GP / Austin
+- **Key facts:** Clinch scenario: win USGP + Russell P9 or lower; Vettel youngest champion record: 23 years 134 days (2010); Antonelli is 20; USGP at COTA Oct 23-25; Race: Sunday Oct 25; 150 pts available across 6 races; American triple-header (Austin, Mexico City, Sao Paulo)
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Austin race result, championship clinch
+
+### STORY 3: Russell's Singapore Nightmare — Sprint DNF, 40-Place Penalty, P9 From P21
+- **Tier:** 2
+- **Category:** George Russell / Singapore GP / F1 Championship
+- **Key facts:** 40-place penalty (5th ICE, 5th TC, 5th exhaust, 4th MGU-K); started P21; Sprint lap 2 crash (DNF); race finish P9 (2 points); now 102 pts behind Antonelli
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
+### STORY 4: Leclerc P2 and Ferrari's Austin Upgrade — Constructors' Fight for P2
+- **Tier:** 2
+- **Category:** Charles Leclerc / Ferrari / Constructors Championship / Austin
+- **Key facts:** Leclerc P2 Singapore (+7.3s); Ferrari bringing final upgrade to Austin; Constructors: Mercedes 578, Ferrari 444 (-134), McLaren P3; 150 pts available
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: Hamilton's Strategy Misfire — P3 Start, P6 Finish, Apologized to Team
+- **Tier:** 2
+- **Category:** Lewis Hamilton / Singapore GP / Mercedes
+- **Key facts:** Qualified P3 Singapore; ran one-stop strategy; finished P6; apologized to team after race; championship: P3 with 229 pts, 111 behind Antonelli
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
 ## 2026-10-16
 
 ### STORY 1: Antonelli Clinch Watch — Seven Days to Austin

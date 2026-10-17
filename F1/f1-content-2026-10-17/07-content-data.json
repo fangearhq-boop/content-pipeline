@@ -1,0 +1,289 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-17",
+  "compiled_at": "2026-10-17T11:40:04.225880+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Verstappen Wins Singapore — First Marina Bay Victory, Antonelli Extends to 102 Points",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Race recap, Verstappen's first Singapore win, and what the result means for Antonelli's title.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Verstappen wins Singapore for the first time in his career.\n\n73rd F1 victory. Leclerc P2. Antonelli P3.\n\nRussell starts 21st after a 40-place penalty, finishes 9th. The championship gap is now 102 points.\n\nAntonelli is running away with this. #F1 #SingaporeGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SingaporeGP"
+          ],
+          "char_count": 259
+        },
+        {
+          "label": "Post 2",
+          "text": "What Verstappen's Singapore win means:\n\n— His first Marina Bay victory (73 races to get it)\n— Antonelli leads by 102 with 150 left\n— Mercedes could clinch in Austin in 8 days\n\nThe title picture has never been clearer. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "Max Verstappen finally won at Marina Bay — and he did it the right way.\n\nStarting from pole position, Verstappen led the 2026 Singapore Grand Prix from the front and took a commanding victory at a circuit that had eluded him throughout his career. Charles Leclerc finished second, 7.3 seconds back, and Kimi Antonelli third. The result was Verstappen's 73rd Grand Prix win and his second of the 2026 season.\n\nThe bigger story, as always this season, was Kimi Antonelli. He finished third and continues to lead the drivers' championship — now by 102 points over teammate George Russell with six races remaining. Russell, who started 21st after taking a 40-place engine component penalty, could manage only ninth place. He crashed out of Saturday's Sprint on lap 2 and had to work all race just to score 2 points.\n\nThe Singapore weekend felt like a turning point. Antonelli didn't win — but he didn't need to. Every race that goes by without a dramatic swing in the standings makes his championship more inevitable. With 150 points still to play for and a 102-point cushion, the numbers are working in his favour.\n\nNext stop: Austin, Texas, on October 25. #F1 #SingaporeGP #F1Fanrecap",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-verstappen-singapore-win-73rd-career-antonelli-extends-lead.html",
+        "headline": "Verstappen Finally Wins Singapore: 73rd Career Victory as Antonelli Extends Championship Lead to 102 Points",
+        "word_count": 610
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Race result social post"
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article hero"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Antonelli Clinch Watch — Austin Is the Moment, 150 Points Left",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "First clinch opportunity. Austin math, title scenarios, and the youngest champion milestone.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Antonelli can win the F1 title at Austin next Sunday.\n\nThe math: win the USGP + Russell finishes No. 9 or lower = youngest world champion in history at 20.\n\nVettel's record: 23 years, 134 days (2010). Antonelli would smash it. #F1 #USGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#USGP"
+          ],
+          "char_count": 236
+        },
+        {
+          "label": "Post 4",
+          "text": "102 points. 150 remaining. 8 days to Austin.\n\nKimi Antonelli is one good weekend from making history.\n\nThe youngest F1 world champion. Ever. #F1 #KimiAntonelli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#KimiAntonelli"
+          ],
+          "char_count": 159
+        }
+      ],
+      "facebook": {
+        "long_form": "The moment could come next Sunday.\n\nKimi Antonelli leads the 2026 F1 Drivers' Championship by 102 points with six races remaining and 150 points still available. He can mathematically clinch the title at the United States Grand Prix at the Circuit of the Americas in Austin on October 25 — if he wins the race and George Russell finishes ninth or lower.\n\nIf that happens, Antonelli would become the youngest Formula 1 World Champion in history. Sebastian Vettel's record — set at 23 years and 134 days in 2010 — would fall to a driver who is 20 years old.\n\nIt has been a remarkable season. Antonelli has led the championship from the early rounds, won six races, and handled the pressure of being a genuine title contender in only his second full F1 season. He came into 2026 as the most exciting young driver in the sport; he's leaving it — all but certainly — as world champion.\n\nOne week. One race. One chance at history. Austin is watching. #F1 #KimiAntonelli #USGP #F1Fanrecap",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-02-antonelli-clinch-austin-usgp-youngest-champion-ever.html",
+        "headline": "Antonelli Can Make History in Austin: The Math, The Milestone, and One Week to the Moment",
+        "word_count": 601
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Title clinch watch social post"
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article hero"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Russell's Singapore Nightmare — Sprint DNF, 40-Place Penalty, P9 From P21",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Russell's title hopes effectively over — how does he regroup for Austin?",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "George Russell's Singapore in full:\n\n— 40-place grid penalty (5th engine)\n— Crashed out of the Sprint on lap 2\n— Started 21st, finished 9th (2 points)\n— Now 102 points behind Antonelli\n\nThis title fight is over. #F1 #GR63",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#GR63"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "George Russell needed a great Singapore weekend. He got the opposite.\n\nFirst came the penalty. An engine component change — his fifth internal combustion engine, fifth turbocharger, fifth exhaust set and fourth MGU-K of the season — dropped him 40 places on the starting grid. He would start 21st rather than the front-row position he might have expected based on his qualifying pace.\n\nThen the Sprint. Russell ran well early but crashed out on lap 2, scoring zero points when he desperately needed some.\n\nThe grand prix itself showed his quality: starting 21st and recovering to ninth is not a bad result in isolation. But in the context of a championship he needed to reduce the deficit in, ninth place and two points moved the needle nowhere.\n\nHe now trails teammate Kimi Antonelli by 102 points with 150 available across six races. A mathematical miracle remains possible — but miracles aren't a championship strategy. Russell needs Antonelli to have multiple disasters while he wins races. Singapore made that scenario even harder to imagine.\n\nThe title fight between the two Mercedes teammates is effectively over. #F1 #GR63 #F1Fanrecap",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-03-russell-singapore-nightmare-penalty-sprint-crash-102-back.html",
+        "headline": "Russell's Singapore Weekend From Hell: The Penalty, the Sprint Crash, and a Title Fight That's All But Over",
+        "word_count": 566
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Singapore nightmare recap post"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Leclerc P2 and Ferrari's Austin Upgrade — Constructors' Race Still Alive",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Ferrari's Leclerc delivers in Singapore; Austin upgrade makes them contenders to close the gap.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Leclerc finishes P2 in Singapore — one of Ferrari's best results of the late season.\n\nThey're bringing a final development upgrade to Austin next weekend.\n\nFerrari vs. McLaren for P2 in the constructors' is the race within the race. #F1 #Ferrari",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Ferrari"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "While the drivers' championship is all but decided, the constructors' race has a compelling subplot heading into Austin.\n\nCharles Leclerc finished second at Marina Bay — a strong result for Ferrari in the late season. The team is bringing a final development upgrade to the Circuit of the Americas next weekend, which could help them close the gap to championship-leading Mercedes in the constructors' standings.\n\nMercedes leads with 578 points. Ferrari is second with 444 — a deficit of 134 points with 150 available across six races. Mathematically, Ferrari cannot overtake Mercedes for the constructors' title. But the battle for second place in the constructors' championship — which carries significant prize money and prestige — is very much alive, with McLaren in third.\n\nThe Ferrari upgrade, the Leclerc performance, and the Austin circuit that should suit their package make this one of the most anticipated rounds for the Scuderia. #F1 #Ferrari #CharlesLeclerc #F1Fanrecap",
+        "image_caption": "",
+        "posting_time": "7:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-leclerc-p2-ferrari-austin-upgrade-constructors-fight.html",
+        "headline": "Leclerc's P2 and Ferrari's Austin Upgrade: The Constructors' Battle That Matters Now",
+        "word_count": 501
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Leclerc P2 / Ferrari upgrade post"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Hamilton's Strategy Misfire — P3 Start, P6 Finish, Third in Championship",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Hamilton's Singapore regret — the strategy call that cost him crucial points.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Hamilton qualified P3 in Singapore.\n\nRan a one-stop strategy that didn't work. Finished P6.\n\nHe apologized to the team afterward.\n\n111 points behind Antonelli with 150 left. His own teammate is second. #F1 #LH44",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LH44"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "Lewis Hamilton has been in situations like this before — he just usually ends up on the right side of them.\n\nHe qualified third for the Singapore Grand Prix. Starting from a strong grid position at a circuit that rewards consistency and strategy execution, Hamilton had every reason to expect a podium. He ran a one-stop strategy. It didn't work. He finished sixth, and afterward he apologized to his Mercedes team.\n\nThat is the story of Hamilton's 2026 season in miniature. He is in his final Mercedes year, racing alongside two younger teammates in Antonelli and Russell, and the moments where things need to go right keep not going right. He is third in the championship — behind both his teammates — on 229 points. Antonelli leads by 111. With 150 points available, Hamilton is technically still in the title conversation. In practice, he is not.\n\nAustin will be one of Hamilton's last chances to remind the world of who he is and what he can still do. #F1 #LewisHamilton #LH44 #F1Fanrecap",
+        "image_caption": "",
+        "posting_time": "9:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-hamilton-singapore-strategy-p3-start-p6-finish-apologizes.html",
+        "headline": "Hamilton's Singapore Regret: A P3 Start, a Failed One-Stop, and an Apology to His Team",
+        "word_count": 571
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Hamilton strategy analysis post"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

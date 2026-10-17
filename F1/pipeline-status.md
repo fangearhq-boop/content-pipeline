@@ -1,11 +1,45 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-10-16
+## Last Run: 2026-10-17
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** F1 Fanrecap
 **Stories:** 5
 **Articles:** 5
+
+---
+
+## 2026-10-17 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research | ✅ Complete | Singapore GP results, Antonelli clinch math, Russell/Hamilton analysis |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 7 posts, all ≤280 chars |
+| FB Posts | ✅ Complete | 04-social-posts-facebook.md |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 articles in articles/ |
+| verify-facts.py | ✅ Complete | 12 claims, 25 HIGH; image warnings expected (imagn) |
+| compile-content-data.py | ✅ Complete | 5 stories, 7 tweets, 5 FB posts, 5 articles (posting window warnings — non-blocking) |
+| Image manifest | ✅ Complete | 07-image-manifest.md |
+| Story history | ✅ Updated | |
+| generate-review-dashboard.py | ✅ Complete | 27 items |
+| generate-postplanner-export.py | ⚠ 0 posts | Known parsing issue |
+| publish-to-wordpress.py | ❌ BLOCKED | Proxy policy — known scheduler limitation |
+| Git push | ✅ Complete | content-pipeline repo |
+
+**Stories covered (2026-10-17):**
+1. T1 FOLLOW UP: Verstappen Wins Singapore — 73rd Career Win, First at Marina Bay; Antonelli Leads by 102 (Ryan Calloway)
+2. T1 FOLLOW UP: Antonelli Clinch Watch — Austin Is the Moment, Youngest Champion Ever at Stake (Marcus Cole)
+3. T2 FOLLOW UP: Russell's Singapore Nightmare — Sprint DNF, Penalty, P9 Result (Elena Voss)
+4. T2 FOLLOW UP: Leclerc P2 and Ferrari's Austin Upgrade — Constructors Fight (Ryan Calloway)
+5. T2 FOLLOW UP: Hamilton's Strategy Misfire — P3 Start, P6 Finish, Apologized (Marcus Cole)
+
+---
+
+## 2026-10-16 Run Log
 
 ---
 
