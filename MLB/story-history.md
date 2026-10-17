@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## Pipeline Run: 2026-10-17
+
+### Story 1: Brewers Sweep Dodgers in NLCS -- World Series Bound for First Time Since 1982
+- **Date:** 2026-10-17
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Brewers led NLCS 3-1 Oct 16 -- sweep now complete)
+- **Angle:** Brewers swept Dodgers 4-0. Game 4: Brewers 6-4. Garrett Mitchell go-ahead HR off Tanner Scott 6th inning, David Hamilton 9th insurance. Ohtani's only postseason HR came in losing effort. Jake Bauers NLCS MVP. First team to sweep a 7-game series while trailing in every game. Dodgers 14-year consecutive postseason streak ends.
+- **Content Produced:** Article (article-01, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+
+### Story 2: ALCS Game 4 Preview -- Rescheduled Tonight After Friday Rain
+- **Date:** 2026-10-17
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Game 3 covered Oct 16; Game 4 postponed by rain, tonight 8 PM ET)
+- **Angle:** Game 4 rained out Oct 16 at Progressive Field, rescheduled to Oct 17 8 PM ET on TBS. Guardians lead 2-1. Nick Martinez (Rays) vs Shawn Armstrong (CLE bullpen game). Game 5 moved to Sunday Oct 18 5 PM if needed.
+- **Content Produced:** Article (article-02, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+
+### Story 3: Jake Bauers -- The Unlikely NLCS MVP
+- **Date:** 2026-10-17
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Bauers named NLCS MVP. Career .250 hitter, first baseman. Quote: "We knew we were going to win that game." Profile of the underdog MVP on the underdog World Series team. The most Milwaukee player on the most Milwaukee team.
+- **Content Produced:** Article (article-03, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+
+### Story 4: Ohtani's October Ends -- One HR, .150 Average, Season Over
+- **Date:** 2026-10-17
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Ohtani slump covered Oct 14+16; he finally homered in Game 4)
+- **Angle:** Ohtani hit his only postseason HR in Game 4 2nd inning (2-run, Dodgers up 4-0). Brewers rallied. Final line: .150 BA, 1 HR, .411 OPS. Managing knee+biceps all October. LA's 14-year streak ends. Offseason questions for Dodgers.
+- **Content Produced:** Article (article-04, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+
+### Story 5: World Series Preview -- Milwaukee Awaits ALCS Survivor
+- **Date:** 2026-10-17
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** World Series starts Oct 23 in Milwaukee (Brewers 103-59, home field). Games 1-2 MIL, 3-5 at AL park, 6-7 MIL. Brewers strengths: Mitchell, Hamilton, bullpen. CLE vs TB ALCS Game 4 tonight decides opponent.
+- **Content Produced:** Article (article-05, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+
+---
+
 ## Pipeline Run: 2026-10-16
 
 ### Story 1: NLCS Game 4 Recap — Brewers 6, Dodgers 4
