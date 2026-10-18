@@ -1,0 +1,223 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-18",
+  "compiled_at": "2026-10-18T09:20:10.755436+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1",
+      "type": "ALCS G5 + WS starts Friday + QO clock"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 2",
+      "type": "Suzuki departure analysis"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 3",
+      "type": "Rotation crisis: 4 starters to replace"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Story 4",
+      "type": "Contract option architecture"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Story 5",
+      "type": "Hartshorn Double-A prospect feature"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Story 6",
+      "type": "NL Central standings bold take"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "ALCS tied 2-2 — WS starts Friday, Cubs QO clock ticking",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "ALCS G4 result (Rays 7-3, tied 2-2); G5 today 4 PM CT. WS opens Oct 23 vs Brewers at Milwaukee. QO window opens 5 days after WS. Suzuki/Happ decisions imminent.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "The ALCS is tied 2-2. Game 5 is today at 4 PM CT.\n\nWhoever wins faces the Brewers in a World Series starting Oct. 23 in Milwaukee.\n\nThe Cubs' QO window opens 5 days after the WS ends. Suzuki and Happ decisions coming fast.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Seiya Suzuki — .270/.368/.473, 26 HR, 5.1 WAR walking out the door",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Standalone Suzuki analysis (Oct 14 had dual Happ+Suzuki framing). He's 32 with Gold Glove finalist stats and $100M+ market value. Cubs \"unlikely to compete in bidding war\" per multiple reports. Blue Jays pursuing. Bold departure analysis.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Seiya Suzuki: .270/.368/.473, 26 HR, 5.1 WAR, Gold Glove finalist.\n\nHe's 32 and likely to see $100M+ on the open market. Multiple reports say the Cubs aren't expected to compete in that bidding war.\n\nLetting that production walk is a choice. Own it.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Bold/Informative",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Cubs rotation crisis — Imanaga, Gausman, Horton, Boyd all uncertain",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Oct 14 covered Sonny Gray specifically. Today = full-scale picture: 3-4 starters potentially gone, Horton out until mid-2027 (second TJ surgery April 2026). $100M+ budget. Biggest offseason challenge.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Imanaga: gone. Gausman: likely gone. Horton: out until mid-2027. Boyd: uncertain.\n\nThe Cubs could be replacing 3-4 starters this offseason.\n\nThey reportedly have $100M+ to spend. How this rotation gets rebuilt defines the 2027 season.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Four contract options shape the Cubs' free agent spending capacity",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Boyd ($15M mutual), Holmes ($12M player), Rea ($7.5M club), Webb ($2.5M club) = $37M in decisions converging in same window as QO deadline. Framed as offseason architecture, NOT bare transactions.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Four contract option calls — Boyd, Holmes, Rea, Webb — will shape the Cubs' free agent budget before the market even opens.\n\nCombined value: roughly $37 million.\n\nThat's not just roster decisions. That's offseason architecture.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Analytical",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Josiah Hartshorn — Double-A at 19, 100 RBIs, No. 39 overall",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Oct 14 = first dedicated Hartshorn feature. Today: Double-A debut (Sept 12), .317/.429/.556 at High-A, 100 RBIs (first Cubs teen in 2+ decades), MLB Pipeline No. 39. Different angle from Oct 14.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Josiah Hartshorn: .317/.429/.556 at High-A, 100 RBIs at 19 years old.\n\nFirst Cubs teenager to reach 100 RBIs in at least two decades. MLB Pipeline has him at No. 39 overall.\n\nThis farm system has a franchise piece in it. 🌱\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Prospect/Feature",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "NL Central final standings — Brewers 103-59, Cubs 89-73, Cardinals 77-85",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Division hierarchy in stark terms. Brewers 103-59 in WS. Cubs 89-73 Wild Card exit (14 GB). Cardinals 77-85 watching from home. Bold take on where Cubs sit and the gap that needs closing.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The NL Central in 2026:\n— Brewers: 103-59, World Series\n— Cubs: 89-73, Wild Card exit\n— Cardinals: 77-85, watching at home\n\n14 games behind. The Cardinals used to set this division's ceiling.\n\nNow the Brewers do. And the Cubs are in between.\n\n#Cubs #GoCubs #NorthSiders",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Bold Take / Division Watch",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#NorthSiders"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

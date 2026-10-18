@@ -1,53 +1,54 @@
-# Cubs Pipeline Status — Updated 2026-10-17
+# Cubs Pipeline Status — Updated 2026-10-18
 
 ## Latest Run
-- **Date:** 2026-10-17 (Saturday — Off day. ALCS Game 4 today (CLE leads TB 2-1, G4 rained out Friday). Suzuki QO incoming (Heyman). Phillies hired Mattingly 2-year deal (Flaherty stays). Michael King countdown. Bold offseason take.)
-- **Stories:** 5
-- **X posts:** 5
+- **Date:** 2026-10-18 (Sunday — Off day. ALCS tied 2-2, G5 today. WS starts Oct 23 at Milwaukee. Suzuki departure analysis. Rotation crisis full picture. Contract option architecture. Hartshorn Double-A follow-up. NL Central standings bold take.)
+- **Stories:** 6
+- **X posts:** 6
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
-- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 5 stories, 5 tweets
-- **07-content-data.json:** ✅ Valid JSON, all 5 posts with posting_time (7:00 AM / 9:30 AM / 12:00 PM / 3:45 PM / 6:30 PM CT), all strptime-parseable
+- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 6 stories, 6 tweets
+- **07-content-data.json:** ✅ Valid JSON, all 6 posts with posting_time (7:00 AM / 9:30 AM / 12:00 PM / 2:30 PM / 3:45 PM / 6:30 PM CT), all strptime-parseable
 - **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
 - **Note:** git remote set-url (PAT embed) blocked by CCR auto-mode classifier; content push via GitHub MCP push_files instead
 
-## Insights Summary (2026-10-17)
-- **Snapshot generated:** 2026-10-17T08:30:00.137214+00:00 (fresh, 30 min before trigger)
-- **significant_findings count:** 3 (new finding vs Oct 16: allcaps_lead added)
-  1. `posting_window=overnight_00_06` LOSER (large effect, p=0.0027, delta=0.636) → No overnight slots used ✓
-  2. `posting_window=evening_18_24` WINNER (large effect, p=0.0156, delta=0.512) → Bold take at 6:30 PM CT ✓
-  3. `opening=allcaps_lead` WINNER (small effect, p=0.0465, delta=0.237) → ALL CAPS opening on every tweet ✓
+## Insights Summary (2026-10-18)
+- **Snapshot generated:** 2026-10-18T08:30:00.102102+00:00 (fresh, 30 min before trigger)
+- **significant_findings count:** 2 (evening_18_24 WINNER and allcaps_lead WINNER from Oct 17 did NOT survive today's gates)
+  1. `posting_window=overnight_00_06` LOSER (large effect, p=0.0023, delta=0.647) → No overnight slots used ✓
+  2. `content_type=transaction` LOSER (medium effect, p=0.0125, delta=0.353) → All posts framed as analysis, not bare transactions ✓
 - **No other significant findings** — brand-voice defaults applied for all other dimensions
 
-## Series Context (2026-10-17)
+## Series Context (2026-10-18)
 - **`off_day`:** TRUE
 - **`is_series_start_today`:** FALSE
 - **`series`:** null
 - **`today_cubs_game`:** null
-- **Action:** Off-day pipeline. ALCS Game 4 happening today. Suzuki QO news, King countdown, Phillies/Flaherty update, bold offseason take.
+- **Action:** Off-day pipeline. ALCS G5 today (tied 2-2). WS opens Oct 23 Brewers at Milwaukee. QO window incoming. Suzuki/rotation/contract option analysis day.
 
 ## Current Cubs Status
 - **2026 season:** OVER. Cubs eliminated by Padres in NL Wild Card Series (swept 2-0, Oct 1)
 - **Final record:** 89-73 (NL Wild Card No. 2)
 - **Postseason:** Lost WCS Game 1 (8-0), Game 2 (4-1). 1 run in 18 innings total.
-- **Now:** Early offseason. Brewers swept Dodgers 4-0 (NLCS). World Series: Brewers await ALCS winner (CLE leads TB 2-1, G4 today Oct 17).
+- **Now:** Early offseason. Brewers in World Series (WS opens Oct 23 at Milwaukee). ALCS tied 2-2, G5 today Oct 18. QO window opens ~5 days after WS ends.
 
 ## Key Ongoing Stories
-- **Rotation rebuild:** 4 of 5 starters FA (Gausman, Holmes, Peterson, Imanaga; Boyd mutual option unlikely). Horton TJ — out until July 2027. Sonny Gray (covered Oct 14). **Tarik Skubal** now officially FA after WS (covered today Oct 15 — one-year Dodgers deal; two-time Cy Young; best arm on market). King opt-out decision pending. Do NOT re-cover Skubal FA angle without new development (signing news, etc.).
-- **Michael King:** Padres RHP. Opt-out decision 5 days after WS. Expected to opt out (best arm on market — Skubal signed Dodgers). Countdown covered Oct 17. Next: opt-out announcement.
-- **Ian Happ FA:** QO deadline covered Oct 15 (QO countdown framing). Next: actual QO announcement.
-- **Seiya Suzuki FA:** Blue Jays strongly interested. Cubs won't bid war. QO expected imminently per Heyman — covered Oct 17. Next: official QO extension, then signing announcement.
-- **Josiah Hartshorn:** No. 1 Cubs prospect, No. 35 MLB Pipeline overall. Covered Oct 14 (first feature). Next: AFL stats, 2027 spring.
-- **Myles Bailey:** 2026 draft pick, AFL Mesa Solar Sox. First coverage Oct 15. Next: AFL stats as season progresses.
-- **Ryan Flaherty:** Confirmed staying as Cubs bench coach — Phillies hired Don Mattingly on 2-year deal (Oct 14). Covered Oct 17. RESOLVED.
-- **PCA MVP:** 45 HR, 40 SB, MLB WAR leader. BBWAA announces November. Next: official BBWAA NL MVP announcement.
-- **AFL:** Mesa Solar Sox through Nov 14. Bailey (Oct 15 — first coverage), Cabrada (Oct 12), Mathis/Howard/Ayers in system.
-- **Gold Glove finalists:** PCA/Happ/Suzuki could sweep outfield. Finalists announced late October.
+- **Rotation rebuild:** 4 of 5 starters FA (Gausman, Holmes, Peterson, Imanaga; Boyd mutual option unlikely). Horton TJ — out until July 2027. Sonny Gray (covered Oct 14). Skubal: do NOT re-cover without new development. King opt-out decision pending (5 days after WS end). Covered Oct 18: full-scale rotation crisis framing.
+- **Michael King:** Padres RHP. Opt-out decision 5 days after WS. Countdown covered Oct 17. Next: opt-out announcement.
+- **Contract options:** Boyd ($15M mutual), Holmes ($12M player), Rea ($7.5M club), Webb ($2.5M club) covered Oct 18 as a group. Next: individual option decisions.
+- **Ian Happ FA:** QO deadline covered Oct 15. Next: actual QO announcement.
+- **Seiya Suzuki FA:** QO angle covered Oct 17. Stats/departure analysis covered Oct 18. Next: official QO extension, then market/signing news.
+- **Josiah Hartshorn:** No. 1 Cubs prospect. Oct 14 first feature (No. 35 ranking). Oct 18 follow-up (No. 39 ranking — Pipeline updated). Double-A debut Sept 12. Next: 2027 spring training.
+- **Myles Bailey:** 2026 draft pick, AFL Mesa Solar Sox. First coverage Oct 15. Next: AFL stats updates.
+- **Ryan Flaherty:** RESOLVED (staying as bench coach). Do not re-cover.
+- **PCA MVP:** BBWAA announces November. Next: official NL MVP announcement.
+- **AFL:** Mesa Solar Sox through Nov 14. Bailey (Oct 15), Cabada (Oct 16). Next: AFL standings/stats updates.
+- **Gold Glove finalists:** PCA/Happ/Suzuki. Winners Nov 1 on ESPN. Next: announcement day coverage.
 
 ## Pipeline Run Log (newest first)
 
 | Date | Type | Stories | Tweets | Status |
 |------|------|---------|--------|--------|
+| 2026-10-18 | OFF DAY (ALCS G5 today, WS Oct 23, Suzuki departure analysis, rotation crisis, contract options, Hartshorn, NL Central standings) | 6 | 6 | ✅ |
 | 2026-10-17 | OFF DAY (Suzuki QO incoming Heyman, ALCS G4 today, King countdown, Phillies hired Mattingly/Flaherty stays, bold King take) | 5 | 5 | ✅ |
 | 2026-10-16 | OFF DAY (Brewers NLCS sweep/WS bound, Gold Gloves 5 finalists, QO clock, AFL Cabada, bold WS take) | 5 | 5 | ✅ |
 | 2026-10-15 | OFF DAY (NLCS G3 result, Skubal FA, QO countdown, AFL Bailey, Brewers motivation) | 5 | 5 | ✅ |
