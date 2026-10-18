@@ -2,6 +2,45 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-18
+
+### STORY 1: Antonelli Austin Clinch Watch — Five Days to Youngest Champion Record
+- **Tier:** 1
+- **Category:** Kimi Antonelli / F1 Championship / US Grand Prix / Austin / Record
+- **Key facts:** Antonelli leads Russell by 102 pts; 150 pts available across 6 races; clinch condition: win USGP + Russell P9 or lower; clinch age: 20yr 61d; Vettel record: 23yr 134d (2010); Mercedes leads constructors 578-444; Austin race Oct 25
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: Hamilton Ignored Ferrari Pit Wall, Lost Podium in Singapore
+- **Tier:** 1
+- **Category:** Lewis Hamilton / Ferrari / Singapore GP / Strategy / Team Dynamics
+- **Key facts:** VSC period; Ferrari told Hamilton to pit; Hamilton stayed out; missed podium; Vasseur: "would have been P2 or P3"; Brundle: "bizarre"; Hamilton apologized; Hamilton P3 in championship (229 pts)
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: Verstappen Races GT3 at Portimão on F1 Off-Weekend
+- **Tier:** 2
+- **Category:** Max Verstappen / GT3 / GT World Challenge / Portimão
+- **Key facts:** Race: Oct 17, Portimão; car: Mercedes-AMG GT3 #3; field: 61 cars; result: 9th; co-driver Lulham drive-through penalty
+- **Byline:** Elena Voss
+- **Status:** NEW
+
+### STORY 4: Rwanda Gets African GP — 10-Year Deal, First Race 2030-2032
+- **Tier:** 2
+- **Category:** F1 Calendar / Rwanda / African GP / Circuit Development
+- **Key facts:** 10-year deal signed Oct 13; Bugesera district, ~40km from Kigali; circuit not yet built; first race 2030-2032; last African GP: South Africa 1993 (33-year gap)
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: Rafael Câmara Confirmed at Haas for 2027
+- **Tier:** 2
+- **Category:** Haas / Driver News / Ferrari Academy / Rafael Câmara
+- **Key facts:** Câmara (Ferrari Academy) replaces Ocon at Haas for 2027; team pushing back on "Ferrari B-team" label
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+---
+
 ## 2026-10-17
 
 ### STORY 1: Verstappen Wins Singapore — First Marina Bay Victory, Antonelli Extends Lead to 102

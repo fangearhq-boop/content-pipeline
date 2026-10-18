@@ -1,0 +1,302 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-18",
+  "compiled_at": "2026-10-18T11:45:57.655910+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "X + Facebook",
+      "type": "Story 1 (Antonelli clinch)"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "X + Facebook",
+      "type": "Story 2 (Hamilton/Ferrari)"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "X + Facebook",
+      "type": "Story 3 (Verstappen GT3)"
+    },
+    {
+      "time": "3:30 PM",
+      "description": "X + Facebook",
+      "type": "Story 4 (Rwanda GP)"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "X + Facebook",
+      "type": "Story 5 (Câmara/Haas)"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Antonelli Austin Clinch Watch — Championship Could End in Five Days",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Kimi Antonelli can win the F1 championship in five days. Win the US Grand Prix at Austin. Have Russell finish 9th or lower. It's over. He would be 20 years and 61 days old — the youngest champion in F1 history by three years. #F1Fanrecap #F1 #USGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#USGP"
+          ],
+          "char_count": 247
+        },
+        {
+          "label": "Post 2",
+          "text": "Vettel's record: youngest champion at 23 years, 134 days (2010). Antonelli's potential clinch: 20 years, 61 days. The gap is not small. It is historic. Austin, October 25. #F1Fanrecap #KimiAntonelli #F1Championship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#KimiAntonelli",
+            "#F1Championship"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-antonelli-austin-clinch-watch-youngest-champion.html",
+        "headline": "Five Days to History: Antonelli Can Win the F1 Championship at Austin",
+        "word_count": 529
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Austin Clinch Watch\n\n**Imagn Search Terms:**\n- \"Kimi Antonelli Mercedes\"\n- \"Kimi Antonelli F1\"\n- \"Kimi Antonelli podium\"\n- \"Kimi Antonelli celebration\"\n\n**Preferred Shot:**\nAntonelli celebrating — podium, cockpit, or post-race with helmet up. Clean close-up preferred for text overlay.\n\n**Text Overlay Concept:**\n- Headline: \"5 DAYS TO HISTORY\"\n- Subline: \"ANTONELLI CAN CLINCH AT AUSTIN\"\n- Detail line: \"102-POINT LEAD | YOUNGEST CHAMPION EVER IN REACH\"\n- Brand: F1 Fanrecap logo (Racing Red / Championship Gold)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Austin Clinch Watch\n- **Decision:** FOLLOW UP — championship clinch scenario developing as Austin weekend approaches\n- **Sources:**\n- F1.com standings (post-Singapore, Oct 17): Antonelli 340 pts, Russell 238, Hamilton 229, Verstappen 221\n- Previous pipeline coverage Oct 17: Verstappen wins Singapore, P3 Antonelli, championship gap confirmed\n- Motorsport.com / F1 broadcast record: Vettel youngest champion record 23yr 134d (2010 Abu Dhabi GP)\n- Antonelli date of birth: August 25, 2006; on Oct 25 = 20 years, 61 days\n- **Key Facts:**\n- Championship standings: Antonelli 340, Russell 238, Hamilton 229, Verstappen 221\n- Antonelli lead over Russell: 102 points\n- Points available across remaining 6 races: 150\n- US Grand Prix at Circuit of the Americas (COTA), Austin, Texas\n- Race date: October 25, 2026\n- Clinch condition (simplest): Win USGP + Russell finishes 9th or lower\n- Age on clinch date (Oct 25): 20 years, 61 days\n- Vettel record: 23 years, 134 days (2010 Abu Dhabi GP, age at race day)\n- Antonelli margin over record: 3 years, 73 days younger than Vettel was\n- Mercedes leads constructors: 578 vs Ferrari 444\n- **Freshness:** Austin opens Oct 23 — five days away; optimal preview window\n- **Confidence:** HIGH — standings from official F1.com, Vettel record widely documented",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Hamilton Ignored Ferrari Pit Wall, Cost Himself a Singapore Podium",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Ferrari told Hamilton to pit under the VSC in Singapore. He stayed out. He missed the podium. Fred Vasseur said he would have been P2 or P3. Martin Brundle called it \"bizarre.\" Hamilton apologized. #F1Fanrecap #LewisHamilton #Ferrari",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#LewisHamilton",
+            "#Ferrari"
+          ],
+          "char_count": 233
+        },
+        {
+          "label": "Post 2",
+          "text": "Hamilton-Ferrari, Singapore edition: team says come in, driver says no, podium disappears. One race into the off-week, the trust question at Ferrari is louder than it's been all season. #F1Fanrecap #Ferrari #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Ferrari",
+            "#F1"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-hamilton-ignored-ferrari-pit-wall-singapore.html",
+        "headline": "Hamilton Ignored Ferrari's Pit Call in Singapore and Lost a Podium",
+        "word_count": 516
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton Ignored Ferrari Pit Wall\n\n**Imagn Search Terms:**\n- \"Lewis Hamilton Ferrari\"\n- \"Lewis Hamilton Singapore\"\n- \"Lewis Hamilton 2026\"\n- \"Lewis Hamilton pit lane\"\n\n**Preferred Shot:**\nHamilton in the Ferrari cockpit, or walking pit lane in Ferrari kit. A focused/pensive expression works well for this story.\n\n**Text Overlay Concept:**\n- Headline: \"HAMILTON vs. THE PIT WALL\"\n- Subline: \"FERRARI SAID PIT. HE STAYED OUT.\"\n- Detail line: \"SINGAPORE | MISSED PODIUM | VASSEUR RESPONDS\"\n- Brand: F1 Fanrecap logo\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton Ignored Ferrari Pit Wall in Singapore\n- **Decision:** FOLLOW UP — post-race team dynamic story, developed from Singapore GP\n- **Sources:**\n- Sky Sports F1 / post-race coverage (Oct 17): Hamilton overruled pit wall on VSC\n- Martin Brundle commentary (Sky Sports, Oct 17): described decision as \"bizarre\"\n- Fred Vasseur post-race (various outlets, Oct 17): Hamilton \"would have been P2 or P3\"\n- Hamilton interview (Oct 17-18): issued apology to team\n- **Key Facts:**\n- Race: Singapore GP, Marina Bay Street Circuit, Oct 17\n- Event: Virtual Safety Car period during the race\n- Decision: Ferrari pit wall told Hamilton to come in for fresh tyres; Hamilton stayed out\n- Result: Hamilton finished outside podium positions; lost opportunity for P2 or P3\n- Vasseur quote (paraphrase, multi-source): Hamilton would have been P2 or P3 with pit stop\n- Brundle description: \"bizarre\"\n- Hamilton response: apologized to team\n- Hamilton position in championship: 3rd, 111 pts behind Antonelli\n- Context: Hamilton-Ferrari first season; strategic trust is central tension\n- **Freshness:** Post-race fallout developing Oct 17-18 — same day / overnight\n- **Confidence:** HIGH — multiple sources confirming incident; Vasseur and Hamilton quotes widely reported",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Verstappen's Off-Weekend — Races GT3 at Portimão, Finishes Ninth",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Max Verstappen's F1 off-weekend: drove a Mercedes-AMG GT3 at Portimão in the GT World Challenge. Finished 9th in a 61-car field. Can't stop. Won't stop. #F1Fanrecap #MaxVerstappen #GT3",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MaxVerstappen",
+            "#GT3"
+          ],
+          "char_count": 184
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-verstappen-gt3-portimao-off-weekend.html",
+        "headline": "Off-Weekend, Still Racing: Verstappen Goes P9 in GT3 at Portimão",
+        "word_count": 396
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen GT3 Portimão\n\n**Imagn Search Terms:**\n- \"Max Verstappen GT3\"\n- \"Max Verstappen Mercedes GT3\"\n- \"Max Verstappen racing 2026\"\n- \"Max Verstappen helmet\"\n\n**Preferred Shot:**\nVerstappen in or around GT3 car, or in racing gear outside the F1 context. Action shot preferred.\n\n**Text Overlay Concept:**\n- Headline: \"OFF-WEEKEND? NOT FOR MAX.\"\n- Subline: \"VERSTAPPEN RACES GT3 AT PORTIMÃO\"\n- Detail line: \"61 CARS | P9 | MERCEDES-AMG GT3\"\n- Brand: F1 Fanrecap logo\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Races GT3 at Portimão\n- **Decision:** NEW — race occurred October 17 at Portimão, Portugal\n- **Sources:**\n- GT World Challenge Europe coverage (Oct 17): Verstappen in 61-car field at Portimão\n- Motorsport wire (Oct 17): finished 9th, drove Mercedes-AMG GT3 #3, co-driver Lulham drive-through penalty\n- **Key Facts:**\n- Event: GT World Challenge Europe, Portimão, Portugal\n- Date: October 17, 2026\n- Car: Mercedes-AMG GT3 #3\n- Field size: 61 cars\n- Verstappen finish: 9th\n- Co-driver: Lulham (received drive-through penalty during race)\n- Context: F1 off-weekend; Verstappen has raced in other series during F1 breaks before\n- **Freshness:** October 17 result — same day / overnight\n- **Confidence:** HIGH — multiple motorsport outlets confirmed result",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Rwanda Gets the African GP — First Race 2030-2032",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Formula 1 is going back to Africa. A 10-year deal for a Grand Prix in Rwanda — Bugesera, ~40km from Kigali. First race: 2030-2032. Last African GP: South Africa 1993. A 33-year absence ends. #F1Fanrecap #F1 #AfricanGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#AfricanGP"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-rwanda-african-gp-deal-bugesera.html",
+        "headline": "F1 Returns to Africa: Rwanda Signs 10-Year Deal for Grand Prix in Bugesera",
+        "word_count": 460
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rwanda African GP\n\n**Imagn Search Terms:**\n- \"Formula 1 Africa\"\n- \"Stefano Domenicali 2026\"\n- \"F1 calendar announcement\"\n- \"Rwanda Kigali\"\n\n**Preferred Shot:**\nF1 president Domenicali at a signing/announcement event, or a generic F1 on-track action shot with Africa branding context.\n\n**Text Overlay Concept:**\n- Headline: \"F1 IS GOING BACK TO AFRICA\"\n- Subline: \"RWANDA SIGNS 10-YEAR DEAL\"\n- Detail line: \"BUGESERA | FIRST RACE 2030-2032 | 33 YEARS SINCE KYALAMI\"\n- Brand: F1 Fanrecap logo\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Rwanda African GP Deal\n- **Decision:** FOLLOW UP — deal signed Oct 13; now in first-week standard coverage window\n- **Sources:**\n- F1.com announcement (Oct 13): 10-year deal for African GP in Rwanda\n- BBC Sport / Sky Sports (Oct 13-14): circuit location Bugesera, ~40km from Kigali\n- First race estimate: 2030-2032\n- Last African GP: South Africa, Kyalami, 1993\n- **Key Facts:**\n- Deal: 10-year agreement between Formula 1 and Rwanda\n- Circuit location: Bugesera, approximately 40 kilometers southeast of Kigali\n- Circuit status: Not yet built\n- Projected first race: 2030-2032\n- Historical context: Last F1 race on African soil was South Africa (Kyalami) in 1993\n- 33-year gap in African F1 coverage\n- **Freshness:** Deal signed Oct 13 (5 days ago) — still in standard news window\n- **Confidence:** HIGH — F1.com official announcement; multiple corroborating sources",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Rafael Câmara to Haas in 2027 — Ferrari Academy Driver Moves Up",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Rafael Câmara — Ferrari Academy — confirmed at Haas for 2027. He replaces Esteban Ocon. Haas is pushing back on the \"Ferrari B-team\" label. The pipeline continues. #F1Fanrecap #Haas #F1Driver",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Haas",
+            "#F1Driver"
+          ],
+          "char_count": 191
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-camara-confirmed-haas-2027-ferrari-pipeline.html",
+        "headline": "Câmara Confirmed at Haas for 2027 — Ferrari Academy Driver Replaces Ocon",
+        "word_count": 429
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Câmara to Haas 2027\n\n**Imagn Search Terms:**\n- \"Rafael Camara F1\"\n- \"Haas F1 team 2026\"\n- \"Haas F1 driver announcement\"\n- \"Esteban Ocon Haas\"\n\n**Preferred Shot:**\nCâmara in Ferrari Academy gear or a Haas team shot. If Câmara imagery is not available in Imagn, use Haas team/car shot with text overlay to carry the story.\n\n**Text Overlay Concept:**\n- Headline: \"CÂMARA TO HAAS\"\n- Subline: \"FERRARI ACADEMY DRIVER REPLACES OCON IN 2027\"\n- Detail line: \"HAAS F1 | 2027 SEASON | FERRARI PIPELINE CONTINUES\"\n- Brand: F1 Fanrecap logo"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Rafael Câmara to Haas 2027\n- **Decision:** NEW — confirmation this week\n- **Sources:**\n- Haas F1 team announcement / motorsport wire (Oct 15-18): Câmara confirmed for 2027\n- Ferrari Academy driver development records: Câmara is a Ferrari Academy graduate\n- Context: Esteban Ocon is at Haas for 2026; Câmara replaces him for 2027\n- **Key Facts:**\n- Driver: Rafael Câmara (Brazilian, Ferrari Academy)\n- Team: Haas F1\n- Season: 2027\n- Replaces: Esteban Ocon\n- Background: Ferrari Academy driver development program graduate\n- Team stance: Haas pushing back on \"Ferrari B-team\" characterization\n- Context: Haas has had other Ferrari-linked drivers (Mick Schumacher, Kevin Magnussen era)\n- **Freshness:** Announcement this week — new story\n- **Confidence:** HIGH — team announcement; widely reported across motorsport outlets",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

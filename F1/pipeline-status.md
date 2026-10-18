@@ -1,5 +1,44 @@
 # F1 Fanrecap — Pipeline Status
 
+## Last Run: 2026-10-18
+
+**Status:** COMPLETE (with known proxy limitations)
+**Niche:** F1 Fanrecap
+**Stories:** 5
+**Articles:** 5
+
+---
+
+## 2026-10-18 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research | ✅ Complete | Antonelli clinch math, Hamilton/Ferrari Singapore fallout, Verstappen GT3, Rwanda GP deal, Câmara/Haas |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 7 posts, all ≤280 chars |
+| FB Posts | ✅ Complete | 04-social-posts-facebook.md |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 articles (article-01 to article-05) |
+| verify-facts.py | ✅ Complete | 17 claims, 51 HIGH; image manifest warnings (expected) |
+| compile-content-data.py | ✅ Complete | 5 stories, 7 tweets, 0 FB (known parsing issue), 5 articles |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (all not_started — manual Imagn sourcing) |
+| generate-review-dashboard.py | ✅ Complete | 22 items; review-dashboard.html |
+| publish-unified-dashboard.py | ❌ BLOCKED | content-dashboards not in authorized repo set (consistent) |
+| generate-postplanner-export.py | ❌ 0 posts | Known parsing issue (consistent) |
+| publish-to-wordpress.py | ❌ BLOCKED | Proxy policy — fanrumor.com:443 denied (consistent) |
+| git push | ✅ Complete | main branch |
+
+**Stories (2026-10-18):**
+1. T1 FOLLOW UP: Antonelli Austin Clinch Watch — Five Days to Youngest Champion Record (Ryan Calloway)
+2. T1 FOLLOW UP: Hamilton Ignored Ferrari Pit Wall, Lost Podium in Singapore (Marcus Cole)
+3. T2 NEW: Verstappen Races GT3 at Portimão on F1 Off-Weekend (Elena Voss)
+4. T2 FOLLOW UP: Rwanda Gets African GP — 10-Year Deal, First Race 2030-2032 (Ryan Calloway)
+5. T2 NEW: Rafael Câmara Confirmed at Haas for 2027 (Marcus Cole)
+
+---
+
 ## Last Run: 2026-10-17
 
 **Status:** COMPLETE (with known proxy limitations)
