@@ -1,0 +1,314 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-18",
+  "compiled_at": "2026-10-18T11:38:58.178997+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "X + Facebook",
+      "type": "Story 1 (Yin wins Shanghai)"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "X + Facebook",
+      "type": "Story 2 (Chacarra DP World)"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "X + Facebook",
+      "type": "Story 3 (Rahm exit)"
+    },
+    {
+      "time": "3:30 PM",
+      "description": "X + Facebook",
+      "type": "Story 4 (Tiger/Rory Skins)"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "X + Facebook",
+      "type": "Story 5 (Bermuda)"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Ruoning Yin Wins Buick LPGA Shanghai — Final Round 68, Second Win in Two Starts",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Ruoning Yin birdied 16 to break the tie, closed with a 68, and wins the Buick LPGA Shanghai at -11. SEVENTH career title. Second win in two consecutive starts. Hye-Jin Choi finishes one back. #GolfFanrecap #LPGA #BuickLPGAShanghai",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#LPGA",
+            "#BuickLPGAShanghai"
+          ],
+          "char_count": 230
+        },
+        {
+          "label": "Post 2",
+          "text": "Back-to-back wins. $480,000. Seven LPGA titles. Ruoning Yin is the story of the Asian swing — and the CME Globe race just got a lot clearer. Who's your pick to win it all this year? #GolfFanrecap #LPGA #CMEGlobe",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#LPGA",
+            "#CMEGlobe"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ruoning-yin-wins-buick-lpga-shanghai.html",
+        "headline": "Ruoning Yin Wins Buick LPGA Shanghai for Seventh Career Title",
+        "word_count": 504
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ruoning Yin Wins Buick LPGA Shanghai\n\n**Imagn Search Terms:**\n- \"Ruoning Yin LPGA Shanghai 2026\"\n- \"Buick LPGA Shanghai final round 2026\"\n- \"Ruoning Yin winner celebration 2026\"\n- \"Ruoning Yin Sheshan Golf Club\"\n\n**Preferred Shot:**\nWinner's celebration or trophy presentation. Arms raised or holding the trophy. If unavailable: a mid-swing action shot from the final round.\n\n**Text Overlay Concept:**\n- Headline: \"BACK-TO-BACK\"\n- Subline: \"YIN WINS BUICK LPGA SHANGHAI\"\n- Detail line: \"7TH LPGA TITLE | -11 | 68 FINAL ROUND\"\n- Brand: Golf Fanrecap logo (Masters Green / Pin Flag Red)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ruoning Yin Wins Buick LPGA Shanghai\n- **Decision:** NEW — Final round result from Sheshan Golf Club, Oct. 18\n- **Sources:**\n- LPGA.com official write-up (Oct. 18): Yin wins at -11, final round 68\n- Golf Post (Oct. 18): Confirmed margin, Choi runner-up at -10\n- Yahoo Sports payout table (Oct. 18): $480,000 of $3.2M purse\n- **Key Facts:**\n- Ruoning Yin final score: 11-under 277 (winner)\n- Final round: 68 (-4)\n- Key moment: Birdie on 16th to break tie with Hye-Jin Choi (South Korea)\n- Runner-up: Hye-Jin Choi at -10 (South Korea)\n- Third place: Amy Yang at -8\n- Prize: $480,000 from $3.2M total purse\n- Career totals: Seventh LPGA Tour title overall\n- Recent form: Second win in two consecutive starts (also won previous week)\n- Tournament: Buick LPGA Shanghai, Sheshan Golf Club, Shanghai, China\n- **Freshness:** Final round completed Oct. 18, 2026 — same day\n- **Confidence:** HIGH — LPGA.com official confirmation + multiple corroborating sources",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Chacarra Wins DP World India Championship — Jumps to No. 1 in Race to Dubai",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Eugenio Chacarra shoots -21 in Delhi and vaults to No. 1 in the Race to Dubai. Three DP World Tour wins in 2026. McIlroy finishes joint-42nd and drops to third. The Race to Dubai has a new leader. #GolfFanrecap #DPWorldTour #RaceToDubai",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#DPWorldTour",
+            "#RaceToDubai"
+          ],
+          "char_count": 236
+        },
+        {
+          "label": "Post 2",
+          "text": "Three DP World Tour wins in one season. No. 1 in the Race to Dubai. Three events left. Eugenio Chacarra is the most dangerous player on tour right now — and McIlroy has real ground to make up. Can Rory recover? #GolfFanrecap #DPWorldTour #RaceToDubai",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#DPWorldTour",
+            "#RaceToDubai"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-chacarra-wins-dp-world-india-championship.html",
+        "headline": "Chacarra Wins DP World India Championship, Jumps to No. 1 in Race to Dubai",
+        "word_count": 491
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Chacarra Wins DP World India Championship\n\n**Imagn Search Terms:**\n- \"Eugenio Chacarra DP World India Championship 2026\"\n- \"Eugenio Chacarra Delhi Golf Club 2026\"\n- \"DP World India Championship winner 2026\"\n- \"Eugenio Chacarra celebration\"\n\n**Preferred Shot:**\nWinner's moment — fist pump or trophy. If unavailable: tee shot or approach at Delhi Golf Club with crowd in background.\n\n**Text Overlay Concept:**\n- Headline: \"NO. 1 IN RACE TO DUBAI\"\n- Subline: \"CHACARRA WINS IN INDIA\"\n- Detail line: \"3 DP WORLD WINS IN 2026 | -21 TOTAL\"\n- Brand: Golf Fanrecap logo\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Chacarra Wins DP World India Championship\n- **Decision:** NEW — Sunday result from Delhi Golf Club, Oct. 18\n- **Sources:**\n- Sky Sports (Oct. 18): Chacarra wins at -21, two-stroke margin\n- WDBO/WOKV wire (Oct. 18): Race to Dubai standings leap to No. 1\n- WSB-TV wire (Oct. 18): McIlroy T42 drops to third in Race to Dubai\n- **Key Facts:**\n- Eugenio Chacarra (Spain): Winner at -21 at Delhi Golf Club\n- Winning margin: Two strokes\n- Best round: Third-round 63 (-9)\n- Race to Dubai: Chacarra now No. 1 at 4,092.89 points (overtook Patrick Reed)\n- Three DP World Tour wins in 2026: KLM Open, Italian Open, India Championship\n- Three events remaining in Race to Dubai season\n- Rory McIlroy: Finished joint-42nd at India Championship; drops to third in Race to Dubai\n- **Freshness:** Sunday result, Oct. 18 — same day\n- **Confidence:** HIGH — multiple wire reports corroborate all key facts",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Jon Rahm Files Separation Agreement to Exit LIV Golf",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Jon Rahm's team filed a separation agreement in New Jersey bankruptcy court. Court hearing: Nov. 5. The deal: he releases his $7.5M creditor claim. He gets his name, image, and likeness back. #GolfFanrecap #LIVGolf #JonRahm",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#LIVGolf",
+            "#JonRahm"
+          ],
+          "char_count": 223
+        },
+        {
+          "label": "Post 2",
+          "text": "Rahm's lawyer told the judge his client found LIV 2.0's terms \"unacceptable.\" The Oct. 25 commitment deadline is one week away. Nov. 5 could open the path back to the PGA Tour. Good for golf? #GolfFanrecap #LIVGolf #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#LIVGolf",
+            "#PGATour"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-rahm-files-separation-agreement-liv-exit.html",
+        "headline": "Rahm Files Separation Agreement to Exit LIV Golf — Hearing Set for Nov. 5",
+        "word_count": 555
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jon Rahm Files Separation Agreement\n\n**Imagn Search Terms:**\n- \"Jon Rahm LIV Golf 2026\"\n- \"Jon Rahm press conference 2026\"\n- \"Jon Rahm walking course 2026\"\n- \"Jon Rahm LIV Indianapolis 2026\"\n\n**Preferred Shot:**\nNeutral portrait or walking-the-course shot. Avoid anything that prominently features LIV Golf branding if possible. A pensive or thoughtful expression works well for this story.\n\n**Text Overlay Concept:**\n- Headline: \"RAHM FILES TO EXIT LIV\"\n- Subline: \"SEPARATION HEARING: NOV. 5\"\n- Detail line: \"$7.5M CREDITOR CLAIM | NIL RIGHTS | PGA TOUR RETURN POSSIBLE\"\n- Brand: Golf Fanrecap logo\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jon Rahm Files Separation Agreement to Exit LIV Golf\n- **Decision:** FOLLOW UP — latest development in ongoing LIV exit saga (previously covered Oct. 12-17)\n- **Sources:**\n- Washington Post (Oct. 15): Separation agreement filed in New Jersey bankruptcy court\n- Golf Digest (Oct. 15-18): Agreement terms, $7.5M creditor claim released\n- NBC Sports (Oct. 15-18): Hearing set for Nov. 5\n- **Key Facts:**\n- Legal status: Separation agreement filed in New Jersey bankruptcy court\n- Court hearing: November 5, 2026 (for judge approval)\n- Terms: Rahm releases $7.5 million unsecured creditor claim in exchange for name, image, and likeness rights\n- Background: Joined LIV in late 2023 for reportedly $350 million deal; never competed in LIV 2.0\n- Quote (Rahm's lawyer to bankruptcy judge): \"has determined that those terms are unacceptable to him, and he will not be participating going forward in LIV 2.0\"\n- PGA Tour return: Possible if Nov. 5 hearing approves agreement; no confirmed plan yet\n- Context: LIV 2.0 player commitment deadline: Oct. 25\n- **Freshness:** Oct. 15 source (3 days old), but story ongoing and Nov. 5 hearing makes it fresh today\n- **Confidence:** HIGH — Washington Post and Golf Digest independently confirm the agreement and terms\n- **Note:** LIV 2.0 deadline is Oct. 25 (7 days away) — adds timeliness",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Tiger, Rory, Day, Matsuyama Skins Match — Tomorrow in Japan",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Tiger. Rory. Day. Matsuyama. Japan. Tuesday. The Skins match is three days away — and it is one of the only times this fall you'll watch Tiger in a competitive format. Who wins the most skins? #GolfFanrecap #TigerWoods #RoryMcIlroy",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#TigerWoods",
+            "#RoryMcIlroy"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-tiger-rory-day-matsuyama-skins-japan.html",
+        "headline": "Tiger, Rory, Day, and Matsuyama Play Skins Match in Japan on Tuesday",
+        "word_count": 499
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tiger, Rory, Day, Matsuyama Skins Match\n\n**Imagn Search Terms:**\n- \"Tiger Woods Japan golf 2026\"\n- \"Tiger Woods exhibition 2026\"\n- \"Tiger Woods Rory McIlroy 2026\"\n- \"Hideki Matsuyama Japan 2026\"\n\n**Preferred Shot:**\nTiger mid-swing or walking a fairway. If Japan-specific imagery is available, prefer that. Multi-player group shot if available.\n\n**Text Overlay Concept:**\n- Headline: \"TIGER IN JAPAN — TUESDAY\"\n- Subline: \"WOODS · MCILROY · DAY · MATSUYAMA\"\n- Detail line: \"SKINS MATCH | OCTOBER 21 | JAPAN\"\n- Brand: Golf Fanrecap logo\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tiger, Rory, Day, Matsuyama Skins Match — Tomorrow in Japan\n- **Decision:** FOLLOW UP — has been covered Oct. 12, 16 as preview; this is the final day-before preview\n- **Sources:**\n- Previous coverage from Oct. 12, 16 confirmed by pipeline status\n- Match date: October 21, 2026 in Japan\n- **Key Facts:**\n- Participants: Tiger Woods, Rory McIlroy, Jason Day, Hideki Matsuyama\n- Format: Skins match (exhibition)\n- Location: Japan\n- Date: October 21, 2026\n- Context: Tiger's latest post-competitive appearance; McIlroy competing day after India Championship travel\n- **Freshness:** Match is Oct. 21 — this is the 3-day-out preview\n- **Confidence:** HIGH — multiple previous pipeline coverage; match date confirmed",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Bermuda Championship Preview — Four Days to Port Royal",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "The Butterfield Bermuda Championship starts in four days at Port Royal. Wind. Precision. FedExCup bubble players desperate for points. It always delivers. Who are you watching this week? #GolfFanrecap #BermudaChampionship #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#BermudaChampionship",
+            "#PGATour"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-bermuda-championship-preview-port-royal.html",
+        "headline": "Butterfield Bermuda Championship Preview: Port Royal Awaits Oct. 22-25",
+        "word_count": 581
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bermuda Championship Preview\n\n**Imagn Search Terms:**\n- \"Port Royal Golf Course Bermuda\"\n- \"Butterfield Bermuda Championship 2025\"\n- \"Butterfield Bermuda Championship Port Royal\"\n- \"PGA Tour Bermuda golf 2026\"\n\n**Preferred Shot:**\nAerial or landscape shot of Port Royal with the Atlantic Ocean visible. Ocean-hole par 3 shots are ideal. If a player action shot is needed: approach or tee shot with wind-bent flag visible.\n\n**Text Overlay Concept:**\n- Headline: \"BERMUDA IN 4 DAYS\"\n- Subline: \"PORT ROYAL GOLF COURSE | OCT. 22-25\"\n- Detail line: \"FEDEXCUP FALL | WIND PLAYS | WHO WINS?\"\n- Brand: Golf Fanrecap logo"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Bermuda Championship Preview — Four Days to Port Royal\n- **Decision:** FOLLOW UP — been covered Oct. 12, 15, 16; this is the final four-day preview\n- **Sources:**\n- PGA Tour official event page (ongoing coverage)\n- Previous pipeline runs confirmed all facts\n- **Key Facts:**\n- Event: Butterfield Bermuda Championship\n- Course: Port Royal Golf Course, Bermuda\n- Dates: October 22-25, 2026\n- Format: 72-hole stroke play, PGA Tour fall event\n- Purse: Part of FedExCup Fall points structure\n- Course character: Exposed coastal layout, wind is the primary challenge\n- Strategic note: Iron accuracy more important than distance; 7,175-yard par 71\n- FedExCup Fall: Several players on the bubble competing for top-60 spots\n- **Freshness:** Tournament starts Oct. 22 — four days away\n- **Confidence:** HIGH — standard PGA Tour event, confirmed facts from multiple previous runs",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

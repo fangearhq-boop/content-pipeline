@@ -2,6 +2,18 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-10-18
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-18 | T1 | Ruoning Yin Wins Buick LPGA Shanghai — Final Round 68, Second Win in Two Starts | X(2), FB, Article | NEW |
+| 2026-10-18 | T1 | Chacarra Wins DP World India Championship — Jumps to No. 1 in Race to Dubai | X(2), FB, Article | NEW |
+| 2026-10-18 | T1 | Jon Rahm Files Separation Agreement to Exit LIV Golf — Hearing Set for Nov. 5 | X(2), FB, Article | FOLLOW UP |
+| 2026-10-18 | T2 | Tiger, Rory, Day, Matsuyama Skins Match — Three Days Out in Japan | X(1), FB, Article | FOLLOW UP |
+| 2026-10-18 | T2 | Butterfield Bermuda Championship Preview — Four Days to Port Royal | X(1), FB, Article | FOLLOW UP |
+
+---
+
 ## 2026-10-17
 
 | Date | Tier | Title | Platforms | Status |

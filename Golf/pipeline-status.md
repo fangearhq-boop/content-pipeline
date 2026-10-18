@@ -1,5 +1,31 @@
 # Golf Fanrecap — Pipeline Status
 
+## Latest Run: 2026-10-18
+
+**Run completed:** 2026-10-18
+**Stories:** 5
+**Articles:** 5
+**X posts:** 8
+**Status:** COMPLETE (with known proxy limitations)
+
+### Scripts Run (2026-10-18)
+- [x] verify-facts.py — 23 claims, 68 HIGH (image manifest warning — manifest created after script run)
+- [x] compile-content-data.py — 5 stories, 8 tweets, 0 FB (known parsing issue), 5 articles
+- [x] generate-review-dashboard.py — 23 items
+- [ ] generate-postplanner-export.py — 0 posts (known parsing issue)
+- [ ] publish-unified-dashboard.py — BLOCKED (content-dashboards not in authorized repo set, consistent)
+- [ ] publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- [x] git push — main branch
+
+**Stories covered (2026-10-18):**
+1. T1 NEW: Ruoning Yin Wins Buick LPGA Shanghai — Final Round 68, Second Win in Two Starts (Ryan Calloway)
+2. T1 NEW: Chacarra Wins DP World India Championship — Jumps to No. 1 in Race to Dubai (Jake Torres)
+3. T1 FOLLOW UP: Jon Rahm Files Separation Agreement to Exit LIV Golf — Hearing Nov. 5 (Marcus Cole)
+4. T2 FOLLOW UP: Tiger, Rory, Day, Matsuyama Skins Match — Three Days to Japan (Ryan Calloway)
+5. T2 FOLLOW UP: Butterfield Bermuda Championship Preview — Four Days to Port Royal (Jake Torres)
+
+---
+
 ## Latest Run: 2026-10-17
 
 **Run completed:** 2026-10-17
