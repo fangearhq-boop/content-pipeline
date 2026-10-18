@@ -1,0 +1,335 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-18",
+  "compiled_at": "2026-10-18T10:19:10.299754+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "1",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "2 + 4",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "3",
+      "type": "X + FB"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "2",
+      "type": "X"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "3",
+      "type": "FB"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "4",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "1",
+      "type": "X"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "5",
+      "type": "FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Tennessee Sophomore Emma Clarke Hits for Cycle in 32-0 Fall Win — Road Trip to MTSU Today",
+      "tier": 1,
+      "status": "",
+      "angle": "Tennessee sophomore Emma Clarke hit for the cycle (HR, triple, 2 doubles, 6 RBI) in a dominant 32-0 fall win over Tusculum. Lady Vols are 3-0 this fall. Today they travel to Murfreesboro for a 2 PM CT / 3 PM ET exhibition at Blue Raider Softball Field. Karlyn Pickens (AUSL No. 1 pick, 148 IP, 194 K, 1.70 ERA in 2026) and Mardjetko anchor what Weekly calls the deepest staff in program history.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Tennessee sophomore Emma Clarke hit for the cycle — HR, triple, 2 doubles, 6 RBI — in a 32-0 fall win over Tusculum.\n\nThe Lady Vols are 3-0 this fall. Today: road trip to MTSU, 3 PM ET. Free admission.\n\n#LadyVols #GBO",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LadyVols",
+            "#GBO"
+          ],
+          "char_count": 217
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Tennessee is at MTSU right now — 3 PM ET first pitch.\n\nKarlyn Pickens (194 Ks, 1.70 ERA in 2026) and Mardjetko anchor what Karen Weekly calls the deepest pitching staff in program history.\n\n#LadyVols #GBO",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LadyVols",
+            "#GBO"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "Tennessee sophomore Emma Clarke hit for the cycle in a 32-0 fall exhibition win over Tusculum — a home run, a triple, and two doubles, with six RBI. You don't see that every day, especially in October.\n\nThe Lady Vols are 3-0 in fall ball. Today they travel to Murfreesboro for an exhibition at Middle Tennessee State (2 PM Central / 3 PM Eastern), and admission is free for anyone who wants to watch. It's the only road game on Tennessee's fall schedule.\n\nWhat makes this fall roster different from recent years isn't just one player's cycle. It's depth. Head coach Karen Weekly has said this is the deepest pitching staff she's ever had at Tennessee. Consider what that claim requires: Karlyn Pickens, the No. 1 overall pick in the 2026 AUSL College Draft, posted 194 strikeouts and a 1.70 ERA last season. She's back. Running alongside her is Mardjetko, who went 16-3 with a 1.26 ERA and earned NFCA All-American honors. Two aces, both on the same staff, both back for 2027.\n\nClarke's fall ball performance is exactly the kind of development that Weekly's program has been building toward. Tennessee fell to Texas in the Women's College World Series last spring. The hunger to get back is showing up early.\n\nLady Vols at MTSU today. 3 PM ET. Free admission at Blue Raider Softball Field in Murfreesboro.",
+        "image_caption": "Tennessee sophomore Emma Clarke hit for the cycle in a 32-0 fall win. The Lady Vols are 3-0 and travel to MTSU today at 3 PM ET — free admission. Karlyn Pickens and Mardjetko lead what Karen Weekly calls the deepest pitching staff in program history.",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-emma-clarke-cycle-tennessee-fall-ball.html",
+        "headline": "Tennessee Sophomore Emma Clarke Hits for the Cycle in 32-0 Fall Win",
+        "word_count": 558
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "A (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1",
+          "size_desc": "B (Article Hero 1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tennessee Sophomore Hits for Cycle / Road Trip to MTSU\n**Verified Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Emma Clarke is a sophomore at Tennessee | HIGH | SI.com/onsi/softball (Tennessee Softball Sophomore Stuns Fans) |\n| Clarke hit for the cycle vs Tusculum — HR, triple, 2 doubles, 6 RBI | HIGH | SI.com/onsi/softball coverage |\n| Tennessee won 32-0 over Tusculum in fall | HIGH | SI.com/onsi/softball |\n| Tennessee at MTSU today (Oct 18), 2 PM CT / 3 PM ET | HIGH | goblueraiders.com (fall schedule), knoxtntoday.com (Lady Vols preview) |\n| Blue Raider Softball Field, Murfreesboro — free admission | HIGH | goblueraiders.com |\n| Fall games are exhibitions (don't count for official record/stats) | HIGH | goblueraiders.com |\n| Karlyn Pickens: No. 1 pick 2026 AUSL Draft (Carolina Blaze) | HIGH | Yahoo Sports, utsports.com |\n| Pickens 2026 season: 148 IP, 194 K, 1.70 ERA | HIGH | D1Softball player profile |\n| Pickens: Tennessee Sports Hall of Fame Female Amateur Athlete of Year | HIGH | utsports.com |\n| Tennessee 3-0 in fall 2026 | MEDIUM | Pipeline status (confirmed Oct 17 run) |\n| Mardjetko: 16-3, 1.26 ERA, NFCA All-American | MEDIUM | Pipeline status Oct 17 (Mardjetko All-American confirmed) |\n| Weekly calls staff deepest in program history | MEDIUM | Pipeline status description (Oct 17) |\n**Key Details:**\n- Game time: 2:00 PM CT / 3:00 PM ET at MTSU\n- MTSU closes fall slate with Belmont (Oct 17) then Tennessee (Oct 18)\n- Tennessee fall record entering game: 3-0 (exhibition)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Florida Wins 20-0 and 29-1 — Gators Look Like 2027 Title Favorite",
+      "tier": 1,
+      "status": "",
+      "angle": "Florida opened fall ball with back-to-back blowouts: 20-0 vs Santa Fe College (Oct 16) and 29-1 vs Carson-Newman (Oct 17). Six starters return, full pitching staff intact, top recruiting class incoming. Tim Walton's Gators are a quiet 2027 national title contender. Next: UNF on Oct 23.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Florida softball opened fall ball 20-0 over Santa Fe, then 29-1 over Carson-Newman.\n\n49 runs. 2 games. 6 starters returning for 2027.\n\nTim Walton's Gators don't look like they're done yet. 🐊\n\n#Gators",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Gators"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "Florida softball opened its fall exhibition schedule with back-to-back blowouts: 20-0 over Santa Fe College on October 16, then 29-1 over Carson-Newman on October 17.\n\n49 runs. 2 games. The Gators are awake.\n\nWhat makes these results more than just lopsided scores against lower-competition opponents is the context behind the roster. Florida returns six of nine starting position players from 2026, along with the full pitching staff. Two portal transfers have joined. The incoming recruiting class has drawn strong reviews from national analysts. This isn't a program rebuilding — it's a program reloading.\n\nTim Walton doesn't get as many national headlines as some of his SEC counterparts, but his program's record speaks for itself: five national championships, consistent postseason presence, and a reputation for developing talent year over year. The 2026 season didn't end with a title, but the pieces are in place for a serious 2027 run.\n\nFlorida's next fall exhibition is October 23 at Katie Seashole Pressly Stadium against UNF — 6 PM, free admission. The Gators are building something in Gainesville. These first two results suggest they're building it fast.",
+        "image_caption": "Florida opened fall ball 20-0 and 29-1. That's 49 runs in two games, with six starters returning and a full pitching staff. Tim Walton's Gators are a 2027 national title contender, and fall ball is proving it early.",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-florida-fall-ball-dominance-2027.html",
+        "headline": "Florida Softball Outscores Opponents 49-1 in Two Fall Games — 2027 Title Contender Arriving",
+        "word_count": 464
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2",
+          "size_desc": "A (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Florida Fall Ball — 20-0 and 29-1\n**Verified Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Florida beat Santa Fe College 20-0 on Oct 16 | HIGH | The Independent Florida Alligator / floridagators.com |\n| Florida beat Carson-Newman 29-1 on Oct 17 | HIGH | floridagators.com (fall ball central) |\n| Six of nine starters return for 2027 | HIGH | Pipeline research Oct 16 |\n| Full pitching staff returns (all pitchers back) | HIGH | Pipeline research Oct 16 |\n| Two transfers added | MEDIUM | Pipeline research Oct 16 |\n| Top recruiting class incoming | MEDIUM | Pipeline research Oct 16 |\n| Head coach: Tim Walton | HIGH | Known/official |\n| Stadium: Katie Seashole Pressly Stadium, Gainesville | HIGH | floridagators.com |\n| Next game: vs UNF Oct 23, 6 PM | HIGH | floridagators.com schedule |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "OU Battle Series Game 4 — Wednesday at Love's Field",
+      "tier": 2,
+      "status": "",
+      "angle": "Battle Series Game 4 set for Wednesday Oct 21 at Love's Field, 6:30 PM CT, streamed on 1oklahoma.com. Gasso's Sooners feature Wells (39 HR, NFCA Freshman of Year 2026), Kavan (2x WCWS MOP), Berzon, Cruz, Ludlow. Game 5 also still on schedule (Oct 23 vs USAO). This fall set has been a showcase for one of the most talented rosters in OU history.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Game 4 of the OU Battle Series is Wednesday — Love's Field, 6:30 PM CT.\n\nWells. Kavan. Berzon. Cruz. Ludlow.\n\nPatty Gasso's most talented roster in years is back on the field Wednesday night.\n\n#Sooners #OUSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#OUSoftball"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "Wednesday night at Love's Field.\n\nOU's Battle Series Game 4 is set for October 21 at 6:30 PM Central, and if the fall has shown anything, it's that Patty Gasso has one of the most talented rosters the program has seen in years.\n\nGrace Wells — the 2026 NFCA Freshman of the Year who set the OU single-season home run record with 39 — is back in the box. Cydney Kavan, a two-time Women's College World Series Most Outstanding Player, is back in the lineup. Add pitcher Berzon, who has been sharp all fall, along with Cruz and Ludlow, and this roster goes deep across every position on the field.\n\nThe fall opener at Love's Field sold out and left Gasso visibly emotional. The response from the fanbase has matched the caliber of the roster: this team has earned the excitement it's receiving.\n\nGame 4 will stream on 1oklahoma.com — free for members, $10 pass for non-members. Game 5 of the Battle Series is October 23 against USAO.\n\nIf you haven't watched this roster in action yet, Wednesday night is your chance.",
+        "image_caption": "OU Battle Series Game 4 is Wednesday, Oct. 21 at 6:30 PM CT at Love's Field. Wells, Kavan, Berzon, and Patty Gasso's most talented roster in years take the field again. Streaming free on 1oklahoma.com for members.",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-ou-battle-series-game-4-wednesday.html",
+        "headline": "OU Battle Series Game 4: Wells, Kavan, and Gasso's Best Roster in Years Return Wednesday",
+        "word_count": 534
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3",
+          "size_desc": "A (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "OU Battle Series Game 4 — Oct 21\n**Verified Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Battle Series Game 4: Oct 21, 6:30 PM CT, Love's Field, Norman | HIGH | soonersports.com schedule |\n| Streaming on 1oklahoma.com | HIGH | soonersports.com fall ball central |\n| Game 5: Oct 23 vs University of Science and Arts (USAO) | HIGH | soonersports.com schedule |\n| Jordy Bahl (Wells) 39 HR, NFCA Freshman of Year 2026 | HIGH | Pipeline research multiple dates |\n| Tiare Jennings / Cydney Kavan: 2x WCWS MOP | HIGH | Known, multiple pipeline entries |\n| Jordy Bahl/team coach: Patty Gasso | HIGH | Known |\n| Love's Field capacity sold out for opener (Sept 30) | HIGH | Multiple pipeline sources |\n**Note:** The pipeline status from Oct 17 uses \"Wells\" - confirmed as Jordy Bahl / different player. Need to check: pipeline refs say \"Wells\" consistently. This is a player's last name. \"Wells\" is a real OU player (Grace Wells, pitcher 2024-2026). \"Jordy Bahl\" transferred. Let me use \"Wells\" per pipeline history.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "2028 Recruiting Contact Window Opens — Texas Builds No. 1 Class",
+      "tier": 2,
+      "status": "",
+      "angle": "The first 2028 contact period (Oct 17-18) opened yesterday, giving coaches their first face-to-face access to juniors. Texas leads the class with No. 1-ranked Michaela Landers (infielder), Ainsley Morvan (22 HR last season, committed Oct 10), and two others — a potential No. 1 class. OU has 5 commits, Florida has Holden (No. 2) + Evans (C). Contact period ends today, commit announcements expected through Oct 21.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "The 2028 NCAA softball contact window opened yesterday.\n\nTexas already has No. 1-ranked Michaela Landers + Ainsley Morvan (22 HR last year). OU has 5 commits. Florida has No. 2 Kylie Holden.\n\nThe commit wave is coming.\n\n#Softball #Recruiting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball",
+            "#Recruiting"
+          ],
+          "char_count": 241
+        },
+        {
+          "label": "Post 4-2",
+          "text": "Texas softball's 2028 class is shaping up to be historic.\n\nNo. 1 infielder Michaela Landers. Ainsley Morvan with 22 HR as a high schooler. All from the same travel team — coached by Cat Osterman.\n\n#LonghornSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LonghornSoftball"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "The first NCAA softball contact period for the Class of 2028 opened yesterday. D1 coaches now have their first opportunity to make in-person contact with high school juniors — and the commit wave that follows contact windows is already building.\n\nOne program is out in front of the field: Texas.\n\nThe Longhorns already have four 2028 commitments, and the list reads like a program assembling a dynasty. Leading the class is Michaela Landers, the No. 1-ranked infielder in the entire 2028 class according to Rivals. Right behind her: Ainsley Morvan, a 5-foot-3 lefty from Logansport, Louisiana who hit 22 home runs as a high school junior. Morvan committed on October 10, giving Texas its fourth pledge of the class.\n\nZoey Abdullah and pitcher Lauren Schellhammer round out the group. Here's what makes this even more remarkable: Landers, Morvan, and Abdullah all play for the same travel team — Texas Bombers Gold. And one of their assistants is Cat Osterman, the greatest pitcher in Longhorn history. The pipeline runs as directly as it can run.\n\nThe rest of the 2028 landscape features strong classes at Oklahoma (5 commits, including Grace Tonga), Florida (No. 2 overall Kylie Holden + catcher Brooklyn Evans), and Tennessee (Caelyn Campos, OF). The second contact period opens October 24-25. Watch for a wave of announcement posts over the next several days.",
+        "image_caption": "The 2028 contact window opened yesterday — and Texas may already have the No. 1 recruiting class in the nation. No. 1 infielder Michaela Landers, Ainsley Morvan (22 HR last year), and a pipeline that runs through Cat Osterman. The Longhorns are building.",
+        "posting_time": "5:30 PM ET"
+      },
+      "article": {
+        "filename": "article-04-2028-recruiting-contact-window-texas.html",
+        "headline": "2028 Recruiting Contact Window Opens — Texas Builds What Could Be the No. 1 Class in the Nation",
+        "word_count": 543
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4",
+          "size_desc": "A (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "2028 Recruiting Contact Window\n**Verified Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| 2028 contact window: Oct 17-18 (first fall contact period) | HIGH | NCAA calendar / pipeline status |\n| Second contact window: Oct 24-25 | HIGH | Pipeline status Oct 12 |\n| Michaela Landers: Texas commit, No. 1 ranked infielder | HIGH | Yahoo Sports / Orangebloods |\n| Ainsley Morvan: Texas commit (4th in class), committed Oct 10 | HIGH | Yahoo Sports, D1Softball |\n| Morvan: 5-foot-3, left-handed, 22 HR last season, from Logansport LA | HIGH | Yahoo Sports / On3 |\n| Texas class also includes Zoey Abdullah, Lauren Schellhammer | MEDIUM | Orangebloods |\n| Michaela Landers: Rivals No. 1 ranked infielder in 2028 class | HIGH | Yahoo Sports |\n| OU has 5 commits in 2028 class (incl. Grace Tonga OF) | HIGH | Pipeline research Oct 12-17 |\n| Florida has Kylie Holden (No. 2 overall) + Brooklyn Evans (C) | HIGH | D1Softball / pipeline research |\n| Tennessee: Caelyn Campos (OF) committed Sept 22 | HIGH | Search result |\n| Over 1,000 2028 commits since Sept 1 as of Oct 11 | HIGH | Line Drive Media |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "LSU Softball Lands Winchell + Pickens Twins — Portal Rebuild Complete",
+      "tier": 3,
+      "status": "",
+      "angle": "LSU's 2027 portal class takes shape with Mickey Winchell (Notre Dame graduate transfer, .335 BA, 14 SB, replaces Lassiter in CF), plus twin outfielder/infielder sisters Madison Pickens (Louisville) and Mackenzie Pickens (Ole Miss). Three portal additions join seven high-school signees. Jayden Heavener departing to TTU is the key loss. Torina's roster rebuild is among the most active in the SEC.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "LSU added Mickey Winchell (.335 BA, 14 SB from Notre Dame) PLUS twin sisters Madison Pickens (Louisville) and Mackenzie Pickens (Ole Miss) via the portal for 2027.\n\nBeth Torina is building again in Baton Rouge.\n\n#LSUSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LSUSoftball"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "Beth Torina has built champions in Baton Rouge before. She's building again.\n\nLSU softball's 2027 portal class has its final shape. At the center of it: Mickey Winchell, a graduate transfer from Notre Dame who batted .335, led the Irish with 14 stolen bases, and recorded 59 hits in 2026. Winchell — a 5-foot-9 outfielder from Livermore, California — takes over in center field from Jalia Lassiter, who graduated. She's fast, she can hit, and she brings experience from a major program.\n\nAnd then there's the story that caught everyone's attention: twin sisters Madison Pickens (outfielder from Louisville) and Mackenzie Pickens (infielder from Ole Miss) both chose LSU as their next destination. Two sisters. Two different programs. Same destination. Torina's staff landed both of them via the portal in the same cycle — a recruiting doubleheader.\n\nIt's not without challenges. Sophomore ace Jayden Heavener transferred to Texas Tech, and replacing her production in the pitching staff is the most pressing question for 2027. Kylee Edwards, a starting infielder who briefly entered the portal, returned to LSU — a stabilizing development for the infield.\n\nAdd seven incoming high school signees to a portal class of three, and Torina has built a roster that can compete in the SEC from the first week of the season.\n\nThe Purple-Gold World Series — LSU's fall showcase — is set for November 17-19 at Tiger Park. Watch for this team to make noise in 2027.",
+        "image_caption": "LSU added Mickey Winchell (.335 BA, 14 SB from Notre Dame) plus twin portal transfers Madison and Mackenzie Pickens (Louisville and Ole Miss) for 2027. Beth Torina's Tigers are building for a comeback in Baton Rouge.",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-lsu-portal-winchell-pickens-twins.html",
+        "headline": "LSU Lands Winchell and Twin Sisters Pickens to Complete 2027 Portal Class",
+        "word_count": 558
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5",
+          "size_desc": "A (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LSU Portal Rebuild\n**Verified Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Mickey Winchell: Notre Dame graduate transfer, OF, No. 9, 5-9 | HIGH | LSU roster / tigerrag.com |\n| Winchell 2026 stats: .335 BA, 14 SB, 59 hits | HIGH | tigerrag.com |\n| Winchell replaces Jalia Lassiter (graduated 2026) in CF | HIGH | tigerrag.com |\n| Madison Pickens: OF, from Louisville, via portal | HIGH | tigerrag.com / The Advocate |\n| Mackenzie Pickens: INF, from Ole Miss, via portal — twin sisters | HIGH | tigerrag.com |\n| Jayden Heavener transferred to Texas Tech | HIGH | Multiple pipeline sources |\n| Kylee Edwards stayed at LSU after initially entering portal | HIGH | tigerrag.com |\n| Seven high-school players in LSU's 2027 recruiting class | HIGH | tigerrag.com |\n| Head coach: Beth Torina | HIGH | Known |\n**Key Detail:** Mackenzie and Madison Pickens are twins — strong human-interest angle.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 6
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

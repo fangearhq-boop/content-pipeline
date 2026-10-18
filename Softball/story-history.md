@@ -3468,3 +3468,55 @@ _This file tracks every story covered, the angle used, content produced, and fol
 - **Follow-Up Opportunities:**
   - Contact period commit wave (Oct. 17-18)
   - Final 2028 class rankings
+
+## Pipeline Run: 2026-10-18
+
+### Story 1: Tennessee Sophomore Emma Clarke Hits for Cycle — MTSU Road Trip Today
+- **Date:** 2026-10-18
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Sophomore Emma Clarke hit for the cycle (HR, triple, 2 doubles, 6 RBI) in Tennessee's 32-0 fall win over Tusculum. Lady Vols 3-0 in fall. Today: road trip to MTSU (3 PM ET, Blue Raider Softball Field, free). Karlyn Pickens (No. 1 AUSL pick, 194 K, 1.70 ERA) + Mardjetko (16-3, 1.26 ERA, NFCA AA) = deepest staff in program history per Weekly.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - MTSU game result (Oct. 18)
+  - Tennessee fall ball schedule through November
+
+### Story 2: Florida Opens Fall Ball 20-0 and 29-1 — 2027 Title Contender
+- **Date:** 2026-10-18
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Florida fall opener previewed Oct 16; now have two dominant results)
+- **Angle:** Florida beat Santa Fe 20-0 (Oct 16) and Carson-Newman 29-1 (Oct 17) — 49 runs in 2 games. Six starters return, full pitching staff, two portal transfers, top recruiting class. Tim Walton's Gators look like 2027 national title contenders. Next: UNF on Oct 23.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Florida vs UNF result (Oct. 23)
+  - Florida 2027 preseason ranking
+
+### Story 3: OU Battle Series Game 4 — Wednesday Oct 21 at Love's Field
+- **Date:** 2026-10-18
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Battle Series ongoing; Game 3 covered Oct 14)
+- **Angle:** Game 4: Oct 21, 6:30 PM CT, Love's Field, 1oklahoma.com. Wells (39 HR, NFCA Freshman of Year), Kavan (2x WCWS MOP), Berzon, Cruz, Ludlow. Game 5 vs USAO on Oct 23.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Game 4 result (Oct. 21)
+  - Game 5 vs USAO (Oct. 23)
+
+### Story 4: 2028 Contact Window Opens — Texas Builds No. 1 Class
+- **Date:** 2026-10-18
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Contact window Oct 17-18 opened yesterday; Texas class building all fall)
+- **Angle:** First contact period Oct 17-18. Texas leads with Landers (Rivals No. 1 IF), Morvan (22 HR, committed Oct 10), Abdullah, Schellhammer — all travel teammates on TX Bombers Gold with Cat Osterman. OU: 5 commits (Tonga). Florida: Holden (No. 2) + Evans. Second window Oct 24-25.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 2 X posts, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Second contact window commit wave (Oct. 24-25)
+  - Final 2028 class rankings
+
+### Story 5: LSU Portal Rebuild — Winchell + Pickens Twins
+- **Date:** 2026-10-18
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Winchell first covered Oct 17; Pickens twins new)
+- **Angle:** LSU adds Winchell (Notre Dame grad transfer, .335 BA, 14 SB, replaces Lassiter in CF) + twin sisters Madison Pickens (Louisville OF) and Mackenzie Pickens (Ole Miss INF) via portal. Seven HS signees also joining. Heavener departed to TTU. Edwards stayed after portal entry.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - LSU Purple-Gold World Series (Nov. 17-19)
+  - LSU 2027 preseason outlook
