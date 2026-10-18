@@ -2,6 +2,50 @@
 
 ---
 
+## October 18, 2026
+
+### Story 1: D11 Offers Free Literacy Program During Fall Break
+- **Date:** 2026-10-18
+- **Tier:** T1
+- **Pillar:** Local News
+- **Key Facts:** D11 fall break Oct 19–23; free voluntary 3-day kindergarten reading program (new this year); D49 break Oct 13–23; D20 end-of-quarter break Oct 13–14 (already returned); contact school directly this week to enroll
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 2: Primark 101 Dalmatians Coin Purse Recalled
+- **Date:** 2026-10-18
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** CPSC recall Oct 15 2026; ~2,100 units; model #2595301 on zip tag; phthalates above permitted levels; ingestion risk for young children; sold Northeast/FL/MD/IL Primark stores Mar–Jun 2026 ~$9; return any Primark for full refund; also recalled UK Sep 2026; no injuries
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 3: Xalirium Portable Bed Rails Recalled
+- **Date:** 2026-10-18
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** CPSC recall Oct 15 2026; ~200 units; usOpal Xalirium brand; entrapment + asphyxiation risk; fails federal safety standard; missing required hazard labels; sold Amazon only Feb–Aug 2026 ~$60; stop use, contact usOpal for full refund; no injuries
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 4: Halloween Week in Colorado Springs
+- **Date:** 2026-10-18
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** D11 + D49 fall break Oct 19–23; Boo at the Zoo through October ~$19.75–$24.75; Fiddler on the Roof First Company Theatre 420 N Nevada Ave through Nov 1; trunk-or-treats + harvest festivals throughout COS; Citadel Mall Halloween event (check local listings); Cheyenne Mountain State Park hiking
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 5: COS Districts Embrace Fall Breaks
+- **Date:** 2026-10-18
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** D11 Oct 19–23; D49 Oct 13–23 (2 weeks, longer school year tradeoff); D20 end-of-quarter break (2 days, Oct 13–14, back in school); Gazette examined fall break landscape; national trend toward recovery periods; districts that tried fall breaks generally kept them
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+---
+
 ## October 17, 2026
 
 ### Story 1: Fall Break Starts Monday — Your COS Family Guide for Oct 19–23

@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-10-17
+## Current Run: 2026-10-18
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D11 fall break Oct 19–23 (new literacy program for K); D49 Oct 13–23; D20 end-of-quarter Oct 13–14; Primark 101 Dalmatians coin purse recall Oct 15 ~2,100 units CPSC #27-028 phthalates; Xalirium portable bed rails recall Oct 15 ~200 units entrapment/asphyxiation; Boo at the Zoo through Oct ~$19.75–$24.75; Fiddler on the Roof First Company Theatre through Nov 1; Gazette fall breaks story |
+| Story History Check | COMPLETE | All 5 stories NEW; avoided Oct 17 repeats (fall break basic guide, weekend events, Papablic/Bellabu recalls, AAP screen time); avoided Oct 15 repeats (ONTHEWEI, Jocoevol, D11 bond, AAP flu) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2) |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 5 posts; all ≤280 chars (fixes: S2 removed "faux-leather ", S5 shortened to "COS school districts have embraced fall breaks"); 4 hashtags each; ### STORY N: format |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 8 Gemini base_only prompts; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 D11 Literacy Program (Jamie Rivera T1); article-02 Primark Recall (Sarah Morales T2); article-03 Xalirium Recall (Jamie Rivera T2); article-04 Halloween Week (Sarah Morales T1); article-05 COS Districts Fall Breaks (Jamie Rivera T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 76 claims; PASSED after tweet char fixes |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 5 X posts, 5 FB posts, 5 articles |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 8 entries, all not_started, gemini base_only |
+| Review Dashboard | COMPLETE | review-dashboard.html — 25 items |
+| Unified Dashboard Publish | BLOCKED | content-dashboards not in authorized repo set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-10-18.xlsx + cosp-postplanner-tobi-2026-10-18.xlsx — 5 posts each; redistributed 12:58–18:58 MT |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | 5 entries prepended to Parenting/story-history.md (Oct 18 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 5 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 5 posts standard + 5 TOBI
+- **Key stories:** D11 kindergarten literacy program during fall break (new Oct 18); Primark 101 Dalmatians coin purse recall (2,100 units, phthalates); Xalirium portable bed rails recall (200 units, entrapment); Halloween week COS events (Boo at Zoo, Fiddler, trunk-or-treats); COS districts fall break landscape (D11/D49/D20 comparison, Gazette)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); tweet char fixes on S2/S5
+
+---
+
+## Prior Run: 2026-10-17
 
 | Step | Status | Notes |
 |------|--------|-------|
