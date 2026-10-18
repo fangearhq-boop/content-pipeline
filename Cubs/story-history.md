@@ -5,6 +5,59 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-10-18 (OFF DAY — Early offseason. ALCS tied 2-2 (Rays won G4 7-3); G5 today Oct 18, 4 PM CT. WS opens Oct 23 at Milwaukee. Insights active: overnight_00_06 loser (large); content_type=transaction loser (medium). Note: evening_18_24 and allcaps_lead findings from Oct 17 did NOT carry into today's snapshot.)
+
+### STORY 1: ALCS tied 2-2 + WS starts Friday + Cubs QO clock
+- **Angle:** NEW STORY. Rays won G4 7-3, series tied 2-2. G5 today 4 PM CT. WS opens Oct 23 at American Family Field vs Brewers. QO window opens 5 days after WS end (late Oct/early Nov). Suzuki, Happ decisions coming fast.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, informative morning context)
+- **Follow-Up Opportunities:**
+  - ALCS G5 result → WS matchup confirmed (tonight)
+  - QO window opens (late Oct/early Nov) → Suzuki/Happ announcements
+
+### STORY 2: Seiya Suzuki standalone analysis — departure framing
+- **Angle:** FOLLOW UP (Oct 14 had Happ+Suzuki dual framing; Oct 17 had QO announcement angle). Today = standalone stats-and-departure analysis. .270/.368/.473, 26 HR, 5.1 WAR, Gold Glove finalist. Age 32. $100M+ market expected. Cubs "unlikely to compete in bidding war." Blue Jays pursuing.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, bold/informative)
+- **Follow-Up Opportunities:**
+  - Official QO tendered/accepted/rejected announcement
+  - Suzuki signs (wherever) — if Cubs, Tier 1; if elsewhere, bold reaction take
+
+### STORY 3: Cubs rotation crisis — 4 starters to potentially replace
+- **Angle:** FOLLOW UP (Oct 14 had Sonny Gray specific angle; today = full-scale picture). Imanaga gone, Gausman likely gone, Horton out until mid-2027 (TJ), Boyd mutual option uncertain. 3-4 starters to replace. $100M+ budget. Biggest offseason question.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, analysis)
+- **Follow-Up Opportunities:**
+  - Each individual rotation signing (Sonny Gray covered Oct 14; King covered Oct 17)
+  - Boyd/Holmes option decisions
+  - Horton recovery timeline updates (mid-2027 return)
+
+### STORY 4: Contract option architecture — Boyd/Holmes/Rea/Webb
+- **Angle:** NEW STORY (first dedicated options overview; prior coverage focused on QO/Suzuki/Happ). Boyd ($15M mutual), Holmes ($12M player), Rea ($7.5M club), Webb ($2.5M club). $37M total. Framed as offseason architecture, NOT bare transaction list.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, analytical)
+- **Follow-Up Opportunities:**
+  - Each option decision announced (exercise or decline)
+  - Holmes opt-in vs opt-out (player option — he decides)
+
+### STORY 5: Josiah Hartshorn Double-A follow-up
+- **Angle:** FOLLOW UP (Oct 14 = first dedicated feature with ranking + High-A ascent). Today adds Double-A debut (Sept 12), August stats (.317/.429/.556 at High-A), 100 RBIs (first Cubs teen in 2+ decades), MLB Pipeline No. 39 overall. Note: Oct 14 used "No. 35" ranking — Pipeline ranking shifted to No. 39 per Sept article. Both sourced from MLB.com; rankings fluctuate.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect feature)
+- **Follow-Up Opportunities:**
+  - 2027 spring training roster battle
+  - Full season 2027 stats at Double-A/Triple-A
+
+### STORY 6: NL Central 2026 final standings bold take
+- **Angle:** NEW STORY (different from Oct 15/16 "Brewers in WS, Cubs must answer" frame). Focus: division hierarchy in full — Brewers 103-59, Cubs 89-73 (Wild Card), Cardinals 77-85. Cardinals decline framing. Bold "The bar is set" kicker.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, bold/division watch)
+- **Follow-Up Opportunities:**
+  - Cardinals offseason moves (if significant)
+  - Cubs vs Brewers framing at start of 2027 season
+
+---
+
 ## 2026-10-16 (OFF DAY — Early offseason. Brewers swept Dodgers 4-0 in NLCS, heading to World Series for first time since 1982. Jake Bauers NLCS MVP. Guardians lead Rays 2-1 in ALCS. Insights active: overnight_00_06 loser (large); evening_18_24 winner (medium).)
 
 ### STORY 1: Brewers Sweep Dodgers in NLCS — World Series Bound
