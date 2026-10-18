@@ -1,5 +1,36 @@
 # Tennis Fanrecap — Pipeline Status
 
+## Current Run: 2026-10-18
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Fokina def. Jodar 1-6,7-6(5),6-4 Shanghai final (ATP Tour, Olympics.com, France24, Tennis Majors, WSLS/AP); Jodar def. Medvedev in SF — CORRECTION of Oct 17 S3 error (Latestly, Tennis Head, Yahoo Sports); Medvedev umpire clash/threatened to quit (Tennis Head, Yahoo Sports); Chwalinska def. Swiatek 7-5,6-1 Wuhan SF (Peninsula Qatar, Dawn.com); Kartal vs Chwalinska final developing (Tennis Temple, LTA.org.uk) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Oct 17 S5: Finals Preview → RESULT: Fokina wins Shanghai over Jodar, not Medvedev); S2 FOLLOW-UP (Oct 16 S4: Jodar SF → RESULT: runner-up, correction of SF opponent); S3 FOLLOW-UP (Oct 17 S2+S4: Wuhan SFs → DEVELOPING: Kartal vs Chwalinska final); S4 FOLLOW-UP (Oct 17 S3: Medvedev SF correction); S5 NEW (Asian swing wrap) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Marcus Cole [S1, S4], Elena Voss [S2, S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — with key correction note on Oct 17 S3 error |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 9 imagn concepts across 5 stories |
+| Articles (5) | COMPLETE | article-01 Fokina wins Shanghai (Marcus Cole T1); article-02 Jodar runner-up (Elena Voss T1); article-03 Wuhan final Kartal/Chwalinska (Ryan Calloway T2); article-04 Medvedev SF exit (Marcus Cole T2); article-05 Asian swing wrap (Elena Voss T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 30 claims; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 articles |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 9 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards repo not in authorized set (known recurring issue) |
+| PostPlanner Export | COMPLETE (7 posts) | tfr-postplanner-2026-10-18.xlsx + tfr-postplanner-tobi-2026-10-18.xlsx |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue) |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Oct 18 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Elena Voss [S2, S5], Ryan Calloway [S3])
+- **Key stories:** Fokina wins first Masters 1000 title (1-6, 7-6(5), 6-4 over Jodar); Jodar runner-up at 20yo after SF upset of Medvedev; Wuhan final Kartal vs. Chwalinska (developing); Medvedev umpire controversy + SF exit; Asian swing wrap
+- **Key correction:** Oct 17 S3 had Medvedev winning SF over Jodar — actual result reversed; Jodar def. Medvedev confirmed by ATP Tour, Latestly, Yahoo Sports
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); FB posts 0 parsed (known); Wuhan final result pending at pipeline time
+
+---
+
 ## Current Run: 2026-10-17
 
 | Step | Status | Notes |

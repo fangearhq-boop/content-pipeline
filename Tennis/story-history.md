@@ -3,6 +3,16 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## October 18, 2026
+
+| 2026-10-18 | Alejandro Davidovich Fokina (Spain, No. 25 seed) def. Rafael Jodar (Spain, No. 12 seed) 1-6, 7-6(5), 6-4 in Shanghai Masters final — Fokina's first ATP Masters 1000 title; career-high No. 13; first Spanish Shanghai champion; 16th Spaniard with ATP M1000 title; came back from set and break down; ~2h27min; third 2026 title. Sources: ATP Tour, Olympics.com, France24, Tennis Majors, Sunday Guardian Live, WSLS/AP | T1 | X, FB, Article | Marcus Cole; CONFIRMED RESULT |
+| 2026-10-18 | Rafael Jodar (Spain, 20yo, No. 12 seed) runner-up Shanghai Masters — first Masters 1000 final at age 20; beat Ruud in QF, upset Medvedev in SF (line-call controversy); ATP Finals race alive; ranking boost; lost to Fokina 1-6, 7-6(5), 6-4. Sources: ATP Tour, Latestly, Yahoo Sports, France24 | T1 | X, FB, Article | Elena Voss; CONFIRMED RESULT |
+| 2026-10-18 | Wuhan Open final: Sonay Kartal (GB, No. 170) vs. Maja Chwalinska (Poland, No. 22, 16th seed) — both first WTA 1000 finalists; Chwalinska def. Swiatek 7-5, 6-1 in SF (Swiatek leg issue); Kartal def. Ostapenko 7-6(11),7-6(5) in SF; Kartal guaranteed top 50; result developing at pipeline time. Sources: Peninsula Qatar, Dawn.com, Finchannel, LTA.org.uk, Tennis Temple | T2 | X, FB, Article | Ryan Calloway; DEVELOPING |
+| 2026-10-18 | Daniil Medvedev loses to Jodar in Shanghai SF — controversial match: Medvedev clashed with umpire over line call, threatened to retire; replay confirmed Jodar's shot was in; Medvedev out; CORRECTION: Oct 17 pipeline story 3 incorrectly had Medvedev winning SF — actual result was Jodar def. Medvedev. Earlier DQ'd in Beijing SF (ball struck spectator). Sources: Latestly, Tennis Head, Yahoo Sports, Taipei Times | T2 | X, FB, Article | Marcus Cole; CONFIRMED RESULT + CORRECTION |
+| 2026-10-18 | 2026 Asian swing complete — Fokina wins Shanghai; Wuhan title to Kartal or Chwalinska; both events produced first-time Masters champions; next: Paris Rolex Masters Oct 26, WTA Finals Guadalajara. Sources: ATP Tour, WTA Tennis | T2 | X, FB, Article | Elena Voss; WRAP |
+
+---
+
 ## October 17, 2026
 
 | 2026-10-17 | Alejandro Davidovich Fokina (Spain, No. 26) def. Alexander Zverev (Germany, No. 1) 5-7, 6-4, 6-3 in Shanghai Masters SF — Fokina into 2nd career Masters 1000 final; 36 winners vs 28; lost only 3 pts on serve in 3rd set; H2H now 2-6 vs Zverev; moves back into ATP Top 15; faces Medvedev in Sunday final. Sources: Sunday Guardian Live (307452), Tennis Temple, Malay Mail (239502), Tennis365 | T1 | X, FB, Article | Elena Voss; CONFIRMED RESULT |

@@ -1,0 +1,323 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-18",
+  "compiled_at": "2026-10-18T12:14:29.463615+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Fokina Wins Shanghai Masters Title [T1 — FOLLOW-UP]",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "ALEJANDRO DAVIDOVICH FOKINA IS THE 2026 SHANGHAI MASTERS CHAMPION. Came back from 1-6 down, won the tiebreak, closed out 6-4 in the third. First Masters 1000 title. Career-high No. 13. #ShanghaiMasters #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ShanghaiMasters",
+            "#Tennis"
+          ],
+          "char_count": 209
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Fokina was down a set and a break in Shanghai. He won the second set tiebreak 7-5, broke through in the third, and beat Jodar 1-6, 7-6(5), 6-4. The first Spanish player to win in Shanghai. Historic. #ShanghaiMasters #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ShanghaiMasters",
+            "#Tennis"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-fokina-wins-shanghai-masters-title.html",
+        "headline": "Fokina Wins Shanghai Masters in Comeback Final Over Jodar",
+        "word_count": 650
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "X Post (1080x1350)",
+          "search_terms": [
+            "Alejandro Davidovich Fokina"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Alejandro Davidovich Fokina"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Jodar's Shanghai Run Ends in Final [T1 — FOLLOW-UP]",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Rafael Jodar — 20 years old — beat Daniil Medvedev in the semis, including surviving a full umpire meltdown from the Russian. Reached his first Masters 1000 final. Lost to Fokina. His time is coming. #ShanghaiMasters #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ShanghaiMasters",
+            "#Tennis"
+          ],
+          "char_count": 224
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Jodar's Shanghai run: beat Ruud in QF, beat Medvedev in SF despite line-call drama, faced Fokina in the final. He's 20 and just reached a Masters 1000 final. The ATP Finals race looks very different tonight. #ShanghaiMasters #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ShanghaiMasters",
+            "#Tennis"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-jodar-runner-up-shanghai-final.html",
+        "headline": "At 20, Jodar Reaches Shanghai Final and Reshapes His Season's Meaning",
+        "word_count": 600
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "X Post (1080x1350)",
+          "search_terms": [
+            "Rafael Jodar"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Rafael Jodar"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Wuhan Final — Kartal vs. Chwalinska [T2 — FOLLOW-UP]",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Wuhan final: Sonay Kartal (No. 170, GB) vs. Maja Chwalinska (No. 22, Poland). Chwalinska upset Swiatek 7-5, 6-1 in the semis. Both in their first WTA 1000 final. This is a genuinely unprecedented final. #WuhanOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WuhanOpen",
+            "#Tennis"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-wuhan-open-final-kartal-chwalinska.html",
+        "headline": "Kartal vs. Chwalinska: Two First-Time Finalists Decide the Wuhan Open",
+        "word_count": 604
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "X Post (1080x1350)",
+          "search_terms": [
+            "Sonay Kartal"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Maja Chwalinska"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Medvedev's Controversial SF Exit [T2 — FOLLOW-UP]",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Medvedev vs. Jodar in the Shanghai SF: Medvedev clashed with the umpire over a line call and threatened to quit the match. He continued, lost, and goes home. Earlier DQ'd in Beijing for hitting a ball into the crowd. Rough Asian swing. #ShanghaiMasters #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ShanghaiMasters",
+            "#Tennis"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-medvedev-sf-exit-controversy.html",
+        "headline": "Medvedev's Asian Swing Ends in Shanghai Controversy — Jodar Knocks Him Out",
+        "word_count": 502
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "X Post (1080x1350)",
+          "search_terms": [
+            "Daniil Medvedev"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Daniil Medvedev"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "2026 Asian Swing Closes — What's Next [T2]",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The 2026 Asian swing is done. Fokina won Shanghai. One of Kartal or Chwalinska wins Wuhan. Both events produced first-time Masters champions. Paris Rolex Masters is next on the ATP calendar starting October 26. #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-asian-swing-2026-wrap.html",
+        "headline": "The 2026 Asian Swing Is Over — Here's What It Told Us",
+        "word_count": 524
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "X Post (1080x1350)",
+          "search_terms": [
+            "Alejandro Davidovich Fokina"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
