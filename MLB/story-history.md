@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## Pipeline Run: 2026-10-18
+
+### Story 1: ALCS Game 5 — Rays vs. Guardians, TODAY at Progressive Field
+- **Date**: 2026-10-18
+- **Tier**: 1
+- **Key Facts**: Series tied 2-2; Game 5 at Progressive Field 5PM ET TBS/HBO Max; Rasmussen (1-0 1.29 ERA) vs Messick (0-2 3.09 ERA); Caminero/Díaz/Aranda 5-for-34 combined entering G4; winner faces Brewers in WS Oct 23
+- **Article**: article-01-alcs-game-5-rays-guardians-today.html (By Marcus Cole)
+
+### Story 2: Jake Bauers NLCS MVP — Almost Retired, Now a Hero
+- **Date**: 2026-10-18
+- **Tier**: 1
+- **Key Facts**: Bauers considered retirement before 2026; wife's pregnancy/health insurance kept him playing; first Brewer ever to win LCS MVP; 4-for-14 .286 BA 6 RBI series-high; go-ahead 2-run HR G3 7th inning; 2-run ground-rule double G4 4th inning; "We knew we were going to win"
+- **Article**: article-02-jake-bauers-nlcs-mvp-retirement-story.html (By Jake Torres)
+
+### Story 3: Brewers World Series Prep — Misiorowski Gets the Call
+- **Date**: 2026-10-18
+- **Tier**: 2
+- **Key Facts**: Misiorowski starts WS Game 1 Oct 23 American Family Field 8PM ET FOX; 1.80 ERA 252 K regular season; 12 days rest between starts; Henderson starts Game 2 Oct 24; Brewers 103-59 home-field advantage; Milwaukee first WS home game since 1982 (44 years)
+- **Article**: article-03-brewers-world-series-rotation-misiorowski.html (By Ryan Calloway)
+
+### Story 4: Caminero Wakes Up — 110.7 MPH Launch Powers Rays to G4 Win
+- **Date**: 2026-10-18
+- **Tier**: 2
+- **Key Facts**: Caminero/Díaz/Aranda combined 5-for-34 1 RBI entering G4; Caminero 110.7 mph laser 6th inning breaks 1-1 tie; Rays won 7-3; series tied 2-2; Caminero viewed as key to Tampa WS run
+- **Article**: article-04-caminero-alcs-game-4-breakout.html (By Marcus Cole)
+
+### Story 5: World Series 2026 — Schedule, Broadcast Guide, and Preview
+- **Date**: 2026-10-18
+- **Tier**: 2
+- **Key Facts**: WS Game 1 Oct 23 Milwaukee 8PM ET FOX; Games 1-2 Milwaukee, 3-5 AL park, 6-7 Milwaukee; AL opponent TBD (Rays vs Guardians tonight); Brewers last WS 1982 (44 years); full schedule through Game 7 Oct 31
+- **Article**: article-05-world-series-2026-schedule-preview.html (By Jake Torres)
+
+---
+
 ## Pipeline Run: 2026-10-17
 
 ### Story 1: Brewers Sweep Dodgers in NLCS -- World Series Bound for First Time Since 1982
