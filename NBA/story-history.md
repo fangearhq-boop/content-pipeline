@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-18
+
+### STORY 1: Opening Night Two Days Away — Knicks Banner Night Guide
+- **Tier:** 1
+- **Category:** New York Knicks / Opening Night / Banner Ceremony / Philadelphia 76ers / LeBron James
+- **Key facts:** Knicks raise first banner since 1973 at MSG, Oct. 20 at 7 PM ET; ring ceremony 6:30 PM; Brunson, Towns, Bridges, Hart, Anunoby all returning; Josh Hart day-to-day but expected to play; LeBron James 76ers debut at MSG on banner night; Jaylen Brown also debuting; Mitchell Robinson departed for Celtics offseason; full tripleheader: Celtics at Pistons 3 PM, Sixers at Knicks 7 PM, Thunder at Spurs 9:30 PM, all NBC
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+
+### STORY 2: Chet Holmgren's Opening Night Status in Doubt — Injury Report Oct. 19 at 5 PM ET
+- **Tier:** 1
+- **Category:** Oklahoma City Thunder / Chet Holmgren / Injuries / Opening Night
+- **Key facts:** Quad contusion; held out of all preseason games; Daigneault: "I'll leave that to the injury report. We'll report at 5 p.m. on the day before the first game"; Rotowire: Questionable, est. return 10/20; Otega Oweh already out for season (Achilles); Thunder open vs. Spurs 9:30 PM ET on NBC
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: Nuggets Lose Strawther for Six Weeks — MRI Confirms Left Knee Sprain
+- **Tier:** 1
+- **Category:** Denver Nuggets / Julian Strawther / Injuries / MRI Results
+- **Key facts:** MRI confirmed left knee sprain, no structural damage; out at least six weeks; re-evaluation around Thanksgiving; injured Q3 Oct. 14 preseason vs. Clippers; rookie extension deadline Oct. 19 (status unclear); Christian Braun and Peyton Watson absorb wing minutes
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+
+### STORY 4: Knicks Cut Bruce Brown, Keep James Wiseman — Final Roster Set
+- **Tier:** 2
+- **Category:** New York Knicks / Roster / Bruce Brown / James Wiseman / Second Apron
+- **Key facts:** Bruce Brown waived Oct. 17; Wiseman wins 14th/15th spot as third center; second apron salary rules drove decision (owner Dolan opposes exceeding); Brown played all 82 games for Denver 2025-26; Dadiet and Kolek remain on roster; Brown potential return path via trade
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: Clippers Opening Night Disaster Confirmed — Ingram, Beal, Strus, Konan All Out
+- **Tier:** 2
+- **Category:** Los Angeles Clippers / Injuries / Brandon Ingram / Bradley Beal / Opening Night
+- **Key facts:** Out for Oct. 21 opener vs. Sacramento Kings: Brandon Ingram, Bradley Beal (knee inflammation, no timeline), Max Strus, Yanic Konan Niederhauser (foot); Coach Tyronn Lue confirmed all four; Cameron Christie (two-way) gets rotation minutes; Babi Miller starts at center
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
 ## 2026-10-17
 
 ### STORY 1: Three Days to Opening Night — Injury Wave Won't Stop Monday's Tripleheader

@@ -1,0 +1,283 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-18",
+  "compiled_at": "2026-10-18T11:21:30.205299+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "X + Facebook",
+      "type": "Story 3 (Strawther MRI)"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "X + Facebook",
+      "type": "Story 4 (Knicks roster)"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "X + Facebook",
+      "type": "Story 5 (Clippers injuries)"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "X + Facebook",
+      "type": "Story 2 (Holmgren status)"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "X + Facebook",
+      "type": "Story 1 (Banner Night preview)"
+    },
+    {
+      "time": "9:30 PM",
+      "description": "X",
+      "type": "Story 1 (Banner Night)"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Knicks Banner Night Is Two Days Away — What to Watch at MSG",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "**Text Post A (Posting Window: 7:00 PM ET)**\n48 hours.\n\nThe Knicks raise their first championship banner since 1973.\n\nLeBron walks into MSG wearing a 76ers jersey.\n\nJalen Brunson's house. His ring. His night. 🏀🔥\n\n#HoopHeroes #Knicks #OpeningNight",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Knicks",
+            "#OpeningNight"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "Two days from now, Madison Square Garden is going to be something else.\n\nThe New York Knicks raise their first championship banner since 1973 on Tuesday night. Jalen Brunson, Karl-Anthony Towns, Josh Hart, OG Anunoby, and Mikal Bridges — the same five guys who finished off the Spurs in June — walk out for Opening Night in front of the loudest building in the NBA.\n\nThen LeBron James walks out wearing a Philadelphia 76ers jersey. For the first time since he landed in Philly, he plays a real game — and it happens to be at MSG, against the defending champions, on banner night. Jaylen Brown is right there with him.\n\nThe ceremony starts at 6:30 PM ET. Adam Silver hands out rings. The banner goes up. And then this Sixers team, built around LeBron and Brown, has to go play one of the best teams in the league on the road with 20,000 people screaming at them from tip-off.\n\nCatch it Tuesday at 7 PM ET on NBC and Peacock. This one's going to be worth it.\n\n---",
+        "image_caption": "Banner Night is almost here.\n\n53 years in the making — Tuesday night at MSG, the Knicks raise the championship flag. Who's watching?",
+        "posting_time": "Posting Window: 7:00 PM ET"
+      },
+      "article": {
+        "filename": "article-01-knicks-banner-night-two-days-away.html",
+        "headline": "Opening Night Is Two Days Away: Your Complete Knicks Banner Night Guide",
+        "word_count": 536
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks Banner Night Is Two Days Away\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Championship celebration or Jalen Brunson lifting trophy\n- **Photo Search Terms:**\n  - \"Jalen Brunson New York Knicks\"\n  - \"Karl-Anthony Towns New York Knicks\"\n  - \"New York Knicks Madison Square Garden\"\n  - \"OG Anunoby New York Knicks\"\n- **Text Overlay Copy:**\n  - Headline: \"BANNER NIGHT\"\n  - Subtitle: \"OCT. 20 · MSG · 7 PM ET\"\n  - Subtitle Color: #FFC107 (Accent Gold)\n- **Composition Notes:** Full team celebration if available; MSG crowd in background is ideal. Dark overlay bar bottom third.\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Jalen Brunson New York Knicks\"\n- **Text Overlay:** \"Opening Night 2026: Knicks Raise the Banner\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Knicks Banner Night Is Two Days Away — What to Watch at MSG\n- **Decision:** FOLLOW UP — covered Oct. 10–17; this is the final two-day countdown preview\n- **Sources:**\n- ClutchPoints X post (Oct. 17): Championship ring ceremony confirmed 6:30 PM ET; Jalen Brunson, Karl-Anthony Towns, Josh Hart\n- NBA X post (Oct. 17): Official Opening Night tripleheader graphic confirmed times/channels\n- Yardbarker (Oct. 17): Josh Hart day-to-day, Knicks coach \"not concerned about Josh missing it\"\n- Empire Sports Media (Oct. 17): LeBron James Sixers debut confirmed at MSG\n- **Key Facts:**\n- Opening Night: October 20, 2026, tripleheader on NBC/Peacock\n- Game 2: Sixers at Knicks, 7:00 PM ET; ring/banner ceremony at 6:30 PM ET\n- Adam Silver presents rings; Knicks' first championship banner since 1973\n- All five Knicks starters returning: Brunson, Towns, Bridges, Hart, Anunoby\n- Josh Hart: day-to-day (minor injury), but expected to play\n- LeBron James (76ers) and Jaylen Brown (76ers) both make Philly debuts at MSG\n- Mitchell Robinson departed for Boston Celtics in offseason\n- Full tripleheader: Celtics at Pistons (3 PM) → Sixers at Knicks (7 PM) → Thunder at Spurs (9:30 PM)\n- **Freshness:** Sources from Oct. 17, 2026 — within 24 hours\n- **Confidence:** HIGH — multiple sources confirm all details",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Chet Holmgren's Opening Night Status in Doubt — Thunder's Star May Miss Game 1",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "**Text Post A (Posting Window: 4:00 PM ET)**\nNo Chet. No Oweh.\n\nThe Thunder could open the season without BOTH of them.\n\nHolmgren (quad) hasn't played a preseason minute. Official status drops Oct. 19 at 5 PM ET.\n\nSGA better be ready to carry. 👀\n\n#HoopHeroes #Thunder #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Thunder",
+            "#NBA"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": {
+        "long_form": "The Thunder-Spurs West Finals rematch is two days away, and Oklahoma City still doesn't know if Chet Holmgren will be on the floor.\n\nHolmgren has sat out every preseason game with a quad contusion. Head coach Mark Daigneault addressed his status Saturday, saying, \"I'll leave that to the injury report. We'll report at 5 p.m. on the day before the first game.\" That means fans won't have a definitive answer until Monday evening at the earliest.\n\nIt's already a tough situation. Otega Oweh is gone for the year with an Achilles tear — a real loss for Oklahoma City's wing depth. If Holmgren joins him on the sideline for Opening Night, the Thunder face the Spurs and Victor Wembanyama without two key players in a game that was supposed to be the marquee matchup of the night.\n\nShai Gilgeous-Alexander will play. He always does. But there's a big difference between SGA with a healthy Holmgren at his side and SGA trying to carry the team against a Spurs squad that's been healthy all preseason.\n\nThe injury report drops tomorrow at 5 PM ET. Stay tuned.\n\n---",
+        "image_caption": "Will Chet play Tuesday? The Thunder don't know yet — and neither do we.\n\nInjury report lands tomorrow at 5 PM ET. This one changes the whole Opening Night picture.",
+        "posting_time": "Posting Window: 4:00 PM ET"
+      },
+      "article": {
+        "filename": "article-02-chet-holmgren-opening-night-questionable.html",
+        "headline": "Thunder's Holmgren Questionable for Opening Night as Injury Report Looms",
+        "word_count": 548
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Chet Holmgren's Opening Night Status in Doubt\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Chet Holmgren Thunder action shot or bench/warmup\n- **Photo Search Terms:**\n  - \"Chet Holmgren Oklahoma City Thunder\"\n  - \"Shai Gilgeous-Alexander Oklahoma City Thunder\"\n  - \"Oklahoma City Thunder\"\n  - \"Chet Holmgren\"\n- **Text Overlay Copy:**\n  - Headline: \"CHET WATCH\"\n  - Subtitle: \"STATUS: QUESTIONABLE\"\n  - Subtitle Color: #FF5722 (Primary Deep Orange — urgent/unknown)\n- **Composition Notes:** Holmgren looking toward court or warmup; conveys uncertainty.\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Chet Holmgren Oklahoma City Thunder\"\n- **Text Overlay:** \"Holmgren Questionable for Opening Night\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Chet Holmgren's Opening Night Status in Doubt — Thunder's Star May Miss Game 1\n- **Decision:** FOLLOW UP — Oct. 17 covered Otega Oweh; this is a new angle on Holmgren uncertainty\n- **Sources:**\n- HoopsHype (Oct. 17): Holmgren held out of all preseason games, quad contusion\n- Heavy (Oct. 17): Coach Daigneault quote on injury report timing\n- CBS Sports: Listed as \"Downgraded to Out\" — flagged LOW CONFIDENCE (may be stale; official report pending)\n- Rotowire: Listed as \"Questionable,\" est. return 10/20/2026\n- **Key Facts:**\n- Injury: Quad contusion, held out of all preseason games as precaution\n- Coach Mark Daigneault (Oct. 17): \"I'll leave that to the injury report. We'll report at 5 p.m. on the day before the first game.\"\n- Official Thunder injury report due: October 19, 2026 at 5:00 PM ET\n- Otega Oweh: Already confirmed out for entire season (Achilles tear)\n- Thunder open vs. Spurs — West Finals rematch — at 9:30 PM ET on NBC\n- SGA (Shai Gilgeous-Alexander) is the confirmed starter regardless\n- **Freshness:** Coach quote from Oct. 17, 2026 — within 24 hours\n- **Confidence Notes:** Holmgren's actual game status is MEDIUM (CBS Sports \"out\" vs. Rotowire \"questionable\" conflict). Use \"in doubt\" framing; official report tomorrow.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Nuggets Lose Julian Strawther for Six Weeks — MRI Confirms Knee Sprain",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "**Text Post A (Posting Window: 9:00 AM ET)**\nMRI results are in.\n\nJulian Strawther: left knee sprain. OUT at least 6 weeks.\n\nGone until around Thanksgiving. The Nuggets open the season shorthanded. 🤕\n\n#HoopHeroes #Nuggets #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Nuggets",
+            "#NBA"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "The MRI results are in, and they're not what Denver wanted to hear.\n\nJulian Strawther suffered a left knee sprain during the third quarter of Colorado's preseason loss to the Clippers on October 14. The good news: no structural damage, no torn ligament. The bad news: he's out at least six weeks, which means the Nuggets won't have him back until around Thanksgiving.\n\nStrawther had developed into a reliable perimeter shooter and rotational piece for Denver over the past two seasons. Losing him for the first five-plus weeks of the schedule forces head coach David Adelman to lean harder on Christian Braun and Peyton Watson for wing minutes while also navigating depth questions throughout the rotation.\n\nThere's also a business angle to this. Strawther was eligible for a rookie contract extension through October 19. It's unclear whether that deal got done before the injury news became official.\n\nThe Nuggets are still one of the West's top teams. But they're opening the year without a piece they were counting on — and in this league, roster depth gets tested early.\n\n---",
+        "image_caption": "Six weeks. That's the Strawther timeline.\n\nMRI confirmed a left knee sprain — no structural damage, but Denver is without him until Thanksgiving. Tough way to start the year.",
+        "posting_time": "Posting Window: 9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-03-strawther-mri-six-weeks-nuggets.html",
+        "headline": "MRI Confirmed: Strawther Out Six Weeks as Nuggets Open Season Shorthanded",
+        "word_count": 477
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nuggets Lose Julian Strawther for Six Weeks\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Julian Strawther in Nuggets uniform; injury/bench angle preferred\n- **Photo Search Terms:**\n  - \"Julian Strawther Denver Nuggets\"\n  - \"Denver Nuggets\"\n  - \"Nikola Jokic Denver Nuggets\"\n  - \"Peyton Watson Denver Nuggets\"\n- **Text Overlay Copy:**\n  - Headline: \"6 WEEKS OUT\"\n  - Subtitle: \"STRAWTHER · KNEE SPRAIN\"\n  - Subtitle Color: #FF5722 (Primary Deep Orange — injury news)\n- **Composition Notes:** Strawther in action or sideline; Nuggets blue/gold palette.\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Julian Strawther Denver Nuggets\"\n- **Text Overlay:** \"MRI Confirmed: Strawther Out Until Thanksgiving\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Nuggets Lose Julian Strawther for Six Weeks — MRI Confirms Knee Sprain\n- **Decision:** FOLLOW UP — Oct. 17 covered the injury and pending MRI; this is the confirmed result\n- **Sources:**\n- Hoops Rumors (Oct. 17): Six-week timeline, left knee sprain confirmed\n- KMJNOW (Oct. 17): MRI results reported, no structural damage\n- Heavy (Oct. 17): Rookie extension deadline angle — Strawther eligible through Oct. 19\n- Yardbarker (Oct. 17): Context on Nuggets Opening Night roster impact\n- **Key Facts:**\n- MRI result: Left knee sprain, no structural damage (no ACL/MCL tear)\n- Timeline: At least six weeks — re-evaluation around Thanksgiving (late November)\n- Injury occurred: Q3 of October 14 preseason game vs. Clippers\n- Strawther will not be available for Nuggets' Opening Night\n- Rookie extension deadline: October 19 (Strawther was eligible — uncertain if signed)\n- Nuggets must adjust rotation for early games without him\n- **Freshness:** Sources from Oct. 17, 2026 — within 24 hours\n- **Confidence:** HIGH — multiple sources confirm six-week timeline and knee sprain diagnosis",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Knicks Cut Bruce Brown, Keep Wiseman — Defending Champs Lock In Roster",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "**Text Post A (Posting Window: 11:00 AM ET)**\nBruce Brown is OUT. James Wiseman is IN.\n\nKnicks made their final roster call Saturday. Second apron math made the decision for them. 💸\n\nThe defending champs set their 15. Opening Night Tuesday. 🏆\n\n#HoopHeroes #Knicks #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Knicks",
+            "#NBA"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "The Knicks made their last roster decision Saturday, and it came down to one thing: the second apron.\n\nNew York waived Bruce Brown to keep James Wiseman. Brown had played all 82 games for the Denver Nuggets last season before signing with the Knicks in camp. Wiseman won the final center spot on the roster, giving New York three big men heading into a title defense.\n\nHead coach Tom Thibodeau and the front office reportedly felt that carrying both Brown (a wing) and Wiseman (a center) in the salary structure exceeded the second apron threshold that owner James Dolan has been committed to staying under. The math won.\n\nBrown could potentially return if the Knicks make a trade that reshuffles their cap situation. In the meantime, Pacome Dadiet and Miles Kolek are the remaining wings behind the starting five.\n\nThe full Knicks roster is set. Tuesday's ring ceremony and banner raising at MSG is officially two days away.\n\n---",
+        "image_caption": "Brown is out. Wiseman is in. The defending champion Knicks set their 15-man roster — and Opening Night is Tuesday.",
+        "posting_time": "Posting Window: 11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-04-knicks-cut-bruce-brown-keep-wiseman.html",
+        "headline": "Knicks Cut Bruce Brown, Keep Wiseman as Second Apron Math Forces the Call",
+        "word_count": 447
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks Cut Bruce Brown, Keep Wiseman\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** James Wiseman in Knicks camp gear OR Bruce Brown in general\n- **Photo Search Terms:**\n  - \"James Wiseman New York Knicks\"\n  - \"Bruce Brown Denver Nuggets\"\n  - \"New York Knicks roster\"\n  - \"James Wiseman\"\n- **Text Overlay Copy:**\n  - Headline: \"ROSTER SET\"\n  - Subtitle: \"WISEMAN IN · BROWN OUT\"\n  - Subtitle Color: #FFC107 (Accent Gold — roster news)\n- **Composition Notes:** Clean close-up shot; minimal background.\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"New York Knicks\"\n- **Text Overlay:** \"Knicks Final Roster: Brown Out, Wiseman Stays\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Knicks Cut Bruce Brown, Keep Wiseman — Defending Champs Lock In Roster\n- **Decision:** NEW — specific Knicks transaction from Oct. 17 deadline\n- **Sources:**\n- Hoops Rumors (Oct. 17): Bruce Brown waived, Wiseman retained\n- Rotowire (Oct. 17): Second apron salary rule explanation\n- Yahoo Sports (Oct. 17): Brown's Denver history; Knicks' three-center situation\n- **Key Facts:**\n- Bruce Brown waived by New York Knicks: October 17, 2026\n- James Wiseman wins final (14th/15th) roster spot — third center behind [starters]\n- Reason: Second apron salary rules; keeping both Brown and Wiseman exceeded limits owner Dolan opposes\n- Brown history: Played all 82 games for Denver Nuggets in 2025-26 before signing with Knicks\n- Potential return path: Knicks could sign Brown back after a trade\n- Other roster candidates: Pacome Dadiet and Miles Kolek remain\n- **Freshness:** Oct. 17 sources — within 24 hours\n- **Confidence:** HIGH — Hoops Rumors and Yahoo Sports confirm the transaction",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Clippers Opening Night Roster Confirmed — Ingram, Beal, Strus, Konan Out",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "**Text Post A (Posting Window: 1:00 PM ET)**\nTyronn Lue confirmed it: four Clippers out for the Oct. 21 opener.\n\nIngram. Beal (knee). Strus. Konan Niederhauser.\n\nCameron Christie and Babi Miller are picking up the slack. 😬\n\n#HoopHeroes #Clippers #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Clippers",
+            "#NBA"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "Tyronn Lue made it official: the Clippers are opening the season without four rotation players.\n\nOut for the October 21 game against the Sacramento Kings: Brandon Ingram, Bradley Beal (knee inflammation, no timeline), Max Strus, and rookie Yanic Konan Niederhauser (foot injury). That's a significant portion of the rotation gone before the first real game of the year.\n\nCameron Christie, who played on a two-way contract, is going to get meaningful run. Babi Miller is expected to start at center. Lue and his staff are going to have to get creative with a shorter-than-expected lineup in game one.\n\nThe most concerning name on that list is Beal. Knee inflammation with no timeline means there's no certainty on when — or if — he comes back healthy for a sustained stretch this year. Los Angeles signed Beal this summer expecting a major contributor. This is not the start they were hoping for.\n\nThe Kings, on the other hand, just got the best possible draw for a season opener.\n\n---",
+        "image_caption": "Four Clippers out for the season opener. Ingram. Beal. Strus. Konan.\n\nSacramento is going to be very happy to see that injury report.",
+        "posting_time": "Posting Window: 1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-clippers-ingram-beal-strus-out-opener.html",
+        "headline": "Clippers Opener Is a Mess: Ingram, Beal, Strus, and Konan All Confirmed Out",
+        "word_count": 490
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Clippers Opening Night Roster Confirmed\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Tyronn Lue coaching or Clippers bench scene\n- **Photo Search Terms:**\n  - \"Tyronn Lue Los Angeles Clippers\"\n  - \"Brandon Ingram Los Angeles Clippers\"\n  - \"Los Angeles Clippers\"\n  - \"Cameron Christie Los Angeles Clippers\"\n- **Text Overlay Copy:**\n  - Headline: \"CLIPPERS OUT LIST\"\n  - Subtitle: \"4 STARTERS UNAVAILABLE\"\n  - Subtitle Color: #FF5722 (Primary Deep Orange — urgent injury news)\n- **Composition Notes:** Lue on sideline works well; or empty bench.\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Brandon Ingram Los Angeles Clippers\"\n- **Text Overlay:** \"Ingram, Beal, Strus, Konan — All Out for Opener\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Clippers Opening Night Roster Confirmed — Ingram, Beal, Strus, Konan Out\n- **Decision:** FOLLOW UP — Oct. 17 covered Clippers injury disaster; this confirms the full list\n- **Sources:**\n- Yahoo Sports / Covers.com injury report (Oct. 17-18): Full list confirmed\n- Roundtable.io (Oct. 18): Tyronn Lue confirmation quote\n- FantasyAlarm (Oct. 17-18): Cameron Christie and Babi Miller role breakdowns\n- **Key Facts:**\n- Out for Oct. 21 season opener vs. Sacramento Kings:\n- Brandon Ingram (ongoing injury)\n- Bradley Beal: knee inflammation, no timeline given\n- Max Strus (injury)\n- Yanic Konan Niederhauser: foot injury\n- Cameron Christie (two-way contract) will get significant rotation time\n- Babi Miller will start at center\n- Coach Tyronn Lue confirmed all four designations\n- Clippers' opener is Oct. 21 (not Oct. 20 — not on Opening Night tripleheader)\n- **Freshness:** Oct. 17-18 sources — within 24-48 hours\n- **Confidence:** HIGH — coach Lue confirmation reported by multiple outlets",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
