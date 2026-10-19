@@ -1,7 +1,7 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Current Status
-**Last Run:** 2026-10-18
+**Last Run:** 2026-10-19
 **Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy; git push via GitHub MCP
 
 ## Deploy Info
@@ -11,6 +11,24 @@
 - **Note:** Dashboard publish push blocked (content-dashboards not in authorized repo set)
 
 ## Pipeline Run Log
+### 2026-10-19 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 29 claims, 42 HIGH; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 5 tweets, 0 FB (known parsing issue), 5 articles; fixed 3 tweets over 280 chars
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (20 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via GitHub MCP
+
+**Stories covered:**
+1. T1 NEW: Opening Night Complete Guide — Tripleheader on NBC Starts Tomorrow (Jake Torres)
+2. T1 FOLLOW UP: Chet Holmgren Ruled OUT for Opening Night — Quad Contusion (Marcus Cole)
+3. T1 NEW: LeBron James Joins the Sixers — Opening Night at MSG Is His Moment (Damon Pierce)
+4. T2 NEW: Paul George Opens His Celtics Era in Detroit (Jake Torres)
+5. T2 FOLLOW UP: Julian Strawther Rookie Extension Deadline — Status Unknown (Marcus Cole)
+
 ### 2026-10-18 ✅ (Automated)
 - Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
 - Step 10: verify-facts.py — 5 stories, 41 claims, 93 HIGH; image manifest warning (expected; imagn sourcing)

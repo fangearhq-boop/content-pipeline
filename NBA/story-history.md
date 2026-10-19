@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-19
+
+### STORY 1: Opening Night Complete Guide — Tripleheader on NBC Starts Tomorrow
+- **Tier:** 1
+- **Category:** NBA Opening Night / Season Preview / Knicks / Sixers / Thunder / Spurs / Celtics / Pistons
+- **Key facts:** Opening Night Oct. 20 — Celtics at Pistons 3 PM, Sixers at Knicks 7 PM (Knicks banner ceremony 6:30 PM), Thunder at Spurs 9:30 PM; all NBC/Peacock; Knicks raise first banner since 1973 (53 years); LeBron James and Jaylen Brown debut for Sixers; Paul George debuts for Celtics
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Chet Holmgren Ruled OUT for Opening Night — Quad Contusion
+- **Tier:** 1
+- **Category:** Oklahoma City Thunder / Chet Holmgren / Injuries / Opening Night
+- **Key facts:** Official 5 PM ET injury report: Holmgren OUT with quad contusion; missed all preseason games; Isaiah Hartenstein and Aday Mara step up; Otega Oweh also out for season (Achilles); Thunder face Spurs 9:30 PM NBC
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: LeBron James Joins the Sixers — Opening Night at MSG
+- **Tier:** 1
+- **Category:** Philadelphia 76ers / LeBron James / Jaylen Brown / New York Knicks / Opening Night
+- **Key facts:** LeBron makes Sixers debut at MSG on Knicks banner night; Jaylen Brown also debuting for Philly; Sixers-Knicks 7 PM ET NBC; Knicks first banner since 1973; banner ceremony 6:30 PM ET
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: Paul George Makes Boston Debut vs. Pistons in Season Opener
+- **Tier:** 2
+- **Category:** Boston Celtics / Paul George / Detroit Pistons / Opening Night
+- **Key facts:** Season opens 3 PM ET in Detroit (not NYC); Paul George debuts for Celtics (came via Brown/George trade with Sixers); pairing with Tatum and Holiday; Pistons hosting first game of season
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: Julian Strawther Rookie Extension Deadline Today — Status Unknown
+- **Tier:** 2
+- **Category:** Denver Nuggets / Julian Strawther / Rookie Extension / Injuries
+- **Key facts:** Oct. 19 = NBA rookie extension deadline; Strawther out ~6 weeks (left knee sprain, no structural damage, MRI Oct. 14); Nuggets are second-apron team; Christian Braun and Peyton Watson absorb wing minutes; extension status not publicly announced
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
 ## 2026-10-18
 
 ### STORY 1: Opening Night Two Days Away — Knicks Banner Night Guide
