@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## Pipeline Run: 2026-10-19
+
+### Story 1: Rays Win ALCS Game 5 — Game 6 Tonight at Tropicana Field
+- **Date**: 2026-10-19
+- **Tier**: 1
+- **Key Facts**: Rays 3, Guardians 1 (Oct 18, Progressive Field); Rasmussen 7 IP 1 R; Bryan Baker closed; Rays lead ALCS 3-2; Game 6 TONIGHT at Tropicana Field ~5PM ET NBC Sports; winner faces Brewers in WS starting Oct 23
+- **Article**: article-01-rays-alcs-game-5-win-game-6-tonight.html (By Ryan Calloway)
+
+### Story 2: Drew Rasmussen's October Is Historic — The Case for Tampa Bay's Ace
+- **Date**: 2026-10-19
+- **Tier**: 1
+- **Key Facts**: ALDS G1: 8 IP, 1 H, 10 K (tied Glasnow franchise postseason record), Rays 1-0 vs Yankees; ALCS G5: 7 IP, 1 R, Rays 3-1; 2026 postseason: 1-0, 1.29 ERA, 15 IP; regular season 16-5, 2.67 ERA, 2x All-Star; lined up for WS Game 1 if Rays advance
+- **Article**: article-02-rasmussen-october-historic-ace.html (By Marcus Cole)
+
+### Story 3: Brewers Counting Down — First WS Home Game Since 1982
+- **Date**: 2026-10-19
+- **Tier**: 2
+- **Key Facts**: Swept Dodgers NLCS Oct 16; WS Game 1 Oct 23 American Family Field 8PM ET FOX; Misiorowski starts G1 (1.80 ERA 252 K regular season); Turang 100 RBI scored every NLCS game; Chourio franchise postseason HR record; Contreras 3 HR in 2026 playoffs; Bauers NLCS MVP; 44 years since Milwaukee hosted WS game (1982)
+- **Article**: article-03-brewers-countdown-world-series.html (By Jake Torres)
+
+### Story 4: Jackson Chourio Breaks Brewers All-Time Postseason HR Record
+- **Date**: 2026-10-19
+- **Tier**: 2
+- **Key Facts**: 6th career postseason HR hit in NLCS vs Dodgers broke franchise all-time record; broke tie with William Contreras; Contreras had 3 HR in 2026 playoffs; Chourio now owns most postseason HRs in Brewers history (since 1969)
+- **Article**: article-04-chourio-brewers-postseason-hr-record.html (By Ryan Calloway)
+
+### Story 5: Guardians' Last Stand — Elimination Game 6 Tonight in St. Petersburg
+- **Date**: 2026-10-19
+- **Tier**: 2
+- **Key Facts**: Guardians trail ALCS 3-2; came back from 0-2 vs White Sox in ALDS; Game 6 TONIGHT at Tropicana Field; José Ramírez key offensive player; franchise last WS title 1948 (78-year drought); road elimination game
+- **Article**: article-05-guardians-last-stand-game-6.html (By Marcus Cole)
+
+---
+
 ## Pipeline Run: 2026-10-18
 
 ### Story 1: ALCS Game 5 — Rays vs. Guardians, TODAY at Progressive Field

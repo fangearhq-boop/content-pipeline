@@ -1,0 +1,314 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-19",
+  "compiled_at": "2026-10-19T10:25:46.800199+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "1",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "2",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "3 + 4",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "5",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "1",
+      "type": "X"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "4",
+      "type": "FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Rays Win ALCS Game 5 — One Win From World Series, Game 6 TONIGHT",
+      "tier": 1,
+      "status": "",
+      "angle": "Drew Rasmussen delivered 7 strong innings (1 run) in Tampa Bay's 3-1 Game 5 win at Progressive Field. Bryan Baker closed it out. The Rays lead the ALCS 3-2 and can clinch a World Series berth TONIGHT at Tropicana Field. The Guardians need a win tonight or their season ends. If Tampa Bay wins, the World Series vs. the Brewers begins Oct. 23.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Rays 3, Guardians 1.\n\nDrew Rasmussen: 7 IP, 1 run. Bryan Baker closed it.\n\nTampa Bay leads the ALCS 3-2 and can clinch the World Series TONIGHT at Tropicana Field.\n\nThe Brewers are watching.\n\n#Rays #ALCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rays",
+            "#ALCS"
+          ],
+          "char_count": 203
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Game 6 is tonight at Tropicana Field.\n\nOne Rays win = World Series vs. the Brewers starting Oct. 23.\n\nOne Guardians win = Game 7 Wednesday.\n\nWhat's your prediction? #Rays #Guardians #ALCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rays",
+            "#Guardians",
+            "#ALCS"
+          ],
+          "char_count": 187
+        }
+      ],
+      "facebook": {
+        "long_form": "Drew Rasmussen took the ball in Game 5 of the ALCS at Progressive Field, and he delivered exactly what Tampa Bay needed.\n\nSeven innings. One run. Bryan Baker closed it out. Rays 3, Guardians 1.\n\nTampa Bay leads the ALCS 3-2 and will try to clinch the American League pennant tonight at Tropicana Field. One more win and the Rays are in the World Series — where Milwaukee and its 44-year wait are already prepared to host.\n\nGame 6 is tonight. The Rays are one victory from their first Fall Classic since 2020. The Guardians are one loss from ending a season that began with one of the great ALDS comebacks in recent history.\n\nIt's going to be a good game.",
+        "image_caption": "Game 5: Rays 3, Guardians 1. Rasmussen delivered 7 innings. Game 6 is TONIGHT at Tropicana Field — Rays one win from the World Series. #Rays #ALCS",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-rays-alcs-game-5-win-game-6-tonight.html",
+        "headline": "Rays Beat Cleveland 3-1 in ALCS Game 5, Can Clinch World Series Berth Tonight",
+        "word_count": 586
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "A (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1",
+          "size_desc": "B (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Rasmussen's October Is Historic — The Case for Tampa Bay's Ace",
+      "tier": 1,
+      "status": "",
+      "angle": "In two postseason starts, Drew Rasmussen has been arguably the best pitcher in the playoffs. ALDS Game 1: 8 innings, 1 hit, 10 strikeouts (tied Glasnow's Rays franchise record). ALCS Game 5: 7 innings, 1 run. He's 1-0 with a 1.29 ERA in the 2026 postseason. Regular season: 16-5, 2.67 ERA, second straight All-Star selection. If the Rays reach the World Series, Rasmussen is their Game 1 starter.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Drew Rasmussen's 2026 postseason:\n\nALDS G1: 8 IP, 1 H, 10 K\nALCS G5: 7 IP, 1 R\n\n1-0. 1.29 ERA. In 15 postseason innings, he's been elite.\n\nIf the Rays advance, he starts Game 1 of the World Series.\n\n#Rays #ALCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rays",
+            "#ALCS"
+          ],
+          "char_count": 210
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Rasmussen's ALDS G1 no-hit bid (8 IP, 1 H, 10 K vs the Yankees) tied Tyler Glasnow's Rays franchise record for K's in a postseason game.\n\nRegular season: 16-5, 2.67 ERA. 2x All-Star.\n\nThis is what a No. 1 starter looks like in October.\n\n#Rays #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rays",
+            "#MLB"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "Two starts. That's all it's taken for Drew Rasmussen to make the most convincing case for best pitcher in the 2026 playoffs.\n\nIn the ALDS opener against the Yankees, he threw eight innings, allowed one hit, and struck out 10 — a number that tied Tyler Glasnow's franchise record for most strikeouts in a Tampa Bay postseason game. The only Yankee base runner reached on a walk. The Rays won 1-0. It was one of the best individual pitching performances of any October in recent memory.\n\nThen, in ALCS Game 5 at Cleveland, he went seven innings and allowed one run. The Rays won 3-1. They lead the series 3-2.\n\nRasmussen's 2026 postseason line: 1-0, 1.29 ERA, 15 innings pitched, one hit, 10 strikeouts in his best outing. He was 16-5 with a 2.67 ERA in the regular season and made the All-Star team for the second consecutive year. If the Rays win tonight and advance to the World Series, Rasmussen lines up as their Game 1 starter.\n\nThe conversation about the best pitcher in baseball this October has to include him.",
+        "image_caption": "Drew Rasmussen: ALDS G1 (8 IP, 1 H, 10 K), ALCS G5 (7 IP, 1 R). 1-0, 1.29 ERA in 2026 postseason. If the Rays reach the World Series, he starts Game 1. #Rays #MLB",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-rasmussen-october-historic-ace.html",
+        "headline": "Drew Rasmussen Is the Best Pitcher in the 2026 Playoffs",
+        "word_count": 589
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2",
+          "size_desc": "A (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Brewers Waiting, Watching — Milwaukee Counts Down to First WS Home Game Since 1982",
+      "tier": 2,
+      "status": "",
+      "angle": "The Brewers have had a week since clinching the NLCS sweep. Misiorowski is lined up for Game 1 (Oct. 23, American Family Field, 8 PM ET, FOX). Brice Turang (100 RBI, scored in every NLCS game), Jackson Chourio, William Contreras, and Jake Bauers form one of baseball's best lineups. Milwaukee will host its first World Series home game since 1982 — a 44-year wait for the city.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Brewers swept the Dodgers and have been resting for a week.\n\nWorld Series Game 1: Oct. 23. American Family Field. Milwaukee. 8 PM ET on FOX.\n\nMilwaukee hosts the World Series for the first time since 1982 — 44 years.\n\n#Brewers #WorldSeries",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#WorldSeries"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "The Milwaukee Brewers swept the Los Angeles Dodgers out of the National League Championship Series a week ago. Since then, they've been resting, watching the ALCS, and preparing for a World Series their city hasn't seen in 44 years.\n\nGame 1 is October 23 at American Family Field in Milwaukee. First pitch at 8 p.m. ET on FOX.\n\nJacob Misiorowski is lined up to start. He carried a 1.80 ERA and struck out 252 batters in the regular season — numbers that made him one of baseball's best starting pitchers in 2026. After his NLCS performance, his October credentials are only getting stronger.\n\nThe lineup behind him is deep. Brice Turang (100 RBI in the regular season) scored a run in every game of the NLCS. Jackson Chourio hit a franchise-record 6th career postseason home run. William Contreras added 3 home runs in the 2026 playoffs. And Jake Bauers — the NLCS MVP who nearly retired before this season — is the most Milwaukee story on the most Milwaukee team.\n\nMilwaukee hasn't hosted a World Series home game since 1982. That's four and a half decades of waiting for October baseball to come back to Wisconsin. Tuesday night, the wait gets four days shorter.",
+        "image_caption": "The Brewers have been waiting since Oct. 16. World Series Game 1 is Oct. 23, American Family Field, 8 PM ET on FOX. Milwaukee hosts the World Series for the first time since 1982. #Brewers #WorldSeries",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-brewers-countdown-world-series.html",
+        "headline": "Milwaukee Has Been Waiting a Week. The World Series Is Four Days Away.",
+        "word_count": 546
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3",
+          "size_desc": "A (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Jackson Chourio Breaks Brewers Postseason HR Record",
+      "tier": 2,
+      "status": "",
+      "angle": "Jackson Chourio's 6th career postseason home run in the NLCS broke the franchise's all-time postseason HR record. At just 22, Chourio is rewriting Brewers history in October. William Contreras added 3 home runs in the 2026 playoffs. Chourio was one of multiple Milwaukee position players who turned October into a showcase for their franchise's future.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jackson Chourio hit his 6th career postseason home run in the NLCS.\n\nThat broke the all-time franchise postseason home run record for the Milwaukee Brewers.\n\nHe's doing it in October. The kid is built for this.\n\n#Brewers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#MLB"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "Jackson Chourio didn't just have a strong NLCS — he made franchise history.\n\nHis 6th career postseason home run, hit during Milwaukee's sweep of the Dodgers, broke the all-time franchise postseason home run record for the Milwaukee Brewers. He now owns the most postseason home runs in the history of a franchise that's been playing baseball since 1969.\n\nAnd he's doing it young. Chourio entered the 2026 postseason as one of the game's most electric young outfielders — a player whose combination of speed, power, and defensive instincts set him apart. His postseason performance only elevated that profile further.\n\nWilliam Contreras added three home runs in the 2026 playoffs to complement Chourio's historic run. The Brewers' offense isn't carrying the team on one bat — it's a collective effort, with Chourio as the lightning rod.\n\nOctober has a way of defining careers. Jackson Chourio has used this one to write himself into Brewers history.",
+        "image_caption": "Jackson Chourio's 6th career postseason HR broke the Brewers' all-time franchise postseason home run record. He hit it in the NLCS. The kid is built for October. #Brewers #Chourio #MLB",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-04-chourio-brewers-postseason-hr-record.html",
+        "headline": "Jackson Chourio Just Became the Brewers' All-Time Postseason Home Run Leader",
+        "word_count": 466
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4",
+          "size_desc": "A (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Guardians' Last Stand — Cleveland Has One Game to Save Its Season",
+      "tier": 2,
+      "status": "",
+      "angle": "The Cleveland Guardians came back from 0-2 in the ALDS to beat the White Sox. They took a 2-1 ALCS lead. But now they trail 3-2, facing a road elimination game in St. Petersburg. José Ramírez must be huge. The Guardians haven't won a World Series since 1948 — a 78-year drought that could end only if they survive tonight.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cleveland came back from 0-2 in the ALDS.\n\nNow they trail the ALCS 2-3, facing elimination on the road tonight at Tropicana Field.\n\n78-year World Series drought on the line.\n\nCan the Guardians do it again? #Guardians #ALCS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Guardians",
+            "#ALCS"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "Cleveland has done the impossible once this postseason.\n\nDown 0-2 to the Chicago White Sox in the ALDS, the Guardians won three straight games to advance to the ALCS. It was one of October's best stories — a resilient team refusing to go home.\n\nBut now they trail 3-2, with Game 6 tonight in St. Petersburg. Road elimination game. Against a Rays team that just had Drew Rasmussen throw seven innings and limited Cleveland to one run.\n\nThe Guardians' last championship was in 1948 — 78 years ago, when the franchise was still the Cleveland Indians. This team has been one of the American League's most consistent franchises in recent years. José Ramírez is one of the game's best players. The roster is good enough to win.\n\nElimination games have their own logic. One great performance, one clutch at-bat, one bullpen inning that changes everything. Cleveland survived a 0-2 hole once this October.\n\nCan they do it on the road, in October, with everything on the line?\n\nTonight will tell us.",
+        "image_caption": "Cleveland came back from 0-2 to win the ALDS. Now they face elimination on the road in Game 6 tonight at Tropicana Field. 78-year World Series drought on the line for the Guardians. #Guardians #ALCS",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-guardians-last-stand-game-6.html",
+        "headline": "Cleveland's Season Comes Down to Tonight: Guardians Face Elimination in ALCS Game 6",
+        "word_count": 551
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5",
+          "size_desc": "A (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 6
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
