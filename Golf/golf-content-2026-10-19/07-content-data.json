@@ -1,0 +1,291 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-19",
+  "compiled_at": "2026-10-19T12:34:27.145415+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "X + Facebook",
+      "type": "Story 1 (Bermuda preview)"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "X + Facebook",
+      "type": "Story 2 (Rahm LIV)"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "X + Facebook",
+      "type": "Story 3 (Chacarra India)"
+    },
+    {
+      "time": "3:30 PM",
+      "description": "X + Facebook",
+      "type": "Story 4 (Schenk defending)"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "X + Facebook",
+      "type": "Story 5 (Lemieux debut)"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Bermuda Championship Starts Thursday — Full Preview",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "The Bermuda Championship starts Thursday at Port Royal. $6M purse, 500 FedExCup points, 120 players. It's the shortest course on Tour at 6,828 yards. Wind turns par 71 into a survival test. Adam Schenk defends. Austin Lemieux debuts. #GolfFanrecap #BermudaChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#BermudaChampionship"
+          ],
+          "char_count": 268
+        },
+        {
+          "label": "Post 2",
+          "text": "Port Royal has produced a different champion every year since 2019. Schenk, Campos, Villegas, Power, Herbert, Gay, Todd — no repeats. Can Schenk become the first back-to-back winner in Bermuda Championship history? Round 1 Thursday. #GolfFanrecap #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#PGATour"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "The PGA Tour heads to Bermuda this week, and Port Royal Golf Course is a different kind of test.\n\nThe Butterfield Bermuda Championship runs October 22-25 at Port Royal in Southampton. At 6,828 yards and par 71, it is the shortest layout on the PGA Tour calendar. What makes it hard isn't the distance — it's the wind. Port Royal sits on the water and funnels Atlantic wind through fairways and across greens in ways that can completely change what a hole plays like from one round to the next.\n\nThe $6 million purse carries 500 FedExCup points. Adam Schenk won here last year at 12-under par. He's back this week as the defending champion.\n\nThe field of 120 also includes Austin Lemieux — son of hockey legend Mario Lemieux — who earned his spot at a Monday qualifier by shooting 66. He'll play as an amateur. The Bermuda Championship has been running since 2019, and it has never had a back-to-back champion. Every edition has produced a different winner.\n\nRound 1 tees off Thursday. Golf Channel has coverage.",
+        "image_caption": "Port Royal, Bermuda. $6M purse. 500 FedExCup points. 120 players. The shortest course on Tour starts play Thursday. Schenk defends. Lemieux debuts. #GolfFanrecap #BermudaChampionship",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-bermuda-championship-preview-port-royal-2026.html",
+        "headline": "2026 Bermuda Championship: Port Royal Preview and What to Watch Thursday",
+        "word_count": 599
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bermuda Championship Preview\n\n**Imagn Search Terms:**\n- \"Port Royal Golf Course Bermuda\"\n- \"Bermuda Championship golf\"\n- \"PGA Tour Bermuda\"\n\n**Preferred Shot:**\nWide or aerial view of Port Royal Golf Course, ideally showing the coastline or wind-exposed holes. Or a scenic hole shot with Atlantic backdrop.\n\n**Text Overlay Concept:**\n- Headline: \"BERMUDA CHAMPIONSHIP\"\n- Subline: \"PORT ROYAL — OCT 22-25\"\n\n**Sizes Needed:** Article Hero (1200x630), Social (1080x1350)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Jon Rahm LIV Exit — Nov. 5 Hearing Is the Next Step",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Jon Rahm's separation from LIV is filed. Court hearing is November 5. After approval, he can join any tour or league without asking LIV's permission. NIL rights restored. Abu Dhabi Championship Nov 5-8 is reportedly the target for his return. #GolfFanrecap #JonRahm",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#JonRahm"
+          ],
+          "char_count": 265
+        },
+        {
+          "label": "Post 2",
+          "text": "Rahm told the court LIV 2.0 terms were unacceptable. He walked away from what reports called $100M+ in remaining guarantees. The court decides November 5. The PGA Tour is waiting. So is everyone else. #GolfFanrecap #LIVGolf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#LIVGolf"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "Jon Rahm's exit from LIV Golf is now a filed legal document. The next stop is a New Jersey courtroom.\n\nRahm's separation agreement with LIV was filed in bankruptcy court around October 15. A judge is scheduled to hear the case on November 5. Under the agreement's terms, Rahm is released from all remaining performance obligations — he owes LIV nothing. He can sign with any tour, league, or sponsor without notifying or seeking permission from LIV. His name, image, and likeness rights are returned to him.\n\nRahm told the court through his attorney that he reviewed the proposed terms of LIV's restructured league and found them unacceptable. He walked away from what some reports estimated as more than $100 million in remaining contract guarantees.\n\nThe PGA Tour has said it will not hold conversations with any LIV player still legally under contract. That clock runs through November 5. Rahm is reportedly targeting the Abu Dhabi Championship, which runs November 5-8, as his first event back.\n\nThe process is not finished yet. But the path is clear.",
+        "image_caption": "Rahm's separation from LIV is filed. November 5 is the court date. After that, he can go anywhere. #GolfFanrecap #JonRahm #LIVGolf",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-rahm-liv-exit-november-5-hearing-2026.html",
+        "headline": "Jon Rahm's LIV Exit: Separation Agreement Filed, November 5 Hearing Is the Final Step",
+        "word_count": 536
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jon Rahm LIV Exit\n\n**Imagn Search Terms:**\n- \"Jon Rahm golf\"\n- \"Jon Rahm LIV\"\n\n**Preferred Shot:**\nRahm in clean action or portrait — ideally a thoughtful or focused expression. Captures gravity of a major career decision.\n\n**Text Overlay Concept:**\n- Headline: \"RAHM'S EXIT\"\n- Subline: \"NOV. 5 HEARING DECIDES IT\"\n\n**Sizes Needed:** Social (1080x1350)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Chacarra Wins India, Jumps to No. 1 in Race to Dubai",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Eugenio Chacarra was runner-up in Spain last Sunday. He won in India this Sunday. Back-to-back weeks in contention, two different continents. He's now No. 1 in the Race to Dubai. #GolfFanrecap #DPWorldTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#DPWorldTour"
+          ],
+          "char_count": 205
+        },
+        {
+          "label": "Post 2",
+          "text": "Chacarra wins the DP World India Championship and takes the Race to Dubai lead from Patrick Reed. The $4M event at Delhi Golf Club goes to the hottest player on the European Tour right now. #GolfFanrecap #RaceToDubai",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#RaceToDubai"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "Last Sunday, Eugenio Chacarra was the runner-up at the Open de España. One stroke behind Grant Forrest. So close.\n\nThis Sunday, Chacarra won the DP World India Championship at Delhi Golf Club, taking the $4 million event on October 18. Then he took the lead in the Race to Dubai.\n\nThat's two weekends, two different countries, two top finishes — with a victory to close the stretch. It's the kind of back-to-back run that turns a strong European Tour season into a great one.\n\nHeading into the India event, Patrick Reed held the Race to Dubai lead by a significant margin. Tommy Fleetwood was the defending champion. Chacarra came in already in strong form and delivered a final round that held up under pressure.\n\nHe is the hottest player in European Tour golf right now. With the Race to Dubai heading into its final events, Chacarra is exactly where he wants to be.",
+        "image_caption": "Runner-up in Spain. Winner in India. Chacarra is now No. 1 in the Race to Dubai. Back-to-back weeks of contention, one title to show for it. #GolfFanrecap #DPWorldTour #RaceToDubai",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-chacarra-wins-india-race-to-dubai-2026.html",
+        "headline": "Chacarra Wins in India, Takes Race to Dubai Lead After Back-to-Back Contention Weeks",
+        "word_count": 494
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Chacarra India Win\n\n**Imagn Search Terms:**\n- \"Eugenio Chacarra golf\"\n- \"DP World Tour\"\n\n**Preferred Shot:**\nChacarra celebrating a putt or holding a trophy. High-energy winning moment.\n\n**Text Overlay Concept:**\n- Headline: \"CHACARRA WINS IN INDIA\"\n- Subline: \"No. 1 RACE TO DUBAI\"\n\n**Sizes Needed:** Social (1080x1350)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Adam Schenk Defends at Port Royal — What to Expect",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Adam Schenk won the 2025 Bermuda Championship at 12-under. He's back at Port Royal this week to defend. No player has won back-to-back at this event in its seven-year history. Schenk has a chance to be the first. #GolfFanrecap #BermudaChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#BermudaChampionship"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "Adam Schenk won the 2025 Butterfield Bermuda Championship at 12-under par. He navigated Port Royal's wind-battered layout, scrambled when he had to, and made the putts that mattered.\n\nNow he comes back as the defending champion.\n\nDefending a title means facing the same course that elevated you, competing against a field that has studied how you won. At Port Royal, the challenge is consistent: the course is the same par-71 layout, the same wind can roll in off the Atlantic, and the same premium on scrambling and putting remains.\n\nThe Bermuda Championship has been running since 2019. In seven editions, no player has won it twice. Todd won in 2019. Gay won in 2020. Herbert in 2021, Power in 2022, Villegas in 2023, Campos in 2024, Schenk in 2025. Seven events, seven champions.\n\nSchenk has a chance to become the first back-to-back winner in the tournament's history. Round 1 is Thursday.",
+        "image_caption": "Schenk won Bermuda in 2025 at 12-under. He's back at Port Royal this week. No one has ever won this event twice. #GolfFanrecap #AdamSchenk #BermudaChampionship",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-schenk-defends-bermuda-championship-2026.html",
+        "headline": "Schenk Returns to Port Royal: Can the Defending Champion Win Back-to-Back in Bermuda?",
+        "word_count": 497
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Schenk Defending\n\n**Imagn Search Terms:**\n- \"Adam Schenk golf\"\n- \"Adam Schenk PGA Tour\"\n\n**Preferred Shot:**\nSchenk in a mid-swing or celebratory moment — captures defending champion energy.\n\n**Text Overlay Concept:**\n- Headline: \"SCHENK DEFENDS\"\n- Subline: \"CAN HE WIN BACK-TO-BACK IN BERMUDA?\"\n\n**Sizes Needed:** Social (1080x1350)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Austin Lemieux's PGA Tour Debut — Mario's Son Tees It Up in Bermuda",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Mario Lemieux's son Austin is making his PGA Tour debut this week. He shot 66 at a Monday qualifier to earn his spot. He plays as an amateur. He's won the 2026 WPGA Mid-Am. He's 23 years old. Port Royal, Thursday. #GolfFanrecap #BermudaChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#BermudaChampionship"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "Mario Lemieux is one of the greatest hockey players who ever lived — two Stanley Cups, the 1992 Conn Smythe Trophy, the Hall of Fame. His son Austin grew up in that shadow.\n\nAustin Lemieux played hockey too. He suited up in the USHL and spent two seasons at Arizona State. He never signed an NHL contract, and he retired from the sport in 2020.\n\nThen he picked up golf.\n\nThis week, Austin Lemieux will make his PGA Tour debut at the Butterfield Bermuda Championship, starting Thursday. He earned his entry at a Monday qualifier in Winter Haven, Florida, where he shot 66 — good enough for tied second among 68 players and one of four available spots. He'll play Port Royal as an amateur. He's already won the 2026 WPGA Mid-Amateur Championship and a Minor League Golf Tour event earlier this month.\n\nHe's not a professional. He's not a household name. But he earned his spot in a 120-player PGA Tour field on pure performance, one round at a time.\n\nThat's the whole story, really.",
+        "image_caption": "Mario Lemieux's son Austin tees it up at the Bermuda Championship this Thursday. He shot 66 at a Monday qualifier to get there. He plays as an amateur. Port Royal awaits. #GolfFanrecap #AustinLemieux #BermudaChampionship",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-austin-lemieux-pga-tour-debut-bermuda-2026.html",
+        "headline": "Austin Lemieux Makes His PGA Tour Debut at Bermuda — Mario's Son Earned His Spot",
+        "word_count": 542
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Austin Lemieux Debut\n\n**Imagn Search Terms:**\n- \"Austin Lemieux golf\"\n- \"Mario Lemieux\"\n\n**Preferred Shot:**\nAustin Lemieux at a qualifier or practice round — ideally a clean swing or walk-off moment. Or Mario Lemieux as parent context (archival).\n\n**Text Overlay Concept:**\n- Headline: \"AUSTIN LEMIEUX\"\n- Subline: \"PGA TOUR DEBUT — PORT ROYAL\"\n\n**Sizes Needed:** Social (1080x1350)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
