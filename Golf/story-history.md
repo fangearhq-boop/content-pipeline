@@ -2,6 +2,18 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-10-19
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-19 | T1 | Butterfield Bermuda Championship Preview — Port Royal Opens Thursday, $6M Event | X(2), FB, Article | NEW |
+| 2026-10-19 | T1 | Jon Rahm's LIV Exit: Separation Agreement Filed, November 5 Hearing Is the Final Step | X(2), FB, Article | FOLLOW UP |
+| 2026-10-19 | T1 | Chacarra Wins in India, Takes Race to Dubai Lead After Back-to-Back Contention Weeks | X(2), FB, Article | NEW |
+| 2026-10-19 | T2 | Schenk Returns to Port Royal: Can the Defending Champion Win Back-to-Back in Bermuda? | X(1), FB, Article | FOLLOW UP |
+| 2026-10-19 | T2 | Austin Lemieux Makes His PGA Tour Debut at Bermuda — Mario's Son Earned His Spot | X(1), FB, Article | NEW |
+
+---
+
 ## 2026-10-18
 
 | Date | Tier | Title | Platforms | Status |

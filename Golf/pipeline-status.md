@@ -1,5 +1,31 @@
 # Golf Fanrecap — Pipeline Status
 
+## Latest Run: 2026-10-19
+
+**Run completed:** 2026-10-19
+**Stories:** 5
+**Articles:** 5
+**X posts:** 8
+**Status:** COMPLETE (with known proxy limitations)
+
+### Scripts Run (2026-10-19)
+- [x] verify-facts.py — 22 claims, 50 HIGH
+- [x] compile-content-data.py — 5 stories, 8 tweets, 5 FB, 5 articles
+- [x] generate-review-dashboard.py — 28 items
+- [ ] generate-postplanner-export.py — 0 posts (known parsing issue)
+- [ ] publish-unified-dashboard.py — BLOCKED (content-dashboards not in authorized repo set, consistent)
+- [ ] publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- [x] git push — via GitHub MCP
+
+**Stories covered (2026-10-19):**
+1. T1 NEW: Butterfield Bermuda Championship Preview — Port Royal Opens Thursday, $6M Event (Ryan Calloway)
+2. T1 FOLLOW UP: Jon Rahm's LIV Exit — Separation Agreement Filed, November 5 Hearing (Jake Torres)
+3. T1 NEW: Chacarra Wins in India, Takes Race to Dubai Lead After Back-to-Back Contention Weeks (Marcus Cole)
+4. T2 FOLLOW UP: Schenk Returns to Port Royal — Defending Champion Chases Back-to-Back (Ryan Calloway)
+5. T2 NEW: Austin Lemieux Makes PGA Tour Debut — Mario's Son Shot 66 at Monday Qualifier (Jake Torres)
+
+---
+
 ## Latest Run: 2026-10-18
 
 **Run completed:** 2026-10-18
@@ -48,7 +74,7 @@
 2. T1 FOLLOW UP: LIV Golf 2.0 Eight Days Left — Bland In, Rahm Out, DP World Tour Bans (Jake Torres)
 3. T2 FOLLOW UP: Jon Rahm LIV Exit Path — Nov. 5 Hearing, 12-Month Suspension (Marcus Cole)
 4. T2 FOLLOW UP: Butterfield Bermuda Championship Preview — Five Days to Port Royal (Jake Torres)
-5. T2 FOLLOW UP: Scheffler ~180 Consecutive Weeks No. 1 — Tiger's Record 101 Away (Ryan Calloway)
+5. T2 FOLLOW UP: Scheffler ~180 Consecutive Weeks No. 1 — Tiger's Record Still 101 Away (Ryan Calloway)
 
 ---
 
@@ -198,8 +224,8 @@
 - [x] git push — via GitHub MCP
 
 **Stories covered (2026-10-11):**
-1. T1 NEW: Michael Brennan Wins 2026 Baycurrent Classic — Third PGA Tour Title (Ryan Calloway)
-2. T1 NEW: Three Wins, 33 Starts: The Rise of Michael Brennan (Jake Torres)
+1. T1 NEW: Michael Brennan Wins 2026 Baycurrent Classic — Third PGA Tour Title in 33 Starts (Ryan Calloway)
+2. T1 NEW: Three Wins, 33 Starts: The Rise of Michael Brennan on the PGA Tour (Jake Torres)
 3. T2 FOLLOW UP: FedExCup Fall Bubble Watch — Five Events Remain (Marcus Cole)
 4. T2 FOLLOW UP: Adam Scott's Baycurrent Near-Miss (Ryan Calloway)
 5. T2 NEW: PGA Tour Fall 2026 — Complete Guide to Five Remaining Events (Marcus Cole)
