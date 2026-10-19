@@ -1,5 +1,36 @@
 # Tennis Fanrecap — Pipeline Status
 
+## Current Run: 2026-10-19
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Chwalinska def. Kartal 2-6,6-4,6-2 Wuhan final (Olympics.com, WTA Tennis, TVP World, Wikipedia, Tennis Majors); Fokina career-high No. 13 (Wikipedia Oct 19 date); Paris Rolex Masters Oct 31–Nov 8 (parisladefense.com); WTA Finals Indian Wells Nov 8–15 (Ground News, TSN, Florida Tennis) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Oct 18 S3: Wuhan final developing → RESULT Chwalinska wins); S2 FOLLOW-UP (Oct 18 S3: Kartal runner-up confirmed); S3 FOLLOW-UP (Oct 18 S1: Fokina ranking update post-Shanghai); S4 WRAP (Asian swing complete + CORRECTION to Oct 18 S5 Paris dates); S5 NEW (WTA Finals Indian Wells) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — confidence tagging; MEDIUM flags on Kartal age and prior career high |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 9 imagn concepts across 5 stories |
+| Articles (5) | COMPLETE | article-01 Chwalinska wins Wuhan (Ryan Calloway T1); article-02 Kartal runner-up (Elena Voss T1); article-03 Fokina career-high (Marcus Cole T2); article-04 Asian swing wrap (Ryan Calloway T2); article-05 WTA Finals Indian Wells (Elena Voss T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 23 claims; auto-generated; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 articles; posting-window warnings cosmetic |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 9 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | 403 proxy — content-dashboards repo not in authorized set (known recurring issue) |
+| PostPlanner Export | COMPLETE (7 posts) | tfr-postplanner-2026-10-19.xlsx + tfr-postplanner-tobi-2026-10-19.xlsx — 7 posts each; redistributed 12:50–20:38 ET |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Oct 19 section) |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts
+- **Articles:** 5 (bylines: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3])
+- **Key stories:** Chwalinska wins Wuhan Open (first WTA title, career-high No. 11, 4th player to win WTA 1000 debut); Kartal runner-up (No. 170 → top 50, first British WTA 1000 finalist); Fokina career-high No. 13 post-Shanghai; Asian swing wrap; WTA Finals to Indian Wells
+- **Key corrections:** Oct 18 S5 had Paris Masters "Oct 26" and "WTA Finals Guadalajara" — correct dates are Oct 31–Nov 8, venue is Indian Wells
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); FB posts 0 parsed in compile (known parser); git PAT blocked by auto-mode classifier (using GitHub MCP push)
+
+---
+
 ## Current Run: 2026-10-18
 
 | Step | Status | Notes |
@@ -27,7 +58,6 @@
 - **Articles:** 5 (bylines: Marcus Cole [S1, S4], Elena Voss [S2, S5], Ryan Calloway [S3])
 - **Key stories:** Fokina wins first Masters 1000 title (1-6, 7-6(5), 6-4 over Jodar); Jodar runner-up at 20yo after SF upset of Medvedev; Wuhan final Kartal vs. Chwalinska (developing); Medvedev umpire controversy + SF exit; Asian swing wrap
 - **Key correction:** Oct 17 S3 had Medvedev winning SF over Jodar — actual result reversed; Jodar def. Medvedev confirmed by ATP Tour, Latestly, Yahoo Sports
-- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); FB posts 0 parsed (known); Wuhan final result pending at pipeline time
 
 ---
 
@@ -105,7 +135,7 @@
 | Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories |
 | Articles (5) | COMPLETE | article-01 Zverev def. de Minaur (Marcus Cole T1); article-02 Ann Li stuns Sabalenka (Elena Voss T1); article-03 Gea retirement (Ryan Calloway T2); article-04 Shanghai SF preview (Marcus Cole T2); article-05 Wuhan QF field (Elena Voss T2) |
 | Fact-Check | COMPLETE | 06-fact-check-log.md — 45 claims; HIGH claims all VERIFIED or MEDIUM |
-| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (known parser), 5 articles |
 | Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, imagn source |
 | Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
 | Publish Dashboard | BLOCKED | 403 proxy — known recurring issue |
@@ -237,7 +267,7 @@
 | Story History | COMPLETE | 5 entries prepended to Tennis/story-history.md (Oct 10 section) |
 
 - **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
-- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions)
+- **Posts:** 7 X posts + 5 FB posts
 - **Articles:** 5 (bylines: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3])
 - **PostPlanner exports:** 7 posts (standard + TOBI)
 - **Key stories:** Andreeva def. Bartunkova 6-2,6-2 → WTA Beijing final + rises World No. 3 (50 wins 2026); Zheng vs. Mertens SF (Mertens giant-killing run: def. Gauff + Swiatek same draw); Shanghai Day 4 Alcaraz enters vs. Cerundolo, Medvedev 21 aces, Zhou Yi upsets Musetti; Zverev ankle watch after fall vs. Wu Yibing; Race to Turin 4 spots for 7 players
@@ -272,4 +302,3 @@
 - **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
 - **PostPlanner exports:** 7 posts
 - **Key stories:** Hurkacz first career win over Djokovic (0-8 → 1-8) 6-4, 6-3 Shanghai R2 — Djokovic earliest-ever Shanghai exit; Zverev advances with ankle scare vs. Wu Yibing, Year-End No. 1 race; WTA Beijing QFs — Swiatek vs. Mertens (one win = outright Serena WTA 1000 record), Zheng home crowd; Shanghai Day 3 Alcaraz/Medvedev enter, Altmaier vs. Shelton; Race to Turin Djokovic out bubble
-- **Issues:** WordPress blocked by proxy (known recurring); dashboard push 403 (known); FB posts 0 in compiled (known parser)
