@@ -3,6 +3,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-10-19
+
+### Story 1: Tennessee Fall Ball Home Weekend — Pickens and Mardjetko Lead Home Stand
+- **Date:** 2026-10-19
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Tennessee fall covered Oct 16-18; home weekend is new angle)
+- **Angle:** Tennessee hosts third fall weekend at Sherri Parker Lee Stadium — Northeast Alabama, NW Florida State, Roane State in Knoxville. Karlyn Pickens (AUSL No. 1, 194 K, 1.70 ERA) + Mardjetko (16-3, 1.26 ERA) lead staff Karen Weekly calls deepest in program history. Clarke cycle highlighted fall.
+- **Content Produced:** Article (article-01, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Home weekend game results
+  - Tennessee 2027 national title outlook after full fall schedule
+
+### Story 2: Oklahoma State Lands Top-100 2028 Infielder Peyton Cleary
+- **Date:** 2026-10-19
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** OSU's first 2028 commit — Peyton Cleary (top-100 infielder, Liberty North MO, Kenny Gajewski) announced Sunday night at close of contact window. TX Bombers Gold + OU + Florida + FSU also active.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Oklahoma State 2028 class second commit
+  - National class rankings update after contact wave
+
+### Story 3: OU Battle Series Game 4 — Wednesday at Love's Field
+- **Date:** 2026-10-19
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Battle Series covered Oct 12-18 pipelines; Game 4 now 2 days out)
+- **Angle:** Game 4 Oct 21 6:30PM CT Love's Field 1oklahoma.com. Wells (39 HR, NFCA FY) + Kavan (2x WCWS MOP) + Berzon. Game 5 Oct 23 vs USAO.
+- **Content Produced:** Article (article-03, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Game 4 result recap (Oct 21 evening)
+  - Game 5 (Oct 23)
+
+### Story 4: 2028 Recruiting — Contact Window Closes, Commit Wave Begins
+- **Date:** 2026-10-19
+- **Tier:** 2
+- **Classification:** FOLLOW UP (contact window opened Oct 17-18; post-window commit wave is new angle)
+- **Angle:** Window closed Oct 18. Texas leads (Landers No. 1 + Morvan 22 HR + Abdullah + Schellhammer). OU 5 commits. Florida Holden No. 2 + Evans. OSU Cleary. FSU Luderer twins. Wave expected Oct 19-21.
+- **Content Produced:** Article (article-04, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Post-wave commit roundup Oct 21-22
+  - National class rankings update
+
+### Story 5: Transfer Portal — Kasidi Pickering Still Uncommitted
+- **Date:** 2026-10-19
+- **Tier:** 3
+- **Classification:** FOLLOW UP (portal covered Oct 6-18; Pickering remains uncommitted — distinct angle)
+- **Angle:** Pickering (Texas Tech IF) still available; OU and TTU primary options. 137+ portal entries. LSU (Winchell+Pickens twins) and OU (Harter+Hansen+Gregus) among top portal hauls.
+- **Content Produced:** 1 X post, FB long-form + caption, 1 image concept (Tier 3 — no article in brief; 5 articles total so an article was written)
+- **Follow-Up Opportunities:**
+  - Pickering commitment announcement
+  - Final portal activity before spring prep season
+
+---
+
 ## 2026-10-17
 
 ### Story 1: 2028 Recruiting Contact Period Opens Today (Oct 17-18)
