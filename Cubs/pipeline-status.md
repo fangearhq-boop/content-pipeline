@@ -1,29 +1,30 @@
-# Cubs Pipeline Status — Updated 2026-10-18
+# Cubs Pipeline Status — Updated 2026-10-19
 
 ## Latest Run
-- **Date:** 2026-10-18 (Sunday — Off day. ALCS tied 2-2, G5 today. WS starts Oct 23 at Milwaukee. Suzuki departure analysis. Rotation crisis full picture. Contract option architecture. Hartshorn Double-A follow-up. NL Central standings bold take.)
-- **Stories:** 6
-- **X posts:** 6
+- **Date:** 2026-10-19 (Monday — Off day. ALCS G6 tonight (Rays lead 3-2 after G5). WS opens Oct 23 Milwaukee. Horton TJ standalone. Gold Glove outfield sweep angle. Kirby trade target. Cardinals rebuild contrast.)
+- **Stories:** 5
+- **X posts:** 5
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
-- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 6 stories, 6 tweets
-- **07-content-data.json:** ✅ Valid JSON, all 6 posts with posting_time (7:00 AM / 9:30 AM / 12:00 PM / 2:30 PM / 3:45 PM / 6:30 PM CT), all strptime-parseable
+- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 5 stories, 5 tweets
+- **07-content-data.json:** ✅ Valid JSON, all 5 posts with posting_time (7:00 AM / 9:30 AM / 12:00 PM / 2:30 PM / 5:00 PM CT), all strptime-parseable
 - **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
 - **Note:** git remote set-url (PAT embed) blocked by CCR auto-mode classifier; content push via GitHub MCP push_files instead
 
-## Insights Summary (2026-10-18)
-- **Snapshot generated:** 2026-10-18T08:30:00.102102+00:00 (fresh, 30 min before trigger)
-- **significant_findings count:** 2 (evening_18_24 WINNER and allcaps_lead WINNER from Oct 17 did NOT survive today's gates)
-  1. `posting_window=overnight_00_06` LOSER (large effect, p=0.0023, delta=0.647) → No overnight slots used ✓
-  2. `content_type=transaction` LOSER (medium effect, p=0.0125, delta=0.353) → All posts framed as analysis, not bare transactions ✓
-- **No other significant findings** — brand-voice defaults applied for all other dimensions
+## Insights Summary (2026-10-19)
+- **Snapshot generated:** 2026-10-19T08:30:00.105508+00:00 (fresh, 30 min before trigger)
+- **significant_findings count:** 3
+  1. `posting_window=overnight_00_06` LOSER (large effect, p=0.0025, delta=0.642) → No overnight slots used ✓
+  2. `content_type=transaction` LOSER (medium effect, p=0.0104, delta=0.381) → All posts framed as analysis/takes, not bare transactions ✓
+  3. `opening=allcaps_lead` WINNER (small effect, p=0.0251, delta=0.275) → 4 of 5 tweets open with ALL CAPS ✓
+- **Note:** has_emoji_first_line NOT in today's significant findings → reverted to brand-voice emoji defaults (1-3 per post, placed naturally)
 
-## Series Context (2026-10-18)
+## Series Context (2026-10-19)
 - **`off_day`:** TRUE
 - **`is_series_start_today`:** FALSE
 - **`series`:** null
 - **`today_cubs_game`:** null
-- **Action:** Off-day pipeline. ALCS G5 today (tied 2-2). WS opens Oct 23 Brewers at Milwaukee. QO window incoming. Suzuki/rotation/contract option analysis day.
+- **Action:** Off-day pipeline. ALCS G6 tonight (Rays lead 3-2). WS opens Oct 23 Brewers at Milwaukee. Horton TJ timeline standalone. Gold Glove outfield sweep angle. Kirby trade target. Cardinals rebuild contrast.
 
 ## Current Cubs Status
 - **2026 season:** OVER. Cubs eliminated by Padres in NL Wild Card Series (swept 2-0, Oct 1)
@@ -48,6 +49,7 @@
 
 | Date | Type | Stories | Tweets | Status |
 |------|------|---------|--------|--------|
+| 2026-10-19 | OFF DAY (ALCS G6 tonight, Horton TJ standalone, Gold Glove sweep angle, Kirby trade target, Cardinals rebuild contrast) | 5 | 5 | ✅ |
 | 2026-10-18 | OFF DAY (ALCS G5 today, WS Oct 23, Suzuki departure analysis, rotation crisis, contract options, Hartshorn, NL Central standings) | 6 | 6 | ✅ |
 | 2026-10-17 | OFF DAY (Suzuki QO incoming Heyman, ALCS G4 today, King countdown, Phillies hired Mattingly/Flaherty stays, bold King take) | 5 | 5 | ✅ |
 | 2026-10-16 | OFF DAY (Brewers NLCS sweep/WS bound, Gold Gloves 5 finalists, QO clock, AFL Cabada, bold WS take) | 5 | 5 | ✅ |

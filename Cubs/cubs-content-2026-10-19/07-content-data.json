@@ -1,0 +1,206 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-19",
+  "compiled_at": "2026-10-19T09:21:49.284215+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1",
+      "type": "ALCS G5 result — Rays lead 3-2, G6 tonight"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 2",
+      "type": "Cade Horton TJ recovery — return July/August 2027"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 3",
+      "type": "Gold Glove outfield sweep — PCA, Happ, Suzuki"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Story 4",
+      "type": "George Kirby trade target"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 5",
+      "type": "NL Central hierarchy — Cardinals rebuild vs Brewers WS"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "ALCS G5 result — Rays lead 3-2, G6 tonight, WS picture taking shape",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "G5 result: Rays beat Guardians 3-1, Drew Rasmussen 7 IP. Rays lead ALCS 3-2 and are one win from the WS. G6 is tonight at Tropicana Field. A Rays win sets up Brewers-Rays WS starting Friday Oct 23 in Milwaukee — both teams Cubs fans need to monitor heading into 2027.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "DREW RASMUSSEN: 7 innings, 1 run allowed. Rays beat Cleveland 3-1.\n\nTampa Bay leads the ALCS 3-2. One win from the World Series — and a Brewers-Rays matchup starting Friday.\n\nCubs fans watching two teams they'll need to beat next year. 👀\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / Rival Watch",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "ALCS G5 — Rays lead 3-2, G6 tonight\n**Status:** FOLLOW UP (Oct 18 covered ALCS tied 2-2 + G5 today at 4 PM CT. Today = G5 result + G6 imminent.)\n**Key facts:**\n- Rays beat Guardians 3-1 in Game 5 (Oct 18)\n- Drew Rasmussen started: 7 innings pitched, 1 run allowed in G5\n- Rasmussen across 3 playoff starts total: 3 runs in 21 innings (CBS Sports)\n- Rays lead ALCS 3-2; one win from World Series\n- Game 6: Tonight (Oct 19) at Tropicana Field — time CONFLICTED (see fact-check log)\n- WS already features the Brewers (first time since 1982), opening Oct 23 in Milwaukee\n**Sources:**\n- CBS Sports: ALCS Game 5 live updates — Rays beat Guardians 3-1; Rasmussen 7 IP\n- Yahoo Sports: \"Rays Take Control of ALCS With Gritty Game 5 Victory\"\n- ESPN: \"ALCS Game 5: Takeaways from Rays' win\"\n- Bleacher Report: \"Rasmussen, Rays Win ALCS G5 vs. Guardians\"\n- NBC Sports: Schedule lists G6 Monday Oct 19 at 5 PM ET\n- CBS Sports: G6 \"Monday at 8 p.m. ET\"\n**Freshness:** Game played Oct 18, results verified across 4+ sources. HIGH confidence on result. G6 time CONFLICTED — tweet uses \"tonight\" without specific time.\n**Why it matters:** Brewers are in the WS — Cubs need to beat Milwaukee next year. The WS opponent (likely Rays) is also Cubs context for NL evaluations. Off-day rival watch with direct Cubs angle.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Cade Horton second TJ surgery — return July or August 2027, best case",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Horton's 2nd Tommy John in the same right elbow (April 16) means a 15-16 month recovery, putting his return at July or August 2027 at the earliest. He won't throw in 2027 spring training. Cubs must fill the rotation without him for the first 80-100 games of 2027. Bold standalone angle on the ace they're building around.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "CADE HORTON won't throw a pitch in 2027 Spring Training.\n\nHis second Tommy John in April puts his return at July or August 2027 — best case.\n\nThe Cubs are rebuilding their rotation around an ace they won't see until midseason. 🔥\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Bold / Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cade Horton TJ recovery — return July/August 2027\n**Status:** NEW ANGLE (Oct 18 mentioned Horton in the rotation crisis aggregate. Today = standalone deep-dive on TJ timeline and what it means for 2027 rotation building.)\n**Key facts:**\n- Surgery date: April 16, 2026 (Daily Herald, MLB.com)\n- Procedure: Full Tommy John (2nd in same elbow) + flexor repair + internal brace\n- Recovery window: 15-16 months from April 2026 → return **July or August 2027**\n- Craig Counsell quote: \"So they repaired the flexor and the brace, so it's the 15-, 16-month recovery.\"\n- This is Horton's second TJ in his right elbow (first was in college)\n- Second-TJ recovery \"runs longer than usual\" per multiple sources\n- Cubs need 3 starters via FA/trade before Horton is back\n**Sources:**\n- MLB.com: Jed Hoyer comments on Horton injury\n- MDJ Online: \"Cubs RHP Cade Horton recovering from Tommy John surgery\" — 15-16 month timeline\n- Daily Herald (April 17, 2026): \"Pitching problems: Palencia goes on IL as Horton gets recovery timeline\"\n- Heavy.com: \"Cubs Cade Horton Return Timeline: What to Expect After 2nd Tommy John Surgery\" — July/August 2027\n**Confidence:** HIGH on surgery date, procedure type, timeline. MEDIUM on specific return month (range-based).\n**Why it matters:** Horton won't be available for spring training or the first half of 2027. Cubs must build an entire rotation without him for at least the first 100 games.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Gold Glove outfield sweep — PCA, Happ, Suzuki chasing unprecedented history",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Oct 16 covered all 5 finalists; today's angle = the historic outfield sweep. If PCA, Happ, and Suzuki all win, the Cubs become the FIRST team ever to sweep all three outfield Gold Gloves in the same season (per MLB.com). PCA is the lock; Happ vs Chourio is the toss-up; Suzuki faces Corbin Carroll. Winners Nov. 1 on ESPN.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "PCA, Happ, and Suzuki are all Gold Glove finalists.\n\nIf all three win, the Cubs become the FIRST team to sweep all three outfield Gold Gloves in a single season — ever.\n\nPCA's a lock. Happ vs. Chourio is the toss-up. Winners Nov. 1. 🏆\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative / Feature",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Gold Glove outfield sweep — PCA, Happ, Suzuki hunting history\n**Status:** FOLLOW UP (Oct 16 covered Cubs' 5 GG finalists broadly. Today = narrowed focus on outfield sweep milestone angle.)\n**Key facts:**\n- Cubs have 5 NL finalists: PCA (CF), Happ (LF), Suzuki (RF), Swanson (SS), Bregman (3B)\n- All three outfielders winning = **first team ever to sweep all 3 outfield Gold Gloves in same season** (MLB.com)\n- PCA (Pete Crow-Armstrong): Called the \"biggest lock\" among Cubs finalists\n- Happ: 4 consecutive GG awards entering 2026; faces Jackson Chourio (Brewers LF, 6 FRV vs Happ's 5 FRV) — competitive\n- Suzuki: 8 FRV, 5 OAA in RF; Corbin Carroll (ARI) led all RF with 10 OAA and 9 runs prevented — Suzuki is not the favorite\n- GG voted by MLB personnel (75%) + SABR Defensive Index (25%)\n- Winners announced: Nov. 1, 2026 on ESPN at 8:30 PM ET\n**Sources:**\n- MLB.com: \"Could Cubs' best-in-show defense become 1st ever to sweep outfield Gold Gloves?\" (official MLB piece)\n- Bleacher Nation (Oct 14): Cubs 5 finalists confirmed\n- Roundtable (Oct 14): Cubs lead NL with 5 finalists\n**Confidence:** HIGH on finalist names. HIGH on Nov. 1 date. MEDIUM on \"first ever to sweep\" claim (MLB.com is primary, authoritative source).\n**Why it matters:** With Suzuki and Happ potentially departing, the outfield Gold Gloves could be their farewell to Wrigley. PCA represents the future.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "George Kirby trade target — Cubs' most realistic controllable rotation upgrade",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "The Athletic reported Cubs interest in Kirby at the trade deadline (August 2026). No deal made. Now in the offseason, with the Cubs needing 3+ rotation arms and Kirby being controllable and elite, the pursuit makes even more sense. Framed as rotation strategy, not transaction.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "THE CUBS reportedly want George Kirby.\n\nThe Mariners were listening at the deadline. Now it's the offseason — and Chicago needs rotation arms more than anyone.\n\nKirby is controllable, elite, and exactly what this staff is missing.\n\nMake the call, Jed.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Bold Take / Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "George Kirby trade angle\n**Status:** NEW STORY (first dedicated Kirby-as-Cubs-offseason-target post)\n**Key facts:**\n- The Athletic reported Cubs have interest in George Kirby ahead of the August 2026 trade deadline\n- Mariners reversed course in early August — from \"not shopping him\" (July 27, MLB.com) to \"multiple teams pursuing\" (August, ESPN)\n- Kirby is right-handed, under team control through multiple seasons\n- No confirmed deal found — status post-deadline unknown\n- Cubs need 3+ rotation arms: Imanaga (FA), Gausman (likely FA), Horton (TJ), Boyd (option uncertain)\n**Sources:**\n- Bleacher Nation: \"Sounds Like the Mariners Are Making George Kirby Available\"\n- SI: \"George Kirby rumors grow as Mariners reverse course ahead of 2026 MLB trade deadline\"\n- MLB.com: \"Mariners listening to trade offers for George Kirby\"\n- Bleacher Report offseason guide: Lists Kirby as Cubs trade target\n**Confidence:** MEDIUM — all sourced to deadline coverage. No October confirmation of Kirby's current availability or status. Tweet is framed as \"reportedly want\" to maintain accuracy.\n**Why it matters:** Kirby represents a specific, controllable solution to the rotation crisis. Unlike free agent targets (Imanaga, Gausman, Peralta), a trade for Kirby wouldn't eat into FA budget and could yield multiple years of control.\n**Flag:** Do not state specific ERA stats or age without a second confirmed source. Keep framing general (\"controllable, elite\").",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "NL Central hierarchy — Cardinals in rebuild while Brewers own October",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Oct 18 covered division standings overview. Today's angle = sharper hierarchy contrast: Cardinals went 77-85 and are in full Chaim Bloom rebuild (traded Arenado, Donovan, Gray, Contreras). Meanwhile Brewers are in the WS for first time since 1982. Cubs (89-73) are stuck in the middle. Division belongs to Milwaukee. Cubs need to chase.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "CARDINALS FANS: watching at home while the Brewers go to the World Series for the first time since 1982.\n\nSt. Louis went 77-85 in 2026. Chaim Bloom's rebuild is just starting.\n\nThe NL Central belongs to Milwaukee now. The Cubs are in between. 🔺\n\n#Cubs #GoCubs #NorthSiders",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Bold Take / Rival Watch",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#NorthSiders"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cardinals rebuild / NL Central contrast\n**Status:** FOLLOW UP (Oct 18 covered NL Central final standings overview. Today = sharper angle on Cardinals being in full rebuild while Brewers are in WS — division hierarchy evolution.)\n**Key facts:**\n- Cardinals finished 77-85 in 2026 (established via story-history)\n- Chaim Bloom's trades: Arenado to Diamondbacks, Donovan to Mariners, Gray + Contreras to Red Sox\n- Cardinals described as \"fully into the rebuild\" per multiple sources\n- Brewers: 103-59 in 2026, in World Series for first time since 1982\n- Cubs: 89-73, Wild Card exit\n- Division gap: Brewers are 14 games better than Cubs; Cubs are 12 games better than Cardinals\n**Sources:**\n- CBS Sports: Cardinals payroll rebuild, Chaim Bloom trades\n- Story-history Oct 18 + Oct 16 (division standings, Brewers WS)\n- SI Inside The Cardinals: \"3 biggest moves Chaim Bloom must make\"\n- Viva El Birdos: \"The Cardinals should embrace a rebuild\"\n**Confidence:** HIGH on Cardinals record, Brewers record, specific trades. HIGH on Brewers WS first since 1982.\n**Why it matters:** With Cardinals in full rebuild and Brewers setting the ceiling, the Cubs have a clear window to become the NL Central's No. 2 team — and to chase Milwaukee. The offseason roster moves determine which direction they go.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

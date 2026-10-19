@@ -5,6 +5,55 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-10-19 (OFF DAY — Early offseason. Rays beat Guardians 3-1 in ALCS G5 (Rasmussen 7 IP); Rays lead 3-2, G6 tonight. WS opens Oct 23 at Milwaukee (Brewers). Insights active: overnight_00_06 loser (large); content_type=transaction loser (medium); opening=allcaps_lead winner (small).)
+
+### STORY 1: ALCS G5 result — Rays lead 3-2, G6 tonight
+- **Angle:** FOLLOW UP (Oct 18 had ALCS tied 2-2 + G5 today frame). Today = G5 result. Rays beat Guardians 3-1. Drew Rasmussen 7 innings. Rays lead 3-2, one win from WS. G6 tonight at Tropicana. WS opens Oct 23 Milwaukee.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, informative rival watch)
+- **Follow-Up Opportunities:**
+  - ALCS G6 result tonight → WS AL champion confirmed
+  - Brewers-Rays WS matchup coverage (Oct 23+)
+  - Cubs watching both teams they need to beat in 2027
+
+### STORY 2: Cade Horton second TJ surgery — return July or August 2027
+- **Angle:** NEW STORY (Oct 18 mentioned Horton in rotation crisis aggregate; today = standalone TJ timeline analysis). Surgery April 16, 2026. Full procedure + flexor repair + internal brace. 15-16 month recovery. Return July/August 2027 best case. Won't throw in 2027 spring training.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, bold/analytical)
+- **Follow-Up Opportunities:**
+  - Horton rehab updates (mid-2027)
+  - Cubs rotation plan without him for first half 2027
+  - 2027 return timeline if recovery on pace
+
+### STORY 3: Gold Glove outfield sweep — PCA, Happ, Suzuki chasing history
+- **Angle:** FOLLOW UP (Oct 16 = 5 finalists broad overview). Today = narrowed to outfield sweep milestone. PCA + Happ + Suzuki winning = first team ever to sweep all 3 outfield GGs in same season (MLB.com). PCA lock; Happ vs Chourio toss-up; Suzuki vs Carroll. Nov. 1 winners on ESPN.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, informative/feature)
+- **Follow-Up Opportunities:**
+  - Gold Glove winners announced Nov. 1 (ESPN, 8:30 PM ET)
+  - Historic sweep celebration tweet if all three win
+  - Happ/Suzuki GG farewell framing if departing
+
+### STORY 4: George Kirby trade target — offseason rotation upgrade
+- **Angle:** NEW STORY (first dedicated Kirby-as-offseason-target post). The Athletic reported Cubs interest at August deadline. No deal made. Now offseason pursuit angle. Cubs need 3+ rotation arms; Kirby controllable, elite. Framed as strategy, not transaction.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Kirby trade talks develop (official reporting)
+  - Mariners offseason direction clarifies (rebuild vs. contend)
+  - Cubs sign/trade for other rotation arms
+
+### STORY 5: NL Central hierarchy — Cardinals rebuild while Brewers own October
+- **Angle:** FOLLOW UP (Oct 18 = NL Central final standings overview; today = sharper Cardinals-in-rebuild vs Brewers-in-WS contrast). Cardinals 77-85, full Bloom rebuild (Arenado, Donovan, Gray, Contreras traded). Brewers 103-59, WS first time since 1982. Cubs (89-73) stuck in middle.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, bold take/rival watch)
+- **Follow-Up Opportunities:**
+  - Cardinals major free agent signing (if any)
+  - Brewers WS result — motivation content either way
+  - NL Central 2027 preview framing (spring training)
+
+---
+
 ## 2026-10-18 (OFF DAY — Early offseason. ALCS tied 2-2 (Rays won G4 7-3); G5 today Oct 18, 4 PM CT. WS opens Oct 23 at Milwaukee. Insights active: overnight_00_06 loser (large); content_type=transaction loser (medium). Note: evening_18_24 and allcaps_lead findings from Oct 17 did NOT carry into today's snapshot.)
 
 ### STORY 1: ALCS tied 2-2 + WS starts Friday + Cubs QO clock
