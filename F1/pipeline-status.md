@@ -1,5 +1,43 @@
 # F1 Fanrecap — Pipeline Status
 
+## Last Run: 2026-10-19
+
+**Status:** COMPLETE (with known proxy limitations)
+**Niche:** F1 Fanrecap
+**Stories:** 5
+**Articles:** 5
+
+---
+
+## 2026-10-19 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research | ✅ Complete | Antonelli clinch watch (4 days), Hamilton COTA warning, COTA track guide, Verstappen at Austin, constructors standings |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 7 posts, all ≤280 chars |
+| FB Posts | ✅ Complete | 04-social-posts-facebook.md |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 articles (article-01 to article-05) |
+| verify-facts.py | ✅ Complete | 19 claims, 31 HIGH; image manifest warnings (expected) |
+| compile-content-data.py | ✅ Complete | 5 stories, 7 tweets, 5 FB posts, 5 articles |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (all not_started — manual Imagn sourcing) |
+| generate-review-dashboard.py | ✅ Complete | 27 items; review-dashboard.html |
+| generate-postplanner-export.py | ❌ 0 posts | Known parsing issue (consistent) |
+| publish-to-wordpress.py | ❌ BLOCKED | Proxy policy — fanrumor.com:443 denied (consistent) |
+| git push | ✅ Complete | via GitHub MCP |
+
+**Stories (2026-10-19):**
+1. T1 FOLLOW UP: Antonelli Austin Clinch Watch — Four Days to Youngest Champion Record (Ryan Calloway)
+2. T1 FOLLOW UP: Hamilton's COTA Warning — Red Bull and Ferrari Are the Threats (Marcus Cole)
+3. T2 NEW: US Grand Prix Preview — COTA Track Guide for 2026 (Elena Voss)
+4. T2 FOLLOW UP: Verstappen in Austin — Red Bull's Best COTA Shot in Two Years (Ryan Calloway)
+5. T2 FOLLOW UP: F1 Constructors' Standings — Mercedes on the Brink of Double Championship (Marcus Cole)
+
+---
+
 ## Last Run: 2026-10-18
 
 **Status:** COMPLETE (with known proxy limitations)
@@ -211,7 +249,7 @@
 | Git push | ✅ Complete | via GitHub MCP |
 
 **Stories covered:**
-1. T1 FOLLOW UP: Antonelli Championship Math — 102 Points Clear, Austin Watch (Marcus Cole)
+1. T1 FOLLOW UP: Antonelli Championship Math — 102 Points Clear, Austin Clinch Watch (Marcus Cole)
 2. T1 NEW: Verstappen 73rd Win / 250th Weekend — Singapore Curse Broken (Ryan Calloway)
 3. T1 NEW: Mercedes Leads Both Championships — Historic 2026 Season (Elena Voss)
 4. T2 FOLLOW UP: Russell 102 Points Down — 10 Days to Regroup for Austin (Ryan Calloway)

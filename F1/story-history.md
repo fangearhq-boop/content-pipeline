@@ -2,6 +2,45 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-19
+
+### STORY 1: Antonelli Austin Clinch Watch — Four Days to Youngest Champion Record
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / F1 Championship / US Grand Prix / Austin / Record
+- **Key facts:** Antonelli leads Russell by 102 pts; 150 pts available across 6 races; clinch: win USGP + Russell P9/lower; clinch age: 20yr 61d; Vettel record: 23yr 134d (2010); Toto Wolff does NOT expect clinch at Austin; USGP race Sunday Oct 25, practice opens Oct 23
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: Hamilton's COTA Warning — Red Bull and Ferrari Are the Threats
+- **Tier:** 1
+- **Category:** Lewis Hamilton / Ferrari / COTA / US Grand Prix / Preview
+- **Key facts:** Hamilton flagged Red Bull and Ferrari as primary COTA threats; Verstappen won COTA 2021-2023 (3 straight); Hamilton has 5 COTA wins (all with Mercedes); first COTA race with Ferrari; Singapore pit wall context still recent; Hamilton P3 championship (229 pts)
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: US Grand Prix Preview — COTA Track Guide for 2026
+- **Tier:** 2
+- **Category:** US Grand Prix / COTA / Track Guide / Preview
+- **Key facts:** COTA 5.513 km, 20 turns, 56 laps; Turn 1 blind uphill hairpin; lap record Verstappen 1:36.169 (2023); standard format (no sprint); Oct 23-25; circuit hosts US GP since 2012
+- **Byline:** Elena Voss
+- **Status:** NEW
+
+### STORY 4: Verstappen in Austin — Red Bull's Best COTA Shot in Two Years
+- **Tier:** 2
+- **Category:** Max Verstappen / Red Bull / COTA / US Grand Prix / Preview
+- **Key facts:** Verstappen won COTA 2021, 2022, 2023 (3 consecutive); lap record holder (1:36.169); Red Bull last COTA win: 2023; Verstappen P4 championship (221 pts); won Singapore; GT3 Portimão Oct 17; Red Bull P4 constructors (306 pts)
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: F1 Constructors' Standings — Mercedes on the Brink of Double Championship
+- **Tier:** 2
+- **Category:** F1 Constructors / Mercedes / Ferrari / Double Championship
+- **Key facts:** Mercedes 578 pts, Ferrari 444 pts (gap: 134); 6 races remain; possible double clinch (drivers + constructors) at Austin; Mercedes leading both championships without Hamilton
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+---
+
 ## 2026-10-18
 
 ### STORY 1: Antonelli Austin Clinch Watch — Five Days to Youngest Champion Record
@@ -399,6 +438,6 @@
 - **Key facts:** First race 2008; famous for Crashgate 2008 (Piquet-Alonso); 2017 first-lap chaos (Vettel, Hamilton, Raikkonen); 2021 Ricciardo wins; 2023 Carlos Sainz wins from pole; high safety car rate historically; night race since inception
 - **Byline:** Elena Voss
 - **Status:** NEW
-- **Follow-up ideas:** 2026 race result adds to history list
+- **Follow-up ideas:** 2026 race adds to history list
 
 ---
