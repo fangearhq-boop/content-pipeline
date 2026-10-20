@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-19T08:30:00.105508+00:00",
+  "generated_at": "2026-10-20T08:30:00.129383+00:00",
   "account": "cubs",
   "window_days": 21,
   "tweet_count": 119,
   "measured_tweet_count": 119,
   "measured_median_impressions": 60,
-  "measured_mean_impressions": 210.34,
+  "measured_mean_impressions": 259.81,
   "median_impressions": 60,
-  "mean_impressions": 210.34,
+  "mean_impressions": 259.81,
   "max_impressions": 9802,
   "significant_findings": [
     {
@@ -19,8 +19,8 @@
       "median_impressions_loser": 22.0,
       "n_winner": 111,
       "n_loser": 8,
-      "p_value": 0.0025,
-      "effect_size_cliffs_delta": 0.642,
+      "p_value": 0.003,
+      "effect_size_cliffs_delta": 0.632,
       "effect_size_label": "large"
     },
     {
@@ -32,22 +32,9 @@
       "median_impressions_loser": 24.0,
       "n_winner": 101,
       "n_loser": 18,
-      "p_value": 0.0104,
-      "effect_size_cliffs_delta": 0.381,
+      "p_value": 0.013,
+      "effect_size_cliffs_delta": 0.369,
       "effect_size_label": "medium"
-    },
-    {
-      "dimension": "opening=allcaps_lead",
-      "kind": "category_vs_rest",
-      "winner": "allcaps_lead",
-      "loser": "not_allcaps_lead",
-      "median_impressions_winner": 89.0,
-      "median_impressions_loser": 57,
-      "n_winner": 30,
-      "n_loser": 89,
-      "p_value": 0.0251,
-      "effect_size_cliffs_delta": 0.275,
-      "effect_size_label": "small"
     }
   ],
   "significant_findings_note": null,
@@ -55,7 +42,7 @@
     "window_days": 90,
     "sample": "brief posts with a complete impressions snapshot",
     "signals": "reach (impressions, all measured briefs) and engagement rate (engagements / impressions, briefs with above-median reach only), each hour vs the rest of the day, Mann-Whitney + Cliff's delta, Holm-corrected across all hour x signal contrasts",
-    "brief_count": 490,
+    "brief_count": 489,
     "instruction": "When assigning posting_time, prefer recommended_hours and never use avoid_hours, but keep the day's usual shape: the same number of posts, spread across the day, at least 20 minutes apart, no more than 2 posts in any one hour, and within the caps of 5 posts 6AM-noon, 4 posts noon-6PM, 3 posts 6PM-midnight CT. Hours without a verdict are neutral. If recommended_hours is empty, keep the current schedule.",
     "hours": [
       {
@@ -65,24 +52,24 @@
         "engagement_n": 42,
         "median_engagement_rate": 0.0062,
         "reach_verdict": null,
-        "reach_p_value": 0.8129032883837186,
-        "reach_effect_size": 0.016055367199977584,
+        "reach_p_value": 0.8731432456839805,
+        "reach_effect_size": 0.010842696629213482,
         "engagement_verdict": null,
-        "engagement_p_value": 0.529916244816595,
-        "engagement_effect_size": 0.058174994135585266
+        "engagement_p_value": 0.6106263631868711,
+        "engagement_effect_size": 0.04726890756302521
       },
       {
         "hour_ct": 8,
-        "n": 67,
-        "median_impressions": 82,
+        "n": 66,
+        "median_impressions": 84.5,
         "engagement_n": 33,
         "median_engagement_rate": 0.0096,
         "reach_verdict": null,
-        "reach_p_value": 0.5682267902987821,
-        "reach_effect_size": 0.043400021170742036,
+        "reach_p_value": 0.5346092838617418,
+        "reach_effect_size": 0.047532058170356044,
         "engagement_verdict": null,
-        "engagement_p_value": 0.03404811593483181,
-        "engagement_effect_size": 0.21640937678673527
+        "engagement_p_value": 0.040396016368092535,
+        "engagement_effect_size": 0.20970266040688576
       },
       {
         "hour_ct": 9,
@@ -91,24 +78,24 @@
         "engagement_n": 35,
         "median_engagement_rate": 0.0,
         "reach_verdict": null,
-        "reach_p_value": 0.04094107556538962,
-        "reach_effect_size": -0.1451538390464751,
+        "reach_p_value": 0.043112391577849074,
+        "reach_effect_size": -0.14365544921271997,
         "engagement_verdict": null,
-        "engagement_p_value": 0.7814408134552595,
-        "engagement_effect_size": -0.027755102040816326
+        "engagement_p_value": 0.904907824415804,
+        "engagement_effect_size": -0.012051455653351388
       },
       {
         "hour_ct": 10,
-        "n": 55,
-        "median_impressions": 80,
+        "n": 54,
+        "median_impressions": 79.5,
         "engagement_n": 20,
-        "median_engagement_rate": 0.0015,
+        "median_engagement_rate": 0.0,
         "reach_verdict": null,
-        "reach_p_value": 0.13962163698348928,
-        "reach_effect_size": -0.12221525600835946,
+        "reach_p_value": 0.08997355680973662,
+        "reach_effect_size": -0.1414218816517667,
         "engagement_verdict": null,
-        "engagement_p_value": 0.4176760410916014,
-        "engagement_effect_size": -0.10333333333333333
+        "engagement_p_value": 0.21794086556005654,
+        "engagement_effect_size": -0.1573008849557522
       },
       {
         "hour_ct": 11,
@@ -127,14 +114,14 @@
         "hour_ct": 12,
         "n": 77,
         "median_impressions": 92,
-        "engagement_n": 42,
+        "engagement_n": 41,
         "median_engagement_rate": 0.0,
         "reach_verdict": null,
-        "reach_p_value": 0.36166508439252576,
-        "reach_effect_size": 0.06546963931951826,
+        "reach_p_value": 0.41159013083397733,
+        "reach_effect_size": 0.05894590846047157,
         "engagement_verdict": null,
-        "engagement_p_value": 0.07460501982774814,
-        "engagement_effect_size": -0.16490734224724374
+        "engagement_p_value": 0.08306799767250528,
+        "engagement_effect_size": -0.1621653777513385
       },
       {
         "hour_ct": 13,
@@ -143,37 +130,37 @@
         "engagement_n": 15,
         "median_engagement_rate": 0.0091,
         "reach_verdict": null,
-        "reach_p_value": 0.466253164541774,
-        "reach_effect_size": 0.09401969743121129,
+        "reach_p_value": 0.4629134333179641,
+        "reach_effect_size": 0.09472934472934473,
         "engagement_verdict": null,
-        "engagement_p_value": 0.11321409066298282,
-        "engagement_effect_size": 0.23043478260869565
+        "engagement_p_value": 0.13099397924975564,
+        "engagement_effect_size": 0.2202020202020202
       },
       {
         "hour_ct": 14,
-        "n": 29,
-        "median_impressions": 119,
-        "engagement_n": 18,
-        "median_engagement_rate": 0.0067,
+        "n": 30,
+        "median_impressions": 119.5,
+        "engagement_n": 19,
+        "median_engagement_rate": 0.0079,
         "reach_verdict": null,
-        "reach_p_value": 0.19497081536437477,
-        "reach_effect_size": 0.1434662278405266,
+        "reach_p_value": 0.09313846797778336,
+        "reach_effect_size": 0.18293391430646333,
         "engagement_verdict": null,
-        "engagement_p_value": 0.43595650003716147,
-        "engagement_effect_size": 0.10425844346549193
+        "engagement_p_value": 0.34102200267359084,
+        "engagement_effect_size": 0.12450730350104336
       },
       {
         "hour_ct": 15,
-        "n": 33,
-        "median_impressions": 74,
-        "engagement_n": 16,
-        "median_engagement_rate": 0.0038,
+        "n": 32,
+        "median_impressions": 71.5,
+        "engagement_n": 15,
+        "median_engagement_rate": 0.0077,
         "reach_verdict": null,
-        "reach_p_value": 0.1656334205391945,
-        "reach_effect_size": -0.1444864398912539,
+        "reach_p_value": 0.14542226583669526,
+        "reach_effect_size": -0.1539250547045952,
         "engagement_verdict": null,
-        "engagement_p_value": 1.0,
-        "engagement_effect_size": 0.0002729257641921397
+        "engagement_p_value": 0.8444487115990167,
+        "engagement_effect_size": 0.02886002886002886
       },
       {
         "hour_ct": 16,
@@ -190,22 +177,22 @@
       },
       {
         "hour_ct": 17,
-        "n": 32,
-        "median_impressions": 92.5,
-        "engagement_n": 18,
+        "n": 33,
+        "median_impressions": 95,
+        "engagement_n": 20,
         "median_engagement_rate": 0.0,
         "reach_verdict": null,
-        "reach_p_value": 0.27888173164336494,
-        "reach_effect_size": 0.11449235807860263,
+        "reach_p_value": 0.2559279308980211,
+        "reach_effect_size": 0.11842105263157894,
         "engagement_verdict": null,
-        "engagement_p_value": 0.053131478461276416,
-        "engagement_effect_size": -0.25844346549192365
+        "engagement_p_value": 0.07967160541614393,
+        "engagement_effect_size": -0.22367256637168142
       }
     ],
     "recommended_hours": [],
     "avoid_hours": [],
     "note": "No hour cleared the Holm-corrected significance gates against the rest of the day; keep the current schedule.",
-    "overall_median_impressions": 85.5
+    "overall_median_impressions": 85
   },
   "methodology": {
     "test": "Mann-Whitney U (two-sided, tie-corrected, normal approximation with continuity correction)",
@@ -219,28 +206,28 @@
   },
   "raw_buckets": {
     "by_hour_ct": {
-      "15": {
-        "n": 14,
-        "mean": 66.21,
-        "median": 55.5,
+      "17": {
+        "n": 3,
+        "mean": 75.33,
+        "median": 76,
         "top": {
-          "impressions": 142,
-          "text": "Juan Cabada is 18 years old and playing in the Arizona Fall League.\n\nThe Cubs' No. 12 prospect is the 2nd-youngest player in the AFL \u2014 and he's already getting on base.\n\n#Cubs #MLB #ChicagoCubs"
+          "impressions": 95,
+          "text": "CARDINALS FANS: watching at home while the Brewers go to the World Series for the first time since 1982.\n\nSt. Louis went 77-85 in 2026. Chaim Bloom's rebuild is just starting.\n\nThe NL Central belongs to Milwaukee now. The Cubs are in betwee"
         }
       },
       "14": {
-        "n": 3,
-        "mean": 65.33,
-        "median": 53,
+        "n": 4,
+        "mean": 1732.5,
+        "median": 78.5,
         "top": {
-          "impressions": 104,
-          "text": "White Sox and Brewers are still playing. The Cubs aren't. \ud83d\ude24\n\nOffseason checklist:\n\nImanaga, Gausman, Peterson, Happ, Seiya: free agents\nBoyd: $15M mutual option\nHolmes: $12M player option\nDecisions due 5 days after the World Series\n\nGet to "
+          "impressions": 6723,
+          "text": "THE CUBS reportedly want George Kirby.\n\nThe Mariners were listening at the deadline. Now it's the offseason \u2014 and Chicago needs rotation arms more than anyone.\n\nKirby is controllable, elite, and exactly what this staff is missing.\n\nMake the"
         }
       },
       "12": {
-        "n": 18,
-        "mean": 172.44,
-        "median": 53.5,
+        "n": 19,
+        "mean": 169.53,
+        "median": 62,
         "top": {
           "impressions": 1390,
           "text": "Gausman. Imanaga. Boyd. Holmes. Peterson.\n\nFive starters. All free agents this winter. Add Horton (TJ) and Steele (elbow). The Cubs could enter spring training with ZERO established pitchers under contract.\n\nHoyer's offseason is a five-alar"
@@ -248,8 +235,8 @@
       },
       "9": {
         "n": 26,
-        "mean": 64.04,
-        "median": 41.0,
+        "mean": 67.19,
+        "median": 37.5,
         "top": {
           "impressions": 335,
           "text": "Gausman: FA. Boyd: $2M buyout. Holmes: opting out. Peterson: FA.\n\nThe 2026 rotation is done.\n\nHoyer doesn't have a rotation to tweak \u2014 he's building one from scratch. Biggest Cubs offseason in years.\n\n#Cubs #MLB #CubsBaseball"
@@ -257,26 +244,35 @@
       },
       "7": {
         "n": 21,
-        "mean": 245.71,
-        "median": 76,
+        "mean": 245.1,
+        "median": 70,
         "top": {
           "impressions": 3310,
           "text": "FIVE SEASONS. 26 homers. .270/.368/.473 in 2026.\n\nJon Heyman: Cubs expected to extend Seiya Suzuki a $23.15M qualifying offer.\n\nHe'll decline it. The Blue Jays are waiting. The market will pay him $100M+.\n\nThank you, Seiya.\n\n#Cubs #MLB #Cub"
         }
       },
-      "8": {
-        "n": 10,
-        "mean": 223.3,
-        "median": 84.5,
+      "15": {
+        "n": 13,
+        "mean": 63,
+        "median": 52,
         "top": {
-          "impressions": 828,
-          "text": "Game 1 is tomorrow. Tuesday, 9 PM CT. Petco Park.\n\nCubs vs. Padres \u2014 WCS rematch. Matthew Boyd takes the ball for Chicago. San Diego had a 16-5 September but the Cubs went 5-1 against them this year.\n\nThis is how you earn the right to the r"
+          "impressions": 142,
+          "text": "Juan Cabada is 18 years old and playing in the Arizona Fall League.\n\nThe Cubs' No. 12 prospect is the 2nd-youngest player in the AFL \u2014 and he's already getting on base.\n\n#Cubs #MLB #ChicagoCubs"
+        }
+      },
+      "8": {
+        "n": 9,
+        "mean": 156.11,
+        "median": 81,
+        "top": {
+          "impressions": 811,
+          "text": "Cubs won 5 of 6 vs. San Diego in 2026. Took two of three at Petco in April. Swept them at Wrigley in late June.\n\nThis is not a neutral matchup \u2014 Chicago has the receipts and the Padres know it.\n\nRematch. Different stadium. Same result.\n\n#Cu"
         }
       },
       "10": {
-        "n": 10,
-        "mean": 1054.6,
-        "median": 77.0,
+        "n": 9,
+        "mean": 1150.44,
+        "median": 69,
         "top": {
           "impressions": 9802,
           "text": "Cubs recalled RHP Jayden Murray from Iowa.\n\nFresh arm headed to Chicago to bolster the bullpen.\n\n#Cubs #GoCubs #MLB"
@@ -309,15 +305,6 @@
           "text": "Boyd takes the mound in San Diego with everything on the line. Wild Card baseball starts NOW.\n\nFirst pitch 9 PM CT from Petco Park.\n\n#Cubs #FlyTheW #MLB"
         }
       },
-      "17": {
-        "n": 2,
-        "mean": 65.5,
-        "median": 65.5,
-        "top": {
-          "impressions": 76,
-          "text": "Tatis hit .914 OPS from June through September. Mason Miller closed games all year. The Padres are a real team.\n\nThey're still 1-5 against the Cubs in 2026.\n\nPre-game read on the opponent is respect, not fear.\n\n#Cubs #CubsBaseball #GoCubs"
-        }
-      },
       "13": {
         "n": 1,
         "mean": 40,
@@ -347,13 +334,22 @@
       }
     },
     "by_weekday_ct": {
+      "Mon": {
+        "n": 13,
+        "mean": 578.85,
+        "median": 53,
+        "top": {
+          "impressions": 6723,
+          "text": "THE CUBS reportedly want George Kirby.\n\nThe Mariners were listening at the deadline. Now it's the offseason \u2014 and Chicago needs rotation arms more than anyone.\n\nKirby is controllable, elite, and exactly what this staff is missing.\n\nMake the"
+        }
+      },
       "Sun": {
         "n": 13,
-        "mean": 111.69,
-        "median": 61,
+        "mean": 122.85,
+        "median": 89,
         "top": {
-          "impressions": 335,
-          "text": "Gausman: FA. Boyd: $2M buyout. Holmes: opting out. Peterson: FA.\n\nThe 2026 rotation is done.\n\nHoyer doesn't have a rotation to tweak \u2014 he's building one from scratch. Biggest Cubs offseason in years.\n\n#Cubs #MLB #CubsBaseball"
+          "impressions": 353,
+          "text": "The ALCS is tied 2-2. Game 5 is today at 4 PM CT.\n\nWhoever wins faces the Brewers in a World Series starting Oct. 23 in Milwaukee.\n\nThe Cubs' QO window opens 5 days after the WS ends. Suzuki and Happ decisions coming fast.\n\n#Cubs #MLB #Cubs"
         }
       },
       "Sat": {
@@ -367,11 +363,11 @@
       },
       "Fri": {
         "n": 18,
-        "mean": 50.94,
-        "median": 35.0,
+        "mean": 58.11,
+        "median": 39.5,
         "top": {
-          "impressions": 152,
-          "text": "5 of 5 rotation starters are free agents or options expected to be declined.\n\nGausman. Boyd. Holmes. Imanaga. Peterson.\n\nJed Hoyer doesn't have a single starter locked in heading into the offseason. The rebuild starts now.\n\n#Cubs #MLB #Cubs"
+          "impressions": 180,
+          "text": "Five Cubs finalists for the Gold Glove \u2014 NL-BEST. \ud83e\udde4\n\nPete Crow-Armstrong, Ian Happ, and Seiya Suzuki give the Cubs a shot at something that's never been done: a full outfield sweep.\n\nWinners announced Nov. 1. This defense is for real.\n\n#Cub"
         }
       },
       "Thu": {
@@ -400,25 +396,16 @@
           "impressions": 9802,
           "text": "Cubs recalled RHP Jayden Murray from Iowa.\n\nFresh arm headed to Chicago to bolster the bullpen.\n\n#Cubs #GoCubs #MLB"
         }
-      },
-      "Mon": {
-        "n": 13,
-        "mean": 147.08,
-        "median": 76,
-        "top": {
-          "impressions": 828,
-          "text": "Game 1 is tomorrow. Tuesday, 9 PM CT. Petco Park.\n\nCubs vs. Padres \u2014 WCS rematch. Matthew Boyd takes the ball for Chicago. San Diego had a 16-5 September but the Cubs went 5-1 against them this year.\n\nThis is how you earn the right to the r"
-        }
       }
     },
     "by_content_type": {
       "brief": {
         "n": 94,
-        "mean": 147.15,
-        "median": 60.5,
+        "mean": 209.78,
+        "median": 60.0,
         "top": {
-          "impressions": 3310,
-          "text": "FIVE SEASONS. 26 homers. .270/.368/.473 in 2026.\n\nJon Heyman: Cubs expected to extend Seiya Suzuki a $23.15M qualifying offer.\n\nHe'll decline it. The Blue Jays are waiting. The market will pay him $100M+.\n\nThank you, Seiya.\n\n#Cubs #MLB #Cub"
+          "impressions": 6723,
+          "text": "THE CUBS reportedly want George Kirby.\n\nThe Mariners were listening at the deadline. Now it's the offseason \u2014 and Chicago needs rotation arms more than anyone.\n\nKirby is controllable, elite, and exactly what this staff is missing.\n\nMake the"
         }
       },
       "transaction": {
@@ -468,51 +455,51 @@
       }
     },
     "by_opening": {
-      "stat_lead": {
-        "n": 7,
-        "mean": 45.14,
-        "median": 42,
-        "top": {
-          "impressions": 76,
-          "text": "Tatis hit .914 OPS from June through September. Mason Miller closed games all year. The Padres are a real team.\n\nThey're still 1-5 against the Cubs in 2026.\n\nPre-game read on the opponent is respect, not fear.\n\n#Cubs #CubsBaseball #GoCubs"
-        }
-      },
-      "statement": {
-        "n": 82,
-        "mean": 99.83,
-        "median": 58.5,
-        "top": {
-          "impressions": 1390,
-          "text": "Gausman. Imanaga. Boyd. Holmes. Peterson.\n\nFive starters. All free agents this winter. Add Horton (TJ) and Steele (elbow). The Cubs could enter spring training with ZERO established pitchers under contract.\n\nHoyer's offseason is a five-alar"
-        }
-      },
       "allcaps_lead": {
-        "n": 30,
-        "mean": 550.93,
-        "median": 89.0,
+        "n": 34,
+        "mean": 686.88,
+        "median": 78.0,
         "top": {
           "impressions": 9802,
           "text": "Cubs recalled RHP Jayden Murray from Iowa.\n\nFresh arm headed to Chicago to bolster the bullpen.\n\n#Cubs #GoCubs #MLB"
         }
-      }
-    },
-    "by_len_bucket": {
-      "200-260": {
-        "n": 52,
-        "mean": 169.17,
-        "median": 57.5,
+      },
+      "stat_lead": {
+        "n": 7,
+        "mean": 53.57,
+        "median": 42,
         "top": {
-          "impressions": 3310,
-          "text": "FIVE SEASONS. 26 homers. .270/.368/.473 in 2026.\n\nJon Heyman: Cubs expected to extend Seiya Suzuki a $23.15M qualifying offer.\n\nHe'll decline it. The Blue Jays are waiting. The market will pay him $100M+.\n\nThank you, Seiya.\n\n#Cubs #MLB #Cub"
+          "impressions": 103,
+          "text": "Seiya Suzuki: .270/.368/.473, 26 HR, 5.1 WAR, Gold Glove finalist.\n\nHe's 32 and likely to see $100M+ on the open market. Multiple reports say the Cubs aren't expected to compete in that bidding war.\n\nLetting that production walk is a choice"
         }
       },
-      "260+": {
-        "n": 36,
-        "mean": 124.39,
-        "median": 62.5,
+      "statement": {
+        "n": 78,
+        "mean": 92.15,
+        "median": 58.0,
         "top": {
           "impressions": 1390,
           "text": "Gausman. Imanaga. Boyd. Holmes. Peterson.\n\nFive starters. All free agents this winter. Add Horton (TJ) and Steele (elbow). The Cubs could enter spring training with ZERO established pitchers under contract.\n\nHoyer's offseason is a five-alar"
+        }
+      }
+    },
+    "by_len_bucket": {
+      "260+": {
+        "n": 36,
+        "mean": 288.83,
+        "median": 62.5,
+        "top": {
+          "impressions": 6723,
+          "text": "THE CUBS reportedly want George Kirby.\n\nThe Mariners were listening at the deadline. Now it's the offseason \u2014 and Chicago needs rotation arms more than anyone.\n\nKirby is controllable, elite, and exactly what this staff is missing.\n\nMake the"
+        }
+      },
+      "200-260": {
+        "n": 52,
+        "mean": 168.54,
+        "median": 56.5,
+        "top": {
+          "impressions": 3310,
+          "text": "FIVE SEASONS. 26 homers. .270/.368/.473 in 2026.\n\nJon Heyman: Cubs expected to extend Seiya Suzuki a $23.15M qualifying offer.\n\nHe'll decline it. The Blue Jays are waiting. The market will pay him $100M+.\n\nThank you, Seiya.\n\n#Cubs #MLB #Cub"
         }
       },
       "140-200": {
@@ -537,7 +524,7 @@
     "by_hashtag_count": {
       "3": {
         "n": 119,
-        "mean": 210.34,
+        "mean": 259.81,
         "median": 60,
         "top": {
           "impressions": 9802,
@@ -546,50 +533,50 @@
       }
     },
     "by_has_score": {
+      "True": {
+        "n": 34,
+        "mean": 75.79,
+        "median": 59.5,
+        "top": {
+          "impressions": 353,
+          "text": "The ALCS is tied 2-2. Game 5 is today at 4 PM CT.\n\nWhoever wins faces the Brewers in a World Series starting Oct. 23 in Milwaukee.\n\nThe Cubs' QO window opens 5 days after the WS ends. Suzuki and Happ decisions coming fast.\n\n#Cubs #MLB #Cubs"
+        }
+      },
       "False": {
-        "n": 84,
-        "mean": 257.6,
-        "median": 60.0,
+        "n": 85,
+        "mean": 333.41,
+        "median": 60,
         "top": {
           "impressions": 9802,
           "text": "Cubs recalled RHP Jayden Murray from Iowa.\n\nFresh arm headed to Chicago to bolster the bullpen.\n\n#Cubs #GoCubs #MLB"
-        }
-      },
-      "True": {
-        "n": 35,
-        "mean": 96.91,
-        "median": 61,
-        "top": {
-          "impressions": 828,
-          "text": "Game 1 is tomorrow. Tuesday, 9 PM CT. Petco Park.\n\nCubs vs. Padres \u2014 WCS rematch. Matthew Boyd takes the ball for Chicago. San Diego had a 16-5 September but the Cubs went 5-1 against them this year.\n\nThis is how you earn the right to the r"
         }
       }
     },
     "by_has_stat": {
-      "True": {
-        "n": 20,
-        "mean": 59.2,
-        "median": 56.5,
-        "top": {
-          "impressions": 135,
-          "text": "Matthew Boyd started WCS Game 1 last October and allowed 1 run in 4.1 IP in a Cubs 3-1 win.\n\nIn 2026: 3.91 ERA, 9-5, 2026 All-Star. Posted a 1.14 ERA over 10 straight starts from May 28\u2013July 22.\n\nHe's done this before. Tonight he does it ag"
-        }
-      },
       "False": {
-        "n": 99,
-        "mean": 240.87,
-        "median": 61,
+        "n": 100,
+        "mean": 297.81,
+        "median": 60.5,
         "top": {
           "impressions": 9802,
           "text": "Cubs recalled RHP Jayden Murray from Iowa.\n\nFresh arm headed to Chicago to bolster the bullpen.\n\n#Cubs #GoCubs #MLB"
+        }
+      },
+      "True": {
+        "n": 19,
+        "mean": 59.79,
+        "median": 52,
+        "top": {
+          "impressions": 135,
+          "text": "Matthew Boyd started WCS Game 1 last October and allowed 1 run in 4.1 IP in a Cubs 3-1 win.\n\nIn 2026: 3.91 ERA, 9-5, 2026 All-Star. Posted a 1.14 ERA over 10 straight starts from May 28\u2013July 22.\n\nHe's done this before. Tonight he does it ag"
         }
       }
     },
     "by_has_emoji_first_line": {
       "False": {
         "n": 109,
-        "mean": 222.94,
-        "median": 59,
+        "mean": 276.14,
+        "median": 58,
         "top": {
           "impressions": 9802,
           "text": "Cubs recalled RHP Jayden Murray from Iowa.\n\nFresh arm headed to Chicago to bolster the bullpen.\n\n#Cubs #GoCubs #MLB"
@@ -597,19 +584,19 @@
       },
       "True": {
         "n": 10,
-        "mean": 72.9,
+        "mean": 81.8,
         "median": 76.5,
         "top": {
-          "impressions": 104,
-          "text": "White Sox and Brewers are still playing. The Cubs aren't. \ud83d\ude24\n\nOffseason checklist:\n\nImanaga, Gausman, Peterson, Happ, Seiya: free agents\nBoyd: $15M mutual option\nHolmes: $12M player option\nDecisions due 5 days after the World Series\n\nGet to "
+          "impressions": 180,
+          "text": "Five Cubs finalists for the Gold Glove \u2014 NL-BEST. \ud83e\udde4\n\nPete Crow-Armstrong, Ian Happ, and Seiya Suzuki give the Cubs a shot at something that's never been done: a full outfield sweep.\n\nWinners announced Nov. 1. This defense is for real.\n\n#Cub"
         }
       }
     },
     "by_has_allcaps": {
       "True": {
         "n": 103,
-        "mean": 226.88,
-        "median": 61,
+        "mean": 283.95,
+        "median": 60,
         "top": {
           "impressions": 9802,
           "text": "Cubs recalled RHP Jayden Murray from Iowa.\n\nFresh arm headed to Chicago to bolster the bullpen.\n\n#Cubs #GoCubs #MLB"
@@ -617,7 +604,7 @@
       },
       "False": {
         "n": 16,
-        "mean": 103.81,
+        "mean": 104.38,
         "median": 54.0,
         "top": {
           "impressions": 811,
@@ -629,9 +616,9 @@
   "raw_buckets_engagement_above_median": {
     "by_content_type": {
       "brief": {
-        "n": 49,
-        "mean_rate": 0.0069,
-        "median_rate": 0.0037
+        "n": 48,
+        "mean_rate": 0.0066,
+        "median_rate": 0.0033
       },
       "transaction": {
         "n": 7,
@@ -661,42 +648,42 @@
     },
     "by_opening": {
       "allcaps_lead": {
-        "n": 20,
-        "mean_rate": 0.0075,
-        "median_rate": 0.0026
+        "n": 21,
+        "mean_rate": 0.0069,
+        "median_rate": 0.0028
       },
       "statement": {
-        "n": 40,
-        "mean_rate": 0.0059,
-        "median_rate": 0.0018
+        "n": 37,
+        "mean_rate": 0.0055,
+        "median_rate": 0.0
       },
       "stat_lead": {
-        "n": 1,
-        "mean_rate": 0.0,
-        "median_rate": 0.0
+        "n": 2,
+        "mean_rate": 0.0049,
+        "median_rate": 0.0049
       }
     },
     "by_has_score": {
       "True": {
-        "n": 18,
-        "mean_rate": 0.0071,
-        "median_rate": 0.0078
+        "n": 17,
+        "mean_rate": 0.0065,
+        "median_rate": 0.0028
       },
       "False": {
         "n": 43,
-        "mean_rate": 0.006,
+        "mean_rate": 0.0058,
         "median_rate": 0.0
       }
     },
     "by_has_stat": {
       "False": {
         "n": 52,
-        "mean_rate": 0.0068,
-        "median_rate": 0.0044
+        "mean_rate": 0.0064,
+        "median_rate": 0.0033
       },
       "True": {
-        "n": 9,
-        "mean_rate": 0.0031,
+        "n": 8,
+        "mean_rate": 0.003,
         "median_rate": 0.0
       }
     }
@@ -711,6 +698,16 @@
       "opening": "allcaps_lead",
       "len": 115,
       "text": "Cubs recalled RHP Jayden Murray from Iowa.\n\nFresh arm headed to Chicago to bolster the bullpen.\n\n#Cubs #GoCubs #MLB"
+    },
+    {
+      "posted_at": "2026-10-19 14:34 CT",
+      "content_type": "brief",
+      "impressions": 6723,
+      "engagement": 85,
+      "engagement_rate": 0.0126,
+      "opening": "allcaps_lead",
+      "len": 277,
+      "text": "THE CUBS reportedly want George Kirby.\n\nThe Mariners were listening at the deadline. Now it's the offseason \u2014 and Chicago needs rotation arms more than anyone.\n\nKirby is controllable, elite, and exactly what this staff is missing.\n\nMake the call, Jed.\n\n#Cubs #MLB #CubsBaseball"
     },
     {
       "posted_at": "2026-10-17 07:09 CT",
@@ -733,16 +730,6 @@
       "text": "Gausman. Imanaga. Boyd. Holmes. Peterson.\n\nFive starters. All free agents this winter. Add Horton (TJ) and Steele (elbow). The Cubs could enter spring training with ZERO established pitchers under contract.\n\nHoyer's offseason is a five-alarm fire.\n\n#Cubs #MLB #CubsBaseball"
     },
     {
-      "posted_at": "2026-09-28 08:19 CT",
-      "content_type": "brief",
-      "impressions": 828,
-      "engagement": 8,
-      "engagement_rate": 0.0097,
-      "opening": "statement",
-      "len": 273,
-      "text": "Game 1 is tomorrow. Tuesday, 9 PM CT. Petco Park.\n\nCubs vs. Padres \u2014 WCS rematch. Matthew Boyd takes the ball for Chicago. San Diego had a 16-5 September but the Cubs went 5-1 against them this year.\n\nThis is how you earn the right to the road trip.\n\n#Cubs #GoCubs #FlyTheW"
-    },
-    {
       "posted_at": "2026-09-29 08:22 CT",
       "content_type": "brief",
       "impressions": 811,
@@ -754,16 +741,6 @@
     }
   ],
   "bottom_performers": [
-    {
-      "posted_at": "2026-10-02 05:25 CT",
-      "content_type": "transaction",
-      "impressions": 20,
-      "engagement": 0,
-      "engagement_rate": 0.0,
-      "opening": "statement",
-      "len": 111,
-      "text": "Julian Aguiar's back in the fold.\n\nRHP activated by the Cubs. Bullpen gets another arm.\n\n#Cubs #GoCubs #FlyTheW"
-    },
     {
       "posted_at": "2026-10-01 09:39 CT",
       "content_type": "transaction",
@@ -803,6 +780,16 @@
       "opening": "allcaps_lead",
       "len": 126,
       "text": "RHP Trent Thornton's back in the fold.\n\nCubs activated him today. Adds another arm to the bullpen mix.\n\n#Cubs #GoCubs #FlyTheW"
+    },
+    {
+      "posted_at": "2026-10-19 09:40 CT",
+      "content_type": "brief",
+      "impressions": 16,
+      "engagement": 0,
+      "engagement_rate": 0.0,
+      "opening": "allcaps_lead",
+      "len": 257,
+      "text": "CADE HORTON won't throw a pitch in 2027 Spring Training.\n\nHis second Tommy John in April puts his return at July or August 2027 \u2014 best case.\n\nThe Cubs are rebuilding their rotation around an ace they won't see until midseason. \ud83d\udd25\n\n#Cubs #GoCubs #CubsBaseball"
     }
   ]
 }
