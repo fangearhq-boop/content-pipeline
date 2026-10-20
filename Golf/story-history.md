@@ -2,6 +2,18 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-10-20
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-20 | T1 | Bermuda Championship Opens Thursday — Wind Will Decide the Winner at Port Royal | X(2), FB, Article | FOLLOW UP |
+| 2026-10-20 | T1 | Rahm Out of LIV 2.0 — PGA Tour Return Not Until Late August 2027 at Earliest | X(2), FB, Article | FOLLOW UP |
+| 2026-10-20 | T2 | Alex Cejka Wins SAS Championship at Prestonwood — -9, Beats Els and Alker | X(1), FB, Article | NEW |
+| 2026-10-20 | T2 | FedExCup Fall Points at Bermuda — Who Needs What This Week | X(1), FB, Article | FOLLOW UP |
+| 2026-10-20 | T2 | Stifel Charity Classic Preview — Champions Tour at Norwood Hills, St. Louis | X(1), FB, Article | NEW |
+
+---
+
 ## 2026-10-19
 
 | Date | Tier | Title | Platforms | Status |

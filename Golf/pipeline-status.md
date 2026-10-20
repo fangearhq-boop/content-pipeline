@@ -1,5 +1,31 @@
 # Golf Fanrecap — Pipeline Status
 
+## Latest Run: 2026-10-20
+
+**Run completed:** 2026-10-20
+**Stories:** 5
+**Articles:** 5
+**X posts:** 7
+**Status:** COMPLETE (with known proxy limitations)
+
+### Scripts Run (2026-10-20)
+- [x] verify-facts.py — 27 claims, 58 HIGH
+- [x] compile-content-data.py — 5 stories, 5 tweets, 0 FB (known parsing issue), 5 articles; fixed 1 tweet over 280 chars
+- [x] generate-review-dashboard.py — 20 items
+- [ ] generate-postplanner-export.py — 0 posts (known parsing issue)
+- [ ] publish-unified-dashboard.py — BLOCKED (content-dashboards not in authorized repo set, consistent)
+- [ ] publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- [x] git push — via git push origin main
+
+**Stories covered (2026-10-20):**
+1. T1 FOLLOW UP: Bermuda Championship Opens Thursday — Wind Will Decide the Winner at Port Royal (Ryan Calloway)
+2. T1 FOLLOW UP: Rahm Out of LIV 2.0 — PGA Tour Return Not Until Late August 2027 at Earliest (Jake Torres)
+3. T2 NEW: Alex Cejka Wins SAS Championship at Prestonwood — -9, Beats Els and Alker (Marcus Cole)
+4. T2 FOLLOW UP: FedExCup Fall Points at Bermuda — Who Needs What This Week (Ryan Calloway)
+5. T2 NEW: Stifel Charity Classic Preview — Champions Tour at Norwood Hills, St. Louis (Jake Torres)
+
+---
+
 ## Latest Run: 2026-10-19
 
 **Run completed:** 2026-10-19
