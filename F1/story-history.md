@@ -2,6 +2,45 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-20
+
+### STORY 1: Antonelli's Clinch Match Point — Race Week Begins at COTA
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / F1 Championship / US Grand Prix / Austin / Record
+- **Key facts:** Antonelli leads 340 pts; Russell 238 (-102); Hamilton 229 (-111); Verstappen 221; clinch: win USGP + Russell P9/lower + Hamilton P4/lower; clinch age: 20yr 61d; Vettel record: 23yr 134d (2010); race Oct 25 3PM CT; new Thursday preview day Oct 22; no sprint; 150 pts remain
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: Verstappen Chases History — Can Red Bull Win Three Straight?
+- **Tier:** 1
+- **Category:** Max Verstappen / Red Bull / COTA / US Grand Prix / Back-to-Back Wins
+- **Key facts:** Back-to-back wins Malaysia + Singapore; Singapore: led start-to-finish, 7.3s clear of Leclerc; Verstappen P4 (221 pts); COTA wins: 2021, 2022, 2023 (3 consecutive); lap record 1:36.169; paddock fear of Red Bull late dominance; 6 races remain
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: Haas Reveals Godzilla Livery for the US Grand Prix
+- **Tier:** 2
+- **Category:** Haas / Special Livery / US Grand Prix / COTA / Branding
+- **Key facts:** Godzilla-themed livery for COTA weekend; "striking" in reveal; on track all 4 days (Oct 22-25)
+- **Byline:** Elena Voss
+- **Status:** NEW
+
+### STORY 4: Pirelli Brings C2/C3/C4 to Austin — The One-Stop Question
+- **Tier:** 2
+- **Category:** Pirelli / Tire Strategy / COTA / US Grand Prix
+- **Key facts:** Compounds: C2 Hard, C3 Medium, C4 Soft; one-stop plan; Texas heat wear factor; Turns 9-11 resurfaced; 25% rain Sunday; 2026 regs: no DRS, Overtake Mode + active aero
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: Cadillac at COTA — America's Team Races at America's Track
+- **Tier:** 2
+- **Category:** Cadillac / F1 Team / COTA / US Grand Prix / American Racing
+- **Key facts:** Cadillac 11th team; drivers Perez + Bottas; no points scored yet; Bottas best P13 (China); Miami stars-and-stripes livery; COTA first race for team; Bobby Epstein: "won't be last"
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+---
+
 ## 2026-10-19
 
 ### STORY 1: Antonelli Austin Clinch Watch — Four Days to Youngest Champion Record
