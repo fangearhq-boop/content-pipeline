@@ -174,11 +174,71 @@
       "image_concepts": null,
       "fact_check": null,
       "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Cubs hire Rays' Steve Miller to run international scouting",
+      "tier": 2,
+      "status": "NEW",
+      "angle": "Human-approved (Steve, Oct 20). Front office response same day Banner left for Baltimore.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The Cubs hired Steve Miller as VP overseeing international scouting (per @FrancysRomero). He'd been the Rays' director of international scouting since 2019. Same day Jared Banner left to become Orioles GM. Losing a front office piece hurts. Poaching from Tampa is a strong answer. #Cubs",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "brief (informative)",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 286
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "notes": "Manually verified Oct 20 by Cubbies X; approved by Steve."
+      },
+      "research": {
+        "facts": "Francys Romero / Beisbol FR (Oct 19, 2026): Miller named VP overseeing international scouting; Rays Director of International Scouting since 2019. Corroborated: Cubs Insider, CubsHQ, NBC Sports (Oct 19). Banner to Orioles GM: Jeff Passan (Oct 19)."
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Hartshorn's correct 2026 line + Toolshed Prospect of the Year",
+      "tier": 2,
+      "status": "NEW",
+      "angle": "Human-approved (Steve, Oct 20). Corrects earlier wrong Hartshorn lines.",
+      "posting_window": "8:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Josiah Hartshorn in 2026, across three levels: .284/.407/.518, 23 HR, 112 RBI in 125 games. 85 of those RBI came at High-A South Bend (.297/.405/.560). Prospect of the Year from both hosts of @ToolshedPod. #Cubs",
+          "posting_time": "8:00 PM CT",
+          "tweet_type": "brief (informative)",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "notes": "Manually verified Oct 20 by Cubbies X; approved by Steve."
+      },
+      "research": {
+        "facts": "MLB.com prospects stats + MLB.com 'Each team's prospects of the year 2026': .284/.407/.518, 23 HR, 112 RBI, 125 G across A/A+/AA. South Bend .297/.405/.560, 85 RBI (83 G). Toolshed EP 474 (Oct 7): Eric Cross & Tobey Schulman NL Prospects of the Year incl. Hartshorn."
+      }
     }
   ],
   "pipeline_stats": {
-    "total_stories": 5,
-    "x_posts_count": 5,
+    "total_stories": 7,
+    "x_posts_count": 7,
     "facebook_posts_count": 0,
     "articles_count": 0,
     "image_concepts_count": 0
