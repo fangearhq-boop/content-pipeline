@@ -1,0 +1,191 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-20",
+  "compiled_at": "2026-10-20T09:18:33.955673+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1",
+      "type": "Rays advance — WS confirmed Brewers vs. Rays"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 2",
+      "type": "Front office reshuffles — Banner out, Miller in"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 3",
+      "type": "Michael King free agent pursuit"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Story 4",
+      "type": "QO window looms — Suzuki and Happ"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 5",
+      "type": "Brewers in WS — Cubs' benchmark moved"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Rays advance to WS — Brewers vs. Rays Fall Classic confirmed",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Rays won ALCS G6 7-3 (Yandy Díaz HR, Junior Caminero HR). WS set: Brewers vs. Rays, Game 1 Oct 23 Milwaukee. Cubs fans watching their division rival play in the Fall Classic while the North Siders went home after the Wild Card. Both teams Cuba must beat in 2027.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Rays beat Cleveland 7-3 in ALCS G6.\n\nWorld Series: Brewers vs. Rays. Game 1 is Friday in Milwaukee.\n\nYour 2026 Cubs finished 89-73 and watched from home. The division's best team is playing for a title they've never won.\n\nTime to fix that in 2027. 🔺\n\n#Cubs #MLB #NorthSiders",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / Rival Watch",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#NorthSiders"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Cubs front office reshuffles — Banner out, Miller in from the Rays",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Jared Banner (Cubs asst GM) named Orioles GM on Oct 19 — a direct promotion. Same day, Cubs hired Steve Miller (Rays Director of International Scouting since 2019) as VP of International Scouting. Framed as org strategy: Cubs develop talent at every level, including the front office, and immediately replace with talent from one of baseball's best organizations.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Jared Banner just became the Orioles' GM.\n\nThe same day he left, Chicago turned around and hired from the Rays' front office.\n\nThe Cubs don't just develop players — they develop executives. 💡\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Org Strategy / Bold Take",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Michael King — the pitcher who beat the Cubs could now join them",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "King was dominant in WC Series G1 vs. Cubs (7 IP, 0 ER, 8 K). Expected to opt out of Padres deal. No QO attached — Cubs can pursue without forfeiting a draft pick. 3.21 ERA in 2026. Exactly what the rotation needs. The irony angle: sign the guy who ended your season.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Michael King: 7 innings. Zero runs. Eight strikeouts. In Game 1. Against the Cubs.\n\nExpected to opt out of his Padres deal. No qualifying offer attached. Zero draft pick cost.\n\nThe ace who ended Chicago's season is available.\n\nMake the call, Jed.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Bold Take / Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "QO window looms — Suzuki and Happ decisions in about 10 days",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "QO window opens ~5 days after WS ends (~Nov 2). Value: $23.15M — highest in MLB history. Suzuki expected QO; expected to decline; $130M+ market. Happ's call is murkier (.218 BA in 2026, 2.9 WAR; Hoyer \"hasn't ruled out\" a return). Framed as the clock ticking on two offseason-defining decisions.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The World Series ends and the clock starts.\n\nThe qualifying offer window opens in 10 days — $23.15M each. Suzuki's market is $130M+. He's gone.\n\nHapp is the real question. .218 BA in 2026, but Hoyer hasn't ruled out a return.\n\nTwo answers. One week.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Informative",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Brewers in the World Series — Cubs' NL Central benchmark just moved",
+      "tier": 2,
+      "status": "",
+      "angle": "Brewers (103-59) are in the WS for first time since 1982. Cubs went 89-73 and lost in the Wild Card. That's a 14-game gap. The NL Central's gold standard just got elevated while the Cubs watched from home. Bold take: the gap is measurable and fixable, but only if the offseason is aggressive.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Brewers haven't won a World Series. Ever.\n\nThey're playing for one in Milwaukee against a Rays team that's never won it either.\n\nThe Cubs went 89-73 and lost in the Wild Card. That's the gap.\n\nFourteen games. Pennant vs. early exit.\n\n#Cubs #GoCubs #NorthSiders",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Bold Take / Rival Watch",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#NorthSiders"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

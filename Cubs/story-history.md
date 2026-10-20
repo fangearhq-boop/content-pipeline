@@ -5,6 +5,52 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-10-20 (OFF DAY — Early offseason. Rays beat Guardians 7-3 in ALCS G6; WS set: Brewers vs. Rays, opens Oct 23 Milwaukee. Jared Banner → Orioles GM; Cubs hire Steve Miller (Rays) as VP Int'l Scouting. Michael King free agent target (no QO). QO window ~Nov 2. Insights active: overnight_00_06 loser (large); content_type=transaction loser (medium).)
+
+### STORY 1: Rays advance to WS — Brewers vs. Rays Fall Classic confirmed
+- **Angle:** FOLLOW UP (Oct 19 = Rays led ALCS 3-2). Today = G6 result. Rays beat Guardians 7-3 (Díaz, Caminero HRs). WS: Brewers vs. Rays, Game 1 Oct 23 Milwaukee. Cubs watching division rival in Fall Classic; both teams Cubs must beat in 2027.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, informative / rival watch)
+- **Follow-Up Opportunities:**
+  - WS Games 1-2 Friday-Saturday (Oct 23-24) → Brewers in action, division rival watch content
+  - Brewers WS result (potential Cubs angle either way)
+
+### STORY 2: Cubs front office reshuffles — Banner out, Steve Miller in from Rays
+- **Angle:** NEW STORY. Jared Banner named Orioles GM (Oct 19). Same day, Cubs hire Steve Miller (Rays Director of International Scouting since 2019) as VP of International Scouting. Framed as org strategy — not transaction.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, org strategy / bold take)
+- **Follow-Up Opportunities:**
+  - Any remaining Cubs front office promotions / internal reshuffling
+  - Carter Hawkins presser on front office structure
+
+### STORY 3: Michael King — the pitcher who beat the Cubs could join them
+- **Angle:** NEW STORY. King dominated Cubs in WC G1 (7 IP, 0 ER, 8 K). Expected to opt out of Padres deal. No QO attached; Cubs can sign without draft pick cost. 3.21 ERA in 2026. Tone: irony + urgency.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, bold take / analysis)
+- **Follow-Up Opportunities:**
+  - King officially opts out → pursuit reporting
+  - Cubs reportedly in talks with King → Tier 1
+
+### STORY 4: QO window looms — Suzuki and Happ decisions in 10 days
+- **Angle:** NEW STORY. QO window opens ~5 days after WS ends (~Nov 2). Value: $23.15M. Suzuki expected QO, expected decline, $130M+ market. Happ murkier (.218 BA, 2.9 WAR, Hoyer "hasn't ruled out" return). Framed as decision-point analysis.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, informative)
+- **Follow-Up Opportunities:**
+  - Suzuki QO officially tendered / accepted / rejected
+  - Happ QO decision
+  - Suzuki signs elsewhere → bold reaction take
+  - Happ re-signed → Tier 1 announcement
+
+### STORY 5: Brewers in the World Series — Cubs' NL Central benchmark just moved
+- **Angle:** BOLD TAKE. Brewers (103-59) in WS for first time since 1982. Cubs (89-73) lost in Wild Card. 14-game gap. Division rival playing for a title they've never won while Cubs watch from home.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, bold take / rival watch)
+- **Follow-Up Opportunities:**
+  - Brewers WS win → Cubs division urgency content
+  - Brewers WS loss → Cubs rival parity content
+
+---
+
 ## 2026-10-19 (OFF DAY — Early offseason. Rays beat Guardians 3-1 in ALCS G5 (Rasmussen 7 IP); Rays lead 3-2, G6 tonight. WS opens Oct 23 at Milwaukee (Brewers). Insights active: overnight_00_06 loser (large); content_type=transaction loser (medium); opening=allcaps_lead winner (small).)
 
 ### STORY 1: ALCS G5 result — Rays lead 3-2, G6 tonight
