@@ -1,5 +1,35 @@
 # COS Parenting — Pipeline Status
 
+## Current Run: 2026-10-20
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Babies' Magic Tea Gripe Water recall FDA Oct 7 lot 25122bw (ethanol 8.3% + methanol + isopropanol, Amazon/Secrets of Tea); Boo at the Zoo Oct 23–25 4–8:30 PM cmzoo.org/boo, CMZ members $5 off; Halloween candy safety / Teal Pumpkin Project (FARE, foodallergy.org); fall break indoor activities (FAC at CC, Cave of the Winds, Skyzone, libraries, American Numismatic Museum); D11 bond Nov 3 $775M (safety vestibules, HVAC, asbestos, CTE labs, classrooms) |
+| Story History Check | COMPLETE | S1 NEW (recall not in prior runs); S2 FOLLOW-UP (Oct 17/18 mentioned Boo at Zoo briefly — today is dedicated guide, different depth); S3 SEASONAL (Halloween candy safety — 11 days out; no prior allergy angle); S4 COMPLEMENTARY (Oct 19 S5 covered trails — today covers indoor options); S5 COMPLEMENTARY (Oct 15 covered property tax — today covers what gets built) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on ticket prices (direct to cmzoo.org) |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 5 posts; all ≤280 chars; 4 hashtags each |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 7 Gemini base_only prompts (S1: 2, S2: 2, S3–S5: 1 each); clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Gripe Water Recall (Jamie Rivera T1); article-02 Boo at the Zoo Guide (Sarah Morales T1); article-03 Halloween Candy Safety (Jamie Rivera T2); article-04 Fall Break Indoor Activities (Sarah Morales T2); article-05 D11 Bond Vote Nov 3 (Jamie Rivera T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 37 claims; manual (Python blocked); PASSED |
+| Compile Content Data | BLOCKED | Bash blocked by auto-mode classifier (credential leakage detection) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 7 entries, all not_started, gemini base_only |
+| Review Dashboard | BLOCKED | Python blocked — review-dashboard.html not generated |
+| Unified Dashboard Publish | BLOCKED | content-dashboards not in authorized repo set — proxy 403 (known recurring issue) |
+| PostPlanner Export | BLOCKED | Python blocked — cosp-postplanner-2026-10-20.xlsx not generated |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Oct 19 + Oct 20 sections prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 5 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **Key stories:** Babies' Magic Tea Gripe Water recall (FDA Oct 7, lot 25122bw, undeclared ethanol 8.3%); Boo at the Zoo guide (Oct 23–25, 4–8:30 PM, cmzoo.org/boo, members $5 off); Halloween candy safety + Teal Pumpkin Project; fall break indoor activities COS; D11 bond Nov 3 (what $775M builds)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); Python/Bash BLOCKED (auto-mode classifier)
+
+---
+
 ## Current Run: 2026-10-19
 
 | Step | Status | Notes |
