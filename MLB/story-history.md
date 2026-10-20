@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## Pipeline Run: 2026-10-20
+
+### Story 1: Rays Win ALCS Game 6 — Headed to the World Series
+- **Date**: 2026-10-20
+- **Tier**: 1
+- **Key Facts**: Rays 7, Guardians 3 (Oct 19, Tropicana Field); ALCS final 4-2; Freddy Peralta started (5.1 IP, 1 ER); Junior Caminero 2-run HR in 7th off left-field foul pole; Richie Palacios doubled in 2nd for 2-0 lead; Bryan Baker 1-2-3 ninth; Yandy Díaz pregame prediction fulfilled; 3rd WS appearance in franchise history, first since 2020
+- **Article**: article-01-rays-win-alcs-game-6-world-series-bound.html (By Jake Torres)
+
+### Story 2: World Series Preview — Rays vs. Brewers, No. 1 Seeds, No Champions
+- **Date**: 2026-10-20
+- **Tier**: 1
+- **Key Facts**: Game 1 Oct 23 American Family Field 8PM ET FOX; both No. 1 seeds; neither franchise has won WS; Brewers 103-59 (MLB best); swept Padres NLDS + swept Dodgers NLCS; Rays beat Yankees ALDS + Guardians 4-2 ALCS; first-time champion guaranteed; Milwaukee's first WS since 1982
+- **Article**: article-02-world-series-preview-rays-brewers.html (By Ryan Calloway)
+
+### Story 3: Rasmussen vs. Misiorowski — Game 1 Could Be Historic
+- **Date**: 2026-10-20
+- **Tier**: 2
+- **Key Facts**: Both probable (not confirmed) starters for Game 1; Rasmussen 16-5 2.67 ERA regular season, 1.29 ERA 15 IP postseason, 2x All-Star; Misiorowski led NL in ERA and strikeouts, 2x All-Star, 12 days rest; neither has pitched in WS before
+- **Article**: article-03-rasmussen-misiorowski-game-1-duel.html (By Marcus Cole)
+
+### Story 4: Milwaukee's Historic Journey to the Fall Classic
+- **Date**: 2026-10-20
+- **Tier**: 2
+- **Key Facts**: 103 wins (MLB best); swept Padres NLDS 4 games; swept Dodgers NLCS 4-0 (rallied from 4-0 in G4 clincher 6-4); Bauers NLCS MVP; Chourio 6th career postseason HR broke franchise all-time record (broke tie with Contreras); Contreras 3 HR in 2026 playoffs; Turang 100 RBI; last WS was 1982 (lost Cardinals 7 games); 44-year wait
+- **Article**: article-04-brewers-historic-journey-world-series.html (By Jake Torres)
+
+### Story 5: World Series Schedule — Every Game, Every Date, How to Watch
+- **Date**: 2026-10-20
+- **Tier**: 2
+- **Key Facts**: G1 Oct 23 Milwaukee; G2 Oct 24 Milwaukee; G3 Oct 26 Tampa Bay; G4 Oct 27 Tampa Bay; G5* Oct 28 Tampa Bay; G6* Oct 30 Milwaukee; G7* Oct 31 Milwaukee; all FOX 8PM ET; both teams seeking first WS title
+- **Article**: article-05-world-series-schedule-how-to-watch.html (By Ryan Calloway)
+
+---
+
 ## Pipeline Run: 2026-10-19
 
 ### Story 1: Rays Win ALCS Game 5 — Game 6 Tonight at Tropicana Field
