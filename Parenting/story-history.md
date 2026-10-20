@@ -2,6 +2,94 @@
 
 ---
 
+## October 20, 2026
+
+### Story 1: Babies' Magic Tea Gripe Water Recall
+- **Date:** 2026-10-20
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** FDA recall alert Oct 7 2026; Babies' Magic Tea Gripe Water; lot 25122bw; undeclared ethanol 8.3% + methanol + isopropanol; infant supplement; sold Amazon and Secrets of Tea; stop use — dispose or contact seller; no injuries reported
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 2: Boo at the Zoo 2026 Guide
+- **Date:** 2026-10-20
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** Cheyenne Mountain Zoo; Oct 23–25 2026; 4:00–8:30 PM each night; advance tickets at cmzoo.org/boo; CMZ members save $5; costumes encouraged; sold out past years; layers recommended for October evenings
+- **Byline:** Sarah Morales
+- **Status:** NEW (Oct 18 S4 mentioned Boo at Zoo briefly in events roundup — today is dedicated guide)
+
+### Story 3: Halloween Candy Safety / Teal Pumpkin Project
+- **Date:** 2026-10-20
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** Teal Pumpkin Project by FARE (Food Allergy Research and Education); teal pumpkin = non-food treats available; foodallergy.org participation map; EpiPen accessibility on trick-or-treat night; top allergens in Halloween candy (peanuts, tree nuts, milk, egg, wheat); 11 days to Halloween
+- **Byline:** Jamie Rivera
+- **Status:** NEW (seasonal; no prior 2026 allergy angle)
+
+### Story 4: Fall Break Indoor Activities COS
+- **Date:** 2026-10-20
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** D11 + D49 fall break Oct 19–23 (Day 2); CO Springs Fine Arts Center at CC (30 W. Dale); American Numismatic Museum free (818 N. Cascade); Skyzone; Cave of the Winds Manitou Springs; Pikes Peak Library District (ppld.org); UCCS Art Galleries (free); ProRodeo Hall of Fame
+- **Byline:** Sarah Morales
+- **Status:** COMPLEMENTARY (Oct 19 S5 covered trails — today covers indoor options)
+
+### Story 5: D11 Bond Vote Nov 3 — What Gets Built
+- **Date:** 2026-10-20
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** D11 bond vote Nov 3 2026; $775 million; safety vestibule upgrades; HVAC replacement (30+ year systems); asbestos abatement in older buildings; CTE lab expansions; classroom renovations; 14 days from vote
+- **Byline:** Jamie Rivera
+- **Status:** COMPLEMENTARY (Oct 15 S4 covered property tax cost — today covers what gets built; different angle)
+
+---
+
+## October 19, 2026
+
+### Story 1: Pumpkins in the Park — Oct 24 at Bancroft Park
+- **Date:** 2026-10-19
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** Pumpkins in the Park Oct 24; Bancroft Park; noon–6pm; free admission; pumpkin patch atmosphere; fall family activity COS
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 2: ABC Trading Squishy Toy Recall
+- **Date:** 2026-10-19
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** CPSC recall Oct 1 2026; ~37,000 units; ABC Trading; models 3655 and 3984; squishy bead/water bead ingestion hazard; choking and intestinal obstruction risk; stop use and return for refund
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 3: AAP vs CDC Vaccine Schedule Divergence 2026
+- **Date:** 2026-10-19
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** Jan 2026 divergence; AAP maintains 18-disease childhood vaccine schedule; CDC narrowed its recommended schedule; pediatricians largely following AAP guidance; what COS families should ask their pediatrician
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 4: AAP Iron Deficiency New Screening Guidelines
+- **Date:** 2026-10-19
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** AAP July 2026 updated guidelines; CBC + ferritin screening; breastfed infants screened 9–12 months; formula-fed infants 15–18 months; new age-range targets vs prior guidance
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 5: Fall Break Trails in COS
+- **Date:** 2026-10-19
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** D11 + D49 fall break Oct 19–23; Palmer Park trails (family-friendly, northeast COS); Monument Valley Park (flat, paved, stroller-accessible); Cheyenne Canyon / North Cheyenne Cañon Park (more challenging, views); free/low cost; fall foliage
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+---
+
 ## October 18, 2026
 
 ### Story 1: D11 Offers Free Literacy Program During Fall Break
