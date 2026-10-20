@@ -3,6 +3,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-10-20
+
+### Story 1: Kasidi Pickering Signs with Texas Tech — Portal's Biggest Bat Lands in Lubbock
+- **Date:** 2026-10-20
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Pickering "still uncommitted" as of Oct 19; signing confirmed today)
+- **Angle:** All-American infielder Kasidi Pickering officially signs with Texas Tech. Three seasons at OU (.384 career BA, 50 HR, 169 RBI). Joins Jaysoni Beachum (FSU transfer) under new coaches Cottrill and Pendley. TTU portal class now arguably nation's best. OU faces roster hole. Big 12 title race more open.
+- **Content Produced:** Article (article-01, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Texas Tech spring preview after full portal class assembled
+  - OU response to Pickering departure (replacement portal additions)
+
+### Story 2: OU Battle Series Game 4 — Tomorrow Night at Love's Field
+- **Date:** 2026-10-20
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Game 4 previewed Oct 19; game-eve final countdown)
+- **Angle:** Oklahoma's fall showcase Game 4 at Love's Field Wednesday Oct 21 6:30 PM CT, 1oklahoma.com. Kavan (2x WCWS MOP), Wells (39 HR, 2026 NFCA Freshman of Year), Berzon anchoring circle. One of the last looks at new-look Sooners before spring. Game 5 vs USAO follows Oct 23.
+- **Content Produced:** Article (article-02, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - OU Battle Series Game 4 results
+  - OU Battle Series Game 5 vs USAO (Oct 23) preview
+
+### Story 3: 2028 Recruiting Commit Wave Rolls On — Texas Still Leads But Programs Closing Fast
+- **Date:** 2026-10-20
+- **Tier:** 2
+- **Classification:** FOLLOW UP (post-window commit wave tracking; new commits rolling in)
+- **Angle:** Contact window closed Oct 18. 1,000+ commits since September 1. Texas leads with Landers (No. 1 IF), Morvan (22 HR), TX Bombers Gold haul. Florida (Holden No. 2 + Evans), Tennessee (5 commits incl Campos No. 4 + pitcher Kuiper), OU (5 commits), OSU (Cleary top-100).
+- **Content Produced:** Article (article-03, Sarah Mitchell), 2 X posts, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Class of 2028 national rankings update (mid-November)
+  - Individual program class spotlights (Texas, Tennessee, Florida)
+
+### Story 4: Tennessee Lady Vols Enter Final Week of Fall Ball — Eyes Already on 2027 WCWS
+- **Date:** 2026-10-20
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Tennessee fall covered Oct 17-19; final week new angle)
+- **Angle:** Tennessee wraps fall ball with Oct 23 home game vs Lee University at Sherri Parker Lee Stadium. Karen Weekly calls this deepest staff in program history: Pickens (194 K, 1.70 ERA), Mardjetko (16-3, 1.26 ERA, NFCA AA). Clarke cycle in books. Lady Vols early WCWS contenders for 2027.
+- **Content Produced:** Article (article-04, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Tennessee fall finale (Oct 23 vs Lee) results
+  - Tennessee 2027 spring season preview
+
+### Story 5: The Early Recruiting Machine — How College Softball Changed in Two Years
+- **Date:** 2026-10-20
+- **Tier:** 3
+- **Classification:** EVERGREEN
+- **Angle:** 1,000+ softball commits since September 1. The Class of 2028 contact window just closed — for eighth- and ninth-graders. OSU's first 2028 commit (Peyton Cleary) is in 8th grade. Explainer on how NCAA contact rule changes + exposure circuit + cultural shift transformed recruiting landscape.
+- **Content Produced:** Article (article-05, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Long-term impact analysis (fall 2027)
+  - State-specific recruiting trends
+
+---
+
 ## 2026-10-19
 
 ### Story 1: Tennessee Fall Ball Home Weekend — Pickens and Mardjetko Lead Home Stand
