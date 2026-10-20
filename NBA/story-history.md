@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-20
+
+### STORY 1: Opening Night Is Here — Three Games, One Night, Knicks Ring Ceremony at 6:30 PM
+- **Tier:** 1
+- **Category:** NBA Opening Night / Season Opener / New York Knicks / Philadelphia 76ers / Boston Celtics / Oklahoma City Thunder / San Antonio Spurs
+- **Key facts:** Opening Night tripleheader on NBC/Peacock: Celtics at Pistons 3 PM ET, Sixers at Knicks 7 PM ET (ring/banner ceremony 6:30 PM), Thunder at Spurs 9:30 PM ET; Knicks raise first banner since 1973 (53 years); LeBron James and Jaylen Brown debut for Sixers; Paul George debuts for Celtics; Holmgren OUT (quad), Oweh OUT (season)
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: LeBron vs. The Champions — Sixers Open at MSG on Knicks Banner Night
+- **Tier:** 1
+- **Category:** Philadelphia 76ers / New York Knicks / LeBron James / Jaylen Brown / Joel Embiid / Opening Night
+- **Key facts:** LeBron James and Jaylen Brown make 76ers debuts at MSG on banner night; ring ceremony 6:30 PM ET, tip-off 7 PM ET on NBC; Knicks lineup: Brunson, Towns, Bridges, Anunoby, Hart; Sixers: LeBron, Embiid, Maxey, Brown, Edgecombe; ticket avg $2,560 — most expensive game of Opening Week
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: Holmgren OUT, Thunder Face Spurs at 9:30 Without Their No. 2
+- **Tier:** 1
+- **Category:** Oklahoma City Thunder / Chet Holmgren / Injuries / San Antonio Spurs / Opening Night
+- **Key facts:** Holmgren confirmed OUT — quad contusion, missed all preseason; Otega Oweh also out for season (Achilles); Isaiah Hartenstein starts at center; OKC also cut Lu Dort, Isaiah Joe, Aaron Wiggins in offseason; SGA chasing 3rd MVP; Spurs added Tobias Harris, have Castle + Harper
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+
+### STORY 4: Paul George Celtics Debut — Detroit at 3 PM Opens the NBA Season
+- **Tier:** 2
+- **Category:** Boston Celtics / Paul George / Detroit Pistons / Opening Night
+- **Key facts:** Paul George debuts for Celtics at Detroit, 3 PM ET on NBC; arrived from Philly in Brown/George trade; joins Tatum and Holiday; first game of 2026-27 season tips in Detroit
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: SGA vs. Wembanyama — The WCF Rematch Headlines the Late Game
+- **Tier:** 2
+- **Category:** Oklahoma City Thunder / Shai Gilgeous-Alexander / San Antonio Spurs / Victor Wembanyama / Opening Night
+- **Key facts:** SGA (2x MVP, chasing 3rd) vs. Wembanyama in WCF rematch, 9:30 PM ET NBC; Spurs won WCF Game 7 on OKC's home court last spring; Spurs added Dylan Harper, Stephon Castle, Tobias Harris; Thunder missing Holmgren + Oweh
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
 ## 2026-10-19
 
 ### STORY 1: Opening Night Complete Guide — Tripleheader on NBC Starts Tomorrow

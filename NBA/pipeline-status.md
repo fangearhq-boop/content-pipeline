@@ -1,7 +1,7 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Current Status
-**Last Run:** 2026-10-19
+**Last Run:** 2026-10-20
 **Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy; git push via GitHub MCP
 
 ## Deploy Info
@@ -11,6 +11,24 @@
 - **Note:** Dashboard publish push blocked (content-dashboards not in authorized repo set)
 
 ## Pipeline Run Log
+### 2026-10-20 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 24 claims, 43 HIGH; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 5 tweets, 0 FB (known parsing issue), 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (15 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via GitHub MCP
+
+**Stories covered:**
+1. T1 NEW: Opening Night Is Here — Three Games, One Night, Knicks Ring Ceremony at 6:30 PM (Jake Torres)
+2. T1 FOLLOW UP: LeBron vs. The Champions — Sixers Open at MSG on Knicks Banner Night (Marcus Cole)
+3. T1 FOLLOW UP: Holmgren OUT, Thunder Face Spurs at 9:30 Without Their No. 2 (Damon Pierce)
+4. T2 NEW: Paul George Celtics Debut — Detroit at 3 PM Opens the NBA Season (Jake Torres)
+5. T2 NEW: SGA vs. Wembanyama — The WCF Rematch Headlines the Late Game (Marcus Cole)
+
 ### 2026-10-19 ✅ (Automated)
 - Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
 - Step 10: verify-facts.py — 5 stories, 29 claims, 42 HIGH; image manifest warnings (expected; imagn sourcing)
