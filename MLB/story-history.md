@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## Pipeline Run: 2026-10-21
+
+### Story 1: World Series Game 1 — Brewers vs Rays, Friday Oct 23 at American Family Field
+- **Date**: 2026-10-21
+- **Tier**: 1
+- **Key Facts**: Game 1 Oct 23 8:07 PM ET FOX American Family Field Milwaukee; Brewers -160 Rays +140; both No. 1 seeds; neither franchise has won WS; Brewers 4-0 home in 2026 playoffs; Rays 3-1 home; two analytically-driven clubs, mirror images in style
+- **Article**: article-01-world-series-game-1-preview.html (By Marcus Cole)
+
+### Story 2: Jacob Misiorowski's Workload Question Heading Into the Fall Classic
+- **Date**: 2026-10-21
+- **Tier**: 1
+- **Key Facts**: 2026 regular season 21-8, 2.51 ERA, 339 K (MLB leader both); two-time All-Star; arm fatigue July; averaging 4-4.5 innings per postseason start; Brewers bullpen 0.38 ERA 23.2 IP carries remaining innings
+- **Article**: article-02-misiorowski-workload.html (By Jake Torres)
+
+### Story 3: Brewers Bullpen — Postseason's Best-Kept Secret
+- **Date**: 2026-10-21
+- **Tier**: 2
+- **Key Facts**: 0.38 ERA in 23.2 postseason innings through NLCS; 4th best in WC era; DL Hall 8.2 IP 0 runs; Aaron Ashby 12.1 shutout IP; Thyago Uribe sub-2.00 ERA two straight regular seasons; Devin Megill closer
+- **Article**: article-03-brewers-bullpen-secret-weapon.html (By Ryan Calloway)
+
+### Story 4: Junior Caminero — Tampa Bay's X-Factor
+- **Date**: 2026-10-21
+- **Tier**: 2
+- **Key Facts**: Two-time All-Star; 2025 45 HR 110 RBI; 2026 .265/.356/.490 13 HR 27 RBI 51 games; 2-run HR off foul pole ALCS Game 6; pitchers increasingly careful; most dangerous bat on Tampa Bay
+- **Article**: article-04-junior-caminero-x-factor.html (By Marcus Cole)
+
+### Story 5: Drew Rasmussen's Historic October — Probable Game 1 WS Starter
+- **Date**: 2026-10-21
+- **Tier**: 2
+- **Key Facts**: 1.29 ERA across 15 innings 2026 playoffs; ALDS G1 vs Yankees near no-hitter 6+ IP, 10 K, 1-0 win; 2026 regular season 16-5 2.67 ERA; two-time All-Star; probable Game 1 WS starter; G2: Peralta vs Henderson
+- **Article**: article-05-drew-rasmussen-october.html (By Jake Torres)
+
+---
+
 ## Pipeline Run: 2026-10-20
 
 ### Story 1: Rays Win ALCS Game 6 — Headed to the World Series
