@@ -2,6 +2,18 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-10-21
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-21 | T1 | Ruoning Yin Repeats at Buick LPGA Shanghai With Late Birdie Surge | X(2), FB, Article | NEW |
+| 2026-10-21 | T1 | Five Runner-Ups and Counting: Choi Hye-jin's Near-Miss in Shanghai | X(1), FB, Article | NEW |
+| 2026-10-21 | T2 | Bermuda Championship Opens Tomorrow: Ben James Favored at Port Royal | X(1), FB, Article | FOLLOW UP |
+| 2026-10-21 | T2 | Vijay Singh, 63, Claims SAS Championship on the Champions Tour | X(2), FB, Article | NEW |
+| 2026-10-21 | T2 | Champions Tour Playoffs Begin at Stifel Charity Classic in St. Louis | X(1), FB, Article | FOLLOW UP |
+
+---
+
 ## 2026-10-20
 
 | Date | Tier | Title | Platforms | Status |

@@ -1,5 +1,31 @@
 # Golf Fanrecap — Pipeline Status
 
+## Latest Run: 2026-10-21
+
+**Run completed:** 2026-10-21
+**Stories:** 5
+**Articles:** 5
+**X posts:** 7
+**Status:** COMPLETE (with known proxy limitations)
+
+### Scripts Run (2026-10-21)
+- [x] verify-facts.py — 28 claims, 41 HIGH
+- [x] compile-content-data.py — 5 stories, 7 tweets, 0 FB (known parsing issue), 5 articles
+- [x] generate-review-dashboard.py — 22 items
+- [ ] generate-postplanner-export.py — 0 posts (known parsing issue)
+- [ ] publish-unified-dashboard.py — BLOCKED (content-dashboards not in authorized repo set, consistent)
+- [ ] publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- [x] git push — via git push origin main
+
+**Stories covered (2026-10-21):**
+1. T1 NEW: Ruoning Yin Repeats at Buick LPGA Shanghai With Late Birdie Surge (Ryan Calloway)
+2. T1 NEW: Five Runner-Ups and Counting: Choi Hye-jin's Near-Miss in Shanghai (Jake Torres)
+3. T2 FOLLOW UP: Bermuda Championship Opens Tomorrow: Ben James Favored at Port Royal (Marcus Cole)
+4. T2 NEW: Vijay Singh, 63, Claims SAS Championship on the Champions Tour (Ryan Calloway)
+5. T2 FOLLOW UP: Champions Tour Playoffs Begin at Stifel Charity Classic in St. Louis (Jake Torres)
+
+---
+
 ## Latest Run: 2026-10-20
 
 **Run completed:** 2026-10-20
