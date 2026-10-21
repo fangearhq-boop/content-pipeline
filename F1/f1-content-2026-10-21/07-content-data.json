@@ -1,0 +1,291 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-21",
+  "compiled_at": "2026-10-21T11:33:38.664450+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Russell's Survival Math — What George Must Do at COTA to Keep the Title Alive",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "George Russell must win at COTA on Sunday.\n\nAnd Antonelli must finish outside the top 9.\nAND Hamilton must finish outside the top 3.\n\nAll three. In the same race. At COTA.\n\nThat's what it takes to survive Austin. #F1 #USGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#USGP"
+          ],
+          "char_count": 222
+        },
+        {
+          "label": "Post 1-2",
+          "text": "102 points. That's the gap between Russell and his own teammate.\n\nIf George Russell doesn't win in Austin, Kimi Antonelli could clinch the 2026 F1 title this Sunday.\n\nThe pressure is all on No. 63. #F1 #USGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#USGP"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-russell-survival-math-cota.html",
+        "headline": "Russell's Survival Math: What George Must Do at COTA to Keep the Title Alive",
+        "word_count": 546
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Hamilton at COTA — The Wildcard With a History at America's Track",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Lewis Hamilton is 111 points behind the championship leader.\n\nHe's also one of the best COTA drivers in F1 history.\n\nAt 41 — in a Ferrari — he's not mathematically done yet. Sunday in Austin could be special. #F1 #USGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#USGP"
+          ],
+          "char_count": 218
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Hamilton. Ferrari. COTA.\n\nThree words that could complicate Antonelli's title party on Sunday.\n\nHe needs chaos. But Lewis Hamilton has created chaos at the Circuit of the Americas before. #F1 #USGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#USGP"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-hamilton-cota-wildcard.html",
+        "headline": "Hamilton at COTA: The Wildcard With a History at America's Circuit",
+        "word_count": 494
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Ferrari vs. Mercedes — The Constructors' War Behind the Drivers' Battle",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Window: 2:00 PM ET\n```\nAntonelli nearly has the drivers' title locked up.\n\nBut the constructors' battle is still alive:\n\nMercedes: 578 pts\nFerrari: 444 pts\n(-134)\n\n6 races left. Ferrari needs to win every battle from here. #F1 #USGP\n```\nCharacter count: 221 ✅",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#USGP"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-ferrari-mercedes-constructors-cota.html",
+        "headline": "134 Points Back: Ferrari's Constructors' Fight Against Mercedes Enters the Final Phase",
+        "word_count": 553
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Verstappen the Spoiler — Can Red Bull Rain on Antonelli's Title Party?",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "Window: 2:30 PM ET\n```\nMax Verstappen won COTA three straight times (2021, 2022, 2023).\n\nHe's won back-to-back races in Malaysia and Singapore.\n\nHe cannot win the title. But he can absolutely ruin Antonelli's party Sunday. #F1 #USGP #Verstappen\n```\nCharacter count: 246 ✅",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#USGP",
+            "#Verstappen"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-verstappen-spoiler-cota.html",
+        "headline": "Verstappen the Spoiler: Can Red Bull Rain on Antonelli's Title Party at COTA?",
+        "word_count": 548
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "COTA in 2026 — How the New F1 Rules Change America's Race",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "Window: 5:00 PM ET\n```\nTwo changes make COTA 2026 different:\n\n🔁 Turns 9-11 resurfaced — new grip, new lap times\n🚫 No DRS — Overtake Mode changes every battle on the straight\n\nDifferent car. Different track. Same stakes. #F1 #USGP\n```\nCharacter count: 209 ✅",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#USGP"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-cota-2026-technical-guide.html",
+        "headline": "COTA 2026: How the New F1 Rules Change America's Race",
+        "word_count": 706
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

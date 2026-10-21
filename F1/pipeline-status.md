@@ -1,11 +1,44 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-10-20
+## Last Run: 2026-10-21
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** F1 Fanrecap
 **Stories:** 5
 **Articles:** 5
+
+---
+
+## 2026-10-21 Run Log
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research | ✅ Complete | Russell survival math, Hamilton at COTA, Ferrari constructors', Verstappen spoiler, 2026 COTA tech |
+| Daily Brief | ✅ Complete | 00-daily-brief.md |
+| Research Notes | ✅ Complete | 01-research-notes.md |
+| Story Analysis | ✅ Complete | 02-story-analysis.md |
+| X Posts | ✅ Complete | 03-social-posts-x.md — 7 posts, all ≤280 chars (fixed 1 over-limit) |
+| FB Posts | ✅ Complete | 04-social-posts-facebook.md |
+| Image Concepts | ✅ Complete | 05-image-concepts.md |
+| Articles | ✅ Complete | 5 articles (article-01 to article-05) |
+| verify-facts.py | ✅ Complete | 17 claims, 24 HIGH; image manifest warnings (expected) |
+| compile-content-data.py | ✅ Complete | 5 stories, 7 tweets, 0 FB (known parsing issue), 5 articles |
+| Image Manifest | ✅ Complete | 07-image-manifest.md (all not_started — manual Imagn sourcing) |
+| generate-review-dashboard.py | ✅ Complete | 22 items; review-dashboard.html |
+| generate-postplanner-export.py | ❌ 0 posts | Known parsing issue (consistent) |
+| publish-to-wordpress.py | ❌ BLOCKED | Proxy policy — fanrumor.com:443 denied (consistent) |
+| git push | ✅ Complete | via git push origin main |
+
+**Stories (2026-10-21):**
+1. T1 FOLLOW UP: Russell's Survival Math — What George Must Do at COTA (Ryan Calloway)
+2. T1 NEW: Hamilton at COTA — The Wildcard With a History at America's Circuit (Marcus Cole)
+3. T2 FOLLOW UP: Ferrari vs. Mercedes — The Constructors' Battle at COTA (Elena Voss)
+4. T2 FOLLOW UP: Verstappen the Spoiler — Can Red Bull Rain on Antonelli's Party? (Ryan Calloway)
+5. T2 NEW: COTA in 2026 — How the New F1 Rules Change America's Race (Elena Voss)
+
+---
+
+## 2026-10-20 Run Log
 
 ---
 

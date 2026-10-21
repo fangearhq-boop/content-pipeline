@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-21
+
+### STORY 1: Russell's Survival Math — What George Must Do at COTA
+- **Tier:** 1
+- **Category:** George Russell / Mercedes / F1 Championship / US Grand Prix / COTA
+- **Key facts:** Russell 238 pts, 102 behind Antonelli (340); must win + Antonelli P9/lower + Hamilton P4/lower to delay clinch; 150 pts remain; race Oct 25 at COTA
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: Hamilton at COTA — The Wildcard
+- **Tier:** 1
+- **Category:** Lewis Hamilton / Ferrari / COTA / US Grand Prix / F1 Championship
+- **Key facts:** Hamilton 229 pts, 111 behind; mathematically alive; Hamilton's strong COTA history (multiple career wins); Ferrari debut at this circuit; Hamilton finishing P3+ prevents Antonelli clinch
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Ferrari vs. Mercedes Constructors' Battle at COTA
+- **Tier:** 2
+- **Category:** Ferrari / Mercedes / F1 Constructors' Championship / COTA
+- **Key facts:** Mercedes 578 pts, Ferrari 444 pts (-134); Leclerc podium Singapore (P2 behind Verstappen); Sainz scoring; 300 pts remain; Ferrari needs back-to-back maximum scoring
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
+### STORY 4: Verstappen the Spoiler at COTA
+- **Tier:** 2
+- **Category:** Max Verstappen / Red Bull / COTA / US Grand Prix
+- **Key facts:** Verstappen 221 pts (-119 from title); COTA wins: 2021, 2022, 2023; lap record 1:36.169; back-to-back wins Malaysia + Singapore; can prevent Antonelli clinch by winning
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: COTA in 2026 — How New F1 Rules Change the Race
+- **Tier:** 2
+- **Category:** F1 Technical / COTA / Active Aero / 2026 F1 Regulations / Turns 9-11 Resurfacing
+- **Key facts:** No DRS in 2026 — replaced by Overtake Mode (active aero); Turns 9-11 resurfaced; new tarmac = different grip/degradation; first COTA event under 2026 regs
+- **Byline:** Elena Voss
+- **Status:** NEW
+
 ## 2026-10-20
 
 ### STORY 1: Antonelli's Clinch Match Point — Race Week Begins at COTA
