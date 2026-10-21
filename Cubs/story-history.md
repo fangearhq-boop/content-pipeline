@@ -5,6 +5,63 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-10-21 (OFF DAY — Early offseason. WS: Brewers vs. Rays, Game 1 Oct 23 Milwaukee (8 PM ET, FOX). Hoerner drawing trade interest (Yankees/Giants/Mariners). Cubs had Detmers deal at deadline — Angels backed out. Sato posted (NPB triple crown). Hartshorn 100 RBIs (first Cubs teen in 20+ yrs). PCA MVP countdown. Insights active: transaction loser (large); len_bucket<140 loser (large); overnight_00_06 loser (large); allcaps_lead winner (small); brief winner (large).)
+
+### STORY 1: Nico Hoerner drawing trade interest — Yankees, Giants, Mariners calling
+- **Angle:** NEW STORY. Multiple outlets (SI, Bleacher Nation, CBS Sports, Jon Heyman) report Yankees, Giants, and Mariners have all called Chicago about Hoerner. Cubs "fielding calls." Bregman at 3B = 2B surplus (Hoerner vs. Shaw). Hoerner is FA after 2026. Mariners angle connects to Kirby rumors. Nothing imminent.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, trade analysis)
+- **Follow-Up Opportunities:**
+  - Hoerner trade announced → Tier 1 breaking
+  - Package details leaked → Tier 1 analysis
+  - Cubs decide to keep Hoerner → bold take on Shaw's path
+
+### STORY 2: Reid Detmers — Cubs had a deal done at the deadline, Angels backed out
+- **Angle:** NEW STORY. Bleacher Nation (Oct 20): Cubs had a deal in place for Detmers at the Aug 2026 deadline — Angels backed out. Detmers has two years of control. Rotation urgency makes this the No. 1 known trade target this winter. Trade is still there to make.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take / urgency)
+- **Follow-Up Opportunities:**
+  - Detmers trade officially completed
+  - Angels set asking price publicly
+  - Cubs pursue alternate LHP starters if Detmers deal falls through again
+
+### STORY 3: World Series preview — Brewers vs. Rays, Game 1 Friday Oct 23
+- **Angle:** FOLLOW UP (Oct 20 = WS matchup confirmed; today = 2-day preview angle). Game 1 Friday Oct 23, 8 PM ET on FOX at American Family Field. First Brewers WS since 1982. Rays chasing first title. 14-game gap between Cubs and Milwaukee. Cubs fans watching rival play for the championship.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, informative / rival watch)
+- **Follow-Up Opportunities:**
+  - WS Games 1-2 Friday-Saturday → Brewers results content
+  - WS winner crowned → division benchmark reaction
+
+### STORY 4: Teruaki Sato officially posted — Cubs angle on NPB triple crown winner
+- **Angle:** NEW STORY. Bleacher Nation (Oct 19): Sato officially posted. 2026 NPB triple crown winner, Hanshin Tigers, age 27. Cubs scouted him in May. Bleacher Nation notes Cubs' more likely Japan target is pitcher Kaima Taira. Dodgers/Yankees/Phillies/Mets as primary Sato suitors.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, feature / international)
+- **Follow-Up Opportunities:**
+  - Cubs officially pursue Sato → Tier 1
+  - Cubs linked to Kaima Taira (pitcher) → Tier 2 feature
+  - Sato signs with another team → offseason market reaction
+
+### STORY 5: Josiah Hartshorn — first Cubs teenager to hit 100 RBIs in over 20 years
+- **Angle:** FOLLOW UP (Oct 14 = first feature; Oct 18 = ranking follow-up; today = 100 RBI milestone). MLB.com: Hartshorn first Cubs teenager to drive in 100 runs in more than two decades. Debut season, Single-A + High-A. No. 1 Cubs prospect (No. 39 overall). Sixth-round pick, $2M bonus.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, feature / prospect milestone)
+- **Follow-Up Opportunities:**
+  - Hartshorn AFL stats updates (Mesa Solar Sox)
+  - 2027 spring training assignments
+  - Midseason call-up projection
+
+### STORY 6: PCA NL MVP countdown — BBWAA announces in early November
+- **Angle:** FOLLOW UP (Oct 13 = last PCA MVP direct coverage). BBWAA announces NL MVP in early November. PCA is the overwhelming favorite (45 HR, 41 SB, 10.4 fWAR). No Cub has ever won a unanimous MVP; PCA could be the first.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, bold take / awards countdown)
+- **Follow-Up Opportunities:**
+  - Gold Glove winners announced Nov. 1 (PCA/Happ/Suzuki sweep potential)
+  - NL MVP officially announced → celebration tweet
+  - Unanimous vote confirmation
+
+---
+
 ## 2026-10-20 (OFF DAY — Early offseason. Rays beat Guardians 7-3 in ALCS G6; WS set: Brewers vs. Rays, opens Oct 23 Milwaukee. Jared Banner → Orioles GM; Cubs hire Steve Miller (Rays) as VP Int'l Scouting. Michael King free agent target (no QO). QO window ~Nov 2. Insights active: overnight_00_06 loser (large); content_type=transaction loser (medium).)
 
 ### STORY 1: Rays advance to WS — Brewers vs. Rays Fall Classic confirmed
