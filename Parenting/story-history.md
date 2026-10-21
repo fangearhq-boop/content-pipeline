@@ -2,6 +2,50 @@
 
 ---
 
+## October 21, 2026
+
+### Story 1: Colorado Flu Season — First Child Death, Vaccine Urgency
+- **Date:** 2026-10-21
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** Colorado first pediatric flu death 2026-27 season; child elementary school age, outside Denver metro, unvaccinated; 46 flu hospitalizations (latest week) vs 8 in early September; CDPHE urges vaccination by end of October before Halloween gatherings; child flu vaccination rate 32.3%; 2025-26 had 5,931 hospitalizations (record), 1,169 children, 8 pediatric deaths; 2026-27 vaccine covers influenza A H3N2; flu shots take 2 weeks for full protection
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 2: AAP 2026-27 COVID Vaccine Recommendations for Kids (Oct 19)
+- **Date:** 2026-10-21
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** AAP policy released Oct 19, 2026; infants 6-23 months recommended for vaccination; children 2-18 at high risk: single dose recommended; children 2-18 not at high risk: offered dose if parents want; fewer than 4% of recently hospitalized eligible children were up-to-date; AAP stronger stance than HHS/CDC which moved to "shared decision-making"; no preferred product when multiple available
+- **Byline:** Sarah Morales
+- **Status:** COMPLEMENT (Oct 19 S3 covered general AAP vs CDC divergence — this is specific Oct 19 COVID vaccine policy)
+
+### Story 3: Halloween Weekend Events Guide — Oct 24-25 COS
+- **Date:** 2026-10-21
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Emma Crawford Coffin Races (Manitou Springs, Oct 24, 10am-5pm, free, ~10,000 attendees, 32nd annual); Downtown COS Candy Crawl (Oct 24, 2-5pm, 20+ businesses, free); Venetucci Farm Pumpkin Fest final weekend (Oct 24-25, 9:30am-4pm Sat-Sun, $8/adults, $10/pumpkin, hayrides $5); Monster Jam Broadmoor World Arena Oct 23-25; World Ballet Swan Lake Pikes Peak Center Oct 25 6pm ages 5+; Garden of the Gods Trunk or Treat Oct 25 1pm; First Pres Trunk or Treat Oct 24 3-5pm free
+- **Byline:** Jamie Rivera
+- **Status:** COMPLEMENT (Oct 20 S2: Boo at Zoo dedicated guide; Oct 20 S3: Halloween candy safety; this adds new events not previously featured)
+
+### Story 4: D49 Student Success Center — What Families Need to Know
+- **Date:** 2026-10-21
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** Former Falcon Elementary site opened as D49 Student Success Center August 2026; houses PEAK (gifted/advanced), Elevates (specialized instruction/life skills), two preschool classrooms, Base49 before/after care; permanent facility with full gymnasium, cafeteria, life-skills equipment; Falcon Elementary School of Technology relocated to Bennett Ranch Elementary; D49 board meeting Oct 21
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 5: Rock Ledge Ranch Fall Homeschool Day — Oct 28 Preview
+- **Date:** 2026-10-21
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Rock Ledge Ranch Historic Site (Garden of the Gods area); Wednesday Oct 28 10am-2pm; cornhusk doll making at Homestead Cabin; 1860s pioneer life, farming, ranching, railroads, blacksmithing; ~$4 per person, children 2 and under free; free parking at Garden of the Gods Visitor Center; all ages, outdoor activities
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+---
+
 ## October 20, 2026
 
 ### Story 1: Babies' Magic Tea Gripe Water Recall

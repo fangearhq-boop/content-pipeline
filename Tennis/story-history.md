@@ -3,6 +3,16 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## October 21, 2026
+
+| 2026-10-21 | Iga Swiatek withdraws from BNB Ningbo Open (left thigh injury, same as Wuhan SF) and announces she is ending her 2026 season; misses WTA Finals for first time since 2019, ending six consecutive Finals appearances; was ~545 pts behind Muchova in Race; will return for 2027 AO swing. Sources: ESPN Oct 20, WTA official Oct 20, Last Word on Sports, tennisworldusa | T1 | X, FB, Article | Marcus Cole; NEW |
+| 2026-10-21 | Mikhail Kukushkin (Kazakhstan, 38, No. ~389) wins farewell match at 2026 Almaty ATP 250 — first ATP win since 2024; def. Stefanos Sakellaridis 7-6(4), 7-6(3); announced Almaty is final tournament of career (began 2006; only title St. Petersburg 2010; career-high No. 39 Feb 2019); plays Tsitsipas R2; home crowd, Almaty is Kazakhstan. Sources: Tennis Majors Oct 19, ATP Tour Oct 20 | T1 | X, FB, Article | Ryan Calloway; NEW |
+| 2026-10-21 | WTA Finals Race — 8th spot down to Noskova vs. Kostyuk: Noskova leads 4,354 pts to 3,920 (434-pt gap); Noskova not playing this week; Kostyuk in Ningbo QF Thursday Oct 23; Swiatek out for season; Muchova in 7th (confirmed qualifier at 4,735 pts). WTA Finals: Nov 8–15 Indian Wells. Sources: WTA Race doc Oct 18-19, Tennis 365 | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 20 S3: WTA Finals race 1 spot → Swiatek now out, Noskova/Kostyuk battle) |
+| 2026-10-21 | BNB Ningbo Open (WTA 500) QF preview — top seed Elena Rybakina leads draw; Kostyuk (4th seed) advancing; doubles: Kostyuk/Fernandez def. Gorgodze/Putintseva 6-1, 6-2 Oct 20; QF Thursday Oct 23; SF Oct 24; Final Oct 25; Swiatek + Kartal both withdrawn. Sources: WTA official, Mezha.net | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Oct 20 S1: Chwalinska/Kartal withdraw → tournament update) |
+| 2026-10-21 | ATP Race to Turin final stretch — 3 tournaments remaining (Vienna + Basel ATP 500 both Oct 26-Nov 1; Paris Masters Oct 31-Nov 8); Qualified: Zverev, Alcaraz, Shelton; Sinner out for season (4th slot open); Cobolli (5th), Medvedev (6th), Tiafoe (7th), Fils (8th, borderline), Jódar (9th), de Minaur (10th), Djokovic (11th) all in contention. Sources: ATP Tour Oct 18-19 | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Oct 20 S5: Paris Masters preview → Race context with Vienna/Basel approaching) |
+
+---
+
 ## October 20, 2026
 
 | 2026-10-20 | Maja Chwalinska withdraws from Ningbo Open (left thigh injury); Sonay Kartal withdraws from Japan Women's Open (right knee); both cite accumulated strain from deep Wuhan run (Chwalinska 7 matches in 8 days, Kartal nearly 2.5h final); rankings confirmed: Chwalinska No. 11 (career high, from No. 22), Kartal No. 49 (career high, from No. 170, +121 places in one week). Sources: WTA Tennis, post-match statements | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 19 S1/S2: Wuhan result + ranking surge) |
