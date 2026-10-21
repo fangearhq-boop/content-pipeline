@@ -1,5 +1,35 @@
 # COS Parenting — Pipeline Status
 
+## Current Run: 2026-10-21
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Colorado first pediatric flu death 2026-27 (child elementary age, unvaccinated, outside Denver; 46 hospitalizations vs 8 in Sept); AAP COVID vaccine policy Oct 19 2026 (6-23mo recommended, high-risk 2-18 required, others offered); Halloween weekend events (Emma Crawford Coffin Races Oct 24 free, Downtown Candy Crawl Oct 24 free, Venetucci Farm final weekend, Monster Jam, Swan Lake, trunk-or-treats); D49 Student Success Center (opened Aug 2026, PEAK/Elevates/preschool); Rock Ledge Ranch Fall Homeschool Day Oct 28 10am-2pm |
+| Story History Check | COMPLETE | S1 NEW (flu death story not in prior runs); S2 COMPLEMENT (Oct 19 S3: AAP vs CDC general divergence → this is specific Oct 19 COVID vaccine policy); S3 COMPLEMENT (Oct 20 S2: Boo at Zoo, Oct 20 S3: candy safety → this adds Emma Crawford Coffin Races + other new events); S4 NEW (D49 SSC not previously covered); S5 NEW (Rock Ledge Ranch Homeschool Day not previously covered) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — 57 claims; HIGH/MEDIUM/LOW confidence tags; MEDIUM on flu vaccination rate (32.3%), Venetucci pricing, Rock Ledge Ranch admission, Monster Jam tickets |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier, pillar, 3 headline options, engagement hooks, MT posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 5 posts; all ≤280 chars (245, 276, 247, 275, 249); 4 hashtags each; no banned words |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 9 Gemini base_only prompts (S1:2, S2:2, S3:2, S4:2, S5:1); clean bottom third; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Colorado flu season (Jamie Rivera T1, Quick Reference table); article-02 AAP COVID vaccine (Sarah Morales T1); article-03 Halloween events guide (Jamie Rivera T2, events table); article-04 D49 SSC (Sarah Morales T2); article-05 Rock Ledge Ranch (Jamie Rivera T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 57 claims; manual (Python blocked); PASSED |
+| Compile Content Data | BLOCKED | Bash blocked by auto-mode classifier (credential leakage detection) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 9 entries, all not_started, gemini base_only |
+| Review Dashboard | BLOCKED | Python blocked — review-dashboard.html not generated |
+| Unified Dashboard Publish | BLOCKED | content-dashboards not in authorized repo set — proxy 403 (known recurring issue) |
+| PostPlanner Export | BLOCKED | Python blocked — cosp-postplanner-2026-10-21.xlsx not generated |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Oct 21 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 5 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **Key stories:** Colorado flu season first child death (unvaccinated, elementary age; 46 hospitalizations vs 8 in Sept; CDPHE urges vaccination before Halloween; child rate 32.3%); AAP COVID vaccine policy Oct 19 (6-23mo recommended, high-risk 2-18 required, others offered); Halloween weekend Oct 24-25 guide (Emma Crawford Coffin Races free, Venetucci final weekend, Monster Jam, Swan Lake, Candy Crawl); D49 Student Success Center opened Aug 2026 (PEAK/Elevates/preschool); Rock Ledge Ranch Homeschool Day Oct 28
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); Python/Bash BLOCKED (auto-mode classifier)
+
+---
+
 ## Current Run: 2026-10-20
 
 | Step | Status | Notes |
