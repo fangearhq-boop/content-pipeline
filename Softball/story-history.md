@@ -3,6 +3,61 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## 2026-10-21
+
+### Story 1: OU Battle Series Game 4 — Tonight at Love's Field
+- **Date:** 2026-10-21
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Game 4 previewed extensively Oct 19-20; game-night angle)
+- **Angle:** Battle Series Game 4 at Love's Field tonight, 6:30 PM CT, stream on 1oklahoma.com. Game 4 of 5; Game 5 vs USAO follows Oct 23. First game drew 2,351 fans; Garcia + Wells back-to-back HR in Game 1. Kavan (2x WCWS MOP), Wells (39 HR, NFCA FY), Berzon in circle. Results not yet available (game tonight).
+- **Content Produced:** Article (article-01, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - OU Battle Series Game 4 results recap
+  - OU Battle Series Game 5 vs USAO (Oct 23) preview/results
+
+### Story 2: Tennessee Roane State Rescheduled Fall Game
+- **Date:** 2026-10-21
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Tennessee fall covered Oct 16-20; rescheduled game is new event)
+- **Angle:** Tennessee hosts Roane State TODAY at 6 PM ET at Sherri Parker Lee Stadium — rescheduled from Oct 10 weather cancellation. Lady Vols 3-0 in fall. Pickens (194K, 1.70ERA), Mardjetko (16-3, 1.26ERA). Finale vs Lee University follows Oct 23 at 6 PM ET. Both games free.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Tennessee fall finale (Oct 23 vs Lee University) results
+  - Tennessee 2027 spring preview
+
+### Story 3: 2028 Extra Elite 100 Rankings Going Live This Week
+- **Date:** 2026-10-21
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Extra Inning Softball releasing Class of 2028 Extra Elite 100 rankings (window Oct 13-22; top-5 reveal Oct 27). 1,200+ players nominated — largest class ever. Rivals/On3 team rankings: Florida No. 1, OU No. 2, TTU No. 3. Individual leaders: Landers (Texas, No. 1), Holden (Florida, No. 2), Schlader (OU, No. 3). Extra Select (101-200) comes Oct 23-26.
+- **Content Produced:** Article (article-03, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Extra Elite 100 top-5 reveal (Oct 27)
+  - Extra Select position rankings (Oct 23-26)
+  - Class of 2028 national rankings final update
+
+### Story 4: Texas Tech's 2027 Roster Taking Shape — Cottrill-Pendley Era's Big Bet
+- **Date:** 2026-10-21
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Pickering signing covered Oct 20; broader roster angle)
+- **Angle:** Full TTU portal class: Pickering, Beachum, Polar, Heavener, Maestretti, Bernard, Gallaway (No. 1 class). Returning: Williams (27 HR program record), Terry (1st-team AA). Staff: Cottrill (Houston/Missouri/OSU) + Pendley (2x Big 12 POY, 2013 OU champ). WCWS finalist in 2026. Big 12 opens March 12.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Texas Tech preseason camp / spring preview
+  - Cottrill/Pendley staff impact on recruiting
+
+### Story 5: Florida Fall Ball — Edwards Blazing, UNF on Deck
+- **Date:** 2026-10-21
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Florida fall covered Oct 16-18; new UNF game angle)
+- **Angle:** Florida 2-0 in fall (20-0 vs Santa Fe Oct 16, 29-1 vs Carson-Newman Oct 17). Transfer Tori Edwards 3 HR in 2 games. Freshman Caroline Stanton 5 hitless innings in debut. Next: Oct 23 vs UNF at Katie Seashole Pressly Stadium (free). Six starters returning + full pitching staff. Rivals/On3 team rankings: Florida No. 1 in 2028 class.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Florida fall game vs UNF (Oct 23) results
+  - Florida 2027 season preview
+
+---
+
 ## 2026-10-20
 
 ### Story 1: Kasidi Pickering Signs with Texas Tech — Portal's Biggest Bat Lands in Lubbock
