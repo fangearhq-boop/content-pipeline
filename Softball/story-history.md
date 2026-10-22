@@ -3,6 +3,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## Pipeline Run: 2026-10-22
+
+### Story 1: OU Battle Series Game 4 Recap / Game 5 Preview — Tomorrow Oct 23
+- **Date:** 2026-10-22
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Battle Series covered Oct 9, 12, 14, 18, 21)
+- **Angle:** Kendall Wells homered again in Game 4 (Oct 21 at Love's Field). Preview of Game 5 vs USAO tomorrow Oct 23, 6:30 PM CT. Wells (39 HR, NFCA FY), Kavan (2x WCWS MOP), Berzon continuing their fall form.
+- **Content Produced:** Article (article-01, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Game 5 vs USAO result (Oct 23)
+  - Final Battle Series game: Oct 30 vs Seminole State
+
+### Story 2: 2028 Extra Elite 100 Window Closes Today — Top-5 Reveal Oct 27
+- **Date:** 2026-10-22
+- **Tier:** 2
+- **Classification:** FOLLOW UP (2028 recruiting covered extensively through Oct 21)
+- **Angle:** Nomination window closes today Oct 22. Top-5 reveal Monday Oct 27. 1,200+ players nominated, largest class ever. Landers (Texas), Holden (Florida), Schlader (OU) as top prospects. Oct 24-25 next contact window.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Top-5 reveal (Oct 27)
+  - Oct 24-25 contact window commit wave
+
+### Story 3: Oct 23 Fall Ball Triple-Feature — OU + Florida + Tennessee All Play
+- **Date:** 2026-10-22
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Three elite programs play on the same Thursday: OU vs USAO (Love's Field, 6:30 PM CT), Florida vs UNF (Katie Seashole Pressly, free), Tennessee vs Lee (Sherri Parker Lee, free, fall finale). Preview of all three with context.
+- **Content Produced:** Article (article-03, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - All three game results (Oct 23)
+  - Tennessee's final fall record
+
+### Story 4: Texas Tech 2027 Roster Complete — Pickering Headlines Full Portal Class
+- **Date:** 2026-10-22
+- **Tier:** 2
+- **Classification:** FOLLOW UP (TTU covered Oct 9, 11, 12, 16, 19, 20, 21)
+- **Angle:** Pickering (.384 BA, 50 HR, 169 RBI at OU, signed June 19) + Heavener/Polar/Gallaway portal class + Cottrill/Pendley coaching staff. Big 12 opens March 12. WCWS finalists with full portal class = legitimate 2027 title contender.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - TTU 2027 preseason ranking
+  - Big 12 opener (March 12)
+
+### Story 5: Tennessee Fall Finale Preview — Pickens and Mardjetko Close Dominant Autumn
+- **Date:** 2026-10-22
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Tennessee fall covered Oct 10, 13, 16, 17, 18, 19, 20, 21)
+- **Angle:** Fall finale vs Lee University Oct 23 at Sherri Parker Lee (free). Season summary: Pickens (194K, 1.70 ERA), Mardjetko (16-3, 1.26 ERA), Earleywine as new AHC/hitting coach, 2027 title contender outlook.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Tennessee's 2026 fall final record
+  - 2027 preseason outlook pieces (Dec/Jan)
+
+---
+
 ## 2026-10-21
 
 ### Story 1: OU Battle Series Game 4 — Tonight at Love's Field
