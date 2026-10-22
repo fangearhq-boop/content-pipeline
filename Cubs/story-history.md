@@ -5,6 +5,62 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-10-22 (OFF DAY — Early offseason. WS: Brewers vs. Rays, Game 1 TOMORROW Oct 23 Milwaukee (8 PM ET, FOX). CBA expires Dec 1 — 40 days; lockout widely expected. Mets interviewing Cubs asst hitting coach John Mallee. Kirby (Mariners) predicted trade target (BR/Rymer). Gold Glove finalists: PCA/Happ/Suzuki sweep potential Nov 1. AFL Mesa: Cabral 101 mph, Snell bat, Reid changeup. Insights active: brief winner (large); transaction loser (large); len_bucket<140 loser (large); allcaps_lead winner (small).)
+
+### STORY 1: CBA expires December 1 — lockout looming, Cubs rotation rebuild in jeopardy
+- **Angle:** NEW STORY. CBA expires December 1, 2026 — 40 days from today. Owners proposed $245.3M salary cap / $171.2M floor. MLBPA opposes; lockout widely expected by ESPN, CBS Sports, multiple analysts. Cubs stand to lose Gausman, Holmes, Peterson, Imanaga, Boyd to free agency — need full rotation rebuild in 40-day window before potential freeze. Horton (TJ) out until July 2027.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, informative / urgency)
+- **Follow-Up Opportunities:**
+  - CBA talks break down → lockout confirmed, Tier 1 breaking
+  - Extension or deal reached → Tier 1 relief take
+  - Cubs make free agent signing before Dec 1 → urgency follow-up
+
+### STORY 2: World Series Game 1 Tomorrow — Brewers vs. Rays, starters confirmed
+- **Angle:** FOLLOW UP (Oct 20 = WS matchup confirmed; Oct 21 = 2-day preview; today = day-before, starters confirmed). Game 1 Friday Oct 23, 8 PM ET on FOX at American Family Field. Misiorowski (MIL) vs. Rasmussen (TAM). First Brewers WS since 1982. Cubs watching division rival 14 games ahead of them try to win the championship.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, rival watch / bold take)
+- **Follow-Up Opportunities:**
+  - WS Game 1 result tomorrow → Brewers/Rays recap, division rival watch
+  - WS winner crowned → division benchmark reaction
+
+### STORY 3: Gold Glove sweep potential — PCA leads MLB with 26 OAA, winners Nov. 1
+- **Angle:** FOLLOW UP (Oct 16 = 5 Cubs finalists first coverage; today = 10 days from Nov 1 announcement, historic outfield sweep angle). PCA leads all of baseball with 26 Outs Above Average (+26 FRV). If PCA, Happ, and Suzuki all win, Cubs would be first team in MLB history to sweep all three outfield Gold Gloves in one season (per NBC Chicago). Winners announced Sunday Nov 1 on ESPN.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, bold take / awards countdown)
+- **Follow-Up Opportunities:**
+  - Gold Glove winners Nov 1 → celebration tweet if PCA/Happ/Suzuki sweep
+  - Platinum Glove announcement → PCA feature
+  - MVP announcement early Nov → celebration tweet
+
+### STORY 4: John Mallee — Mets interviewing Cubs assistant hitting coach
+- **Angle:** NEW STORY. MLB.com (Anthony DiComo, Oct 20) + MLB Trade Rumors (Oct 20): Mets interviewing Cubs asst hitting coach John Mallee for coaching staff vacancy. Mallee worked closely with PCA through development into likely 2026 NL MVP. Cubs led MLB in runs (850), OPS (.767) in 2026 under Kelly/Mallee. Kevin Long also a candidate. No offer yet as of Oct 21. Framed as org analysis / brain drain — not transaction.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, org/coaching news)
+- **Follow-Up Opportunities:**
+  - Mallee hired by Mets → Tier 1 org news
+  - Cubs retain Mallee → bold take on staff continuity
+
+### STORY 5: George Kirby trade target — Bleacher Report predicts Cubs-Mariners deal
+- **Angle:** NEW STORY. Bleacher Report analyst Zachary Rymer predicts Cubs will trade for Mariners starter George Kirby this offseason. Kirby, 28, under team control through 2028. Matt Shaw floated as possible trade chip. Cubs need starters (losing up to 5 SPs to FA); Mariners need infield help. Previous Cubs interest pre-deadline (August 2026) established. Framed as prediction/analysis — not confirmed report.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, trade analysis)
+- **Follow-Up Opportunities:**
+  - Kirby trade confirmed → Tier 1 breaking
+  - Shaw trade package details reported → Tier 1 analysis
+  - Cubs linked to alternate Mariners starters
+
+### STORY 6: AFL Mesa update — Cabral 101 mph, Snell bat emerging, Reid changeup
+- **Angle:** FOLLOW UP (Oct 15 = Bailey first coverage; Oct 16 = Cabada first coverage; today = new names, Cabral/Snell/Reid). Week 2 AFL: Jhon Cabral (RHP, 18) touched 101 mph and earned AFL save. Kade Snell (OF) bat turning heads after strong South Bend season. Dominick Reid (RHP) — low-80s changeup called one of best in AFL by MLB.com. Cubs have 8 prospects in Mesa (5 pitchers). AFL runs through Nov 14.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, prospect feature)
+- **Follow-Up Opportunities:**
+  - AFL Week 3 results → Cabral/Snell/Reid follow-up
+  - Hartshorn AFL stats → milestone follow-up
+  - AFL final week standings / awards
+
+---
+
 ## 2026-10-21 (OFF DAY — Early offseason. WS: Brewers vs. Rays, Game 1 Oct 23 Milwaukee (8 PM ET, FOX). Hoerner drawing trade interest (Yankees/Giants/Mariners). Cubs had Detmers deal at deadline — Angels backed out. Sato posted (NPB triple crown). Hartshorn 100 RBIs (first Cubs teen in 20+ yrs). PCA MVP countdown. Insights active: transaction loser (large); len_bucket<140 loser (large); overnight_00_06 loser (large); allcaps_lead winner (small); brief winner (large).)
 
 ### STORY 1: Nico Hoerner drawing trade interest — Yankees, Giants, Mariners calling
