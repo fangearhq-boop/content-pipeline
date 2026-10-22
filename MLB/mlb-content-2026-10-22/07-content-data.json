@@ -1,0 +1,247 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-22",
+  "compiled_at": "2026-10-22T10:30:28.190488+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "World Series Game 1 Is Tomorrow — Everything You Need to Know",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "World Series Game 1 is TOMORROW.\n\nBrewers vs Rays — American Family Field, Milwaukee\n8:07 PM ET | FOX | Brewers -160\n\nMisiorowski CONFIRMED as Milwaukee's Game 1 starter.\nRasmussen expected for Tampa Bay.\n\n#WorldSeries #Brewers #Rays",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WorldSeries",
+            "#Brewers",
+            "#Rays"
+          ],
+          "char_count": 233
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Game 1 odds heading into tomorrow:\n\nBrewers -160\nRays +140\n\nMisiorowski (confirmed) vs Rasmussen (expected)\nNeither has ever pitched in a World Series.\nNeither team has ever won one.\n\nSomething is going to change tomorrow night.\n\n#WorldSeries #Brewers #Rays",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WorldSeries",
+            "#Brewers",
+            "#Rays"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ws-game-1-day-before-preview.html",
+        "headline": "World Series Game 1 Is Tomorrow: Everything You Need to Know About Brewers vs. Rays",
+        "word_count": 738
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "World Series Game 1 Day-Before Preview\n\n#### Image 1 — Social\n**Type:** social\n**Dimensions:** 1080x1350\n**Search Term:** Jacob Misiorowski Milwaukee Brewers pitching\n**Description:** Jacob Misiorowski pitching for the Brewers in his postseason windmill — front-facing, mid-delivery, in a white Brewers home jersey. Stadium lights, crowd blurred behind him.\n**Text Overlay:** \"Game 1 Is Tomorrow / 8:07 PM ET / American Family Field\"\n**Notes:** Primary hero for Game 1 preview posts.\n\n---\n\n#### Image 2 — Article Hero\n**Type:** article_hero\n**Dimensions:** 1200x675\n**Search Term:** American Family Field exterior Milwaukee World Series\n**Description:** Wide exterior shot of American Family Field in Milwaukee — showing the stadium facade, marquee, and evening lighting. Fans visible in the foreground approaching the gates.\n**Text Overlay:** None — article header only\n**Notes:** Used as article-01 hero image.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Milwaukee's 44-Year Wait — The City Behind the Brewers",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "44 years since Milwaukee hosted a World Series game.\n\nThe last time was 1982. Robin Yount. Paul Molitor. They lost in 7 to the Cardinals.\n\nTomorrow night at American Family Field, an entire generation gets to experience this for the first time.\n\n#Brewers #WorldSeries #Milwaukee",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#WorldSeries",
+            "#Milwaukee"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-milwaukee-44-year-wait.html",
+        "headline": "Milwaukee's 44-Year Wait: The City Behind the Brewers Has Finally Made It Back",
+        "word_count": 655
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Milwaukee's 44-Year Wait\n\n#### Image 3 — Social\n**Type:** social\n**Dimensions:** 1080x1350\n**Search Term:** Milwaukee Brewers fans American Family Field crowd 2026\n**Description:** Wide crowd shot inside American Family Field — full stadium, Brewers fans in blue and gold, celebration energy. The kind of image that conveys a city united.\n**Text Overlay:** \"44 Years. Milwaukee is Back.\"\n**Notes:** Emotional, civic-centered image for the human interest story.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "How the Brewers Score vs How the Rays Stop Them (and Vice Versa)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "World Series offensive matchup:\n\nMIL: Chourio (6 PS HRs, franchise record), Turang (100 RBI), Bauers (NLCS MVP)\n\nTB: Caminero (2-run HR, ALCS G6), Díaz, Aranda\n\nOne of these lineups will face the best bullpen in baseball.\n\nWhich offense do you trust? #WorldSeries",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WorldSeries"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-offensive-matchup-breakdown.html",
+        "headline": "Brewers vs. Rays World Series Matchup: How Each Team Scores — and How the Other Stops Them",
+        "word_count": 860
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Offensive Matchup Breakdown\n\n#### Image 4 — Social\n**Type:** social\n**Dimensions:** 1080x1350\n**Search Term:** Jackson Chourio Milwaukee Brewers batting swing\n**Description:** Jackson Chourio at the plate — full swing follow-through, in a white Brewers jersey. Ideally from 2026 postseason.\n**Text Overlay:** \"The Matchup Preview / Brewers vs Rays / World Series 2026\"\n**Notes:** Chourio as the face of Milwaukee's offensive threat.\n\n---\n\n#### Image 5 — Article Hero\n**Type:** article_hero\n**Dimensions:** 1200x675\n**Search Term:** Junior Caminero Tampa Bay Rays batting\n**Description:** Junior Caminero at the plate for the Rays — ideally from the 2026 ALCS. Shows both sides of the Series matchup in the article header.\n**Text Overlay:** None — article header only\n**Notes:** Used as article-03 hero image.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Pat Murphy vs. Kevin Cash — Two Different Philosophies, One Trophy",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "World Series subplot:\n\nPat Murphy (Brewers) = old-school discipline, trust the process\n\nKevin Cash (Rays) = analytics-first deployment, matchup optimization\n\nTwo completely different philosophies. One title.\n\nWhich approach wins? #Brewers #Rays #WorldSeries",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#Rays",
+            "#WorldSeries"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-murphy-vs-cash.html",
+        "headline": "Pat Murphy vs. Kevin Cash: Two Different Philosophies, One World Series Trophy",
+        "word_count": 707
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Murphy vs Cash\n\n#### Image 6 — Social\n**Type:** social\n**Dimensions:** 1080x1350\n**Search Term:** Pat Murphy Milwaukee Brewers manager dugout\n**Description:** Pat Murphy in the dugout or at the top step — looking out at the field, in a Brewers uniform. Candid or game action.\n**Text Overlay:** \"Murphy vs Cash / Two Philosophies / One Trophy\"\n**Notes:** Lead image for manager contrast story.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Jackson Chourio's Postseason Record — Milwaukee's Kid Carries October",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Jackson Chourio enters the 2026 World Series with 6 career postseason home runs.\n\nThat's a new Milwaukee Brewers franchise record.\n\nHe's 22 years old.\n\nTomorrow night at American Family Field, he gets to do this in the Fall Classic.\n\n#JacksonChourio #Brewers #WorldSeries",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#JacksonChourio",
+            "#Brewers",
+            "#WorldSeries"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-chourio-franchise-record.html",
+        "headline": "Jackson Chourio's Franchise Record: Milwaukee's Kid Is Carrying October",
+        "word_count": 516
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Chourio Franchise Record\n\n#### Image 7 — Social\n**Type:** social\n**Dimensions:** 1080x1350\n**Search Term:** Jackson Chourio home run celebration Brewers postseason 2026\n**Description:** Chourio celebrating a home run — arms raised, helmet on, teammates visible in the background. Postseason context preferred.\n**Text Overlay:** \"6 Career Postseason HRs / Brewers All-Time Record / Jackson Chourio\"\n**Notes:** Celebration image to anchor the franchise record story."
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

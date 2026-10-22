@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## Pipeline Run: 2026-10-22
+
+### Story 1: World Series Game 1 Is Tomorrow — Everything You Need to Know
+- **Date**: 2026-10-22
+- **Tier**: 1
+- **Key Facts**: Game 1 Oct 23 8:07 PM ET FOX American Family Field Milwaukee; Brewers -160 Rays +140; Misiorowski CONFIRMED Game 1 starter; Rasmussen widely expected but not officially confirmed; neither franchise has won WS; full series schedule G1-G2 Milwaukee G3-G5 Tampa Bay G6-G7 Milwaukee; Misiorowski ~3.24 ERA NLCS averaging 4-4.5 IP per postseason start; Rasmussen 1.29 ERA 15 IP playoffs 14 of last 15 wins
+- **Article**: article-01-ws-game-1-day-before-preview.html (By Ryan Calloway)
+
+### Story 2: Milwaukee's 44-Year Wait — The City Behind the Brewers
+- **Date**: 2026-10-22
+- **Tier**: 1
+- **Key Facts**: Last Milwaukee WS hosting: 1982 County Stadium; lost to Cardinals in 7; Robin Yount AL MVP .331/29HR/114RBI; Molitor .355 WS; American Family Field opened 2001; 2026 regular season attendance 2,788,934 (up 5.2%); 4-0 home in 2026 postseason; watch party at AFField during NLCS road games; 8 playoff appearances since 1982, never returned to WS until now
+- **Article**: article-02-milwaukee-44-year-wait.html (By Marcus Cole)
+
+### Story 3: How the Brewers Score vs How the Rays Stop Them (and Vice Versa)
+- **Date**: 2026-10-22
+- **Tier**: 2
+- **Key Facts**: Chourio 6 PS HRs franchise record age 22; Turang 100 RBI HR off Skubal NLCS G1 scored every NLCS game; Bauers NLCS MVP .348 vs Dodgers; Contreras 3 PS HRs; Brewers bullpen 0.38 ERA 23.2 IP WC era elite; Caminero .265/.356/.490 13HR 27RBI 51 games injury-limited; ALCS G6 2-run HR foul pole; Díaz veteran DH; Aranda breakout; Palacios doubled ALCS G6 2nd inning 2-0 lead; Baker perfect 9th ALCS G6; Peralta 5.1 IP 1ER ALCS G6
+- **Article**: article-03-offensive-matchup-breakdown.html (By Jake Torres)
+
+### Story 4: Pat Murphy vs. Kevin Cash — Two Different Philosophies, One Trophy
+- **Date**: 2026-10-22
+- **Tier**: 2
+- **Key Facts**: Murphy old-school player development discipline trust the process SI feature; Brewers swept Dodgers 4-0 NLCS 103-59 regular season; Cash analytics-first deployment matchup optimization; Rays 2 prior WS appearances (2020 Dodgers loss, 2008 franchise first with different manager); CBS Sports described series as mirror image of analytically driven clubs
+- **Article**: article-04-murphy-vs-cash.html (By Ryan Calloway)
+
+### Story 5: Jackson Chourio's Postseason Record — Milwaukee's Kid Carries October
+- **Date**: 2026-10-22
+- **Tier**: 2
+- **Key Facts**: Chourio 6 career postseason HRs new Brewers franchise all-time record; broke tie with William Contreras; Contreras hit 3 HRs in 2026 playoffs; Chourio age 22; record set during 2026 postseason run
+- **Article**: article-05-chourio-franchise-record.html (By Marcus Cole)
+
+---
+
 ## Pipeline Run: 2026-10-21
 
 ### Story 1: World Series Game 1 — Brewers vs Rays, Friday Oct 23 at American Family Field
