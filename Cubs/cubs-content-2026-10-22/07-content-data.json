@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-22",
+  "compiled_at": "2026-10-22T09:21:47.977214+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1",
+      "type": "CBA/lockout countdown — Dec 1 expiry, Cubs rotation in jeopardy"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2",
+      "type": "WS Game 1 tomorrow — Brewers vs. Rays, starters confirmed"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3",
+      "type": "Gold Glove sweep potential — PCA 26 OAA, Nov. 1"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 4",
+      "type": "Mallee Mets interest — Cubs coaching brain drain"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Story 5",
+      "type": "Kirby trade target — BR predicts Cubs-Mariners deal"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 6",
+      "type": "AFL update — Cabral 101 mph, Snell bat, Reid changeup"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "MLB lockout looming — CBA expires December 1, Cubs rotation rebuild in jeopardy",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "The CBA expires December 1, 2026 — 40 days from now. Owners have proposed a $245.3M salary cap / $171.2M floor. MLBPA opposes. Lockout widely expected by multiple analysts (ESPN, CBS Sports). Cubs need to rebuild their entire starting rotation before the freeze hits — could lose Gausman, Holmes, Peterson, Imanaga, Boyd to free agency.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "LOCKOUT COUNTDOWN: The CBA expires December 1 — 40 days from now.\n\nOwners want a $245.3M salary cap. MLBPA says no. A work stoppage is basically guaranteed.\n\nCubs need to rebuild their rotation before the freeze hits. ⏰\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / Urgency",
+          "hashtags": ["#Cubs", "#MLB", "#CubsBaseball"],
+          "char_count": 245
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {"facts": "", "sources": ""}
+    },
+    {
+      "story_num": 2,
+      "title": "World Series Game 1 TOMORROW — Brewers vs. Rays, starters confirmed",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Game 1 is Friday Oct 23, 8 PM ET on FOX at American Family Field. Brewers (103-59, best record in baseball) host Rays (98-64). Probable starters: Jacob Misiorowski (MIL) vs. Drew Rasmussen (TAM). First Brewers World Series since 1982. Rays still chasing first title. Cubs fans watching their division rival 14 games ahead of them try to win the championship.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "GAME 1 IS TOMORROW: Brewers vs. Rays, 8 PM ET on FOX at American Family Field. ⚾\n\nMisiorowski vs. Rasmussen. First Brewers World Series since 1982.\n\nCubs watching a division rival play for the championship. Complicated feelings only.\n\n#Cubs #MLB #GoCubs",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Rival Watch / Bold Take",
+          "hashtags": ["#Cubs", "#MLB", "#GoCubs"],
+          "char_count": 253
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {"facts": "", "sources": ""}
+    },
+    {
+      "story_num": 3,
+      "title": "Gold Glove sweep potential — PCA leads MLB with 26 OAA, winners Nov. 1",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Gold Glove winners announced Sunday November 1. PCA leads all of baseball with 26 Outs Above Average (+26 Fielding Run Value). Five Cubs are NL finalists: PCA (CF), Happ (LF), Suzuki (RF), Bregman (3B), Swanson (SS). If PCA, Happ, and Suzuki all win, Cubs would be first team in MLB history to sweep all three outfield Gold Gloves in one season.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "PETE CROW-ARMSTRONG leads baseball with 26 Outs Above Average. 🥇\n\nPCA, Happ, and Suzuki are all Gold Glove finalists. If all three win Nov. 1, the Cubs would be the FIRST team to sweep all three outfield Gold Gloves in one season.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Bold Take / Awards Countdown",
+          "hashtags": ["#Cubs", "#GoCubs", "#ChicagoCubs"],
+          "char_count": 258
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {"facts": "", "sources": ""}
+    },
+    {
+      "story_num": 4,
+      "title": "John Mallee — Mets interviewing Cubs assistant hitting coach",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "MLB.com (Anthony DiComo, Oct 20): Mets are interviewing Cubs assistant hitting coach John Mallee for their coaching staff vacancy. Mallee worked closely with PCA and helped Cubs lead MLB in runs (850), slugging (.428), OPS (.767) in 2026. Kevin Long also a candidate. No offer yet as of Oct 21. Framed as org analysis — not transaction announcement.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "BRAIN DRAIN ALERT: The Mets are interviewing Cubs assistant hitting coach John Mallee. 🔍\n\nMallee helped develop PCA into a likely MVP. Cubs led MLB in runs (850) and OPS (.767) in 2026. No offer yet, but losing him would hurt.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Org/Coaching News / Analysis",
+          "hashtags": ["#Cubs", "#MLB", "#CubsBaseball"],
+          "char_count": 252
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {"facts": "", "sources": ""}
+    },
+    {
+      "story_num": 5,
+      "title": "George Kirby trade target — Bleacher Report predicts Cubs to land Mariners starter",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Bleacher Report analyst Zachary Rymer predicts Cubs will trade for Mariners starter George Kirby this offseason. Kirby, 28, under team control through 2028. Matt Shaw floated as possible trade chip. Cubs need starters; Mariners need infield help. Prior interest established pre-deadline (August). This is a prediction/analysis piece, not a confirmed trade report.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "KIRBY WATCH: Bleacher Report predicts a Cubs trade for Mariners starter George Kirby. 🎯\n\nKirby, 28, has team control through 2028. Matt Shaw as a possible trade chip. Cubs need starters, Seattle needs infield help. The math makes sense.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Trade Analysis / Bold Take",
+          "hashtags": ["#Cubs", "#MLB", "#CubsBaseball"],
+          "char_count": 262
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {"facts": "", "sources": ""}
+    },
+    {
+      "story_num": 6,
+      "title": "AFL Mesa Solar Sox update — Cabral 101 mph, Snell emerging, Reid changeup",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Week 2 AFL: Jhon Cabral (RHP, 18) touched 101 mph and earned a save in his only appearance. Kade Snell (OF) breaking out at the plate after strong South Bend season. Dominick Reid (RHP) — low-80s changeup called one of the best in AFL by MLB.com. Cubs have 8 prospects in Mesa (5 pitchers). AFL runs through Nov 14.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "MESA DISPATCH: Jhon Cabral touched 101 mph and earned an AFL save last week. 🔥\n\nThe Cubs' Arizona Fall League crew is showing real arm depth. Cabral's a flamethrower. Kade Snell's bat is emerging. Dominick Reid's changeup has scouts talking.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Prospect Feature",
+          "hashtags": ["#Cubs", "#GoCubs", "#CubsBaseball"],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {"facts": "", "sources": ""}
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

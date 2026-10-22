@@ -1,7 +1,7 @@
-# Cubs Pipeline Status — Updated 2026-10-21
+# Cubs Pipeline Status — Updated 2026-10-22
 
 ## Latest Run
-- **Date:** 2026-10-21 (Wednesday — Off day. Early offseason. Hoerner trade interest (Yankees/Giants/Mariners). Detmers deal was in place at deadline (Angels backed out). Teruaki Sato officially posted (NPB triple crown winner). WS: Brewers vs. Rays, Game 1 Friday Oct 23 Milwaukee. Hartshorn 100-RBI debut milestone. PCA MVP countdown (BBWAA early November).)
+- **Date:** 2026-10-22 (Thursday — Off day. Early offseason. CBA expires Dec 1 — 40 days; lockout widely expected. WS: Brewers vs. Rays, Game 1 TOMORROW Oct 23 Milwaukee (8 PM ET, FOX), starters confirmed (Misiorowski vs. Rasmussen). Gold Glove finalists: PCA 26 OAA, outfield sweep potential Nov 1. Mets interviewing Cubs asst HC John Mallee. Kirby (Mariners) trade target predicted by BR/Rymer. AFL Mesa Week 2: Cabral 101 mph, Snell bat, Reid changeup.)
 - **Stories:** 6
 - **X posts:** 6
 - **Platforms:** X/Twitter only
@@ -9,23 +9,23 @@
 - **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 6 stories, 6 tweets
 - **07-content-data.json:** ✅ Valid JSON, all 6 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 12:00 PM / 2:30 PM / 5:00 PM CT), all strptime-parseable
 - **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
-- **Note:** git remote set-url (PAT embed) blocked by CCR auto-mode classifier; push via proxy-authenticated git push
+- **Note:** git remote set-url (PAT embed) blocked by CCR auto-mode classifier; push via mcp__github__push_files. Story 6 tweet trimmed from Python-280/Twitter-281 to Python-270/Twitter-271 (emoji weighted char fix).
+- **Fact-check correction logged:** Hoerner contract — Oct 21 pipeline incorrectly stated "FA after 2026." CORRECTION: Hoerner signed 6-year, $141M extension on Opening Day March 26, 2026 (through 2032). Logged in 06-fact-check-log.md. Does not affect today's content.
 
-## Insights Summary (2026-10-21)
-- **Snapshot generated:** 2026-10-21T08:30:00 UTC (fresh, ~40 min before trigger)
-- **significant_findings count:** 5
-  1. `content_type=transaction` LOSER (large, p=0.0, delta=0.776) → All 6 stories framed as analysis/narrative/bold take — no bare transaction announcements ✓
-  2. `content_type=brief` WINNER (large, p=0.0001, delta=0.617) → Brief format maintained for all 6 posts ✓
-  3. `len_bucket=<140` LOSER (large, p=0.0004, delta=0.607) → All tweets drafted at 140+ visible chars ✓
-  4. `posting_window=overnight_00_06` LOSER (large, p=0.0055, delta=0.593) → No overnight slots; earliest 7:00 AM CT ✓
-  5. `opening=allcaps_lead` WINNER (small, p=0.0104, delta=0.324) → ALL 6 tweets open with ALL CAPS word or phrase ✓
+## Insights Summary (2026-10-22)
+- **Snapshot generated:** 2026-10-22T08:30:00 UTC (fresh, ~40 min before trigger)
+- **significant_findings count:** 4
+  1. `content_type=brief` WINNER (large, p=0.0, delta=0.768) → Brief format maintained for all 6 posts ✓
+  2. `content_type=transaction` LOSER (large, p=0.0, delta=0.768) → Stories 4 (Mallee) and 5 (Kirby) framed as org analysis / trade prediction — not bare transaction announcements ✓
+  3. `len_bucket=<140` LOSER (large, p=0.0001, delta=0.738) → All tweets at 140+ visible chars; shortest ~245 chars ✓
+  4. `opening=allcaps_lead` WINNER (small, p=0.0239, delta=0.297) → ALL 6 tweets open with ALL CAPS word or phrase ✓
 
-## Series Context (2026-10-21)
+## Series Context (2026-10-22)
 - **`off_day`:** TRUE
 - **`is_series_start_today`:** FALSE
 - **`series`:** null
 - **`today_cubs_game`:** null
-- **Action:** Off-day pipeline. WS: Brewers vs. Rays, Game 1 Friday Oct 23 at American Family Field. No series-preview slot. Offseason storylines: trade rumors, near-misses, international market, prospect milestones, rival watch, awards countdown.
+- **Action:** Off-day pipeline. WS: Brewers vs. Rays, Game 1 TOMORROW Oct 23 at American Family Field. No series-preview slot. Offseason storylines: CBA/lockout urgency, coaching staff changes, trade targets, Gold Glove countdown, rival World Series, prospect updates.
 
 ## Current Cubs Status
 - **2026 season:** OVER. Cubs eliminated by Padres in NL Wild Card Series (swept 2-0, Oct 1)
@@ -35,7 +35,7 @@
 
 ## Key Ongoing Stories
 - **Rotation rebuild:** 4 of 5 starters FA (Gausman, Holmes, Peterson, Imanaga; Boyd mutual option unlikely). Horton TJ — out until July 2027. Sonny Gray (covered Oct 14). Kirby trade target (covered Oct 19). Detmers near-miss covered Oct 21 (deal was in place, Angels backed out). Skubal: do NOT re-cover without new development.
-- **Nico Hoerner trade interest:** Yankees, Giants, Mariners calling (covered Oct 21). Infield surplus (Bregman + Shaw). FA after offseason. Next: any deal announcement = Tier 1.
+- **Nico Hoerner trade interest:** Yankees, Giants, Mariners calling (covered Oct 21). Infield surplus (Bregman + Shaw). NOTE: Hoerner is NOT FA — signed 6-yr/$141M extension March 2026, under contract through 2032. Trade still valid (contracted players can be traded). Next: any deal announcement = Tier 1.
 - **Reid Detmers:** Cubs had deal in place at August deadline — Angels backed out (covered Oct 21). Still available offseason. Next: trade talks develop = Tier 1.
 - **Teruaki Sato posted:** NPB triple crown winner (covered Oct 21). Cubs more likely targeting pitcher Kaima Taira. Next: signing announcement. Dodgers/Yankees/Phillies/Mets primary suitors.
 - **Michael King:** Padres RHP, expected to opt out. Covered Oct 20 (first standalone post). No QO attached. Next: opt-out announcement, official Cubs pursuit reporting.
@@ -47,13 +47,15 @@
 - **Myles Bailey:** 2026 draft pick, AFL Mesa Solar Sox. First coverage Oct 15. Next: AFL stats updates.
 - **Ryan Flaherty:** RESOLVED (staying as bench coach). Do not re-cover.
 - **PCA MVP:** BBWAA announces early November. 45 HR, 41 SB, 10.4 fWAR. Countdown covered Oct 21. Next: official NL MVP announcement.
-- **AFL:** Mesa Solar Sox through Nov 14. Bailey (Oct 15), Cabada (Oct 16). Next: AFL standings/stats updates.
+- **John Mallee (asst HC):** Mets interviewing for coaching vacancy (covered Oct 22). No offer yet. Next: hire announcement = Tier 1 org news.
+- **AFL:** Mesa Solar Sox through Nov 14. Bailey (Oct 15), Cabada (Oct 16), Cabral/Snell/Reid (Oct 22). Next: AFL Week 3 stats, standings updates.
 - **Gold Glove finalists:** PCA/Happ/Suzuki. Winners Nov 1 on ESPN. Next: announcement day coverage.
 
 ## Pipeline Run Log (newest first)
 
 | Date | Type | Stories | Tweets | Status |
 |------|------|---------|--------|--------|
+| 2026-10-22 | OFF DAY (CBA lockout countdown Dec 1, WS Game 1 tomorrow Brewers/Rays, Gold Glove sweep PCA 26 OAA, Mallee Mets interest, Kirby trade target BR, AFL Mesa Cabral 101 mph) | 6 | 6 | ✅ |
 | 2026-10-21 | OFF DAY (Hoerner trade interest Yankees/Giants/Mariners, Detmers near-miss deal, WS preview Brewers/Rays, Sato NPB posting, Hartshorn 100-RBI milestone, PCA MVP countdown) | 6 | 6 | ✅ |
 | 2026-10-20 | OFF DAY (Rays WS ALCS G6 result, Banner→Orioles GM/Miller hire, Michael King FA, QO window preview, Brewers WS benchmark) | 5 | 5 | ✅ |
 | 2026-10-19 | OFF DAY (ALCS G6 tonight, Horton TJ standalone, Gold Glove sweep angle, Kirby trade target, Cardinals rebuild contrast) | 5 | 5 | ✅ |
