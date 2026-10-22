@@ -2,6 +2,50 @@
 
 ---
 
+## October 22, 2026
+
+### Story 1: Things to Do with Kids in Colorado Springs This Weekend (October 23–25)
+- **Date:** 2026-10-22
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** Thursday required Weekend Roundup; Emma Crawford Coffin Races (Manitou Springs, free, Oct 24, 10AM–5PM, ~10,000 attendees); Boo at the Zoo (Cheyenne Mountain Zoo, Oct 23–25, 4–8:30PM, check website for pricing); Pumpkins in the Park (America the Beautiful Park, free, Oct 24, noon–6PM); Boo at Briargate (Oct 24, 3–5PM); Jack-o'-Lantern Trail (Oct 24); Garden of the Gods Trunk or Treat (Oct 25, 1PM, free); Venetucci Farm (5210 S US Hwy 85, weekends through Oct 31, 9:30AM–4PM, free pumpkins for kindergartners)
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 2: AAP: All Kids 6 Months and Older Should Get Flu Vaccine Now
+- **Date:** 2026-10-22
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** AAP Aug 2026 guidance — flu vaccine for all children 6mo+; 2025–26 season: 190 pediatric deaths nationally (highest in recent years); Colorado confirmed first 2026-27 pediatric flu death Oct 21; Colorado child flu vaccination rate ~32.3%; AAP also updated RSV guidance: nirsevimab (Beyfortus) for all infants under 8 months entering first RSV season; high-risk children up to 19 months may also be eligible
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 3: D11 and D49 Fall Break Ends — Schools Back Monday, Oct. 26
+- **Date:** 2026-10-22
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** D11 fall break Oct 19–23, return Monday Oct 26; D49 fall break Oct 13–23, return Monday Oct 26; D20 had separate schedule; D20 named assistant superintendent as interim superintendent (name not confirmed) while superintendent search continues; D11 bond vote Nov 3 ($775M)
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (Oct 21 S4 covered D49 SSC; this covers fall break return for D11+D49)
+
+### Story 4: Halloween Pedestrian Safety — One Week to Halloween
+- **Date:** 2026-10-22
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** Child pedestrian fatality risk ~43% higher on Halloween (Safe Kids Worldwide); CSPD recommends adult supervision for kids under 12; key tips: reflective tape, flashlights/glow sticks, face paint over full masks, cross at crosswalks; trick-or-treating peak in COS: 5–8PM, wrap by 8PM; earlier = safer
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 5: Venetucci Farm — Free Pumpkins for Kindergartners, Final Weekends
+- **Date:** 2026-10-22
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** 70+ year COS tradition; 5210 S US Highway 85; open weekends through Oct 31, 9:30AM–4PM; free pumpkins for kindergartners (ages 5–6); Oct 24–25 is second-to-last weekend; final day Oct 31; general admission open to all families; free parking
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+---
+
 ## October 21, 2026
 
 ### Story 1: Colorado Flu Season — First Child Death, Vaccine Urgency

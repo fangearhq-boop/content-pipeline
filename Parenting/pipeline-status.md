@@ -1,5 +1,35 @@
 # COS Parenting — Pipeline Status
 
+## Current Run: 2026-10-22
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Halloween weekend events (Emma Crawford Coffin Races Oct 24 free 10AM-5PM; Boo at the Zoo Oct 23-25 4-8:30PM $19.75-$24.75; Pumpkins in the Park Oct 24 noon-6PM free; Boo at Briargate Oct 24 3-5PM; Jack-o'-Lantern Trail Oct 24; Trunk or Treat Garden of the Gods Oct 25 1PM free; Venetucci Farm weekends through Oct 31); AAP 2026-27 flu guidance (all kids 6mo+ vaccinate now; 190 pediatric deaths 2025-26; RSV nirsevimab update); D11/D49 fall break ends (D11 Oct 19-23, D49 Oct 13-23, both back Monday Oct 26; D20 interim superintendent); Halloween pedestrian safety (43% higher fatality risk, CSPD guidance kids under 12 need adult); Venetucci Farm free pumpkins kindergartners Oct 24-25 |
+| Story History Check | COMPLETE | S1 NEW (Weekend Roundup — Thursday required; covers Halloween weekend events); S2 NEW (AAP flu guidance — builds on Oct 21 S1 Colorado flu death); S3 FOLLOW-UP (Oct 21 S4: D49 SSC → fall break return affecting D11+D49); S4 NEW (Halloween pedestrian safety); S5 NEW (Venetucci Farm final weekends) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Jamie Rivera [S1, S4, S5], Sarah Morales [S2, S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on Boo at the Zoo pricing, Boo at Briargate location, D20 interim superintendent name, nirsevimab age range |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories (S1: 2); code-block format; #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting; compile extracted 6 of 7 (S1 bonus post); no char limit errors |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; no hashtags; 0 exclamation marks in articles; fixed to use **Long-Form Post (time)** format |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 9 Gemini base_only concepts across 5 stories; clean bottom third; no celebrity likenesses |
+| Articles (5) | COMPLETE | article-01 Weekend Roundup (Jamie Rivera T1); article-02 AAP Flu Guidance (Sarah Morales T1); article-03 D11/D49 Fall Break (Sarah Morales T2); article-04 Halloween Pedestrian Safety (Jamie Rivera T2); article-05 Venetucci Farm (Jamie Rivera T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 79 claims auto-extracted by verify-facts.py; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles, 9 images; no char limit errors |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 9 entries, all not_started, gemini base_only source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 26 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-10-22.xlsx + cosp-postplanner-tobi-2026-10-22.xlsx — 6 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Oct 22 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S4, S5], Sarah Morales [S2, S3])
+- **Key stories:** Halloween Weekend Family Roundup (Emma Crawford Coffin Races/Boo at the Zoo/Venetucci Farm/more); AAP flu vaccine urgency — all kids 6mo+ vaccinate now, 190 deaths last season; D11+D49 schools back Monday Oct 26; Halloween pedestrian safety one week out; Venetucci Farm kindergartner pumpkins Oct 24-25
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); compile extracted 6/7 X posts (bonus S1 post may not parse); FB posts extracted OK after format fix
+
+---
+
 ## Current Run: 2026-10-21
 
 | Step | Status | Notes |
