@@ -48,6 +48,8 @@ This produces `Cubs/cubs-content-YYYY-MM-DD/` with all 15 pipeline outputs.
 The one file that matters for auto-posting is `07-content-data.json` — that's
 the consumption format cubs-x-bot reads.
 
+First pitch and ballpark in that brief must come from `python Cubs/mlb_schedule.py --date YYYY-MM-DD` (Stats API `gameDate` converted to America/Chicago, and `venue.name`). The fact-check fails if a post still has a national-listing clock labeled CT or the wrong park. Do not post to X from this repo.
+
 ### 2. Review the dashboard
 
 Pipeline step 13 publishes a review dashboard to

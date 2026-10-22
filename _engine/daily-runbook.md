@@ -46,6 +46,7 @@ gh api repos/{ORG}/{REPO}/pages --jq '{build_type, status}'
 - Run 10+ web searches across 6+ categories
 - Categories: scores/results, tournament updates, rankings, upsets/performances, coaching/transfers, previews, features
 - Reference: `{NICHE}/api-reference.md` for sources
+- If the niche playbook names an official schedule script, run it before writing any first pitch or venue. Do not relabel a national listing with the home time zone. For Cubs: `python Cubs/mlb_schedule.py --date YYYY-MM-DD`
 - Output: 8+ candidate stories with source URLs
 
 **Step 2 — Story History Check**
@@ -88,6 +89,8 @@ python _engine/scripts/verify-facts.py --niche {NICHE} {DATE}
 - Fix ALL consistency errors before proceeding
 - Fix ALL character count violations (>280 chars)
 - Verify HIGH priority claims for Tier 1-2 stories
+- Two secondary sites agreeing is not verification for a start time, a venue, or a game stat when an official league source exists
+- Cubs: the script above also runs inside `verify-facts.py`. Exit 2 means the fact-check failed. Fix the copy to the official Central time and `venue.name`
 - Output: `06-fact-check-log.md`
 - **GATE: Must pass before Step 13**
 

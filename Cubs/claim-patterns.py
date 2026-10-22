@@ -22,6 +22,12 @@ Handles:
 
 NOTE: Time/date/day-of-week claims are handled by the universal engine.
 Only niche-specific patterns are extracted here.
+
+First-pitch clocks and ballparks are not cleared by this extractor. The Cubs
+fact-check runs Cubs/mlb_schedule.py (from verify-facts.py) and compares
+publishable copy to the Stats API gameDate in America/Chicago and venue.name.
+Two secondary sites agreeing is not a source for those, or for a game line
+when the Stats API box score exists.
 """
 
 import re
