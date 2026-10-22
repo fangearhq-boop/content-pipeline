@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## October 22, 2026
+
+| 2026-10-22 | WTA Finals 2026 field confirmed complete — 8th spot to Karolina Muchova after Marta Kostyuk retired vs Ekaterina Alexandrova in R2 at Ningbo (lost first set 6-4, withdrew); Kostyuk is 2nd alternate; Swiatek 1st alternate; full field: Rybakina, Sabalenka, Andreeva, Pegula, Gauff, Svitolina, Noskova, Muchova; WTA Finals Nov 8–15 Indian Wells. Sources: ESPN, Yahoo Sports, tennis365.com, Last Word on Sports | T1 | X, FB, Article | Ryan Calloway; NEW |
+| 2026-10-22 | Mikhail Kukushkin career ends at Almaty — lost to Tsitsipas 6-1, 6-2 in R2 (Oct 21); Tsitsipas paid tribute on court, asked Kukushkin to sign his shirt; Tsitsipas into QF as 7th seed; Kukushkin career 2006–2026, career-high No. 39 Feb 2019, one ATP title (St. Petersburg 2010). Sources: tennistonic.com, Tennis Majors, Neos Kosmos | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 21 S2: Kukushkin farewell win → career ends) |
+| 2026-10-22 | Almaty Open QF set — Tsitsipas (7th seed), Duckworth (def. Darderi 7-5, 7-6(7)), Mannarino (def. Rublev 6-4, 3-6, 6-3), Basilashvili (def. Diaz Acosta 6-2, 6-4); QF Thursday, SF Friday, Final Saturday Oct 24; Mannarino upset of Rublev most notable. Sources: ESPN, ATP, first search summary | T2 | X, FB, Article | Marcus Cole; NEW |
+| 2026-10-22 | Ningbo Open QF matchups confirmed for Thursday: Rybakina (top seed/defending champion) vs Kawa (unseeded); Shnaider (def. Eala 7-5, 6-4) vs Jovic; Kudermetova retired vs Rybakina up 5-0 in R2; QF Thursday, SF Friday, Final Saturday Oct 25; with Kostyuk retired WTA Finals angle resolved. Sources: Yahoo Sports, ESPN, WTA | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Oct 21 S4: Ningbo QF preview → matchups confirmed) |
+| 2026-10-22 | ATP Race to Turin — Vienna (Erste Bank Open) and Basel (Swiss Indoors) both open Sunday Oct 26; 3 confirmed: Zverev, Alcaraz, Shelton; 5 spots contested: Cobolli, Tiafoe, Fils, Jodar, Medvedev, de Minaur, Djokovic; Paris Masters Oct 31–Nov 8 final 1000 of season; ATP Finals Nov 15–22 Turin. Sources: racetotur.in, Yahoo Sports Australia | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Oct 21 S5: ATP Race final stretch → Vienna/Basel imminent) |
+
+---
+
+
 ## October 21, 2026
 
 | 2026-10-21 | Iga Swiatek withdraws from BNB Ningbo Open (left thigh injury, same as Wuhan SF) and announces she is ending her 2026 season; misses WTA Finals for first time since 2019, ending six consecutive Finals appearances; was ~545 pts behind Muchova in Race; will return for 2027 AO swing. Sources: ESPN Oct 20, WTA official Oct 20, Last Word on Sports, tennisworldusa | T1 | X, FB, Article | Marcus Cole; NEW |

@@ -1,5 +1,35 @@
 # Tennis Fanrecap — Pipeline Status
 
+## Current Run: 2026-10-22
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | WTA Finals field sealed (Kostyuk retires Ningbo R2 vs Alexandrova 6-4; Muchova takes 8th spot; full 8: Rybakina/Sabalenka/Andreeva/Pegula/Gauff/Svitolina/Noskova/Muchova); Kukushkin career ends (lost Tsitsipas 6-1, 6-2 in R2 Almaty Oct 21; shirt tribute); Almaty QF (Tsitsipas/Duckworth/Mannarino/Basilashvili; Mannarino def Rublev 6-4,3-6,6-3); Ningbo QF (Rybakina vs Kawa; Shnaider def Eala 7-5,6-4 vs Jovic); ATP Race Vienna/Basel open Oct 26 |
+| Story History Check | COMPLETE | S1 NEW (WTA Finals complete); S2 FOLLOW-UP (Oct 21 S2: Kukushkin farewell → career ends); S3 NEW (Almaty QF set); S4 FOLLOW-UP (Oct 21 S4: Ningbo QF preview → matchups confirmed); S5 FOLLOW-UP (Oct 21 S5: ATP Race → Vienna/Basel imminent) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on Tsitsipas match duration, Rublev seeding, Kudermetova retirement score |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars (247, 214, 229, 201, 172, 229, 234); code-block format; #TennisFanrecap + topic hashtags |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 9 imagn concepts across 5 stories; player-name-only search terms |
+| Articles (5) | COMPLETE | article-01 WTA Finals complete (Ryan Calloway T1); article-02 Kukushkin ends career (Elena Voss T1); article-03 Almaty QF preview (Marcus Cole T2); article-04 Ningbo QF matchups (Ryan Calloway T2); article-05 ATP Race Vienna/Basel (Marcus Cole T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 49 claims auto-extracted; manual verification PASSED; 2 MEDIUM flags noted |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles; no char limit errors |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 9 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-10-22.xlsx + tfr-postplanner-tobi-2026-10-22.xlsx — 7 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Oct 22 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3])
+- **Key stories:** WTA Finals field complete (Muchova secures 8th spot via Kostyuk retirement at Ningbo); Kukushkin career ends at Almaty (Tsitsipas tribute); Almaty QF set (Tsitsipas/Duckworth/Mannarino/Basilashvili); Ningbo QF (Rybakina vs Kawa, Shnaider vs Jovic); ATP Race Vienna/Basel open Sunday
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); PostPlanner + compile + review-dashboard all COMPLETED successfully today
+
+---
+
 ## Current Run: 2026-10-21
 
 | Step | Status | Notes |
