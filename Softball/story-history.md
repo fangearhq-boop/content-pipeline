@@ -3,6 +3,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## Pipeline Run: 2026-10-23
+
+### Story 1: OU vs USAO Tonight — Battle Series Game 5
+- **Date:** 2026-10-23
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Battle Series covered Oct 9, 12, 14, 18, 21, 22)
+- **Angle:** Final standalone fall game for OU. Battle Series Game 5 vs USAO at Love's Field, 6:30 PM CT. Stream free on 1oklahoma.com. Kendall Wells (39 HR, NFCA FY), Kavan (2x WCWS MOP), Berzon. 2027 Sooners worth watching now.
+- **Content Produced:** Article (article-01, Emily Rawlings), 2 X posts, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Final Battle Series game: Oct 30 vs Seminole State
+  - OU game result
+
+### Story 2: Tennessee Fall Finale Tonight — Pickens and Mardjetko
+- **Date:** 2026-10-23
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Tennessee fall covered Oct 10, 13, 16-22)
+- **Angle:** Tennessee's 2026 fall closes tonight vs Lee University at Sherri Parker Lee Stadium, 6 PM ET, free. Season highlight: Pickens (194K, 1.70 ERA) and Mardjetko (16-3, 1.26 ERA). Best pitching staff in SEC heading into 2027.
+- **Content Produced:** Article (article-02, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Tennessee final fall record
+  - 2027 preseason rankings (December)
+
+### Story 3: Florida vs UNF — Fall Ball Today
+- **Date:** 2026-10-23
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Florida fall covered Oct 17, 19, 21, 22)
+- **Angle:** Florida plays UNF at Katie Seashole Pressly Stadium, free. 49 runs in two fall games; Sophia Edwards 3 HR. Six starters back for 2027. Loaded Gators roster continues fall showing.
+- **Content Produced:** Article (article-03, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Florida fall final results
+  - 2027 preseason outlook
+
+### Story 4: 2028 Extra Elite 100 — Top-5 Drops Monday
+- **Date:** 2026-10-23
+- **Tier:** 2
+- **Classification:** FOLLOW UP (2028 recruiting covered Oct 22)
+- **Angle:** Top-5 reveal coming Monday Oct 27. 1,200+ nominations (largest class ever). Contact window Oct 24-25. No. 1 overall still up for grabs. Peak recruiting week for 2028 class.
+- **Content Produced:** Article (article-04, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Top-5 reveal (Oct 27)
+  - Contact window commit wave (Oct 24-25)
+
+### Story 5: Fall Ball 2026 Synthesis — What We Learned
+- **Date:** 2026-10-23
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Synthesizes full fall coverage Oct 9-23)
+- **Angle:** Fall ball wraps this week. 2027 title picture: OU (Wells + Kavan + Berzon), Florida (49 runs, 6 starters back), Tennessee (Pickens + Mardjetko), TTU (Pickering + portal class). Season preview framing.
+- **Content Produced:** Article (article-05, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - 2027 preseason rankings (December)
+  - Signing Day coverage (November)
+
+---
+
 ## Pipeline Run: 2026-10-22
 
 ### Story 1: OU Battle Series Game 4 Recap / Game 5 Preview — Tomorrow Oct 23
