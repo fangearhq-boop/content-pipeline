@@ -1,0 +1,206 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-23",
+  "compiled_at": "2026-10-23T09:24:37.183744+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1",
+      "type": "WS Game 1 tonight — Brewers vs. Rays rival watch"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 2",
+      "type": "Teruaki Sato officially posted — Cubs in the mix"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 3",
+      "type": "Michael King opt-out clock running — WS starts tonight"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Story 4",
+      "type": "PCA MVP bold take — WS starts while PCA waits for his crown"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Story 5",
+      "type": "AFL — Cole Mathis leads Cubs' Mesa roster"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "World Series Game 1 Tonight — Brewers vs. Rays",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Game 1 is TONIGHT (was \"tomorrow\" in Oct 22 brief). Brewers (103-59) host Rays (98-64) at 7 PM CT on Fox. Jacob Misiorowski (1.80 ERA, shakier in postseason) vs. Drew Rasmussen (2.67 ERA, 3 ER in 21 IP postseason). Cubs rival-watch frame — Brewers winning puts pressure on Jed Hoyer. Brewers' first WS since 1982.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "TONIGHT, a division rival plays for a ring. 🍺\n\nBrewers vs. Rays, Game 1 — Misiorowski (1.80 ERA) vs. Rasmussen (2.67 ERA), 7 PM CT on Fox.\n\nIf the Brewers win it all, Jed Hoyer better be watching with a notepad. 📝\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Rival Watch / Bold Take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "World Series Game 1 Tonight — Brewers vs. Rays\n**Decision:** NEW STORY — first World Series Game 1 coverage angle for 2026 WS\n**Previous coverage:** Oct 13 covered NLCS G1+G2 (Brewers led Dodgers 2-0); Oct 13 noted Brewers→WS as follow-up opportunity. Today is the WS itself.\n**Key Facts:**\n- Game 1: Fri Oct 23, American Family Field (Milwaukee), 7:00 PM CT, Fox\n- Brewers: 103-59 regular season (NL's best); first WS since 1982\n- Rays: 98-64 (AL-best); beat Guardians in 6 games in ALCS after trailing 1-2\n- Brewers starter G1: Jacob Misiorowski (16-5, 1.80 ERA regular season)\n- Postseason note: hasn't escaped 5th inning in either postseason start\n- Rays starter G1: Drew Rasmussen (16-5, 2.67 ERA; 3 ER in 21 IP in postseason)\n- Rest advantage: Brewers 11 days rest; Rays 3 days off\n- Odds: Brewers -162 (DraftKings), 62% Polymarket favorites\n**Sources:**\n- Yahoo Sports — \"World Series 2026: Schedule, broadcast and start times for Rays vs. Brewers\" (Oct 23, 2026) ✓\n- ESPN — \"2026 MLB playoff bracket\" (Oct 23, 2026) ✓\n- CBS Sports — \"2026 MLB playoff bracket: Schedule and scores\" (Oct 23, 2026) ✓\n- SI/Covers — Game 1 odds and preview (Oct 23, 2026) ✓\n- SeatGeek — \"World Series: Five biggest storylines\" (Oct 2026) ✓\n**Freshness:** ✓ Confirmed same-day sources\n**Compound claims to verify:** Brewers' first WS appearance since 1982 (multiple sources confirm); both 16-5 pitching records cited by SI\n**Cubs angle confidence:** HIGH — division rival angle is direct and verifiable",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Teruaki Sato — The 45-Day Window Is Open",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Follow-up to Oct 21 (Sato posting expected/confirmed). New hook: the 45-day MLB negotiating window officially opened Oct 19. NPB Triple Crown: .306/.383/.609, 39 HR, 106 RBI, 27 years old, no restrictions. Cubs scouted him in May but Cubs' primary Japanese target is likely pitcher Kaima Taira. Still: Cubs expected to make a call on Sato.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "OFFICIAL: Teruaki Sato has been posted for MLB. 🇯🇵\n\nNPB Triple Crown — .306/.383/.609, 39 HR, 106 RBI. He's 27, no restrictions on his deal.\n\nThe Cubs have been watching him since May. The bidding war starts now.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative / Roster News",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Teruaki Sato Officially Posted\n**Decision:** NEW STORY — posting confirmed Oct 19, 2026; Cubs scouted him in May 2026\n**Previous coverage:** Not in story history\n**Key Facts:**\n- Hanshin Tigers (NPB) officially posted Sato, Oct 19, 2026 per Bleacher Nation\n- 2026 NPB stats: .306/.383/.609, 39 HR, 106 RBI, 8 SB — Central League Triple Crown\n- Age: 27 (turns 28 in March 2027)\n- No international FA restrictions (over 25 years old)\n- Cubs scouted him in May 2026 (confirmed Bleacher Nation May 22 + Oct 21 recap)\n- Big-market competition: Mets, Yankees, Dodgers, Phillies per Jon Heyman/Sportsnaut\n- Assessment: Cubs will call; unlikely to outbid the Dodgers/Mets\n**Sources:**\n- Bleacher Nation — \"japanese slugger teruaki sato is officially being posted\" (Oct 19, 2026) ✓\n- Bleacher Nation — \"Cubs bullets Oct 21\" mentioning Sato posting (Oct 21, 2026) ✓\n- MLB.com — \"NPB MVP, Triple Crown winner Sato to enter MLB posting system\" ✓\n- Sportsnaut — \"mlb rumors dodgers yankees phillies teruaki sato interest\" ✓\n**Freshness:** ✓ Oct 19 posting confirmation + Oct 21 recap, within 4 days\n**Compound claims to verify:** Triple Crown win in NPB (multiple sources agree); stats from MLB.com (.306/.383/.609, 39 HR confirmed)\n**Confidence:** HIGH for stats (MLB.com), MEDIUM for Cubs interest level (not confirmed by team)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Michael King Opt-Out Clock Is Officially Ticking",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "WS started tonight → King's opt-out window opens 5 days after the final game. King (Padres, 3.23 ERA, 27 starts) is the No. 2 SP on FA market. Cubs have been targeting him since Oct 13. New hook: the decision is no longer theoretical — the clock is running. Deadline is late October-early November depending on WS length.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "TICK TOCK. ⏰\n\nThe World Series starts tonight — Michael King's opt-out window is now officially in play. His decision is due 5 days after the final game.\n\nKing: 3.23 ERA in 27 Padres starts. He's the No. 2 SP on this market. The Cubs need him.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Analysis / Bold Take",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Michael King Opt-Out Clock Is Ticking\n**Decision:** FOLLOW UP — previously covered Oct 13 (Skubal→King pivot) and Oct 17 (Michael King countdown). New development: WS started tonight, so the 5-day opt-out clock has effectively started.\n**Key Facts:**\n- King is a Padres SP (traded from Yankees Dec 2023 in Juan Soto deal — NOTE: early story history may have had team wrong; he's a PAD not NYY)\n- 2026: 3.23 ERA, 27 starts\n- Contract: 3yr/$75M with two player options; can opt out after 2026 for 2027 FA\n- Decision due 5 days after World Series ends\n- WS started Oct 23 → if WS is a sweep, deadline ~Oct 28-29; if 7 games, deadline ~Nov 7\n- Widely viewed as No. 2 SP on FA market behind Skubal\n- Bleacher Report prediction: Padres will keep him; MLB.com says likely to opt out\n- Cubs previously identified as top suitors (Oct 13 + Oct 17 coverage)\n**Sources:**\n- MLB.com — \"27 opt-out and option decisions\" article (October 2026) ✓\n- Bleacher Report — \"Early 2026-27 mlb offseason predictions\" mentioning King (October 2026) ✓\n- SM Daily Journal — \"Padres re-sign pitcher Michael King to 3-year contract\" (historical context) ✓\n**Freshness:** ✓ Multiple October 2026 sources\n**Note for this tweet:** Frame around WS = opt-out clock starting NOW, not \"King may opt out\" (covered before)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "The World Series Is Tonight — But the Best Player in Baseball Isn't Playing",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Follow-up to Oct 21 PCA MVP countdown. New hook: WS starts tonight while PCA waits for his November crown. Brewers chase a ring; PCA wins a different one. 45 HR, 41 SB, 10.4 fWAR. -1100 favorite. Per allcaps_lead WINNER: \"THE WORLD SERIES IS TONIGHT\" open. Sardonic Cubs-fan energy: our guy is the best player in baseball and we're watching rival's WS.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "THE WORLD SERIES IS TONIGHT. The Cubs still have the best player in baseball.\n\nPete Crow-Armstrong: 45 HR. 41 SB. 10.4 fWAR. The clear NL MVP favorite.\n\nThe Brewers get Game 1. PCA gets November. 🏆\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Bold Take / Passionate",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA MVP — WS Starts Tonight, PCA's Crown Comes in November\n**Decision:** FOLLOW UP — PCA MVP countdown covered Oct 21 (standalone). New hook: WS starting tonight while PCA waits for BBWAA vote.\n**Previous coverage:** Oct 9 (frontrunner odds), Oct 13 (final stat wrap-up), Oct 21 (countdown post)\n**Key Facts:**\n- Pete Crow-Armstrong: 45 HR, 41 SB, 10.4 fWAR (from pipeline status — confirmed)\n- -1100 betting favorite per FanDuel as of late August\n- BBWAA NL MVP vote announced in early November\n- Cubs fans framing: team is in the WS offseason but PCA's individual award is still coming\n- Angle: WS starts while PCA waits — sardonic pride framing\n**Sources:**\n- Pipeline status: \"PCA MVP: BBWAA announces early November. 45 HR, 41 SB, 10.4 fWAR\" ✓\n- Multiple search results confirm -1100 odds, Ohtani +650 as of late August 2026\n- Research notes from Oct 13 confirmed final stats\n**Freshness:** MEDIUM — stats are from regular season end (stable); new hook is WS starting tonight\n**Confidence:** HIGH for stats (established in prior pipeline runs); MEDIUM for \"best player in baseball\" as editorial framing",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "AFL Update — Cole Mathis Is the Name to Know in Mesa",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Follow-up to Oct 22 AFL story (Cabral/Snell/Reid pitching angle). Today's angle: offensive focus — Cole Mathis (Cubs' ONLY Top 30 prospect in AFL, 2024 2nd-round pick) is in Mesa with Kade Snell getting regular plate appearances. These are the 2028-2029 pieces. Off-day = right time for prospect content.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "FUTURE CUBS are putting in work in Arizona. 🌵\n\nCole Mathis — the Cubs' only Top 30 prospect in the AFL — is in Mesa with Kade Snell, Juan Cabada, and Ed Howard.\n\nMathis: 2024 2nd-round pick. The AFL is where futures get shaped. 👀\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Prospect Feature",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs Lead NL with 5 Gold Glove Finalists\n**Decision:** NEW STORY — Gold Glove finalists angle not previously covered\n**Key Facts:**\n- Cubs lead NL with 5 Gold Glove finalists (per roundtable.io Oct 14 report)\n- Pete Crow-Armstrong: led all defenders in OAA (26), Runs Prevented (23), FRV (26), 5-star catches (22)\n- PCA is among CF Gold Glove finalists\n- Gold Glove winners announced Nov 1, 2026\n- NOTE: Fielding Bible \"Team of the Year\" was confirmed for 2025, not 2026 (2026 likely not announced yet)\n- DECISION: Frame around Gold Glove finalists (confirmed) not Fielding Bible Awards (unconfirmed for 2026)\n**Sources:**\n- Roundtable.io — \"Cubs lead national league with 5 gold glove finalists\" (Oct 14, 2026) ✓\n- NBC Chicago — \"pete crow-armstrong one of 5 gold glove finalists for the cubs\" ✓\n- Columbia Missourian — \"cubs earn mlb high 3 gold glove awards\" (2025 context, useful for voice)\n**Freshness:** ✓ Oct 14 source; finalists don't change; winners announced Nov 1\n**Confidence:** HIGH for PCA finalist and 5 Cubs finalists; MEDIUM for \"No. 1 in NL\" framing (need to be careful — \"lead NL\" not \"lead MLB\")",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

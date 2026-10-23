@@ -8845,3 +8845,49 @@ Each day's stories are appended at the top (newest first).
   - King signing/Cubs offer
   - Hoyer press conference / offseason plan announcement
   - WS storyline as motivation reminder
+
+## 2026-10-23
+
+### STORY 1: World Series Game 1 Tonight — Brewers vs. Rays
+- **Angle:** FOLLOW UP (Oct 22 covered WS G1 as "tomorrow"; today = Game 1 is NOW — rival-watch framing; Brewers division rival chasing ring; Hoyer must be watching with a notepad; per allcaps_lead WINNER opened "TONIGHT")
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, rival watch/bold take)
+- **Follow-Up Opportunities:**
+  - WS Game 1 result — tomorrow's recap/reaction angle
+  - Brewers win WS → offseason urgency motivation tweet
+  - WS series update with Cubs fan framing
+
+### STORY 2: Teruaki Sato Officially Posted
+- **Angle:** NEW STORY (Hanshin Tigers 3B officially posted Oct 19; NPB Triple Crown .306/.383/.609, 39 HR, 106 RBI; Cubs scouted May 2026; 45-day window open; big-market competition; per allcaps_lead WINNER opened "OFFICIAL:")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, informative/roster news)
+- **Follow-Up Opportunities:**
+  - Cubs formally submit bid (if it happens)
+  - Sato signs with another team — reaction angle
+  - Cubs miss Sato but pivot to domestic 3B options
+
+### STORY 3: Michael King Opt-Out Clock Is Officially Ticking
+- **Angle:** FOLLOW UP (Oct 13: King as pivoted-to target after Skubal; Oct 17: King countdown; today = WS started, 5-day opt-out window officially in play; per allcaps_lead WINNER opened "TICK TOCK.")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, analysis/bold take)
+- **Follow-Up Opportunities:**
+  - King opt-out confirmed → Tier 1 breaking news
+  - King stays in San Diego → Cubs pivot Plan B
+  - King signs with Cubs → signing announcement
+
+### STORY 4: PCA MVP — WS Starts Tonight, PCA's Crown Comes in November
+- **Angle:** FOLLOW UP (Oct 9: frontrunner odds; Oct 13: final stat wrap; Oct 21: countdown post; today = WS starts while PCA waits for BBWAA November announcement; sardonic Cubs-fan energy — our guy is the best player in baseball and we watch rivals chase a ring; per allcaps_lead WINNER opened "THE WORLD SERIES IS TONIGHT")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, bold take/passionate)
+- **Follow-Up Opportunities:**
+  - PCA NL MVP officially announced (early November) → celebration Tier 1
+  - Any Ohtani/Freeman surge → update odds framing
+
+### STORY 5: AFL Update — Cole Mathis Leads Cubs' Mesa Roster
+- **Angle:** FOLLOW UP (Oct 22 covered Cabral/Reid/Snell pitching angle; today = offensive focus; Cole Mathis as Cubs' ONLY Top 30 prospect in AFL; 2024 2nd-round pick; per allcaps_lead WINNER opened "FUTURE CUBS")
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect feature)
+- **Follow-Up Opportunities:**
+  - Mathis stat line or standout performance → follow-up
+  - AFL ends Nov 14 → final prospect wrap-up
+  - Mathis 2027 assignment decision (spring training)
