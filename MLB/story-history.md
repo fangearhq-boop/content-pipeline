@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## Pipeline Run: 2026-10-23
+
+### Story 1: World Series Game 1 Is Tonight — Nick Martinez vs. Jacob Misiorowski
+- **Date**: 2026-10-23
+- **Tier**: 1
+- **Key Facts**: Game 1 8:07 PM ET FOX American Family Field; Nick Martinez starts for Tampa Bay (ESPN confirmed); Misiorowski starts for Milwaukee; first World Series for both franchises; Brewers 4-0 home this postseason; Rays 0-2 in prior WS appearances (2008, 2020); series runs through Oct 31 if all 7 games needed
+- **Article**: article-01-ws-game-1-tonight-martinez-misiorowski.html (By Jake Torres)
+
+### Story 2: Freddy Peralta Returns to Milwaukee as the Enemy
+- **Date**: 2026-10-23
+- **Tier**: 1
+- **Key Facts**: Peralta spent 8 seasons in Milwaukee; traded to Mets in January then to Tampa Bay at deadline; went 2-0, 0.75 ERA ALCS vs Cleveland; won ALCS MVP; final Milwaukee season 17-6, 2.70 ERA; starts likely Game 2 or Game 3; Brewers offense must face pitcher they watched develop
+- **Article**: article-02-freddy-peralta-returns-to-milwaukee.html (By Ryan Calloway)
+
+### Story 3: Drew Rasmussen on Deck — Historic Postseason Ace
+- **Date**: 2026-10-23
+- **Tier**: 2
+- **Key Facts**: Rasmussen 16-5, 2.67 ERA regular season, 2x All-Star; 1.29 ERA in 21 postseason innings; near no-hitter ALDS G1 vs Yankees (8+ IP, 1 hit, 10 K); 7 IP 1 ER ALCS G5; starting Game 2; Rays saved him for second Milwaukee game; Peralta available G2 or G3
+- **Article**: article-03-rasmussen-historic-postseason-ace-on-deck.html (By Marcus Cole)
+
+### Story 4: A First-Time Champion Is Guaranteed — Brewers vs. Rays History
+- **Date**: 2026-10-23
+- **Tier**: 2
+- **Key Facts**: Neither franchise has won WS; Brewers last appearance 1982 (lost Cardinals G7); Rays appearances 2008 (lost Phillies) and 2020 (lost Dodgers); Brewers went 103-59 in 2026; 5 MLB franchises without title including Rockies and Padres; Rangers won 2023 reducing group; Milwaukee first WS host since 1982
+- **Article**: article-04-first-time-champion-guaranteed-brewers-rays-history.html (By Jake Torres)
+
+### Story 5: Franco Caminero Is the Rays' X-Factor
+- **Date**: 2026-10-23
+- **Tier**: 2
+- **Key Facts**: Caminero 22 years old; 45 HR 110 RBI 2025 (2x All-Star); 51 games in 2026 regular season (.265/.356/.490, 13 HR, 27 RBI); foul-pole 2-run HR ALCS G6 vs Cleveland clincher; Brewers bullpen 0.38 ERA 23.2 IP NLCS; Misiorowski best NL starter; Caminero walk rate elite for age
+- **Article**: article-05-franco-caminero-rays-x-factor-world-series.html (By Ryan Calloway)
+
+---
+
 ## Pipeline Run: 2026-10-22
 
 ### Story 1: World Series Game 1 Is Tomorrow — Everything You Need to Know
