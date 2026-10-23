@@ -84,3 +84,17 @@
 - **Key facts:** Antonelli leads 340 pts; Russell 238 (-102); Hamilton 229 (-111); Verstappen 221; clinch: win USGP + Russell P9/lower + Hamilton P4/lower; clinch age: 20yr 61d; Vettel record: 23yr 134d (2010); race Oct 25 3PM CT; new Thursday preview day Oct 22; no sprint; 150 pts remain
 - **Byline:** Ryan Calloway
 - **Status:** FOLLOW UP
+
+### STORY 2: Verstappen Chases History — Can Red Bull Win Three Straight?
+- **Tier:** 1
+- **Category:** Max Verstappen / Red Bull / COTA / US Grand Prix / Back-to-Back Wins
+- **Key facts:** Back-to-back wins Malaysia + Singapore; Singapore: led start-to-finish, 7.3s clear of Leclerc; Verstappen P4 (221 pts); COTA wins: 2021, 2022, 2023 (3 consecutive); lap record 1:36.169; paddock fear of Red Bull late dominance; 6 races remain
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: Haas Reveals Godzilla Livery for the US Grand Prix
+- **Tier:** 2
+- **Category:** Haas / Special Livery / US Grand Prix / COTA / Branding
+- **Key facts:** Godzilla-themed livery for COTA weekend; "striking" in reveal; on track all 4 days (Oct 22-25)
+- **Byline:** Elena Voss
+- **Status:** NEW

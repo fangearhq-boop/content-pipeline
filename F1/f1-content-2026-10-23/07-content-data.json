@@ -1,0 +1,317 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-23",
+  "compiled_at": "2026-10-23T11:42:26.592270+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Antonelli Can Make History Sunday — The Championship Clinch Scenario Explained",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Kimi Antonelli is 2 days from becoming the youngest F1 world champion in history.\n\nHe would be 20 years and 61 days old — shattering Vettel's record of 23 years, 134 days (2010).\n\nThe clinch conditions are narrow. But they're real. #F1 #USGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#USGP"
+          ],
+          "char_count": 241
+        },
+        {
+          "label": "Post 1-2",
+          "text": "For Antonelli to clinch Sunday at COTA:\n\n✅ Win the race\n✅ Russell finishes P9 or lower\n✅ Hamilton finishes P5 or lower\n\n102-point lead. 150 remaining. The end could be this weekend. #F1 #USGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#USGP"
+          ],
+          "char_count": 191
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-antonelli-championship-clinch-scenario.html",
+        "headline": "Antonelli Can Make History at COTA: The Championship Clinch Scenario Explained",
+        "word_count": 682
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Hamilton and Ferrari Arrive as COTA Favorites — Friday Practice Reveals the Race Pace",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Lewis Hamilton has won at COTA before.\n\nFerrari arrives in Austin with strong recent pace. FP1 starts at 12:30 PM CT.\n\nIf anyone can slow Antonelli's title party, it might be Hamilton and the red car. #F1 #USGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#USGP"
+          ],
+          "char_count": 210
+        },
+        {
+          "label": "Post 2-2",
+          "text": "FP1 and FP2 done at COTA.\n\nFerrari and Mercedes both have championship stakes in this race — one wants to win it, one wants to delay losing it.\n\nThe pecking order is starting to emerge. #F1 #USGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#USGP"
+          ],
+          "char_count": 195
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-hamilton-ferrari-cota-favorites.html",
+        "headline": "Hamilton and Ferrari Arrive as COTA Favorites: Friday Practice Will Reveal Everything",
+        "word_count": 615
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Russell's Zero-Margin Weekend — How Practice Shapes His Survival",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "George Russell's weekend at COTA in one sentence:\n\nWin the race, have Antonelli finish P9 or lower, and hope Hamilton doesn't show up.\n\nOne slip ends the title fight. No backup plan. #F1 #USGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#USGP"
+          ],
+          "char_count": 192
+        },
+        {
+          "label": "Post 3-2",
+          "text": "For Russell, Friday at COTA isn't just practice.\n\nIt's the foundation of a must-win weekend.\n\nFront-row start essentially mandatory. Race win non-negotiable.\n\nThe most important qualifying session of his season starts Saturday. #F1 #USGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#USGP"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-russell-zero-margin-weekend.html",
+        "headline": "Russell's Zero-Margin Weekend: How COTA Practice Shapes His Title Survival",
+        "word_count": 658
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 6",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Verstappen Eyes a Fourth Straight COTA Win — History, Bumps, and Spoiler Duty",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Max Verstappen has won the last three US Grands Prix at COTA (2021, 2022, 2023).\n\nHe can't win the championship this year.\n\nBut he can win the race — and stop Antonelli from clinching on Sunday.\n\nHistory. Spoiler. COTA king. #F1 #USGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#USGP"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-verstappen-fourth-straight-cota-win.html",
+        "headline": "Verstappen Eyes a Fourth Straight COTA Win: History, Bumps, and Spoiler Duty",
+        "word_count": 655
+      },
+      "image_concepts": [
+        {
+          "label": "Image 7",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 8",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "US Grand Prix Weekend Guide — Schedule, Stakes, and What to Watch",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "This weekend at COTA could crown the youngest F1 champion in history.\n\nFP1: 12:30 PM CT today\nQualifying: Saturday\nRace: Sunday, 3:00 PM CT\n\nHere's everything you need. 🔗 [link] #F1 #USGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#USGP"
+          ],
+          "char_count": 187
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-us-grand-prix-weekend-guide.html",
+        "headline": "US Grand Prix Weekend Guide: Schedule, Stakes, and Everything to Watch at COTA",
+        "word_count": 628
+      },
+      "image_concepts": [
+        {
+          "label": "Image 9",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
