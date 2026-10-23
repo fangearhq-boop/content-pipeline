@@ -1,79 +1,26 @@
----
-pipeline_date: 2026-10-23
-brand_kit_id: f1-fanrecap
-photo_source: imagn
----
+# Image Manifest — F1 Fanrecap — October 23, 2026
 
-# F1 Image Manifest — October 23, 2026
-
-## Story 1: Antonelli Can Make History Sunday
-
-### social-01a
-- type: social
-- dimensions: 1080x1350
-- search_terms: "Kimi Antonelli Mercedes"
-- status: not_started
-
-### article-01-hero
-- type: article_hero
-- dimensions: 1200x630
-- search_terms: "Kimi Antonelli Mercedes"
-- status: not_started
+**Pipeline Date:** 2026-10-23
+**Photo source:** Imagn (USA TODAY Sports Images)
+**Total images:** 9
 
 ---
 
-## Story 2: Hamilton and Ferrari Arrive as COTA Favorites
-
-### social-02a
-- type: social
-- dimensions: 1080x1350
-- search_terms: "Lewis Hamilton Ferrari"
-- status: not_started
-
-### article-02-hero
-- type: article_hero
-- dimensions: 1200x630
-- search_terms: "Lewis Hamilton Ferrari"
-- status: not_started
+| Image | Story | Size | Search Terms | Status | Article File | Notes |
+|-------|-------|------|--------------|--------|--------------|-------|
+| Image 1 | Story 1 — Antonelli Clinch | 1200x630 | Kimi Antonelli Mercedes | not_started | article-01-antonelli-championship-clinch-cota.html | Article hero |
+| Image 2 | Story 1 — Antonelli Clinch | 1080x1350 | Kimi Antonelli Mercedes | not_started | — | Social card |
+| Image 3 | Story 2 — Hamilton Ferrari | 1200x630 | Lewis Hamilton Ferrari | not_started | article-02-hamilton-ferrari-cota-favorites.html | Article hero |
+| Image 4 | Story 2 — Hamilton Ferrari | 1080x1350 | Lewis Hamilton Ferrari | not_started | — | Social card |
+| Image 5 | Story 3 — Russell Survival | 1200x630 | George Russell Mercedes | not_started | article-03-russell-zero-margin-cota.html | Article hero |
+| Image 6 | Story 3 — Russell Survival | 1080x1350 | George Russell Mercedes | not_started | — | Social card |
+| Image 7 | Story 4 — Verstappen COTA | 1200x630 | Max Verstappen Red Bull | not_started | article-04-verstappen-fourth-cota-win.html | Article hero |
+| Image 8 | Story 4 — Verstappen COTA | 1080x1350 | Max Verstappen Red Bull | not_started | — | Social card |
+| Image 9 | Story 5 — Weekend Guide | 1200x630 | Formula 1 COTA | not_started | article-05-us-gp-weekend-guide.html | Article hero |
 
 ---
 
-## Story 3: Russell's Zero-Margin Weekend
-
-### social-03a
-- type: social
-- dimensions: 1080x1350
-- search_terms: "George Russell Mercedes"
-- status: not_started
-
-### article-03-hero
-- type: article_hero
-- dimensions: 1200x630
-- search_terms: "George Russell Mercedes"
-- status: not_started
-
----
-
-## Story 4: Verstappen Eyes a Fourth Straight COTA Win
-
-### social-04a
-- type: social
-- dimensions: 1080x1350
-- search_terms: "Max Verstappen Red Bull"
-- status: not_started
-
-### article-04-hero
-- type: article_hero
-- dimensions: 1200x630
-- search_terms: "Max Verstappen Red Bull"
-- status: not_started
-
----
-
-## Story 5: US Grand Prix Weekend Guide
-
-### social-05a
-- type: social
-- dimensions: 1080x1350
-- search_terms: "Formula 1 COTA"
-- status: not_started
+**Notes:**
+- All images require manual Imagn sourcing
+- Search terms follow imagn-only rule: driver/person name + team/organization, NO years or event context
+- Credits: (USA TODAY Sports Images) or (Imagn Images) — do NOT include in article HTML

@@ -13,7 +13,7 @@ The 20-year-old Mercedes driver arrives at the Circuit of the Americas with a 10
 
 The record he would set is staggering: youngest Formula 1 world champion in history, at 20 years and 61 days old. Sebastian Vettel set the current record in 2010 at 23 years and 134 days. Antonelli would shatter it by more than three years.
 
-Three conditions must align on Sunday: Antonelli wins the race, Russell finishes ninth or lower, and Hamilton finishes fifth or lower. It is a narrow window — but in Formula 1, narrow windows have a way of opening at exactly the wrong moment for the people trying to hold them shut.
+Three conditions must align on Sunday: Antonelli wins the race, Russell finishes ninth or lower, and Hamilton finishes fifth or lower. It is a narrow window — but in Formula 1, narrow windows get forced open.
 
 **FB Image Caption (posting window: 8:00 AM ET)**
 History is on the table this Sunday at COTA. Antonelli can become the youngest F1 champion ever. 🏎️ #F1 #USGP
