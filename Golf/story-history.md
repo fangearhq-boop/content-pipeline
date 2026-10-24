@@ -2,6 +2,18 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-10-24
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-24 | T1 | Two Rookies Share the Bermuda Lead: Hirata and Blanchet at 13-Under After 36 Holes | X(2), FB, Article | FOLLOW UP |
+| 2026-10-24 | T1 | LIV Golf 2.0 Deadline Is Tomorrow: Rahm Out, DeChambeau Still Undecided | X(2), FB, Article | FOLLOW UP |
+| 2026-10-24 | T2 | Bermuda Championship Round 3 Preview: Five Veterans Chase Two Rookies at Port Royal | X(1), FB, Article | FOLLOW UP |
+| 2026-10-24 | T2 | Stifel Charity Classic Opens the Charles Schwab Cup Playoffs at Norwood Hills | X(1), FB, Article | FOLLOW UP |
+| 2026-10-24 | T2 | Ruoning Yin Wins the Buick LPGA Shanghai for Her Second 2026 LPGA Title | X(1), FB, Article | NEW |
+
+---
+
 ## 2026-10-23
 
 | Date | Tier | Title | Platforms | Status |

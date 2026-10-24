@@ -1,5 +1,36 @@
 # Golf Fanrecap — Pipeline Status
 
+## Latest Run: 2026-10-24
+
+**Run completed:** 2026-10-24
+**Stories:** 5
+**Articles:** 5
+**X posts:** 7
+**Status:** COMPLETE (with known proxy limitations)
+
+---
+
+## 2026-10-24 Run Log ✅ (Automated)
+
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 22 claims, 44 HIGH; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 0 tweets, 0 FB (known parsing issue), 5 articles
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (10 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: pending
+
+**Stories covered:**
+1. T1 FOLLOW UP: Two Rookies Share the Bermuda Lead: Hirata and Blanchet at 13-Under After 36 Holes (Ryan Calloway)
+2. T1 FOLLOW UP: LIV Golf 2.0 Deadline Is Tomorrow: Rahm Out, DeChambeau Still Undecided (Jake Torres)
+3. T2 FOLLOW UP: Bermuda Championship Round 3 Preview: Five Veterans Chase Two Rookies at Port Royal (Marcus Cole)
+4. T2 FOLLOW UP: Stifel Charity Classic Opens the Charles Schwab Cup Playoffs at Norwood Hills (Ryan Calloway)
+5. T2 NEW: Ruoning Yin Wins the Buick LPGA Shanghai for Her Second 2026 LPGA Title (Jake Torres)
+
+---
+
 ## Latest Run: 2026-10-23
 
 **Run completed:** 2026-10-23

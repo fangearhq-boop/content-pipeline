@@ -1,0 +1,152 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-24",
+  "compiled_at": "2026-10-24T11:32:47.723803+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Bermuda Championship — Two Rookies Share the 36-Hole Lead",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-01-bermuda-championship-r2-hirata-blanchet-co-leaders.html",
+        "headline": "Two Rookies Share the Bermuda Lead: Hirata and Blanchet at 13-Under After 36 Holes",
+        "word_count": 394
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Bermuda Championship R2 Co-Leaders\n**Confidence: HIGH (from GolfToday report)**\n- Event: 2026 Butterfield Bermuda Championship, Port Royal Golf Course, Bermuda\n- Dates: October 22-25, 2026\n- After Round 2 leaders:\n- Kensei Hirata: 13-under (shot 64 in R2) — T1\n- Chandler Blanchet: 13-under (shot 67 in R2) — T1\n- One back (12-under): Seamus Power, Corey Conners, Eric Cole, Ben Silverman, Danny Walker\n- Cut: 5-under 137; defending champion Adam Schenk MISSED CUT\n- T8: Greyson Sigg (11-under, shot 64 in R2)\n- Both Hirata and Blanchet described as rookies / first appearances at this event",
+        "sources": "- Source: GolfToday confirmed Hirata and Blanchet \"share the 36-hole lead\"\n**Confidence: MEDIUM — additional details**\n- Blanchet shot a 62 in R1 per prior pipeline research (that was the R1 leader mentioned as \"Blanchet's 62\")\n- Hirata's R1 score not confirmed from sources today"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "LIV Golf 2.0 Roster Deadline Is Tomorrow — Who's In, Who's Out",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-02-liv-golf-2-roster-deadline-rahm-out-dechambeau-undecided.html",
+        "headline": "LIV Golf 2.0 Deadline Is Tomorrow: Rahm Out, DeChambeau Still Undecided",
+        "word_count": 412
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf 2.0 Deadline\n**Confidence: HIGH**\n- Original deadline was October 13, extended to October 25\n- BC Partners Credit providing up to $300M financing\n- Players confirmed OUT: Jon Rahm, Adrian Meronk, David Puig, Louis Oosthuizen\n- Players committed: Cameron Tringale, Richard Bland, Ben Campbell\n- Bryson DeChambeau: still undecided / major question\n- DP World Tour policy: players who join LIV 2.0 will be barred from DP World Tour\n- BC Partners can extend deadline again if roster not sufficient",
+        "sources": "- Sources: GolfMagic, GolfMonthly, Field Level Media, WMBDRADIO"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Bermuda Championship Round 3 Saturday Preview — Which Contenders Will Strike?",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-03-bermuda-championship-r3-preview-power-conners.html",
+        "headline": "Bermuda Championship Round 3 Preview: Five Veterans Chase Two Rookies at Port Royal",
+        "word_count": 399
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Bermuda R3 Preview\n**Confidence: HIGH (based on confirmed R2 data)**\n- Five players one shot back offer compelling storylines\n- Seamus Power: Irish veteran, familiar with links-adjacent conditions\n- Corey Conners: Canadian, strong iron player\n- Port Royal's uphill 18th hole is known differentiator (from previous pipeline research)\n- R3 on Saturday, R4 on Sunday = final round Sunday",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Stifel Charity Classic and the Charles Schwab Cup Playoffs Open Window",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-04-stifel-charity-classic-schwab-cup-playoffs-cink.html",
+        "headline": "Stifel Charity Classic Opens the Charles Schwab Cup Playoffs at Norwood Hills",
+        "word_count": 399
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Stifel Charity Classic / Charles Schwab Cup\n**Confidence: MEDIUM**\n- Event: Stifel Charity Classic, Norwood Hills Country Club, St. Louis\n- Dates: October 23-25, 2026\n- First event of three-event Charles Schwab Cup playoffs\n- 72 players advanced from regular season (per TheGolfNewsNet)\n- Stewart Cink leads Charles Schwab Cup standings heading in\n- Defending Stifel Charity Classic champion: Thomas Bjorn (won in 2025 at -12)\n- Full R1/R2 leaderboard not confirmed from search — in progress",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Ruoning Yin Wins Buick LPGA Shanghai — Second Victory of the Season",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": {
+        "filename": "article-05-ruoning-yin-buick-lpga-shanghai-win.html",
+        "headline": "Ruoning Yin Wins the Buick LPGA Shanghai for Her Second 2026 LPGA Title",
+        "word_count": 346
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Ruoning Yin Buick LPGA Shanghai\n**Confidence: HIGH (per TheGolfNewsNet final results article)**\n- Tournament: 2026 Buick LPGA Shanghai\n- Winner: Ruoning Yin (China), -11 (277), closed with 68\n- Runner-up: Hye Jin Choi, one shot back\n- Third: Amy Yang, -8 (280)\n- Purse: $3.2M; winner's share: $480,000\n- No 36-hole cut; 76 of 81 players finished\n- Yin's second LPGA win of 2026\n- Next LPGA event: BMW Ladies Championship, South Korea\n- Race to CME Globe: Yin earned 500 points",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 0,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No X/Twitter posts found",
+      "Story 1: No Facebook posts found",
+      "Story 1: No posting window specified",
+      "Story 2: No X/Twitter posts found",
+      "Story 2: No Facebook posts found",
+      "Story 2: No posting window specified",
+      "Story 3: No X/Twitter posts found",
+      "Story 3: No Facebook posts found",
+      "Story 3: No posting window specified",
+      "Story 4: No X/Twitter posts found",
+      "Story 4: No Facebook posts found",
+      "Story 4: No posting window specified",
+      "Story 5: No X/Twitter posts found",
+      "Story 5: No Facebook posts found",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
