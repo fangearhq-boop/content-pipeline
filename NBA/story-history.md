@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-24
+
+### STORY 1: Knicks Go 0-2 — Celtics 107, Knicks 103, Tatum 36 Points
+- **Tier:** 1
+- **Category:** New York Knicks / Boston Celtics / Jayson Tatum / Defending Champions / NBA
+- **Key facts:** Celtics 107, Knicks 103; Tatum 36 pts/9 reb/7 ast; Tatum scored 7 of 36 in final 80 seconds; KAT 22 pts for NYK; Brunson 19 pts on 7-for-19; Anunoby 20 pts/10 reb; Knicks first defending champ to start 0-2 in 15 years; Celtics 1-1; Paul George on Celtics (traded from MIL for Jaylen Brown + picks)
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Rockets 114, Spurs 110 — Amen Thompson Block Seals It
+- **Tier:** 2
+- **Category:** Houston Rockets / San Antonio Spurs / Amen Thompson
+- **Key facts:** Rockets 114, Spurs 110; Spurs tied game at 96 in 4th quarter; Amen Thompson game-saving block; Rockets survive on road
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Hawks 128, Hornets 81 — Franchise Record 47-Point Blowout
+- **Tier:** 1
+- **Category:** Atlanta Hawks / Charlotte Hornets / Jalen Johnson
+- **Key facts:** Hawks 128, Hornets 81; franchise record margin of victory (47 points); Jalen Johnson 19 pts/8 ast/7 reb; Charlotte's Naz Reid 17 pts (team-high); Hornets 0-2
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: Lakers 125, Clippers 117 — Reaves 28/9, Kessler 22/6 in LA Derby
+- **Tier:** 2
+- **Category:** Los Angeles Lakers / Los Angeles Clippers / Austin Reaves / Walker Kessler
+- **Key facts:** Lakers 125, Clippers 117; Austin Reaves 28 pts/9 ast; Walker Kessler 22 pts/6 blk; Lakers 2-0 to start season
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: NBA Saturday 8-Game Slate Preview — Bucks at 76ers Headlines Night
+- **Tier:** 2
+- **Category:** Milwaukee Bucks / Philadelphia 76ers / Giannis Antetokounmpo / LeBron James / Schedule Preview
+- **Key facts:** 8 games Oct 24; Bucks at 76ers 7:30 PM ET (Giannis vs. LeBron first meeting 2026-27); Spurs at Mavs 8 PM; Rockets at Hawks 8:30 PM (B2B for Houston); Warriors at Suns 10 PM
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
 ## 2026-10-23
 
 ### STORY 1: 76ers 114, Cavaliers 106 — Maxey and LeBron Erase Historic 29-Point Deficit
