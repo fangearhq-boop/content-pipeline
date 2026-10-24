@@ -3,6 +3,16 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## October 24, 2026
+
+| 2026-10-24 | Almaty Open SFs set — Medvedev (top seed/defending champion) def. Atmane 6-4, 6-4 to face Bublik (3rd seed, def. Khachanov 4-6, 7-6(5), 7-6(5)); Tsitsipas (7th seed) def. Duckworth 6-3, 6-4 to face qualifier Basilashvili (dominant 6-3, 6-1 over Mannarino); SFs Saturday Oct 24; Final Sunday Oct 25; Medvedev H2H vs Bublik 7-1. Sources: ATP Tour, el-balad.com, Tennis Majors, Sofascore, TennisTemple | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 22 S3: Almaty QF set → SFs confirmed) |
+| 2026-10-24 | Ningbo Open SFs set — Rybakina (top seed/defending) def. Kawa 6-1, 3-6, 6-1; Shnaider (6th seed) def. Jovic 6-3, 4-6, 6-1; Leylah Fernandez (unseeded) def. Alexandrova 4-6, 6-2, 6-1 (surprise run); Bouzková into SF from other QF; SFs Saturday Oct 24, Final Sunday Oct 25; Rybakina H2H vs Shnaider 2-0. Sources: WTA official, CBC Sports, Yardbarker, WTA draw bracket | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Oct 22 S4: Ningbo QF matchups → results + SFs set) |
+| 2026-10-24 | Vienna (Erste Bank Open) and Basel (Swiss Indoors) open Sunday Oct 26 — Vienna seeds: Zverev (1), Alcaraz (WC/2), Medvedev (3), Cobolli, de Minaur, Tiafoe, Paul, Mensik; Basel: Shelton (1), Djokovic (WC), Fils, Jódar; Wawrinka Basel tribute night Oct 26; both award 500 ATP Race pts to champion. Sources: ATP Tour, Wikipedia, Tennis365, BBC Sport | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Oct 22 S5: ATP Race Vienna/Basel imminent → opening Sunday) |
+| 2026-10-24 | ATP Race to Turin final stretch — 3 confirmed (Zverev, Alcaraz, Shelton); 5 spots among 7 players (Cobolli/Medvedev/Tiafoe/Fils/Jódar/de Minaur/Djokovic); ~700 pts separating 5th–11th; Sinner out for season (right knee); 3 events left: Vienna+Basel (500 pts each, Oct 26–Nov 1), Paris Masters (1000 pts, Oct 31–Nov 8); Medvedev also in Almaty SF today with 250 pts on offer. Sources: TennisNerd, Tennis365, racetotur.in | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 22 S5: ATP Race Vienna/Basel open Sunday → Race standings update) |
+| 2026-10-24 | Weekend tennis preview — Almaty Final (Medvedev or Bublik vs Tsitsipas or Basilashvili) + Ningbo Final (Rybakina vs whoever wins Shnaider/Fernandez) both Sunday Oct 25; Vienna and Basel also launch first rounds Sunday Oct 26; busiest single tennis day of the indoor season. Sources: ATP Tour, WTA official, research synthesis | T2 | X, FB, Article | Marcus Cole; NEW |
+
+---
+
 ## October 22, 2026
 
 | 2026-10-22 | WTA Finals 2026 field confirmed complete — 8th spot to Karolina Muchova after Marta Kostyuk retired vs Ekaterina Alexandrova in R2 at Ningbo (lost first set 6-4, withdrew); Kostyuk is 2nd alternate; Swiatek 1st alternate; full field: Rybakina, Sabalenka, Andreeva, Pegula, Gauff, Svitolina, Noskova, Muchova; WTA Finals Nov 8–15 Indian Wells. Sources: ESPN, Yahoo Sports, tennis365.com, Last Word on Sports | T1 | X, FB, Article | Ryan Calloway; NEW |

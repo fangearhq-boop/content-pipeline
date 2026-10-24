@@ -1,5 +1,35 @@
 # Tennis Fanrecap — Pipeline Status
 
+## Current Run: 2026-10-24
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Almaty QFs results: Medvedev d. Atmane 6-4,6-4; Bublik d. Khachanov 4-6,7-6,7-6; Tsitsipas d. Duckworth 6-3,6-4; Basilashvili d. Mannarino 6-3,6-1; SFs today Oct 24, Final Oct 25; Ningbo QFs: Rybakina d. Kawa 6-1,3-6,6-1; Shnaider d. Jovic 6-3,4-6,6-1; Fernandez d. Alexandrova 4-6,6-2,6-1 (surprise run); SFs today, Final Oct 25; Vienna+Basel open Oct 26; ATP Race 3 confirmed, 5 spots for 7 players |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Oct 22 S3: Almaty QF → SFs confirmed); S2 FOLLOW-UP (Oct 22 S4: Ningbo QF → results + SFs); S3 FOLLOW-UP (Oct 22 S5: Vienna/Basel imminent → Sunday opening); S4 FOLLOW-UP (Oct 22 S5: ATP Race → standings update); S5 NEW (weekend preview) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on Ningbo Rybakina/Shnaider/Bouzková QF scores (bracket inferred), Basel seedings (source conflict on Fils vs FAA at #2) |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars (273, 201, 214, 196, 228, 263, 247); code-block format; #TennisFanrecap + topic hashtags |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 9 imagn concepts across 5 stories; player-name-only search terms |
+| Articles (5) | COMPLETE | article-01 Almaty SFs (Elena Voss T1); article-02 Ningbo SFs Fernandez (Marcus Cole T1); article-03 Vienna+Basel Sunday (Ryan Calloway T2); article-04 ATP Race final stretch (Elena Voss T2); article-05 Weekend preview (Marcus Cole T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 38 claims auto-extracted; all stories present in all content files; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles; no char limit errors |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-10-24.xlsx + tfr-postplanner-tobi-2026-10-24.xlsx — 7 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Oct 24 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **Key stories:** Almaty SFs (Medvedev vs Bublik, Tsitsipas vs qualifier Basilashvili; Final Oct 25); Ningbo SFs (Rybakina vs Shnaider, Fernandez surprise run vs Bouzková; Final Oct 25); Vienna+Basel open Sunday Oct 26; ATP Race Turin update (3 confirmed, 5 spots open); Weekend preview
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); PostPlanner + compile + review-dashboard all COMPLETED successfully today
+
+---
+
 ## Current Run: 2026-10-22
 
 | Step | Status | Notes |
