@@ -1,10 +1,30 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Current Status
-**Last Run:** 2026-10-23
-**Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy; git push via GitHub MCP
+**Last Run:** 2026-10-24
+**Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy; git push to main
 
 ## Pipeline Run Log
+### 2026-10-24 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 31 claims, 50 HIGH; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 5 FB posts, 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (27 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: ✅ pushed to main (340739a4)
+
+**Stories covered:**
+1. T1 NEW: Knicks Go 0-2 — Celtics 107, Knicks 103, Tatum 36pts (Jake Torres)
+2. T2 NEW: Rockets 114, Spurs 110 — Amen Thompson Block Seals Houston's Escape (Marcus Cole)
+3. T1 NEW: Hawks 128, Hornets 81 — Franchise Record 47-Point Blowout, Johnson 19/8/7 (Damon Pierce)
+4. T2 NEW: Lakers 125, Clippers 117 — Reaves 28/9, Kessler 22/6 in LA Derby Win (Jake Torres)
+5. T2 NEW: NBA Saturday Preview — 8 Games, Giannis vs. LeBron Headlines (Marcus Cole)
+
+---
+
 ### 2026-10-23 ✅ (Automated)
 - Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
 - Step 10: verify-facts.py — 5 stories, 26 claims, 42 HIGH; image manifest warnings (expected; imagn sourcing)
