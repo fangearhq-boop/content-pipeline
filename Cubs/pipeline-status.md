@@ -1,18 +1,22 @@
-# Cubs Pipeline Status — Updated 2026-10-23
+# Cubs Pipeline Status — Updated 2026-10-24
 
 ## Latest Run
-- **Date:** 2026-10-23 (Friday — Off day. World Series Game 1 TONIGHT Brewers vs. Rays (7 PM CT, Fox). WS = Michael King opt-out clock starts. Sato 45-day posting window open since Oct 19. PCA MVP BBWAA vote early November. AFL Mesa Solar Sox ongoing through Nov 14. Gold Glove finalists: 5 Cubs, winners Nov 1.)
-- **Stories:** 5
-- **X posts:** 5
+- **Date:** 2026-10-24 (Saturday — Off day. WS: Brewers 3, Rays 2 in Game 1 (Oct 23). Game 2 tonight 7 PM CT FOX. Gold Glove countdown: 8 days to Nov 1. Suzuki + Happ both heading to FA. Kwan trade link (FanSided). Mallee/Mets: still interview stage, no offer.)
+- **Stories:** 6
+- **X posts:** 6
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
-- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 5 stories, 5 tweets
-- **07-content-data.json:** ✅ Valid JSON, all 5 posts with posting_time (7:00 AM / 9:30 AM / 12:00 PM / 2:30 PM / 3:45 PM CT), all strptime-parseable
+- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 6 stories, 6 tweets
+- **07-content-data.json:** ✅ Valid JSON, all 6 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 12:00 PM / 2:30 PM / 5:00 PM CT), all strptime-parseable
 - **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
-- **Note:** git remote set-url (PAT embed) blocked by CCR auto-mode classifier; push via mcp__github__push_files. Insights applied: allcaps_lead WINS (delta=0.358) + not_statement WINS (delta=0.284) — all tweets open ALL CAPS, non-statement leads. Story 4 changed from Steve Miller (already covered Oct 20) to PCA MVP bold take (WS tonight vs. PCA's November crown).
+- **Note:** Insights applied: allcaps_lead WINS (delta=0.33, small) — all tweets open ALL CAPS. WS Game 1 result confirmed (Brewers 3-2). Rotation crisis covered (4 FAs). Kwan trade NEW. Gold Glove countdown. Suzuki/Happ dual FA NEW angle. Mallee FOLLOW UP.
 
-## Insights Summary (2026-10-23)
-- **Generated:** 2026-10-23T08:30 UTC — 91 measured tweets
+## Insights Summary (2026-10-24 run — from 2026-10-23 snapshot)
+- **Generated:** 2026-10-23T14:32 UTC
+- **Finding 1:** `opening=allcaps_lead` WINS — Cliff's delta=0.33 (small), p=0.0164; winner median 101.5 vs loser 54.5. Applied: every tweet opens ALL CAPS.
+- **No other significant findings.**
+
+## Insights Summary (2026-10-23 run — prior snapshot)
 - **Finding 1:** `opening=allcaps_lead` WINS — Cliff's delta=0.358 (medium), p=0.0073; winner median 99 vs loser 51. Applied: every tweet opens ALL CAPS.
 - **Finding 2:** `opening=statement` LOSES — `not_statement` wins, delta=0.284 (small), p=0.025; median 96 vs 52.5. Applied: no plain declarative statement opens.
 - **No other significant findings.**

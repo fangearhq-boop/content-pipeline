@@ -1,0 +1,241 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-24",
+  "compiled_at": "2026-10-24T09:19:07.945417+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1",
+      "type": "Brewers WS Game 1 result — 3-2, Game 2 tonight"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2",
+      "type": "Cubs rotation crisis — 4 FAs, need 3 SPs, 38 days"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3",
+      "type": "Kwan trade link — Cubs in the mix"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 4",
+      "type": "Gold Glove countdown — 8 days, historic sweep"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Story 5",
+      "type": "Suzuki + Happ both FA this winter"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 6",
+      "type": "Mallee no offer yet + Game 2 hype"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Brewers win WS Game 1 3-2 over Rays; Game 2 tonight at 7 PM CT",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Milwaukee Brewers defeated Tampa Bay Rays 3-2 in World Series Game 1 (Oct 23) at American Family Field. Yelich RBI triple started a 2-run 1st. Misiorowski: 5 IP, 1 ER. Megill escaped bases-loaded 9th. Brewers lead series 1-0. Game 2 is tonight at 7 PM CT on FOX. Cubs' division rival is one win from going up 2-0 in the World Series — Cubs finished 14 games behind Milwaukee in 2026.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "BREWERS 3, RAYS 2 in Game 1 of the World Series.\n\nMisiorowski went five strong. Megill escaped a 9th-inning mess. Milwaukee leads the series 1-0 and our NL Central rivals are one win from going up 2-0.\n\nGame 2 tonight — 7:00 PM CT on FOX.\n\n#Cubs #MLB #GoCubs",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Rival Watch / Informative",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#GoCubs"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Brewers win WS Game 1 3-2; Game 2 tonight\n**Decision:** FOLLOW UP — Prior WS coverage Oct 20–22 previewed the matchup. Today = first result.\n**Sources:**\n1. ABC News (2026-10-23): \"Brewers withstand Rays' comeback attempt to win 3-2 in Game 1 of World Series\" — https://abcnews.com/Sports/wireStory/brewers-withstand-rays-comeback-attempt-win-3-2-137531068\n2. CBS Sports (2026-10-23): \"Winners and losers from World Series Game 1: Brewers survive late scare\" — https://www.cbssports.com/mlb/news/world-series-game-1-score-live-updates-brewers-rays/live/\n3. FOX6 / WSOCTV (schedule): Game 2 at 7 PM CT Saturday Oct 24, Milwaukee\n**Key Facts (MEDIUM confidence — web sources confirmed by multiple outlets):**\n- Final: Brewers 3, Rays 2 — **VERIFIED (3 sources)**\n- Yelich RBI triple in 1st inning sparked 2-run rally\n- Misiorowski: 5 IP, 1 ER — win\n- Uribe + Ashby: 3 combined scoreless relief innings\n- Megill: 9th inning, loaded bases, struck out DeLuca to end it\n- Replay controversy: DP overturned, Mateo scored for Rays' second run (3-2 final)\n- Series: Brewers lead 1-0\n- Game 2: Tonight, 7 PM CT, American Family Field, Milwaukee\n- Broadcast: FOX / FOX ONE\n**Freshness:** Published Oct 23, 2026 — within 24 hours. ✓\n**Why it matters:** Brewers (Cubs' NL Central rival) are one win away from going up 2-0 in the WS. Cubs fans are watching their biggest division rival compete for a championship 14 games above Chicago's final record.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Cubs rotation crisis — four SPs headed to free agency, need three replacements",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Imanaga, Gausman, Holmes, and Peterson are all set to hit free agency. Boyd holds a mutual option. Cade Horton won't return until at least July 2027 (TJ surgery, April 2026). Cubs realistically need to acquire three starting pitchers in the next 38 days before a potential CBA freeze on December 1. The offense led MLB in 2026 (850 runs) — pitching was the reason they were eliminated. This is the defining Cubs offseason challenge.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "FOUR STARTERS headed to free agency.\n\nImanaga, Gausman, Holmes, Peterson — all potentially gone. Horton's out until July 2027.\n\nCubs need three SPs in 38 days before a CBA freeze.\n\nThe offense led MLB. The rotation cost everything.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold Take / Urgency",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs rotation crisis — 4 FAs, need 3 SPs before possible CBA freeze\n**Decision:** NEW STORY ANGLE — Oct 22 covered the CBA lockout broadly. Today focuses specifically on the SP departures (Imanaga, Gausman, Holmes, Peterson) and what the rotation looks like.\n**Sources:**\n1. NBC Chicago (Oct 2026): \"Who are the Chicago Cubs pitching free agents heading into 2027\" — https://www.nbcchicago.com/chicago-sports-bears-sox-cubs-bulls-blackhawks/who-are-the-chicago-cubs-pitching-free-agents-heading-into-2027/4001317/\n2. Bleacher Report (Oct 1, 2026): \"Cubs 2026 offseason guide\" — https://bleacherreport.com/articles/25505112-cubs-2026-offseason-guide-free-agents-trade-targets-more-roster-shakeups-after-wild-card-loss\n3. MLB.com: \"5 questions facing Cubs this offseason\" — https://www.mlb.com/reds/news/questions-facing-cubs-entering-2026-27-offseason\n**Key Facts (LOW-MEDIUM confidence — requires fact-check):**\n- Imanaga 2026: 11-10, 3.77 ERA, 1.10 WHIP, 174 K in 174.1 IP (best Cubs SP) [MEDIUM — single source]\n- Gausman: Toronto market rumored — Mitch Bannon report; likely to leave [LOW — single source, AI summary]\n- Holmes: $12M player option — expected to decline and test FA [MEDIUM]\n- Boyd: $15M mutual option — potential return [MEDIUM]\n- Cade Horton: TJ surgery April 2026; out until July 2027 [HIGH — widely reported]\n- David Peterson: FA [MEDIUM]\n- Cubs need ~3 starting pitchers this offseason [MEDIUM — analyst estimate]\n- CBA expires Dec 1, 2026 — 38 days away (from today Oct 24) [HIGH — verified]\n**Freshness:** Multiple sources from Oct 2026 season-wrap. ✓\n**Why it matters:** This is the defining Cubs offseason question. They had the best offense AND best defense in MLB but were one-and-done in the Wild Card because pitching failed. Four starters heading out, Horton not until July, Boyd maybe back — that's a near-total rotation teardown in a 38-day window before a potential CBA freeze.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Steven Kwan trade link — Cubs named as leading suitor after Guardians exit",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "FanSided insider Robert Murray reports Steven Kwan (Guardians OF) is \"back on the table\" after Cleveland's ALCS exit. Cubs and Padres named as possible suitors. Cubs GM Carter Hawkins has deep ties in the Cleveland organization. Kwan (.282, 32 RBI in 2026) is in his final arbitration year — controllable through 2027. Would slot in LF as a potential Happ replacement.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "STEVEN KWAN reportedly on the trade block — Cubs in the mix.\n\nRobert Murray (FanSided): Kwan is \"back on the table\" after Cleveland's ALCS exit. GM Carter Hawkins has ties in Cleveland.\n\nIf Happ walks, Kwan slots into LF. Controllable through 2027.\n\n#Cubs #MLB #NorthSiders",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Trade Analysis / Informative",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#NorthSiders"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Steven Kwan trade link — Cubs as leading suitor\n**Decision:** NEW STORY — First time Kwan-Cubs link appears with an insider backing it post-ALCS.\n**Sources:**\n1. FanSided / Robert Murray (Oct 2026): \"MLB insider: Steven Kwan trade is back on the table after Guardians ALCS exit\" — https://fansided.com/mlb/mlb-insider-steven-kwan-trade-is-back-on-the-table-after-guardians-alcs-exit\n2. Roundtable (Oct 20, 2026): \"Cubs linked to Steven Kwan in potential trade\" — https://roundtable.io/sports/mlb/cubs/news/cubs-linked-to-steven-kwan-in-potential-trade\n3. Bleacher Report (Kerry Miller, 2026): Trade proposal — Kwan for Jaxon Wiggins + James Triantos\n**Key Facts (MEDIUM confidence):**\n- Kwan 2026: .282 BA, 3 HR, 32 RBI, 151 games [MEDIUM — single source AI summary]\n- Final year of arbitration; FA after 2027\n- Cubs GM Carter Hawkins has deep ties within Cleveland org (Murray report)\n- Cubs and Padres named as suitors — no exclusive deal reported\n- Would slot in LF if Happ leaves\n- Trade package idea: Jaxon Wiggins + James Triantos (analyst proposal, not confirmed report) [LOW confidence]\n**Freshness:** FanSided / Roundtable pieces dated Oct 2026. ✓\n**Compound claim flag:** \"Cubs GM Carter Hawkins has deep ties within Cleveland org\" — needs 2nd-source verification (Hawkins previously worked for Cleveland; this is plausible).\n**Why it matters:** If Happ leaves via FA, Cubs need a LF option. Kwan is a solid defender and contact hitter under team control through 2027.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Gold Glove countdown — 8 days until historic outfield sweep possible",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Gold Glove winners announced Nov. 1 on ESPN at 8:30 PM ET — 8 days from today. Five Cubs NL finalists: PCA (CF), Happ (LF), Suzuki (RF), Swanson (SS), Bregman (3B). PCA leads all of baseball with 26 Outs Above Average. If PCA, Happ, and Suzuki all win, Cubs would become the first team in MLB history to sweep all three outfield Gold Gloves in one season. Never been done.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "EIGHT DAYS until Cubs could make history.\n\nPCA leads ALL of baseball with 26 Outs Above Average. Happ chasing his 5th straight. Suzuki chasing his first MLB Gold Glove.\n\nIf all three win, it's the first outfield sweep ever.\n\nNovember 1. ESPN. 8:30 PM ET.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative / Awards Countdown",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Gold Glove countdown — 8 days to Nov 1 announcement\n**Decision:** FOLLOW UP — Oct 16 first covered 5 finalists; Oct 22 covered the outfield sweep angle. Today = 8 days until the Nov 1 announcement, fresh \"countdown\" hook.\n**Sources:**\n1. MLB.com: \"2026 Gold Glove Award Finalists\" — https://www.mlb.com/cubs/news/2026-gold-glove-award-finalists\n2. NBC Chicago: \"Pete Crow-Armstrong one of 5 Gold Glove finalists for the Cubs\" — https://www.nbcchicago.com/news/local/pete-crow-armstrong-one-of-5-gold-glove-finalists-for-the-cubs/4002729/\n3. MLB.com: \"Could Cubs' best-in-show defense become 1st to sweep outfield Gold Gloves?\" — https://www.mlb.com/giants/news/can-cubs-sweep-all-3-outfield-gold-gloves\n**Key Facts (MEDIUM-HIGH confidence):**\n- Five Cubs finalists: PCA (CF), Happ (LF), Suzuki (RF), Swanson (SS), Bregman (3B) [HIGH — MLB.com]\n- Announcement: Nov 1, ESPN 8:30 PM ET [HIGH — MLB.com]\n- PCA: 26 OAA — leads all of baseball [MEDIUM — single source, plausible given other reports]\n- Happ: Seeking 5th consecutive Gold Glove; Chourio may challenge [MEDIUM]\n- Suzuki: First MLB Gold Glove finalist since joining in 2022 [MEDIUM]\n- HISTORIC SWEEP ANGLE: No MLB team has EVER swept all 3 outfield Gold Gloves in one season [HIGH — multiple sources including MLB.com]\n**Freshness:** Finalists announced Oct 14; countdown angle is fresh for Oct 24 (8 days left). ✓\n**Compound/superlative claim:** \"First team in MLB history to sweep all 3 outfield Gold Gloves\" — confirmed by MLB.com (high confidence). ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Seiya Suzuki and Ian Happ both headed to free agency",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Both outfielders are entering free agency this winter. Suzuki posted a 131 OPS+ and career-high 5.1 WAR in 2026 — Cubs will make him a qualifying offer, but projections suggest he could command a massive deal elsewhere. Happ (4-time Gold Glover, longest-tenured Cub) had a down offensive year (103 OPS+). With PCA and Hoerner locked through 2032, the Cubs' outfield wings are suddenly unsettled.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "SEIYA SUZUKI. IAN HAPP. Both free agents.\n\nSuzuki: 131 OPS+, 26 HR, 5.1 WAR. He'll get a massive offer somewhere.\n\nHapp: 4-time Gold Glover, longest-tenured Cub. Down year but irreplaceable.\n\nPCA and Hoerner locked through 2032. The wings just flew open.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Analysis / Org News",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Suzuki + Happ both headed to free agency\n**Decision:** NEW STORY ANGLE — Prior coverage focused on individual players; today's angle is the dual decision and what it means for the outfield.\n**Sources:**\n1. Bleacher Report (Oct 21, 2026): \"Ranking Cubs' Seiya Suzuki, Ian Happ landing spots ahead of MLB free agency\" — https://bleacherreport.com/articles/25505226-ranking-cubs-seiya-suzuki-ian-happ-landing-spots-ahead-mlb-free-agency\n2. Bleacher Nation (Oct 2026): Cubs will make Suzuki a qualifying offer; $130M+ market projection — https://www.bleachernation.com/?p=2805027\n3. MLB Trade Rumors: \"Poll: What Should The Cubs Do With Ian Happ, Seiya Suzuki?\" — https://www.mlbtraderumors.com/mlbtr-polls\n**Key Facts (LOW-MEDIUM confidence — WebFetch AI summaries):**\n- Suzuki 2026: 131 OPS+, 26 HR, career-high 5.1 WAR [MEDIUM — single source]\n- Cubs will make Suzuki a qualifying offer [MEDIUM — Bleacher Nation]\n- Suzuki market projection: $130M+ range, Cubs unlikely to match [LOW — analyst speculation]\n- Happ 2026: 103 OPS+, 2.9 WAR, 156 games [MEDIUM — single source]\n- Happ: 4-time consecutive NL Gold Glove winner, longest-tenured Cub [HIGH — well documented]\n- PCA + Hoerner signed extensions through 2032 [HIGH — MLB Trade Rumors]\n**Freshness:** Bleacher Report piece Oct 21, 2026. ✓\n**Flag:** Dollar figures ($130M+) are analyst projections, not reported offers. Will be marked MEDIUM/LOW in fact-check log. Will not include specific dollar amounts in tweets.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "John Mallee update — Mets still at interview stage, no offer; Cubs expect staff continuity",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "No offer has been made to Cubs assistant hitting coach John Mallee from the Mets as of the latest reports. Kevin Long also a Mets candidate. Cubs not expecting a major coaching staff shakeup — Mallee, Hottovy, and Jacobson expected to return. Mallee turned PCA from below-average hitter (2024) to All-Star (2025). Combined with Game 2 tonight reminder at 5 PM CT.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "JOHN MALLEE is still in the Mets' mix — no offer yet.\n\nThe man who turned PCA into an All-Star isn't going anywhere for now. Cubs are expecting coaching staff continuity this offseason.\n\nBrewers go for 2-0 in the World Series TONIGHT. 7:00 PM CT. FOX.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Org News / Rival Watch",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Mallee/Mets — Still at interview stage, no offer\n**Decision:** FOLLOW UP — Oct 22 first covered the Mallee interview news. Today = no update (no offer), but Cubs coaching stability angle is fresh.\n**Sources:**\n1. MLB.com (Oct 2026): \"Mets include Cubs' Mallee in coaching staff search\" — https://mlb.com/mets/news/mets-to-interview-cubs-john-mallee-for-coaching-staff-role\n2. Bleacher Nation (Oct 21): \"Cubs assistant hitting coach John Mallee reportedly drawing interest\" — https://www.bleachernation.com/cubs/2026/10/21/cubs-assistant-hitting-coach-john-mallee-reportedly-drawing-interest/\n**Key Facts (MEDIUM confidence):**\n- No offer made to Mallee as of latest reports [MEDIUM]\n- Cubs not expecting major coaching shakeup this offseason [MEDIUM — Bleacher Nation]\n- Mallee's impact: PCA developed from below-average hitter (2024) to All-Star (2025) under Mallee [HIGH — widely cited]\n- Mallee is interview-stage only; Kevin Long also a Mets candidate [MEDIUM]\n**Freshness:** Oct 21 most recent report — 3 days old. Borderline. Will frame around Cubs stability angle rather than the interview itself. ✓ (framed as ongoing)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

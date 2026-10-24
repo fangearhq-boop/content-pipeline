@@ -5,6 +5,63 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-10-24 (OFF DAY — Early offseason. WS: Brewers 3, Rays 2 Game 1 (Oct 23). Game 2 tonight 7 PM CT. Insights: allcaps_lead WINNER (small, delta=0.33). Suzuki/Happ both FA. Kwan trade link (FanSided). Gold Glove countdown 8 days. Mallee/Mets still interview-stage.)
+
+### STORY 1: Brewers Win WS Game 1 3-2; Game 2 Tonight at 7 PM CT
+- **Angle:** FOLLOW UP (Oct 22 = WS preview; today = first result). Brewers beat Rays 3-2 in WS Game 1 at American Family Field. Yelich RBI triple sparked 2-run 1st. Misiorowski 5 IP, 1 ER. Megill survived bases-loaded 9th (Mateo scored on overturned DP review, final 3-2). Series 1-0 Brewers. Game 2 tonight 7 PM CT on FOX.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, rival watch)
+- **Follow-Up Opportunities:**
+  - WS Game 2 result tonight → Brewers go up 2-0 or series tied
+  - WS winner crowned → division benchmark reaction
+  - Brewers' Misiorowski stats if they win → pitching envy angle
+
+### STORY 2: Cubs Rotation Crisis — Four FAs, Need Three SPs Before CBA Freeze
+- **Angle:** NEW STORY ANGLE (Oct 22 = CBA broadly; today = specific SP departures). Imanaga (best, 3.77 ERA), Gausman (Toronto rumors), Holmes ($12M option expected declined), Peterson all FA. Boyd mutual option. Horton TJ out until July 2027. Cubs need 3 SPs in 38 days before Dec 1 CBA potential freeze.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take / urgency)
+- **Follow-Up Opportunities:**
+  - Imanaga signing elsewhere → reaction take
+  - Gausman Toronto announcement → Tier 1 reaction
+  - Holmes declines option → Tier 2 roster news
+  - Cubs sign a starter → Tier 1 breaking
+
+### STORY 3: Steven Kwan Trade Link — Cubs Named as Leading Suitor
+- **Angle:** NEW STORY. FanSided Robert Murray: Kwan "back on the table" after Guardians ALCS exit. Cubs + Padres as suitors. Hawkins ties in Cleveland org. Kwan .282, 32 RBI, 151 G in 2026. Final arb year → FA after 2027. Would replace Happ in LF.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, trade analysis)
+- **Follow-Up Opportunities:**
+  - Kwan trade completed → Tier 1 breaking
+  - Cubs make formal offer → Tier 2
+  - Trade package details leaked → analysis
+
+### STORY 4: Gold Glove Countdown — 8 Days, Historic Outfield Sweep Possible
+- **Angle:** FOLLOW UP (Oct 16 = first finalists coverage; Oct 22 = outfield sweep angle; today = 8-day countdown). PCA 26 OAA leads all baseball. Happ chasing 5th consecutive. Suzuki: first MLB finalist. Winners Nov 1 ESPN 8:30 PM ET. Historic: no team ever swept all 3 outfield GGs in one season.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, informative / countdown)
+- **Follow-Up Opportunities:**
+  - Gold Glove winners Nov 1 → celebration tweet if PCA/Happ/Suzuki sweep (Tier 1)
+  - PCA wins Platinum Glove → feature
+
+### STORY 5: Seiya Suzuki + Ian Happ Both Heading to Free Agency
+- **Angle:** NEW STORY ANGLE (Oct 20 = QO window preview for each individually; today = dual FA departure angle). Suzuki: 131 OPS+, 26 HR, 5.1 WAR — Cubs will make QO; massive market expected. Happ: 4-time GG, longest-tenured Cub, 103 OPS+ down year. PCA/Hoerner locked through 2032. Outfield unsettled.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, analysis / org news)
+- **Follow-Up Opportunities:**
+  - QO offered to Suzuki → Tier 2 org news (expected ~Nov 2)
+  - Suzuki/Happ sign elsewhere → reactions
+  - Cubs retain Happ → bold take on loyalty
+
+### STORY 6: John Mallee Update — No Offer Yet, Cubs Expect Staff Continuity
+- **Angle:** FOLLOW UP (Oct 22 = Mets interview first coverage). No offer made; Kevin Long also candidate; Cubs not expecting major staff shakeup; Hottovy + Jacobson expected back.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, org news / rival watch combo)
+- **Follow-Up Opportunities:**
+  - Mallee hired by Mets → Tier 1 org news
+  - Cubs offer Mallee a raise/retention → bold take
+
+---
+
 ## 2026-10-22 (OFF DAY — Early offseason. WS: Brewers vs. Rays, Game 1 TOMORROW Oct 23 Milwaukee (8 PM ET, FOX). CBA expires Dec 1 — 40 days; lockout widely expected. Mets interviewing Cubs asst hitting coach John Mallee. Kirby (Mariners) predicted trade target (BR/Rymer). Gold Glove finalists: PCA/Happ/Suzuki sweep potential Nov 1. AFL Mesa: Cabral 101 mph, Snell bat, Reid changeup. Insights active: brief winner (large); transaction loser (large); len_bucket<140 loser (large); allcaps_lead winner (small).)
 
 ### STORY 1: CBA expires December 1 — lockout looming, Cubs rotation rebuild in jeopardy
