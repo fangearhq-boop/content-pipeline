@@ -3,6 +3,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## Pipeline Run: 2026-10-24
+
+### Story 1: Tennessee Fall Finale — 14-1 Win Over Lee University
+- **Date:** 2026-10-24
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Tennessee fall covered Oct 10-23)
+- **Angle:** Tennessee beat Lee University 14-1 at Sherri Parker Lee Stadium. Freshman Bailee Shelton 3.0 IP, 1 H, 7 K. Coach Karen Weekly candid: wants tougher competition. Final public intersquad Oct 29, 5 PM ET. Pickens + Mardjetko + Shelton = deepest staff in SEC.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Oct 29 public intersquad recap
+  - 2027 preseason rankings (December)
+
+### Story 2: LSU vs. FSU Orange Beach Fall Showcase — TODAY
+- **Date:** 2026-10-24
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** FSU (52-1) and LSU (40-19) play two-game fall showcase at Orange Beach Softball Stadium. Game 1: Oct 24, 4 PM CT. Game 2: Oct 25, noon CT. $10 cash admission. High-profile preview of 2027 storylines.
+- **Content Produced:** Article (article-02, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Game results (Game 1 & 2)
+  - LSU 2027 roster shape
+
+### Story 3: Texas Tech Fall Finale vs. Odessa College — TODAY
+- **Date:** 2026-10-24
+- **Tier:** 2
+- **Classification:** FOLLOW UP (TTU covered Oct 9, 11, 13, 20, 23)
+- **Angle:** TTU closes fall TODAY at 1 PM CT vs Odessa at Rocky Johnson Field. First look at Cottrill/Pendley staff in exhibition. No. 1 portal class: Pickering, Beachum, Heavener, Polar, Gallaway. Williams 27 HR program record returns.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - TTU game result
+  - Big 12 2027 preview (February)
+
+### Story 4: OU vs. Seminole State — Oct 30 Final Fall Exhibition
+- **Date:** 2026-10-24
+- **Tier:** 2
+- **Classification:** FOLLOW UP (OU covered throughout fall; Oct 30 game upcoming)
+- **Angle:** OU's final fall game Thursday Oct 30, 6:30 PM CT, Love's Field. Free on 1oklahoma.com. Last look at Wells (39 HR, NFCA FY), Kavan (2x WCWS MOP), Berzon before spring. 2027 Sooners top-3 national title contenders.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Oct 30 game recap
+  - OU 2027 preseason outlook
+
+### Story 5: 2028 Recruiting — Contact Window Open, EE100 Rankings Continue
+- **Date:** 2026-10-24
+- **Tier:** 3
+- **Classification:** FOLLOW UP (2028 recruiting covered Oct 19-23)
+- **Angle:** Contact period fully open for 2028 class (juniors). EE100 Pitchers 201-300 due Oct 27. Class of 2028 is largest ever (1,200+ nominations). Texas leads with Landers No. 1; Florida's Holden No. 2; OU, Tennessee 5 commits each; FSU twins Luderer.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - EE100 Pitchers 201-300 (Oct 27)
+  - Commit wave updates
+
+---
+
 ## Pipeline Run: 2026-10-23
 
 ### Story 1: OU vs USAO Tonight — Battle Series Game 5
