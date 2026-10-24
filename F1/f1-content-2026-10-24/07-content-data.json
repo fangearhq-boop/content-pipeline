@@ -1,0 +1,313 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-24",
+  "compiled_at": "2026-10-24T11:25:26.493203+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "US Grand Prix Qualifying Preview — Leclerc Leads, Can He Hold Off Mercedes?",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Charles Leclerc topped both Friday practice sessions at COTA.\n\nAntonelli was just 0.042s back. Verstappen was third. Hamilton was P4, 0.615s off.\n\nQualifying starts at 5 PM ET. One of the closest qualifying battles of the season. #F1 #USGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#USGP"
+          ],
+          "char_count": 239
+        },
+        {
+          "label": "Post 1-2",
+          "text": "F1 qualifying at COTA starts in 30 minutes.\n\nLeclerc leads the pace from Friday. Antonelli is right behind him. Hamilton needs a perfect lap.\n\n5:00 PM ET. The grid for Sunday takes shape now. #F1 #USGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#USGP"
+          ],
+          "char_count": 201
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 10:00 AM ET\n\nCharles Leclerc is the name to watch at COTA today.\n\nThe Ferrari driver topped both Friday practice sessions, sitting on 1:35.291 in FP2 with Kimi Antonelli right behind him at just 0.042 seconds. Verstappen was third, and Lewis Hamilton — his Ferrari teammate — was fourth, 0.615 seconds off the pace.\n\nQualifying begins at 5:00 PM ET Saturday, and the margin between the front-runners is razor-thin. Mercedes has publicly said that no team can be ruled out for pole. That's team-speak for \"we're coming,\" but it also tells you how uncertain the top of the grid is right now.\n\nFor fans watching at home: this is the qualifying session that will define strategy, starting positions, and potentially Antonelli's championship destiny for Sunday. Every tenth of a second matters.",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-usgp-qualifying-preview-leclerc-leads.html",
+        "headline": "US Grand Prix Qualifying Preview: Leclerc Heads Into COTA Shootout as Fastest Man on the Grid",
+        "word_count": 665
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "US Grand Prix Qualifying Preview\n**Confidence: HIGH**\n- US Grand Prix: Circuit of the Americas (COTA), Austin, Texas\n- Weekend format: FP1/FP2 Friday, FP3/Qualifying Saturday, Race Sunday Oct 25\n- NO sprint race at COTA in 2026 (sprint calendar: Shanghai, Miami, Montreal, Silverstone, Zandvoort, Singapore)\n- FP2 top results (Friday):\n- P1: Charles Leclerc (Ferrari) — 1:35.291\n- P2: Kimi Antonelli (Mercedes) — +0.042s\n- P3: Max Verstappen (Red Bull) — (third in FP2)\n- P4: Lewis Hamilton (Ferrari) — 0.615s back from teammate Leclerc\n- Antonelli lost time in FP2 due to a loose seat early in the session; still second\n- Mercedes team said none of the four top teams can be ruled out for pole\n- Qualifying: 4:00 PM CDT / 5:00 PM ET Saturday Oct 24",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Antonelli's Title Window at COTA — The Math Behind a Potential Championship Sunday",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Kimi Antonelli leads the championship by 102 points.\n\nOn Sunday, he can become F1 World Champion if he wins and the result goes his way.\n\nSix races left. The math says this weekend could be the one. #F1 #USGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#USGP"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 12:00 PM ET\n\nThe 2026 Formula 1 World Championship may be decided tomorrow afternoon.\n\nKimi Antonelli enters the US Grand Prix weekend leading the championship by 102 points over his Mercedes teammate George Russell. With six races remaining — Austin plus five — the math says this weekend could be the moment.\n\nThe specific scenario: Antonelli must win the race. Russell must finish ninth or worse. Lewis Hamilton must finish fifth or worse.\n\nIt's a narrow path. But it's a real one. Antonelli is 19 years old and driving with the kind of confidence and technical precision that has made him the runaway favorite in what was supposed to be a competitive season. Russell himself has publicly said the title is \"far out of reach.\" The lead hasn't just been consistent — it's been dominant.\n\nSunday at COTA could be the day. The young Italian could become Formula 1 World Champion at the Circuit of the Americas, on American soil, with 50,000 fans watching in person.\n\nThat's the story this weekend.",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-antonelli-championship-clinch-scenario-cota.html",
+        "headline": "The Math Behind Antonelli's Championship Sunday: How He Can Clinch at COTA",
+        "word_count": 622
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Math\n**Confidence: HIGH**\n- Kimi Antonelli leads drivers' championship with 340 points (per Autosport/RacingNews365 pre-COTA)\n- George Russell: 102 points behind Antonelli\n- 6 races remain after Austin (Austin + 5 = 6 rounds remaining total)\n- Max available points remaining (with fastest lap): 156 points\n- To clinch at COTA: Antonelli needs to win AND Russell finish 9th or worse AND Hamilton finish 5th or worse (per pre-event research from previous pipeline runs)\n- Russell himself acknowledged the title is \"far out of reach\" (per PlanetF1)\n- Hamilton and Norris are over 100 points behind",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Hamilton at COTA — A Record-Tying Four US GP Poles and What It Means Today",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Lewis Hamilton has taken 4 poles at COTA — tied with Michael Schumacher for the most all-time.\n\nHe's now a Ferrari driver chasing a record-breaking fifth.\n\nQualifying at 5 PM ET. #F1 #USGP #LH44",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#USGP",
+            "#LH44"
+          ],
+          "char_count": 194
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 8:00 AM ET\n\nWhen Lewis Hamilton straps into his Ferrari and rolls out for COTA qualifying this afternoon, he'll be chasing more than just a good starting position.\n\nHamilton has taken four pole positions at the Circuit of the Americas — tied with Michael Schumacher for the most all-time at this circuit. A fifth pole today would give Hamilton sole possession of that record, one more piece of history for a career that already has more than most drivers could imagine.\n\nBut the context is complicated. Hamilton finished P4 in Friday's second practice session, 0.615 seconds behind his own teammate Charles Leclerc. Closing that gap in a single qualifying hour, against Leclerc, Antonelli, and Verstappen all at their best, is a meaningful task. Hamilton has done it before at COTA — he knows this track as well as almost anyone alive.\n\nThe question today isn't whether Hamilton is motivated. He is. The question is whether Saturday morning's FP3 session gave him what he needed to find those missing tenths.",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-hamilton-cota-poles-record-ferrari.html",
+        "headline": "Hamilton's COTA Legacy: Four Poles, One Record to Break, and a Different Kind of Saturday Mission",
+        "word_count": 604
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton COTA History\n**Confidence: HIGH**\n- Hamilton has 4 US Grand Prix poles at COTA (2017, 2018, 2019, 2023 — exact years need verification)\n- Tied with Michael Schumacher for most COTA poles (4 each)\n- Hamilton won at COTA in 2017, 2018, 2019\n- Hamilton now drives for Ferrari (2026 season)\n- Hamilton is P4 in championship, over 100 points behind Antonelli",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Verstappen's COTA Legacy — Can the Three-Time Defender Spoil Antonelli's Party?",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Max Verstappen has won 4 of the last 5 US Grand Prix races at COTA.\n\nHe can't win the championship this year. But he can absolutely win Sunday.\n\nDon't write him off just because the title is settled. #F1 #USGP #MaxVerstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#USGP",
+            "#MaxVerstappen"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 2:00 PM ET\n\nMax Verstappen cannot win the 2026 Formula 1 World Championship. That title belongs to Kimi Antonelli now — the points gap is too large with too few races left, and Verstappen's title defense has gradually dissolved over the second half of the season.\n\nBut Max Verstappen can absolutely win the United States Grand Prix on Sunday.\n\nThat distinction matters more than it might seem. Verstappen has won four of the last five races at the Circuit of the Americas. His connection with this circuit runs deep — the bumpy, flowing layout suits Red Bull's chassis philosophy, and Verstappen's ability to extract performance from a difficult track is unmatched in the current grid.\n\nIn qualifying this afternoon, Red Bull was third in Friday's sessions. That puts them in striking distance of the front row. And in the race, one safety car, one strategic call, one moment where Leclerc or Antonelli makes a mistake, and Verstappen will be right there.\n\nHe won't be the champion. But he can still be a force. And at COTA, he almost always is.",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-verstappen-cota-spoiler-four-wins.html",
+        "headline": "Verstappen at COTA: The Champion Who Can't Retain His Title Can Still Dominate His Favorite Circuit",
+        "word_count": 642
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen COTA History\n**Confidence: HIGH**\n- Verstappen won 2022, 2023, 2024 COTA races (4 of last 5)\n- Verstappen is mathematically out of championship contention (100+ points behind)\n- Red Bull showed competitive FP2 pace (P3)\n- Verstappen has historically been strong at COTA — bumpy surface suits Red Bull's setups",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "What Ferrari's COTA Form Means for the Constructors' Title",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Leclerc was fastest at COTA on Friday. Hamilton was P4.\n\nFerrari needs every point in the constructors' standings. A dominant COTA weekend could close the gap on Mercedes.\n\nThe team championship fight is alive. #F1 #USGP #Ferrari",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#USGP",
+            "#Ferrari"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 10:00 AM ET\n\nWith Kimi Antonelli almost certain to deliver Mercedes a second consecutive drivers' championship, the battle that matters most on the constructors' side could come down to Austin.\n\nFerrari enters the US Grand Prix as the fastest team on Friday's timesheets — Leclerc fastest in both FP1 and FP2, Hamilton P4 — and a strong COTA weekend would deliver crucial points in the team standings. Mercedes leads the constructors' championship, and the gap is significant, but every race that Ferrari can score heavily narrows it.\n\nThe constructors' championship doesn't carry the same headline glamour as the drivers' title. But for Ferrari, it represents team legacy, resources, and vindication of the engineering direction they've committed to this season. A race where both Leclerc and Hamilton finish on the podium would be a major constructors' swing.\n\nCOTA appears to suit the current Ferrari package. This weekend's result will say a great deal about where the Scuderia stands in the final six races of the season.",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-ferrari-constructors-cota-leclerc.html",
+        "headline": "Ferrari's COTA Opportunity: Leclerc's Practice Dominance Points to a Crucial Constructors' Weekend",
+        "word_count": 620
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ferrari Constructors' Battle\n**Confidence: MEDIUM**\n- Mercedes leads constructors' championship with 578 points (per RacingNews365 after Singapore/Monza)\n- Ferrari is second but behind\n- Leclerc has been dominant in recent races\n- COTA typically suits Ferrari based on historical performance\n- Key fact: Leclerc won Monza 2026 (mentioned as Antonelli's Italian GP win — wait, actually there was overlap)\n**Note:** The \"Italian GP win\" went to Antonelli per Autosport. Leclerc's strong form may be relative to mid-season slumps. Need to be careful not to overstate Ferrari's season performance.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

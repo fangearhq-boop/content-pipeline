@@ -1,11 +1,32 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-10-23
+## Last Run: 2026-10-24
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** F1 Fanrecap
 **Stories:** 5
 **Articles:** 5
+
+---
+
+## 2026-10-24 Run Log ✅ (Automated)
+
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 21 claims, 39 HIGH; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 6 tweets, 5 FB posts, 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (26 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: ✅ pushed to main
+
+**Stories covered:**
+1. T1 FOLLOW UP: US Grand Prix Qualifying Preview — Leclerc Leads, Ferrari vs. Mercedes Shootout (Ryan Calloway)
+2. T1 FOLLOW UP: Antonelli's Championship Clinch Math at COTA (Marcus Cole)
+3. T2 NEW: Hamilton COTA Pole Record — Chasing Solo Record vs. Schumacher (Elena Voss)
+4. T2 FOLLOW UP: Verstappen's COTA Legacy — 4 of Last 5 US GP Wins (Ryan Calloway)
+5. T2 NEW: Ferrari's Constructors' Battle at COTA (Elena Voss)
 
 ---
 

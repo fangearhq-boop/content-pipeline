@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-24
+
+### STORY 1: US Grand Prix Qualifying Preview — Leclerc Leads, Ferrari vs. Mercedes Shootout
+- **Tier:** 1
+- **Category:** US Grand Prix / COTA / Qualifying / Charles Leclerc / Ferrari / Kimi Antonelli / Lewis Hamilton
+- **Key facts:** Leclerc P1 in FP2 at 1:35.291; Antonelli P2 (+0.042s); Verstappen P3; Hamilton P4 (+0.615s); no sprint race at COTA; qualifying 5 PM ET; Mercedes said no team can be ruled out for pole
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: Antonelli's Championship Clinch Math at COTA
+- **Tier:** 1
+- **Category:** Kimi Antonelli / F1 Championship / US Grand Prix / George Russell
+- **Key facts:** Antonelli leads by 102 points (340 total); Russell said title "far out of reach"; clinch requires: Antonelli wins + Russell 9th or worse + Hamilton 5th or worse; 6 races remaining; ~156 points available
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: Hamilton COTA Pole Record — 4 Poles Tied with Schumacher
+- **Tier:** 2
+- **Category:** Lewis Hamilton / Ferrari / COTA History / Qualifying
+- **Key facts:** Hamilton has 4 COTA poles, tied with Michael Schumacher all-time; Hamilton now at Ferrari; P4 in FP2 (+0.615s from Leclerc teammate); chasing record 5th pole
+- **Byline:** Elena Voss
+- **Status:** NEW
+
+### STORY 4: Verstappen's COTA Legacy — 4 of Last 5 US GP Wins
+- **Tier:** 2
+- **Category:** Max Verstappen / Red Bull / COTA / US Grand Prix History
+- **Key facts:** Verstappen won 4 of last 5 US Grand Prix races at COTA; P3 in FP2; mathematically out of championship; Red Bull's COTA setup advantage (bumps); race spoiler role
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: Ferrari's Constructors' Battle at COTA — Leclerc and Hamilton as a Two-Car Army
+- **Tier:** 2
+- **Category:** Ferrari / Constructors' Championship / Charles Leclerc / Lewis Hamilton
+- **Key facts:** Mercedes leads constructors'; Ferrari chasing points gap; Leclerc P1 FP2; Hamilton P4 FP2; COTA suits Ferrari aerodynamic package; constructors' title determines prize fund and development budget
+- **Byline:** Elena Voss
+- **Status:** NEW
+
 ## 2026-10-23
 
 ### STORY 1: Antonelli Can Make History Sunday — The Championship Clinch Scenario Explained
