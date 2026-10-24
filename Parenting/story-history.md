@@ -2,6 +2,50 @@
 
 ---
 
+## October 24, 2026
+
+### Story 1: CPSC Recalls Halloween Toys and Costumes — Battery and Choking Risks
+- **Date:** 2026-10-24
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** Oct 22 CPSC recalls: CIYTI Light-Up Princess Costumes (Amazon, battery access risk); BAMAMON LED Finger Light Toys (~6,533 units, battery ingestion risk); Kaizou Group Squishy Bun / Squeezy Dumpling toys (water beads choking/ingestion risk). 7 days before Halloween trick-or-treating.
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 2: D11's $775 Million School Bond Is on the Nov. 3 Ballot
+- **Date:** 2026-10-24
+- **Tier:** T1
+- **Pillar:** Local News
+- **Key Facts:** $775M bond, first D11 bond since 2004; Palmer HS rebuild, Holmes Middle rebuild, Coronado HS HVAC; ~$6.50/month per $100K home value; Gazette editorial board endorsed; D20 also has bond on Nov. 3 ballot; early voting underway in El Paso County.
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (Oct 22 S3 mentioned D11 bond briefly; this is the full deep-dive 10 days before vote)
+
+### Story 3: Two Infant Sleep Products Recalled — Papablic and Joyful Journeys
+- **Date:** 2026-10-24
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** Papablic Bedside Sleeper / Baby Co-Sleeper recalled Oct 15, 2026 (entrapment, suffocation, fall hazards; violates play yard federal standard); Joyful Journeys Baby Lounger recalled 2026 (entrapment and fall hazards; violates infant sleep product standard). Note to grandparents re: hand-me-downs.
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 4: AAP Replaced the 2-Hour Screen Time Rule with the 5 Cs Framework
+- **Date:** 2026-10-24
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** AAP updated guidance Feb 2026 (first major revision in ~10 years); dropped time limits for school-age children; introduced 5 Cs: Content, Context, Child, Connections, Choices; still avoids screens under 18–24 months (except video chatting); keeps no-screen-1-hour-before-bed rule; no screens in bedrooms.
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 5: COS City Council Votes Monday on 2026 Park System Master Plan
+- **Date:** 2026-10-24
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** City Council votes Oct 27 on 2026 Park System Master Plan (Parks Advisory Board recommended); also on agenda: community-focused future use for former Meadows Park Community Center; Monument Valley Park Greenway Trail section closed since Oct 12; Memorial Park adjusting Sunday gate hours.
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+---
+
 ## October 22, 2026
 
 ### Story 1: Things to Do with Kids in Colorado Springs This Weekend (October 23–25)

@@ -1,5 +1,36 @@
 # COS Parenting — Pipeline Status
 
+## Current Run: 2026-10-24
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | CPSC Oct 22 Halloween recalls: CIYTI princess costumes (battery access), BAMAMON LED finger lights (battery ingestion ~6,533 units), Kaizou water bead toys (choking); D11 $775M bond Nov 3 ballot (Palmer HS rebuild, Holmes Middle rebuild, Coronado HVAC; ~$6.50/mo per $100K; Gazette endorsed); Papablic Bedside Sleeper recalled Oct 15 (entrapment/suffocation/fall); Joyful Journeys Baby Lounger recalled 2026 (entrapment/fall); AAP Feb 2026 screen time update (5 Cs: Content/Context/Child/Connections/Choices; dropped time limits school-age; still avoid under 18-24mo); COS City Council vote Oct 27 2026 Park System Master Plan (Monument Valley Greenway Trail closed Oct 12; Meadows Park CC future use on agenda) |
+| Story History Check | COMPLETE | S1 NEW (CPSC Halloween recalls; CIYTI/BAMAMON/Kaizou all new — Oct 20 had Babies' Magic Tea recall, different product); S2 FOLLOW-UP (Oct 20 S5 and Oct 22 S3 mentioned D11 bond — this is dedicated full deep-dive 10 days before vote); S3 NEW (Papablic/Joyful Journeys specific products not previously covered; Oct 19 covered ABC Trading squishy toys — different recall); S4 NEW (AAP 5 Cs framework Feb 2026 update not previously covered); S5 NEW (COS Parks Master Plan vote not previously covered) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on Joyful Journeys exact recall date, D20 bond amount |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts across 5 stories (S1: 2); all ≤280 chars after fixes (initial run: 6/6 over limit; fixed by shortening); 4 hashtags each; #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; no hashtags; 0 exclamation marks |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 8 Gemini base_only prompts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Halloween Toy+Costume Recalls (Jamie Rivera T1); article-02 D11 Bond Nov 3 Ballot (Sarah Morales T1); article-03 Infant Sleep Product Recalls (Jamie Rivera T2); article-04 AAP Screen Time 5 Cs (Sarah Morales T2); article-05 COS Parks Master Plan Vote (Jamie Rivera T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 84 claims; PASSED (tweet char fixes resolved before compile) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles, 8 images; no char limit errors |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 8 entries, all not_started, gemini base_only |
+| Review Dashboard | COMPLETE | review-dashboard.html — 26 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-10-24.xlsx + cosp-postplanner-tobi-2026-10-24.xlsx — 6 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Oct 24 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 6 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 6 posts standard + 6 TOBI
+- **Key stories:** CPSC Halloween recalls (CIYTI princess costumes, BAMAMON finger lights, Kaizou water bead toys — 7 days before trick-or-treating); D11 $775M bond Nov 3 ballot (first D11 bond since 2004; Palmer HS rebuild, Holmes Middle rebuild, Coronado HVAC; ~$6.50/mo per $100K); Papablic bedside sleeper + Joyful Journeys baby lounger recalls (entrapment/suffocation/fall hazards); AAP replaced 2-hour screen time rule with 5 Cs framework (Feb 2026); COS City Council votes Oct 27 on Parks Master Plan
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); tweet char overruns on all 6 tweets fixed (initial counts off by ~30+ chars each)
+
+---
+
 ## Current Run: 2026-10-22
 
 | Step | Status | Notes |
