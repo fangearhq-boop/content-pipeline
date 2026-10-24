@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## Pipeline Run: 2026-10-24
+
+### Story 1: WS Game 1 Recap — Brewers 3, Rays 2
+- **Date**: 2026-10-24
+- **Tier**: 1
+- **Key Facts**: Brewers 3, Rays 2; Milwaukee leads series 1-0; Misiorowski W (5 IP, 1 R, 73 pitches); Martinez L (5 IP, 2 ER); historic first pitch 103.5 mph (WS record, broke Chapman's 103.2 from 2016); Chourio 2-for-4, 1 RBI; Rays' 5-9 spots 1-for-17; Megill survived disputed 9th (Pratt foot off bag, replay overturned DP)
+- **Article**: article-01-ws-game-1-recap-brewers-3-rays-2.html (By Marcus Cole)
+
+### Story 2: WS Game 2 Tonight — Rasmussen vs. Henderson
+- **Date**: 2026-10-24
+- **Tier**: 1
+- **Key Facts**: Rasmussen starts for TB; Logan Henderson starts for MIL (rookie); 8 PM ET FOX; Brewers -122 Rays +104; O/U 6.5 runs; Rasmussen 1.29 ERA postseason, near no-hitter ALDS G1 vs Yankees; Peralta not until G3; Brewers trying to go 2-0
+- **Article**: article-02-ws-game-2-tonight-rasmussen-henderson.html (By Jake Torres)
+
+### Story 3: Misiorowski's 103.5 mph WS Record First Pitch
+- **Date**: 2026-10-24
+- **Tier**: 2
+- **Key Facts**: 103.5 mph first pitch broke WS record of 103.2 mph set by Aroldis Chapman (Cubs, 2016 WS G2); Misiorowski W in Game 1; 5 IP, 1 R; first Milwaukee starter win this October
+- **Article**: article-03-misiorowski-103mph-world-series-record.html (By Ryan Calloway)
+
+### Story 4: Caminero's 112.7 mph Double
+- **Date**: 2026-10-24
+- **Tier**: 2
+- **Key Facts**: Junior Caminero double hit 112.7 mph (hardest-hit ball of Game 1); Misiorowski stranded him; Caminero 22 years old; Rays' best offensive threat; 45 HR 110 RBI 2025 (2x All-Star)
+- **Article**: article-04-caminero-112mph-double-rays-threat.html (By Marcus Cole)
+
+### Story 5: Brewers Bullpen Locks Down Game 1
+- **Date**: 2026-10-24
+- **Tier**: 2
+- **Key Facts**: Uribe + Ashby + Megill combined 6 K across 4 innings; Brewers pen was 0.38 ERA 23.2 IP NLCS; Megill gave up 2 H, 1 BB, 1 R in 9th (survived disputed play); pen has been best in October
+- **Article**: article-05-brewers-bullpen-locks-down-game-1.html (By Jake Torres)
+
+---
+
 ## Pipeline Run: 2026-10-23
 
 ### Story 1: World Series Game 1 Is Tonight — Nick Martinez vs. Jacob Misiorowski

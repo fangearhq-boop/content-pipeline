@@ -1,0 +1,298 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-24",
+  "compiled_at": "2026-10-24T10:17:37.772777+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Brewers 3, Rays 2 — Milwaukee Takes Game 1",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Brewers 3, Rays 2. Milwaukee takes Game 1 of the #WorldSeries.\n\nMisiorowski: 5 IP, 1 R.\nFirst pitch: 103.5 mph — a new World Series record.\nMegill survived a disputed 9th.\n\nMilwaukee leads the Fall Classic 1-0. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WorldSeries",
+            "#Brewers"
+          ],
+          "char_count": 219
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The disputed play that almost cost Milwaukee Game 1:\n\nReplay overturned a double play at 2B — SS Pratt's foot came off the bag. Rays scored.\n\nBut Megill got the final out.\n\nBrewers hold on 3-2. Milwaukee leads the #WorldSeries 1-0. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WorldSeries",
+            "#Brewers"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "**Window:** 8:00 AM ET\n\nMilwaukee drew first blood.\n\nThe Brewers beat the Tampa Bay Rays 3-2 in World Series Game 1 on Friday night at American Family Field, taking a 1-0 series lead in the Fall Classic. It was a tense, dramatic game that ended with a disputed replay in the 9th inning — but Milwaukee held on.\n\nJacob Misiorowski was sensational. The young right-hander threw five innings of one-run ball, striking out three and limiting the Rays to 4 hits. He started the night by throwing a 103.5 mph fastball — the fastest first pitch in World Series history, breaking Aroldis Chapman's record from the 2016 Fall Classic.\n\nMilwaukee scored twice in the first inning and added an insurance run in the 7th to take a 3-1 lead. The Rays got on the board in the 4th when catcher Liam Hicks grounded into a run-scoring play, then nearly pulled within one in the 9th when a replay review overturned a double play call at second base — SS Pratt's foot came off the bag — allowing a run to score and making it 3-2.\n\nBut closer Trevor Megill got the final out and the Brewers survived.\n\nJackson Chourio went 2-for-4, Nick Martinez took the loss for Tampa Bay after five solid innings, and the Rays' bottom of the order went just 1-for-17 with six strikeouts.\n\nGame 2 is tonight. Drew Rasmussen starts for Tampa Bay. First pitch: 8 PM ET on FOX.\n\n**Caption (Image Post)**\nBrewers 3, Rays 2. Milwaukee takes Game 1. Misiorowski threw 5 innings and made World Series history with a 103.5 mph first pitch. The Fall Classic is underway. #WorldSeries #Brewers\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ws-game-1-recap-brewers-3-rays-2.html",
+        "headline": "Brewers 3, Rays 2: Milwaukee Takes Game 1 of the World Series",
+        "word_count": 740
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WS Game 1 Recap — Brewers 3, Rays 2\n**Verified Facts (HIGH confidence):**\n- Final score: Brewers 3, Rays 2; Milwaukee leads series 1-0 [HIGH]\n- Misiorowski W: 5 IP, 4 H, 1 R, 1 BB, 3 K, 73 pitches [HIGH]\n- Nick Martinez L: 5.0 IP, 5 H, 2 ER, 0 BB, 5 K [HIGH]\n- Misiorowski first pitch: 103.5 mph fastball; breaks WS record of 103.2 mph set by Aroldis Chapman, Cubs, 2016 WS Game 2 [HIGH — multiple sources]\n- Scoring sequence: Brewers 2-0 after 1st; Rays cut to 2-1 in 4th (Liam Hicks RBI groundout); MIL insurance run 7th (3-1); Rays scored in 9th on disputed replay (SS Pratt took foot off 2B bag — DP call overturned, run scored); Megill got final out [HIGH]\n- Jackson Chourio: 2-for-4, 1 R, 1 RBI [HIGH]\n- Brewers bullpen: Uribe + Ashby + Megill, 6 combined K across 4 innings [HIGH]\n- Megill 9th: 2 H, 1 BB, 1 R allowed [HIGH]\n- Rays spots 5-9: 1-for-17, 6 strikeouts [HIGH]\n- Junior Caminero double: 112.7 mph exit velocity — hardest hit ball of game [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Game 2 Tonight — Rasmussen vs. Henderson, 8 PM ET FOX",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Drew Rasmussen takes the mound TONIGHT for Tampa Bay.\n\n1.29 ERA this postseason.\nNear no-hitter in the ALDS.\n7 IP, 1 ER in the ALCS.\n\nCan he flip the #WorldSeries?\n\n8 PM ET | FOX | #RaysUp",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WorldSeries",
+            "#RaysUp"
+          ],
+          "char_count": 188
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Game 2 is TONIGHT. Rays are down 0-1.\n\nRasmussen vs Henderson. Tampa Bay needs its ace to steal one in Milwaukee.\n\n8 PM ET | FOX\n\n#WorldSeries #RaysUp #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WorldSeries",
+            "#RaysUp",
+            "#Brewers"
+          ],
+          "char_count": 159
+        }
+      ],
+      "facebook": {
+        "long_form": "**Window:** 3:00 PM ET\n\nTonight could decide the tone of this entire World Series.\n\nDrew Rasmussen takes the mound for Tampa Bay in Game 2 at American Family Field (8 PM ET, FOX) and the Rays absolutely need him to deliver. Rasmussen has been extraordinary in October — a 1.29 ERA across his postseason starts, including a near no-hitter against the Yankees in the ALDS (8+ innings, 1 hit, 10 strikeouts) and a 7-inning, one-run gem in the ALCS.\n\nHe'll face Milwaukee rookie Logan Henderson, who has been part of a dominant Brewers rotation all season but had a shaky start in the NLCS against the Dodgers. This is the biggest stage Henderson has ever faced.\n\nIf Rasmussen dominates and the Rays even the series at 1-1, everything opens back up and Tampa Bay will head home with momentum. If Henderson outduels him and Milwaukee goes up 2-0, the Rays will face enormous pressure in Games 3-5 at Tropicana Field — needing to win three straight to avoid elimination.\n\nMilwaukee is 4-0 at home this postseason. The crowd at American Family Field will be deafening.\n\nFreddy Peralta, the former Brewer who won ALCS MVP, is expected to start Game 3 in Tampa.\n\nThe Fall Classic is just getting started.\n\n**Caption (Image Post)**\nTONIGHT: WS Game 2. Drew Rasmussen (1.29 postseason ERA) vs. Milwaukee rookie Logan Henderson. 8 PM ET, FOX. Can the Rays even it up? #WorldSeries #RaysUp #Brewers\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-ws-game-2-tonight-rasmussen-henderson.html",
+        "headline": "World Series Game 2 Tonight: Rasmussen vs. Henderson, 8 PM ET on FOX",
+        "word_count": 665
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WS Game 2 Preview — Rasmussen vs. Henderson\n**Verified Facts (HIGH confidence):**\n- Game 2 tonight, Oct 24, 8 PM ET, FOX and FOX Deportes at American Family Field [HIGH]\n- Drew Rasmussen starts for Tampa Bay [HIGH — confirmed multiple sources]\n- Logan Henderson starts for Milwaukee [HIGH — confirmed multiple sources]\n- Rasmussen 2026 regular season: 16-5, 2.67 ERA, 2x All-Star [HIGH]\n- Rasmussen postseason: 1.29 ERA across postseason starts [HIGH]\n- Rasmussen ALDS G1 vs Yankees: 8+ IP, 1 H, 10 K (near no-hitter) [HIGH]\n- Rasmussen ALCS G5: 7 IP, 1 ER [HIGH]\n- Henderson: rookie, had shaky start in NLCS G2 vs Dodgers [MEDIUM]\n- Game 2 odds: Brewers -122, Rays +104; O/U 6.5 runs [HIGH]\n- Freddy Peralta NOT starting G2; likely G3 or later at Tampa Bay [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Misiorowski Throws 103.5 mph — A World Series First-Pitch Record",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "103.5 mph.\n\nJacob Misiorowski's first pitch of Game 1 is the fastest ever thrown in a World Series — breaking Aroldis Chapman's 103.2 mph from 2016.\n\nHe followed with 5 IP of 1-run ball.\n\nWhat a night in Milwaukee. #WorldSeries #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WorldSeries",
+            "#Brewers"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "**Window:** 10:30 AM ET\n\n103.5 mph. The first pitch of Game 1 of the World Series.\n\nJacob Misiorowski didn't just start Friday night — he made history before the first hitter even swung. His opening pitch registered 103.5 mph on Statcast, breaking the World Series pitch speed record of 103.2 mph set by Aroldis Chapman during the 2016 Fall Classic when he was pitching for the Chicago Cubs.\n\nThat record had stood for a decade. It fell on the first pitch of the very first World Series game these two franchises have ever played in.\n\nMisiorowski backed up the velocity with five dominant innings — allowing just one run on four hits, walking one, and striking out three. His final line: 5 IP, 4 H, 1 R, 1 BB, 3 K, 73 pitches.\n\nHe became the first Milwaukee starter to earn a postseason win this October, as the Brewers had relied heavily on their bullpen throughout the NLCS sweep of the Dodgers.\n\nThe young right-hander now has one of the most memorable debuts in World Series pitching history — and the Brewers have a 1-0 series lead.\n\n**Caption (Image Post)**\n103.5 mph. Jacob Misiorowski's first pitch of Game 1 broke Aroldis Chapman's World Series pitch speed record. The Brewers are winning. #WorldSeries #Brewers\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-misiorowski-103mph-world-series-record.html",
+        "headline": "Misiorowski Throws 103.5 MPH in Game 1: A New World Series Record",
+        "word_count": 608
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Misiorowski's 103.5 mph WS Record\n**Verified Facts (HIGH confidence):**\n- First pitch of WS G1: 103.5 mph, registered by Statcast [HIGH]\n- Previous WS record: 103.2 mph by Aroldis Chapman (Cubs, 2016 WS G2) [HIGH — multiple sources]\n- Misiorowski earned his first career postseason win in G1 [HIGH]\n- He was the first Milwaukee starter to win a postseason game this October [HIGH — bullpen and Misiorowski had shared duties all NLCS]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Caminero's 112.7 mph Double — The Rays' Best Didn't Have Enough",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Junior Caminero hit a double at 112.7 mph in Game 1 — the hardest-hit ball of the night.\n\nIt went for nothing. Misiorowski stranded him and kept Tampa scoreless in those innings.\n\nThe Rays' 22-year-old phenom connected. Brewers still won. #WorldSeries #RaysUp",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WorldSeries",
+            "#RaysUp"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "**Window:** 11:00 AM ET\n\nJunior Caminero hit the baseball as hard as anyone in Game 1 of the World Series. His double off Jacob Misiorowski registered 112.7 mph exit velocity — the hardest-hit ball of the entire game. It went for a double. It left a runner stranded. The Brewers held on.\n\nThat moment tells you everything about how good Misiorowski was on Friday night.\n\nCaminero is one of the most dangerous young hitters in baseball. He hit 45 home runs and drove in 110 in 2025 as a two-time All-Star. He was limited to just 51 games this year (.265/.356/.490, 13 HR, 27 RBI) but has remained dangerous when healthy. He hit a foul-pole two-run homer in the ALCS clincher against Cleveland.\n\nIn Game 1, Caminero made the hardest contact on the field — and it still wasn't enough against Misiorowski.\n\nThe Rays' bottom of the order (spots 5-9) went 1-for-17 with six strikeouts. Tampa Bay will need more than one player to show up in Game 2 if they want to avoid going home in a 0-2 hole.\n\n**Caption (Image Post)**\n112.7 mph exit velocity. Junior Caminero hit it hard. The Brewers held on anyway. Misiorowski was that good in Game 1. #WorldSeries #RaysUp\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-caminero-112mph-double-rays-threat.html",
+        "headline": "Caminero's 112.7 MPH Double: The Hardest Hit Ball in Game 1 Went Nowhere",
+        "word_count": 581
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Caminero's 112.7 mph Double\n**Verified Facts (HIGH confidence):**\n- Caminero double: 112.7 mph exit velocity [HIGH]\n- Caminero age: 22 years old [HIGH]\n- Caminero 2025: 45 HR, 110 RBI, 2x All-Star [HIGH]\n- Caminero 2026 (injury-limited): 51 games, .265/.356/.490, 13 HR, 27 RBI [HIGH]\n- Caminero ALCS G6 foul-pole 2-run HR (clincher vs Cleveland) [HIGH — from prior research]\n- Rays spots 5-9 in G1: 1-for-17, 6 K [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Uribe, Ashby, Megill — How Milwaukee's Pen Slammed the Door (Almost)",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Uribe. Ashby. Megill.\n\nThe Brewers bullpen combined for 6 K across 4 innings in Game 1.\n\nThey had a 0.38 ERA over 23.2 IP in the NLCS.\n\nMilwaukee's pen is October's best story. #WorldSeries #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WorldSeries",
+            "#Brewers"
+          ],
+          "char_count": 198
+        }
+      ],
+      "facebook": {
+        "long_form": "**Window:** 12:30 PM ET\n\nThe Brewers' bullpen had one of the most dominant postseason stretches in recent memory during the NLCS — a 0.38 ERA over 23.2 innings in the four-game sweep of the Dodgers. On Friday night in Game 1, they mostly kept that going.\n\nAfter Jacob Misiorowski exited following five innings, Abner Uribe, Aaron Ashby, and Trevor Megill combined for six strikeouts over four innings of work. They held a 3-1 lead deep into the game.\n\nThen the 9th inning happened.\n\nMegill came on to close things out and walked into some trouble — two hits, a walk, and a disputed replay changed the score. With two outs, a replay review overturned a double-play call at second base when it was determined that Brewers shortstop Pratt had lifted his foot off the bag too early. The run scored, cutting the lead to 3-2.\n\nBut Megill got the next out. Milwaukee survived.\n\nThe bullpen's October dominance continues — battered slightly, but undefeated in the World Series.\n\n**Caption (Image Post)**\nUribe. Ashby. Megill. The Brewers bullpen bent but didn't break in the 9th. Milwaukee wins Game 1, 3-2. #WorldSeries #Brewers",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-brewers-bullpen-locks-down-game-1.html",
+        "headline": "Uribe, Ashby, Megill: Milwaukee's Bullpen Bent but Held in Game 1",
+        "word_count": 606
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Brewers Bullpen — Uribe/Ashby/Megill\n**Verified Facts (HIGH confidence):**\n- NLCS bullpen ERA: 0.38 across 23.2 IP [HIGH — from prior research, multiple sources]\n- G1 bullpen: Uribe + Ashby + Megill combined for 6 K in 4 innings [HIGH]\n- Megill G1 9th: 2 H, 1 BB, 1 R [HIGH]\n- Disputed play: replay overturned DP call at 2B (Pratt foot off bag); run scored [HIGH]\n- DL Hall, Aaron Ashby: key contributors to NLCS shutdown run [HIGH — from prior research]\n### Background (standing context)\n- Neither franchise has ever won a WS [HIGH]\n- Brewers last WS: 1982 (lost Cardinals G7) [HIGH]\n- Rays WS appearances: 2008 (lost Phillies), 2020 (lost Dodgers) [HIGH]\n- Brewers 2026 record: 103-59 [HIGH]\n- Brewers swept Padres NLDS and Dodgers NLCS (4-0) [HIGH]\n- Brewers 4-0 at home this postseason [HIGH]\n- WS schedule: G1-G2 Milwaukee; G3 Oct 26, G4 Oct 27, G5* Oct 28 Tampa Bay; G6* Oct 30, G7* Oct 31 Milwaukee [HIGH]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 6
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
