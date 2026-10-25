@@ -2,6 +2,50 @@
 
 ---
 
+## October 25, 2026
+
+### Story 1: CPSC Issues Safety Warning on bblüv Grow High Chair
+- **Date:** 2026-10-25
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** CPSC Warning #27-031, October 15, 2026; bblüv Grow high chair; restraint system not pre-assembled during manufacturing; serious fall and entrapment hazards; violates mandatory federal high chair safety standard; bblüv Group declined to cooperate (hence warning, not recall); 0 injuries confirmed at time of warning; directive: stop use immediately, dispose of product.
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 2: Apple and AAP Release Free Screen Time Guide for Families
+- **Date:** 2026-10-25
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** "Building Healthy Digital Habits: A Guide for Families" released September 29, 2026; joint Apple + AAP publication; accompanies iOS 27 Screen Time update; 6 steps: start conversation, Child Account, website/app safety (Ask to Buy/Browse), device schedule, manage communication, revisit plan as kids grow; builds on AAP Feb 2026 5 Cs framework (dropped hour-count limits); free at apple.com; Family Media Plan at HealthyChildren.org.
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 3: D11 and D49 Fall Break Ends — Schools Back Monday Oct. 26
+- **Date:** 2026-10-25
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** D11 fall break Oct 19–23, return Monday Oct 26; D49 fall break Oct 13–23, return Monday Oct 26; D20 different schedule, already back; back-to-routine tips (backpack, bedtime, lunches).
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (Oct 22 S3: fall break return — final-day Sunday reminder)
+
+### Story 4: Halloween Week Events in COS — Free Activities Before Oct. 31
+- **Date:** 2026-10-25
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Fleet Feet Halloween Fun Run Oct 30 6PM (free 5K, Palmer Park, costume prizes); SoccerHaus Indoor Family Halloween Festival Oct 31 2–8PM (free, 4845 List Drive, bounce houses, face painting, sensory-friendly hour 2:30–3:30PM, benefits Aedyn's Backpack Club); Venetucci Farm open today 9:30AM–4PM (5210 S US Hwy 85-87); verify all 2026 details before going.
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (Oct 22 S1: Halloween Weekend Roundup → this week's remaining events)
+
+### Story 5: Halloween Night Safety — Last-Week Checklist for COS Families
+- **Date:** 2026-10-25
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** Child pedestrian risk 43% higher on Halloween night (Safe Kids Worldwide); CSPD: kids under 12 need adult supervision; reflective tape + flashlights; face paint over full masks; cross at crosswalks; COS trick-or-treat window 5:30–8PM; Teal Pumpkin Project (FARE) for allergy families; actual candy tampering extremely rare (FBI data).
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (Oct 22 S4: Halloween pedestrian safety → full night-of prep checklist)
+
+---
+
 ## October 24, 2026
 
 ### Story 1: CPSC Recalls Halloween Toys and Costumes — Battery and Choking Risks

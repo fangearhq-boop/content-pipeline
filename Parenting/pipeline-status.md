@@ -1,5 +1,36 @@
 # COS Parenting — Pipeline Status
 
+## Current Run: 2026-10-25
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | bblüv Grow high chair CPSC Warning #27-031 (Oct 15, 2026; fall/entrapment risk; restraint not assembled; company refused cooperation; 0 injuries; CPSC: dispose immediately); Apple+AAP "Building Healthy Digital Habits" guide (Sept 29, 2026; 6 steps; iOS 27 Screen Time; free at apple.com); D11 fall break Oct 19-23 return Oct 26; D49 fall break Oct 13-23 return Oct 26; Fleet Feet Halloween Fun Run Oct 30 6PM (free 5K Palmer Park); SoccerHaus Indoor Festival Oct 31 2-8PM (free, 4845 List Dr, sensory-friendly 2:30-3:30PM); Venetucci Farm open today 9:30AM-4PM; Safe Kids Halloween pedestrian risk 43% higher; Teal Pumpkin Project (FARE) |
+| Story History Check | COMPLETE | S1 NEW (bblüv warning not previously covered); S2 NEW (Apple+AAP guide Sept 29 not previously covered; distinct from Oct 24 S4 5 Cs framework); S3 FOLLOW-UP (Oct 22 S3: fall break return — Sunday final-day reminder); S4 FOLLOW-UP (Oct 22 S1: Halloween Weekend Roundup → remaining events this week); S5 FOLLOW-UP (Oct 22 S4: Halloween pedestrian safety → full night-of prep checklist) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Sarah Morales [S1, S4, S5], Jamie Rivera [S2, S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on SoccerHaus/Venetucci 2026-specific dates (consistent prior years; verify before going), COS trick-or-treat window |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts across 5 stories (S1: 2); all ≤280 chars (247, 252, 215, 243, 263, 265); PostPlanner format with ### STORY N: and #### Text Post — HH:MM MT headers; 4 hashtags each |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; no hashtags; contractions used throughout; 0 exclamation marks in articles |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 8 Gemini base_only concepts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 bblüv high chair warning (Sarah Morales T1); article-02 Apple+AAP screen time guide (Jamie Rivera T1); article-03 D11/D49 back Monday (Jamie Rivera T2); article-04 Halloween week events (Sarah Morales T2); article-05 Halloween night safety checklist (Sarah Morales T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 73 claims auto-extracted; all stories present in all content files; PASSED (image warnings expected — gemini base_only format) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles, 8 images; no char limit errors |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 8 entries, all not_started, gemini base_only |
+| Review Dashboard | COMPLETE | review-dashboard.html — 26 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-10-25.xlsx + cosp-postplanner-tobi-2026-10-25.xlsx — 6 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Oct 25 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 6 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Sarah Morales [S1, S4, S5], Jamie Rivera [S2, S3])
+- **PostPlanner exports:** 6 posts standard + 6 TOBI
+- **Key stories:** bblüv Grow high chair CPSC Warning #27-031 (restraint not assembled, dispose immediately — company refused recall cooperation); Apple+AAP "Building Healthy Digital Habits" 6-step guide (iOS 27 Screen Time, free at apple.com); D11/D49 back to school Monday Oct 26 (back-to-routine tips); Halloween week COS events (Fleet Feet Fun Run Oct 30 free, SoccerHaus Indoor Festival Oct 31 free, Venetucci Farm today); Halloween night safety checklist (43% higher pedestrian risk, reflective tape, Teal Pumpkin Project)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); PostPlanner completed OK; compile/fact-check all ran successfully
+
+---
+
 ## Current Run: 2026-10-24
 
 | Step | Status | Notes |
