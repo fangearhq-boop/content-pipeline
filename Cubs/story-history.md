@@ -5,6 +5,63 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-10-25 (OFF DAY — Early offseason. WS: Brewers 5, Rays 4 Game 2 (Oct 24). Brewers lead 2-0. Game 3 Monday at Tropicana 7 PM CT. Insights: allcaps_lead WINNER (small, delta=0.33). PCA wins Sporting News POY + Fielding Bible sweep. King opt-out clock ticking. Kanzler Mariners candidate. Gold Glove 7 days. AFL Snell breakout.)
+
+### STORY 1: Brewers rally from 4-0 down to beat Rays 5-4 in WS Game 2; lead series 2-0
+- **Angle:** FOLLOW UP (Oct 24 = WS Game 1 coverage). Brewers erased a 4-0 deficit Saturday night to win Game 2, 5-4. Cooper Pratt go-ahead RBI single in 7th. Aaron Ashby final 5 outs, stranded tying run at third in 9th. Brewers 2-0 in WS. Game 3 Monday at Tropicana, 7 PM CT, FOX.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, rival watch / recap)
+- **Follow-Up Opportunities:**
+  - WS Game 3 result Monday night → Brewers 3-0 or series tightens
+  - Brewers sweep → division benchmark reaction, King opt-out window opens
+
+### STORY 2: PCA wins Sporting News MLB Player of the Year — first Cub since Sosa in 1998
+- **Angle:** NEW STORY (not covered Oct 22 when announced). Peer vote by ~260 players. First Cub since Sammy Sosa in 1998. Separate from BBWAA MVP (early November). PCA also won Baseball Digest POY and Fielding Bible Defensive POY — full pre-BBWAA sweep.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, awards / bold take)
+- **Follow-Up Opportunities:**
+  - BBWAA NL MVP announcement (early November) → Tier 1 celebration
+
+### STORY 3: Cubs sweep Fielding Bible Awards — PCA Defensive POY, Bregman 3B, Team of Year
+- **Angle:** NEW STORY (not covered Oct 22 when announced). PCA wins overall Defensive Player of the Year. Alex Bregman first Cubs 3B in award history (first in his 11th season). Cubs Team of Year 2nd straight: 115 DRS, 28 more than runner-up Rays (87 DRS).
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, awards / informative)
+- **Follow-Up Opportunities:**
+  - Gold Glove results Nov 1 → analytics vs. coaches vote comparison
+
+### STORY 4: Michael King opt-out clock accelerating — Brewers 2-0, sweep possible this week
+- **Angle:** FOLLOW UP (Oct 20 = first coverage; Oct 23 = opt-out clock running). Brewers 2-0 = WS could end as early as Oct 27-28 → opt-out window opens days after. King (3.03 ERA, 175 IP; ERA disputed — 3.11/162 IP per second source) viewed as 2nd-best FA starter behind Skubal. Cubs need multiple SPs. Opt-out clock now imminent.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, trade target / urgency)
+- **Follow-Up Opportunities:**
+  - WS ends → opt-out window opens = Tier 1 breaking
+  - King announces opt-out → Tier 1
+
+### STORY 5: Cubs farm director Jason Kanzler is a Mariners manager candidate
+- **Angle:** NEW STORY (first pipeline coverage). Jason Kanzler (36), Cubs director of player development since 2024 (ex-Astros). Mariners searching for Dan Wilson replacement; search in advanced stage, targeting end-of-October hire. Third key Cubs org departure this offseason (after Banner→Orioles GM, Miller→VP Int'l Scouting). Jon Morosi not ruling Kanzler out as top candidate.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, org news / front office)
+- **Follow-Up Opportunities:**
+  - Kanzler hired by Mariners → Tier 1 org news, development implications
+  - Mariners hire someone else → story closed
+
+### STORY 6: Gold Glove countdown — 7 days, historic outfield sweep on the line
+- **Angle:** FOLLOW UP (Oct 16 = finalists first; Oct 22 = outfield sweep angle; Oct 24 = 8-day countdown). Angle shift today: Bregman won Fielding Bible 3B (analytics) — will coaches/managers agree on Nov 1? PCA, Happ (5th straight), Suzuki (1st ever) all in contention. If all three win, first team ever to sweep all outfield Gold Gloves.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, awards countdown / bold take)
+- **Follow-Up Opportunities:**
+  - Gold Glove winners announced Nov 1 → Tier 1 celebration if Cubs sweep
+
+### STORY 7: AFL Mesa Week 3 — Kade Snell breaking out at Solar Sox
+- **Angle:** FOLLOW UP (Oct 22 = Cabral/Snell/Reid first coverage; Oct 23 = Mathis/Snell focus). Snell now headliner: breaking out specifically as the bat-first OF prospect. Jhon Cabral (101 mph) and Dominick Reid developing alongside. 8 Cubs in AFL through Nov. 14.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, prospect pipeline / feature)
+- **Follow-Up Opportunities:**
+  - AFL Week 4 stats → Snell continued development
+  - Cabral next velocity milestone
+
+---
+
 ## 2026-10-24 (OFF DAY — Early offseason. WS: Brewers 3, Rays 2 Game 1 (Oct 23). Game 2 tonight 7 PM CT. Insights: allcaps_lead WINNER (small, delta=0.33). Suzuki/Happ both FA. Kwan trade link (FanSided). Gold Glove countdown 8 days. Mallee/Mets still interview-stage.)
 
 ### STORY 1: Brewers Win WS Game 1 3-2; Game 2 Tonight at 7 PM CT

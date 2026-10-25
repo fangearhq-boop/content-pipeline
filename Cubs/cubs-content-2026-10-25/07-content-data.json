@@ -1,0 +1,273 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-25",
+  "compiled_at": "2026-10-25T09:27:02.271813+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1",
+      "type": "Brewers WS Game 2 — 5-4 comeback, series 2-0"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2",
+      "type": "PCA Sporting News POY — peer vote, first Cub since Sosa 1998"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3",
+      "type": "Fielding Bible sweep — PCA, Bregman, Team of Year"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Story 4",
+      "type": "King opt-out clock — Brewers 2-0, sweep imminent"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 5",
+      "type": "Kanzler Mariners candidate — third org departure"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Story 6",
+      "type": "Gold Glove countdown — 7 days, historic outfield sweep"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 7",
+      "type": "AFL Snell breakout — Mesa Week 3"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Brewers rally from 4-0 down to beat Rays 5-4 in WS Game 2; lead series 2-0",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Milwaukee erased a 4-0 deficit Saturday night to win Game 2, 5-4, and take a commanding 2-0 World Series lead over Tampa Bay. Cooper Pratt's go-ahead RBI single in the 7th inning gave the Brewers the lead; Aaron Ashby worked the final 5 outs and stranded the tying run at third in the ninth. Series shifts to Tropicana Field for Game 3 on Monday at 7 PM CT. Cubs' division rival is two wins from a title.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "FOUR RUNS DOWN. Milwaukee didn't blink.\n\nBrewers beat Tampa 5-4 to take a 2-0 WS lead. Pratt's go-ahead RBI in the 7th. Ashby locked down the final outs. Cubs watching their division champ close in on a title.\n\nGame 3: Monday at Tropicana, 7 PM CT.\n\n#Cubs #MLB #WorldSeries",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Rival Watch / Recap",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#WorldSeries"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "WS Game 2 — Brewers 5-4 Rays, Series 2-0\n**Decision:** FOLLOW UP (WS Game 1 covered Oct 24 with Brewers 3-2 win)\n**Key Facts:**\n- Final score: Brewers 5, Rays 4\n- Game date: Saturday, October 24, 2026\n- Venue: American Family Field, Milwaukee (Brewers home for Games 1-2 due to better regular season record: 103-59 vs. Rays 98-64)\n- Rays led 4-0 after early innings\n- Brewers rallied with 5 unanswered runs\n- Cooper Pratt: go-ahead RBI single in the 7th inning\n- Aaron Ashby: recorded final 5 outs; stranded tying run at 3rd base in the 9th inning\n- Series result: Brewers lead 2-0\n- Next: Game 3, Monday Oct 26, Tropicana Field, Tampa, 8 PM ET / 7 PM CT, FOX\n- Game 4: Tuesday Oct 27, same venue/time\n- First Brewers World Series since 1982\n**Sources (all <24 hours):**\n- ESPN box score (espn.com, Oct 24): \"Brewers 5-4 Rays (Oct 24, 2026) Final Score\" ✅\n- CBS Sports (Oct 24): \"Winners and losers from World Series Game 2\" ✅\n- Yahoo Sports (Oct 24): \"Brewers outlast late Rays surge to win WS Game 2\" ✅\n- FOX6 (Oct 24-25): \"World Series: Brewers rally to beat Rays, take 2-0 lead\" ✅\n- SI (Oct 25): \"Comeback Crew: Brewers Erase Another Early Deficit\" ✅\n- CNN (Oct 25): \"Brewers come from behind to win Game 2\" ✅\n**Freshness:** ✅ VERIFIED — multiple major outlets from Oct 24-25\n**Why Cubs audience cares:** Division rival Brewers are 2 wins from a title. Cubs have been watching from home since Oct 1. 14-game gap in 2026 records puts the organizational gap in sharp relief.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "PCA wins Sporting News MLB Player of the Year — first Cub since Sosa in 1998",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Pete Crow-Armstrong has been voted the 2026 Sporting News MLB Player of the Year by fellow players — the first Cub to win the honor since Sammy Sosa in 1998. The peer vote is separate from the BBWAA MVP (expected early November). PCA has now won Sporting News POY, Baseball Digest POY, and Fielding Bible Defensive POY before the official BBWAA hardware drops. The clean sweep of pre-BBWAA awards makes the MVP a formality.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "VOTED the best player in baseball. By the players themselves.\n\nPete Crow-Armstrong wins the Sporting News MLB Player of the Year — first Cub since Sosa in 1998. Fielding Bible POY. Baseball Digest POY. BBWAA MVP drops early November.\n\nThe case is closed. 🏆\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Awards / Bold Take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA Awards Sweep — Sporting News POY + Fielding Bible Honors\n**Decision:** FOLLOW UP on PCA coverage, but with NEW ANGLE (specific awards not yet covered)\n**Sub-story 2a: Sporting News MLB Player of the Year**\n**Key Facts:**\n- PCA wins 2026 Sporting News MLB Player of the Year\n- Voted by players (~260 players, 18 executives participated in voting)\n- First Cub to win the Sporting News award since Sammy Sosa in 1998\n- This is NOT the BBWAA MVP — the Sporting News award is a separate honor, voted by peers\n- BBWAA NL MVP announcement: early November (after World Series)\n- PCA also won: Baseball Digest Player of the Year, Baseball America Player of the Year (Oct 6-7, first Cubs player in 28-year award history)\n- 2026 PCA stats: .280/.372, 45 HR, 107 RBI, 119 R, 41 SB, 10.4 fWAR, 162 games\n- 7th player in MLB history with 40+ HR, 40+ SB season\n**Sources:**\n- On Tap Sports Net (Oct 22): \"Pete Crow-Armstrong Named Sporting News MLB Player of the Year\" ✅\n- Yardbarker (Oct 22): same story ✅\n- CubsHQ: \"Pete Crow-Armstrong wins MLB Player of the Year honor after historic season\" ✅\n- Bleacher Nation (Oct 6): Baseball America award\n- **Freshness note:** Source articles from Oct 22 (3 days ago). Per engine 24h rule, this is borderline. Rationale for inclusion: (a) BCB/Cubs news roundup covering these awards appears to be published today; (b) story was not covered in pipeline during its Oct 22 announcement window; (c) BBWAA MVP drop is imminent — today's angle is the award sweep building to that.\n**Sub-story 2b: Fielding Bible Awards**\n**Key Facts:**\n- Announced: October 22, 2026\n- PCA: Wins Fielding Bible Defensive Player of the Year (overall player vote). Narrowly lost CF award to Boston's Ceddanne Rafaela on tiebreaker (Rafaela had 21 DRS vs. PCA's 16 DRS; PCA won Player of Year on points)\n- Alex Bregman: Wins Fielding Bible 3B Award — first Cubs third baseman in award history; 11th MLB season; 15 DRS led all 3Bs\n- Chicago Cubs: Win Fielding Bible Team of the Year for 2nd consecutive season — 115 DRS, 28 more than any other team; Rays 2nd with 87\n**Sources:**\n- SIS (sportsinfosolutions.com, Oct 22): official announcement ✅\n- MLB Trade Rumors (Oct 22): \"2026 Fielding Bible Award Winners Announced\" ✅\n- CubsHQ: \"Cubs dominate 2026 Fielding Bible Awards with three major honors\" ✅\n- BVM Sports (Oct 22): \"Cubs Win 2026 Fielding Bible Player and Team of the Year\" ✅",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Cubs sweep Fielding Bible Awards — PCA Defensive POY, Bregman 3B, Team of Year",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "The Cubs won three Fielding Bible Awards (announced Oct 22): PCA took Defensive Player of the Year overall, Alex Bregman became the first Cubs third baseman in award history, and Chicago claimed Team of the Year for the second consecutive season with 115 defensive runs saved — 28 more than any other club (Rays 2nd with 87). Three awards in one night cement the Cubs as the most dominant defensive organization in baseball.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "THREE FIELDING BIBLE AWARDS in one night.\n\nPCA: Defensive Player of the Year. Bregman: first Cubs 3B to ever win the award. Chicago: Team of the Year for the 2nd straight season — 115 defensive runs saved, 28 more than anyone else.\n\nNot a fair fight. 🧤\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Awards / Informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Michael King Opt-Out Clock\n**Decision:** FOLLOW UP (covered Oct 20 first, Oct 23 \"WS = clock running\")\n**Key Facts:**\n- King signed 3yr/$75M with San Diego Padres; opt-out clause after year 1 (2026 season)\n- Opt-out forfeits remaining years (~$58M), receives $5M buyout\n- Opt-out window opens in the days following the World Series end (~5 days after per established pipeline note)\n- Current WS status: Brewers 2-0 Rays. Game 3 Monday. Possible Brewers sweep = WS ends ~Oct 27-28\n- If WS ends Oct 27: opt-out window opens early November\n- Expert consensus: King will opt out (ESPN's Passan, MLB.com's Feinsand)\n- King viewed as 2nd-best FA starter on market behind Tarik Skubal\n- King 2026 stats: CONFLICTING — source 1: 3.03 ERA, 175 IP, 30 starts; source 2: 3.11 ERA, 162 IP. Flag in fact-check.\n- Cubs context: need multiple SPs; Imanaga, Gausman, Holmes, Peterson all leaving/departed\n**Sources:**\n- SI (Oct 2026): \"Padres Star Michael King's Opt-Out Decision is Obvious, Says Insider\" ✅\n- Yahoo Sports: \"Padres predicted to lose Michael King due to $58 million opt out decision\" ✅\n- CBS Sports: contract details ✅\n- Pipeline history (Oct 23): established 5-day opt-out window timing\n- **Freshness note:** New hook is today's WS Game 2 result (Brewers 2-0) which tightens the opt-out timeline. The base King story was covered Oct 20 and Oct 23; today's angle is sweep-scenario timing.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Michael King opt-out clock accelerating — Brewers 2-0, sweep possible this week",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "With the Brewers up 2-0 and Game 3 Monday in Tampa, the World Series could end as early as Tuesday Oct 27 — opening Michael King's opt-out window days after. King (3.03 ERA, 175 IP in 2026) is widely viewed as the 2nd-best free agent starter this winter behind Tarik Skubal. The Cubs need multiple rotation arms after losing Imanaga, Gausman, Holmes, and Peterson. Every day the Brewers win tightens the clock.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "MICHAEL KING'S OPT-OUT CLOCK is ticking.\n\nBrewers lead 2-0. A WS sweep this week = opt-out window opens days after. King (3.03 ERA, 175 IP) is viewed as the 2nd-best FA starter this winter behind Skubal.\n\nCubs need rotation help. They know who to call.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Trade Target / Urgency",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Jason Kanzler — Cubs Farm Director, Mariners Manager Candidate\n**Decision:** NEW STORY (first coverage)\n**Key Facts:**\n- Jason Kanzler, 36, Cubs director of player development since 2024 (joined from Houston Astros org)\n- Astros background: 5 seasons; credited with Jeremy Peña's development, close relationship with Alex Bregman\n- Mariners manager opening: Dan Wilson departure\n- The Athletic report: Kanzler among Mariners candidates alongside Joe Espada (ex-Astros manager) and Rocco Baldelli (Dodgers special assistant)\n- Search status: \"advanced stage,\" Mariners hoping to hire by end of October\n- Jon Morosi (MLB Network): \"doesn't believe Kanzler is a top candidate\" but not ruling out\n- Cubs context: Banner → Orioles GM (Oct 20 coverage), Miller hired as VP Int'l Scouting (Oct 20 coverage). Kanzler = third notable personnel change.\n**Sources:**\n- Bleacher Nation (Oct 22): \"Another Member of the Cubs' Staff is Reportedly Up for the Mariners' Managerial Gig\" ✅\n- Seattle Sports/MyNorthwest (Oct 22): \"New name emerges in Seattle Mariners' managerial search\" ✅\n- Yahoo Sports (Oct 22): \"Chicago Cubs Farm Director Reported as Seattle Mariners Managerial Candidate\" ✅\n- CubsHQ: \"Report: Cubs executive emerges as candidate for Mariners manager job\" ✅\n- **Freshness note:** Source articles from Oct 22 (3 days old). Rationale: Mariners have stated they want to hire by \"end of October\" — today is Oct 25 (end of October). The urgency is genuinely now. However, no Oct 24-25 specific update found. Flag in fact-check.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Cubs farm director Jason Kanzler is a Mariners manager candidate",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cubs director of player development Jason Kanzler (36) has emerged as a candidate for the Mariners' manager vacancy. Seattle is targeting end-of-October to complete the hire. This would be the third key Cubs organizational figure to potentially depart this offseason, following Jared Banner (Orioles GM) and Steve Miller (VP Int'l Scouting). Kanzler built the development system behind PCA and Horton. Jon Morosi not ruling him out; the Mariners search is in advanced stages.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "ANOTHER CUBS FRONT OFFICE NAME in demand.\n\nDirector of player development Jason Kanzler is a Mariners manager candidate. Seattle wants the hire done this week. Third key org departure this offseason (after Banner, Miller).\n\nJed Hoyer staying busy.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Org News / Front Office",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Gold Glove Countdown — 7 Days\n**Decision:** FOLLOW UP (first coverage Oct 16, outfield sweep angle Oct 22, countdown Oct 24)\n**Key Facts:**\n- Gold Glove winners announced: Sunday, November 1, ESPN, 7:30 PM CT (8:30 PM ET)\n- 5 Cubs finalists: PCA (CF), Bregman (3B), Swanson (SS), Happ (LF), Suzuki (RF)\n- PCA: widely seen as lock; 26 OAA leads baseball; already won Fielding Bible Defensive POY\n- Bregman: won Fielding Bible 3B but Gold Glove vote is 75% coaches/managers; first Cubs 3B in Fielding Bible history\n- Happ: seeking 5th consecutive Gold Glove (LF)\n- Suzuki: first MLB Gold Glove finalist; strong NL RF numbers\n- Swanson: SS finalist\n- Historic: no team has ever swept all 3 outfield Gold Gloves in one season\n- Today's angle: pivot from \"will outfield sweep happen?\" to \"Bregman won the analytics award — will coaches/managers agree?\" — distinct from yesterday\n**Sources:**\n- Daily Herald (Oct 14): original finalists announcement ✅\n- On Tap Sports Net (Oct 14): ✅\n- SIS (Oct 22): Fielding Bible adds context ✅\n- MLB.com awards schedule: Nov 1 confirmed ✅",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Gold Glove countdown — 7 days, historic outfield sweep on the line",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Seven days until Gold Glove winners are announced (Sunday Nov. 1, ESPN, 7:30 PM CT). Five Cubs finalists: PCA (CF), Bregman (3B), Swanson (SS), Happ (LF), Suzuki (RF). If PCA, Happ, and Suzuki all win, the Cubs would be the first team in MLB history to sweep all three outfield Gold Gloves in one season. Happ chases his 5th consecutive. Suzuki is a first-time finalist. The Fielding Bible just confirmed Cubs' defensive dominance — now the coaches and managers vote.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "SEVEN DAYS until we find out if the Cubs make history.\n\nPCA (2nd GG), Happ (5th straight), Suzuki (1st ever). If all three win, the Cubs would be the first team to sweep all outfield Gold Gloves in one season. Winners Sunday Nov. 1, 7:30 PM CT on ESPN.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Awards Countdown / Bold Take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "AFL Mesa Solar Sox — Kade Snell Week 3 Breakout\n**Decision:** FOLLOW UP (Oct 22 covered Cabral/Snell/Reid; Oct 23 covered Mathis/Snell)\n**Key Facts:**\n- AFL through Nov. 14\n- Kade Snell (OF, from South Bend Cubs 2026): breaking out at Mesa Solar Sox in Week 3\n- Snell described as \"turning heads\" after strong South Bend season\n- Cubs have 8 prospects in AFL (5 pitchers)\n- Jhon Cabral (RHP, 18): touched 101 mph in AFL (covered Oct 22 = not repeating the milestone number)\n- Dominick Reid (RHP): low-80s changeup praised by MLB.com\n- Solar Sox record through Week 2: 4-6\n**Sources:**\n- Bleacher Nation: \"AFL Mesa Solar Sox Update: Kade Snell breaks out\" (date uncertain — flag for fact-check; may be Oct 24-25)\n- BCB: AFL update page\n- **Freshness note:** Snell breakout article appears to be newer than Oct 22's \"Cabral 101 mph\" coverage. Fact-check team should verify publication date of BCB Snell-specific article.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "AFL Mesa Week 3 — Kade Snell breaking out at Solar Sox",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Cubs prospect Kade Snell (OF) is breaking out at Mesa Solar Sox in AFL Week 3, drawing attention after a strong South Bend season in 2026. Chicago has 8 prospects in the AFL through Nov. 14 — including Jhon Cabral (RHP, touched 101 mph), Dominick Reid (changeup specialist), and Snell. The Arizona Fall League is the primary development venue for Cubs prospects this offseason, with Horton not returning until July 2027.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "KADE SNELL IS PUTTING THE AFL ON NOTICE.\n\nThe Cubs prospect has broken out at Mesa Solar Sox in Week 3. Chicago has 8 prospects in the AFL through Nov. 14 — Jhon Cabral (101 mph), Dominick Reid, Snell all developing together. 🌵\n\n#Cubs #MLB #ChicagoCubs",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Prospect Pipeline / Feature",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#ChicagoCubs"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

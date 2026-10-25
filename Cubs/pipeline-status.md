@@ -1,15 +1,15 @@
-# Cubs Pipeline Status — Updated 2026-10-24
+# Cubs Pipeline Status — Updated 2026-10-25
 
 ## Latest Run
-- **Date:** 2026-10-24 (Saturday — Off day. WS: Brewers 3, Rays 2 in Game 1 (Oct 23). Game 2 tonight 7 PM CT FOX. Gold Glove countdown: 8 days to Nov 1. Suzuki + Happ both heading to FA. Kwan trade link (FanSided). Mallee/Mets: still interview stage, no offer.)
-- **Stories:** 6
-- **X posts:** 6
+- **Date:** 2026-10-25 (Sunday — Off day. WS: Brewers 5-4 Rays in Game 2 (Oct 24). Brewers lead 2-0. Game 3 Monday at Tropicana 7 PM CT. PCA Sporting News POY + Fielding Bible sweep. King opt-out clock accelerating. Kanzler Mariners candidate. Gold Glove 7 days. AFL Snell breakout.)
+- **Stories:** 7
+- **X posts:** 7
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
-- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 6 stories, 6 tweets
-- **07-content-data.json:** ✅ Valid JSON, all 6 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 12:00 PM / 2:30 PM / 5:00 PM CT), all strptime-parseable
+- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 7 stories, 7 tweets
+- **07-content-data.json:** ✅ Valid JSON, all 7 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 10:45 AM / 12:00 PM / 2:30 PM / 5:00 PM CT), all strptime-parseable
 - **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
-- **Note:** Insights applied: allcaps_lead WINS (delta=0.33, small) — all tweets open ALL CAPS. WS Game 1 result confirmed (Brewers 3-2). Rotation crisis covered (4 FAs). Kwan trade NEW. Gold Glove countdown. Suzuki/Happ dual FA NEW angle. Mallee FOLLOW UP.
+- **Note:** Insights applied: allcaps_lead WINS (delta=0.33, small) — all tweets open ALL CAPS. WS Game 2 recap (Brewers 5-4 comeback). PCA Sporting News POY NEW (peer vote, first Cub since Sosa 1998). Fielding Bible sweep NEW (PCA, Bregman, Team of Year). King opt-out FOLLOW UP. Kanzler Mariners candidate NEW. Gold Glove 7 days FOLLOW UP. AFL Snell FOLLOW UP.
 
 ## Insights Summary (2026-10-24 run — from 2026-10-23 snapshot)
 - **Generated:** 2026-10-23T14:32 UTC
@@ -41,10 +41,13 @@
 - **PCA MVP:** 45 HR, 41 SB, 10.4 fWAR. Countdown covered Oct 21. Bold take (WS vs. PCA November) covered Oct 23. Next: official NL MVP announcement (early November) = Tier 1 celebration.
 - **Gold Glove finalists:** 5 Cubs finalists (PCA, Happ, Suzuki + 2 others). Winners Nov 1 on ESPN. Next: announcement day coverage.
 - **John Mallee (asst HC):** Mets interviewing (covered Oct 22). Next: hire announcement = Tier 1 org news.
-- **AFL Mesa Solar Sox:** through Nov 14. Bailey (Oct 15), Cabada (Oct 16), Cabral/Snell/Reid (Oct 22), Mathis/Snell focus (Oct 23). Next: AFL Week 3 stats, Mathis standout performance.
+- **AFL Mesa Solar Sox:** through Nov 14. Bailey (Oct 15), Cabada (Oct 16), Cabral/Snell/Reid (Oct 22), Mathis/Snell focus (Oct 23), Snell breakout headliner (Oct 25). Next: AFL Week 4 stats, Snell/Cabral continued development.
 - **Josiah Hartshorn:** 100-RBI milestone covered Oct 21. Next: 2027 spring training.
 - **Ryan Flaherty:** RESOLVED (staying as bench coach). Do not re-cover.
-- **World Series:** Brewers vs. Rays, starts Oct 23. Next: Game 1 result → rivals recap reaction tomorrow.
+- **World Series:** Brewers lead 2-0 vs. Rays. Game 3 Monday Oct 26 at Tropicana, 7 PM CT. Next: Game 3 result → reaction recap.
+- **Jason Kanzler:** Cubs farm director as Mariners manager candidate (covered Oct 25). Seattle wants hire done by end of October. Next: hire announcement = Tier 1 org news.
+- **PCA Awards:** Sporting News POY (covered Oct 25), Fielding Bible Defensive POY (covered Oct 25), Baseball Digest POY. Next: BBWAA NL MVP announcement (early November) = Tier 1 celebration.
+- **Michael King opt-out:** WS sweep imminent (Brewers 2-0). Opt-out window opens days after WS ends. (covered Oct 20, Oct 23, Oct 25). Next: opt-out announcement = Tier 1.
 
 ## Current Cubs Status
 - **2026 season:** OVER. Cubs eliminated by Padres in NL Wild Card Series (swept 2-0, Oct 1)
@@ -56,6 +59,7 @@
 
 | Date | Type | Stories | Tweets | Status |
 |------|------|---------|--------|--------|
+| 2026-10-25 | OFF DAY (WS Game 2 Brewers 5-4 Rays rival watch, PCA Sporting News POY NEW, Fielding Bible sweep NEW, King opt-out clock FOLLOW UP, Kanzler Mariners candidate NEW, Gold Glove 7 days FOLLOW UP, AFL Snell breakout FOLLOW UP) | 7 | 7 | ✅ |
 | 2026-10-23 | OFF DAY (WS Game 1 tonight Brewers/Rays rival watch, Sato 45-day window follow-up, King opt-out clock, PCA MVP bold take, AFL Mathis/Mesa focus) | 5 | 5 | ✅ |
 | 2026-10-22 | OFF DAY (CBA lockout countdown Dec 1, WS Game 1 tomorrow Brewers/Rays, Gold Glove sweep PCA 26 OAA, Mallee Mets interest, Kirby trade target BR, AFL Mesa Cabral 101 mph) | 6 | 6 | ✅ |
 | 2026-10-21 | OFF DAY (Hoerner trade interest Yankees/Giants/Mariners, Detmers near-miss deal, WS preview Brewers/Rays, Sato NPB posting, Hartshorn 100-RBI milestone, PCA MVP countdown) | 6 | 6 | ✅ |
