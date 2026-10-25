@@ -135,3 +135,40 @@
 - **Key facts:** Godzilla-themed livery for COTA weekend; "striking" in reveal; on track all 4 days (Oct 22-25)
 - **Byline:** Elena Voss
 - **Status:** NEW
+
+## 2026-10-25
+
+### STORY 1: US Grand Prix Race Day — Antonelli Pole, Title Bid at COTA
+- **Tier:** 1
+- **Category:** Formula 1 / US Grand Prix / COTA / Kimi Antonelli / Mercedes
+- **Key facts:** Race Oct 25, 4pm ET, COTA Austin Texas; Antonelli pole (1:34.035, 7th career pole, first since Belgium); Verstappen P2 (gap 0.179s); Hadjar P3; Leclerc P4; Hamilton P5; Russell P6; Colapinto P21 (10-place penalty); Bortoleto back of grid (new power unit parts); 56 laps, 308.432 km
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: F1 Title Clinch Math — What Antonelli Needs at COTA
+- **Tier:** 1
+- **Category:** F1 Championship / Kimi Antonelli / George Russell / Lewis Hamilton
+- **Key facts:** Antonelli 340 pts, Russell 238 (gap 102), Hamilton 229 (gap 111), Verstappen 221 (gap 119); 6 races remaining; clinch conditions: Antonelli wins + Russell P9 or worse + Hamilton P5 or worse; Vettel youngest champion record 23y134d (2010); Antonelli ~20 years old; became youngest ever championship leader at 19y7m4d after Japan 2026
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Verstappen P2 — COTA Legacy, Race-Day Threat
+- **Tier:** 2
+- **Category:** Max Verstappen / Red Bull / COTA
+- **Key facts:** Verstappen P2, 4 of last 5 COTA wins; starts 0.179s off pole; championship 119pts behind Antonelli
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
+### STORY 4: US Grand Prix Grid Breakdown — Hadjar P3, Ferrari P4/P5
+- **Tier:** 2
+- **Category:** F1 Grid / Isack Hadjar / Ferrari / Charles Leclerc / Lewis Hamilton / Franco Colapinto
+- **Key facts:** Grid as above; Ferrari 18 consecutive qualifying without pole in 2026; Hamilton P5 factors into Antonelli clinch math
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: COTA Circuit Analysis
+- **Tier:** 2
+- **Category:** COTA / Circuit Analysis / F1 History
+- **Key facts:** 5.513km, 20 corners, 40m elevation change, clockwise; Turn 1 uphill blind crest; Sector 2 flowing esses; opened 2012; 130,000+ capacity
+- **Byline:** Elena Voss
+- **Status:** EVERGREEN
