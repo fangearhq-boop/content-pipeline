@@ -3845,3 +3845,54 @@ _This file tracks every story covered, the angle used, content produced, and fol
 - **Follow-Up Opportunities:**
   - LSU Purple-Gold World Series (Nov. 17-19)
   - LSU 2027 preseason outlook
+
+### Story 1: LSU vs. FSU Orange Beach — Game 2 TODAY (Noon CT)
+- **Date:** 2026-10-25
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Game 1 was Oct 24 — two-game Orange Beach series)
+- **Angle:** Game 2 of the Orange Beach Softball Stadium two-game showcase, noon CT (1 PM ET). FSU 52-1, LSU 40-19. Both 2027 national title contenders at a neutral site for $10 cash. Highest-profile fall showcase of the month.
+- **Content Produced:** Article (article-01, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Orange Beach series results
+  - LSU 2027 preseason outlook
+
+### Story 2: Tennessee's Final Public Fall Event — Free Intersquad Oct 29, 5 PM ET
+- **Date:** 2026-10-25
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Tennessee fall covered Oct 9-24)
+- **Angle:** Last public event of Tennessee's fall — free intersquad Thursday Oct 29, 5 PM ET at Sherri Parker Lee Stadium. Pickens (194K, 1.70 ERA) + Mardjetko (16-3, 1.26 ERA) + freshman Shelton (3 IP, 7 K). Weekly wants tougher competition.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Tennessee intersquad Oct 29 result
+  - 2027 pitching staff breakdown
+
+### Story 3: OU Battle Series — Seminole State at Love's Field Oct 30
+- **Date:** 2026-10-25
+- **Tier:** 2
+- **Classification:** FOLLOW UP (OU Battle Series covered Oct 9-24)
+- **Angle:** Oklahoma's fall finale Oct 30 6:30 PM CT, Love's Field, free on 1oklahoma.com. Wells 39 HR NFCA FY + Kavan 2x WCWS MOP anchor top-3 national title contender.
+- **Content Produced:** Article (article-03, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - OU vs Seminole State Oct 30 result
+  - OU 2027 roster overview
+
+### Story 4: 2028 Recruiting — EE100 Pitchers 201-300 Drops Monday, Top-5 Coming
+- **Date:** 2026-10-25
+- **Tier:** 3
+- **Classification:** FOLLOW UP (2028 recruiting covered Oct 12-24)
+- **Angle:** Extra Elite 100 Pitchers 201-300 expected Monday Oct 27. Top-5 overall reveal also expected this week. Contact window Oct 24-25 just closed. Landers Texas No. 1, Holden Florida No. 2. 1,200+ nominations largest class ever.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - EE100 Pitchers 201-300 release Oct 27
+  - Top-5 reveal this week
+  - Post-contact-window commit wave
+
+### Story 5: Texas Tech New Era — Pickering + No. 1 Portal Class
+- **Date:** 2026-10-25
+- **Tier:** 3
+- **Classification:** FOLLOW UP (TTU covered Oct 9-24)
+- **Angle:** TTU fall schedule complete. Pickering (.384 BA, 50 HR, 169 RBI from OU, signed June 2026) + No. 1 portal class (Beachum FSU, Heavener, Polar, Gallaway) + Cottrill HC + Pendley AHC + Williams 27 HR program record. Big 12 opens March 12.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - TTU 2027 preseason ranking
+  - Big 12 opener March 12
