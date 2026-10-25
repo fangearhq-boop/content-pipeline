@@ -1,5 +1,35 @@
 # Tennis Fanrecap — Pipeline Status
 
+## Current Run: 2026-10-25
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Ningbo Final: Rybakina def. Fernandez 6-2, 6-2 (76 min) — CONFIRMED; Almaty Final: Basilashvili (qualifier, No.128) vs Medvedev (defending champion) today 5:30 PM local; Basilashvili def. Tsitsipas 6-4, 6-7(5), 6-3 in SF; Medvedev def. Bublik by retirement; Vienna+Basel open Sunday (Zverev/Alcaraz Vienna; Shelton/Djokovic Basel); ATP Race: 3 confirmed (Zverev/Alcaraz/Shelton), 5 spots open (Cobolli/Tiafoe/Fils/Medvedev/Djokovic) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Oct 22 S4: Ningbo QF → Final confirmed Rybakina); S2 FOLLOW-UP (Oct 22 S3: Almaty QF → Final today Basilashvili vs Medvedev); S3 FOLLOW-UP (Oct 22 S5: Vienna/Basel imminent → opening day); S4 FOLLOW-UP (Oct 22 S1: WTA Finals field → preview with Rybakina as No.1); S5 FOLLOW-UP (Oct 22 S5: ATP Race → update with Race standings) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on Almaty final result (match today, not yet confirmed at pipeline time), Tsitsipas post-tournament ranking |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, 4 angles per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories (S1: 2); all ≤280 chars (246, 222, 249, 215, 233, 236); PostPlanner format with ### STORY N: and #### Text Post — HH:MM ET headers |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 9 imagn concepts across 5 stories; player-name-only search terms |
+| Articles (5) | COMPLETE | article-01 Rybakina wins Ningbo (Marcus Cole T1); article-02 Basilashvili Almaty final (Ryan Calloway T1); article-03 Vienna+Basel open (Elena Voss T2); article-04 WTA Finals preview (Marcus Cole T2); article-05 ATP Race Turin (Ryan Calloway T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 45 claims auto-extracted; all stories present in all content files; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles; no char limit errors |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 9 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 26 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-10-25.xlsx + tfr-postplanner-tobi-2026-10-25.xlsx — 6 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Oct 25 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
+- **Key stories:** Rybakina wins Ningbo (confirmed 6-2, 6-2, first title as No.1, 15th career); Almaty Final today (qualifier Basilashvili vs defending champion Medvedev); Vienna+Basel open (Alcaraz/Zverev in Vienna, Shelton/Djokovic in Basel); WTA Finals Indian Wells preview (8-player field, Nov 8-15); ATP Race Turin (3 confirmed, 5 spots open)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); PostPlanner completed OK; compile/fact-check all ran successfully
+
+---
+
 ## Current Run: 2026-10-24
 
 | Step | Status | Notes |

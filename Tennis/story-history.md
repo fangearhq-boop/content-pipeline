@@ -3,6 +3,16 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## October 25, 2026
+
+| 2026-10-25 | Elena Rybakina def. Leylah Fernandez 6-2, 6-2 (76 min) in Ningbo Open final — 15th career title, first as World No. 1; defends 2025 Ningbo title; 8-0 all time at Ningbo; 6th final and 4th title of 2026 season; Fernandez rises No. 30 → No. 23. Sources: tennisworldusa.org, tennistonic.com, interia.sport, tennis365.com, espn.com | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-10-22 S4: Ningbo QF matchups → Final) |
+| 2026-10-25 | Almaty Open final: Nikoloz Basilashvili (qualifier, No. 128) vs. Daniil Medvedev (top seed, defending champion) — Basilashvili def. Tsitsipas 6-4, 6-7(5), 6-3 in SF (2h15m); Medvedev def. Bublik by retirement in SF; first ATP final for Basilashvili in 4+ years; final Sunday 5:30 PM local; H2H Medvedev 1-0. Sources: tennismajors.com, tennistonic.com, lastwordonsports.com, atptour.com | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (2026-10-22 S3: Almaty QF → Final) |
+| 2026-10-25 | Vienna Erste Bank Open + Swiss Indoors Basel both open main draw Sunday Oct 26 — Vienna: Zverev (1) vs Landaluce WC; Alcaraz (2 WC) vs Khachanov (H2H 6-0 Alcaraz); Basel: Shelton (1); Djokovic WC; Rune; Fils; both events Oct 26–Nov 1 ATP 500. Sources: atptour.com, tennistemple.com, todoalicante.es, tenngrand.com | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (2026-10-22 S5: Vienna/Basel imminent → opening day) |
+| 2026-10-25 | WTA Finals 2026 preview — full field set: Rybakina, Sabalenka, Andreeva, Pegula, Gauff, Svitolina, Noskova, Muchova; Indian Wells Tennis Garden Nov 8–15; first time at Indian Wells (moved from Riyadh); Rybakina arrives as No. 1 and defending 2025 WTA Finals champion. Sources: Ground News, WTA, Oct 22 pipeline | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-10-22 S1: WTA Finals field complete → preview) |
+| 2026-10-25 | ATP Race to Turin update — 3 confirmed (Zverev, Alcaraz, Shelton); 5 spots open; current order: Cobolli (4), Tiafoe (5), Fils (6), Medvedev (7), Djokovic (8); de Minaur alternate; Vienna + Basel Oct 26–Nov 1; Paris Masters Oct 31–Nov 8; Finals Nov 15–22 Turin. Sources: racetotur.in (Oct 6), Yahoo Sports, Wikipedia | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (2026-10-22 S5: ATP Race Vienna/Basel imminent → Race update) |
+
+---
+
 ## October 24, 2026
 
 | 2026-10-24 | Almaty Open SFs set — Medvedev (top seed/defending champion) def. Atmane 6-4, 6-4 to face Bublik (3rd seed, def. Khachanov 4-6, 7-6(5), 7-6(5)); Tsitsipas (7th seed) def. Duckworth 6-3, 6-4 to face qualifier Basilashvili (dominant 6-3, 6-1 over Mannarino); SFs Saturday Oct 24; Final Sunday Oct 25; Medvedev H2H vs Bublik 7-1. Sources: ATP Tour, el-balad.com, Tennis Majors, Sofascore, TennisTemple | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Oct 22 S3: Almaty QF set → SFs confirmed) |
@@ -12,6 +22,7 @@ Track previously covered stories to avoid repetition and maintain content freshn
 | 2026-10-24 | Weekend tennis preview — Almaty Final (Medvedev or Bublik vs Tsitsipas or Basilashvili) + Ningbo Final (Rybakina vs whoever wins Shnaider/Fernandez) both Sunday Oct 25; Vienna and Basel also launch first rounds Sunday Oct 26; busiest single tennis day of the indoor season. Sources: ATP Tour, WTA official, research synthesis | T2 | X, FB, Article | Marcus Cole; NEW |
 
 ---
+
 
 ## October 22, 2026
 
