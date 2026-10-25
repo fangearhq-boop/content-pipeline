@@ -492,3 +492,40 @@
 - **Key facts:** Final score Rockets 135, Mavericks 117; The Venetian Arena, Macao; Oct. 9 8 AM ET; Cooper Flagg 19 pts (17 in Q2 alone), 6 reb, 3 ast, 19 min, 7/14 FG, 1/5 3P, 4/4 FT; Tari Eason 20 pts (Rockets high); Alperen Sengun triple-double; Fred VanVleet 17 pts returning from injury; Kevin Durant 8 pts in 8 min (precautionary); Kyrie Irving, P.J. Washington, Dereck Lively II rested for Dallas; Game 2 Oct. 11 6 AM ET on NBA TV
 - **Byline:** Jake Torres
 - **Status:** FOLLOW UP
+
+## 2026-10-25
+
+### STORY 1: Nuggets 141, Pelicans 135 OT — Murray 42, Jokic 35/15/10
+- **Tier:** 1
+- **Category:** Denver Nuggets / New Orleans Pelicans / Jamal Murray / Nikola Jokic
+- **Key facts:** Final score 141-135 OT; Murray 42 pts (12-25 FG, 8-16 3Pt, 10-13 FT, 6 ast, 43 min); Jokic 35/15/10 (199th career regular-season triple-double); Nuggets trailed by 23; Pelicans led 73-57 at halftime; Trevon Brazile 17 pts (7 in OT) in home debut; Jokic+Murray combined for 77 pts
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Suns 131, Warriors 122 — Booker 43 (Franchise Home Opener Record)
+- **Tier:** 1
+- **Category:** Phoenix Suns / Golden State Warriors / Devin Booker
+- **Key facts:** Final score 131-122; Booker 43 pts (17-25 FG, 7-8 FT, 7 reb, 7 ast, 1 blk); franchise record most pts in home opener; Warriors rested Curry/Green/Podziemski/Horford; Warriors 0-3; Miles Bridges 16, Dillon Brooks 15; Yaxel Lendeborg 26 (Warriors high), Melton 25; Suns had lost opener at Portland by 41
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Spurs 122, Mavericks 106 — Wembanyama 23
+- **Tier:** 2
+- **Category:** San Antonio Spurs / Dallas Mavericks / Victor Wembanyama
+- **Key facts:** Final score 122-106; Wembanyama 23 pts; Spurs dominant in Texas rivalry
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: Saturday NBA Roundup — Embiid 28, Durant 22, Miller 34
+- **Tier:** 2
+- **Category:** Philadelphia 76ers / Joel Embiid / Houston Rockets / Kevin Durant / Charlotte Hornets / Brandon Miller
+- **Key facts:** 76ers 127 Bucks 116 (Embiid 28); Rockets 121 Hawks 114 (Durant 22); Hornets 115 Heat 110 (Miller 34); Cavaliers 125 Nets 121; Wizards 124 Bulls 120 (Coby Wilson 30 for Chicago)
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: NBA Sunday Preview — 7 Games
+- **Tier:** 2
+- **Category:** NBA Preview / Los Angeles Lakers / Utah Jazz / Oklahoma City Thunder / New York Knicks
+- **Key facts:** 7 games Oct 25; Lakers vs Jazz 5 PM ET; Nets vs Pacers 6 PM ET; Knicks vs Magic 7 PM ET; Timberwolves vs Raptors 7 PM ET; Thunder vs Clippers ~7 PM ET
+- **Byline:** Marcus Cole
+- **Status:** NEW
