@@ -9055,3 +9055,52 @@ Each day's stories are appended at the top (newest first).
 - **Follow-Up Opportunities:**
   - Brewers bullpen in Game 2 — can they repeat?
   - NLCS series outcome
+
+### Story 1: World Series Game 2 — Brewers 5, Rays 4 (Milwaukee Leads 2-0)
+- **Date:** 2026-10-25
+- **Tier:** 1
+- **Classification:** FOLLOW UP (WS G1 covered Oct 24)
+- **Angle:** Brewers came back from 4-0 deficit to win G2. Rays scored 4 in 1st (Hicks 2-run HR + Simpson RBI + Caminero RBI). Frelick HR tied 4-4. Pratt RBI single go-ahead 7th. Ashby save (K of Yandy Díaz). Brewers pen: 6 scoreless IP (Romero/May/Hall/Uribe/Ashby). Henderson 3 IP for MIL, Rasmussen 3.2 IP for TB. Milwaukee leads WS 2-0.
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - WS Game 3 result (Oct 26 Tropicana)
+  - Brewers on verge of clinching
+
+### Story 2: World Series Game 3 Preview — Peralta vs. Former Team at Tropicana Field
+- **Date:** 2026-10-25
+- **Tier:** 1
+- **Classification:** FOLLOW UP (WS ongoing)
+- **Angle:** Game 3 Monday Oct 26 8 PM ET FOX Tropicana Field — first WS game there since 2008. Peralta (ALCS MVP, 2-0 0.75 ERA) starts TB vs former team (8 seasons MIL, traded to Mets Jan 2026, acquired by TB at deadline). Gasser (1.00 ERA postseason, 5 scoreless vs Dodgers NLCS G3) starts MIL.
+- **Content Produced:** Article (article-02, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - WS Game 3 result
+  - Peralta vs MIL performance narrative
+
+### Story 3: Brewers Bullpen — 1.33 ERA over 40+ Postseason Innings
+- **Date:** 2026-10-25
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Brewers pen covered WS G1)
+- **Angle:** 1.33 ERA 40⅔ postseason IP. G2: 6 scoreless IP from pen (Romero+May+Hall+Uribe+Ashby). Ashby save. NLCS ERA was 0.38 in 23.2 IP. Best bullpen in baseball, carrying the Brewers.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Pen performance G3-G5
+  - Can Tampa Bay score against the pen?
+
+### Story 4: Frelick and Pratt — Unlikely Heroes of Game 2
+- **Date:** 2026-10-25
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Frelick HR tied 4-4 (2-for-4 1HR 1RBI). Pratt RBI single go-ahead 7th (1-for-3 1RBI 1BB). Depth wins championships. Two role players deliver when stars couldn't.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Brewers' depth storyline continues through series
+
+### Story 5: Rays Down 2-0 — Path Back to Tropicana
+- **Date:** 2026-10-25
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Teams down 2-0 in WS win ~21% historically. Rays have Peralta (ALCS MVP) G3 + Rasmussen available + Caminero 22yo 45HR 110RBI 2025. Rays 3-1 home postseason. G3-G5 all at Tropicana.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, 0 image concepts
+- **Follow-Up Opportunities:**
+  - Rays series result
+  - Peralta performance G3

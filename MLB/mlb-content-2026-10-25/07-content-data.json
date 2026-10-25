@@ -1,0 +1,259 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-25",
+  "compiled_at": "2026-10-25T10:22:20.814144+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "World Series Game 2 Recap — Brewers 5, Rays 4. Milwaukee Leads 2-0",
+      "tier": 1,
+      "status": "",
+      "angle": "Milwaukee was down 4-0 in the second inning and still won. The Brewers' bullpen entered with the game already a mess after Henderson's rocky start — and delivered 6 scoreless innings. Sal Frelick's HR tied it at 4-4. Cooper Pratt's go-ahead RBI single in the 7th put Milwaukee ahead. Aaron Ashby struck out Yandy Díaz for the save in the 9th. Brewers now lead the World Series 2-0.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "FINAL: Brewers 5, Rays 4. Milwaukee leads the World Series 2-0.\n\nDown 4-0 in the first. Won anyway.\n\nFrelick HR. Pratt go-ahead single. Ashby save.\n\nThe bullpen gave up zero runs from the second inning on. That's who the Brewers are.\n\n#Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 243
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Game 2 by the numbers:\n\nRays scored 4 runs in the 1st inning (Hicks 2-run HR, Simpson RBI, Caminero RBI).\n\nBrewers bullpen after that: 6 IP. 0 runs. Ashby closed with a K of Yandy Díaz.\n\nMilwaukee has the best bullpen in baseball. Two games in, it shows.\n\n#Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ws-game-2-recap-brewers-5-rays-4.html",
+        "headline": "World Series Game 2 Recap: Brewers 5, Rays 4 — Milwaukee Erases 4-Run Deficit, Leads Series 2-0",
+        "word_count": 643
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WS Game 2 Recap\n\n#### Image Concept 1 — Article Hero / Social\n- **Type:** Article hero (1200x630) + Social (1080x1350)\n- **Search Terms (imagn):** \"Sal Frelick Milwaukee Brewers\"\n- **Concept:** Frelick celebrating home run; World Series branding overlay \"GAME 2 FINAL: MIL 5, TB 4\"\n- **Mood:** Comeback energy, jubilation\n- **Status:** not_started\n\n#### Image Concept 2 — Social\n- **Type:** Social (1080x1350)\n- **Search Terms (imagn):** \"Aaron Ashby Milwaukee Brewers\"\n- **Concept:** Ashby celebrating save; overlay \"BREWERS LEAD WORLD SERIES 2-0\"\n- **Mood:** Dominant, championship-caliber\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WS Game 2 Recap\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Final: Brewers 5, Rays 4 | HIGH | ESPN, Yahoo, CNN |\n| Brewers lead WS 2-0 | HIGH | All sources |\n| Henderson: 3.0 IP, 3H, 3ER, 4K | MEDIUM | Bleacher Report box score |\n| Rasmussen: 3.2 IP, 6H, 3ER, 4K | MEDIUM | Bleacher Report box score |\n| Hicks 2-run HR 1st inning | HIGH | Bleacher Report, Yahoo |\n| Simpson RBI single 1st | HIGH | Bleacher Report |\n| Caminero RBI single 1st | HIGH | Bleacher Report |\n| Rays jumped to 4-0 lead after 1st | HIGH | Multiple sources |\n| Frelick HR tied game 4-4 | HIGH | Yahoo, CNN, ESPN |\n| Pratt RBI single go-ahead 7th | HIGH | ESPN, Yahoo |\n| Ashby save — K of Yandy Díaz, 9th | HIGH | Multiple |\n| Brewers pen: 6 scoreless innings (Romero/May/Hall/Uribe/Ashby) | HIGH | Multiple |\n| Brewers pen postseason ERA: 1.33, 40⅔ IP | HIGH | Baseball Ref |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "World Series Game 3 Preview — Peralta Faces Former Team at Tropicana Field",
+      "tier": 1,
+      "status": "",
+      "angle": "Monday's Game 3 brings the World Series to Tropicana Field for the first time since 2008 — and the storyline writes itself. Freddy Peralta (ALCS MVP, 2-0, 0.75 ERA) starts for Tampa Bay against Milwaukee, the franchise where he spent eight seasons. He was traded to the Mets in January 2026, then acquired by Tampa Bay at the deadline. Robert Gasser (1.00 ERA postseason) starts for the Brewers. Game 3 is Monday October 26 at 8 PM ET on FOX.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Tomorrow night: Freddy Peralta faces the team he spent 8 seasons with.\n\n8 seasons in Milwaukee. Traded to the Mets in January. Now he starts Game 3 for the Rays — against the Brewers.\n\nALCS MVP. 2-0. 0.75 ERA. First pitch at Tropicana, 8 PM ET. #Rays #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rays",
+            "#Brewers"
+          ],
+          "char_count": 259
+        },
+        {
+          "label": "Post 2-2",
+          "text": "First World Series game at Tropicana Field since 2008.\n\nPeralta vs his former team. Gasser (1.00 ERA this postseason) for Milwaukee.\n\nGame 3 Monday, 8 PM ET, FOX. #Rays #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rays",
+            "#Brewers"
+          ],
+          "char_count": 177
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-ws-game-3-preview-peralta-vs-former-team.html",
+        "headline": "World Series Game 3 Preview: Freddy Peralta Returns to Face Milwaukee — First WS Game at Tropicana Since 2008",
+        "word_count": 656
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WS G3 Preview — Peralta vs. Former Team\n\n#### Image Concept 3 — Article Hero / Social\n- **Type:** Article hero (1200x630) + Social (1080x1350)\n- **Search Terms (imagn):** \"Freddy Peralta Tampa Bay Rays\" OR \"Freddy Peralta Milwaukee Brewers\"\n- **Concept:** Peralta pitching — split image showing Brewers uniform vs Rays uniform. \"GAME 3: MONDAY 8 PM ET\"\n- **Mood:** Dramatic, narrative-driven\n- **Status:** not_started\n\n#### Image Concept 4 — Social\n- **Type:** Social (1080x1350)\n- **Search Terms (imagn):** \"Tropicana Field Tampa Bay Rays\"\n- **Concept:** Tropicana Field exterior or crowd shot. Text: \"FIRST WORLD SERIES GAME HERE SINCE 2008\"\n- **Mood:** Historical, atmospheric\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WS Game 3 Preview\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Game 3: Monday Oct 26, 8 PM ET, FOX | HIGH | MLB.com |\n| Venue: Tropicana Field, St. Petersburg | HIGH | MLB.com |\n| First WS game at Tropicana since 2008 | HIGH | SI.com / Tampa Bay 28 |\n| Peralta starts for TB | HIGH | Multiple |\n| Peralta: 2-0, 0.75 ERA in ALCS vs Cleveland | HIGH | Multiple (covered Oct 19-24) |\n| Peralta: 8 seasons with MIL | HIGH | Baseball Reference |\n| Peralta: traded to Mets January 2026 | HIGH | Baseball Reference |\n| Peralta: acquired by TB at trade deadline | HIGH | Multiple (covered Oct 23-24) |\n| Gasser starts for MIL | HIGH | Multiple |\n| Gasser: 1.00 ERA postseason | HIGH | Baseball Ref |\n| Gasser: 5 scoreless IP vs Dodgers NLCS G3 | HIGH | (covered Oct 12-16) |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Brewers Bullpen — 1.33 ERA, 40+ Postseason Innings, and the Engine of a Comeback",
+      "tier": 2,
+      "status": "",
+      "angle": "The Brewers bullpen is the best story in this World Series. In Game 2, they entered with the Brewers already down 4-0 — Henderson had given up a crooked first inning — and delivered 6 scoreless innings from Romero through Ashby. Their postseason ERA across the NLCS and World Series now stands at 1.33 over 40⅔ innings. It is the single biggest reason Milwaukee is two wins from their first championship.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Brewers bullpen: 1.33 ERA over 40⅔ postseason innings.\n\nIn Game 2: 6 scoreless innings. Down 4-0. Didn't matter.\n\nRomero → May → Hall → Uribe → Ashby. The formula works. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 182
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-brewers-bullpen-1-33-era-postseason-engine.html",
+        "headline": "The Brewers Bullpen Has a 1.33 ERA in the Postseason — and It Just Saved Game 2",
+        "word_count": 631
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Brewers Bullpen\n\n#### Image Concept 5 — Social\n- **Type:** Social (1080x1350)\n- **Search Terms (imagn):** \"Milwaukee Brewers bullpen\" OR \"DL Hall Milwaukee\"\n- **Concept:** Bullpen action graphic; statistics overlay \"1.33 ERA · 40⅔ IP · 0 RUNS ALLOWED G2\"\n- **Mood:** Dominant, machine-like\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Brewers Bullpen\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Brewers pen: 1.33 ERA over 40⅔ postseason IP | HIGH | Baseball Reference |\n| NLCS ERA: 0.38 in 23.2 IP | HIGH | (covered Oct 12-21) |\n| G2 pen: 6 scoreless IP | HIGH | Box score |\n| Ashby save | HIGH | ESPN |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Frelick and Pratt — The Unlikely Heroes of Game 2",
+      "tier": 2,
+      "status": "",
+      "angle": "When the Brewers were down 4-0, nobody was calling on Sal Frelick or Cooper Pratt to save the series. Frelick's home run tied the game at 4-4. Pratt's RBI single in the 7th put Milwaukee ahead for good. Two role players stepping up in the biggest game of their careers is the kind of storyline that defines World Series runs.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Sal Frelick tied it with a home run.\nCooper Pratt drove in the lead in the 7th.\n\nNeither was supposed to be the hero. Both were.\n\nThat's why you don't quit down 4-0 in the World Series. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 194
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-frelick-pratt-unlikely-heroes-game-2.html",
+        "headline": "Sal Frelick Tied It. Cooper Pratt Won It. The Brewers' Depth Is Their Secret Weapon.",
+        "word_count": 619
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Frelick + Pratt\n\n#### Image Concept 6 — Social\n- **Type:** Social (1080x1350)\n- **Search Terms (imagn):** \"Cooper Pratt Milwaukee Brewers\" OR \"Sal Frelick Milwaukee Brewers\"\n- **Concept:** Split graphic — Frelick HR + Pratt RBI single. \"THE UNLIKELY HEROES OF GAME 2\"\n- **Mood:** Celebratory, human interest\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Frelick and Pratt\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Frelick: HR tied 4-4, 2-for-4 1HR 1RBI | HIGH | ESPN, Yahoo |\n| Pratt: RBI single go-ahead 7th, 1-for-3 1RBI 1BB | HIGH | ESPN, Yahoo |\n| Rays jumped to 4-0: Hicks 2-run HR + Simpson RBI + Caminero RBI | HIGH | Bleacher Report |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Rays Down 2-0 — Is There a Path Back?",
+      "tier": 3,
+      "status": "",
+      "angle": "Teams down 2-0 in the World Series win about 21% of the time historically. But the Rays have Freddy Peralta (ALCS MVP) going tomorrow at home and Drew Rasmussen (1.29 ERA in the postseason) still available. Junior Caminero at 22 — 45 HR and 110 RBI in 2025, 13 HR this October run — is a legitimate offensive weapon. Games 3-5 are at Tropicana Field, where the Rays went 3-1 in the postseason. The series is not over.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Down 2-0 in the World Series.\n\nBut the Rays have Freddy Peralta (ALCS MVP) going tomorrow, Rasmussen later, and a 22-year-old in Caminero who hit 45 HR last season.\n\nTropicana is loud in October. The series isn't over. #Rays",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rays"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-rays-down-2-0-path-back.html",
+        "headline": "Down 2-0 in the World Series: The Rays' Path Back Starts at Tropicana Field",
+        "word_count": 669
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Rays Path Back\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Caminero: 22yo, 45 HR 110 RBI in 2025 | HIGH | Multiple (covered Oct 20-24) |\n| Caminero: .265/.356/.490, 13 HR 2026 | HIGH | Multiple |\n| Rays: 3-1 home postseason (Tropicana) | HIGH | Baseball Reference |\n| Rasmussen: 1.29 ERA 15 IP in postseason | HIGH | (covered Oct 19-24) |\n| Teams down 2-0 WS win ~21% | MEDIUM | Historical stat, general consensus |",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 4
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
