@@ -2,6 +2,18 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-10-25
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-25 | T1 | Bermuda Championship Final Round: Smotherman and Power Co-Lead at 16-Under | X(2), FB, Article | NEW |
+| 2026-10-25 | T1 | LIV Golf 2.0 Deadline Day: DeChambeau Reportedly Commits, Rahm Formally Exits | X(2), FB, Article | FOLLOW UP |
+| 2026-10-25 | T2 | Power's FedEx Cup Stakes: Why Sunday in Bermuda Could Transform His 2026 Season | X(2), FB, Article | FOLLOW UP |
+| 2026-10-25 | T2 | Charles Schwab Cup Playoffs Begin: Stifel Charity Classic Opens Senior Golf's Championship Season | X(1), FB, Article | FOLLOW UP |
+| 2026-10-25 | T2 | Jeeno Thitikul Is the LPGA's Best Player in 2026 — and the BMW Ladies Championship Is Next | X(2), FB, Article | FOLLOW UP |
+
+---
+
 ## 2026-10-24
 
 | Date | Tier | Title | Platforms | Status |
