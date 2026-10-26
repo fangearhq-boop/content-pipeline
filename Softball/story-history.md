@@ -3896,3 +3896,54 @@ _This file tracks every story covered, the angle used, content produced, and fol
 - **Follow-Up Opportunities:**
   - TTU 2027 preseason ranking
   - Big 12 opener March 12
+
+### Story 1: Florida Fall Ball 3-0 — USF Tomorrow (Oct 27)
+- **Date:** 2026-10-26
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Florida covered Oct 21, Oct 23)
+- **Angle:** Florida 3-0 fall, 62-6 combined (20-0 Santa Fe Oct 16, 29-1 Carson-Newman Oct 17, 13-5 UNF Oct 23). Edwards 3 HR. Tomorrow: USF at Katie Seashole Pressly Stadium 6 PM free. Six starters back from 2026 WCWS run.
+- **Content Produced:** Article (article-01, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Florida vs USF Oct 27 result
+  - Florida fall schedule through November
+
+### Story 2: Tennessee Oct 29 Intersquad — 3 Days Away
+- **Date:** 2026-10-26
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Tennessee fall covered Oct 9-25)
+- **Angle:** 3 days until Tennessee's final public fall event — free intersquad Oct 29, 5 PM ET, Sherri Parker Lee Stadium. Pickens 194K/1.70 ERA, Mardjetko 16-3/1.26 ERA, Shelton 3 IP 7K. Weekly wants tougher competition.
+- **Content Produced:** Article (article-02, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Tennessee intersquad Oct 29 result
+  - 2027 pitching staff breakdown
+
+### Story 3: OU Fall Finale — Seminole State at Love's Field Oct 30
+- **Date:** 2026-10-26
+- **Tier:** 2
+- **Classification:** FOLLOW UP (OU Battle Series covered Oct 9-25)
+- **Angle:** 4 days until OU fall finale, Seminole State at Love's Field Oct 30 6:30 PM CT free on 1oklahoma.com. Wells 39 HR NFCA FY + Kavan 2x WCWS MOP.
+- **Content Produced:** Article (article-03, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - OU vs Seminole State Oct 30 result
+  - OU 2027 roster overview
+
+### Story 4: 2028 Recruiting — Contact Window Closed, Class Crystallizing
+- **Date:** 2026-10-26
+- **Tier:** 3
+- **Classification:** FOLLOW UP (2028 recruiting covered Oct 12-25)
+- **Angle:** Contact window Oct 24-25 closed. Landers Texas No.1, Holden Florida No.2 (committed Oct 2), Schlader OU No.3 (70+ mph riseball), Kuiper+Eldred Tennessee. EE100 Pitchers 201-300 drops Oct 27, Top-5 reveal this week.
+- **Content Produced:** Article (article-04, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - EE100 Pitchers 201-300 release Oct 27
+  - Top-5 overall reveal this week
+  - Post-contact-window commit wave
+
+### Story 5: Arizona Fall Ball — Shockey Returns, Wildcats Finish Oct 30-31
+- **Date:** 2026-10-26
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Arizona closes fall schedule Oct 30-31 at Hillenbrand Stadium. Returns 10 letterwinners + Big 12 DPOY Regan Shockey. 9 fall home games.
+- **Content Produced:** Article (article-05, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Arizona fall final results
+  - Arizona 2027 preseason outlook
