@@ -1,0 +1,21 @@
+name: Sooners brief CI
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  guards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Unit tests
+        run: python -m unittest discover -s Sooners/tests -v
+      - name: Prove the hold guards go red
+        run: python Sooners/scripts/prove_accuracy_red.py
