@@ -5,6 +5,50 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-10-26 (OFF DAY — Early offseason. WS: Brewers lead Rays 2-0, Game 3 tonight at Tropicana 7 PM CT. Insights: allcaps_lead WINNER (small, delta=0.33). Imanaga FA window opens post-WS. Gold Gloves 6 days. Suzuki+Happ FA announced. AFL Snell breakout continues.)
+
+### STORY 1: WS Game 3 Preview — Brewers 2-0, tonight at Tropicana, King opt-out imminent
+- **Angle:** FOLLOW UP (Oct 24 = Game 1; Oct 25 = Game 2 recap). Brewers lead 2-0, Game 3 tonight at Tropicana Field 7 PM CT (8 PM ET) on FOX. Division rival two wins from a sweep. King opt-out clock imminent: if Brewers sweep tonight + Game 4 (Oct 27), deadline opens ~Nov 1-2.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, rival watch / offseason preview)
+- **Follow-Up Opportunities:**
+  - WS Game 3 result tonight → Brewers sweep or series lives
+  - WS conclusion → King opt-out decision (days after)
+
+### STORY 2: Imanaga FA imminent — Cubs' most important offseason decision
+- **Angle:** NEW STORY ANGLE (Oct 24 = broad rotation crisis; today = Imanaga QO timeline specifically). Imanaga (11-10, 3.77 ERA, 32 starts) hits FA when WS ends. Both sides declined options. QO (~$22M) expected within days. Hoyer: "still hope" to retain him. Best pitcher on staff; Cubs need 2-3 SPs.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take / urgency)
+- **Follow-Up Opportunities:**
+  - Imanaga accepts QO → Tier 1 breaking
+  - Imanaga declines QO → Tier 1 breaking
+  - Cubs agree to new deal → Tier 1 breaking
+
+### STORY 3: Gold Gloves countdown — 6 days, historic Cubs outfield sweep possible
+- **Angle:** FOLLOW UP (Oct 16 = finalists; Oct 22 = outfield sweep angle; Oct 24 = 8-day; Oct 25 = 7-day). PCA (26 OAA, MLB-best), Suzuki (8 FRV, NL RF-best), Happ (chasing 5th straight). No team EVER swept all 3 outfield GGs. Nov. 1 on ESPN 8:30 PM ET.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown / informative)
+- **Follow-Up Opportunities:**
+  - Gold Glove winners Nov. 1 → Tier 1 if Cubs sweep
+
+### STORY 4: Seiya Suzuki + Ian Happ FA — Cubs' $200M+ outfield decision
+- **Angle:** NEW STORY ANGLE (first dedicated Suzuki+Happ FA tweet). Suzuki: career-high 5.1 WAR, projected $90-130M. Happ: 4-time GG winner, "would love to stay." Both hit FA when WS ends. Cubs face massive simultaneous rotation + outfield FA spending decisions.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, informative / bold take)
+- **Follow-Up Opportunities:**
+  - Suzuki signs elsewhere → Tier 1 reaction
+  - Happ signs elsewhere → Tier 2 reaction
+  - Cubs sign/retain either → Tier 1 breaking
+
+### STORY 5: AFL Mesa Solar Sox — Kade Snell breakout continues (Week 3)
+- **Angle:** FOLLOW UP (Oct 22 = first AFL coverage; Oct 23 = Snell/Mathis focus; Oct 25 = Snell headliner). Snell: bat-first OF, one of early AFL breakout stories. Jhon Cabral and Dominick Reid developing alongside. 8 Cubs in AFL through Nov. 14.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, prospect feature)
+- **Follow-Up Opportunities:**
+  - AFL Week 4 → Snell stats, Cabral velocity update
+
+---
+
 ## 2026-10-25 (OFF DAY — Early offseason. WS: Brewers 5, Rays 4 Game 2 (Oct 24). Brewers lead 2-0. Game 3 Monday at Tropicana 7 PM CT. Insights: allcaps_lead WINNER (small, delta=0.33). PCA wins Sporting News POY + Fielding Bible sweep. King opt-out clock ticking. Kanzler Mariners candidate. Gold Glove 7 days. AFL Snell breakout.)
 
 ### STORY 1: Brewers rally from 4-0 down to beat Rays 5-4 in WS Game 2; lead series 2-0

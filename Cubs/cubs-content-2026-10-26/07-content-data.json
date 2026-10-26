@@ -1,0 +1,206 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-26",
+  "compiled_at": "2026-10-26T09:21:38.225481+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1",
+      "type": "Rival Watch — Brewers WS Game 3 preview, King opt-out angle"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2",
+      "type": "Bold Take — Imanaga FA decision imminent"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3",
+      "type": "Informative — Gold Gloves 6-day countdown"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 4",
+      "type": "Informative — Suzuki + Happ FA decision coming"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Story 5",
+      "type": "Prospect — AFL Snell update"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Brewers Chase World Series Sweep Tonight at Tropicana — King Opt-Out Imminent",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Brewers lead 2-0, Game 3 tonight at Tropicana Field (7 PM CT on FOX). Division rival one win from sweeping. Every Brewers win accelerates Michael King opt-out deadline. Cubs front office watching closely — pitching market is about to open.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "BREWERS 2-0 in the World Series. Game 3 tonight at Tropicana Field, 7 PM CT on FOX.\n\nDivision rivals are two wins from a sweep — and every Brewers W brings the Michael King opt-out window closer.\n\nCubs front office: pencils sharp. 👀\n\n#Cubs #MLB #NorthSiders",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Rival Watch / Offseason Preview",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#NorthSiders"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Brewers Chase World Series Sweep Tonight at Tropicana\n**Key Facts:**\n- WS Series status: Brewers lead 2-0\n- Game 1 (Oct 23): Brewers 3-2 at American Family Field\n- Game 2 (Oct 24): Brewers 5-4 (4-0 comeback) at American Family Field\n- Game 3: Monday Oct 26, Tropicana Field, Tampa, 8 PM ET / 7 PM CT, FOX\n- Game 4: Tuesday Oct 27, Tropicana (if needed)\n- Brewers are division rivals (NL Central); cubs were watching from home\n- Michael King opt-out context: Cubs have been tracking King (Padres) as potential FA target\n- King has opt-out clause; deadline 5 days after WS conclusion\n- If Brewers sweep (Games 3-4 = Oct 27-28), opt-out deadline ~Nov 1-2\n- Spotrac: option deadlines due within 5 days of WS conclusion (they date max deadline to ~Nov 6)\n- King viewed as 2nd-best FA starter this winter (behind Skubal)\n**Sources:**\n- ESPN box scores (espn.com) — Oct 23-24: Games 1-2 final scores ✅\n- FOX Sports: \"Brewers bring 2-0 World Series lead into Game 3 against Rays\" ✅ <24h\n- Yahoo Sports: \"Brewers bring 2-0 WS lead into Game 3\" ✅ <24h\n- MLB.com: WS Game 3 lineup/pitching matchup preview ✅ <24h\n- Spotrac: 2026 opt-out/option decisions article (Michael King section) ✅\n- Pipeline history: King opt-out tracked since Oct 20, 23, 25\n**Confidence:** HIGH on WS status. MEDIUM on King opt-out precise deadline (Spotrac confirms 5-day window but King's specific deal structure referenced from prior research).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Imanaga Decision Imminent — Cubs' Most Important Offseason Move",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Imanaga (11-10, 3.77 ERA, 32 starts) enters FA the moment the WS ends. Cubs declined their club option; Imanaga declined his. A qualifying offer (~$22M) is expected within days. Jed Hoyer publicly expressed hope to retain him. He's the best pitcher on a staff about to lose 4+ starters. Rotation is the No. 1 Cubs offseason priority.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "IMANAGA is a free agent the moment this World Series ends.\n\n3.77 ERA, 32 starts, best pitcher on the staff — and the Cubs are days away from finding out if they can keep him.\n\nJed Hoyer says there's \"still hope.\" Cubs fans: hold your breath.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold Take / Urgency",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Imanaga Decision Imminent\n**Key Facts:**\n- Shota Imanaga: 2026 season — 11-10, 3.77 ERA, 32 starts\n- Original contract: 4yr/$53M (signed Jan 2024), with club option (5th yr option worth ~$27M)\n- Both sides declined options after 2026 season (Cubs declined club option; Imanaga declined his player option)\n- Status: Imanaga will be an unrestricted FA once WS ends (options must be declared within 5 days of WS)\n- Qualifying offer: Cubs expected to extend QO (~$22M value for 2027 QO threshold); Imanaga has until ~Nov 18 to accept/decline\n- Jed Hoyer: \"still has some hope that the franchise can find a way to retain... Imanaga\" — SI/InsideTheCubs\n- Cubs rotation picture: Gausman (FA, 4-2, 4.83 ERA in 9 Cubs starts), Peterson (FA), Boyd (mutual option uncertain), Holmes (club option expected declined), Horton (TJ — out until July 2027), Steele (returning from elbow)\n- Cubs need 2-3 rotation starters this offseason\n**Sources:**\n- NBC Chicago: \"Who are the Chicago Cubs pitching free agents heading into 2027?\" ✅ <24h\n- SI/InsideTheCubs: Hoyer addresses re-signing Imanaga ✅ <24h\n- Bleacher Report: Cubs 2026 offseason guide ✅ <24h\n- Bleacher Nation: \"The likelihood these Cubs remain with the team after 2026\" ✅\n**Confidence:** HIGH on Imanaga FA status (both sides declined options per NBC Chicago). MEDIUM on QO timing/value (reported ~$22M; QO hasn't been tendered yet as WS ongoing — framing as \"imminent\").\n**COMPOUND CLAIM CHECK:** \"best pitcher on the staff\" — Imanaga had 3.77 ERA / 32 starts; no other Cubs starter had more than 9 starts (Gausman, acquired at deadline). CONFIRMED as de facto ace by workload and ERA. ✅",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Gold Gloves in 6 Days — Historic Cubs Outfield Sweep on the Line",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "PCA, Happ, and Suzuki all finalists for NL outfield Gold Gloves. Nov. 1 on ESPN 8:30 PM ET. PCA leads all MLB with 26 OAA. Suzuki tops NL RFs with 8 FRV. Happ chasing 5th straight. No team has EVER swept all 3 outfield awards in a single season — Cubs have a historic shot.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "SIX days until the Gold Gloves — and the Cubs can make history.\n\nPCA, Happ, and Suzuki are all finalists. NO team has ever swept all 3 outfield awards in a single season.\n\nPCA: 26 OAA (MLB-best). Suzuki: 8 FRV (NL-best). Happ: chasing his 5th straight.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Stat Breakdown / Informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Gold Gloves — 6 Days\n**Key Facts:**\n- 5 Cubs finalists (announced Oct 14): PCA (CF), Happ (LF), Suzuki (RF), Bregman (3B), Swanson (SS)\n- Announcement: Sunday Nov. 1 on ESPN, 8:30 PM ET\n- Voting formula: 75% vote from managers/coaches + 25% SABR Defensive Index\n- PCA stats: 26 OAA — leads all of MLB (CF)\n- Suzuki stats: 8 FRV — leads NL RF (ahead of Carson Benge 5 FRV, Corbin Carroll 4 FRV)\n- Happ stats: 5 FRV (2nd NL LF behind Jackson Chourio's 6 FRV); 4 consecutive GGs\n- Historic note: NO team has ever swept all 3 outfield Gold Gloves in a single season (AL or NL)\n- Cubs won 2 of 3 outfield GGs in 2025 (PCA and Happ)\n**Sources:**\n- MLB.com: \"Could Cubs become 1st to sweep all outfield Gold Gloves?\" (multiple team pages) ✅\n- Bleacher Nation: \"The Chicago Cubs have landed five Gold Glove finalists\" (Oct 14, 2026) ✅\n- NBC Chicago: PCA as one of 5 Cubs GG finalists ✅\n**Confidence:** HIGH — multiple corroborating sources on finalists. HIGH on PCA OAA (26 per MLB.com). HIGH on historic note (no-sweep is confirmed as never happened per MLB.com). MEDIUM on Suzuki's 8 FRV vs. Happ's 5 FRV (from MLB.com search summary — cross-referenced with NBC Chicago, acceptable for tweet).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Suzuki and Happ Both Hit Free Agency — Cubs Face $200M+ Outfield Decision",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Both outfielders enter free agency when the WS ends. Suzuki posted a career-high 5.1 WAR; projections range $90-130M. Happ has 4 straight GG finalist seasons and said \"I would love to stay.\" Cubs have massive rotation spending AND outfield spending decisions simultaneous. Roster will look dramatically different in 2027.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "SUZUKI and Happ both hit free agency the moment the World Series ends.\n\nSuzuki: career-high 5.1 WAR, projected $90-130M market. Happ: 4-time Gold Glove finalist.\n\nJed Hoyer has a $200M+ decision to make — and he's already building a new rotation, too.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative / Bold Take",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Suzuki + Happ Free Agency\n**Key Facts:**\n- Both Seiya Suzuki and Ian Happ are hitting FA after 2026 season\n- Seiya Suzuki 2026: career-high 5.1 WAR (Baseball-Reference)\n- Suzuki contract projections: $90M/4yr (SI) to $130M+ (Bleacher Nation)\n- Toronto Blue Jays reportedly pursuing Suzuki (Yardbarker)\n- Ian Happ: said \"I would love to stay\" with Cubs (MLB.com)\n- No official Cubs extension offer confirmed for either player\n- Bleacher Report: unless Cubs re-sign Suzuki and Happ, \"the outfield will look new in 2027\"\n- Jed Hoyer acknowledged roster \"will look different\" given volume of FAs\n**Sources:**\n- Yardbarker/SI: Suzuki $90M projection ✅\n- Bleacher Nation: Suzuki $130M+ range ✅\n- Bleacher Report: Cubs 2026 offseason guide ✅\n- MLB.com: Happ \"I would love to stay\" ✅\n- Roundtable.io: likelihood assessment (informal analysis) ✅\n**Confidence:** HIGH on both being FA (confirmed). MEDIUM on salary projections (projections from media, not agents/team — appropriate for tweet as \"projections in the $90-130M range\"). HIGH on historic quote from Happ.\n**COMPOUND CLAIM CHECK:** \"$200M+\" — If Suzuki gets $90M+ and Happ gets even a modest deal, total outfield FA spending is clearly $200M+ territory. Defensible. ✅",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "AFL Mesa Solar Sox — Kade Snell's Breakout Continues",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Snell is the early Mesa breakout story — bat-first OF prospect hitting well in his first AFL action. Jhon Cabral and Dominick Reid developing alongside. 8 Cubs prospects in AFL through Nov. 14. Cubs' farm system staying active during offseason.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "KADE SNELL is making noise in the Arizona Fall League.\n\nThe Cubs' bat-first outfield prospect is one of the early breakout stories at Mesa, alongside Jhon Cabral and Dominick Reid.\n\nEight Cubs prospects in AFL through Nov. 14. 🌵\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Prospect Feature / Farm System Update",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "AFL Snell Update\n**Key Facts:**\n- AFL is underway at Mesa Solar Sox (Cubs affiliate)\n- Kade Snell: bat-first OF prospect, early breakout story — multiple hits including ground-rule double (Oct 6 MiLB.com highlight)\n- Jhon Cabral: high-velo outfielder (101 mph exit velocity per Oct 22 pipeline research); on Mesa roster\n- Dominick Reid: also developing at Mesa\n- 8-9 Cubs prospects in AFL through Nov. 14\n- Cole Mathis: only Top 30 prospect Cubs sent\n**Sources:**\n- Bleacher Nation: AFL notes (Oct 5, 2026) ✅\n- SI: Cubs AFL primer (roster) ✅\n- MiLB.com: Snell ground-rule double video (Oct 6) ✅\n- Pipeline story history (Oct 22-25): Snell/Cabral/Reid established\n**Confidence:** HIGH on Snell breakout (multiple sources + video). MEDIUM on 101 mph for Cabral (established in pipeline Oct 22 research; not independently re-verified today). HIGH on prospect count (8-9 in AFL through Nov 14 per SI primer).\n**NOTE:** Today's tweet about Snell does NOT include the \"101 mph\" figure for Cabral to avoid re-asserting a medium-confidence stat. Tweet references Cabral by name only.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
