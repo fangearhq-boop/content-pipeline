@@ -43,17 +43,18 @@ def parse_args():
     return parser.parse_args()
 
 
-def run(on_date, dry_run: bool, loader=None) -> int:
+def run(on_date, dry_run: bool, loader=None, niche_root: Path | None = None) -> int:
     loader = loader or load_bundle
-    folder, posts_path, fact_path = day_paths(NICHE, on_date)
+    root = niche_root or NICHE
+    folder, posts_path, fact_path = day_paths(root, on_date)
     if not dry_run and posts_path.is_file() and fact_path.is_file():
         existing = verify_day(folder)
         if existing.ok:
-            print(f"already valid: {folder.relative_to(NICHE.parent)}")
+            print(f"already valid: {folder}")
             print(existing.summary())
             return 0
 
-    history_path = NICHE / "story-history.md"
+    history_path = root / "story-history.md"
     history = load_history(history_path.read_text(encoding="utf-8")) if history_path.is_file() else []
     try:
         bundle = loader(on_date)
@@ -88,8 +89,8 @@ def run(on_date, dry_run: bool, loader=None) -> int:
         return 1
 
     _append_history(history_path, on_date, drafts)
-    _write_status(on_date, drafts)
-    print(f"wrote {folder.relative_to(NICHE.parent)}")
+    _write_status(root, on_date, drafts)
+    print(f"wrote {folder}")
     return 0
 
 
@@ -113,7 +114,7 @@ def _append_history(path: Path, on_date, drafts) -> None:
         handle.write(rows)
 
 
-def _write_status(on_date, drafts) -> None:
+def _write_status(root: Path, on_date, drafts) -> None:
     lines = [
         "# Sooners Pipeline Status",
         "",
@@ -127,7 +128,7 @@ def _write_status(on_date, drafts) -> None:
     for draft in drafts:
         lines.append(f"| {draft.slot_ct} | {draft.title.replace('|', '/')} | {draft.url} |")
     lines.append("")
-    (NICHE / "pipeline-status.md").write_text("\n".join(lines), encoding="utf-8")
+    (root / "pipeline-status.md").write_text("\n".join(lines), encoding="utf-8")
 
 
 if __name__ == "__main__":

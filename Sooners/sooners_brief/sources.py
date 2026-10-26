@@ -8,7 +8,7 @@ import re
 import time
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass
-from datetime import date, datetime
+from datetime import date, datetime, timezone
 from http.client import IncompleteRead, RemoteDisconnected
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
@@ -86,6 +86,19 @@ def plain(fragment: str) -> str:
     return normalize(html.unescape(text))
 
 
+def _as_utc(value: datetime) -> datetime:
+    if value.tzinfo is None or value.tzinfo.utcoffset(value) is None:
+        return value.replace(tzinfo=timezone.utc)
+    return value.astimezone(timezone.utc)
+
+
+def published_sort_key(item) -> datetime:
+    """Naive stamps are UTC. Missing stamps sort last when newest-first."""
+    if item.published is None:
+        return datetime.min.replace(tzinfo=timezone.utc)
+    return _as_utc(item.published)
+
+
 def _parse_when(value: str | None) -> datetime | None:
     if value is None:
         return None
@@ -97,7 +110,7 @@ def _parse_when(value: str | None) -> datetime | None:
         candidates.append(raw[:-1] + "+00:00")
     for candidate in candidates:
         try:
-            return datetime.fromisoformat(candidate)
+            return _as_utc(datetime.fromisoformat(candidate))
         except ValueError:
             continue
     trimmed = re.sub(r"\s+[A-Z]{2,4}$", "", raw)
@@ -111,7 +124,7 @@ def _parse_when(value: str | None) -> datetime | None:
             "%Y-%m-%d %H:%M:%S",
         ):
             try:
-                return datetime.strptime(candidate, fmt)
+                return _as_utc(datetime.strptime(candidate, fmt))
             except ValueError:
                 continue
     return None
@@ -215,7 +228,7 @@ def require_publishable_source(bundle: dict) -> None:
 def load_bundle(on_date: date, opener=None, sleeper=None) -> dict:
     basketball = stories_for("womens-basketball", SPORT_IDS["womens-basketball"], opener=opener, sleeper=sleeper)
     basketball += stories_for("mens-basketball", SPORT_IDS["mens-basketball"], opener=opener, sleeper=sleeper)
-    basketball.sort(key=lambda item: item.published or datetime.min, reverse=True)
+    basketball.sort(key=published_sort_key, reverse=True)
     bundle = {
         "football": stories_for("football", SPORT_IDS["football"], opener=opener, sleeper=sleeper),
         "basketball": basketball,

@@ -211,10 +211,15 @@ def _next_game(item, slot: str, on_date: date) -> Draft | None:
     )
 
 
-# "Oklahoma State" is not Oklahoma. The subject has to be the winner.
+# The winner is the word immediately in front of "defeated", plus at most four
+# lowercase filler words ("women", "men's basketball", "as it"). A capital, a
+# colon, a comma, or "as the" in that gap is a different subject.
+_FILLER_WORD = r"(?!as\s+the\b)[a-z][a-z'-]*"
 _WIN = re.compile(
-    r"\b(Oklahoma|Sooners)\b(?! State)([^.]{0,180}?)\bdefeated "
-    r"([A-Z][^,]{2,48}?), (\d+)-(\d+), in an exhibition"
+    rf"\b(Oklahoma|Sooners)\b(?!\s+[A-Z])"
+    rf"((?:\s+{_FILLER_WORD}){{0,4}})"
+    rf"\s+defeated "
+    rf"([A-Z][^,]{{2,48}}?), (\d+)-(\d+), in an exhibition"
 )
 
 
@@ -226,12 +231,13 @@ def _basketball(item, slot: str) -> Draft | None:
     subject, between, opponent, ours, theirs = match.groups()
     if opponent.strip().casefold() in {"oklahoma", "sooners"}:
         return None
+    if re.search(r"[A-Z]|,|:|\bas the\b", between):
+        return None
     claim = _claim_from(text, match.group(0))
     if claim is None:
         return None
     side = "Women's basketball" if item.sport == "womens-basketball" else "Men's basketball"
     line = f"{subject} defeated {opponent} {ours}-{theirs}."
-    # "Never trailed" only when that same winner's clause says it.
     if "never trailed" in between.casefold():
         line = f"{subject} defeated {opponent} {ours}-{theirs}. Never trailed."
     tweet = f"EXHIBITION WIN. 🏀\n\n{line}\n\n{side} just checked in.\n\n{HASHTAGS}"

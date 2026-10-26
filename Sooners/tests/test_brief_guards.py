@@ -5,9 +5,10 @@ from __future__ import annotations
 import io
 import subprocess
 import sys
+import tempfile
 import unittest
 from contextlib import redirect_stderr, redirect_stdout
-from datetime import date, datetime
+from datetime import date, datetime, timezone
 from http.client import IncompleteRead
 from pathlib import Path
 
@@ -31,8 +32,10 @@ from sooners_brief.sources import (  # noqa: E402
     _parse_when,
     fetch_text,
     football_season_year,
+    published_sort_key,
     require_publishable_source,
 )
+from scripts.denver_gate import scheduled_hour_action  # noqa: E402
 
 ON = date(2026, 10, 26)
 ROOT = NICHE.parent
@@ -40,6 +43,14 @@ ROOT = NICHE.parent
 
 def item(sport, title, url, text, published):
     return SourceItem(sport=sport, title=title, url=url, text=text, published=published)
+
+
+def _basketball_text(text, sport="womens-basketball"):
+    bundle = fixture_bundle()
+    bundle["basketball"] = [
+        item(sport, "Exhibition", "https://soonersports.com/news/case", text, datetime(2026, 10, 26, 12, 0))
+    ]
+    return build_drafts(bundle, ON)[2].text
 
 
 def fixture_bundle():
@@ -62,9 +73,8 @@ def fixture_bundle():
                 "Sooners Cruise to Exhibition Win Over Southern Nazarene",
                 "https://soonersports.com/news/2026/10/25/womens-basketball-exhibition",
                 "Sooners Cruise to Exhibition Win Over Southern Nazarene. "
-                "Oklahoma scored on its first possession and never trailed as it "
-                "defeated Southern Nazarene, 124-39, in an exhibition game Sunday "
-                "afternoon at Lloyd Noble Center.",
+                "Oklahoma never trailed as it defeated Southern Nazarene, 124-39, "
+                "in an exhibition game Sunday afternoon at Lloyd Noble Center.",
                 datetime(2026, 10, 25, 17, 13),
             )
         ],
@@ -198,48 +208,88 @@ class GuardTests(unittest.TestCase):
         posts, facts = render_day(ON, drafts)
         self.assertTrue(verify_brief(posts, facts).ok, verify_brief(posts, facts).summary())
 
-    def test_reversed_exhibition_does_not_flip_the_winner(self):
-        bundle = fixture_bundle()
-        bundle["basketball"] = [
-            item(
-                "womens-basketball",
-                "Texas exhibition",
-                "https://soonersports.com/news/reversed",
-                "Texas defeated Oklahoma, 80-70, in an exhibition and never trailed.",
-                datetime(2026, 10, 26, 12, 0),
-            )
+    def test_exhibition_subject_must_be_adjacent_to_defeated(self):
+        quiet = (
+            "LLOYD NOBLE, SOON. 🏀\n"
+            "\n"
+            "Monday 2026-10-26. Hoops season is the long grind. "
+            "No fresh number cleared today, and that is the post.\n"
+            "\n"
+            "#Sooners #BoomerSooner #SoonerNation\n"
+        )
+        false_wins = [
+            "Oklahoma lost as Kansas defeated Texas Tech, 80-70, in an exhibition.",
+            "Oklahoma preview: Texas defeated Tulsa, 80-70, in an exhibition.",
+            "Oklahoma City defeated Tulsa, 80-70, in an exhibition.",
+            "Oklahoma Christian defeated Tulsa, 80-70, in an exhibition.",
+            "Oklahoma State defeated Texas, 81-70, in an exhibition.",
+            "Oklahoma scored on its first possession and never trailed as it "
+            "defeated Southern Nazarene, 124-39, in an exhibition.",
+            "Oklahoma as the favorite defeated Texas, 80-70, in an exhibition.",
         ]
-        drafts = build_drafts(bundle, ON)
-        self.assertNotIn("80-70", drafts[2].text)
-        self.assertNotIn("defeated Oklahoma", drafts[2].text)
-        self.assertNotIn("Never trailed", drafts[2].text)
-        self.assertNotIn("Oklahoma defeated Oklahoma", drafts[2].text)
+        for text in false_wins:
+            with self.subTest(text=text):
+                self.assertEqual(_basketball_text(text), quiet)
 
-        bundle["basketball"] = [
-            item(
-                "mens-basketball",
-                "Sooners exhibition",
-                "https://soonersports.com/news/sooners-win",
+        self.assertEqual(
+            _basketball_text(
+                "Oklahoma women defeated Southern Nazarene, 124-39, in an exhibition."
+            ),
+            (
+                "EXHIBITION WIN. 🏀\n"
+                "\n"
+                "Oklahoma defeated Southern Nazarene 124-39.\n"
+                "\n"
+                "Women's basketball just checked in.\n"
+                "\n"
+                "#Sooners #BoomerSooner #SoonerNation\n"
+            ),
+        )
+        self.assertEqual(
+            _basketball_text(
+                "Oklahoma never trailed as it defeated Southern Nazarene, 124-39, in an exhibition.",
+                sport="womens-basketball",
+            ),
+            (
+                "EXHIBITION WIN. 🏀\n"
+                "\n"
+                "Oklahoma defeated Southern Nazarene 124-39. Never trailed.\n"
+                "\n"
+                "Women's basketball just checked in.\n"
+                "\n"
+                "#Sooners #BoomerSooner #SoonerNation\n"
+            ),
+        )
+        self.assertEqual(
+            _basketball_text(
                 "The Sooners defeated Kansas, 90-80, in an exhibition. Kansas never trailed until late.",
-                datetime(2026, 10, 26, 12, 0),
-            )
-        ]
-        won = build_drafts(bundle, ON)
-        self.assertIn("Sooners defeated Kansas 90-80", won[2].text)
-        self.assertNotIn("Never trailed", won[2].text)
-
-        bundle["basketball"] = [
-            item(
-                "mens-basketball",
-                "Oklahoma State exhibition",
-                "https://soonersports.com/news/okstate",
-                "Oklahoma State defeated Texas, 81-70, in an exhibition.",
-                datetime(2026, 10, 26, 12, 0),
-            )
-        ]
-        state = build_drafts(bundle, ON)
-        self.assertNotIn("81-70", state[2].text)
-        self.assertNotIn("defeated Texas", state[2].text)
+                sport="mens-basketball",
+            ),
+            (
+                "EXHIBITION WIN. 🏀\n"
+                "\n"
+                "Sooners defeated Kansas 90-80.\n"
+                "\n"
+                "Men's basketball just checked in.\n"
+                "\n"
+                "#Sooners #BoomerSooner #SoonerNation\n"
+            ),
+        )
+        self.assertEqual(
+            _basketball_text(
+                "Oklahoma men's basketball defeated Texas, 88-70, in an exhibition.",
+                sport="mens-basketball",
+            ),
+            (
+                "EXHIBITION WIN. 🏀\n"
+                "\n"
+                "Oklahoma defeated Texas 88-70.\n"
+                "\n"
+                "Men's basketball just checked in.\n"
+                "\n"
+                "#Sooners #BoomerSooner #SoonerNation\n"
+            ),
+        )
 
     def test_softball_city_is_copied_only_from_the_claim(self):
         bundle = fixture_bundle()
@@ -459,12 +509,88 @@ BASEBALL.
         self.assertEqual(failed, 1)
         self.assertIn("every Sooners source came back empty", stderr.getvalue())
 
+    def test_mixed_timestamps_sort_without_a_type_error(self):
+        from datetime import timedelta
+
+        newest = item(
+            "womens-basketball",
+            "n",
+            "https://soonersports.com/newest",
+            "n",
+            datetime(2026, 10, 26, 18, 0, tzinfo=timezone.utc),
+        )
+        central = item(
+            "mens-basketball",
+            "c",
+            "https://soonersports.com/central",
+            "c",
+            datetime(2026, 10, 26, 8, 0, tzinfo=timezone(timedelta(hours=-5))),
+        )
+        naive = item("womens-basketball", "v", "https://soonersports.com/naive", "v", datetime(2026, 10, 26, 12, 0))
+        missing = item("mens-basketball", "m", "https://soonersports.com/missing", "m", None)
+        ordered = sorted([missing, naive, central, newest], key=published_sort_key, reverse=True)
+        self.assertEqual(
+            [story.url for story in ordered],
+            [
+                "https://soonersports.com/newest",
+                "https://soonersports.com/central",
+                "https://soonersports.com/naive",
+                "https://soonersports.com/missing",
+            ],
+        )
+        parsed = _parse_when("2026-10-26T17:13:00")
+        parsed_z = _parse_when("2026-10-26T17:13:00.5Z")
+        self.assertEqual(parsed.tzinfo, timezone.utc)
+        self.assertEqual(parsed_z.utcoffset(), timezone.utc.utcoffset(parsed_z))
+
+    def test_denver_gate_hours_and_second_run(self):
+        self.assertEqual(scheduled_hour_action("07", "schedule"), "proceed")
+        self.assertEqual(scheduled_hour_action("08", "schedule"), "proceed")
+        for hour in ("00", "06", "09", "13", "23"):
+            self.assertEqual(scheduled_hour_action(hour, "schedule"), "skip", hour)
+        self.assertEqual(scheduled_hour_action("15", "workflow_dispatch"), "proceed")
+        script = NICHE / "scripts" / "denver_gate.py"
+        for hour, expected in (("07", "proceed"), ("08", "proceed"), ("06", "skip"), ("09", "skip")):
+            completed = subprocess.run(
+                [sys.executable, str(script), hour, "schedule"],
+                check=False,
+                capture_output=True,
+                text=True,
+            )
+            self.assertEqual(completed.returncode, 0, completed.stderr)
+            self.assertEqual(completed.stdout.strip(), expected)
+
+        import generate_daily
+
+        calls = {"n": 0}
+
+        def loader(_on_date):
+            calls["n"] += 1
+            return fixture_bundle()
+
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            first = generate_daily.run(ON, False, loader=loader, niche_root=root)
+            self.assertEqual(first, 0)
+            self.assertEqual(calls["n"], 1)
+            posts_path = root / "sooners-content-2026-10-26" / "03-social-posts-x.md"
+            original = posts_path.read_text(encoding="utf-8")
+
+            def boom(_on_date):
+                raise AssertionError("second run must not fetch")
+
+            stdout = io.StringIO()
+            with redirect_stdout(stdout):
+                second = generate_daily.run(ON, False, loader=boom, niche_root=root)
+            self.assertEqual(second, 0)
+            self.assertIn("already valid", stdout.getvalue())
+            self.assertEqual(posts_path.read_text(encoding="utf-8"), original)
+
     def test_workflows_keep_the_review_guards(self):
         daily = (ROOT / ".github/workflows/sooners-daily.yml").read_text(encoding="utf-8")
         ci = (ROOT / ".github/workflows/sooners-brief-ci.yml").read_text(encoding="utf-8")
         self.assertIn("^[0-9]{4}-[0-9]{2}-[0-9]{2}$", daily)
-        self.assertIn('"$hour" != "07"', daily)
-        self.assertIn('"$hour" != "08"', daily)
+        self.assertIn("Sooners/scripts/denver_gate.py", daily)
         self.assertIn("paths:", ci)
         self.assertIn("Sooners/**", ci)
         self.assertIn("branches:", ci)
