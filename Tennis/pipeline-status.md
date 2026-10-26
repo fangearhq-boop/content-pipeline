@@ -1,5 +1,35 @@
 # Tennis Fanrecap — Pipeline Status
 
+## Current Run: 2026-10-26
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Medvedev def. Basilashvili 6-7(6) 6-1 6-3 in Almaty final — CONFIRMED (25th title, first career defense, No. 5 Race); Vienna+Basel both opened Day 1 (draws confirmed, results in progress); Wawrinka tribute night Basel; ATP Race: Medvedev 5th (3,660), Cobolli 6th (3,640), Fils 7th (3,425) Mover of Week; WTA Finals preview Nov 8-15 Indian Wells (moved from Riyadh) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Oct 25 S2: Almaty Final → Medvedev wins); S2 FOLLOW-UP (Oct 25 S3: Vienna+Basel open → Day 1); S3 NEW (Wawrinka tribute night); S4 FOLLOW-UP (Oct 25 S5: Race update → post-Almaty); S5 FOLLOW-UP (Oct 25 S4: WTA Finals preview → deeper preview) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Marcus Cole [S1, S4], Elena Voss [S2, S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on Almaty match duration, Cobolli/Fils/Tiafoe exact Race pts, WTA Finals draw timing |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, angles per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars (212, 231, 231, 218, 222, 224, 245); code-block format; #TennisFanrecap + topic hashtags |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; correct **Long-Form Post (time)** format |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 9 imagn concepts across 5 stories; player-name-only search terms |
+| Articles (5) | COMPLETE | article-01 Medvedev Almaty (Marcus Cole T1); article-02 Vienna+Basel Day 1 (Elena Voss T1); article-03 Wawrinka farewell (Ryan Calloway T2); article-04 ATP Race update (Marcus Cole T2); article-05 WTA Finals preview (Elena Voss T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 34 claims auto-extracted; all stories present in all content files; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles; no char limit errors |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 9 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-10-26.xlsx + tfr-postplanner-tobi-2026-10-26.xlsx — 7 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Oct 26 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Elena Voss [S2, S5], Ryan Calloway [S3])
+- **Key stories:** Medvedev first career title defense at Almaty (25th ATP title, rises to No. 5 Race); Vienna+Basel Day 1 (Zverev/Alcaraz/Vienna, Shelton/Djokovic/Wawrinka-tribute/Basel); Wawrinka tribute night Basel; ATP Race Oct 26 (Medvedev 5th, Cobolli 6th, Fils Mover of Week); WTA Finals preview (Indian Wells Nov 8, moved from Riyadh)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); PostPlanner + compile + review-dashboard all COMPLETED successfully today
+
+---
+
 ## Current Run: 2026-10-25
 
 | Step | Status | Notes |

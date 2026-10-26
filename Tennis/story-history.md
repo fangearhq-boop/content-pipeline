@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## October 26, 2026
+
+| 2026-10-26 | Daniil Medvedev def. Nikoloz Basilashvili 6-7(6), 6-1, 6-3 in 2026 Almaty Open final — first career title defense (previously 0-for-3); 25th ATP singles title; Basilashvili (qualifier, No. 128) took opening tiebreak 8-6; Medvedev moves to No. 5 in ATP Race (3,660 pts). Sources: Sofascore, The Peninsula Qatar, Tennis Majors, Wikipedia | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-10-25 S2: Almaty Final preview → result) |
+| 2026-10-26 | Vienna Erste Bank Open (ATP 500) + Swiss Indoors Basel (ATP 500) both opened Day 1 Monday — Vienna: Zverev (1) vs Landaluce (WC); Alcaraz (2 WC) vs Khachanov (H2H 6-0 Alcaraz); Basel: Shelton (1) vs Ruud; Djokovic (WC) vs Humbert; Wawrinka tribute night vs Lehečká; Sinner absent (knee, defending Vienna champion); both events Oct 26–Nov 1; 500 Race pts each. Sources: ATP Tour, SRF Sport, Tennis365 | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (2026-10-25 S3: Vienna+Basel open Sunday → Day 1) |
+| 2026-10-26 | Stan Wawrinka (41) farewell tournament at 2026 Swiss Indoors Basel — tribute night Monday Oct 26; first round vs Jiří Lehečká; Basel titles: 2006, 2015, 2016; Grand Slams: 2014 AO, 2015 RG, 2016 USO; Olympic doubles gold 2008 Beijing (with Federer); career-high No. 3 (2014). Sources: ATP Tour, Tennis365, SRF Sport | T2 | X, FB, Article | Ryan Calloway; NEW |
+| 2026-10-26 | ATP Race to Turin Oct 26 update — Medvedev No. 5 (3,660 pts, +Almaty title); Cobolli No. 6 (3,640); Fils No. 7 (3,425; ATP Mover of Week); Tiafoe No. 8 (3,380); 3 confirmed (Zverev/Alcaraz/Shelton); 5 spots for 7 players; Vienna+Basel 500 pts each; Paris Masters 1,000 pts (Oct 31–Nov 8). Sources: ATP Race Oct 26 article, racetotur.in | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-10-25 S5: ATP Race update → post-Almaty) |
+| 2026-10-26 | WTA Finals 2026 preview — Nov 8–15 Indian Wells Tennis Garden; relocated from Riyadh (Saudi contract ended; 2026 Iran War safety concerns); first time at Indian Wells; field: Rybakina (No. 1, defending champion), Sabalenka, Andreeva, Pegula, Gauff, Svitolina, Noskova, Muchova; draw ~Nov 5; outdoor hard court. Sources: Wikipedia, WTA official | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (2026-10-25 S4: WTA Finals preview → deeper preview) |
+
+---
+
+
 ## October 25, 2026
 
 | 2026-10-25 | Elena Rybakina def. Leylah Fernandez 6-2, 6-2 (76 min) in Ningbo Open final — 15th career title, first as World No. 1; defends 2025 Ningbo title; 8-0 all time at Ningbo; 6th final and 4th title of 2026 season; Fernandez rises No. 30 → No. 23. Sources: tennisworldusa.org, tennistonic.com, interia.sport, tennis365.com, espn.com | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-10-22 S4: Ningbo QF matchups → Final) |
