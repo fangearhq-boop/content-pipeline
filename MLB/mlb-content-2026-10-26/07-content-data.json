@@ -1,0 +1,268 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-26",
+  "compiled_at": "2026-10-26T10:23:06.186586+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "World Series Game 3 — Freddy Peralta Faces His Former Team TONIGHT",
+      "tier": 1,
+      "status": "",
+      "angle": "Game 3 of the 2026 World Series is TONIGHT at 8 PM ET at Tropicana Field (FOX). Brewers lead 2-0. The headline is Freddy Peralta — who spent all eight of his MLB seasons in Milwaukee — now starting for the Rays, trying to keep Tampa Bay alive against his former team. Peralta was traded to the Mets in January 2026, then acquired by Tampa Bay at the deadline. He's been dominant: 2-0, 1.08 ERA, 12 strikeouts this postseason; his Rays went 9-0 in his last 9 regular-season starts. Robert Gasser starts for Milwaukee (1.00 ERA in 9 postseason innings, including a 5-inning shutout in NLCS G3 vs. Dodgers). First World Series game at Tropicana since 2008.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Freddy Peralta spent 8 years in Milwaukee.\n\nTonight he takes the mound against the Brewers — at Tropicana Field — trying to keep Tampa Bay's season alive.\n\nGame 3 starts at 8 PM ET on FOX. First WS game in St. Pete since 2008. #WorldSeries",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WorldSeries"
+          ],
+          "char_count": 239
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Tonight's WS Game 3 matchup:\n\nPeralta (TB): 2-0, 1.08 ERA, 12K this postseason\nGasser (MIL): 1.00 ERA, 9 IP postseason\n\nBrewers -750. Rays need a win. Tropicana Field. 8 PM ET FOX. #RaysUp #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RaysUp",
+            "#Brewers"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ws-game-3-peralta-former-team-tropicana.html",
+        "headline": "Freddy Peralta Faces His Former Team in World Series Game 3 Tonight at Tropicana Field",
+        "word_count": 582
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WS Game 3 — Peralta vs Former Team\n\n**Image 1 (Social 1080x1350):**\n- **Type:** imagn\n- **Search Term:** `Freddy Peralta Tampa Bay`\n- **Usage:** Main social post\n- **Caption overlay concept:** \"TONIGHT / GAME 3 / 8 PM ET FOX / PERALTA VS. HIS FORMER TEAM\"\n- **Mood:** Pitching windup, pitching celebration preferred\n\n**Image 2 (Article hero 1200x630):**\n- **Type:** imagn\n- **Search Term:** `Robert Gasser Milwaukee Brewers`\n- **Usage:** Article featured image\n- **Caption overlay concept:** \"WORLD SERIES GAME 3 / BREWERS AT TROPICANA\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WS Game 3 — Peralta vs Former Team Tonight\n**Sources:** sports.yahoo.com/articles/freddy-peralta-starting-game-3-220616568 + www.arkansasonline.com/news/2026/oct/26/milwaukee-still-loves-him-but-freddy-peralta-will/ + nbcsports.com + mlb.com\n**Verified facts (HIGH confidence):**\n- Game 3: tonight Oct 26, 8 PM ET, Tropicana Field, St. Petersburg FL\n- Broadcast: FOX, FOX One, FOX Deportes (Joe Davis + John Smoltz announcing)\n- Brewers lead World Series 2-0\n- Freddy Peralta starts for the Rays\n- Robert Gasser starts for the Brewers\n- Peralta spent 8 seasons with the Milwaukee Brewers\n- Peralta was traded to the Mets in January 2026, then acquired by Tampa Bay at the trade deadline\n- First World Series game at Tropicana Field since 2008\n- Brewers jumped to -750 odds to win series after G2 (per ESPN)\n**Verified facts (MEDIUM confidence):**\n- Peralta: 2-0, 1.08 ERA, 12K this postseason (per nbcsports.com preview)\n- Peralta's Rays won each of his last 9 regular-season starts, with a 0.90 ERA in that stretch\n- Gasser: 1.00 ERA in 9 postseason innings\n- Gasser's NLCS G3 start: 5 scoreless innings vs. Dodgers, 3 hits\n- Gasser regular season: 5-5, 3.87 ERA, 1.19 WHIP, 103 K (per Fox Sports/Yahoo — conflicts with Wikipedia's 7-7 3.59)\n- Manager Kevin Cash held Peralta out of G1 and G2 to save him for Tropicana",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Rays Down 2-0 — What History Says About Their Chances",
+      "tier": 1,
+      "status": "",
+      "angle": "Down 0-2 in the World Series, the Rays face steep odds: teams that go up 2-0 in the Fall Classic have won 77 of 92 series, roughly 84%. Only 10 times in World Series history has a team come back from 0-2 to win — and the most recent was the 1996 Yankees defeating the Braves in six games. But Tampa Bay has factors in their favor: Peralta starts G3 at home, Rasmussen is available, and the Rays are 3-1 at Tropicana this postseason. G3, G4, and G5 are all at home.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Teams that go up 2-0 in the World Series win 77 out of 92 times.\n\nOnly 10 clubs in history have come back from 0-2.\n\nThe most recent? The 1996 Yankees. Tampa Bay has history to overcome — but G3-G5 are all at home. #WorldSeries #RaysUp",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WorldSeries",
+            "#RaysUp"
+          ],
+          "char_count": 235
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Rays' path back:\n\n✓ Peralta starts G3 at home tonight\n✓ Rasmussen available G3/G4\n✓ Tropicana: 3-1 postseason record\n✓ G3, G4, AND G5 all at home\n\nDown 0-2 in a best-of-7. It's not over. #RaysUp #WorldSeries",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RaysUp",
+            "#WorldSeries"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-rays-down-2-0-historical-odds-comeback.html",
+        "headline": "Rays Down 2-0: What History Says About Their World Series Comeback Chances",
+        "word_count": 468
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rays Down 2-0 — Historical Odds\n\n**Image 3 (Social 1080x1350):**\n- **Type:** imagn\n- **Search Term:** `Tampa Bay Rays dugout`\n- **Usage:** Main social post\n- **Caption overlay concept:** \"DOWN 0-2 / BUT NOT OUT / G3-G5 AT HOME\"\n- **Mood:** Dugout drama, team rally scene preferred\n\n**Image 4 (Article hero 1200x630):**\n- **Type:** imagn\n- **Search Term:** `Randy Arozarena Tampa Bay`\n- **Usage:** Article featured image\n- **Caption overlay concept:** \"CAN TAMPA BAY COME BACK? / WS HISTORY SAYS...\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Rays Down 2-0 — Historical Comeback Odds\n**Sources:** wtsp.com + nbcchicago.com + thebiglead.com\n**Verified facts (HIGH confidence):**\n- Teams that go up 2-0 in the World Series have won 77 of 92 series (from prior pipeline research, sourced to MLB.com)\n- 10 teams in World Series history came back from 0-2 to win the championship (per NBC affiliates reporting)\n- Most recent 0-2 WS comeback: 1996 New York Yankees defeated Atlanta Braves in 6 games\n- G3, G4, G5 all at Tropicana Field\n**Verified facts (MEDIUM confidence):**\n- Rays: 3-1 home record this postseason (from Oct 25 pipeline)\n- Rasmussen available for G3 or G4 (noted in Oct 25 pipeline)\n- Historical: 1985 Kansas City Royals and 1986 New York Mets also came back from 0-2",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Misiorowski's Record-Breaking Arm — The Stats Behind the Fastest Pitch in WS History",
+      "tier": 2,
+      "status": "",
+      "angle": "Jacob Misiorowski threw a 103.5 mph fastball in WS Game 1 — the fastest pitch in the tracking era of the World Series. He also set an MLB regular-season record with 1,115 pitches above 100 mph in 2026. But there's a catch: his four-seamer's whiff rate fell from 40.2% in the regular season to 16.1% in the playoffs, suggesting hitters have adjusted. He has yet to complete 5 innings in either postseason start. His arm is historic; his postseason results are a work in progress.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Jacob Misiorowski in 2026:\n• Threw 103.5 mph in WS G1 — fastest pitch in tracking-era World Series history\n• 1,115 pitches above 100 mph in the regular season — MLB record\n• Postseason whiff rate: 40.2% → 16.1%\n\nThe arm is historic. The results are TBD. #Brewers #WorldSeries",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#WorldSeries"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-misiorowski-record-breaking-arm-world-series.html",
+        "headline": "Jacob Misiorowski Has the Most Historic Arm in Baseball. His Postseason Results Are Another Story.",
+        "word_count": 483
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Misiorowski Records\n\n**Image 5 (Social 1080x1350):**\n- **Type:** imagn\n- **Search Term:** `Jacob Misiorowski Milwaukee Brewers`\n- **Usage:** Main social post\n- **Caption overlay concept:** \"103.5 MPH / FASTEST PITCH IN WS HISTORY / MISIOROWSKI\"\n- **Mood:** Pitching release frame, high-velocity action preferred\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Misiorowski's Record-Breaking Arm\n**Sources:** thebiglead.com/4-world-series-milestones + foxsports.com milestones tracker + sports.yahoo.com WS preview (pitching)\n**Verified facts (HIGH confidence):**\n- Jacob Misiorowski threw a 103.5 mph fastball in WS Game 1 — tracking-era World Series record (per multiple sources)\n- Misiorowski threw 1,115 pitches above 100 mph in the 2026 regular season — MLB record (per thebiglead.com citing multiple sources)\n- Misiorowski's four-seamer whiff rate: 40.2% regular season → 16.1% in playoffs (per Yahoo Sports pitching preview)\n- Failed to get out of 5th inning in either postseason start",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "William Contreras — The Most Entertaining Postseason Star You're Not Watching",
+      "tier": 2,
+      "status": "",
+      "angle": "William Contreras has become the unlikely star of Milwaukee's World Series run. Through the NLCS, he batted .367 with 3 home runs, 9-for-23 with a .481 OBP and 1.264 OPS. His slow home run trots have become the signature of the Brewers' postseason run. The contrast is striking: in his first 20 career postseason games before 2026, he batted .211 with a .639 OPS. Something clicked.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "William Contreras this postseason:\n\n.367 BA. 3 HR. 9-for-23 in the NLCS with a 1.264 OPS.\n\nAlso the slowest home run trots in baseball.\n\nHe batted .211 in his first 20 career postseason games. Something different is happening in 2026. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-william-contreras-postseason-emergence.html",
+        "headline": "William Contreras and the Art of the Slow Trot: Milwaukee's Most Entertaining October Star",
+        "word_count": 444
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "William Contreras\n\n**Image 6 (Social 1080x1350):**\n- **Type:** imagn\n- **Search Term:** `William Contreras Milwaukee`\n- **Usage:** Main social post\n- **Caption overlay concept:** \".367 BA / 3 HR POSTSEASON / THE SLOW TROT KING\"\n- **Mood:** Home run celebration, bat flip, slow walk preferred\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "William Contreras Postseason Emergence\n**Sources:** adn.com/sports + ny1.com (AP) + cbssports.com + spectrumnews1.com\n**Verified facts (MEDIUM confidence — through NLCS only, may have updated in WS G1/G2):**\n- Contreras: .367 BA through NLCS\n- Contreras: 3 HR postseason (NLDS + NLCS)\n- Through NLCS G2: 9-for-23, .481 OBP, 1.264 OPS\n- Story about \"slow home run trots\" becoming signature (per AP, multiple outlets Oct 13, 2026)\n- Career previous postseason (before 2026): .211 BA, .639 OPS in first 20 postseason games\n- Notable: 436-foot HR in NLCS G2 vs Dodgers (per clutchpoints.com)\n**Note:** These stats are from NLCS, not updated with WS G1/G2 (not available in search). Treat as through NLCS.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "First-Time Championship Chasers — Why This World Series Is Different",
+      "tier": 3,
+      "status": "",
+      "angle": "The 2026 World Series is the first Fall Classic since 1980 where both franchises have NEVER won a championship. The Brewers (founded 1969) and Rays (1998) have each made it to the World Series before but never won. That means one of these franchises — already the underdog in baseball's most celebrated event — will finally break through after decades of fans rooting for a title that always seemed just out of reach.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "First time since 1980 that both teams in the World Series have NEVER won a championship.\n\nBrewers: one WS, 1982. Lost.\nRays: two WS, 2008 + 2020. Both losses.\n\nOne of these franchises breaks through this week. #WorldSeries #Brewers #RaysUp",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WorldSeries",
+            "#Brewers",
+            "#RaysUp"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-first-time-champions-brewers-rays-history.html",
+        "headline": "First Time Since 1980: Both World Series Teams Have Never Won a Championship",
+        "word_count": 501
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "First-Time Championship Chasers\n\nNo custom social image needed for this Tier 3 historical context piece. The article will use a generic World Series or championship imagery via imagn search term `World Series trophy baseball` if a featured image is desired for the article hero."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "First-Time Championship Chasers\n**Sources:** sports.yahoo.com/articles/2026-world-series-preview-pitching + si.com World Series preview\n**Verified facts (HIGH confidence):**\n- First World Series since 1980 where both franchises have never won a championship (per SI and Yahoo previews)\n- Brewers only prior WS: 1982, lost to Cardinals in 7 games\n- Rays prior WS: 2008 (lost to Phillies), 2020 (lost to Dodgers)\n- Brewers franchise founded: 1969 (as Seattle Pilots, moved to Milwaukee 1970)\n- Rays franchise founded: 1998 (expansion team)\n**Verified facts (MEDIUM confidence):**\n- In 1980: Philadelphia Phillies vs Kansas City Royals (Royals had no prior titles, Phillies had no prior titles) — both first-time WS winners",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

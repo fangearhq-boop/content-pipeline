@@ -9104,3 +9104,52 @@ Each day's stories are appended at the top (newest first).
 - **Follow-Up Opportunities:**
   - Rays series result
   - Peralta performance G3
+
+### Story 1: WS Game 3 — Peralta Faces Former Team TONIGHT at Tropicana
+- **Date:** 2026-10-26
+- **Tier:** 1
+- **Classification:** FOLLOW UP (WS G3 preview covered Oct 25; emotional narrative + first WS at Tropicana since 2008)
+- **Angle:** Game 3 tonight 8 PM ET FOX at Tropicana Field. Peralta (8 seasons MIL, traded Mets Jan 2026, acquired TB deadline) starts TB — 2-0 1.08 ERA 12K postseason. Gasser (1.00 ERA 9 IP postseason, 5 scoreless NLCS G3 vs Dodgers) starts MIL. Brewers -750. First WS at Tropicana since 2008.
+- **Content Produced:** Article (article-01, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - WS Game 3 result
+  - Peralta vs former team performance
+
+### Story 2: Rays Down 2-0 — Historical Comeback Odds
+- **Date:** 2026-10-26
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Rays comeback odds covered Oct 25)
+- **Angle:** Teams up 2-0 in WS win 77/92 (84%). Only 10 historical 0-2 comebacks, most recent 1996 Yankees. But Rays: Peralta G3 home + Rasmussen avail + G3/G4/G5 all Tropicana + 3-1 home postseason.
+- **Content Produced:** Article (article-02, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - WS Game 3 result
+  - Series outcome
+
+### Story 3: Misiorowski's Record-Breaking Arm — 103.5 mph WS Record
+- **Date:** 2026-10-26
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Misiorowski covered WS G1 Oct 23/24; new angle: records + playoff whiff rate drop)
+- **Angle:** 103.5 mph WS G1 = tracking-era WS record. 1,115 pitches above 100 mph regular season = MLB record. But whiff rate 40.2% → 16.1% in playoffs. Failed to complete 5 innings either postseason start.
+- **Content Produced:** Article (article-03, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Misiorowski second postseason appearance
+
+### Story 4: William Contreras — Slow Trot, Big Stats
+- **Date:** 2026-10-26
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Contreras covered Oct 25; new angle: full stat picture + slow trot signature)
+- **Angle:** .367 BA 3 HR 9-for-23 NLCS .481 OBP 1.264 OPS (through NLCS). Slow home run trots becoming series signature. Prior career postseason: .211 BA .639 OPS first 20 games. Something clicked.
+- **Content Produced:** Article (article-04, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Contreras WS stats
+  - WS MVP candidacy
+
+### Story 5: First-Time Championship Chasers — First WS Since 1980 With Both Teams Titleless
+- **Date:** 2026-10-26
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** First WS since 1980 (Phillies vs Royals) where both franchises have never won. Brewers: 1969 franchise, only WS 1982 (lost G7). Rays: 1998 expansion, WS 2008+2020 both losses.
+- **Content Produced:** Article (article-05, Ryan Calloway), 1 X post, FB long-form + caption, 0 image concepts
+- **Follow-Up Opportunities:**
+  - WS champion history
+  - Series outcome
