@@ -172,3 +172,40 @@
 - **Key facts:** 5.513km, 20 corners, 40m elevation change, clockwise; Turn 1 uphill blind crest; Sector 2 flowing esses; opened 2012; 130,000+ capacity
 - **Byline:** Elena Voss
 - **Status:** EVERGREEN
+
+## 2026-10-26
+
+### STORY 1: Antonelli Wins USGP — 13 Seconds Clear, Title One P9 Away in Mexico
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / US Grand Prix / COTA / F1 Championship
+- **Key facts:** Antonelli wins USGP from pole (9th win of season); 13.078s over Leclerc; Verstappen 3rd; Hamilton 4th; title not clinched; needs P9 in Mexico City (Nov 1) to clinch; 123-124 pts clear of Russell/Hamilton
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: How Antonelli Clinches in Mexico — P9 Is All He Needs for Historic Title
+- **Tier:** 1
+- **Category:** Kimi Antonelli / F1 Championship / Mexico City Grand Prix / Sebastian Vettel / Record
+- **Key facts:** P9 finishes required at Mexico City; Vettel youngest champion record 23yr 134d (2010); Antonelli ~20 years old; Mexico race Nov 1; Autodromo Hermanos Rodriguez; 5 races remain
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Leclerc 2nd, Verstappen 3rd — COTA Podium Keeps Both In Runner-Up Hunt
+- **Tier:** 2
+- **Category:** Charles Leclerc / Ferrari / Max Verstappen / Red Bull / COTA
+- **Key facts:** Leclerc 2nd (18 pts), Verstappen 3rd (15 pts) at COTA; Hamilton 4th; title gap 123+ pts behind Antonelli; 5 races remain; constructor's race ongoing
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
+### STORY 4: Hamilton 4th at COTA — Lewis in Title Math While Chasing His Own History
+- **Tier:** 2
+- **Category:** Lewis Hamilton / Mercedes / COTA / US Grand Prix
+- **Key facts:** Hamilton P4 at COTA (12 pts); title gap ~124 pts; still mathematically alive; historical records context
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: Mexico City GP Preview — Race Weekend Oct 30-Nov 1, One P9 Could Crown Youngest Champion
+- **Tier:** 2
+- **Category:** Mexico City Grand Prix / Autodromo Hermanos Rodriguez / F1 Calendar / Kimi Antonelli
+- **Key facts:** Race Nov 1; practice Oct 30; Autodromo Hermanos Rodriguez; Antonelli P9 or better clinches; 5 races remain; Cup/season calendar note
+- **Byline:** Marcus Cole
+- **Status:** NEW

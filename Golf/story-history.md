@@ -181,3 +181,14 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 | 2026-10-10 | T2 | Jacob Bridgeman Co-Leads Baycurrent Classic — Rookie's Shot at First PGA Tour Title | X(1), FB, Article | NEW |
 
 ---
+
+## 2026-10-26
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-26 | T1 | Bermuda Championship Monday Playoff — Smotherman vs. Power in Sudden Death | X(2), FB, Article | NEW |
+| 2026-10-26 | T1 | LIV Golf's Oct. 25 Deadline Has Passed — The Future of the Breakaway Tour Hangs in the Balance | X(2), FB, Article | NEW |
+| 2026-10-26 | T2 | Smotherman's Incredible October — Bank of Utah Win, Now Bermuda Playoff | X(2), FB, Article | NEW |
+| 2026-10-26 | T2 | Seamus Power Eyes Bermuda Repeat — Irish Star Chases Rare Back-to-Back Title | X(1), FB, Article | FOLLOW UP |
+| 2026-10-26 | T2 | Scottie Scheffler Surpasses 181 Weeks at No. 1 — Tiger's Record ~100 Away | X(1), FB, Article | FOLLOW UP |
+

@@ -1,0 +1,373 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-26",
+  "compiled_at": "2026-10-26T11:38:50.078603+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Antonelli Wins USGP — 13 Seconds Clear, Title Within Reach in Mexico",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "DOMINANT. Kimi Antonelli wins the US Grand Prix from pole by 13 seconds. His 9th win of 2026. Title could be one race away. 🏆 #F1 #MercedesAMGF1 #USGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MercedesAMGF1",
+            "#USGP"
+          ],
+          "char_count": 150
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Antonelli wins at COTA by 13+ seconds. He doesn't need to win in Mexico — he just needs to finish 9th. That's how close he is to becoming the youngest F1 champion ever. #F1 #MercedesAMGF1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MercedesAMGF1"
+          ],
+          "char_count": 187
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-antonelli-wins-usgp-cota.html",
+        "headline": "Antonelli Wins US Grand Prix From Pole by 13 Seconds — Title One Race Away in Mexico",
+        "word_count": 531
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Kimi Antonelli Mercedes"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Kimi Antonelli Mercedes"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Wins USGP\n**Verified Facts (HIGH):**\n- Kimi Antonelli (Mercedes) won the 2026 US Grand Prix at COTA on October 25, 2026\n- Antonelli started from pole position\n- Winning margin: 13.078 seconds ahead of Charles Leclerc — described as \"dominant victory\"\n- Podium: 1st Antonelli, 2nd Leclerc (Ferrari), 3rd Verstappen (Red Bull)\n- Lewis Hamilton (Mercedes) finished 4th\n- This was Antonelli's 9th win of the 2026 season\n- Antonelli did NOT clinch the F1 world championship at COTA",
+        "sources": "- Source: formula1.com race report, ESPN, NBC News, Sky Sports, Yahoo Sports (multiple independent sources)\n**Confidence:** HIGH (confirmed by 5+ independent sources)"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "How Antonelli Clinches in Mexico — P9 Is All He Needs for Historic Title",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The math is simple: Kimi Antonelli finishes 9th or better in Mexico City on Nov. 1 and he's world champion. He's ~20 years old. Vettel's youngest champion record (23yr 134d) is about to fall. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 195
+        },
+        {
+          "label": "Post 2-2",
+          "text": "One race. One point finish. One historic title.\n\nAntonelli just needs P9 in Mexico City to become the youngest F1 world champion in history. The countdown starts now. 🏁 #F1 #MercedesAMGF1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MercedesAMGF1"
+          ],
+          "char_count": 187
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-antonelli-title-clinch-mexico.html",
+        "headline": "How Kimi Antonelli Clinches the F1 Title in Mexico — P9 Is All He Needs for Historic Record",
+        "word_count": 541
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Kimi Antonelli Mercedes"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Kimi Antonelli Mercedes"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Clinch Math\n**Verified Facts (HIGH):**\n- After USGP: Antonelli leads championship by ~123-124 points over Russell and Hamilton\n- Maximum points remaining across 5 races: 125 points\n- Clinch condition: Antonelli needs P9 or better at Mexico City GP (November 1) to secure the title\n- Antonelli ~20 years old\n- Sebastian Vettel's youngest champion record: 23 years, 134 days (set at 2010 Japanese GP)\n- Antonelli would become youngest F1 world champion in history if he clinches\n- Pre-Austin: Antonelli led Russell by 102 points; after winning USGP (+25 pts) → lead grows to ~127 points",
+        "sources": "- Source: multiple sources including motorsportmagazine.com, f1oversteer.com, racingnews365.com, Yahoo Sports\n**Confidence:** HIGH (clinch math confirmed by multiple pre/post-race sources)"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Leclerc 2nd, Verstappen 3rd — COTA Podium Keeps Both In Hunt for Runner-Up",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Podium at COTA: No. 1 Antonelli, No. 2 Leclerc, No. 3 Verstappen. Ferrari and Red Bull both left Texas with points. The runner-up battle in the constructors' fight rolls on. #F1 #ScuderiaFerrari #RedBullRacing",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#ScuderiaFerrari",
+            "#RedBullRacing"
+          ],
+          "char_count": 209
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Leclerc P2. Verstappen P3. Both teams grab points from Austin. The Ferrari vs. Red Bull battle for constructor honours is far from over. #F1 #ScuderiaFerrari #RedBullRacing",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#ScuderiaFerrari",
+            "#RedBullRacing"
+          ],
+          "char_count": 172
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-leclerc-verstappen-cota-podium.html",
+        "headline": "Leclerc 2nd, Verstappen 3rd at COTA — Ferrari and Red Bull Keep Runner-Up Fight Alive",
+        "word_count": 501
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Charles Leclerc Ferrari"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Max Verstappen Red Bull"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Leclerc 2nd, Verstappen 3rd\n**Verified Facts (HIGH):**\n- Charles Leclerc (Ferrari) finished 2nd at COTA\n- Max Verstappen (Red Bull) finished 3rd at COTA\n- Points awarded: Leclerc +18, Verstappen +15",
+        "sources": "- Source: formula1.com race classification, ESPN results\n**Confidence:** HIGH (podium confirmed multiple sources)"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Hamilton 4th at COTA — Lewis Helps Antonelli's Math While Chasing History of His Own",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "Lewis Hamilton finishes 4th at COTA. His P4 meant Antonelli couldn't clinch Sunday — but one more Sunday is all the young Merc needs. Hamilton still delivering at the highest level. #F1 #MercedesAMGF1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MercedesAMGF1"
+          ],
+          "char_count": 200
+        },
+        {
+          "label": "Post 4-2",
+          "text": "Hamilton P4, Antonelli P1. Mercedes took 1st and 4th in Austin. The young lion and the legend, still fighting together. Mexico City next. #F1 #MercedesAMGF1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MercedesAMGF1"
+          ],
+          "char_count": 156
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-hamilton-fourth-cota.html",
+        "headline": "Hamilton Finishes Fourth at COTA — The Veteran Delivers as Antonelli's Coronation Waits One More Week",
+        "word_count": 509
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Lewis Hamilton Mercedes"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Lewis Hamilton Mercedes"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton 4th\n**Verified Facts (HIGH):**\n- Lewis Hamilton (Mercedes) finished 4th at COTA\n- Hamilton +12 points from the race\n- Hamilton's P4 factors into Antonelli's clinch math (Hamilton needed P5 or worse for Antonelli to clinch at COTA; finished P4, one spot too high to trigger the clinch)",
+        "sources": "- Source: Yahoo Sports results, ESPN summary\n**Confidence:** HIGH"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Mexico City GP Preview — 5 Races to the Title, One Could Be Enough",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Mexico City GP weekend starts Friday, Oct. 30. Race day: Sunday, Nov. 1. Antonelli needs P9 to clinch. Autodromo Hermanos Rodriguez could be the site of history. Are you ready? 🏁 #F1 #MexicoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MexicoGP"
+          ],
+          "char_count": 192
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-mexico-city-gp-preview.html",
+        "headline": "Mexico City GP Preview — Five Races Left, One Could Be Enough: Antonelli's Title Is Coming",
+        "word_count": 554
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Kimi Antonelli Mercedes"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Kimi Antonelli Mercedes"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mexico City GP Preview\n**Verified Facts (HIGH):**\n- Mexico City Grand Prix race date: Sunday, November 1, 2026\n- Practice/qualifying: Friday October 30 – Saturday October 31\n- Circuit: Autodromo Hermanos Rodriguez, Mexico City\n- Antonelli needs P9 or better to clinch championship\n- 5 races remain after Mexico City if title not clinched there",
+        "sources": "- Source: multiple schedule sources including crash.net, grandepremio.com, ESPN\n**Confidence:** HIGH"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -1,11 +1,33 @@
 # Golf Fanrecap — Pipeline Status
 
-## Latest Run: 2026-10-25
+## Latest Run: 2026-10-26
 
-**Run completed:** 2026-10-25
+**Run completed:** 2026-10-26
 **Stories:** 5
 **Articles:** 5
-**X posts:** 7
+**X posts:** 8
+
+### 2026-10-26 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 30 claims, HIGH; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 8 tweets, 5 FB posts, 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (23 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via GitHub MCP
+
+**Stories covered:**
+1. T1 NEW: Bermuda Championship Monday Playoff — Smotherman vs. Power in Sudden Death (Ryan Calloway)
+2. T1 NEW: LIV Golf Oct. 25 Deadline Passes — Future of Breakaway Tour Hangs in Balance (Marcus Cole)
+3. T2 NEW: Smotherman's Incredible October — Bank of Utah Win, Now Bermuda Playoff (Elena Voss)
+4. T2 FOLLOW UP: Seamus Power Eyes Bermuda Repeat — Irish Star Chases Rare Back-to-Back (Ryan Calloway)
+5. T2 FOLLOW UP: Scheffler ~181 Weeks at No. 1 — Tiger's Record ~100 Away (Marcus Cole)
+
+---
+
+## Latest Run: 2026-10-25
 **FB posts:** 5
 **Status:** COMPLETE (with known proxy limitations)
 

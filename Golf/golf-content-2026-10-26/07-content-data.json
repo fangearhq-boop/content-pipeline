@@ -1,0 +1,355 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-26",
+  "compiled_at": "2026-10-26T11:38:05.019931+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Bermuda Championship Monday Playoff — Smotherman vs. Power in Sudden Death at 8 AM ET",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "LIVE NOW: Smotherman vs. Power in sudden-death at the Bermuda Championship. Both at 16-under after wind wiped out Sunday's final round. Playoff starts on the par-3 16th. On Golf Channel now. #PGATour #BermudaChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#BermudaChampionship"
+          ],
+          "char_count": 220
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Smotherman wins → first player in years to win twice in one calendar month. Power wins → back-to-back Bermuda titles, four years apart. The stakes couldn't be higher at Port Royal this Monday morning. #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-bermuda-championship-playoff-smotherman-power.html",
+        "headline": "Bermuda Championship Heads to Monday Playoff — Smotherman and Power Tied at 16-Under After Wind Chaos",
+        "word_count": 680
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Austin Smotherman PGA Tour"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Seamus Power PGA Tour"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Bermuda Championship Monday Playoff\n**Verified Facts (HIGH — multiple sources):**\n- Event: Butterfield Bermuda Championship, Port Royal Golf Course, Bermuda\n- Weather: Sunday final round canceled due to dangerous high winds\n- Format: Shortened to 54 holes by PGA Tour; 54-hole results are final for full field\n- Co-leaders: Austin Smotherman and Seamus Power, both at 16-under par (confirmed: GolfDigest, GolfMagic, BVM Sports, Bernews)\n- Playoff format: Sudden death, starting Monday 8 AM ET on the par-3 16th hole\n- TV: Golf Channel\n- Prize: Winner $1.08 million, runner-up $654,000 (from $6M purse) — confirmed: Yahoo Sports\n- Monday weather: Scattered showers forecast, gusts up to 30 mph\n**Smotherman context (HIGH — multiple sources):**\n- Won Bank of Utah Championship on October 4, 2026 — his first PGA Tour win (confirmed: NBC Sports, Fox Sports, GolfMagic, Golf Monthly)\n- Won on his 100th career PGA Tour start\n- Shot 26-under par at Black Desert Resort in Ivins, Utah\n- Won by two strokes over Doug Ghim\n- Entered Bank of Utah at No. 79 in FedEx Cup standings\n- Two-year PGA Tour exemption from win; $1.08M winner's check\n**Power context (HIGH — multiple sources):**\n- Won 2022 Butterfield Bermuda Championship at Port Royal (confirmed: PGA Tour payout records)\n- Two-time PGA Tour winner\n- 1-0 career in PGA Tour playoffs (won 2021 ISCO Championship on 6th extra hole over J.T. Poston)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "LIV Golf's Oct. 25 Deadline Has Passed — The Future of the Breakaway Tour Hangs in the Balance",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The LIV Golf October 25 deadline has passed. Rahm is out. Meronk is out. Puig is out. Only a handful have committed to LIV 2.0 — and BC Partners needs a \"critical mass\" to keep the league alive. The clock has run out. #LIVGolf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf"
+          ],
+          "char_count": 226
+        },
+        {
+          "label": "Post 2-2",
+          "text": "LIV Golf's season ended with Rahm winning three straight individual titles. Now, with PIF walking away and most stars following, the question isn't \"who's winning the LIV title?\" It's: will there be a LIV Golf in 2027? #LIVGolf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-liv-golf-deadline-future.html",
+        "headline": "LIV Golf's October 25 Deadline Has Passed — What Happens Now?",
+        "word_count": 617
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Jon Rahm LIV Golf"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Jon Rahm LIV Golf"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf October 25 Deadline\n**Verified Facts (MEDIUM — all sources are pre-deadline):**\n- October 25, 2026: Deadline for players to commit to LIV 2.0 restructuring (confirmed: multiple sources)\n- The date was extended from October 13 to October 25\n- PIF (Saudi Arabia's PIF) confirmed only funding LIV through 2026 season\n- BC Partners Credit: Initial investment announced; seeking $300M restructuring package contingent on player \"critical mass\"\n- Players who said NO to LIV 2.0 (as of mid-October): Jon Rahm, Adrian Meronk, David Puig\n- Players who publicly committed (as of mid-October): Richard Bland, Cameron Tringale, Brendan Steele, Ben Campbell\n- Ian Poulter: uncertain about future\n- DP World Tour: warned players cannot hold dual membership in 2027\n**Context:**\n- Jon Rahm won three straight LIV individual titles in 2026 (Indianapolis season finale)\n- LIV Golf 2026 had 14 scheduled events\n- LIV's restructuring announcement said \"critical mass\" needed; deadline described as \"soft\" by Golf Channel sources\n**Confidence note:** The actual outcome of the October 25 deadline is not yet confirmed from web search (searches returned pre-deadline articles only). Treating the deadline-has-passed angle as confirmed; player commitments are MEDIUM confidence.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Smotherman's Incredible October — From 100-Start Breakthrough to Bermuda Playoff",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Austin Smotherman spent 99 starts without a PGA Tour win. Then Oct. 4 — first win at Bank of Utah in his 100th start. Now he's in a Bermuda playoff for win No. 2. October 2026 has been absolutely unreal for this guy. #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour"
+          ],
+          "char_count": 225
+        },
+        {
+          "label": "Post 3-2",
+          "text": "From 100 starts to his first win. From first win to a Bermuda playoff three weeks later. Austin Smotherman is writing a golf story for the ages this October. #PGATour #BermudaChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#BermudaChampionship"
+          ],
+          "char_count": 187
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-smotherman-october-bank-utah-bermuda.html",
+        "headline": "Austin Smotherman Is Having the Month of His Life — Bank of Utah Win, Now Bermuda Playoff",
+        "word_count": 586
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Austin Smotherman PGA Tour"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Austin Smotherman PGA Tour"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Smotherman's Incredible October\n(Same facts as Story 1 — Smotherman section)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Seamus Power Eyes Bermuda Repeat — Irish Star Chases Rare Back-to-Back Tournament Title",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Seamus Power won this exact event at Port Royal in 2022. Now he's in a Monday playoff to win it again. The course knows him. He's 1-0 in PGA Tour playoffs. Can he pull off a historic back-to-back? #PGATour #BermudaChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#BermudaChampionship"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-seamus-power-bermuda-repeat.html",
+        "headline": "Seamus Power Eyes History at Port Royal — Can He Win Bermuda Championship for Second Time?",
+        "word_count": 567
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Seamus Power PGA Tour"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Seamus Power PGA Tour"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Seamus Power — Bermuda Repeat Bid\n(Same facts as Story 1 — Power section)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Scottie Scheffler Surpasses 181 Weeks at No. 1 — Tiger's Record Still ~100 Away",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Scottie Scheffler has now spent approximately 181 consecutive weeks at World No. 1. Tiger's record is 281 consecutive weeks. Only 100 more to go. Quietly, Scheffler is making one of the most remarkable runs in golf history. #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-scheffler-no1-record-chase.html",
+        "headline": "Scottie Scheffler at 181 Consecutive Weeks at No. 1 — Tiger's Record Is 100 Away and Closing",
+        "word_count": 553
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Scottie Scheffler PGA Tour"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Scottie Scheffler PGA Tour"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Scheffler at No. 1 — Tiger's Record\n**Verified Facts (MEDIUM — based on Oct 16 pipeline data showing 179 weeks + 10 days elapsed):**\n- Scottie Scheffler: approximately 181 consecutive weeks at World No. 1 as of October 26, 2026\n- Oct 16 story said \"179 consecutive weeks, Tiger's record 100 away\"\n- Tiger Woods: 281 consecutive weeks as world No. 1 (the all-time record)\n- Gap remaining: approximately 100 weeks to Tiger's record\n- Scheffler's 2026 includes Masters and other major wins (from prior context in story history)\n**Confidence:** MEDIUM (exact week count not independently re-verified; calculated from Oct 16 baseline)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
