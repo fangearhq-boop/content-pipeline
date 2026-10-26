@@ -1,10 +1,30 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Current Status
-**Last Run:** 2026-10-25
+**Last Run:** 2026-10-26
 **Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy; git push to main
 
 ## Pipeline Run Log
+
+### 2026-10-26 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 36 claims, HIGH; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 9 tweets, 5 FB posts, 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (24 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via GitHub MCP
+
+**Stories covered:**
+1. T1 NEW: Thunder 108, Clippers 101 — Jalen Williams Injury Scare, SGA 34 Points (Damon Pierce)
+2. T1 NEW: Pistons 106, 76ers 93 — Cunningham 26, Collins 16/11, Detroit Stays Perfect (Jake Torres)
+3. T2 NEW: Timberwolves 117, Raptors 94 — Minnesota Dominates Toronto by 23 (Marcus Cole)
+4. T2 NEW: Magic 111, Knicks 102 — Orlando Upsets New York at MSG (Damon Pierce)
+5. T2 NEW: NBA Monday Preview — 7 Games, Flagg Questionable, NBA Cup Starts Oct. 30 (Jake Torres)
+
+---
 ### 2026-10-25 ✅ (Automated)
 - Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
 - Step 10: verify-facts.py — 5 stories, 14 claims, 31 HIGH; image manifest warnings (expected; imagn sourcing)

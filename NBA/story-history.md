@@ -529,3 +529,40 @@
 - **Key facts:** 7 games Oct 25; Lakers vs Jazz 5 PM ET; Nets vs Pacers 6 PM ET; Knicks vs Magic 7 PM ET; Timberwolves vs Raptors 7 PM ET; Thunder vs Clippers ~7 PM ET
 - **Byline:** Marcus Cole
 - **Status:** NEW
+
+## 2026-10-26
+
+### STORY 1: Jalen Williams Injury Scare — Thunder 108, Clippers 101 (SGA 34)
+- **Tier:** 1
+- **Category:** Oklahoma City Thunder / Los Angeles Clippers / Jalen Williams / Shai Gilgeous-Alexander
+- **Key facts:** Final score Thunder 108, Clippers 101; SGA 34 pts; Jalen Williams carried off court with lower left leg injury, awaiting diagnosis; OKC undefeated
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 2: Pistons 106, 76ers 93 — Cunningham 26, Collins 16/11
+- **Tier:** 1
+- **Category:** Detroit Pistons / Philadelphia 76ers / Cade Cunningham / John Collins
+- **Key facts:** Final score Pistons 106, 76ers 93; Cunningham 26 pts; Collins 16 pts/11 reb; Detroit unbeaten
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 3: Timberwolves 117, Raptors 94 — Minnesota Dominates in Toronto
+- **Tier:** 2
+- **Category:** Minnesota Timberwolves / Toronto Raptors
+- **Key facts:** Final score 117-94; 23-point margin; Wolves dominant road performance
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 4: Magic 111, Knicks 102 — Orlando Stuns New York at MSG
+- **Tier:** 2
+- **Category:** Orlando Magic / New York Knicks
+- **Key facts:** Final score 111-102; road win for Magic at Madison Square Garden
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 5: NBA Monday Preview — 7 Games, Flagg Questionable, NBA Cup Starts Oct. 30
+- **Tier:** 2
+- **Category:** NBA Preview / Boston Celtics / Chicago Bulls / Dallas Mavericks / Cooper Flagg / Milwaukee Bucks / Indiana Pacers
+- **Key facts:** 7 games Oct 26; Celtics vs Bulls 7:30 PM ET; Flagg (DAL) questionable left shoulder; Bucks vs Pacers 8 PM ET; NBA Cup starts Oct. 30
+- **Byline:** Jake Torres
+- **Status:** NEW
