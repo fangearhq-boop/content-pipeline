@@ -1,0 +1,113 @@
+name: Sooners daily brief
+
+on:
+  schedule:
+    # 07:05 America/Denver. 13:05 UTC is 07:05 MDT. 14:05 UTC is 07:05 MST.
+    # The gate keeps hours 07 and 08 so a delayed cron still runs.
+    # A second run in that window is a no-op when the day folder is already valid.
+    - cron: "5 13 * * *"
+    - cron: "5 14 * * *"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "America/Chicago folder date YYYY-MM-DD. Empty uses Chicago today."
+        required: false
+        type: string
+        default: ""
+      commit:
+        description: "Write the day folder to main. Leave false for a dry run."
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sooners-daily-brief
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Refuse a committing run that is not on main
+        if: github.event_name == 'workflow_dispatch' && inputs.commit && github.ref != 'refs/heads/main'
+        run: |
+          echo "A committing Sooners run is only allowed on main."
+          exit 1
+
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event_name == 'workflow_dispatch' && github.ref || 'main' }}
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Gate scheduled runs to 7 or 8 AM America/Denver
+        id: gate
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            hour=$(TZ=America/Denver date +%H)
+            decision=$(python Sooners/scripts/denver_gate.py "$hour" schedule)
+            if [ "$decision" = "skip" ]; then
+              echo "skip=true" >> "$GITHUB_OUTPUT"
+              echo "Denver hour is ${hour}. Scheduled runs proceed during 07 and 08."
+              exit 0
+            fi
+          fi
+          echo "skip=false" >> "$GITHUB_OUTPUT"
+
+      - name: Generate the Chicago brief
+        id: gen
+        if: steps.gate.outputs.skip != 'true'
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          INPUT_DATE: ${{ github.event.inputs.date }}
+          INPUT_COMMIT: ${{ github.event.inputs.commit }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          args=()
+          if [ -n "${INPUT_DATE}" ]; then
+            if [[ ! "${INPUT_DATE}" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then
+              echo "date must be YYYY-MM-DD" >&2
+              exit 1
+            fi
+            args+=(--date "${INPUT_DATE}")
+            printf 'folder_date=%s\n' "${INPUT_DATE}" >> "$GITHUB_OUTPUT"
+          else
+            echo "folder_date=$(TZ=America/Chicago date +%F)" >> "$GITHUB_OUTPUT"
+          fi
+          write=false
+          if [ "${EVENT_NAME}" = "schedule" ]; then
+            write=true
+          elif [ "${INPUT_COMMIT}" = "true" ]; then
+            write=true
+          fi
+          if [ "${write}" != "true" ]; then
+            args+=(--dry-run)
+          fi
+          python Sooners/generate_daily.py "${args[@]}"
+          echo "write=${write}" >> "$GITHUB_OUTPUT"
+
+      - name: Commit the Chicago day folder
+        if: steps.gate.outputs.skip != 'true' && steps.gen.outputs.write == 'true'
+        env:
+          FOLDER_DATE: ${{ steps.gen.outputs.folder_date }}
+        run: |
+          set -euo pipefail
+          git config user.name "Content Pipeline Bot"
+          git config user.email "fangearhq@gmail.com"
+          git add Sooners/sooners-content-* Sooners/story-history.md Sooners/pipeline-status.md
+          if git diff --cached --quiet; then
+            echo "No Sooners brief changes to commit."
+            exit 0
+          fi
+          git commit -m "Sooners pipeline ${FOLDER_DATE}: daily X brief"
+          git pull --rebase origin main
+          git push origin HEAD:main

@@ -1,0 +1,72 @@
+# Sooners Fan Recap — Niche Configuration
+# Daily X brief consumed by fangearhq-boop/sooners-x-bot.
+# The bot reads Sooners/sooners-content-YYYY-MM-DD/ (America/Chicago date):
+#   03-social-posts-x.md
+#   06-fact-check-log.md
+
+brand_name: "Sooners Fan Recap"
+brand_short: "SOON"
+content_prefix: "sooners-content"
+parent_brand: "FanGear HQ"
+account: "@SoonersFanRecap"
+
+# Text-only. sooners-x-bot posts the fenced tweet, not an image.
+photo_source: "none"
+
+platforms:
+  - x_twitter
+
+# Slot clock the bot schedules. Denver is the same instant.
+timezone: "America/Chicago"
+denver_timezone: "America/Denver"
+default_schedule:
+  - time: "9:00 AM"
+    denver_time: "8:00 AM"
+    content_type: "Football morning recap"
+  - time: "10:30 AM"
+    denver_time: "9:30 AM"
+    content_type: "Football next look"
+  - time: "12:30 PM"
+    denver_time: "11:30 AM"
+    content_type: "Basketball"
+  - time: "3:00 PM"
+    denver_time: "2:00 PM"
+    content_type: "Recruiting"
+  - time: "6:00 PM"
+    denver_time: "5:00 PM"
+    content_type: "Softball"
+  - time: "8:30 PM"
+    denver_time: "7:30 PM"
+    content_type: "Baseball"
+
+# No articles. The bot does not read a blog.
+article_word_count_min: 0
+article_word_count_max: 0
+
+# No dashboard repo for this niche. Do not invent a Pages project.
+github_pages_url: ""
+github_repo: ""
+
+# Numeric claims are publishable only from these hosts.
+# Status cell must be exactly VERIFIED. Day phrase: Acceptable for social.
+allowlist_hosts:
+  - soonersports.com
+  - espn.com
+  - ncaa.com
+  - ncaa.org
+  - oudaily.com
+  - secsports.com
+  - on3.com
+  - 247sports.com
+  - crimsonandcreammachine.com
+
+# Never cite these, including in a generated fact-check row.
+banned_hosts:
+  - mlb.com
+  - statsapi.mlb.com
+  - baseball-reference.com
+
+claim_priority_labels:
+  1: "Kickoff dates and clock times"
+  2: "Scores and game results"
+  3: "Counting stats that appear verbatim in an allowlisted source"
