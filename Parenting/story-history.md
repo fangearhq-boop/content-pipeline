@@ -2,6 +2,50 @@
 
 ---
 
+## October 26, 2026
+
+### Story 1: Costway Convertible High Chairs Recalled — Walmart and Target
+- **Date:** 2026-10-26
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** CPSC recall Oct 22, 2026; Costway convertible high chairs; ~3,332 units; Walmart and Target; missing passive restraint; fall and entrapment risk; serious injury or death risk; remedy: stop use, full refund; second high chair product with safety issues in 2 weeks (bblüv was Oct 25).
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 2: D11 Bond Vote One Week Away — Nov. 3 Ballot
+- **Date:** 2026-10-26
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** D11 $775M bond; Nov 3, 2026 election; first since 2004; Palmer HS rebuild, Holmes MS rebuild, Coronado HVAC, districtwide upgrades; ~$6.50/month per $100K assessed value; district signal $10K teacher raise if bond passes; Gazette endorsed; drop ballot at any D11 school or El Paso County Clerk location.
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (2026-10-24 S2: D11 bond deep-dive → one week out, how to vote)
+
+### Story 3: Last-Chance Halloween Events in Colorado Springs
+- **Date:** 2026-10-26
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Boo at the Zoo (Cheyenne Mountain Zoo, advance e-tickets, verify 2026 dates); Fleet Feet Fun Run Oct 30 6PM Palmer Park (free 5K); SoccerHaus Indoor Festival Oct 31 2–8PM (free, 4845 List Dr, sensory-friendly 2:30–3:30PM); KOA "Leafy Laughs & Apple Snacks" Oct 30–Nov 1 (Fountain KOA); trick-or-treat window 5:30–8PM Oct 31; Teal Pumpkin Project (FARE); pedestrian risk 43% higher Halloween night.
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 4: CPSC Recalls ONTHEWEI Baby Bath Seats
+- **Date:** 2026-10-26
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** ONTHEWEI baby bath seats recalled; ~2,000 units; Amazon; tip-over instability hazard; drowning risk for infants; recall Oct 9, 2026; remedy: stop use, destroy product, full refund via Amazon; no injuries at time of recall; third baby product recall/warning in 2 weeks.
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 5: D11 and D49 Back After Fall Break — Reset Tips
+- **Date:** 2026-10-26
+- **Tier:** T2
+- **Pillar:** Local News + Evergreen
+- **Key Facts:** D11 returned Monday Oct 26 (break Oct 19–23); D49 returned Monday Oct 26 (break Oct 13–23); D20 already back last week; five back-to-routine tips: reset sleep schedule, pack bags night before, talk through homework expectations, go easy, groove returns fast.
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (2026-10-25 S3: D11/D49 return preview → day-of piece)
+
+---
+
 ## October 25, 2026
 
 ### Story 1: CPSC Issues Safety Warning on bblüv Grow High Chair

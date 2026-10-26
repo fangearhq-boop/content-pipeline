@@ -1,0 +1,255 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-26",
+  "compiled_at": "2026-10-26T12:33:48.191877+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Costway High Chair Recalled — 3,332 Units Sold at Walmart and Target",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "RECALL: Costway convertible high chairs — ~3,332 units sold at Walmart and Target. CPSC says chairs lack a passive restraint: fall and entrapment risk for babies. Stop use immediately, full refund available. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 267
+        },
+        {
+          "label": "Post 1-2",
+          "text": "If you have a Costway high chair from Walmart or Target (Oct 22 recall, ~3,332 units), stop using it now. Tip: check your chair against CPSC.gov — two high chair recalls in two weeks. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "Heads up, Colorado Springs families — another high chair recall, and this one came from Walmart and Target.\n\nOn October 22, 2026, the Consumer Product Safety Commission recalled Costway convertible high chairs. About 3,332 units were sold at both major retailers. The problem: the chairs are missing a passive restraint, which means there's nothing keeping a baby secured if they shift or lunge. CPSC says this creates a fall and entrapment risk that could cause serious injury or death.\n\nThis comes just days after the bblüv Grow high chair warning we shared on Saturday. Two different products, two different companies, but the same category of concern: restraint systems.\n\nIf you have a Costway convertible high chair from Walmart or Target, stop using it right away. A full refund is available — check CPSC.gov or the retailer's recall page for details.\n\nHave you checked your baby gear recalls lately? It's worth a 5-minute CPSC search by brand name.",
+        "image_caption": "",
+        "posting_time": "8:00 AM MT"
+      },
+      "article": {
+        "filename": "article-01-costway-high-chair-recall.html",
+        "headline": "CPSC Recalls Costway Convertible High Chairs Sold at Walmart and Target",
+        "word_count": 509
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Costway High Chair Recall\n\n#### Image Concept 1 (Social — 1080x1350)\n**Mode:** base_only\n**Prompt:** A modern wood-and-white convertible high chair centered on a clean white kitchen background. Warm natural light from the left. The chair appears to be missing the tray tray tray — just the seat frame, highlighting the lack of safety features. Clean, clinical aesthetic. Empty bottom third with soft white gradient for text overlay. No text, no watermarks, no people.\n\n#### Image Concept 2 (Article hero — 1200x630)\n**Mode:** base_only\n**Prompt:** Wide-angle clean studio shot of a baby high chair on a light gray surface, soft diffused overhead lighting. Neutral color palette — white, light gray, warm beige. Clean product photography aesthetic. Bottom third clean and uncluttered for text overlay. No text, no watermarks, no people, no brand logos.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "D11 Bond Countdown — One Week Until Nov. 3 Vote",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "One week until Election Day. D11's $775M bond is on the Nov 3 ballot — Palmer HS rebuild, Holmes MS rebuild, Coronado HVAC. ~$6.50/month per $100K of home value. Drop your ballot at any D11 school. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "If you're a Colorado Springs family with kids in D11, November 3rd is one week away — and there's a $775 million question on your ballot.\n\nD11's school bond is the biggest local education vote in over two decades. It's the first new D11 bond since 2004. The projects it would fund include a full rebuild of Palmer High School, a full rebuild of Holmes Middle School, HVAC upgrades at Coronado High School, and districtwide improvements.\n\nThe cost to homeowners: approximately $6.50 per month for every $100,000 of assessed property value. A $300,000 home would see about $19.50/month.\n\nWhat's also on the table: if the bond passes, it frees up operating funds the district has signaled could support a $10,000 raise for all D11 teachers.\n\nVoting is easy — drop your completed ballot at any D11 school building or El Paso County Clerk drop-off location by November 3. No stamp needed.\n\nWhat questions do you still have about the D11 bond?",
+        "image_caption": "",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-02-d11-bond-vote-countdown.html",
+        "headline": "D11's $775 Million Bond Is One Week Away — Here's What Colorado Springs Families Should Know",
+        "word_count": 589
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Bond\n\n#### Image Concept 3 (Social — 1080x1350)\n**Mode:** base_only\n**Prompt:** A bright Colorado morning scene looking at the exterior of a classic red-brick school building with large windows, American flag visible, fall trees in warm orange and gold colors. Blue sky, clear and bright. Suburban Colorado feel. Bottom third is clean foreground (sidewalk/grass) for text overlay. No text, no people, no specific identifiable branding.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Last-Chance Halloween in COS — Boo at the Zoo, KOA, and More",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "5 days until Halloween. COS events still ahead: Boo at the Zoo, Fleet Feet Fun Run Oct 30 (free Palmer Park), SoccerHaus Oct 31 (free, 4845 List Dr). Verify 2026 dates before heading out. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "Halloween is Saturday, which means there are still five days of family fun between now and then.\n\nHere's what's still ahead for COS families this week:\n\nBoo at the Zoo at Cheyenne Mountain Zoo is one of the biggest annual Halloween events in Colorado Springs, with costumed characters, trick-or-treating, and fall decorations throughout the zoo. Advance e-tickets are required. Check the zoo's website to confirm 2026 dates and availability before heading out.\n\nFleet Feet Halloween Fun Run is Thursday, October 30 at 6 PM at Palmer Park. Free 5K, costumes strongly encouraged, prizes for best dressed. A fun low-key way to start the Halloween weekend.\n\nSoccerHaus Indoor Family Halloween Festival runs Friday, October 31, 2–8 PM at 4845 List Drive. Free entry, bounce houses, face painting, and a sensory-friendly hour from 2:30–3:30 PM. Benefits Aedyn's Backpack Club.\n\nKOA Campground \"Leafy Laughs & Apple Snacks\" runs October 30–November 1 at the Colorado Springs KOA in Fountain. The final weekend of their Halloween series, with trick-or-treating and fall activities.\n\nCOS trick-or-treat window this year is 5:30–8 PM on October 31. And if you're putting out a teal pumpkin, that's the FARE Teal Pumpkin Project signal — allergy-friendly treats or non-food items for kids with food allergies.\n\nWhat's your family's Halloween tradition in Colorado Springs?",
+        "image_caption": "",
+        "posting_time": "3:00 PM MT"
+      },
+      "article": {
+        "filename": "article-03-halloween-cos-last-chance-events.html",
+        "headline": "Five Days Until Halloween — Last-Chance Events for Colorado Springs Families",
+        "word_count": 650
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Halloween Events COS\n\n#### Image Concept 4 (Social — 1080x1350)\n**Mode:** base_only\n**Prompt:** A family-friendly Halloween scene: carved pumpkins in orange and white on a wooden porch railing, soft string lights glowing warm amber in the background, autumn leaves scattered. Colorado fall evening atmosphere — cool blue sky fading to dusk. Cozy, welcoming, safe Halloween aesthetic. Bottom third is clear porch floor for text overlay. No people, no text, no specific characters.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "CPSC Recalls ONTHEWEI Baby Bath Seats — Tip-Over Risk on Amazon",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Amazon bath seat recall: ONTHEWEI baby bath seats (~2,000 units) recalled for tip-over instability — drowning risk. Stop use immediately, destroy the product, get a full refund. Check your Amazon orders. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "Bath time is supposed to be one of the safest parts of the day — but a recently recalled baby product is a good reminder to check what's in your tub.\n\nCPSC recalled ONTHEWEI baby bath seats this month. About 2,000 units were sold on Amazon. The problem is tip-over instability: the seat doesn't stay stable in the tub, which creates a drowning risk for babies who can't sit up on their own without support.\n\nIf you have one of these, stop using it immediately. Destroy the product and request a full refund through your Amazon order history.\n\nThis is the third baby product recall or safety warning we've covered in the past two weeks. It's a good week to do a quick scan of CPSC.gov for any products you use regularly. CPSC lets you sign up for recall email alerts by product category — worth five minutes of setup.\n\nDid you know you can sign up for CPSC recall alerts by product category?",
+        "image_caption": "",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-04-onthewei-bath-seat-recall.html",
+        "headline": "CPSC Recalls ONTHEWEI Baby Bath Seats — Tip-Over Risk for Infants",
+        "word_count": 491
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ONTHEWEI Bath Seat Recall\n\n#### Image Concept 5 (Social — 1080x1350)\n**Mode:** base_only\n**Prompt:** A clean, bright bathroom with a white bathtub partially filled with clear water. Rubber bath toys — a yellow duck and a blue whale — floating near the edge. White tile walls with soft natural window light. Calm and safe-feeling, but the tub is empty of a seat or baby, conveying caution. Bottom third is clear tub rim for text overlay. No people, no text, no brand logos.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "D11 and D49 Are Back — Monday Morning Reset Tips for Families",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "D11 and D49 families — today's the day. Fall break is officially over. Reset the morning routine: pack bags tonight, push bedtime back, set that alarm. D20 has already been back a week, so it's doable. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "Monday mornings after fall break have their own special energy — and not always in a good way.\n\nD11 and D49 are both back in class today after fall break. D11 was out since October 19; D49 since October 13. That's nearly two weeks off for some COS families. And after that long a break, getting everyone back on schedule takes a little intentional effort.\n\nA few things that actually help:\n\nReset the sleep schedule tonight — not tomorrow. One late night doesn't matter as much as one early morning. Set bedtime 30 minutes earlier than last night.\n\nPack bags and lunches tonight — morning chaos multiplies when nothing's ready. Do it before you go to bed so tomorrow's Tuesday already feels easier.\n\nTalk through expectations — kids who've been doing their own thing for two weeks may need a quick reminder about homework routines, screen time rules, and when practice starts again.\n\nGo easy on yourself — if today's morning is rougher than usual, that's normal. The groove comes back faster than you think.\n\nD20 families have already been back for a week, which means they can confirm the first few days are always the hardest.\n\nHow was your family's fall break, Colorado Springs?",
+        "image_caption": "",
+        "posting_time": "8:00 AM MT"
+      },
+      "article": {
+        "filename": "article-05-d11-d49-back-monday-reset-tips.html",
+        "headline": "D11 and D49 Are Back Today — Five Ways to Reset Your Family's Routine",
+        "word_count": 566
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11/D49 Back to School\n\n#### Image Concept 6 (Social — 1080x1350)\n**Mode:** base_only\n**Prompt:** A cheerful Colorado autumn morning: a children's backpack — teal with yellow accents — leaning against the bottom of a front door ready to go. Fall leaves visible through the door's glass panel. Warm morning light, hardwood floor. Clean, optimistic back-to-school feel. Colorado home aesthetic. Bottom third is clean floor space for text overlay. No people, no text.\n\n#### Image Concept 7 (Article hero — 1200x630)\n**Mode:** base_only\n**Prompt:** Wide-angle back-to-school scene: a wooden kitchen table with a packed lunchbox, a water bottle, and a small stack of notebooks, all lit by warm morning sunlight through a window. Fall colors visible outside. Colorado home kitchen, clean and organized. Horizontal composition with empty left-side space for text overlay. No people, no text.\n\n---\n\n**Total concepts:** 8 (7 unique + concept 2 for S1 hero)\n**Source:** gemini base_only\n**Status:** all not_started\n**Brand kit:** kAHCKfCZgk0"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

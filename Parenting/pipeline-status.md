@@ -1,5 +1,36 @@
 # COS Parenting — Pipeline Status
 
+## Current Run: 2026-10-26
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Costway high chair recall (Walmart/Target, Oct 22, ~3,332 units); D11 bond Nov 3 (1 week out); Boo at Zoo/Fleet Feet/SoccerHaus/KOA Halloween events; ONTHEWEI bath seat recall (Amazon, Oct 9, ~2,000 units); D11+D49 back today Oct 26 |
+| Story History Check | COMPLETE | S1 NEW (Costway not previously covered); S2 FOLLOW-UP (Oct 24 S2: D11 bond deep-dive → 1 week out); S3 NEW (Boo at Zoo/KOA events not covered); S4 NEW (ONTHEWEI not previously covered); S5 FOLLOW-UP (Oct 25 S3: D11/D49 return preview → day-of) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 T1, 4 T2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on Boo at Zoo 2026 dates (aggregator), KOA 2026 dates, D11 teacher pay ($10K signal not in bond language) |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, angles per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts across 5 stories (S1: 2); all ≤280 chars (265, 244, 258, 253, 265, 264); 4 hashtags each; #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; contractions; 0 exclamation marks; correct **Long-Form Post (time)** format |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 8 Gemini base_only concepts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Costway recall (Jamie Rivera T1); article-02 D11 bond countdown (Sarah Morales T2); article-03 Halloween events (Jamie Rivera T2); article-04 ONTHEWEI recall (Sarah Morales T2); article-05 D11/D49 reset tips (Jamie Rivera T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 86 claims auto-extracted; all stories present in all content files; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles, 5 images; no char limit errors |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 8 entries, all not_started, gemini base_only |
+| Review Dashboard | COMPLETE | review-dashboard.html — 26 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-10-26.xlsx + cosp-postplanner-tobi-2026-10-26.xlsx — 6 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Oct 26 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (1 Tier 1, 4 Tier 2)
+- **Posts:** 6 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 6 posts standard + 6 TOBI
+- **Key stories:** Costway convertible high chair recall (Walmart/Target, ~3,332 units, Oct 22 CPSC — full recall vs bblüv warning); D11 bond 1 week out (Nov 3 vote, how to vote); last-chance Halloween COS events (Boo at Zoo, Fleet Feet, SoccerHaus, KOA); ONTHEWEI bath seat recall (Amazon, ~2,000 units, drowning risk); D11/D49 back today (reset tips)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); PostPlanner completed OK; compile/fact-check all ran successfully
+
+---
+
 ## Current Run: 2026-10-25
 
 | Step | Status | Notes |
