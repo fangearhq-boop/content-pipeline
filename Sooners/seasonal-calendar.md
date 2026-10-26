@@ -13,4 +13,4 @@ Windows are America/Chicago months. Outside a window the slot still publishes, a
 
 January football is bowl season. September and October baseball and softball are fall ball and schedule-release season, not a pretend regular season.
 
-The next-kickoff line can repeat each morning while the official schedule page still shows the same upcoming event. News URLs are used once, then held for 21 days.
+The next-kickoff facts can run each morning while the official schedule page shows the same event. The tweet includes the Chicago posting date, so the text is not a duplicate. Quiet lines do the same. News URLs are used once, then held for 21 days.

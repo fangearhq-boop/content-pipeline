@@ -3,7 +3,8 @@ name: Sooners daily brief
 on:
   schedule:
     # 07:05 America/Denver. 13:05 UTC is 07:05 MDT. 14:05 UTC is 07:05 MST.
-    # The gate below drops the cron that is not 07:00 on the Denver clock.
+    # The gate keeps hours 07 and 08 so a delayed cron still runs.
+    # A second run in that window is a no-op when the day folder is already valid.
     - cron: "5 13 * * *"
     - cron: "5 14 * * *"
   workflow_dispatch:
@@ -45,15 +46,16 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Gate scheduled runs to 7 AM America/Denver
+      - name: Gate scheduled runs to 7 or 8 AM America/Denver
         id: gate
+        shell: bash
         run: |
           set -euo pipefail
           if [ "${{ github.event_name }}" = "schedule" ]; then
             hour=$(TZ=America/Denver date +%H)
-            if [ "$hour" != "07" ]; then
+            if [ "$hour" != "07" ] && [ "$hour" != "08" ]; then
               echo "skip=true" >> "$GITHUB_OUTPUT"
-              echo "Denver hour is ${hour}. This cron is the other side of daylight time."
+              echo "Denver hour is ${hour}. Scheduled runs proceed during 07 and 08."
               exit 0
             fi
           fi
@@ -66,12 +68,17 @@ jobs:
           EVENT_NAME: ${{ github.event_name }}
           INPUT_DATE: ${{ github.event.inputs.date }}
           INPUT_COMMIT: ${{ github.event.inputs.commit }}
+        shell: bash
         run: |
           set -euo pipefail
           args=()
           if [ -n "${INPUT_DATE}" ]; then
+            if [[ ! "${INPUT_DATE}" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then
+              echo "date must be YYYY-MM-DD" >&2
+              exit 1
+            fi
             args+=(--date "${INPUT_DATE}")
-            echo "folder_date=${INPUT_DATE}" >> "$GITHUB_OUTPUT"
+            printf 'folder_date=%s\n' "${INPUT_DATE}" >> "$GITHUB_OUTPUT"
           else
             echo "folder_date=$(TZ=America/Chicago date +%F)" >> "$GITHUB_OUTPUT"
           fi

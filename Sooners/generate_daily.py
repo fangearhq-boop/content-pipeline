@@ -12,6 +12,7 @@ the 9:00 AM CT slot.
 from __future__ import annotations
 
 import argparse
+import logging
 import sys
 from datetime import datetime
 from pathlib import Path
@@ -20,7 +21,7 @@ NICHE = Path(__file__).resolve().parent
 if str(NICHE) not in sys.path:
     sys.path.insert(0, str(NICHE))
 
-from sooners_brief.contract import chicago_today, verify_day, x_length  # noqa: E402
+from sooners_brief.contract import chicago_today, verify_brief, verify_day, x_length  # noqa: E402
 from sooners_brief.generate import (  # noqa: E402
     build_drafts,
     day_paths,
@@ -28,7 +29,7 @@ from sooners_brief.generate import (  # noqa: E402
     load_history,
     render_day,
 )
-from sooners_brief.sources import load_bundle  # noqa: E402
+from sooners_brief.sources import SourceFetchError, load_bundle  # noqa: E402
 
 
 def parse_args():
@@ -42,11 +43,10 @@ def parse_args():
     return parser.parse_args()
 
 
-def main() -> int:
-    args = parse_args()
-    on_date = datetime.strptime(args.date, "%Y-%m-%d").date() if args.date else chicago_today()
+def run(on_date, dry_run: bool, loader=None) -> int:
+    loader = loader or load_bundle
     folder, posts_path, fact_path = day_paths(NICHE, on_date)
-    if not args.dry_run and posts_path.is_file() and fact_path.is_file():
+    if not dry_run and posts_path.is_file() and fact_path.is_file():
         existing = verify_day(folder)
         if existing.ok:
             print(f"already valid: {folder.relative_to(NICHE.parent)}")
@@ -55,17 +55,23 @@ def main() -> int:
 
     history_path = NICHE / "story-history.md"
     history = load_history(history_path.read_text(encoding="utf-8")) if history_path.is_file() else []
-    bundle = load_bundle()
+    try:
+        bundle = loader(on_date)
+    except SourceFetchError as exc:
+        print(f"source fetch failed: {exc}", file=sys.stderr)
+        return 1
     drafts = build_drafts(bundle, on_date, history)
     posts, facts = render_day(on_date, drafts)
+    hold = verify_brief(posts, facts)
 
     print(f"date_chicago={on_date.isoformat()} folder={folder.name}")
     for draft in drafts:
         print(f"slot={draft.slot_ct} chars={x_length(draft.text)} url={draft.url} title={draft.title}")
-    hold_line = "PASS acceptable: Acceptable for social"
-    print(hold_line)
+    print(hold.summary())
+    if not hold.ok:
+        return 1
 
-    if args.dry_run:
+    if dry_run:
         print("\n----- 03-social-posts-x.md -----\n")
         print(posts)
         print("----- 06-fact-check-log.md -----\n")
@@ -85,6 +91,13 @@ def main() -> int:
     _write_status(on_date, drafts)
     print(f"wrote {folder.relative_to(NICHE.parent)}")
     return 0
+
+
+def main() -> int:
+    logging.basicConfig(level=logging.WARNING, format="%(levelname)s %(name)s: %(message)s")
+    args = parse_args()
+    on_date = datetime.strptime(args.date, "%Y-%m-%d").date() if args.date else chicago_today()
+    return run(on_date, args.dry_run)
 
 
 def _append_history(path: Path, on_date, drafts) -> None:

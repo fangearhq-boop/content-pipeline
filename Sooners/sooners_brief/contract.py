@@ -56,7 +56,8 @@ BANNED = (
     "baseball-reference.com",
 )
 
-_NUMBER = re.compile(r"\d+(?:\.\d+)?")
+# A clock is one token. "3" must not satisfy, or be satisfied by, "3:15".
+_NUMBER = re.compile(r"\d{1,2}:\d{2}|\d+(?:\.\d+)?")
 _URL = re.compile(r"https?://\S+")
 _STORY = re.compile(r"^### STORY\s+(\d+)\s*:", re.M)
 _FENCE = re.compile(r"```(?:[^\n]*)\n(.*?)```", re.S)
@@ -67,6 +68,7 @@ class FactRow:
     claim: str
     source: str
     status: str
+    slot: str = ""
 
     @property
     def verified(self) -> bool:
@@ -120,11 +122,33 @@ def numbers_in(text: str) -> list[str]:
 
 
 def has_number(text: str, number: str) -> bool:
-    return re.search(rf"(?<!\d){re.escape(number)}(?!\d)", text) is not None
+    if re.fullmatch(r"\d{1,2}:\d{2}", number):
+        return re.search(rf"(?<!\d){re.escape(number)}(?!\d)", text) is not None
+    # A colon is a clock boundary, so the "3" in "3:15" is not a bare 3.
+    return re.search(rf"(?<![\d:]){re.escape(number)}(?![\d:])", text) is not None
+
+
+def _is_emoji(char: str) -> bool:
+    code = ord(char)
+    return (
+        0x1F300 <= code <= 0x1FAFF
+        or 0x1F1E6 <= code <= 0x1F1FF
+        or 0x2600 <= code <= 0x27BF
+        or 0x2300 <= code <= 0x23FF
+        or code == 0xFE0F
+        or code == 0x200D
+    )
 
 
 def x_length(text: str) -> int:
-    return len(_URL.sub("x" * 23, text))
+    """X weighted length. URLs count as 23. Emoji count as 2."""
+    weighted = _URL.sub("x" * 23, text)
+    total = 0
+    for char in weighted:
+        if ord(char) in (0xFE0F, 0x200D):
+            continue
+        total += 2 if _is_emoji(char) else 1
+    return total
 
 
 def host_of(url: str) -> str:
@@ -166,7 +190,8 @@ def parse_fact_rows(fact_md: str) -> list[FactRow]:
             continue
         if cells[0].lower() == "claim" or set(cells[0]) <= set("-: "):
             continue
-        rows.append(FactRow(claim=cells[0], source=cells[1], status=cells[-1]))
+        slot = cells[3] if len(cells) >= 5 else ""
+        rows.append(FactRow(claim=cells[0], source=cells[1], status=cells[-1], slot=slot))
     return rows
 
 
@@ -223,8 +248,9 @@ def verify_brief(posts_md: str, fact_md: str | None) -> Hold:
             backing.append(row)
 
     for post in posts:
+        pool = _rows_for(post, backing)
         for number in numbers_in(post.text):
-            if not any(has_number(row.claim, number) for row in backing):
+            if not any(has_number(row.claim, number) for row in pool):
                 messages.append(
                     f"{post.slot} number {number} has no VERIFIED allowlisted row"
                 )
@@ -247,6 +273,13 @@ def verify_day(day_dir: Path) -> Hold:
     return verify_brief(posts_path.read_text(encoding="utf-8"), fact_md)
 
 
+def _rows_for(post: BriefPost, backing: list[FactRow]) -> list[FactRow]:
+    """A digit has to be on that post's row. Untagged logs stay global."""
+    if any(row.slot for row in backing):
+        return [row for row in backing if row.slot == post.slot]
+    return list(backing)
+
+
 def _primary_code(messages: list[str]) -> str:
     blob = " ".join(messages)
     if "missing or empty" in blob:
@@ -261,6 +294,8 @@ def _primary_code(messages: list[str]) -> str:
         return "bad_slots"
     if "missing #Sooners" in blob:
         return "missing_sooners_hashtag"
+    if "tweet is" in blob and "characters" in blob:
+        return "too_long"
     if "verdict phrase" in blob:
         return "missing_verdict"
     return "hold"

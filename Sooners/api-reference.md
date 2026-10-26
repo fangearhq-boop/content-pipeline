@@ -20,7 +20,9 @@ The usable fact text is the teaser. Article HTML is navigation chrome. Timestamp
 
 ## Football schedule
 
-`https://soonersports.com/sports/football/schedule/2026`
+`https://soonersports.com/sports/football/schedule/{season}`
+
+`{season}` is the Chicago calendar year. January uses the previous year, because bowl season is still that slate.
 
 The next-look slot copies one sentence of the form:
 

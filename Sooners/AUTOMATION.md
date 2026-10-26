@@ -20,8 +20,8 @@ This repo only writes the brief. It does not hold X tokens and it does not call 
 
 `.github/workflows/sooners-daily.yml`
 
-- 07:05 America/Denver.
-- Two UTC crons, `5 13 * * *` and `5 14 * * *`. The job continues only when the Denver clock says 07, so daylight time and standard time each fire once.
+- 07:05 America/Denver, with hour 08 accepted so a delayed cron still writes.
+- Two UTC crons, `5 13 * * *` and `5 14 * * *`. The job continues when the Denver hour is 07 or 08. If the 07 run already wrote a valid folder, the later run exits without a second commit.
 - 7:05 AM Denver is 8:05 AM Chicago, before the 9:00 AM CT slot, on the same calendar date.
 
 Secrets: `GITHUB_TOKEN` only, with `contents: write`, so the workflow can commit the day folder the way the other niches land on `main`. No new secret. The bot's `ANTHROPIC_API_KEY` is not used here. The generator does not call a model.

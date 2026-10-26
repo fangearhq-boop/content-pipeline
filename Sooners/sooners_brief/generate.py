@@ -67,16 +67,26 @@ def recently_used(history: list[tuple[date, str]], url: str, on_date: date) -> b
 
 
 def _age_days(item, on_date: date) -> int | None:
-    if item.published is None:
+    published = getattr(item, "published", None)
+    if published is None:
         return None
-    return (on_date - item.published.date()).days
+    return (on_date - published.date()).days
 
 
 def _fresh(item, on_date: date, sport: str) -> bool:
+    """Unknown or unparseable timestamps are stale. A future stamp is stale too."""
     age = _age_days(item, on_date)
     if age is None:
-        return True
+        return False
     return 0 <= age <= FRESH_DAYS[sport]
+
+
+def _date_stamp(on_date: date) -> str:
+    return f"{on_date.strftime('%A')} {on_date.isoformat()}"
+
+
+def _date_claim(on_date: date, url: str) -> Claim:
+    return Claim(f"America/Chicago posting date {on_date.isoformat()}", url)
 
 
 def _claim_from(source_text: str, snippet: str) -> str | None:
@@ -97,14 +107,7 @@ def _finish(slot: str, label: str, title: str, text: str, claims: list[Claim], u
     return Draft(slot_ct=slot, label=label, title=title, text=text, claims=claims, url=url)
 
 
-def _number_free(slot: str, label: str, title: str, text: str, url: str) -> Draft | None:
-    claim = Claim("No numeric claim in this post.", url)
-    if numbers_in(text):
-        return None
-    return _finish(slot, label, title, text, [claim], url)
-
-
-# Fan-facing and number-free. These can publish. They do not describe the pipeline.
+# Fan-facing lines. These can publish. They do not describe the pipeline.
 _QUIET_COPY = {
     "Football morning recap": (
         "BOOMER. 🏈",
@@ -133,10 +136,18 @@ _QUIET_COPY = {
 }
 
 
-def _quiet(slot: str, label: str, sport: str) -> Draft:
+def _quiet(slot: str, label: str, sport: str, on_date: date) -> Draft:
     lead, detail = _QUIET_COPY[label]
-    text = f"{lead}\n\n{detail}\n\n{HASHTAGS}\n"
-    draft = _number_free(slot, label, f"No fresh {sport} number", text, "https://soonersports.com/")
+    url = "https://soonersports.com/"
+    text = f"{lead}\n\n{_date_stamp(on_date)}. {detail}\n\n{HASHTAGS}\n"
+    draft = _finish(
+        slot,
+        label,
+        f"No fresh {sport} number",
+        text,
+        [Claim("Fan line with no game statistic.", url), _date_claim(on_date, url)],
+        url,
+    )
     if draft is None:
         raise RuntimeError(f"quiet post failed for {slot}")
     return draft
@@ -166,7 +177,7 @@ def _football_award(item, slot: str) -> Draft | None:
     return _finish(slot, "Football morning recap", item.title, tweet, [Claim(claim, item.url)], item.url)
 
 
-def _next_game(item, slot: str) -> Draft | None:
+def _next_game(item, slot: str, on_date: date) -> Draft | None:
     if item is None:
         return None
     sentence = normalize(item.text)
@@ -183,85 +194,48 @@ def _next_game(item, slot: str) -> Draft | None:
     tweet = (
         f"{lead}\n\n"
         f"Oklahoma {where} {opponent}. {when}. {clock}.\n\n"
-        "Official slate. Be there.\n\n"
+        f"{_date_stamp(on_date)}. Official slate. Be there.\n\n"
         f"{HASHTAGS}"
     )
     claim = _claim_from(sentence, sentence)
     if claim is None:
         return None
     title = f"Oklahoma {where} {opponent}"
-    return _finish(slot, "Football next look", title, tweet, [Claim(claim, item.url)], item.url)
+    return _finish(
+        slot,
+        "Football next look",
+        title,
+        tweet,
+        [Claim(claim, item.url), _date_claim(on_date, item.url)],
+        item.url,
+    )
+
+
+# "Oklahoma State" is not Oklahoma. The subject has to be the winner.
+_WIN = re.compile(
+    r"\b(Oklahoma|Sooners)\b(?! State)([^.]{0,180}?)\bdefeated "
+    r"([A-Z][^,]{2,48}?), (\d+)-(\d+), in an exhibition"
+)
 
 
 def _basketball(item, slot: str) -> Draft | None:
     text = normalize(item.text)
-    match = re.search(r"defeated ([A-Z][^,]{2,48}?), (\d+)-(\d+), in an exhibition", text)
+    match = _WIN.search(text)
     if not match:
         return None
-    opponent, ours, theirs = match.groups()
+    subject, between, opponent, ours, theirs = match.groups()
+    if opponent.strip().casefold() in {"oklahoma", "sooners"}:
+        return None
     claim = _claim_from(text, match.group(0))
     if claim is None:
         return None
     side = "Women's basketball" if item.sport == "womens-basketball" else "Men's basketball"
-    tweet = (
-        "EXHIBITION WIN. 🏀\n\n"
-        f"Oklahoma defeated {opponent} {ours}-{theirs}. Never trailed.\n\n"
-        f"{side} just checked in.\n\n"
-        f"{HASHTAGS}"
-    )
-    if "never trailed" not in text.lower():
-        tweet = (
-            "EXHIBITION WIN. 🏀\n\n"
-            f"Oklahoma defeated {opponent} {ours}-{theirs}.\n\n"
-            f"{side} just checked in.\n\n"
-            f"{HASHTAGS}"
-        )
+    line = f"{subject} defeated {opponent} {ours}-{theirs}."
+    # "Never trailed" only when that same winner's clause says it.
+    if "never trailed" in between.casefold():
+        line = f"{subject} defeated {opponent} {ours}-{theirs}. Never trailed."
+    tweet = f"EXHIBITION WIN. 🏀\n\n{line}\n\n{side} just checked in.\n\n{HASHTAGS}"
     return _finish(slot, "Basketball", item.title, tweet, [Claim(claim, item.url)], item.url)
-
-
-# Bare "commit" matches "committee". Keep this list on recruiting language.
-_RECRUITING_HINT = (
-    "recruit",
-    "decommit",
-    "crystal ball",
-    "official visit",
-    "transfer portal",
-    "signing day",
-    "pledge",
-    "offered",
-)
-
-
-def _recruiting(item, slot: str) -> Draft | None:
-    text = normalize(item.text)
-    lowered = f" {text.lower()} "
-    if not any(token in lowered for token in ("oklahoma", "sooner", " ou ", "sooners")):
-        return None
-    # "On3" contains a digit. The brief treats every digit as a numeric claim,
-    # so the brand name stays in the source URL and out of the tweet.
-    if "Peyton Bowen" in text and "Thorpe" in text:
-        tweet = (
-            "PEYTON BOWEN HAS BEEN THAT GOOD. 🎯\n\n"
-            "The Jim Thorpe case is on the table. Norman already knew.\n\n"
-            f"{HASHTAGS}"
-        )
-        title = item.title
-    elif any(hint in lowered for hint in _RECRUITING_HINT):
-        if numbers_in(item.title):
-            return None
-        tweet = (
-            "RECRUITING BOARD CHECK. 🎯\n\n"
-            f"{item.title}.\n\n"
-            "Norman stays in the mix.\n\n"
-            f"{HASHTAGS}"
-        )
-        title = item.title
-    else:
-        return None
-    if numbers_in(tweet):
-        return None
-    claim = _claim_from(text, item.title) or "No numeric claim in this post."
-    return _finish(slot, "Recruiting", title, tweet, [Claim(claim, item.url)], item.url)
 
 
 def _softball(item, slot: str) -> Draft | None:
@@ -276,10 +250,10 @@ def _softball(item, slot: str) -> Draft | None:
     if claim is None:
         return None
     day = match.group(1)
+    city = " in Oklahoma City" if "in Oklahoma City" in claim else ""
     tweet = (
         "PATTY GASSO. HALL OF FAME. 🥎\n\n"
-        f"Oklahoma Women's Hall of Fame. The ceremony was Oct. {day} in Oklahoma City.\n\n"
-        "The standard in Norman just got a plaque.\n\n"
+        f"Oklahoma Women's Hall of Fame. The ceremony was Oct. {day}{city}.\n\n"
         f"{HASHTAGS}"
     )
     return _finish(slot, "Softball", item.title, tweet, [Claim(claim, item.url)], item.url)
@@ -327,22 +301,23 @@ def build_drafts(bundle: dict, on_date: date, history: list[tuple[date, str]] | 
     drafts: list[Draft] = []
 
     football = _pick(bundle.get("football") or [], on_date, history, "football", _football_award, specs[0]["ct"])
-    drafts.append(football or _quiet(specs[0]["ct"], specs[0]["label"], "football"))
+    drafts.append(football or _quiet(specs[0]["ct"], specs[0]["label"], "football", on_date))
 
-    nxt = _next_game(bundle.get("next_game"), specs[1]["ct"]) if in_window("football", on_date) else None
-    drafts.append(nxt or _quiet(specs[1]["ct"], specs[1]["label"], "football"))
+    nxt = _next_game(bundle.get("next_game"), specs[1]["ct"], on_date) if in_window("football", on_date) else None
+    drafts.append(nxt or _quiet(specs[1]["ct"], specs[1]["label"], "football", on_date))
 
     basketball = _pick(bundle.get("basketball") or [], on_date, history, "basketball", _basketball, specs[2]["ct"])
-    drafts.append(basketball or _quiet(specs[2]["ct"], specs[2]["label"], "basketball"))
+    drafts.append(basketball or _quiet(specs[2]["ct"], specs[2]["label"], "basketball", on_date))
 
-    recruiting = _pick(bundle.get("recruiting") or [], on_date, history, "recruiting", _recruiting, specs[3]["ct"])
-    drafts.append(recruiting or _quiet(specs[3]["ct"], specs[3]["label"], "recruiting"))
+    # Fixed line. Third-party headlines are not copied, including decommits
+    # and spelled-out numbers.
+    drafts.append(_quiet(specs[3]["ct"], specs[3]["label"], "recruiting", on_date))
 
     softball = _pick(bundle.get("softball") or [], on_date, history, "softball", _softball, specs[4]["ct"])
-    drafts.append(softball or _quiet(specs[4]["ct"], specs[4]["label"], "softball"))
+    drafts.append(softball or _quiet(specs[4]["ct"], specs[4]["label"], "softball", on_date))
 
     baseball = _pick(bundle.get("baseball") or [], on_date, history, "baseball", _baseball, specs[5]["ct"])
-    drafts.append(baseball or _quiet(specs[5]["ct"], specs[5]["label"], "baseball"))
+    drafts.append(baseball or _quiet(specs[5]["ct"], specs[5]["label"], "baseball", on_date))
     return drafts
 
 
@@ -387,13 +362,13 @@ def render_fact_log(on_date: date, drafts: list[Draft]) -> str:
         "",
         "Numeric claims in the X posts are backed only by rows whose status is VERIFIED and whose source host is on the college allowlist.",
         "",
-        "| Claim | Source | Confidence | Status |",
-        "|-------|--------|------------|--------|",
+        "| Claim | Source | Confidence | Slot | Status |",
+        "|-------|--------|------------|------|--------|",
     ]
     for draft in drafts:
         for claim in draft.claims:
             claim_cell = claim.text.replace("|", "/")
-            lines.append(f"| {claim_cell} | {claim.url} | HIGH | VERIFIED |")
+            lines.append(f"| {claim_cell} | {claim.url} | HIGH | {draft.slot_ct} | VERIFIED |")
     lines.append("")
     return "\n".join(lines)
 

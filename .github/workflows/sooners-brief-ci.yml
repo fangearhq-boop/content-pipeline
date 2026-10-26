@@ -1,8 +1,18 @@
 name: Sooners brief CI
 
 on:
-  push:
   pull_request:
+    paths:
+      - "Sooners/**"
+      - ".github/workflows/sooners-brief-ci.yml"
+      - ".github/workflows/sooners-daily.yml"
+  push:
+    branches:
+      - main
+    paths:
+      - "Sooners/**"
+      - ".github/workflows/sooners-brief-ci.yml"
+      - ".github/workflows/sooners-daily.yml"
 
 permissions:
   contents: read
