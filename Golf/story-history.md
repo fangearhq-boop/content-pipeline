@@ -2,6 +2,18 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-10-27
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-27 | T1 | Smotherman Wins Bermuda Championship Playoff — Back-to-Back PGA Tour Titles in October | X(2), FB, Article | FOLLOW UP |
+| 2026-10-27 | T1 | VidantaWorld Mexico Open Preview — Can Smotherman Three-Peat? Brian Campbell Defends | X(2), FB, Article | NEW |
+| 2026-10-27 | T2 | LIV Golf 2026 Season Ends — Jon Rahm Individual Champion, Future of Tour Uncertain | X(1), FB, Article | NEW |
+| 2026-10-27 | T2 | Yuri Yoshida Claims First LPGA Title at BMW Ladies Championship in South Korea | X(1), FB, Article | NEW |
+| 2026-10-27 | T2 | LPGA Asia Swing Wraps Up — Maybank Championship in Kuala Lumpur Next | X(1), FB, Article | NEW |
+
+---
+
 ## 2026-10-25
 
 | Date | Tier | Title | Platforms | Status |
