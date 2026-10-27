@@ -1,8 +1,8 @@
 # Sooners Pipeline Status
 
-No Chicago day folder has been committed yet.
+No Chicago day folder is on main yet. The 2026-10-27 run wrote a folder and GitHub rejected the push to main.
 
-The first folder is written by `.github/workflows/sooners-daily.yml` at 7:05 AM America/Denver after this niche is on `main`. That run uses the America/Chicago date, which is the same morning.
+The next folder is written by `.github/workflows/sooners-daily.yml` at 7:05 AM America/Denver after the pull-request publish path is on main. That run uses the America/Chicago date. 2026-10-27 can be skipped.
 
 Manual generation:
 

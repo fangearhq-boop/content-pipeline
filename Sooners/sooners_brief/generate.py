@@ -107,43 +107,53 @@ def _finish(slot: str, label: str, title: str, text: str, claims: list[Claim], u
     return Draft(slot_ct=slot, label=label, title=title, text=text, claims=claims, url=url)
 
 
-# Fan-facing lines. These can publish. They do not describe the pipeline.
+# Fan-facing lines. These can publish with no game statistic. The story title
+# is the same voice; it is not a pipeline label.
 _QUIET_COPY = {
     "Football morning recap": (
         "BOOMER. 🏈",
-        "Morning in Norman. The official desk is quiet, so this one stays a mood.",
+        "Morning in Norman. Quiet campus, loud colors.",
     ),
     "Football next look": (
         "EYES UP. 🏈",
-        "Next kick is a Sooners problem in the best way. The slate lives on the official page.",
+        "Next kick is a Sooners problem in the best way. Eyes on the slate.",
     ),
     "Basketball": (
         "LLOYD NOBLE, SOON. 🏀",
-        "Hoops season is the long grind. No fresh number cleared today, and that is the post.",
+        "Hoops season is the long grind. Norman will be ready when the ball goes up.",
     ),
     "Recruiting": (
         "NORMAN STAYS ON THE TRAIL. 🎯",
-        "The board moves when the official desks move. Today is a hold-the-line morning.",
+        "The trail is quiet this morning. Norman is still on it.",
     ),
     "Softball": (
         "THE STANDARD HOLDS. 🥎",
-        "Softball in Norman does not need a manufactured number. Patty's program is the post.",
+        "Softball in Norman keeps its own standard. Patty's program does not take a day off.",
     ),
     "Baseball": (
         "FALL BALL, THEN SPRING. ⚾",
-        "The diamond can wait for a number that is actually on the official page.",
+        "The diamond can wait. Fall is the workshop and spring is the loud part.",
     ),
+}
+_QUIET_TITLES = {
+    "Football morning recap": "Morning in Norman",
+    "Football next look": "Eyes up",
+    "Basketball": "Lloyd Noble, soon",
+    "Recruiting": "Norman stays on the trail",
+    "Softball": "The standard holds",
+    "Baseball": "Fall ball, then spring",
 }
 
 
-def _quiet(slot: str, label: str, sport: str, on_date: date) -> Draft:
+def _quiet(slot: str, label: str, _sport: str, on_date: date) -> Draft:
+    # The sport name stays out of the tweet and the story title.
     lead, detail = _QUIET_COPY[label]
     url = "https://soonersports.com/"
     text = f"{lead}\n\n{_date_stamp(on_date)}. {detail}\n\n{HASHTAGS}\n"
     draft = _finish(
         slot,
         label,
-        f"No fresh {sport} number",
+        _QUIET_TITLES[label],
         text,
         [Claim("Fan line with no game statistic.", url), _date_claim(on_date, url)],
         url,
