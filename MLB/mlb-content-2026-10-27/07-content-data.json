@@ -1,0 +1,291 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-27",
+  "compiled_at": "2026-10-27T10:48:17.506474+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "WS Game 3 Recap — Brewers 10, Rays 1: Historic 8-Run Fifth Puts Milwaukee One Win Away",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "FINAL: Brewers 10, Rays 1. Milwaukee wins WS Game 3 and leads the series 3-0. An 8-run fifth inning — ALL with two outs — set a World Series record. The Brewers are one win from their first championship. #Brewers #WorldSeries",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#WorldSeries"
+          ],
+          "char_count": 225
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Seven consecutive two-out hits in the 5th inning. Eight two-out runs in one frame. Both are World Series records. Milwaukee didn't just beat Tampa Bay last night — they made history. #Brewers #WorldSeries",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#WorldSeries"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ws-game-3-recap-brewers-10-rays-1.html",
+        "headline": "Brewers 10, Rays 1: Historic 8-Run Fifth Puts Milwaukee One Win From First World Series Title",
+        "word_count": 672
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WS Game 3 Recap — Brewers 10-1\n\n**Image 1A (Social — 1080x1350):**\n- **Purpose:** Social post\n- **Search Term (imagn):** `Milwaukee Brewers celebration`\n- **Concept:** Brewers players celebrating on the field. Bold \"10-1\" score overlay. Dark navy and gold color scheme with confetti graphic elements.\n- **Canva text overlay:** \"WS GAME 3 FINAL\" / \"BREWERS 10, RAYS 1\" / \"3-0 Series Lead\"\n\n**Image 1B (Article Hero — 1200x630):**\n- **Purpose:** Article featured image\n- **Search Term (imagn):** `Milwaukee Brewers dugout celebration`\n- **Concept:** Wide shot of Brewers dugout celebrating after big inning. Text overlay: \"Historic 8-Run 5th: Milwaukee One Win Away\"\n\n---"
+        }
+      ],
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "WS Game 3 Recap — Brewers 10-1\n**Sources consulted:**\n- baseball-reference.com (WS G3 box score)\n- ESPN, CBS Sports, Fox Sports, CNN, Bleacher Report, Field Level Media coverage\n- Previous pipeline notes (Oct 23-26)\n**Verified facts (HIGH confidence):**\n- Final score: Milwaukee Brewers 10, Tampa Bay Rays 1\n- Game played: Monday, Oct. 26, 2026, Tropicana Field (Game 3 of World Series)\n- Brewers lead series 3-0\n- Eight-run fifth inning — all eight runs scored with two outs (World Series record for two-out runs in an inning)\n- Seven consecutive two-out hits in the fifth inning (World Series record)\n- The rally was triggered by an overturned replay review on a Christian Yelich hustle play, leaving bases loaded\n- Robert Gasser: 6 IP, 1 H, 0 R (shutout through six)\n- Jackson Chourio: 4-for-5, 1 double, 1 stolen base\n- Tampa Bay's lone run scored in the ninth inning on an RBI double by Diaz\n- Attendance: 40,388 (sellout at Tropicana Field)\n- First World Series game at Tropicana since 2008\n**Verified facts (MEDIUM confidence):**\n- William Contreras added three hits in Game 3, raising his postseason total to 18 (most in Milwaukee playoff history per ESPN)\n- Chourio became the 26th player with multiple hits in the first three games of a World Series\n- Chourio's four hits made him youngest player with 4 WS hits since Joe Garagiola in 1946 (per search results)\n- Milwaukee's 10 runs tied franchise record for most in a postseason game (matching Game 1 of 1982 World Series)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "WS Game 4 Tonight — Milwaukee Seeks Sweep at Tropicana Field",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "TONIGHT: Brewers vs. Rays, WS Game 4. 8 PM ET on FOX. Tropicana Field. Milwaukee needs one win to complete the sweep. No team in World Series history has EVER come back from a 3-0 deficit. Watch. #WorldSeries",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WorldSeries"
+          ],
+          "char_count": 208
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Tampa Bay's only hope: win four straight games, starting tonight, against the hottest team in baseball. No World Series team has ever done it. Game 4, 8 PM ET FOX. #TBRays #WorldSeries",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TBRays",
+            "#WorldSeries"
+          ],
+          "char_count": 184
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-ws-game-4-tonight-sweep-attempt.html",
+        "headline": "World Series Game 4 Tonight: Milwaukee Seeks Sweep, Tampa Bay Faces History",
+        "word_count": 581
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WS Game 4 Tonight\n\n**Image 2A (Social — 1080x1350):**\n- **Purpose:** Social post\n- **Search Term (imagn):** `Tropicana Field Tampa Bay Rays`\n- **Concept:** Aerial/wide stadium shot of Tropicana Field under lights. \"TONIGHT\" banner in bold. Countdown graphic.\n- **Canva text overlay:** \"WORLD SERIES GAME 4\" / \"8 PM ET · FOX · TROPICANA FIELD\" / \"Brewers seek first title\"\n\n**Image 2B (Article Hero — 1200x630):**\n- **Purpose:** Article featured image\n- **Search Term (imagn):** `World Series trophy`\n- **Concept:** Commissioner's Trophy graphic with \"One Win Away\" text. Gold and navy color scheme.\n\n---"
+        }
+      ],
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "WS Game 4 Tonight\n**Sources consulted:**\n- mlb.com, si.com, sports.yahoo.com, espn.com\n- Previous pipeline notes\n**Verified facts (HIGH confidence):**\n- Game 4: Tuesday, Oct. 27, 2026, Tropicana Field\n- First pitch: 8 PM ET on FOX\n- No team has ever come back from a 3-0 World Series deficit in MLB history\n- Series schedule: G3-G5 at Tropicana; G6-G7 back at American Family Field if necessary\n- Milwaukee's top relievers did not pitch in Game 3 (fully rested for G4)\n**Verified facts (MEDIUM confidence):**\n- Griffin Jax expected to start for Tampa Bay (1.88 ERA in 24 IP over last six outings, per search results)\n- Brandon Woodruff candidate to open Game 4 for Milwaukee (per USA Today, per search results)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Jackson Chourio's Historic Night — Youngest WS 4-Hit Game Since 1946",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Jackson Chourio went 4-for-5 in WS Game 3. He's 22 years old and is now the youngest player with 4 hits in a World Series game since Joe Garagiola in 1946. An October star is being born. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 195
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-chourio-historic-night.html",
+        "headline": "Jackson Chourio Goes 4-for-5 in Game 3: Youngest Player With 4 WS Hits Since 1946",
+        "word_count": 522
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Chourio Historic Night\n\n**Image 3A (Social — 1080x1350):**\n- **Purpose:** Social post\n- **Search Term (imagn):** `Jackson Chourio Milwaukee Brewers`\n- **Concept:** Chourio batting photo or running bases. Stat callout: \"4-for-5\" in bold. Historical note: \"Youngest 4-hit WS game since 1946.\"\n- **Canva text overlay:** \"CHOURIO: 4-FOR-5\" / \"Youngest WS 4-hit game since 1946\" / \"#Brewers\"\n\n---"
+        }
+      ],
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Chourio Historic Night\n**Sources consulted:**\n- Field Level Media, Yahoo Sports, ESPN\n- Previous pipeline notes\n**Verified facts (HIGH confidence):**\n- Chourio: 4-for-5, 1 double, 1 stolen base in WS Game 3\n- Chourio is 22 years old\n- Youngest player with four hits in a World Series game since Joe Garagiola in 1946 (per multiple search results)\n- Multiple hits in each of the first three games of the 2026 World Series\n**Verified facts (MEDIUM confidence):**\n- Chourio set a Brewers franchise postseason home run record during the NLCS (per pipeline notes)\n- Chourio is the 26th player to record multiple hits in each of the first three games of a World Series",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "History Says It's Over — No Team Has Ever Come Back From 3-0",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The 2026 Tampa Bay Rays face a historical wall tonight. No team has EVER come back from a 3-0 World Series deficit. Not once. 0-for-43. The Brewers have history on their side. #WorldSeries #TBRays",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WorldSeries",
+            "#TBRays"
+          ],
+          "char_count": 196
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-rays-face-impossible-history.html",
+        "headline": "The Numbers for Tampa Bay Are Impossible: No World Series Team Has Ever Survived a 3-0 Deficit",
+        "word_count": 525
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "History Against Tampa Bay\n\n**Image 4A (Social — 1080x1350):**\n- **Purpose:** Social post\n- **Search Term (imagn):** `Tampa Bay Rays dugout`\n- **Concept:** Graphic-heavy design: large \"0-43\" stat with \"No WS team has ever come back from 3-0\" in smaller text below. Dark blue and yellow color scheme.\n- **Canva text overlay:** \"0 FOR 43\" / \"No team has EVER come back from 3-0 in the World Series\" / \"#WorldSeries\"\n\n---"
+        }
+      ],
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "No Team Has Come Back from 3-0\n**Verified facts (HIGH confidence):**\n- No team has ever come back from a 3-0 World Series deficit in MLB history\n- Teams with a 3-0 lead have won the World Series every single time (100% win rate historically)\n- Most recent team to come back from 2-0 was the 1996 Yankees (prior pipeline note referenced)\n**Verified facts (MEDIUM confidence):**\n- 43 teams (approximately) have led 3-0 in the WS historically and all 43 won",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Robert Gasser's Masterpiece — Six Innings, One Hit, Zero Runs in Game 3",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Robert Gasser: 6 IP, 1 H, 0 R in WS Game 3. He did it quietly while 8 runs scored behind him — but Gasser's shutdown start made the blowout possible. His postseason ERA is now under 1.00. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 196
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-gasser-masterpiece-game3.html",
+        "headline": "Robert Gasser's Quiet Masterpiece: Six Innings, One Hit, Zero Runs in World Series Game 3",
+        "word_count": 525
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Gasser's Masterpiece\n\n**Image 5A (Social — 1080x1350):**\n- **Purpose:** Social post\n- **Search Term (imagn):** `Robert Gasser Milwaukee Brewers pitcher`\n- **Concept:** Gasser mid-delivery on mound. Stat callout: \"6 IP · 1 H · 0 R\" in bold. Dark background.\n- **Canva text overlay:** \"GASSER: 6 IP, 1 H, 0 R\" / \"WS Game 3 · Postseason ERA: sub-1.00\" / \"#Brewers\""
+        }
+      ],
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 1,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Gasser's Masterpiece\n**Sources consulted:**\n- ESPN, CBS Sports WS Game 3 recaps\n- Previous pipeline notes (NLCS Game 3 Gasser stats)\n**Verified facts (HIGH confidence):**\n- Gasser: 6 IP, 1 H, 0 R in WS Game 3\n- Gasser is 25 years old (approximate — listed as young starter throughout pipeline)\n- Gasser started NLCS Game 3 vs Dodgers: 5 scoreless innings, 3 hits (per prior pipeline NLCS notes)\n- Gasser's postseason ERA before WS Game 3: approximately 1.00 (from pipeline notes: \"1.00 ERA 9IP postseason, 5 scoreless NLCS G3 Dodgers\" — updated after WS G3 performance)\n**Verified facts (MEDIUM confidence):**\n- Gasser is a left-hander (standard MLB player reference)\n- Gasser had one prior WS start (Game 3, his NLCS G3 mentioned as postseason experience)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

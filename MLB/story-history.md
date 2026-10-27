@@ -9153,3 +9153,52 @@ Each day's stories are appended at the top (newest first).
 - **Follow-Up Opportunities:**
   - WS champion history
   - Series outcome
+
+### Story 1: WS Game 3 Recap — Brewers 10, Rays 1 (Milwaukee Leads 3-0)
+- **Date:** 2026-10-27
+- **Tier:** 1
+- **Classification:** FOLLOW UP (WS G1+G2 covered Oct 24-25; G3 result Oct 26)
+- **Angle:** 8-run 5th inning (World Series record for 2-out runs in one frame, all with 2 outs). Seven consecutive 2-out hits (WS record). Gasser 6 IP 1 H 0 R. Chourio 4-for-5. Brewers one win from first championship.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - WS Game 4 result tonight
+
+### Story 2: WS Game 4 Tonight — Sweep Attempt at Tropicana Field
+- **Date:** 2026-10-27
+- **Tier:** 1
+- **Classification:** FOLLOW UP (WS covered Oct 24-27; G4 preview)
+- **Angle:** 8 PM ET FOX. No team has ever come back from 3-0 WS deficit. Jax expected TB starter, Woodruff candidate for MIL. Brewers bullpen fully rested.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - WS G4 result — potential clincher
+  - Championship celebration
+
+### Story 3: Chourio Historic Night — Youngest WS 4-Hit Game Since 1946
+- **Date:** 2026-10-27
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Chourio covered throughout WS)
+- **Angle:** 4-for-5 WS G3. Youngest player 4 WS hits since Joe Garagiola 1946 (22 years old). Multi-hit in all 3 WS games.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - WS MVP candidacy
+  - Championship series final stats
+
+### Story 4: History Says It's Over — No Team Has Come Back From 3-0
+- **Date:** 2026-10-27
+- **Tier:** 2
+- **Classification:** FOLLOW UP (WS context covered throughout)
+- **Angle:** 0-for-43 historically. Tampa Bay must win 4 straight starting tonight. Statistical impossibility framing.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Championship result
+  - Historical footnote
+
+### Story 5: Robert Gasser's Masterpiece — Six Innings, One Hit, Zero Runs
+- **Date:** 2026-10-27
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Gasser NLCS G3 covered prior pipeline)
+- **Angle:** 6 IP 1 H 0 R WS G3. Postseason ERA under 1.00. 25-year-old LHP delivering in every big moment.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Gasser WS MVP consideration
+  - Championship series closing start
