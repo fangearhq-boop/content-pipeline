@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-27
+
+### STORY 1: Verstappen Mathematically Eliminated — Red Bull Constructors Battle
+- **Tier:** 1
+- **Category:** Max Verstappen / Red Bull Racing / F1 Championship / Constructors'
+- **Key facts:** Verstappen eliminated — 129 points down with 125 remaining; standings: Antonelli 365, Russell 242, Hamilton 241, Verstappen 236, Leclerc 233; Red Bull vs McLaren ~355 pts each in constructors'; Verstappen contract through 2030
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: Russell's 5-Second Penalty Denied Antonelli COTA Coronation
+- **Tier:** 1
+- **Category:** George Russell / Mercedes / Kimi Antonelli / COTA / F1 Stewarding
+- **Key facts:** Russell penalty dropped P7 to P8; needed outside top 10 for Antonelli to clinch; title moves to Mexico City; Antonelli needs P9 or better at CDMX Nov 1
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP (USGP first reported Oct. 26)
+
+### STORY 3: Pérez Home Race with Cadillac — Mexico City
+- **Tier:** 2
+- **Category:** Sergio Pérez / Cadillac F1 / Mexico City GP / Home Race
+- **Key facts:** Pérez racing at home GP with Cadillac (new team 2026); Día de Muertos weekend backdrop; Oct 30-Nov 1
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 4: Mexico City GP Strategy/Altitude Preview
+- **Tier:** 2
+- **Category:** Mexico City Grand Prix / F1 Strategy / Autodromo Hermanos Rodriguez
+- **Key facts:** Altitude 2,240m; 71 laps; 4.304 km; race Nov 1 14:00 local; no sprint; altitude affects power, downforce, tyres
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: F1 Standings After 18 Rounds
+- **Tier:** 2
+- **Category:** F1 Championship Standings / All Drivers and Constructors
+- **Key facts:** Antonelli 365, Russell 242, Hamilton 241, Verstappen 236, Leclerc 233; Mercedes 607, Ferrari 474, Red Bull/McLaren ~355; 125 pts remaining
+- **Byline:** Elena Voss
+- **Status:** NEW
+
 ## 2026-10-24
 
 ### STORY 1: US Grand Prix Qualifying Preview — Leclerc Leads, Ferrari vs. Mercedes Shootout

@@ -1,0 +1,360 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-27",
+  "compiled_at": "2026-10-27T11:37:52.388181+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Verstappen Mathematically Out of Title Race After COTA — Red Bull's 2026 Season in Focus",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "OFFICIAL: Max Verstappen is mathematically ELIMINATED from the 2026 F1 championship. 129 points down with 125 remaining. Kimi Antonelli's title is a matter of when, not if. One of the most dominant seasons in recent F1 history. #F1 #Formula1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 241
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Verstappen is out of the title race. Now Red Bull's entire season comes down to beating McLaren in the constructors'. Both teams on roughly 355 points. That's the real battle now. #F1 #RedBull",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#RedBull"
+          ],
+          "char_count": 192
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-verstappen-eliminated-red-bull-constructors.html",
+        "headline": "Verstappen Mathematically Out of 2026 F1 Title Race — Red Bull's Season Now Defined by Constructors Battle",
+        "word_count": 668
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Max Verstappen Red Bull"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Max Verstappen Red Bull"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Mathematically Eliminated After COTA\n**Verified Facts (MEDIUM-HIGH):**\n- Max Verstappen finished P3 at COTA (Oct. 25, 2026) — confirmed Formula1.com race report\n- Championship standings after USGP: Antonelli 365, Russell 242, Hamilton 241, Verstappen 236, Leclerc 233\n- Points remaining: 125 (5 races x 25 + 5 FL points per race)\n- Verstappen deficit to Antonelli: 129 points — mathematically eliminated\n- Verstappen's COTA strategy: two-stop gamble, pitted lap 14 for soft tyres; finished 17.485s behind Antonelli\n- Red Bull vs. McLaren in constructors': both approximately 355 points (exact split not confirmed from a single source)\n- Verstappen contract extended through 2030 (confirmed from Sky Sports earlier in season)\n**Confidence:** MEDIUM-HIGH (race result and standings from Formula1.com; constructors' tie is approximate)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "George Russell's 5-Second Penalty Denied Antonelli His COTA Coronation",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The reason Antonelli didn't clinch at COTA? George Russell's 5-second penalty for a Lap 1 incident dropped him to P8 — not outside the top 10. One stewards' decision preserved the drama. Title to Mexico City. #F1 #USGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#USGP"
+          ],
+          "char_count": 218
+        },
+        {
+          "label": "Post 2-2",
+          "text": "One stewards' decision. One position change. The 2026 F1 title lived to see another race. Mexico City gets the coronation. #F1 #Antonelli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Antonelli"
+          ],
+          "char_count": 137
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-russell-penalty-title-delayed-mexico.html",
+        "headline": "One Penalty, One Position: Why George Russell's COTA Incident Sent Antonelli's Title to Mexico",
+        "word_count": 594
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "George Russell Mercedes"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Kimi Antonelli Mercedes"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Russell Penalty — Why Antonelli Didn't Clinch at COTA\n**Verified Facts (MEDIUM-HIGH):**\n- George Russell received a 5-second penalty at COTA for a Lap 1 incident\n- Penalty dropped Russell from P7 to P8 in final classification\n- For Antonelli to clinch at COTA, Russell needed to finish outside the top 10\n- Because Russell finished P8 (not outside top 10), Antonelli's title moves to Mexico City\n- Antonelli still needs only P9 or better in Mexico City to clinch\n**Confidence:** MEDIUM-HIGH (FIA report and Silverstone title permutations article confirmed the penalty angle; GPFans confirmed the math)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Pérez's Home Race With Cadillac — Mexico City Is His Moment",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Checo Pérez is about to race at his HOME Grand Prix — now in a Cadillac. Mexico City, Día de Muertos weekend, the entire country behind him. Whatever happens Sunday, this one is going to be electric. #F1 #MexicoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MexicoGP"
+          ],
+          "char_count": 213
+        },
+        {
+          "label": "Post 3-2",
+          "text": "From Red Bull to Cadillac. From runner-up battles to a home crowd that just wants to celebrate him. Sergio Pérez's Mexico City GP is going to be one of the most emotional races of the year. #F1 #MexicoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MexicoGP"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-perez-home-race-cadillac-mexico.html",
+        "headline": "Pérez Comes Home: Checo Races in Mexico City for the First Time With Cadillac",
+        "word_count": 579
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Sergio Perez"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Sergio Perez"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pérez Home Race With Cadillac\n**Verified Facts (MEDIUM):**\n- Sergio Pérez will race in Mexico City — his home Grand Prix — with Cadillac F1 in 2026\n- Pérez previously raced for Red Bull Racing for multiple seasons\n- Cadillac (US manufacturer) joined F1 for 2026 as a new constructor\n- Mexico City GP dates: October 30–November 1, 2026 at Autodromo Hermanos Rodriguez\n- Día de Muertos falls the same weekend — major cultural backdrop\n**Confidence:** MEDIUM (Pérez + Cadillac confirmed from multiple F1 sources; home race details from Formula1.com Mexico GP page)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Mexico City GP Strategy Preview — Altitude, Tyre Degradation, and Antonelli's Title Math",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Mexico City GP is at 2,240 metres above sea level. Less oxygen. Less downforce. Different tyre behaviour. It's the most unique circuit on the calendar — and this year, it hosts an F1 title clinch attempt. #F1 #MexicoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MexicoGP"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-mexico-city-gp-altitude-strategy-preview.html",
+        "headline": "Mexico City GP Strategy Preview: How Altitude Will Shape the Race — and Antonelli's Title Bid",
+        "word_count": 597
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Kimi Antonelli Mercedes"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Kimi Antonelli Mercedes"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mexico City GP Strategy / Altitude Preview\n**Verified Facts (HIGH — established F1 technical facts):**\n- Autodromo Hermanos Rodriguez altitude: 2,240 metres above sea level\n- Altitude effects: reduced air density affects power unit (less oxygen for combustion), aerodynamic downforce, and cooling\n- Lap count: 71 laps, circuit length 4.304 km\n- Race Sunday: November 1, 2026, 14:00 local (20:00 CET)\n- No sprint race format at Mexico City 2026\n- Tyre behaviour at altitude differs from sea-level circuits — degradation patterns can be non-linear\n**Confidence:** HIGH (Formula1.com Mexico GP page and Crash.net calendar confirmed schedule/lap data)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "F1 Standings After 18 Rounds — Antonelli 365, Nearest Rivals Far Behind",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "F1 standings after 18 races:\n\n🥇 Antonelli — 365 pts\n🥈 Russell — 242\n🥉 Hamilton — 241\n4th Verstappen — 236 (ELIMINATED)\n5th Leclerc — 233\n\nMercedes leads constructors' 607-474. 125 points remain.\n\n#F1 #Formula1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-f1-standings-after-18-rounds.html",
+        "headline": "F1 Championship Standings After Round 18: Antonelli 365, Verstappen Eliminated, Mercedes vs. the Field",
+        "word_count": 582
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Kimi Antonelli Mercedes"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Mercedes F1"
+          ],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "F1 Championship Standings Post-USGP\n**Verified Facts (HIGH):**\n- Drivers' standings after Round 18 (USGP):\n- Kimi Antonelli (Mercedes): 365 pts\n- George Russell (Mercedes): 242 pts\n- Lewis Hamilton (Ferrari): 241 pts\n- Max Verstappen (Red Bull): 236 pts\n- Charles Leclerc (Ferrari): 233 pts\n- Constructors' standings:\n- Mercedes: 607 pts\n- Ferrari: 474 pts\n- Red Bull / McLaren: approximately 355 pts each (tight battle)\n- Points remaining: 125 across 5 races\n- Antonelli clinch scenario: P9 or better in Mexico City (November 1, 2026)\n**Confidence:** HIGH (RacingNews365 standings, Formula1.com confirmed from multiple source checks)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
