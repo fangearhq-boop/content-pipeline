@@ -1,10 +1,30 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Current Status
-**Last Run:** 2026-10-26
-**Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy; git push to main
+**Last Run:** 2026-10-27
+**Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy; git push via GitHub MCP
 
 ## Pipeline Run Log
+
+### 2026-10-27 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 32 claims, HIGH; image manifest warning resolved
+- Step 10b: compile-content-data.py — 5 stories, 9 tweets, 5 FB posts, 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (24 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via GitHub MCP
+
+**Stories covered:**
+1. T1 NEW: Mavericks 113, Heat 109 — Cooper Flagg Career-High 29/11, Dallas 3-0 (Jake Torres)
+2. T1 FOLLOW UP: Thunder 125, Suns 114 — Williams Out Long-Term, Holmgren Patellar Tendinitis, OKC Unbeaten (Damon Pierce)
+3. T2 NEW: Celtics 134, Bulls 99 — 35-Point Blowout at TD Garden (Marcus Cole)
+4. T2 NEW: Cavaliers 127, Timberwolves 125 OT — Minnesota's First Loss (Jake Torres)
+5. T2 NEW: NBA Tuesday Preview — Pistons vs. Knicks, Cup Starts Thursday (Marcus Cole)
+
+---
 
 ### 2026-10-26 ✅ (Automated)
 - Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)

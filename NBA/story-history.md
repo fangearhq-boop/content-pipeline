@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-27
+
+### STORY 1: Cooper Flagg Career-High 29 Pts, 11 Ast — Mavericks 113, Heat 109
+- **Tier:** 1
+- **Category:** Dallas Mavericks / Miami Heat / Cooper Flagg / Injury
+- **Key facts:** Mavericks 113, Heat 109; Flagg 29 pts 11 ast (career highs); Flagg listed questionable with left shoulder sprain; played through it; Dallas 3-0
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Jalen Williams Out Long-Term, Holmgren With Patellar Tendinitis — Thunder 125, Suns 114
+- **Tier:** 1
+- **Category:** Oklahoma City Thunder / Phoenix Suns / Jalen Williams / Chet Holmgren
+- **Key facts:** Thunder 125, Suns 114; Williams confirmed out long-term (serious lower left leg injury from Oct. 25); Holmgren out with right patellar tendinitis; OKC still unbeaten; Paolo Banchero (Magic) out 4-6 weeks high ankle sprain
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP (Williams first reported Oct. 25)
+
+### STORY 3: Celtics 134, Bulls 99 — 35-Point Blowout at TD Garden
+- **Tier:** 2
+- **Category:** Boston Celtics / Chicago Bulls
+- **Key facts:** Celtics 134, Bulls 99; 35-point margin; Boston defending champions; dominant home performance
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 4: Cavaliers 127, Timberwolves 125 OT — Minnesota's First Loss
+- **Tier:** 2
+- **Category:** Cleveland Cavaliers / Minnesota Timberwolves / Overtime
+- **Key facts:** Cavaliers 127, Timberwolves 125 OT; Minnesota's first loss 2026-27; back-to-back for Wolves (blew out Toronto 117-94 night before)
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: NBA Tuesday Preview — Pistons vs. Knicks, Celtics in Brooklyn, Lakers at Portland
+- **Tier:** 2
+- **Category:** NBA Preview / Detroit Pistons / New York Knicks / Boston Celtics / Los Angeles Lakers
+- **Key facts:** 4 games Tue Oct 27; Pistons vs Knicks 8 PM ET Peacock; Celtics at Nets 7:30 PM; Kings vs Spurs 8 PM; Blazers vs Lakers 11 PM; NBA Cup opens Oct. 30
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
 ## 2026-10-24
 
 ### STORY 1: Knicks Go 0-2 — Celtics 107, Knicks 103, Tatum 36 Points
