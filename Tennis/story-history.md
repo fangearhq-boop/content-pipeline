@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## October 27, 2026
+
+| 2026-10-27 | Vienna (Erste Bank Open) + Basel (Swiss Indoors) Day 1 confirmed results: Berrettini d. Etcheverry 6-3, 6-4 (Vienna); De Minaur d. Machac 1-6, 6-4, 6-3 (Vienna); Mensik d. Neumayer 6-2, 6-2 (Vienna); Rublev d. Borges 6-3, 6-2 in 64 min (Basel). Day 2 Tuesday: Alcaraz vs Khachanov (H2H 6-0 Alcaraz), Zverev vs Landaluce in Vienna; Djokovic vs Humbert + Wawrinka vs Lehečká in Basel. Sources: TennisTourTalk, TennisTemple, ESPN, TSN, Tennis.com | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (2026-10-26 S2: Vienna+Basel Day 1 → Day 1 results + Day 2 preview) |
+| 2026-10-27 | Stan Wawrinka plays his final ATP career match Tuesday evening at Basel vs 8th seed Jiří Lehečká — tribute night was Monday Oct 26; Djokovic personally attended; first ATP meeting between Wawrinka and Lehečká; Wawrinka WC, ranked ~151; Lehečká No. 21 reached Miami/Tokyo finals in 2026. Sources: Swiss Indoors schedule, Sofascore, EssentiallySports, TennisTonic | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (2026-10-26 S3: Wawrinka tribute night → actual match day) |
+| 2026-10-27 | Djokovic returns to Basel for first time since 2011 (15-year gap) — enters as wildcard fighting for ATP Race spot (~No. 11 in Race as of Oct 19); plays Ugo Humbert R1 Tuesday; 500 pts to Basel champion. Sources: KSL.com, Swiss Indoors draw, Tennis.com | T2 | X, FB, Article | Marcus Cole; NEW |
+| 2026-10-27 | Rublev and De Minaur advance at Basel/Vienna — Rublev d. Borges 6-3, 6-2 (64 min, 25/26 first serve pts won); TSN: win "boosts hopes of fifth consecutive ATP Finals"; De Minaur d. Machac 1-6, 6-4, 6-3 (comeback); both outside top 8 in Race; Race: Medvedev 5th (3,660), Cobolli 6th (3,640), Fils 7th (3,425), Tiafoe 8th (3,380). Sources: TSN, TennisTemple, Oct 26 pipeline | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (2026-10-26 S4: ATP Race → Day 1 wins shift outside-8 picture) |
+| 2026-10-27 | WTA Finals draw in one week (~Nov 5) — two groups of four; top 2 advance to SF; field: Rybakina (No. 1, defending champion), Sabalenka, Andreeva, Pegula, Gauff, Svitolina, Noskova, Muchova; Indian Wells Nov 8–15; key question: Rybakina/Sabalenka group split. Sources: WTA official, Yahoo Sports guide | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (2026-10-26 S5: WTA Finals preview → draw approaching) |
+
+---
+
+
 ## October 26, 2026
 
 | 2026-10-26 | Daniil Medvedev def. Nikoloz Basilashvili 6-7(6), 6-1, 6-3 in 2026 Almaty Open final — first career title defense (previously 0-for-3); 25th ATP singles title; Basilashvili (qualifier, No. 128) took opening tiebreak 8-6; Medvedev moves to No. 5 in ATP Race (3,660 pts). Sources: Sofascore, The Peninsula Qatar, Tennis Majors, Wikipedia | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-10-25 S2: Almaty Final preview → result) |

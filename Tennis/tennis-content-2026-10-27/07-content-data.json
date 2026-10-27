@@ -1,0 +1,247 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-27",
+  "compiled_at": "2026-10-27T12:19:53.976659+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Vienna + Basel Day 1 Results and Day 2 Action",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Vienna/Basel Day 1 results: Berrettini d. Etcheverry 6-3, 6-4. De Minaur survives a rough first set to beat Machac 1-6, 6-4, 6-3. Rublev destroys Borges 6-3, 6-2 in Basel. Day 2 underway with Alcaraz, Zverev, Djokovic up. #TennisFanrecap #ATPVienna #SwissIndoors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPVienna",
+            "#SwissIndoors"
+          ],
+          "char_count": 262
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Day 2 in Vienna and Basel: Alcaraz (H2H 6-0 vs. Khachanov) on Centre Court. Zverev opens for the first time. Djokovic vs. Humbert in Basel. Wawrinka vs. Lehečká tonight — his final match. #TennisFanrecap #ATPVienna #SwissIndoors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPVienna",
+            "#SwissIndoors"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "Vienna and Basel both delivered on Monday.\n\nMatteo Berrettini opened with a clean 6-3, 6-4 win over Etcheverry in Vienna, looking sharp on the indoor hard courts. Alex de Minaur was less tidy — dropped the first set 1-6 to Tomas Machac — but came roaring back to win 6-4, 6-3 and advance. That kind of fight matters when you're chasing Race points.\n\nAt Basel, Andrey Rublev made a statement: 6-3, 6-2 over Nuno Borges in just 64 minutes. He dropped only one point on his first serve the entire match. That's the kind of tennis that wins 500 ATP points.\n\nTuesday sees the headliners: Alcaraz vs. Khachanov in Vienna (he leads 6-0 head to head), Zverev opening as top seed, and Djokovic vs. Humbert in Basel.\n\nWho are you watching most closely this week? Vienna or Basel?",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-vienna-basel-day-one-results-day-two-preview.html",
+        "headline": "Berrettini, De Minaur, Rublev Open With Wins — Vienna and Basel Day 2 Begins",
+        "word_count": 571
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Vienna + Basel Day 1 Results and Day 2 Action\n\n**Image Concept 1-A** (Social — X/FB)\n- **Type:** imagn\n- **Search terms:** Alex de Minaur\n- **Rationale:** De Minaur's comeback win is the Day 1 highlight — dramatic three-setter\n- **Usage:** X text post 8:00 AM ET; FB post\n\n**Image Concept 1-B** (Social — X/FB)\n- **Type:** imagn\n- **Search terms:** Andrey Rublev\n- **Rationale:** Rublev's dominant Basel opener; Race angle\n- **Usage:** FB Image Caption post\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Wawrinka vs Lehečká — The Final Match",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Tonight in Basel, Stan Wawrinka plays his final professional match. Three Grand Slams. Three Basel titles. One last walk onto a court he's owned for 20 years. vs. Lehečká at 6:30 PM local. #TennisFanrecap #Wawrinka #SwissIndoors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#Wawrinka",
+            "#SwissIndoors"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "Tonight in Basel, Stan Wawrinka plays the last professional tennis match of his career.\n\nMonday was his tribute night — a ceremony that honored 24 years of ATP Tour tennis, three Grand Slam titles, and three Swiss Indoors championships in the very building where he plays tonight. Novak Djokovic was personally invited and showed up to pay his respects.\n\nNow comes the match. He faces Jiří Lehečká, the 8th seed and one of the better young players in the game. They have never played each other before. Lehečká reached the Miami Masters 1000 final this year. This will not be easy.\n\nBut that has never been the point of this week for Wawrinka. The career speaks for itself. The 2014 Australian Open. The 2015 Roland Garros. The 2016 US Open. An Olympic gold medal in 2008 with Federer. A backhand that could end a rally without warning from any corner of the court.\n\nThe Basel crowd will give him something tonight that no ranking or title can produce. That's what farewells are for.\n\nWhat do you remember most about Stan Wawrinka's career?",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-02-wawrinka-final-match-lehecka-basel.html",
+        "headline": "Wawrinka's Final Match: Tuesday Evening in Basel, Against Lehečká",
+        "word_count": 688
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wawrinka vs Lehečká — The Final Match\n\n**Image Concept 2-A** (Social — primary)\n- **Type:** imagn\n- **Search terms:** Stan Wawrinka\n- **Rationale:** Wawrinka's final career match is the emotional centerpiece of the day\n- **Usage:** X text post 12:30 PM ET; FB long-form image\n\n**Image Concept 2-B** (Article hero — 1200x630)\n- **Type:** imagn\n- **Search terms:** Stan Wawrinka\n- **Rationale:** Article hero image for final-match article\n- **Usage:** Article 02 hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Djokovic Returns to Basel After 15-Year Absence",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Djokovic is at Basel for the first time since 2011 — a 15-year gap. Playing Humbert in R1 as a wildcard with his ATP Finals spot on the line. Still chasing that Turin ticket. #TennisFanrecap #NovakDjokovic #SwissIndoors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#NovakDjokovic",
+            "#SwissIndoors"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "Novak Djokovic is at the Swiss Indoors in Basel for the first time since 2011.\n\nThat is not a typo. Fifteen years. The tournament has taken place every year while Djokovic was one of the best players in the world, and he was never in the draw — until this week.\n\nHe enters as a wildcard and he enters with a purpose. Djokovic currently sits outside the top eight in the ATP Race to Turin, which means he needs results — not just participation — from Vienna and Basel and Paris to secure his spot at the ATP Finals next month. A Basel wildcard gets him into a 500-point event where a champion collects major Race points.\n\nHis first-round opponent is Ugo Humbert, the French lefty who has four ATP titles on indoor hard courts. This is not a gimme. Djokovic hasn't played Basel in 15 years, but he has played indoors his entire career.\n\nIf he makes a deep run here, the Race picture changes significantly.\n\nDo you think Djokovic qualifies for Turin?",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-03-djokovic-returns-to-basel-2026.html",
+        "headline": "Djokovic Returns to Basel for the First Time Since 2011",
+        "word_count": 593
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Djokovic Returns to Basel After 15 Years\n\n**Image Concept 3-A** (Social)\n- **Type:** imagn\n- **Search terms:** Novak Djokovic\n- **Rationale:** Djokovic's 15-year return to Basel is the visual centerpiece\n- **Usage:** X post 10:30 AM ET; FB post\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Rublev and De Minaur Win, Boost ATP Finals Hopes",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Rublev and De Minaur both through in Basel and Vienna. Rublev won only 1 point on his first serve all match — wait, he LOST only 1. Dominant. De Minaur came back from a set down. Both need a deep run to reach Turin. #TennisFanrecap #ATPRace",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPRace"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "Two players on the ATP Finals bubble opened their weeks with wins on Monday — and both made a statement.\n\nIn Basel, Andrey Rublev beat Nuno Borges 6-3, 6-2 in 64 minutes. He won 25 of 26 points on his first serve. For context: that is basically as dominant as serving gets. TSN noted the win \"boosted his hopes of qualifying for a fifth consecutive ATP Finals.\"\n\nIn Vienna, Alex de Minaur dropped the opening set 1-6 against Tomas Machac before grinding out a 6-4, 6-3 comeback. That kind of mental toughness matters when the Race comes down to a handful of points.\n\nBoth players are currently on the outside looking in at the top eight. Three spots are locked up: Zverev, Alcaraz, and Shelton are qualified. Five spots remain for seven players, with only Vienna, Basel, and Paris Masters left to play.\n\nA title in either city this week would dramatically improve their odds. Monday was a start.",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-rublev-de-minaur-atp-race-hopes.html",
+        "headline": "Rublev Dominant, De Minaur Resilient as Both Advance and Keep Race Hopes Alive",
+        "word_count": 592
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rublev and De Minaur Win, ATP Race\n\n**Image Concept 4-A** (Social)\n- **Type:** imagn\n- **Search terms:** Andrey Rublev\n- **Rationale:** Rublev led off the Day 1 Race story\n- **Usage:** FB Image Caption 3:00 PM ET\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "WTA Finals Draw Arrives in One Week",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "WTA Finals draw is one week away (~Nov 5). Indian Wells, Nov 8–15. Two groups of four — and the key question is whether Rybakina (No. 1, defending champion) and Sabalenka end up in the same group. #TennisFanrecap #WTAFinals",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#WTAFinals"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "The 2026 WTA Finals draw is approximately one week away — expected around November 5, three days before play begins on November 8 in Indian Wells.\n\nThis is the moment the format takes shape. Eight players, two groups of four, round-robin play with the top two from each group advancing to the semifinals. The composition of those groups determines everything — whether Rybakina and Sabalenka meet in the round-robin stage or wait for a potential final, whether Gauff gets drawn against the two toughest opponents or gets a slightly more forgiving path.\n\nThe field is set: Rybakina (No. 1, defending champion), Sabalenka, Andreeva, Pegula, Gauff, Svitolina, Noskova, Muchova. Rybakina arrives as both the top seed and the reigning champion — a double distinction that only a handful of players have held going into the year-end event.\n\nThe draw will drop around 6 a.m. ET on November 5. Mark your calendars.\n\nWho do you think wins the 2026 WTA Finals?",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-05-wta-finals-draw-approaching.html",
+        "headline": "WTA Finals Draw One Week Away — What to Watch When the Groups Are Set",
+        "word_count": 563
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WTA Finals Draw Preview\n\n**Image Concept 5-A** (Social)\n- **Type:** imagn\n- **Search terms:** Elena Rybakina\n- **Rationale:** Rybakina as defending champion and No. 1 is the natural visual\n- **Usage:** FB Image Caption 10:30 AM ET\n\n**Image Concept 5-B** (Social secondary)\n- **Type:** imagn\n- **Search terms:** Aryna Sabalenka\n- **Rationale:** Sabalenka as the key rival; potential group-stage confrontation angle\n- **Usage:** Optional second image for WTA Finals content\n\n---\n\n**Total image concepts:** 9\n**All imagn search terms:** player name only (no years, no events, no context)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -1,5 +1,35 @@
 # Tennis Fanrecap — Pipeline Status
 
+## Current Run: 2026-10-27
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Vienna Day 1: Berrettini d. Etcheverry 6-3,6-4; De Minaur d. Machac 1-6,6-4,6-3; Mensik d. Neumayer 6-2,6-2; Basel Day 1: Rublev d. Borges 6-3,6-2 (64 min); Day 2 (Tue): Alcaraz/Zverev Vienna + Djokovic/Wawrinka Basel scheduled; Wawrinka final match vs Lehečká tonight; Djokovic first Basel since 2011; WTA Finals draw ~Nov 5; ATP Race: Medvedev 5th (3,660), Cobolli 6th (3,640), Fils 7th, Tiafoe 8th |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Oct 26 S2: Vienna+Basel Day 1 → results+Day2); S2 FOLLOW-UP (Oct 26 S3: Wawrinka tribute → match day); S3 NEW (Djokovic Basel return 15yr); S4 FOLLOW-UP (Oct 26 S4: ATP Race → Day 1 wins); S5 FOLLOW-UP (Oct 26 S5: WTA Finals preview → draw approaching) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on Rublev match stats (single source), Djokovic exact Race pts, WTA Finals draw date |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, angles per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts across 5 stories; all ≤280 chars (258, 230, 227, 218, 252, 224); #TennisFanrecap + topic hashtags |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; correct format |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 9 imagn concepts across 5 stories; player-name-only search terms |
+| Articles (5) | COMPLETE | article-01 Vienna+Basel Day 1 results (Elena Voss T1); article-02 Wawrinka final match (Ryan Calloway T1); article-03 Djokovic Basel return (Marcus Cole T2); article-04 Rublev/De Minaur Race (Elena Voss T2); article-05 WTA Finals draw preview (Ryan Calloway T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 25 claims auto-extracted; all stories present in all content files; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles; posting window warnings (cosmetic) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 9 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 26 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-10-27.xlsx + tfr-postplanner-tobi-2026-10-27.xlsx — 6 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Oct 27 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 6 X posts + 5 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3])
+- **Key stories:** Vienna/Basel Day 1 results confirmed (Berrettini, De Minaur comeback, Rublev dominant); Wawrinka final ATP career match tonight vs Lehečká (tribute was Mon, match is Tue); Djokovic first Basel since 2011 as wildcard; Rublev/De Minaur advance boosting Race hopes; WTA Finals draw one week away (~Nov 5)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); PostPlanner + compile + review-dashboard all COMPLETED successfully
+
+---
+
 ## Current Run: 2026-10-26
 
 | Step | Status | Notes |
