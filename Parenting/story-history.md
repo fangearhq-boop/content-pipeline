@@ -2,6 +2,50 @@
 
 ---
 
+## October 27, 2026
+
+### Story 1: CPSC Issues Safety Warning on Lucakuins Infant Bath Seats
+- **Date:** 2026-10-27
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** CPSC safety warning on Lucakuins infant bath seats; drowning and entrapment hazards; company declined cooperation with voluntary recall (same path as bblüv Oct 15); CPSC directive: stop use immediately; fourth baby product safety action in approximately 2 weeks (ONTHEWEI Oct 9, Papablic Oct 15, bblüv Oct 15, now Lucakuins); no injuries confirmed at time of warning.
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 2: D49 Earns Nine More Purple Star Designations
+- **Date:** 2026-10-27
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** D49 received 9 more Purple Star School designations from Colorado Dept of Education; one of largest Purple Star program footprints in state; designation recognizes military-connected student support (dedicated staff contact, transition resources, community outreach); D49 serves large military family population near Fort Carson and Peterson Space Force Base; expanded campuses now have structured resources for PCS moves, deployment, reintegration.
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 3: D11 Schools Off Colorado Watchlist — No High School in Priority Improvement Status
+- **Date:** 2026-10-27
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** No D11 high school on Colorado state accountability watchlist; first time in approximately a decade; Mitchell HS moved out of Priority Improvement status; 10 D11 schools improved ratings in most recent state report (The Gazette, Aug 31, 2026); Colorado uses Priority Improvement and Turnaround bottom categories; D11 no longer faces highest-level state intervention at high school level.
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 4: Halloween Oct. 31 — COS Trunk-or-Treats and Day-of Prep Checklist
+- **Date:** 2026-10-27
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Diversus Health Superhero Trunk or Treat Oct 31 10am–2pm (free); Red Leg Brewing Trunk or Treat Oct 31 noon–3pm (free); COS trick-or-treat window 5:30–8pm; day-of checklist: costume fit check, weather/layering, lights/reflective gear, bag prep, route planning; Halloween pedestrian risk elevated (Safe Kids Worldwide); verify venue details before going.
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (2026-10-26 S3: last-chance events → day-of prep + new trunk-or-treat events not previously covered)
+
+### Story 5: D11 Bond: 7 Days to Vote — How to Return Your Ballot
+- **Date:** 2026-10-27
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** D11 $775M bond on Nov 3 ballot (7 days); Colorado automatic mail ballots already in voters' hands; drop options: El Paso County Clerk drop boxes (open now), any D11 school; mail: must be postmarked by Nov 3 (return by Wednesday to be safe); in-person Vote Centers Nov 3 for lost/unreceived ballots; ballot tracking via El Paso County Clerk elections page (Ballot TRACE).
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (2026-10-26 S2: D11 bond one week out → action-focused voter logistics guide)
+
+---
+
 ## October 26, 2026
 
 ### Story 1: Costway Convertible High Chairs Recalled — Walmart and Target

@@ -1,5 +1,36 @@
 # COS Parenting — Pipeline Status
 
+## Current Run: 2026-10-27
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Lucakuins infant bath seat CPSC warning (drowning/entrapment, 4th baby product action in 2 weeks); D49 Purple Star Schools (9 more campuses, military families, Fort Carson/Peterson SFB); D11 schools off state watchlist (Mitchell HS out of Priority Improvement, 10 schools improved, first time in ~decade); Halloween Oct 31 trunk-or-treats (Diversus Health 10am–2pm free, Red Leg Brewing noon–3pm free); D11 bond voting logistics (drop boxes now open, postmark deadline Nov 3) |
+| Story History Check | COMPLETE | S1 NEW (Lucakuins not previously covered; Papablic/ONTHEWEI/bblüv were prior); S2 NEW (D49 Purple Star not previously covered); S3 NEW (D11 watchlist milestone not previously covered); S4 FOLLOW-UP (Oct 26 S3: last-chance events → day-of prep + new trunk-or-treats); S5 FOLLOW-UP (Oct 26 S2: D11 bond one week out → action-focused voter logistics) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 T1, 4 T2); bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on Diversus Health and Red Leg Brewing event details (verify before publishing), D49 exact count as largest in state |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts across 5 stories (S1: 2); all ≤280 chars (237, 214, 271, 237, 251, 238); 4 hashtags each; #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; contractions; 0 exclamation marks; correct **Long-Form Post (time)** format |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 7 Gemini base_only concepts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Lucakuins CPSC warning (Sarah Morales T1); article-02 D49 Purple Star expansion (Jamie Rivera T2); article-03 D11 schools off watchlist (Sarah Morales T2); article-04 Halloween trunk-or-treats + prep (Jamie Rivera T2); article-05 D11 bond voter logistics (Sarah Morales T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 67 claims auto-extracted; all stories present in all content files; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles, 5 images; cosmetic "No posting window" warnings (known) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 7 entries, all not_started, gemini base_only |
+| Review Dashboard | COMPLETE | review-dashboard.html — 26 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-10-27.xlsx + cosp-postplanner-tobi-2026-10-27.xlsx — 6 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Oct 27 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (1 Tier 1, 4 Tier 2)
+- **Posts:** 6 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+- **PostPlanner exports:** 6 posts standard + 6 TOBI
+- **Key stories:** Lucakuins bath seat CPSC warning (fourth baby product safety action in 2 weeks — company declined cooperation, stop use immediately); D49 9 more Purple Star designations (military families, Fort Carson/Peterson proximity); D11 schools off state watchlist for first time in ~decade (Mitchell HS out of Priority Improvement); Halloween Oct 31 COS trunk-or-treats (Diversus Health free, Red Leg Brewing free) + day-of prep checklist; D11 bond voting logistics (drop boxes now open, deadline Nov 3)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); PostPlanner completed OK; compile/fact-check all ran successfully
+
+---
+
 ## Current Run: 2026-10-26
 
 | Step | Status | Notes |
