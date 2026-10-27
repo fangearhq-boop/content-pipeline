@@ -213,7 +213,7 @@ class GuardTests(unittest.TestCase):
             "LLOYD NOBLE, SOON. 🏀\n"
             "\n"
             "Monday 2026-10-26. Hoops season is the long grind. "
-            "No fresh number cleared today, and that is the post.\n"
+            "Norman will be ready when the ball goes up.\n"
             "\n"
             "#Sooners #BoomerSooner #SoonerNation\n"
         )
@@ -586,11 +586,50 @@ BASEBALL.
             self.assertIn("already valid", stdout.getvalue())
             self.assertEqual(posts_path.read_text(encoding="utf-8"), original)
 
+    def test_quiet_filler_is_fan_copy(self):
+        banned = (
+            "no fresh",
+            "the post",
+            "official desk",
+            "official page",
+            "manufactured",
+            "cleared today",
+            "hold-the-line",
+            "pipeline",
+            "placeholder",
+        )
+        drafts = build_drafts({}, ON)
+        self.assertEqual(len(drafts), 6)
+        for draft in drafts:
+            lowered = draft.text.casefold()
+            for phrase in banned:
+                self.assertNotIn(phrase, lowered, draft.label)
+            self.assertNotIn("no fresh", draft.title.casefold(), draft.label)
+            self.assertIn("2026-10-26", draft.text)
+        self.assertEqual(drafts[2].title, "Lloyd Noble, soon")
+        self.assertEqual(drafts[3].title, "Norman stays on the trail")
+        self.assertIn("Norman will be ready when the ball goes up.", drafts[2].text)
+        self.assertIn("The trail is quiet this morning. Norman is still on it.", drafts[3].text)
+        posts, facts = render_day(ON, drafts)
+        self.assertTrue(verify_brief(posts, facts).ok, verify_brief(posts, facts).summary())
+
     def test_workflows_keep_the_review_guards(self):
         daily = (ROOT / ".github/workflows/sooners-daily.yml").read_text(encoding="utf-8")
         ci = (ROOT / ".github/workflows/sooners-brief-ci.yml").read_text(encoding="utf-8")
-        self.assertIn("^[0-9]{4}-[0-9]{2}-[0-9]{2}$", daily)
+        publish = (NICHE / "sooners_brief" / "publish.py").read_text(encoding="utf-8")
+        self.assertIn("^[0-9]{4}-[0-9]{2}-[0-9]{2}$", publish)
         self.assertIn("Sooners/scripts/denver_gate.py", daily)
+        self.assertIn("Sooners/scripts/run_daily.py generate", daily)
+        self.assertIn("Sooners/scripts/run_daily.py publish", daily)
+        self.assertIn("prove_accuracy_red.py", daily)
+        self.assertIn("contents: write", daily)
+        self.assertIn("pull-requests: write", daily)
+        self.assertIn("refs/heads/main", daily)
+        self.assertNotIn("git push origin HEAD:main", daily)
+        self.assertNotIn("--auto", daily)
+        self.assertNotIn("--admin", publish)
+        self.assertIn('"--squash"', publish)
+        self.assertNotIn("--auto", publish)
         self.assertIn("paths:", ci)
         self.assertIn("Sooners/**", ci)
         self.assertIn("branches:", ci)

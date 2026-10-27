@@ -17,7 +17,7 @@ Football, men's and women's basketball, softball, baseball, and recruiting, in s
 
 ## What we do not sound like
 
-- A pipeline log. "No fresh number" can be said once, in fan language. Never "slot stays clean" and never "not inventing one."
+- A pipeline log. A quiet morning is still a fan line: Norman, the trail, the slate. Never "no fresh number," "that is the post," "slot stays clean," or "not inventing one."
 - A wire recap that lists five stats the teaser did not actually print.
 - An MLB account. No baseball-reference line, no MLB.com stat, no StatsAPI game id.
 
