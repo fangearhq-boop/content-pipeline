@@ -5,6 +5,58 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-10-27 (OFF DAY — Early offseason. WS: Brewers 10-1 over Rays in Game 3, lead 3-0. Game 4 TONIGHT at Tropicana 7 PM CT — Brewers can win first title in franchise history. King opt-out clock starts tomorrow if Brewers win. Insights: 0 significant findings — brand-voice defaults. Imanaga QO imminent. Gold Gloves 5 days. Suzuki $130M+ market. AFL Reid debut + Snell/Cabral.)
+
+### STORY 1: Brewers Demolish Rays 10-1 in Game 3 — Lead WS 3-0, Game 4 TONIGHT 7 PM CT
+- **Angle:** FOLLOW UP (Oct 25 = Game 2 recap; Oct 26 = Game 3 preview). Brewers destroyed Rays 10-1 — historic 8 two-out RBI in 5th inning (WS record). Brewers lead 3-0. Game 4 tonight at 7 PM CT at Tropicana on FOX. Milwaukee can win first-ever WS title tonight.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, rival watch / off-day recap)
+- **Follow-Up Opportunities:**
+  - WS Game 4 result tonight → if Brewers win = first title, King opt-out clock opens
+  - If Rays win Game 4 → series goes to Game 5
+
+### STORY 2: Michael King Opt-Out Clock Starts Tomorrow If Brewers Win Tonight
+- **Angle:** FOLLOW UP (Oct 20 = first coverage; Oct 23 = running; Oct 25-26 = imminent). Critical escalation: Brewers winning TONIGHT means clock starts Oct 28. King (3.23 ERA, 2026) = No. 2 FA starter behind Skubal. Cubs need multiple SPs.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take / urgency)
+- **Follow-Up Opportunities:**
+  - WS ends → King opt-out window opens = Tier 1 breaking
+  - King announces opt-out → Tier 1
+
+### STORY 3: Gold Gloves in 5 Days — Analytics Nod to Bregman, 5 Cubs Finalists
+- **Angle:** FOLLOW UP (Oct 16 = finalists; Oct 22-26 = countdown). Fresh angle: Bregman won Fielding Bible at 3B (analytics), coaches/managers vote Nov 1. 5 finalists: PCA, Suzuki, Happ, Bregman, Swanson. No team ever swept all 3 outfield GGs.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown / informative)
+- **Follow-Up Opportunities:**
+  - Gold Glove winners Nov 1 → Tier 1 if Cubs sweep outfield or win multiple
+
+### STORY 4: Imanaga QO Window Opens When WS Ends — Could Be Tomorrow
+- **Angle:** FOLLOW UP (Oct 24 = rotation crisis; Oct 26 = QO urgency). Escalation: if Brewers win tonight, QO clock opens Oct 28. Imanaga (3.77 ERA, 32 starts): both sides declined 2027 options. ~$22M QO expected. "Accept = back; Decline = open market."
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, breaking offseason / urgency)
+- **Follow-Up Opportunities:**
+  - Imanaga accepts QO → Tier 1 breaking
+  - Imanaga declines QO → Tier 1 breaking
+
+### STORY 5: Seiya Suzuki FA: Career-High Season, $130M+ Market, Blue Jays Circling
+- **Angle:** FOLLOW UP (Oct 26 = combined Suzuki+Happ). Today = Suzuki-only with new market detail. 5.1 WAR, 131 OPS+, 26 HRs. $130M+ market. Blue Jays reportedly showing interest. Cubs expected to QO.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, analysis / informative)
+- **Follow-Up Opportunities:**
+  - Cubs sign Suzuki → Tier 1 breaking
+  - Suzuki signs elsewhere → Tier 1 reaction
+
+### STORY 6: AFL Week 4 — Dominick Reid Dominates Debut, Snell Rolls, Cabral Flashing Digits
+- **Angle:** FOLLOW UP (Oct 22-26 = Snell headliner). Angle shift: spotlight on Dominick Reid (2025 3rd-round pick) who dominated his AFL debut. Snell's bat-first breakout continues. Cabral flashing triple digits. 8 Cubs in AFL through Nov 14.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, prospect feature)
+- **Follow-Up Opportunities:**
+  - AFL Week 5 → Reid stats follow-up, Snell stats update
+
+---
+
+---
+
 ## 2026-10-26 (OFF DAY — Early offseason. WS: Brewers lead Rays 2-0, Game 3 tonight at Tropicana 7 PM CT. Insights: allcaps_lead WINNER (small, delta=0.33). Imanaga FA window opens post-WS. Gold Gloves 6 days. Suzuki+Happ FA announced. AFL Snell breakout continues.)
 
 ### STORY 1: WS Game 3 Preview — Brewers 2-0, tonight at Tropicana, King opt-out imminent

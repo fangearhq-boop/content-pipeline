@@ -1,0 +1,241 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-27",
+  "compiled_at": "2026-10-27T09:21:55.335912+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1 — WS Game 3 / Game 4 tonight",
+      "type": "Rival Watch"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2 — King opt-out clock",
+      "type": "Bold Take"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3 — Gold Gloves 5-day countdown",
+      "type": "Informative"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Story 4 — Imanaga QO imminent",
+      "type": "Urgency"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 5 — Suzuki FA market",
+      "type": "Analysis"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Story 6 — AFL Week 4",
+      "type": "Prospect"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Brewers Obliterate Rays 10-1, Lead WS 3-0 — Game 4 TONIGHT at 7 PM CT",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Brewers demolished Rays 10-1 in Game 3 at Tropicana on Monday. Historic 8 two-out RBI in a single inning (WS record). Brewers lead 3-0. Game 4 tonight at 7 PM CT on FOX. Milwaukee can win first title in franchise history. Cubs division rival on the cusp.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Brewers 3-0. EIGHT two-out RBI in one inning last night — a World Series record in a 10-1 rout.\n\nGame 4 tonight, 7 PM CT on FOX. Milwaukee can win their first title in franchise history.\n\nCubs front office is watching very closely.\n\n#Cubs #MLB #NorthSiders",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Rival Watch / Off-day recap",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#NorthSiders"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "WS Game 3 — Brewers 10-1, Game 4 Tonight\n**Key Facts:**\n- Brewers defeated Rays 10-1 on Monday, Oct 26, at Tropicana Field (Game 3)\n- Historic 5th inning: 7 consecutive hits, 8 two-out RBI (both World Series records)\n- Brewers lead series 3-0 — no team has ever come back from 3-0 in WS history\n- Game 4: Tuesday, Oct 27, 7 PM CT at Tropicana Field, broadcast on FOX\n- Brewers can clinch first World Series championship in franchise history tonight\n- Rays' lone run: Yandy Díaz RBI double in 9th inning\n**Sources:**\n- CNN: https://www.cnn.com/2026/10/26/sport/live-news/world-series-game-3\n- Yahoo Sports: https://sports.yahoo.com/mlb/live/brewers-rays-box-score-live-updates-world-series-game-3-lineups-starting-pitchers-news-highlights-where-to-watch-230000283.html\n- Fox Sports: https://www.foxsports.com/live-blog/mlb/world-series-game-3-live-updates-score-milwaukee-brewers-tampa-bay-rays\n- TMJ4 schedule: https://www.tmj4.com/sports/world-series-schedule-heres-when-the-milwaukee-brewers-will-face-the-tampa-bay-rays\n**Freshness:** Same day (Oct 26 game, reporting current as of Oct 27 pipeline)\n**Confidence:** HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Michael King Opt-Out Clock Starts Wednesday If Brewers Win Tonight",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "King's opt-out decision due 5 days after WS ends. If Brewers clinch tonight, clock starts Wednesday. King (3.23 ERA, 27 starts in 2026) is No. 2 FA starter on market behind Skubal. Cubs need multiple SPs.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Michael King's opt-out window opens 5 days after the WS ends.\n\nBrewers can clinch TONIGHT — meaning King's clock could start Wednesday. He posted a 3.23 ERA in 2026 and is the No. 2 FA starter behind Skubal.\n\nThe Cubs need a rotation. King's the answer.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold Take / Urgency",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Michael King Opt-Out Clock\n**Key Facts:**\n- King holds opt-out from his contract; decision due 5 days after World Series ends\n- If Brewers win Game 4 tonight (Oct 27), WS ends → clock opens Oct 28 → decision by ~Nov 1-2\n- 2026 stats: 3.23 ERA, 27 starts (confirmed via MLB.com Aug 2026 analysis)\n- NOTE: Some sources cited 3.03 ERA / 175 IP (another article). Cross-checking: using 3.23 ERA as confirmed from most recent MLB.com piece. Not using 175 IP figure as it conflicted between sources.\n- Market consensus: King is the No. 2 FA starter on market behind Tarik Skubal\n- Cubs need 2-3 starting pitchers this offseason (60% of rotation hitting FA)\n- King's prior deal: 3 years / $75M with Padres; opted out; 2026 Padres deal 2 yrs / $58M\n**Sources:**\n- MLB.com opt-out tracker: https://www.mlb.com/cubs/news/mlb-players-with-opt-out-clauses-player-options-club-options-for-2027\n- RotoBaller: https://www.rotoballer.com/?p=1972808\n**Freshness:** MLB.com tracker published Aug 29, 2026; timing confirmed current\n**Confidence:** MEDIUM (ERA source cross-checked; opt-out mechanics confirmed; exact decision date pending WS result)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Gold Gloves in 5 Days — 5 Cubs Finalists, Unprecedented Outfield Sweep on Line",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Fresh angle today — Bregman already won Fielding Bible at 3B (analytics voted); Nov 1 coaches/managers vote on official GGs. Five Cubs finalists: PCA, Suzuki, Happ, Bregman, Swanson. No team has ever swept all 3 outfield GGs in one season.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Analytics nod: Bregman won the Fielding Bible at 3B.\n\nCoaches vote Nov. 1. Five Cubs in the mix: PCA, Suzuki, Happ, Bregman, Swanson.\n\nNo team has EVER swept all 3 outfield Gold Gloves. This roster is the closest it's come.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Stat Breakdown / Informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Gold Gloves — 5 Days, 5 Finalists\n**Key Facts:**\n- Gold Glove winners announced: Sunday, Nov. 1 on ESPN at 8:30 PM ET (= 7:30 PM CT)\n- 5 Cubs finalists (tied with Blue Jays for most in majors):\n- Pete Crow-Armstrong (CF): 26 OAA (MLB-best), 23 Runs Prevented, 2nd consecutive attempt\n- Seiya Suzuki (RF): 8 FRV (NL RF-best), first MLB nomination (won 5 GGs in Japan)\n- Ian Happ (LF): chasing 5th straight; Bleacher Nation flags Chourio as competition\n- Alex Bregman (3B): won Fielding Bible 3B award (analytics); won GG in 2024\n- Dansby Swanson (SS): chasing 3rd total, first since 2023\n- No team has ever swept all 3 outfield GGs in one season — Cubs are closest contender\n- Voting: 30 MLB managers + up to 6 coaches per team (75%), plus SABR Defensive Index (25%)\n- Finalists announced Oct 14, 2026\n**Sources:**\n- MLB.com: https://www.mlb.com/cubs/news/2026-gold-glove-award-finalists\n- NBC Chicago: https://www.nbcchicago.com/news/local/pete-crow-armstrong-one-of-5-gold-glove-finalists-for-the-cubs/4002729/\n- Bleacher Nation: https://www.bleachernation.com/cubs/2026/10/14/the-chicago-cubs-have-landed-five-gold-glove-finalists/\n- Roundtable.io: https://roundtable.io/sports/mlb/cubs/news/cubs-lead-national-league-with-5-gold-gold-finalists\n**Freshness:** Oct 14 finalist announcement; Nov 1 ceremony date confirmed current\n**Confidence:** HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Imanaga's Qualifying-Offer Clock Opens the Moment WS Ends",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Brewers win tonight = QO window opens tomorrow. Imanaga (3.77 ERA, 32 starts) is a FA; both sides declined 2027 options. QO (~$22M) expected within days. Cubs' best starter and biggest offseason decision.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Brewers win tonight, Imanaga's qualifying-offer clock opens tomorrow.\n\nCubs' ace went 3.77 ERA, 32 starts — and both sides declined 2027 options. A ~$22M QO is expected within days.\n\nAccept = he's back. Decline = open market.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Breaking Offseason / Urgency",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Imanaga QO — Imminent\n**Key Facts:**\n- Shota Imanaga 2026 season: 11-10 W-L, 3.77 ERA, 32 starts\n- Both Cubs and Imanaga declined mutual 2027 options → he becomes FA when WS ends\n- Cubs expected to extend QO (~$22.2M value for 2027 season)\n- NOTE: 2026 QO was $22.205M (CBS Chicago). 2027 QO value TBD — will be set by MLB based on top-125 salary average. Using \"~$22M\" as a round estimate. Do NOT state exact 2027 QO dollar to avoid fabrication.\n- Jed Hoyer publicly: \"still hope\" to retain Imanaga\n- Imanaga accepted 2026 QO in Nov 2025 ($22.205M) to stay; now hitting market again\n- If Brewers win tonight → WS ends → QO window opens Oct 28 → ~10 days to extend/accept/decline\n**Sources:**\n- CBS Chicago (2026 QO acceptance): https://www.cbsnews.com/chicago/news/shota-imanaga-accepts-cubs-qualifying-offer-2026\n- MLB.com Cubs news: https://www.mlb.com/cubs/news/shota-imanaga-accepts-qualifying-offer-from-cubs\n- Story history (2026-10-26): confirmed both sides declined 2027 options\n**Freshness:** Mechanics confirmed; Cubs story history (Oct 26) confirms current status\n**Confidence:** MEDIUM-HIGH (current FA status confirmed via story history; QO timing confirmed)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Seiya Suzuki FA: Career-High Season, $130M+ Market, Blue Jays Circling",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "New angle isolating Suzuki's market value: career-high 5.1 WAR, 131 OPS+, 26 HRs. Projected $130M+. Blue Jays among suitors. Cubs expected to QO him, but facing rotation spending collision.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Seiya Suzuki is about to be the most coveted RF on the market.\n\nCareer-high 5.1 WAR, 131 OPS+, 26 HRs. Market projection: $130M+. Blue Jays already circling.\n\nCubs face a brutal calculus: extend the QO and risk losing him AND still rebuild the rotation.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Analysis / Informative",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Suzuki FA Market\n**Key Facts:**\n- Seiya Suzuki 2026: 5.1 WAR (career-high), 131 OPS+, 26 HRs\n- Market projection: $130M+ per Bleacher Report\n- NOTE: One source also cited $90-130M range (Oct 26 brief research). Today using $130M+ as upper-end projection from dedicated Bleacher Report analysis piece. Flag as MEDIUM confidence.\n- Blue Jays among teams showing interest (per search results: \"reportedly shown interest\")\n- Cubs expected to extend QO to Suzuki\n- Happ: 2.9 WAR, 103 OPS+, 4-time GG finalist (still a finalist Nov 1)\n- PCA signed extension through 2032 (not a FA; confirmed from multiple sources)\n- Cubs context: 60% of starting rotation also hitting FA; Hoyer faces pitching vs. outfield spending tension\n**Sources:**\n- Bleacher Report: https://bleacherreport.com/articles/25505226-ranking-cubs-seiya-suzuki-ian-happ-landing-spots-ahead-mlb-free-agency\n- MLB Trade Rumors: https://www.mlbtraderumors.com/players/seiya-suzuki\n**Freshness:** Published in 2026 pre-WS window; current\n**Confidence:** MEDIUM ($130M+ from one outlet; Blue Jays link marked \"reportedly\")",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "AFL Week 4 — Dominick Reid Shines, Snell's Breakout Continues",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Dominick Reid (2025 3rd-round pick) dominated his AFL debut at Mesa. Kade Snell's bat-first breakout rolls on. Jhon Cabral flashing triple digits. 8 Cubs in AFL through Nov. 14.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Dominick Reid is turning heads in the Arizona Fall League.\n\nThe 2025 third-round pick dominated his AFL debut. Kade Snell's breakout rolls on, and Jhon Cabral is flashing triple digits.\n\nEight Cubs in the AFL through Nov. 14. Pipeline is cooking.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Prospect Feature",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "AFL Week 4 — Reid + Snell + Cabral\n**Key Facts:**\n- Dominick Reid: 2025 3rd-round pick; \"absolutely dominated in his first AFL outing\" per Bleacher Nation\n- Kade Snell: bat-first OF; post-wrist injury (July 2026) stats: .312/.373/.558 / 133 wRC+; AFL breakout continuing (Week 3-4)\n- Jhon Cabral: 101 mph arm velocity (confirmed Bleacher Nation Oct 5)\n- 8 Cubs prospects in AFL through Nov. 14 at Mesa Solar Sox\n- Chase Meyer: also in AFL; flagged as 2027 watch\n**Sources:**\n- Bleacher Nation Oct 5: https://www.bleachernation.com/cubs/2026/10/05/cubs-prospect-notes-afl-bailey-cabada-snell-reid-cabral-meyer-more/\n**Freshness:** Oct 5 roundup; now Oct 27 (Week 4). Stats from Week 3 or earlier; Week 4 specific stats not available. Writing about ongoing progression, not specific week-4 stats.\n**Confidence:** MEDIUM (Oct 5 roundup confirmed; projecting continuation of established trends)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

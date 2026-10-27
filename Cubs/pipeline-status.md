@@ -1,6 +1,33 @@
-# Cubs Pipeline Status — Updated 2026-10-26
+# Cubs Pipeline Status — Updated 2026-10-27
 
 ## Latest Run
+- **Date:** 2026-10-27 (Tuesday — Off day. WS: Brewers 10-1 in Game 3 (Oct 26), lead 3-0. Game 4 TONIGHT at Tropicana 7 PM CT. Brewers can win first-ever WS title. King opt-out clock opens tomorrow if Brewers win. Imanaga QO imminent. Gold Gloves 5 days. Suzuki $130M+ market. AFL Reid debut.)
+- **Stories:** 6
+- **X posts:** 6
+- **Platforms:** X/Twitter only
+- **Status:** ✅ Complete
+- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 6 stories, 6 tweets
+- **07-content-data.json:** ✅ Valid JSON, all 6 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 10:45 AM / 12:00 PM / 2:30 PM CT), all strptime-parseable
+- **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
+- **Note:** Insights: 0 significant findings (91 measured tweets, no contrast cleared all 3 gates) — brand-voice defaults used. Yesterday's allcaps_lead finding did NOT clear today's gates. WS Game 3 result FOLLOW UP (10-1). King opt-out clock imminent. Gold Gloves 5-day countdown FOLLOW UP (new analytics angle). Imanaga QO imminent FOLLOW UP (clock opens tomorrow if Brewers win). Suzuki FA market FOLLOW UP (new detail: Blue Jays). AFL Reid debut NEW spotlight (was Snell-headlined prior days).
+
+## Insights Summary (2026-10-27 run — from 2026-10-27T08:30 UTC snapshot)
+- **Generated:** 2026-10-27T08:30:00 UTC
+- **Measured tweet count:** 91
+- **Significant findings:** 0
+- **Note:** "No contrasts cleared all three gates (n≥8 per group, p<0.05, |Cliff's delta|≥0.20). Either too little data or no format/time differences are large enough yet."
+- **Action:** Fell through to brand-voice defaults. No format adjustments made.
+
+## Series Context (2026-10-27)
+- **`off_day`:** TRUE
+- **`is_series_start_today`:** FALSE
+- **`series`:** null
+- **`today_cubs_game`:** null
+- **Action:** Off-day pipeline. No series-preview slot. WS Game 4 tonight used as anchor for rival watch + offseason context tweets.
+
+---
+
+## Previous Run
 - **Date:** 2026-10-26 (Monday — Off day. WS: Brewers lead Rays 2-0, Game 3 tonight at Tropicana 7 PM CT. Imanaga FA window opens post-WS (QO imminent). Suzuki+Happ FA decisions coming. Gold Gloves 6 days. AFL Snell continues.)
 - **Stories:** 5
 - **X posts:** 5
@@ -10,18 +37,6 @@
 - **07-content-data.json:** ✅ Valid JSON, all 5 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 12:00 PM / 2:30 PM CT), all strptime-parseable
 - **Dashboard push:** ✅ Committed and pushed via publish-dashboard.py
 - **Note:** Insights applied: allcaps_lead WINS (delta=0.33, small, p=0.032) — all tweets open ALL CAPS. WS Game 3 preview (rival watch + King opt-out). Imanaga FA NEW ANGLE. Gold Gloves 6-day countdown FOLLOW UP. Suzuki+Happ FA NEW ANGLE. AFL Snell FOLLOW UP.
-
-## Insights Summary (2026-10-26 run — from 2026-10-26T08:30 UTC snapshot)
-- **Generated:** 2026-10-26T08:30:00 UTC
-- **Finding 1:** `opening=allcaps_lead` WINS — Cliff's delta=0.33 (small), p=0.0322. Applied: every tweet opens ALL CAPS.
-- **No other significant findings.**
-
-## Series Context (2026-10-26)
-- **`off_day`:** TRUE
-- **`is_series_start_today`:** FALSE
-- **`series`:** null
-- **`today_cubs_game`:** null
-- **Action:** Off-day pipeline. No series-preview slot. WS Game 3 tonight (Brewers 2-0 vs Rays) used as anchor for rival watch + offseason context tweets.
 
 ---
 
