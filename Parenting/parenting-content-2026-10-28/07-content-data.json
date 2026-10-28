@@ -1,0 +1,242 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-28",
+  "compiled_at": "2026-10-28T12:34:01.707361+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "AAP Updates Pediatric UTI Guidelines — New Age Range, Drops Race as Factor",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "AAP just updated its UTI guidelines for young children. New coverage: 8 days through 5 years. Big change: race is no longer listed as a risk factor. Updated guidance on diagnosis, treatment, and imaging too. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "If your child is under five, here's a health update worth knowing about.\n\nThe American Academy of Pediatrics just published new clinical practice guidelines for urinary tract infections in young children. The updated guidance covers kids from 8 days old through age 5 — the age range was expanded from the prior version, so this now includes younger infants. It also drops race as a clinical risk factor, which is a significant change from older guidance that some families may have encountered.\n\nThe update came with three technical reports covering how UTIs are diagnosed, treated, and monitored through imaging. UTIs are common in young children and frequently missed or misdiagnosed, especially in infants who can't tell you what's wrong. Knowing that the guidance your pediatrician uses is current matters.\n\nYou don't need to do anything differently today — this is an update that your child's doctor will apply during visits. But if your infant or toddler has had unexplained fever, fussiness, or other symptoms that haven't been explained, it's worth bringing up at your next appointment.\n\nHas your child ever been diagnosed with a UTI? How was it caught?\n\n---",
+        "image_caption": "AAP updated its UTI guidelines for kids under 5 this month. New age range, updated risk factors, clearer guidance for pediatricians. Worth knowing.",
+        "posting_time": "8:00 AM MT"
+      },
+      "article": {
+        "filename": "article-01-aap-pediatric-uti-guidelines-2026.html",
+        "headline": "AAP Updates Pediatric UTI Guidelines — What Colorado Springs Parents Need to Know",
+        "word_count": 799
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AAP Updated Pediatric UTI Guidelines\n\n**Image Concept 1 (Article Hero / Facebook — 1200x630)**\nA calm pediatrician's office scene: a gentle physician in a white coat sitting at eye level with a toddler (approximately 18 months old, racially ambiguous, gender-neutral clothing) on an exam table, parent nearby. Warm, soft clinical lighting. Reassuring, professional tone. Muted teal and cream palette. Clean bottom third space.\n- Mode: base_only\n- Usage: Article hero + Facebook image caption\n\n**Image Concept 2 (X / Social — 1080x1350)**\nA close-up of caring parental hands gently holding a young infant (approximately 3–6 months, neutral clothing). Warm natural light through a window, soft focus background. Conveys tenderness and parental concern. Soft gold and cream tones. Clean bottom third for text overlay.\n- Mode: base_only\n- Usage: X post 8:00 AM MT\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "COS Daycare Offers Free Childcare on Early Voting Day — Thursday Oct. 29",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Tomorrow, Oct. 29: A Colorado Springs daycare is offering free childcare so parents can vote. Up to 50 families. D11 bond vote is Nov. 3 — mail-in ballots are out. No sitter needed Thursday. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "If you've been putting off dropping your D11 bond ballot because you can't find a sitter — here's something that helps.\n\nA Colorado Springs daycare is offering free childcare tomorrow, Thursday October 29, so parents can take the time they need to vote. As of this week, seven families had signed up; organizers hope to accommodate up to 50.\n\nThe D11 $775M bond vote is November 3. Mail-in ballots are already out, and drop boxes are open now. Voting early or dropping your ballot this week means you're done before the November 3 deadline.\n\nFinding time to participate in local elections is genuinely hard when you're also managing kids, work, and everything else. An offer like this is a practical solution that doesn't require coordination or cost.\n\nDetails: contact the daycare directly or look for the RMPBS Colorado article for registration info.\n\nAre you planning to vote on the D11 bond this year?\n\n---",
+        "image_caption": "Tomorrow, Oct. 29: A COS daycare is offering free childcare so parents can vote. D11 bond vote is Nov. 3. This is the nudge to get it done.",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-02-cos-daycare-free-childcare-voting-oct29.html",
+        "headline": "A Colorado Springs Daycare Is Offering Free Childcare Tomorrow So Parents Can Vote",
+        "word_count": 470
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Free Childcare for Voting\n\n**Image Concept 3 (Article Hero / Facebook — 1200x630)**\nA parent (gender-neutral, mid-30s) handing a young child (approximately age 3) to a friendly childcare provider in a brightly lit daycare setting. Relaxed, community feel. Primary teal and warm coral accents. Clean bottom third.\n- Mode: base_only\n- Usage: Article hero + Facebook image caption\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "COS Man Hosts Sensory-Friendly Haunted Forest for Neurodivergent Kids",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "A Cascade man has run a sensory-friendly Haunted Forest for ~5 years for kids with IDD. This week he hosted a field trip from RiseUp School in Colorado Springs. No strobe lights. No crowds. Just Halloween. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "Halloween can be genuinely hard for families of neurodivergent children.\n\nThe crowds, the strobe lights, the loud sudden noises — these are features that make Halloween fun for many kids, but they're also the things that make it completely inaccessible for others. For parents of kids with IDD — intellectual and developmental disabilities — October 31 is often a night of watching from the sidelines.\n\nA man in Cascade, Colorado has been quietly solving this problem for about five years. He hosts a sensory-friendly Haunted Forest designed specifically for children with IDD, and this week he invited RiseUp School from Colorado Springs to bring students on a field trip. RiseUp principal Kathy Stults praised the experience. Many of the students are non-verbal.\n\nIt's not trying to be the same thing as every other Halloween experience — it's a different experience built with specific kids in mind.\n\nThis is the kind of thing that doesn't make the news often enough. If you have a family member or know a family with a neurodivergent child, it's worth knowing options like this exist.\n\nDo you have resources or Halloween tips for families of neurodivergent kids in Colorado Springs?\n\n---",
+        "image_caption": "Halloween doesn't have to mean strobe lights and crowds. A Cascade man's sensory-friendly Haunted Forest welcomed RiseUp School students with IDD this week. This is what inclusion looks like.",
+        "posting_time": "3:00 PM MT"
+      },
+      "article": {
+        "filename": "article-03-cascade-haunted-forest-risup-school-neurodivergent.html",
+        "headline": "Cascade Haunted Forest Offers Accessible Halloween for Neurodivergent COS Kids",
+        "word_count": 623
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sensory-Friendly Haunted Forest\n\n**Image Concept 4 (Article Hero / Facebook — 1200x630)**\nAn outdoor autumn woodland path at dusk with soft, warm orange and amber lighting (NOT strobe lights — gentle jack-o'-lantern glow along the path). Two children in simple Halloween costumes walking together with an adult. Calm, inclusive feel — NOT scary or intense. Clean bottom third.\n- Mode: base_only\n- Usage: Article hero + Facebook image caption\n\n**Image Concept 5 (X / Social — 1080x1350)**\nA child in a simple Halloween costume (pumpkin or friendly ghost) exploring an autumn outdoor setting with a warm, calm expression. Soft fall colors — orange, gold, brown leaves. Sensory-friendly cues: no flashing lights, gentle candle-like glow. Clean bottom third.\n- Mode: base_only\n- Usage: X post 3:00 PM MT\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Día de Muertos at Colorado Springs Fine Arts Center — Nov. 1–2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Colorado Springs Fine Arts Center at CC: Día de Muertos is Nov. 1 (12:30–4:30 PM) and Nov. 2 (4–8 PM). Live music, hands-on activities, kids' costume parade. Free or low-cost. 30 W. Dale St. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "The weekend after Halloween, the Colorado Springs Fine Arts Center at Colorado College is hosting a Día de Muertos celebration.\n\nSaturday, November 1: 12:30–4:30 PM\nSunday, November 2: 4–8 PM\nLocation: 30 W. Dale St., Colorado Springs\n\nProgramming includes live music and performances, hands-on cultural activities for families, a children's costume parade, and community cultural events throughout both days. Registration is requested at fac.coloradocollege.edu/events/dia-de-muertos. The event is free or low-cost — check the website for current pricing.\n\nDía de Muertos is a Mexican tradition that honors those who have passed, and it's one of the most visually rich and culturally meaningful observances of the year. The Fine Arts Center's celebration is designed as a community event that families can attend together.\n\nAfter two straight years of Halloween-adjacent programming in Colorado Springs, this is a good option for the first weekend of November that's something different.\n\nAre you planning to take your family to Día de Muertos this weekend?\n\n---",
+        "image_caption": "The Colorado Springs Fine Arts Center is hosting Día de Muertos this weekend — Nov. 1 (12:30–4:30 PM) and Nov. 2 (4–8 PM). Live music, kids' parade, and cultural programming at 30 W. Dale St. Check the FAC website for details.",
+        "posting_time": "5:00 PM MT"
+      },
+      "article": {
+        "filename": "article-04-dia-de-muertos-fine-arts-center-nov1-2.html",
+        "headline": "Día de Muertos at the Colorado Springs Fine Arts Center — Nov. 1–2",
+        "word_count": 563
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Día de Muertos at Fine Arts Center\n\n**Image Concept 6 (Article Hero / Facebook — 1200x630)**\nA colorful Día de Muertos altar display (ofrenda) with marigolds, candles, and decorative papel picado in vibrant orange, yellow, and teal. No identifiable real people or characters. Festive, warm cultural celebration feel. Clean bottom third space.\n- Mode: base_only\n- Usage: Article hero + Facebook image caption\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Rock Ledge Ranch Fall Homeschool Day — Happening TODAY",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "TODAY only: Rock Ledge Ranch Fall Homeschool Day runs 10 AM–2 PM at 3105 Gateway Rd. ~$4/person, ages 3 and under free, no reservation needed. Living history for homeschool families and school-age kids. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "Quick reminder for homeschool families: Rock Ledge Ranch Fall Homeschool Day is TODAY, October 28, from 10 AM to 2 PM.\n\nAddress: 3105 Gateway Road, Colorado Springs 80904\nCost: about $4 per person (children 3 and under free)\nNo reservation required\n\nRock Ledge Ranch is a living history site where families can experience Colorado Springs history hands-on. The fall homeschool day is one of their annual events designed specifically for home-educating families.\n\nIt runs through 2 PM this afternoon. If you're looking for something to do this morning or early afternoon, this fits.\n\nDoes your family do field trips to Rock Ledge Ranch? What's your favorite thing there?\n\n---",
+        "image_caption": "Homeschool families: Rock Ledge Ranch Fall Day is TODAY, 10 AM–2 PM. ~$4/person, kids 3 and under free, no reservation needed. 3105 Gateway Road.",
+        "posting_time": "8:00 AM MT"
+      },
+      "article": {
+        "filename": "article-05-rock-ledge-ranch-homeschool-day-oct28.html",
+        "headline": "Rock Ledge Ranch Fall Homeschool Day Is Happening Today",
+        "word_count": 556
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rock Ledge Ranch Homeschool Day\n\n**Image Concept 7 (Article Hero / Facebook — 1200x630)**\nA group of school-age children (4–5 kids, diverse, ages 7–12) gathered around a historical demonstration at an outdoor living history site. Rustic wooden structures, autumn trees in golden foliage. Educational, active, joyful. Warm morning light. Clean bottom third.\n- Mode: base_only\n- Usage: Article hero + Facebook image caption"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

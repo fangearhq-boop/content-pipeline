@@ -1,5 +1,36 @@
 # COS Parenting — Pipeline Status
 
+## Current Run: 2026-10-28
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | AAP pediatric UTI guidelines Oct 2026 (new age range 8 days–5 yrs, drops race as risk factor); COS daycare free childcare Oct 29 for voting (RMPBS, 7 families, up to 50); Cascade sensory-friendly Haunted Forest for RiseUp School IDD students (KRDO Oct 28); Día de Muertos FAC at CC Nov 1–2 (Gazette); Rock Ledge Ranch Homeschool Day TODAY Oct 28 10am–2pm |
+| Story History Check | COMPLETE | S1 NEW (AAP UTI guidelines — not previously covered; distinct from Oct 24 AAP 5 Cs and Oct 21 AAP COVID); S2 NEW (free childcare for voting — distinct from Oct 27 D11 bond voter logistics); S3 NEW (RiseUp School sensory Haunted Forest — not previously covered); S4 NEW (Día de Muertos FAC — not previously covered); S5 FOLLOW-UP (Oct 21 S5: Rock Ledge Ranch preview → event day) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 T1, 4 T2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on daycare name (not confirmed), Rock Ledge Ranch exact pricing, FAC ticket price, Día de Muertos exact URL |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 5 posts across 5 stories; all ≤280 chars (267, 252, 264, 262, 271); 4 hashtags each; #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; contractions; 0 exclamation marks; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 7 Gemini base_only concepts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 AAP UTI guidelines (Jamie Rivera T1); article-02 COS daycare free childcare voting (Sarah Morales T2); article-03 Cascade Haunted Forest RiseUp School (Jamie Rivera T2); article-04 Día de Muertos FAC (Sarah Morales T2); article-05 Rock Ledge Ranch Homeschool Day (Jamie Rivera T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 54 claims auto-extracted; all stories present in all content files; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 5 X posts, 5 FB posts, 5 articles, 5 images; posting window warnings (cosmetic) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 7 entries, all not_started, gemini base_only |
+| Review Dashboard | COMPLETE | review-dashboard.html — 25 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-10-28.xlsx + cosp-postplanner-tobi-2026-10-28.xlsx — 5 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Oct 28 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (1 Tier 1, 4 Tier 2)
+- **Posts:** 5 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 5 posts standard + 5 TOBI
+- **Key stories:** AAP updated UTI guidelines (8 days–5 yrs, drops race as risk factor — frequently missed in infants); COS daycare free childcare Oct 29 for voting (D11 bond Nov 3); Cascade sensory-friendly Haunted Forest for RiseUp School IDD students (accessible Halloween 3 days out); Día de Muertos at FAC/CC Nov 1–2 (live music, kids parade, cultural programming); Rock Ledge Ranch Homeschool Day TODAY 10am–2pm (~$4, no reservation)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); PostPlanner completed OK; compile/fact-check all ran successfully
+
+---
+
 ## Current Run: 2026-10-27
 
 | Step | Status | Notes |
