@@ -5,6 +5,50 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## Pipeline Run: 2026-10-28
+
+### Story 1: World Series G5 Preview — Brewers Can Clinch Tonight
+- **Date:** 2026-10-28
+- **Tier:** 1
+- **Classification:** FOLLOW UP (WS covered G1-G4)
+- **Angle:** Brewers lead 3-1, Misiorowski starts G5 at Tropicana, 8 PM ET FOX. Brewers -147. Rays must match him with depleted staff. Brewers' first title on the line.
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** G5 result, possible G6/G7 if series extends
+
+### Story 2: Rays G4 Walk-Off — 4-3 in 12 Innings
+- **Date:** 2026-10-28
+- **Tier:** 1
+- **Classification:** FOLLOW UP (G4 result from Oct 27)
+- **Angle:** Ben Williamson walk-off single, two-run 12th inning rally. Cooper Pratt HR had given Brewers lead. 5th team ever to win G4 down 3-0 in WS. Series: Brewers 3-1.
+- **Content Produced:** Article (article-02, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** G5 result
+
+### Story 3: Jackson Chourio WS Stats — .500 at Age 22
+- **Date:** 2026-10-28
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Chourio covered G3)
+- **Angle:** Batting .500 (10-for-20) through 4 WS games. Multi-hit in every Brewers win. Youngest player since Joe Garagiola 1946 to collect 4 WS hits in a game. MVP frontrunner.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** WS MVP voting after series ends
+
+### Story 4: Misiorowski G5 Starter — Seeking Clinching Win
+- **Date:** 2026-10-28
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Misiorowski covered G1, G3)
+- **Angle:** Led MLB ERA (1.80) + K (252), postseason ERA under 1.00, 103.5 mph WS Statcast record from G1. Gets ball with chance to clinch first franchise title.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** G5 result, WS MVP vote
+
+### Story 5: Early Hot Stove Storylines
+- **Date:** 2026-10-28
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Skubal record AAV contract expected, CBA/lockout possible per Rosenthal, Woodruff shoulder timeline, offseason market opening.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** Skubal signing, CBA developments
+
+---
+
 ## Pipeline Run: 2026-10-24
 
 ### Story 1: WS Game 1 Recap — Brewers 3, Rays 2
