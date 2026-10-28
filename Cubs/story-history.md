@@ -9101,3 +9101,49 @@ Each day's stories are appended at the top (newest first).
   - Mathis stat line or standout performance → follow-up
   - AFL ends Nov 14 → final prospect wrap-up
   - Mathis 2027 assignment decision (spring training)
+
+## 2026-10-28
+
+### STORY 1: World Series Game 5 Tonight — Brewers on the Brink
+- **Angle:** FOLLOW UP (WS Games 1-4 recap; today = Game 5 tonight, Brewers lead 3-1, Rays only 5th team ever to force G5 from 3-0 deficit; Ben Williamson walk-off in 12th; Misiorowski starts 7 PM CT on FOX; Cubs-fan rival-watch framing; per allcaps_lead WINNER + not_statement WINNER, opened "GAME 5. TONIGHT.")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, rival watch)
+- **Follow-Up Opportunities:**
+  - WS result tonight (Brewers win = first title in franchise history)
+  - Brewers WS champions → offseason urgency motivation tweet
+  - Game 6/7 if Rays force them
+
+### STORY 2: Michael King — The Opt-Out Clock
+- **Angle:** FOLLOW UP (Oct 17: King countdown; Oct 23: tick-tock; today = WS Game 5 tonight, when WS ends the 5-day opt-out window starts; King 3.00/10-9/4.1 bWAR; MLB 2nd-best SP per Feinsand; per allcaps_lead WINNER + not_statement WINNER, opened "MICHAEL KING.")
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, bold take/urgency)
+- **Follow-Up Opportunities:**
+  - King opts out officially → Tier 1 breaking news
+  - King stays in San Diego → Cubs pivot plan
+  - King signs with Cubs → celebration Tier 1
+
+### STORY 3: Seiya Suzuki — Qualifying Offer Incoming
+- **Angle:** FOLLOW UP (Oct 17: QO imminent; today = QO expected this week, $23.15M; Suzuki declines; Blue Jays at $130M+; career-best 5.1 WAR in 2026; per allcaps_lead WINNER + not_statement WINNER, opened "FIVE SEASONS.")
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, informative/offseason news)
+- **Follow-Up Opportunities:**
+  - Suzuki officially declines QO → Tier 1 breaking news
+  - Suzuki signs with Blue Jays (or elsewhere) → farewell/reaction tweet
+  - Cubs comp pick round confirmed
+
+### STORY 4: Pete Crow-Armstrong — All 38 Votes
+- **Angle:** FOLLOW UP (Oct 23: PCA MVP + WS framing; today = all 38 first-place votes in final MLB.com poll, 190 pts; 45 HR/40 SB/MLB-best WAR; BBWAA November; per allcaps_lead WINNER + not_statement WINNER, opened "UNANIMOUS.")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, bold take/milestone)
+- **Follow-Up Opportunities:**
+  - BBWAA NL MVP officially announced (early November) → celebration Tier 1
+  - PCA unanimous vs split vote angle (if it becomes a storyline)
+
+### STORY 5: Teruaki Sato — Cubs at the Table
+- **Angle:** FOLLOW UP (Oct 23: first mention of Sato posting; today = follow-up on official posting + Cubs scouting angle + massive suitor competition; .306/.383/.609, 39 HR, NPB Triple Crown; Yankees/Dodgers/Mets/Phillies all in; market mid-November; per allcaps_lead WINNER + not_statement WINNER, opened "THE NEXT TARGET.")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, roster news/analysis)
+- **Follow-Up Opportunities:**
+  - Cubs formally submit Sato bid → Tier 1
+  - Sato signs with large-market club → Cubs miss out, pivot angle
+  - Sato 45-day window closing → update if no news

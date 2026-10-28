@@ -1,21 +1,23 @@
-# Cubs Pipeline Status — Updated 2026-10-27
+# Cubs Pipeline Status — Updated 2026-10-28
 
 ## Latest Run
-- **Date:** 2026-10-27 (Tuesday — Off day. WS: Brewers 10-1 in Game 3 (Oct 26), lead 3-0. Game 4 TONIGHT at Tropicana 7 PM CT. Brewers can win first-ever WS title. King opt-out clock opens tomorrow if Brewers win. Imanaga QO imminent. Gold Gloves 5 days. Suzuki $130M+ market. AFL Reid debut.)
-- **Stories:** 6
-- **X posts:** 6
+- **Date:** 2026-10-28 (Wednesday — Off day. WS: Brewers lead 3-1, Game 5 TONIGHT at Tropicana 7 PM CT (Misiorowski starts). Rays only 5th team to force G5 from 3-0 deficit via Ben Williamson walk-off in 12th. King opt-out window opens when WS ends. Suzuki QO imminent. PCA all 38 MVP poll votes. Sato posting official. Cubs at the table for both.)
+- **Stories:** 5
+- **X posts:** 5
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
-- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 6 stories, 6 tweets
-- **07-content-data.json:** ✅ Valid JSON, all 6 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 10:45 AM / 12:00 PM / 2:30 PM CT), all strptime-parseable
+- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 5 stories, 5 tweets
+- **07-content-data.json:** ✅ Valid JSON, all 5 posts with posting_time (7:00 AM / 9:30 AM / 12:00 PM / 2:30 PM / 3:45 PM CT), all strptime-parseable
 - **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
-- **Note:** Insights: 0 significant findings (91 measured tweets, no contrast cleared all 3 gates) — brand-voice defaults used. Yesterday's allcaps_lead finding did NOT clear today's gates. WS Game 3 result FOLLOW UP (10-1). King opt-out clock imminent. Gold Gloves 5-day countdown FOLLOW UP (new analytics angle). Imanaga QO imminent FOLLOW UP (clock opens tomorrow if Brewers win). Suzuki FA market FOLLOW UP (new detail: Blue Jays). AFL Reid debut NEW spotlight (was Snell-headlined prior days).
+- **Note:** 2 significant insights applied: allcaps_lead WINNER (delta=0.302) + not_statement WINNER (delta=0.269). All 5 tweets use ALL CAPS openers that are non-statement fragments. Off day — WS G5 rival watch anchor + 4 offseason stories. King opt-out imminent. Suzuki QO this week. PCA unanimous in final poll. Sato posting official.
 
-## Insights Summary (2026-10-27 run — from 2026-10-27T08:30 UTC snapshot)
-- **Generated:** 2026-10-27T08:30:00 UTC
-- **Measured tweet count:** 91
-- **Significant findings:** 0
-- **Note:** "No contrasts cleared all three gates (n≥8 per group, p<0.05, |Cliff's delta|≥0.20). Either too little data or no format/time differences are large enough yet."
+## Insights Summary (2026-10-28 run — from 2026-10-28T08:30 UTC snapshot)
+- **Generated:** 2026-10-28T08:30:00 UTC
+- **Measured tweet count:** 92
+- **Significant findings:** 2
+  1. `opening=allcaps_lead` winner=True, delta=0.302 (small), p=0.0129 — ALL CAPS leads outperform
+  2. `opening=statement` winner=False, delta=0.269 (small), p=0.0265 — non-statement openers outperform
+- **Action:** All 5 tweets lead with ALL CAPS non-statement openers. First time both findings are significant together (prior days had 0 findings).
 - **Action:** Fell through to brand-voice defaults. No format adjustments made.
 
 ## Series Context (2026-10-27)
