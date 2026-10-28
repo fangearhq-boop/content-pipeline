@@ -1,0 +1,262 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-28",
+  "compiled_at": "2026-10-28T10:16:33.550057+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Florida Goes 4-0 in Fall After USF Win",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Florida softball beat USF 11-3 Tuesday night.\n\nThe Gators are now 4-0 this fall, outscoring opponents by more than 65 runs across four games.\n\nSophia Edwards. Six returning starters. The most dominant fall in the country.\n\n2027 is going to be something. #GatorSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GatorSoftball"
+          ],
+          "char_count": 268
+        },
+        {
+          "label": "Post 1-2",
+          "text": "20-0. 29-1. Win over UNF. 11-3 over USF.\n\nFlorida softball is 4-0 in fall ball and running out of opponents willing to keep the score close.\n\nIf you're not watching the Gators, start now. #GatorSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GatorSoftball"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-florida-4-0-usf-win.html",
+        "headline": "Florida Softball Goes 4-0 in Fall With 11-3 Victory Over South Florida",
+        "word_count": 639
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Florida 4-0 Fall\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** gemini — mode: complete\n- **Prompt:** \"Softball player swinging hard at a pitch under stadium lights at night, orange and blue uniform, warm golden glow on field, dynamic action freeze frame, bold white text overlay reading '4-0 FALL BALL' with smaller text '#GatorSoftball', dark background edges, high contrast sports photography style\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** gemini — mode: complete\n- **Prompt:** \"Wide-angle view of a college softball stadium at dusk with fans in the stands, orange and blue color theme, Florida Gators atmosphere, soft warm light on the infield grass, hero banner style with text overlay area on left side reading 'FALL DOMINANCE: Florida Goes 4-0' in bold white text, professional sports editorial feel\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Florida 4-0 Fall — Beat USF 11-3\n**Sources:** The Independent Florida Alligator, WRUF 98.1 FM\n**Verified Facts (HIGH confidence):**\n- Florida beat South Florida 11-3 on Oct. 27 at Katie Seashole Pressly Stadium [ALLIGATOR]\n- Florida is now 4-0 in fall play [ALLIGATOR]\n- Gators beat Santa Fe College 20-0, Carson-Newman 29-1 in first two fall games [WRUF/ALLIGATOR]\n- Sophia Edwards (transfer from LSU) hit home runs this fall — 3 HR total confirmed [WRUF]\n- At least six starters return from the 2026 roster [WRUF]\n- Game was free admission [WRUF]\n**Cumulative run differential:** 73-9 (20-0, 29-1, + prior game + 11-3 USF)\nNote: total is approximate since exact UNF game score not confirmed. Use \"73-9 across four fall games\" only if confirmed. Use \"outscored opponents by more than 65 runs\" as a safer phrasing.\n**MEDIUM confidence:**\n- Caroline Stanton (2026 top recruit per Softball America) enrolled early and is redshirting [SI]\n- Florida's class ranked No. 2 nationally by both Softball America and D1Softball [SI]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Tennessee Intersquad TOMORROW — Free, 5 PM ET",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "TOMORROW is your last chance.\n\nTennessee softball's public intersquad: Thursday, Oct. 29 at 5 PM ET at Sherri Parker Lee Stadium.\n\nFREE admission. Watch Pickens, Mardjetko, and Shelton pitch before the winter.\n\nDon't miss it. #VolSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#VolSoftball"
+          ],
+          "char_count": 238
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Karlyn Pickens (194 K, 1.70 ERA).\nKelly Mardjetko (16-3, 1.26 ERA).\nBailee Shelton (7 K in 3 fall innings as a freshman).\n\nYou can see all three pitch for FREE tomorrow.\n\nTennessee. Oct. 29. 5 PM ET. Sherri Parker Lee Stadium. #VolSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#VolSoftball"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-tennessee-intersquad-tomorrow.html",
+        "headline": "Tennessee Softball's Free Public Intersquad Is Tomorrow — Here's Why You Should Go",
+        "word_count": 469
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tennessee Intersquad TOMORROW\n\n#### Image Concept 3 — Social (1080x1350)\n- **Type:** gemini — mode: complete\n- **Prompt:** \"College softball pitcher in a wind-up delivering a pitch in an indoor stadium, orange and white uniform, Tennessee Lady Vols feel, dramatic spotlight lighting, bold text overlay 'FREE TOMORROW' at top and 'TENNESSEE INTERSQUAD | Oct. 29 | 5 PM ET' at bottom, dark moody background, action sports poster style\"\n\n#### Image Concept 4 — Article Hero (1200x630)\n- **Type:** gemini — mode: complete\n- **Prompt:** \"Three softball pitchers warming up in bullpen side by side at a college stadium at evening, orange and white uniforms, Knoxville Tennessee feel, text overlay on right side reading 'Last Look Before Spring — Lady Vols Intersquad Oct. 29' in clean white sans-serif font, panoramic stadium lights in background, editorial sports banner style\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tennessee Intersquad — Oct. 29, 5 PM ET\n**Sources:** UT Daily Beacon, Yahoo Sports (Tennessee game story)\n**Verified Facts (HIGH confidence):**\n- Public intersquad at Sherri Parker Lee Stadium, Thursday Oct. 29, 5 PM ET [UT Daily Beacon]\n- Admission is free [UT Daily Beacon / utsports.com]\n- This is the final public event of Tennessee's fall [UT Daily Beacon]\n- Karlyn Pickens: 194 K, 1.70 ERA in 2026 [prior pipeline verification]\n- Kelly Mardjetko: 16-3 record, 1.26 ERA in 2026 [prior pipeline verification]\n- Bailee Shelton: freshman, threw 3 IP, 7 K in fall finale vs Lee University [prior pipeline verification]\n- Tennessee finished 3-0 in fall vs outside competition, beat Lee University 14-1 [prior pipeline]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "OU Hosts Seminole State Oct. 30 — Fall Finale",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Two days.\n\nOklahoma softball hosts Seminole State at Love's Field Thursday at 6:30 PM CT — last fall game before spring. Free on 1oklahoma.com.\n\nKendall Wells (39 HR) and Rylie Kavan (2x WCWS MOP) in their final fall tuneup. #Sooners",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-ou-seminole-state-oct30.html",
+        "headline": "Oklahoma Softball's Fall Finale Is Thursday: Last Look at Wells, Kavan Before Spring",
+        "word_count": 431
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "OU vs Seminole State Oct. 30\n\n#### Image Concept 5 — Social (1080x1350)\n- **Type:** gemini — mode: complete\n- **Prompt:** \"College softball hitter crushing a home run at Love's Field in Norman, crimson and cream Oklahoma Sooners uniform, crowd in stands at twilight, ball at peak of arc above outfield wall, bold text overlay 'FALL FINALE | Oct. 30 | 6:30 PM CT' with '#Sooners' hashtag, night game dramatic lighting, action sports poster\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Oklahoma vs Seminole State — Oct. 30\n**Sources:** SoonerSports.com, prior pipeline\n**Verified Facts (HIGH confidence):**\n- Oklahoma vs Seminole State: Thursday, Oct. 30, 6:30 PM CT, Love's Field, Norman [SoonerSports.com]\n- Free admission, also streaming on 1oklahoma.com [SoonerSports.com]\n- Kendall Wells: 39 HR, NFCA Freshman of the Year 2026 [prior pipeline]\n- Rylie Kavan: 2x WCWS Most Outstanding Player [prior pipeline]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Arizona Fall Final Weekend — Oct. 30-31 at Hillenbrand",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Arizona softball closes out fall this weekend at Hillenbrand Stadium.\n\nOct. 30: Chandler-Gilbert + Benedictine Mesa.\nOct. 31: Grand Canyon, noon.\n\nBig 12 DPOY Devyn Shockey leads 10 returning letterwinners. Caitlin Lowe's Wildcats are building. #BearDown",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BearDown"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-arizona-fall-final-weekend.html",
+        "headline": "Arizona Softball Closes Fall With Three Games at Hillenbrand This Weekend",
+        "word_count": 422
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Arizona Fall Final Weekend\n\n#### Image Concept 6 — Social (1080x1350)\n- **Type:** gemini — mode: complete\n- **Prompt:** \"Wide infield view of Hillenbrand Stadium at sunset, Arizona red and navy color scheme, warm desert evening sky with orange and pink hues, text overlay 'FINAL FALL WEEKEND | Oct. 30-31 | Hillenbrand Stadium' in white bold text, players loosening up in background, clean editorial banner design\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Arizona Fall Final Weekend — Oct. 30-31\n**Sources:** Arizona Wildcats official athletics, Yahoo Sports\n**Verified Facts (HIGH confidence):**\n- Oct. 30 doubleheader: Chandler-Gilbert CC at 5:30 PM, Benedictine Mesa at 7:30 PM [arizonawildcats.com]\n- Oct. 31: Grand Canyon University at noon [arizonawildcats.com]\n- All games at Hillenbrand Stadium, Tucson [arizonawildcats.com]\n- Devyn Shockey: Big 12 Defensive Player of the Year 2026 [prior pipeline]\n- 10 letterwinners returning [prior pipeline]\n- Head coach: Caitlin Lowe [prior pipeline]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "NCAA 5-for-5 Eligibility Rule Prompting 2027 Decommitments",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The NCAA's new age-based eligibility rule is changing college softball recruiting.\n\n2027 commits are decommitting. Programs are rescinding offers. A federal lawsuit is already filed.\n\nIf you're in the recruiting world right now, this rule affects everything. #SoftballRecruiting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SoftballRecruiting"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-ncaa-eligibility-rule-recruiting.html",
+        "headline": "NCAA's New 5-for-5 Eligibility Rule Is Reshaping College Softball Recruiting",
+        "word_count": 579
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NCAA 5-for-5 Eligibility Rule\n\n#### Image Concept 7 — Social (1080x1350)\n- **Type:** gemini — mode: complete\n- **Prompt:** \"Overhead bird's-eye view of a softball field, clean green grass geometric diamond, a diploma and a softball placed at home plate symbolizing eligibility rules, text overlay reading 'ELIGIBILITY RULES CHANGED — What It Means for Softball Recruiting' in bold white text on dark background bar at bottom, clean graphic informational design style\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NCAA 5-for-5 Eligibility Rule\n**Sources:** The IX Sports, Extra Inning Softball, Sports Illustrated (Softball on SI), Yahoo Sports (first search)\n**Verified Facts (HIGH confidence):**\n- NCAA Division I Cabinet passed new age-based eligibility rule June 24, 2026 [IX Sports, SI]\n- New model: five years to compete in five full seasons (replaces four seasons in five years) [IX Sports]\n- Eleven athletes filed federal class action lawsuit against the new rules [Yahoo Sports first search]\n- A handful of 2027 softball recruits have started to decommit following the rule [SI Oct 26 piece]\n- Memphis reportedly pulled offers from multiple 2027 high school commits after rule passed [SI]\n**MEDIUM confidence:**\n- Ohio governor issued order telling schools to ignore the rule; NCAA filed lawsuit against Ohio governor [Yahoo first search — specific lawsuit details unverified from primary source]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

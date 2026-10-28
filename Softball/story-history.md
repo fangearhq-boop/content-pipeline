@@ -3,6 +3,59 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## Pipeline Run: 2026-10-28
+
+### Story 1: Florida Goes 4-0 Fall After USF Win
+- **Date:** 2026-10-28
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Florida fall covered Oct 21-27)
+- **Angle:** Florida beat USF 11-3 on Oct. 27 to go 4-0 in fall play. Gators outscored opponents by 65+ runs. Sophia Edwards 3 HR. Six returning starters. No. 2 recruiting class. Most dominant fall in the country heading into 2027.
+- **Content Produced:** Article (article-01, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - 2027 preseason rankings (December)
+  - Spring schedule release
+
+### Story 2: Tennessee Final Public Intersquad — Oct. 29
+- **Date:** 2026-10-28
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Tennessee fall covered throughout fall; Oct 29 event preview)
+- **Angle:** Final public event before winter. Free at Sherri Parker Lee Stadium, Oct. 29, 5 PM ET. Pickens (194 K, 1.70 ERA), Mardjetko (16-3, 1.26 ERA), freshman Shelton (7 K in 3 IP). SEC's deepest pitching staff.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Oct 29 intersquad recap
+  - 2027 preseason outlook
+
+### Story 3: Oklahoma vs Seminole State Oct. 30 Fall Finale
+- **Date:** 2026-10-28
+- **Tier:** 2
+- **Classification:** FOLLOW UP (OU fall covered Oct 14-27)
+- **Angle:** Two days until Oklahoma's final fall game. Love's Field, Oct. 30, 6:30 PM CT, free/1oklahoma.com. Wells 39 HR, Kavan 2x WCWS MOP, Berzon. Top-3 national title contenders.
+- **Content Produced:** Article (article-03, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Oct 30 game result/recap
+
+### Story 4: Arizona Fall Final Weekend Oct. 30-31
+- **Date:** 2026-10-28
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Arizona fall covered Oct 25-27)
+- **Angle:** Arizona closes fall with three games at Hillenbrand Stadium (Chandler-Gilbert, Benedictine Mesa, Grand Canyon). Shockey (Big 12 DPOY) leads 10 returners. Caitlin Lowe final evaluation.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Fall wrap results
+  - Arizona Big 12 2027 preview
+
+### Story 5: NCAA 5-for-5 Eligibility Rule Causing 2027 Decommitments
+- **Date:** 2026-10-28
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** NCAA age-based eligibility rule (passed June 2026) causing 2027 recruits to decommit. Memphis pulled offers from multiple commits. Eleven athletes filed federal class action lawsuit. Impact on softball scholarship math.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Lawsuit developments
+  - Early signing period impact (November)
+
+---
+
 ## Pipeline Run: 2026-10-24
 
 ### Story 1: Tennessee Fall Finale — 14-1 Win Over Lee University
