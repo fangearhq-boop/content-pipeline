@@ -246,3 +246,40 @@
 - **Key facts:** Race Nov 1; practice Oct 30; Autodromo Hermanos Rodriguez; Antonelli P9 or better clinches; 5 races remain; Cup/season calendar note
 - **Byline:** Marcus Cole
 - **Status:** NEW
+
+## 2026-10-28
+
+### STORY 1: Antonelli Two Points from F1 Title at Mexico City GP
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / F1 Championship / Mexico City GP
+- **Key facts:** Antonelli 365 pts, Russell 242 pts (123 pt gap); needs P9 or better to clinch outright; P10 clinches if neither Russell nor Hamilton wins; won COTA last weekend; Mexico City GP Oct 30 - Nov 1
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: Perez 300th F1 Start at Home Race in Mexico
+- **Tier:** 1
+- **Category:** Sergio Pérez / Cadillac / Mexico City GP / Milestone
+- **Key facts:** 300th GP start at home race; Autodromo Hermanos Rodriguez; dismissed retirement talk; said fully motivated; iconic milestone
+- **Byline:** Elena Voss
+- **Status:** NEW
+
+### STORY 3: Eight Teams Field Rookies in FP1 — Verstappen, Russell Sit Out
+- **Tier:** 2
+- **Category:** FP1 / Ayumu Iwasa / Frederik Vesti / Gabriele Mini / Colton Herta / Mexico City GP
+- **Key facts:** 8 of 10 teams giving rookies FP1 seats; Iwasa for Verstappen (Red Bull); Vesti for Russell (Mercedes); Mini for Colapinto (Alpine, 3rd rookie FP1); Herta for Cadillac (super license attempt)
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 4: Colton Herta Super License — Mexico FP1 Last Chance
+- **Tier:** 2
+- **Category:** Colton Herta / Cadillac / Super License
+- **Key facts:** Needs 100 km (24 laps) without penalty in FP1 to earn final super license point; missed at Monza September 2026 due to hydraulic failure; Mexico is last chance this season; 2027 F1 seat depends on it
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: Mexico City GP Preview — Altitude, Strategy, Día de Muertos
+- **Tier:** 2
+- **Category:** Mexico City GP / Circuit Preview / Strategy
+- **Key facts:** Race Oct 30 - Nov 1; 2,240m altitude; thin air reduces aero downforce and engine efficiency; coincides with Día de Muertos; stadium section atmosphere; strategy differences vs European circuits
+- **Byline:** Elena Voss
+- **Status:** NEW
