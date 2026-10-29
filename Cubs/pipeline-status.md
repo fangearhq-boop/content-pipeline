@@ -1,7 +1,7 @@
-# Cubs Pipeline Status — Updated 2026-10-27
+# Cubs Pipeline Status — Updated 2026-10-29
 
 ## Latest Run
-- **Date:** 2026-10-27 (Tuesday — Off day. WS: Brewers 10-1 in Game 3 (Oct 26), lead 3-0. Game 4 TONIGHT at Tropicana 7 PM CT. Brewers can win first-ever WS title. King opt-out clock opens tomorrow if Brewers win. Imanaga QO imminent. Gold Gloves 5 days. Suzuki $130M+ market. AFL Reid debut.)
+- **Date:** 2026-10-29 (Thursday — Off day. WS: BREWERS WON WORLD SERIES — 4-1 over Rays in Game 5 (Oct 28). First title in franchise history. King opt-out clock NOW RUNNING. Imanaga + Suzuki QO windows open. Gold Gloves Nov 1. AFL Week 5.)
 - **Stories:** 6
 - **X posts:** 6
 - **Platforms:** X/Twitter only
@@ -9,7 +9,15 @@
 - **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 6 stories, 6 tweets
 - **07-content-data.json:** ✅ Valid JSON, all 6 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 10:45 AM / 12:00 PM / 2:30 PM CT), all strptime-parseable
 - **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
-- **Note:** Insights: 0 significant findings (91 measured tweets, no contrast cleared all 3 gates) — brand-voice defaults used. Yesterday's allcaps_lead finding did NOT clear today's gates. WS Game 3 result FOLLOW UP (10-1). King opt-out clock imminent. Gold Gloves 5-day countdown FOLLOW UP (new analytics angle). Imanaga QO imminent FOLLOW UP (clock opens tomorrow if Brewers win). Suzuki FA market FOLLOW UP (new detail: Blue Jays). AFL Reid debut NEW spotlight (was Snell-headlined prior days).
+- **Note:** 2 significant insights applied: allcaps_lead WINNER (delta=0.287, p=0.0216) + not_statement WINNER (delta=0.277, p=0.0264). All 6 tweets lead with ALL CAPS non-statement fragment openers. Off day — Brewers WS WIN anchor (division rival champion, 4-1 Game 5) + King opt-out clock running + Imanaga QO window open + Gold Gloves 3 days + Suzuki QO + AFL Week 5.
+
+## Insights Summary (2026-10-29 run — from 2026-10-29T08:30 UTC snapshot)
+- **Generated:** 2026-10-29T08:30:00 UTC
+- **Measured tweet count:** 87
+- **Significant findings:** 2
+  1. `opening=allcaps_lead` winner=True, delta=0.287 (small), p=0.0216 — ALL CAPS leads outperform
+  2. `opening=statement` winner=False, delta=0.277 (small), p=0.0264 — non-statement openers outperform
+- **Action:** All 6 tweets lead with ALL CAPS non-statement openers. Both findings significant together for second consecutive run.
 
 ## Insights Summary (2026-10-27 run — from 2026-10-27T08:30 UTC snapshot)
 - **Generated:** 2026-10-27T08:30:00 UTC
@@ -93,12 +101,13 @@
 - **2026 season:** OVER. Cubs eliminated by Padres in NL Wild Card Series (swept 2-0, Oct 1)
 - **Final record:** 89-73 (NL Wild Card No. 2)
 - **Postseason:** Lost WCS Game 1 (8-0), Game 2 (4-1). 1 run in 18 innings total.
-- **Now:** Early offseason. WS: Brewers vs. Rays, Game 1 Oct 23 Milwaukee. QO window opens ~5 days after WS ends (~Nov 2).
+- **Now:** Early offseason. WS: OVER — Brewers won 4-1 in Game 5 (Oct 28). QO window OPEN — Cubs have 7 days to issue QOs (Imanaga + Suzuki). King opt-out window open. Gold Gloves Nov 1.
 
 ## Pipeline Run Log (newest first)
 
 | Date | Type | Stories | Tweets | Status |
 |------|------|---------|--------|--------|
+| 2026-10-29 | OFF DAY (Brewers WS WIN rival reaction, King opt-out clock running, Imanaga QO window open, Gold Gloves 3 days, Suzuki QO decision, AFL Week 5 Snell/Cabral/Reid) | 6 | 6 | ✅ |
 | 2026-10-25 | OFF DAY (WS Game 2 Brewers 5-4 Rays rival watch, PCA Sporting News POY NEW, Fielding Bible sweep NEW, King opt-out clock FOLLOW UP, Kanzler Mariners candidate NEW, Gold Glove 7 days FOLLOW UP, AFL Snell breakout FOLLOW UP) | 7 | 7 | ✅ |
 | 2026-10-23 | OFF DAY (WS Game 1 tonight Brewers/Rays rival watch, Sato 45-day window follow-up, King opt-out clock, PCA MVP bold take, AFL Mathis/Mesa focus) | 5 | 5 | ✅ |
 | 2026-10-22 | OFF DAY (CBA lockout countdown Dec 1, WS Game 1 tomorrow Brewers/Rays, Gold Glove sweep PCA 26 OAA, Mallee Mets interest, Kirby trade target BR, AFL Mesa Cabral 101 mph) | 6 | 6 | ✅ |

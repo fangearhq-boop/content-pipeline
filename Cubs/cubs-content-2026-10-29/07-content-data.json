@@ -1,0 +1,241 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-29",
+  "compiled_at": "2026-10-29T09:19:49.437195+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Brewers Win WS — Division rival is champion",
+      "type": "1"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "King opt-out clock running",
+      "type": "1"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Imanaga QO window open",
+      "type": "2"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Gold Gloves 3 days — historic sweep chance",
+      "type": "2"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Suzuki QO: $23.15M decision looming",
+      "type": "2"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "AFL Week 5 — Snell/Cabral/Reid",
+      "type": "3"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Brewers Win First World Series Title — Division Rival Is Champion",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "WS Game 5 result (Oct 28): Brewers 4, Rays 1. Milwaukee wins first title in franchise history. Cubs' division rival is now World Champion — Cubs haven't won since 2016.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "DIVISION. RIVALS. WORLD CHAMPIONS.\n\nMilwaukee won its first title in franchise history last night — 4-1 over Tampa in Game 5. The Brewers are World Champions.\n\nThe Cubs haven't won a ring since 2016. Division standard just got reset.\n\n#Cubs #MLB #GoCubs",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "X Text Post",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#GoCubs"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Brewers Win First World Series Title — Division Rival Is Champion\n**Decision:** FOLLOW UP — WS Game 5 preview covered Oct 28. Today = result (Brewers won 4-1).\n**Sources:**\n1. CBS Sports — \"Brewers win 2026 World Series\" — Oct 28, 2026 ✓\nhttps://www.cbssports.com/mlb/news/world-series-game-5-score-live-updates-brewers-rays/live/\n2. NBC Sports — \"Brewers earn first World Series title...4-1 win over Rays in Game 5\" — Oct 28, 2026 ✓\nhttps://www.nbcsports.com/mlb/news/brewers-earn-first-world-series-title-in-franchise-history-with-4-1-win-over-rays-in-game-5\n3. ESPN — \"Brewers close out Rays in Game 5 for 1st World Series title\" — Oct 28, 2026 ✓\nhttps://www.espn.com/mlb/story/_/id/50314006/brewers-rays-game-5-first-world-series-title\n4. MLB.com — \"Brewers beat Rays in Game 5 to win first World Series\" — Oct 28, 2026 ✓\nhttps://www.mlb.com/news/brewers-beat-rays-game-5-win-2026-world-series\n5. Bleacher Report — Final box score and highlights — Oct 28, 2026 ✓\nhttps://bleacherreport.com/articles/25526746-brewers-win-1st-mlb-world-series-final-box-score-stats-highlights-2026-game-5-vs-rays\n**Key Facts (HIGH confidence — 5+ independent sources):**\n- Final score: Brewers 4, Rays 1 ✅ VERIFIED\n- Game 5 at Tropicana Field ✅ VERIFIED\n- Brewers win series 4-1 (in 5 games) ✅ VERIFIED\n- First World Series championship in Brewers franchise history ✅ VERIFIED\n**Key Facts (LOW confidence — AI summary only, needs verification):**\n- Jacob Misiorowski pitched 5 2/3 scoreless innings (calf cramp) — not used in tweet\n- Cooper Pratt drove in early runs — not used in tweet\n- William Contreras: WS MVP, .381, 4 RBIs — LOW confidence, mentioned in tweet as \"reported WS MVP\" language avoided; tweet only says division rival won\n**Freshness:** Story broke Oct 28 — 100% fresh for Oct 29. ✅\n**Why it matters:** The Brewers are the Cubs' primary NL Central rival. Their winning the World Series is a watershed division moment. It also officially opens the Cubs' offseason (QO windows, opt-out clocks, etc.).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Michael King Opt-Out Clock Is Now Running",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "WS ended → King's opt-out window officially open. Padres RHP, 3yr/$75M (Dec 2025). Has 5 days to decide. Market: ~$90M. Cubs need No. 1 starter.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "KING'S CLOCK. NOW TICKING.\n\nWorld Series over → Michael King's opt-out window is officially open. Padres RHP, 3yr/$75M. He can leave for ~$90M on the open market — and the Cubs need a No. 1 starter badly.\n\nDays, not months. Make the call.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "X Text Post",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Michael King Opt-Out Clock Is Now Running\n**Decision:** FOLLOW UP — covered Oct 20, 23, 25, 27, 28. New escalation: WS ended → clock officially running.\n**Sources:**\n1. Field Level Media (Oct 2026) — King opt-out reports:\nhttps://fieldlevelmedia.com/?p=496082\n2. Gaslamp Ball — \"Michael King opts out — MLBPA announces free agents\"\nhttps://www.gaslampball.com/san-diego-padres-analysis-commentary/51286/michael-king-opts-out-mlbpa-announces-free-agents\n3. Audacy/KSON — \"Michael King becomes free agent after opting out\"\nhttps://www.audacy.com/kson/sports/san-diego-padres/michael-king-becomes-free-agent-after-opting-out-of-contract\n4. MDJ Online — \"Reports: RHPs Michael King, Robert Suarez opt out of Padres' deals\"\nhttps://www.mdjonline.com/sports/wire/reports-rhps-michael-king-robert-suarez-opt-out-of-padres-deals/article_3802f6b0-eb88-5e43-9bd7-9ee292fea870.html\n**Note on sources 2-4:** These may reflect the opt-out HAVING already happened (post-WS), or could be future projections. The AI search summary noted \"no confirmed decision yet\" as of the latest search, but sources 2-4 describe an opt-out as news. Treating as opt-out being widely anticipated/imminent and possibly already reported. Tone in tweet: \"clock is running\" not \"King has opted out.\"\n**Key Facts (MEDIUM confidence):**\n- King's contract: 3 years, $75M (signed Dec 2025 with Padres) ✅ VERIFIED from prior sources\n- Opt-out clause after Year 1 (post-2026 season) ✅ VERIFIED\n- $28M 2027 salary if stays; $5M buyout if opts out ✅ MEDIUM\n- Market projection: ~$90M for new deal — MEDIUM (projected by SI/Gaslamp Ball)\n- Cubs need multiple starting pitchers — established context ✅\n**Freshness:** WS ended Oct 28 → clock running as of today Oct 29. Fresh escalation. ✅\n**Why it matters:** King viewed as No. 2 FA starter (behind Skubal). Cubs desperately need rotation help.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Imanaga QO Window Opens — Cubs' Key Decision This Week",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "WS ended → Cubs have 7 days to issue $23.15M QO to Imanaga. Both sides declined options. Best pitcher on staff. Decision this week.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "IMANAGA QO WINDOW: OPEN.\n\nWorld Series ended → Cubs have 7 days to issue Shota Imanaga a $23.15M qualifying offer. Both sides declined their options. He's their best starter and hits free agency now.\n\nIssue the QO. Then fight like hell to keep him.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "X Text Post",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Imanaga QO Window Opens — Cubs' Key Decision This Week\n**Decision:** FOLLOW UP — covered Oct 24, 26, 27, 28. New escalation: WS ended → QO window officially open.\n**Sources:**\n1. Bleacher Nation (Oct 8, 2026) — \"$23.15M QO number confirmed for post-2026 FAs\"\nhttps://www.bleachernation.com/cubs/2026/10/08/the-qualifying-offer-number-for-post-2026-free-agents-is-out/\n2. Roundtable (Oct 16, 2026) — \"Cubs expected to extend QO to Suzuki\" (same QO number applies to all)\nhttps://roundtable.io/sports/mlb/cubs/news/cubs-expected-to-extend-qualifying-offer-to-seiya-suzuki\n3. Hoyer quote (from story history Oct 26): \"still hope to retain him\"\n4. MLB.com backgrounder on Imanaga's 2026 contract structure (prior pipeline)\n**Key Facts:**\n- Imanaga 2026: 11-10, 3.77 ERA, 32 starts — MEDIUM (from established pipeline history)\n- Both sides declined options (Cubs and Imanaga) — ✅ from prior pipeline (credible)\n- QO amount: $23.15M — MEDIUM (Bleacher Nation article)\n- Window: 7 days after WS end to issue QO — Standard MLB rule ✅\n- Players have until a week to decide after receiving QO — Standard MLB rule ✅\n**Freshness:** WS ended Oct 28 → window open TODAY. Fresh escalation. ✅\n**Why it matters:** Imanaga is the Cubs' best pitcher and a key retention decision. The QO is their primary mechanism to keep him or earn draft compensation.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Gold Gloves 3 Days Away — Historic Cubs Sweep on the Line",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "5 Cubs GG finalists; Nov 1 on ESPN at 8:30 PM ET. Historic: no team has EVER swept all 3 outfield GGs (PCA+Happ+Suzuki possible). Bregman won Fielding Bible.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "GOLD GLOVE SUNDAY IS 3 DAYS AWAY.\n\nFive Cubs chasing hardware: PCA, Happ, Suzuki, Bregman, Swanson. Nov. 1 on ESPN — 8:30 PM ET.\n\nIf PCA, Happ, AND Suzuki all win? First team in MLB history to sweep all three outfield Gold Gloves. 🥇\n\n#Cubs #MLB #GoCubs",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "X Text Post",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#GoCubs"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Gold Gloves 3 Days Away — Historic Cubs Sweep on the Line\n**Decision:** FOLLOW UP — covered Oct 16, 22, 24, 25, 26, 27. Fresh angle: now just 3 days away; offseason now officially open.\n**Sources:**\n1. Roundtable (Oct 14, 2026) — 5 Cubs GG finalists confirmed\nhttps://roundtable.io/sports/mlb/cubs/news/cubs-lead-national-league-with-5-gold-gold-finalists\n2. MLB.com — \"Could Cubs become 1st to sweep outfield Gold Gloves?\"\nhttps://www.mlb.com/news/can-cubs-sweep-all-3-outfield-gold-gloves\n3. Roundtable (Oct 17, 2026) — Likelihood analysis\nhttps://roundtable.io/sports/mlb/cubs/opinion/likelihood-each-cubs-gold-glove-finalist-wins\n**Key Facts (HIGH confidence):**\n- 5 Cubs finalists: PCA (CF), Happ (LF), Suzuki (RF), Bregman (3B), Swanson (SS) ✅ VERIFIED\n- Announcement: Nov 1 on ESPN — from established prior pipeline (Oct 14 announcement) ✅\n- No team has ever swept all 3 outfield GGs ✅ MLB.com sourced\n- PCA has MLB-best 26 OAA ✅ from prior pipeline\n- Bregman won Fielding Bible at 3B ✅ from Oct 25 pipeline\n**Key Facts (MEDIUM confidence):**\n- Announcement time 8:30 PM ET on ESPN — from prior pipeline (Oct 24)\n**Freshness:** Gold Gloves on Nov 1 — 3 days away. Still fresh per WS-ended context. ✅\n**Why it matters:** Historic potential (first team to sweep outfield GGs). Plus 2 infield finalists.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Suzuki Qualifying Offer — $23.15M Decision Looming",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "QO window now open. Cubs expected to issue $23.15M QO within days. Suzuki likely to decline. Market: $90M+. Blue Jays among suitors.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "SUZUKI QO WEEK STARTS NOW.\n\nCubs expected to issue Seiya Suzuki a $23.15M qualifying offer within days. He's likely to decline. Market: $90M+. Blue Jays circling.\n\nCareer-high 5.1 WAR, 26 HRs, 131 OPS+ in 2026. He's earned every penny.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "X Text Post",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Suzuki Qualifying Offer — $23.15M Decision Looming\n**Decision:** FOLLOW UP — covered Oct 17, 18, 20, 26, 27. Fresh angle: QO window now officially open.\n**Sources:**\n1. Roundtable (Oct 16) — Cubs expected to extend QO to Suzuki\nhttps://roundtable.io/sports/mlb/cubs/news/cubs-expected-to-extend-qualifying-offer-to-seiya-suzuki\n2. Yardbarker (Oct 2026) — \"$90M Seiya Suzuki update\" from SI\nhttps://www.yardbarker.com/mlb/articles/chicago_cubs_land_new_90_million_seiya_suzuki_update/s1_17355_44448652\n3. Bleacher Report — Ranking Suzuki/Happ landing spots\nhttps://bleacherreport.com/articles/25505226-ranking-cubs-seiya-suzuki-ian-happ-landing-spots-ahead-mlb-free-agency\n4. Bleacher Nation (Sept 28, 2026) — Blue Jays rumor\nhttps://www.bleachernation.com/cubs/2026/09/28/suzuki-blue-jays-rumor/\n5. Various search results confirming likely decline and $90M+ market (MEDIUM confidence)\n**Key Facts:**\n- QO amount: $23.15M ✅ MEDIUM (consistent source)\n- Cubs expected to issue QO ✅ (multiple reports)\n- Suzuki likely to decline ✅ MEDIUM (reporting consensus)\n- Projected contract: 4 years, $90M ✅ MEDIUM (SI projection)\n- Blue Jays circling ✅ MEDIUM (Sept 28 BN)\n- Suzuki 2026 stats: 5.1 WAR, 131 OPS+, 26 HRs — MEDIUM (from established pipeline history)\n**Freshness:** QO window just opened. Story refreshed by WS ending. ✅\n**Why it matters:** Suzuki is the Cubs' best outfielder and a key piece of their championship window.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "AFL Week 5 — Cubs Prospect Trio Keeps Delivering",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Snell bat-first breakout continues. Cabral flashing triple digits. Reid making noise after dominant debut. 8 Cubs in Mesa through Nov. 14.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "AFL WEEK 5: CUBS PROSPECTS ROLLING.\n\nKade Snell's bat-first breakout continues. Jhon Cabral still flashing triple digits. Dominick Reid making noise after a dominant debut week.\n\nEight Cubs in Mesa through Nov. 14. The pipeline isn't sleeping.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "X Text Post",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "AFL Week 5 — Cubs Prospect Trio Keeps Delivering\n**Decision:** FOLLOW UP — covered Oct 22, 23, 25, 26, 27. No new Week 5 stats available yet.\n**Sources:**\n1. MLB.com press release — 2026 AFL rosters\nhttps://www.mlb.com/press-release/press-release-mlb-announces-2026-arizona-fall-league-rosters\n2. Bleacher Nation (Oct 5, 2026) — Cubs AFL notes\nhttps://www.bleachernation.com/cubs/2026/10/05/cubs-prospect-notes-afl-bailey-cabada-snell-reid-cabral-meyer-more/\n3. Prior pipeline coverage Oct 22–27 establishing Snell breakout, Cabral digits, Reid debut\n**Key Facts:**\n- 8 Cubs in Mesa Solar Sox ✅ VERIFIED\n- AFL runs through Nov 14 ✅ VERIFIED\n- Snell bat-first breakout: established Oct 22–27 ✅\n- Cabral triple digits: established Oct 22–27 ✅\n- Reid dominant debut: established Oct 27 ✅\n- No new Week 5 box scores available — tweet is a continuation/follow-up\n**Freshness:** Week 5 update. No new specific stats but continued storyline is valid. ✅\n**Why it matters:** Cubs' prospect pipeline is key organizational story during offseason.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

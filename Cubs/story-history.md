@@ -5,6 +5,61 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-10-29 (OFF DAY — Early offseason. WS: BREWERS WIN WORLD SERIES — 4-1 over Rays in Game 5 (Oct 28), first title in franchise history. King opt-out clock officially running. Imanaga + Suzuki QO windows now open. Gold Gloves 3 days away (Nov 1 ESPN). Insights: allcaps_lead WINNER (small, delta=0.287) + not_statement WINNER (small, delta=0.277). AFL Week 5 Snell/Cabral/Reid.)
+
+### STORY 1: Brewers Win First World Series Title — Division Rival Is Champion
+- **Angle:** FOLLOW UP (Oct 28 = G5 preview). Result: Brewers 4, Rays 1 in Game 5 at Tropicana Field. First title in Milwaukee franchise history. WS 4-1 series win. Cubs' division rival is World Champion — Cubs haven't won since 2016.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, rival watch / bold reaction)
+- **Follow-Up Opportunities:**
+  - William Contreras WS MVP details (when independently confirmed)
+  - Brewers offseason activity — division rival spending as Cubs benchmark
+  - King opt-out decision (next Tier 1)
+
+### STORY 2: Michael King Opt-Out Clock Is Now Running
+- **Angle:** FOLLOW UP (Oct 20, 23, 25, 27, 28). WS ended → opt-out window officially open. King (3yr/$75M Padres deal, Dec 2025) has 5 days to decide. Market: ~$90M. Cubs need No. 1 starter.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take / offseason urgency)
+- **Follow-Up Opportunities:**
+  - King announces opt-out → Tier 1 breaking (most likely outcome)
+  - King stays with Padres → story closed; Cubs pivot to other targets
+
+### STORY 3: Imanaga QO Window Opens — Cubs' Key Decision This Week
+- **Angle:** FOLLOW UP (Oct 24, 26, 27, 28). WS ended → 7-day QO window open. Cubs expected to issue $23.15M QO. Both sides declined options. Imanaga best pitcher on staff.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, informative / offseason analysis)
+- **Follow-Up Opportunities:**
+  - Cubs issue QO → confirm Tier 2
+  - Imanaga accepts QO → Tier 1 breaking (retention)
+  - Imanaga declines QO → Tier 1 breaking (open market)
+
+### STORY 4: Gold Gloves 3 Days Away — Historic Cubs Sweep on the Line
+- **Angle:** FOLLOW UP (Oct 16, 22, 24, 25, 26, 27). 5 finalists: PCA, Happ, Suzuki, Bregman, Swanson. Nov 1 on ESPN 8:30 PM ET. Historic: first team ever to sweep all 3 outfield GGs if PCA+Happ+Suzuki all win.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, stat breakdown / informative)
+- **Follow-Up Opportunities:**
+  - Gold Glove winners Nov 1 → Tier 1 if cubs sweep or win multiple
+  - Each individual winner = Tier 2 tweet
+
+### STORY 5: Suzuki Qualifying Offer — $23.15M Decision Looming
+- **Angle:** FOLLOW UP (Oct 17, 18, 20, 26, 27). QO window open. Cubs expected to issue $23.15M QO within days. Suzuki likely to decline. Market: $90M+. Blue Jays circling. 2026: 5.1 WAR, 26 HRs, 131 OPS+.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, informative / FA market)
+- **Follow-Up Opportunities:**
+  - Cubs issue QO → confirm Tier 2
+  - Suzuki declines QO → Tier 1 breaking (open market)
+  - Suzuki signs elsewhere → Tier 1 reaction
+
+### STORY 6: AFL Week 5 — Cubs Prospect Trio Keeps Delivering
+- **Angle:** FOLLOW UP (Oct 22, 23, 25, 26, 27). Snell bat-first breakout continues, Cabral triple digits, Reid dominant. 8 Cubs in Mesa through Nov 14.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, prospect feature)
+- **Follow-Up Opportunities:**
+  - AFL Week 6 update → Snell stats, Cabral velocity, Reid development
+  - AFL MVP award Nov 14 → potential Cubs prospect recognition
+
+---
+
 ## 2026-10-27 (OFF DAY — Early offseason. WS: Brewers 10-1 over Rays in Game 3, lead 3-0. Game 4 TONIGHT at Tropicana 7 PM CT — Brewers can win first title in franchise history. King opt-out clock starts tomorrow if Brewers win. Insights: 0 significant findings — brand-voice defaults. Imanaga QO imminent. Gold Gloves 5 days. Suzuki $130M+ market. AFL Reid debut + Snell/Cabral.)
 
 ### STORY 1: Brewers Demolish Rays 10-1 in Game 3 — Lead WS 3-0, Game 4 TONIGHT 7 PM CT
