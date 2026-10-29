@@ -2,6 +2,18 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-10-29
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-29 | T1 | Pauline Roussin-Bouchard Leads Maybank Championship R1 at -8 (64) | X(2), FB, Article | NEW |
+| 2026-10-29 | T1 | Austin Smotherman Arrives in Mexico Chasing Three Consecutive PGA Tour Wins | X(2), FB, Article | FOLLOW UP |
+| 2026-10-29 | T2 | VidantaWorld Mexico Open Gets Underway — Clark, Finau, Homa in the Field | X(1), FB, Article | NEW |
+| 2026-10-29 | T2 | Charley Hull Sits Two Back at Maybank Championship, Lottie Woad Also in Field | X(1), FB, Article | NEW |
+| 2026-10-29 | T2 | Golf Weekend Preview: Mexico Open and Maybank Championship Run Simultaneously | X(1), FB, Article | NEW |
+
+---
+
 ## 2026-10-27
 
 | Date | Tier | Title | Platforms | Status |
