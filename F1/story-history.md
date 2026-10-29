@@ -283,3 +283,42 @@
 - **Key facts:** Race Oct 30 - Nov 1; 2,240m altitude; thin air reduces aero downforce and engine efficiency; coincides with Día de Muertos; stadium section atmosphere; strategy differences vs European circuits
 - **Byline:** Elena Voss
 - **Status:** NEW
+
+---
+
+## 2026-10-29
+
+### STORY 1: Kimi Antonelli Mexico City Title Clinch — What He Needs
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / 2026 Drivers' Championship / Mexico City GP
+- **Key facts:** Antonelli leads 365 pts; Russell 242, Hamilton 241; needs 9th or better to clinch; 9 wins; race Nov 1; Autodromo Hermanos Rodriguez; quote about keeping No. 12
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: Russell vs Hamilton — 1-Point Gap for Second in Standings
+- **Tier:** 1
+- **Category:** George Russell / Lewis Hamilton / Mercedes / F1 Standings
+- **Key facts:** Russell 242, Hamilton 241; 1-point gap; 3 races remaining; both Mercedes teammates
+- **Byline:** Elena Voss
+- **Status:** NEW
+
+### STORY 3: Mexico City GP Weekend Guide — FP1/FP2 Friday, Race Sunday
+- **Tier:** 2
+- **Category:** Mexico City GP / Weekend Schedule / Altitude / Rookie FP1
+- **Key facts:** FP1 & FP2 Friday Oct 30; qualifying Saturday; race Sunday Nov 1; altitude 2,240m; rookie mandatory FP1 sessions
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 4: Colton Herta Super License — FP1 Friday Last Chance
+- **Tier:** 2
+- **Category:** Colton Herta / Cadillac / Super License / Mexico City FP1
+- **Key facts:** Needs 100km/24 laps in FP1 without penalty; missed at Monza due to hydraulic failure; Mexico is last chance; 2027 F1 seat on line
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: McLaren vs Mercedes — Constructors' Championship Still Live
+- **Tier:** 2
+- **Category:** McLaren / Mercedes / 2026 Constructors' Championship / Mexico City GP
+- **Key facts:** Constructors' battle still live; 3 races remain (Mexico, São Paulo, Abu Dhabi); altitude creates strategic variable; separate from drivers' title story
+- **Byline:** Elena Voss
+- **Status:** NEW

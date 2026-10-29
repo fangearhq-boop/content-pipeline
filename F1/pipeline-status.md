@@ -44,3 +44,23 @@
 3. T2 NEW: Pérez home race with Cadillac — Día de Muertos weekend (Marcus Cole)
 4. T2 NEW: Mexico City GP altitude/strategy preview (Ryan Calloway)
 5. T2 NEW: F1 standings after 18 rounds — Antonelli 365 (Elena Voss)
+
+---
+
+### 2026-10-29 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 35 claims, HIGH; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (22 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via git push main
+
+**Stories covered:**
+1. T1 NEW: Antonelli Mexico City Title Clinch — 365 pts, needs P9, 9 wins (Ryan Calloway)
+2. T1 NEW: Russell vs Hamilton — 1-Point Battle for 2nd in Standings (Elena Voss)
+3. T2 NEW: Mexico City GP Weekend Guide — FP1 Friday, Race Sunday (Marcus Cole)
+4. T2 FOLLOW UP: Colton Herta Super License — FP1 Friday Last Chance at Mexico (Ryan Calloway)
+5. T2 NEW: McLaren vs Mercedes Constructors' Championship Still Live (Elena Voss)
