@@ -6,8 +6,8 @@
 - **X posts:** 6
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
-- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 6 stories, 6 tweets
-- **07-content-data.json:** ✅ Valid JSON, all 6 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 10:45 AM / 12:00 PM / 2:30 PM CT), all strptime-parseable
+- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 5 stories, 5 tweets
+- **07-content-data.json:** ✅ Valid JSON, all 5 posts with posting_time (7:00 AM / 9:30 AM / 12:00 PM / 2:30 PM / 3:45 PM CT), all strptime-parseable
 - **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
 - **Note:** 2 significant insights applied: allcaps_lead WINNER (delta=0.287, p=0.0216) + not_statement WINNER (delta=0.277, p=0.0264). All 6 tweets lead with ALL CAPS non-statement fragment openers. Off day — Brewers WS WIN anchor (division rival champion, 4-1 Game 5) + King opt-out clock running + Imanaga QO window open + Gold Gloves 3 days + Suzuki QO + AFL Week 5.
 
@@ -19,11 +19,13 @@
   2. `opening=statement` winner=False, delta=0.277 (small), p=0.0264 — non-statement openers outperform
 - **Action:** All 6 tweets lead with ALL CAPS non-statement openers. Both findings significant together for second consecutive run.
 
-## Insights Summary (2026-10-27 run — from 2026-10-27T08:30 UTC snapshot)
-- **Generated:** 2026-10-27T08:30:00 UTC
-- **Measured tweet count:** 91
-- **Significant findings:** 0
-- **Note:** "No contrasts cleared all three gates (n≥8 per group, p<0.05, |Cliff's delta|≥0.20). Either too little data or no format/time differences are large enough yet."
+## Insights Summary (2026-10-28 run — from 2026-10-28T08:30 UTC snapshot)
+- **Generated:** 2026-10-28T08:30:00 UTC
+- **Measured tweet count:** 92
+- **Significant findings:** 2
+  1. `opening=allcaps_lead` winner=True, delta=0.302 (small), p=0.0129 — ALL CAPS leads outperform
+  2. `opening=statement` winner=False, delta=0.269 (small), p=0.0265 — non-statement openers outperform
+- **Action:** All 5 tweets lead with ALL CAPS non-statement openers. First time both findings are significant together (prior days had 0 findings).
 - **Action:** Fell through to brand-voice defaults. No format adjustments made.
 
 ## Series Context (2026-10-27)
@@ -108,6 +110,9 @@
 | Date | Type | Stories | Tweets | Status |
 |------|------|---------|--------|--------|
 | 2026-10-29 | OFF DAY (Brewers WS WIN rival reaction, King opt-out clock running, Imanaga QO window open, Gold Gloves 3 days, Suzuki QO decision, AFL Week 5 Snell/Cabral/Reid) | 6 | 6 | ✅ |
+| 2026-10-28 | OFF DAY (WS G5 rival watch anchor, King opt-out imminent, Suzuki QO this week, PCA unanimous MVP poll, Sato posting official) | 5 | 5 | ✅ |
+| 2026-10-27 | OFF DAY (WS G3 result 10-1 Brewers, King opt-out clock imminent, Gold Gloves 5-day countdown, Imanaga QO imminent, Suzuki FA market, AFL Reid debut) | 6 | 6 | ✅ |
+| 2026-10-26 | OFF DAY (WS G3 preview, Imanaga FA new angle, Gold Gloves 6-day countdown, Suzuki+Happ FA, AFL Snell) | 5 | 5 | ✅ |
 | 2026-10-25 | OFF DAY (WS Game 2 Brewers 5-4 Rays rival watch, PCA Sporting News POY NEW, Fielding Bible sweep NEW, King opt-out clock FOLLOW UP, Kanzler Mariners candidate NEW, Gold Glove 7 days FOLLOW UP, AFL Snell breakout FOLLOW UP) | 7 | 7 | ✅ |
 | 2026-10-23 | OFF DAY (WS Game 1 tonight Brewers/Rays rival watch, Sato 45-day window follow-up, King opt-out clock, PCA MVP bold take, AFL Mathis/Mesa focus) | 5 | 5 | ✅ |
 | 2026-10-22 | OFF DAY (CBA lockout countdown Dec 1, WS Game 1 tomorrow Brewers/Rays, Gold Glove sweep PCA 26 OAA, Mallee Mets interest, Kirby trade target BR, AFL Mesa Cabral 101 mph) | 6 | 6 | ✅ |

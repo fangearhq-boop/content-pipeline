@@ -1,5 +1,35 @@
 # Tennis Fanrecap — Pipeline Status
 
+## Current Run: 2026-10-28
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Wawrinka career ends: Lehečká d. Wawrinka 7-5, 7-6(2) at Basel; Vienna Day 2: Zverev d. Landaluce 7-5,3-6,7-6 (4 MP saved, 63rd win, one QF from No.1 lock); Alcaraz d. Khachanov 6-4,7-6(5); Basel: Shelton d. Kovacevic 3 sets (44 aces); Djokovic vs Humbert today (first Basel since 2011); Race: Medvedev 5th (3,660), Cobolli 6th (3,640), Fils 7th, Tiafoe 8th; WTA Finals draw ~Nov 5 |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Oct 27 S2: Wawrinka final match → result confirmed); S2 FOLLOW-UP (Oct 27 S1: Vienna/Basel Day 1 → Day 2 Vienna results); S3 FOLLOW-UP (Oct 27 S3: Djokovic Basel debut → Shelton result + Djokovic match today); S4 FOLLOW-UP (Oct 27 S4: Race → Day 2 standings); S5 FOLLOW-UP (Oct 27 S5: WTA Finals draw 1 week → imminently) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Ryan Calloway [S1, S4], Marcus Cole [S2, S5], Elena Voss [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on Djokovic Race standing, tiebreak score (11-9 vs 13-11 sources differ), WTA Finals draw exact date |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories (S1:2, S2:2, S3:1, S4:1, S5:1); all ≤280 chars (253, 231, 247, 212, 232, 247, 255); #TennisFanrecap + topic hashtags |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; correct format |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 9 imagn concepts across 5 stories; player-name-only search terms |
+| Articles (5) | COMPLETE | article-01 Wawrinka career ends (Ryan Calloway T1); article-02 Zverev/Alcaraz Vienna Day 2 (Marcus Cole T1); article-03 Shelton 44 aces + Djokovic preview (Elena Voss T2); article-04 ATP Race after Day 2 (Ryan Calloway T2); article-05 WTA Finals draw preview (Marcus Cole T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 23 claims auto-extracted; all stories present in all content files; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles; posting window warnings (cosmetic) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 9 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-10-28.xlsx + tfr-postplanner-tobi-2026-10-28.xlsx — 7 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Oct 28 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Ryan Calloway [S1, S4], Marcus Cole [S2, S5], Elena Voss [S3])
+- **Key stories:** Wawrinka career ends (Lehečká d. 7-5, 7-6(2) — 590 wins, 3 Slams, done); Zverev survives thriller vs Landaluce (4 MP saved, 63 wins, one QF from locking No. 1); Alcaraz d. Khachanov; Shelton 44 aces at Basel; Djokovic vs Humbert today; ATP Race tight outside top 4; WTA Finals draw ~Nov 5
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); PostPlanner + compile + review-dashboard all COMPLETED successfully
+
+---
+
 ## Current Run: 2026-10-27
 
 | Step | Status | Notes |

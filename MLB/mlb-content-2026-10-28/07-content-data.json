@@ -1,0 +1,268 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-28",
+  "compiled_at": "2026-10-28T10:22:51.167795+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "World Series G5 TONIGHT — Brewers Look to Clinch",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "TONIGHT: The Milwaukee Brewers can win their first World Series title.\n\nGame 5. Tropicana Field. 8 PM ET on FOX.\n\nMisiorowski starts. Brewers lead 3-1. The Rays won G4 in the 12th — now they need to do it again.\n\n#Brewers #Rays #WorldSeries",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#Rays",
+            "#WorldSeries"
+          ],
+          "char_count": 240
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Brewers are 3 hours and one Jacob Misiorowski start away from the franchise's first World Series championship.\n\nBrewers -147 tonight. 8 PM ET. FOX. Tropicana Field.\n\nThe most dominant pitcher of 2026 gets the ball. #Brewers #WorldSeries",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#WorldSeries"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-world-series-g5-preview.html",
+        "headline": "World Series Game 5 Preview: Brewers One Win From First Title as Misiorowski Takes the Mound",
+        "word_count": 554
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "World Series G5 TONIGHT\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** gemini — mode: complete\n- **Prompt:** \"Baseball stadium at night with championship trophy silhouette in foreground, Tropicana Field atmosphere, navy blue and yellow color theme Milwaukee Brewers, dramatic stadium lighting, bold text overlay 'GAME 5 — TONIGHT 8 PM ET' with 'BREWERS VS RAYS | WORLD SERIES 2026' below, dark cinematic poster style\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** gemini — mode: complete\n- **Prompt:** \"Wide aerial view of a baseball stadium under the dome at night, dramatic artificial lighting on the field, blue and yellow team color contrast, text overlay left side 'WORLD SERIES — GAME 5 | Milwaukee vs Tampa Bay' in bold white editorial font, championship game atmosphere, FOX broadcast feel, landscape format\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "World Series G5 TONIGHT\n**Sources:** CBSSports, Yahoo Sports, FOX Sports, MLB.com\n**Verified Facts (HIGH confidence):**\n- Game 5 is Wednesday, October 28 at 8 PM ET at Tropicana Field, St. Petersburg [CBSSports/Yahoo/FOX]\n- Airing on FOX and FOX Deportes [FOX Sports]\n- Brewers lead series 3-1 [MLB.com]\n- Brewers betting line: -147, Rays +119; O/U 6.5 [AP preview]\n- Jacob Misiorowski starts for Brewers [MLB.com/FOX11]\n- Rays forced G5 with G4 walk-off win [MLB.com/CBS]\n- Only 4 of 26 teams that fell behind 3-0 in WS history won G4 — Rays are the 5th to do so [CBSSports]\n- Future games (if needed): G6 Oct 30, G7 Oct 31, both Rays @ Brewers [CBSSports/Yahoo]\n- Shane McClanahan on IL (forearm) — out for Rays [AP preview via Yahoo]\n**MEDIUM confidence:**\n- Rays don't have a fully rested starter ready for G5 [Yahoo Sports preview]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Rays Stun Brewers With 12th-Inning Walk-Off in G4",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Last night at Tropicana Field:\n\n- Brewers lead 3-2 in the 12th\n- Rays: error, single, single, single, single\n- Final: Rays 4, Brewers 3\n\nBen Williamson's walk-off forced Game 5.\n\nThe Rays are still alive. #Rays #WorldSeries",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rays",
+            "#WorldSeries"
+          ],
+          "char_count": 223
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Cooper Pratt hit a go-ahead HR in the 12th inning last night.\n\nThe Rays tied it. Then walked it off.\n\nBen Williamson. Walk-off single. G4 over.\n\nFive teams have ever won G4 after falling behind 3-0 in the World Series. Tampa Bay is one of them now.\n\n#Rays #WorldSeries",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rays",
+            "#WorldSeries"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-rays-g4-walkoff.html",
+        "headline": "Rays Walk Off Brewers in 12 Innings to Force World Series Game 5",
+        "word_count": 522
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "G4 Walk-Off\n\n#### Image Concept 3 — Social (1080x1350)\n- **Type:** gemini — mode: complete\n- **Prompt:** \"Baseball player running the bases in celebration after a walk-off hit, Tropicana Field stadium, crowd erupting, blue and white Tampa Bay Rays uniform, confetti and joy, motion blur on the runner, bold text 'WALK-OFF 4-3' at top and 'RAYS SURVIVE IN THE 12TH' at bottom, electric night game poster\"\n\n#### Image Concept 4 — Article Hero (1200x630)\n- **Type:** gemini — mode: complete\n- **Prompt:** \"Baseball infield view at the moment of a walk-off celebration, players rushing from dugout, dramatic night game lighting, Rays blue and white colors, text overlay 'RAYS WALK IT OFF IN 12 — BEN WILLIAMSON SINGLE' in bold white font on dark bar at bottom, sports news editorial banner style\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "G4 Walk-Off — Rays 4-3 in 12 Innings\n**Sources:** MLB.com, CNN, NBC Chicago, Chronicle Journal\n**Verified Facts (HIGH confidence):**\n- Rays beat Brewers 4-3 in 12 innings Tuesday night Oct. 27 at Tropicana Field [MLB.com]\n- Ben Williamson's walk-off single ended the game [MLB.com/Chronicle Journal]\n- Cooper Pratt solo HR gave Brewers 3-2 lead in top of 12th [multiple sources]\n- Jonny DeLuca single tied the game earlier in the 12th [Chronicle Journal/CNN]\n- Series score after G4: Brewers lead 3-1 [all sources]\n- David Hamilton hit a HR during the game [Yahoo Sports]\n- David Hamilton also committed an error in the game [Yahoo Sports — \"botched defensive play\"]\n- Sequence in 12th: error, single, single, single, single (walk-off by Williamson) [Chronicle Journal]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Jackson Chourio Is Writing History in This World Series",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Jackson Chourio. Age 22.\n\n.500 in the 2026 World Series (10-for-20).\n\nHe's had a multi-hit game in every single Brewers win. At 22.\n\nHe's not just good. He's historically good in this moment. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 200
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-chourio-world-series-stats.html",
+        "headline": "Jackson Chourio Is Batting .500 in the World Series at Age 22 — And It Doesn't Feel Surprising",
+        "word_count": 425
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Chourio World Series Stats\n\n#### Image Concept 5 — Social (1080x1350)\n- **Type:** gemini — mode: complete\n- **Prompt:** \"Young baseball player in Brewers uniform holding a bat at home plate, stadium packed with fans, navy and yellow Milwaukee colors, stat graphic overlay 'CHOURIO | .500 | 10-for-20 | AGE 22' in clean white sans-serif font, cinematic sports portrait style, golden hour stadium lighting\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jackson Chourio World Series Stats\n**Sources:** MLB.com, Google search results, prior search\n**Verified Facts (HIGH confidence):**\n- Chourio is 22 years old (born March 11, 2004) [Wikipedia/FanGraphs]\n- He batted .500 (10-for-20) through four World Series games [prior search]\n- Had multi-hit games in all three Brewers WS wins [prior search]\n- Youngest player with 4 WS hits in a single game since Joe Garagiola in 1946 — this was for G3 [first search result summary]\n- He batted leadoff in the G5 lineup [prior search]\n**MEDIUM confidence:**\n- \"4-for-5 in G3\" stat for Chourio [prior search referenced Chourio 4-for-5 in G3]\n- His 2026 regular season line: conflicting sources — use general description (\"strong 2026 regular season\") rather than specific stats",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Misiorowski Starts G5 on Regular Rest — Already a Postseason Legend",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jacob Misiorowski tonight in the World Series:\n\n- Led MLB in ERA (1.80) and Ks (252) this season\n- Postseason ERA: under 1.00\n- G1: 5 scoreless innings\n- Fastest pitch in Statcast-era WS history: 103.5 mph\n\nHe's the best pitcher of 2026. He has the ball tonight. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-misiorowski-g5-starter.html",
+        "headline": "Jacob Misiorowski Starts World Series Game 5: The Best Pitcher of 2026 Has the Ball",
+        "word_count": 455
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Misiorowski G5 Preview\n\n#### Image Concept 6 — Social (1080x1350)\n- **Type:** gemini — mode: complete\n- **Prompt:** \"Baseball pitcher in mid-delivery on a mound, Brewers navy and yellow uniform, intense close-up face expression, dramatic stadium lighting, radar gun graphic overlay showing '103.5 MPH' with bold text 'MISIOROWSKI — GAME 5 STARTER' at bottom, action sports poster with dark dramatic background\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jacob Misiorowski\n**Sources:** FOX11, MLB.com, ESPN, Yahoo Sports\n**Verified Facts (HIGH confidence):**\n- Misiorowski is 25 years old [prior research]\n- Led MLB regular season in ERA: 1.80 [prior search/Yahoo]\n- Led MLB regular season in strikeouts: 252 [prior search/Yahoo]\n- Set Statcast-era WS record: 103.5 mph pitch in G1 [prior pipeline/search]\n- Postseason ERA under 1.00 entering G5 [prior search]\n- He finished G1 with 5 scoreless innings (WS G1 win) [prior search]\n- Starts G5 on regular rest — fourth postseason start [MLB.com]\n**MEDIUM confidence:**\n- \"Whiff rate 40.2% regular season → 16.1% playoffs\" stat [prior search — single source]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Early Hot Stove: Skubal Contract, CBA Talks, and Offseason Storylines",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "While Game 5 is still live, the offseason is already forming:\n\n🔸 Tarik Skubal: record-setting AAV contract expected\n🔸 CBA talks: lockout possible per Rosenthal\n🔸 Brandon Woodruff: won't pitch this WS, shoulder\n\nThe market opens the second this Series ends. #MLB #HotStove",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#HotStove"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-hot-stove-preview.html",
+        "headline": "Hot Stove Preview: What to Watch When the World Series Ends",
+        "word_count": 464
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hot Stove Preview\n\n#### Image Concept 7 — Social (1080x1350)\n- **Type:** gemini — mode: complete\n- **Prompt:** \"Baseball with flames and a thermometer graphic against a dark background, 'HOT STOVE SEASON' text in bold orange and white font, winter abstract imagery of a meeting room with player silhouettes suggesting contract negotiations, modern sports infographic design, clean bold typography\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hot Stove Storylines\n**Sources:** Yahoo Sports, FanSided, MLBTradeRumors, CBS Sports\n**Verified Facts (MEDIUM confidence — all offseason speculation):**\n- Tarik Skubal expected to set new MLB AAV record [FanSided/Yahoo — reports, not confirmed]\n- Ken Rosenthal flagged CBA negotiations; predicted \"long lockout\" [Yahoo Sports]\n- Brandon Woodruff removed from 60-day IL (right shoulder surgery — out for season/WS) [CBS Sports]\n- Yankees predicted to pursue A's All-Star catcher [Yahoo — multiple rumor sources]\n- Bryce Harper trade talk mentioned (Phillies context) [Yahoo — single mention]\n**LOW confidence (do NOT use in articles):**\n- Specific AAV figures for Skubal contract\n- Lockout start dates",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

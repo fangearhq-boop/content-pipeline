@@ -1,0 +1,191 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-28",
+  "compiled_at": "2026-10-28T09:20:25.839390+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "WS Game 5 Tonight (rival watch)",
+      "type": "Bold Take"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Michael King opt-out clock",
+      "type": "Analysis"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Seiya Suzuki QO",
+      "type": "Informative"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "PCA MVP — all 38 votes",
+      "type": "Bold Take"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Teruaki Sato — Cubs at table",
+      "type": "Roster News"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "World Series Game 5 Tonight — Brewers on the Brink",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Game 5 tonight 7 PM CT at Tropicana Field — Brewers lead 3-1 but Rays forced Game 5 with walk-off in 12th; Cubs-fan rival-watch framing; Misiorowski starts",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "GAME 5. TONIGHT.\n\nOnly the fifth team EVER to force this from down 3-0 — Ben Williamson's walk-off in the 12th kept Tampa alive.\n\nBrewers still lead 3-1. Misiorowski on the hill, 7 PM CT on FOX.\n\nJed Hoyer is watching.\n\n#Cubs #MLB #GoCubs",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "X Text Post",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#GoCubs"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Michael King — The Opt-Out Clock",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "WS ending triggers 5-day opt-out window; King 3.00 ERA/10-9/4.1 bWAR; Cubs' top winter priority; urgency play",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "MICHAEL KING.\n\nWhen the World Series ends — possibly TONIGHT — the 5-day opt-out window starts. Hoyer has to move fast.\n\n3.00 ERA. 10-9. 4.1 bWAR in 2026. MLB's second-best SP on the market.\n\nGo get him.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "X Text Post",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Seiya Suzuki — Qualifying Offer Incoming",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Cubs extending $23.15M QO; Suzuki declines to test market; Blue Jays at $130M+; career-best 5.1 WAR in 2026; formal farewell",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "FIVE SEASONS.\n\nCubs expected to extend Suzuki a $23.15M QO this week — a formality. He'll decline.\n\nCareer-best 5.1 WAR in 2026. The Blue Jays are ready to spend $130M+.\n\nChicago's best offer probably can't match. Take a bow, Seiya.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "X Text Post",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Pete Crow-Armstrong — All 38 Votes",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Final MLB.com NL MVP poll: 38 first-place votes, 190 pts; 45 HR/40 SB/MLB-best WAR; BBWAA announces November; best player in baseball is a Cub",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "UNANIMOUS.\n\nPete Crow-Armstrong received all 38 first-place votes in MLB.com's final NL MVP poll.\n\n45 HR. 40 SB. MLB's highest WAR in 2026.\n\nThe BBWAA announces in November. The best player in baseball is a Cub.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "X Text Post",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Teruaki Sato — Cubs at the Table",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "NPB Triple Crown winner (.306/.383/.609, 39 HR) officially in posting system; Cubs scouted him since May; massive competition; 45-day window",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "THE NEXT TARGET.\n\nTeruaki Sato — NPB Triple Crown winner (.306/.383/.609, 39 HR) — is in the posting system. Cubs have scouted him since May.\n\nYankees, Dodgers, Mets, Phillies all in. The market opens mid-November.\n\nHoyer better write a big check.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "X Text Post",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

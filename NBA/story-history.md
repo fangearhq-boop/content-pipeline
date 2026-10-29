@@ -603,3 +603,40 @@
 - **Key facts:** 7 games Oct 26; Celtics vs Bulls 7:30 PM ET; Flagg (DAL) questionable left shoulder; Bucks vs Pacers 8 PM ET; NBA Cup starts Oct. 30
 - **Byline:** Jake Torres
 - **Status:** NEW
+
+## 2026-10-28
+
+### STORY 1: Anthony Edwards Knee Surgery — Out Up to 2 Months
+- **Tier:** 1
+- **Category:** Minnesota Timberwolves / Anthony Edwards / Injury
+- **Key facts:** Arthroscopic procedure on right knee; expected back in December; same right knee as last season (patellofemoral pain syndrome); scored 47 pts in OT loss to Cavs on Oct 26 (127-125); Wolves were 3-1; out up to 2 months
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Trail Blazers 136, Lakers 129 — Dončić 41, Portland Stays Perfect
+- **Tier:** 1
+- **Category:** Portland Trail Blazers / Los Angeles Lakers / Luka Dončić / Deni Avdija
+- **Key facts:** Final score 136-129; Dončić 41 pts for LA; Portland stays unbeaten; battle of two undefeated teams; Avdija key for Portland; Lakers' unbeaten run ends
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Celtics 125, Nets 124 OT — Tatum 40 Buzzer-Beater
+- **Tier:** 1
+- **Category:** Boston Celtics / Brooklyn Nets / Jayson Tatum
+- **Key facts:** Final score 125-124 OT; Tatum 40 pts, buzzer-beating jumper in overtime; Celtics 3-0; Michael Porter Jr. 27 for Brooklyn; Nets fall to 0-4
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: Knicks 111, Pistons 97 — KAT 27/20, Detroit's First Loss
+- **Tier:** 2
+- **Category:** New York Knicks / Detroit Pistons / Karl-Anthony Towns
+- **Key facts:** Final score 111-97; KAT 27 pts/20 reb; Brunson 23; Knicks first W; Pistons first loss; NY outscored DET 37-13 in Q3
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: NBA Wednesday Preview — 4 Games + NBA Cup Starts Thursday
+- **Tier:** 2
+- **Category:** NBA Preview / NBA Cup
+- **Key facts:** Oct 28: Wizards vs Cavs 7 ET, Magic vs Raptors 7:30 ET, Rockets vs Bucks 8 ET, Knicks vs Bulls 8 ET; NBA Cup starts Oct. 30
+- **Byline:** Marcus Cole
+- **Status:** NEW

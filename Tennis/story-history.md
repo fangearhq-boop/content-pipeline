@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## October 28, 2026
+
+| 2026-10-28 | Jiří Lehečká def. Stan Wawrinka 7-5, 7-6(2) at Swiss Indoors Basel Tuesday evening — Wawrinka's professional career is over; served at 2-6 in tiebreak, Lehečká won last 5 points from 2-2; second-serve stats: Lehečká 17/20 (85%) vs Wawrinka 17/39 (44%); career: 590 wins/985 matches, 16 ATP titles, 3 Grand Slams (2014 AO, 2015 RG, 2016 USO), Olympic gold 2008, career-high No. 3. Sources: Sofascore, Tennis Majors, Yahoo Sports, TennisWorldUSA, SRN News | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (2026-10-27 S2: Wawrinka final match preview → result confirmed) |
+| 2026-10-28 | Vienna Day 2: Zverev def. Landaluce 7-5, 3-6, 7-6 (saved 4 match points in tiebreak; 63rd ATP-leading win of 2026; one QF from locking Year-End No. 1); Alcaraz def. Khachanov 6-4, 7-6(5) (Khachanov served for set 6-5; Alcaraz broke to love; tiebreak 7-5; H2H now 7-0). Sources: SuperSport, TennisTourTalk, TennisTemple, Tennis Majors | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-10-27 S1: Vienna/Basel Day 1 → Day 2 Vienna results) |
+| 2026-10-28 | Basel Day 2: Shelton (No. 1 seed) def. Kovacevic (qualifier/LL) in 3 sets with 44 aces in 2h36m (needed deciding-set tiebreak); Djokovic vs Humbert scheduled Wednesday Oct 28 (first Basel since 2011; H2H 1-0 Djokovic; Race No. ~11). Sources: ATP Tour official, ESPN, Tennistonic | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (2026-10-27 S3: Djokovic Basel debut → Shelton result + Djokovic match today) |
+| 2026-10-28 | ATP Race to Turin after Vienna/Basel Day 2: confirmed qualifiers Zverev/Alcaraz/Shelton/Sinner (absent); contested: Medvedev 5th (3,660), Cobolli 6th (3,640), Fils 7th (3,475), Tiafoe 8th (3,380); cutoff ~Jódar 9th (3,159), de Minaur 10th (2,880), Djokovic 11th (2,840); Paris Masters 1,000 pts Oct 31–Nov 8. Sources: Yardbarker, Tennisbubbles, SI.com, TennisNow | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (2026-10-27 S4: Race → Day 2 standings update) |
+| 2026-10-28 | WTA Finals draw expected ~Nov 5 — Indian Wells Tennis Garden Nov 8–15; full field: Rybakina (No. 1, defending), Sabalenka, Andreeva, Pegula, Gauff, Svitolina, Noskova, Muchova; format: 2 groups of 4, top 2 advance to SF; first WTA Finals at Indian Wells (relocated from Riyadh 2026). Sources: WTA official, Wikipedia, Yahoo Sports | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-10-27 S5: WTA Finals draw in one week → draw due imminently) |
+
+---
+
+
 ## October 27, 2026
 
 | 2026-10-27 | Vienna (Erste Bank Open) + Basel (Swiss Indoors) Day 1 confirmed results: Berrettini d. Etcheverry 6-3, 6-4 (Vienna); De Minaur d. Machac 1-6, 6-4, 6-3 (Vienna); Mensik d. Neumayer 6-2, 6-2 (Vienna); Rublev d. Borges 6-3, 6-2 in 64 min (Basel). Day 2 Tuesday: Alcaraz vs Khachanov (H2H 6-0 Alcaraz), Zverev vs Landaluce in Vienna; Djokovic vs Humbert + Wawrinka vs Lehečká in Basel. Sources: TennisTourTalk, TennisTemple, ESPN, TSN, Tennis.com | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (2026-10-26 S2: Vienna+Basel Day 1 → Day 1 results + Day 2 preview) |

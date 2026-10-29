@@ -2,6 +2,50 @@
 
 ---
 
+## October 28, 2026
+
+### Story 1: AAP Updates Pediatric UTI Guidelines — New Age Range, Drops Race as Factor
+- **Date:** 2026-10-28
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** AAP published updated clinical practice guidelines for UTIs in children (October 2026 Pediatrics journal); new age range extends to 8 days through 5 years; drops race as a clinical risk factor (significant change from older guidance); accompanied by three technical reports on risk factors, diagnosis, treatment, imaging, prevention; chair Dr. Brian K. Alverson, MD, FAAP.
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 2: COS Daycare Offers Free Childcare on Early Voting Day Oct. 29
+- **Date:** 2026-10-28
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** A Colorado Springs daycare offering free childcare Thursday October 29 so parents can vote; 7 families registered, hope for up to 50; D11 $775M bond vote is November 3; mail-in ballots and drop boxes already open; childcare as a barrier to civic participation. Source: RMPBS.org.
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 3: Cascade Man Hosts Sensory-Friendly Haunted Forest for Neurodivergent COS Kids
+- **Date:** 2026-10-28
+- **Tier:** T2
+- **Pillar:** Local News / Local Events
+- **Key Facts:** Cascade, CO man hosts sensory-friendly Haunted Forest above Highway 24 for ~5 years; invited RiseUp School (COS school for students with IDD) for field trip this week; RiseUp principal Kathy Stults praised experience; many students non-verbal; Halloween Oct 31; traditional Halloween settings (strobe lights, crowds, noise) inaccessible for neurodivergent children. Source: KRDO.com, October 28, 2026.
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 4: Día de Muertos at Colorado Springs Fine Arts Center — Nov. 1–2
+- **Date:** 2026-10-28
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Colorado Springs Fine Arts Center at Colorado College (30 W. Dale St.); Saturday Nov 1 12:30–4:30 PM; Sunday Nov 2 4–8 PM; programming: live music, hands-on activities, children's costume parade; registration requested at fac.coloradocollege.edu/events/dia-de-muertos; free or low-cost. Source: Gazette Springs Scene Oct 22, 2026; visitcos.com.
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 5: Rock Ledge Ranch Fall Homeschool Day — TODAY Oct. 28
+- **Date:** 2026-10-28
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Rock Ledge Ranch Historic Site, 3105 Gateway Road; TODAY October 28, 10 AM – 2 PM; ~$4/person, children 3 and under free, no reservation required; living history experience for homeschool families.
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (2026-10-21 S5: Rock Ledge Ranch preview → event is TODAY)
+
+---
+
 ## October 27, 2026
 
 ### Story 1: CPSC Issues Safety Warning on Lucakuins Infant Bath Seats

@@ -204,3 +204,40 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 | 2026-10-26 | T2 | Seamus Power Eyes Bermuda Repeat — Irish Star Chases Rare Back-to-Back Title | X(1), FB, Article | FOLLOW UP |
 | 2026-10-26 | T2 | Scottie Scheffler Surpasses 181 Weeks at No. 1 — Tiger's Record ~100 Away | X(1), FB, Article | FOLLOW UP |
 
+
+## 2026-10-28
+
+### STORY 1: VidantaWorld Mexico Open Preview — Clark Favored, Smotherman Eyes Three-Peat
+- **Tier:** 1
+- **Category:** PGA Tour / VidantaWorld Mexico Open / Wyndham Clark / Brian Campbell / Brandon Smotherman / Vidanta Vallarta
+- **Key facts:** Starts Oct 29, Vidanta Vallarta; $6M purse; 500 FedExCup Fall pts; Clark favorite (3 wins this season); Campbell defending (+22500); Smotherman won last 2 events (three-peat bid); course reworked (holes 4, 11, 13, 15); field includes Finau, Homa, Tom Kim, Daly II; Hojgaard at +6600 sleeper
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP (Smotherman streak angle)
+
+### STORY 2: Smotherman Eyes Three Consecutive PGA Tour Wins at Mexico Open
+- **Tier:** 1
+- **Category:** Brandon Smotherman / PGA Tour / Consecutive Wins
+- **Key facts:** Won last 2 events including Bermuda Championship playoff (Oct 27); back-to-back PGA Tour wins in October; 3 consecutive wins historically rare in modern era; arrives as hottest player in field
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+
+### STORY 3: LPGA Maybank Championship Preview — Kuala Lumpur, Elite Field
+- **Tier:** 2
+- **Category:** LPGA / Maybank Championship / Kuala Lumpur / Miyu Yamashita / Haeran Ryu / Ruoning Yin / Lottie Woad / Charley Hull
+- **Key facts:** Starts Oct 29, KLGCC West Course; top field: Ryu (No. 3), Yamashita (No. 4, defending, -18/270 playoff 2025), Yin (No. 5, 2024 record -23/265), Woad (No. 7), Hull (No. 8)
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 4: John Daly II at Mexico Open
+- **Tier:** 2
+- **Category:** John Daly II / VidantaWorld Mexico Open / Legacy
+- **Key facts:** John Daly II in Mexico Open field; tee time 10:44 AM ET Thursday; son of PGA Tour legend John Daly
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: Five Storylines — VidantaWorld Mexico Open
+- **Tier:** 2
+- **Category:** VidantaWorld Mexico Open / Preview / Wyndham Clark / Smotherman / Hojgaard
+- **Key facts:** Preview roundup — Smotherman three-peat; Clark favorite; course redesign; Daly II; Hojgaard sleeper (+6600)
+- **Byline:** Jake Torres
+- **Status:** NEW
