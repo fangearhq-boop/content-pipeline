@@ -2,6 +2,50 @@
 
 ---
 
+## October 29, 2026
+
+### Story 1: AAP Updates Flu and RSV Season Guidance for 2026-27
+- **Date:** 2026-10-29
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** AAP updated flu and RSV guidance for 2026-27 season; at least 190 children died from flu last season (one of highest in recent years); only 49.4% of children vaccinated; flu vaccine recommended for all children 6 months+; new RSV guidance expands second-season eligibility to high-risk children aged 8–19 months (chronic lung disease, congenital heart disease, or qualifying conditions); expanded guidance published in Pediatrics October 26, 2026.
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 2: CPSC Warning — Flyboss 3-in-1 Infant Bouncers
+- **Date:** 2026-10-29
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** CPSC warning to stop using Flyboss 3-in-1 Infant Bouncers immediately; collapse hazard creates fall risk for infants; approximately 14,200 units affected; 191 collapse incident reports; 115 incidents involved infant's head striking the surface; fourth significant baby product safety action in October 2026; check cpsc.gov for current remedy.
+- **Byline:** Jamie Rivera
+- **Status:** NEW (4th baby product safety action in Oct 2026; prior: ONTHEWEI Oct 9, Papablic/bblüv Oct 15, Lucakuins Oct 27)
+
+### Story 3: D11 $775M Bond — What It Would Fund (5 Days to Vote)
+- **Date:** 2026-10-29
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** D11 $775M bond on November 3 ballot; funds: HVAC replacements across aging school buildings, classroom modernization (flexible spaces, updated tech infrastructure), library renovations; D11 hasn't passed a bond in approximately 20 years (~2006); roughly 24,000 students in the district; D11 is only major COS district carrying no bond debt (vs. D20 and D49); tax calculator at d11.org/bond.
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (Oct 27 S5: bond voter logistics; Oct 28 S2: free childcare for voting day → Oct 29: bond substance/what it actually funds)
+
+### Story 4: Weekend Roundup — Things to Do with Kids in COS Oct 30–Nov 1
+- **Date:** 2026-10-29
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Halloween weekend Oct 30–Nov 1; Boo at the Zoo (Cheyenne Mountain Zoo, advance tickets required); SoccerHaus free festival Oct 31 2–6 PM; Trunk or Treat events citywide; Ivywild School Halloween events; neighborhood trick-or-treating Oct 31 (COS sunset ~6:00 PM MT); includes required springsdaily.com evergreen links. Thursday required Weekend Roundup.
+- **Byline:** Jamie Rivera
+- **Status:** NEW (Thursday required Weekend Roundup; auto-published to springsdaily.com via parenting-ingest bridge)
+
+### Story 5: Halloween Candy Inflation — Why It Costs More and Budget Tips
+- **Date:** 2026-10-29
+- **Tier:** T2
+- **Pillar:** National Parenting / Humor
+- **Key Facts:** Halloween candy prices risen roughly 4x faster than general inflation in recent years; root cause: commodity ingredient price spikes (sugar, cocoa, corn syrup, packaging) + peak-demand holiday pricing; tips: bulk buy at Costco/Sam's Club for lower per-unit cost, prioritize chocolate/name-brand candy (traded first in kid economy), neighborhood block buy, strategic haul management post-Halloween.
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+---
+
 ## October 28, 2026
 
 ### Story 1: AAP Updates Pediatric UTI Guidelines — New Age Range, Drops Race as Factor

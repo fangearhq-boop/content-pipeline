@@ -1,5 +1,36 @@
 # COS Parenting — Pipeline Status
 
+## Current Run: 2026-10-29
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | AAP flu + RSV 2026-27 guidance (190 pediatric flu deaths last season, 49.4% vaccination rate; RSV second-season eligibility expanded to high-risk 8-19 mo, published Pediatrics Oct 26); Flyboss 3-in-1 Infant Bouncer CPSC warning (14,200 units, 191 collapses, 115 head strikes — 4th baby product action in Oct); D11 $775M bond Nov 3 ballot substance (HVAC, classroom modernization, library renovations; 20 yrs no bond; d11.org/bond); Halloween weekend roundup Oct 30–Nov 1 (Boo at the Zoo, SoccerHaus free festival Oct 31 2–6 PM, Trunk or Treat, Ivywild events, trick-or-treating); Halloween candy inflation (~4x faster than general CPI, commodity inputs, bulk-buy tips) |
+| Story History Check | COMPLETE | S1 NEW (AAP flu/RSV — distinct from any prior AAP coverage); S2 NEW (Flyboss — 4th baby product action in Oct, prior: ONTHEWEI, Papablic/bblüv, Lucakuins); S3 FOLLOW-UP (Oct 27 S5 bond voter logistics, Oct 28 S2 free childcare voting → Oct 29: bond substance); S4 NEW (Thursday required Weekend Roundup); S5 NEW (candy inflation — not previously covered) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 5 posts across 5 stories; all ≤280 chars (246, 237, 234, 261, 253); 4 hashtags each; #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; contractions; 0 exclamation marks; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 7 Gemini base_only concepts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 AAP flu/RSV guidance (Sarah Morales T1); article-02 Flyboss CPSC warning (Jamie Rivera T1); article-03 D11 bond what it funds (Sarah Morales T2); article-04 Weekend Roundup Oct 30–Nov 1 Halloween (Jamie Rivera T2, Thursday required); article-05 Halloween candy inflation (Sarah Morales T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 84 claims auto-extracted; all stories present in all content files; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 5 X posts, 5 FB posts, 5 articles, 5 images; cosmetic "No posting window" warnings (known) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 7 entries, all not_started, gemini base_only |
+| Review Dashboard | COMPLETE | review-dashboard.html — 25 items |
+| Publish Dashboard | BLOCKED | proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-10-29.xlsx + cosp-postplanner-tobi-2026-10-29.xlsx — 5 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Oct 29 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 5 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+- **PostPlanner exports:** 5 posts standard + 5 TOBI
+- **Key stories:** AAP flu + RSV 2026-27 guidance (190 pediatric flu deaths last season, expanded RSV eligibility for high-risk toddlers 8-19 mo); Flyboss infant bouncer CPSC warning (stop use immediately, 4th baby product safety action in Oct); D11 $775M bond substance — HVAC, classroom modernization, library renovations (5 days to vote Nov 3); Halloween weekend roundup Oct 30–Nov 1 (Thursday required — Boo at the Zoo, free SoccerHaus festival, trick-or-treating COS); Halloween candy inflation tips (~4x faster than general inflation, bulk-buy strategies)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); PostPlanner completed OK; compile/fact-check all ran successfully
+
+---
+
 ## Current Run: 2026-10-28
 
 | Step | Status | Notes |
