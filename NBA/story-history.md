@@ -640,3 +640,42 @@
 - **Key facts:** Oct 28: Wizards vs Cavs 7 ET, Magic vs Raptors 7:30 ET, Rockets vs Bucks 8 ET, Knicks vs Bulls 8 ET; NBA Cup starts Oct. 30
 - **Byline:** Marcus Cole
 - **Status:** NEW
+
+---
+
+## 2026-10-29
+
+### STORY 1: Warriors 119, Timberwolves 114 — Curry 44 Season-High, Lendeborg 26
+- **Tier:** 1
+- **Category:** Golden State Warriors / Minnesota Timberwolves / Stephen Curry / Yaxel Lendeborg
+- **Key facts:** Final score 119-114; Curry 44 pts (season-high); Lendeborg 26 pts (rookie); without Anthony Edwards; Oct 28 game
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Knicks 133, Bulls 127 — Brunson 38, 19-Point Comeback
+- **Tier:** 1
+- **Category:** New York Knicks / Chicago Bulls / Jalen Brunson
+- **Key facts:** Final score 133-127; Brunson 38 pts; trailed by 19 before rallying; Knicks second straight win; Oct 28 game
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Raptors 129, Magic 99 — Barnes 28, Barrett 25; NBA Cup Rematch Friday
+- **Tier:** 2
+- **Category:** Toronto Raptors / Orlando Magic / Scottie Barnes / RJ Barrett / NBA Cup
+- **Key facts:** Final score 129-99 (30-pt margin); Barnes 28; Barrett 25; NBA Cup rematch Oct 30 at Scotiabank; Oct 28 game
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: Wembanyama 36/14, Spurs 117 Jazz 111 OT — Three Straight Wins
+- **Tier:** 2
+- **Category:** San Antonio Spurs / Utah Jazz / Victor Wembanyama
+- **Key facts:** Final score 117-111 OT; Wembanyama 36 pts/14 reb; 12-0 OT run to seal it; Spurs third straight win; Oct 28 game
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: NBA Thursday Preview — Three Games Tonight; NBA Cup Opens Friday
+- **Tier:** 2
+- **Category:** NBA Preview / NBA Cup / Cavaliers / Bucks / Timberwolves / Spurs / Thunder / Rockets
+- **Key facts:** Oct 29 games: Cavs at Bucks 8 ET, Wolves at Spurs 8 ET, Thunder at Rockets 8:30 ET; NBA Cup group play starts Oct 30; Magic-Raptors rematch Cup opener
+- **Byline:** Marcus Cole
+- **Status:** NEW

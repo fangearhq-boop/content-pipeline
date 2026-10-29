@@ -1,0 +1,266 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-29",
+  "compiled_at": "2026-10-29T11:22:49.093690+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Stephen Curry Erupts for 44, Warriors Beat Wolves Without Edwards 119-114 [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Stephen Curry dropped a season-high 44 points last night.\n\nWarriors 119, Timberwolves 114. No Anthony Edwards? No problem for Golden State.\n\nCurry is not slowing down. #Warriors #DubNation",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Warriors",
+            "#DubNation"
+          ],
+          "char_count": 188
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Rookie Yaxel Lendeborg scored 26 points alongside Curry's 44.\n\nWarriors beat a shorthanded Wolves squad 119-114. Golden State has real depth this year. #Warriors #DubNation",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Warriors",
+            "#DubNation"
+          ],
+          "char_count": 172
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-curry-44-warriors-beat-timberwolves-119-114.html",
+        "headline": "Stephen Curry Erupts for Season-High 44 as Warriors Beat Shorthanded Timberwolves 119-114",
+        "word_count": 516
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Warriors 119, Timberwolves 114 — Curry 44\n\n**Image 1 (Social — 1080x1350):**\n- Purpose: Primary social post for Story 1\n- imagn search terms: `Stephen Curry Golden State Warriors`\n- Caption overlay: \"CURRY 44 | WARRIORS WIN\"\n- Style: High-energy action shot; Curry mid-release or celebrating\n- Status: not_started\n\n**Image 2 (Social — 1080x1350):**\n- Purpose: Secondary social/Facebook image\n- imagn search terms: `Yaxel Lendeborg Golden State Warriors`\n- Caption overlay: \"ROOKIE LENDEBORG 26 PTS\"\n- Style: Lendeborg action or celebration\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Warriors 119, Timberwolves 114 — Curry 44, Lendeborg 26\n**Verified Facts (HIGH confidence):**\n- Final score: Golden State Warriors 119, Minnesota Timberwolves 114 — [ESPN/CBS Sports gametracker Oct 28, 2026]\n- Stephen Curry: 44 points (season-high) — [ESPN final box score Oct 28, 2026]\n- Rookie Yaxel Lendeborg: 26 points — [ESPN final box score Oct 28, 2026]\n- Anthony Edwards did NOT play — recovering from knee surgery announcement made Tuesday — [follow-up from prior pipeline: Edwards confirmed for surgery Oct 27]\n- Game date: Wednesday, October 28, 2026\n**MEDIUM confidence facts:**\n- Warriors improved to (estimated) 3-2 or better based on known schedule\n- Timberwolves without Edwards; rest of roster stepped up but fell short\n**Notes for writer:**\n- Lendeborg is a 2026 NBA Draft pick playing for Golden State; exact draft slot not confirmed — do not state position in article\n- Do NOT state Edwards' draft year or exact age unless separately verified from a reference source\n- The \"season-high\" qualifier for Curry's 44 comes from first-search result (ESPN); treat as HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Knicks 133, Bulls 127 — Brunson 38, New York Rallies From 19 Down [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Knicks trailed by 19. Then Jalen Brunson scored 38.\n\nNew York came back to beat Chicago 133-127. Two wins in a row. Madison Square Garden is awake. #NewYorkKnicks",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkKnicks"
+          ],
+          "char_count": 166
+        },
+        {
+          "label": "Post 2-2",
+          "text": "38 points. A 19-point deficit erased.\n\nJalen Brunson refused to let the Knicks lose Wednesday night. Back-to-back wins for New York. #NewYorkKnicks #Knicks",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkKnicks",
+            "#Knicks"
+          ],
+          "char_count": 155
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-knicks-133-bulls-127-brunson-38-comeback.html",
+        "headline": "Brunson Scores 38, Knicks Rally From 19 Down to Beat Bulls 133-127",
+        "word_count": 503
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks 133, Bulls 127 — Brunson 38\n\n**Image 1 (Social — 1080x1350):**\n- Purpose: Primary social for comeback story\n- imagn search terms: `Jalen Brunson New York Knicks`\n- Caption overlay: \"BRUNSON 38 | DOWN 19, WON BY 6\"\n- Style: Brunson driving, shooting, or fist pump\n- Status: not_started\n\n**Image 2 (Social — 1080x1350):**\n- Purpose: Secondary engagement image\n- imagn search terms: `Jalen Brunson New York Knicks`\n- Caption overlay: \"THE COMEBACK IS REAL | 133-127\"\n- Style: Different angle or moment from the game\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Knicks 133, Bulls 127 — Brunson 38, 19-Point Comeback\n**Verified Facts (HIGH confidence):**\n- Final score: New York Knicks 133, Chicago Bulls 127 — [ESPN game recap Oct 28, 2026]\n- Jalen Brunson: 38 points — [ESPN game recap Oct 28, 2026]\n- Knicks trailed by 19 points before rallying — [ESPN/CBS Sports recap Oct 28, 2026]\n- Knicks second consecutive win — [context from prior pipeline: Knicks first W was 111-97 over Pistons on Oct 27]\n- Game date: Wednesday, October 28, 2026\n**Notes for writer:**\n- Do not state specific quarter in which the deficit was largest unless you can verify it\n- The comeback narrative is the hook; Brunson's performance is the engine",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Raptors 129, Magic 99 — Barnes 28, Toronto Throttles Orlando; Rematch Friday [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Scottie Barnes 28. RJ Barrett 25. Raptors beat the Magic by 30.\n\nThese teams play again Friday in an NBA Cup game. Can Orlando bounce back? #Raptors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Raptors"
+          ],
+          "char_count": 148
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-raptors-129-magic-99-barnes-28-nba-cup-rematch.html",
+        "headline": "Raptors Crush Magic 129-99, Set Up NBA Cup Rematch Friday in Toronto",
+        "word_count": 540
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Raptors 129, Magic 99\n\n**Image 1 (Social — 1080x1350):**\n- Purpose: Primary social for blowout + rematch tease\n- imagn search terms: `Scottie Barnes Toronto Raptors`\n- Caption overlay: \"BARNES 28 | RAPTORS ROLL\"\n- Style: Barnes scoring or defending\n- Status: not_started\n\n**Image 2 (Social — 1080x1350):**\n- Purpose: NBA Cup rematch preview angle\n- imagn search terms: `RJ Barrett Toronto Raptors`\n- Caption overlay: \"NBA CUP REMATCH FRIDAY\"\n- Style: Barrett in action\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Raptors 129, Magic 99 — Barnes 28, Barrett 25\n**Verified Facts (HIGH confidence):**\n- Final score: Toronto Raptors 129, Orlando Magic 99 — [ESPN game recap Oct 28, 2026]\n- Scottie Barnes: 28 points — [ESPN game recap Oct 28, 2026]\n- RJ Barrett: 25 points — [ESPN game recap Oct 28, 2026]\n- Rematch scheduled Friday night at Scotiabank Arena (NBA Cup group stage) — [ESPN recap note Oct 28]\n- Game date: Wednesday, October 28, 2026\n**MEDIUM confidence facts:**\n- Margin of 30 points is large — treat blowout nature as confirmed HIGH\n- Magic's second consecutive loss — [context: Magic lost at home to Knicks 111-102 on Oct 25 per prior pipeline]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Victor Wembanyama 36/14 Leads Spurs Past Jazz 117-111 in OT — Three Straight Wins [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Victor Wembanyama: 36 points, 14 rebounds.\n\nSpurs beat Jazz 117-111 in OT on a 12-0 run. Three straight wins for San Antonio. Wemby is a problem. #Spurs #GoSpursGo",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Spurs",
+            "#GoSpursGo"
+          ],
+          "char_count": 163
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-wembanyama-36-14-spurs-117-jazz-111-ot.html",
+        "headline": "Wembanyama's 36-Point, 14-Rebound Night Lifts Spurs Past Jazz 117-111 in Overtime",
+        "word_count": 515
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wembanyama 36/14, Spurs 117 Jazz 111 OT\n\n**Image 1 (Social — 1080x1350):**\n- Purpose: Primary social for Wembanyama performance\n- imagn search terms: `Victor Wembanyama San Antonio Spurs`\n- Caption overlay: \"WEMBY 36 PTS 14 REB | SPURS WIN IN OT\"\n- Style: Wembanyama above the rim or post-game\n- Status: not_started\n\n**Image 2 (Social — 1080x1350):**\n- Purpose: Three-straight narrative\n- imagn search terms: `Victor Wembanyama San Antonio Spurs`\n- Caption overlay: \"THREE STRAIGHT WINS\"\n- Style: Team celebration or Wembanyama pointing skyward\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Spurs 117, Jazz 111 OT — Wembanyama 36/14\n**Verified Facts (HIGH confidence):**\n- Final score: San Antonio Spurs 117, Utah Jazz 111 OT — [first-search result, ESPN context Oct 28, 2026]\n- Victor Wembanyama: 36 points, 14 rebounds — [ESPN/search result Oct 28, 2026]\n- San Antonio used a 12-0 run in overtime to secure the win — [search result Oct 28, 2026]\n- Spurs' third consecutive win — [search result Oct 28, 2026]\n- Game date: Wednesday, October 28, 2026\n**Notes for writer:**\n- \"Third straight win\" is HIGH confidence per search result\n- Do NOT state Wembanyama's exact age or draft year without primary-source verification",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "NBA Thursday Preview — Three Games Tonight; NBA Cup Group Play Opens Friday [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Three games tonight: Cavs at Bucks, Wolves at Spurs, Thunder at Rockets.\n\nThen the NBA Cup group play kicks off Friday. Big basketball week. #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 145
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nba-thursday-preview-cup-opens-friday.html",
+        "headline": "NBA Thursday Preview: Three Games Tonight, NBA Cup Group Play Opens Friday",
+        "word_count": 444
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NBA Thursday Preview\n\n**Image 1 (Social — 1080x1350):**\n- Purpose: Preview post driving tune-in tonight\n- imagn search terms: `NBA basketball arena crowd`\n- Caption overlay: \"TONIGHT: CAVS-BUCKS | WOLVES-SPURS | THUNDER-ROCKETS\"\n- Style: Arena atmosphere with court visible\n- Status: not_started\n\n**Image 2 (Social — 1080x1350):**\n- Purpose: NBA Cup hype image\n- imagn search terms: `NBA Cup trophy basketball`\n- Caption overlay: \"NBA CUP STARTS FRIDAY\"\n- Style: Trophy or tournament graphic feel\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NBA Thursday Preview + NBA Cup\n**Verified Facts (HIGH confidence):**\n- Tonight's games (Oct 29): Cavaliers at Bucks (8 PM ET), Timberwolves at Spurs (8 PM ET), Thunder at Rockets (8:30 PM ET) — [Legion Report Oct schedule, 2026-27]\n- NBA Cup group play starts Friday, October 30 — [ESPN NBA Cup format article 2026]\n- First NBA Cup game listed: Charlotte Hornets at Washington Wizards, 7 PM ET Friday — [ABC7/ESPN Oct 2026]\n- Magic-Raptors Friday rematch is an NBA Cup group-stage game — [ESPN game recap Oct 28]\n**Notes for writer:**\n- NBA Cup championship: Dec 11 at Hinkle Field House — can include for context\n- Quarterfinals: Dec 4-5; Semifinals: Dec 8-9 — can include as color",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

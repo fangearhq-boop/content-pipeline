@@ -63,3 +63,23 @@
 3. T2 NEW: Timberwolves 117, Raptors 94 — Minnesota Dominates Toronto by 23 (Marcus Cole)
 4. T2 NEW: Magic 111, Knicks 102 — Orlando Upsets New York at MSG (Damon Pierce)
 5. T2 NEW: NBA Monday Preview — 7 Games, Flagg Questionable, NBA Cup Starts Oct. 30 (Jake Torres)
+
+---
+
+### 2026-10-29 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 46 claims, HIGH; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (22 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via git push main
+
+**Stories covered:**
+1. T1 NEW: Warriors 119, Timberwolves 114 — Curry 44 Season-High, Lendeborg 26 Rookie Breakout (Jake Torres)
+2. T1 NEW: Knicks 133, Bulls 127 — Brunson 38, Massive 19-Point Comeback (Marcus Cole)
+3. T2 NEW: Raptors 129, Magic 99 — Barnes 28, Barrett 25, NBA Cup Rematch Friday (Damon Pierce)
+4. T2 NEW: Wembanyama 36/14, Spurs 117 Jazz 111 OT — Three Straight Wins (Jake Torres)
+5. T2 NEW: NBA Thursday Preview — Cavs-Bucks, Wolves-Spurs, OKC-Rockets; NBA Cup Opens Friday (Marcus Cole)
