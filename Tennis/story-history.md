@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## October 29, 2026
+
+| 2026-10-29 | Novak Djokovic def. Ugo Humbert 4-6, 6-3, 6-4 (2h28m) at Swiss Indoors Basel R1 — first Basel win since 2011; Humbert medical timeout (back) when trailing 4-1 in 2nd set; Djokovic saved 5 of 6 break points; returns to top 10; faces Struff R16 Thursday; Race position ~11th (~2,840 pts). Sources: ATP Tour, Tennis Majors, Tennis365, TennisTemple | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (2026-10-28 S3: Djokovic vs. Humbert scheduled → result confirmed) |
+| 2026-10-29 | Vienna Day 3: Cobolli def. Dimitrov 6-4, 3-6, 6-3; Musetti def. Tiafoe (6th consecutive win; score unconfirmed); de Minaur advancing; Zverev Year-End No. 1 already clinched Oct 12 (correction to Oct 28 pipeline). Sources: ATP Tour, Tennis.com, Sky Italia, Tennisbubbles | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (2026-10-28 S2: Vienna Day 2 → Day 3 results) |
+| 2026-10-29 | Basel Day 3: Borges def. Ruud (No. 9) 1-6, 6-3, 6-4; Rune advancing; Shapovalov advancing; R16 Thu: Djokovic vs. Struff, Shelton (1) vs. Kym, Fils (2) vs. Michelsen. Sources: ATP Tour, ESPN bracket, Tennistonic | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-10-28 S3: Basel Day 2 → Day 3 + R16 preview) |
+| 2026-10-29 | Paris Masters (Rolex): draw ceremony Fri Oct 30 ~19:00; main draw Nov 2–8 at Plenitude Arena, Nanterre; 1,000 Race pts to champion; last ATP Masters 1000 of 2026; Sinner out for season; final Race reckoning before Turin. Sources: ATP Tour, Wikipedia | T2 | X, FB, Article | Elena Voss; NEW |
+| 2026-10-29 | ATP Race standings update after Vienna/Basel Day 3: Cobolli 6th (~3,640 — holds after Dimitrov win); Tiafoe 8th (~3,380 — drops after Musetti loss); Djokovic back in top 10; Race math: 500+500 (Vienna+Basel) + 1,000 (Paris) remaining. WTA Finals draw ~Nov 5, Indian Wells Nov 8–15; 8-player field confirmed. Sources: Oct 28 pipeline, ATP Tour, WTA official | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (2026-10-28 S4+S5: Race + WTA Finals → consolidated update) |
+
+---
+
+
 ## October 28, 2026
 
 | 2026-10-28 | Jiří Lehečká def. Stan Wawrinka 7-5, 7-6(2) at Swiss Indoors Basel Tuesday evening — Wawrinka's professional career is over; served at 2-6 in tiebreak, Lehečká won last 5 points from 2-2; second-serve stats: Lehečká 17/20 (85%) vs Wawrinka 17/39 (44%); career: 590 wins/985 matches, 16 ATP titles, 3 Grand Slams (2014 AO, 2015 RG, 2016 USO), Olympic gold 2008, career-high No. 3. Sources: Sofascore, Tennis Majors, Yahoo Sports, TennisWorldUSA, SRN News | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (2026-10-27 S2: Wawrinka final match preview → result confirmed) |

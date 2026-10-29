@@ -1,5 +1,35 @@
 # Tennis Fanrecap — Pipeline Status
 
+## Current Run: 2026-10-29
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Djokovic d. Humbert 4-6,6-3,6-4 Basel R1 (first Basel win since 2011; Humbert medical timeout; 5/6 BPs saved; returns to top 10; Struff next); Vienna Day 3: Cobolli d. Dimitrov 6-4,3-6,6-3; Musetti d. Tiafoe (6th straight win, score unconfirmed); de Minaur advancing; CORRECTION: Zverev Year-End No.1 clinched Oct 12 (not "one QF away"); Basel: Borges d. Ruud 1-6,6-3,6-4; Rune advancing; R16: Djokovic/Struff, Shelton/Kym, Fils/Michelsen; Paris Masters draw Oct 30, main draw Nov 2-8, 1,000 pts; WTA Finals draw ~Nov 5 |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Oct 28 S3: Djokovic vs Humbert scheduled → result confirmed); S2 FOLLOW-UP (Oct 28 S2: Vienna Day 2 → Day 3 results); S3 FOLLOW-UP (Oct 28 S3: Basel Day 2 → Day 3 + R16); S4 NEW (Paris Masters preview); S5 FOLLOW-UP (Oct 28 S4+S5: Race + WTA Finals → consolidated) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on Musetti score, de Minaur score, Basel R16 outcomes (not yet played), Race standings post-match |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts across 5 stories (S1:2, S2:1, S3:1, S4:1, S5:1); all ≤280 chars (234, 216, 252, 185, 268, 252); #TennisFanrecap + topic hashtags |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; correct format |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 9 imagn concepts across 5 stories; player-name-only search terms |
+| Articles (5) | COMPLETE | article-01 Djokovic d. Humbert (Elena Voss T1); article-02 Vienna Day 3 Cobolli/Musetti (Ryan Calloway T1); article-03 Basel Day 3 Borges/Ruud (Marcus Cole T2); article-04 Paris Masters preview (Elena Voss T2); article-05 ATP Race + WTA Finals update (Ryan Calloway T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 45 claims auto-extracted; all stories present in all content files; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles; posting window warnings (cosmetic) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 9 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 26 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-10-29.xlsx + tfr-postplanner-tobi-2026-10-29.xlsx — 6 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Oct 29 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 6 X posts + 5 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3])
+- **Key stories:** Djokovic beats Humbert 4-6, 6-3, 6-4 (first Basel win since 2011, Race alive); Vienna Day 3 — Cobolli d. Dimitrov, Musetti 6th straight win over Tiafoe (Race impact); Basel — Borges upsets Ruud, Djokovic vs. Struff today; Paris Masters draw Oct 30 (1,000 Race pts, Nov 2-8); ATP Race + WTA Finals consolidated update
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); PostPlanner + compile + review-dashboard all COMPLETED successfully
+
+---
+
 ## Current Run: 2026-10-28
 
 | Step | Status | Notes |

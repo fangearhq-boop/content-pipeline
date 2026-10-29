@@ -1,0 +1,263 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-29",
+  "compiled_at": "2026-10-29T12:19:42.217071+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Djokovic Wins Basel Return, Beats Humbert 4-6, 6-3, 6-4",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Djokovic beats Humbert 4-6, 6-3, 6-4. First Basel win since 2011. He lost the first set, saved 5 of 6 break points, and closed it out in 2h28m. Race to Turin: alive. Faces Struff in R16 today. #TennisFanrecap #SwissIndoors #NovakDjokovic",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#SwissIndoors",
+            "#NovakDjokovic"
+          ],
+          "char_count": 237
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Humbert took a medical timeout for his back, trailed by two sets to one, and Djokovic still had to earn every point. 4-6, 6-3, 6-4. He's back in the top 10 and still in the Race. #TennisFanrecap #SwissIndoors #ATPRace",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#SwissIndoors",
+            "#ATPRace"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "Novak Djokovic is still very much alive in the Race to Turin.\n\nWednesday night in Basel, Djokovic fell behind Ugo Humbert in the first set and looked vulnerable. Humbert, playing well, took the opener 6-4. Then came a medical timeout for a back issue when Humbert was already trailing 4-1 in the second set — whether that changed the dynamic is up for debate, but Djokovic won the second set 6-3 and closed the third 6-4.\n\nThis was Djokovic's first Basel win since 2011. Fifteen years. He saved 5 of 6 break points in what was a tight match start to finish. The result puts him back inside the top 10 and keeps his ATP Finals push going.\n\nNext up: Jan-Lennard Struff in the second round today. Every match now matters.\n\nWho do you think has a better shot at making the ATP Finals — Djokovic or de Minaur?",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-djokovic-def-humbert-4-6-6-3-6-4-basel.html",
+        "headline": "Djokovic Beats Humbert 4-6, 6-3, 6-4 in First Basel Win Since 2011",
+        "word_count": 513
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Djokovic Beats Humbert 4-6, 6-3, 6-4\n\n**Image Concept 1 (Social 1080x1350):**\n- Search term: `Novak Djokovic Serbia`\n- Use: Reaction/fist pump or focused baseline expression\n\n**Image Concept 2 (Social 1080x1350):**\n- Search term: `Ugo Humbert France`\n- Use: Match play shot, neutral expression\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Djokovic def. Humbert 4-6, 6-3, 6-4 at Basel\n**Sources:** ATP Tour official, Tennis Majors, Tennis365, TennisTemple, thesportsencounter.com\n| Fact | Confidence | Notes |\n|------|-----------|-------|\n| Result: Djokovic def. Humbert 4-6, 6-3, 6-4 | HIGH | Multiple sources confirm score |\n| Match duration: 2h28m (some say 2h29m) | HIGH | Minor discrepancy; report \"approximately 2h28m\" |\n| Humbert medical timeout for back issue when trailing 4-1 in 2nd set | HIGH | Multiple sources confirm |\n| Djokovic saved 5 of 6 break points | HIGH | ATP Tour stat confirmed |\n| First Basel win for Djokovic since 2011 | HIGH | 15-year gap confirmed across sources |\n| Djokovic returns to top 10 with win | HIGH | Confirmed ATP source |\n| Djokovic vs. Struff scheduled R16 Thursday | HIGH | Draw confirmed, Struff beat Hanfmann in R1 |\n| Win keeps Djokovic's ATP Finals bid alive | HIGH | Race context from Oct 28 pipeline (11th ~2,840 pts) |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Vienna Day 3 — Cobolli Survives Dimitrov, Musetti Upsets Tiafoe",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Vienna Day 3: Cobolli def. Dimitrov 6-4, 3-6, 6-3. Musetti wins his sixth straight, eliminating Tiafoe. De Minaur also through. Race picture tightening — Cobolli holds 6th, Tiafoe's spot at 8th is now in doubt. #TennisFanrecap #ATPVienna #ATPRace",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPVienna",
+            "#ATPRace"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "Vienna's third day shook up the Race to Turin in a significant way.\n\nFlavio Cobolli survived a three-set battle against Grigor Dimitrov — 6-4, 3-6, 6-3 — holding his position at No. 6 in the Race standings. That win matters a lot when you're trying to lock down an ATP Finals spot.\n\nThe bigger story? Lorenzo Musetti continued his remarkable run, defeating Frances Tiafoe to record his sixth consecutive victory. Tiafoe was sitting 8th in the Race, right on the bubble. A loss in Vienna hits his qualification hopes hard.\n\nAlexander de Minaur also advanced. The quarterfinal picture is forming, and with Paris Masters draw dropping Friday, every result between now and Nov. 8 will shift the standings.\n\nWhich players do you think are most likely to grab the final ATP Finals spots — Cobolli, Djokovic, or Medvedev?",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-vienna-day3-cobolli-musetti-tiafoe-results.html",
+        "headline": "Vienna Day 3: Cobolli Survives Dimitrov, Musetti Upsets Tiafoe to Shake Race Standings",
+        "word_count": 524
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Vienna Day 3 — Cobolli, Musetti Advance; Tiafoe Exits\n\n**Image Concept 3 (Social 1080x1350):**\n- Search term: `Flavio Cobolli Italy`\n- Use: Celebration or focused groundstroke\n\n**Image Concept 4 (Social 1080x1350):**\n- Search term: `Lorenzo Musetti Italy`\n- Use: Celebration or service motion\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Vienna Day 3 Results\n**Sources:** ATP Tour, Tennis.com, Sky Italia, Tennisbubbles\n| Fact | Confidence | Notes |\n|------|-----------|-------|\n| Cobolli def. Dimitrov 6-4, 3-6, 6-3 | HIGH | ATP Tour confirmed |\n| Cobolli currently 6th in Race (~3,640 pts) | MEDIUM | Points from Oct 28 snapshot; exact post-match total may have changed |\n| Musetti def. Tiafoe | MEDIUM | Score unconfirmed; Sky Italia noted \"Musetti's sixth consecutive win\" — report win without score |\n| de Minaur advancing | MEDIUM | \"Convincingly\" per one source; no score confirmed |\n| Zverev/Alcaraz already through from Day 2 | HIGH | Oct 28 pipeline confirmed |\n| Zverev clinched Year-End No. 1 on Oct 12 | HIGH | ATP Tour, Washington Post, TennisNow confirmed — NOT \"one QF away\" as noted in Oct 28 |\n| QF picture taking shape | MEDIUM | Draw projection, not confirmed brackets |\n**Correction to prior pipeline:** Oct 28 pipeline noted Zverev \"one QF from locking up ATP World No. 1 year-end ranking\" — this was incorrect; Zverev clinched Year-End No. 1 on Oct 12 when Alcaraz lost in Shanghai and Sinner announced his season was over. Vienna run is about Race to Turin qualification and titles, not the No. 1 milestone.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Basel — Borges Topples Ruud, Djokovic vs. Struff on Thursday",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Basel upsets: Borges def. No. 9 seed Ruud 1-6, 6-3, 6-4. Rune advances. Today: Djokovic vs. Struff, Shelton vs. Kym, Fils vs. Michelsen. The Race keeps moving. #TennisFanrecap #SwissIndoors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#SwissIndoors"
+          ],
+          "char_count": 189
+        }
+      ],
+      "facebook": {
+        "long_form": "Wednesday's Basel results featured one of the week's better upsets: Joao Borges defeated No. 9 seed Casper Ruud 1-6, 6-3, 6-4 after being dominated in the opening set. Borges turned the match completely around and closed it out convincingly. Holger Rune also advanced.\n\nThursday's second round features the matches everyone's been waiting for. Novak Djokovic takes on Jan-Lennard Struff — a Djokovic win would set up a potential quarterfinal run that could change the Race to Turin math. No. 1 seed Ben Shelton faces wildcard Kym. No. 2 Fils meets Michelsen.\n\nBasel is moving fast with results that matter beyond the tournament itself.\n\nWho do you think makes the Basel semifinals?",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-03-basel-day3-borges-ruud-djokovic-struff.html",
+        "headline": "Basel Day 3: Borges Upsets Ruud, Djokovic Faces Struff in Thursday R16",
+        "word_count": 455
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Basel — Borges Upsets Ruud, Thursday R16\n\n**Image Concept 5 (Social 1080x1350):**\n- Search term: `Joao Borges Portugal`\n- Use: Forehand or backhand groundstroke\n\n**Image Concept 6 (Social 1080x1350):**\n- Search term: `Casper Ruud Norway`\n- Use: Match action or neutral baseline\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Basel Day 3\n**Sources:** ATP Tour, ESPN bracket, Tennistonic\n| Fact | Confidence | Notes |\n|------|-----------|-------|\n| Borges def. Ruud (9th seed) 1-6, 6-3, 6-4 | HIGH | ATP Tour + ESPN confirmed |\n| Rune advancing | MEDIUM | ATP Tour snippet; no score confirmed |\n| Shapovalov def. Bertola | MEDIUM | Single source |\n| Djokovic vs. Struff (R16) scheduled Thursday | HIGH | Draw confirmed |\n| Shelton (No. 1 seed) vs. Kym (wildcard) Thursday | MEDIUM | ESPN bracket; result unconfirmed as of research time |\n| Fils (No. 2 seed) vs. Michelsen Thursday | MEDIUM | ESPN bracket |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Paris Masters Preview — Draw Drops Friday, Race Finale Begins Nov. 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Paris Masters draw drops Friday (Oct 30). Main draw: Nov. 2–8, Plenitude Arena. It's the final Masters 1000 of 2026 — 1,000 pts to the champion. With Vienna and Basel still live, this is the last chance for Race to Turin hopefuls. #TennisFanrecap #ParisMasters #ATPRace",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ParisMasters",
+            "#ATPRace"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "The last big event of the ATP season is almost here.\n\nThe Rolex Paris Masters draw ceremony is tomorrow (Friday, October 30), and the main draw begins November 2 at the Plenitude Arena in Nanterre. The event runs through November 8 — and it's worth 1,000 Race points to the champion.\n\nThat number matters enormously right now. With Vienna and Basel each offering 500 points, and Paris offering 1,000, the total available between now and Nov. 8 is more than enough to completely reshape the Race to Turin standings. Jannik Sinner is out for the season, which means a reshuffled seeding and four more confirmed spots at the ATP Finals for the rest of the field to chase.\n\nAlcaraz, Zverev, Fritz, and Shelton are all expected to headline the Paris field, along with Cobolli, Medvedev, Fils, Djokovic, and others fighting for the final spots.\n\nWho do you think wins Paris this year?",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-paris-masters-preview-draw-oct30.html",
+        "headline": "Paris Masters Draw Drops Friday: The Race to Turin Reaches Its Climax Nov. 2-8",
+        "word_count": 427
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Paris Masters Preview\n\n**Image Concept 7 (Article Hero 1200x630):**\n- Search term: `Carlos Alcaraz Spain`\n- Use: Serve or action shot; Paris-appropriate indoor court\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Paris Masters Preview\n**Sources:** ATP Tour, Wikipedia, Paris Masters official\n| Fact | Confidence | Notes |\n|------|-----------|-------|\n| Draw ceremony: Friday Oct 30 (~19:00) | HIGH | ATP Tour confirmed |\n| Main draw starts: Nov 2 | HIGH | ATP Tour confirmed |\n| Runs through: Nov 8 | HIGH | ATP Tour confirmed |\n| Venue: Plenitude Arena, Nanterre | HIGH | Confirmed |\n| Points: 1,000 to champion (Masters 1000) | HIGH | Standard ATP |\n| Sinner out for season (right knee) | HIGH | Multiple sources |\n| Last ATP Masters 1000 of 2026 season | HIGH | Confirmed |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "ATP Race Tightens; WTA Finals Draw Still Expected Around Nov. 5",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "ATP Race standings shift after Thursday: Cobolli holds, Tiafoe drops after Musetti loss. Djokovic into R16 at Basel. Paris draw Friday; 1,000 pts Nov. 2–8. WTA Finals draw expected ~Nov. 5. Indian Wells opens Nov. 8. #TennisFanrecap #ATPRace #WTAFinals",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPRace",
+            "#WTAFinals"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "Thursday's tennis moved the Race to Turin standings again, and not everyone had a good day.\n\nCobolli held his spot at No. 6 with a Vienna win. Tiafoe — sitting 8th and on the bubble — lost to Musetti, which hurts his standing at the worst possible time. Djokovic advanced in Basel and climbed back into the top 10. The Race now has Paris Masters (1,000 pts, Nov. 2–8) looming as the final major shakeup event.\n\nOn the WTA side, the Finals draw is still expected around November 5. Eight players, Indian Wells, November 8–15. Rybakina, Sabalenka, Andreeva, Pegula, Gauff, Svitolina, Noskova, and Muchova. The draw will determine the group stage matchups and set the bracket everyone's been anticipating.\n\nThe group question no one can stop talking about: do Rybakina and Sabalenka land in the same group?",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-atp-race-wta-finals-standings-oct29.html",
+        "headline": "ATP Race Shifts Again as Tiafoe Exits Vienna; WTA Finals Draw Expected Around Nov. 5",
+        "word_count": 484
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ATP Race + WTA Finals Update\n\n**Image Concept 8 (Social 1080x1350):**\n- Search term: `Alexander Zverev Germany`\n- Use: Celebration or service motion\n\n**Image Concept 9 (Social 1080x1350):**\n- Search term: `Elena Rybakina Kazakhstan`\n- Use: Forehand winner or celebration\n\n---\n\n**Summary:** 9 imagn concepts across 5 stories. All search terms are player-name-only format. Sizes: 7 social (1080x1350), 2 hero (1200x630)."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ATP Race + WTA Finals Update\n**Sources:** Oct 28 pipeline, ATP Tour, Tennisbubbles, WTA official\n| Fact | Confidence | Notes |\n|------|-----------|-------|\n| Medvedev 5th (3,660 pts) | MEDIUM | Oct 28 snapshot; no fresh Oct 29 update confirmed |\n| Cobolli 6th (3,640 pts) — may be higher after Vienna win | MEDIUM | Post-win total unconfirmed |\n| Fils 7th (3,475 pts) | MEDIUM | Oct 28 snapshot |\n| Tiafoe 8th (3,380 pts) — may be lower after loss to Musetti | MEDIUM | Post-loss standing unconfirmed |\n| Jódar 9th (~3,159 pts), de Minaur 10th (~2,880 pts), Djokovic 11th (~2,840 pts) | MEDIUM | Oct 28 snapshot |\n| WTA Finals draw expected ~Nov 5 | HIGH | Multiple sources |\n| WTA Finals Nov 8–15 at Indian Wells | HIGH | WTA official confirmed |\n| Full field: Rybakina, Sabalenka, Andreeva, Pegula, Gauff, Svitolina, Noskova, Muchova | HIGH | WTA confirmed |",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
