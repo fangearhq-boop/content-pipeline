@@ -1,0 +1,245 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-29",
+  "compiled_at": "2026-10-29T10:26:11.048557+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Brewers Win First World Series Title — 4-1 in Game 5",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Milwaukee Brewers are World Series champions.\n\n57 years. Five games. One franchise forever changed.\n\nMilwaukee beat Tampa Bay 4-1 in Game 5. Misiorowski. Pratt. Megill. Contreras.\n\nThe wait is over. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 211
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Milwaukee Brewers: 2026 World Series Champions.\n\n11-2 postseason record.\n4-1 Game 5.\n57 years of waiting.\n\nThis is their moment. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 137
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-brewers-win-2026-world-series.html",
+        "headline": "Milwaukee Brewers Win First World Series Title in 57-Year Franchise History",
+        "word_count": 636
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Brewers Win 2026 World Series\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** gemini — mode: complete\n- **Prompt:** \"Milwaukee Brewers players celebrating on the field at Tropicana Field, champagne spraying, players jumping in a dogpile, navy blue and gold uniforms, stadium lights blazing overhead, crowd cheering behind them, bold text overlay 'WORLD SERIES CHAMPIONS' at top and 'BREWERS WIN | GAME 5 | 4-1' at bottom, confetti falling, championship celebration poster style\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** gemini — mode: complete\n- **Prompt:** \"Milwaukee Brewers players holding the Commissioner's Trophy on the field at Tropicana Field, wide team celebration shot, navy blue and gold colors, stadium lights glowing, editorial hero banner format, clean text overlay area on left reading 'Milwaukee's First World Series Title' in bold white sans-serif font, championship atmosphere\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "William Contreras Named World Series MVP",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "William Contreras: 2026 World Series MVP.\n\n.381 batting average. 4 RBI. 4 caught stealing. 10-for-13 on ABS challenges.\n\nThe slow trots. The throws to third. The hits when it mattered.\n\nContreras was the best player in this series. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 240
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Pat Murphy knew it before the vote:\n\n\"If people aren't noticing Contreras — he was maybe the MVP of the Dodgers series.\"\n\nHe was the MVP of the World Series, too.\n\nWilliam Contreras. World Series champion. WS MVP. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-contreras-world-series-mvp.html",
+        "headline": "William Contreras Named World Series MVP After Two-Way Masterpiece",
+        "word_count": 568
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "William Contreras WS MVP\n\n#### Image Concept 3 — Social (1080x1350)\n- **Type:** gemini — mode: complete\n- **Prompt:** \"Baseball catcher in navy and gold Brewers uniform raising a bat in triumph at home plate, Tropicana Field crowd roaring in background, stadium lights blazing, bold stat overlay reading 'CONTRERAS | .381 AVG | 4 RBI | WS MVP' in clean white sans-serif font, sports hero portrait style, dramatic night game lighting\"\n\n#### Image Concept 4 — Article Hero (1200x630)\n- **Type:** gemini — mode: complete\n- **Prompt:** \"Baseball player in navy and gold Brewers uniform taking a slow home run trot around the bases, Tropicana Field crowd packed and cheering in background, wide-angle editorial banner style, bold text overlay reading 'World Series MVP: William Contreras' in clean white font on dark bar at bottom, championship atmosphere\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Misiorowski Masterful in Clincher — AL Cy Young Frontrunner",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Jacob Misiorowski in 2026:\n\n252 strikeouts. 1.80 ERA. Postseason ERA under 1.00.\n\n5 2/3 scoreless innings to clinch the World Series.\n\nThe AL Cy Young Award belongs to him. It's not close. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-misiorowski-cy-young-2026.html",
+        "headline": "Jacob Misiorowski's 2026 Season Makes the AL Cy Young Award Case Undeniable",
+        "word_count": 586
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Misiorowski Cy Young Case\n\n#### Image Concept 5 — Social (1080x1350)\n- **Type:** gemini — mode: complete\n- **Prompt:** \"Young baseball pitcher in Brewers navy and gold uniform in full mid-delivery wind-up on the mound at Tropicana Field, intense focus, stadium lights behind him, bold stat overlay 'MISIOROWSKI | 1.80 ERA | 252 K | 16-5' in clean white sans-serif font, sports action poster, cinematic dark background, World Series atmosphere\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Hot Stove Officially Open — Free Agency Begins, CBA Expiration Looms",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "MLB free agency is officially open.\n\nRandy Arozarena. Tarik Skubal. Two of the best players available.\n\nThe catch: the CBA expires December 1. A lockout is coming.\n\nTeams have weeks — not months — to get deals done.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-mlb-hot-stove-cba-free-agency.html",
+        "headline": "MLB Free Agency Is Open — And the CBA Deadline Is Already Counting Down",
+        "word_count": 645
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "MLB Hot Stove Opens / CBA Deadline\n\n#### Image Concept 6 — Social (1080x1350)\n- **Type:** gemini — mode: complete\n- **Prompt:** \"Baseball player in Seattle Mariners navy and teal uniform mid-swing at the plate, dramatic stadium lighting, bold text overlay 'FREE AGENCY IS OPEN' at top and 'CBA EXPIRES DEC. 1 — SIGN OR WAIT?' at bottom, offseason sports editorial style, dark dramatic background, hot stove season energy\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Rays Fall One Win Short — From G4 Heroes to WS Runners-Up",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Tampa Bay won Game 4 in 12 innings to stay alive.\n\nThey became only the 5th team in WS history to win G4 while trailing 3-0.\n\nThey gave everything they had.\n\nOne win short. A remarkable 2026 run for the Rays. #RaysUp",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RaysUp"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-rays-2026-world-series-runners-up.html",
+        "headline": "Tampa Bay Rays Fall One Win Short of the Greatest Comeback in World Series History",
+        "word_count": 591
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rays 2026 World Series Reflection\n\n#### Image Concept 7 — Social (1080x1350)\n- **Type:** gemini — mode: complete\n- **Prompt:** \"Tampa Bay Rays players standing on the field after the final out of Game 5, blue and white uniforms, heads bowed or hands on knees, emotional defeat, Tropicana Field stadium lights still bright, quiet stadium atmosphere, bold text overlay 'SO CLOSE' at top and 'RAYS: 2026 AL CHAMPIONS' at bottom, sports reflection editorial style\""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
