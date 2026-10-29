@@ -1,0 +1,119 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-29",
+  "compiled_at": "2026-10-29T10:19:26.435197+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Tennessee Intersquad TODAY — 5 PM ET, Free",
+      "tier": 0,
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "TODAY is the day.\n\nTennessee softball's final public intersquad: 5 PM ET at Sherri Parker Lee Stadium.\n\nFREE admission. Watch Pickens, Mardjetko, and Shelton pitch before winter.\n\nAfter tonight, this team goes dark until spring. #VolSoftball",
+          "char_count": 241
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Karlyn Pickens. 194 K. 1.70 ERA.\nKelly Mardjetko. 16-3. 1.26 ERA.\nBailee Shelton. 7 K in 3 fall innings — as a freshman.\n\nAll three pitch tonight at Sherri Parker Lee Stadium, 5 PM ET. FREE.\n\nLast public look at the SEC's deepest staff. #VolSoftball",
+          "char_count": 249
+        }
+      ],
+      "article": {
+        "filename": "article-01-tennessee-intersquad-today.html",
+        "headline": "Tennessee Softball's Final Public Intersquad Is Tonight — Free at Sherri Parker Lee Stadium",
+        "word_count": 629
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "OU Fall Finale Preview — Tomorrow Night at Love's Field",
+      "tier": 0,
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "TOMORROW: Oklahoma softball's fall finale.\n\nLove's Field. Oct. 30. 6:30 PM CT. Free on 1oklahoma.com.\n\nLast chance to see Kendall Wells (39 HR) and Rylie Kavan (2x WCWS MOP) before spring.\n\nOne of the top-3 national title contenders is worth watching. #Sooners",
+          "char_count": 260
+        }
+      ],
+      "article": {
+        "filename": "article-02-ou-fall-finale-preview.html",
+        "headline": "Oklahoma Softball Hosts Final Fall Game Thursday at Love's Field",
+        "word_count": 559
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Arizona Fall Finale Weekend — Oct. 30-31 at Hillenbrand",
+      "tier": 0,
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Arizona softball closes out fall this weekend at Hillenbrand Stadium.\n\nOct. 30: Chandler-Gilbert + Benedictine Mesa.\nOct. 31: Grand Canyon, noon.\n\nBig 12 DPOY Devyn Shockey leads 10 returning letterwinners. Caitlin Lowe's evaluation starts now. #BearDown",
+          "char_count": 254
+        }
+      ],
+      "article": {
+        "filename": "article-03-arizona-fall-finale-weekend.html",
+        "headline": "Arizona Softball Closes Fall at Hillenbrand With Three-Game Weekend",
+        "word_count": 684
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "2027 National Title Race: What Fall Ball Revealed",
+      "tier": 0,
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "Fall ball is wrapping up. Here's the 2027 title picture so far:\n\nFlorida: 4-0, +65 run differential.\nTennessee: 3-0, best pitching staff in the SEC.\nOklahoma: Wells + Kavan, explosive.\nTTU: No. 1 portal class signed.\n\nWho takes the 2027 title? #CollegeSoftball",
+          "char_count": 260
+        },
+        {
+          "label": "Post 4-2",
+          "text": "Florida, Tennessee, OU, and Texas Tech all had dominant falls.\n\nThe 2027 national title race may already be the deepest field we've seen.\n\nWhich program wins Oklahoma City in May? #CollegeSoftball",
+          "char_count": 196
+        }
+      ],
+      "article": {
+        "filename": "article-04-2027-title-race-fall-ball-revealed.html",
+        "headline": "What Fall Ball Has Revealed About the 2027 College Softball Title Race",
+        "word_count": 835
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Early Signing Period Looms — What the NCAA Eligibility Rule Means for November",
+      "tier": 0,
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The early signing period opens in November — but the NCAA's new 5-for-5 rule is changing everything.\n\nCommits are backing out. Programs are recalculating roster math. A federal lawsuit is already filed.\n\nThis signing period will not look like any before it. #SoftballRecruiting",
+          "char_count": 277
+        }
+      ],
+      "article": {
+        "filename": "article-05-early-signing-eligibility-rule.html",
+        "headline": "The NCAA's New Eligibility Rule Is Reshaping What November's Signing Day Means",
+        "word_count": 821
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "articles_count": 5
+  }
+}
