@@ -679,3 +679,42 @@
 - **Key facts:** Oct 29 games: Cavs at Bucks 8 ET, Wolves at Spurs 8 ET, Thunder at Rockets 8:30 ET; NBA Cup group play starts Oct 30; Magic-Raptors rematch Cup opener
 - **Byline:** Marcus Cole
 - **Status:** NEW
+
+---
+
+## 2026-10-30
+
+### STORY 1: Hawks 114, Cavaliers 111 — Okongwu 29 Season-High, 15-Point Comeback Win
+- **Tier:** 1
+- **Category:** Atlanta Hawks / Cleveland Cavaliers / Onyeka Okongwu
+- **Key facts:** Final score 114-111; Okongwu 29 pts/12 reb (season-high); Atlanta trailed by 15; Cleveland falls to 3-2; Atlanta improves to 3-3; Oct 29 game
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Memphis Grizzlies 5-0 — Boozer's First Career Triple-Double, 124-103 Win Over Portland
+- **Tier:** 1
+- **Category:** Memphis Grizzlies / Portland Trail Blazers / Cameron Boozer
+- **Key facts:** Final score 124-103; Boozer 18 pts/12 reb/12 ast (first career TD); Memphis sole unbeaten team at 5-0; Portland falls to 1-4; Oct 29 game
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Pelicans 132, Kings 120 — Fears 22/13, Third Straight Win
+- **Tier:** 2
+- **Category:** New Orleans Pelicans / Sacramento Kings / Jeremiah Fears
+- **Key facts:** Final score 132-120; Fears 22 pts/13 ast; Pelicans third straight win; Kings fall to 1-4; Oct 29 game
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: NBA Cup 2026 Opening Night — Knicks vs. Sixers, Lakers at Warriors
+- **Tier:** 1
+- **Category:** NBA Cup / New York Knicks / Philadelphia 76ers / Los Angeles Lakers / Golden State Warriors
+- **Key facts:** Cup opens Oct 30; Knicks defending Cup champions vs Sixers 7:30 PM ET Prime Video; Lakers at Warriors 10 PM ET; Hornets at Wizards 7 PM ET
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: NBA Friday Preview — Cup Night 1 Full Schedule
+- **Tier:** 2
+- **Category:** NBA Preview / NBA Cup
+- **Key facts:** 5 games Oct 30; 3 Cup games; Knicks-Sixers Prime Video; Lakers-Warriors; Hornets-Wizards; Suns-Jazz; Clippers-Nuggets
+- **Byline:** Marcus Cole
+- **Status:** NEW

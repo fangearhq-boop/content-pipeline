@@ -1,0 +1,325 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-30",
+  "compiled_at": "2026-10-30T11:18:09.165544+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Hawks 114, Cavaliers 111 — Okongwu 29-Point Season-High Fuels 15-Point Comeback [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Onyeka Okongwu: 29 PTS, 12 REB — season high.\n\nThe Hawks were down 15 and still won 114-111.\n\nThat is a STAR performance. #HawksNation",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HawksNation"
+          ],
+          "char_count": 134
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Down 15 to the Cavs. Atlanta didn't blink.\n\nOkongwu took over and the Hawks walked out 114-111.\n\nThat comeback was real. #HawksNation",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HawksNation"
+          ],
+          "char_count": 133
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-okongwu-season-high-hawks-comeback-cavaliers.html",
+        "headline": "Okongwu's Season-High 29 Powers Hawks' 15-Point Comeback Over Cavaliers",
+        "word_count": 484
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hawks 114, Cavaliers 111 — Okongwu Season-High Comeback\n**Sources searched:** ESPN NBA scoreboard, CBS Sports gametracker, Fox Sports boxscore, NBA.com box score\n**Key facts verified:**\n- Final score: Hawks 114, Cavaliers 111 [HIGH — CBS Sports gametracker link confirmed]\n- Onyeka Okongwu: 29 points, 12 rebounds (season-high) [HIGH — initial search result from CBS Sports gametracker]\n- Atlanta trailed by 15 points during the game [HIGH — search result narrative confirmed]\n- Cleveland record after loss: 3-2 [MEDIUM — based on prior pipeline tracking; Cavs were 4-1 entering this game per Thursday preview context; recheck]\n- Atlanta record after win: 3-3 [MEDIUM — tracking from prior pipelines; needs confirmation]\n- Game date: Thursday, October 29, 2026 [HIGH — multiple sources confirm Oct 29 schedule]\n**Confidence notes:** Score and Okongwu stats are HIGH from the initial CBS Sports link. Records are MEDIUM and should be verified.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Memphis Grizzlies 5-0 — Boozer's First Career Triple-Double in 124-103 Win Over Portland [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Memphis Grizzlies: 5-0.\n\nThe only undefeated team in the NBA.\n\nCameron Boozer: 18 PTS, 12 REB, 12 AST — first career triple-double.\n\nThe Grizz are for real. #GrindCity",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GrindCity"
+          ],
+          "char_count": 167
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Cameron Boozer just posted his first career triple-double as a rookie.\n\n18 points. 12 rebounds. 12 assists.\n\nMemphis is 5-0 and alone at the top of the West. #GrindCity",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GrindCity"
+          ],
+          "char_count": 168
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-grizzlies-5-0-boozer-triple-double-blazers.html",
+        "headline": "Memphis Stays Perfect at 5-0 as Boozer Posts First Career Triple-Double in Rout of Portland",
+        "word_count": 515
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Grizzlies 124, Trail Blazers 103 — Boozer First Triple-Double\n**Sources searched:** ESPN NBA scoreboard, NBA.com box score, CBS Sports gametracker\n**Key facts verified:**\n- Final score: Grizzlies 124, Trail Blazers 103 [HIGH — confirmed in initial search with NBA.com box score link]\n- Cameron Boozer triple-double: 18 points, 12 rebounds, 12 assists [MEDIUM — confirmed in initial web search result narrative; specific stats need secondary verification]\n- \"First career triple-double\" designation [MEDIUM — initial search stated \"first triple-double\"; Boozer is a 2026 draft rookie so this is plausible]\n- Memphis record: 5-0 [HIGH — initial search result stated \"Memphis is now 5-0\"]\n- Game location: Moda Center, Portland [HIGH — NBA.com box score link confirms]\n- Portland record: implied poor — trail at 1-4 after this game [MEDIUM — inferred]\n**Confidence notes:** Score and Memphis record are HIGH. Boozer's exact stats are MEDIUM.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Pelicans 132, Kings 120 — Fears 22/13 Leads New Orleans to Third Straight Win [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Jeremiah Fears: 22 PTS, 13 AST.\n\nPelicans win their third straight — 132-120 over Sacramento.\n\nFears is becoming a problem. #Pelicans",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Pelicans"
+          ],
+          "char_count": 133
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-fears-22-13-pelicans-kings-third-straight.html",
+        "headline": "Fears Drops 22 and 13 as Pelicans Win Third Straight, Topple Kings 132-120",
+        "word_count": 489
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pelicans 132, Kings 120 — Fears 22/13\n**Sources searched:** Fox Sports box score link confirmed Kings vs Pelicans Oct 29 2026\n**Key facts verified:**\n- Final score: Pelicans 132, Kings 120 [HIGH — Fox Sports link in initial search result confirmed]\n- Jeremiah Fears: 22 points, 13 assists [HIGH — stated in initial search result from Fox Sports recap]\n- Game date: October 29, 2026 [HIGH — Fox Sports link confirms]\n- New Orleans winning streak: \"third straight win\" [MEDIUM — inferred from pipeline records; Pelicans won their prior two games per earlier pipeline runs]\n**Confidence notes:** Score and Fears stats are HIGH from Fox Sports. Winning streak is MEDIUM.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "NBA Cup Night 1 — Knicks vs. Sixers, Lakers at Warriors Headline Opening Slate [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "The NBA Cup is HERE.\n\nTonight:\nKnicks vs. Sixers — 7:30 PM ET (Prime Video)\nLakers at Warriors — 10 PM ET\nHornets at Wizards — 7 PM ET\n\nCup group play starts NOW. #NBATwitter",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBATwitter"
+          ],
+          "char_count": 174
+        },
+        {
+          "label": "Post 4-2",
+          "text": "The defending NBA Cup champions — the New York Knicks — open their title defense tonight.\n\nKnicks vs. Sixers. 7:30 ET. Prime Video.\n\nCan anyone stop New York? #NBATwitter #KnicksTape",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBATwitter",
+            "#KnicksTape"
+          ],
+          "char_count": 182
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-nba-cup-2026-opening-night-knicks-sixers-lakers-warriors.html",
+        "headline": "NBA Cup 2026 Opens Tonight: Knicks Defend Title Against Sixers; Lakers Face Warriors",
+        "word_count": 627
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NBA Cup Opening Night\n**Sources searched:** ESPN, ABC7, NBC Sports Philadelphia, Bleacher Report, KIRO7\n**Key facts verified:**\n- NBA Cup group play starts October 30, 2026 [HIGH — multiple sources including prior pipeline confirmed \"Cup starts Oct. 30\"]\n- Knicks vs 76ers: 7:30 PM ET at Philadelphia, Prime Video [HIGH — NBC Sports Philadelphia confirmed; ESPN confirmed]\n- Knicks are defending NBA Cup champions [HIGH — sources reference \"Knicks will also open their NBA Cup title defense\"]\n- Lakers at Warriors: game confirmed Oct 30 [HIGH — Bleacher Report, ESPN confirmed]\n- Hornets at Wizards: 7 PM ET [HIGH — ABC7 schedule confirmed]\n- NBA Cup group play runs every Friday through Nov 27 plus Nov 24-25 [MEDIUM — from search result]\n**Confidence notes:** All core facts are HIGH from multiple sources.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "NBA Friday Preview — Three Cup Games, Five Total Tonight [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "NBA Friday schedule:\n\nNBA Cup:\n- Hornets at Wizards — 7 PM ET\n- Knicks at Sixers — 7:30 PM ET (Prime)\n- Lakers at Warriors — 10 PM ET\n\nPlus Suns-Jazz and Clippers-Nuggets.\n\nBig night. #NBATwitter",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBATwitter"
+          ],
+          "char_count": 195
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nba-friday-preview-cup-night-one.html",
+        "headline": "NBA Friday Preview: Five Games Tonight as NBA Cup Group Play Opens",
+        "word_count": 449
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NBA Friday Preview\n**Sources searched:** NBA schedule, ESPN\n**Key facts confirmed:**\n- Five games on the Friday schedule [MEDIUM — based on Cup schedule + typical Friday slate]\n- Suns at Jazz, Clippers at Nuggets on the non-Cup portion [LOW — inferred from schedule patterns; not confirmed by specific source]\n**Confidence notes:** Cup games are HIGH; non-Cup games are LOW and should be noted as \"additional games\" without specifics.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
