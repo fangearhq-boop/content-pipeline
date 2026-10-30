@@ -1,0 +1,298 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-30",
+  "compiled_at": "2026-10-30T10:23:25.124524+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Brewers Are World Series Champions — Milwaukee Celebrates Its First Title",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "WORLD SERIES CHAMPIONS. 🏆\n\nThe Milwaukee Brewers beat the Rays 4-1 in Game 5 last night. First title in franchise history.\n\n57 years. One ring. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 152
+        },
+        {
+          "label": "Post 1-2",
+          "text": "William Contreras: World Series MVP.\n\n.381 average. 10-for-13. 4 RBI. 4 caught stealing.\n\nMisiorowski: 5.2 scoreless innings before a calf cramp ended his night.\n\nThe Brewers went 11-2 in the 2026 postseason. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-brewers-world-series-champions.html",
+        "headline": "Milwaukee Brewers Win the 2026 World Series: A Championship 57 Years in the Making",
+        "word_count": 611
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1a",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1b",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Brewers World Series Champions\n**Source:** MLB pipeline-status notes (Oct 29 run verified); baseballbiographies.com; tmj4.com; biztimes.com\n**Confidence:** HIGH\n- Milwaukee Brewers defeated Tampa Bay Rays 4-1 in Game 5 on Oct 29, at Tropicana Field\n- First World Series title in franchise's 57-year history\n- Brandon Misiorowski: 5.2 scoreless innings in G5, left with calf cramp; will miss weeks\n- Misiorowski 2026 regular season: 16-5, 1.80 ERA, 252 K, 174.2 IP; AL ERA + strikeout leader; 103.5 mph pitch in G1 = Statcast-era WS record\n- William Contreras: WS MVP; .381, 10-for-13, 4 RBI; auto ball challenge success; 4 caught stealing (slow trots angle)\n- Cooper Pratt: 2 RBI in G5\n- Trevor Megill: 2-inning save in G5\n- Brewers postseason record: 11-2\n- Milwaukee parade expected (no specific date confirmed)\n**Claims to Verify (Fact-Check Step):**\n- G5 score 4-1 (HIGH — from Oct 29 pipeline)\n- 57-year franchise history (HIGH — Brewers founded 1969; 2026-1969=57 years)\n- Misiorowski stats (HIGH — from pipeline)\n- Contreras WS MVP designation (HIGH — from pipeline)\n- 11-2 postseason record (HIGH — from pipeline)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "MLB Free Agency Is Open — The Hot Stove Starts Now",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Hot Stove is officially on.\n\n144 players hit free agency. Skubal. Arozarena. Alonso. King.\n\nFive-day exclusive window started today. The CBA expires Dec. 1. This offseason is going to move fast. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 203
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Pete Alonso opted out of $24M. Michael King opted out of his Padres deal.\n\nThe 2026-27 free agent class is stacked — and it's opening against a CBA deadline in 33 days.\n\nBuckle up. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 185
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-mlb-free-agency-opens.html",
+        "headline": "MLB Free Agency Is Open: 144 Players Hit the Market as the Hot Stove Ignites",
+        "word_count": 538
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2a",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2b",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "MLB Free Agency Opens\n**Source:** Yahoo Sports; MLB.com; bleacherreport.com; mlbtraderumors.com\n**Confidence:** HIGH\n- Free agency officially opens five days after the World Series ends (per CBA)\n- World Series ended Oct 29 → exclusive window opened; free agency begins Nov 3\n- 144 players declared free agents (per Yahoo Sports/MLive report)\n- Tarik Skubal: 2x Cy Young winner; top starting pitcher on market\n- Randy Arozarena: top bat available; $15.65M contract value with Mariners; expected to test market; preference for East Coast per reporting\n- Arozarena suitors: Yankees, Phillies, Red Sox, others; projected 3yr/$18-22M AAV\n- Pete Alonso: opted out of $24M Mets option (two-year deal with opt-out); now FA\n- Michael King (Padres): opted out, Cubs connected; projected $100M+ deal\n- Clay Holmes, Matthew Boyd: declined options with Cubs\n- CBA expires Dec 1 (five-day window puts full FA around Nov 3)\n**Claims to Verify (Fact-Check Step):**\n- 144 FA count (HIGH — Yahoo Sports/MLive report)\n- Arozarena $15.65M (MEDIUM — from earlier pipeline notes)\n- Pete Alonso opt-out (HIGH — confirmed multiple sources including MLB Trade Rumors, CBS Sports)\n- Michael King opt-out (HIGH — from search)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "The CBA Clock Is Ticking — Lockout Feels Inevitable",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The MLB CBA expires December 1. A lockout is considered close to inevitable.\n\nOwners want a $245M hard salary cap. The union says no. They're $55M apart on the luxury tax threshold alone.\n\nOne month to avoid a work stoppage. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-cba-lockout-brewing.html",
+        "headline": "The MLB CBA Expires in 32 Days. A Lockout Is Coming. Here's What It Means.",
+        "word_count": 586
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3a",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CBA / Lockout\n**Source:** ESPN; SI.com; sportsnaut.com; morganlewis.com\n**Confidence:** HIGH\n- Current CBA expires December 1, 2026\n- Owners proposed $245.3 million hard salary cap\n- Union opened at ~$300 million luxury tax threshold; union rejects any hard cap\n- MLBPA expects a lockout; insiders call it \"close to inevitable\"\n- Lockout would freeze offseason (no signings, trades); could threaten 2027 season if unresolved deep into winter\n- Kalshi odds: ~5% chance new CBA agreed before Dec 2 deadline (per September 2026 analysis)\n- Commissioner Manfred: \"offseason lockout is likely to become the norm\"\n- Union has \"war chest\" strike fund for non-star players\n- Multiple state-level CBA/labor suits also pending\n**Claims to Verify (Fact-Check Step):**\n- Dec 1 expiration (HIGH — consistent across multiple sources)\n- $245.3M cap proposal (HIGH — from search)\n- Manfred quote (MEDIUM — indirect attribution from search summary)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Tarik Skubal — The Most Coveted Free Agent Pitcher in Years",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Tarik Skubal is officially a free agent.\n\n16-5. 1.80 ERA. 252 K. Two Cy Youngs.\n\nProjections range from $350M to $400M. The Dodgers lead early. Every big-market team is in play. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 182
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-tarik-skubal-free-agency.html",
+        "headline": "Tarik Skubal: The Most Coveted Free Agent Pitcher in Years Hits the Open Market",
+        "word_count": 560
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4a",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tarik Skubal Free Agency\n**Source:** bleacherreport.com; MLB.com; rotoballer.com; rotowire.com; justbaseball.com\n**Confidence:** HIGH\n- Skubal: 2x Cy Young (2025, 2026 AL)\n- 2026 regular season: 16-5, 1.80 ERA, 252 K, 174.2 IP; AL ERA leader; AL strikeout leader\n- Top free agent pitcher on market by consensus\n- Contract projection: $350M+ ($400M by some analysts); would set pitcher AAV records\n- Dodgers listed as leading destination (38% odds per Rotowire)\n- Other reported suitors: Phillies, Braves, Yankees, Rays (pre-WS), Brewers\n- Health note: one analyst mentions recent surgery could affect leverage\n- No deal finalized as of Oct 30\n**Claims to Verify (Fact-Check Step):**\n- 2x Cy Young (HIGH — from pipeline and search)\n- 16-5 1.80 ERA 252K 174.2IP (HIGH — from Oct 29 pipeline)\n- Contract $350M+ projection (MEDIUM — varies by source)\n- Dodgers leading suitor (MEDIUM — prediction market, not confirmed reporting)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Rays Fall Short — What Comes Next After a Historic Run",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Rays made history forcing a Game 5 from down 0-3. They still lost.\n\nAll 5 teams to force a G5 from an 0-3 WS deficit have now been swept or lost.\n\nBen Williamson's walk-off in G4 was real. So was the ending. #Rays",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rays"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-rays-world-series-aftermath.html",
+        "headline": "Rays Fall Short in Game 5: A Historic Run Ends, Questions Begin",
+        "word_count": 525
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5a",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tampa Bay Rays World Series Run\n**Source:** Oct 28-29 MLB pipeline notes; mlbtraderumors.com; search results\n**Confidence:** HIGH\n- Rays went down 0-3, won Game 4 in 12 innings on Ben Williamson walk-off single\n- Only 5th team in World Series history to force a G5 from 0-3 deficit; all prior 4 were swept anyway (0-for-4 all-time before Rays)\n- Game 5: Rays lost 4-1 to Brewers at Tropicana\n- Shane McClanahan: missed entire World Series on IL; back/calf issues throughout 2026; returned from surgery; had back flare in July before playoff run\n- Rays went 10-26 at some point late in regular season but made postseason\n- Ben Williamson walk-off single in G4 top-12th inning\n- Cooper Pratt (Brewers) HR in top-12th inning of G4; Williamson's walk-off came later\n**Claims to Verify (Fact-Check Step):**\n- 5th team to force G5 from 0-3 (HIGH — from Oct 28 pipeline)\n- McClanahan injury (HIGH — confirmed mlbtraderumors search)\n- Williamson walk-off (HIGH — from pipeline)\n- Game 4 12 innings (HIGH — from pipeline)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

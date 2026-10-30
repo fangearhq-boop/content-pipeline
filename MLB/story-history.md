@@ -9246,3 +9246,61 @@ Each day's stories are appended at the top (newest first).
 - **Follow-Up Opportunities:**
   - Gasser WS MVP consideration
   - Championship series closing start
+
+---
+
+## October 30, 2026
+
+### Story 1: Brewers World Series Champions — Milwaukee's First Title
+- **Date:** 2026-10-30
+- **Tier:** 1
+- **Classification:** FOLLOW UP (WS covered throughout October)
+- **Angle:** Brewers beat Rays 4-1 in G5 at Tropicana. First title in 57-year franchise history. Misiorowski 5.2 scoreless IP (calf cramp). Contreras WS MVP (.381 10-for-13 4RBI). 11-2 postseason. Parade expected in Milwaukee.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Milwaukee parade date/route
+  - Brewers roster construction for 2027
+  - Misiorowski calf recovery timeline
+
+### Story 2: MLB Free Agency Opens
+- **Date:** 2026-10-30
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** 144 players declared FA. Five-day exclusive window open. Skubal (top pitcher), Arozarena (top bat), Alonso (opted out $24M), King (opted out Padres). CBA expires Dec 1.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - First big signing of offseason
+  - Skubal/Arozarena decisions
+  - CBA negotiations
+
+### Story 3: CBA / Lockout Looming
+- **Date:** 2026-10-30
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** CBA expires Dec 1. Owners: $245.3M hard cap. Union: ~$300M luxury tax, no cap. ~5% deal odds. Lockout close to inevitable. Could freeze 2027 offseason.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - CBA deadline Dec 1
+  - Lockout start/end
+  - Impact on 2027 season
+
+### Story 4: Tarik Skubal Free Agency Profile
+- **Date:** 2026-10-30
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** 2x Cy Young, 16-5 1.80ERA 252K 174.2IP. $350M+ projected. Dodgers 38% prediction odds. Phillies, Braves, Yankees in mix. CBA clock adds urgency for pre-Dec deal.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Skubal signing announcement
+  - Record contract details
+
+### Story 5: Rays World Series Aftermath
+- **Date:** 2026-10-30
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Rays WS covered throughout October)
+- **Angle:** Lost G5 4-1 but forced historic G5 from 0-3 (5th team ever). Williamson G4 walk-off. McClanahan IL entire WS. Rays offseason retooling questions.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - McClanahan recovery
+  - Rays FA decisions
+  - Rays 2027 roster outlook
