@@ -253,3 +253,42 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** Preview roundup — Smotherman three-peat; Clark favorite; course redesign; Daly II; Hojgaard sleeper (+6600)
 - **Byline:** Jake Torres
 - **Status:** NEW
+
+---
+
+## 2026-10-30 — Friday, October 30, 2026
+
+### STORY 1: Karl Vilips Leads Mexico Open R1 at Career-Low 62
+- **Tier:** 1
+- **Category:** Karl Vilips / VidantaWorld Mexico Open / PGA Tour / Round 1 Leader
+- **Key facts:** Career-low 62 (-9); four straight birdies holes 6-9; leads Kensei Hirata by 1; Max Homa -5 (66) T14; defending champion Brian Campbell in field; R2 underway
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: Smotherman Three-Peat Chase Enters Round 2
+- **Tier:** 1
+- **Category:** Austin Smotherman / PGA Tour / VidantaWorld Mexico Open / Three Consecutive Wins
+- **Key facts:** Back-to-back wins in October 2026; three consecutive wins historically rare; R2 underway; Vilips leads at -9; Smotherman R1 score not confirmed
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+
+### STORY 3: Billy Horschel Withdraws from Mexico Open R2
+- **Tier:** 2
+- **Category:** Billy Horschel / VidantaWorld Mexico Open / Withdrawal / PGA Tour
+- **Key facts:** WD during R2; dizziness and lightheadedness; former FedExCup champion; Vidanta Vallarta coastal course
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 4: Roussin-Bouchard Carries Lead Into Maybank R2
+- **Tier:** 2
+- **Category:** Pauline Roussin-Bouchard / LPGA / Maybank Championship / Round 2
+- **Key facts:** -8 (64) R1 leader; one stroke ahead; three closing birdies R1; Charley Hull -6 (two back); Woad in field; Yamashita defending; R2 in progress
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: Golf Friday — Two Tournaments in Round 2
+- **Tier:** 2
+- **Category:** Golf Weekend / VidantaWorld Mexico Open / LPGA Maybank Championship / Round 2
+- **Key facts:** Both events in R2 simultaneously; Mexico Open: Vilips leads -9; Maybank: Roussin-Bouchard leads -8; Smotherman three-peat chase overlay; Horschel WD
+- **Byline:** Jake Torres
+- **Status:** NEW
