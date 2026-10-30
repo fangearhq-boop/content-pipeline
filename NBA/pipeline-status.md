@@ -1,12 +1,33 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Current Status
-**Last Run:** 2026-10-28
-**Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy; git push via git push main
+**Last Run:** 2026-10-30
+**Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy; git push via PAT
 
 ## Pipeline Run Log
 
-### 2026-10-28 ✅ (Automated)
+### 2026-10-30 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 30 claims, HIGH: 63; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 8 tweets, 5 FB posts, 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (23 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy; content-dashboards not in session scope)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via PAT push to main
+
+**Stories covered:**
+1. T1 NEW: Hawks 114, Cavaliers 111 — Okongwu 29-Point Season-High, 15-Point Comeback (Jake Torres)
+2. T1 NEW: Memphis Grizzlies 5-0 — Boozer's First Career Triple-Double, 124-103 Win Over Portland (Marcus Cole)
+3. T2 NEW: Pelicans 132, Kings 120 — Fears 22/13, Third Straight Win (Damon Pierce)
+4. T1 NEW: NBA Cup 2026 Opening Night — Knicks vs. Sixers, Lakers at Warriors (Jake Torres)
+5. T2 NEW: NBA Friday Preview — Cup Night 1 Full Schedule (Marcus Cole)
+
+---
+
+### 2026-10-29 ✅ (Automated)
 - Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
 - Step 10: verify-facts.py — 5 stories, 23 claims, HIGH; image manifest warnings (expected; imagn sourcing)
 - Step 10b: compile-content-data.py — 5 stories, 8 tweets, 5 FB posts, 5 articles; posting window warnings (non-blocking)
@@ -23,63 +44,3 @@
 3. T1 NEW: Celtics 125, Nets 124 OT — Tatum 40 Buzzer-Beater (Damon Pierce)
 4. T2 NEW: Knicks 111, Pistons 97 — KAT 27/20, Detroit's First Loss (Jake Torres)
 5. T2 NEW: NBA Wednesday Preview — 4 Games + NBA Cup Starts Thursday (Marcus Cole)
-
----
-
-### 2026-10-27 ✅ (Automated)
-- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
-- Step 10: verify-facts.py — 5 stories, 32 claims, HIGH; image manifest warning resolved
-- Step 10b: compile-content-data.py — 5 stories, 9 tweets, 5 FB posts, 5 articles; posting window warnings (non-blocking)
-- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
-- Step 12: Story history updated
-- Step 13: generate-review-dashboard.py — dashboard generated (24 items)
-- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
-- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
-- Git commit + push: via GitHub MCP
-
-**Stories covered:**
-1. T1 NEW: Mavericks 113, Heat 109 — Cooper Flagg Career-High 29/11, Dallas 3-0 (Jake Torres)
-2. T1 FOLLOW UP: Thunder 125, Suns 114 — Williams Out Long-Term, Holmgren Patellar Tendinitis, OKC Unbeaten (Damon Pierce)
-3. T2 NEW: Celtics 134, Bulls 99 — 35-Point Blowout at TD Garden (Marcus Cole)
-4. T2 NEW: Cavaliers 127, Timberwolves 125 OT — Minnesota's First Loss (Jake Torres)
-5. T2 NEW: NBA Tuesday Preview — Pistons vs. Knicks, Cup Starts Thursday (Marcus Cole)
-
----
-
-### 2026-10-26 ✅ (Automated)
-- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
-- Step 10: verify-facts.py — 5 stories, 36 claims, HIGH; image manifest warnings (expected; imagn sourcing)
-- Step 10b: compile-content-data.py — 5 stories, 9 tweets, 5 FB posts, 5 articles; posting window warnings (non-blocking)
-- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
-- Step 12: Story history updated
-- Step 13: generate-review-dashboard.py — dashboard generated (24 items)
-- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
-- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
-- Git commit + push: via GitHub MCP
-
-**Stories covered:**
-1. T1 NEW: Thunder 108, Clippers 101 — Jalen Williams Injury Scare, SGA 34 Points (Damon Pierce)
-2. T1 NEW: Pistons 106, 76ers 93 — Cunningham 26, Collins 16/11, Detroit Stays Perfect (Jake Torres)
-3. T2 NEW: Timberwolves 117, Raptors 94 — Minnesota Dominates Toronto by 23 (Marcus Cole)
-4. T2 NEW: Magic 111, Knicks 102 — Orlando Upsets New York at MSG (Damon Pierce)
-5. T2 NEW: NBA Monday Preview — 7 Games, Flagg Questionable, NBA Cup Starts Oct. 30 (Jake Torres)
-
----
-
-### 2026-10-29 ✅ (Automated)
-- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
-- Step 10: verify-facts.py — 5 stories, 46 claims, HIGH; image manifest warnings (expected; imagn sourcing)
-- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 5 articles; posting window warnings (non-blocking)
-- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
-- Step 12: Story history updated
-- Step 13: generate-review-dashboard.py — dashboard generated (22 items)
-- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
-- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
-- Git commit + push: via git push main
-
-**Stories covered:**
-1. T1 NEW: Warriors 119, Timberwolves 114 — Curry 44 Season-High, Lendeborg 26 Rookie Breakout (Jake Torres)
-2. T1 NEW: Knicks 133, Bulls 127 — Brunson 38, Massive 19-Point Comeback (Marcus Cole)
-3. T2 NEW: Raptors 129, Magic 99 — Barnes 28, Barrett 25, NBA Cup Rematch Friday (Damon Pierce)
-4. T2 NEW: Wembanyama 36/14, Spurs 117 Jazz 111 OT — Three Straight Wins (Jake Torres)
-5. T2 NEW: NBA Thursday Preview — Cavs-Bucks, Wolves-Spurs, OKC-Rockets; NBA Cup Opens Friday (Marcus Cole)

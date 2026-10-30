@@ -1,66 +1,47 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-10-28
+## Last Run: 2026-10-30
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** F1 Fanrecap
 **Stories:** 5
 **Articles:** 5
 
-### 2026-10-28 ✅ (Automated)
+### 2026-10-30 ✅ (Automated)
 - Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
-- Step 10: verify-facts.py — 5 stories, 17 claims, 28 HIGH; image manifest warnings (expected; imagn sourcing)
+- Step 10: verify-facts.py — 5 stories, 17 claims, 32 HIGH; image manifest warnings (expected; imagn sourcing)
 - Step 10b: compile-content-data.py — 5 stories, 7 tweets, 5 FB posts, 5 articles; posting window warnings (non-blocking)
 - Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
 - Step 12: Story history updated
-- Step 13: generate-review-dashboard.py — dashboard generated (27 items)
+- Step 13: generate-review-dashboard.py — dashboard generated (22 items)
 - Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy; content-dashboards not in session scope)
 - Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
-- Git commit + push: via git push main
+- Git commit + push: via PAT push to main
 
 **Stories covered:**
-1. T1 FOLLOW UP: Antonelli 2 pts from F1 title at Mexico City GP; P9 clinches (Ryan Calloway)
-2. T1 NEW: Perez 300th F1 start at home race in Mexico City (Elena Voss)
-3. T2 NEW: Eight teams field rookies in FP1 — Iwasa, Vesti, Mini, Herta (Marcus Cole)
-4. T2 FOLLOW UP: Colton Herta super license last chance in FP1 (Ryan Calloway)
-5. T2 NEW: Mexico City GP preview — altitude, strategy, Día de Muertos (Elena Voss)
-
----
-
-### 2026-10-27 ✅ (Automated)
-- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
-- Step 10: verify-facts.py — 5 stories, 22 claims, 37 HIGH; image manifest warning resolved after creation
-- Step 10b: compile-content-data.py — 5 stories, 8 tweets, 5 articles; posting window warnings (non-blocking)
-- Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
-- Step 12: Story history updated
-- Step 13: generate-review-dashboard.py — dashboard generated (23 items)
-- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
-- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
-- Git commit + push: via git push main
-
-**Stories covered:**
-1. T1 NEW: Verstappen mathematically eliminated; Red Bull constructors fight vs McLaren (Ryan Calloway)
-2. T1 FOLLOW UP: Russell 5-second penalty denied Antonelli COTA coronation; title to Mexico (Elena Voss)
-3. T2 NEW: Pérez home race with Cadillac — Día de Muertos weekend (Marcus Cole)
-4. T2 NEW: Mexico City GP altitude/strategy preview (Ryan Calloway)
-5. T2 NEW: F1 standings after 18 rounds — Antonelli 365 (Elena Voss)
+1. T1 FOLLOW UP: Colton Herta's F1 Dream — Mexico FP1 Final Super License Chance (Ryan Calloway)
+2. T1 FOLLOW UP: Antonelli Begins Championship-Clinching Weekend in Mexico City (Elena Voss)
+3. T2 NEW: Ten Rookie Substitutions in Mexico FP1 — Biggest Wave of 2026 Season (Marcus Cole)
+4. T2 FOLLOW UP: Russell vs Hamilton — 1-Point Battle Arrives in Mexico (Ryan Calloway)
+5. T2 NEW: Mexico City Qualifying Preview — Antonelli Hunts 8th Pole (Elena Voss)
 
 ---
 
 ### 2026-10-29 ✅ (Automated)
-- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
-- Step 10: verify-facts.py — 5 stories, 35 claims, HIGH; image manifest warnings (expected; imagn sourcing)
+- Steps 1-9: Complete
+- Step 10: verify-facts.py — 5 stories, 17 claims, 28 HIGH
 - Step 10b: compile-content-data.py — 5 stories, 7 tweets, 5 articles; posting window warnings (non-blocking)
-- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 11: Image manifest created (not_started)
 - Step 12: Story history updated
-- Step 13: generate-review-dashboard.py — dashboard generated (22 items)
+- Step 13: generate-review-dashboard.py — dashboard generated (27 items)
 - Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
-- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy)
 - Git commit + push: via git push main
 
 **Stories covered:**
-1. T1 NEW: Antonelli Mexico City Title Clinch — 365 pts, needs P9, 9 wins (Ryan Calloway)
-2. T1 NEW: Russell vs Hamilton — 1-Point Battle for 2nd in Standings (Elena Voss)
-3. T2 NEW: Mexico City GP Weekend Guide — FP1 Friday, Race Sunday (Marcus Cole)
-4. T2 FOLLOW UP: Colton Herta Super License — FP1 Friday Last Chance at Mexico (Ryan Calloway)
-5. T2 NEW: McLaren vs Mercedes Constructors' Championship Still Live (Elena Voss)
+1. T1 NEW: Kimi Antonelli Mexico City Title Clinch — What He Needs (Ryan Calloway)
+2. T1 NEW: Russell vs Hamilton — 1-Point Gap for Second in Standings (Elena Voss)
+3. T2 NEW: Mexico City GP Weekend Guide — FP1/FP2 Friday, Race Sunday (Marcus Cole)
+4. T2 FOLLOW UP: Colton Herta Super License — FP1 Friday Last Chance (Ryan Calloway)
+5. T2 NEW: McLaren vs Mercedes — Constructors' Championship Still Live (Elena Voss)
