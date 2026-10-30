@@ -1,0 +1,264 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-30",
+  "compiled_at": "2026-10-30T12:20:34.584074+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Stan Wawrinka's Career Is Over — Lost to Lehečká in Basel",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Stan Wawrinka's career is over. Lehečká d. Wawrinka 7-5, 7-6(2) in Basel R1 — the final match of a career that produced 3 Grand Slam titles. Three-time Major winner. Forever a champion. #Tennis #Wawrinka",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Wawrinka"
+          ],
+          "char_count": 203
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Three Grand Slams. An epic rivalry with Djokovic. Comeback after comeback. Wawrinka played his last match Tuesday in Basel — in his home country — the way he played his whole career: on his own terms. #Tennis #StanTheMan",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#StanTheMan"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "Stan Wawrinka — three-time Grand Slam champion — played his last ATP match Tuesday in Basel.\n\nSeven years after his last Major title, and decades after picking up a racquet as a kid in Switzerland, the legend took his bow.\n\nSome players win once. Stan won three times — and every single time, nobody saw it coming. That's what made it magic.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-wawrinka-career-ends-lehecka-basel.html",
+        "headline": "Stan Wawrinka's Career Is Over After Basel First-Round Loss to Lehečká",
+        "word_count": 597
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Stan Wawrinka Career Ends\n\n**Image Concept 1-A**\nType: Social (1080x1350)\nImagn search: \"Stan Wawrinka Swiss Indoors\"\nCredit: (Imagn Images)\nNotes: Emotional Basel moment — Wawrinka acknowledging the crowd or in mid-match final pose. Classic Basel indoor arena background preferred.\n\n**Image Concept 1-B**\nType: Article Hero (1200x630)\nImagn search: \"Stan Wawrinka trophy\"\nCredit: (USA TODAY Sports Images)\nNotes: Any of the three Grand Slam trophy lifts (2014 AO, 2015 FO, 2016 USO) for retrospective framing.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Djokovic Falls to Struff for First Time — Basel Campaign Over, ATP Finals Bid Fading",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "UPSET: Struff has beaten Djokovic in Basel — the FIRST TIME he has ever beaten Novak on the ATP Tour. Three sets. Djokovic's Basel campaign is over. His ATP Finals bid just got a lot harder. #Tennis #SwissIndoors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#SwissIndoors"
+          ],
+          "char_count": 212
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Djokovic is out of Basel. He sits outside the top 8 in the Race to Turin. Paris Masters starts tomorrow. Likely his last chance to qualify for the ATP Finals. Zverev, Alcaraz, Shelton have clinched. #Tennis #ATPFinals",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#ATPFinals"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "Struff d. Djokovic. First career win for the German against Novak.\n\nBasel is over for Djokovic — but his ATP Finals bid isn't finished yet. Paris starts tomorrow.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-djokovic-struff-basel-atp-finals-race.html",
+        "headline": "Djokovic Falls to Struff for First Time in Basel — ATP Finals Bid Now Depends on Paris",
+        "word_count": 549
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Djokovic Falls to Struff\n\n**Image Concept 2-A**\nType: Social (1080x1350)\nImagn search: \"Novak Djokovic Basel\"\nCredit: (Imagn Images)\nNotes: Djokovic reacting during a match at Basel — frustrated or dejected expression to reflect the upset result.\n\n**Image Concept 2-B**\nType: Article Hero (1200x630)\nImagn search: \"Jan-Lennard Struff ATP\"\nCredit: (USA TODAY Sports Images)\nNotes: Struff mid-match action shot — celebrating a winner or pumping fist.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Basel Upsets Continue — Shelton Stunned by Wild Card Kym, Vacherot Topples Jódar",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Swiss wild card Jérôme Kym (No. 222 in the world) just knocked out top seed Ben Shelton at Basel. One of the biggest upsets of the autumn swing — on home soil, in front of a home crowd. #Tennis #SwissIndoors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#SwissIndoors"
+          ],
+          "char_count": 207
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Basel QF lineup after a chaotic R16: Kym vs. Lehečká / Struff vs. Borges / Fritz vs. Fils / Vacherot vs. TBD. No. 1 seed Shelton out. No. 3 seed Jódar out. Djokovic out. #Tennis #SwissIndoors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#SwissIndoors"
+          ],
+          "char_count": 191
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "Basel Round of 16 scoreboard:\n\nWild card Kym d. No. 1 seed Shelton\nStruff d. Djokovic (first career win)\nVacherot d. No. 3 seed Jódar\n\nChaos. Beautiful chaos.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-basel-upsets-kym-shelton-vacherot-jodar.html",
+        "headline": "Basel R16 Chaos: Wild Card Kym Stuns Shelton, Vacherot Topples Jódar",
+        "word_count": 583
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Basel Upsets / Kym\n\n**Image Concept 3-A**\nType: Social (1080x1350)\nImagn search: \"Ben Shelton Basel\"\nCredit: (Imagn Images)\nNotes: Shelton in action at Basel indoor court — neutral expression acceptable; headline will provide the upset context.\n\n**Image Concept 3-B**\nType: Article Hero (1200x630)\nImagn search: \"Jerome Kym tennis\"\nCredit: (Imagn Images)\nNotes: Kym celebrating or in match play. If limited Imagn inventory, use Shelton Basel shot and swap article/social.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Zverev Clinches Year-End No. 1, Vienna Quarterfinals Set",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Alexander Zverev has clinched the year-end No. 1 ATP ranking. A win over Griekspoor in Vienna sealed it. He'll hold the top spot on November 2. Roland Garros finalist. US Open champion. No. 1. #Tennis #Zverev",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Zverev"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "Year-end No. 1.\n\nZverev clinched it Wednesday in Vienna. He'll be the ATP's top-ranked player to end 2026 — a year when the sport's top stars dealt with injury and absence.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-zverev-year-end-no1-vienna-quarterfinal.html",
+        "headline": "Zverev Clinches Year-End No. 1 Ranking, Advances to Vienna Quarterfinals",
+        "word_count": 523
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Zverev Year-End No. 1\n\n**Image Concept 4-A**\nType: Social (1080x1350)\nImagn search: \"Alexander Zverev Vienna\"\nCredit: (Imagn Images)\nNotes: Zverev celebrating or fist pump at Vienna Erste Bank Open indoor venue.\n\n**Image Concept 4-B**\nType: Article Hero (1200x630)\nImagn search: \"Alexander Zverev ATP\"\nCredit: (USA TODAY Sports Images)\nNotes: Zverev full-frame action, ideally at an indoor event. Clear expression, vertical ball toss or forehand.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "WTA Finals Opens in 9 Days — Draw Unveiled November 5",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "9 days until the WTA Finals at Indian Wells (Nov 8–15). Draw drops November 5. Do Rybakina and Sabalenka meet in the groups or the final? Field: Rybakina, Sabalenka, Andreeva, Pegula, Gauff, Svitolina, Noskova, Muchova. #WTAFinals",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTAFinals"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "The 2026 WTA Finals field is set. Eight players. Two groups. One champion.\n\nDraw drops November 5. Play starts November 8 at Indian Wells.\n\nDefending champion: Rybakina.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-wta-finals-2026-indian-wells-preview.html",
+        "headline": "WTA Finals Open in 9 Days: Full Field Set, Draw Arrives November 5",
+        "word_count": 554
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WTA Finals\n\n**Image Concept 5-A**\nType: Social (1080x1350)\nImagn search: \"Elena Rybakina WTA Finals\"\nCredit: (Imagn Images)\nNotes: Rybakina at the WTA Finals or Indian Wells — defending champion angle.\n\n**Image Concept 5-B**\nType: Article Hero (1200x630)\nImagn search: \"Aryna Sabalenka WTA Finals\"\nCredit: (USA TODAY Sports Images)\nNotes: Sabalenka at the WTA Finals or an end-of-year event — the Rybakina-vs-Sabalenka rivalry is the draw's most anticipated grouping question.\n\n---\n\n**Summary:**\n- Total image concepts: 10 (5 social 1080x1350 + 5 article 1200x630)\n- Source: imagn for all\n- All 5 stories covered ✓"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

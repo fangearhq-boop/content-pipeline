@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## October 30, 2026
+
+| 2026-10-30 | Stan Wawrinka's career ends — Lehečká d. Wawrinka 7-5, 7-6(2) in Basel R1 Tuesday Oct 27; first Basel win for Lehečká (third attempt); Wawrinka broken at 5-5 in Set 1; tribute night Monday with Djokovic in attendance; three GS titles (2014 AO, 2015 FO, 2016 USO). Sources: tennismajors.com, bluewin.ch, Field Level Media | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-10-27 S2: Wawrinka vs. Lehečká preview → result) |
+| 2026-10-30 | Djokovic beaten by Struff for first time in career H2H — Struff d. Djokovic (three sets) in Basel R16 Thursday Oct 29; first career win for Struff vs. Djokovic; Djokovic exits outside top 8 in Race to Turin; Paris Masters (Oct 31–Nov 8) now essential for qualification; 3 confirmed qualifiers (Zverev, Alcaraz, Shelton), 5 spots remain. Sources: tennismajors.com 864383, tennis365.com | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (2026-10-27 S3: Djokovic returns to Basel → R16 result) |
+| 2026-10-30 | Basel R16 chaos: Wild card Kym (No. 222) d. top seed Shelton; Vacherot upset No. 3 seed Jódar; Fritz d. Shapovalov 6-4, 6-3; Fils (2nd seed) advanced; Lehecka d. Altmaier 7-5, 6-4; Borges d. Ruud 1-6, 6-3, 6-4. QF: Kym/Lehecka, Struff/Borges, Fritz/Fils, Vacherot/TBD. Sources: bluewin.ch, atptour.com, tennis bracket sources | T1 | X, FB, Article | Elena Voss; NEW |
+| 2026-10-30 | Zverev clinches year-end No. 1 ranking — d. Griekspoor 6-4, 7-5 in Vienna R16 Wednesday; holds No. 1 on Nov 2; Alcaraz d. Basilashvili 6-1, 7-6(11) also in Vienna QF; Cobolli retired vs. Berrettini (muscle injury, 5-2 down) — Turin hopes threatened; De Minaur + Medvedev advanced. Sources: tennismajors.com 864371, atptour.com | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-10-27 S1: Vienna/Basel results → QF set) |
+| 2026-10-30 | WTA Finals 9 days out — draw Nov 5; play Nov 8–15 Indian Wells; field: Rybakina (defending), Sabalenka, Andreeva, Pegula, Gauff, Svitolina, Noskova, Muchova; Charlotte NC 2027–2029 confirmed. Sources: wtatennis.com, portnews.com.au | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (2026-10-27 S5: WTA Finals one week out → draw imminent) |
+
+---
+
+
 ## October 29, 2026
 
 | 2026-10-29 | Novak Djokovic def. Ugo Humbert 4-6, 6-3, 6-4 (2h28m) at Swiss Indoors Basel R1 — first Basel win since 2011; Humbert medical timeout (back) when trailing 4-1 in 2nd set; Djokovic saved 5 of 6 break points; returns to top 10; faces Struff R16 Thursday; Race position ~11th (~2,840 pts). Sources: ATP Tour, Tennis Majors, Tennis365, TennisTemple | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (2026-10-28 S3: Djokovic vs. Humbert scheduled → result confirmed) |

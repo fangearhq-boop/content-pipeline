@@ -1,6 +1,36 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-10-29
+## Current Run: 2026-10-30
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Wawrinka lost to Lehečká 7-5, 7-6(2) Oct 27; Struff d. Djokovic (first career win H2H) Basel R16 Thu; Kym (No. 222 WC) upset top seed Shelton; Vacherot upset Jódar (3rd seed); Fritz d. Shapovalov 6-4,6-3; Borges d. Ruud; Zverev d. Griekspoor 6-4,7-5 clinching year-end No. 1; Alcaraz d. Basilashvili 6-1,7-6(11); Cobolli retired vs. Berrettini (muscle injury); WTA Finals draw Nov 5; Indian Wells Nov 8–15 |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Oct 27 S2: Wawrinka final match → result); S2 FOLLOW-UP (Oct 27 S3: Djokovic Basel → R16 result); S3 NEW (Basel chaos day — Kym/Shelton, Vacherot/Jódar); S4 FOLLOW-UP (Oct 27 S1: Vienna R16 → Zverev No. 1 clinch + QF); S5 FOLLOW-UP (Oct 27 S5: WTA Finals → draw imminent) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 T1, 2 T2); bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on Kym/Shelton score, Vacherot/Jódar confirmation, Basel QF bracket exact pairings |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 8 posts across 5 stories; all ≤280 chars (201, 218, 209, 218, 205, 193, 209, 232) |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories |
+| Articles (5) | COMPLETE | article-01 Wawrinka career ends (Marcus Cole T1); article-02 Djokovic/Struff ATP Finals race (Ryan Calloway T1); article-03 Basel upset day (Elena Voss T1); article-04 Zverev year-end No. 1 (Marcus Cole T2); article-05 WTA Finals preview (Ryan Calloway T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — manual (Python blocked); 36 claims; PASSED with MEDIUM flags noted |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 articles; no errors |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 28 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-10-30.xlsx + tfr-postplanner-tobi-2026-10-30.xlsx — 8 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Oct 30 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
+- **Key stories:** Wawrinka career ends (Lehečká 7-5, 7-6(2) in Basel R1); Djokovic stunned by Struff (first career H2H loss), ATP Finals bid depends on Paris; Basel chaos — Kym upsets Shelton, Vacherot upsets Jódar; Zverev clinches year-end No. 1 (d. Griekspoor in Vienna); WTA Finals draw Nov 5 (Indian Wells Nov 8–15)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known)
+
+---
+
+## Previous Run: 2026-10-29
 
 | Step | Status | Notes |
 |------|--------|-------|
@@ -30,7 +60,7 @@
 
 ---
 
-## Current Run: 2026-10-28
+## Previous Run: 2026-10-28
 
 | Step | Status | Notes |
 |------|--------|-------|
@@ -60,7 +90,7 @@
 
 ---
 
-## Current Run: 2026-10-27
+## Previous Run: 2026-10-27
 
 | Step | Status | Notes |
 |------|--------|-------|
