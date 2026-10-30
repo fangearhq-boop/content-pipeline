@@ -4000,3 +4000,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
 - **Follow-Up Opportunities:**
   - Arizona fall final results
   - Arizona 2027 preseason outlook
+
+---
+
+## October 30, 2026
+
+### Story 1: OU Fall Finale — TONIGHT vs. Seminole State
+- **Date:** 2026-10-30
+- **Tier:** 1
+- **Classification:** FOLLOW UP (OU covered throughout October)
+- **Angle:** OU fall finale TONIGHT — Seminole State at Love's Field at 6:30 PM CT, free on 1oklahoma.com. Kendall Wells (39 HR, NFCA Freshman of the Year), Rylie Kavan (2x WCWS MOP) in final fall tuneup.
+- **Content Produced:** Article (article-01, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - OU vs Seminole State result
+  - OU 2027 spring schedule release
+  - Spring 2027 preseason rankings
+
+### Story 2: Arizona Fall Ball Closes This Weekend
+- **Date:** 2026-10-30
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Arizona covered Oct 26)
+- **Angle:** Arizona closes fall Oct 30-31 at Hillenbrand Stadium under first-year HC Caitlin Lowe. 10 letterwinners, Regan Shockey (Big 12 DPOY) headlining 2027 roster.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Arizona fall final results
+  - Arizona 2027 preseason outlook
+
+### Story 3: Tennessee Intersquad Recap — Lady Vols Show Off Elite Pitching
+- **Date:** 2026-10-30
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Tennessee fall covered Oct 9-30)
+- **Angle:** Tennessee Oct 29 intersquad recap at Sherri Parker Lee Stadium. Pickens (194 K, 1.70 ERA) + Mardjetko (16-3, 1.26 ERA) + freshman Shelton (3 IP, 7 K) — potentially best pitching staff in SEC for 2027.
+- **Content Produced:** Article (article-03, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Tennessee 2027 spring schedule release
+  - Lady Vols preseason ranking
+
+### Story 4: 2028 EE100 Infielders 201-300 Drops Today
+- **Date:** 2026-10-30
+- **Tier:** 2
+- **Classification:** FOLLOW UP (2028 EE100 covered Oct 13-30)
+- **Angle:** EE100 Infielders 201-300 drops today. Class fully revealed: No. 1 Landers (Texas), No. 2 Holden (Florida), No. 3 Schlader (OU, 70+ mph riseball). 1,200+ nominations largest class ever.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Outfielders 201-259 (Oct 31)
+  - Hitters hotlists (Nov 1-9)
+  - Full 2028 class team rankings
+
+### Story 5: 5-for-5 Eligibility Litigation — What College Softball Is Watching
+- **Date:** 2026-10-30
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** NCAA 5-for-5 rule adopted June 23, 2026. Wisne v. NCAA — preliminary injunction July 31, stay Aug 21, Tenth Circuit arguments Oct 13. If NCAA loses, softball teams may add class of 2022 players under roster caps.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Tenth Circuit ruling (timeline TBD)
+  - NCAA response and roster planning by programs
+  - State-level litigation updates
