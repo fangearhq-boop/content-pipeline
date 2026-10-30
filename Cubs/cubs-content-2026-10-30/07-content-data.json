@@ -1,0 +1,241 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-30",
+  "compiled_at": "2026-10-30T09:19:16.416808+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Michael King free agent — Cubs in mix",
+      "type": "1"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Holmes + Boyd gone — 5 starters FA",
+      "type": "1"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Gold Gloves tomorrow — historic OF sweep",
+      "type": "2"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Happ QO due by Monday",
+      "type": "2"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Kanzler / Mariners decision today",
+      "type": "2"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "AFL Week 5 — Reid breakout start",
+      "type": "3"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Michael King Opts Out — Free Agent, Cubs in Mix",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "King officially opted out of Padres contract Thursday Oct 29 — now free agent. Padres hold exclusive window through Nov 2. Cubs linked as landing spot. Needs a No. 1 starter.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "MICHAEL KING IS A FREE AGENT.\n\nHe opted out Thursday — left money on the table for a $100M+ market. The Cubs need him. 🚨\n\nPadres hold exclusive rights through Nov. 2. After that, the bidding opens.\n\nMake the call, Jed.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "X Text Post",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Michael King Opts Out — Free Agent\n**Decision:** NEW STORY (follow-up angle: King opt-out was anticipated in prior pipeline; Oct 29 = first day it was confirmed as fact)\n**Sources (all within 24h):**\n1. NBC San Diego — \"Michael King opts out of San Diego Padres contract, becomes a free agent\" — Oct 29, 2026 ✓\n2. MLB.com — \"Michael King free agent 2027\" — Oct 29, 2026 ✓\n3. Yahoo Sports / Field Level Media — opt-out confirmation — Oct 29, 2026 ✓\n4. Cubbies Crib — \"Cubs get a second chance to fix Michael King mistake after Padres opt-out\" — Oct 29, 2026 ✓\n**Verified facts:**\n- King officially opted out of Padres contract: Oct 29, 2026 (HIGH — ≥3 sources confirm)\n- Padres exclusive negotiating window: through Nov 2, 4 PM CT (MEDIUM — NBC SD; cross-verify before citing)\n- 2026 performance: 3.21 ERA, 32 starts, 185 IP, 4.3 bWAR (MEDIUM — search summary; not cross-referenced with Baseball Reference)\n- Cubs linked as landing spot (MEDIUM — multiple outlets, but sourcing is \"could be\" language)\n- Conflicting dollar amount walked away from: DO NOT USE. $53M and $66M and $58M all cited. Use \"opted out of remaining contract.\"\n**Relevance to Cubs fans:** King is arguably the best available starting pitcher on the market given Skubal's contract expectations. The Cubs need multiple SPs this offseason. This is the single most important pitching news of the offseason opener.\n**Story freshness:** CONFIRMED. Multiple outlets reported Oct 29. Padres window adds ongoing urgency through Nov 2.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Holmes + Boyd Decline Options — 5 Starters Gone",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Holmes ($12M player opt) and Boyd ($15M mutual opt) both declined Oct 29. Gausman/Peterson/Imanaga also FA. 5 total starters in FA. Horton out until July 2027. Blank rotation.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "FIVE STARTERS. ZERO RETURNING.\n\nHolmes declined his $12M option. Boyd declined his $15M option. Add Gausman, Peterson, and Imanaga — five total free agents. 🔥\n\nHorton won't pitch until July 2027. Hoyer enters the offseason with a blank rotation.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "X Text Post",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Holmes + Boyd Decline Options — 5-Starter Exodus Confirmed\n**Decision:** NEW STORY (Holmes and Boyd option decisions are new Oct 29 developments; the rotation crisis has been building but this makes it official)\n**Sources:**\n1. NBC Sports — \"Holmes declines player option, becomes free agent\" — Oct 29, 2026 ✓\n2. Yahoo Sports — \"Cubs' Clay Holmes, Matthew Boyd to enter free agency\" — Oct 29, 2026 ✓\n3. The Score — \"Report: Holmes, Boyd turn down player options with Cubs\" — Oct 29, 2026 ✓\n4. SI.com — \"Two Cubs Starters Decline Player Option as Future Rotation Becomes Wide Open\" — Oct 29, 2026 ✓\n5. Bleacher Nation — \"Clay Holmes and Matthew Boyd Have Easy Options Decisions\" — Oct 29, 2026 ✓\n**Verified facts:**\n- Holmes declined $12M player option (HIGH — ≥4 sources confirm; option value consistent)\n- Boyd declined $15M mutual option (HIGH — ≥4 sources confirm; note: described as \"player option\" in some and \"mutual option\" in others — dollar amount consistent at $15M)\n- Boyd receives $2M buyout (MEDIUM — NBC Sports summary; consistent with typical mutual option structure)\n- Holmes 2026: 3.29 ERA, 3.63 FIP, 101.1 IP (Cubs + Mets combined) (MEDIUM — NBC Sports; verify vs. Baseball Reference)\n- Boyd 2026: 3.91 ERA, 1.21 WHIP, 126.2 IP (MEDIUM — NBC Sports)\n- Gausman, Peterson, Imanaga also FA: HIGH — established in prior pipeline + confirmed in search\n- Total: 5 starting pitchers entering FA (Holmes + Boyd + Gausman + Peterson + Imanaga) (HIGH — multiple sources reference this count)\n- Cade Horton TJ #2 — out until July 2027 at earliest (HIGH — established in prior pipeline)\n**Relevance:** The rotation is completely vacant heading into the CBA expiration on Dec 1. Every available starting pitcher slot needs to be filled externally. This is the defining story of the Cubs' 2026-27 offseason.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Gold Gloves Tomorrow — Historic OF Sweep on the Line",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "PCA, Happ, Suzuki all finalists. Winners Sunday night ESPN. No team has EVER swept all 3 outfield GGs. Also: Bregman + Swanson finalists. 5 Cubs total.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "THREE OUTFIELDERS. ONE HISTORIC SHOT.\n\nPCA, Happ, and Suzuki are all Gold Glove finalists. Winners announced Sunday night on ESPN. 🧤\n\nNo team has EVER swept all three outfield Gold Gloves in the same season. The Cubs can be first.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "X Text Post",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Gold Gloves Sunday — Historic OF Sweep\n**Decision:** FOLLOW UP (finalists announced Oct 14; countdown covered Oct 22-29; \"TOMORROW\" hook = new urgency)\n**Sources:**\n1. CBS Chicago — Gold Glove finalists announcement — Oct 14, 2026 ✓ (established, confirmed prior coverage)\n2. Bleacher Nation — finalists analysis — Oct 14, 2026 ✓\n3. Yahoo Sports — \"Cubs Land Five Gold Glove Finalists\" — Oct 14, 2026 ✓\n4. Search summary: multiple sources confirm Sunday Nov 1 ESPN announcement\n**Verified facts:**\n- 5 Cubs finalists: PCA (CF), Happ (LF), Suzuki (RF), Bregman (3B), Swanson (SS) (HIGH — multiple sources Oct 14)\n- Winners Sunday Nov 1 on ESPN (HIGH — confirmed in multiple summaries)\n- Airtime \"7:30 PM\" cited but timezone unverified — use \"Sunday night on ESPN\" only (LOW confidence on time)\n- No team has ever swept all three outfield GGs (HIGH — cited by MLB.com; cross-referenced in prior pipeline)\n- PCA: clear favorite for CF (HIGH — consensus across outlets)\n- Happ: faces competition from Jackson Chourio (MEDIUM — one source); would be 5th consecutive GG (HIGH — established in prior coverage)\n- Suzuki: RF favorite per one Cubs outlet (MEDIUM — single source)\n**Relevance:** Tomorrow's announcement. Historic sweep possible. Only second time PCA could win back-to-back.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Ian Happ QO — Cubs Must Decide by Monday",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Free agency opens Nov 2. Cubs haven't announced Happ QO. $23.15M offer keeps him. Gold Glove finalist, 24 HR in 2026. Clock running.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "HAPP DECISION: DUE BY MONDAY.\n\nFree agency opens Nov. 2. Cubs haven't announced a QO for Happ — Gold Glove finalist, 24 HR in 2026. ⏰\n\n$23.15M offer keeps him in Chicago. Or the bidding war starts Monday.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "X Text Post",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Ian Happ QO — Deadline Monday\n**Decision:** FOLLOW UP (QO window discussed Oct 20, 26-29; free agency opens Nov 2 = new specific deadline)\n**Sources:**\n1. MLB.com — QO candidates 2026-27 (recent)\n2. Cubbies Crib — \"Cubs could take first step toward Ian Happ reunion with looming qualifying offer decision\" (recent, Oct 30 range)\n3. Bleacher Nation — Happ FA contract analysis — Oct 27, 2026 ✓\n4. Last Word on Sports — Happ FA analysis — Oct 20, 2026 (slightly stale; use for context only)\n**Verified facts:**\n- Free agency opens Nov 2, 5 PM ET (MEDIUM — one source; note source says \"5:00 p.m.\" without specifying ET or CT; brand voice uses CT)\n- QO value: $23.15M (HIGH — consistent across multiple sources across days)\n- Cubs have not announced Happ QO yet (HIGH — no announcement found in searches through Oct 30)\n- Happ 2026: .218/.326/.412, 24 HR, 68 RBI (MEDIUM — search summary; verify against Baseball Reference before citing specific stats)\n- Happ: Gold Glove finalist (HIGH)\n- If Happ declines and signs elsewhere: Cubs receive draft compensation (HIGH — standard QO mechanism)\n**Fact-check note:** \".218 BA\" — use this with caution; prior pipeline has referenced similar stats. Mark as MEDIUM.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Kanzler / Mariners Manager Decision Today",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "End-of-week deadline for Mariners manager decision. Finalists: Kanzler (Cubs farm director) and Joe Espada. Rocco Baldelli withdrew. No hire yet announced.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "KANZLER DECISION: TODAY.\n\nThe Mariners are expected to name their next manager by end of week. Finalists: Cubs farm director Jason Kanzler and former Astros skipper Joe Espada. 🤔\n\nLosing Kanzler would sting. He built this system.\n\n#Cubs #MLB #NorthSiders",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "X Text Post",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#NorthSiders"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Kanzler Mariners Decision Imminent\n**Decision:** FOLLOW UP (Kanzler first covered Oct 25; finalists confirmed Oct 27; \"end of week = today\" is the fresh hook)\n**Sources:**\n1. MLB Trade Rumors — finalists confirmed — Oct 27, 2026 ✓\n2. MLB.com — \"Mariners interviewing Espada, Kanzler\" — Oct 27, 2026 ✓\n3. Bleacher Nation — Kanzler deep dive — Oct 27, 2026 ✓\n4. Roundtable — \"Mariners Expected to Make Decision in Coming Days\" — post-Oct 27 ✓\n**Verified facts:**\n- Finalists: Kanzler and Joe Espada (HIGH — multiple sources, Oct 27)\n- Decision expected by end of week (MEDIUM — \"tentative plan\" per reports)\n- Rocco Baldelli withdrew (HIGH — confirmed multiple sources)\n- Kanzler: Cubs farm director since 2024, previously Astros (MEDIUM — search summary)\n- Age 36, never managed (MEDIUM — single source)\n- No hire announced as of Oct 29 reporting (HIGH)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "AFL Week 5 — Dominick Reid Breakout Start",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Reid (No. 28 prospect): 4 IP, 1 H, 7 K in first AFL start. 3.46 ERA/13 IP overall. Snell and Cabral also rolling for Mesa Solar Sox.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "DOMINICK REID IS COOKING IN ARIZONA.\n\nIn his first AFL start: 4 IP, 1 H, 7 K. He's posting a 3.46 ERA in 13 innings with the Mesa Solar Sox. 🔥\n\nThe Cubs' No. 28 prospect — plus Snell and Cabral — is making the system watchable right now.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "X Text Post",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "AFL Week 5 — Dominick Reid\n**Decision:** FOLLOW UP (AFL covered Oct 22, 23, 25, 26, 27, 29; Reid breakout start is freshest angle for Week 5)\n**Sources:**\n1. SI.com — \"Did the Cubs Find Their Next Breakout Pitcher at Arizona Fall League?\" (recent, Oct 28-30 range) ✓\n2. MLB.com — AFL overview (pre-season context)\n3. TJStats.ca — prospect profiles (Oct 2, 2026 — background only)\n**Verified facts:**\n- Reid first AFL start: 4 IP, 1 H, 1 R, 1 BB, 7 K (MEDIUM — SI search summary; single source)\n- Reid overall AFL: 3.46 ERA, 13 IP (MEDIUM — search summary; verify against AFL box scores ideally)\n- Reid: No. 28 Cubs prospect (MEDIUM — from search; consistent with prior coverage)\n- Kade Snell: 19/21 SB in 2026, speed profile (MEDIUM — TJStats; Oct 2 is background)\n- Jhon Cabral: triple-digit velo, cut by Marlins then found Cubs (MEDIUM — TJStats)\n- Juan Cabada: 18, 2nd-youngest in AFL (HIGH — prior pipeline coverage)\n- Mesa Solar Sox through Nov 14 (HIGH — confirmed)\n**Freshness note:** SI article describing Reid's breakout start appears to be within 24-48h. Treat as MEDIUM confidence overall given it's a search summary.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

@@ -5,6 +5,64 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-10-30 (OFF DAY — Early offseason. BREAKING: King opts out Oct 29 → free agent, Padres exclusive window through Nov 2. Holmes + Boyd decline options Oct 29 → 5 starters in FA total. Gold Gloves TOMORROW (Sunday Nov 1, ESPN). Happ QO due by Nov 2. Kanzler/Mariners decision end of week. AFL Week 5: Reid breakout. Insights: allcaps_lead WINNER (small, delta=0.245, p=0.05).)
+
+### STORY 1: Michael King Opts Out — Free Agent, Cubs in Mix
+- **Angle:** FOLLOW UP (opt-out anticipated since Oct 20; confirmed Oct 29). King officially free agent. Padres exclusive window through Nov 2. Cubs linked as landing spot. 3.21 ERA, 32 starts in 2026. Market ~$100M.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, informative / urgency)
+- **Follow-Up Opportunities:**
+  - Padres exclusive window closes Nov 2 → King opens to all teams
+  - King signs with Cubs → Tier 1 breaking
+  - King stays with Padres → story closes, Cubs pivot
+  - King market reports (competing offers) → Tier 2 updates
+
+### STORY 2: Holmes + Boyd Decline Options — 5 Starters Gone
+- **Angle:** NEW STORY. Holmes ($12M player option) and Boyd ($15M mutual option) both declined Oct 29. Now 5 starters in FA: Holmes, Boyd, Gausman, Peterson, Imanaga. Horton out until July 2027. Complete rotation overhaul required.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take / urgency)
+- **Follow-Up Opportunities:**
+  - Holmes signs with another team → Tier 2 reaction
+  - Boyd signs → Tier 3 note
+  - Cubs sign first SP of offseason → Tier 1 breaking
+  - Rotation picture comes into focus → Tier 2 analysis
+
+### STORY 3: Gold Gloves Tomorrow — Historic OF Sweep on the Line
+- **Angle:** FOLLOW UP (finalists covered Oct 14, countdown Oct 22–29). "TOMORROW" hook: winners announced Sunday Nov 1 on ESPN. PCA/Happ/Suzuki all finalists. Historic: no team has swept all 3 outfield GGs. This is the announcement-eve preview.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown / preview)
+- **Follow-Up Opportunities:**
+  - Gold Glove winners announced Sunday Nov 1 → Tier 1 if Cubs sweep OF, Tier 2 per winner
+  - PCA 2nd consecutive GG → celebration tweet
+
+### STORY 4: Ian Happ QO — Cubs Must Decide by Monday
+- **Angle:** FOLLOW UP (QO covered Oct 20, 26, 27, 29). Free agency opens Nov 2. Cubs haven't announced QO for Happ. $23.15M offer pending. Gold Glove finalist, 24 HR in 2026.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, analysis / urgency)
+- **Follow-Up Opportunities:**
+  - Cubs announce Happ QO → Tier 2 confirmation
+  - Happ declines QO → Tier 1 (open market)
+  - Happ accepts QO → Tier 1 (retained)
+
+### STORY 5: Kanzler / Mariners Manager Decision Today
+- **Angle:** FOLLOW UP (Kanzler first covered Oct 25; finalists confirmed Oct 27). End-of-week deadline = today. Kanzler and Espada as finalists. No hire announced yet.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, org news)
+- **Follow-Up Opportunities:**
+  - Kanzler hired by Mariners → Tier 1 org news (Cubs lose farm director)
+  - Espada hired → Tier 3 note (Cubs keep Kanzler)
+  - Cubs begin search for new player development director → Tier 2
+
+### STORY 6: AFL Week 5 — Dominick Reid Breakout Start
+- **Angle:** FOLLOW UP (AFL covered Oct 22–29; Reid debut covered Oct 29). Fresh angle: Reid's first start line (4 IP, 1 H, 7 K) plus 3.46 ERA overall. Snell and Cabral also rolling.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, prospect feature)
+- **Follow-Up Opportunities:**
+  - AFL Week 6 update → Reid second start, Snell stats, Cabral velocity
+  - AFL MVP award Nov 14 → if Cubs prospect is nominated
+
+---
+
 ## 2026-10-29 (OFF DAY — Early offseason. WS: BREWERS WIN WORLD SERIES — 4-1 over Rays in Game 5 (Oct 28), first title in franchise history. King opt-out clock officially running. Imanaga + Suzuki QO windows now open. Gold Gloves 3 days away (Nov 1 ESPN). Insights: allcaps_lead WINNER (small, delta=0.287) + not_statement WINNER (small, delta=0.277). AFL Week 5 Snell/Cabral/Reid.)
 
 ### STORY 1: Brewers Win First World Series Title — Division Rival Is Champion

@@ -1,15 +1,23 @@
-# Cubs Pipeline Status — Updated 2026-10-29
+# Cubs Pipeline Status — Updated 2026-10-30
 
 ## Latest Run
-- **Date:** 2026-10-29 (Thursday — Off day. WS: BREWERS WON WORLD SERIES — 4-1 over Rays in Game 5 (Oct 28). First title in franchise history. King opt-out clock NOW RUNNING. Imanaga + Suzuki QO windows open. Gold Gloves Nov 1. AFL Week 5.)
+- **Date:** 2026-10-30 (Friday — Off day. BREAKING: King opts out Oct 29 → free agent. Holmes + Boyd decline options Oct 29 → 5 starters in FA. Gold Gloves TOMORROW (Nov 1 ESPN). Happ QO due Nov 2. Kanzler/Mariners decision today. AFL Week 5 Reid breakout.)
 - **Stories:** 6
 - **X posts:** 6
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
-- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 5 stories, 5 tweets
-- **07-content-data.json:** ✅ Valid JSON, all 5 posts with posting_time (7:00 AM / 9:30 AM / 12:00 PM / 2:30 PM / 3:45 PM CT), all strptime-parseable
+- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 6 stories, 6 tweets
+- **07-content-data.json:** ✅ Valid JSON, all 6 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 10:45 AM / 12:00 PM / 2:30 PM CT), all strptime-parseable
 - **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
-- **Note:** 2 significant insights applied: allcaps_lead WINNER (delta=0.287, p=0.0216) + not_statement WINNER (delta=0.277, p=0.0264). All 6 tweets lead with ALL CAPS non-statement fragment openers. Off day — Brewers WS WIN anchor (division rival champion, 4-1 Game 5) + King opt-out clock running + Imanaga QO window open + Gold Gloves 3 days + Suzuki QO + AFL Week 5.
+- **Note:** 1 significant insight applied: allcaps_lead WINNER (delta=0.245, small, p=0.05). All 6 tweets open with ALL CAPS fragment. Off day — King free agent breaking + rotation 5-alarm (Holmes/Boyd declined) + Gold Gloves tomorrow + Happ QO + Kanzler decision + AFL Reid breakout.
+
+## Insights Summary (2026-10-30 run — from 2026-10-30T08:30 UTC snapshot)
+- **Generated:** 2026-10-30T08:30:00 UTC
+- **Measured tweet count:** 87
+- **Significant findings:** 1
+  1. `opening=allcaps_lead` winner=True, delta=0.245 (small), p=0.05 — ALL CAPS leads outperform
+- **Note:** Prior run had 2 findings (allcaps_lead + not_statement); today only allcaps_lead cleared the gates. `opening=statement` not significant this snapshot (dropped out). Continued to avoid plain declarative openers per brand voice defaults.
+- **Action:** All 6 tweets open with ALL CAPS fragment on line 1.
 
 ## Insights Summary (2026-10-29 run — from 2026-10-29T08:30 UTC snapshot)
 - **Generated:** 2026-10-29T08:30:00 UTC
@@ -79,8 +87,8 @@
 - **Action:** Off-day pipeline. WS Game 1 TONIGHT Brewers vs. Rays (7 PM CT, Fox). No series-preview slot. Rival watch, opt-out clock, Sato posting window, PCA MVP, AFL prospects.
 
 ## Key Ongoing Stories
-- **Rotation rebuild:** 4 of 5 starters FA (Gausman, Holmes, Peterson, Imanaga; Boyd mutual option unlikely). Horton TJ — out until July 2027. Sonny Gray (covered Oct 14). Kirby trade target (covered Oct 19). Detmers near-miss covered Oct 21. Skubal: do NOT re-cover without new development.
-- **Michael King opt-out:** Padres RHP, covered Oct 20 + Oct 23 (WS = opt-out clock officially running; 5 days after WS ends). No QO. Next: opt-out announcement = Tier 1.
+- **Rotation rebuild:** ALL 5 starters FA (Gausman, Holmes, Peterson, Imanaga, Boyd — Holmes/Boyd declined Oct 29). Horton TJ — out until July 2027. Kirby trade target (covered Oct 19). Skubal: do NOT re-cover without new development.
+- **Michael King opt-out → FREE AGENT:** King officially opted out Oct 29. Padres exclusive window through Nov 2. Cubs linked as landing spot. (covered Oct 20, 23, 27, 28, 29, 30). Next: Padres window closes Nov 2 → open bidding. Cubs signing King = Tier 1 breaking.
 - **Teruaki Sato:** NPB triple crown winner, posted Oct 19, 45-day window (covered Oct 21 + Oct 23 follow-up). Cubs more likely targeting pitcher Kaima Taira. Next: signing announcement. Dodgers/Yankees/Phillies/Mets primary suitors.
 - **Nico Hoerner trade interest:** Yankees, Giants, Mariners calling (covered Oct 21). NOTE: under contract through 2032. Next: deal announcement = Tier 1.
 - **Reid Detmers:** covered Oct 21. Next: trade talks develop = Tier 1.
@@ -109,6 +117,7 @@
 
 | Date | Type | Stories | Tweets | Status |
 |------|------|---------|--------|--------|
+| 2026-10-30 | OFF DAY (King free agent BREAKING, Holmes+Boyd decline options BREAKING, Gold Gloves tomorrow preview, Happ QO due Monday, Kanzler/Mariners decision, AFL Week 5 Reid breakout) | 6 | 6 | ✅ |
 | 2026-10-29 | OFF DAY (Brewers WS WIN rival reaction, King opt-out clock running, Imanaga QO window open, Gold Gloves 3 days, Suzuki QO decision, AFL Week 5 Snell/Cabral/Reid) | 6 | 6 | ✅ |
 | 2026-10-28 | OFF DAY (WS G5 rival watch anchor, King opt-out imminent, Suzuki QO this week, PCA unanimous MVP poll, Sato posting official) | 5 | 5 | ✅ |
 | 2026-10-27 | OFF DAY (WS G3 result 10-1 Brewers, King opt-out clock imminent, Gold Gloves 5-day countdown, Imanaga QO imminent, Suzuki FA market, AFL Reid debut) | 6 | 6 | ✅ |
