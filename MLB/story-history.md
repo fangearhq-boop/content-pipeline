@@ -5,6 +5,50 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## Pipeline Run: 2026-10-30
+
+### STORY 1: Brewers Win 2026 World Series — First Title in 57-Year Franchise History
+- **Date:** 2026-10-30
+- **Tier:** 1
+- **Classification:** NEW (WS clincher)
+- **Angle:** Brewers beat Rays 4-1 in G5 at Tropicana. Misiorowski 5.2 scoreless IP before leaving with calf cramp. Contreras WS MVP (.381, 10-for-13, 4 RBI, 4 CS). Cooper Pratt 2 RBI. Trevor Megill 2-inning save. Brewers finish 11-2 in postseason. Milwaukee's first WS title in 57-year franchise history.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** Championship parade, Misiorowski calf injury timeline, offseason moves
+
+### STORY 2: MLB Free Agency Opens — 144 Players Hit Market
+- **Date:** 2026-10-30
+- **Tier:** 1
+- **Classification:** NEW (FA opening day)
+- **Angle:** 144 players declared free agents. Skubal and Arozarena headline class. Pete Alonso opted out of Mets $24M option. Michael King opted out with Cubs interest. 5-day exclusive window open. CBA expires Dec 1, lockout likely.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:** Skubal signing, Arozarena destination, lockout developments
+
+### STORY 3: CBA Expires in 32 Days — Lockout Close to Inevitable
+- **Date:** 2026-10-30
+- **Tier:** 2
+- **Classification:** NEW (CBA deadline coverage)
+- **Angle:** Owners want hard cap at $245.3M; union near $300M LTT (no hard cap). ~5% odds of deal before Dec 1. Manfred says lockout "likely to become the norm." MLBPA has strike fund. Last stoppage 2021-22 lasted 99 days.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** CBA talks, any movement, December 1 deadline
+
+### STORY 4: Tarik Skubal Free Agency — Most Coveted Pitcher in Years
+- **Date:** 2026-10-30
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Skubal covered in prior runs)
+- **Angle:** Back-to-back AL Cy Young (2025, 2026). 16-5, 1.80 ERA, 252 K. Dodgers ~38% favorites in prediction markets. Phillies dark horse. $350M–$400M projections. CBA deadline creates urgency to sign before Dec 1.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** Signing announcement, contract details
+
+### STORY 5: Rays World Series Aftermath — What Comes Next
+- **Date:** 2026-10-30
+- **Tier:** 2
+- **Classification:** NEW (WS aftermath)
+- **Angle:** Rays became 5th team ever to force G5 from 0-3 WS deficit; 5th to fail. McClanahan missed entire WS (back/calf issues). Williamson G4 walk-off in 12th; Cooper Pratt HR top 12th. Pressure to spend this offseason. CBA window narrows decision timeline.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:** McClanahan health update, FA signings, offseason spending
+
+---
+
 ## Pipeline Run: 2026-10-28
 
 ### Story 1: World Series G5 Preview — Brewers Can Clinch Tonight
