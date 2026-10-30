@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-29T08:30:00.326829+00:00",
+  "generated_at": "2026-10-30T08:30:00.371765+00:00",
   "account": "cubs",
   "window_days": 21,
   "tweet_count": 87,
   "measured_tweet_count": 87,
-  "measured_median_impressions": 64,
-  "measured_mean_impressions": 358.41,
-  "median_impressions": 64,
-  "mean_impressions": 358.41,
+  "measured_median_impressions": 65,
+  "measured_mean_impressions": 359.52,
+  "median_impressions": 65,
+  "mean_impressions": 359.52,
   "max_impressions": 11494,
   "significant_findings": [
     {
@@ -17,23 +17,10 @@
       "loser": "not_allcaps_lead",
       "median_impressions_winner": 97.5,
       "median_impressions_loser": 60,
-      "n_winner": 42,
-      "n_loser": 45,
-      "p_value": 0.0216,
-      "effect_size_cliffs_delta": 0.287,
-      "effect_size_label": "small"
-    },
-    {
-      "dimension": "opening=statement",
-      "kind": "category_vs_rest",
-      "winner": "not_statement",
-      "loser": "statement",
-      "median_impressions_winner": 97.5,
-      "median_impressions_loser": 60,
       "n_winner": 46,
       "n_loser": 41,
-      "p_value": 0.0264,
-      "effect_size_cliffs_delta": 0.277,
+      "p_value": 0.05,
+      "effect_size_cliffs_delta": 0.245,
       "effect_size_label": "small"
     }
   ],
@@ -42,60 +29,60 @@
     "window_days": 90,
     "sample": "brief posts with a complete impressions snapshot",
     "signals": "reach (impressions, all measured briefs) and engagement rate (engagements / impressions, briefs with above-median reach only), each hour vs the rest of the day, Mann-Whitney + Cliff's delta, Holm-corrected across all hour x signal contrasts",
-    "brief_count": 467,
+    "brief_count": 471,
     "instruction": "When assigning posting_time, prefer recommended_hours and never use avoid_hours, but keep the day's usual shape: the same number of posts, spread across the day, at least 20 minutes apart, no more than 2 posts in any one hour, and within the caps of 5 posts 6AM-noon, 4 posts noon-6PM, 3 posts 6PM-midnight CT. Hours without a verdict are neutral. If recommended_hours is empty, keep the current schedule.",
     "hours": [
       {
         "hour_ct": 7,
-        "n": 83,
-        "median_impressions": 82,
+        "n": 84,
+        "median_impressions": 82.0,
         "engagement_n": 41,
         "median_engagement_rate": 0.0062,
         "reach_verdict": null,
-        "reach_p_value": 0.47162943616922215,
-        "reach_effect_size": 0.0503890562248996,
+        "reach_p_value": 0.5901666167207575,
+        "reach_effect_size": 0.037498461917066565,
         "engagement_verdict": null,
-        "engagement_p_value": 0.4657067761478002,
-        "engagement_effect_size": 0.06854283927454659
+        "engagement_p_value": 0.48362014635837225,
+        "engagement_effect_size": 0.06577974870657798
       },
       {
         "hour_ct": 8,
-        "n": 61,
-        "median_impressions": 91,
-        "engagement_n": 33,
-        "median_engagement_rate": 0.0096,
+        "n": 62,
+        "median_impressions": 89.5,
+        "engagement_n": 34,
+        "median_engagement_rate": 0.0089,
         "reach_verdict": null,
-        "reach_p_value": 0.1126525173399564,
-        "reach_effect_size": 0.12593878704675765,
+        "reach_p_value": 0.15783441013537014,
+        "reach_effect_size": 0.1112863790519757,
         "engagement_verdict": null,
-        "engagement_p_value": 0.05999016047398631,
-        "engagement_effect_size": 0.1928646066577101
+        "engagement_p_value": 0.09588375585684727,
+        "engagement_effect_size": 0.16857962697274032
       },
       {
         "hour_ct": 9,
-        "n": 75,
-        "median_impressions": 67,
+        "n": 76,
+        "median_impressions": 65.0,
         "engagement_n": 30,
         "median_engagement_rate": 0.0012,
         "reach_verdict": null,
-        "reach_p_value": 0.009681648681113764,
-        "reach_effect_size": -0.18846938775510205,
+        "reach_p_value": 0.009066376807883803,
+        "reach_effect_size": -0.18894070619586942,
         "engagement_verdict": null,
-        "engagement_p_value": 0.9770080455211576,
-        "engagement_effect_size": 0.003236245954692557
+        "engagement_p_value": 0.988068623452764,
+        "engagement_effect_size": 0.0017543859649122807
       },
       {
         "hour_ct": 10,
-        "n": 48,
-        "median_impressions": 73.0,
+        "n": 49,
+        "median_impressions": 73,
         "engagement_n": 19,
         "median_engagement_rate": 0.0,
         "reach_verdict": null,
-        "reach_p_value": 0.03805156903897089,
-        "reach_effect_size": -0.18272673031026254,
+        "reach_p_value": 0.02389621388259866,
+        "reach_effect_size": -0.19706934906664086,
         "engagement_verdict": null,
-        "engagement_p_value": 0.22383812447889095,
-        "engagement_effect_size": -0.15910744603444094
+        "engagement_p_value": 0.21977741211087176,
+        "engagement_effect_size": -0.16052631578947368
       },
       {
         "hour_ct": 11,
@@ -113,15 +100,15 @@
       {
         "hour_ct": 12,
         "n": 77,
-        "median_impressions": 89,
-        "engagement_n": 42,
+        "median_impressions": 92,
+        "engagement_n": 43,
         "median_engagement_rate": 0.0,
         "reach_verdict": null,
-        "reach_p_value": 0.44198884580646824,
-        "reach_effect_size": 0.05544455544455545,
+        "reach_p_value": 0.2743600794600307,
+        "reach_effect_size": 0.07874612696947722,
         "engagement_verdict": null,
-        "engagement_p_value": 0.052469094897758195,
-        "engagement_effect_size": -0.1802896416298478
+        "engagement_p_value": 0.08276841191831563,
+        "engagement_effect_size": -0.15970574276222116
       },
       {
         "hour_ct": 13,
@@ -130,24 +117,24 @@
         "engagement_n": 14,
         "median_engagement_rate": 0.0103,
         "reach_verdict": null,
-        "reach_p_value": 0.3301345783481855,
-        "reach_effect_size": 0.12874720357941835,
+        "reach_p_value": 0.32435844576414663,
+        "reach_effect_size": 0.13026607538802662,
         "engagement_verdict": null,
-        "engagement_p_value": 0.0923100654841873,
-        "engagement_effect_size": 0.25353925353925355
+        "engagement_p_value": 0.09389574740753792,
+        "engagement_effect_size": 0.2523809523809524
       },
       {
         "hour_ct": 14,
         "n": 35,
-        "median_impressions": 89,
-        "engagement_n": 21,
-        "median_engagement_rate": 0.0054,
+        "median_impressions": 100,
+        "engagement_n": 22,
+        "median_engagement_rate": 0.0067,
         "reach_verdict": null,
-        "reach_p_value": 0.36506522506859573,
-        "reach_effect_size": 0.09206349206349207,
+        "reach_p_value": 0.24534530448523584,
+        "reach_effect_size": 0.11802096985583224,
         "engagement_verdict": null,
-        "engagement_p_value": 0.8814992806180657,
-        "engagement_effect_size": 0.018826135105204873
+        "engagement_p_value": 0.8183647414353945,
+        "engagement_effect_size": 0.02827817343946376
       },
       {
         "hour_ct": 15,
@@ -156,11 +143,11 @@
         "engagement_n": 14,
         "median_engagement_rate": 0.0074,
         "reach_verdict": null,
-        "reach_p_value": 0.3220777316899317,
-        "reach_effect_size": -0.10808543096872616,
+        "reach_p_value": 0.34089721315169674,
+        "reach_effect_size": -0.10393046107331821,
         "engagement_verdict": null,
-        "engagement_p_value": 0.8574117126858034,
-        "engagement_effect_size": 0.02734877734877735
+        "engagement_p_value": 0.869285695664312,
+        "engagement_effect_size": 0.02507936507936508
       },
       {
         "hour_ct": 16,
@@ -182,11 +169,11 @@
         "engagement_n": 17,
         "median_engagement_rate": 0.0,
         "reach_verdict": null,
-        "reach_p_value": 0.6504259986336018,
-        "reach_effect_size": 0.04875702870671796,
+        "reach_p_value": 0.6498525746549884,
+        "reach_effect_size": 0.048826979472140764,
         "engagement_verdict": null,
-        "engagement_p_value": 0.16646850458692342,
-        "engagement_effect_size": -0.19043781896320172
+        "engagement_p_value": 0.16112169167390178,
+        "engagement_effect_size": -0.19289878113407524
       }
     ],
     "recommended_hours": [],
@@ -206,28 +193,10 @@
   },
   "raw_buckets": {
     "by_hour_ct": {
-      "12": {
-        "n": 20,
-        "mean": 157.05,
-        "median": 87.0,
-        "top": {
-          "impressions": 1390,
-          "text": "Gausman. Imanaga. Boyd. Holmes. Peterson.\n\nFive starters. All free agents this winter. Add Horton (TJ) and Steele (elbow). The Cubs could enter spring training with ZERO established pitchers under contract.\n\nHoyer's offseason is a five-alar"
-        }
-      },
-      "14": {
-        "n": 10,
-        "mean": 1221.1,
-        "median": 63.0,
-        "top": {
-          "impressions": 11494,
-          "text": "THE CUBS reportedly want George Kirby.\n\nThe Mariners were listening at the deadline. Now it's the offseason \u2014 and Chicago needs rotation arms more than anyone.\n\nKirby is controllable, elite, and exactly what this staff is missing.\n\nMake the"
-        }
-      },
       "10": {
-        "n": 3,
-        "mean": 35.33,
-        "median": 36,
+        "n": 4,
+        "mean": 34.75,
+        "median": 34.5,
         "top": {
           "impressions": 41,
           "text": "MICHAEL KING'S OPT-OUT CLOCK is ticking.\n\nBrewers lead 2-0. A WS sweep this week = opt-out window opens days after. King (3.03 ERA, 175 IP) is viewed as the 2nd-best FA starter this winter behind Skubal.\n\nCubs need rotation help. They know "
@@ -235,8 +204,8 @@
       },
       "9": {
         "n": 17,
-        "mean": 499,
-        "median": 48,
+        "mean": 499.94,
+        "median": 50,
         "top": {
           "impressions": 4314,
           "text": "CADE HORTON won't throw a pitch in 2027 Spring Training.\n\nHis second Tommy John in April puts his return at July or August 2027 \u2014 best case.\n\nThe Cubs are rebuilding their rotation around an ace they won't see until midseason. \ud83d\udd25\n\n#Cubs #GoC"
@@ -244,11 +213,38 @@
       },
       "8": {
         "n": 7,
-        "mean": 168,
+        "mean": 166.43,
         "median": 131,
         "top": {
           "impressions": 396,
           "text": "VOTED the best player in baseball. By the players themselves.\n\nPete Crow-Armstrong wins the Sporting News MLB Player of the Year \u2014 first Cub since Sosa in 1998. Fielding Bible POY. Baseball Digest POY. BBWAA MVP drops early November.\n\nThe c"
+        }
+      },
+      "7": {
+        "n": 15,
+        "mean": 325.67,
+        "median": 83,
+        "top": {
+          "impressions": 3542,
+          "text": "FIVE SEASONS. 26 homers. .270/.368/.473 in 2026.\n\nJon Heyman: Cubs expected to extend Seiya Suzuki a $23.15M qualifying offer.\n\nHe'll decline it. The Blue Jays are waiting. The market will pay him $100M+.\n\nThank you, Seiya.\n\n#Cubs #MLB #Cub"
+        }
+      },
+      "12": {
+        "n": 19,
+        "mean": 167.26,
+        "median": 96,
+        "top": {
+          "impressions": 1390,
+          "text": "Gausman. Imanaga. Boyd. Holmes. Peterson.\n\nFive starters. All free agents this winter. Add Horton (TJ) and Steele (elbow). The Cubs could enter spring training with ZERO established pitchers under contract.\n\nHoyer's offseason is a five-alar"
+        }
+      },
+      "14": {
+        "n": 10,
+        "mean": 1226.4,
+        "median": 77.0,
+        "top": {
+          "impressions": 11494,
+          "text": "THE CUBS reportedly want George Kirby.\n\nThe Mariners were listening at the deadline. Now it's the offseason \u2014 and Chicago needs rotation arms more than anyone.\n\nKirby is controllable, elite, and exactly what this staff is missing.\n\nMake the"
         }
       },
       "17": {
@@ -258,15 +254,6 @@
         "top": {
           "impressions": 118,
           "text": "CARDINALS FANS: watching at home while the Brewers go to the World Series for the first time since 1982.\n\nSt. Louis went 77-85 in 2026. Chaim Bloom's rebuild is just starting.\n\nThe NL Central belongs to Milwaukee now. The Cubs are in betwee"
-        }
-      },
-      "7": {
-        "n": 15,
-        "mean": 327.8,
-        "median": 83,
-        "top": {
-          "impressions": 3542,
-          "text": "FIVE SEASONS. 26 homers. .270/.368/.473 in 2026.\n\nJon Heyman: Cubs expected to extend Seiya Suzuki a $23.15M qualifying offer.\n\nHe'll decline it. The Blue Jays are waiting. The market will pay him $100M+.\n\nThank you, Seiya.\n\n#Cubs #MLB #Cub"
         }
       },
       "15": {
@@ -280,13 +267,22 @@
       }
     },
     "by_weekday_ct": {
+      "Thu": {
+        "n": 11,
+        "mean": 55.55,
+        "median": 56,
+        "top": {
+          "impressions": 102,
+          "text": "BRAIN DRAIN ALERT: The Mets are interviewing Cubs assistant hitting coach John Mallee. \ud83d\udd0d\n\nMallee helped develop PCA into a likely MVP. Cubs led MLB in runs (850) and OPS (.767) in 2026. No offer yet, but losing him would hurt.\n\n#Cubs #MLB #"
+        }
+      },
       "Wed": {
         "n": 5,
-        "mean": 63,
-        "median": 59,
+        "mean": 79.6,
+        "median": 83,
         "top": {
-          "impressions": 89,
-          "text": "Ian Happ. Seiya Suzuki. Both free agents this winter. Both could be gone.\n\nReports say the Cubs won't get into a bidding war for Suzuki. Happ finishes his $61M deal.\n\nJed Hoyer has decisions to make \u2014 and the window is closing. \ud83d\udc40\n\n#Cubs #ML"
+          "impressions": 125,
+          "text": "FIVE SEASONS.\n\nCubs expected to extend Suzuki a $23.15M QO this week \u2014 a formality. He'll decline.\n\nCareer-best 5.1 WAR in 2026. The Blue Jays are ready to spend $130M+.\n\nChicago's best offer probably can't match. Take a bow, Seiya.\n\n#Cubs "
         }
       },
       "Tue": {
@@ -300,7 +296,7 @@
       },
       "Mon": {
         "n": 14,
-        "mean": 1217.14,
+        "mean": 1225.07,
         "median": 119.0,
         "top": {
           "impressions": 11494,
@@ -333,22 +329,13 @@
           "impressions": 270,
           "text": "In case you missed Cubs news today:\n\n> \ud83c\udfe2 The Mariners' manager search has led them to Cubs farm director Jason Kanzler, per The Athletic. Joe Espada and Rocco Baldelli are also candidates.\n\n> \ud83c\udfe2 More front office and coaching staff drawing o"
         }
-      },
-      "Thu": {
-        "n": 11,
-        "mean": 64.45,
-        "median": 60,
-        "top": {
-          "impressions": 102,
-          "text": "BRAIN DRAIN ALERT: The Mets are interviewing Cubs assistant hitting coach John Mallee. \ud83d\udd0d\n\nMallee helped develop PCA into a likely MVP. Cubs led MLB in runs (850) and OPS (.767) in 2026. No offer yet, but losing him would hurt.\n\n#Cubs #MLB #"
-        }
       }
     },
     "by_content_type": {
       "brief": {
         "n": 85,
-        "mean": 361.71,
-        "median": 62,
+        "mean": 362.49,
+        "median": 64,
         "top": {
           "impressions": 11494,
           "text": "THE CUBS reportedly want George Kirby.\n\nThe Mariners were listening at the deadline. Now it's the offseason \u2014 and Chicago needs rotation arms more than anyone.\n\nKirby is controllable, elite, and exactly what this staff is missing.\n\nMake the"
@@ -356,8 +343,8 @@
       },
       "recap_longform": {
         "n": 2,
-        "mean": 218.5,
-        "median": 218.5,
+        "mean": 233,
+        "median": 233.0,
         "top": {
           "impressions": 270,
           "text": "In case you missed Cubs news today:\n\n> \ud83c\udfe2 The Mariners' manager search has led them to Cubs farm director Jason Kanzler, per The Athletic. Joe Espada and Rocco Baldelli are also candidates.\n\n> \ud83c\udfe2 More front office and coaching staff drawing o"
@@ -366,8 +353,8 @@
     },
     "by_opening": {
       "allcaps_lead": {
-        "n": 42,
-        "mean": 632.19,
+        "n": 46,
+        "mean": 583.85,
         "median": 97.5,
         "top": {
           "impressions": 11494,
@@ -375,8 +362,8 @@
         }
       },
       "statement": {
-        "n": 41,
-        "mean": 105.07,
+        "n": 37,
+        "mean": 110.78,
         "median": 60,
         "top": {
           "impressions": 1390,
@@ -396,8 +383,8 @@
     "by_len_bucket": {
       "200-260": {
         "n": 37,
-        "mean": 287.19,
-        "median": 61,
+        "mean": 289.54,
+        "median": 62,
         "top": {
           "impressions": 4314,
           "text": "CADE HORTON won't throw a pitch in 2027 Spring Training.\n\nHis second Tommy John in April puts his return at July or August 2027 \u2014 best case.\n\nThe Cubs are rebuilding their rotation around an ace they won't see until midseason. \ud83d\udd25\n\n#Cubs #GoC"
@@ -405,7 +392,7 @@
       },
       "260+": {
         "n": 46,
-        "mean": 436.98,
+        "mean": 437.17,
         "median": 82.0,
         "top": {
           "impressions": 11494,
@@ -425,8 +412,8 @@
     "by_hashtag_count": {
       "3": {
         "n": 85,
-        "mean": 361.71,
-        "median": 62,
+        "mean": 362.49,
+        "median": 64,
         "top": {
           "impressions": 11494,
           "text": "THE CUBS reportedly want George Kirby.\n\nThe Mariners were listening at the deadline. Now it's the offseason \u2014 and Chicago needs rotation arms more than anyone.\n\nKirby is controllable, elite, and exactly what this staff is missing.\n\nMake the"
@@ -434,8 +421,8 @@
       },
       "1": {
         "n": 2,
-        "mean": 218.5,
-        "median": 218.5,
+        "mean": 233,
+        "median": 233.0,
         "top": {
           "impressions": 270,
           "text": "In case you missed Cubs news today:\n\n> \ud83c\udfe2 The Mariners' manager search has led them to Cubs farm director Jason Kanzler, per The Athletic. Joe Espada and Rocco Baldelli are also candidates.\n\n> \ud83c\udfe2 More front office and coaching staff drawing o"
@@ -444,18 +431,18 @@
     },
     "by_has_score": {
       "False": {
-        "n": 66,
-        "mean": 438.71,
-        "median": 61.5,
+        "n": 67,
+        "mean": 434.39,
+        "median": 62,
         "top": {
           "impressions": 11494,
           "text": "THE CUBS reportedly want George Kirby.\n\nThe Mariners were listening at the deadline. Now it's the offseason \u2014 and Chicago needs rotation arms more than anyone.\n\nKirby is controllable, elite, and exactly what this staff is missing.\n\nMake the"
         }
       },
       "True": {
-        "n": 21,
-        "mean": 106.05,
-        "median": 88,
+        "n": 20,
+        "mean": 108.7,
+        "median": 96.0,
         "top": {
           "impressions": 353,
           "text": "The ALCS is tied 2-2. Game 5 is today at 4 PM CT.\n\nWhoever wins faces the Brewers in a World Series starting Oct. 23 in Milwaukee.\n\nThe Cubs' QO window opens 5 days after the WS ends. Suzuki and Happ decisions coming fast.\n\n#Cubs #MLB #Cubs"
@@ -465,8 +452,8 @@
     "by_has_stat": {
       "False": {
         "n": 64,
-        "mean": 454.69,
-        "median": 64.5,
+        "mean": 455.53,
+        "median": 73.0,
         "top": {
           "impressions": 11494,
           "text": "THE CUBS reportedly want George Kirby.\n\nThe Mariners were listening at the deadline. Now it's the offseason \u2014 and Chicago needs rotation arms more than anyone.\n\nKirby is controllable, elite, and exactly what this staff is missing.\n\nMake the"
@@ -474,7 +461,7 @@
       },
       "True": {
         "n": 23,
-        "mean": 90.52,
+        "mean": 92.35,
         "median": 62,
         "top": {
           "impressions": 270,
@@ -485,8 +472,8 @@
     "by_has_emoji_first_line": {
       "False": {
         "n": 80,
-        "mean": 382.27,
-        "median": 63.0,
+        "mean": 383.48,
+        "median": 64.5,
         "top": {
           "impressions": 11494,
           "text": "THE CUBS reportedly want George Kirby.\n\nThe Mariners were listening at the deadline. Now it's the offseason \u2014 and Chicago needs rotation arms more than anyone.\n\nKirby is controllable, elite, and exactly what this staff is missing.\n\nMake the"
@@ -504,18 +491,18 @@
     },
     "by_has_allcaps": {
       "True": {
-        "n": 83,
-        "mean": 373.6,
-        "median": 70,
+        "n": 84,
+        "mean": 370.87,
+        "median": 82.0,
         "top": {
           "impressions": 11494,
           "text": "THE CUBS reportedly want George Kirby.\n\nThe Mariners were listening at the deadline. Now it's the offseason \u2014 and Chicago needs rotation arms more than anyone.\n\nKirby is controllable, elite, and exactly what this staff is missing.\n\nMake the"
         }
       },
       "False": {
-        "n": 4,
-        "mean": 43.25,
-        "median": 46.0,
+        "n": 3,
+        "mean": 41.67,
+        "median": 44,
         "top": {
           "impressions": 60,
           "text": "Myles Bailey came back from a broken ankle to reach the Arizona Fall League.\n\nThe Cubs' 2026 draft pick showed the best exit velocities in his class. Raw power tool. He's in Mesa.\n\nFollow him on the Solar Sox.\n\n#Cubs #GoCubs #ChicagoCubs"
@@ -527,8 +514,8 @@
     "by_content_type": {
       "brief": {
         "n": 42,
-        "mean_rate": 0.0058,
-        "median_rate": 0.0038
+        "mean_rate": 0.0064,
+        "median_rate": 0.0064
       },
       "recap_longform": {
         "n": 2,
@@ -537,15 +524,15 @@
       }
     },
     "by_opening": {
-      "statement": {
-        "n": 17,
-        "mean_rate": 0.0048,
-        "median_rate": 0.0
-      },
       "allcaps_lead": {
-        "n": 25,
-        "mean_rate": 0.006,
-        "median_rate": 0.0048
+        "n": 27,
+        "mean_rate": 0.0065,
+        "median_rate": 0.0063
+      },
+      "statement": {
+        "n": 15,
+        "mean_rate": 0.0054,
+        "median_rate": 0.0
       },
       "stat_lead": {
         "n": 2,
@@ -556,8 +543,8 @@
     "by_has_score": {
       "False": {
         "n": 32,
-        "mean_rate": 0.0051,
-        "median_rate": 0.0013
+        "mean_rate": 0.0059,
+        "median_rate": 0.0055
       },
       "True": {
         "n": 12,
@@ -566,15 +553,15 @@
       }
     },
     "by_has_stat": {
+      "False": {
+        "n": 33,
+        "mean_rate": 0.0071,
+        "median_rate": 0.0071
+      },
       "True": {
         "n": 11,
         "mean_rate": 0.0038,
         "median_rate": 0.0
-      },
-      "False": {
-        "n": 33,
-        "mean_rate": 0.0063,
-        "median_rate": 0.0048
       }
     }
   },
@@ -632,14 +619,14 @@
   ],
   "bottom_performers": [
     {
-      "posted_at": "2026-10-20 07:09 CT",
+      "posted_at": "2026-10-29 07:00 CT",
       "content_type": "brief",
-      "impressions": 28,
+      "impressions": 25,
       "engagement": 0,
       "engagement_rate": 0.0,
       "opening": "allcaps_lead",
-      "len": 274,
-      "text": "Rays beat Cleveland 7-3 in ALCS G6.\n\nWorld Series: Brewers vs. Rays. Game 1 is Friday in Milwaukee.\n\nYour 2026 Cubs finished 89-73 and watched from home. The division's best team is playing for a title they've never won.\n\nTime to fix that in 2027. \ud83d\udd3a\n\n#Cubs #MLB #NorthSiders"
+      "len": 253,
+      "text": "DIVISION. RIVALS. WORLD CHAMPIONS.\n\nMilwaukee won its first title in franchise history last night \u2014 4-1 over Tampa in Game 5. The Brewers are World Champions.\n\nThe Cubs haven't won a ring since 2016. Division standard just got reset.\n\n#Cubs #MLB #GoCubs"
     },
     {
       "posted_at": "2026-10-13 12:05 CT",
