@@ -1,5 +1,36 @@
 # COS Parenting — Pipeline Status
 
+## Current Run: 2026-10-30
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Harkla sensory swing CPSC recall Oct 29 (31,075 units, 4-hole plate separates, 14 injuries, free fix at harkla.co/pages/ceiling-hook-recall-2026); US measles outbreak 4,588 cases as of Oct 22 (highest since 2000 elimination, 96% unvaccinated, kindergarten MMR down to 92.4%); AAP oral health for teens Pediatrics Oct 19 (screen at well visits, vaping risks); post-Halloween candy management guide (3 cups sugar haul, dental guidance, Operation Gratitude donation); D11 bond final 4-day deadline (Nov 3, drop boxes open) |
+| Story History Check | COMPLETE | S1 NEW (Harkla — 5th baby product safety action in Oct; prior: ONTHEWEI, Papablic/bblüv, Lucakuins, Flyboss); S2 NEW (Measles outbreak — not previously covered); S3 NEW (AAP oral health for teens — distinct from Oct 24 5 Cs screen time, Oct 21 COVID vaccine, Oct 28 UTI guidelines); S4 NEW (post-Halloween candy management — distinct from Oct 29 candy inflation/buying strategy); S5 FOLLOW-UP (Oct 24/26/27/28/29 bond coverage → Oct 30: final deadline reminder) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags; MEDIUM on AAP oral health details (single source); MEDIUM on candy statistics (~3 cups sugar); HIGH on Harkla recall facts (CPSC + multiple outlets) and measles case count (CDC + multiple outlets) |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 8 posts across 5 stories (S1:2, S2:2, S3:1, S4:1, S5:2); all ≤280 chars (234, 218, 269, 223, 260, 248, 246, 247); 4 hashtags each; #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; contractions; 0 exclamation marks; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only concepts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Harkla sensory swing recall (Jamie Rivera T1); article-02 Measles outbreak 2026 (Sarah Morales T1); article-03 AAP teen oral health (Jamie Rivera T2); article-04 Post-Halloween candy guide (Sarah Morales T2); article-05 D11 bond final deadline (Jamie Rivera T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 87 claims auto-extracted; all stories present in all content files; no char limit errors; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles, 5 images; "No posting window" warnings (known cosmetic) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, gemini base_only |
+| Review Dashboard | COMPLETE | review-dashboard.html — 28 items |
+| Publish Dashboard | BLOCKED | proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-10-30.xlsx + cosp-postplanner-tobi-2026-10-30.xlsx — 8 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Oct 30 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 8 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 8 posts standard + 8 TOBI
+- **Key stories:** Harkla compression sensory swing recall — stop use immediately, 14 injuries, free hardware fix (5th child safety action in Oct); US measles 4,588 cases — highest since 2000 elimination, 96% unvaccinated, MMR rates falling; AAP — pediatricians should screen teen oral health at well visits (vaping, dry mouth, caries); post-Halloween candy guide — dental guidance, Operation Gratitude donation for Fort Carson/Peterson families; D11 bond final 4 days — Nov 3 deadline, drop boxes open
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); PostPlanner completed OK; compile/fact-check all ran successfully
+
+---
+
 ## Current Run: 2026-10-29
 
 | Step | Status | Notes |

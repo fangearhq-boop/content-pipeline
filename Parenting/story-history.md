@@ -2,6 +2,50 @@
 
 ---
 
+## October 30, 2026
+
+### Story 1: Harkla Children's Compression Sensory Swing Recall
+- **Date:** 2026-10-30
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** CPSC recall announced October 29, 2026; approximately 31,075 Harkla compression sensory swings with 4-hole ceiling hook plate; plate can separate mid-use causing fall; 29 incidents, 14 injuries including 2 concussions and 1 broken arm; only 4-hole version affected (SKU: LS-COMP-1BLU, LS-COMP-1BLU-SW); 2-hole version safe; sold March 2020–December 2025 for $100–$130 at Amazon, Harkla.co, specialty retailers; free hardware replacement kit at harkla.co/pages/ceiling-hook-recall-2026 or 844-442-7552; fifth significant child product safety action in October 2026.
+- **Byline:** Jamie Rivera
+- **Status:** NEW (5th baby/child product safety action in Oct 2026; prior: ONTHEWEI Oct 9, Papablic/bblüv Oct 15, Lucakuins Oct 27, Flyboss Oct 29)
+
+### Story 2: US Measles Cases Hit 4,588 — Highest Since 2000 Elimination
+- **Date:** 2026-10-30
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** 4,588 confirmed US measles cases as of October 22, 2026 — highest annual count since elimination in 2000, roughly double 2025 total; 3 deaths nationally; children 5–19 make up 42% of cases; children under 5 make up 17% (15% of under-5 cases hospitalized); 96% of 2026 patients unvaccinated or unknown status; kindergarten MMR coverage dropped to 92.4% nationally (from 95.2% in 2019-20). Source: CDC, Contagion Live Oct 23, Al Jazeera Oct 16.
+- **Byline:** Sarah Morales
+- **Status:** NEW
+
+### Story 3: AAP — Pediatricians Should Screen Teen Oral Health at Every Well Visit
+- **Date:** 2026-10-30
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** AAP clinical report "Oral Health for Adolescents" published in Pediatrics October 19, 2026; lead author Dr. Fisher-Owens, AAP Section on Oral Health; pediatricians should take dental history and perform oral exam at teen well visits; screen for pain, bleeding gums, dry mouth, changes in eating/drinking; flags vaping, cannabis, alcohol as oral health risk factors; tooth decay remains most common chronic adolescent disease. Source: healthychildren.org, Pediatrics (AAP).
+- **Byline:** Jamie Rivera
+- **Status:** NEW
+
+### Story 4: After the Haul — What to Do With All That Halloween Candy
+- **Date:** 2026-10-30
+- **Tier:** T2
+- **Pillar:** National Parenting / Humor
+- **Key Facts:** Average trick-or-treater collects approximately 3 cups of sugar in candy; candy with meals less harmful (saliva neutralizes acid); avoid hard/sticky candy for kids under 6; children under 2 should receive no candy; Operation Gratitude accepts Halloween candy for military care packages; dentist offices run candy buyback programs. Distinct from Oct 29 candy inflation story (which covered buying/prices).
+- **Byline:** Sarah Morales
+- **Status:** NEW (distinct from Oct 29 S5: candy inflation/buying strategy)
+
+### Story 5: D11 Bond Vote — Final 4 Days, Drop Boxes Open Now
+- **Date:** 2026-10-30
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** D11 $775M bond vote closes November 3, 2026; mail-in ballots must be in drop box by 7 PM on November 3; drop box locations at d11.org/bond; estimated $6.50/month per $100K assessed home value; first D11 bond since approximately 2003; covers HVAC, classroom modernization, library renovations. Final deadline reminder angle.
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (Oct 24 deep-dive, Oct 26 countdown, Oct 27 voter logistics, Oct 28 free childcare, Oct 29 substance — Oct 30: final deadline reminder)
+
+---
+
 ## October 29, 2026
 
 ### Story 1: AAP Updates Flu and RSV Season Guidance for 2026-27
