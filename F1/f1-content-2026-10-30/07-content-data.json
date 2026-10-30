@@ -1,0 +1,313 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-30",
+  "compiled_at": "2026-10-30T11:25:25.142009+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Colton Herta's Super License Moment — Mexico FP1 Is His Final Chance [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Colton Herta needs ONE more super license point.\n\nHe takes Bottas's Cadillac in Mexico FP1 today. Complete 100km without incident and he earns the license — and potentially a 2027 F1 race seat.\n\nNo pressure. #F1 #MexicoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MexicoGP"
+          ],
+          "char_count": 221
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Colton Herta's FIA Super License journey in 2026:\n\n4 FP1 sessions completed. 39 of 40 points earned.\nMonza missed due to hydraulic failure.\n\nToday in Mexico is his final chance.\n\nWill he do it? #F1 #MexicoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MexicoGP"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-herta-super-license-mexico-fp1-final-chance.html",
+        "headline": "Colton Herta's F1 Dream Comes Down to One FP1 Session in Mexico City",
+        "word_count": 577
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Colton Herta Super License\n**Sources searched:** RacingNews365, PlanetF1, Crash.net, RioTimesOnline\n**Key facts verified:**\n- Herta has 39 super license points entering Mexico City FP1 [HIGH — RacingNews365 + PlanetF1 both confirm]\n- Needs 40 points total (1 more) to obtain FIA Super License [HIGH — multiple sources]\n- One completed FP1 (100km/24 laps, no penalties) = 1 point [HIGH — standard FIA regulation]\n- Herta is running in Valtteri Bottas's car (Cadillac) in FP1 [HIGH — multiple Spanish/English sources confirm]\n- This is his 5th FP1 outing of the season [MEDIUM — confirmed by pre-event coverage]\n- He missed Monza in September due to hydraulic failure [HIGH — prior pipeline confirmed; RacingNews365]\n- Cadillac 2027 seat implications [MEDIUM — multiple sources note Bottas also option; unclear which direction]\n- Race seat depends on Cadillac decision [MEDIUM — competing reports on Bottas vs Herta]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Antonelli Begins Title-Clinching Weekend in Mexico City [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Kimi Antonelli arrives in Mexico City 123 points clear of Russell.\n\nA No. 9 finish on Sunday makes him the 2026 F1 World Champion — and the youngest in history.\n\nThe weekend starts NOW. #F1 #MexicoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MexicoGP"
+          ],
+          "char_count": 199
+        },
+        {
+          "label": "Post 2-2",
+          "text": "If Kimi Antonelli finishes No. 9 or higher on Sunday in Mexico City, he becomes F1 World Champion at 20 years old.\n\nThe youngest champion in Formula 1 history.\n\nWe could be watching history. #F1 #MexicoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MexicoGP"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-antonelli-title-clinch-weekend-mexico-city.html",
+        "headline": "Antonelli Arrives in Mexico City With History Within Reach — Championship Weekend Begins",
+        "word_count": 596
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Title Clinch Setup\n**Sources searched:** Al Jazeera, Flashscore, Motorsport Magazine, TimesLive, F1oversteer\n**Key facts verified:**\n- Kimi Antonelli: 365 points after Austin GP win [HIGH — multiple sources]\n- George Russell: 242 points [HIGH — confirmed by multiple sources]\n- Lewis Hamilton: 241 points [HIGH — confirmed by multiple sources]\n- Antonelli leads by 123 points over Russell [HIGH — stated directly: \"leads 123 points\"]\n- Needs P9 or better in Mexico to clinch [HIGH — Flashscore, F1oversteer both confirm]\n- Would be youngest F1 champion if clinched [HIGH — multiple sources state he is 20 years old, younger than Verstappen's record]\n- Three races remaining: Mexico, São Paulo, Abu Dhabi [HIGH — standard calendar knowledge]\n- Won 2026 United States GP most recently [HIGH — Al Jazeera confirmed]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Ten Rookie Substitutions Define Mexico City FP1 [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "FP1 in Mexico is a rookie party.\n\nVerstappen out → Iwasa in.\nRussell out → Vesti in.\nNorris out → TBD in.\nBottas out → Herta in.\n\n10 regular drivers sitting this one out. The next gen is on track. #F1 #MexicoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MexicoGP"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-mexico-fp1-ten-rookies-vesti-iwasa-mini-herta.html",
+        "headline": "Ten Rookies Take Over in Mexico City FP1 — The Next Generation Gets Its Biggest Day",
+        "word_count": 657
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ten Rookie FP1 Substitutions\n**Sources searched:** Sky Sports, Crash.net, Yahoo Sports F1\n**Key facts verified:**\n- Max Verstappen, George Russell, Lando Norris among 10 drivers to miss FP1 [HIGH — Sky Sports headline confirms]\n- Fredericks Vesti replacing George Russell at Mercedes [HIGH — Sky Sports confirms; prior pipeline confirmed]\n- Ayumu Iwasa replacing Max Verstappen at Red Bull [HIGH — prior pipeline + Sky Sports confirm]\n- Gabriele Mini replacing Franco Colapinto at Alpine [HIGH — prior pipeline confirmed]\n- Colton Herta replacing Valtteri Bottas at Cadillac [HIGH — multiple Spanish/English sources confirm]\n- Mandatory FP1 rookie regulation requires 2 sessions per team per year [HIGH — standard FIA regulation]\n- Mexico = largest rookie wave of the season (8-10 teams) [MEDIUM — prior pipeline covered \"8 teams\"; Sky Sports says 10 drivers miss FP1]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Russell vs Hamilton — 1-Point Battle Comes to Mexico [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Russell: 242 points.\nHamilton: 241 points.\n\nOne point separates two Mercedes teammates with three races left.\n\nThe fight for second in the championship is very much alive. #F1 #MexicoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MexicoGP"
+          ],
+          "char_count": 185
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-russell-hamilton-one-point-mexico-city.html",
+        "headline": "Russell vs Hamilton: The Intra-Team Battle for Second Arrives in Mexico City",
+        "word_count": 585
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Russell vs Hamilton Intra-Team Battle\n**Sources searched:** Crash.net standings, GPFans standings, Motorsport Magazine\n**Key facts verified:**\n- Russell: 242 points, Hamilton: 241 points [HIGH — confirmed multiple sources]\n- 1-point gap between them [HIGH — direct calculation from verified figures]\n- Both are Mercedes drivers [HIGH — established fact]\n- Three races remaining [HIGH — calendar confirmed]\n- Altitude at Mexico City: 2,240 meters [HIGH — standard circuit fact, confirmed in prior pipeline]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Mexico City Qualifying Preview — Antonelli Hunts 8th Pole of the Season [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Saturday in Mexico City: qualifying for the Grand Prix.\n\nKimi Antonelli has 7 poles this season. Lando Norris won from pole here in 2025. Verstappen has 5 Mexico wins.\n\nCan anyone deny Antonelli pole No. 8? #F1 #MexicoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MexicoGP"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-mexico-city-qualifying-preview-antonelli-pole-hunt.html",
+        "headline": "Mexico City Qualifying Preview: Antonelli Eyes Eighth Pole as Norris and Verstappen Lay in Wait",
+        "word_count": 654
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mexico Qualifying Preview\n**Sources searched:** F1oversteer, ESPN, formulaonehistory.com\n**Key facts verified:**\n- Race date: November 1, 2026 (Sunday) [HIGH — multiple sources]\n- Qualifying: Saturday October 31 [HIGH — schedule confirmed]\n- Autodromo Hermanos Rodriguez altitude: 2,240 meters [HIGH]\n- Lando Norris won the 2025 Mexico race [HIGH — confirmed in multiple sources]\n- Max Verstappen has 5 Mexico victories (most wins at this circuit) [HIGH — search confirmed]\n- Norris won pole at 2025 Mexico City GP: 1:15.586 [HIGH — speedcafe/RacingNews365 confirmed]\n- Antonelli won the US GP pole and race most recently [HIGH — confirmed]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

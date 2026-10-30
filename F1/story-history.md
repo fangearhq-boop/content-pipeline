@@ -322,3 +322,42 @@
 - **Key facts:** Constructors' battle still live; 3 races remain (Mexico, São Paulo, Abu Dhabi); altitude creates strategic variable; separate from drivers' title story
 - **Byline:** Elena Voss
 - **Status:** NEW
+
+---
+
+## 2026-10-30
+
+### STORY 1: Colton Herta's F1 Dream — Mexico FP1 Is His Final Super License Chance
+- **Tier:** 1
+- **Category:** Colton Herta / Cadillac / FIA Super License / Mexico City FP1
+- **Key facts:** 39 of 40 super license points; needs 100km/24 laps in FP1 (Bottas's car); Mexico is last FP1 of season; hydraulic failure at Monza cost previous attempt; 2027 seat implications
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: Antonelli Begins Championship-Clinching Weekend in Mexico City
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / 2026 Drivers' Championship / Mexico City GP
+- **Key facts:** Leads 365 pts (Russell 242, Hamilton 241); 123-point lead; needs P9 or better Sunday; 9 wins in 2026; youngest champion if he clinches; FP1/FP2 Oct 30, qualifying Oct 31, race Nov 1
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
+### STORY 3: Ten Rookie Substitutions in Mexico City FP1 — Biggest Wave of 2026 Season
+- **Tier:** 2
+- **Category:** FP1 Rookies / Frederik Vesti / Ayumu Iwasa / Gabriele Mini / Colton Herta / Mexico City GP
+- **Key facts:** 10 regular drivers sit out FP1; Vesti for Russell (Mercedes); Iwasa for Verstappen (Red Bull); Mini for Colapinto (Alpine); Herta for Bottas (Cadillac); mandatory FIA regulation
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 4: Russell vs Hamilton — 1-Point Battle Arrives in Mexico
+- **Tier:** 2
+- **Category:** George Russell / Lewis Hamilton / Mercedes / 2026 Drivers' Championship
+- **Key facts:** Russell 242, Hamilton 241; 1 point gap; 3 races remaining; altitude strategy variable
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: Mexico City Qualifying Preview — Antonelli Hunts 8th Pole
+- **Tier:** 2
+- **Category:** Mexico City GP / Qualifying / Kimi Antonelli / Lando Norris / Max Verstappen
+- **Key facts:** Qualifying Saturday Oct 31; Antonelli has 7 poles in 2026; Norris won 2025 Mexico from pole; Verstappen has 5 Mexico wins; altitude 2,240m factor
+- **Byline:** Elena Voss
+- **Status:** NEW
