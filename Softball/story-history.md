@@ -4003,6 +4003,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## October 31, 2026
+
+### Story 1: OU Fall Schedule Complete — Battle Series Wraps at Love's Field
+- **Date:** 2026-10-31
+- **Tier:** 1
+- **Classification:** FOLLOW UP (OU covered throughout October)
+- **Angle:** OU wraps fall schedule. Battle Series complete. Wells (39 HR, NFCA Freshman of the Year) and Kavan (2x WCWS MOP) headline a 2027 roster that pivots to spring in February.
+- **Content Produced:** Article (article-01, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - OU 2027 spring schedule release
+  - Spring 2027 preseason rankings
+  - Wells sophomore season preview
+
+### Story 2: Florida 4-0 in Fall Ball — Edwards Leads Dominant Run
+- **Date:** 2026-10-31
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Florida fall covered Oct 21-30)
+- **Angle:** Florida 4-0 in fall ball, outscored opponents 63-9. Tori Edwards (LSU transfer) leads with 4 HR, 12 RBI. Six starters return for 2027. Next fall game: Saint Leo Nov. 6.
+- **Content Produced:** Article (article-02, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Florida vs Saint Leo Nov. 6 result
+  - Florida 2027 preseason outlook
+  - Edwards 2027 season preview
+
+### Story 3: Tennessee 2027 — Mardjetko Leads Post-Pickens Era
+- **Date:** 2026-10-31
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Tennessee fall covered Oct 9-30)
+- **Angle:** Karlyn Pickens exhausted eligibility (drafted No. 1 AUSL, now student assistant). 2027 rotation: Mardjetko (16-3, 1.26 ERA, NFCA 1st Team AA senior) + Nuwer (4 freshman shutouts) + Shelton + freshmen class No. 5-6 nationally.
+- **Content Produced:** Article (article-03, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Tennessee 2027 spring schedule release
+  - Lady Vols preseason ranking
+  - Mardjetko Cy Young candidacy coverage
+
+### Story 4: 2028 EE100 Outfielders 201-258 Drop Today
+- **Date:** 2026-10-31
+- **Tier:** 2
+- **Classification:** FOLLOW UP (2028 EE100 covered Oct 13-30)
+- **Angle:** Extra Prospect Rankings Class of 2028 Outfielders (201-258) complete final outfielder tier. Top 5: Landers (Texas No.1), Holden (Florida No.2), Schlader (OU No.3). 1,200+ nominations largest class ever.
+- **Content Produced:** Article (article-04, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Hitter hotlists (Nov 1-9)
+  - Full 2028 class team rankings
+  - 2028 early signing period
+
+### Story 5: NCAA 5-for-5 Eligibility — Stay Holds, Tenth Circuit Deliberating
+- **Date:** 2026-10-31
+- **Tier:** 3
+- **Classification:** FOLLOW UP (5-for-5 litigation covered Oct 29-30)
+- **Angle:** Rule adopted June 23. Injunction July 31. Stay Aug 21 (2-1, Tenth Circuit). Oral arguments Oct 13. No merits ruling yet. Programs planning 2027 rosters under uncertainty.
+- **Content Produced:** Article (article-05, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Tenth Circuit merits ruling (TBD)
+  - NCAA response + roster planning impacts
+  - State-level litigation updates
+
+---
+
 ## October 30, 2026
 
 ### Story 1: OU Fall Finale — TONIGHT vs. Seminole State
