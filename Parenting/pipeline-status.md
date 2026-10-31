@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-10-30
+## Current Run: 2026-10-31
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Halloween safety tips (tonight is Oct 31); Costway high chair CPSC recall #27-040 (~3,332 units, Oct 22, entrapment/fall hazard); toddler screen time melatonin study (Contemporary Pediatrics Oct 27, Ruhr University Bochum, 15 min tablet = did NOT suppress melatonin in 15–24 mo toddlers); D11 bond 3 days away (Nov 3 deadline, drop boxes open); COS November events (Veterans Day 5K Nov 8, parade Nov 11) |
+| Story History Check | COMPLETE | S1 NEW (Halloween safety — distinct from Oct 29 event roundup, Oct 30 candy guide); S2 NEW (Costway — 6th child product safety action in Oct 2026; prior: ONTHEWEI Oct 9, Papablic Oct 15, Lucakuins Oct 27, Flyboss Oct 29, Harkla Oct 30); S3 NEW (screen time study — distinct from Oct 24 AAP 5 Cs); S4 FOLLOW-UP (Oct 26–30 D11 bond → Oct 31: 3-day how-to-return guide); S5 NEW (November events beyond Halloween) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Sarah Morales [S1, S4], Jamie Rivera [S2, S3, S5] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on Costway injury count (not in search results), Veterans Day parade 2026 date (TBD), museum free days (not confirmed for 2026) |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories (S1:2, S2:1, S3:1, S4:1, S5:1); all ≤280 chars (267, 228, 263, 236, 249, 258); 4 hashtags each; #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; contractions; 0 exclamation marks; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only concepts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Halloween safety guide (Sarah Morales T1); article-02 Costway high chair recall (Jamie Rivera T1); article-03 toddler screen time study (Jamie Rivera T2); article-04 D11 bond how-to-return (Sarah Morales T2); article-05 COS November events (Jamie Rivera T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 74 claims auto-extracted; all stories present in all content files; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles, 5 images; posting window warnings (known cosmetic) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, gemini base_only |
+| Review Dashboard | COMPLETE | review-dashboard.html — 26 items |
+| Publish Dashboard | BLOCKED | proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-10-31.xlsx + cosp-postplanner-tobi-2026-10-31.xlsx — 6 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Oct 31 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Sarah Morales [S1, S4], Jamie Rivera [S2, S3, S5])
+- **PostPlanner exports:** 6 posts standard + 6 TOBI
+- **Key stories:** Halloween safety guide (tonight's real-time COS checklist); Costway convertible high chair recall (#27-040, ~3,332 units, entrapment/fall hazard, stop use); toddler screen time study (15 min tablet before bed did NOT suppress melatonin — Contemporary Pediatrics Oct 27); D11 bond 3 days to vote (how-to-return ballot guide); COS November events (Veterans Day 5K Nov 8, parade Nov 11)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); PostPlanner completed OK; compile/fact-check all ran successfully
+
+---
+
+## Previous Run: 2026-10-30
 
 | Step | Status | Notes |
 |------|--------|-------|
