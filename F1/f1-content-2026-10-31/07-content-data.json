@@ -1,0 +1,332 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-31",
+  "compiled_at": "2026-10-31T11:27:57.198649+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Leclerc Dominant in Mexico FP1 and FP2 — Hamilton Parks Car With Power Loss [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Mexico City FP2 Results:\n1. Leclerc 🏎️\n2. Norris +0.103\n3. Russell\n4. Antonelli\n\nHamilton parked his Ferrari with a power issue. Championship weekend gets complicated. #F1 #MexicoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MexicoGP"
+          ],
+          "char_count": 181
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Lewis Hamilton was forced to park his Ferrari in FP2 at Mexico City.\n\nA power unit issue — with just 3 races left in the season.\n\nHe's 1 point behind Russell in the P2 battle. The timing couldn't be worse. #F1 #MexicoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MexicoGP"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-leclerc-fp1-fp2-mexico-hamilton-power.html",
+        "headline": "Leclerc Fastest in Both Mexico Practice Sessions; Hamilton Forced to Park Ferrari",
+        "word_count": 578
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Leclerc Dominates Mexico FP1 and FP2\n**Verified Facts (HIGH confidence):**\n- FP1: Leclerc fastest; Antonelli second; Vesti third (rookie sub for Russell) ✓ (formula1.com FP1 report, racingnews365)\n- FP2: Leclerc quickest; Norris 2nd; Russell 3rd; Antonelli 4th ✓ (Yahoo Sports F1 live updates, motorsportweek)\n- FP2 Leclerc time: 1:17.827, Norris +0.103 ✓ (Yahoo Sports)\n- Hamilton forced to park Ferrari in FP2 with power issue ✓ (Yahoo Sports live updates, racingnews365)\n- Verstappen and Hadjar made contact in FP2 ✓ (Yahoo Sports live updates)\n- Qualifying scheduled Saturday 5:00 PM ET; race Sunday Nov 1 ✓ (ESPN Mexico GP preview)\n- FP1 included mandatory rookie substitutions; 10 drivers sitting out ✓ (motor sport week, ESPN)\n- Vesti substituted for Russell (Mercedes) ✓ (formula1.com FP1 report)\n- Iwasa substituted for Verstappen (Red Bull) ✓ (F1 story-history)\n**Source URLs:**\n- https://www.formula1.com/en/latest/article/fp1-leclerc-leads-antonelli-in-mexico-city-as-new-faces-make-formula-1-debuts.5IkozqYxX25QgmGJqc0NlA\n- https://sports.yahoo.com/f1/breaking-news/article/f1-mexico-city-grand-prix-live-updates-starting-grid-results-best-bets-weather-and-more-180242441.html\n- https://www.motorsportweek.com/2026/10/30/f1-2026-mexico-city-grand-prix-fp2-results/",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Colton Herta Super License Dispute — FIA Contradicts Cadillac's Claim He Earned It [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Colton Herta completed Mexico FP1 — 24 laps, 100km run.\n\nCadillac and media called it: \"he earned his Super License.\"\n\nThen the FIA stepped in: he's still at 39/40 points.\n\nWhat happened? And what's next for his 2027 F1 dream? #F1 #ColtonHerta",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#ColtonHerta"
+          ],
+          "char_count": 243
+        },
+        {
+          "label": "Post 2-2",
+          "text": "If the FIA is right about Colton Herta — he's at 39/40 super license points and has no FP1 runs left in 2026.\n\nThat's one point away from an F1 seat.\n\nOne. Point. #F1 #ColtonHerta",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#ColtonHerta"
+          ],
+          "char_count": 179
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-herta-super-license-dispute-fia-cadillac.html",
+        "headline": "FIA Says Herta Still One Point Short After Mexico FP1 — Cadillac Dispute Complicates F1 Future",
+        "word_count": 545
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Colton Herta Super License Dispute\n**Verified Facts (HIGH confidence):**\n- Herta drove Bottas's Cadillac in FP1 at Mexico City ✓ (planetf1.com FP1 report, racingnews365)\n- Herta completed 24 laps (qualifying for the 100km requirement) ✓ (planetf1.com)\n- PlanetF1 initially reported Herta \"bags FIA Super Licence\" ✓ (planetf1.com headline)\n- FIA confirmed Herta remains at 39 of 40 points required ✓ (racingnews365, grandprix.com)\n- RacingNews365: \"confusion over Colton Herta F1 status after strange mix-up\" ✓ (racingnews365)\n- GrandPrix.com: \"Herta remains one point short after Mexico practice\" ✓ (grandprix.com)\n- Explanation: Cadillac believed the session earned a point; FIA calculation differs ✓ (racingnews365)\n- This was Herta's fifth (or fourth) FP1 appearance of the 2026 season — last one of the year ✓\n**Source URLs:**\n- https://www.planetf1.com/news/2026-mexican-grand-prix-fp1-report\n- https://racingnews365.com/confusion-over-colton-herta-f1-status-after-strange-mix-up\n- https://www.grandprix.com/news/herta-remains-one-point-short-after-mexico-practice.html\n- https://racingnews365.com/charles-leclerc-sends-ominous-message-as-colton-herta-takes-huge-step-towards-f1-in-mexico-fp1",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Antonelli 123 Points Clear — One Race From Becoming F1's Youngest Champion [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Kimi Antonelli's path to the F1 title Sunday:\n\n✅ Finish 9th or better\n✅ No other driver closes the gap\n\nHe leads by 123 points. He has 9 wins. He's a rookie.\n\nThe youngest champion in F1 history awaits. #F1 #MexicoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MexicoGP"
+          ],
+          "char_count": 216
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Kimi Antonelli is 19 years old.\n\nHe could become F1 World Champion this Sunday in Mexico City.\n\nP9 or better. That's all he needs.\n\nHistory is one race away. #F1 #MexicoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MexicoGP"
+          ],
+          "char_count": 171
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-antonelli-title-clinching-mexico-p9.html",
+        "headline": "Antonelli on the Brink: P9 in Mexico Clinches F1's Youngest World Champion",
+        "word_count": 634
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Championship Clinching\n**Verified Facts (HIGH confidence):**\n- Antonelli leads standings with 365 points ✓ (F1 story history 2026-10-30; multiple sources)\n- Russell has 242 points ✓ (F1 story history; Yahoo Sports)\n- Hamilton has 241 points ✓ (F1 story history; Yahoo Sports)\n- Antonelli leads by 123 points ✓ (365 - 242 = 123)\n- Needs P9 or better in Mexico to clinch the title ✓ (Yahoo Sports live updates article)\n- Antonelli has 9 wins in 2026 ✓ (F1 story history)\n- 7 poles in 2026 ✓ (qualifying previews, story history)\n- If champion, youngest F1 champion in history ✓ (multiple previews)\n- Three races remain: Mexico, São Paulo, Abu Dhabi ✓ (F1 story history)\n**Source URLs:**\n- https://sports.yahoo.com/f1/breaking-news/article/f1-mexico-city-grand-prix-live-updates-starting-grid-results-best-bets-weather-and-more-180242441.html\n- https://f1ingenerale.com/en/f1/f1-mexico-gp-2026-schedule-antonelli-closes-in-on-a-place-in-history/",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Russell vs Hamilton — 1-Point Gap Could Determine P2 in Championship [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "George Russell vs Lewis Hamilton in the F1 standings:\n\nRussell: 242 pts\nHamilton: 241 pts\n\nOne point separates teammates with 3 races left.\n\nAnd Hamilton just had a power issue in FP2.\n\nThis is F1 drama at its finest. #F1 #MexicoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MexicoGP"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-russell-hamilton-one-point-p2-battle.html",
+        "headline": "Russell and Hamilton Separated by One Point With Three Races to Go",
+        "word_count": 449
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Russell vs Hamilton 1-Point Gap\n**Verified Facts (HIGH confidence):**\n- Russell 242 pts, Hamilton 241 pts — 1-point gap ✓ (F1 story history, multiple sources)\n- Hamilton parked his Ferrari in FP2 with power loss ✓ (Yahoo Sports live updates)\n- Three races remain to decide P2: Mexico, São Paulo, Abu Dhabi ✓\n- MEDIUM: Hamilton's FP2 power issue may indicate engine concern for qualifying/race",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Mexico City GP Qualifying Preview — Verstappen, Leclerc, Antonelli Vie for Pole [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Mexico City GP Qualifying — TODAY at 5 PM ET.\n\nWho starts from pole?\n\n🏎️ Leclerc led both practice sessions\n🏆 Verstappen has 5 Mexico wins\n🌟 Antonelli is the championship leader\n\nLet's find out. #F1 #MexicoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MexicoGP"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-mexico-city-qualifying-preview.html",
+        "headline": "Mexico City GP Qualifying Preview: Leclerc's Practice Pace vs. Verstappen's Track Record",
+        "word_count": 528
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mexico City Qualifying Preview\n**Verified Facts (HIGH confidence):**\n- Qualifying Saturday Oct 31 at 5:00 PM ET ✓ (ESPN, gpfans)\n- Leclerc led FP1 and FP2 ✓\n- Verstappen has five Mexico City race wins ✓ (well-established historical fact)\n- Verstappen listed as betting favorite for qualifying pole ✓ (blog.f1livepulse.com)\n- Antonelli second in qualifying odds ✓ (same source)\n- Altitude of Autodromo Hermanos Rodriguez: 2,240 meters ✓ (F1 story history)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
