@@ -1,6 +1,17 @@
-# Cubs Pipeline Status — Updated 2026-10-30
+# Cubs Pipeline Status — Updated 2026-10-31
 
 ## Latest Run
+- **Date:** 2026-10-31 (Saturday — Off day. Halloween. Free agency opens Monday Nov 2. Gold Gloves TOMORROW Nov 1 ESPN. King free agent, Padres exclusive window closes Monday. Happ QO deadline Monday. Kanzler/Mariners still no hire. AFL: Reid leads AFL with 14 Ks.)
+- **Stories:** 6
+- **X posts:** 6
+- **Platforms:** X/Twitter only
+- **Status:** ✅ Complete
+- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 6 stories, 6 tweets
+- **07-content-data.json:** ✅ Valid JSON, all 6 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 10:45 AM / 12:00 PM / 2:30 PM CT), all strptime-parseable
+- **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
+- **Note:** 2 significant insights applied: allcaps_lead WINNER (delta=0.265, small, p=0.035) + not_statement LOSER (delta=0.259, small, p=0.043). All 6 tweets open with ALL CAPS fragment. Off day — Gold Gloves eve (PCA back-to-back + historic sweep) + 5-SP rotation crisis scope + Happ QO Monday deadline + King/FA opens Monday + Kanzler/Mariners waiting + AFL Reid AFL-leading 14 Ks.
+
+## Previous Run
 - **Date:** 2026-10-30 (Friday — Off day. BREAKING: King opts out Oct 29 → free agent. Holmes + Boyd decline options Oct 29 → 5 starters in FA. Gold Gloves TOMORROW (Nov 1 ESPN). Happ QO due Nov 2. Kanzler/Mariners decision today. AFL Week 5 Reid breakout.)
 - **Stories:** 6
 - **X posts:** 6
@@ -10,6 +21,14 @@
 - **07-content-data.json:** ✅ Valid JSON, all 6 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 10:45 AM / 12:00 PM / 2:30 PM CT), all strptime-parseable
 - **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
 - **Note:** 1 significant insight applied: allcaps_lead WINNER (delta=0.245, small, p=0.05). All 6 tweets open with ALL CAPS fragment. Off day — King free agent breaking + rotation 5-alarm (Holmes/Boyd declined) + Gold Gloves tomorrow + Happ QO + Kanzler decision + AFL Reid breakout.
+
+## Insights Summary (2026-10-31 run — from 2026-10-31T08:30 UTC snapshot)
+- **Generated:** 2026-10-31T08:30:00 UTC
+- **Significant findings:** 2
+  1. `opening=allcaps_lead` WINNER — delta=0.265 (small), p=0.035; winner median 99 (n=47) vs loser median 60 (n=39). ALL CAPS leads outperform.
+  2. `opening=statement` LOSER — `not_statement` WINNER, delta=0.259 (small), p=0.043; winner median 99 (n=51) vs loser median 60 (n=35). Plain statement openers underperform.
+- **Action:** All 6 tweets open with ALL CAPS fragment on line 1, satisfying both signals simultaneously.
+- **Note:** Both signals align (ALL CAPS opening = not a plain statement). Both "small" effect size but statistically significant. Second consecutive run with both findings significant together.
 
 ## Insights Summary (2026-10-30 run — from 2026-10-30T08:30 UTC snapshot)
 - **Generated:** 2026-10-30T08:30:00 UTC
@@ -117,6 +136,7 @@
 
 | Date | Type | Stories | Tweets | Status |
 |------|------|---------|--------|--------|
+| 2026-10-31 | OFF DAY (Gold Gloves eve PCA back-to-back + historic sweep, 5-SP rotation crisis scope, Happ QO Monday deadline, King/FA opens Monday, Kanzler/Mariners no hire, AFL Reid AFL-leading 14 Ks) | 6 | 6 | ✅ |
 | 2026-10-30 | OFF DAY (King free agent BREAKING, Holmes+Boyd decline options BREAKING, Gold Gloves tomorrow preview, Happ QO due Monday, Kanzler/Mariners decision, AFL Week 5 Reid breakout) | 6 | 6 | ✅ |
 | 2026-10-29 | OFF DAY (Brewers WS WIN rival reaction, King opt-out clock running, Imanaga QO window open, Gold Gloves 3 days, Suzuki QO decision, AFL Week 5 Snell/Cabral/Reid) | 6 | 6 | ✅ |
 | 2026-10-28 | OFF DAY (WS G5 rival watch anchor, King opt-out imminent, Suzuki QO this week, PCA unanimous MVP poll, Sato posting official) | 5 | 5 | ✅ |
