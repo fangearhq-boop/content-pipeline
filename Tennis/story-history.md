@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## October 31, 2026
+
+| 2026-10-31 | Vienna Semifinals: Zverev vs. de Minaur, Alcaraz vs. Medvedev — Zverev d. Fery 6-0, 6-2 in QF (58 min); de Minaur d. Berrettini 7-6(4), 6-2; Alcaraz d. Tommy Paul 6-4, 7-6(2); Medvedev beat Mannarino to seal ATP Finals spot; H2H: Zverev leads de Minaur 9-4, Alcaraz leads Medvedev 6-3 (10th meeting); Final Sunday Nov 1. Sources: malaymail.com, france24.com, fieldlevelmedia.com, tenngrand.com | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-10-30 S4: Vienna QF → SF day) |
+| 2026-10-31 | Basel Semifinals: Fritz vs. Vacherot, Lehecka vs. Struff — Fils retired vs. Fritz 6-2, 2-0 (lower back, 3 days before Paris); Vacherot d. Rune 6-3, 3-6, 6-3; Lehecka d. Kym 6-4, 6-2; Struff d. Borges 6-2, 6-3; Vacherot's remarkable run (beat Jodar + Rune); Final Sunday Nov 1. Sources: tennismajors.com (864451), atptour.com, tennistourcalendar.com | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (2026-10-30 S3: Basel chaos → QF results, SFs set) |
+| 2026-10-31 | Paris Masters 2026 draw unveiled — Draw ceremony Fri Oct 30 19:00 CET; Zverev No. 1, Alcaraz No. 2, Shelton No. 3, Medvedev No. 4; Djokovic seeded 10th (plays R1 Monday); top 8 seeds get first-round byes; main draw Nov 2-8 at Plenitude Arena Nanterre; qualifying Oct 31–Nov 1; 1,000 Race pts; last Masters 1000 of 2026. Sources: puntodebreak.com (Oct 27, 2026), atptour.com | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (2026-10-29 S4: Paris Masters preview → draw confirmed) |
+| 2026-10-31 | Medvedev clinches ATP Finals — 4th qualifier (Zverev, Alcaraz, Shelton, Medvedev confirmed); 4 spots remain; contenders: Cobolli, Fils, Tiafoe, Jodar, de Minaur, Djokovic, Fritz, Struff; ATP Finals Nov 15–22 Turin; Paris Masters (1,000 pts) decides remaining 4 spots. Sources: france24.com, malaymail.com | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-10-30 S2: Djokovic/ATP Finals → Medvedev clinches 4th spot) |
+| 2026-10-31 | WTA Finals 8 days out — draw Nov 5; play Nov 8–15 Indian Wells; field: Rybakina (defending, No. 1), Sabalenka, Andreeva, Pegula, Gauff, Svitolina, Noskova, Muchova; Charlotte NC 2027–2029; group draw question: Rybakina/Sabalenka in same group or apart? Sources: wtatennis.com, previous pipelines | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (2026-10-30 S5: WTA Finals 9 days out → 8 days) |
+
+---
+
+
 ## October 30, 2026
 
 | 2026-10-30 | Stan Wawrinka's career ends — Lehečká d. Wawrinka 7-5, 7-6(2) in Basel R1 Tuesday Oct 27; first Basel win for Lehečká (third attempt); Wawrinka broken at 5-5 in Set 1; tribute night Monday with Djokovic in attendance; three GS titles (2014 AO, 2015 FO, 2016 USO). Sources: tennismajors.com, bluewin.ch, Field Level Media | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-10-27 S2: Wawrinka vs. Lehečká preview → result) |

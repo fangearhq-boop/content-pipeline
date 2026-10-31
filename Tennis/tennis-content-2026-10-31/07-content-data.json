@@ -1,0 +1,264 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-31",
+  "compiled_at": "2026-10-31T12:16:11.195846+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Vienna Double-Header — Zverev vs. de Minaur & Alcaraz vs. Medvedev In Today's Semifinals",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Vienna semifinals today: Zverev vs. de Minaur. Alcaraz vs. Medvedev. Four of the best players on tour, two matches, one afternoon. The final is tomorrow. #Tennis #ErsteBank",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#ErsteBank"
+          ],
+          "char_count": 172
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Zverev leads de Minaur 9-4 all-time. Alcaraz leads Medvedev 6-3 in their 10th career meeting. Vienna semifinals — which of these goes the distance? #Tennis #ErsteBank",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#ErsteBank"
+          ],
+          "char_count": 166
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-vienna-semifinals-zverev-alcaraz-medvedev.html",
+        "headline": "Vienna Semifinals: Zverev vs. de Minaur and Alcaraz vs. Medvedev Set Up Stunning Saturday",
+        "word_count": 676
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Vienna Semifinals\n\n**Image Concept 1-A**\nType: Social (1080x1350)\nImagn search: \"Alexander Zverev Vienna\"\nCredit: (Imagn Images)\nNotes: Zverev mid-match action at the Wiener Stadthalle indoor hard court — fist pump or backhand winner; Erste Bank Open branding in background preferred.\n\n**Image Concept 1-B**\nType: Article Hero (1200x630)\nImagn search: \"Carlos Alcaraz Daniil Medvedev\"\nCredit: (USA TODAY Sports Images)\nNotes: Split frame or back-to-back action from any recent ATP hard-court event; Alcaraz forehand on one side, Medvedev serve on the other if available. Otherwise use Alcaraz solo hard-court shot.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Basel Semifinals — Fritz vs. Vacherot, Lehecka vs. Struff; Fils Withdrawal Casts Paris Shadow",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Arthur Fils retired from his Basel QF against Fritz with lower back discomfort. He trails 6-2, 2-0 when he stops. The Paris Masters is THREE days away. #Tennis #SwissIndoors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#SwissIndoors"
+          ],
+          "char_count": 173
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Basel semifinals: Fritz vs. Vacherot. Lehečká vs. Struff. Vacherot — unseeded, unheralded — has beaten Rune and Jódar to get here. This is what tennis looks like when the draw opens up. #Tennis #SwissIndoors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#SwissIndoors"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-basel-semifinals-fils-injury-paris.html",
+        "headline": "Basel Semifinals Set — But Fils Back Injury Three Days Before Paris Masters Raises Alarm",
+        "word_count": 644
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Basel Semifinals\n\n**Image Concept 2-A**\nType: Social (1080x1350)\nImagn search: \"Arthur Fils Basel\"\nCredit: (Imagn Images)\nNotes: Fils reacting during a match or clutching his back — injury angle; if no Basel image, any recent ATP indoor hard-court action of Fils in distress or neutrally mid-match.\n\n**Image Concept 2-B**\nType: Article Hero (1200x630)\nImagn search: \"Taylor Fritz ATP\"\nCredit: (USA TODAY Sports Images)\nNotes: Fritz mid-match or celebrating an ATP win; indoor venue preferred to match Basel's indoor hard-court setting.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Paris Masters Draw Unveiled — Zverev No. 1, Djokovic Seeded 10th, Main Draw Starts Monday",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Paris Masters draw is set. Zverev No. 1, Alcaraz No. 2, Shelton No. 3, Medvedev No. 4. Djokovic seeded 10th — plays Round 1. Main draw starts Monday. 1,000 Race pts on the line. #Tennis #ParisMasters",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#ParisMasters"
+          ],
+          "char_count": 199
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Djokovic is seeded 10th in Paris and plays a first-round match Monday. He's outside the top 8 in the Race to Turin. This is essentially his last chance to qualify for the ATP Finals. #Tennis #ATPFinals",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#ATPFinals"
+          ],
+          "char_count": 201
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-paris-masters-draw-2026-zverev-alcaraz-djokovic.html",
+        "headline": "Paris Masters Draw 2026: Zverev No. 1, Djokovic Seeded 10th, Main Draw Starts Monday",
+        "word_count": 668
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Paris Masters Draw\n\n**Image Concept 3-A**\nType: Social (1080x1350)\nImagn search: \"Novak Djokovic Paris Masters\"\nCredit: (Imagn Images)\nNotes: Djokovic in action or celebrating at the Accor/Plenitude Arena, Paris indoor hard court. Intense expression preferred — this image is used for the \"Djokovic fighting for ATP Finals\" angle.\n\n**Image Concept 3-B**\nType: Article Hero (1200x630)\nImagn search: \"Paris Masters Bercy ATP\"\nCredit: (USA TODAY Sports Images)\nNotes: Wide arena shot of the Plenitude Arena (Bercy) interior — crowd, court, overhead lighting — to establish the tournament setting for the draw preview article.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Medvedev Seals ATP Finals Spot — Four Down, Four to Go in Race to Turin",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Daniil Medvedev has CLINCHED his ATP Finals spot. Win over Mannarino in Vienna locked it in. Four confirmed: Zverev, Alcaraz, Shelton, Medvedev. Four spots left. Paris decides the rest. #Tennis #ATPFinals",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#ATPFinals"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-medvedev-clinches-atp-finals-four-spots-remain.html",
+        "headline": "Medvedev Clinches ATP Finals Spot — Four of Eight Qualified, Race Enters Final Week",
+        "word_count": 540
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Medvedev ATP Finals Clinch\n\n**Image Concept 4-A**\nType: Social (1080x1350)\nImagn search: \"Daniil Medvedev Vienna ATP\"\nCredit: (Imagn Images)\nNotes: Medvedev celebrating or reacting at an ATP event, ideally hard-court indoor; fist pump expression matches the moment of qualification.\n\n**Image Concept 4-B**\nType: Article Hero (1200x630)\nImagn search: \"Daniil Medvedev ATP Finals\"\nCredit: (USA TODAY Sports Images)\nNotes: Medvedev in action at the ATP Finals in Turin or equivalent year-end event to reinforce the \"qualified for Turin\" context.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "WTA Finals in 8 Days — Draw Ceremony Set for Wednesday",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Eight days until the WTA Finals at Indian Wells (Nov 8–15). Draw drops Wednesday, Nov 5. Rybakina, Sabalenka, Andreeva, Pegula, Gauff, Svitolina, Noskova, Muchova. All eight ready. #WTAFinals",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTAFinals"
+          ],
+          "char_count": 191
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-wta-finals-2026-preview-eight-players.html",
+        "headline": "WTA Finals 2026 Preview: Eight Players, Eight Days Away, One Draw to Watch on Wednesday",
+        "word_count": 588
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WTA Finals Preview\n\n**Image Concept 5-A**\nType: Social (1080x1350)\nImagn search: \"Elena Rybakina Indian Wells\"\nCredit: (Imagn Images)\nNotes: Rybakina at the Indian Wells Tennis Garden — defending champion angle; outdoor hard court with the distinctive Indian Wells mountain backdrop preferred.\n\n**Image Concept 5-B**\nType: Article Hero (1200x630)\nImagn search: \"Aryna Sabalenka WTA Finals\"\nCredit: (USA TODAY Sports Images)\nNotes: Sabalenka in action at the WTA Finals or a major year-end event — the Rybakina vs. Sabalenka group-draw question is the article's closing hook.\n\n---\n\n**Summary:**\n- Total image concepts: 10 (5 social 1080x1350 + 5 article 1200x630)\n- Source: imagn for all\n- All 5 stories covered ✓"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
