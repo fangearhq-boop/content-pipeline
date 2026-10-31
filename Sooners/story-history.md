@@ -4,3 +4,9 @@ URLs already used, so the next run does not repeat the same news item inside 21 
 
 | Date | Slot | URL | Title |
 |------|------|-----|-------|
+| 2026-10-31 | 9:00 AM CT | https://soonersports.com/ | Morning in Norman |
+| 2026-10-31 | 10:30 AM CT | https://soonersports.com/sports/football/schedule/2026 | Oklahoma vs South Carolina |
+| 2026-10-31 | 12:30 PM CT | https://soonersports.com/ | Lloyd Noble, soon |
+| 2026-10-31 | 3:00 PM CT | https://soonersports.com/ | Norman stays on the trail |
+| 2026-10-31 | 6:00 PM CT | https://soonersports.com/news/2026/10/16/softball-patty-gasso-inducted-to-oklahoma-womens-hall-of-fame | Patty Gasso Inducted to Oklahoma Women's Hall of Fame |
+| 2026-10-31 | 8:30 PM CT | https://soonersports.com/news/2026/10/21/oklahoma-baseball-announces-complete-2027-schedule | Oklahoma Baseball Announces Complete 2027 Schedule |
