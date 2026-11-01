@@ -1,5 +1,35 @@
 # Tennis Fanrecap — Pipeline Status
 
+## Current Run: 2026-11-01
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Vienna final today (Alcaraz vs de Minaur, H2H 6-0 Alcaraz; de Minaur beat Zverev 6-4, 1-6, 7-6(4) in SF); Basel final today (Lehecka vs Vacherot, H2H 1-1); Paris Masters draw set (Zverev No. 1, Alcaraz No. 2, Djokovic 10th seed vs Vacherot R1, needs SF for Turin); ATP Race: 4 confirmed (Zverev/Alcaraz/Shelton/Medvedev), de Minaur 9th by 1 pt over Jodar; WTA Finals 7 days out (Nov 8-15 Indian Wells, draw Wed Nov 5) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Oct 31 S1: Vienna SFs → finals day); S2 FOLLOW-UP (Oct 31 S2: Basel SFs → finals day); S3 FOLLOW-UP (Oct 31 S3: Paris draw unveiled → day-of analysis); S4 FOLLOW-UP (Oct 31 S4: Medvedev clinches → Race update with Paris approaching); S5 FOLLOW-UP (Oct 31 S5: WTA Finals 8 days → 7 days) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 T1, 2 T2); bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on Alcaraz exact career title count (28th), WTA Finals venue (Indian Wells vs Riyadh conflict) |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 8 posts across 5 stories; all ≤280 chars |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 9 imagn concepts across 5 stories |
+| Articles (5) | COMPLETE | article-01 Vienna final preview (Marcus Cole T1); article-02 Basel final preview (Ryan Calloway T1); article-03 Paris Masters draw analysis (Elena Voss T1); article-04 ATP Race update (Marcus Cole T2); article-05 WTA Finals preview (Ryan Calloway T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 36 claims verified; HIGH confidence 33, MEDIUM 3; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 articles; posting window warnings (cosmetic) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 9 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 23 items generated |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-11-01.xlsx + tfr-postplanner-tobi-2026-11-01.xlsx — 8 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 1 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
+- **Key stories:** Vienna final today (Alcaraz vs de Minaur, H2H 6-0 Alcaraz, de Minaur stunned Zverev in SF); Basel final today (Lehecka vs Vacherot — Vacherot first Monaco player to reach Basel final, also draws Djokovic in Paris R1); Paris draw (Djokovic No. 10 vs Vacherot R1, needs SF for Turin); ATP Race (4 confirmed, de Minaur 9th by 1 pt, Fritz fading); WTA Finals 7 days (8 players, Swiatek absent, draw Wed)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known)
+
+---
+
 ## Current Run: 2026-10-31
 
 | Step | Status | Notes |

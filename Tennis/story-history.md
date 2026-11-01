@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## November 1, 2026
+
+| 2026-11-01 | Vienna Final: Alcaraz vs. de Minaur — Alcaraz leads H2H 6-0; de Minaur beat Zverev 6-4, 1-6, 7-6(4) in SF (trailed 0-3 in final TB); Alcaraz beat Medvedev 6-4, 7-6(2) in SF; Alcaraz chasing 28th career title, 4th of 2026; unbeaten ATP 500 streak 15 matches; Vienna final Sunday Nov 1. Sources: ESPN, NBC Sports, Sky Sports, France24, TennisMajors | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-10-31 S1: Vienna SFs → finals day) |
+| 2026-11-01 | Basel Final: Lehecka vs. Vacherot — Vacherot d. Fritz 7-6(5), 6-3 (first Monaco player in Basel final); Lehecka d. Struff 3-6, 7-5, 6-4 (saved match point); H2H 1-1 (Lehecka won Tokyo 2026, Vacherot won Paris 2025); Vacherot also draws Djokovic in Paris R1 Monday. Sources: ESPN, Monaco Life, TennisNow, Tennis Majors | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (2026-10-31 S2: Basel SFs → finals day) |
+| 2026-11-01 | Paris Masters Draw — Zverev No. 1, Alcaraz No. 2, Shelton No. 3, Medvedev No. 4; Djokovic 10th seed vs. Vacherot R1 (Djokovic 0-? vs. Vacherot; never beaten him); needs SF to qualify for Turin; path: Vacherot R1, Darderi/qualifier R2, de Minaur R3, Zverev QF; main draw Nov 2-8; qualifying concludes Nov 1; Pioline said may be last Paris for Djokovic. Sources: Tennis Majors, Tennis365, RolexParisMasters.com, NovakDjokovic.com | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (2026-10-31 S3: Paris draw → day-of analysis) |
+| 2026-11-01 | ATP Race to Turin — 4 confirmed (Zverev, Alcaraz, Shelton, Medvedev); 4 spots remain; de Minaur 9th (3,210 pts, 1 pt ahead of Jodar); Vienna title worth ~171 additional pts; Fritz Turin hopes fading after Basel SF loss; Fils injured (lower back); Paris last event, 1,000 pts to champion. Sources: TennisMajors, Tennis365, TennisNerd | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-10-31 S4: Medvedev clinches → Race update) |
+| 2026-11-01 | WTA Finals 7 days out — draw ceremony Wed Nov 5; play Nov 8-15 Indian Wells; 8 players: Rybakina (defending), Sabalenka, Andreeva, Pegula, Gauff, Svitolina, Noskova, Muchova; Swiatek absent (left thigh injury, Oct 2026); last 6 WTA Finals titles. Sources: Wikipedia, WTA, prior pipeline coverage | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (2026-10-31 S5: WTA Finals 8 days out → 7 days) |
+
+---
+
+
 ## October 31, 2026
 
 | 2026-10-31 | Vienna Semifinals: Zverev vs. de Minaur, Alcaraz vs. Medvedev — Zverev d. Fery 6-0, 6-2 in QF (58 min); de Minaur d. Berrettini 7-6(4), 6-2; Alcaraz d. Tommy Paul 6-4, 7-6(2); Medvedev beat Mannarino to seal ATP Finals spot; H2H: Zverev leads de Minaur 9-4, Alcaraz leads Medvedev 6-3 (10th meeting); Final Sunday Nov 1. Sources: malaymail.com, france24.com, fieldlevelmedia.com, tenngrand.com | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-10-30 S4: Vienna QF → SF day) |

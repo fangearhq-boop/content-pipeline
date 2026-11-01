@@ -1,0 +1,240 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-01",
+  "compiled_at": "2026-11-01T12:14:53.828719+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Vienna Final — Alcaraz vs. de Minaur, H2H 6-0 Alcaraz as de Minaur Looks for First Win",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Alcaraz vs. de Minaur — Vienna final is underway. H2H: 6-0 Alcaraz. But de Minaur just beat Zverev coming back from 0-3 in the final tiebreak. The streak is real. The question is whether it crosses over today. #TennisFanrecap #ViennaOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ViennaOpen"
+          ],
+          "char_count": 237
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Vienna final: Alcaraz bidding for his 28th career title and 4th of 2026. De Minaur stunned the world No. 1 to get here. One of the better finals of the autumn swing — follow @TennisFanrecap for results. #TennisFanrecap #ViennaOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ViennaOpen"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "Vienna final — Alcaraz vs. de Minaur. The H2H is 6-0. The momentum belongs to de Minaur. One of them goes home with the trophy. Which way do you think it goes?",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-alcaraz-de-minaur-vienna-final.html",
+        "headline": "Vienna Final: Alcaraz vs. de Minaur — Can de Minaur Crack a 6-0 Head-to-Head Deficit?",
+        "word_count": 729
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Basel Final — Lehecka vs. Vacherot Clash in All-Surprise Sunday",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Basel final nobody predicted: Vacherot vs. Lehečká. Vacherot (Monaco, ranked No. 31) beat Fritz. Lehečká saved a match point to beat Struff. H2H: 1-1. Tennis remains gloriously unpredictable. #TennisFanrecap #SwissIndoors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#SwissIndoors"
+          ],
+          "char_count": 225
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Also today — Vacherot draws Djokovic in Paris R1 on Monday. Win Basel, fly to Paris, play the all-time great who's never beaten you. No days off in November. #TennisFanrecap #ParisMasters",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ParisMasters"
+          ],
+          "char_count": 187
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "Basel final: Vacherot vs. Lehečká. The first player from Monaco to reach this final. A Czech comeback specialist who saved match point to get here. Tennis makes no promises — and that is exactly why we love it.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-lehecka-vacherot-basel-final.html",
+        "headline": "Basel Final: Lehecka vs. Vacherot — A Surprise Sunday in Switzerland",
+        "word_count": 729
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Paris Masters Draw: Djokovic Faces Vacherot R1, Needs Semifinal to Qualify for Turin",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Paris Masters draw is set. Zverev (No. 1), Alcaraz (No. 2), Shelton (No. 3), Medvedev (No. 4). Djokovic seeded 10th — opens against Vacherot, who beat him at Shanghai last year. Paris starts Monday. One week, 1,000 points. #TennisFanrecap #ParisMasters",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ParisMasters"
+          ],
+          "char_count": 252
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Djokovic needs a semifinal in Paris just to qualify for Turin. His R1 opponent: Vacherot, who has never lost to him. His R3 if he gets there: de Minaur. His QF: probably Zverev. That is not a soft draw. #TennisFanrecap #ParisMasters",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ParisMasters"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "Paris Masters 2026 draw is here. Djokovic needs a semifinal to qualify for the ATP Finals. His first opponent: the one player who has beaten him on tour lately. No easy path. No guarantees. Just Paris in November.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-paris-masters-draw-djokovic.html",
+        "headline": "Paris Masters Draw: Djokovic Opens Against Vacherot — and Needs a Semifinal to Reach Turin",
+        "word_count": 714
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "ATP Race to Turin — De Minaur Holds Ninth, Fritz Fading, Three Spots Still Open",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Race to Turin update: Zverev, Alcaraz, Shelton, Medvedev are in. De Minaur is 9th — one point ahead of Jodar. Fritz fading. Djokovic, Fils, Tiafoe all chasing. Paris is the last chance, worth 1,000 points to the winner. #TennisFanrecap #ATPFinals",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPFinals"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "Race to Turin, today's snapshot: 4 in, 4 spots left, de Minaur 9th by literally one point. Paris starts Monday. One tournament, everything on the line.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-atp-race-turin-update.html",
+        "headline": "ATP Race to Turin: Four Spots Left, De Minaur Leads by One Point as Paris Begins",
+        "word_count": 784
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "WTA Finals Begin in One Week — Eight Players Set, Draw Ceremony Wednesday",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "7 days until the WTA Finals at Indian Wells. Draw ceremony: Wednesday. Players: Rybakina, Sabalenka, Andreeva, Pegula, Gauff, Svitolina, Noskova, Muchová. Swiatek is out. No defending champion has looked more beatable in years. #TennisFanrecap #WTAFinals",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#WTAFinals"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "WTA Finals week is here — seven days until play starts at Indian Wells. Eight players. No Swiatek. No clear favorite. The most open field in years. Which player are you backing?",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-wta-finals-preview.html",
+        "headline": "WTA Finals Preview: No Swiatek, Eight Players, and the Most Open Field in Years",
+        "word_count": 774
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
