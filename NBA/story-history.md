@@ -757,3 +757,42 @@
 - **Key facts:** 5 games Oct 30; 3 Cup games; Knicks-Sixers Prime Video; Lakers-Warriors; Hornets-Wizards; Suns-Jazz; Clippers-Nuggets
 - **Byline:** Marcus Cole
 - **Status:** NEW
+
+---
+
+## Run Date: 2026-11-01
+
+### STORY 1: Maxey's Halloween 38 — 76ers 109, Hornets 104
+- **Tier:** 1
+- **Category:** Philadelphia 76ers / Charlotte Hornets / Tyrese Maxey
+- **Key facts:** Final score 76ers 109, Hornets 104; Maxey 38 pts; back-to-back performance (27 Oct 30, 38 Oct 31); Sixers improve to 7-1; game Oct 31
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+
+### STORY 2: Grizzlies 136, Kings 105 — Memphis 6-0
+- **Tier:** 1
+- **Category:** Memphis Grizzlies / Sacramento Kings
+- **Key facts:** Final score 136-105; Memphis improves to 6-0 (only unbeaten team in NBA); Kings fall to 0-7; 31-point win; game Oct 31
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: Rockets 119, Thunder 98 — Houston 6-1
+- **Tier:** 1
+- **Category:** Houston Rockets / Oklahoma City Thunder / NBA Cup
+- **Key facts:** Final score 119-98; Houston 6-1 (Cup bounce-back win); OKC 4-3; game Oct 31 (Cup game)
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: Cavaliers 136, Bucks 111 — Halloween Blowout
+- **Tier:** 2
+- **Category:** Cleveland Cavaliers / Milwaukee Bucks / Donovan Mitchell
+- **Key facts:** Final score 136-111; Cavs blowout win; Bucks 3-4; game Oct 31
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: NBA Sunday Preview + Cup Standings Check
+- **Tier:** 2
+- **Category:** NBA Preview / NBA Cup / Boston Celtics / Orlando Magic / Brooklyn Nets / Indiana Pacers
+- **Key facts:** Celtics at Magic 3:30 PM ET; Nets at Pacers 5:00 PM ET; Sunday Nov 1; Cup standings update
+- **Byline:** Marcus Cole
+- **Status:** NEW

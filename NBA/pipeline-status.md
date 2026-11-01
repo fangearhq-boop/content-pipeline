@@ -1,10 +1,31 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Current Status
-**Last Run:** 2026-10-31
+**Last Run:** 2026-11-01
 **Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy; git push via GitHub MCP
 
 ## Pipeline Run Log
+
+### 2026-11-01 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 38 claims, HIGH: 95; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 8 tweets, 0 FB posts (known parsing), 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (23 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy; content-dashboards not in session scope)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via GitHub MCP to main
+
+**Stories covered:**
+1. T1 FOLLOW UP: Maxey's Halloween 38 — 76ers 109, Hornets 104 (Jake Torres)
+2. T1 FOLLOW UP: Grizzlies 136, Kings 105 — Memphis 6-0 (Marcus Cole)
+3. T1 NEW: Rockets 119, Thunder 98 — Houston 6-1 (Damon Pierce)
+4. T2 NEW: Cavaliers 136, Bucks 111 — Halloween Blowout (Jake Torres)
+5. T2 NEW: NBA Sunday Preview + Cup Standings Check (Marcus Cole)
+
+---
 
 ### 2026-10-31 ✅ (Automated)
 - Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
