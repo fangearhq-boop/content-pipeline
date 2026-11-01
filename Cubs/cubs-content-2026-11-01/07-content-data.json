@@ -1,0 +1,191 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-01",
+  "compiled_at": "2026-11-01T09:18:37.541298+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Brewers Are WS Champions — Rival Watch",
+      "type": "Bold Take"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Michael King — Free Agency Opens Tomorrow",
+      "type": "Stat Breakdown"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "PCA BBWAA Finalists Announced Monday",
+      "type": "Bold Take"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Cubs Rotation Empty — Five Arms Gone",
+      "type": "Bold Take / Urgency"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Seiya Suzuki — Expected to Decline QO",
+      "type": "Informative"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Brewers Are World Series Champions — Cubs' Rival Won It All",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "WORLD SERIES CHAMPIONS. Milwaukee.\n\nThe team that knocked the Cubs out in October just raised the bar for the entire NL Central — first title in 57 years of Brewers baseball.\n\nJed Hoyer, get a rotation. Now.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Bold take / rival watch",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Michael King — Free Agency Opens Tomorrow, Cubs Must Pounce",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "MICHAEL KING. Free agent. Starting tomorrow.\n\nKing officially opted out of his Padres deal: 3.21 ERA, 185 innings, 32 starts in 2026. Projected at 4 years, $118M on the open market.\n\nThe Cubs' rotation is in ruins. This is the move.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Stat breakdown / offseason urgency",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "PCA BBWAA — NL MVP Finalists Announced Monday",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "MONDAY. The BBWAA announces NL MVP finalists.\n\nPete Crow-Armstrong — 45 HR, 41 SB, .372 OBP, MLB-best WAR — already won the MLBPA's Player of the Year Award.\n\nThe writers are next. This one's been over since June.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Bold take / milestone",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Cubs Rotation Empty — Five Arms, All Gone",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "FIVE ARMS. All gone.\n\nImanaga, Gausman, Peterson, Boyd, Holmes — every key piece of the Cubs' 2026 pitching staff is hitting free agency this week. Cade Horton is out until at least mid-2027.\n\nJed Hoyer has one job this winter. Go get pitchers.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Bold take / urgency",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Seiya Suzuki Expected to Decline QO — Five-Year Run Ending",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "SEIYA SUZUKI. The qualifying offer is coming.\n\nCubs expected to extend a $23.15M QO this week — and Suzuki is projected to decline it. Five seasons, .270 BA, 26 HRs, career-best 5.1 WAR in 2026.\n\nChicago gets a comp pick either way.\n\n#Cubs #MLB #ChicagoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Informative / roster news",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#ChicagoCubs"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
