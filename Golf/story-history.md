@@ -2,6 +2,18 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-11-01
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-11-01 | T1 | Yamashita Makes History: Defends Maybank Championship for First-Ever Back-to-Back Title | X(2), FB, Article | NEW |
+| 2026-11-01 | T1 | Andrew Novak Enters Mexico Open Final Round with Historic Six-Shot Lead | X(2), FB, Article | FOLLOW UP |
+| 2026-11-01 | T2 | Yan Liu Falls Two Short at Maybank — Runner-Up in a Career-Defining Performance | X(1), FB, Article | NEW |
+| 2026-11-01 | T2 | Pavon's Six-Shot Mountain: France's Best Chasing Novak at Vidanta Vallarta | X(1), FB, Article | FOLLOW UP |
+| 2026-11-01 | T2 | Golf's Sunday Double: Yamashita Wins Maybank, Novak Leads Mexico Open into the Final Round | X(1), FB, Article | NEW |
+
+---
+
 ## 2026-10-31
 
 | Date | Tier | Title | Platforms | Status |

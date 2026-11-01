@@ -1,11 +1,31 @@
 # Golf Fanrecap — Pipeline Status
 
-## Last Run: 2026-10-31
+## Last Run: 2026-11-01
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** Golf Fanrecap
 **Stories:** 5
 **Articles:** 5
+
+### 2026-11-01 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 27 claims, HIGH: 50; image manifest 10/10 not_started
+- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (22 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: to main
+
+**Stories covered:**
+1. T1 NEW: Yamashita Makes History: Defends Maybank Championship for First-Ever Back-to-Back Title (Ryan Calloway)
+2. T1 FOLLOW UP: Andrew Novak Enters Mexico Open Final Round with Historic Six-Shot Lead (Jake Torres)
+3. T2 NEW: Yan Liu Falls Two Short at Maybank — Runner-Up in a Career-Defining Performance (Marcus Cole)
+4. T2 FOLLOW UP: Pavon's Six-Shot Mountain: France's Best Chasing Novak at Vidanta Vallarta (Ryan Calloway)
+5. T2 NEW: Golf's Sunday Double: Yamashita Wins Maybank, Novak Leads Mexico Open into the Final Round (Jake Torres)
+
+---
 
 ### 2026-10-31 ✅ (Automated)
 - Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
