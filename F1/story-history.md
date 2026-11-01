@@ -400,3 +400,42 @@
 - **Key facts:** Qualifying Saturday Oct 31; Antonelli has 7 poles in 2026; Norris won 2025 Mexico from pole; Verstappen has 5 Mexico wins; altitude 2,240m factor
 - **Byline:** Elena Voss
 - **Status:** NEW
+
+---
+
+## Run Date: 2026-11-01
+
+### STORY 1: Antonelli Championship Race — Mexico City GP
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / 2026 Drivers' Championship / Mexico City GP
+- **Key facts:** 123-pt lead over Russell; needs P9 or better to clinch if Russell/Hamilton win; if neither wins, clinches automatically; race Nov 1 at Autodromo Hermanos Rodriguez
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: Hamilton Best Qualifying of 2026 — Ferrari Strong
+- **Tier:** 1
+- **Category:** Lewis Hamilton / Ferrari / Mexico City GP Qualifying
+- **Key facts:** Hamilton starts P3; best qualifying of 2026 season; "amazing feeling" quote; Ferrari altitude setup working
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
+### STORY 3: Antonelli P4 — Championship Math Breakdown
+- **Tier:** 1
+- **Category:** Kimi Antonelli / 2026 F1 Championship / Mexico City GP Grid
+- **Key facts:** Antonelli starts P4 (after Verstappen penalty); scenario matrix for clinching; 123-pt cushion with ~125 pts remaining
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 4: Leclerc and Ferrari's Best Shot at First 2026 Win
+- **Tier:** 2
+- **Category:** Charles Leclerc / Ferrari / Mexico City GP
+- **Key facts:** Leclerc fastest FP1 and FP2; Ferrari no wins in 2026; altitude setup clicking; best race opportunity of year
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: Mexico City Race Preview
+- **Tier:** 2
+- **Category:** Mexico City GP / 2026 F1 Season / Race Preview
+- **Key facts:** 2,240m altitude; 71 laps; 4.304km circuit; championship on the line; tire strategy; 5 races remaining post-Mexico
+- **Byline:** Elena Voss
+- **Status:** NEW

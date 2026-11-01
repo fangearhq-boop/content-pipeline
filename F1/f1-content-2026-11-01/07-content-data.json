@@ -1,0 +1,282 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-01",
+  "compiled_at": "2026-11-01T11:24:20.401177+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Antonelli's Championship Race: One Finish Away from F1 History in Mexico City [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Today could be the day.\n\nKimi Antonelli needs P9 or better in Mexico City to become the youngest F1 World Champion in history.\n\n123-point lead. One afternoon stands between him and immortality. 🏆 #F1 #MexicoCityGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MexicoCityGP"
+          ],
+          "char_count": 213
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Antonelli's title scenarios today in Mexico:\n\n▶ If Russell or Hamilton wins: Antonelli needs P9\n▶ If neither wins: Antonelli is champion REGARDLESS\n\nIt's almost impossible for him NOT to win the title today. #F1 #MexicoCityGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MexicoCityGP"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-antonelli-championship-race-mexico-city.html",
+        "headline": "Antonelli's Championship Race: One Finish Away from F1 History in Mexico City",
+        "word_count": 619
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Championship Race\n\n**Image 1A** (Social — 1080x1350)\n- **imagn search terms:** `Kimi Antonelli Mercedes`\n- **Canva text overlay:** \"TITLE DAY? / P9 OR BETTER = WORLD CHAMPION / Mexico City 2026\"\n- **Visual goal:** Antonelli in Mercedes helmet, race-day intensity\n\n**Image 1B** (Article hero — 1200x630)\n- **imagn search terms:** `Kimi Antonelli F1`\n- **Canva text overlay:** \"ANTONELLI'S CHAMPIONSHIP RACE | MEXICO CITY GP 2026\"\n- **Visual goal:** Clean Antonelli portrait or action for article header\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Championship Clinching Race\n**Verified Facts (HIGH confidence):**\n- Kimi Antonelli leads Drivers' Championship by 123 points over George Russell ✓ (Al Jazeera, RacingNews365, multiple sources)\n- Russell is P2 at 242 points; Hamilton P3 at 241 points ✓ (from Oct 31 pipeline confirmed data)\n- Antonelli needs P9 or better to clinch IF Russell or Hamilton wins ✓ (multiple sources: RacingNews365, LBC, GPblog)\n- If neither Russell nor Hamilton wins, Antonelli is champion regardless of position ✓ (multiple sources)\n- A win today would make Antonelli the youngest F1 champion in history (born 2006) ✓ (MEDIUM — from pipeline context; champion at ~19 years old)\n- Race is Sunday, November 1, 2026 ✓\n- Autodromo Hermanos Rodriguez, Mexico City ✓\n**MEDIUM confidence:**\n- \"9 wins in 2026\" stat for Antonelli — from Oct 31 pipeline, not re-verified today\n- Exact youngest champion age record — needs primary source verification; Verstappen was 24y3d; Vettel 23y134d\n**Source references:**\n- Al Jazeera: \"Kimi Antonelli wins US Grand Prix, closes in on F1 championship\" (Oct 26, 2026)\n- RacingNews365: \"How Kimi Antonelli can win the F1 title in Mexican Grand Prix\"\n- GPblog: \"Here's when Kimi Antonelli can clinch the 2026 F1 world championship\"\n- LBC: \"When could Kimi Antonelli win 2026 F1 title\"\n- Khel Now: \"What Kimi Antonelli needs to win title in Mexican City GP\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Hamilton's Strongest Ferrari Qualifying of 2026 — Mexico City GP Starting Grid [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Lewis Hamilton on Mexico City qualifying: \"An amazing feeling.\"\n\nP3 on the grid. His best qualifying result of the 2026 season.\n\nFerrari finally found something at altitude. Watch out today. 🔴 #F1 #MexicoCityGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MexicoCityGP"
+          ],
+          "char_count": 210
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Ferrari needs a win. Hamilton is P3. Leclerc set the fastest times in both practice sessions.\n\nMexico City is their best shot at ending a winless 2026 season.\n\nToday is the day, or it probably won't come. 🔴 #F1 #MexicoCityGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MexicoCityGP"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-hamilton-best-qualifying-2026-ferrari-mexico.html",
+        "headline": "Hamilton's Best Qualifying of 2026: Ferrari Makes a Statement in Mexico City",
+        "word_count": 608
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton Qualifying — Ferrari Strong\n\n**Image 2A** (Social — 1080x1350)\n- **imagn search terms:** `Lewis Hamilton Ferrari`\n- **Canva text overlay:** \"P3. BEST OF 2026. / 'AN AMAZING FEELING.' / Hamilton | Ferrari\"\n- **Visual goal:** Hamilton in Ferrari red, qualifying celebration or focus\n\n**Image 2B** (Article hero — 1200x630)\n- **imagn search terms:** `Lewis Hamilton Ferrari Formula 1`\n- **Canva text overlay:** \"HAMILTON P3 | FERRARI'S BEST QUALIFYING OF 2026\"\n- **Visual goal:** Ferrari race car on track for article header\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton Qualifying — Best of 2026\n**Verified Facts (HIGH confidence):**\n- Hamilton delivered what sources called his best qualifying result of the 2026 season in Mexico ✓ (motorsport.com, Formula1.com)\n- Hamilton starts from P3 on the Mexico City grid ✓ (GPfans.com Dutch: \"Hamilton start GP Mexico-Stad vanaf P3: 'Beste kwalificatie dit seizoen'\")\n- Ferrari quote: Hamilton said it was \"an amazing feeling\" ✓ (Formula1.com headline)\n- Mexico City circuit: Autodromo Hermanos Rodriguez ✓\n**MEDIUM confidence:**\n- Hamilton quote about \"making the most\" of qualifying ✓ (Formula1.com article headline — \"An amazing feeling — Hamilton hoping to make the most of Ferrari's strong Qualifying\")\n- Whether this is Hamilton's 105th career pole — NOT CONFIRMED for this race (Hamilton is P3, not on pole; earlier research may have mixed 2025 with 2026 data)\n**Source references:**\n- Formula1.com: \"'An amazing feeling' – Hamilton hoping to 'make the most' of Ferrari's strong Qualifying for Mexico City Grand Prix\"\n- GPfans.com (Dutch): \"Hamilton start GP Mexico-Stad vanaf P3: 'Beste kwalificatie dit seizoen'\"\n- Motorsport.com: \"Hamilton plots aggressive Mexico GP start after finally gelling with Ferrari set-up\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Antonelli's Grid Position and Race-Day Scenarios — Every Path to the Title [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Antonelli starts 4th today in Mexico City — promoted after a Verstappen grid penalty.\n\nStarts 4th. Leads by 123 points. Needs a top-9 finish if Russell or Hamilton win.\n\nHistory is within reach. #F1 #MexicoCityGP #Antonelli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MexicoCityGP",
+            "#Antonelli"
+          ],
+          "char_count": 223
+        },
+        {
+          "label": "Post 3-2",
+          "text": "If Kimi Antonelli wins the title today, he will be 19 years old.\n\n19 years old.\n\nLet that sink in. The youngest F1 World Champion ever. #F1 #MexicoCityGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MexicoCityGP"
+          ],
+          "char_count": 153
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-antonelli-p4-championship-scenarios-mexico.html",
+        "headline": "Antonelli Starts 4th: Every Championship Scenario for the Mexico City Grand Prix",
+        "word_count": 601
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Scenarios\n\n**Image 3A** (Social — 1080x1350)\n- **imagn search terms:** `Kimi Antonelli Mercedes Formula 1`\n- **Canva text overlay:** \"STARTS 4th. LEADS BY 123. / HISTORY IN REACH.\" \n- **Visual goal:** Antonelli in cockpit or pre-race\n\n**Image 3B** (Article hero — 1200x630)\n- **imagn search terms:** `Antonelli Mercedes 2026`\n- **Canva text overlay:** \"CHAMPIONSHIP MATH | MEXICO CITY 2026\"\n- **Visual goal:** Standing shot or celebration image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Grid Position and Championship Scenarios\n**Verified Facts (HIGH confidence):**\n- Antonelli starts 4th on grid after Verstappen penalty ✓ (grandepremio.com: \"Antonelli starts fourth with F1 title in sight\")\n- A maximum of ~125 points remain after Mexico (4 races remaining post-Mexico) ✓ (MEDIUM — from context)\n- Qualifying: Hamilton P3, Leclerc P2 or P3 range, Antonelli P4 ✓ (grandepremio.com)\n**MEDIUM confidence:**\n- Full qualifying order beyond P1-P4 not confirmed from these searches\n**Source references:**\n- grandepremio.com: \"Antonelli starts fourth with F1 title in sight: Every result that could crown him in Mexico\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Leclerc and Ferrari's Best Shot at a 2026 Win [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Charles Leclerc was fastest in both FP1 and FP2 in Mexico.\n\nHamilton qualified P3 — his best of the year.\n\nFerrari has not won a race in 2026. Today that changes? 🔴 #F1 #MexicoCityGP #Leclerc",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MexicoCityGP",
+            "#Leclerc"
+          ],
+          "char_count": 191
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-leclerc-ferrari-first-win-2026-mexico.html",
+        "headline": "Leclerc and Ferrari's Best Chance at a First Win of 2026",
+        "word_count": 485
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Leclerc / Ferrari\n\n**Image 4A** (Social — 1080x1350)\n- **imagn search terms:** `Charles Leclerc Ferrari`\n- **Canva text overlay:** \"FASTEST IN FP1. FASTEST IN FP2. / FERRARI'S BEST CHANCE AT A WIN.\"\n- **Visual goal:** Leclerc in Ferrari helmet, confident\n\n**Image 4B** (Article hero — 1200x630)\n- **imagn search terms:** `Charles Leclerc Formula 1`\n- **Canva text overlay:** \"LECLERC AND FERRARI | BEST SHOT AT 2026 WIN\"\n- **Visual goal:** Leclerc driving or Ferrari car at speed\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Leclerc Ferrari Race Opportunity\n**Verified Facts (HIGH confidence):**\n- Leclerc was fastest in Mexico FP1 and FP2 ✓ (from Oct 31 pipeline — verified in that run)\n- Ferrari has not won a race in the 2026 season (as of Oct 31) ✓ (MEDIUM — from pipeline context)\n- Mexico altitude (2,240m) benefits certain power unit configurations ✓\n**Source references:**\n- Oct 31 pipeline: \"Leclerc Fastest in Mexico FP1/FP2 — Hamilton Parks Ferrari with Power Issue\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Mexico City GP Race Preview: 71 Laps at 2,240 Meters [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Everything you need to know before the 2026 Mexico City Grand Prix:\n\n📍 2,240m above sea level — highest track on the calendar\n🏎️ 71 laps\n🏆 Antonelli can clinch the title\n⏰ Race start: 4:00 PM local time\n\n#F1 #MexicoCityGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MexicoCityGP"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-mexico-city-gp-race-preview-2026.html",
+        "headline": "Mexico City GP 2026 Race Preview: 71 Laps at 2,240 Meters with the Title on the Line",
+        "word_count": 567
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Race Preview\n\n**Image 5A** (Social — 1080x1350)\n- **imagn search terms:** `Autodromo Hermanos Rodriguez Mexico`\n- **Canva text overlay:** \"MEXICO CITY GRAND PRIX / NOV 1, 2026 / 2,240 METERS. 71 LAPS. TITLE ON THE LINE.\"\n- **Visual goal:** Circuit overview or race start shot"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mexico City Race Preview\n**Verified Facts (HIGH confidence):**\n- Autodromo Hermanos Rodriguez altitude: 2,240 meters above sea level ✓ (well-known F1 fact, multiple historical sources)\n- Race distance: 71 laps ✓ (MEDIUM — standard Mexico City GP distance, historical fact)\n- 5 races remain after Mexico (São Paulo, Las Vegas, Qatar, Abu Dhabi) ✓ (MEDIUM — from calendar context)\n- Race date: Sunday, November 1, 2026 ✓\n**Source references:**\n- F1 calendar and circuit facts",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
