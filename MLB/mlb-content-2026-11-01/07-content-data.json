@@ -1,0 +1,284 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-01",
+  "compiled_at": "2026-11-01T10:26:49.123696+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Teruaki Sato Officially Posted — NPB Triple Crown Winner on the Clock",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Teruaki Sato is officially posted to MLB.\n\n2026 NPB Triple Crown winner. 45-day window to sign.\n\nMets, Yankees, Dodgers, Phillies all interested.\n\nCatch: posting window freezes Dec 1 with the CBA.\n\nSeiya Suzuki situation could repeat.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 234
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Quick breakdown on Teruaki Sato's MLB posting:\n\n— 2026 NPB Triple Crown (Hanshin Tigers)\n— Expected to play 1B in MLB\n— Window closes Dec 1 with the CBA lockout\n— Teams: Mets, Yankees, Dodgers, Phillies\n\nIf no deal by December 1, Sato goes back to Japan for another year.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-teruaki-sato-posted-mlb.html",
+        "headline": "article-01-teruaki-sato-posted-mlb.html",
+        "word_count": 675
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1a",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1b",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Teruaki Sato Posted to MLB\n**Source:** nbcsports.com (posting confirmed); mlbtraderumors.com; cbssports.com; espn.com\n**Confidence:** HIGH for posting confirmation; HIGH for interested teams; MEDIUM for contract projections\n- Teruaki Sato officially posted November 1, 2026 (posting window opens today per Sportico/NBC Sports) [HIGH]\n- 2026 NPB Triple Crown winner with Hanshin Tigers [HIGH — cbssports.com]\n- MLB teams with 45-day window to negotiate [HIGH — standard NPB posting rules]\n- Posting window freezes on December 1 CBA expiration (same rule applied to Seiya Suzuki 2022) [HIGH]\n- Interested teams: Mets, Yankees, Dodgers, Phillies per Jon Heyman/New York Post (August report) [HIGH]\n- Cardinals, Blue Jays also mentioned as potential suitors [MEDIUM — CBS Sports]\n- Expected positional move from 3B/corner OF to 1B in MLB [MEDIUM — analyst consensus, similar to Munetaka Murakami]\n- No posting fee amount confirmed; fee is percentage of deal size [HIGH]\n- Scott Boras is NOT his agent; he is represented by a Japanese agency [MEDIUM]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Skubal Signing Race — Dodgers and Mets Emerge as Frontrunners",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Tarik Skubal's free agency opens tomorrow (Nov. 2, 5 PM ET).\n\nDodgers got a boost. Mets are \"committed.\" Cubs, Phillies, Red Sox lurking.\n\nBack-to-back Cy Young. Projected $350M-$500M.\n\nThis is the biggest pitcher signing in history.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 233
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Skubal stakes if no deal before December 1:\n\n— CBA expires, lockout begins\n— No deals can be made during lockout\n— He waits until a new CBA is signed (99 days in 2022)\n— 2027 Opening Day potentially delayed\n\nEveryone wants this done fast. Skubal most of all.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-skubal-signing-race.html",
+        "headline": "article-02-skubal-signing-race.html",
+        "word_count": 638
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2a",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2b",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tarik Skubal Free Agency\n**Source:** espn.com; si.com; dodgersnation.com; yahoo sports; cbssports.com\n**Confidence:** HIGH for career stats; MEDIUM for contract projections and specific team interest\n- Back-to-back AL Cy Young awards (2025, 2026) [HIGH — verified prior pipeline]\n- 2026 season: 16-5 record, 1.80 ERA, 252 strikeouts [HIGH — verified prior pipeline]\n- Signing window officially opens November 2 at 5 PM ET [HIGH — NBC Sports/Sportico]\n- Projections: Spotrac projects 7yr/$276M (~$39.5M AAV); other projections range $350M-$500M [MEDIUM — varies by source]\n- 27-insider consensus avg: 8yr/$355M (from prior Oct 31 pipeline) [MEDIUM]\n- Dodgers: reported frontrunner per multiple outlets; \"got boost\" per Dodger Nation (Oct 29) [HIGH]\n- Mets: \"committed\" per one insider per collegefootballnetwork.com [MEDIUM — unverified outlet]\n- Other teams: Red Sox, Padres, Phillies, Cubs mentioned [MEDIUM]\n- Elbow surgery 2026 to remove loose bodies (confirmed per si.com/ESPN) [HIGH]\n- CBA deadline Dec 1 creates urgency for pre-lockout signing [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Pete Alonso Free Agency — Where Does the Polar Bear Go?",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Pete Alonso declined his $24M Mets option. Polar Bear is a free agent.\n\n226 HR at 28. Three straight 40+ HR seasons. Scott Boras client.\n\nRed Sox (USA Today): \"perfect fit.\"\nYankees (SI): his \"top destination.\"\nMets: unlikely at full price.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-pete-alonso-free-agency.html",
+        "headline": "article-03-pete-alonso-free-agency.html",
+        "word_count": 624
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3a",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pete Alonso Free Agency\n**Source:** si.com; mlb.com; usa today; espn.com; bleacherreport.com\n**Confidence:** HIGH for opt-out and career stats; MEDIUM for landing spot speculation\n- Pete Alonso opted out of Mets $24M option for 2027 [HIGH — verified prior pipeline: \"Alonso opted out $24M\"]\n- Career: 226 HR through age-28 season [MEDIUM — verify exact number; 3 seasons 40+ HR confirmed HIGH]\n- Age: 28 years old in 2026 [HIGH]\n- Scott Boras client [HIGH]\n- Top landing spots per Nightengale (USA Today): Red Sox as \"perfect fit\" for many GMs [HIGH]\n- SI reports Mets \"let franchise cornerstone walk unless team-friendly deal\" [HIGH]\n- Yankees: reported as Alonso's \"top landing spot\" per SI's Pat Ragazzo [MEDIUM]\n- Cardinals, Diamondbacks, Mariners also linked [MEDIUM]\n- Contract projection: $150M-$200M range, 5-6 years [MEDIUM — based on market comparables]\n- DH flexibility: Boras said Alonso open to DH role [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "CBA Countdown — 30 Days Until Potential Lockout",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "30 days until the MLB CBA expires.\n\nOwners want: $245M salary cap + $171M floor.\nPlayers want: ~$300M luxury tax threshold, no hard cap.\n\nGM meetings: Nov. 10-12.\nCBA expires: Dec. 1.\n\nIf no deal, Skubal, Sato, Alonso, and 155 other free agents could be frozen.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-cba-30-days-lockout.html",
+        "headline": "article-04-cba-30-days-lockout.html",
+        "word_count": 689
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4a",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CBA Countdown — 30 Days\n**Source:** cbssports.com; sportico.com; nbcsports.com; foxnews.com\n**Confidence:** HIGH for CBA timeline and proposals; MEDIUM for odds of deal\n- CBA expires December 1 at 11:59 PM ET [HIGH]\n- 30 days from November 1 to December 1 [HIGH — arithmetic]\n- Owners proposal: $245M luxury tax cap + $171M floor; min salary $780K→$1M [HIGH]\n- Union position: approximately $300M LTT, no hard cap [HIGH]\n- 154-game regular season proposal by owners [HIGH — recent search confirmed]\n- GM meetings November 10-12 [HIGH — Sportico/NBC Sports]\n- QO deadline November 17 [HIGH]\n- Last lockout 2021-22: 99 days, delayed Opening Day [HIGH — Wikipedia]\n- Odds of deal: ~5% per some analysts (Fox News Manfred/union exec discussions ongoing) [MEDIUM]\n- 2027 Spring Training at risk if lockout begins Dec 1 [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Michael King and Freddy Peralta — The Middle Market Starting Pitchers to Know",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Two starters worth watching as free agency opens Nov. 2:\n\nMichael King: 3.21 ERA, 32 starts in 2026. Opted out of $28M Padres option.\n\nFreddy Peralta: Split between Mets (4.99) and Rays (3.25). Projected 5yr/$140M.\n\nNot Skubal — but in a lockout winter, these deals get done fast.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 280
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-king-peralta-middle-market.html",
+        "headline": "article-05-king-peralta-middle-market.html",
+        "word_count": 602
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5a",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Michael King and Freddy Peralta\n**Source:** yahoo sports; tsn.ca; si.com; nbcsports.com\n**Confidence:** HIGH for King opt-out/ERA; HIGH for Peralta split-season stats\n- Michael King: declined $28M Padres option; $5M buyout [HIGH — TSN/Yahoo Sports]\n- King 2026: 32 starts, 12-10, 3.21 ERA [HIGH]\n- King age: 31 [HIGH — prior source]\n- Freddy Peralta: became free agent after 2026 season [HIGH]\n- Peralta 2026: Mets 5-9, 4.99 ERA, 22 starts; traded to Rays mid-season; Rays 3.25 ERA, 10 starts [HIGH — nbcsports.com]\n- Peralta career 3.5 ERA [MEDIUM — approximate]\n- Peralta projection: 5yr/$140M per one outlet [MEDIUM — Padres interest]\n- Both available once signing window opens Nov 2 [HIGH]\n- FA class also includes: Sonny Gray, Kevin Gausman [HIGH — nbcsports.com]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -5,6 +5,50 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## Pipeline Run: 2026-11-01
+
+### STORY 1: Teruaki Sato Officially Posted — NPB Triple Crown Winner on the Clock
+- **Date:** 2026-11-01
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Sato posted to MLB November 1; 45-day signing window opens. 2026 NPB Triple Crown winner (Hanshin Tigers). Mets, Yankees, Dodgers, Phillies interested. Window freezes Dec 1 with CBA expiration — same situation as Seiya Suzuki in 2022. Expected to shift from 3B/corner OF to 1B in MLB.
+- **Content Produced:** Article (article-01, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts (social + article hero)
+- **Follow-Up Opportunities:** Signing team announcement, contract details, Scott Boras vs. Japanese agency dynamics
+
+### STORY 2: Skubal Signing Race — Dodgers and Mets Emerge as Frontrunners
+- **Date:** 2026-11-01
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Signing window opens Nov 2 5PM ET. Dodgers got reported "boost." Mets "committed." Projections $350M-$500M. Elbow surgery (loose bodies removed) adds medical scrutiny. Dec 1 CBA deadline creates urgency. Cubs, Phillies, Red Sox also lurking.
+- **Content Produced:** Article (article-02, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts (social + article hero)
+- **Follow-Up Opportunities:** Formal signing, contract structure breakdown, medical clearance
+
+### STORY 3: Pete Alonso Free Agency — Where Does the Polar Bear Go?
+- **Date:** 2026-11-01
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Alonso declined $24M Mets option; 226 career HR at 28; 3 consecutive 40+ HR seasons; Scott Boras client; Red Sox (Nightengale "perfect fit"), Yankees (Ragazzo "top destination"), Mets return possible; Cardinals/Diamondbacks dark horses; projected $150M-$200M, 5-6 years.
+- **Content Produced:** Article (article-03, Marcus Cole), 1 X post, FB long-form + caption, 1 social image concept
+- **Follow-Up Opportunities:** Signing announcement, Boras negotiation timeline
+
+### STORY 4: CBA Countdown — 30 Days Until Potential Lockout
+- **Date:** 2026-11-01
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** 30 days to Dec 1 expiration. Owners: $245M cap + $171M floor + $780K→$1M min salary + 154-game season. Union: ~$300M LTT, no hard cap. GM meetings Nov 10-12. QO deadline Nov 17. Last lockout 99 days; 2027 season at risk. Odds of deal ~5%.
+- **Content Produced:** Article (article-04, Jake Torres), 1 X post, FB long-form + caption, 1 social image concept
+- **Follow-Up Opportunities:** GM meetings outcome, Nov 17 QO deadline
+
+### STORY 5: Michael King and Freddy Peralta — The Middle Market Starting Pitchers to Know
+- **Date:** 2026-11-01
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** King: 3.21 ERA, 32 starts, declined $28M Padres option ($5M buyout), age 31. Peralta: split Mets (4.99 ERA 22 starts) / Rays (3.25 ERA 10 starts), projected 5yr/$140M. Padres linked for Peralta. Dec 1 lockout creates urgency in second tier.
+- **Content Produced:** Article (article-05, Ryan Calloway), 1 X post, FB long-form + caption, 1 social image concept
+- **Follow-Up Opportunities:** Signing announcements, Padres roster strategy
+
+---
+
 ## Pipeline Run: 2026-10-30
 
 ### STORY 1: Brewers Win 2026 World Series — First Title in 57-Year Franchise History
