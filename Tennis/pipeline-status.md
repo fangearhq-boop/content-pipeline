@@ -1,6 +1,36 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-10-30
+## Current Run: 2026-10-31
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Vienna SFs: Zverev vs de Minaur, Alcaraz vs Medvedev (both Sat Oct 31); Basel SFs: Fritz vs Vacherot, Lehečká vs Struff (Sat Oct 31) — Fils retired R16 vs Vacherot 6-4, 0-1 ret.; Paris Masters draw unveiled Fri Oct 30 at 7PM CET — Zverev No. 1, Alcaraz No. 2, Djokovic No. 10 (plays R1 Mon); Medvedev clinched ATP Finals spot (4th qualifier, d. Mannarino in Vienna QF); WTA Finals 8 days away (Nov 8 Indian Wells, draw ceremony Wed Nov 5) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Oct 30 S4: Vienna QF → SFs today); S2 FOLLOW-UP (Oct 30 S3: Basel chaos/SFs → Fils injury + SF preview); S3 FOLLOW-UP (Oct 30 S5: Paris Masters preview → draw revealed); S4 FOLLOW-UP (Oct 30 S1/S2: Medvedev Race → clinches ATP Finals); S5 FOLLOW-UP (Oct 25 S4 / Oct 30: WTA Finals → 8 days out, draw Wed) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 T1, 2 T2); bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on Fils injury confirmation (single source timeline), ATP Finals exact Race standings |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 8 posts across 5 stories (S1:2, S2:2, S3:2, S4:1, S5:1); all ≤280 chars |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories (5 social 1080x1350 + 5 article hero 1200x630) |
+| Articles (5) | COMPLETE | article-01 Vienna SFs (Marcus Cole T1); article-02 Basel SFs + Fils injury (Ryan Calloway T1); article-03 Paris Masters draw (Elena Voss T1); article-04 Medvedev ATP Finals clinch (Marcus Cole T2); article-05 WTA Finals 8-day preview (Ryan Calloway T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 38 claims auto-extracted; all stories present in all content files; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 articles; posting window warnings (cosmetic) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 23 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-10-31.xlsx + tfr-postplanner-tobi-2026-10-31.xlsx — 8 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Oct 31 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Elena Voss [S3], Ryan Calloway [S2, S5])
+- **Key stories:** Vienna SFs today (Zverev vs de Minaur, Alcaraz vs Medvedev); Basel SFs today (Fritz/Vacherot, Lehečká/Struff) — Fils retired vs Vacherot with abdomen injury; Paris Masters draw revealed (Zverev No. 1 seed, Djokovic No. 10 needs deep run); Medvedev 4th ATP Finals qualifier; WTA Finals 8 days out (draw Wed Nov 5, Indian Wells Nov 8)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known)
+
+---
+
+## Previous Run: 2026-10-30
 
 | Step | Status | Notes |
 |------|--------|-------|

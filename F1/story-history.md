@@ -2,6 +2,45 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-31
+
+### STORY 1: Leclerc Fastest in Mexico FP1 and FP2 — Hamilton Parks Ferrari With Power Issue
+- **Tier:** 1
+- **Category:** Mexico City GP / Charles Leclerc / Ferrari / Lewis Hamilton / FP1 / FP2
+- **Key facts:** Leclerc P1 in FP1 and FP2; FP2 Leclerc 1:17.827, Norris +0.103, Russell 3rd, Antonelli 4th; Hamilton parked Ferrari in FP2 with power issue; Verstappen-Hadjar contact FP2; qualifying Sat 5 PM ET
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: Colton Herta Super License Dispute — FIA Says Still 39/40 Points
+- **Tier:** 1
+- **Category:** Colton Herta / Cadillac / FIA Super License / Mexico City FP1
+- **Key facts:** Herta completed 24 laps (100km) in Bottas's Cadillac FP1; Cadillac/PlanetF1 initially said he earned license; FIA confirmed still at 39/40; confusion over calculation; no more 2026 FP1 runs scheduled
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: Antonelli Needs P9 in Mexico to Clinch Youngest F1 Championship in History
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / 2026 F1 Drivers' Championship / Mexico City GP
+- **Key facts:** Antonelli 365 pts (Russell 242, Hamilton 241); 123-point lead; P9 or better Sunday = title; 9 wins, 7 poles in debut; would be youngest champion in F1 history; 4th in FP2
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
+### STORY 4: Russell 242, Hamilton 241 — 1-Point P2 Battle; Hamilton FP2 Power Issue
+- **Tier:** 2
+- **Category:** George Russell / Lewis Hamilton / Mercedes / Ferrari / 2026 Championship P2
+- **Key facts:** Russell 242, Hamilton 241 — 1 point gap; Hamilton's Ferrari lost power in FP2; 3 races left; all key to P2 finish
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: Mexico City GP Qualifying Preview — Leclerc vs Verstappen vs Antonelli for Pole
+- **Tier:** 2
+- **Category:** Mexico City GP / Qualifying / Charles Leclerc / Max Verstappen / Kimi Antonelli
+- **Key facts:** Qualifying Sat Oct 31 5 PM ET; Leclerc FP2 pace leader; Verstappen 5 Mexico wins; Antonelli needs clean weekend; Verstappen betting favorite; altitude 2,240m
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+---
+
 ## 2026-10-27
 
 ### STORY 1: Verstappen Mathematically Eliminated — Red Bull Constructors Battle

@@ -2,6 +2,18 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-10-31
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-10-31 | T1 | Andrew Novak Leads Mexico Open at -14 After Course-Record-Tying 61 | X(2), FB, Article | NEW |
+| 2026-10-31 | T1 | Yamashita Leads Maybank Championship at -13, Defending Champion on Track | X(2), FB, Article | NEW |
+| 2026-10-31 | T2 | Smotherman's Three-Win Chase: Back-to-Back PGA Tour Champion Arrives at Mexico Open | X(1), FB, Article | FOLLOW UP |
+| 2026-10-31 | T2 | Roussin-Bouchard Bogey-Free Through 36 Holes at Maybank Championship | X(1), FB, Article | FOLLOW UP |
+| 2026-10-31 | T2 | Golf Saturday Preview: R3 in Mexico and Kuala Lumpur — Novak Leads PGA, Yamashita LPGA | X(1), FB, Article | NEW |
+
+---
+
 ## 2026-10-29
 
 | Date | Tier | Title | Platforms | Status |

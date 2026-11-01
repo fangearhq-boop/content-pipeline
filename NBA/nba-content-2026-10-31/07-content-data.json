@@ -1,0 +1,326 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-31",
+  "compiled_at": "2026-10-31T11:19:47.010349+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "76ers 98, Knicks 93 (NBA Cup) — LeBron + Maxey Stun Defending Cup Champions [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "LeBron James: 20 PTS, 9 REB, 8 AST.\nTyrese Maxey: 27 PTS.\n\nSixers 98, Knicks 93.\n\nThe defending NBA Cup champions just lost their opener. 👀 #NBATwitter",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBATwitter"
+          ],
+          "char_count": 151
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Brunson's step-back three put the Knicks up 90-89 with 1:32 left.\n\nThen Philly scored the next 9.\n\nLeBron + Maxey sealed it. Defending Cup champs fall. #KnicksTape #NBATwitter",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#KnicksTape",
+            "#NBATwitter"
+          ],
+          "char_count": 175
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-lebron-maxey-sixers-beat-knicks-nba-cup.html",
+        "headline": "LeBron and Maxey Lead 76ers Past Defending Cup Champs Knicks 98-93",
+        "word_count": 629
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "76ers 98, Knicks 93 (NBA Cup)\n**Verified Facts (HIGH confidence):**\n- Final score: 76ers 98, Knicks 93 ✓ (multiple sources: Yahoo Sports, Al Jazeera, Bleacher Report)\n- Tyrese Maxey: 27 points, 10-of-19 shooting ✓ (Clutchpoints, Yahoo Sports)\n- LeBron James: 20 points, 9 rebounds, 8 assists ✓ (Yahoo Sports, Bleacher Report)\n- Maxey + LeBron combined for 47 points ✓ (Bleacher Report)\n- Jalen Brunson step-back three put NY up 90-89 with 1:32 left ✓ (AFP via Yahoo Sports)\n- V.J. Edgecombe hit insurance three ✓ (AP via Yahoo Sports)\n- Sixers record: 5-1 overall, 1-0 Cup ✓ (Bleacher Report)\n- Knicks record: 2-4 overall, 0-1 Cup ✓ (Bleacher Report)\n- Venue: Xfinity Mobile Arena ✓ (Al Jazeera)\n- This was Sixers' second win over Knicks this season ✓ (Al Jazeera)\n- LeBron quote: wants to help Maxey become \"legendary\" ✓ (Clutchpoints)\n- Cup quarterfinals: Dec 4-5; semifinals Dec 8-9; final Dec 11 in Indianapolis ✓ (AFP via Yahoo Sports)\n**Source URLs:**\n- https://sports.yahoo.com/articles/james-maxey-lead-76ers-past-032636160.html\n- https://www.aljazeera.com/sports/2026/10/31/lebron-james-tyrese-maxey-philadelphia-76ers-win-new-york-knicks-nba-cup\n- https://bleacherreport.com/articles/25527502-lebron-has-best-game-76ers-vs-knicks-box-score-stats-highlights-brunson-top-players\n- https://clutchpoints.com/nba/philadelphia-76ers/76ers-news-lebron-james-vows-help-tyrese-maxey-legendary-nba-cup-win-knicks\n- https://allphly.com/76ers/sixers-knicks-nba-cup-recap-lebron-james-tyrese-maxey-vj-edgecombe/",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Warriors 112, Lakers 95 (NBA Cup) — Lakers Blow 25-Point Lead; Curry Scores 31 [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Lakers led by 25.\n\nThey lost by 17.\n\nWarriors 112, Lakers 95.\n\nDončić had 37 — wasn't enough. Curry had 31 and saved Golden State's Cup opener. 😬 #LakeShow",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LakeShow"
+          ],
+          "char_count": 159
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Stephen Curry passed Dominique Wilkins last night to move into 18th place on the NBA's all-time scoring list.\n\n31 points. A comeback from 25 down.\n\nThe man doesn't stop. #DubNation",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DubNation"
+          ],
+          "char_count": 180
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-warriors-lakers-curry-comeback-25-point-lead.html",
+        "headline": "Warriors Erase 25-Point Lakers Deficit; Curry Scores 31 in 112-95 NBA Cup Win",
+        "word_count": 629
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Warriors 112, Lakers 95 (NBA Cup)\n**Verified Facts (HIGH confidence):**\n- Final score: Warriors 112, Lakers 95 ✓ (ESPN final score page, Fox Sports)\n- Stephen Curry: 31 points ✓ (ESPN recap, Fox Sports)\n- Luka Dončić: 37 points for Lakers ✓ (ESPN box score)\n- Brandin Podziemski: 21 points for Warriors ✓ (ESPN recap)\n- Walker Kessler: 13 rebounds for Lakers ✓ (ESPN recap)\n- Lakers had 25-point lead ✓ (ESPN recap, ESPN final score)\n- Curry passed Dominique Wilkins for 18th on NBA all-time scoring list ✓ (MEDIUM — single source from first search compilation; plausible given Curry was 19th as of Jan 2026 at 26,398 pts)\n- Warriors win NBA Cup opener ✓\n- Game at Chase Center ✓\n**Source URLs:**\n- https://www.espn.com/nba/recap?gameId=401909285\n- https://www.espn.com/nba/game/_/gameId/401909285/lakers-warriors\n- https://www.foxsports.com/nba/in-season-tournament-western-conference-group-play-los-angeles-lakers-vs-golden-state-warriors-oct-30-2026-game-boxscore-106612",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Mavericks 116, Rockets 111 (NBA Cup) — Kyrie 35 + Flagg 33 End Rockets' Unbeaten Run [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Kyrie Irving: 35 PTS, 9 AST.\nCooper Flagg: 33 PTS.\n\nDallas outscored Houston 40-27 in the 4th quarter.\n\nRockets' first loss. Mavericks win the Cup opener. 🔥 #MFFL",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MFFL"
+          ],
+          "char_count": 162
+        },
+        {
+          "label": "Post 3-2",
+          "text": "The Rockets were the last unbeaten team.\n\nThen Kyrie and Cooper Flagg happened.\n\n116-111. Dallas wins. Houston's perfect start is over. #Rockets #NBATwitter",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rockets",
+            "#NBATwitter"
+          ],
+          "char_count": 156
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-kyrie-flagg-mavericks-end-rockets-unbeaten-run.html",
+        "headline": "Kyrie 35, Flagg 33: Mavericks Hand Rockets Their First Loss of the Season",
+        "word_count": 675
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mavericks 116, Rockets 111 (NBA Cup)\n**Verified Facts (HIGH confidence):**\n- Final score: Mavericks 116, Rockets 111 ✓ (ESPN, CBS Sports, Dallas Sports Journal)\n- Kyrie Irving: 35 points, 9 assists ✓ (NBC Sports, YouTube highlight, Dallas Sports Journal)\n- Cooper Flagg: 33 points ✓ (Dallas Sports Journal)\n- Daniel Gafford: 18 points ✓ (Dallas Sports Journal)\n- Kevin Durant: 28 points for Houston ✓ (Dallas Sports Journal)\n- Dallas outscored Houston 40-27 in Q4 ✓ (Dallas Sports Journal)\n- Rockets first loss of season ✓ (multiple sources)\n- Game at American Airlines Center ✓ (ESPN recap)\n**Source URLs:**\n- https://www.espn.com/nba/recap?gameId=401909283\n- https://dallassportsjournal.com/mavericks-beat-rockets-kyrie-irving-35-cooper-flagg-33/\n- https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-30/kyrie-with-35-and-9-assists-over-the-rockets",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Giannis 31/18/10 Triple-Double — Heat 145, Pacers 125 (NBA Cup Debut) [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Giannis Antetokounmpo in his Heat debut at the NBA Cup:\n\n31 PTS. 18 REB. 10 AST.\n\nMiami wins 145-125.\n\nThe new Heat era has officially arrived. #HeatCulture",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HeatCulture"
+          ],
+          "char_count": 156
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-giannis-heat-triple-double-cup-debut.html",
+        "headline": "Giannis Posts 31/18/10 Triple-Double in Heat's 145-125 NBA Cup Debut",
+        "word_count": 457
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Giannis 31/18/10, Heat 145, Pacers 125 (NBA Cup)\n**Verified Facts (HIGH confidence):**\n- Giannis Antetokounmpo traded to Miami Heat in blockbuster deal ✓ (WTOP, CBS News Miami, AP, multiple sources — June 2026)\n- Trade terms: Giannis + Bobby Portis to Heat for Tyler Herro, Kel'el Ware, Jaime Jaquez Jr., Kasparas Jakucionis, 3 first-round picks, 1 swap, 1 second ✓\n- Final score: Heat 145, Pacers 125 ✓ (multiple scoreboard sources)\n- Giannis: 31 points, 18 rebounds, 10 assists (triple-double) ✓ (multiple scoreboard sources)\n**Source URLs:**\n- https://wtop.com/nba/2026/06/giannis-antetokounmpo-getting-traded-to-heat-in-blockbuster-deal-ap-source-says/\n- https://www.cbsnews.com/miami/news/giannis-antetokounmpo-traded-miami-heat/",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "NBA Cup Night 1 Full Recap + Saturday Preview [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "NBA Cup Night 1 recap:\n\n- Knicks lost (defending Cup champs)\n- Lakers blew a 25-point lead\n- Rockets lost for the first time\n\nHalloween delivered. 🎃 #NBATwitter",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBATwitter"
+          ],
+          "char_count": 160
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nba-cup-night-1-recap-saturday-preview.html",
+        "headline": "NBA Cup Night 1 Recap: Knicks, Lakers and Rockets All Lose; Saturday Preview",
+        "word_count": 552
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NBA Cup Night 1 Recap + Saturday Preview\n**Verified Facts (HIGH confidence):**\n- Pistons 110, Nets 94 ✓ (first search compilation)\n- Magic 121, Raptors 114 ✓ (multiple sources)\n- Wizards 95, Hornets 79 ✓ (multiple sources)\n- Celtics 125, Bulls 111 ✓ (multiple sources)\n- Timberwolves 127, Clippers 101 ✓ (multiple sources)\n- Nuggets 127, Suns 120 ✓ (multiple sources)\n- Saturday Oct 31 games: Blazers at Jazz 3 PM ET; Sixers at Hornets 6 PM ET; Hawks at Pelicans 7 PM ET; Kings at Grizzlies 8 PM ET ✓ (basketball-reference, land of basketball)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

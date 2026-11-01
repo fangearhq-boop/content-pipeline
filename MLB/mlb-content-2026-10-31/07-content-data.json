@@ -1,0 +1,291 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-31",
+  "compiled_at": "2026-10-31T10:21:22.487031+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Brewers Championship Parade Draws 750,000+ to Milwaukee Streets",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "750,000+ people packed Milwaukee streets for the Brewers World Series parade yesterday.\n\nNearly double the 400K originally expected.\n\nThe city waited 57 years for this. Worth every second. #Brewers #WorldSeries",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#WorldSeries"
+          ],
+          "char_count": 210
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Milwaukee held a sold-out rally at American Family Insurance Amphitheater after the parade.\n\nSchools closed. Streets packed. A city that's never had this before finally got it.\n\nWhat a moment for Wisconsin. #Brewers #WorldSeries",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#WorldSeries"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-brewers-parade-750000.html",
+        "headline": "750,000 Fill Milwaukee Streets for Brewers World Series Championship Parade",
+        "word_count": 452
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1a",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1b",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Brewers Championship Parade\n**Source:** ESPN; WISN; MLB.com; Yahoo Sports\n**Confidence:** HIGH\n- Parade held Friday, October 30, 2026 [HIGH]\n- Route: downtown Milwaukee → Henry Maier Festival Park (Summerfest grounds) [HIGH]\n- Rally at American Family Insurance Amphitheater — sold out [HIGH]\n- Attendance: Milwaukee police estimated 750,000+ (nearly double 400K expected) [HIGH]\n- Milwaukee Public Schools closed for the day [HIGH]\n- Broadcast on MLB Network and Brewers.com [HIGH]\n- Milwaukee's first sports championship parade since 2021 [HIGH]\n- Brewers beat Rays 4-1 G5 for first franchise title in 57 years [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "William Contreras — First Brewer to Win World Series MVP, Now a Potential Free Agent",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "William Contreras: .381 BA, 4 RBI, threw out 4 base stealers in the World Series.\n\nFirst Brewer ever to win WS MVP. First catcher since Salvador Perez in 2015.\n\nAnd now? He could be a free agent this winter. #Brewers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-contreras-mvp-free-agent.html",
+        "headline": "William Contreras Made History as the First Brewers World Series MVP. Now He Might Leave.",
+        "word_count": 610
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2a",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2b",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "William Contreras WS MVP / FA Status\n**Source:** ESPN; CBS Sports; MLB.com; Yahoo Sports\n**Confidence:** HIGH\n- Series stats: .381 BA (8-for-21), 4 RBI, 2 R, 1 SB [HIGH — cross-confirmed MLB.com+ESPN+CBS]\n- Note: majority sources confirm 8-for-21; some sources say .381/.435/.429 slash\n- Threw out 4 base stealers [HIGH]\n- ABS challenges: 10-for-13 [HIGH — majority of sources; CBS says 10-for-14, use 10-for-13]\n- First Brewers player ever to win WS MVP [HIGH — ESPN]\n- Eighth catcher to win WS MVP award [HIGH — ESPN]\n- First catcher since Salvador Perez in 2015 [HIGH — CBS Sports]\n- 2026 regular season: .270 BA, 18 HR, career-best 94 RBI [HIGH]\n- Postseason: .444 NLDS (Padres), .357 NLCS (Dodgers), .381 WS [HIGH — Yahoo]\n- 2026 salary: $9.5M; \"expected to leave\" Brewers [HIGH — Yahoo Sports]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Tarik Skubal Free Agency — Cubs and Dodgers Lead Chase for Two-Time Cy Young",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "27 MLB insiders project Tarik Skubal's contract at 8 years, $355M on average.\n\nCubs, Dodgers, Mets, Blue Jays all in on the No. 1 free agent.\n\nClock is ticking before the Dec. 1 CBA deadline freezes everything. #Cubs #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-skubal-cubs-dodgers-sweepstakes.html",
+        "headline": "Tarik Skubal Free Agency: Cubs and Dodgers Lead a $355 Million Sweepstakes",
+        "word_count": 616
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3a",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tarik Skubal Free Agency\n**Source:** ESPN; NBC Sports; Yahoo Sports; Yardbarker; Dodgers Nation\n**Confidence:** HIGH for market profile; HIGH for suitors\n- Skubal: No. 1 free agent this offseason [HIGH — multiple sources]\n- Was traded from Detroit to Dodgers before 2026 trade deadline [HIGH]\n- Contract projections (27 insiders): avg 8 years, $355M; range up to $500M; NBC Sports: 7 years, $400M [HIGH]\n- Cubs confirmed as suitors; ESPN calls them \"perfect fit\" (rotation 18th ERA, 21st K rate) [HIGH]\n- Other suitors: Dodgers, Mets, Blue Jays, Phillies, Tigers [HIGH]\n- Skubal said he \"would love to return\" to Detroit [HIGH]\n- CBA expiration Dec 1 could freeze all transactions [HIGH]\n- No deal confirmed as of Oct 31 [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Free Agency Day 2 — 155 Players on Market, Options Exercised, New Names Enter",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "MLB free agency Day 2 update:\n\n- 155 players now on market\n- Bichette stays Mets ($42M option)\n- Acuña and Albies stay Braves\n- King and Gray new free agents\n- Peralta: No. 2 overall free agent per NBC Sports\n\nThe offseason is moving fast. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-free-agency-day-2.html",
+        "headline": "MLB Free Agency Day 2: 155 Players on Market, Options Exercised, Freddy Peralta Among the Stars",
+        "word_count": 565
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4a",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Free Agency Day 2\n**Source:** ESPN transactions; MLB.com tracker\n**Confidence:** HIGH\n- Total FAs: 155 players after Day 2 [HIGH]\n- Michael King: new FA after option declined [HIGH]\n- Sonny Gray: new FA after option declined [HIGH]\n- 14 total new FAs declared Friday (Oct 30) [HIGH]\n- Bo Bichette: exercised $42M player option, stays with Mets for 2027 [HIGH]\n- Ronald Acuña Jr.: Braves exercised $17M option [HIGH]\n- Ozzie Albies: Braves exercised $7M option [HIGH]\n- Freddy Peralta (Brewers): No. 2 overall FA per NBC Sports rankings [HIGH]\n- 5-day exclusive window: teams can only negotiate with own FAs through ~Nov 4 [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "CBA Countdown — 31 Days Until Baseball's Dec. 1 Deadline",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "31 days until the MLB CBA expires on December 1.\n\nOwners want a $245M salary cap. Players want no cap at all.\n\nIf there's no deal, a lockout freezes all transactions and threatens Spring Training. This one matters. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-cba-countdown-31-days.html",
+        "headline": "CBA Countdown: 31 Days Until Baseball's Dec. 1 Deadline and a Likely Lockout",
+        "word_count": 707
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5a",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CBA Countdown\n**Source:** Yahoo Sports (calendar); Fox News; Sportico\n**Confidence:** HIGH\n- CBA expires 11:59 PM ET, December 1, 2026 [HIGH]\n- Lockout expected December 2 [HIGH]\n- Owners: $245M hard cap / $171M floor — first salary cap proposal since 1994 [HIGH]\n- MLBPA: opposes any cap; wants ~$300M luxury-tax threshold [HIGH]\n- Owners also proposed raising minimum salary from $780K to $1M [HIGH]\n- Spring Training currently set for Feb. 19, 2027 — could be cancelled [HIGH]\n- 2021-22 lockout lasted Dec. 2-March 10, cost Spring Training games [HIGH]\n- Transactions freeze once CBA expires [HIGH]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

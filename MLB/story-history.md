@@ -9293,6 +9293,63 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## October 31, 2026
+
+### Story 1: Brewers World Series Parade — 750,000+ in Milwaukee Streets
+- **Date:** 2026-10-31
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Brewers WS covered throughout October)
+- **Angle:** Championship parade Oct 30 through downtown Milwaukee drew 750,000+. Rally at sold-out American Family Insurance Amphitheater. Broadcast on MLB Network. Milwaukee's first sports championship parade since 2021.
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Misiorowski calf recovery timeline
+  - Brewers 2027 roster construction
+  - Contreras FA decision
+
+### Story 2: William Contreras — First Brewer WS MVP, Now a Potential Free Agent
+- **Date:** 2026-10-31
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Contreras WS performance covered Oct 29-30)
+- **Angle:** Contreras .381/.435/.429 slash, 4 RBI, threw out 4 runners. First Brewer ever to win WS MVP. First catcher since Perez 2015. Earned $9.5M in 2026; expected to leave in FA.
+- **Content Produced:** Article (article-02, Marcus Cole), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Contreras FA signing
+  - Catcher market impact
+
+### Story 3: Tarik Skubal — Cubs, Dodgers Lead $355M+ Sweepstakes
+- **Date:** 2026-10-31
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Skubal FA opened Oct 30)
+- **Angle:** No. 1 FA. 27-insider avg: 8yr/$355M. NBC Sports: 7yr/$400M. Cubs rotation 18th ERA — perfect fit per ESPN. Dodgers, Mets, Blue Jays, Phillies, Tigers also in mix. CBA Dec 1 adds urgency.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Skubal signing announcement
+  - Record pitcher contract details
+
+### Story 4: Free Agency Day 2 — 155 Players on Market, Options Exercised
+- **Date:** 2026-10-31
+- **Tier:** 2
+- **Classification:** FOLLOW UP (FA market covered Oct 30)
+- **Angle:** 155 FAs total. Bichette exercises $42M option (Mets). Acuña $17M + Albies $7M (Braves). King + Gray new FAs. Peralta (Brewers) ranked No. 2 overall FA per NBC Sports.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Peralta FA signing
+  - Gray/King landing spots
+  - Nov 4 exclusive window close
+
+### Story 5: CBA Countdown — 31 Days to Dec. 1 Deadline
+- **Date:** 2026-10-31
+- **Tier:** 3
+- **Classification:** FOLLOW UP (CBA covered Oct 30)
+- **Angle:** 31 days until expiration. Owners: $245M cap/$171M floor. Union: no cap, ~$300M luxury tax. Min salary raise $780K→$1M. ~5% deal odds. Spring Training starts Feb 19 — at risk.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - CBA negotiations updates
+  - Dec 1 deadline
+  - Lockout impact on offseason calendar
+
+---
+
 ## October 30, 2026
 
 ### Story 1: Brewers World Series Champions — Milwaukee's First Title

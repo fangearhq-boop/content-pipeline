@@ -2,6 +2,45 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-10-31
+
+### STORY 1: 76ers 98, Knicks 93 (NBA Cup) — LeBron + Maxey Stun Defending Cup Champions
+- **Tier:** 1
+- **Category:** Philadelphia 76ers / New York Knicks / LeBron James / Tyrese Maxey / NBA Cup
+- **Key facts:** Final score 98-93; Maxey 27 pts (10-of-19); LeBron 20/9/8; Edgecombe insurance 3; Brunson step-back three put NY up 90-89 w/ 1:32 left; Sixers 5-1 overall/1-0 Cup; Knicks 2-4/0-1 Cup; Oct 30 game
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Warriors 112, Lakers 95 (NBA Cup) — Lakers Blow 25-Point Lead; Curry Scores 31
+- **Tier:** 1
+- **Category:** Golden State Warriors / Los Angeles Lakers / Stephen Curry / Luka Dončić / NBA Cup
+- **Key facts:** Final score 112-95; Curry 31 pts + passed Wilkins for 18th all-time; Dončić 37 for Lakers; Podziemski 21; Kessler 13 reb; Lakers led by 25; Oct 30 game
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Mavericks 116, Rockets 111 (NBA Cup) — Kyrie 35 + Flagg 33 End Rockets' Unbeaten Run
+- **Tier:** 1
+- **Category:** Dallas Mavericks / Houston Rockets / Kyrie Irving / Cooper Flagg / NBA Cup
+- **Key facts:** Final score 116-111; Kyrie 35/9 ast; Flagg 33; Gafford 18; KD 28 for HOU; Dallas Q4 40-27; Rockets first loss; Oct 30 game
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: Giannis 31/18/10 Triple-Double — Heat 145, Pacers 125 (NBA Cup Debut)
+- **Tier:** 2
+- **Category:** Miami Heat / Indiana Pacers / Giannis Antetokounmpo / NBA Cup
+- **Key facts:** Final score 145-125; Giannis 31/18/10 triple-double; Heat Cup debut; Giannis traded to Heat June 2026; Oct 30 game
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: NBA Cup Night 1 Full Recap + Saturday Preview
+- **Tier:** 2
+- **Category:** NBA Cup / Recap / Preview
+- **Key facts:** 10 Cup games Oct 30; Knicks/Lakers/Rockets all lost; Pistons 110 Nets 94; Magic 121 Raptors 114; Wizards 95 Hornets 79; Celtics 125 Bulls 111; Wolves 127 Clippers 101; Nuggets 127 Suns 120; Saturday Oct 31: Blazers-Jazz 3 ET, Sixers-Hornets 6 ET, Hawks-Pelicans 7 ET, Kings-Grizzlies 8 ET
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+---
+
 ## 2026-10-27
 
 ### STORY 1: Cooper Flagg Career-High 29 Pts, 11 Ast — Mavericks 113, Heat 109

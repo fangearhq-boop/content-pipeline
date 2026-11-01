@@ -5,6 +5,64 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-10-31 (OFF DAY — Early offseason. Brewers WS Champs. King free agent, Padres exclusive window closes MONDAY Nov 2. Gold Gloves TOMORROW (Nov 1 ESPN 7:30 PM CT). Happ QO deadline Monday. Free agency opens Monday Nov 2. Kanzler/Mariners still no hire. AFL: Reid leads AFL with 14 Ks. Insights: allcaps_lead WINNER (small, delta=0.265) + not_statement LOSER (small, delta=0.259).)
+
+### STORY 1: Gold Gloves Tomorrow — PCA Back-to-Back + Historic Outfield Sweep
+- **Angle:** FOLLOW UP (finalists Oct 14; countdown Oct 22–30). Fresh angle: PCA back-to-back case (26 FRV, tops in baseball) + historic outfield sweep stakes. Distinct from Oct 30's "TOMORROW" announcement hook. Ceremony: Sunday Nov 1, ESPN, 7:30 PM CT.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, feature / award preview)
+- **Follow-Up Opportunities:**
+  - Gold Gloves winners announced Sunday Nov 1 → Tier 1 if Cubs sweep outfield, Tier 2 per winner
+  - PCA second consecutive GG → celebration tweet
+  - Happ loses to Chourio → note (4-time winner streak ends)
+
+### STORY 2: Cubs' Rotation Crisis — 5 SP in FA, Horton Out Until July 2027
+- **Angle:** FOLLOW UP (Holmes+Boyd options Oct 30; Imanaga Oct 29; Horton injury prior). Today = full scope framing: five names simultaneously + Horton absence = blank-slate rotation going into Monday's market open.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take / urgency)
+- **Follow-Up Opportunities:**
+  - Cubs sign first SP of offseason → Tier 1 breaking
+  - King signs → Tier 1 celebration
+  - Multiple signings → weekly rotation preview tweets
+
+### STORY 3: Ian Happ QO Deadline Monday
+- **Angle:** FOLLOW UP (covered Oct 20, 26, 27, 29, 30). Today = 48-hour urgency. His down 2026 (.218/.326/.412, 2.6 WAR), QO = $23.15M. Cubs decision unclear. Gold Glove finalist adds complication.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown / analysis)
+- **Follow-Up Opportunities:**
+  - Cubs extend QO → Tier 2 confirmation
+  - Happ declines QO → Tier 1 breaking (open market)
+  - Happ accepts QO → Tier 1 breaking (retained)
+
+### STORY 4: Michael King / Free Agency Opens Monday
+- **Angle:** FOLLOW UP (King opt-out Oct 29; covered daily since). Today = Padres exclusive window CLOSES Monday Nov 2 — Cubs can bid when FA opens. King viewed as No. 2 FA starter behind Skubal.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, bold take / offseason urgency)
+- **Follow-Up Opportunities:**
+  - Padres exclusive window closes Nov 2 → open market begins
+  - Cubs sign King → Tier 1 breaking (major offseason move)
+  - King signs elsewhere → Tier 1 reaction (Cubs pivot to next target)
+
+### STORY 5: Jason Kanzler / Mariners — Still No Decision
+- **Angle:** FOLLOW UP (first Oct 25; finalists Oct 27; end-of-week deadline Oct 30 passed without hire). Today = deadline came and went, still waiting. Finalists: Kanzler, Espada, Baldelli.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, analysis / org news)
+- **Follow-Up Opportunities:**
+  - Kanzler hired by Mariners → Tier 1 org news (Cubs lose farm director)
+  - Espada or Baldelli hired → Tier 3 note (Cubs keep Kanzler)
+  - Cubs begin search for new player development director → Tier 2
+
+### STORY 6: AFL Week 6 — Dominick Reid Leads AFL in Strikeouts
+- **Angle:** FOLLOW UP (AFL covered Oct 22–30; Reid debut Oct 29/30). Today = fresh MLB.com data: Reid leads AFL with 14 Ks in 12 IP, just 2 ER (~1.50 ERA). 46% whiff rate. Coming back from mid-2026 impingement.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, prospect feature)
+- **Follow-Up Opportunities:**
+  - AFL Week 7 update → Reid second-start line, Snell stats, Cabral velocity
+  - AFL MVP award Nov 14 → if Reid nominated
+  - Reid 2027 spring training timeline → follow as prospect develops
+
+---
+
 ## 2026-10-30 (OFF DAY — Early offseason. BREAKING: King opts out Oct 29 → free agent, Padres exclusive window through Nov 2. Holmes + Boyd decline options Oct 29 → 5 starters in FA total. Gold Gloves TOMORROW (Sunday Nov 1, ESPN). Happ QO due by Nov 2. Kanzler/Mariners decision end of week. AFL Week 5: Reid breakout. Insights: allcaps_lead WINNER (small, delta=0.245, p=0.05).)
 
 ### STORY 1: Michael King Opts Out — Free Agent, Cubs in Mix
@@ -9260,3 +9318,49 @@ Each day's stories are appended at the top (newest first).
   - Cubs formally submit Sato bid → Tier 1
   - Sato signs with large-market club → Cubs miss out, pivot angle
   - Sato 45-day window closing → update if no news
+
+## 2026-11-01
+
+### STORY 1: Brewers Are World Series Champions — Cubs' Rival Won It All
+- **Angle:** FOLLOW UP (WS Game 5 Oct 28 covered on 10/28; today = first post-WS recap; Brewers beat Rays 4-1, franchise's first title in 57 years; William Contreras WS MVP; Cubs-fan motivation frame: rival who knocked Cubs out in NLDS just won it all; per allcaps_lead WINNER + not_statement WINNER, opened "WORLD SERIES CHAMPIONS. Milwaukee.")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, bold take/rival watch)
+- **Follow-Up Opportunities:**
+  - Contreras WS MVP celebration tweet (done — he's still with Brewers)
+  - Brewers WS win as frame for Cubs offseason urgency (use going forward)
+  - Brewers potentially losing Contreras/Peralta in offseason → division shift
+
+### STORY 2: Michael King — Free Agency Opens Tomorrow, Cubs Must Pounce
+- **Angle:** FOLLOW UP (King opt-out confirmed Oct 29; FA opens Nov 2; today = last day before open market; 3.21 ERA/185 IP/32 starts/12-10 in 2026; projected 4yr/$118M; Cubs primary suitors alongside Mets/Yankees; per allcaps_lead WINNER + not_statement WINNER, opened "MICHAEL KING. Free agent. Starting tomorrow.")
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, informative/stat breakdown)
+- **Follow-Up Opportunities:**
+  - King signs with Cubs → Tier 1 celebration
+  - King signs elsewhere → reaction/pivot angle
+  - Cubs miss King, pivot to other starters → follow-up plan
+
+### STORY 3: PCA BBWAA — NL MVP Finalists Announced Monday
+- **Angle:** FOLLOW UP (PCA MLBPA Player of the Year confirmed Oct 29; BBWAA finalists Nov 2; today = build-up to coronation; 45 HR/41 SB/.280/.372/.570/MLB-best WAR; per allcaps_lead WINNER + not_statement WINNER, opened "MONDAY.")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, bold take/milestone)
+- **Follow-Up Opportunities:**
+  - BBWAA NL MVP officially announced (mid-November) → Tier 1 celebration post
+  - BBWAA finalists confirmed Monday → quick reaction if Ohtani is closer than expected
+
+### STORY 4: Cubs Rotation Empty — Five Arms Gone
+- **Angle:** FOLLOW UP (Holmes+Boyd options covered Oct 30; today = full 5-arm scope; Imanaga/Gausman/Peterson/Boyd/Holmes all free agents; Horton out until mid-2027; Hoyer: "pitching side, predominantly"; per allcaps_lead WINNER + not_statement WINNER, opened "FIVE ARMS. All gone.")
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, bold take/urgency)
+- **Follow-Up Opportunities:**
+  - King signs with Cubs → resolves top rotation slot
+  - Imanaga re-signs → rotation anchor storyline
+  - Cubs sign/trade for another starter → follow-up
+
+### STORY 5: Seiya Suzuki Expected to Decline QO — Five-Year Run Ending
+- **Angle:** FOLLOW UP (QO covered Oct 20, 26-30; today = QO expected this week, Suzuki projects to decline, $90M/4yr projected, Blue Jays leading pursuit, Cubs get comp pick; per allcaps_lead WINNER + not_statement WINNER, opened "SEIYA SUZUKI.")
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, informative/roster news)
+- **Follow-Up Opportunities:**
+  - Suzuki officially declines QO → Tier 1 reaction/farewell angle
+  - Suzuki signs with Blue Jays → farewell/gratitude post
+  - Cubs extend QO officially → news confirmation post

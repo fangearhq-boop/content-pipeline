@@ -2,6 +2,50 @@
 
 ---
 
+## October 31, 2026
+
+### Story 1: Halloween Night Safety Guide for COS Families
+- **Date:** 2026-10-31
+- **Tier:** T1
+- **Pillar:** National Parenting / Local Events
+- **Key Facts:** Real-time Halloween safety guide for COS families on the night of Oct 31. Key tips: add reflective tape or glow sticks to costumes, COS sunset ~6 PM MT, inspect all candy before eating, children under 2 should not receive candy, hard/sticky candy away from under-4s, pets inside (chocolate/xylitol toxic), drivers slow down after 5 PM MT.
+- **Byline:** Sarah Morales
+- **Status:** NEW (distinct from Oct 29 Weekend Roundup [event listings] and Oct 30 candy guide [post-haul management])
+
+### Story 2: CPSC Recalls ~3,332 Costway Convertible High Chairs
+- **Date:** 2026-10-31
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** CPSC recall #27-040 issued October 22, 2026; approximately 3,332 Costway convertible high chairs (converts to table-and-chair set); entrapment and fall hazard, violates mandatory federal safety standard for high chairs; manufactured in China; remedy: replacement; stop use immediately, check cpsc.gov. Sixth significant child product safety action tracked in October 2026.
+- **Byline:** Jamie Rivera
+- **Status:** NEW (distinct from prior Oct recalls: ONTHEWEI Oct 9, Papablic/bblüv Oct 15, Lucakuins Oct 27, Flyboss Oct 29, Harkla Oct 30)
+
+### Story 3: 15 Minutes of Tablet Before Bed Didn't Suppress Toddler Melatonin
+- **Date:** 2026-10-31
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** Study published October 27, 2026, Contemporary Pediatrics, Ruhr University Bochum; home-based crossover study of toddlers aged 15–24 months; 15 minutes of tablet video in the hour before bed did NOT suppress melatonin or alter sleep; authors note findings don't cover habitual, longer, or unsupervised use; context: AAP shifted from strict time-based limits to context-based guidance in 2026.
+- **Byline:** Jamie Rivera
+- **Status:** NEW (distinct from Oct 24 AAP 5 Cs screen time article)
+
+### Story 4: D11 Bond Vote — 3 Days Left, How to Return Your Ballot
+- **Date:** 2026-10-31
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** D11 $775M bond vote closes November 3 at 7 PM; drop boxes across COS (d11.org/bond); mail-in must be postmarked by Nov 3; in-person voting available at El Paso County vote centers Nov 3; bond funds HVAC/classroom modernization/library renovations; first D11 bond in ~20 years; ~$6.50/month per $100K assessed home value.
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (Oct 26 countdown, Oct 27 logistics, Oct 28 childcare, Oct 29 substance, Oct 30 final 4-day reminder → Oct 31: how-to-return guide, 3 days left)
+
+### Story 5: After Halloween — COS November Family Events Preview
+- **Date:** 2026-10-31
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Veterans Day 5K on Sunday November 8, Colorado Springs, 9 AM, adult + kids 5K (ages 15 and under); Veterans Day November 11 — "In Their Honor" parade downtown Tejon Street (2026 date TBD, past years confirmed); COS is one of most veteran-dense cities in US (Fort Carson, Peterson SFB, Schriever SFB, NORAD/NORTHCOM); D11/D20/D49 observe Veterans Day as school holiday; Cheyenne Mountain Zoo transitions to fall/winter hours in November; Colorado Country Christmas Gift Show mid-November.
+- **Byline:** Jamie Rivera
+- **Status:** NEW (distinct from Oct 29 Weekend Roundup; covers November events beyond Halloween)
+
+---
+
 ## October 30, 2026
 
 ### Story 1: Harkla Children's Compression Sensory Swing Recall

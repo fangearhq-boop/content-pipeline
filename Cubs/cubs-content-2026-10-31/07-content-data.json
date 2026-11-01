@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-10-31",
+  "compiled_at": "2026-10-31T09:18:47.813936+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Gold Gloves Sunday — PCA/Happ/Suzuki",
+      "type": "Feature/Preview"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Cubs' 5-SP Rotation Crisis",
+      "type": "Bold Take"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Happ QO Deadline Monday",
+      "type": "Stat Breakdown"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "King / FA Opens Monday",
+      "type": "Bold Take"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Kanzler/Mariners",
+      "type": "Analysis"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "AFL Week 6 — Dominick Reid",
+      "type": "Prospect Feature"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Gold Gloves Sunday — PCA / Happ / Suzuki, Historic Sweep on the Line",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "BACK-TO-BACK PCA on Sunday.\n\nPete Crow-Armstrong: 26 FRV in 2026, tops in baseball. Second straight Gold Glove is a given.\n\nIf Happ AND Suzuki also win, the Cubs become the first team EVER to sweep all 3 outfield Gold Gloves. Sunday on ESPN.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Feature / award preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 4,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Gold Gloves Sunday — PCA / Happ / Suzuki\n**Decision:** FOLLOW UP (Oct 14 finalists; Oct 22–30 countdown)\n**Today's fresh angle:** PCA back-to-back framing + historic sweep stakes (distinct from Oct 30 \"TOMORROW\" announcement preview)\n**Key facts:**\n- 5 Cubs finalists total: PCA (CF), Happ (LF), Suzuki (RF), Bregman (3B), Swanson (SS)\n- PCA: 26 Fielding Run Values in 2026 — league-leading among all MLB defenders. Heavy consensus favorite. [MEDIUM — from search AI summary; needs verification]\n- PCA: Won 2025 Gold Glove; seeking back-to-back\n- Suzuki: 5x Golden Gloves in Japan; first MLB GG attempt. In a close race with Corbin Carroll (ARI) and Carson Benge (NYM). [MEDIUM]\n- Happ: 4-time Gold Glove winner in NL LF. Facing Jackson Chourio (MIL, 6 OAA — NL-leading). [MEDIUM — 4-time winner claim needs verification]\n- Historic: No team has swept all 3 outfield Gold Gloves since position-specific awards began in 2011. [HIGH — multiple sources confirm]\n- Ceremony: Sunday Nov 1, ESPN. Time: 8:30 PM ET / 7:30 PM CT",
+        "sources": "- Sources: MLB.com (Oct 14, 2026), Bleacher Nation (Oct 14, 2026), WGNTV, NBC Chicago, Yardbarker\n**Why it matters today:** Day before the ceremony. Fresh, urgent. Only fresh angle left — focus on PCA's case and the historic stakes, since \"TOMORROW\" was yesterday's hook."
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Cubs' Rotation Crisis — 5 Starters Gone, Cade Horton Out Until July 2027",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "FIVE STARTERS gone.\n\nHolmes. Boyd. Gausman. Peterson. Imanaga. Horton out until July 2027.\n\nThe Cubs' rotation is a blank slate. King's Padres exclusive window closes Nov 2. Hoyer's biggest offseason starts Monday.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold take / urgency",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 3,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Cubs' 5-SP Rotation Crisis\n**Decision:** FOLLOW UP (Holmes+Boyd options covered Oct 30; Imanaga QO Oct 29; Horton injury prior)\n**Today's fresh angle:** Full scope of the rebuild — 5 SP in FA simultaneously, Horton out until July 2027 = 2027 rotation blank slate\n**Key facts:**\n- 5 starters entering free agency: Clay Holmes, Matthew Boyd, Kevin Gausman, David Peterson, Shota Imanaga [MEDIUM — names from search/prior pipeline]\n- Holmes: Declined $12M player option (Oct 29 pipeline confirmed)\n- Boyd: Declined $15M mutual option (Oct 29 pipeline confirmed)\n- Gausman and Peterson: Simply hit open market\n- Imanaga: Both sides declined 2027 options; QO expected\n- Cade Horton: Out until July 2027 (rib fracture recovery) [MEDIUM — from prior pipeline]\n- Jed Hoyer quote: \"We can't retain everyone.\" [MEDIUM — from search AI summary]\n- CBA expires December 2026 — potential compressed timeline for signings [MEDIUM]",
+        "sources": "- Sources: MLB.com, Bleacher Nation, Marquee Sports Network\n**Why it matters today:** Free agency opens Monday. The scale of the rebuild is the story. No other team enters the market with this many rotation holes."
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Ian Happ QO Deadline Monday — Cubs' Toughest Call",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "HAPP QO DEADLINE: Monday.\n\nHis 2026 line: .218/.326/.412, 2.6 WAR. Down from his career peak — but he's a 4-time Gold Glove winner and the Cubs might not offer the $23.15M qualifying offer.\n\nIf they don't, it's a quiet exit for a Wrigley fan favorite.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Stat breakdown / analysis",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Ian Happ QO Deadline Monday\n**Decision:** FOLLOW UP (covered Oct 20, 26, 27, 29, 30)\n**Today's fresh angle:** 48-hour deadline hook — QO decision is due MONDAY NOV 2\n**Key facts:**\n- QO amount: $23.15M (confirmed by multiple sources — HIGH)\n- Happ's 2026: .218/.326/.412, 2.6 WAR [MEDIUM — from AI search summary; was cited as \"down year\" by multiple outlets]\n- Happ's career: 4-time Gold Glove winner in LF (needs 2nd-source verification — MEDIUM)\n- Prior pipeline: 24 HR in 2026 cited (conflicts somewhat with .218 BA / 2.6 WAR — may both be accurate, just mixed offensive output)\n- Cubs' decision: Ambiguous. Reports say Cubs may not offer QO given down year; others say they would, hoping for acceptance.\n- Context: Happ is a Wrigley fan favorite, hometown product",
+        "sources": "- Sources: Bleacher Nation (Oct 8, 27, 2026), MLB Trade Rumors\n**Why it matters today:** Deadline is literally Monday. Fans want to know: will he be back? The deadline creates urgency even without a new development."
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Michael King / Free Agency Opens Monday — Cubs' No. 1 Target",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "FREE AGENCY OPENS MONDAY.\n\nMichael King. Michael King. Michael King.\n\nThe Padres' exclusive window closes Nov 2 — and the Cubs need a No. 1 starter worse than any team in baseball. This isn't a want. It's a necessity.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Bold take / offseason urgency",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 2,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Michael King / Free Agency Opens Monday\n**Decision:** FOLLOW UP (King opt-out confirmed Oct 29; FA opening covered)\n**Today's fresh angle:** Padres exclusive window CLOSES Monday Nov 2 — the market opens and Cubs can bid\n**Key facts:**\n- King opted out of 3yr/$75M Padres deal (opted out confirmed Oct 29 pipeline)\n- Padres hold exclusive negotiating window through Nov 2 (from prior pipeline)\n- Market estimate: ~$100M (widely viewed as No. 2 SP on market behind Tarik Skubal) [MEDIUM]\n- Padres buyout on opt-out: $5M\n- Cubs' urgency: 5 SP gone, Horton out until July 2027 — most rotation holes of any team\n- Free agency officially opens ~Monday Nov 2 (standard CBA timing post-WS)\n- CBA expiration December 2026 adds timeline pressure",
+        "sources": "- Sources: MLB.com, CBS Sports, Audacy, prior pipeline (Oct 29-30)\n**Why it matters today:** The Padres exclusive window closes in 48 hours. This is the last day the Cubs can only watch. Monday = when they can act."
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Jason Kanzler / Mariners — Still No Decision, Cubs Farm in Limbo",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "KANZLER WATCH — still no decision.\n\nCubs farm director Jason Kanzler is a Mariners managerial finalist. No hire announced yet.\n\nIf Seattle takes him, Chicago loses the architect of its best farm system in years — at the worst possible time.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Analysis / org news",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 2,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Jason Kanzler / Mariners Manager Search\n**Decision:** FOLLOW UP (first covered Oct 25; finalists confirmed Oct 27; \"end-of-week\" deadline Oct 30 passed without hire)\n**Today's fresh angle:** Deadline came and went — still waiting. Cubs' farm system is in limbo.\n**Key facts:**\n- Jason Kanzler: Cubs director of player development, age 36 [confirmed from multiple sources]\n- Mariners finalists: Kanzler, Joe Espada, Rocco Baldelli [MEDIUM — from search AI summaries; Baldelli is a newer addition to the search results]\n- Kanzler background: Cubs farm system for 3 years; previously Astros 2022 staff\n- Jerry Dipoto quote: \"We will go outside to hire our manager.\" Managing experience \"preferred but not prerequisite.\" [MEDIUM — AI summary]\n- No hire announced as of today\n- Stakes: Cubs farm system is one of baseball's best; losing Kanzler mid-rebuild would be significant",
+        "sources": "- Sources: MLB.com (Oct 27, 2026), Yardbarker, BVM Sports (Oct 21, 2026)\n**Why it matters today:** Deadline passed, still waiting. Every day of uncertainty creates a story. Cubs fan interest: who runs the farm system next?"
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "AFL Week 6 — Dominick Reid Leads AFL in Strikeouts",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "DOMINICK REID IS ROLLING.\n\nThe Cubs' 2025 third-round pick leads the AFL with 14 strikeouts in 12 innings. A 46% whiff rate. Two earned runs all fall.\n\nWhile the big-league rotation needs a full rebuild, the pipeline is loaded and on schedule.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Prospect feature",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 3,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "AFL Week 6 — Dominick Reid\n**Decision:** FOLLOW UP (AFL covered Oct 22–30; Reid first start covered Oct 29/30)\n**Today's fresh angle:** Updated MLB.com stats confirm Reid leads AFL in strikeouts (14 in 12 IP, 2 ER)\n**Key facts:**\n- Reid leads AFL in strikeouts: 14 Ks in 12 innings [HIGH — confirmed by MLB.com AFL feature]\n- Just 2 earned runs in 12 AFL innings (≈1.50 ERA) [HIGH — from MLB.com, consistent with pipeline data]\n- 46.4% whiff rate in first AFL start [MEDIUM — from MLB.com AI summary]\n- Background: 2025 3rd-round pick, Abilene Christian. On 60-day IL mid-2026 (impingement). AFL = makeup innings.\n- Arsenal: Change-up-first, FB 92-94 mph, touches 96\n- Note: Story history cited \"3.46 ERA overall\" from prior Week 5 update — updated MLB.com data shows improved numbers (1.50 ERA equivalent). Using MLB.com figure as more current.\n- Cubs' other AFL players: Owen Snell (bat-first), Cabral (triple-digit FB), others\n- AFL runs through Nov 14",
+        "sources": "- Sources: MLB.com AFL feature (Oct-Nov 2026), Bleacher Nation (Oct 5, 2026)\n**Why it matters today:** Reid leads AFL in Ks — that's a concrete new stat. Pairs well with the rotation crisis narrative (the cavalry is coming, just not yet)."
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
