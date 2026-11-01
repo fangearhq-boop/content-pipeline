@@ -3,6 +3,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## Pipeline Run: 2026-11-01
+
+### Story 1: Tennessee Fall Ball Complete — Intersquads Are All That Remain
+- **Date:** 2026-11-01
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Tennessee beat Lee 14-1 in fall finale. Only intersquads remain before winter. Mardjetko (16-3, 1.26 ERA) and Nuwer (4 shutouts as freshman) lead 2027 pitching. Freshmen Morrison, Clarke (HR in finale), Shelton adding depth. Karen Weekly: "biggest question mark of the fall — but one I feel good about."
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - 2027 spring opener preview
+  - Preseason poll release (December)
+
+### Story 2: Oklahoma Hosts East Texas A&M on Nov. 4 — One More Fall Look
+- **Date:** 2026-11-01
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** OU hosts East Texas A&M at Love's Field Nov. 4, 6 PM CT, free/1oklahoma.com. After Battle Series complete. Wells (39 HR, NFCA FY) and Kavan (2x WCWS MOP) headline. Last public look before winter.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Nov. 4 game result
+  - Spring 2027 schedule release
+
+### Story 3: Florida Prepares for Saint Leo on Nov. 6 — Gators Fall Slate Continues
+- **Date:** 2026-11-01
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Florida (4-0 fall, 73-9 run differential) hosts DII champion Saint Leo Nov. 6 at Katie Seashole Pressly Stadium. Edwards 4 HR, 12 RBI. Six starters return. Saint Leo won DII title in June.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Nov. 6 game result
+  - Florida 2027 preseason ranking
+
+### Story 4: NCAA 5-for-5 Litigation — 26 Cases Filed, Early Signing Period Opens in 12 Days
+- **Date:** 2026-11-01
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** 26+ cases in state/county courts. Texas McLennan County court enabled 39 plaintiffs. Tenth Circuit stay in place (Aug 21). Oral arguments Oct 13, no ruling. Early signing period Nov 13 adds urgency for programs and recruits.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Tenth Circuit ruling (could come any day)
+  - Early signing period results (Nov 13+)
+
+### Story 5: 2027 Title Race — The Fall Ball Picture After Three Months
+- **Date:** 2026-11-01
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Fall ball synthesis: Florida (4-0, dominant), Tennessee (14-1, Mardjetko/Nuwer), OU (Wells+Kavan), TTU (Pickering+portal class), Texas (defending champion). Official polls December-January.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - D1Softball preseason poll (December)
+  - Softball America preseason poll (January)
+
+---
+
 ## Pipeline Run: 2026-10-28
 
 ### Story 1: Florida Goes 4-0 Fall After USF Win
