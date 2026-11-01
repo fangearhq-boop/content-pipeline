@@ -1,0 +1,236 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-01",
+  "compiled_at": "2026-11-01T12:30:38.290248+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Clocks Fall Back Tonight — How to Help Kids Adjust to the Time Change",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM MT (morning reminder before it happens tonight), 8:00 PM MT (tonight reminder)",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "⏰ Clocks fall back tonight at 2 AM — that \"extra hour\" arrives whether your kids cooperate or not. Keep bedtime routines consistent, expect early wake-ups, and shift schedules gradually. D11/D20/D49 school Monday. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 AM MT (morning reminder before it happens tonight), 8:00 PM MT (tonight reminder)",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "Tonight's the night — clocks fall back one hour at 2:00 AM, and while the \"extra hour\" sounds great on paper, it tends to land a little differently when your kids are up at 5:30 Monday morning like it's totally normal.\n\nHere's what actually helps: keep tonight's bedtime routine exactly the same as usual. Don't try to push it late just because you can — your kids' bodies won't cooperate, and you'll still be dealing with the early wake-up. Keep the room dark (blackout curtains help a lot with the earlier sunsets this week), keep the wind-down routine consistent, and expect a rough Monday morning regardless.\n\nFor babies and toddlers under 2, it usually takes longer — closer to a week — to fully adjust. School-age kids in D11, D20, and D49 head back to class Monday, so it's worth front-loading sleep tonight if you can.\n\nThe gradual-shift approach works best: shift meals, naps, and bedtimes by 15 minutes every couple of days rather than trying to reset all at once. Most kids are fully adjusted within 5-7 days.\n\nHow do your kids usually handle the time change — do they bounce back fast or does it take the whole week?\n\n---",
+        "image_caption": "⏰ Clocks fall back tonight at 2 AM. Keep bedtime routines consistent, expect early wake-ups Monday, and shift schedules gradually over a few days. D11/D20/D49 back to school Monday. Most kids adjust within a week — hang in there.",
+        "posting_time": "8:00 AM MT"
+      },
+      "article": {
+        "filename": "article-01-clocks-fall-back-dst-sleep-tips-2026.html",
+        "headline": "Clocks Fall Back Tonight at 2 AM — Here's How to Keep Kids' Sleep on Track This Week",
+        "word_count": 1007
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Clocks Fall Back Tonight\n\n**Prompt:**\nA cozy bedroom scene at golden hour with soft, warm light filtering through sheer curtains onto a made children's bed with colorful patchwork bedding. A simple analog alarm clock sits on a small wooden nightstand, hands visible. A bedside lamp glows warmly. Mood: calm, peaceful, early evening. Color palette: warm amber, soft cream, muted teal. Art style: soft editorial illustration with slight photorealism. The bottom third of the frame is the bedding with minimal visual complexity, left clear for text overlay. No people, no text, no logos.\n\n**Dimensions:** 1200x630 (Facebook) / 1200x675 (X)\n**File name:** story-1-clocks-fall-back.png\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "D11 Bond: 2 Days Left — How to Return Your Ballot Before November 3",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM MT (Sunday morning action step), 5:00 PM MT (afternoon reminder)",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "D11 bond vote is Tuesday, November 3. Drop boxes open now — find locations at d11.org/bond. Mail ballots must be postmarked by Nov 3. $775M for HVAC, Holmes Middle, Palmer + Coronado — first D11 capital bond since 2004. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "10:00 AM MT (Sunday morning action step), 5:00 PM MT (afternoon reminder)",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "If you haven't returned your ballot yet, this weekend is your last real window before Tuesday's election.\n\nThe D11 $775 million school bond (Issue 4A) is on the November 3 ballot. If it passes, the money goes toward HVAC system repairs, a new Holmes Middle School, updates to Palmer High and Coronado High, and library and classroom renovations across the district — the first major capital funding for D11 since 2004. A previous bond in 2021 failed by 11 votes.\n\nTo return your ballot: drop boxes are open now (find locations at d11.org/bond or govotecolorado.gov), mail ballots must be postmarked by November 3, or vote in person at El Paso County polling places. The estimated cost for average homeowners is approximately $260 per year.\n\nWhether you're for it or against it, if you have a ballot at home, today and tomorrow are the days to get it in. Don't let Tuesday sneak up on you.\n\nHave you already returned your ballot, or are you still deciding?\n\n---",
+        "image_caption": "🗳️ D11 bond vote is Tuesday, November 3 — 2 days left. Drop boxes open now. Mail by Nov 3. Or vote in person. $775M for HVAC, Holmes Middle, Palmer + Coronado updates. First D11 capital bond since 2004. Locations at d11.org/bond.",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-02-d11-bond-vote-how-to-return-ballot-2026.html",
+        "headline": "D11 Bond Vote Is Tuesday — How to Return Your Ballot Before November 3",
+        "word_count": 732
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Bond Vote\n\n**Prompt:**\nA clean, modern exterior view of a school building on a bright autumn day. Red and orange fall leaves on nearby trees. A simple official-looking ballot envelope sits on a flat wooden surface in the foreground with a plain blue pen beside it. Soft natural light, shallow depth of field. Mood: civic, calm, organized. Color palette: warm autumn tones — burnt orange, golden yellow — with clean white and light blue accents. Art style: photorealistic editorial. The bottom third is the wooden surface with the ballot envelope, kept visually simple for text overlay. No text on envelope, no brand logos, no identifiable political markings.\n\n**Dimensions:** 1200x630 (Facebook) / 1200x675 (X)\n**File name:** story-2-d11-bond-vote.png\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "CPSC Warning: Stop Using CHE-US Magnetic Stick Figures and Fidget Balls Immediately",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "🚨 CPSC stop-use warning (Oct 29): CHE-US magnetic stick figures and fidget balls. Rare-earth magnets can attract inside kids' bodies if swallowed — potentially fatal. Stop use immediately. Sold online. Check cpsc.gov. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "10:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "🚨 This one is worth a quick check of your toy bins before the kids play today.\n\nOn October 29, the Consumer Product Safety Commission issued a stop-use warning for two products from CHE-US: magnetic stick figure sets and magnetic fidget balls. Both contain powerful rare-earth magnets that, if swallowed, can attract to each other through intestinal walls — causing serious internal injuries that often require surgery, and in some cases can be fatal. These aren't hypothetical risks; magnet ingestion is one of the most dangerous toy hazards pediatric emergency rooms treat.\n\nThis is a CPSC warning rather than a formal recall because CHE-US hasn't cooperated with the agency — which actually makes it more urgent, not less, since there's no formal remedy process in place yet. The action step is simple: stop using these products and keep them away from children. Both were sold online, including on Amazon.\n\nIf you're not sure whether you own these, check cpsc.gov for photos and product details. And if you have young kids who might still be drawn to small magnetic toys in general, it's a good time to audit what's in the playroom.\n\nDo you have a system for keeping up with product recalls — do you check regularly or mostly rely on seeing it in the news?\n\n---",
+        "image_caption": "🚨 CPSC stop-use warning (Oct 29): CHE-US magnetic stick figures and magnetic fidget balls. Rare-earth magnets can attract inside kids' bodies if swallowed — potentially fatal. Stop use now. Sold online. Check cpsc.gov for details.",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-03-che-us-magnetic-toy-cpsc-warning-2026.html",
+        "headline": "CPSC Warning: Stop Using CHE-US Magnetic Stick Figures and Fidget Balls Immediately",
+        "word_count": 764
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CHE-US Magnetic Toy Warning\n\n**Prompt:**\nA bird's-eye view of a colorful toy bin or toy chest with various children's toys scattered around it on a light wooden floor. Several small magnetic building pieces in bright colors (geometric shapes, not branded) are visible at the foreground. The lighting is bright and natural, overhead afternoon light. Mood: cautionary but clean — the image should feel like a safety audit photo. Color palette: bright primary toy colors against warm natural wood tones. Art style: clean documentary photograph style. The bottom third of the frame is the light wooden floor with minimal clutter, left clear for text overlay. No text, no brand logos, no real toy brand markings visible.\n\n**Dimensions:** 1200x630 (Facebook) / 1200x675 (X)\n**File name:** story-3-magnetic-toy-warning.png\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Veterans Day Parade Is November 7 in Colorado Springs — Route, Road Closures, Grand Marshal",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "📅 COS Veterans Day Parade is Saturday, November 7 at 11 AM — not Nov. 11. Route: south on Tejon St., St. Vrain to Vermijo. Road closures 9 AM–1 PM. Grand marshal is 103-year-old retired Navy Cmdr. Jesse Kimber. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "12:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "The COS Veterans Day Parade is this Saturday, November 7 — not November 11, so mark it now if it's not already on your calendar.\n\nThe \"In Their Honor\" parade steps off at 11:00 AM and marches south along Tejon Street from East St. Vrain to Vermijo Avenue. Road closures begin at 9:00 AM and are expected to reopen by 1:00 PM, so plan your downtown routing accordingly if you're arriving early to get a good spot.\n\nThis year's Grand Marshal is 103-year-old retired U.S. Navy Commander Jesse Kimber, honored as a Rosie the Riveter figure. Organizers asked women to dress as Rosies along the route as part of the tribute, and a public art display — \"Salute from the Springs\" — will accompany the parade.\n\nColorado Springs is one of the most veteran-dense cities in the country. This parade draws a real crowd and tends to be a genuinely moving experience for kids and adults alike. If you've never taken your family, it's worth going at least once.\n\nA Community and Veterans Job Fair is scheduled for November 10, 10 AM–2 PM at the Colorado Springs Event Center at 3960 Palmer Park Blvd, for military families looking for employment resources.\n\nAre you planning to bring your family to the parade Saturday?\n\n---",
+        "image_caption": "📅 COS Veterans Day Parade: Saturday, November 7 at 11 AM — NOT November 11. Route: south on Tejon St., East St. Vrain to Vermijo. Road closures 9 AM–1 PM. Grand Marshal: 103-year-old retired Navy Cmdr. Jesse Kimber.",
+        "posting_time": "12:00 PM MT"
+      },
+      "article": {
+        "filename": "article-04-veterans-day-parade-cos-november-7-2026.html",
+        "headline": "In Their Honor Parade Is November 7 (Not Nov. 11) — What COS Families Need to Know",
+        "word_count": 725
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Veterans Day Parade\n\n**Prompt:**\nA wide downtown street lined with American flags on light poles on a clear autumn morning. The street is empty — no parade yet — with sunlight streaming between buildings and casting long shadows across the pavement. Fall leaves scatter along the curb. Mood: patriotic, quiet anticipation, community pride. Color palette: red, white, and blue accents against warm golden morning light, concrete gray, and autumn amber. Art style: editorial photography style, photorealistic. The bottom third is the empty street pavement, kept visually clean for text overlay. No people, no identifiable buildings, no text, no logos.\n\n**Dimensions:** 1200x630 (Facebook) / 1200x675 (X)\n**File name:** story-4-veterans-day-parade.png\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "November in Colorado Springs — Family Activities Worth Putting on Your Calendar",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "November in COS: Skate in the Park opens Nov 13 ($15, under-4 free), Turkey Trails Nov 8, Turkey Trot 5K Nov 26, kids reading event Nov 7, free library programs all month. Put these on the calendar before they fill up. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "3:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "October's over — so what's actually happening in Colorado Springs for families this month?\n\nThe big opener is Skate in the Park, the outdoor skating rink at America the Beautiful Park, which opens November 13. Admission is $15 per person including skate rental, and kids 4 and under skate free with a paying adult. It's one of those traditions that feels distinctly COS and tends to get busy on weekends, so weekday evenings are worth considering once school gets out.\n\nFor families who run: Turkey Trails is November 8 with a kids' dash at 8:00 AM, and the 28th Annual Turkey Trot 5K and Kids' Tiny Trot is November 26 (Thanksgiving week). Both are COS staples.\n\nA few things worth noting before they fill up: Kids' Reading & Craft Time at Wild Birds Unlimited is November 7 at 2:00 PM (a day before the parade — good combo if you're already downtown). The Pikes Peak Library District runs Baby Time and Toddler Time weekly throughout November at no cost — check PPLD.org for the branch schedule.\n\nNovember is when COS family life starts shifting into holiday mode. Getting a few of these on the calendar now means you're not scrambling when December arrives.\n\nWhich November event is already on your family's calendar?\n\n---",
+        "image_caption": "🍂 November in COS: Skate in the Park opens Nov 13 ($15, kids under 4 free), Turkey Trails race Nov 8, Turkey Trot 5K Nov 26, Kids' Reading event Nov 7 at Wild Birds Unlimited, free library programs all month. Put these on the calendar now before they fill up.",
+        "posting_time": "3:00 PM MT"
+      },
+      "article": {
+        "filename": "article-05-november-cos-family-activities-2026.html",
+        "headline": "November in Colorado Springs: Family Events, Skate Night, and the Turkey Trot",
+        "word_count": 841
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "November Family Activities\n\n**Prompt:**\nAn outdoor ice skating rink at dusk set in a downtown park, with soft string lights overhead and a light dusting of snow on the surrounding ground. The rink surface catches the warm glow of the lights. In the distance, soft bokeh city lights and bare autumn trees. Mood: festive, cozy, inviting, early winter. Color palette: warm gold string lights, ice blue rink surface, deep navy sky, touches of soft white snow. Art style: slightly stylized editorial photography, warm and inviting. The bottom third of the frame is the edge of the rink and snowy ground, kept simple and uncluttered for text overlay. No people, no text, no logos.\n\n**Dimensions:** 1200x630 (Facebook) / 1200x675 (X)\n**File name:** story-5-november-activities.png\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

@@ -1,5 +1,36 @@
 # COS Parenting — Pipeline Status
 
+## Current Run: 2026-11-01
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | DST ends tonight (Nov 1 at 2 AM) — timely T1; D11 bond 2 days to Nov 3 election ($775M, drop boxes open); CHE-US magnetic toy CPSC warning Oct 29 (stop-use, rare-earth magnets, fatal hazard); Veterans Day parade confirmed Nov 7 at 11 AM (not Nov 11), Grand Marshal 103-yr-old Cmdr Jesse Kimber; November COS family events (Skate in the Park Nov 13 $15, Turkey Trot Nov 26, Turkey Trails Nov 8) |
+| Story History Check | COMPLETE | S1 NEW (DST ends tonight — seasonal/timely, distinct); S2 FOLLOW-UP (Oct 26–31 D11 bond coverage → Nov 1: final 2-day push); S3 NEW (CHE-US magnetic toy warning — Oct 29, not previously covered); S4 FOLLOW-UP (Oct 31 S5 parade date TBD → Nov 1: confirmed as Nov 7); S5 FOLLOW-UP (Oct 31 S5 events preview → Nov 1: full confirmed calendar) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Sarah Morales [S1, S3], Jamie Rivera [S2, S4, S5] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on ~$260/yr homeowner cost, road closure hours (9 AM–1 PM), Turkey Trails details, library exact dates |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows (8 AM, 10 AM, 12 PM, 3 PM, 8 PM), 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 5 posts across 5 stories; all ≤280 chars (273, 279, 266, 267, 278); 4 hashtags each; #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption (stories 1+2 have 2 posting windows each: AM + PM); engagement questions; contractions; 0 exclamation marks; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 5 Gemini base_only concepts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 DST sleep tips (Sarah Morales T1); article-02 D11 bond ballot return (Jamie Rivera T1); article-03 CHE-US magnetic toy warning (Sarah Morales T2); article-04 Veterans Day parade Nov 7 (Jamie Rivera T2); article-05 November COS family activities (Jamie Rivera T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 87 claims auto-extracted; all stories present in all content files; no char limit errors; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 5 X posts, 5 FB posts, 5 articles, 5 images |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, gemini base_only |
+| Review Dashboard | COMPLETE | review-dashboard.html — 25 items |
+| Publish Dashboard | BLOCKED | proxy 403 (known recurring issue — content-dashboards repo not in session's authorized set) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-11-01.xlsx + cosp-postplanner-tobi-2026-11-01.xlsx — 5 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles written as 5 HTML drafts, ready for upload when proxy access restored |
+| Story History | COMPLETE | Nov 1 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 5 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3], Jamie Rivera [S2, S4, S5])
+- **PostPlanner exports:** 5 posts standard + 5 TOBI
+- **Key stories:** Clocks fall back tonight at 2 AM — sleep tips for D11/D20/D49 Monday school; D11 $775M bond vote Tuesday Nov 3 — drop boxes open now; CHE-US magnetic toy stop-use warning (Oct 29, CPSC, fatal hazard from rare-earth magnets); Veterans Day Parade confirmed Nov 7 at 11 AM downtown (103-yr-old Grand Marshal Jesse Kimber); November COS family events (Skate in the Park Nov 13, Turkey Trot Nov 26, Turkey Trails Nov 8)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); PostPlanner completed OK; compile/fact-check all ran successfully
+
+---
+
 ## Current Run: 2026-10-31
 
 | Step | Status | Notes |

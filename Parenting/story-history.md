@@ -2,6 +2,50 @@
 
 ---
 
+## November 1, 2026
+
+### Story 1: Clocks Fall Back Tonight — DST Sleep Tips for COS Parents
+- **Date:** 2026-11-01
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** DST ends Sunday November 1, 2026 at 2:00 AM — clocks fall back 1 hour. For parents: keep bedtime routines exactly the same tonight; expect early wake-ups Monday (D11/D20/D49 back to school); shift meals/naps/bedtime 15 min every 2 days; morning sunlight helps reset circadian clock; school-age kids adjust in 5–7 days; babies/toddlers under 2 take 7–10 days.
+- **Byline:** Sarah Morales
+- **Status:** NEW (DST ends tonight — seasonal/timely, not previously covered this season)
+
+### Story 2: D11 Bond — 2 Days Left, How to Return Your Ballot
+- **Date:** 2026-11-01
+- **Tier:** T1
+- **Pillar:** Local News
+- **Key Facts:** D11 $775M bond vote (Issue 4A) closes November 3 at 7 PM. Return options: drop boxes (d11.org/bond), mail postmarked by Nov 3, in-person Nov 3. Bond funds: new Holmes Middle School, HVAC repairs, Palmer High and Coronado High updates, library renovations. First D11 capital bond since 2004. 2021 bond failed by 11 votes. Estimated cost ~$260/year for average homeowner.
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (Oct 26, 27, 28, 29, 30, 31 — Nov 1: final 2-day push, last weekend window)
+
+### Story 3: CPSC Stop-Use Warning — CHE-US Magnetic Stick Figures and Fidget Balls
+- **Date:** 2026-11-01
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** CPSC warning (not recall) issued October 29, 2026. Products: CHE-US magnetic stick figures and CHE-US magnetic fidget balls. Hazard: rare-earth magnets attract through intestinal walls if swallowed — potentially fatal. Warning (not recall) because CHE-US hasn't cooperated with CPSC. Action: stop use immediately, keep away from children. Sold online (Amazon and similar). Check cpsc.gov.
+- **Byline:** Sarah Morales
+- **Status:** NEW (Oct 29 CPSC warning, not previously covered; distinct from Oct 21 ABC Trading squishy toy recall and all prior October recalls)
+
+### Story 4: Veterans Day Parade Is November 7 in Colorado Springs
+- **Date:** 2026-11-01
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** "In Their Honor" parade confirmed Saturday November 7 at 11:00 AM (NOT November 11). Route: south on Tejon Street, East St. Vrain to Vermijo Avenue. Road closures: 9:00 AM–1:00 PM MT. Grand Marshal: 103-year-old retired U.S. Navy Commander Jesse Kimber (Rosie the Riveter honoree). "Salute from the Springs" public art display accompanies parade. Veterans Job Fair November 10, 10 AM–2 PM, Colorado Springs Event Center, 3960 Palmer Park Blvd.
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (Oct 31 S5 noted parade date "expected in early November" → Nov 1: date confirmed as Nov 7)
+
+### Story 5: November in Colorado Springs — Family Events Calendar
+- **Date:** 2026-11-01
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Skate in the Park opens Nov 13 ($15/person including skate rental, kids 4 and under free with paying adult) at America the Beautiful Park. Turkey Trails Nov 8, kids' dash 8:00 AM. 28th Annual Turkey Trot 5K + Kids' Tiny Trot Nov 26 (register early). Kids' Reading & Craft Time (Those Darn Squirrels!) at Wild Birds Unlimited Nov 7 at 2:00 PM. Pikes Peak Library District Baby/Toddler Time weekly throughout November (check PPLD.org).
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (Oct 31 S5 covered Veterans Day 5K focus → Nov 1: full November family calendar with confirmed dates)
+
+---
+
 ## October 31, 2026
 
 ### Story 1: Halloween Night Safety Guide for COS Families
