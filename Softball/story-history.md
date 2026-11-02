@@ -3,6 +3,61 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## Pipeline Run: 2026-11-02
+
+### Story 1: EE100 Southeast Hitters Hotlist — Day 2 of the Regional Rollout
+- **Date:** 2026-11-02
+- **Tier:** 1
+- **Classification:** FOLLOW UP (EE100 2028 class covered Oct 13-Nov 1)
+- **Angle:** Southeast Top 100 Hitters drops today per Extra Inning Softball's Class of 2028 regional rollout schedule (Northeast Nov 1, Southeast Nov 2, Midwest Nov 3, SW Nov 4, Mountain Nov 5, West Nov 6, National Nov 7-8). Southeast historically deepest region. No. 1 Landers (Texas), No. 2 Holden (Florida), No. 3 Schlader (OU) already set nationally.
+- **Content Produced:** Article (article-01, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Midwest hotlist (Nov 3)
+  - Southwest hotlist (Nov 4)
+  - National Top 25 (Nov 7-8)
+
+### Story 2: Texas Tech Softball — No. 1 Portal Class, Pickering, 9 Days to Signing Day
+- **Date:** 2026-11-02
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Texas Tech + Pickering covered Oct 30)
+- **Angle:** TTU enters Nov 11 signing window with No. 1 portal class nationally, headlined by Kasidi Pickering (.384 BA, 50 HR, 169 RBI at OU). Glasco building a potential WCWS contender. Signing Day could complete the transformation.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Texas Tech Signing Day class announcement (Nov 11)
+  - TTU preseason ranking
+
+### Story 3: OU vs. East Texas A&M — Two Days Out Preview
+- **Date:** 2026-11-02
+- **Tier:** 2
+- **Classification:** FOLLOW UP (OU fall covered Oct 30-Nov 1)
+- **Angle:** Game is Nov 4, 6 PM CT at Love's Field (free, 1oklahoma.com stream). Wells and Kavan final fall tuneup. Last public look before winter workouts begin.
+- **Content Produced:** Article (article-03, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - OU vs East Texas A&M result (Nov 4)
+  - OU Signing Day class (Nov 11)
+
+### Story 4: Early Signing Period — 9 Days Out, Five Programs With Most at Stake
+- **Date:** 2026-11-02
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Signing period/5-for-5 covered Oct 29-Nov 1)
+- **Angle:** November 11 Signing Day. Five programs analyzed: Florida (loaded incoming class), Tennessee (post-Pickens depth), Oklahoma (Wells/Kavan depth), Texas (defending champ standard), Texas Tech (Pickering + portal). 5-for-5 litigation complicates roster math.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Signing Day announcements (Nov 11)
+  - Tenth Circuit ruling
+
+### Story 5: 5-for-5 Litigation — What the Tenth Circuit's Silence Means
+- **Date:** 2026-11-02
+- **Tier:** 3
+- **Classification:** FOLLOW UP (5-for-5 covered Oct 29-Nov 1)
+- **Angle:** Oct 13 oral arguments, 20 days later no ruling. Stay in place. Rule enforced. 26+ lawsuits. 39 Texas plaintiffs re-eligible. Programs planning Signing Day without court clarity.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Tenth Circuit merits ruling (TBD)
+  - Impact on Signing Day commitments
+
+---
+
 ## Pipeline Run: 2026-11-01
 
 ### Story 1: Tennessee Fall Ball Complete — Intersquads Are All That Remain
