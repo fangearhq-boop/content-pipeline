@@ -1,0 +1,255 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-02",
+  "compiled_at": "2026-11-02T09:21:37.466499+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Gold Gloves — PCA + Bregman Win",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Bregman / Ron Santo Legacy",
+      "type": "Bold Take"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Ian Happ QO — Today's Deadline",
+      "type": "Urgency"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Michael King — Cubs Now in Play",
+      "type": "Bold / Urgency"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Cubs Rotation — Five Starters FA",
+      "type": "Informative"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Kanzler / Mariners — Decision Coming",
+      "type": "Org News"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Dominick Reid AFL — 14 Ks",
+      "type": "Prospect Feature"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Gold Gloves — PCA Back-to-Back + Bregman Makes History",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "TWO GOLD GLOVES. One night.\n\nPete Crow-Armstrong wins CF for the SECOND straight year (26 OAA, best in baseball).\n\nAlex Bregman takes 3B — only the second Cub to win the award at that position ever.\n\nRon Santo was the first. Let that land.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / morning news",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Bregman / Ron Santo — Bold Historical Take",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "BREGMAN IS ALREADY IN RARE COMPANY.\n\nRon Santo won five straight Gold Gloves at third base for this franchise (1964–68). Nothing for 58 years.\n\nIn his first Cubs season, Alex Bregman joins that list.\n\nThe Bregman signing looks better every week.\n\n#Cubs #ChicagoCubs #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold take / historical",
+          "hashtags": [
+            "#Cubs",
+            "#ChicagoCubs",
+            "#MLB"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Ian Happ QO — Decision Due TODAY",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "FIVE HOURS.\n\nThat's how long the Cubs have to decide whether to extend Ian Happ a $23.15M qualifying offer.\n\n.218 BA. 24 HR. Gold Glove finalist who lost. The front office's call by 5 PM ET.\n\nHowever it goes, the offseason starts for real today.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative / urgency",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Michael King — Cubs Now Free to Bid",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "KING IS FREE.\n\nPadres' exclusive window closes today — he's now available to every team, including the Cubs.\n\n3.21 ERA. 32 starts. 0.64 ERA in the postseason. Hoyer spent all winter chasing him.\n\nThe rotation overhaul starts now.\n\n#Cubs #MLB #GoCubs",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Bold take / offseason urgency",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#GoCubs"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Cubs Rotation Crisis — Five Starters in Free Agency",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "FIVE STARTERS. All free agents. Right now.\n\nImanaga. Gausman. Peterson. Holmes. Boyd.\n\nHorton's out until July 2027. Every rotation spot is open.\n\nHoyer has one job this winter.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative / stat breakdown",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Jason Kanzler / Mariners — Decision Expected This Week",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "KANZLER OR ESPADA — Mariners' decision coming this week.\n\nCubs farm director Kanzler is a finalist. If he wins, Chicago loses the architect of its prospect pipeline.\n\nOne of the most important hires to watch in baseball right now.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Org news / informative",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "Dominick Reid AFL — Leading the League in Strikeouts",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "14 STRIKEOUTS. Three starts. 1.50 ERA.\n\nDominick Reid is leading the Arizona Fall League in punchouts, coming back from a mid-2026 impingement.\n\nHis changeup is a 60-grade pitch. Building toward six offerings.\n\nThis farm system isn't done.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Prospect feature / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
