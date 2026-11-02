@@ -2,6 +2,50 @@
 
 ---
 
+## November 2, 2026
+
+### Story 1: D11 Bond: Election Is Tomorrow — Here's What COS Parents Need to Know
+- **Date:** 2026-11-02
+- **Tier:** T1
+- **Pillar:** Local News
+- **Key Facts:** D11 $775M bond vote (Issue 4A) on Tuesday November 3 ballot. Drop boxes close 7 PM Tuesday. What it funds: new Holmes Middle School, HVAC repairs at every school, Palmer High + Coronado High updates, library renovations. First D11 capital bond since 2004. 2021 bond failed by 11 votes. Estimated cost ~$260/year for average homeowner. Drop box locations: d11.org/bond. D20 also has bond on Nov 3 ballot.
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (Nov 1 S2 was "2 days left/how to return" → Nov 2: election is tomorrow, final urgency push)
+
+### Story 2: Colorado's Flu Season Is Starting Early — Why November Is the Time to Vaccinate Your Kids
+- **Date:** 2026-11-02
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** 2026-27 flu season starting earlier than last year (UCHealth: 6x more positive flu tests vs. same period 2025). Last season: 8 Colorado children died, 1,169 hospitalized — highest since tracking began in 2004. 2026-27 vaccine targets subclade K (dominant variant from last season). AAP recommends annual flu shots for all children 6 months+. CDPHE urges vaccination before Thanksgiving. Most COS pharmacies and pediatric clinics have doses.
+- **Byline:** Jamie Rivera
+- **Status:** NEW (flu season start data new for 2026-27; last flu coverage was Oct 9 S5 general flu shot reminder — this is 2026-27 season-specific with updated UCHealth early-start data)
+
+### Story 3: Day 1 After DST — Practical Tips for Getting Your Tired Kids Through the Week
+- **Date:** 2026-11-02
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** First school day after DST ends. Kids' body clocks lag by 1 hour. School-age adjustment: 5-7 days. Toddlers/babies: 7-10 days. Tips: keep bedtime consistent (not earlier), 10 min morning sunlight, limit screens after dinner. Hardest mornings: Monday-Tuesday. Gradual shift approach recommended for infants.
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (Nov 1 S1 was "DST ends tonight" tips → Nov 2: first school day follow-through with week-specific tips)
+
+### Story 4: Veterans Day Weekend in COS: Parade Saturday, Turkey Trails Sunday
+- **Date:** 2026-11-02
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** "In Their Honor" Veterans Day Parade Saturday November 7 at 11:00 AM on Tejon Street, south to Vermijo Avenue. Road closures 9 AM–1 PM MT. Grand Marshal: 103-year-old Commander Jesse Kimber. Free to watch. Turkey Trails 5K Sunday November 8 at 8:00 AM; kids' dash at 7:55 AM; packet pickup 6:30–7:45 AM. Registration required for Turkey Trails.
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (Nov 1 S4 confirmed parade details → Nov 2: full weekend guide combining both Saturday/Sunday events)
+
+### Story 5: D49 November: Board Meeting Wednesday, No School Thursday
+- **Date:** 2026-11-02
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** D49 Board of Education meeting Wednesday November 5 at Creekside Success Center. D49 NO SCHOOL Thursday November 6 (professional development day). Thanksgiving break November 23-27. Election Day Tuesday November 3: D11 bond (Issue 4A) + D20 bond on ballot; drop boxes close 7 PM.
+- **Byline:** Jamie Rivera
+- **Status:** NEW (D49-specific calendar update not previously covered — Nov 1 stories covered D49 only in passing for Thanksgiving break; board meeting and no-school day are fresh calendar items)
+
+---
+
 ## November 1, 2026
 
 ### Story 1: Clocks Fall Back Tonight — DST Sleep Tips for COS Parents

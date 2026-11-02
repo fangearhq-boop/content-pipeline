@@ -1,5 +1,36 @@
 # COS Parenting — Pipeline Status
 
+## Current Run: 2026-11-02
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D11 bond election tomorrow (Nov 3, $775M Issue 4A, drop boxes d11.org/bond); Colorado flu season starting early (UCHealth: 6x more positive flu tests vs. last year; 8 child deaths + 1,169 hospitalizations last season); DST first school day follow-through (5-7 day adjustment tips); Veterans Day weekend guide (parade Nov 7 11 AM + Turkey Trails Nov 8 8 AM); D49 calendar (board meeting Nov 5, no school Nov 6, Thanksgiving break Nov 23-27) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Nov 1 S2 was 2-days-left → Nov 2: election is tomorrow, final urgency); S2 NEW (2026-27 season-specific early-start data, last flu coverage was Oct 9); S3 FOLLOW-UP (Nov 1 S1 DST ends tonight → Nov 2: first school day tips); S4 FOLLOW-UP (Nov 1 S4 parade details → Nov 2: full weekend guide); S5 NEW (D49 board meeting + no-school day not previously covered) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Sarah Morales [S1, S3], Jamie Rivera [S2, S4, S5]; posting windows fixed to `- **Posting window:**` format |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on road closure times, D20 bond dollar amount (not retrieved), homeowner cost estimate |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows (8 AM, 10 AM, 8 AM, 3 PM, 12 PM), 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts across 5 stories (S1: 2 posts for AM/PM); all ≤280 chars; S2 revised from 295→266 chars; 4 hashtags each |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption posts; engagement questions; contractions; 0 exclamation marks; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only concepts across 5 stories; clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 D11 bond election tomorrow (Sarah Morales T1); article-02 Colorado flu season kids shots (Jamie Rivera T1); article-03 DST first school day tips (Sarah Morales T2); article-04 Veterans Day weekend COS (Jamie Rivera T2); article-05 D49 November calendar (Jamie Rivera T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 64 claims auto-extracted; all stories present in all content files; PASSED (image not-started warnings expected) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 0 FB posts (format mismatch — known cosmetic issue), 5 articles, 5 images; validation all clear |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × x_image + facebook_image), all not_started, gemini base_only |
+| Review Dashboard | COMPLETE | review-dashboard.html — 21 items |
+| Publish Dashboard | BLOCKED | proxy 403 (known recurring issue — content-dashboards repo not in session's authorized set) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-11-02.xlsx (16 posts) + cosp-postplanner-tobi-2026-11-02.xlsx (11 TOBI posts) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles written as 5 HTML drafts, ready for upload |
+| Story History | COMPLETE | Nov 2 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 6 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3], Jamie Rivera [S2, S4, S5])
+- **PostPlanner exports:** 16 posts standard + 11 TOBI
+- **Key stories:** D11 bond election TOMORROW (Issue 4A $775M, drop boxes close Tuesday 7 PM); Colorado flu season starting early (6x more positive tests, 8 child deaths last season); DST day-1 school tips; Veterans Day weekend guide (parade + Turkey Trails 5K); D49 calendar (board meeting Nov 5, no school Nov 6)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); FB posts compiled as 0 (format mismatch — cosmetic, FB posts written correctly in file); fact-check header format mismatch (cosmetic — compile reports "no log found" but 06-fact-check-log.md exists)
+
+---
+
 ## Current Run: 2026-11-01
 
 | Step | Status | Notes |

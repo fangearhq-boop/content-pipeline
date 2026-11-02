@@ -1,0 +1,264 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-02",
+  "compiled_at": "2026-11-02T12:32:42.635005+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "D11 Bond: Election Is Tomorrow — Here's What COS Parents Need to Know",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "D11 school bond vote is TOMORROW (Nov 3). Drop boxes close Tuesday at 7 PM. Issue 4A = $775M for new schools, HVAC, library upgrades. Find your drop box at d11.org/bond. Take the kids — great civics lesson. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 266
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Last reminder: D11 bond vote closes tomorrow at 7 PM. Drop boxes open tonight across COS. If you haven't returned your ballot yet, now's the time. d11.org/bond #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM MT"
+      },
+      "article": {
+        "filename": "article-01-d11-bond-election-tomorrow.html",
+        "headline": "D11 Bond Vote Is Tomorrow — Here's Everything COS Families Need to Know",
+        "word_count": 600
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Bond — Election Tomorrow\n\n#### Image 1A — Vote/Ballot Drop Box\n**Slug:** story-1-d11-bond-ballot-drop\n**Use:** Article featured image, Facebook image post\n**Prompt:**\nA person's hand dropping a mail-in ballot envelope into a secure blue drop box mounted on a post outdoors. Soft afternoon light, warm autumn tones with golden leaves on nearby trees. Clean civic feel. The bottom third of the image is open sky or blurred neutral background for text overlay. Photorealistic style, shallow depth of field. No text, no logos.\n\n#### Image 1B — School Building\n**Slug:** story-1-d11-bond-school-exterior\n**Use:** X image post\n**Prompt:**\nA modern elementary or middle school building exterior in daylight. Clean architecture with large windows, green lawn in front, American flag on flagpole. Clear blue sky. Warm, community-centered tone. Photorealistic style. Bottom third is clear sky or light-colored pavement for text overlay. No people, no text, no logos, no signage with identifiable school names.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Bond — Election Tomorrow\n- **Bond amount:** $775 million [HIGH — multiple sources: KKTV, Gazette, D11.org, Colorado Politics]\n- **Issue number:** 4A [HIGH — Gazette endorsement, D11.org]\n- **Election date:** November 3, 2026 [HIGH — multiple sources]\n- **Polls open/close:** 7 AM–7 PM Colorado standard (Election Day) [HIGH — standard Colorado election law]\n- **What it funds:** New Holmes Middle School, HVAC replacements at every school, Palmer High updates, Coronado High updates, library renovations [HIGH — D11.org bond FAQ, KKTV, Gazette]\n- **Last D11 bond:** 2004 [HIGH — multiple sources; Gazette: \"D-11 hasn't passed a bond since 2006\" — MEDIUM conflict: some sources say 2004, others 2006. Using \"since 2004\" for now; low risk for article]\n- **Homeowner cost estimate:** ~$260/year [MEDIUM — from Nov 1 pipeline research; single-source estimate, not independently verified]\n- **Drop box locations:** d11.org/bond [HIGH — official district website]\n- **2021 bond failed:** Yes, by 11 votes [HIGH — Gazette, Colorado Politics]\n- **D20 bond:** D20 also has a bond measure on November ballot [MEDIUM — Gazette headline confirmed, details not retrieved; not including D20 specific dollar amounts without verification]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Colorado Flu Season Is Starting Early — Why Kids Need Their Shots Now",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Colorado flu season is starting early. Last year: 8 kids died, 1,169 hospitalized — highest in 20 years. Kids 6 months+ should get their shot now, before Thanksgiving. COS clinics and pharmacies have doses. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "10:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-02-colorado-flu-season-kids-shots.html",
+        "headline": "Colorado's Flu Season Is Starting Earlier — Why November Is the Time to Vaccinate Your Kids",
+        "word_count": 552
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Flu Season Starting Early\n\n#### Image 2A — Child Getting Flu Shot\n**Slug:** story-2-flu-shot-child-clinic\n**Use:** Article featured image, Facebook image post\n**Prompt:**\nA young child (approximately 4-6 years old) sitting on an exam table at a pediatric clinic, receiving a flu shot in the upper arm from a gloved healthcare provider. Child has a calm, brave expression. Parent's hand visible in supportive comfort. Warm clinical lighting, soft teal and white color palette. Clean bottom third — light wall or neutral floor. Photorealistic, warm and reassuring style. No text, no logos, no brand names on medical equipment.\n\n#### Image 2B — Pharmacist with Vaccine\n**Slug:** story-2-flu-shot-pharmacy\n**Use:** X image post\n**Prompt:**\nA pharmacist in a white coat holding a small vial and syringe, standing in a pharmacy setting. Soft overhead lighting, clinical but welcoming. Blurred pharmacy shelves in background. Neutral bottom third. Photorealistic, clean composition. No text, no logos, no identifiable brand names.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Colorado Flu Season / Kids Flu Shots\n- **Last season Colorado child deaths:** 8 [HIGH — CPR News, CBS News Colorado coverage cited by multiple search results]\n- **Last season child hospitalizations:** 1,169 [HIGH — UCHealth, news coverage]\n- **Highest total since 2004:** Yes [HIGH — Garfield County Health/UCHealth language]\n- **Early start this season:** Yes — UCHealth reports 6x more positive flu tests vs same period last year [HIGH — UCHealth site]\n- **Vaccine target:** Subclade K (dominant variant from last year's season) [HIGH — CDPHE, Denver7]\n- **AAP recommendation:** All children 6 months and older, annually [HIGH — longstanding AAP recommendation, confirmed in Nov 2026 policy statement search]\n- **Quote (paraphrase):** Dr. David Higgins, CU pediatrician: \"Unvaccinated children are at substantially higher risk of severe disease, hospitalization, and death\" [HIGH — CPR/CU Anschutz source]\n- **Federal vaccine guidance confusion:** RFK Jr./HHS dropped some childhood vaccine recommendations (Jan 2026 reports) [MEDIUM — multiple news sources but complex ongoing story; don't reference directly in article without more context]\n- **Where to get shots in COS:** Most pharmacies and pediatric clinics — standard, no specific new list available [MEDIUM — general guidance only]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Day 1 After DST — How to Help Tired Kids This Week",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Your kid's body thinks it's an hour earlier than the clock says. This is the week. Tips: keep bedtime the same (not earlier), get morning sunlight, limit screens after dinner. School-age kids adjust in about 5-7 days. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM MT"
+      },
+      "article": {
+        "filename": "article-03-dst-first-school-day-tips.html",
+        "headline": "Day 1 After DST: Practical Tips for Getting Your Tired Kids Through the Week",
+        "word_count": 642
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "DST First School Day\n\n#### Image 3A — Sleepy Child Morning Routine\n**Slug:** story-3-dst-tired-school-morning\n**Use:** Article featured image, Facebook image post\n**Prompt:**\nA young school-age child (7-10 years old) sitting at a kitchen table in the early morning, looking sleepy and a little dazed, wearing pajamas or a school uniform. Soft morning light through a window. Cereal bowl on the table. Warm, relatable, slightly humorous but not exaggerated tone. Photorealistic. Bottom third: kitchen floor or table surface in neutral tones. No text, no logos.\n\n#### Image 3B — Kids at School Bus in Morning Light\n**Slug:** story-3-dst-morning-bus-stop\n**Use:** X image post\n**Prompt:**\nChildren with backpacks standing at a suburban bus stop in early morning light. Low golden sunrise light, slightly overcast autumn sky. Cozy neighborhood setting with trees showing fall foliage. Photorealistic. Clean bottom third — sidewalk or lawn. No text, no identifiable faces, no logos.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "DST Adjustment — First School Day\n- **DST ended:** November 1, 2026 at 2:00 AM [HIGH — standard federal law, confirmed Nov 1 pipeline]\n- **School-age adjustment time:** 5-7 days [HIGH — pediatric sleep research consensus; sourced in Nov 1 pipeline]\n- **Babies/toddlers adjustment time:** 7-10 days [HIGH — same source]\n- **Tips: morning sunlight:** Yes [HIGH — circadian rhythm guidance]\n- **Tips: consistent bedtime (not earlier):** Yes [HIGH — pediatric sleep guidance]\n- **Tips: limit screens after dinner:** Yes [HIGH — standard sleep hygiene guidance]\n- **D11/D20/D49 back to school:** Monday Nov 2 [HIGH — school calendars; DST ends Sunday Nov 1]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Veterans Day Weekend: Parade Saturday, Turkey Trails Sunday",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "COS this weekend: Veterans Day Parade Saturday Nov 7 at 11 AM, Tejon St downtown (road closures 9 AM–1 PM). Turkey Trails 5K Sunday Nov 8 at 8 AM, kids' dash at 7:55 AM. Free to watch, great for families. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "3:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM MT"
+      },
+      "article": {
+        "filename": "article-04-veterans-day-weekend-cos.html",
+        "headline": "Veterans Day Weekend in COS: Parade Saturday, Turkey Trails Sunday",
+        "word_count": 628
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Veterans Day Weekend\n\n#### Image 4A — Parade Street Scene\n**Slug:** story-4-veterans-day-parade\n**Use:** Article featured image, Facebook image post\n**Prompt:**\nA Veterans Day parade on a city street, mid-morning autumn light. Crowd lining the sidewalk, American flags being held by spectators, marching participants in the distance (no identifiable individuals). Festive, patriotic but family-friendly atmosphere. Warm golden October/November light. Bottom third: street pavement or sidewalk in neutral tone. Photorealistic. No text, no logos, no close-up faces.\n\n#### Image 4B — Family Running Race\n**Slug:** story-4-turkey-trails-family-run\n**Use:** X image post\n**Prompt:**\nA family (two adults, one or two children) running together in a 5K road race through a park on a cool autumn morning. Participants wearing casual running clothes. Trees with fall colors in background. Joyful, active, community feel. Photorealistic. Clean bottom third — pavement or grass. No text, no logos, no race bib numbers that identify real events.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Veterans Day Weekend Events\n- **Veterans Day Parade:** Saturday November 7 at 11:00 AM [HIGH — confirmed in Nov 1 S4 pipeline coverage]\n- **Route:** Tejon Street, south to Vermijo Avenue [HIGH — Nov 1 pipeline]\n- **Road closures:** 9 AM–1 PM MT [MEDIUM — Nov 1 pipeline; not independently verified for 2026]\n- **Grand Marshal:** 103-year-old Commander Jesse Kimber [HIGH — Nov 1 pipeline]\n- **Turkey Trails 5K:** Sunday November 8 [HIGH — search results, multiple sources]\n- **Kids' dash:** 7:55 AM [HIGH — search result: \"7:55am Kids Dash\"]\n- **Packet pickup:** 6:30–7:45 AM [HIGH — search result]\n- **Cost to watch parade:** Free [HIGH — public street parade]\n- **Turkey Trails registration:** Required, check event website [MEDIUM — standard race registration; specific URL not retrieved]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "D49 November: Board Meeting Wednesday, No School Thursday",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "D49 families: Board meeting Wednesday Nov 5 at Creekside. NO SCHOOL Thursday Nov 6 (professional development). Thanksgiving break Nov 23-27. Also: D11 and D20 bond votes are Tuesday — drop boxes open through 7 PM. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "12:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM MT"
+      },
+      "article": {
+        "filename": "article-05-d49-november-calendar.html",
+        "headline": "D49 November: Board Meeting Wednesday, No School Thursday, Election Tuesday",
+        "word_count": 568
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D49 Calendar\n\n#### Image 5A — School Calendar/Planner\n**Slug:** story-5-d49-school-calendar\n**Use:** Article featured image, Facebook image post\n**Prompt:**\nA close-up of a physical desk calendar or planner open to November, with several dates circled in red ink and a pencil resting across the page. Warm desk lighting, wooden desk surface visible. Cozy, organized home-office feel. Bottom third: wooden desk surface in warm neutral tone. Photorealistic. No text visible, no specific dates identifiable, no logos.\n\n#### Image 5B — School Hallway Empty\n**Slug:** story-5-d49-no-school-day\n**Use:** X image post\n**Prompt:**\nAn empty elementary school hallway with lockers lining one side, overhead fluorescent lighting off or dimmed, natural light coming through a window at the end. Quiet, peaceful, \"no school today\" feel. Autumn light, warm tones. Bottom third: clean hallway floor. Photorealistic. No text, no logos, no signage."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D49 Calendar\n- **D49 Board meeting:** Wednesday November 5, Creekside Success Center [HIGH — D49 district calendar confirmed in search results]\n- **D49 no school day:** Thursday November 6 (professional development) [HIGH — D49 district calendar]\n- **D49 Thanksgiving break:** November 23-27 [HIGH — D49 district calendar]\n- **D20 also has bond on Nov 3:** Yes [MEDIUM — Gazette headline confirmed; amount/specifics not retrieved]\n- **El Paso County drop box locations:** Available through Election Day [HIGH — standard Colorado election procedure]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
