@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-01T08:30:00.318102+00:00",
+  "generated_at": "2026-11-02T08:30:00.266241+00:00",
   "account": "cubs",
   "window_days": 21,
-  "tweet_count": 84,
-  "measured_tweet_count": 84,
-  "measured_median_impressions": 83.0,
-  "measured_mean_impressions": 399.04,
-  "median_impressions": 83.0,
-  "mean_impressions": 399.04,
+  "tweet_count": 82,
+  "measured_tweet_count": 82,
+  "measured_median_impressions": 84.0,
+  "measured_mean_impressions": 489.29,
+  "median_impressions": 84.0,
+  "mean_impressions": 489.29,
   "max_impressions": 11494,
   "significant_findings": [
     {
@@ -15,12 +15,12 @@
       "kind": "category_vs_rest",
       "winner": "allcaps_lead",
       "loser": "not_allcaps_lead",
-      "median_impressions_winner": 97.5,
+      "median_impressions_winner": 107.0,
       "median_impressions_loser": 60.5,
       "n_winner": 48,
-      "n_loser": 36,
-      "p_value": 0.0352,
-      "effect_size_cliffs_delta": 0.27,
+      "n_loser": 34,
+      "p_value": 0.0198,
+      "effect_size_cliffs_delta": 0.304,
       "effect_size_label": "small"
     },
     {
@@ -28,12 +28,12 @@
       "kind": "category_vs_rest",
       "winner": "not_statement",
       "loser": "statement",
-      "median_impressions_winner": 97.5,
+      "median_impressions_winner": 104.0,
       "median_impressions_loser": 60.5,
       "n_winner": 52,
-      "n_loser": 32,
-      "p_value": 0.0436,
-      "effect_size_cliffs_delta": 0.264,
+      "n_loser": 30,
+      "p_value": 0.0278,
+      "effect_size_cliffs_delta": 0.294,
       "effect_size_label": "small"
     }
   ],
@@ -42,60 +42,60 @@
     "window_days": 90,
     "sample": "brief posts with a complete impressions snapshot",
     "signals": "reach (impressions, all measured briefs) and engagement rate (engagements / impressions, briefs with above-median reach only), each hour vs the rest of the day, Mann-Whitney + Cliff's delta, Holm-corrected across all hour x signal contrasts",
-    "brief_count": 463,
+    "brief_count": 458,
     "instruction": "When assigning posting_time, prefer recommended_hours and never use avoid_hours, but keep the day's usual shape: the same number of posts, spread across the day, at least 20 minutes apart, no more than 2 posts in any one hour, and within the caps of 5 posts 6AM-noon, 4 posts noon-6PM, 3 posts 6PM-midnight CT. Hours without a verdict are neutral. If recommended_hours is empty, keep the current schedule.",
     "hours": [
       {
         "hour_ct": 7,
         "n": 82,
-        "median_impressions": 82.0,
-        "engagement_n": 40,
-        "median_engagement_rate": 0.0063,
+        "median_impressions": 81.5,
+        "engagement_n": 41,
+        "median_engagement_rate": 0.0048,
         "reach_verdict": null,
-        "reach_p_value": 0.6167707666006994,
-        "reach_effect_size": 0.035241021701555596,
+        "reach_p_value": 0.7298454433459796,
+        "reach_effect_size": 0.024357810067462377,
         "engagement_verdict": null,
-        "engagement_p_value": 0.5494195109967295,
-        "engagement_effect_size": 0.05703125
+        "engagement_p_value": 0.7627716196883427,
+        "engagement_effect_size": 0.028455284552845527
       },
       {
         "hour_ct": 8,
-        "n": 61,
-        "median_impressions": 87,
-        "engagement_n": 32,
+        "n": 60,
+        "median_impressions": 87.5,
+        "engagement_n": 33,
         "median_engagement_rate": 0.0096,
         "reach_verdict": null,
-        "reach_p_value": 0.19441613283037396,
-        "reach_effect_size": 0.10309110186771063,
+        "reach_p_value": 0.14379915864104342,
+        "reach_effect_size": 0.11704355108877722,
         "engagement_verdict": null,
-        "engagement_p_value": 0.04434476021350475,
-        "engagement_effect_size": 0.20953125
+        "engagement_p_value": 0.06399082992642735,
+        "engagement_effect_size": 0.19
       },
       {
         "hour_ct": 9,
-        "n": 75,
-        "median_impressions": 63,
-        "engagement_n": 30,
+        "n": 74,
+        "median_impressions": 62.5,
+        "engagement_n": 29,
         "median_engagement_rate": 0.0,
         "reach_verdict": null,
-        "reach_p_value": 0.006337488695284499,
-        "reach_effect_size": -0.19903780068728522,
+        "reach_p_value": 0.005535463868428403,
+        "reach_effect_size": -0.20358248873873874,
         "engagement_verdict": null,
-        "engagement_p_value": 0.8206621823606566,
-        "engagement_effect_size": -0.02442244224422442
+        "engagement_p_value": 1.0,
+        "engagement_effect_size": 0.00016903313049357674
       },
       {
         "hour_ct": 10,
-        "n": 47,
-        "median_impressions": 71,
+        "n": 46,
+        "median_impressions": 71.0,
         "engagement_n": 17,
         "median_engagement_rate": 0.0,
         "reach_verdict": null,
-        "reach_p_value": 0.03095187060657123,
-        "reach_effect_size": -0.19194967266775778,
+        "reach_p_value": 0.023395461995609157,
+        "reach_effect_size": -0.20372520050654286,
         "engagement_verdict": null,
-        "engagement_p_value": 0.38770851677817664,
-        "engagement_effect_size": -0.11928864569083447
+        "engagement_p_value": 0.7361831578967506,
+        "engagement_effect_size": -0.04656862745098039
       },
       {
         "hour_ct": 11,
@@ -112,16 +112,16 @@
       },
       {
         "hour_ct": 12,
-        "n": 76,
-        "median_impressions": 93.5,
+        "n": 75,
+        "median_impressions": 92,
         "engagement_n": 43,
         "median_engagement_rate": 0.0,
         "reach_verdict": null,
-        "reach_p_value": 0.19546800265044562,
-        "reach_effect_size": 0.09390724874201006,
+        "reach_p_value": 0.2180647758738603,
+        "reach_effect_size": 0.08992167101827676,
         "engagement_verdict": null,
-        "engagement_p_value": 0.05687492685056039,
-        "engagement_effect_size": -0.1760797342192691
+        "engagement_p_value": 0.04655725455453341,
+        "engagement_effect_size": -0.18347613219094247
       },
       {
         "hour_ct": 13,
@@ -130,37 +130,37 @@
         "engagement_n": 14,
         "median_engagement_rate": 0.0103,
         "reach_verdict": null,
-        "reach_p_value": 0.28906570339568005,
-        "reach_effect_size": 0.14018058690744922,
+        "reach_p_value": 0.2607188650305079,
+        "reach_effect_size": 0.14874429223744293,
         "engagement_verdict": null,
-        "engagement_p_value": 0.10593579453537072,
-        "engagement_effect_size": 0.24410222804718218
+        "engagement_p_value": 0.10017592834797151,
+        "engagement_effect_size": 0.24755381604696672
       },
       {
         "hour_ct": 14,
-        "n": 36,
-        "median_impressions": 94.5,
-        "engagement_n": 22,
+        "n": 37,
+        "median_impressions": 104,
+        "engagement_n": 24,
         "median_engagement_rate": 0.0067,
         "reach_verdict": null,
-        "reach_p_value": 0.229692434119372,
-        "reach_effect_size": 0.12054384595368202,
+        "reach_p_value": 0.07193058723788104,
+        "reach_effect_size": 0.17840405726391476,
         "engagement_verdict": null,
-        "engagement_p_value": 0.8737028497070833,
-        "engagement_effect_size": 0.019696969696969695
+        "engagement_p_value": 0.9216554734451397,
+        "engagement_effect_size": 0.011762360446570972
       },
       {
         "hour_ct": 15,
-        "n": 30,
-        "median_impressions": 65.0,
-        "engagement_n": 14,
-        "median_engagement_rate": 0.0074,
+        "n": 29,
+        "median_impressions": 61,
+        "engagement_n": 13,
+        "median_engagement_rate": 0.0071,
         "reach_verdict": null,
-        "reach_p_value": 0.37136978076604477,
-        "reach_effect_size": -0.09761354888375674,
+        "reach_p_value": 0.244674145922547,
+        "reach_effect_size": -0.1290893015030946,
         "engagement_verdict": null,
-        "engagement_p_value": 0.9134789489914301,
-        "engagement_effect_size": 0.016710353866317168
+        "engagement_p_value": 0.801420376953762,
+        "engagement_effect_size": -0.03951048951048951
       },
       {
         "hour_ct": 16,
@@ -177,22 +177,22 @@
       },
       {
         "hour_ct": 17,
-        "n": 30,
-        "median_impressions": 85.5,
-        "engagement_n": 16,
+        "n": 29,
+        "median_impressions": 85,
+        "engagement_n": 15,
         "median_engagement_rate": 0.0,
         "reach_verdict": null,
-        "reach_p_value": 0.6648714022223459,
-        "reach_effect_size": 0.04734411085450346,
+        "reach_p_value": 0.8239023262318304,
+        "reach_effect_size": 0.02475685234305924,
         "engagement_verdict": null,
-        "engagement_p_value": 0.10983350529217639,
-        "engagement_effect_size": -0.22685185185185186
+        "engagement_p_value": 0.17091128662331645,
+        "engagement_effect_size": -0.19969418960244648
       }
     ],
     "recommended_hours": [],
     "avoid_hours": [],
     "note": "No hour cleared the Holm-corrected significance gates against the rest of the day; keep the current schedule.",
-    "overall_median_impressions": 83
+    "overall_median_impressions": 82.0
   },
   "methodology": {
     "test": "Mann-Whitney U (two-sided, tie-corrected, normal approximation with continuity correction)",
@@ -206,37 +206,55 @@
   },
   "raw_buckets": {
     "by_hour_ct": {
+      "21": {
+        "n": 1,
+        "mean": 85,
+        "median": 85,
+        "top": {
+          "impressions": 85,
+          "text": "In case you missed Cubs news today:\n\n> \ud83e\udde4 Pete Crow-Armstrong and Alex Bregman won NL Gold Gloves tonight\n   - PCA repeats in center field, his second straight\n   - Bregman wins at third base, his second career Gold Glove and first as a Cub\n"
+        }
+      },
       "14": {
-        "n": 10,
-        "mean": 1223.9,
-        "median": 68.0,
+        "n": 11,
+        "mean": 1245.27,
+        "median": 89,
         "top": {
           "impressions": 11494,
           "text": "THE CUBS reportedly want George Kirby.\n\nThe Mariners were listening at the deadline. Now it's the offseason \u2014 and Chicago needs rotation arms more than anyone.\n\nKirby is controllable, elite, and exactly what this staff is missing.\n\nMake the"
         }
       },
-      "8": {
-        "n": 9,
-        "mean": 528.22,
-        "median": 131,
+      "7": {
+        "n": 13,
+        "mean": 355.31,
+        "median": 58,
         "top": {
-          "impressions": 3496,
+          "impressions": 3542,
+          "text": "FIVE SEASONS. 26 homers. .270/.368/.473 in 2026.\n\nJon Heyman: Cubs expected to extend Seiya Suzuki a $23.15M qualifying offer.\n\nHe'll decline it. The Blue Jays are waiting. The market will pay him $100M+.\n\nThank you, Seiya.\n\n#Cubs #MLB #Cub"
+        }
+      },
+      "8": {
+        "n": 8,
+        "mean": 1269.62,
+        "median": 155.0,
+        "top": {
+          "impressions": 8922,
           "text": "In case you missed Cubs news today:\n\n> \ud83e\udde2 Carson Kelly and Matthew Boyd are officially free agents. Both turned down their end of mutual options\n   - Kelly: $7.5M option, $1.5M buyout. Hit .258/.336/.376 with 10 HR and 58 RBI in 121 games\n  "
         }
       },
       "12": {
-        "n": 19,
-        "mean": 110.89,
-        "median": 96,
+        "n": 18,
+        "mean": 115.33,
+        "median": 99.0,
         "top": {
           "impressions": 207,
           "text": "KANZLER DECISION: TODAY.\n\nThe Mariners are expected to name their next manager by end of week. Finalists: Cubs farm director Jason Kanzler and former Astros skipper Joe Espada. \ud83e\udd14\n\nLosing Kanzler would sting. He built this system.\n\n#Cubs #ML"
         }
       },
       "9": {
-        "n": 16,
-        "mean": 530.5,
-        "median": 54.5,
+        "n": 15,
+        "mean": 556.67,
+        "median": 48,
         "top": {
           "impressions": 4314,
           "text": "CADE HORTON won't throw a pitch in 2027 Spring Training.\n\nHis second Tommy John in April puts his return at July or August 2027 \u2014 best case.\n\nThe Cubs are rebuilding their rotation around an ace they won't see until midseason. \ud83d\udd25\n\n#Cubs #GoC"
@@ -244,20 +262,11 @@
       },
       "10": {
         "n": 3,
-        "mean": 41.33,
+        "mean": 46,
         "median": 41,
         "top": {
-          "impressions": 45,
+          "impressions": 59,
           "text": "GOLD GLOVE SUNDAY IS 3 DAYS AWAY.\n\nFive Cubs chasing hardware: PCA, Happ, Suzuki, Bregman, Swanson. Nov. 1 on ESPN \u2014 8:30 PM ET.\n\nIf PCA, Happ, AND Suzuki all win? First team in MLB history to sweep all three outfield Gold Gloves. \ud83e\udd47\n\n#Cubs "
-        }
-      },
-      "7": {
-        "n": 13,
-        "mean": 363,
-        "median": 83,
-        "top": {
-          "impressions": 3542,
-          "text": "FIVE SEASONS. 26 homers. .270/.368/.473 in 2026.\n\nJon Heyman: Cubs expected to extend Seiya Suzuki a $23.15M qualifying offer.\n\nHe'll decline it. The Blue Jays are waiting. The market will pay him $100M+.\n\nThank you, Seiya.\n\n#Cubs #MLB #Cub"
         }
       },
       "17": {
@@ -270,9 +279,9 @@
         }
       },
       "15": {
-        "n": 9,
-        "mean": 82.89,
-        "median": 60,
+        "n": 8,
+        "mean": 82.12,
+        "median": 59.5,
         "top": {
           "impressions": 142,
           "text": "Juan Cabada is 18 years old and playing in the Arizona Fall League.\n\nThe Cubs' No. 12 prospect is the 2nd-youngest player in the AFL \u2014 and he's already getting on base.\n\n#Cubs #MLB #ChicagoCubs"
@@ -280,13 +289,22 @@
       }
     },
     "by_weekday_ct": {
+      "Sun": {
+        "n": 14,
+        "mean": 214,
+        "median": 83.0,
+        "top": {
+          "impressions": 1408,
+          "text": "FIVE ARMS. All gone.\n\nImanaga, Gausman, Peterson, Boyd, Holmes \u2014 every key piece of the Cubs' 2026 pitching staff is hitting free agency this week. Cade Horton is out until at least mid-2027.\n\nJed Hoyer has one job this winter. Go get pitch"
+        }
+      },
       "Sat": {
         "n": 13,
-        "mean": 867.62,
-        "median": 110,
+        "mean": 1293.85,
+        "median": 131,
         "top": {
-          "impressions": 3542,
-          "text": "FIVE SEASONS. 26 homers. .270/.368/.473 in 2026.\n\nJon Heyman: Cubs expected to extend Seiya Suzuki a $23.15M qualifying offer.\n\nHe'll decline it. The Blue Jays are waiting. The market will pay him $100M+.\n\nThank you, Seiya.\n\n#Cubs #MLB #Cub"
+          "impressions": 8922,
+          "text": "In case you missed Cubs news today:\n\n> \ud83e\udde2 Carson Kelly and Matthew Boyd are officially free agents. Both turned down their end of mutual options\n   - Kelly: $7.5M option, $1.5M buyout. Hit .258/.336/.376 with 10 HR and 58 RBI in 121 games\n  "
         }
       },
       "Fri": {
@@ -300,11 +318,11 @@
       },
       "Thu": {
         "n": 11,
-        "mean": 60.09,
+        "mean": 65.55,
         "median": 60,
         "top": {
-          "impressions": 102,
-          "text": "BRAIN DRAIN ALERT: The Mets are interviewing Cubs assistant hitting coach John Mallee. \ud83d\udd0d\n\nMallee helped develop PCA into a likely MVP. Cubs led MLB in runs (850) and OPS (.767) in 2026. No offer yet, but losing him would hurt.\n\n#Cubs #MLB #"
+          "impressions": 112,
+          "text": "IMANAGA QO WINDOW: OPEN.\n\nWorld Series ended \u2192 Cubs have 7 days to issue Shota Imanaga a $23.15M qualifying offer. Both sides declined their options. He's their best starter and hits free agency now.\n\nIssue the QO. Then fight like hell to k"
         }
       },
       "Wed": {
@@ -333,54 +351,45 @@
           "impressions": 11494,
           "text": "THE CUBS reportedly want George Kirby.\n\nThe Mariners were listening at the deadline. Now it's the offseason \u2014 and Chicago needs rotation arms more than anyone.\n\nKirby is controllable, elite, and exactly what this staff is missing.\n\nMake the"
         }
-      },
-      "Sun": {
-        "n": 16,
-        "mean": 124.62,
-        "median": 94.0,
-        "top": {
-          "impressions": 396,
-          "text": "VOTED the best player in baseball. By the players themselves.\n\nPete Crow-Armstrong wins the Sporting News MLB Player of the Year \u2014 first Cub since Sosa in 1998. Fielding Bible POY. Baseball Digest POY. BBWAA MVP drops early November.\n\nThe c"
-        }
       }
     },
     "by_content_type": {
+      "recap_longform": {
+        "n": 4,
+        "mean": 2368.25,
+        "median": 233.0,
+        "top": {
+          "impressions": 8922,
+          "text": "In case you missed Cubs news today:\n\n> \ud83e\udde2 Carson Kelly and Matthew Boyd are officially free agents. Both turned down their end of mutual options\n   - Kelly: $7.5M option, $1.5M buyout. Hit .258/.336/.376 with 10 HR and 58 RBI in 121 games\n  "
+        }
+      },
       "brief": {
-        "n": 81,
-        "mean": 364.9,
-        "median": 81,
+        "n": 78,
+        "mean": 392.94,
+        "median": 82.0,
         "top": {
           "impressions": 11494,
           "text": "THE CUBS reportedly want George Kirby.\n\nThe Mariners were listening at the deadline. Now it's the offseason \u2014 and Chicago needs rotation arms more than anyone.\n\nKirby is controllable, elite, and exactly what this staff is missing.\n\nMake the"
-        }
-      },
-      "recap_longform": {
-        "n": 3,
-        "mean": 1320.67,
-        "median": 270,
-        "top": {
-          "impressions": 3496,
-          "text": "In case you missed Cubs news today:\n\n> \ud83e\udde2 Carson Kelly and Matthew Boyd are officially free agents. Both turned down their end of mutual options\n   - Kelly: $7.5M option, $1.5M buyout. Hit .258/.336/.376 with 10 HR and 58 RBI in 121 games\n  "
         }
       }
     },
     "by_opening": {
+      "statement": {
+        "n": 30,
+        "mean": 371.47,
+        "median": 60.5,
+        "top": {
+          "impressions": 8922,
+          "text": "In case you missed Cubs news today:\n\n> \ud83e\udde2 Carson Kelly and Matthew Boyd are officially free agents. Both turned down their end of mutual options\n   - Kelly: $7.5M option, $1.5M buyout. Hit .258/.336/.376 with 10 HR and 58 RBI in 121 games\n  "
+        }
+      },
       "allcaps_lead": {
         "n": 48,
-        "mean": 568.31,
-        "median": 97.5,
+        "mean": 597,
+        "median": 107.0,
         "top": {
           "impressions": 11494,
           "text": "THE CUBS reportedly want George Kirby.\n\nThe Mariners were listening at the deadline. Now it's the offseason \u2014 and Chicago needs rotation arms more than anyone.\n\nKirby is controllable, elite, and exactly what this staff is missing.\n\nMake the"
-        }
-      },
-      "statement": {
-        "n": 32,
-        "mean": 184.94,
-        "median": 60.5,
-        "top": {
-          "impressions": 3496,
-          "text": "In case you missed Cubs news today:\n\n> \ud83e\udde2 Carson Kelly and Matthew Boyd are officially free agents. Both turned down their end of mutual options\n   - Kelly: $7.5M option, $1.5M buyout. Hit .258/.336/.376 with 10 HR and 58 RBI in 121 games\n  "
         }
       },
       "stat_lead": {
@@ -395,57 +404,57 @@
     },
     "by_len_bucket": {
       "260+": {
-        "n": 43,
-        "mean": 514.93,
-        "median": 85,
+        "n": 45,
+        "mean": 647.8,
+        "median": 89,
         "top": {
           "impressions": 11494,
           "text": "THE CUBS reportedly want George Kirby.\n\nThe Mariners were listening at the deadline. Now it's the offseason \u2014 and Chicago needs rotation arms more than anyone.\n\nKirby is controllable, elite, and exactly what this staff is missing.\n\nMake the"
         }
       },
       "200-260": {
-        "n": 37,
-        "mean": 295.19,
-        "median": 62,
+        "n": 34,
+        "mean": 313.71,
+        "median": 60.5,
         "top": {
           "impressions": 4314,
           "text": "CADE HORTON won't throw a pitch in 2027 Spring Training.\n\nHis second Tommy John in April puts his return at July or August 2027 \u2014 best case.\n\nThe Cubs are rebuilding their rotation around an ace they won't see until midseason. \ud83d\udd25\n\n#Cubs #GoC"
         }
       },
       "140-200": {
-        "n": 4,
-        "mean": 113.75,
-        "median": 142.0,
+        "n": 3,
+        "mean": 101.67,
+        "median": 142,
         "top": {
-          "impressions": 150,
-          "text": "The team that stole 4 straight NL Central titles from us opens the NLCS tonight in Milwaukee.\n\nBrewers vs. Dodgers. Game 1. 7 PM CT. Fox.\n\nFeel free to root against both. \ud83d\ude24\n\n#Cubs #GoCubs #MLB"
+          "impressions": 142,
+          "text": "Juan Cabada is 18 years old and playing in the Arizona Fall League.\n\nThe Cubs' No. 12 prospect is the 2nd-youngest player in the AFL \u2014 and he's already getting on base.\n\n#Cubs #MLB #ChicagoCubs"
         }
       }
     },
     "by_hashtag_count": {
+      "1": {
+        "n": 4,
+        "mean": 2368.25,
+        "median": 233.0,
+        "top": {
+          "impressions": 8922,
+          "text": "In case you missed Cubs news today:\n\n> \ud83e\udde2 Carson Kelly and Matthew Boyd are officially free agents. Both turned down their end of mutual options\n   - Kelly: $7.5M option, $1.5M buyout. Hit .258/.336/.376 with 10 HR and 58 RBI in 121 games\n  "
+        }
+      },
       "3": {
-        "n": 81,
-        "mean": 364.9,
-        "median": 81,
+        "n": 78,
+        "mean": 392.94,
+        "median": 82.0,
         "top": {
           "impressions": 11494,
           "text": "THE CUBS reportedly want George Kirby.\n\nThe Mariners were listening at the deadline. Now it's the offseason \u2014 and Chicago needs rotation arms more than anyone.\n\nKirby is controllable, elite, and exactly what this staff is missing.\n\nMake the"
-        }
-      },
-      "1": {
-        "n": 3,
-        "mean": 1320.67,
-        "median": 270,
-        "top": {
-          "impressions": 3496,
-          "text": "In case you missed Cubs news today:\n\n> \ud83e\udde2 Carson Kelly and Matthew Boyd are officially free agents. Both turned down their end of mutual options\n   - Kelly: $7.5M option, $1.5M buyout. Hit .258/.336/.376 with 10 HR and 58 RBI in 121 games\n  "
         }
       }
     },
     "by_has_score": {
       "False": {
-        "n": 65,
-        "mean": 483.8,
+        "n": 63,
+        "mean": 603.86,
         "median": 83,
         "top": {
           "impressions": 11494,
@@ -454,7 +463,7 @@
       },
       "True": {
         "n": 19,
-        "mean": 109.05,
+        "mean": 109.42,
         "median": 88,
         "top": {
           "impressions": 353,
@@ -464,18 +473,18 @@
     },
     "by_has_stat": {
       "True": {
-        "n": 25,
-        "mean": 229.32,
-        "median": 83,
+        "n": 24,
+        "mean": 465.21,
+        "median": 90.0,
         "top": {
-          "impressions": 3496,
+          "impressions": 8922,
           "text": "In case you missed Cubs news today:\n\n> \ud83e\udde2 Carson Kelly and Matthew Boyd are officially free agents. Both turned down their end of mutual options\n   - Kelly: $7.5M option, $1.5M buyout. Hit .258/.336/.376 with 10 HR and 58 RBI in 121 games\n  "
         }
       },
       "False": {
-        "n": 59,
-        "mean": 470.95,
-        "median": 83,
+        "n": 58,
+        "mean": 499.26,
+        "median": 82.0,
         "top": {
           "impressions": 11494,
           "text": "THE CUBS reportedly want George Kirby.\n\nThe Mariners were listening at the deadline. Now it's the offseason \u2014 and Chicago needs rotation arms more than anyone.\n\nKirby is controllable, elite, and exactly what this staff is missing.\n\nMake the"
@@ -484,9 +493,9 @@
     },
     "by_has_emoji_first_line": {
       "False": {
-        "n": 78,
-        "mean": 423.37,
-        "median": 83.0,
+        "n": 76,
+        "mean": 521.39,
+        "median": 84.0,
         "top": {
           "impressions": 11494,
           "text": "THE CUBS reportedly want George Kirby.\n\nThe Mariners were listening at the deadline. Now it's the offseason \u2014 and Chicago needs rotation arms more than anyone.\n\nKirby is controllable, elite, and exactly what this staff is missing.\n\nMake the"
@@ -504,8 +513,8 @@
     },
     "by_has_allcaps": {
       "True": {
-        "n": 81,
-        "mean": 412.27,
+        "n": 79,
+        "mean": 506.29,
         "median": 85,
         "top": {
           "impressions": 11494,
@@ -526,25 +535,25 @@
   "raw_buckets_engagement_above_median": {
     "by_content_type": {
       "recap_longform": {
-        "n": 3,
-        "mean_rate": 0.0032,
-        "median_rate": 0.0023
+        "n": 4,
+        "mean_rate": 0.0025,
+        "median_rate": 0.0013
       },
       "brief": {
-        "n": 40,
+        "n": 37,
         "mean_rate": 0.0056,
-        "median_rate": 0.0038
+        "median_rate": 0.0048
       }
     },
     "by_opening": {
       "statement": {
-        "n": 12,
-        "mean_rate": 0.0039,
+        "n": 10,
+        "mean_rate": 0.0035,
         "median_rate": 0.0
       },
       "allcaps_lead": {
         "n": 29,
-        "mean_rate": 0.0059,
+        "mean_rate": 0.0057,
         "median_rate": 0.0048
       },
       "stat_lead": {
@@ -555,9 +564,9 @@
     },
     "by_has_score": {
       "False": {
-        "n": 33,
-        "mean_rate": 0.0048,
-        "median_rate": 0.0023
+        "n": 31,
+        "mean_rate": 0.0046,
+        "median_rate": 0.0025
       },
       "True": {
         "n": 10,
@@ -572,8 +581,8 @@
         "median_rate": 0.0
       },
       "False": {
-        "n": 30,
-        "mean_rate": 0.0063,
+        "n": 28,
+        "mean_rate": 0.0062,
         "median_rate": 0.0055
       }
     }
@@ -588,6 +597,16 @@
       "opening": "allcaps_lead",
       "len": 277,
       "text": "THE CUBS reportedly want George Kirby.\n\nThe Mariners were listening at the deadline. Now it's the offseason \u2014 and Chicago needs rotation arms more than anyone.\n\nKirby is controllable, elite, and exactly what this staff is missing.\n\nMake the call, Jed.\n\n#Cubs #MLB #CubsBaseball"
+    },
+    {
+      "posted_at": "2026-10-31 08:00 CT",
+      "content_type": "recap_longform",
+      "impressions": 8922,
+      "engagement": 23,
+      "engagement_rate": 0.0026,
+      "opening": "statement",
+      "len": 1508,
+      "text": "In case you missed Cubs news today:\n\n> \ud83e\udde2 Carson Kelly and Matthew Boyd are officially free agents. Both turned down their end of mutual options\n   - Kelly: $7.5M option, $1.5M buyout. Hit .258/.336/.376 with 10 HR and 58 RBI in 121 games\n   - Boyd: $15M option, $2M buyout. 3.91 ERA over 126.2 innings\n   - The Cubs can still work out new deals with both before the market opens\n\n> \ud83d\udc4b Carson Kelly said goodbye to Cubs fans on Instagram\n\n> \ud83d\udccb That makes 11 Cubs who've elected free agency on MLB's transaction log since Thursday, from Imanaga and Suzuki to Happ, Boyd and Kelly\n\n> \u23f0 The Cubs' exclusive window with their own free agents closes at 4 PM CT Monday, Nov. 2. Then it's open season\n\n> \ud83e\udded Jason Kanzler is still one of two finalists for the Mariners' manager job, with Joe Espada. Seattle hired CJ Gillman as hitting coach before naming a manager\n\n> \ud83c\udf7a The Brewers held their title parade in Milwaukee today, and the rally warm-up guy took several shots at the Bears and Cubs. Noted.\n\n> \ud83d\udc26 The Astros hired Cardinals assistant GM and scouting director Randy Flores as their new GM, after Brewers AGM Matt Kleine had been reported as the frontrunner\n\n> \u26be Around MLB: Joc Pederson declined his mutual option with Texas after a 26-homer year. Sonny Gray, Zach Eflin, Josh Bell and Dustin May are also new free agents\n\n> \ud83e\udde4 Sunday night: Gold Glove winners are revealed at 8:30 PM ET on ESPN. PCA, Happ and Suzuki are all outfield finalists\n\nOne of these every night. Follow for the daily Cubs recap.\n\n#Cubs\n"
     },
     {
       "posted_at": "2026-10-19 09:40 CT",
@@ -610,16 +629,6 @@
       "text": "FIVE SEASONS. 26 homers. .270/.368/.473 in 2026.\n\nJon Heyman: Cubs expected to extend Seiya Suzuki a $23.15M qualifying offer.\n\nHe'll decline it. The Blue Jays are waiting. The market will pay him $100M+.\n\nThank you, Seiya.\n\n#Cubs #MLB #CubsBaseball"
     },
     {
-      "posted_at": "2026-10-31 08:00 CT",
-      "content_type": "recap_longform",
-      "impressions": 3496,
-      "engagement": 8,
-      "engagement_rate": 0.0023,
-      "opening": "statement",
-      "len": 1508,
-      "text": "In case you missed Cubs news today:\n\n> \ud83e\udde2 Carson Kelly and Matthew Boyd are officially free agents. Both turned down their end of mutual options\n   - Kelly: $7.5M option, $1.5M buyout. Hit .258/.336/.376 with 10 HR and 58 RBI in 121 games\n   - Boyd: $15M option, $2M buyout. 3.91 ERA over 126.2 innings\n   - The Cubs can still work out new deals with both before the market opens\n\n> \ud83d\udc4b Carson Kelly said goodbye to Cubs fans on Instagram\n\n> \ud83d\udccb That makes 11 Cubs who've elected free agency on MLB's transaction log since Thursday, from Imanaga and Suzuki to Happ, Boyd and Kelly\n\n> \u23f0 The Cubs' exclusive window with their own free agents closes at 4 PM CT Monday, Nov. 2. Then it's open season\n\n> \ud83e\udded Jason Kanzler is still one of two finalists for the Mariners' manager job, with Joe Espada. Seattle hired CJ Gillman as hitting coach before naming a manager\n\n> \ud83c\udf7a The Brewers held their title parade in Milwaukee today, and the rally warm-up guy took several shots at the Bears and Cubs. Noted.\n\n> \ud83d\udc26 The Astros hired Cardinals assistant GM and scouting director Randy Flores as their new GM, after Brewers AGM Matt Kleine had been reported as the frontrunner\n\n> \u26be Around MLB: Joc Pederson declined his mutual option with Texas after a 26-homer year. Sonny Gray, Zach Eflin, Josh Bell and Dustin May are also new free agents\n\n> \ud83e\udde4 Sunday night: Gold Glove winners are revealed at 8:30 PM ET on ESPN. PCA, Happ and Suzuki are all outfield finalists\n\nOne of these every night. Follow for the daily Cubs recap.\n\n#Cubs\n"
-    },
-    {
       "posted_at": "2026-10-24 09:34 CT",
       "content_type": "brief",
       "impressions": 3225,
@@ -632,14 +641,14 @@
   ],
   "bottom_performers": [
     {
-      "posted_at": "2026-10-29 07:00 CT",
+      "posted_at": "2026-10-20 07:09 CT",
       "content_type": "brief",
-      "impressions": 27,
+      "impressions": 28,
       "engagement": 0,
       "engagement_rate": 0.0,
       "opening": "allcaps_lead",
-      "len": 253,
-      "text": "DIVISION. RIVALS. WORLD CHAMPIONS.\n\nMilwaukee won its first title in franchise history last night \u2014 4-1 over Tampa in Game 5. The Brewers are World Champions.\n\nThe Cubs haven't won a ring since 2016. Division standard just got reset.\n\n#Cubs #MLB #GoCubs"
+      "len": 274,
+      "text": "Rays beat Cleveland 7-3 in ALCS G6.\n\nWorld Series: Brewers vs. Rays. Game 1 is Friday in Milwaukee.\n\nYour 2026 Cubs finished 89-73 and watched from home. The division's best team is playing for a title they've never won.\n\nTime to fix that in 2027. \ud83d\udd3a\n\n#Cubs #MLB #NorthSiders"
     },
     {
       "posted_at": "2026-10-13 12:05 CT",
