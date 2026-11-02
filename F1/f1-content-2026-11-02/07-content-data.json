@@ -1,0 +1,341 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-02",
+  "compiled_at": "2026-11-02T11:28:13.515235+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Kimi Antonelli Crowned 2026 F1 World Champion — Youngest Ever at 20 [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "KIMI ANTONELLI IS THE 2026 F1 WORLD CHAMPION.\n\n20 years old. Youngest champion in F1 HISTORY.\n\nP3 in Mexico City was all he needed.\n\nItaly's first champion since 1953. History made. #F1Fanrecap #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1"
+          ],
+          "char_count": 197
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Antonelli broke Vettel's record by THREE YEARS.\n\nVettel was 23 when he became youngest champion.\n\nAntonelli: 20 years and 68 days.\n\nThe kid from Bologna just rewrote F1 history. #F1Fanrecap #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1"
+          ],
+          "char_count": 193
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-antonelli-2026-f1-world-champion-youngest-ever.html",
+        "headline": "Kimi Antonelli Is the 2026 F1 World Champion — The Youngest in History at 20",
+        "word_count": 592
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [
+            "2026 WORLD CHAMPION\" / \"KIMI ANTONELLI / 20 YEARS OLD — YOUNGEST EVER"
+          ],
+          "composition": "Antonelli celebrating, helmet off, emotion shown; championship context",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Landscape; Antonelli in car or podium celebration",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kimi Antonelli 2026 F1 World Champion\n**Championship Clinch:**\n- Antonelli finished 3rd at Mexico City GP — [HIGH]\n- Title clinched at Mexico City with 4 rounds to spare — [HIGH]\n- Race date: November 1, 2026 — [HIGH]\n**Age record:**\n- Born: August 25, 2006, Bologna, Emilia-Romagna, Italy — [HIGH, Wikipedia]\n- Age at clinch: 20 years and 68 days — [HIGH, Sky Sports]\n- Previous record: Sebastian Vettel, 23 years old, 2010 — [HIGH, NBC News]\n- Youngest F1 world champion in history — [HIGH, multiple sources]\n**Italian record:**\n- Italy's first F1 world champion since Alberto Ascari, 1953 — [HIGH, multiple sources]\n- 73-year Italian championship drought ends — [HIGH]\n**Season stats (from story history):**\n- 9 wins, 7 poles in debut season — [MEDIUM — from 10-31 story history, pre-Mexico]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen Wins Wild Mexico City GP — Hamilton P2, Race Review [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Mexico City GP FINAL:\n\nNo. 1 Verstappen\nNo. 2 Hamilton (+0.799s)\nNo. 3 Antonelli (+4.006s) ← NEW WORLD CHAMPION\nNo. 4 Leclerc\nNo. 5 Norris\n\nPost-race penalties reshuffle the lower order.\n\nClassic F1 chaos. #F1Fanrecap #F1 #MexicoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#MexicoGP"
+          ],
+          "char_count": 231
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Max Verstappen wins the Mexico City Grand Prix.\n\nHamilton was 0.799 seconds back — couldn't find a way past.\n\nAntonelli takes the title from P3.\n\nVerstappen wasn't champion this year. But he's back to winning. #F1Fanrecap #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-verstappen-wins-mexico-city-gp-race-recap.html",
+        "headline": "Verstappen Wins Wild Mexico City GP — Hamilton P2 as Antonelli Takes the Title from Third",
+        "word_count": 454
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [
+            "VERSTAPPEN WINS MEXICO\" / \"HAMILTON P2 | ANTONELLI P3 + CHAMPION"
+          ],
+          "composition": "Verstappen victory celebration or driving; Mexican flag elements possible",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Landscape; Verstappen on track or podium",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mexico City GP Race Result\n**Podium:**\n- No. 1: Max Verstappen (Red Bull) — [HIGH, multiple sources]\n- No. 2: Lewis Hamilton (Ferrari) — 0.799 seconds behind — [HIGH, formula1.com/the-race.com]\n- No. 3: Kimi Antonelli (Mercedes) — 4.006 seconds behind — [HIGH, formula1.com]\n- No. 4: Charles Leclerc (Ferrari) — [HIGH]\n- No. 5: Lando Norris (McLaren) — [HIGH]\n- No. 6: George Russell (Mercedes) — [HIGH]\n**Penalty note:**\n- Post-race penalties affected Oscar Piastri (McLaren) and two Alpine drivers — [HIGH]\n- Final lower-order classification may have shifted — [HIGH]\n**Hamilton quote:**\n- Hamilton told F1.com: \"We know where we need to improve\" after P2 — [HIGH, formula1.com]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Constructors' Championship — Mercedes Leads, Ferrari vs Red Bull vs McLaren Battle Resumes [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Drivers' title: settled.\n\nConstructors' title: WIDE OPEN.\n\nPre-Mexico:\nMercedes 607 pts\nFerrari 474 pts\nRed Bull 355 pts\nMcLaren 355 pts\n\nFour races left. The team fight is just getting started. #F1Fanrecap #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-constructors-championship-update-post-mexico.html",
+        "headline": "Constructors' Championship: Four Races to Settle the Team Battle After Mexico City",
+        "word_count": 432
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [
+            "CONSTRUCTORS BATTLE\" / \"Mercedes 607 | Ferrari 474 | Red Bull 355 | McLaren 355"
+          ],
+          "composition": "Hamilton driving Ferrari; team battle theme",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Landscape; Leclerc action shot",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Constructors' Championship (Pre-Mexico, after USGP)\n**Pre-Mexico standings:**\n- Mercedes: 607 pts — [HIGH, ESPN/Crash.net]\n- Ferrari: 474 pts — [HIGH]\n- Red Bull: 355 pts — [HIGH]\n- McLaren: 355 pts — [HIGH]\n- Racing Bulls: 5th — [MEDIUM]\n**Post-Mexico estimate (MEDIUM — math only, not from official source):**\n- Verstappen +25 (Red Bull); Hamilton +18 (Ferrari); Antonelli +15 (Mercedes); Leclerc +12 (Ferrari); Norris +10 (McLaren); Russell +8 (Mercedes) — standard points, pre-penalty adjustments\n- Note: Piastri and Alpine penalties may affect McLaren and Alpine totals — treat lower-order points as MEDIUM",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "History Made — What Antonelli's Record Means for F1 [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "What Antonelli's 2026 title means:\n\n✅ Youngest F1 champion ever (20 yrs, 68 days)\n✅ Broke Vettel's 16-year age record\n✅ Italy's 1st champion since Ascari in 1953\n✅ Won it on his debut F1 season\n\nThe sport has a new king. #F1Fanrecap #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-antonelli-history-youngest-champion-italy-records.html",
+        "headline": "Records Shattered: What Antonelli's 2026 Title Means for Formula 1 History",
+        "word_count": 446
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [
+            "HISTORY MADE\" / \"YOUNGEST F1 CHAMPION EVER / ITALY'S FIRST SINCE 1953"
+          ],
+          "composition": "Antonelli portrait or action; historical context visual",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Landscape; Antonelli driving or celebrating",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Historical Context\n**Vettel record:**\n- Sebastian Vettel won his first title aged 23 (2010) — [HIGH, NBC News]\n- Antonelli 3 years younger — [HIGH]\n**Ascari:**\n- Alberto Ascari — Italian champion 1952 and 1953 — [HIGH]\n- No Italian champion in 73 years between Ascari and Antonelli — [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "F1 Heads to São Paulo — Brazilian GP Preview (November 8) [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Next stop: São Paulo.\n\nBrazilian Grand Prix | November 8 | Interlagos.\n\nConstructors' title now the prize. Verstappen in form. Antonelli racing free for the first time.\n\nDon't sleep on Sao Paulo. #F1Fanrecap #F1 #SaoPauloGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#SaoPauloGP"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-sao-paulo-grand-prix-preview-november-8.html",
+        "headline": "F1 Heads to São Paulo: What to Watch at the Brazilian Grand Prix (November 8)",
+        "word_count": 491
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [
+            "SAO PAULO GRAND PRIX\" / \"NOVEMBER 8 | INTERLAGOS"
+          ],
+          "composition": "F1 car on track or circuit aerial; Brazilian GP atmosphere",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Landscape; Norris or Verstappen on track",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "São Paulo GP\n**Schedule:**\n- São Paulo Grand Prix, Autódromo José Carlos Pace (Interlagos), São Paulo, Brazil — [HIGH]\n- Race weekend: November 6-8, 2026; Race day November 8 — [HIGH, RacingNews365 / multiple calendar sources]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

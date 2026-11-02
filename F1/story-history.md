@@ -2,6 +2,45 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-11-02
+
+### STORY 1: Kimi Antonelli Crowned 2026 F1 World Champion — Youngest Ever
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / 2026 F1 World Championship / Mexico City GP
+- **Key facts:** Antonelli clinched title P3 in Mexico (Nov 1); 20 years 68 days old; youngest F1 champion in history; broke Vettel's record (23 in 2010) by 3 years; Italy's first champion since Ascari 1953; 4 races to spare
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: Verstappen Wins Mexico City GP — Hamilton P2, Antonelli P3
+- **Tier:** 1
+- **Category:** Mexico City Grand Prix / Max Verstappen / Lewis Hamilton / Kimi Antonelli
+- **Key facts:** Verstappen wins; Hamilton P2 (+0.799s); Antonelli P3 (+4.006s); Leclerc P4; Norris P5; Russell P6; post-race penalties for Piastri and Alpine drivers reshuffled lower order
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
+### STORY 3: Constructors' Championship — Four Races to Decide Teams' Battle
+- **Tier:** 1
+- **Category:** F1 Constructors Championship / Mercedes / Ferrari / Red Bull / McLaren
+- **Key facts:** Pre-Mexico: Mercedes 607, Ferrari 474, Red Bull 355, McLaren 355; 4 races remain (Sao Paulo, Las Vegas, Qatar, Abu Dhabi); Mercedes leads by 133; Red Bull-McLaren tied
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 4: Historical Significance — Youngest Champion, Italy's First Since Ascari 1953
+- **Tier:** 2
+- **Category:** Kimi Antonelli / F1 History / Records / Alberto Ascari / Sebastian Vettel
+- **Key facts:** 20 yrs 68 days; Vettel record broken; Italy 73-year drought ends; debut season champion; replaces Hamilton at Mercedes
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: São Paulo Grand Prix Preview — November 8, Interlagos
+- **Tier:** 2
+- **Category:** São Paulo Grand Prix / F1 Preview / Interlagos / Constructors battle
+- **Key facts:** Race Nov 8 at Interlagos; post-title Antonelli racing free; constructors' fight now main narrative; Verstappen in form after Mexico win; weather wildcard
+- **Byline:** Elena Voss
+- **Status:** NEW
+
+---
+
 ## 2026-10-31
 
 ### STORY 1: Leclerc Fastest in Mexico FP1 and FP2 — Hamilton Parks Ferrari With Power Issue
