@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## November 2, 2026
+
+| 2026-11-02 | Alcaraz wins Vienna — beats de Minaur 6-1, 6-4 in 97 min; 28th career title; 4th of 2026 (AO, Doha, Tokyo, Vienna); first Vienna crown; dropped no sets across 5 matches; ATP 500 record 16-0 in 2026; H2H vs. de Minaur now 7-0. Sources: ATP Tour, ESPN, France24, KSAT, ABC News, Sofascore | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (2026-11-01 S1: Vienna Final preview → result) |
+| 2026-11-02 | Vacherot wins Basel + Paris R1 setup — beats Lehecka 2-6, 6-3, 6-3; 2nd career title (also won Shanghai 2025); first Monegasque to win Basel; flies to Paris to face Djokovic R1 Monday; H2H 1-0 Vacherot; Lehecka 7-of-9 losses in finals. Sources: Sofascore, France24, ATP Tour, Tennis Majors, TennisTonic | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (2026-11-01 S2: Basel Final preview → result) |
+| 2026-11-02 | Paris Masters Day 1 — Djokovic (10th seed) opens vs. Vacherot (Basel champion); Djokovic needs SF minimum for Turin; Buse (Peru) beats Bergs 6-2, 6-4 (first Peruvian to win at Paris Masters); Sinner defending champion, withdrew (knee); main draw Nov 2-8 La Défense Arena Nanterre. Sources: Tennis Majors, Wikipedia, ATP Tour | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-11-01 S3: Paris draw analysis → Day 1) |
+| 2026-11-02 | ATP Race to Turin Paris decider — 4 confirmed (Zverev/Alcaraz/Shelton/Medvedev); Jodar holds 8th by 24 pts over de Minaur; Cobolli (3,690), Fils (3,535), Tiafoe (3,390), Jodar (3,194) hold spots 5-8; Paris 1,000 pts; Djokovic must win for Turin hopes. Sources: Tennis Majors Race article, prior pipelines | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (2026-11-01 S4: ATP Race update → Paris decider edition) |
+| 2026-11-02 | WTA Finals 6 days — draw Wed Nov 5; play Nov 8-15 Indian Wells; 8 players: Rybakina (defending), Sabalenka, Andreeva, Pegula, Gauff, Svitolina, Noskova, Muchova; Swiatek absent (left thigh); format 2 groups of 4, top 2 advance. Sources: WTA official, Wikipedia, prior pipelines | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-11-01 S5: WTA Finals 7 days → 6 days) |
+
+---
+
+
 ## November 1, 2026
 
 | 2026-11-01 | Vienna Final: Alcaraz vs. de Minaur — Alcaraz leads H2H 6-0; de Minaur beat Zverev 6-4, 1-6, 7-6(4) in SF (trailed 0-3 in final TB); Alcaraz beat Medvedev 6-4, 7-6(2) in SF; Alcaraz chasing 28th career title, 4th of 2026; unbeaten ATP 500 streak 15 matches; Vienna final Sunday Nov 1. Sources: ESPN, NBC Sports, Sky Sports, France24, TennisMajors | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-10-31 S1: Vienna SFs → finals day) |
