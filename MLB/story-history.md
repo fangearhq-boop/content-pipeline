@@ -5,6 +5,62 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## November 2, 2026
+
+### Story 1: Tarik Skubal Free Agency Market Opens Tonight
+- **Date:** 2026-11-02
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Skubal covered Oct 29-Nov 1)
+- **Angle:** 5-day exclusive window expires 5PM ET today. Full market opens. Average projection 8yr/$355M. Mets "committed" (Connor Rogers). Dodgers, Tigers, Cubs, Phillies, Blue Jays also pursuing. $325M floor per ESPN. CBA Dec 1 urgency.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Skubal signing announcement
+  - Mets/Dodgers official offers reported
+
+### Story 2: Teruaki Sato Pursuit — Seven Teams In
+- **Date:** 2026-11-02
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Sato posted Nov 1)
+- **Angle:** Triple Crown winner posted Nov 1 by Hanshin Tigers. .306/.383/.609, 39 HR, 106 RBI. Mets (1B need), Yankees (3B need), Dodgers, Phillies, Mariners, Blue Jays, Giants — 7 teams. 26.7% K rate main concern. 45-day window.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Sato signing announcement
+  - Medical exam/contract framework
+
+### Story 3: Free Agency Day 3 — Giolito, Eflin, Gray, Canning
+- **Date:** 2026-11-02
+- **Tier:** 2
+- **Classification:** FOLLOW UP (FA market covered Oct 30-Nov 1)
+- **Angle:** Padres released Giolito and Canning. Gray and Eflin declined options. Rotation market now deep with multiple tiers. GM meetings Nov 10-12. QO deadline Nov 17.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Gray/Eflin signings
+  - GM meetings outcomes
+
+### Story 4: CBA Countdown — 29 Days
+- **Date:** 2026-11-02
+- **Tier:** 2
+- **Classification:** FOLLOW UP (CBA covered Oct 30-Nov 1)
+- **Angle:** Dec 1 expiration. Owners $245M cap/$171M floor. Union no cap/$300M LTT. ~5% deal odds. Last lockout 99 days. Spring Training Feb 19 at risk. GM meetings Nov 10-12.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - CBA deal or lockout announcement
+  - Dec 1 deadline
+
+### Story 5: Pete Alonso Free Agency — Best Fits
+- **Date:** 2026-11-02
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Alonso FA covered Oct 31)
+- **Angle:** 28 years old, 226 career HR, three 40+ HR seasons. Declined $24M option. Boras client. $150M-$200M projected. Red Sox "perfect fit" per Nightengale. Yankees also top destination. Mets replacing with Sato (1B).
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Alonso signing announcement
+  - Red Sox/Yankees formal offer reported
+
+---
+
+---
+
 ## Pipeline Run: 2026-11-01
 
 ### STORY 1: Teruaki Sato Officially Posted — NPB Triple Crown Winner on the Clock
