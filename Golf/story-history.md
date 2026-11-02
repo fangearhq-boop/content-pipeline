@@ -2,6 +2,18 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-11-02
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-11-02 | T1 | Andrew Novak Wins Mexico Open at Tournament-Record 25-Under, Claims First Solo PGA Title | X(2), FB, Article | FOLLOW UP |
+| 2026-11-02 | T1 | Fichardt Claims Simmons Bank Championship with Final-Hole Eagle — Edges Johnson | X(2), FB, Article | NEW |
+| 2026-11-02 | T2 | Who Is Andrew Novak? From Wofford College to Solo PGA Tour Champion | X(1), FB, Article | FOLLOW UP |
+| 2026-11-02 | T2 | LPGA Season Finale Ahead: The ANNIKA (Nov. 12) and CME Group Tour Championship (Nov. 22) | X(1), FB, Article | NEW |
+| 2026-11-02 | T2 | LIV Golf 2026 Season Review: Rahm Wins Individual Title, Legion XIII Claims Team Crown | X(1), FB, Article | NEW |
+
+---
+
 ## 2026-11-01
 
 | Date | Tier | Title | Platforms | Status |
