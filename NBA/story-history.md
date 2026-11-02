@@ -2,6 +2,45 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-11-02
+
+### STORY 1: Luka Dončić Historic Night — Lakers 131, Raptors 125
+- **Tier:** 1
+- **Category:** Los Angeles Lakers / Toronto Raptors / Luka Dončić / Historic performance
+- **Key facts:** Final score 131-125; Dončić 45 pts (12-23 FG, 8-12 3PM), 15 reb, 6 ast, 5 stl; first player in NBA history with 45+pts/15+reb/5+ast/5+stl/5+3PM; Reaves 19; Kessler 16/15/3 blk; Barnes 29, Barrett 22 for TOR; Lakers 5-2; Nov 1 game
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Warriors 124, Clippers 112 — Lendeborg 37 Without Curry
+- **Tier:** 1
+- **Category:** Golden State Warriors / Los Angeles Clippers / Yaxel Lendeborg / Stephen Curry
+- **Key facts:** Final score 124-112; Lendeborg 37 pts (13-19 FG, 6 3PM, 6 ast); Curry sat out; Lendeborg 2026 first-round pick who "used to hate Curry"; Nov 1 game
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Celtics 108, Magic 97 — Tatum 32, Five Straight Wins
+- **Tier:** 2
+- **Category:** Boston Celtics / Orlando Magic / Jayson Tatum
+- **Key facts:** Final score 108-97; Tatum 32 pts; Celtics 5-game win streak; defending champions rolling; Nov 1 game
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: Nets 98, Pacers 90 — Brooklyn's First Win
+- **Tier:** 2
+- **Category:** Brooklyn Nets / Indiana Pacers / Michael Porter Jr. / Julius Randle
+- **Key facts:** Final score 98-90; Porter Jr. 23 pts/9 reb; Randle 20 pts/6 ast/5 reb; Nets' first win of 2026-27 season; Nov 1 game
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: Monday NBA Preview — Suns at Warriors, Cavaliers at Thunder
+- **Tier:** 2
+- **Category:** NBA Preview / Phoenix Suns / Golden State Warriors / Cleveland Cavaliers / Oklahoma City Thunder
+- **Key facts:** Suns at Warriors 10 PM ET; Cavaliers at Thunder; NBA Cup implications; Lendeborg follow-up storyline
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+---
+
 ## 2026-10-31
 
 ### STORY 1: 76ers 98, Knicks 93 (NBA Cup) — LeBron + Maxey Stun Defending Cup Champions
