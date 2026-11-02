@@ -35,11 +35,32 @@
 - **Generated:** 2026-11-01T08:30:00 UTC
 - **Measured tweet count:** 84
 - **Significant findings:** 2
-  1. `opening=allcaps_lead` WINNER — delta=0.27 (small), p=0.035; winner median 97.5 (n=48) vs loser median 60.5 (n=36). ALL CAPS leads outperform.
+  1. `opening=allcaps_lead` WINNER — dimension=opening=allcaps_lead, delta=0.27 (small), p=0.035; winner median 97.5 (n=48) vs loser median 60.5 (n=36). ALL CAPS leads outperform.
   2. `opening=statement` LOSER — `not_statement` WINNER, delta=0.264 (small), p=0.044; winner median 97.5 (n=52) vs loser median 60.5 (n=32). Plain statement openers underperform.
-- **Action:** All 5 tweets open with ALL CAPS fragment on line 1.
+- **Action:** All 5 tweets open with ALL CAPS fragment on line 1, satisfying both signals simultaneously.
+- **Note:** Third consecutive run with allcaps_lead significant. not_statement also significant again (like Oct 31, not Oct 30). Measured tweet count dropped from 87 (Oct 30) → 84 (Nov 1) — likely a few tweets aged out of the 30-day measurement window. Both effect sizes stable in the 0.26-0.27 range.
 
-## Previous Insights Summary (2026-10-31 run — from 2026-10-31T08:30 UTC snapshot)
+## Previous Run
+- **Date:** 2026-10-31 (Saturday — Off day. Halloween. Free agency opens Monday Nov 2. Gold Gloves TOMORROW Nov 1 ESPN. King free agent, Padres exclusive window closes Monday. Happ QO deadline Monday. Kanzler/Mariners still no hire. AFL: Reid leads AFL with 14 Ks.)
+- **Stories:** 6
+- **X posts:** 6
+- **Platforms:** X/Twitter only
+- **Status:** ✅ Complete
+- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 6 stories, 6 tweets
+- **07-content-data.json:** ✅ Valid JSON, all 6 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 10:45 AM / 12:00 PM / 2:30 PM CT), all strptime-parseable
+- **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
+- **Note:** 2 significant insights applied: allcaps_lead WINNER (delta=0.265, small, p=0.035) + not_statement LOSER (delta=0.259, small, p=0.043). All 6 tweets open with ALL CAPS fragment. Off day — Gold Gloves eve (PCA back-to-back + historic sweep) + 5-SP rotation crisis scope + Happ QO Monday deadline + King/FA opens Monday + Kanzler/Mariners waiting + AFL Reid AFL-leading 14 Ks.
+
+## Insights Summary (2026-11-01 run — from 2026-11-01T08:30 UTC snapshot)
+- **Generated:** 2026-11-01T08:30:00 UTC
+- **Measured tweet count:** 84
+- **Significant findings:** 2
+  1. `opening=allcaps_lead` WINNER — dimension=opening=allcaps_lead, delta=0.27 (small), p=0.035; winner median 97.5 (n=48) vs loser median 60.5 (n=36). ALL CAPS leads outperform.
+  2. `opening=statement` LOSER — `not_statement` WINNER, delta=0.264 (small), p=0.044; winner median 97.5 (n=52) vs loser median 60.5 (n=32). Plain statement openers underperform.
+- **Action:** All 5 tweets open with ALL CAPS fragment on line 1, satisfying both signals simultaneously.
+- **Note:** Third consecutive run with allcaps_lead significant. not_statement also significant again (like Oct 31, not Oct 30). Measured tweet count dropped from 87 (Oct 30) → 84 (Nov 1) — likely a few tweets aged out of the 30-day measurement window. Both effect sizes stable in the 0.26-0.27 range.
+
+## Insights Summary (2026-10-31 run — from 2026-10-31T08:30 UTC snapshot)
 - **Generated:** 2026-10-31T08:30:00 UTC
 - **Significant findings:** 2
   1. `opening=allcaps_lead` WINNER — delta=0.265 (small), p=0.035; winner median 99 (n=47) vs loser median 60 (n=39). ALL CAPS leads outperform.

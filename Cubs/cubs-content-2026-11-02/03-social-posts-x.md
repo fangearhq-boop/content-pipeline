@@ -134,12 +134,12 @@ This farm system isn't done.
 
 | Post | Time (CT) | Type | Chars |
 |------|-----------|------|-------|
-| Post 1 | 7:00 AM | Informative / Morning News | 268 |
-| Post 2 | 8:15 AM | Bold Take / Historical | 270 |
-| Post 3 | 9:30 AM | Informative / Urgency | 271 |
-| Post 4 | 10:45 AM | Bold Take / Offseason | 249 |
-| Post 5 | 12:00 PM | Informative / Stat Breakdown | 202 |
-| Post 6 | 2:30 PM | Org News / Informative | 256 |
-| Post 7 | 3:45 PM | Prospect Feature / Informative | 267 |
+| Post 1 | 7:00 AM | Informative / Morning News | 218 |
+| Post 2 | 8:15 AM | Bold Take / Historical | 247 |
+| Post 3 | 9:30 AM | Informative / Urgency | 254 |
+| Post 4 | 10:45 AM | Bold Take / Offseason | 255 |
+| Post 5 | 12:00 PM | Informative / Stat Breakdown | 261 |
+| Post 6 | 2:30 PM | Org News / Informative | 255 |
+| Post 7 | 3:45 PM | Prospect Feature / Informative | 244 |
 
 All posts ≤280 chars ✓ | All 3 hashtags starting with #Cubs ✓ | No engagement questions ✓ | ALLCAPS leads on all 7 ✓

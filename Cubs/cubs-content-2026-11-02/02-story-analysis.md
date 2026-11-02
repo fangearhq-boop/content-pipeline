@@ -22,7 +22,7 @@ Impact: No game-preview or in-game content. No series-preview slot. Lean into of
 **Finding 1: `opening=allcaps_lead` is WINNER**
 - Median impressions: 107 (allcaps) vs 60.5 (not allcaps)
 - Effect: small (Cliff's delta = 0.304), p = 0.0198, n = 48 winner / 34 loser
-- **Action:** Lead every tweet with an ALL CAPS word or phrase. Applied to all 7 posts.
+- **Action:** Lead every tweet with an ALL CAPS word or phrase. Applied to all 6 posts below.
 
 **Finding 2: `opening=not_statement` beats `statement`**
 - Median impressions: 104 (not_statement) vs 60.5 (statement)
@@ -41,8 +41,8 @@ Impact: No game-preview or in-game content. No series-preview slot. Lean into of
 **Hook:** PETE CROW-ARMSTRONG + ALEX BREGMAN
 **Tier:** 1
 **Slot:** 7:00 AM CT (morning news)
-**Type:** Informative (results delivery)
-**Insights adjustment:** Lead with ALLCAPS result. No plain statement ("The Cubs won two Gold Gloves last night"). Open with the ALLCAPS hook.
+**Type:** Informative (results delivery) → bold take (Ron Santo legacy)
+**Insights adjustment:** Lead with ALLCAPS player names or result. No plain statement ("The Cubs won two Gold Gloves last night"). Open with the ALLCAPS hook.
 
 ---
 
@@ -81,7 +81,7 @@ Impact: No game-preview or in-game content. No series-preview slot. Lean into of
 
 ### Story 5: Rotation Crisis — Full Picture
 
-**Angle:** Five starters on the open market simultaneously. Horton out until July 2027. Frame the scale of the task.
+**Angle:** Five starters on the open market simultaneously. Horton out until July 2027. This is the biggest rotation rebuild challenge in the Hoyer era. Stat it out — frame the scale of the task.
 **Hook:** FIVE STARTERS
 **Tier:** 1
 **Slot:** 12:00 PM CT
