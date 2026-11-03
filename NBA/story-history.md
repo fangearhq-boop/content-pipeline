@@ -835,3 +835,42 @@
 - **Key facts:** Celtics at Magic 3:30 PM ET; Nets at Pacers 5:00 PM ET; Sunday Nov 1; Cup standings update
 - **Byline:** Marcus Cole
 - **Status:** NEW
+
+---
+
+## Run Date: 2026-11-03
+
+### STORY 1: Luka Dončić 42 Pts — Lakers 138, Heat 117
+- **Tier:** 1
+- **Category:** Los Angeles Lakers / Miami Heat / Luka Dončić
+- **Key facts:** Final score 138-117; Luka 42 pts, 13 ast, 7 reb; 14-24 FG, 6-15 3P; 5 straight 37+ games; 38.8 PPG avg; Reaves 27; Giannis 30 for Miami; Lakers 6-2, Heat 2-5; Nov 2
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+
+### STORY 2: Knicks 103, Nets 90 — 15 Straight Rivalry Wins
+- **Tier:** 1
+- **Category:** New York Knicks / Brooklyn Nets
+- **Key facts:** Final score 103-90; Knicks 25-5 in Q4; Shamet 22 for Nets; 15th consecutive Knicks win over Brooklyn; Nov 2
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 3: Kings 94, Mavericks 82 — Sacramento Snaps Skid
+- **Tier:** 2
+- **Category:** Sacramento Kings / Dallas Mavericks
+- **Key facts:** Final score 94-82; Mavs 4-2 entering; Kings hold Dallas to 8 Q4 pts; Nov 2
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 4: Spurs 119, Jazz 97 — Five-Game Win Streak
+- **Tier:** 2
+- **Category:** San Antonio Spurs / Utah Jazz
+- **Key facts:** Final score 119-97; Spurs on 5-game win streak; Nov 2
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 5: NBA Wednesday Preview — Bucks at Celtics Nov 4
+- **Tier:** 2
+- **Category:** NBA Preview / Milwaukee Bucks / Boston Celtics / Oklahoma City Thunder
+- **Key facts:** No games Nov 3; 8 games Wed Nov 4; Bucks at Celtics 7:30 PM ET; Thunder at Blazers 11 PM ET
+- **Byline:** Jake Torres
+- **Status:** NEW

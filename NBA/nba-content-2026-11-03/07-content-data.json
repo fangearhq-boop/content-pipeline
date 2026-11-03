@@ -1,0 +1,253 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-03",
+  "compiled_at": "2026-11-03T11:17:41.262705+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Luka Dončić Scores 42 — Lakers Cruise Past Heat 138-117",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "42 points. 13 assists. 7 rebounds.\n\nLuka Dončić now has FIVE straight games with 37+ points.\n\nLakers 138, Heat 117. He's averaging 38.8 PPG. Unstoppable.\n\n#Lakers #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Lakers",
+            "#NBA"
+          ],
+          "char_count": 167
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Giannis scored 30 last night and still called Luka \"one of the best scorers to play this game.\"\n\nFive straight 37+ point games. Lakers win 138-117.\n\nThat's the Dončić era. #Lakers #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Lakers",
+            "#NBA"
+          ],
+          "char_count": 184
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-luka-42-lakers-138-heat-117.html",
+        "headline": "Luka Dončić Drops 42 Points as Lakers Rout Heat 138-117, Five Straight 37-Point Games",
+        "word_count": 527
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Luka Dončić 42 Pts — Lakers 138, Heat 117\n\n**Image 1A** — Social Post (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Luka Doncic Los Angeles Lakers\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Primary social post image for Story 1\n\n**Image 1B** — Article Hero (1200x630)\n- **Type:** imagn\n- **Search terms:** \"Luka Doncic Lakers\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Article hero for Story 1\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Knicks 103, Nets 90 — New York Extends Rivalry Win Streak to 15",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Knicks trailed. Then they outscored the Nets 25-5 in the fourth quarter.\n\n103-90 final. That's 15 straight wins over Brooklyn.\n\nNew York owns this rivalry. #Knicks #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Knicks",
+            "#NBA"
+          ],
+          "char_count": 172
+        },
+        {
+          "label": "Post 2-2",
+          "text": "15 consecutive wins over the Nets.\n\nNearly 4 years since Brooklyn beat New York.\n\nLandry Shamet had 22 for the Nets. Still not enough.\n\nThe streak lives. 103-90. #Knicks #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Knicks",
+            "#NBA"
+          ],
+          "char_count": 174
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-knicks-103-nets-90-15-straight.html",
+        "headline": "Knicks 103, Nets 90: New York Extends Rivalry Win Streak to 15 With Fourth-Quarter Surge",
+        "word_count": 528
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks 103, Nets 90 — 15 Straight Wins\n\n**Image 2A** — Social Post (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"New York Knicks Brooklyn Nets\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Primary social post image for Story 2\n\n**Image 2B** — Article Hero (1200x630)\n- **Type:** imagn\n- **Search terms:** \"New York Knicks\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Article hero for Story 2\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Kings 94, Mavericks 82 — Sacramento Snaps Skid",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Sacramento held Dallas to 8 fourth-quarter points and won 94-82.\n\nMavs fall to 4-3. Kings get a much-needed win.\n\nOne game at a time for Sacramento. #NBA #Kings",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#Kings"
+          ],
+          "char_count": 160
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-kings-94-mavericks-82.html",
+        "headline": "Kings 94, Mavericks 82: Sacramento Breaks Through With Stifling Fourth Quarter",
+        "word_count": 442
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kings 94, Mavericks 82\n\n**Image 3A** — Social Post (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Sacramento Kings Dallas Mavericks\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Primary social post image for Story 3\n\n**Image 3B** — Social Post (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Sacramento Kings\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Secondary social post image for Story 3\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Spurs Beat Jazz 119-97 — San Antonio Wins Fifth Straight",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Five wins in a row.\n\nThe @spurs stormed past Utah 119-97 on Monday to extend their streak to FIVE straight.\n\nDon't sleep on San Antonio this season. #Spurs #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Spurs",
+            "#NBA"
+          ],
+          "char_count": 160
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-spurs-119-jazz-97-five-game-streak.html",
+        "headline": "Spurs 119, Jazz 97: San Antonio Wins Fifth Straight, Emerging as West Surprise",
+        "word_count": 444
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Spurs 119, Jazz 97\n\n**Image 4A** — Social Post (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"San Antonio Spurs Utah Jazz\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Primary social post image for Story 4\n\n**Image 4B** — Social Post (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"San Antonio Spurs\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Secondary social post image for Story 4\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Wednesday NBA Preview — Bucks at Celtics Headlines 8-Game Slate",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "No games tonight. Wednesday brings 8 NBA games:\n\n🏀 Bucks at Celtics — 7:30 PM ET\n🏀 Thunder at Blazers — 11:00 PM ET\n🏀 Clippers at Suns — 9:00 PM ET\n\nWhich game are you watching? #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 182
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nba-wednesday-preview-nov-4.html",
+        "headline": "NBA Wednesday Preview: Bucks at Celtics Leads Eight-Game Slate on November 4",
+        "word_count": 575
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wednesday NBA Preview\n\n**Image 5A** — Social Post (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Boston Celtics Milwaukee Bucks\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Primary social post image for Story 5\n\n**Image 5B** — Social Post (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Oklahoma City Thunder Portland Trail Blazers\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Secondary social post image for Story 5"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
