@@ -1,5 +1,33 @@
 # Golf Fanrecap — Pipeline Status
 
+## Last Run: 2026-11-03
+
+**Status:** COMPLETE (with known proxy limitations)
+**Niche:** Golf Fanrecap
+**Stories:** 5
+**Articles:** 5
+
+### 2026-11-03 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 29 claims, HIGH: 59; image manifest 10/10 not_started
+- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 0 FB posts (known parsing), 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (22 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy; content-dashboards not in session scope)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: to main
+
+**Stories covered:**
+1. T1 FOLLOW UP: Jon Rahm Exits LIV Golf, Walks Away From $100 Million Over 'Unacceptable' Terms (Marcus Cole)
+2. T1 FOLLOW UP: LIV Golf's Collapse: Chapter 11, $500M in Debt, and an Uncertain Road to 2027 (Jake Torres)
+3. T2 NEW: DP World Tour Championship Preview: Race to Dubai Finale Set for November 12–15 in Dubai (Ryan Calloway)
+4. T2 FOLLOW UP: What's Next for Jon Rahm? A Path From LIV to the DP World Tour — and Eventually the PGA Tour (Marcus Cole)
+5. T2 FOLLOW UP: LPGA Season Finale Stretch: Japan Classic, The ANNIKA, and the $11M CME Tour Championship (Jake Torres)
+
+---
+
 ## Last Run: 2026-11-02
 
 **Status:** COMPLETE (with known proxy limitations)

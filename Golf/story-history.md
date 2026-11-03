@@ -2,6 +2,18 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-11-03
+
+| Date | Tier | Title | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-11-03 | T1 | Jon Rahm Exits LIV Golf, Walks Away From $100 Million Over 'Unacceptable' Terms | X(2), FB, Article | FOLLOW UP |
+| 2026-11-03 | T1 | LIV Golf's Collapse: Chapter 11, $500M in Debt, and an Uncertain Road to 2027 | X(2), FB, Article | FOLLOW UP |
+| 2026-11-03 | T2 | DP World Tour Championship Preview: Race to Dubai Finale Set for November 12–15 in Dubai | X(1), FB, Article | NEW |
+| 2026-11-03 | T2 | What's Next for Jon Rahm? A Path From LIV to the DP World Tour — and Eventually the PGA Tour | X(1), FB, Article | FOLLOW UP |
+| 2026-11-03 | T2 | LPGA Season Finale Stretch: Japan Classic, The ANNIKA, and the $11M CME Tour Championship | X(1), FB, Article | FOLLOW UP |
+
+---
+
 ## 2026-11-02
 
 | Date | Tier | Title | Platforms | Status |
