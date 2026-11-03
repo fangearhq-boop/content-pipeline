@@ -216,7 +216,7 @@ def parse_posts(posts_md: str) -> list[BriefPost]:
 
 
 def verify_brief(posts_md: str, fact_md: str | None) -> Hold:
-    """Return a hold. `ok` is False when the bot must skip or hold the day."""
+    """Return a hold. `ok` is False when the day must be held."""
     messages: list[str] = []
     if fact_md is None or not fact_md.strip():
         return Hold(False, "missing_fact_check_log", ["06-fact-check-log.md is missing or empty"])

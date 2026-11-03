@@ -57,9 +57,8 @@ def pr_body(folder_date: str) -> str:
     date = require_date(folder_date)
     return (
         f"Sooners day folder for {date} (America/Chicago).\n\n"
-        "The daily workflow opens this pull request because main requires one. "
-        "Sooners unit tests and the red-proof guards ran in that same job before merge. "
-        "A pull request opened with the workflow token does not start other workflows.\n"
+        "No scheduled workflow opens this pull request. main requires one, so a "
+        "manual publish opens it and squash-merges it. It does not push to main.\n"
     )
 
 

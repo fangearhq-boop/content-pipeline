@@ -2,8 +2,8 @@
 """Write Sooners/sooners-content-YYYY-MM-DD for a Chicago local date.
 
 No workflow publishes that folder. sooners-x-bot builds its own brief and does
-not read this output. The module remains for the Sooners unit tests and a
-manual dry run.
+not read this output. `--date` still writes the local folder. `--dry-run`
+prints the brief and writes nothing.
 
     python Sooners/generate_daily.py --dry-run
     python Sooners/generate_daily.py --date 2026-10-26

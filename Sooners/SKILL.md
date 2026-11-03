@@ -1,9 +1,11 @@
 # Sooners Fan Recap
 
-Local generator for a Chicago-dated X brief. sooners-x-bot does not read:
+Local generator for a Chicago-dated X brief. The folder date is America/Chicago. The generator writes:
 
 `Sooners/sooners-content-YYYY-MM-DD/03-social-posts-x.md`
 `Sooners/sooners-content-YYYY-MM-DD/06-fact-check-log.md`
+
+sooners-x-bot builds its own brief and does not read those files.
 
 Generate with:
 

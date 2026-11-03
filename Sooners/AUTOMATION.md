@@ -2,7 +2,9 @@
 
 `.github/workflows/sooners-daily.yml` has been removed.
 
-That workflow was the only publisher of `Sooners/sooners-content-YYYY-MM-DD/`. Its publish step failed on every scheduled run that passed the Denver hour gate, because GitHub Actions is not permitted to open pull requests. No day folder from it is on `main`.
+That workflow was the only publisher of `Sooners/sooners-content-YYYY-MM-DD/`. Its publish step failed on every scheduled run that passed the Denver hour gate, because GitHub Actions is not permitted to open pull requests. No day folder from it is on `main`. The branch push succeeded on those runs, so `sooners-daily/YYYY-MM-DD` branches are still on the origin. Nothing in this repo reads them.
+
+This repo does not hold X tokens and it does not call the X API.
 
 fangearhq-boop/sooners-x-bot now builds its own daily brief from its own feeds (PR #8, merge `7ff26dd`). It does not read this repo's Sooners output. Nothing else in content-pipeline, content-dashboards, or cubs-dashboards reads that output either.
 

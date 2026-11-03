@@ -19,7 +19,7 @@ if str(NICHE) not in sys.path:
 import generate_daily  # noqa: E402
 from scripts.run_daily import generate_phase, main as run_main, resolve_request  # noqa: E402
 from sooners_brief.contract import verify_day  # noqa: E402
-from sooners_brief.publish import day_branch, plan_publish, publish  # noqa: E402
+from sooners_brief.publish import day_branch, plan_publish, pr_body, publish  # noqa: E402
 
 DAY = "2026-10-26"
 BRANCH = "sooners-daily/2026-10-26"
@@ -135,6 +135,14 @@ def _checkout_main(repo: Path) -> None:
 
 
 class PublishPlanTests(unittest.TestCase):
+    def test_pr_body_does_not_claim_the_retired_workflow(self):
+        body = pr_body("2026-10-26")
+        self.assertIn("2026-10-26", body)
+        self.assertIn("America/Chicago", body)
+        self.assertIn("does not push to main", body)
+        self.assertNotIn("daily workflow", body.casefold())
+        self.assertNotIn("same job", body.casefold())
+
     def test_branch_name_and_rejected_dates(self):
         self.assertEqual(day_branch("2026-10-28"), "sooners-daily/2026-10-28")
         for raw in ("2026-10-28;id", "2026-10-28 && true", "$(date)", "sooners-daily/2026-10-28", ""):
