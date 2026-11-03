@@ -2,6 +2,50 @@
 
 ---
 
+## November 3, 2026
+
+### Story 1: D11 Bond Election Day: Colorado Springs Voters Decide on $775 Million for School Buildings
+- **Date:** 2026-11-03
+- **Tier:** T1
+- **Pillar:** Local News
+- **Key Facts:** Election Day. D11 $775M bond (Issue 4A) on ballot today. Drop boxes close 7 PM MT. New Holmes Middle School, HVAC at every school, Palmer High + Coronado High upgrades, library renovations. First D11 capital bond since 2004. 2021 bond failed by 11 votes. ~$22/month ($260/year) for average homeowner. d11.org/bond. D20 also has bond on ballot.
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (2026-11-02 S1: Election is tomorrow → today is Election Day; final push)
+
+### Story 2: Colorado Confirms First Child Flu Death This Season — What COS Families Should Do Now
+- **Date:** 2026-11-03
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** First confirmed pediatric flu death of 2026-27 season in Colorado. Child was elementary school-aged, unvaccinated. 2025-26: 8 child deaths, 1,169 hospitalizations statewide (state record). 2026-27 starting earlier than 2025-26. Flu peaks Dec-Jan. AAP recommends annual flu shot for all children 6 months+. Vaccines available at most COS pharmacies and pediatric clinics.
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (2026-11-02 S2: Flu season starting early → first pediatric death confirmed)
+
+### Story 3: CPSC Alert: Multiple Children's Bed Rails Recalled — Check Your Amazon Orders
+- **Date:** 2026-11-03
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** HOMEAL and WYBITNY bed rails formally recalled (CPSC). KOOLDOO, Famill, Yulong Tengfei received urgent stop-use warnings. All sold on Amazon. Hazard: entrapment and asphyxiation. ZMC Group light-up children's toys recall expanded (battery ingestion risk). Action: cpsc.gov, 1-800-638-2772.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY (safety recall roundup)
+
+### Story 4: Veterans Day Weekend in COS: Parade, 5K, and Free Museum Entry for Families
+- **Date:** 2026-11-03
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** In Their Honor Veterans Day Parade: Sat Nov 7, 11 AM, Tejon St, free. Colorado Springs Veterans Day 5K: Sun Nov 8, 9-11 AM, kids race ages 15 and under ($15). ANA Money Museum: 818 N. Cascade Ave, free for children 12 and under.
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (2026-11-02 S4: Veterans Day preview → this weekend guide)
+
+### Story 5: D49 Families: No School This Friday, November 6 — Plan Your Childcare Now
+- **Date:** 2026-11-03
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** D49 no school Friday Nov 6 (professional development day). D49 Board meeting Thursday Nov 5 (d49.org). D49 Thanksgiving break: Nov 23-27. D11 and D20 have separate calendars.
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (2026-11-02 S5: D49 calendar → day-before reminder)
+
+---
+
 ## November 2, 2026
 
 ### Story 1: D11 Bond: Election Is Tomorrow — Here's What COS Parents Need to Know

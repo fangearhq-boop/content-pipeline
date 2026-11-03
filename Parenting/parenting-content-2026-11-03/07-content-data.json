@@ -1,0 +1,251 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-03",
+  "compiled_at": "2026-11-03T19:09:27.436353+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "D11 Bond Election Day — COS Voters Decide $775M for School Buildings Today",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Today is Election Day. D11's $775M bond (Issue 4A) is on the ballot — new Holmes Middle School, HVAC at every school, high school upgrades. Drop boxes close 7 PM tonight. Find a drop box: d11.org/bond #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "Today is the day COS — D11's $775 million bond is on the ballot, and polls are open right now.\n\nHere's what's at stake for families: a new Holmes Middle School, HVAC repairs at every D11 school, upgrades at Palmer High and Coronado High, and library renovations across the district. This is the first D11 capital bond since 2004. A similar bond failed in 2021 by just 11 votes.\n\nIf it passes, the average homeowner would pay about $22 more per month on property taxes. If it fails, the district continues patching aging buildings with existing funding.\n\nStill haven't returned your mail-in ballot? Drop boxes close tonight at 7 PM. You can find the closest drop box at d11.org/bond. D20 families, you have a bond on the ballot today too — check your district's website.\n\nThis one's close enough that every vote counts. Are you voting yes or no today?\n\n---",
+        "image_caption": "",
+        "posting_time": "8:00 AM MT"
+      },
+      "article": {
+        "filename": "article-01-d11-bond-election-day.html",
+        "headline": "D11 Bond Election Day: Colorado Springs Voters Decide on $775 Million for School Buildings",
+        "word_count": 572
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Bond Election Day\n\n**Concept S1-A (X image 1200x675)**\nPrompt: A close-up of a hand placing a ballot envelope into a secure ballot drop box outside a public building in autumn. Warm late-morning sunlight. Clean civic aesthetic, no faces visible. Colorado autumn leaves in soft background bokeh. Warm teal and gold tones. Photorealistic style. Clean bottom third with no text elements.\n\n**Concept S1-B (Facebook image 1200x630)**\nPrompt: An elementary school hallway with lockers and sunlight streaming through windows, clean and well-maintained, warm golden morning light. No students or staff visible. Teal and cream color palette. Architectural photography style. Clean bottom third for text overlay.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Bond Election Day\n- Issue 4A: $775M bond on November 3, 2026 ballot — HIGH (KKTV, CPSC, Gazette, SpringsDaily, D11.org)\n- First D11 capital bond since 2004 — HIGH (Nov 2 pipeline, multiple prior sources)\n- 2021 bond failed by 11 votes — HIGH (prior research, multiple sources)\n- New Holmes Middle School funding — HIGH (D11.org/bond, prior research)\n- HVAC at every D11 school — HIGH (KKTV, D11)\n- Palmer High and Coronado High upgrades — HIGH (D11.org prior research)\n- Library renovations — HIGH (D11 prior research)\n- Average homeowner cost: ~$260/year (~$22/month) — HIGH (KKTV Oct 15: Jason Jorgenson district treasurer)\n- Drop boxes close 7 PM today — HIGH (prior Nov 2 research confirmed)\n- Drop box locations: d11.org/bond — HIGH\n- D20 also has bond on Nov 3 ballot — MEDIUM (referenced in prior research, not freshly confirmed today)\n- Gazette endorses YES — MEDIUM (Colorado Ballot Guide 2026 Nov 3 page, gazette.com)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Colorado Flu Season Update — First Pediatric Death Confirmed, Vaccines Available Now",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Colorado confirmed the first child flu death of 2026-27 season. Child was unvaccinated. Last year: 8 kids died, 1,169 hospitalized — a state record. Flu peaks Dec-Jan. Get vaccinated now. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "10:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "Colorado health officials have confirmed the first child flu death of the 2026-27 season. The child was elementary school age and had not received this year's flu vaccine.\n\nWe know this is hard to read. It's also information that matters.\n\nLast season was Colorado's worst on record for children: 8 kids died and 1,169 were hospitalized — more than any year since the state started tracking. The 2026-27 season is starting earlier than last year. Flu typically peaks in December and January, which means we're heading into the highest-risk window right now.\n\nThe good news: it's not too late. The AAP recommends the annual flu shot for every child 6 months and older, and doses are available at most COS pharmacies and pediatric clinics. If your kids haven't gotten their flu shots yet, this week is a good time.\n\nFamilies whose kids have respiratory illness symptoms — fever, cough, body aches — should call their pediatrician before heading in. Testing is available.\n\nHave your kids gotten their flu shots yet this season?\n\n---",
+        "image_caption": "",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-02-colorado-flu-first-death.html",
+        "headline": "Colorado Confirms First Child Flu Death This Season — What COS Families Should Do Now",
+        "word_count": 717
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Colorado Flu Season\n\n**Concept S2-A (X image 1200x675)**\nPrompt: A child's arm receiving a flu shot from a healthcare provider's gloved hand. Soft clinical setting, blurred background. The child is calm. Warm and reassuring color palette with soft blue and white tones. Photorealistic. Clean bottom third.\n\n**Concept S2-B (Facebook image 1200x630)**\nPrompt: A warm, cozy kitchen scene: a parent's hand offering a glass of orange juice and a wrapped granola bar to a young child at a kitchen table. Autumn light through a window. Teal accents in the background (towel, mug). Photorealistic, inviting tone. Clean bottom third for text overlay.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Colorado Flu Season\n- First pediatric death of 2026-27 season confirmed — HIGH (Denver7/CBS Colorado Nov 2026)\n- Child was elementary-aged, had not received 2026-27 vaccine — HIGH (Denver7)\n- Colorado CDPHE urging vaccination — HIGH (Denver7)\n- Last season: 8 child deaths — HIGH (multiple prior pipelines, UCHealth)\n- Last season: 1,169 child hospitalizations — HIGH (UCHealth, multiple sources)\n- Record hospitalizations in 2025-26 — HIGH (CU Anschutz, multiple sources)\n- Flu peaks December-January, season extends through March-April — HIGH (CU Anschutz physician)\n- AAP recommends shots for all children 6 months+ — HIGH (AAP guidelines)\n- Children under 5 at highest risk — HIGH (CDPHE)\n- COS pharmacies and pediatric clinics have doses — MEDIUM (general statement from prior research)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "CPSC Recall Alert — Children's Bed Rails and Light-Up Toys to Check Now",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "CPSC recall: children's bed rails recalled or flagged as stop-use — HOMEAL, WYBITNY, KOOLDOO, Famill. Sold on Amazon. Entrapment/asphyxiation risk. Also: ZMC light-up toy recall (battery ingestion). Check cpsc.gov. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "12:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "If you've bought children's bed rails or light-up kids' toys from Amazon in the past year or two, take a minute to check this.\n\nThe Consumer Product Safety Commission has issued formal recalls for two brands of children's portable bed rails — HOMEAL and WYBITNY — due to a risk of entrapment and asphyxiation. Three other brands (KOOLDOO, Famill, and Yulong Tengfei) have received urgent stop-use warnings for the same hazard. All of these products were sold through Amazon.\n\nSeparately, ZMC Group has expanded a recall on light-up children's toys over a battery ingestion risk. These toys have small, powerful batteries that can cause serious internal injuries if swallowed.\n\nWhat to do: stop using any recalled product immediately. Don't donate it — it may harm another family. Check cpsc.gov for the specific recall number and remedy options (refund, replacement). You can also search your Amazon order history by brand name. CPSC's hotline is 1-800-638-2772.\n\nIs there a recall here you weren't aware of?\n\n---",
+        "image_caption": "",
+        "posting_time": "12:00 PM MT"
+      },
+      "article": {
+        "filename": "article-03-cpsc-recalls-bed-rails-toys.html",
+        "headline": "CPSC Alert: Multiple Children's Bed Rails Recalled — Check Your Amazon Orders",
+        "word_count": 740
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CPSC Recall Alert\n\n**Concept S3-A (X image 1200x675)**\nPrompt: A close-up of a child's portable bed rail attached to a bed frame, photographed from the side on a neutral background. Soft, clean product photography style. No branding or text visible. Neutral white and grey tones. Clean bottom third.\n\n**Concept S3-B (Facebook image 1200x630)**\nPrompt: A parent looking at their phone with a concerned but calm expression, sitting at a kitchen table. Soft afternoon light. Simple home setting with teal and warm grey tones. No identifiable features in the background. Photorealistic. Clean bottom third for text overlay.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CPSC Recalls\n- WYBITNY bed rails recalled by CPSC — HIGH (cpsc.gov/Recalls/2026)\n- HOMEAL bed rails recalled — HIGH (cpsc.gov/Recalls/2026)\n- KOOLDOO bed rails — CPSC warning (stop using immediately) — HIGH (cpsc.gov/Warnings/2026)\n- Famill bed rails — CPSC warning (stop using immediately) — HIGH (cpsc.gov/Warnings/2026)\n- Yulong Tengfei bed rails — CPSC warning Aug 6, 2026 — HIGH (cpsc.gov/Warnings/2026)\n- Hazard: entrapment/asphyxiation — HIGH (CPSC descriptions)\n- All sold on Amazon — HIGH (CPSC recall pages)\n- ZMC Group light-up toys expanded recall — battery ingestion risk — MEDIUM (Newsweek, prior search)\n- CPSC hotline: 1-800-638-2772 — HIGH (standard)\n- Atoyus activity cubes — choking risk — MEDIUM (Newsweek single source)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Veterans Day Weekend Guide for COS Families — Parade, 5K, and Free Museum Entry",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Veterans Day weekend in COS for families: free parade Sat Nov 7 (11 AM, Tejon St.), kids 5K Sun Nov 8 (9 AM, $15), ANA Money Museum free for kids 12 & under. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "3:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "Veterans Day weekend is coming up, and Colorado Springs has a few good options for families who want to get out and mark the occasion.\n\nOn Saturday, November 7, the In Their Honor Veterans Day Parade kicks off at 11 AM in downtown COS, marching south down Tejon Street. It's free, it's family-friendly, and it's a meaningful hour for kids who are old enough to ask why we honor veterans.\n\nOn Sunday, November 8, the Colorado Springs Veterans Day 5K runs from 9 to 11 AM. There's a kids race for ages 15 and under — registration is $15.\n\nIf you want to add an indoor stop, the ANA Money Museum at 818 N. Cascade Ave. offers free admission for children 12 and under. They have exhibits on coins and currency history that are surprisingly kid-friendly.\n\nThis is one of those weekends where Colorado Springs' deep military roots show up in a tangible way. It's a good opportunity to talk with kids about what service means and who in their community has served.\n\nWhat are your Veterans Day weekend plans?\n\n---",
+        "image_caption": "",
+        "posting_time": "3:00 PM MT"
+      },
+      "article": {
+        "filename": "article-04-veterans-day-weekend-cos.html",
+        "headline": "Veterans Day Weekend in COS: Parade, 5K, and Free Museum Entry for Families",
+        "word_count": 749
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Veterans Day Weekend\n\n**Concept S4-A (X image 1200x675)**\nPrompt: A family of four watching a Veterans Day parade from a sidewalk in a downtown setting. American flags in the background. Morning sunlight. No faces visible. Clean civic/patriotic aesthetic with red, white, and muted gold tones. Photorealistic. Clean bottom third.\n\n**Concept S4-B (Facebook image 1200x630)**\nPrompt: Two children running a 5K race through a park on a crisp autumn morning. Fallen leaves on the path, bright sky. Warm athletic energy. Teal and coral color accents on race numbers (no text on bibs). No faces visible. Photorealistic. Clean bottom third for text overlay.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Veterans Day Weekend\n- Veterans Day Parade Saturday Nov 7, 11 AM, Tejon St — MEDIUM (based on 2025 pattern; 2026 announcement not directly confirmed but Nov 7 is a Saturday)\n- Free admission — MEDIUM (2025 pattern)\n- Veterans Day 5K Sunday Nov 8, 9 AM-11 AM — HIGH (RunSignup listing: Nov 08, 2026 confirmed)\n- Kids 5K (under 15): $15 — MEDIUM (RunSignup listing confirmed for this year)\n- ANA Money Museum 818 N. Cascade Ave — HIGH (confirmed address; prior research)\n- ANA Museum free for kids 12 and under — MEDIUM (2025 pricing; likely still current)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "D49 Families — No School This Friday (Nov 6) + Board Meeting Thursday",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "D49 families: no school this Friday, November 6 (professional development day for staff). D49 board meeting is Thursday Nov 5. If you need childcare Friday, time to line it up. D11 and D20: check your district calendar. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "Quick heads-up for D49 families before Thursday morning gets here.\n\nThere is no school in District 49 this Friday, November 6. It's a professional development day for staff — which means your kids will be home. If you're working Friday and need childcare coverage, now's the time to sort that out.\n\nThe D49 Board of Education also meets Thursday, November 5. If you want to follow along or attend, check d49.org for the meeting agenda and access details.\n\nLooking further ahead: Thanksgiving break for D49 runs November 23-27.\n\nD11 and D20 families, this is a D49-specific calendar item — check your own district's website to confirm your schedule.\n\nAny D49 parents need a quick childcare swap for Friday?\n\n---",
+        "image_caption": "",
+        "posting_time": "8:00 PM MT"
+      },
+      "article": {
+        "filename": "article-05-d49-no-school-friday.html",
+        "headline": "D49 Families: No School This Friday, November 6 — Plan Your Childcare Now",
+        "word_count": 442
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D49 No School Friday\n\n**Concept S5-A (X image 1200x675)**\nPrompt: A kitchen table with a school calendar open, a mug of coffee nearby, and autumn sunlight coming through a window. Casual home planning scene. Teal and gold tones. No text visible on the calendar. Photorealistic, cozy and organized aesthetic. Clean bottom third.\n\n**Concept S5-B (Facebook image 1200x630)**\nPrompt: Two elementary-aged children playing board games at a dining room table on a bright morning. Cozy indoor setting, autumn tones visible through a window. No faces visible. Warm, unhurried vibe. Teal and gold color accents. Photorealistic. Clean bottom third for text overlay."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D49 Calendar\n- D49 Board Meeting: Thursday Nov 5 — HIGH (from Nov 2 pipeline research, D49 calendar)\n- No school D49: Friday Nov 6 (professional development) — HIGH (from Nov 2 pipeline)\n- Thanksgiving break: November 23-27 — HIGH (from Nov 2 pipeline)\n- D11/D20 different calendars — HIGH (general fact)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

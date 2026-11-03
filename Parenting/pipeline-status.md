@@ -1,6 +1,36 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-11-02
+## Current Run: 2026-11-03
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D11 bond Election Day ($775M Issue 4A, drop boxes close 7 PM); Colorado flu first child death 2026-27 season (elementary-aged, unvaccinated; 2025-26: 8 deaths, 1,169 hospitalizations); CPSC recalls (HOMEAL, WYBITNY bed rails formal recall; KOOLDOO, Famill, Yulong Tengfei stop-use warnings; ZMC light-up toys battery ingestion); Veterans Day parade Nov 7 + 5K Nov 8; D49 no school Nov 6 |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Nov 2 S1: election is tomorrow → today is Election Day); S2 FOLLOW-UP (Nov 2 S2: flu season starting early → first pediatric death confirmed); S3 NEW STORY (CPSC recall roundup); S4 FOLLOW-UP (Nov 2 S4: preview → weekend guide); S5 FOLLOW-UP (Nov 2 S5: D49 calendar → day-before reminder) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Sarah Morales [S1, S3], Jamie Rivera [S2, S4, S5] |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, posting windows (8 AM, 10 AM, 12 PM, 3 PM, 8 PM) |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 5 posts; all ≤280 chars (verified by verify-facts); 4 hashtags each |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; no hashtags; engagement questions; 0 exclamation marks |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only concepts; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 D11 bond election day (Sarah Morales T1); article-02 flu first child death (Jamie Rivera T1); article-03 CPSC recalls (Sarah Morales T2); article-04 Veterans Day weekend (Jamie Rivera T2); article-05 D49 no school Friday (Jamie Rivera T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 70 claims; all stories present; PASSED (image not-started warnings expected) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 5 X posts, 5 FB posts, 5 articles, 5 images; validation all clear |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × x_image + facebook_image), all not_started, gemini base_only |
+| Review Dashboard | COMPLETE | review-dashboard.html — 25 items |
+| Publish Dashboard | BLOCKED | proxy 403 (known recurring issue — content-dashboards repo not in session's authorized set) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-11-03.xlsx (5 posts) + cosp-postplanner-tobi-2026-11-03.xlsx (5 TOBI posts) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); 5 HTML article drafts ready for upload |
+| Story History | COMPLETE | Nov 3 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 5 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3], Jamie Rivera [S2, S4, S5])
+- **PostPlanner exports:** 5 posts standard + 5 TOBI
+- **Key stories:** D11 bond Election Day (Issue 4A $775M, drop boxes close 7 PM); Colorado flu first child death 2026-27 season (unvaccinated, flu peaks Dec-Jan); CPSC bed rail recalls + light-up toy battery recall; Veterans Day weekend (parade + 5K); D49 no school Friday Nov 6
+
+---
+
+## Previous Run: 2026-11-02
 
 | Step | Status | Notes |
 |------|--------|-------|
@@ -20,7 +50,7 @@
 | Publish Dashboard | BLOCKED | proxy 403 (known recurring issue — content-dashboards repo not in session's authorized set) |
 | PostPlanner Export | COMPLETE | cosp-postplanner-2026-11-02.xlsx (16 posts) + cosp-postplanner-tobi-2026-11-02.xlsx (11 TOBI posts) |
 | WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles written as 5 HTML drafts, ready for upload |
-| Story History | COMPLETE | Nov 2 section prepended to Parenting/story-history.md |
+| Story History | COMPLETE | Nov 2 section in Parenting/story-history.md |
 
 - **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
 - **Posts:** 6 X posts + 10 FB posts (5 long-form + 5 captions)
