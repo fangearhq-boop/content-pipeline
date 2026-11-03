@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Write Sooners/sooners-content-YYYY-MM-DD for the Chicago local date.
+"""Write Sooners/sooners-content-YYYY-MM-DD for a Chicago local date.
 
-The folder name uses America/Chicago because sooners-x-bot does. The scheduled
-workflow calls this at 7:05 AM America/Denver, which is 8:05 AM Chicago, before
-the 9:00 AM CT slot.
+No workflow publishes that folder. sooners-x-bot builds its own brief and does
+not read this output. The module remains for the Sooners unit tests and a
+manual dry run.
 
     python Sooners/generate_daily.py --dry-run
     python Sooners/generate_daily.py --date 2026-10-26

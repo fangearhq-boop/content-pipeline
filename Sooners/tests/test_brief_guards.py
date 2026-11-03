@@ -613,27 +613,29 @@ BASEBALL.
         posts, facts = render_day(ON, drafts)
         self.assertTrue(verify_brief(posts, facts).ok, verify_brief(posts, facts).summary())
 
-    def test_workflows_keep_the_review_guards(self):
-        daily = (ROOT / ".github/workflows/sooners-daily.yml").read_text(encoding="utf-8")
-        ci = (ROOT / ".github/workflows/sooners-brief-ci.yml").read_text(encoding="utf-8")
+    def test_daily_publisher_workflow_is_retired(self):
+        workflow_dir = ROOT / ".github" / "workflows"
+        self.assertFalse((workflow_dir / "sooners-daily.yml").exists())
+        for path in sorted(workflow_dir.glob("*.yml")):
+            text = path.read_text(encoding="utf-8")
+            self.assertNotIn("sooners-daily", text, path.name)
+            self.assertNotIn("run_daily.py", text, path.name)
+            self.assertNotIn("denver_gate.py", text, path.name)
+
+        ci = (workflow_dir / "sooners-brief-ci.yml").read_text(encoding="utf-8")
         publish = (NICHE / "sooners_brief" / "publish.py").read_text(encoding="utf-8")
         self.assertIn("^[0-9]{4}-[0-9]{2}-[0-9]{2}$", publish)
-        self.assertIn("Sooners/scripts/denver_gate.py", daily)
-        self.assertIn("Sooners/scripts/run_daily.py generate", daily)
-        self.assertIn("Sooners/scripts/run_daily.py publish", daily)
-        self.assertIn("prove_accuracy_red.py", daily)
-        self.assertIn("contents: write", daily)
-        self.assertIn("pull-requests: write", daily)
-        self.assertIn("refs/heads/main", daily)
-        self.assertNotIn("git push origin HEAD:main", daily)
-        self.assertNotIn("--auto", daily)
         self.assertNotIn("--admin", publish)
         self.assertIn('"--squash"', publish)
         self.assertNotIn("--auto", publish)
         self.assertIn("paths:", ci)
         self.assertIn("Sooners/**", ci)
+        self.assertIn(".github/workflows/sooners-*.yml", ci)
         self.assertIn("branches:", ci)
         self.assertIn("- main", ci)
+        self.assertIn("contents: read", ci)
+        self.assertNotIn("contents: write", ci)
+        self.assertNotIn("pull-requests: write", ci)
         self.assertNotRegex(ci, r"^on:\n\s+push:\n\s*$")
 
     def test_prove_accuracy_red_script(self):

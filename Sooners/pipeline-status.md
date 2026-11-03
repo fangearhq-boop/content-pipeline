@@ -1,13 +1,11 @@
 # Sooners Pipeline Status
 
-No Chicago day folder is on main yet. The 2026-10-27 run wrote a folder and GitHub rejected the push to main.
+`.github/workflows/sooners-daily.yml` has been removed. The publish step failed on every run that reached it, and no `sooners-content-YYYY-MM-DD/` folder is on main.
 
-The next folder is written by `.github/workflows/sooners-daily.yml` at 7:05 AM America/Denver after the pull-request publish path is on main. That run uses the America/Chicago date. 2026-10-27 can be skipped.
+sooners-x-bot (PR #8, `7ff26dd`) builds its own daily brief and does not read this folder. Leave the cron retired.
 
-Manual generation:
+A manual dry run prints a brief and does not write a folder:
 
 ```bash
 python Sooners/generate_daily.py --dry-run
 ```
-
-A dry run prints the brief and does not write `sooners-content-YYYY-MM-DD/`.

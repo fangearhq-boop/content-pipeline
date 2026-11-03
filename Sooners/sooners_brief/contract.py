@@ -1,10 +1,12 @@
-"""Parse and hold Sooners briefs the way sooners-x-bot does.
+"""Parse and hold Sooners briefs.
 
-sooners-x-bot reads America/Chicago
+sooners-x-bot used to read America/Chicago
 `Sooners/sooners-content-YYYY-MM-DD/03-social-posts-x.md` and
-`06-fact-check-log.md`. Numeric claims in a post are publishable only when a
-fact-check row is exactly VERIFIED and its source host is allowlisted. The day
-verdict the bot accepts is the phrase "Acceptable for social".
+`06-fact-check-log.md`. It now builds its own brief and does not read this
+repo. These rules still guard any folder this generator writes. Numeric claims
+in a post are publishable only when a fact-check row is exactly VERIFIED and
+its source host is allowlisted. The day verdict is the phrase "Acceptable for
+social".
 
 mlb.com, statsapi.mlb.com, and baseball-reference.com are never valid sources.
 """
@@ -26,7 +28,7 @@ FACT_NAME = "06-fact-check-log.md"
 VERDICT = "Acceptable for social"
 X_LIMIT = 280
 
-# Six college slots. Chicago is what the bot schedules. Denver is the same
+# Six college slots. Chicago is the folder clock. Denver is the same
 # instant, one hour earlier while both zones are on daylight time, and still
 # one hour earlier in standard time.
 COLLEGE_SLOTS = (

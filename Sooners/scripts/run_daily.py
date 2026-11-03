@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Generate a Sooners day, then publish it through a pull request.
 
+No GitHub Actions workflow calls this module. sooners-x-bot does not read
+the folder it writes. Tests still call `generate` and `publish`.
+
 `generate` resolves the Chicago date from the environment, skips work when
 main or an open pull request already has a valid folder, and writes the
 folder only when this run must create or refresh the branch.

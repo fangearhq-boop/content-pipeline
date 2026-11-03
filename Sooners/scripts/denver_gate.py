@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
-"""Decide whether the Sooners schedule job should write a day folder.
+"""Decide whether a scheduled Sooners run should write a day folder.
 
-Hours 07 and 08 America/Denver proceed. Any other scheduled hour skips.
-A manual run is not hour-gated. The generator itself no-ops when that
-Chicago folder is already valid, so a second hit inside the window does
-not write again.
+The daily workflow that called this gate has been removed. Hours 07 and 08
+America/Denver proceed. Any other scheduled hour skips. A manual run is not
+hour-gated. Tests still cover the hour table.
 """
 
 from __future__ import annotations
