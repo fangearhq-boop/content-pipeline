@@ -1,0 +1,254 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-03",
+  "compiled_at": "2026-11-03T11:24:48.832503+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Hamilton Demands \"Serious Talks\" at Ferrari After Leclerc Mexico Clash",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Lewis Hamilton has had enough.\n\nAfter Leclerc's aggressive Turn 4 move in Mexico — which earned a 5-second penalty — Hamilton is demanding \"serious talks\" within Ferrari before Brazil.\n\nThe tension at Maranello is boiling. #F1 #Ferrari",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Ferrari"
+          ],
+          "char_count": 235
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Martin Brundle fears another Hamilton-Leclerc clash is coming at Brazil.\n\nFerrari's team boss says the Mexico incident will be addressed before São Paulo.\n\nWill they race as teammates or rivals? #F1 #Ferrari",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Ferrari"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-hamilton-leclerc-ferrari-mexico-clash.html",
+        "headline": "Hamilton Demands \"Serious Talks\" at Ferrari After Leclerc Mexico Clash",
+        "word_count": 544
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton-Leclerc Ferrari Tension\n\n**Image 1A** — Social Post (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Lewis Hamilton Ferrari\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Primary social post image for Story 1\n\n**Image 1B** — Social Post (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Charles Leclerc Ferrari\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Secondary social post for Story 1\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Antonelli Arrives in Brazil as Champion, to Wear Senna Tribute Helmet",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Kimi Antonelli arrives at Interlagos as the 2026 F1 World Champion 🏆\n\nHis first race as champion. A special Ayrton Senna tribute helmet. The 35th anniversary of Senna's legendary 1991 win at his home circuit.\n\nThis weekend is going to be special. #F1 #AntoBrazil",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AntoBrazil"
+          ],
+          "char_count": 262
+        },
+        {
+          "label": "Post 2-2",
+          "text": "In 1991, Ayrton Senna won at Interlagos in front of his home crowd.\n\n35 years later, Kimi Antonelli races as F1 champion at the same circuit — wearing a helmet in Senna's honor.\n\nOne of the most special weekends in F1 history. #F1 #Senna",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Senna"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-antonelli-champion-senna-tribute-brazil.html",
+        "headline": "Antonelli Arrives at Interlagos as Champion, to Wear Special Senna Tribute Helmet",
+        "word_count": 582
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli First Race as Champion\n\n**Image 2A** — Social Post (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Kimi Antonelli Mercedes\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Primary social post for Story 2\n\n**Image 2B** — Article Hero (1200x630)\n- **Type:** imagn\n- **Search terms:** \"Kimi Antonelli\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Article hero for Story 2\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Mercedes Can Clinch Constructors' Championship at São Paulo GP",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Mercedes enters Brazil with a 126-point constructors' championship lead over Ferrari.\n\nThey could clinch the 2026 F1 Constructors' title THIS WEEKEND at Interlagos.\n\nA title double — Drivers' AND Constructors' — could be confirmed Sunday. #F1 #Mercedes",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Mercedes"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-mercedes-constructors-title-sao-paulo.html",
+        "headline": "Mercedes Can Clinch 2026 F1 Constructors' Title at São Paulo Grand Prix",
+        "word_count": 509
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Mercedes Constructors' Title\n\n**Image 3A** — Social Post (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Mercedes Formula 1\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Primary social post for Story 3\n\n**Image 3B** — Social Post (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"George Russell Mercedes\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Secondary social for Story 3\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "São Paulo GP Preview — Schedule, Thunderstorm Warning, Five Key Battles",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "⚠️ THUNDERSTORMS forecast for qualifying at Interlagos on Saturday.\n\nSão Paulo GP weekend starts Friday. Race: Sunday Nov 8 at 12:00 PM ET.\n\n71 laps. 4.309 km. And a storm could shake everything up. 🌩️ #F1 #BrazilGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BrazilGP"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-sao-paulo-gp-preview-schedule.html",
+        "headline": "São Paulo GP Preview: Schedule, Thunderstorm Warning, and Five Key Storylines",
+        "word_count": 551
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "São Paulo GP Preview\n\n**Image 4A** — Social Post (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Interlagos Formula 1\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Social post for Story 4\n\n**Image 4B** — Social Post (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Brazil Grand Prix Formula 1\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Secondary social for Story 4\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Ferrari's Internal Battle: How Leclerc and Hamilton Must Repair Trust Before Brazil",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Ferrari needs maximum points in Brazil.\n\nThat means Hamilton and Leclerc — who clashed at Turn 4 in Mexico — MUST work together this weekend.\n\nEasier said than done. The tension is real. #F1 #Ferrari",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Ferrari"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-ferrari-hamilton-leclerc-trust-brazil.html",
+        "headline": "Ferrari's Internal Battle: Why Hamilton and Leclerc Must Repair Trust Before Brazil",
+        "word_count": 548
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ferrari Internal Battle\n\n**Image 5A** — Social Post (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Ferrari Formula 1 team\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Social post for Story 5\n\n**Image 5B** — Social Post (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Hamilton Leclerc Ferrari pit\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Secondary social for Story 5"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

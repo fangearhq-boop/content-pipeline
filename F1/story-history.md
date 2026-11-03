@@ -478,3 +478,42 @@
 - **Key facts:** 2,240m altitude; 71 laps; 4.304km circuit; championship on the line; tire strategy; 5 races remaining post-Mexico
 - **Byline:** Elena Voss
 - **Status:** NEW
+
+---
+
+## Run Date: 2026-11-03
+
+### STORY 1: Hamilton Demands "Serious Talks" — Ferrari Mexico Fallout
+- **Tier:** 1
+- **Category:** Lewis Hamilton / Charles Leclerc / Scuderia Ferrari
+- **Key facts:** Hamilton demanded "serious talks" after Leclerc Turn 4 incident in Mexico; Leclerc got 5-sec penalty; Hamilton questioned leniency; Brundle fears another Brazil clash; Vasseur to address before São Paulo
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 2: Antonelli Arrives in Brazil as Champion, Senna Tribute Helmet
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / São Paulo GP
+- **Key facts:** First race as 2026 champion; special Senna tribute helmet; 35th anniversary of Senna's 1991 Interlagos win; Antonelli age 20
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 3: Mercedes Can Clinch Constructors' Title at São Paulo
+- **Tier:** 1
+- **Category:** Mercedes / F1 Constructors' Championship
+- **Key facts:** Mercedes 126-point lead over Ferrari; can clinch at São Paulo Nov 8; title double possibility
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
+### STORY 4: São Paulo GP Preview — Schedule, Thunderstorm Warning
+- **Tier:** 2
+- **Category:** São Paulo GP / Interlagos
+- **Key facts:** Nov 6-8; 4.309 km / 71 laps; race 12:00 PM ET Sunday; thunderstorms forecast Saturday qualifying; conventional format
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 5: Ferrari Internal Battle — Leclerc and Hamilton Trust
+- **Tier:** 2
+- **Category:** Charles Leclerc / Lewis Hamilton / Ferrari
+- **Key facts:** Ferrari needs clean racing in Brazil; Mexico tensions must be resolved; historical pattern of intra-team conflict
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
