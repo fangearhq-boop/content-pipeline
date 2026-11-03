@@ -1,1 +1,1 @@
-"""Sooners daily brief: files sooners-x-bot reads from this repo."""
+"""Sooners daily brief generator. sooners-x-bot does not read this output."""

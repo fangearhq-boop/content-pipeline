@@ -1,8 +1,10 @@
 """Land a Sooners day folder through a pull request.
 
-main requires a pull request (ruleset 25839983). This module pushes
-`sooners-daily/YYYY-MM-DD`, opens one pull request, and squash-merges it.
-It does not bypass the ruleset and it does not use auto-merge.
+The scheduled workflow that called this module has been removed. The functions
+remain so tests can still prove a manual publish would open one pull request
+and squash-merge it. main requires a pull request (ruleset 25839983). This
+module pushes `sooners-daily/YYYY-MM-DD`, opens one pull request, and
+squash-merges it. It does not bypass the ruleset and it does not use auto-merge.
 
 Actions:
 
@@ -55,9 +57,8 @@ def pr_body(folder_date: str) -> str:
     date = require_date(folder_date)
     return (
         f"Sooners day folder for {date} (America/Chicago).\n\n"
-        "The daily workflow opens this pull request because main requires one. "
-        "Sooners unit tests and the red-proof guards ran in that same job before merge. "
-        "A pull request opened with the workflow token does not start other workflows.\n"
+        "No scheduled workflow opens this pull request. main requires one, so a "
+        "manual publish opens it and squash-merges it. It does not push to main.\n"
     )
 
 
@@ -293,10 +294,10 @@ def _explain(argv: list[str], stderr: str) -> str:
     hint = ""
     if "create or approve pull request" in text or "not permitted to create" in text:
         hint = (
-            "GitHub refused to let this workflow open a pull request. "
+            "GitHub refused to let this token open a pull request. "
             'Steve: Settings → Actions → General → Workflow permissions → enable '
             '"Allow GitHub Actions to create and approve pull requests". '
-            "This workflow does not change that setting.\n"
+            "This module does not change that setting.\n"
         )
     elif any(token in text for token in ("review required", "approving review", "code owner")):
         hint = (
@@ -306,10 +307,8 @@ def _explain(argv: list[str], stderr: str) -> str:
             "changes and as inert when required approvals are 0. If merge still asks "
             'for a review, Steve clears "Require approval for unattributed changes" on '
             'ruleset "main: pull requests (admins + service-tokens app exempt)". '
-            "Do not bypass the ruleset. If that flag has to stay, push the day folders "
-            "to an unprotected branch such as sooners-briefs (the ruleset targets only "
-            "the default branch) and point sooners-x-bot's raw-content ref at that "
-            "branch instead of main. This workflow does not change the bot.\n"
+            "Do not bypass the ruleset. sooners-x-bot builds its own brief and does not "
+            "read a branch in this repo.\n"
         )
     shown = " ".join(argv)
     detail = stderr.strip()

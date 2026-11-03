@@ -1,8 +1,6 @@
 # Sooners Fan Recap — Niche Configuration
-# Daily X brief consumed by fangearhq-boop/sooners-x-bot.
-# The bot reads Sooners/sooners-content-YYYY-MM-DD/ (America/Chicago date):
-#   03-social-posts-x.md
-#   06-fact-check-log.md
+# The scheduled publisher was removed. fangearhq-boop/sooners-x-bot builds its
+# own brief and does not read Sooners/sooners-content-YYYY-MM-DD/.
 
 brand_name: "Sooners Fan Recap"
 brand_short: "SOON"
@@ -10,13 +8,13 @@ content_prefix: "sooners-content"
 parent_brand: "FanGear HQ"
 account: "@SoonersFanRecap"
 
-# Text-only. sooners-x-bot posts the fenced tweet, not an image.
+# Text-only niche. No article images.
 photo_source: "none"
 
 platforms:
   - x_twitter
 
-# Slot clock the bot schedules. Denver is the same instant.
+# Slot clock for a generated brief. Denver is the same instant.
 timezone: "America/Chicago"
 denver_timezone: "America/Denver"
 default_schedule:

@@ -4,15 +4,13 @@ on:
   pull_request:
     paths:
       - "Sooners/**"
-      - ".github/workflows/sooners-brief-ci.yml"
-      - ".github/workflows/sooners-daily.yml"
+      - ".github/workflows/sooners-*.yml"
   push:
     branches:
       - main
     paths:
       - "Sooners/**"
-      - ".github/workflows/sooners-brief-ci.yml"
-      - ".github/workflows/sooners-daily.yml"
+      - ".github/workflows/sooners-*.yml"
 
 permissions:
   contents: read
