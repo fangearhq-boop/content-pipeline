@@ -1,6 +1,36 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-11-02
+## Current Run: 2026-11-03
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Paris Day 2: Musetti d. Hurkacz 7-6(3), 7-6(10) (4 match points saved); Humbert d. VdZ 7-6, 6-7, 6-3; Jodar d. Tabilo 6-2, 6-3; Djokovic d. Vacherot 6-7(5), 7-5, 6-1 (shoulder treatment, 3 BPs saved at 4-4, 2h35m); Alcaraz/Zverev enter Wednesday; WTA Finals Nov 8-15 Indian Wells, full field: Rybakina, Sabalenka, Andreeva, Noskova, Pegula, Gauff, Svitolina, Muchova (3 debutants) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Nov 2 S3: Paris Day 1 → Djokovic result); S2 NEW (Paris Day 2 results); S3 FOLLOW-UP (Nov 2 S4: ATP Race → Paris update); S4 FOLLOW-UP (Nov 2 S5: WTA Finals 6 days → 5 days); S5 NEW (Alcaraz Paris curse feature) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Marcus Cole [S1, S4], Elena Voss [S2, S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on Djokovic Race points (from Oct 29), draw opponent Michelsen/Lehecka pending |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars (238, 227, 197, 198, 232, 243, 215) |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 8 imagn concepts across 5 stories; player-name-only search terms |
+| Articles (5) | COMPLETE | article-01 Djokovic beats Vacherot (Marcus Cole T1); article-02 Paris Day 2 Musetti (Elena Voss T1); article-03 ATP Race update (Ryan Calloway T2); article-04 WTA Finals preview (Marcus Cole T2); article-05 Alcaraz Paris curse (Elena Voss T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 25 claims auto-extracted; all stories present in all content files; PASSED; image warnings cosmetic (not_started) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles; posting window warnings (cosmetic) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 8 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-11-03.xlsx + tfr-postplanner-tobi-2026-11-03.xlsx — 7 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 3 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Elena Voss [S2, S5], Ryan Calloway [S3])
+- **Key stories:** Djokovic d. Vacherot 6-7(5) 7-5 6-1 (shoulder scare, 3 BPs saved, Turin still alive); Musetti d. Hurkacz 7-6 7-6(10) (4 match points saved, faces Zverev); Jodar wins to hold 9th in Race; WTA Finals 5 days (Indian Wells, 3 debutants, full field); Alcaraz Paris curse feature (8 Masters titles, zero Paris SFs)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known)
+
+---
+
+## Previous Run: 2026-11-02
 
 | Step | Status | Notes |
 |------|--------|-------|

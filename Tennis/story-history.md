@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## November 3, 2026
+
+| 2026-11-03 | Djokovic beats Vacherot in Paris R1 — 6-7(5), 7-5, 6-1; 2h35m; shoulder treatment at 2-1 down in 2nd set; saved 3 BPs at 4-4; dominated 3rd; next: Hijikata; 11th in Race (2,940 pts, 319 behind Jodar in 9th); needs SF minimum for Turin. Sources: Sky Sports, Tennis Up To Date, Tennis World USA | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-11-02 S3: Paris Day 1 preview → result) |
+| 2026-11-03 | Paris Masters Day 2 — Musetti d. Hurkacz 7-6(3), 7-6(10) (Hurkacz saved 4 match points); Humbert d. Van de Zandschulp 7-6(5), 6-7(9), 6-3; Jodar d. Tabilo 6-2, 6-3; Alcaraz/Zverev enter Wednesday; Musetti next faces Zverev. Sources: Tennis Majors, Flashscore, Sports Infos | T1 | X, FB, Article | Elena Voss; NEW STORY |
+| 2026-11-03 | ATP Race to Turin Paris update — Jodar (9th) and Djokovic both won Monday; gap barely moved; Djokovic still 319 pts behind Jodar; confirmed qualifiers: Zverev, Alcaraz, Shelton, Medvedev; Race ends after Paris Sunday. Sources: Tennis Up To Date, ATP official Oct 29 data, multiple | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (2026-11-02 S4: Race update) |
+| 2026-11-03 | WTA Finals 5 days — Indian Wells Nov 8-15; draw Wed Nov 5; full 8-player field: Rybakina (defending), Sabalenka, Andreeva, Noskova, Pegula, Gauff, Svitolina, Muchova; 3 debutants: Andreeva, Noskova, Muchova; moved from Riyadh; prize $15.5M; Swiatek absent (injury). Sources: Wikipedia qualification table Nov 2, TennisNerd, Tennis Up To Date, WTA | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-11-02 S5: WTA Finals 6 days → 5 days) |
+| 2026-11-03 | Alcaraz Paris curse — 8 Masters titles, zero Paris Masters SFs; enters as No. 2 seed with bye; plays Wednesday vs Michelsen or Lehecka; coming off Vienna title (16-0 ATP 500 2026); ATP Finals already qualified; 23 years old. Sources: Tennis Watcher feature, prior research | T2 | X, FB, Article | Elena Voss; NEW STORY |
+
+---
+
+
 ## November 2, 2026
 
 | 2026-11-02 | Alcaraz wins Vienna — beats de Minaur 6-1, 6-4 in 97 min; 28th career title; 4th of 2026 (AO, Doha, Tokyo, Vienna); first Vienna crown; dropped no sets across 5 matches; ATP 500 record 16-0 in 2026; H2H vs. de Minaur now 7-0. Sources: ATP Tour, ESPN, France24, KSAT, ABC News, Sofascore | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (2026-11-01 S1: Vienna Final preview → result) |
