@@ -5,6 +5,66 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-11-04 (OFF DAY — Offseason. Kanzler hired as Mariners manager (Nov 3) — Cubs lose farm director. PCA officially NL MVP finalist (45 HR, 41 SB, Gold Glove). Cubs declined Happ QO (Suzuki only). King market open to all teams. Rotation still blank. AFL: Reid AFL-leading 14 Ks. Insights: not_brief WINNER (large, delta=0.829) + not_200-260 chars WINNER (small, delta=0.261).)
+
+### STORY 1: Jason Kanzler Hired as Mariners Manager — Cubs Lose Farm Director
+- **Angle:** BREAKING (follow-up from Nov 2 "Kanzler/Mariners decision expected this week"). Seattle officially hired Kanzler as manager on Nov 3. Cubs lose their player development director (3-year tenure) in the same week they need to rebuild the rotation. Hoyer must fill a critical front office hole.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, org news / breaking)
+- **Follow-Up Opportunities:**
+  - Cubs name new player development director → Tier 2 org news
+  - Ryan Otero role changes → Tier 3 note
+  - Cubs farm system ranking impact → Tier 2 analysis
+
+### STORY 2: Pete Crow-Armstrong Named NL MVP Finalist
+- **Angle:** FOLLOW UP (BBWAA finalists announced Nov 2; "BBWAA finalists Nov 3/4" flagged in Nov 2 story history). Three finalists: PCA, Ohtani, Turang. PCA: 45 HR, 41 SB (40-40 season), back-to-back Gold Glove CF. Award announced Nov 12.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take / award season)
+- **Follow-Up Opportunities:**
+  - NL MVP announced Nov 12 → Tier 1 reaction (celebration if PCA wins, reaction if Ohtani/Turang)
+  - Silver Slugger finalists Nov 2 → announced Nov 17 (PCA, Hoerner mentioned)
+  - BBWAA awards week (Nov 9-12): daily award coverage
+
+### STORY 3: Cubs Decline Ian Happ Qualifying Offer
+- **Angle:** FOLLOW UP (Happ QO tracked Oct 20–Nov 2; deadline Nov 2 5 PM ET). Cubs extended QO only to Seiya Suzuki ($23.15M). Happ and Matthew Boyd are unencumbered free agents. Cubs' decision signals they're not banking on Happ's return.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, roster analysis / informative)
+- **Follow-Up Opportunities:**
+  - Suzuki accepts QO → Tier 2 confirmation (retained)
+  - Suzuki declines QO → Tier 1 (opens market, picks up comp pick)
+  - Happ signs elsewhere → Tier 2 reaction
+  - Cubs sign OF in FA → Tier 2 (depth piece)
+
+### STORY 4: Michael King Open to All Teams — Padres Window Closed
+- **Angle:** FOLLOW UP (King opt-out Oct 29; Padres exclusive window Nov 2). Window closed Nov 2 — Cubs and 29 other teams can now bid. King: 3.21 ERA, 32 starts 2026. Market projection: 4-5 years, $118-140M.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, analysis / urgency)
+- **Follow-Up Opportunities:**
+  - Cubs formally meet with King → Tier 2 update
+  - King signs with Cubs → Tier 1 breaking (major rotation addition)
+  - King signs elsewhere → Tier 1 reaction, Cubs pivot
+  - Market reports / competing offers → Tier 2 updates
+
+### STORY 5: Cubs Rotation Enters 2027 as Blank Slate
+- **Angle:** FOLLOW UP (5-SP FA situation tracked since Oct 30; cumulative framing). Five starters all free agents. Horton out until July 2027. Steele rehabbing TJ. ZERO confirmed starters for 2027. Hoyer: pitching is the top priority. Rosenthal: at least two SP additions expected.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, stat breakdown / informative)
+- **Follow-Up Opportunities:**
+  - Cubs sign first SP → Tier 1 breaking
+  - Skubal negotiations open → Tier 2 update
+  - King or Gausman agreement → Tier 1
+  - Rotation picture comes into focus → weekly framing tweet
+
+### STORY 6: Dominick Reid AFL — Follow-Up Update
+- **Angle:** FOLLOW UP (AFL covered extensively Oct 22–Nov 2; Reid AFL-leading 14 Ks through Nov 2). Today = fresh note on changeup 60-grade evaluation and continued dominance. Came back from mid-2026 impingement.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, prospect feature)
+- **Follow-Up Opportunities:**
+  - AFL Week 7 update → Reid start No. 4+, Snell/Cabral stats
+  - AFL MVP award Nov 14 → if Reid nominated
+  - Reid 2027 spring training timeline
+
+---
 ## 2026-11-02 (OFF DAY — Free agency open. Gold Gloves announced Nov 1: PCA back-to-back CF, Bregman 3B (only 2nd Cub after Ron Santo). Happ QO deadline today (5 PM ET, decision unknown). King Padres window closes today — Cubs in play. Kanzler/Mariners decision expected this week. AFL: Reid still leads with 14 Ks. Insights: allcaps_lead WINNER (small, delta=0.304) + not_statement WINNER (small, delta=0.294).)
 
 ### STORY 1: Gold Gloves — PCA Back-to-Back + Bregman Makes History
