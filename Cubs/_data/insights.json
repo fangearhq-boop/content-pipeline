@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-04T17:26:41.410570+00:00",
+  "generated_at": "2026-11-04T18:20:32.018619+00:00",
   "account": "cubs",
   "window_days": 21,
   "tweet_count": 81,
   "measured_tweet_count": 81,
   "measured_median_impressions": 103,
-  "measured_mean_impressions": 1734.85,
+  "measured_mean_impressions": 1739.56,
   "median_impressions": 103,
-  "mean_impressions": 1734.85,
+  "mean_impressions": 1739.56,
   "max_impressions": 92564,
   "significant_findings": [
     {
@@ -239,10 +239,10 @@
       },
       "11": {
         "n": 5,
-        "mean": 616.2,
+        "mean": 692.4,
         "median": 661,
         "top": {
-          "impressions": 999,
+          "impressions": 1380,
           "text": "Porter Hodge is back. RHP activated from the 60-day IL.\n\nBullpen gets reinforcements.\n\n#Cubs #GoCubs #MLB"
         }
       },
@@ -331,7 +331,7 @@
       },
       "Tue": {
         "n": 17,
-        "mean": 397.88,
+        "mean": 420.29,
         "median": 95,
         "top": {
           "impressions": 2355,
@@ -387,11 +387,11 @@
     "by_content_type": {
       "transaction": {
         "n": 8,
-        "mean": 630.12,
+        "mean": 677.75,
         "median": 693.5,
         "top": {
-          "impressions": 1055,
-          "text": "Ben Brown's back. RHP activated off the 60-day IL and ready to bolster the rotation depth.\n\n#Cubs #GoCubs #MLB"
+          "impressions": 1380,
+          "text": "Porter Hodge is back. RHP activated from the 60-day IL.\n\nBullpen gets reinforcements.\n\n#Cubs #GoCubs #MLB"
         }
       },
       "recap_longform": {
@@ -425,7 +425,7 @@
       },
       "statement": {
         "n": 31,
-        "mean": 3585.1,
+        "mean": 3597.39,
         "median": 95,
         "top": {
           "impressions": 92564,
@@ -445,11 +445,11 @@
     "by_len_bucket": {
       "<140": {
         "n": 8,
-        "mean": 630.12,
+        "mean": 677.75,
         "median": 693.5,
         "top": {
-          "impressions": 1055,
-          "text": "Ben Brown's back. RHP activated off the 60-day IL and ready to bolster the rotation depth.\n\n#Cubs #GoCubs #MLB"
+          "impressions": 1380,
+          "text": "Porter Hodge is back. RHP activated from the 60-day IL.\n\nBullpen gets reinforcements.\n\n#Cubs #GoCubs #MLB"
         }
       },
       "260+": {
@@ -474,7 +474,7 @@
     "by_hashtag_count": {
       "3": {
         "n": 75,
-        "mean": 472.61,
+        "mean": 477.69,
         "median": 95,
         "top": {
           "impressions": 11494,
@@ -494,7 +494,7 @@
     "by_has_score": {
       "False": {
         "n": 65,
-        "mean": 2134.8,
+        "mean": 2140.66,
         "median": 109,
         "top": {
           "impressions": 92564,
@@ -514,7 +514,7 @@
     "by_has_stat": {
       "False": {
         "n": 57,
-        "mean": 593.28,
+        "mean": 599.96,
         "median": 102,
         "top": {
           "impressions": 11494,
@@ -534,7 +534,7 @@
     "by_has_emoji_first_line": {
       "False": {
         "n": 75,
-        "mean": 1867.03,
+        "mean": 1872.11,
         "median": 109,
         "top": {
           "impressions": 92564,
@@ -554,7 +554,7 @@
     "by_has_allcaps": {
       "True": {
         "n": 78,
-        "mean": 1799.97,
+        "mean": 1804.86,
         "median": 107.0,
         "top": {
           "impressions": 92564,
@@ -576,7 +576,7 @@
     "by_content_type": {
       "transaction": {
         "n": 8,
-        "mean_rate": 0.0073,
+        "mean_rate": 0.0072,
         "median_rate": 0.0077
       },
       "recap_longform": {
@@ -598,7 +598,7 @@
       },
       "statement": {
         "n": 15,
-        "mean_rate": 0.0058,
+        "mean_rate": 0.0057,
         "median_rate": 0.0067
       },
       "stat_lead": {
@@ -622,7 +622,7 @@
     "by_has_stat": {
       "False": {
         "n": 28,
-        "mean_rate": 0.0057,
+        "mean_rate": 0.0056,
         "median_rate": 0.0055
       },
       "True": {
