@@ -1,6 +1,26 @@
-# Cubs Pipeline Status — Updated 2026-11-02
+# Cubs Pipeline Status — Updated 2026-11-04
 
 ## Latest Run
+- **Date:** 2026-11-04 (Wednesday — Off day. Kanzler hired as Mariners manager Nov 3. PCA NL MVP finalist (45 HR, 41 SB, Gold Glove). Cubs declined Happ QO (Suzuki only). King market open. Rotation blank. AFL Reid 14 Ks.)
+- **Stories:** 6
+- **X posts:** 6
+- **Platforms:** X/Twitter only
+- **Status:** ✅ Complete
+- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 6 stories, 6 tweets
+- **07-content-data.json:** ✅ Valid JSON, all 6 posts with posting_time (7:00 AM / 8:15 AM / 9:30 AM / 10:45 AM / 12:00 PM / 2:30 PM CT), all strptime-parseable
+- **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
+- **Note:** 2 significant insights applied: not_brief WINNER (large, delta=0.829, p=0.0) + not_200-260 chars WINNER (small, delta=0.261, p=0.0488). Posts 1–2 target 260–280 chars; posts 3–6 target <200 chars. All "not_brief" content types (analysis, roster news, stat breakdown, prospect feature). Off day — Kanzler/Mariners (breaking) + PCA MVP finalist + Happ QO declined + King open market + rotation blank slate + AFL Reid.
+
+## Insights Summary (2026-11-04 run — from 2026-11-04T08:30 UTC snapshot)
+- **Generated:** 2026-11-04T08:30:00 UTC
+- **Measured tweet count:** 82
+- **Significant findings:** 2
+  1. `content_type=brief` LOSER — `not_brief` WINNER, delta=0.829 (large), p=0.0; winner median 629 (n=12) vs loser median 83 (n=70). Non-brief content types massively outperform.
+  2. `len_bucket=200-260` LOSER — `not_200-260` WINNER, delta=0.261 (small), p=0.0488; winner median 110 (n=51) vs loser median 62 (n=31). Avoid 200–260 char tweets.
+- **Action:** All 6 tweets labeled as substantive types (analysis, roster news, stat breakdown, prospect feature). Tweets 1–2 in 260–280 range (264 chars each). Tweets 3–6 under 200 chars (153–190 chars). No tweets in the 200–260 loser zone.
+- **Note:** Major signal shift from prior runs. allcaps_lead and not_statement are no longer in significant_findings for today — they are NOT applied (even though prior runs showed them as significant). not_brief effect is enormous (delta=0.829, 629 vs 83 median impressions) — strongest signal seen in this pipeline. Measured tweet count stable at 82.
+
+## Previous Run
 - **Date:** 2026-11-02 (Monday — Off day. Free agency open. Gold Gloves Nov 1: PCA back-to-back CF GG, Bregman 3B GG (only 2nd Cub after Ron Santo). Happ QO deadline TODAY 5 PM ET — no Cubs announcement yet. King Padres window closes today → Cubs in play. Kanzler/Mariners decision expected this week. AFL: Reid AFL-leading 14 Ks, 1.50 ERA.)
 - **Stories:** 7
 - **X posts:** 7
