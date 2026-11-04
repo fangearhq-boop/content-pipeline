@@ -2,6 +2,50 @@
 
 ---
 
+## November 4, 2026
+
+### Story 1: D11 Bond Appears to Pass — First School Construction Win in 20 Years
+- **Date:** 2026-11-04
+- **Tier:** T1
+- **Pillar:** Local News
+- **Key Facts:** Early unofficial results show D11 Issue 4A passing ~51.4% (Gazette election-night). First D11 capital bond since 2004 if certified. $775M. Projects: new Holmes Middle School, HVAC district-wide, Palmer + Coronado High renovations. D11 board met Nov 4. Results not certified; El Paso County canvass takes weeks. 2021 bond failed by 11 votes upon recount.
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (2026-11-03 S1: Election Day → results)
+
+### Story 2: Flu Season Is Here: What COS Families Should Know Before Thanksgiving
+- **Date:** 2026-11-04
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** Colorado's first child flu death of 2026-27 season confirmed Nov 3. Season tracking early. Flu peaks Dec-Jan. AAP: annual flu shot for all children 6 months+. Flu shots available at Walgreens, King Soopers, Safeway. CDPHE sick-day protocol: fever-free 24 hrs before return. Thanksgiving travel amplifies risk.
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (2026-11-03 S2: First child death confirmed → action guide)
+
+### Story 3: This Weekend in COS: Veterans Day Parade, 5K, and Family Events Nov 7–10
+- **Date:** 2026-11-04
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** In Their Honor Veterans Day Parade: Saturday Nov 7, 11 AM, Tejon Street (St. Vrain to Vermijo). Turkey Trails 5K: Sunday Nov 8, 8 AM, kids 5K ($15, ages 15 and under). Veterans Day: Wednesday Nov 11. COS military community: Fort Carson, USAFA, Peterson, Schriever, Cheyenne Mountain.
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (2026-11-02 S4 / 2026-11-03 S4: Veterans Day preview → weekend is here)
+
+### Story 4: D49 and D11 Families: Plan Now for the No-School Days Coming This Week
+- **Date:** 2026-11-04
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** D49: no school Friday Nov 6 (staff PD). D11 PreK: no school Nov 6 (staff PD). D11 all grades: no school Monday Nov 9 (staff PD). D11 and D49 Thanksgiving break Nov 23-27.
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (2026-11-03 S5: D49 no-school reminder → extended with D11 dates)
+
+### Story 5: Talking to Kids About Veterans Day: Age-by-Age Guide for COS Families
+- **Date:** 2026-11-04
+- **Tier:** T2
+- **Pillar:** Evergreen
+- **Key Facts:** Veterans Day honors living veterans; Memorial Day honors fallen. Nov 11 = Armistice Day 1918. COS is one of largest active-duty military cities in US. Ages 3-5: simple concrete framing. Ages 6-10: service, sacrifice, branches. Ages 11+: nuance, Veterans vs. Memorial Day distinction.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY (timely evergreen — Veterans Day approaching)
+
+---
+
 ## November 3, 2026
 
 ### Story 1: D11 Bond Election Day: Colorado Springs Voters Decide on $775 Million for School Buildings

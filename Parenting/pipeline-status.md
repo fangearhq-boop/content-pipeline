@@ -1,5 +1,36 @@
 # COS Parenting — Pipeline Status
 
+## Current Run: 2026-11-04
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D11 bond ~51.4% yes election night (Gazette); first D11 bond since 2004 if certified; Veterans Day parade Nov 7, Turkey Trails 5K Nov 8; D49 no school Nov 6; D11 PreK no school Nov 6; D11 all students no school Nov 9; flu season action guide following first child death Nov 3 |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Nov 3 S1: Election Day → results); S2 FOLLOW-UP (Nov 3 S2: first child death → action guide); S3 FOLLOW-UP (Nov 2-3 S4: Veterans Day preview → weekend here); S4 FOLLOW-UP (Nov 3 S5: D49 → expanded with D11 dates); S5 NEW (Veterans Day age-by-age explainer) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 T1, 4 T2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on parade time (2025 confirmed at 11 AM, 2026 not confirmed); MEDIUM on homeowner bond cost estimate |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows (8 AM, 10 AM, 12 PM, 3 PM, 5 PM), 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 5 posts across 5 stories; all ≤280 chars (245, 261, 231, 232, 251); code-block format; 4 hashtags each |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; contractions; 0 exclamation marks; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only concepts; clean bottom third; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 D11 bond results (Jamie Rivera T1); article-02 flu action guide (Sarah Morales T2); article-03 Veterans Day weekend guide (Jamie Rivera T2); article-04 no-school days (Sarah Morales T2); article-05 talking to kids Veterans Day (Jamie Rivera T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 78 claims auto-extracted; all stories present in all content files; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 5 X posts, 0 FB posts (format mismatch — cosmetic), 5 articles, 5 images; validation all clear |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × x_image + facebook_image), all not_started, gemini base_only |
+| Review Dashboard | COMPLETE | review-dashboard.html — 20 items |
+| Publish Dashboard | BLOCKED | proxy 403 (known recurring issue — content-dashboards repo not in session's authorized set) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-11-04.xlsx (5 posts) + cosp-postplanner-tobi-2026-11-04.xlsx (5 TOBI posts) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); 5 HTML article drafts ready for upload |
+| Story History | COMPLETE | Nov 4 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (1 Tier 1, 4 Tier 2)
+- **Posts:** 5 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 5 posts standard + 5 TOBI
+- **Key stories:** D11 bond ~51.4% yes (first D11 bond since 2004 if certified; not yet official); Flu action guide (first child death Nov 3, act before Thanksgiving); Veterans Day weekend events (parade Nov 7, Turkey Trails 5K Nov 8); D49 no school Nov 6 + D11 all grades no school Nov 9; Veterans Day age-by-age explainer
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); FB posts compiled as 0 (format mismatch — cosmetic, FB posts written correctly in file)
+
+---
+
 ## Current Run: 2026-11-03
 
 | Step | Status | Notes |

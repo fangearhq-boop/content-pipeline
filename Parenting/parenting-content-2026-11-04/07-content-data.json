@@ -1,0 +1,251 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-04",
+  "compiled_at": "2026-11-04T12:24:46.205331+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "D11 Bond Appears to Pass — First School Construction Win in 20 Years",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Early results show D11's $775M bond is on pace to pass — first D11 bond since 2004. New schools, AC upgrades, Palmer + Coronado renovations. Not certified yet, but it looks promising. 🏫 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 AM MT",
+          "tweet_type": "FOLLOW-UP (2026-11-03 S1: Election Day → results night)",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM MT"
+      },
+      "article": {
+        "filename": "article-01-d11-bond-results-pass.html",
+        "headline": "D11 Bond Appears to Pass — First School Construction Win in 20 Years",
+        "word_count": 536
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Bond Results\n\n**Image 1 (X/Twitter — 1200x675):**\n- Type: x_image\n- Gemini prompt: A warm, optimistic aerial-style illustration of a modern elementary school building in a Colorado mountain community at golden hour. Clean brick architecture with large windows, a tidy courtyard with colorful play equipment, autumn-leaf trees lining the parking lot, blue sky with light clouds. Soft warm tones — teal, coral, gold accents. No text, no people, no logos. Clean blank space in the bottom third for text overlay. Hopeful, community-focused mood. Painterly-realist art style.\n- Caption idea: D11 bond results — COS schools update\n\n**Image 2 (Facebook — 1200x630):**\n- Type: facebook_image\n- Gemini prompt: A bright, welcoming illustration of a school hallway interior with new HVAC vents visible in the ceiling, colorful student artwork on the walls, clean tile floors, natural light streaming from windows at the end. Warm community feel, diverse group of empty student backpacks hanging on hooks (no people). Teal and gold color palette. Bottom third is clean open space. No text, no logos, no brands. Modern, hopeful, school-improvement mood.\n- Caption idea: What the D11 bond could mean for COS schools\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Bond Results\n**Sources:** The Gazette election-night reporting (gazette.com), KOAA election coverage\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| D11 Issue 4A received approximately 51.41% yes votes as of 7:15 PM MT election night | HIGH | Gazette election-night |\n| A later Gazette live blog update showed 51.43% yes, 48.57% no as of 8:44 PM MT | HIGH | Gazette live blog |\n| The measure is a $775 million capital bond | HIGH | Multiple sources, prior pipelines |\n| Projects include new Holmes Middle School, HVAC at all schools, Palmer and Coronado High renovations | HIGH | D11.org/bond, prior pipelines |\n| Average homeowner cost estimated at ~$22/month ($260/year) | MEDIUM | Prior pipeline coverage (single source estimate) |\n| Last successful D11 capital bond was in 2004 | HIGH | Gazette election coverage |\n| 2021 D11 bond failed by 11 votes upon recount | HIGH | Gazette, prior pipelines |\n| Results are not yet certified; El Paso County canvass takes weeks | HIGH | Standard Colorado election process |\n| D11 Board regular meeting is scheduled for November 4, 2026 | HIGH | D11 website, confirmed by web search |\n**MEDIUM confidence notes:**\n- Exact certified margin won't be known for weeks; write as \"early results\" or \"unofficial results\"\n- D20 also had a bond measure on the same ballot; D20 details not researched for this story",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Flu Season Is Here: What COS Families Should Know Before Thanksgiving",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Colorado confirmed its first child flu death this season. Flu peaks Dec-Jan. If your family hasn't gotten flu shots yet, most COS pharmacies have walk-in availability now. Act before Thanksgiving. 💉 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "10:00 AM MT",
+          "tweet_type": "FOLLOW-UP (2026-11-03 S2: First child flu death confirmed → action guide)",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-02-flu-season-action-guide.html",
+        "headline": "Flu Season Is Here: What COS Families Should Do Before Thanksgiving",
+        "word_count": 609
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Flu Season Action Guide\n\n**Image 1 (X/Twitter — 1200x675):**\n- Type: x_image\n- Gemini prompt: A clean, clinical-but-warm illustration of a pharmacist or medical professional's hand holding a flu vaccine vial with a syringe, against a soft blurred background of pharmacy shelves. Warm teal and white color palette. Bright natural lighting. No text, no logos, no brand names. Bottom third is clean and open for text overlay. Professional yet approachable mood. Flat illustration style with soft shadows.\n- Caption idea: Flu shots available now in COS\n\n**Image 2 (Facebook — 1200x630):**\n- Type: facebook_image\n- Gemini prompt: A cozy Colorado family home kitchen scene in autumn — a steaming mug of tea on a wooden table, a thermometer next to a tissue box, a window showing fall leaves and mountains in the background. Warm amber and teal tones. No people. Clean bottom third for text. No text, no labels, no branded items. The mood is caring, practical, comforting. Painterly illustration style.\n- Caption idea: Flu season preparation for COS families\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Flu Season Action Guide\n**Sources:** Prior pipeline research (Nov 3 S2), CDC, AAP guidance\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Colorado confirmed first pediatric flu death of 2026-27 season on Nov 3, 2026 | HIGH | Prior pipeline (Nov 3 S2) |\n| Child was elementary school-aged and unvaccinated | HIGH | Prior pipeline |\n| 2025-26 season: 8 child flu deaths and 1,169 hospitalizations statewide | HIGH | Prior pipeline |\n| 2026-27 season starting earlier than 2025-26 | HIGH | UCHealth (prior pipeline) |\n| Flu typically peaks December through January in Colorado | HIGH | CDC seasonal data |\n| AAP recommends annual flu shot for all children 6 months and older | HIGH | AAP official guidance |\n| Flu shots available at Walgreens, King Soopers, Safeway, and pediatric clinics in COS | MEDIUM | General pharmacy availability; confirm specific locations with provider |\n| D11 and D49 follow standard CDPHE sick-day guidance: students with fever stay home 24 hrs after fever-free | MEDIUM | Standard Colorado policy; not confirmed specific to these districts for 2026-27 |\n**LOW confidence / do not use:**\n- Specific COS flu case counts for 2026-27 (not found)\n- School outbreak reports for COS (not found)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "This Weekend in COS: Veterans Day Parade, 5K, and Family Events Nov 7–10",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "COS Veterans Day weekend: Sat Nov 7 — In Their Honor Parade, 11 AM, Tejon Street. Sun Nov 8 — Turkey Trails 5K + Kids 5K ($15, ages 15 and under), 8 AM. Bring the kids. 🎖️ #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "12:00 PM MT",
+          "tweet_type": "FOLLOW-UP (2026-11-02 S4 / Nov 3 S4: Veterans Day coverage → now it's this weekend)",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM MT"
+      },
+      "article": {
+        "filename": "article-03-veterans-day-weekend-guide.html",
+        "headline": "Veterans Day Weekend Guide: Parade, 5K, and Family Events in Colorado Springs",
+        "word_count": 662
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Veterans Day Weekend Guide\n\n**Image 1 (X/Twitter — 1200x675):**\n- Type: x_image\n- Gemini prompt: A vibrant street-level illustration of a parade on a wide downtown Colorado city street in autumn. American flags lining the sidewalks, colorful uniforms in the distance, golden trees, a crisp blue sky. Crowds of people cheering (shown from behind or as silhouettes, no identifiable faces). Patriotic but warm, community-celebration mood. Teal, gold, red, white color accents. Clean blank bottom third. Painterly-realist style.\n- Caption idea: Veterans Day parade in Colorado Springs\n\n**Image 2 (Facebook — 1200x630):**\n- Type: facebook_image\n- Gemini prompt: Warm autumn morning scene of a mountain trail race start line — a simple banner, pine trees, Rocky Mountain peaks in the background dusted with early snow, golden morning light. A few runner silhouettes at the start line (no identifiable faces, diverse mix suggested). Energetic, family-friendly mood. Colorado fall color palette — teal, orange, gold. Clean bottom third. No text, no logos. Painterly illustration.\n- Caption idea: Turkey Trails 5K — Veterans Day weekend\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Veterans Day Weekend Events\n**Sources:** Web search results, prior pipeline coverage (Nov 2 S4, Nov 3 S4)\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Annual Veterans Day parade in COS is run by \"In Their Honor\" organization | HIGH | Multiple prior sources |\n| 2025 parade was on Saturday Nov 8, 11 AM, Tejon Street, St. Vrain to Vermijo Avenue | HIGH | KOAA, Gazette 2025 |\n| 2026 parade expected Saturday Nov 7 — the Saturday closest to Veterans Day Nov 11 | MEDIUM | Inferred from annual pattern; not confirmed for 2026 |\n| Turkey Trails 5K scheduled Sunday Nov 8, 2026, 8 AM | MEDIUM | Prior pipeline coverage (Nov 2-3); confirmation from RunSignup site showing Nov 8 |\n| Kids 5K at Turkey Trails: ages 15 and under, $15 | MEDIUM | RunSignup listing from search results |\n| Veterans Day is November 11, 2026 (Wednesday) | HIGH | Calendar fact |\n| Most Colorado Springs area schools observe Veterans Day on Monday Nov 10 | MEDIUM | Prior pipeline; standard practice for mid-week federal holidays |\n**Note:** 2026 parade time not confirmed in search results. 2025 was 11 AM; 2024 was delayed to noon due to weather. Write as \"historically at 11 AM\" and advise checking the In Their Honor website for 2026 confirmation.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "No-School Days Coming Up — Plan Now for the D49 and D11 Long Weekend",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "COS families: D49 students off Friday Nov 6. D11 PreK also off Nov 6. All D11 students off Monday Nov 9. Plan childcare now — Veterans Day weekend events fill in nicely. 📅 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "3:00 PM MT",
+          "tweet_type": "FOLLOW-UP (2026-11-03 S5: D49 no-school reminder → extended planning with D11 PreK + Nov 9 date)",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM MT"
+      },
+      "article": {
+        "filename": "article-04-no-school-days-plan.html",
+        "headline": "D49 and D11 Families: Plan Now for the No-School Days Coming This Week",
+        "word_count": 487
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "No-School Days\n\n**Image 1 (X/Twitter — 1200x675):**\n- Type: x_image\n- Gemini prompt: A flat illustration of a family calendar on a wall in a bright home — November month view with certain dates circled or highlighted in teal and coral colors (no specific text readable, just decorative circles). Autumn-themed kitchen background with a warm light and mountains visible through a window. Clean, organized, planning-focused mood. Warm home palette. Bottom third is clean open space for text. No readable text on the calendar, just decorative marks. Modern flat illustration style.\n- Caption idea: Plan ahead — COS no-school days coming up\n\n**Image 2 (Facebook — 1200x630):**\n- Type: facebook_image\n- Gemini prompt: A cheerful outdoor scene of a Colorado community park on a crisp autumn day — empty playground equipment (swings, slide, climbing frame) surrounded by orange and yellow aspen trees, the Rocky Mountains visible in the distance, blue sky. Bright, inviting, day-off-from-school mood. Teal and gold color palette. Clean bottom third. No people, no text. Painterly illustration style.\n- Caption idea: D49 and D11 no-school days this week\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "No-School Days\n**Sources:** D11 website, D49 official communications (via prior pipelines)\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| D49 has no school Friday Nov 6, 2026 (staff professional development day) | HIGH | D49 official calendar, prior pipelines (Nov 2-3) |\n| D11 has no PreK students on Nov 6 (PreK PD day) | HIGH | D11 website (November 4 board meeting listing) |\n| D11 has no students Nov 9, 2026 (staff PD day) | HIGH | D11 website |\n| D11 regular board meeting is Nov 4, 2026 | HIGH | D11 website |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Talking to Kids About Veterans Day: Age-by-Age Guide for COS Families",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Kids asking what Veterans Day means? Ages 3-5: \"People who kept us safe.\" Ages 6-10: service, sacrifice, the branches. Ages 11+: nuance. The Saturday parade on Tejon is the best classroom. 🫡 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "5:00 PM MT",
+          "tweet_type": "NEW STORY (timely evergreen — Veterans Day approaching, no previous \"how to explain\" angle)",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM MT"
+      },
+      "article": {
+        "filename": "article-05-talking-to-kids-veterans-day.html",
+        "headline": "Talking to Kids About Veterans Day: An Age-by-Age Guide for COS Families",
+        "word_count": 818
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Talking to Kids About Veterans Day\n\n**Image 1 (X/Twitter — 1200x675):**\n- Type: x_image\n- Gemini prompt: A warm, respectful illustration of a row of American flags placed along a neighborhood sidewalk at golden hour in autumn, with Colorado mountain peaks faintly visible in the background. Fallen leaves on the ground, soft warm light. Patriotic, reflective, community mood. Red, white, blue with warm amber and teal accents. Clean blank bottom third. No text, no people, no logos. Painterly-realist style.\n- Caption idea: Honoring veterans with your kids\n\n**Image 2 (Facebook — 1200x630):**\n- Type: facebook_image\n- Gemini prompt: A soft, warm illustration of an adult hand and a small child's hand together holding a small American flag, shot from above against a background of autumn grass and fallen leaves. No identifiable faces, diverse skin tones implied. Emotional, intergenerational, tender mood. Gold, teal, warm brown palette. Clean bottom third for text overlay. No text, no logos. Painterly illustration with soft focus.\n- Caption idea: Talking to kids about Veterans Day"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Talking to Kids About Veterans Day\n**Sources:** General child development/parenting knowledge + AAP guidance\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Veterans Day commemorates the end of World War I (Nov 11, 1918, Armistice Day) | HIGH | Historical fact |\n| Veterans Day honors all living veterans; Memorial Day honors fallen service members | HIGH | VA, official distinction |\n| Colorado Springs has significant military community (Fort Carson, Peterson SFB, Schriever SFB, USAFA, Cheyenne Mountain) | HIGH | Widely reported, local knowledge |\n| Child development guidance: ages 3-5 understand concrete/literal concepts; ages 6-10 can understand broader concepts of service; 11+ can engage with nuance | MEDIUM | General child dev consensus; not from specific AAP study |\n**Note:** Story 5 is primarily evergreen guidance; keep facts simple and high-confidence.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
