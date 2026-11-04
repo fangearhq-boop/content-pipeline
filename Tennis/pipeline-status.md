@@ -1,6 +1,37 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-11-03
+## Current Run: 2026-11-04
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Paris Day 3: Paul d. Rune 7-5 6-4; Berrettini d. Nakashima 6-4 3-6 7-6(8); Fritz d. Bonzi 3-6 6-3 6-4; Zverev vs Musetti (scheduled today); Alcaraz vs Michelsen (scheduled today); WTA Finals draw out: Group 1 Rybakina/Gauff/Pegula/Noskova, Group 2 Sabalenka/Andreeva/Svitolina/Muchova |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Nov 3 S4: WTA Finals 5 days → draw out); S2 NEW (Paris Day 3 results); S3 FOLLOW-UP (Nov 3 S2: Musetti beat Hurkacz → Zverev match today); S4 FOLLOW-UP (Nov 3 S5: Alcaraz curse → match day); S5 FOLLOW-UP (Nov 3 S3: Race update → Day 3 results) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (4 T1, 1 T2); bylines: Ryan Calloway [S1, S4], Marcus Cole [S2, S5], Elena Voss [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on Musetti H2H count (3-2 from TennisTemple), Alcaraz H2H vs Michelsen (single source), Race standings from Nov 3 |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 9 posts across 5 stories; all ≤280 chars (213, 204, 234, 203, 216, 189, 203, 225, 222) |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories; player-name-only search terms |
+| Articles (5) | COMPLETE | article-01 WTA Finals draw (Ryan Calloway T1); article-02 Paris Day 3 results (Marcus Cole T1); article-03 Zverev-Musetti preview (Elena Voss T1); article-04 Alcaraz-Michelsen preview (Ryan Calloway T1); article-05 ATP Race update (Marcus Cole T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 19 claims auto-extracted; all stories present in all content files; PASSED; image not_started warnings expected |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 9 X posts, 0 FB posts (format cosmetic), 5 articles, 5 images; validation all clear |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 24 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-11-04.xlsx + tfr-postplanner-tobi-2026-11-04.xlsx — 9 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 4 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (4 Tier 1, 1 Tier 2)
+- **Posts:** 9 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Ryan Calloway [S1, S4], Marcus Cole [S2, S5], Elena Voss [S3])
+- **PostPlanner exports:** 9 posts standard + 9 TOBI
+- **Key stories:** WTA Finals draw out (Rybakina/Gauff Group 1, Sabalenka Group 2, opens Nov 8); Paris Day 3 Paul d. Rune 7-5 6-4, Berrettini d. Nakashima 7-6(8), Fritz d. Bonzi 6-4; Zverev vs Musetti today (Musetti H2H 3-2, saved 4 MPs); Alcaraz vs Michelsen today (8 Paris visits, 0 SFs); Race Paul/Fritz alive
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known)
+
+---
+
+## Previous Run: 2026-11-03
 
 | Step | Status | Notes |
 |------|--------|-------|

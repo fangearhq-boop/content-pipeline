@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## November 4, 2026
+
+| 2026-11-04 | WTA Finals draw out — Group 1: Rybakina (1), Gauff (4), Pegula (5), Noskova (8); Group 2: Sabalenka (2), Andreeva (3), Svitolina (6), Muchova (7); Rybakina opens vs Noskova noon PT Nov 8; prize $15.5M; Indian Wells; 3 debutants (Andreeva, Noskova, Muchova); Swiatek absent. Sources: Tennis365, WTATennis.com, Tennisnerd.net, BNP Paribas Open | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (2026-11-03 S4: WTA Finals 5 days → draw out) |
+| 2026-11-04 | Paris Day 3 results — Paul d. Rune 7-5 6-4 (Paul 12th seed; Rune 2022 champion); Berrettini d. Nakashima 6-4 3-6 7-6(8) (Berrettini completes career Masters 1000 set); Fritz d. Bonzi 3-6 6-3 6-4 (Bonzi qualifier). Sources: ATP Tour results, Tennis365, TennisTemple | T1 | X, FB, Article | Marcus Cole; NEW STORY |
+| 2026-11-04 | Zverev vs. Musetti preview — World No. 1 Zverev (1st seed, bye R1) vs Musetti (beat Hurkacz 7-6(3) 7-6(10), saved 4 MPs); Musetti leads H2H 3-2; Court Central today; Zverev needs Paris title for year-end No. 1 confirmation. Sources: TennisTemple, Tennis365, TennisMajors | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (2026-11-03 S2: Musetti beat Hurkacz → faces Zverev today) |
+| 2026-11-04 | Alcaraz vs. Michelsen preview — Alcaraz (2nd seed) vs Michelsen (beat Lehecka); Alcaraz 0 Paris SFs in 8 appearances; H2H Alcaraz leads 1-0; Alcaraz won Vienna last week (28th title, 4th of 2026). Sources: ESPN, Tennis Majors, prior pipeline | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (2026-11-03 S5: Paris curse feature → match day today) |
+| 2026-11-04 | ATP Race to Turin update — Paul and Fritz wins add pressure; Jodar holds 8th by ~24 pts over de Minaur; confirmed: Zverev, Alcaraz, Shelton, Medvedev; Djokovic needs SF minimum; Race ends Sunday. Sources: ATP Tour, prior pipeline | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-11-03 S3: Race update → Day 3 results) |
+
+---
+
+
 ## November 3, 2026
 
 | 2026-11-03 | Djokovic beats Vacherot in Paris R1 — 6-7(5), 7-5, 6-1; 2h35m; shoulder treatment at 2-1 down in 2nd set; saved 3 BPs at 4-4; dominated 3rd; next: Hijikata; 11th in Race (2,940 pts, 319 behind Jodar in 9th); needs SF minimum for Turin. Sources: Sky Sports, Tennis Up To Date, Tennis World USA | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-11-02 S3: Paris Day 1 preview → result) |
