@@ -1,5 +1,36 @@
 # Tennis Fanrecap — Pipeline Status
 
+## Current Run: 2026-11-07
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Paris SFs today: Shelton vs Van Assche (NBF 2:30 PM ET), Alcaraz vs Ruud (NBF 5:00 PM ET); QF: Shelton d. Paul 6-4 4-6 6-3, Alcaraz d. Fritz 6-7(10) 7-5 6-3 (2 MPs saved), Van Assche d. Hijikata 6-4 6-7(4) 7-5, Ruud d. Borges 7-6(5) 6-4; ATP Finals 8-man field: Zverev/Alcaraz/Shelton/Medvedev/Cobolli/Fils/Tiafoe/Jodar (Tiafoe first Finals; Jodar first debut-year qualifier ever); WTA Finals starts tomorrow Nov 8 Indian Wells; Rybakina/Gauff same group; Zverev lost R2 to Musetti (5th No. 1 to lose opener, first in straight sets); Djokovic lost to qualifier Hijikata |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Nov 4 S2: Paris Day 3 → QFs/SFs); S2 FOLLOW-UP (Nov 4 S5: Race update → field sealed); S3 FOLLOW-UP (Nov 4 S1: WTA Finals draw → eve preview); S4 NEW (Van Assche SF run); S5 NEW (Zverev/Djokovic exits) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (4 T1, 1 T2); bylines: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on Alcaraz Paris SF record (single prior pipeline source), Tiafoe exact points figure, Van Assche ranking |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 9 posts across 5 stories; all ≤280 chars (fixed S5 tweet from 296→245) |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories; player-name-only search terms |
+| Articles (5) | COMPLETE | article-01 Paris SFs preview (Elena Voss T1); article-02 ATP Finals field complete (Ryan Calloway T1); article-03 WTA Finals eve preview (Marcus Cole T1); article-04 Van Assche fairytale (Elena Voss T1); article-05 Zverev/Djokovic exits (Ryan Calloway T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 31 claims auto-extracted; all stories present in all content files; PASSED; image not_started warnings expected |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 10 images; posting window warnings cosmetic |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-11-07.xlsx + tfr-postplanner-tobi-2026-11-07.xlsx — 7 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 7 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (4 Tier 1, 1 Tier 2)
+- **Posts:** 7 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3])
+- **PostPlanner exports:** 7 posts standard + 7 TOBI
+- **Key stories:** Paris SFs today — Shelton vs Van Assche, Alcaraz vs Ruud; ATP Finals field sealed (Tiafoe first Finals, Jodar debut-year historic first); WTA Finals starts tomorrow at Indian Wells (Rybakina/Gauff same group); Van Assche Cinderella wildcard run to home SF; Zverev/Djokovic both exit Paris (Zverev 5th No. 1 to lose opener, first in straight sets)
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known)
+
+---
+
 ## Current Run: 2026-11-04
 
 | Step | Status | Notes |

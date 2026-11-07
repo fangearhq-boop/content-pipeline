@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## November 7, 2026
+
+| 2026-11-07 | Paris Masters SF day — Shelton (3) vs Van Assche (WC), Alcaraz (2) vs Ruud; QF results: Shelton d. Paul 6-4, 4-6, 6-3; Alcaraz d. Fritz 6-7(10), 7-5, 6-3 (saved 2 MPs); Van Assche d. Hijikata 6-4, 6-7(4), 7-5; Ruud d. Borges 7-6(5), 6-4; SFs scheduled NBF 2:30 PM ET and 5:00 PM ET; Final Sunday Nov 8. Sources: ATP Tour, ESPN, NBCSports, SFChronicle, SundayGuardian | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 4 S2: Paris Day 3 results → QFs/SFs) |
+| 2026-11-07 | ATP Finals field complete — 8 qualifiers: Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe, Jodar; Tiafoe first Finals appearance; Jodar first player in ATP history to qualify in debut year on tour; Fritz eliminated when lost QF to Alcaraz; Turin Nov 15-22 Inalpi Arena. Sources: Yahoo Sports, TennisMajors 866130, TennisTemple, Wikipedia 2026 ATP Finals | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Nov 4 S5: Race update → field sealed) |
+| 2026-11-07 | WTA Finals eve preview — Starts Nov 8 Indian Wells; Group 1: Rybakina (1), Gauff (4), Pegula (5), Noskova (8); Group 2: Sabalenka (2), Andreeva (3), Svitolina (6), Muchova (7); Gauff beat Rybakina at Wimbledon and Cincinnati 2026; Swiatek absent; 3 debutants (Andreeva, Noskova, Muchova); prize $15.5M. Sources: WTATennis.com, TennisNerd, NBCPalmSprings, WTA news | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Nov 4 S1: WTA Finals draw out → eve preview) |
+| 2026-11-07 | Van Assche Paris Masters SF run — French wildcard 21yo: beat Navone 6-3, 7-5; beat Tien (15 seed) 7-6(4), 6-4 (9 BPs saved); beat Musetti (Zverev conqueror) R3; beat Hijikata 6-4, 6-7(4), 7-5 QF; faces Shelton in SF today at Accor Arena. Sources: TennisMajors 865053, TennisMajors 865571, ATP/ESPN QF results | T1 | X, FB, Article | Elena Voss; NEW STORY |
+| 2026-11-07 | Zverev and Djokovic both exit Paris — Zverev (No. 1) lost R2 to Musetti 7-6(5), 6-2 (Nov 4): 5th player ever to lose opening match as No. 1, first in straight sets; Djokovic (10 seed) lost R2 to qualifier Hijikata; Djokovic Turin qualification ended. Sources: ESPN, France24, Click2Houston, multiple | T2 | X, FB, Article | Ryan Calloway; NEW STORY |
+
+---
+
+
 ## November 4, 2026
 
 | 2026-11-04 | WTA Finals draw out — Group 1: Rybakina (1), Gauff (4), Pegula (5), Noskova (8); Group 2: Sabalenka (2), Andreeva (3), Svitolina (6), Muchova (7); Rybakina opens vs Noskova noon PT Nov 8; prize $15.5M; Indian Wells; 3 debutants (Andreeva, Noskova, Muchova); Swiatek absent. Sources: Tennis365, WTATennis.com, Tennisnerd.net, BNP Paribas Open | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (2026-11-03 S4: WTA Finals 5 days → draw out) |
