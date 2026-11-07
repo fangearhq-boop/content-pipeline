@@ -2,6 +2,50 @@
 
 ---
 
+## November 7, 2026
+
+### Story 1: D11 Bond Appears to Pass: Here's What COS Families Can Expect Next
+- **Date:** 2026-11-07
+- **Tier:** T1
+- **Pillar:** Local News
+- **Key Facts:** Unofficial results: Issue 4A at 51.3% yes (44,754 to 42,464). First D11 capital bond since 2004 if certified. $775M. Projects: new Holmes Middle School, HVAC at all schools, Palmer + Coronado High renovations, library upgrades. El Paso County canvass takes 2-3 weeks; certification required before D11 can act. 2021 bond failed by 11 votes upon recount — context for caution.
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (2026-11-04 S1: election-night results → certification explainer)
+
+### Story 2: Two Urgent Recalls COS Families Should See Right Now: Baby Sterilizer and Slide Playset
+- **Date:** 2026-11-07
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** Baby Brezza SuperFast Sterilizer Dryer: ~29,000 units recalled; overheating/melting plastic; 32 reports; free replacement via Baby Brezza. Arlopu children's slide playsets: ~10,318 units recalled; head/neck entrapment hazard; torso can pass through but head cannot; sold Amazon/Walmart; stop use immediately. Both announced November 5, 2026. CPSC hotline: 1-800-638-2772.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 3: Veterans Day Parade in Downtown COS Starts at 11 AM Today — Here's What to Know
+- **Date:** 2026-11-07
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** In Their Honor Veterans Day Parade: 11 AM, Tejon Street (St. Vrain to Vermijo), free. Turkey Trails 5K tomorrow Nov 8 at Bear Creek Regional Park, kids 15 and under for $15. Veterans Day federal holiday Nov 11. COS is one of most military-concentrated cities in US: Fort Carson, USAFA, Peterson SFB, Schriever SFB, Cheyenne Mountain.
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (2026-11-04 S3: Veterans Day weekend preview → day-of guide)
+
+### Story 4: The AAP Says Get Your Kid the Flu Shot. Only Half of Them Have One.
+- **Date:** 2026-11-07
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** AAP 2026-27 guidance: flu shot for all children 6 months+. National pediatric vaccination rate: 49.4%. Colorado first child flu death 2026-27 season confirmed Nov 3 (elementary-aged, unvaccinated). Flu peaks Dec-Jan. Thanksgiving travel amplifies risk. Flu shots available at Walgreens, King Soopers, Safeway, pediatric clinics in COS.
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (2026-11-04 S2: flu action guide → vaccination push with updated AAP stats)
+
+### Story 5: The COS Holiday Season Kicks Off Soon — Mark These Dates on Your Family's Calendar
+- **Date:** 2026-11-07
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Ice rink at Acacia Park: opens Nov 13, kids 4 and under free with paying adult. Turkey Trot 5K + Tiny Trot 1K: Nov 26, proceeds to YMCA. Nutcracker at Pikes Peak Center: Nov 27-29, Colorado Springs Philharmonic + Children's Chorale, tickets from $40. Snowland at Great Wolf Lodge (Pueblo West): opening late November (exact date TBD).
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+---
+
 ## November 4, 2026
 
 ### Story 1: D11 Bond Appears to Pass — First School Construction Win in 20 Years

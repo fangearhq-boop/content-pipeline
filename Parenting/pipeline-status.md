@@ -1,5 +1,36 @@
 # COS Parenting — Pipeline Status
 
+## Current Run: 2026-11-07
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D11 bond 51.3% yes unofficial (Gazette election tracker); CPSC recalls Baby Brezza sterilizer (29K units, overheating) + Arlopu slide playsets (10,318 units, entrapment); Veterans Day parade today Nov 7, Turkey Trails 5K tomorrow Nov 8; AAP flu guidance 49.4% national uptake, CO first child death Nov 3; COS holiday season preview (ice rink Nov 13, Turkey Trot Nov 26, Nutcracker Nov 27-29) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Nov 4 S1: results → certification explainer); S2 NEW (CPSC recalls); S3 FOLLOW-UP (Nov 4 S3: Veterans Day preview → day-of guide); S4 FOLLOW-UP (Nov 4 S2: flu action guide → vaccination push); S5 NEW (holiday season preview) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on canvass timeline (standard CO law, not newly confirmed), parade start time (2025 confirmed, 2026 not re-verified), recall dates, national vs CO vaccination rate |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows (8 AM, 10 AM, 8 AM, 3 PM, 5 PM), 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts (2 for S1, 1 each for S2-S5); all ≤280 chars; 4 hashtags each; fixed 4 tweets that exceeded 280 after verify-facts |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; contractions; 0 exclamation marks; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only concepts; clean bottom third; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 D11 bond certification (Sarah Morales T1); article-02 CPSC recalls (Jamie Rivera T1); article-03 Veterans Day parade (Sarah Morales T2); article-04 flu vaccination (Jamie Rivera T2); article-05 holiday season preview (Sarah Morales T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 81 claims auto-extracted; all stories present in all content files; PASSED; fixed manifest headers and 4 over-limit tweets |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles, 5 images; warnings: posting windows not in story blocks (cosmetic), fact-check log not auto-detected (log exists) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × x_image + facebook_image), all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 26 items |
+| Publish Dashboard | BLOCKED | proxy 403 (known recurring issue — content-dashboards repo not in session's authorized set) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-11-07.xlsx (6 posts) + cosp-postplanner-tobi-2026-11-07.xlsx (6 TOBI posts) |
+| WordPress Publish | BLOCKED | WP env vars not configured in this session; 5 HTML article drafts ready |
+| Story History | COMPLETE | Nov 7 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 6 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+- **PostPlanner exports:** 6 posts standard + 6 TOBI
+- **Key stories:** D11 bond 51.3% yes (certification pending, canvass 2-3 weeks); CPSC recalls Baby Brezza sterilizer + Arlopu slide playsets; Veterans Day parade today; AAP flu vaccination push (49.4% uptake, peak season approaching); COS holiday season calendar (ice rink Nov 13, Turkey Trot Nov 26, Nutcracker Nov 27-29)
+- **Issues:** WordPress env vars not set (known); dashboard push proxy 403 (known)
+
+---
+
 ## Current Run: 2026-11-04
 
 | Step | Status | Notes |
