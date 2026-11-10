@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## November 10, 2026
+
+### Story 1: Skubal at GM Meetings — Mets and Dodgers Lead $355M Race
+- **Date:** 2026-11-10
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Skubal covered Oct 29–Nov 2)
+- **Angle:** GM Meetings Day 1 in Las Vegas. Mets and Dodgers primary bidders per ESPN/Yahoo. Cubs reportedly stepped back. Tigers monitoring. Yankees in consideration. 8yr/$355M projection (27-insider ESPN avg, $44.4M AAV record). CBA Dec 1 urgency. Passan expects signing before lockout.
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Skubal formal offer reported
+  - Skubal signing announcement
+
+### Story 2: Teruaki Sato — Five Teams, 45-Day Clock Running
+- **Date:** 2026-11-10
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Sato covered Nov 1-2)
+- **Angle:** Sato posted Nov 1, 45-day window expires Dec 16. 5 teams linked: Dodgers, Mets, Padres, Phillies, Yankees (Heyman: Mets, Phillies, Padres, Yankees). Contract: $80M/4yr (Heyman) to $115M/5yr (ESPN). 26.7% K rate concern. Must sign before Dec 1 lockout or return to Hanshin.
+- **Content Produced:** Article (article-02, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sato medical exam/contract framework
+  - Sato signing announcement
+
+### Story 3: CBA Countdown — 21 Days, Last Chance at GM Meetings
+- **Date:** 2026-11-10
+- **Tier:** 2
+- **Classification:** FOLLOW UP (CBA covered Oct 30–Nov 2)
+- **Angle:** Dec 1 expiration (21 days). GM Meetings Nov 10-12 final major gathering. Owners $258.2M cap (2028)/$171M floor. Union no cap/$300M LTT. ~5% deal odds. Last lockout 99 days. ST Feb 19 at risk.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - CBA deal or lockout announcement Dec 1
+  - Owners meetings Nov 17-19
+
+### Story 4: Qualifying Offer Deadline — 8 Players Have Until Nov. 17
+- **Date:** 2026-11-10
+- **Tier:** 2
+- **Classification:** FOLLOW UP (QOs issued Nov 2)
+- **Angle:** 8 players (Suzuki/Cubs, Arozarena/Mariners, Bednar/Yankees, Bauers, Rogers, Jeffers, Lowe, Morejon) have Nov 17 deadline. QO value $23.15M. 18/157 historically accepted. All major names expected to decline.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - QO acceptance/decline announcements Nov 17
+  - Draft pick compensation tracking
+
+### Story 5: Rotation Market — King and Martinez Lead Deep Class
+- **Date:** 2026-11-10
+- **Tier:** 3
+- **Classification:** FOLLOW UP (rotation market covered Nov 2)
+- **Angle:** Deep rotation market below Skubal. King (3.21 ERA, 32 starts, opt-out), Martinez (opt-out), Gray/Eflin (declined options), Giolito/Canning (released). Tiers for every budget. CBA urgency for mid-market teams.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - King/Martinez signings
+  - Mid-market teams rotation moves
+
+---
+
 ## November 2, 2026
 
 ### Story 1: Tarik Skubal Free Agency Market Opens Tonight
