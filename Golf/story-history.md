@@ -340,3 +340,42 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** Both events in R2 simultaneously; Mexico Open: Vilips leads -9; Maybank: Roussin-Bouchard leads -8; Smotherman three-peat chase overlay; Horschel WD
 - **Byline:** Jake Torres
 - **Status:** NEW
+
+---
+
+## 2026-11-10 Stories
+
+### STORY 1: Blades Brown Wins World Wide Technology Championship at Age 19
+- **Tier:** 1
+- **Category:** World Wide Technology Championship / PGA Tour / Blades Brown
+- **Key facts:** Age 19 yrs 5 mos 18 days; first PGA Tour win; playoff vs Ben James; 23-under 265 in regulation; won on 2nd playoff hole (Brown birdie, James missed putt inside 8 ft); Michael Kim 3rd at 22-under; winner's share $1.08M from $6M purse; youngest PGA Tour winner in 88+ years
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: Ben James Runner-Up at World Wide Technology Championship
+- **Tier:** 2
+- **Category:** World Wide Technology Championship / PGA Tour / Ben James
+- **Key facts:** Missed birdie putt inside 8 ft on 2nd playoff hole; tied at 23-under through regulation; Michael Kim 3rd at 22-under
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 3: Shuri Sakuma Wins TOTO Japan Classic — First LPGA Title
+- **Tier:** 2
+- **Category:** TOTO Japan Classic / LPGA Tour / Shuri Sakuma
+- **Key facts:** Won by 4 strokes; final-round 64; Aki Iwai 2nd; Erika Hara 3rd (career best, rookie); Nov 5-8 at Seta Golf Course Japan
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 4: LIV Golf Announces Court-Supervised Restructuring
+- **Tier:** 2
+- **Category:** LIV Golf / Golf Industry
+- **Key facts:** 2026 season concluded (12 events, Feb 5–Aug 30); Jon Rahm individual title (259.90 pts); DeChambeau 2nd (200.97); Herbert 3rd (127.03); restructuring process announced
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: LPGA Season Finale Preview — Pelican and Naples
+- **Tier:** 3
+- **Category:** LPGA Tour / 2026 Season Finale
+- **Key facts:** ANNIKA driven by Gainbridge at Pelican Nov 12-15 (Belleair FL); CME Group Tour Championship Nov 19-22 (Tiburón Naples FL); season ends Nov 22
+- **Byline:** Jake Torres
+- **Status:** NEW

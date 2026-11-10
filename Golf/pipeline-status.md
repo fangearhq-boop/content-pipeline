@@ -1,9 +1,33 @@
 # Golf Fanrecap — Pipeline Status
 
-## Last Run: 2026-11-03
+## Last Run: 2026-11-10
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** Golf Fanrecap
+
+---
+
+### 2026-11-10 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 22 claims, HIGH: 47; image manifest not_started (imagn — manual)
+- Step 10b: compile-content-data.py — 5 stories, 6 tweets, 0 FB posts (known parsing), 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (21 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via GitHub MCP to main
+
+**Stories covered:**
+1. T1 NEW: Blades Brown wins WWT Championship at age 19, youngest Tour winner in 88+ yrs (Ryan Calloway)
+2. T2 NEW: Ben James runner-up, missed 8-ft birdie in playoff (Jake Torres)
+3. T2 NEW: Shuri Sakuma wins TOTO Japan Classic for first LPGA title (Marcus Cole)
+4. T2 NEW: LIV Golf announces court-supervised restructuring, Rahm wins individual title (Ryan Calloway)
+5. T3 NEW: LPGA season finale preview — Pelican and CME Group Tour Championship (Jake Torres)
+
+---
+
+## Last Run: 2026-11-03
 **Stories:** 5
 **Articles:** 5
 
