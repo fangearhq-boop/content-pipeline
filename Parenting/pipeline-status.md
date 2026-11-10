@@ -1,5 +1,36 @@
 # COS Parenting — Pipeline Status
 
+## Current Run: 2026-11-10
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | COS School drops Grades 9–12 (announced Nov 6); D11 opens food pantry + community garden; Veterans Day tomorrow Nov 11 (D11/D20/D49 closed, WWII Aviation Museum free admission, USAFA open); Acacia Park ice rink opens Thursday Nov 13 (kids 4 and under free); AAP/CPSC holiday toy safety (button batteries top priority 2026, CPSC hotline 1-800-638-2772) |
+| Story History Check | COMPLETE | S1 NEW (COS School dropping upper grades); S2 NEW (D11 food pantry); S3 NEW (Veterans Day school closures + activities); S4 FOLLOW-UP (Nov 7 S5: holiday calendar → ice rink opening day logistics); S5 NEW (holiday toy safety) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4]; posting windows added per story |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on USAFA 2026 event schedule (pattern confirmed, specific 2026 events not primary-source verified); specific school location for pantry not confirmed |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows (8 AM, 10 AM, 12 PM, 3 PM, 5 PM), 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts (2 for S1, 1 each for S2-S5); all ≤280 chars; 4 hashtags each; code-block format; fixed 2 tweets that exceeded 280 |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; contractions; max 1 exclamation mark per post; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only concepts; clean bottom third for text overlay; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 COS School dropping upper grades (Sarah Morales T1 ~650w); article-02 D11 food pantry (Jamie Rivera T1 ~550w); article-03 Veterans Day schools closed + activities (Sarah Morales T2 ~650w); article-04 Acacia Park ice rink (Jamie Rivera T2 ~550w); article-05 holiday toy safety checklist (Sarah Morales T2 ~700w) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 58 claims auto-extracted; all stories present in all content files; PASSED; fixed manifest to YAML format (was markdown format initially) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles, 5 images; validation all clear |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × x_image + facebook_image), all not_started, gemini base_only, dimensions 1200x675 (X) + 1200x630 (FB), brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 26 items |
+| Publish Dashboard | BLOCKED | proxy 403 (known recurring issue — content-dashboards repo not in session's authorized set) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-11-10.xlsx (6 posts) + cosp-postplanner-tobi-2026-11-10.xlsx (6 TOBI posts) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 blocked by proxy (known recurring issue); 5 HTML article drafts ready locally |
+| Story History | COMPLETE | Nov 10 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 6 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+- **PostPlanner exports:** 6 posts standard + 6 TOBI
+- **Key stories:** COS School drops Grades 9–12 (family meetings this week); D11 food pantry launches ahead of Thanksgiving; Veterans Day tomorrow — D11/D20/D49 closed, free WWII museum + USAFA; Acacia Park ice rink opens Thursday Nov 13 (kids 4 under free); holiday toy safety checklist (button batteries, recalls, age labels)
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); manifest initially in wrong markdown format (corrected to YAML)
+
+---
+
 ## Current Run: 2026-11-07
 
 | Step | Status | Notes |

@@ -2,6 +2,50 @@
 
 ---
 
+## November 10, 2026
+
+### Story 1: The Colorado Springs School Is Dropping Its High School Grades — Here's What Families Need to Know
+- **Date:** 2026-11-10
+- **Tier:** T1
+- **Pillar:** Local News
+- **Key Facts:** The Colorado Springs School announced November 6 it will discontinue Grades 9–12; retaining pre-K through Grade 8. Family meetings planned week of Nov 9–13 for upper, middle, and lower school families. Students in Grades 9–12 must find alternative high school options. School is a private independent school in COS.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 2: D11 Just Opened a Food Pantry and Community Garden at a COS School
+- **Date:** 2026-11-10
+- **Tier:** T1
+- **Pillar:** Local News
+- **Key Facts:** D11 launched food pantry and community garden at one of its schools offering fresh produce, bread, and household food staples to families in need. Timed ahead of Thanksgiving and holiday season. D11 serves approximately 24,000 students. Community can donate or volunteer.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 3: Veterans Day Is Tomorrow: Schools Are Closed in D11, D20, and D49 — Here's What to Do with the Day
+- **Date:** 2026-11-10
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Veterans Day is Wednesday November 11 (federal holiday). D11, D20, D49 all closed. National Museum of WWII Aviation: free admission Veterans Day. USAFA campus open to public. COS has Fort Carson, USAFA, Peterson SFB, Schriever SFB, Cheyenne Mountain. Schools reopen Thursday November 12.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 4: The Downtown Ice Rink Is Opening Thursday — Everything COS Families Should Know
+- **Date:** 2026-11-10
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Acacia Park outdoor ice rink opens Thursday November 13. Kids age 4 and under skate free with paying adult. Annual COS holiday tradition running through winter season. Downtown holiday programming (boutiques, pop-ups) also launching.
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (2026-11-07 S5: holiday season preview → rink opening day logistics)
+
+### Story 5: Before You Buy Toys This Holiday Season, Check These 5 Things
+- **Date:** 2026-11-10
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** AAP + CPSC annual toy safety guidance: age labels (3+ = choking hazard); button/coin batteries (top 2026 CPSC priority, severe internal burns if swallowed within 2 hrs); secondhand toy safety (check cpsc.gov/recalls); toy gun safety (orange tip intact); CPSC hotline 1-800-638-2772.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+---
+
 ## November 7, 2026
 
 ### Story 1: D11 Bond Appears to Pass: Here's What COS Families Can Expect Next
