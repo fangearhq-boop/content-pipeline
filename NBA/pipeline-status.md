@@ -1,8 +1,31 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Current Status
-**Last Run:** 2026-11-03
+**Last Run:** 2026-11-10
 **Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy; git push via GitHub MCP
+
+## Pipeline Run Log
+
+### 2026-11-10 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 26 claims, HIGH: 54; image manifest not_started (imagn sourcing — manual)
+- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 0 FB posts (known parsing), 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (22 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy; content-dashboards not in session scope)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via GitHub MCP to main
+
+**Stories covered:**
+1. T1 NEW: Cooper Flagg 43 Pts — Mavericks 125, Pacers 122 (Jake Torres)
+2. T1 NEW: Warriors 138, Pelicans 87 — 8-Game Win Streak (Marcus Cole)
+3. T2 FOLLOW UP: Luka Triple-Double — Lakers 124, Hawks 114 (Damon Pierce)
+4. T2 NEW: Hornets 124, Cavaliers 112 — 6-Game Skid Snapped (Jake Torres)
+5. T2 NEW: NBA Tuesday Preview — Heat at Jazz, Magic at Kings (Marcus Cole)
+
+---
 
 ## Pipeline Run Log
 

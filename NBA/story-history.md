@@ -874,3 +874,42 @@
 - **Key facts:** No games Nov 3; 8 games Wed Nov 4; Bucks at Celtics 7:30 PM ET; Thunder at Blazers 11 PM ET
 - **Byline:** Jake Torres
 - **Status:** NEW
+
+---
+
+## 2026-11-10 Stories
+
+### STORY 1: Cooper Flagg 43 Pts — Mavericks 125, Pacers 122
+- **Tier:** 1
+- **Category:** Dallas Mavericks / Indiana Pacers / Cooper Flagg
+- **Key facts:** 43 pts/10 reb/6 ast/3 stl/1 blk; 16-25 FG, 8-8 FT; Kyrie 35 pts; down 10 at half; 35-29 Q4; Dallas 7-4; Indiana 3-8; 2nd teenager in NBA history with 40+/10+/5+ in a game
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Warriors 138, Pelicans 87 — 8-Game Win Streak
+- **Tier:** 1
+- **Category:** Golden State Warriors / New Orleans Pelicans / Stephen Curry
+- **Key facts:** 51-point margin; 8-game streak; Curry 25 pts/21 min/16th all-time scoring; Podziemski 25; Lendeborg 23; 21 threes; 37 assists; GS 8-3; NO 4-7
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Lakers 124, Hawks 114 — Luka Triple-Double
+- **Tier:** 2
+- **Category:** Los Angeles Lakers / Atlanta Hawks / Luka Dončić
+- **Key facts:** 32 pts/10 ast/8 reb; Lakers 6-game win streak
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+
+### STORY 4: Hornets 124, Cavaliers 112 — 6-Game Skid Snapped
+- **Tier:** 2
+- **Category:** Charlotte Hornets / Cleveland Cavaliers
+- **Key facts:** Grayson Allen 27 pts; Naz Reid 25 pts/13 reb; Charlotte snapped 6-game losing streak
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: NBA Tuesday Preview — Heat at Jazz, Magic at Kings
+- **Tier:** 2
+- **Category:** NBA Preview / Miami Heat / Utah Jazz / Orlando Magic / Sacramento Kings
+- **Key facts:** 2 games Nov 10; Heat at Jazz 9PM ET; Magic at Kings 10PM ET; Jazz on back-to-back
+- **Byline:** Marcus Cole
+- **Status:** NEW
