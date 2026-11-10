@@ -1,5 +1,36 @@
 # Tennis Fanrecap — Pipeline Status
 
+## Current Run: 2026-11-10
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Paris final: Alcaraz d. Shelton 7-6(5), 7-5; 5th title 2026 (Vienna + Paris back-to-back); 9th Masters 1000; Shelton 6th final/missed 3rd Masters; first American Paris finalist since Sock 2017; WTA Finals: Rybakina withdrew, Kostyuk in; Gauff d. Pegula D1; Noskova d. Kostyuk D1; Sabalenka d. Muchova D2; Andreeva d. Svitolina 6-0 D2; ATP Finals starts Nov 15 Turin; Zverev year-end No. 1 |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Nov 7 S1: Paris SFs → Final result); S2 FOLLOW-UP (Nov 7 S3: WTA Finals eve → D1/2 results); S3 FOLLOW-UP (Nov 7 S2: ATP Finals field → preview); S4 FOLLOW-UP (Nov 7 S4: Van Assche SF run → result); S5 FOLLOW-UP (Nov 7 S5: Zverev/Djokovic exits → Turin outlook) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 T1, 2 T2); bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on Alcaraz BPs saved count (multiple sources vary), Van Assche SF score |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 8 posts across 5 stories; all ≤280 chars; code-block format |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories; player-name-only search terms |
+| Articles (5) | COMPLETE | article-01 Alcaraz Paris champion (Elena Voss T1); article-02 WTA Finals results (Marcus Cole T1); article-03 ATP Finals preview (Ryan Calloway T1); article-04 Van Assche SF (Elena Voss T2); article-05 Zverev Turin outlook (Marcus Cole T2) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 34 claims auto-extracted; all stories present in all content files; PASSED; image not_started warnings expected |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles, 5 images; posting window warnings cosmetic |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 23 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-11-10.xlsx + tfr-postplanner-tobi-2026-11-10.xlsx — 8 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 10 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** 8 posts standard + 8 TOBI
+- **Key stories:** Alcaraz wins Paris Masters 7-6(5), 7-5 over Shelton (5th title 2026, 9th M1000, first Paris crown, US Open revenge); WTA Finals Rybakina out, Gauff/Noskova lead G1, Sabalenka/Andreeva lead G2; ATP Finals 5 days out (Alcaraz hot favorite after back-to-back titles); Van Assche SF fairy tale ends (Shelton 5-7, 6-3, 6-4); Zverev seeks Turin redemption after Paris shock
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known)
+
+---
+
 ## Current Run: 2026-11-07
 
 | Step | Status | Notes |

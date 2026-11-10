@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## November 10, 2026
+
+| 2026-11-10 | Alcaraz wins Paris Masters — d. Shelton 7-6(5), 7-5 (1h57m); 5th title 2026 (AO/Doha/Tokyo/Vienna/Paris); 9th Masters 1000 crown; first Paris title; saved 6 BPs in Set 1; broke back after being broken in Set 2; Shelton 6th final 2026, missed 3rd Masters; H2H Alcaraz now 4-1; first American Paris finalist since Sock 2017. Sources: ATP Tour, Click2Houston, Al Jazeera, Sky Sports, TennisMajors 866414, Sunday Guardian Live, The Score | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 7 S1: Paris SFs → Final result) |
+| 2026-11-10 | WTA Finals Day 1–2 results — Rybakina withdrew (medical/fitness concerns), Kostyuk replaced; Day 1 (Nov 8): Gauff d. Pegula 6-4, 6-7(5), 6-2; Noskova d. Kostyuk 6-2, 6-4; Day 2 (Nov 9): Sabalenka d. Muchova 7-6(2), 7-5; Andreeva d. Svitolina 6-4, 6-0 (won final 7 games); Group 1 leaders: Gauff, Noskova; Group 2 leaders: Sabalenka, Andreeva. Sources: ESPN, WTA, Sky Sports, TennisMajors 866324, TennisUpToDate, BusinessWorld Online | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Nov 7 S3: WTA Finals eve preview → Day 1/2 results) |
+| 2026-11-10 | ATP Finals Turin 5 days out — Nov 15-22 Inalpi Arena; Alcaraz hot favorite after back-to-back titles (Vienna + Paris); Zverev year-end No. 1 but exits Paris in R2; Shelton straight from Paris final; debutants Tiafoe and Jodar; full field: Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe, Jodar. Sources: ATP Tour, Tennis365, TennisMajors, calciomercato.com | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Nov 7 S2: ATP Finals field complete → preview) |
+| 2026-11-10 | Van Assche SF exit — Shelton d. Van Assche 5-7, 6-3, 6-4 to reach Paris final; first American in Paris final since Sock 2017; Van Assche's fairy tale run ends in SF; remarkable WC path: Navone → Tien → Musetti → Hijikata → Shelton (SF). Sources: ATP Tour, TennisMajors, lanacion.com.ar, flashscore.de | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 7 S4: Van Assche SF run → SF result) |
+| 2026-11-10 | Zverev Turin outlook — lost Paris R2 to Musetti 7-6(5), 6-2 (5th No. 1 to lose opener, first in straight sets); heads to Turin as year-end No. 1; last ATP Finals win 2021; first year-end No. 1 in career; seeking redemption. Sources: ESPN, France24, prior pipelines | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Nov 7 S5: Zverev/Djokovic exits → Turin outlook) |
+
+---
+
+
 ## November 7, 2026
 
 | 2026-11-07 | Paris Masters SF day — Shelton (3) vs Van Assche (WC), Alcaraz (2) vs Ruud; QF results: Shelton d. Paul 6-4, 4-6, 6-3; Alcaraz d. Fritz 6-7(10), 7-5, 6-3 (saved 2 MPs); Van Assche d. Hijikata 6-4, 6-7(4), 7-5; Ruud d. Borges 7-6(5), 6-4; SFs scheduled NBF 2:30 PM ET and 5:00 PM ET; Final Sunday Nov 8. Sources: ATP Tour, ESPN, NBCSports, SFChronicle, SundayGuardian | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 4 S2: Paris Day 3 results → QFs/SFs) |
