@@ -1,0 +1,251 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-10",
+  "compiled_at": "2026-11-10T11:24:34.131926+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Norris Wins Brazilian GP, Mercedes Seal 2026 Constructors' Championship",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Lando Norris wins the Brazilian Grand Prix for McLaren.\n\nMercedes seal the 2026 F1 Constructors' Championship. Russell 4th. Antonelli 5th.\n\nVerstappen went from 21st on the grid to 2nd. That race had everything.\n\n#F1 #BrazilianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BrazilianGP"
+          ],
+          "char_count": 229
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Kimi Antonelli was leading the Brazilian GP until a Lap 20 spin at Turn 1.\n\nLando Norris took the lead and never looked back. Race winner.\n\nMercedes still clinched the constructors' title. Wild afternoon in São Paulo.\n\n#F1 #BrazilianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BrazilianGP"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-norris-wins-brazil-mercedes-seal-constructors-title.html",
+        "headline": "Norris Wins Brazilian GP as Mercedes Seal 2026 F1 Constructors' Championship",
+        "word_count": 490
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Norris Wins Brazilian GP, Mercedes Seal Constructors' Title\n\n**Image Concept 1A** — Social (1080x1350)\n- **Mode:** base_only\n- **Search terms:** Lando Norris McLaren\n- **Description:** Norris in victory celebration — raised fist or hands in the air after crossing the finish line, papaya McLaren livery prominent\n- **Overlay text ideas:** \"NORRIS WINS BRAZIL\" and \"MERCEDES: 2026 CONSTRUCTORS' CHAMPIONS\"\n\n**Image Concept 1B** — Article hero (1200x630)\n- **Mode:** base_only\n- **Search terms:** Lando Norris McLaren Formula 1\n- **Description:** Norris on podium or in cockpit celebration, Interlagos backdrop\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen's Stunning Charge from 21st to 2nd at Interlagos",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Max Verstappen started the Brazilian GP from 21st.\n\nHe finished 2nd.\n\nNo, we're not exaggerating. That was his actual drive at Interlagos on Sunday.\n\n#F1 #BrazilianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BrazilianGP"
+          ],
+          "char_count": 166
+        },
+        {
+          "label": "Post 2-2",
+          "text": "21st to 2nd in Brazil. Wet conditions. Changing track. A depleted grid in front of him.\n\nMax Verstappen picked them off one by one. That's what elite racecraft looks like.\n\nHe can't win the title this year. But he still showed why he's one of the best ever.\n\n#F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-verstappen-21st-to-2nd-brazil.html",
+        "headline": "Verstappen's Remarkable Charge from 21st to 2nd Is Drive of the Brazilian GP",
+        "word_count": 480
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen 21st to 2nd\n\n**Image Concept 2A** — Social (1080x1350)\n- **Mode:** base_only\n- **Search terms:** Max Verstappen Red Bull\n- **Description:** Verstappen at speed in Red Bull livery — mid-corner or attacking overtake, intense expression visible through visor\n- **Overlay text ideas:** \"21st → 2nd\" and \"VERSTAPPEN AT INTERLAGOS\"\n\n**Image Concept 2B** — Article hero (1200x630)\n- **Mode:** base_only\n- **Search terms:** Max Verstappen Red Bull Formula 1\n- **Description:** Verstappen car at speed on track, action shot\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Antonelli Leads Drivers' Championship by 111 Points with Three Races Remaining",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "After Brazil, Kimi Antonelli leads the F1 drivers' championship by 111 points.\n\nThree races remain. Max available per race: 25 points.\n\nThis championship is effectively decided. The rookie from Bologna is your 2026 F1 champion.\n\n#F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-antonelli-leads-championship-111-points.html",
+        "headline": "Antonelli Leads F1 Drivers' Championship by 111 Points — Three Races to Make History",
+        "word_count": 438
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Championship Lead\n\n**Image Concept 3A** — Social (1080x1350)\n- **Mode:** base_only\n- **Search terms:** Kimi Antonelli Mercedes\n- **Description:** Antonelli in Mercedes cockpit or on track, intense focus, Silver Arrows livery\n- **Overlay text ideas:** \"390 PTS\" and \"111-POINT LEAD\" and \"3 RACES LEFT\"\n\n**Image Concept 3B** — Article hero (1200x630)\n- **Mode:** base_only\n- **Search terms:** Kimi Antonelli Mercedes Formula 1\n- **Description:** Antonelli and Mercedes pit crew, championship atmosphere\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Leclerc Demoted After Brazil Penalty as Ferrari Launches Investigation",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Charles Leclerc finished 7th in Brazil. Then got a 5-second penalty for pushing Liam Lawson wide.\n\nFinal result: 8th.\n\nMeanwhile, Ferrari has launched an investigation into the SF-26 after Lewis Hamilton called the season-end performance \"devastating.\"\n\n#F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-leclerc-penalty-ferrari-investigation.html",
+        "headline": "Leclerc Demoted After Brazil Penalty as Ferrari Launches SF-26 Investigation",
+        "word_count": 403
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Leclerc Penalty / Ferrari Investigation\n\n**Image Concept 4A** — Social (1080x1350)\n- **Mode:** base_only\n- **Search terms:** Charles Leclerc Ferrari\n- **Description:** Leclerc frustrated expression or in car, Ferrari red livery, serious mood\n- **Overlay text ideas:** \"5-SECOND PENALTY\" and \"LECLERC: 7TH → 8TH\"\n\n**Image Concept 4B** — Article hero (1200x630)\n- **Mode:** base_only\n- **Search terms:** Lewis Hamilton Ferrari\n- **Description:** Hamilton in Ferrari colors looking contemplative\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Las Vegas Grand Prix Preview — Norris Chases History, Antonelli Eyes Title Celebration",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Two weeks until the Las Vegas Grand Prix.\n\nLando Norris with momentum. Kimi Antonelli 111 points clear and possibly celebrating a title on the Strip.\n\nNovember 21 on Apple TV. It's going to be appointment viewing.\n\n#F1 #LasVegasGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-las-vegas-gp-preview-2026.html",
+        "headline": "Las Vegas GP Preview: Norris With Momentum, Antonelli Poised for History on the Strip",
+        "word_count": 453
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Las Vegas GP Preview\n\n**Image Concept 5A** — Social (1080x1350)\n- **Mode:** complete\n- **Description:** Dramatic composite of Las Vegas skyline at night with Formula 1 car silhouette on the Strip. Text overlay: \"LAS VEGAS GP · NOVEMBER 21 · ON APPLE TV\"\n- **Mood:** Night race, neon lights, anticipation\n\n**Image Concept 5B** — Article hero (1200x630)\n- **Mode:** base_only\n- **Search terms:** Formula 1 Las Vegas Grand Prix\n- **Description:** F1 car on Las Vegas street circuit at night, neon cityscape in background"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

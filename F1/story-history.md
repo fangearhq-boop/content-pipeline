@@ -517,3 +517,42 @@
 - **Key facts:** Ferrari needs clean racing in Brazil; Mexico tensions must be resolved; historical pattern of intra-team conflict
 - **Byline:** Ryan Calloway
 - **Status:** FOLLOW UP
+
+---
+
+## 2026-11-10 Stories
+
+### STORY 1: Norris Wins Brazilian GP, Mercedes Seal 2026 Constructors' Championship
+- **Tier:** 1
+- **Category:** 2026 Brazilian Grand Prix / Lando Norris / McLaren / Mercedes
+- **Key facts:** Norris wins (McLaren); Mercedes seal constructors' title; Russell 4th, Antonelli 5th; Antonelli spin Lap 20 Turn 1; full top 10: Norris, Verstappen, Hadjar, Russell, Antonelli, Piastri, Lawson (8th post-penalty), Leclerc (8th), Hamilton, Hulkenberg
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: Verstappen's Stunning Charge from 21st to 2nd at Interlagos
+- **Tier:** 1
+- **Category:** 2026 Brazilian Grand Prix / Max Verstappen / Red Bull
+- **Key facts:** Started 21st; finished 2nd; wet then drying conditions; Hadjar 3rd
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Antonelli Leads Drivers' Championship by 111 Points
+- **Tier:** 2
+- **Category:** 2026 F1 Drivers' Championship / Kimi Antonelli / Mercedes
+- **Key facts:** Standings post-Brazil: Antonelli 390, Verstappen 279, Russell 262, Hamilton 261; 111-pt lead; 3 races remain
+- **Byline:** Elena Voss
+- **Status:** NEW
+
+### STORY 4: Leclerc Demoted After Brazil Penalty, Ferrari Launches SF-26 Investigation
+- **Tier:** 2
+- **Category:** 2026 Brazilian Grand Prix / Charles Leclerc / Ferrari / FIA
+- **Key facts:** Leclerc 7th→8th (5-sec penalty for pushing Lawson wide); Hamilton "devastated" by pace; Ferrari SF-26 investigation launched
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: Las Vegas GP Preview — Norris, Antonelli, Strip Circuit
+- **Tier:** 3
+- **Category:** 2026 Las Vegas Grand Prix / F1 Preview
+- **Key facts:** Race date Nov 21; Apple TV broadcast; Antonelli could clinch title in Las Vegas
+- **Byline:** Marcus Cole
+- **Status:** NEW
