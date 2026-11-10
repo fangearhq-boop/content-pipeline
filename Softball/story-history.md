@@ -3,6 +3,62 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## Pipeline Run: 2026-11-10
+
+### Story 1: Tenth Circuit Overturns 5-for-5 Injunction — NCAA Wins Key Ruling
+- **Date:** 2026-11-10
+- **Tier:** 1
+- **Classification:** FOLLOW UP (5-for-5 covered Oct 29–Nov 2)
+- **Angle:** Tenth Circuit reversed and vacated the nationwide preliminary injunction in Wisne v. NCAA on November 6, 2026. Panel led by Judge Carolyn McHugh. Original injunction from July 31 (Judge Charlotte Sweeney) reversed. Stay from Aug 21 became a full vacatur. 5-for-5 rule now in effect nationwide through federal courts. ~200 state-court cases continue. NCAA's Scott Bearby quote. Ruling lands 5 days before Signing Day.
+- **Content Produced:** Article (article-01, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Signing Day results (Nov 11)
+  - State-court cases continue; any rulings
+  - Full Tenth Circuit merits ruling (TBD)
+
+### Story 2: Signing Day Tomorrow — Class of 2027 Signs on Nov. 11
+- **Date:** 2026-11-10
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Signing Day covered Oct 29–Nov 2)
+- **Angle:** Signing Day Eve. November 11 is the first day Class of 2027 recruits can sign athletics aid agreements (NLI eliminated Oct 2024). Five programs: Florida (4-0 fall, elite incoming class), Tennessee (rotation depth after Pickens), Oklahoma (Wells 39HR NFCA FY + Kavan 2x WCWS MOP), Texas (defending champion), Texas Tech (No. 1 portal class + Pickering signing). 5-for-5 ruling adds clarity.
+- **Content Produced:** Article (article-02, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Signing Day class rankings (Nov 11-12)
+  - TTU Signing Day class announcement
+  - Florida/Tennessee/OU class reveals
+
+### Story 3: EE100 Class of 2028 Rankings Rollout Complete
+- **Date:** 2026-11-10
+- **Tier:** 2
+- **Classification:** FOLLOW UP (EE100 2028 class covered Oct 13–Nov 2)
+- **Angle:** Rankings rollout concluded. National Top 25 Nov 7-8, Pitcher-Hitter Duo Nov 9. Full regional rollout Nov 1-6 complete. No. 1 Avery Landers (Texas), No. 2 Ellie Holden (Florida), No. 3 Mia Schlader (OU). 1,200+ nominations largest class ever. What comes next.
+- **Content Produced:** Article (article-03, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - December contact window results
+  - 2028 official visit announcements
+
+### Story 4: OU Fall Finish — ETAM Canceled, Rose State Steps In
+- **Date:** 2026-11-10
+- **Tier:** 2
+- **Classification:** FOLLOW UP (OU fall covered Oct 20–Nov 2)
+- **Angle:** East Texas A&M canceled Nov 4 exhibition citing unforeseen circumstances; the previous night ETAM's men's basketball beat OU 68-64. Rose State replaced ETAM at 6:30 PM. OU fall complete. Wells/Kavan head to winter.
+- **Content Produced:** Article (article-04, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - OU spring schedule release
+  - OU Signing Day class (Nov 11)
+
+### Story 5: Texas Tech Portal Revolution — Pickering Signs Tomorrow
+- **Date:** 2026-11-10
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Texas Tech covered Oct 20–Nov 2)
+- **Angle:** Pickering signs tomorrow. .384 BA, 50 HR, 169 RBI at OU. Glasco's No. 1 portal class. Big 12 opens March 12. WCWS dark horse profile.
+- **Content Produced:** Article (article-05, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - TTU spring schedule
+  - Pickering stats tracking in spring
+
+---
+
 ## Pipeline Run: 2026-11-02
 
 ### Story 1: EE100 Southeast Hitters Hotlist — Day 2 of the Regional Rollout
