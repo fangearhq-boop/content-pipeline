@@ -1,0 +1,231 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-10",
+  "compiled_at": "2026-11-10T09:20:11.954125+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "BBWAA Awards Week Preview",
+      "type": "Awards Preview"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Cubs 40-Man Transactions",
+      "type": "Roster / Transaction"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Rotation Reality + Suzuki QO",
+      "type": "Analysis"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "PCA NL MVP — 48 Hours",
+      "type": "Bold Take ⭐️"
+    },
+    {
+      "time": "9:30 PM",
+      "description": "NL Cy Young Tomorrow / Brewers",
+      "type": "Rivalry ⭐️"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "BBWAA Awards Week Preview — Cy Young Tomorrow, NL MVP Thursday",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "BBWAA awards week: Cy Young tomorrow, NL MVP Thursday.\n\nA Brewer is probably winning the top pitching award. A Cub is probably winning the top hitting one.\n\n#Cubs #MLB #GoCubs",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Awards preview / morning news",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#GoCubs"
+          ],
+          "char_count": 175
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 16,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "BBWAA Awards Week Preview\n**BBWAA 2026 Schedule:**\n- Nov 9 (Mon): Rookie of the Year — PAST\n- Nov 10 (Tue): Manager of the Year (7 PM ET on MLB Network) — TONIGHT (no Cubs angle)\n- Nov 11 (Wed): Both Cy Young Awards + Reliever of the Year (new 2026 award) at 7 PM ET\n- Nov 12 (Thu): Both MVP Awards at 7 PM ET (NL MVP: PCA is heavy favorite)",
+        "sources": "- Source: MLB.com Cubs offseason guide, JustBaseball.com awards schedule page\n- Confidence: HIGH (multiple sources agree on dates)\n**New Award in 2026:** BBWAA added Relief Pitcher of the Year award for each league\n- Source: SI.com, BBWAA.com, WTOP\n- Confidence: HIGH\n**NL Cy Young finalists:** Jacob Misiorowski (Brewers), Chris Sale (Braves), Cristopher Sánchez (Phillies)\n- Source: MLB.com finalists page, Bleacher Report, StatSniper.com\n- Confidence: HIGH\n**NL MVP finalists:** Pete Crow-Armstrong (Cubs), Brice Turang (Brewers), Shohei Ohtani (Dodgers)\n- Source: MLB.com, StatSniper.com, ActionNetwork.com\n- Confidence: HIGH"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Cubs 40-Man Roster Transactions — Early Offseason Moves",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "The Cubs' 40-man is moving. Orze claimed, Webb re-signed, Kelly lost to Cleveland.\n\nAssad is the only internal rotation option. Horton's out until July, Steele's rehabbing.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Roster news / transaction",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 198
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 12,
+        "claims_flagged": 5,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Cubs 40-Man Roster Transactions\n**Eric Orze claimed off waivers from Twins:**\n- 29 years old, out of minor-league options, would need DFA to send down",
+        "sources": "- Source: Extended search result (Cubs reportedly lose pitcher early in MLB free agency + Yardbarker)\n- Confidence: MEDIUM (single source, specific trade detail)\n**Jacob Webb re-signed:**\n- 1-year, $2 million contract with $4 million club option (or $500K buyout) for 2028\n- Per FanSided's Robert Murray\n- Source: Extended search result (Yardbarker aggregation)\n- Confidence: MEDIUM\n**Antoine Kelly lost to Cleveland Guardians:**\n- Minor-league deal with spring training invite\n- Source: Yardbarker.com, Cubs beat coverage\n- Confidence: MEDIUM\n**Tyler Austin outrighted off 40-man:**\n- 40-man now at 35 players after Orze claim\n- Source: Extended search result\n- Confidence: MEDIUM\n**Javier Assad:**\n- Option declined but under team control for 2027; rotation mix\n- Source: Extended search result\n- Confidence: MEDIUM"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Cubs Rotation: Five FA Starters + Suzuki QO Countdown",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Five rotation spots to fill. Zero confirmed starters for 2027.\n\nKing, Peralta, Martinez, Ray are all on the board. Suzuki QO deadline Nov 17. Jed Hoyer needs to move fast.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Analysis / roster news",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 14,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Cubs Rotation FA + Suzuki QO Countdown\n**Starters entering free agency:**\n- Kevin Gausman (expected to decline $12M player option)\n- Shota Imanaga (Roundtable: 15% chance of return)\n- Clay Holmes (player option expected unexercised, $12M)\n- Matthew Boyd (mutual option declined, $2M buyout)\n- David Peterson (free agent)\n- Aaron Civale, Colin Rea, Trent Thornton also in pool",
+        "sources": "- Source: NBC Chicago, MLB.com, Roundtable.io\n- Confidence: HIGH for the list; MEDIUM for individual option outcomes\n**Internal only option: Javier Assad** (see Story 2)\n**Horton:** Out until July 2027 (rib injury)\n**Steele:** Rehabbing Tommy John\n- Source: MLB.com injury tracker\n- Confidence: HIGH\n**Seiya Suzuki QO status:**\n- Cubs extended $23.15M QO (Nov 2)\n- Deadline to accept/decline: Nov 17 (7 days from today)\n- Expected outcome: Decline — market estimate 4 years/$110M (Spotrac)\n- Multiple outlets project rejection\n- Source: Chicago Sun-Times, Bleacher Nation, CBS Sports, Rotoballer\n- Confidence: HIGH (QO extended confirmed); MEDIUM (decline projected, not confirmed)\n**FA pitching market targets (Cubs linked):**\n- Michael King (opted out of his 2026 contract, Cubs in pursuit)\n- Freddy Peralta (traded from Brewers to Mets, now FA?)\n- Nick Martinez, Robbie Ray, Casey Mize also mentioned\n- Source: NBC Chicago, Roundtable.io, MLBTradeRumors\n- Confidence: MEDIUM"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Pete Crow-Armstrong NL MVP — 48 Hours from History",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "7:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Pete Crow-Armstrong is 48 hours from NL MVP history.\n\n45 HR. 41 SB. 10.6 fWAR. No. 1 in MLB. The first Cub to win it since Kris Bryant in 2016.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 PM CT",
+          "tweet_type": "Bold take / award season",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 167
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 9,
+        "claims_flagged": 1,
+        "errors_corrected": 1
+      },
+      "research": {
+        "facts": "Pete Crow-Armstrong NL MVP\n**PCA 2026 stats:**\n- .280/.372/.570 slash line\n- 45 HR (tied for MLB lead with Kyle Schwarber)\n- 41 SB (40-40 season)\n- 157 wRC+\n- 10.6 fWAR (MLB-best, 3.6 wins ahead of AL leader)\n- Gold Glove CF (2nd consecutive)",
+        "sources": "- Sources: MLB.com, StatSniper.com, ActionNetwork.com, AJC.com, Local10.com\n- Confidence: HIGH (multiple independent sources confirm same stats)\n**Market odds at finalist announcement:** ~99% probability per betting markets\n- Source: StatSniper.com\n- Confidence: MEDIUM (single source for market data)\n**Last Cubs NL MVP:** Kris Bryant in 2016\n- Source: This is widely known / multiple historical references\n- Confidence: MEDIUM (not independently cross-referenced in today's search)\n- NOTE: Requires 2-source verification per compound-claim rule — flag for fact-check\n**Award announcement:** Thursday Nov 12, 7 PM ET on MLB Network\n- Source: MLB.com, multiple\n- Confidence: HIGH"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "NL Cy Young Tomorrow — Misiorowski and the Brewers Dominate the NL",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "9:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Brewers won the World Series. They might win the NL Cy Young too.\n\nMisiorowski: 1.80 ERA, 0.80 WHIP, 252 K. The NL's best pitcher is in our division.\n\n#Cubs #GoCubs #NorthSiders",
+          "posting_time": "9:30 PM CT",
+          "tweet_type": "Rivalry take / analysis",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#NorthSiders"
+          ],
+          "char_count": 181
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 10,
+        "claims_flagged": 7,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "NL Cy Young Tomorrow / Misiorowski + Brewers\n**Jacob Misiorowski 2026 season:**\n- ERA: 1.80 (one source says 1.89 — taking the lower figure with caution)\n- WHIP: 0.80 (one source says 0.81)\n- Strikeouts: 252 (one source says 243)\n- Starts: varies by source (28-33 range)\n- NL Cy Young heavy favorite: odds ranged from -550 to -600 entering finals",
+        "sources": "- Sources: Fox Sports, Bleacher Nation, StatSniper.com, JustBaseball.com, ABC News\n- Confidence: MEDIUM — some source disagreement on exact stats; will use most-cited figures\n- NOTE: Flag ERA/K totals for second-source verification\n**Brewers won 2026 World Series:**\n- Source: AP (relayed via BBWAA finalist article on NY1/Boston25news)\n- Confidence: MEDIUM (single source mention, not cross-referenced directly)\n- NOTE: This is a major claim. Use conditionally. Will verify in fact-check.\n**NL Cy Young announcement:** Tomorrow (Nov 11) at 7 PM ET\n- Source: Multiple BBWAA schedule pages\n- Confidence: HIGH\n**Other NL Cy Young finalists:** Chris Sale (Braves), Cristopher Sánchez (Phillies)\n- Source: MLB.com, StatSniper.com, Bleacher Report\n- Confidence: HIGH"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

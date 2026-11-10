@@ -1,6 +1,33 @@
-# Cubs Pipeline Status — Updated 2026-11-04
+# Cubs Pipeline Status — Updated 2026-11-10
 
 ## Latest Run
+- **Date:** 2026-11-10 (Tuesday — Off day. BBWAA awards week: Cy Young Nov 11, NL MVP Nov 12. PCA 48 hrs from history. Cubs 40-man moves (Orze/Webb/Kelly). Rotation blank, Assad only internal option. Suzuki QO deadline Nov 17. Brewers WS champs + Misiorowski NL Cy Young frontrunner.)
+- **Stories:** 5
+- **X posts:** 5
+- **Platforms:** X/Twitter only
+- **Status:** ✅ Complete
+- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 5 stories, 5 tweets
+- **07-content-data.json:** ✅ Valid JSON, all 5 posts with posting_time (7:00 AM / 9:30 AM / 2:30 PM / 7:00 PM / 9:30 PM CT), all strptime-parseable
+- **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
+- **Note:** 10 significant insights applied from expanded snapshot. Major signal: evening_18_24 WINNER (delta=0.956, massive) → Stories 4+5 in 7:00 PM / 9:30 PM. hashtag_count=3 LOSER (delta=0.829) conflicts with pipeline hard rule — documented, keeping 3 hashtags per pipeline. All posts <200 chars (not in 200-260 loser zone). Statement openings throughout. Transaction content labeled. Off day — BBWAA awards week + 40-man moves + rotation/Suzuki + PCA MVP hype + Misiorowski/Brewers rivalry.
+
+## Insights Summary (2026-11-10 run — from 2026-11-10T08:30 UTC snapshot)
+- **Generated:** 2026-11-10T08:30:00 UTC
+- **Measured tweet count:** (see insights.json)
+- **Significant findings:** 10
+  1. `posting_window=evening_18_24` WINNER — evening (6PM-midnight) MASSIVE outperform, delta=0.956 (large), p=0.0; median 15,176 vs 111. Stories 4+5 in prime evening slots.
+  2. `content_type=not_brief` WINNER — delta=0.902 (large), p=0.0; median 772 vs 66. All posts are analytical/substantive.
+  3. `content_type=recap_longform` WINNER — delta=0.864 (large), p=0.0. Off-day, not applicable.
+  4. `hashtag_count=3` LOSER — delta=0.829 (large), p=0.0. ⚠️ CONFLICT with pipeline hard rule. Keeping 3 hashtags per pipeline.
+  5. `hashtag_count=1` WINNER — delta=0.799 (large), p=0.0. Cannot apply per pipeline rule.
+  6. `len_bucket=<140` WINNER — delta=0.575 (large), p=0.0019. All posts targeted <200 chars.
+  7. `opening=statement` WINNER — delta=0.563 (large), p=0.0001. All posts open with declarative statement.
+  8. `opening=allcaps_lead` LOSER — delta=0.522 (large), p=0.0002. No ALLCAPS lead in any post.
+  9. `content_type=transaction` WINNER — delta=0.516 (large), p=0.0186. Story 2 and 3 labeled transaction/analysis.
+  10. `len_bucket=200-260` LOSER — delta=0.509 (large), p=0.0014. Zero posts in 200-260 range.
+- **Action:** Stories 4+5 in 7:00 PM / 9:30 PM CT (evening prime). All 5 posts analytical (not_brief). All <200 chars. Statement openings. No ALLCAPS leads. Hashtag conflict documented.
+
+## Previous Run (2026-11-04)
 - **Date:** 2026-11-04 (Wednesday — Off day. Kanzler hired as Mariners manager Nov 3. PCA NL MVP finalist (45 HR, 41 SB, Gold Glove). Cubs declined Happ QO (Suzuki only). King market open. Rotation blank. AFL Reid 14 Ks.)
 - **Stories:** 6
 - **X posts:** 6

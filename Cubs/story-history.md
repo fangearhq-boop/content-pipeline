@@ -5,6 +5,51 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-11-10 (OFF DAY — Offseason. BBWAA awards week: Cy Young Nov 11, NL MVP Nov 12 (PCA heavy favorite). Cubs 40-man moves: Orze claimed, Webb re-signed, Kelly to Cleveland. Rotation still blank — Assad only internal option. Suzuki QO deadline Nov 17. Brewers WS champs + Misiorowski NL Cy Young frontrunner. Insights: evening_18_24 WINNER (massive, delta=0.956) + not_brief WINNER (large, delta=0.902) + hashtag_count=3 LOSER (large, delta=0.829, CONFLICT with pipeline rule) + len_bucket=<140 WINNER + statement opening WINNER + transaction WINNER + not_200-260 WINNER.)
+
+### STORY 1: BBWAA Awards Week Preview — Cy Young Tomorrow, NL MVP Thursday
+- **Angle:** Calendar-setter for Cubs fans: Cy Young revealed tomorrow (Nov 11), NL MVP on Thursday (Nov 12). PCA heavy favorite for MVP; Misiorowski/Brewers heavy favorite for NL Cy Young. New: BBWAA added Reliever of the Year award in 2026.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, awards preview / morning news)
+- **Follow-Up Opportunities:**
+  - NL Cy Young announced tomorrow (Nov 11) → Tier 1 reaction (Misiorowski wins?) + rivalry content
+  - NL MVP announced Thursday (Nov 12) → Tier 1 reaction (celebration if PCA wins)
+
+### STORY 2: Cubs 40-Man Roster Transactions — Early Offseason Moves
+- **Angle:** NEW. Early hot-stove 40-man moves: Orze claimed off waivers (Twins), Webb re-signed 1-year/$2M, Kelly to Cleveland minor-league deal, Austin outrighted. Assad as the only viable internal rotation option (Horton July 2027, Steele TJ rehab).
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, roster news / transaction)
+- **Follow-Up Opportunities:**
+  - Additional 40-man moves (DFAs, claims) → Tier 3 roster note
+  - Assad's projected 2027 role → Tier 3 analysis
+
+### STORY 3: Cubs Rotation: Five FA Starters + Suzuki QO Countdown
+- **Angle:** FOLLOW UP (Nov 4 rotation blank slate). Deepened: five named FA starters (Gausman, Imanaga, Holmes, Boyd, Peterson), Assad only internal option, Suzuki QO deadline Nov 17 (expected decline → 4yr/$110M market), FA targets on board (King, Peralta, Martinez, Ray).
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, analysis)
+- **Follow-Up Opportunities:**
+  - Suzuki QO decision Nov 17 → Tier 1 reaction (decline expected, opens market)
+  - Cubs sign any SP → Tier 1 breaking
+  - King, Peralta market updates → Tier 2
+
+### STORY 4: Pete Crow-Armstrong NL MVP — 48 Hours from History
+- **Angle:** FOLLOW UP (Nov 4 PCA finalist). Today's angle: 48-hour countdown to Thursday Nov 12 announcement. First Cubs NL MVP since Bryant 2016 if he wins. Stats: 45 HR, 41 SB, 10.6 fWAR (MLB-best), .280/.372/.570, 157 wRC+, Gold Glove CF. Market odds ~99%.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 PM CT ⭐️ prime evening slot)
+- **Follow-Up Opportunities:**
+  - NL MVP announced Thursday (Nov 12) → Tier 1 reaction (celebration post if PCA wins, or analysis)
+  - Silver Slugger finalists (PCA, Hoerner) → Nov 17 announcement → Tier 2
+
+### STORY 5: NL Cy Young Tomorrow — Misiorowski and the Brewers Dominate the NL
+- **Angle:** NEW. Brewers won the 2026 World Series + Misiorowski is NL Cy Young frontrunner (1.80 ERA, 0.80 WHIP, 252 K). Division rival's total NL domination framed as Cubs motivational fuel. Rivalry take.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 PM CT ⭐️ prime evening slot)
+- **Follow-Up Opportunities:**
+  - NL Cy Young announced tomorrow (Nov 11) → Tier 1 reaction if Misiorowski wins (rivalry angle)
+  - Brewers offseason moves → Tier 2 division watch
+
+---
+
 ## 2026-11-04 (OFF DAY — Offseason. Kanzler hired as Mariners manager (Nov 3) — Cubs lose farm director. PCA officially NL MVP finalist (45 HR, 41 SB, Gold Glove). Cubs declined Happ QO (Suzuki only). King market open to all teams. Rotation still blank. AFL: Reid AFL-leading 14 Ks. Insights: not_brief WINNER (large, delta=0.829) + not_200-260 chars WINNER (small, delta=0.261).)
 
 ### STORY 1: Jason Kanzler Hired as Mariners Manager — Cubs Lose Farm Director
