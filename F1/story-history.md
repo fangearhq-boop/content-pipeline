@@ -2,6 +2,44 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-11-11 Stories
+
+### STORY 1: Norris Championship Hunt — Three Races Left After Brazil Win
+- **Tier:** 1
+- **Category:** Drivers Championship / Lando Norris / McLaren
+- **Key facts:** Norris won Brazil GP by 10+ sec; 71 laps no safety car; 129 pts available in final 3 races; Las Vegas next Nov 22
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: McLaren vs Ferrari — Constructors P2 Battle
+- **Tier:** 1
+- **Category:** McLaren / Ferrari / Constructors Championship
+- **Key facts:** Mercedes 652 pts (champions); Ferrari 510; McLaren 398; 112-pt gap; 129 pts remain
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: Mercedes' Dominant 2026 — New Era With Antonelli and Russell
+- **Tier:** 2
+- **Category:** Mercedes / Kimi Antonelli / George Russell
+- **Key facts:** Constructors' title sealed in Brazil; 652 points; first title without Lewis Hamilton; Antonelli rookie season
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
+### STORY 4: Las Vegas GP Preview — Nov 22 Deep Dive
+- **Tier:** 2
+- **Category:** Las Vegas Grand Prix / F1 Preview
+- **Key facts:** Race date Nov 22, 2026; Las Vegas Strip Circuit; championship implications; McLaren vs Ferrari P2 subplot
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: 2026 Rookie Class — Antonelli and Hadjar Shine
+- **Tier:** 3
+- **Category:** F1 Rookies / Kimi Antonelli / Isack Hadjar
+- **Key facts:** Antonelli competing for championship in debut season; Hadjar strong points season at Red Bull affiliate
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+
 ## 2026-11-02
 
 ### STORY 1: Kimi Antonelli Crowned 2026 F1 World Champion — Youngest Ever
