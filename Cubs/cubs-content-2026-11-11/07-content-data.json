@@ -1,0 +1,206 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-11",
+  "compiled_at": "2026-11-11T09:19:52.336415+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "NL Cy Young Tonight",
+      "type": "Awards Preview"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Cubs Out on King, Peralta Target",
+      "type": "Roster / Transaction"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Ben Brown Surgery Risk",
+      "type": "Injury Update"
+    },
+    {
+      "time": "7:00 PM ⭐️",
+      "description": "Misiorowski Wins NL Cy Young",
+      "type": "Rivalry Reaction"
+    },
+    {
+      "time": "9:30 PM ⭐️",
+      "description": "PCA: 24 Hours from History",
+      "type": "Bold Take"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "NL Cy Young Is Tonight — Misiorowski the Heavy Favorite",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "The NL Cy Young is tonight. Misiorowski, 1.80 ERA, is the runaway favorite.\n\nBrewers WS champs. Cubs rotation: empty.\n\n#Cubs #MLB #GoCubs",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Awards preview / morning news",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#GoCubs"
+          ],
+          "char_count": 137
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "NL Cy Young Is Tonight — Misiorowski the Heavy Favorite\n**Key facts:**\n- NL Cy Young Award announced tonight, 7 PM ET (6 PM CT) on MLB Network",
+        "sources": "- Source: MLB.com awards schedule, multiple BBWAA coverage pages — Confidence: HIGH\n- NL Cy Young finalists: Jacob Misiorowski (Brewers), Chris Sale (Braves), Cristopher Sánchez (Phillies)\n- Source: MLB.com finalists page, Yahoo Sports, Bleacher Report — Confidence: HIGH\n- Jacob Misiorowski 2026 stats: 1.80 ERA, 252 K (led Majors), 0.80 WHIP\n- Source: Multiple (MLB.com, ReviewingTheBrew, Bleacher Report) — Confidence: MEDIUM (source variance: one source says 1.89 ERA, another 243 K; using most-cited consensus figures)\n- FLAG: Cross-reference on Baseball Reference before claiming as verified\n- Misiorowski is consensus heavy favorite; Sánchez is main challenger (2.91 ERA, 207 IP, 18 W)\n- Source: ESPN, Yahoo Sports, Bleacher Report — Confidence: HIGH\n- Brewers won 2026 World Series\n- Source: AP (relayed in BBWAA finalist coverage), consistent across all prior research — Confidence: HIGH\n**Story angle:** Morning preview. Award tonight. Misiorowski is the pick. Cubs division context: Brewers WS + likely Cy Young = Cubs need to respond this winter."
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Cubs Out on King, Peralta Emerging as Top Target",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Cubs and Michael King are reportedly not a fit.\n\nFreddy Peralta is the top target — two-time All-Star, former Brewer under Craig Counsell.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Roster news / transaction",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 164
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs Out on King, Peralta Emerging as Top Target\n**Key facts:**\n- Cubs and Michael King \"don't appear to be a fit\" on contract value",
+        "sources": "- Source: The Athletic (Sahadev Sharma) — Confidence: HIGH\n- King market: 4yr/$92M (MLB Trade Rumors) or 3yr/$78M (The Athletic)\n- Source: MLB Trade Rumors, The Athletic — Confidence: MEDIUM (range, not settled)\n- Cubs seeking \"at least three established starters\" per The Athletic\n- Source: The Athletic (Sharma + Mooney) — Confidence: HIGH\n- Freddy Peralta: free agent after time with Rays in 2026\n- Two-time All-Star; 7 seasons with Brewers (NL Central familiarity)\n- Craig Counsell managed Peralta during his Brewers tenure — direct connection\n- 2026 with Rays: 3.25 ERA, 1.012 WHIP, 43 K in 55.1 IP (NOTE: partial season — possible injury)\n- Source: ClutchPoints, Yahoo Sports, SI.com — Confidence: MEDIUM (single AI-summarized sources; partial-season context unverified)\n- FLAG: 55.1 IP for a starter is suspicious — verify full context (injured? trade mid-year?)\n- Ken Rosenthal: \"Freddy Peralta is an obvious fit for them\"\n- Source: The Big Lead (relaying Rosenthal) — Confidence: MEDIUM (single relay)\n- Cubs also checking in on Clay Holmes, Sonny Gray, Robbie Ray, Patrick Sandoval\n- Source: SI.com, Yahoo Sports — Confidence: LOW-MEDIUM\n**Tweet approach:** Lead with King departure (confirmed by The Athletic), pivot to Peralta as emerging target. Use two-time All-Star + Counsell connection as the hook. Do NOT cite Peralta's partial-season stats (insufficient context)."
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Ben Brown Surgery Not Ruled Out",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Ben Brown still hasn't been cleared to throw. Surgery isn't off the table.\n\nThe Cubs already have zero confirmed starters for 2027. This just made it harder.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Injury update / roster",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 183
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Ben Brown Surgery Not Ruled Out\n**Key facts:**\n- Ben Brown has not been cleared to throw",
+        "sources": "- Source: Bleacher Nation (Nov 10, 2026) — Confidence: HIGH\n- Surgery has not been ruled out\n- Source: Bleacher Nation (Nov 10, 2026) — Confidence: HIGH\n- Context: Brown is a RHP prospect/depth starter on the Cubs. This deepens their rotation crisis.\n- Cubs have zero confirmed starters for 2027 (Horton out until July, Steele rehabbing TJ, Assad option declined, all five 2026 rotation arms in FA)\n- Source: Prior confirmed research (MLB.com, NBC Chicago) — Confidence: HIGH\n**Tweet approach:** State the injury fact plainly. Connect it to the broader rotation crisis. No stats needed — this is a news/injury update tweet."
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Misiorowski Wins NL Cy Young — Brewers Own the NL",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "7:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Misiorowski wins the NL Cy Young. 1.80 ERA, 252 strikeouts, 0.80 WHIP.\n\nThe Brewers now have the World Series AND the NL's best pitcher. Cubs have a blank rotation.\n\n#Cubs #MLB #NorthSiders",
+          "posting_time": "7:00 PM CT",
+          "tweet_type": "Rivalry take / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#NorthSiders"
+          ],
+          "char_count": 189
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Misiorowski Wins NL Cy Young — Brewers Own the NL (CONDITIONAL)\n**⚠️ CONDITIONAL POST — Verify before 7:00 PM CT**\n- If Misiorowski wins: Post as written\n- If Sánchez wins: Reframe as \"NL Cy Young goes to Phillies — Brewers still have the WS + the NL's best regular season ERA\" or update with Sánchez angle\n- If Sale wins: Unlikely; post needs full revision to \"Sale wins surprise Cy Young\" angle\n**Key facts (assuming Misiorowski wins):**\n- Misiorowski stats: 1.80 ERA, 252 K, 0.80 WHIP (see Story 1 caveat)\n- Brewers won 2026 World Series — confirmed HIGH\n- Cubs have zero confirmed starters for 2027 — confirmed HIGH\n- Division rivalry context: Brewers have best team (WS) + best individual pitcher (expected Cy Young) in NL\n**Tweet approach:** Lead with Misiorowski win + stats. Second beat: Brewers own everything, Cubs have nothing. Rivalry take as motivation fuel. PRIME EVENING slot per insights.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "PCA Is 24 Hours from NL MVP History",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "9:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Pete Crow-Armstrong is 24 hours from NL MVP history.\n\n45 HRs, 41 SBs, 10.6 fWAR (MLB-best). First Cubs MVP since Kris Bryant in 2016.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "9:30 PM CT",
+          "tweet_type": "Bold take / award hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 153
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA Is 24 Hours from NL MVP History\n**Key facts:**\n- NL MVP announced Nov 12, 7 PM ET (6 PM CT) on MLB Network",
+        "sources": "- Source: MLB.com — Confidence: HIGH\n- Three finalists: Pete Crow-Armstrong (Cubs), Brice Turang (Brewers), Shohei Ohtani (Dodgers)\n- Source: MLB.com, StatSniper.com, ActionNetwork.com — Confidence: HIGH\n- PCA 2026 stats: 45 HR, 41 SB, 10.6 fWAR (MLB-best), .280/.372/.570, 157 wRC+, Gold Glove CF\n- Source: Multiple (MLB.com, StatSniper, AJC.com, Local10.com) — Confidence: HIGH\n- PCA is -1100 favorite per FanDuel (pre-announcement odds)\n- Source: StatSniper.com — Confidence: MEDIUM (single source, odds-based)\n- Last Cubs NL MVP: Kris Bryant in 2016\n- This is widely documented baseball history. Well-known fact, verifiable on Baseball Reference.\n- Confidence: HIGH (before any verification; will treat as HIGH given historical consensus)\n- FLAG: Per 2-source rule for historical claims — flag for verification. Baseball Reference confirms Bryant won 2016 NL MVP.\n**Tweet approach:** Lead with the 24-hour hook. Second beat: the stats that make it undeniable. Close with the historical context (Bryant 2016). PRIME EVENING slot per insights."
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

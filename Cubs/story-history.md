@@ -5,6 +5,51 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-11-11 (OFF DAY — Offseason. BBWAA Awards Week: NL Cy Young tonight (Misiorowski heavy favorite), NL MVP tomorrow (PCA heavy favorite, -1100). Cubs out on Michael King (The Athletic); Peralta emerging as top FA target. Ben Brown surgery not ruled out. Insights: evening_18_24 WINNER (massive, delta=0.945) + opening=statement WINNER [SIGNAL REVERSAL from prior runs] + opening=allcaps_lead LOSER + not_brief WINNER + hashtag_count=3 LOSER (CONFLICT, kept 3) + len_bucket=<140 WINNER + not_200-260 WINNER + transaction WINNER.)
+
+### STORY 1: NL Cy Young Is Tonight — Misiorowski the Heavy Favorite
+- **Angle:** NEW. NL Cy Young announced tonight 7 PM ET on MLB Network. Misiorowski the overwhelming consensus pick (1.80 ERA, 252 K, 0.80 WHIP). Brewers WS champs + likely Cy Young = Cubs division context. Morning preview angle.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, awards preview / morning news)
+- **Follow-Up Opportunities:**
+  - Cy Young result tonight — Tier 1 reaction (verify before 7 PM CT; Story 4 is conditional on result)
+
+### STORY 2: Cubs Out on King, Peralta Emerging as Top Target
+- **Angle:** FOLLOW UP (King flagged Nov 4). The Athletic reports Cubs and King don't appear to be a fit on contract. Freddy Peralta emerging as top target — two-time All-Star, 7 seasons with Brewers under Craig Counsell.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, roster news / transaction)
+- **Follow-Up Opportunities:**
+  - Cubs formally meet with Peralta → Tier 2 update
+  - Peralta signs with Cubs → Tier 1 breaking
+  - Peralta or King signs elsewhere → Tier 1 reaction, Cubs pivot
+  - Other FA starters linked (Gray, Sandoval, Morejon) → Tier 2-3
+
+### STORY 3: Ben Brown Surgery Not Ruled Out
+- **Angle:** NEW. Ben Brown not cleared to throw, surgery not off the table (Bleacher Nation Nov 10). Deepens Cubs rotation crisis — zero confirmed starters for 2027.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, injury update)
+- **Follow-Up Opportunities:**
+  - Brown cleared or surgery confirmed → Tier 1-2 update
+  - Any Cubs SP acquisition as response → Tier 1
+
+### STORY 4: Misiorowski Wins NL Cy Young — Brewers Own the NL (CONDITIONAL)
+- **Angle:** NEW — CONDITIONAL (assumed Misiorowski wins; verify before 7 PM CT). Brewers now have WS trophy + NL Cy Young in same year. Cubs have blank rotation. Rivalry fuel.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 PM CT, rivalry reaction — PRIME EVENING)
+- **⚠️ CONDITIONAL:** If Sánchez or Sale wins instead, tweet needs update before bot posts at 7 PM CT.
+- **Follow-Up Opportunities:**
+  - Cy Young result confirmed → no follow-up needed; story closes
+  - Misiorowski extension with Brewers → Tier 2 rivalry news
+
+### STORY 5: PCA Is 24 Hours from NL MVP History
+- **Angle:** FOLLOW UP (ongoing since Nov 4). NL MVP announced tomorrow Nov 12, 6 PM CT on MLB Network. PCA is -1100 favorite: 45 HR, 41 SB, 10.6 fWAR (MLB-best). First Cubs NL MVP since Kris Bryant in 2016.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 PM CT, award hype — PRIME EVENING)
+- **Follow-Up Opportunities:**
+  - NL MVP announced tomorrow Nov 12 → Tier 1 celebration (if PCA wins) or analysis (if Ohtani/Turang wins)
+
+---
+
 ## 2026-11-10 (OFF DAY — Offseason. BBWAA awards week: Cy Young Nov 11, NL MVP Nov 12 (PCA heavy favorite). Cubs 40-man moves: Orze claimed, Webb re-signed, Kelly to Cleveland. Rotation still blank — Assad only internal option. Suzuki QO deadline Nov 17. Brewers WS champs + Misiorowski NL Cy Young frontrunner. Insights: evening_18_24 WINNER (massive, delta=0.956) + not_brief WINNER (large, delta=0.902) + hashtag_count=3 LOSER (large, delta=0.829, CONFLICT with pipeline rule) + len_bucket=<140 WINNER + statement opening WINNER + transaction WINNER + not_200-260 WINNER.)
 
 ### STORY 1: BBWAA Awards Week Preview — Cy Young Tomorrow, NL MVP Thursday

@@ -1,7 +1,7 @@
-# Cubs Pipeline Status — Updated 2026-11-10
+# Cubs Pipeline Status — Updated 2026-11-11
 
 ## Latest Run
-- **Date:** 2026-11-10 (Tuesday — Off day. BBWAA awards week: Cy Young Nov 11, NL MVP Nov 12. PCA 48 hrs from history. Cubs 40-man moves (Orze/Webb/Kelly). Rotation blank, Assad only internal option. Suzuki QO deadline Nov 17. Brewers WS champs + Misiorowski NL Cy Young frontrunner.)
+- **Date:** 2026-11-11 (Wednesday — Off day. BBWAA Awards Week: NL Cy Young tonight (Misiorowski heavy favorite), NL MVP tomorrow (PCA heavy favorite). Cubs out on King (The Athletic); Peralta as top FA target. Ben Brown surgery not ruled out. Signal reversal: opening=statement now WINNER (prior runs: allcaps_lead WINNER).)
 - **Stories:** 5
 - **X posts:** 5
 - **Platforms:** X/Twitter only
@@ -9,7 +9,25 @@
 - **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 5 stories, 5 tweets
 - **07-content-data.json:** ✅ Valid JSON, all 5 posts with posting_time (7:00 AM / 9:30 AM / 2:30 PM / 7:00 PM / 9:30 PM CT), all strptime-parseable
 - **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
-- **Note:** 10 significant insights applied from expanded snapshot. Major signal: evening_18_24 WINNER (delta=0.956, massive) → Stories 4+5 in 7:00 PM / 9:30 PM. hashtag_count=3 LOSER (delta=0.829) conflicts with pipeline hard rule — documented, keeping 3 hashtags per pipeline. All posts <200 chars (not in 200-260 loser zone). Statement openings throughout. Transaction content labeled. Off day — BBWAA awards week + 40-man moves + rotation/Suzuki + PCA MVP hype + Misiorowski/Brewers rivalry.
+- **Note:** 10 significant insights applied. SIGNAL REVERSAL: opening=allcaps_lead flipped from WINNER (Oct 30 - Nov 10, 6 consecutive runs) to LOSER today (delta=0.684, large); opening=statement flipped from LOSER to WINNER. All 5 posts use statement openings, NO ALL CAPS leads. evening_18_24 WINNER (delta=0.945) → Stories 4+5 in prime evening. hashtag_count=3 LOSER (delta=0.830) conflicts with pipeline hard rule — documented, keeping 3. All posts 137-189 chars (none in 200-260 loser zone). ⚠️ Story 4 (7 PM CT) CONDITIONAL on Misiorowski winning NL Cy Young tonight — verify before 7 PM CT.
+
+## Insights Summary (2026-11-11 run — from 2026-11-11T08:30 UTC snapshot)
+- **Generated:** 2026-11-11T08:30:00 UTC
+- **Measured tweet count:** 66
+- **Significant findings:** 10
+  1. `posting_window=evening_18_24` WINNER — delta=0.945 (large), 20488 vs 131 median impressions. Stories 4+5 in 7:00 PM / 9:30 PM CT.
+  2. `content_type=not_brief` WINNER — delta=0.899 (large), 819 vs 83. All posts analytical/substantive.
+  3. `content_type=recap_longform` WINNER — delta=0.852 (large). Off day, not applicable.
+  4. `hashtag_count=3` LOSER — delta=0.830 (large). ⚠️ CONFLICT with pipeline hard rule. Keeping 3 per pipeline.
+  5. `hashtag_count=1` WINNER — delta=0.800 (large). Cannot apply per pipeline rule.
+  6. `opening=statement` WINNER — delta=0.684 (large). **REVERSAL from prior runs.** All 5 posts use statement openings.
+  7. `opening=allcaps_lead` LOSER — delta=0.684 (large). **REVERSAL from prior runs.** No ALL CAPS leads in any post.
+  8. `len_bucket=200-260` LOSER — delta=0.615 (large). Zero posts in 200-260 range (all 137-189 chars).
+  9. `len_bucket=<140` WINNER — delta=0.534 (large). Story 1 at 137 chars.
+  10. `content_type=transaction` WINNER — delta=0.444 (medium). Story 2 labeled transaction type.
+- **Action:** Statement openings throughout (reversal applied). Stories 4+5 in 7:00 PM / 9:30 PM CT. All posts <200 chars. No ALLCAPS leads. King/Peralta as transaction story. Hashtag conflict documented.
+
+## Previous Run (2026-11-10)
 
 ## Insights Summary (2026-11-10 run — from 2026-11-10T08:30 UTC snapshot)
 - **Generated:** 2026-11-10T08:30:00 UTC
