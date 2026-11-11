@@ -1,5 +1,36 @@
 # Tennis Fanrecap — Pipeline Status
 
+## Current Run: 2026-11-11
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | WTA Finals Day 3: Noskova d. Gauff 6-3, 6-3 (first semi); Pegula d. Kostyuk 6-2, 7-5 (Kostyuk eliminated); Day 4 (today): Sabalenka(1-0) vs Andreeva(1-0) decisive Group 2 match; ATP Finals draw tomorrow Nov 12 12pm; Sinner out (knee, not returning pre-2027); PTPA raised schedule concerns after Rybakina withdrawal ("nothing left"); Fritz comments; Zverev year-end No. 1 historical context (1st German, oldest 1st-timer, Roland Garros + US Open wins) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Nov 10 S2: WTA Finals D1-D2 → D3 recap + D4 preview); S2 FOLLOW-UP (Nov 10 S3: ATP Finals preview → draw eve); S3 NEW (PTPA player fatigue debate); S4 FOLLOW-UP (Nov 10 S1: Alcaraz Paris champion → Turin arrival); S5 FOLLOW-UP (Nov 10 S5: Zverev Turin outlook → historical context) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 T1, 2 T2); bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on Noskova Wimbledon win (single source reference); MEDIUM on 8-player ATP Finals 3-title club (single source) |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 8 posts across 5 stories (#### Text Post format); all ≤280 chars |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; fixed header format (**Long-Form Post** not **Long-Form Post:**) |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories; player-name-only search terms |
+| Articles (5) | COMPLETE | article-01 Noskova semis Day4 preview (Elena Voss T1 ~550w); article-02 ATP Finals draw tomorrow (Marcus Cole T1 ~520w); article-03 PTPA fatigue debate (Ryan Calloway T1 ~550w); article-04 Alcaraz Turin arrival (Elena Voss T2 ~530w); article-05 Zverev YE No.1 history (Marcus Cole T2 ~530w) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 32 claims auto-extracted; all stories present in all content files; PASSED; image not_started warnings expected |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles, 10 images; posting window warnings cosmetic |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 28 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-11-11.xlsx + tfr-postplanner-tobi-2026-11-11.xlsx — 8 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 11 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** 8 posts standard + 8 TOBI
+- **Key stories:** WTA Finals Day 3 — Noskova first semifinalist (beat Gauff 6-3, 6-3), Day 4 Sabalenka/Andreeva decisive; ATP Finals draw tomorrow (Sinner out, 8-man field set, Turin Nov 15-22); PTPA escalates schedule reform debate after Rybakina withdrawal; Alcaraz arrives Turin on 10-match streak seeking first Finals title; Zverev year-end No. 1 seeks 3rd ATP Finals crown
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known); FB post header format corrected (**Long-Form Post** not **Long-Form Post:**)
+
+---
+
 ## Current Run: 2026-11-10
 
 | Step | Status | Notes |

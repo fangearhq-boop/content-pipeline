@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## November 11, 2026
+
+| 2026-11-11 | WTA Finals Day 3 recap + Day 4 preview — Noskova first into semis (beat Gauff 6-3, 6-3, 2nd win); Pegula d. Kostyuk 6-2, 7-5 (Kostyuk out 0-2); Group 1 final: Noskova 2-0 (through), Pegula/Gauff 1-1 (Thursday decides); Day 4: Svitolina vs Muchova + Sabalenka (1-0) vs Andreeva (1-0) decisive Group 2 match. Sources: ESPN, NBC Sports, Times Live, Sunday Guardian Live, WTA Finals official | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 10 S2: WTA Finals D1–D2 → D3 recap + D4 preview) |
+| 2026-11-11 | ATP Finals draw tomorrow (Nov 12, 12pm) — Sinner officially out (knee injury, not returning before 2027); field: Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe, Jodar; Turin Nov 15-22 Inalpi Arena; two groups of four, top 2 advance to semis. Sources: ATP Tour official, ESPN, field level media, TSN | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Nov 10 S3: ATP Finals preview → draw eve) |
+| 2026-11-11 | PTPA player fatigue debate — Rybakina withdrawal ("body had nothing left") sparked PTPA statement calling out ATP/WTA calendar; also withdrew from Tokyo QF with neck injury; Taylor Fritz comments on too-short off-season; structural schedule reform debate escalates. Sources: CBC Sports, Tennis World USA, ESPN | T1 | X, FB, Article | Ryan Calloway; NEW STORY |
+| 2026-11-11 | Alcaraz arrives Turin as hot favorite — 10-match winning streak (Vienna + Paris back-to-back); 5 titles 2026, 9 Masters 1000s; seeking first ATP Finals title. Sources: ATP Tour, prior pipelines | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 10 S1: Alcaraz Paris champion → Turin arrival) |
+| 2026-11-11 | Zverev year-end No. 1 historical context — clinched Oct 12, 2026; first German; oldest first-timer; Roland Garros + US Open wins (25-2 at Slams); seeks 3rd ATP Finals title (2018, 2021); would join 8-player club. Sources: ATP Tour, TSN, News4Jax, tennis365, TennisTourTalk | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Nov 10 S5: Zverev Turin outlook → historical context) |
+
+---
+
+
 ## November 10, 2026
 
 | 2026-11-10 | Alcaraz wins Paris Masters — d. Shelton 7-6(5), 7-5 (1h57m); 5th title 2026 (AO/Doha/Tokyo/Vienna/Paris); 9th Masters 1000 crown; first Paris title; saved 6 BPs in Set 1; broke back after being broken in Set 2; Shelton 6th final 2026, missed 3rd Masters; H2H Alcaraz now 4-1; first American Paris finalist since Sock 2017. Sources: ATP Tour, Click2Houston, Al Jazeera, Sky Sports, TennisMajors 866414, Sunday Guardian Live, The Score | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 7 S1: Paris SFs → Final result) |
