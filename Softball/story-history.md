@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## Pipeline Run: 2026-11-11
+
+### Story 1: Signing Day Is Here — Class of 2027 Signs on November 11
+- **Date:** 2026-11-11
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Signing Day preview covered Nov 10)
+- **Angle:** TODAY is Signing Day. November 11, 2026 is the opening day for Class of 2027 softball recruits to sign athletics aid agreements. NLI eliminated Oct 2024. Dead period Nov 9-12. Five programs most at stake: Florida (4-0 fall, top-10 class), Tennessee (Weekly rebuilds rotation after Pickens), Oklahoma (Wells+Kavan anchors, Hutchens already enrolled via reclassification), Texas (defending champion standard), Texas Tech (No. 1 portal class + HS adds). 5-for-5 ruling now in effect (Tenth Circuit Nov 6). Signing window through August 1, 2027.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Class rankings from recruiting services (Nov 11-12)
+  - Program-specific signing class reveals
+  - December contact window for Class of 2028
+
+### Story 2: 5-for-5 Creates Signing Day Casualties — Roster Squeeze Forces De-Commits
+- **Date:** 2026-11-11
+- **Tier:** 1
+- **Classification:** FOLLOW UP (5-for-5 covered Oct 29–Nov 10)
+- **Angle:** Tenth Circuit ruling arrives on Signing Day with real consequences. Memphis pulled offers; Cassidy Ott publicly announced she was "involuntarily de-committed from the University of Memphis due to the new 5-year eligibility rule." Kentucky's Rachel Lawson warned of "casualties" months ago. Programs face ~25-player roster cap; retaining returning players squeezes incoming class spots. ~200 state-court cases continue.
+- **Content Produced:** Article (article-02, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Additional de-commit announcements (next 2-3 days)
+  - State-court rulings affecting individual athletes
+  - Tenth Circuit merits ruling on Wisne v. NCAA
+
+### Story 3: Oklahoma's 2027 Class — Gasso Builds Around the Core
+- **Date:** 2026-11-11
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Oklahoma covered Oct 20–Nov 10)
+- **Angle:** Gasso's signing class built around Wells (39HR NFCA FY), Kavan (2x WCWS MOP), and Hutchens (No.1 overall Class of 2027 per Softball America — reclassified, already enrolled). Today's class adds supporting pieces: circle depth, speed, lineup depth. 5-for-5 ruling clarifies roster planning. OU national title window open.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - OU class rankings release
+  - Spring schedule announcement
+  - OU Signing Day class announcement
+
+### Story 4: Texas Tech's Signing Day — Portal Class Meets High School Class
+- **Date:** 2026-11-11
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Texas Tech covered Oct 20–Nov 10)
+- **Angle:** Portal class already assembled: Pickering (.384BA/50HR/169RBI, signed June 2026), Gallaway, Heavener, Polar — No. 1 portal class nationally. Today Glasco adds the high school component. TTU's transformation under Glasco: program reached WCWS championship series each of past 2 seasons. Big 12 opens March 12, 2027. Geographic advantage for in-state TX recruiting.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - TTU Signing Day class ranking
+  - TTU spring schedule release
+  - Big 12 season opener March 12
+
+### Story 5: Tennessee's Rotation Puzzle — Karen Weekly Signs the Answers
+- **Date:** 2026-11-11
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Tennessee covered Oct 20–Nov 10)
+- **Angle:** Pickens (194K, 1.70ERA) exhausted eligibility. Mardjetko (16-3, 1.26ERA) returns as ace. Shelton (freshman, 3IP/7K fall) developing. Tennessee 3-0 in fall. Weekly needs incoming circle depth capable of contributing immediately. What she signs today defines the Vols' 2027 ceiling.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Tennessee class rankings
+  - Spring schedule release
+  - Transfer portal additions for circle depth
+
+---
+
 ## Pipeline Run: 2026-11-10
 
 ### Story 1: Tenth Circuit Overturns 5-for-5 Injunction — NCAA Wins Key Ruling
