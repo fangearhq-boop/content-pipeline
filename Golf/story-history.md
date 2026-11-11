@@ -2,6 +2,43 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-11-11 Stories
+
+### STORY 1: LIV Golf Officially Dead — Lawyers Confirm No Successor League
+- **Tier:** 1
+- **Category:** LIV Golf / Professional Golf / Saudi Arabia PIF
+- **Key facts:** Lawyers confirmed in court no LIV Golf 2.0; BC Partners Credit withdrew funding; 5 years, $5B; liquidation; assets to be sold; Chapter 11 filed Sept 2026
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: Reed and Chacarra Secure PGA Tour Return via DP World Tour
+- **Tier:** 1
+- **Category:** PGA Tour / LIV Golf / Patrick Reed / Eugenio Chacarra
+- **Key facts:** Both earned PGA Tour cards via DP World Tour performance; AP confirmed Nov 9, 2026; no special program needed
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 3: PGA Tour's Rolapp — No Reinstatement Program for LIV Players
+- **Tier:** 2
+- **Category:** PGA Tour / Brian Rolapp / Jon Rahm / Bryson DeChambeau
+- **Key facts:** Returning Member Program closed (Feb 2 deadline); will not be revived; Rahm hasn't engaged Tour; DeChambeau in lawsuit; 1-year suspension from last LIV appearance
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 4: The Annika LPGA Preview — Nov 12-15 at Pelican Golf Club
+- **Tier:** 2
+- **Category:** LPGA Tour / The Annika / Pelican Golf Club Florida
+- **Key facts:** $3.25M purse; Nov 12-15; Belleair Florida; 2nd-to-last LPGA event; CME Group Tour Championship follows (Nov 19-22, $11M, Tiburon)
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: LIV's Legacy — Five Years That Changed Golf Forever
+- **Tier:** 2
+- **Category:** LIV Golf / Golf History / Professional Golf
+- **Key facts:** PGA Tour purses raised in response; PIP program created; DP World Tour / PGA Tour relationship formalized; LIV failed as business but succeeded as change agent
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+
 ## 2026-11-03
 
 | Date | Tier | Title | Platforms | Status |

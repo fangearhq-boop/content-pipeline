@@ -1,9 +1,32 @@
 # Golf Fanrecap — Pipeline Status
 
-## Last Run: 2026-11-10
+## Last Run: 2026-11-11
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** Golf Fanrecap
+
+---
+
+### 2026-11-11 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 25 claims, HIGH: 31; image manifest not_started (imagn — manual)
+- Step 10b: compile-content-data.py — 5 stories, 9 tweets, 5 FB posts, 5 articles; char-count warning Story 2 Post 2 (non-blocking); posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (25 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy; content-dashboards not in session scope)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via GitHub MCP to main
+
+**Stories covered:**
+1. T1 NEW: LIV Golf officially dead — lawyers confirm no successor league (Ryan Calloway)
+2. T1 NEW: Reed and Chacarra secure PGA Tour return via DP World Tour (Jake Torres)
+3. T2 NEW: PGA Tour's Rolapp — no reinstatement program for LIV players (Marcus Cole)
+4. T2 NEW: The Annika LPGA preview — Nov 12-15 at Pelican Golf Club (Ryan Calloway)
+5. T2 FOLLOW UP: LIV's legacy — five years that changed golf forever (Jake Torres)
+
+---
 
 ---
 
