@@ -67,6 +67,10 @@ article_has_quick_reference: true
 github_pages_url: "https://fangearhq-boop.github.io/cos-parenting"
 github_repo: "fangearhq-boop/cos-parenting"
 
+# Own-site hosts never emitted in stories[].sources (self-links such as the
+# required springsdaily.com weekend-roundup links are not sources).
+source_exclude_hosts: "springsdaily.com"
+
 # Fact-check claim types
 claim_priority_labels:
   1: "Dates, times, locations, prices, age ranges — most error-prone"

@@ -1,0 +1,52 @@
+name: Engine scripts CI
+
+on:
+  pull_request:
+    paths:
+      - "_engine/scripts/**"
+      - "Parenting/niche-config.yaml"
+      - ".github/workflows/engine-ci.yml"
+  push:
+    branches:
+      - main
+    paths:
+      - "_engine/scripts/**"
+      - "Parenting/niche-config.yaml"
+      - ".github/workflows/engine-ci.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  engine-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install pytest
+        run: python -m pip install pytest
+      - name: Compile-content-data and story-source tests (offline)
+        run: python -m pytest -v _engine/scripts/test_compile_content_data.py _engine/scripts/test_story_sources.py
+      - name: Compile a real Parenting day to a temp copy (smoke test, no writes to repo)
+        run: |
+          tmp="$(mktemp -d)"
+          cp -r _engine "$tmp/_engine"
+          mkdir -p "$tmp/Parenting"
+          cp Parenting/niche-config.yaml "$tmp/Parenting/"
+          cp -r Parenting/parenting-content-2026-10-21 "$tmp/Parenting/"
+          python "$tmp/_engine/scripts/compile-content-data.py" --niche Parenting 2026-10-21 || true
+          python - "$tmp/Parenting/parenting-content-2026-10-21/07-content-data.json" <<'EOF'
+          import json, sys
+          data = json.load(open(sys.argv[1], encoding="utf-8"))
+          for s in data["stories"]:
+              assert isinstance(s["sources"], list), s["story_num"]
+              for src in s["sources"]:
+                  assert src["url"].startswith(("http://", "https://")), src
+                  assert isinstance(src["official"], bool), src
+                  assert src["name"], src
+                  assert "springsdaily.com" not in src["url"], src
+          assert any(src["official"] for s in data["stories"] for src in s["sources"])
+          print("sources OK:", sum(len(s["sources"]) for s in data["stories"]), "entries")
+          EOF

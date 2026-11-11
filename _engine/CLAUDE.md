@@ -79,7 +79,7 @@ All pipeline markdown files use `### STORY N:` headers to delimit stories. Scrip
 
 ## Scripts (in `scripts/`)
 - `verify-facts.py` — Consistency + fact-check + image manifest validation. Generates `06-fact-check-log.md`. Auto-detects niche from cwd or uses `--niche` flag.
-- `compile-content-data.py` — Reads all markdown content files and produces `07-content-data.json`. Must run AFTER fact-check (Step 10) and BEFORE dashboard generation (Step 13). Auto-detects niche or uses `--niche` flag. Validates completeness and reports char-count violations.
+- `compile-content-data.py` — Reads all markdown content files and produces `07-content-data.json`. Must run AFTER fact-check (Step 10) and BEFORE dashboard generation (Step 13). Auto-detects niche or uses `--niche` flag. Validates completeness and reports char-count violations. Also emits `stories[].sources[]` (`name`, `url`, `official`, plus provenance `found_in`) via `story_sources.py`, built only from `http(s)://` URLs already present in the day's research notes, fact-check log, daily brief, and article links. Official hosts rank first, duplicates are merged, the list is capped at 8, and hosts in the niche's `source_exclude_hosts` config are dropped.
 - `generate-review-dashboard.py` — Creates interactive review dashboard HTML. Auto-detects niche. Prefers `07-content-data.json` (v2.0) when available; falls back to markdown parsing.
 - `generate-gemini-image.py` — AI image generation via Gemini API. Requires `GEMINI_API_KEY` env var. Tracks daily cost. Has `--dry-run` and `--budget` flags.
 - `publish-dashboard.py` — Publishes dashboards to GitHub Pages. Generates index.html, git add/commit/push.

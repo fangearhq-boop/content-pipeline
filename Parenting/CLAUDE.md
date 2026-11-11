@@ -68,6 +68,17 @@ Every **Thursday** (America/Denver), one of the day's article slots MUST be the 
 - **Pillar:** Local Events. It counts toward the day's 7 stories and also gets the normal X/FB social treatment (the FB post is a strong performer slot — lead with the best free pick).
 - **Why (2026-07-19):** the roundup is the dated "spoke" that feeds link equity into Springs Daily's evergreen weekend pages (the pages that actually rank for "things to do this weekend" queries), and it's the highest-CTR newsletter/social block of the week. The article's job is distribution + internal links, not ranking for the head term itself.
 
+## Source URLs in Research Notes (required for factual + health stories)
+
+springs-daily's parenting ingest holds factual stories (recalls, closures, schedules, dates, deadlines, elections) and health stories (flu, vaccines, illness, safety guidance) unless `07-content-data.json` carries an official source URL in `stories[].sources[]`. `compile-content-data.py` fills that list ONLY from `http(s)://` URLs literally written in `01-research-notes.md`, `06-fact-check-log.md`, `00-daily-brief.md`, and the story's article `<a href>` links. It never invents or constructs a URL, so a source written as "CPSC.gov: Magnetopia recall" produces nothing.
+
+- Under each story's `**Sources:**`, write one source per line with the **full URL of the page actually fetched**: `- CPSC: "Magnetopia Recalls Magnetic Cubes" — https://www.cpsc.gov/Recalls/2027/...`
+- For factual and health stories, include at least one official page (.gov/.mil/.edu/.us, D11/D20/D49 and other district sites, elpasoco.com, elpasocountyhealth.org, csu.org, ppld.org, aap.org, healthychildren.org, who.int).
+- If the official page is an organizer's or private school's own site (not on that list), append `[OFFICIAL]` to the line to mark it as the official source.
+- Never paste a homepage you did not open, and never guess a deep link. If no official page was found, leave it out; the story will be held for a link rather than shipped with a fake one.
+- Evergreen advice stories may have no sources.
+- springsdaily.com links (the weekend roundup's required internal links) are excluded via `source_exclude_hosts` in `niche-config.yaml`.
+
 ## Verification Checklist
 For any Parenting niche change, confirm:
 - [ ] Brand voice rules followed (contractions, no banned words, COS/Colorado Springs naming)
@@ -85,5 +96,6 @@ Append-only. Record WHY, not just WHAT.
 
 - **2026-02-23:** Gemini `base_only` mode chosen over `complete` — Canva handles text overlays for brand consistency across all image types.
 - **2026-02-23:** Model default is `gemini-2.5-flash-image` (~$0.04/image) — cost-effective for daily 7-story volume. Pro model only on explicit request.
+- **2026-11-11:** `stories[].sources[]` ({name, url, official}) added to `07-content-data.json` so springs-daily PR #338 can require official links on factual/health stories. Harvested only from URLs already in the day's material; never constructed. Most Oct–Nov research notes cited agencies by bare domain ("CPSC.gov:") with no URL, so the research step must now write full URLs (see "Source URLs in Research Notes").
 
 <!-- /GSD-inspired: 2026-02-23 -->

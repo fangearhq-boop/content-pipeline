@@ -23,6 +23,9 @@ import re
 from datetime import datetime, timezone
 from pathlib import Path
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import story_sources  # noqa: E402  (sibling module; this file's name is hyphenated)
+
 # Fix Unicode output on Windows console
 if sys.platform == 'win32':
     import io
@@ -593,10 +596,17 @@ def scan_articles(content_folder):
 
 def assemble_json(config, date_str, brief_stories, schedule, x_posts,
                   fb_posts, image_concepts, fact_checks, articles,
-                  research_notes=None):
-    """Assemble all parsed data into the final JSON structure."""
+                  research_notes=None, story_source_map=None):
+    """Assemble all parsed data into the final JSON structure.
+
+    ``story_source_map`` is {story_num: [source dicts]} from
+    story_sources.harvest_story_sources(). Every story gets a ``sources``
+    list (empty when the material held no real URL for it).
+    """
     if research_notes is None:
         research_notes = {}
+    if story_source_map is None:
+        story_source_map = {}
 
     platforms = config.get('platforms', ['x'])
     has_facebook = 'facebook' in platforms
@@ -622,6 +632,7 @@ def assemble_json(config, date_str, brief_stories, schedule, x_posts,
             'image_concepts': image_concepts.get(num),
             'fact_check': fact_checks.get(num),
             'research': research_notes.get(num),
+            'sources': story_source_map.get(num, []),
         }
         stories.append(story)
 
@@ -771,10 +782,20 @@ def main():
     else:
         print(f"  - Articles: none found")
 
+    # 7b. Harvest structured per-story sources (real URLs already in the
+    # material only — never constructed). Feeds stories[].sources[].
+    exclude_hosts = story_sources.exclude_hosts_from_config(config)
+    story_source_map = story_sources.harvest_story_sources(content_folder, exclude_hosts)
+    with_src = sum(1 for n in brief_stories if story_source_map.get(n))
+    with_official = sum(1 for n in brief_stories
+                        if any(s['official'] for s in story_source_map.get(n, [])))
+    print(f"  ✓ Sources: {with_src}/{len(brief_stories)} stories with cited URLs, "
+          f"{with_official} with an official URL")
+
     # 8. Assemble JSON
     data = assemble_json(config, date_str, brief_stories, schedule, x_posts,
                          fb_posts, image_concepts, fact_checks, articles,
-                         research_notes)
+                         research_notes, story_source_map)
 
     # 8. Write output
     output_path = os.path.join(content_folder, "07-content-data.json")
