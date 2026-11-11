@@ -1,8 +1,31 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Current Status
-**Last Run:** 2026-11-10
+**Last Run:** 2026-11-11
 **Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy; git push via GitHub MCP
+
+## Pipeline Run Log
+
+### 2026-11-11 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 27 claims, HIGH: 43; image manifest not_started (imagn — manual)
+- Step 10b: compile-content-data.py — 5 stories, 5 tweets, 5 FB posts, 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (25 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy; content-dashboards not in session scope)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via GitHub MCP to main
+
+**Stories covered:**
+1. T1 NEW: Celtics 123, 76ers 101 — Paul George 36 Pts in Return to Philly (Jake Torres)
+2. T1 NEW: Knicks 117, Bucks 85 — Bucks Drop to 1-10, Seven Straight Losses (Marcus Cole)
+3. T2 NEW: Clippers Beat Suns — Bench Depth Wins the Day (Damon Pierce)
+4. T2 NEW: NBA Wednesday Preview — Key Matchups for November 11 (Jake Torres)
+5. T2 FOLLOW UP: Milwaukee's Historic Stumble — Bucks' 1-10 Start Analysis (Marcus Cole)
+
+---
 
 ## Pipeline Run Log
 

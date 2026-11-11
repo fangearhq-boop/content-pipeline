@@ -2,6 +2,44 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-11-11 Stories
+
+### STORY 1: Celtics 123, 76ers 101 — Paul George 36 Pts in Return to Philly
+- **Tier:** 1
+- **Category:** Boston Celtics / Philadelphia 76ers / Paul George
+- **Key facts:** 36 pts/6 3s; Tatum 21; Boston wins 123-101 on the road; George returns to former team
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Knicks 117, Bucks 85 — Seven-Game Losing Streak for Milwaukee
+- **Tier:** 1
+- **Category:** New York Knicks / Milwaukee Bucks / Jalen Brunson / Karl-Anthony Towns
+- **Key facts:** Brunson 23; KAT 21/16 reb; Knicks 4-game win streak; Bucks 1-10 (7-game skid); Jaquez 16, Rollins 14 for Bucks
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Clippers Beat Suns in Nov 10 Showdown — Bench Leads Win
+- **Tier:** 2
+- **Category:** Los Angeles Clippers / Phoenix Suns
+- **Key facts:** Clippers' bench was decisive; Western Conference matchup Nov 10, 2026
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: NBA Wednesday Preview — Key Matchups for November 11
+- **Tier:** 2
+- **Category:** NBA Preview / Multiple Teams
+- **Key facts:** Full Wednesday slate; Celtics, Knicks, Warriors among top teams; Bucks struggling at 1-10
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: Milwaukee's Historic Stumble — Bucks' 1-10 Start Analysis
+- **Tier:** 2
+- **Category:** Milwaukee Bucks / NBA Analysis
+- **Key facts:** 1-10 record; 7 consecutive losses; talent-laden roster underperforming; Nov 2026
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+
 ## 2026-11-02
 
 ### STORY 1: Luka Dončić Historic Night — Lakers 131, Raptors 125
