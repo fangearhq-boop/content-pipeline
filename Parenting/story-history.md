@@ -2,6 +2,50 @@
 
 ---
 
+## November 11, 2026
+
+### Story 1: Veterans Day 2026 — D11, D20, D49 Schools Closed, Free COS Events
+- **Date:** 2026-11-11
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** All three COS school districts (D11, D20, D49) closed for Veterans Day. City of Colorado Springs offices closed. Memorial Park ceremony at 11 AM. WWII Aviation Museum free admission. USAFA open to visitors.
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (Nov 10 S3 previewed; this is day-of logistics guide)
+
+### Story 2: CPSC November 2026 Recalls — 4 Children's Products
+- **Date:** 2026-11-11
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** Four recalls posted Nov 5, 2026: Magnetopia magnetic building cubes/blocks (magnet ingestion), Arlopu slide playsets (~10,318 units, head/neck entrapment), Kikea Store X-VESOLJE nursing pillows (suffocation, mandatory standard violation), Baby Brezza SuperFast sterilizer dryers (burn hazard from overheating). CPSC hotline 1-800-638-2772.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 3: COS Holiday Season Launches — Ice Rink, Character Stroll, Anastasia, Nutcracker
+- **Date:** 2026-11-11
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Acacia Park ice rink opens Thu Nov 13 (kids 4 and under free). Holiday Character Stroll Fri Nov 14, 11 AM–1 PM, Acacia Park, 115 E. Platte Ave (Santa/Grinch/Elsa/Anna, free). Anastasia Musical Youth Edition opens Thu Nov 13 at ENT Center/UCCS. Bass Pro Shops Santa story time Tuesdays through Dec 22 (reservations required). Nutcracker Nov 27–29 Pikes Peak Center (tickets from $40).
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (Nov 10 S4 — ice rink confirmed + expanded holiday calendar)
+
+### Story 4: AAP Influenza Guidance 2026–2027 — Vaccinate Now, Doses Unchanged
+- **Date:** 2026-11-11
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** AAP published updated flu prevention recommendations (Nov 2026 Pediatrics). Doses unchanged. CO flu season peaks Jan–Feb. CO first child flu death reported early November. National uptake ~49.4%.
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (Nov 7 S4 — official AAP 2026-27 policy now published vs. earlier push)
+
+### Story 5: Talking to COS Kids About Veterans Day — Age-by-Age Guide
+- **Date:** 2026-11-11
+- **Tier:** T2
+- **Pillar:** Evergreen
+- **Key Facts:** COS has 5 major military installations (Fort Carson, USAFA, Peterson SFB, Schriever SFB, Cheyenne Mountain). Age-keyed conversation guide (3–5, 6–10, 11+). Local resources: WWII Aviation Museum, USAFA Visitor Center, Memorial Park ceremony.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+---
+
 ## November 10, 2026
 
 ### Story 1: The Colorado Springs School Is Dropping Its High School Grades — Here's What Families Need to Know

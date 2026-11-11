@@ -1,5 +1,36 @@
 # COS Parenting — Pipeline Status
 
+## Current Run: 2026-11-11
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Veterans Day: D11/D20/D49 all closed (confirmed from Nov 10); City COS offices closed; Memorial Park ceremony 11 AM; WWII Aviation Museum free; USAFA open. CPSC Nov 5 recalls: Magnetopia magnetic blocks (ingestion), Arlopu slides (entrapment), Kikea nursing pillows (suffocation), Baby Brezza sterilizers (burn). Holiday events: Acacia Park ice rink opens Thu Nov 13 (kids 4 under free), Character Stroll Fri Nov 14, Anastasia Musical Thu Nov 13, Nutcracker Nov 27-29. AAP flu guidance 2026-27 published (doses unchanged, CO peaks Jan-Feb, CO first child death early Nov). |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Nov 10 S3: Veterans Day preview → day-of guide); S2 NEW (CPSC recalls); S3 FOLLOW-UP (Nov 10 S4: ice rink opening + expanded holiday calendar); S4 FOLLOW-UP (Nov 7 S4: AAP 2026-27 policy now published); S5 NEW (Veterans Day talking guide, evergreen) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on Memorial Park ceremony start time (annual event, 2026 listing seen, specific time not primary-source verified), WWII museum free (established pattern), USAFA visitor access |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows (8 AM, 10 AM, 12 PM, 3 PM, 5 PM), 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts (2 each for S1+S2, 1 each for S3-S5); all ≤280 chars; 4 hashtags each; fixed S3 tweet (was 281 → 277 after shortening "Thursday" to "Thu") |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; contractions; max 1 exclamation mark per post; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only concepts; clean bottom third for text overlay; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Veterans Day COS (Sarah Morales T1 ~550w); article-02 CPSC recalls (Jamie Rivera T1 ~650w); article-03 COS holiday events (Sarah Morales T2 ~600w); article-04 AAP flu 2026-27 (Jamie Rivera T2 ~600w); article-05 Veterans Day talking guide (Sarah Morales T2 ~700w) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 73 claims auto-extracted; all stories present in all content files; PASSED; fixed manifest to YAML stories format (was YAML list format initially) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 5 images; warnings: posting windows not in story blocks (cosmetic) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × x_image + facebook_image), all not_started, gemini base_only, dimensions 1200x675 (X) + 1200x630 (FB), brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | proxy 403 (known recurring issue — content-dashboards repo not in session's authorized set) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-11-11.xlsx (7 posts) + cosp-postplanner-tobi-2026-11-11.xlsx (7 TOBI posts) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 blocked by proxy (known recurring issue); 5 HTML article drafts ready locally |
+| Story History | COMPLETE | Nov 11 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+- **PostPlanner exports:** 7 posts standard + 7 TOBI
+- **Key stories:** Veterans Day today — D11/D20/D49 closed, free WWII museum + USAFA; CPSC Nov recalls (Magnetopia magnets, Arlopu slides, Kikea nursing pillows, Baby Brezza sterilizers); COS holiday season launches Thu (Acacia Park ice rink, Character Stroll Fri); AAP flu shot guidance updated for 2026-27; Veterans Day age-by-age talking guide for COS families
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); manifest YAML format corrected (list → stories dict) after dashboard couldn't parse it; S3 X post fixed (281→277 chars)
+
+---
+
 ## Current Run: 2026-11-10
 
 | Step | Status | Notes |
