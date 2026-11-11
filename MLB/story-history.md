@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## November 11, 2026
+
+### Story 1: Skubal Meetings Begin — Six Teams, West Coast Preference, Record Deal Looming
+- **Date:** 2026-11-11
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Skubal covered Oct 29–Nov 10)
+- **Angle:** AP confirmed six teams meeting Skubal including Mets/Dodgers/Padres. Jim Bowden: "prefers the West Coast." Kiley McDaniel projects 8yr/$352M ($44M AAV) — would shatter Yamamoto's $27M AAV pitcher record. Cubs "badly" pursuing, Yankees "thinking about" a push. CBA expires December 1 — urgency for all sides.
+- **Content Produced:** Article (article-01, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Skubal formal offer reported
+  - Skubal signing announcement before December 1
+
+### Story 2: Rangers Exploring Corey Seager Trade — $157.5M Deal, Full NTC Complicates
+- **Date:** 2026-11-11
+- **Tier:** 1
+- **Classification:** NEW
+- **Angle:** Rosenthal and Grant: Rangers exploring Seager trades at GM Meetings. GM Chris Young wants 2027 payroll near $193M. Seager hit .227/.736 OPS in 2026 (career lows). Full no-trade protection — his call. Teams linked: Yankees, Blue Jays, Red Sox, Dodgers, Braves. Joel Sherman pushed back on Yankees fit.
+- **Content Produced:** Article (article-02, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Seager waives NTC and approves trade destination
+  - Trade announcement
+
+### Story 3: Teruaki Sato Market — Padres Emerge as Latest Contender
+- **Date:** 2026-11-11
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Sato covered Nov 1–10)
+- **Angle:** Padres emerged as fifth serious contender per The Athletic (Nov 10). Previously reported: Mets, Yankees, Dodgers, Phillies. 45-day window expires Dec 16. Contract range: $80M/4yr (Heyman) to $115M/5yr (ESPN). CBA freeze risk Dec 1 — if no deal, Sato returns to Japan.
+- **Content Produced:** Article (article-03, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sato medical exam/contract framework
+  - Sato signing before December 1
+
+### Story 4: QO Decision Week — 8 Players Have Until Nov. 17 to Decide
+- **Date:** 2026-11-11
+- **Tier:** 2
+- **Classification:** FOLLOW UP (QOs issued Nov 2, deadline approaching)
+- **Angle:** 8 players (Suzuki/Cubs, Arozarena/Mariners, Bednar/Yankees, Bauers/Brewers, Rogers/Orioles, Jeffers/Twins, Lowe/Pirates, Morejon/Padres) have Nov 17 deadline at 4 p.m. ET. QO value $23.15M. 18/157 historically accepted. All 8 expected to decline. Acceptance triggers one-year stay; rejection = signing team forfeits draft pick.
+- **Content Produced:** Article (article-04, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - QO acceptance/decline announcements Nov 17
+  - Suzuki and Arozarena market acceleration after Nov 17
+
+### Story 5: GM Meetings Notebook — Mets on Pitching, Padres Re-Sign Push, CBA Shadow
+- **Date:** 2026-11-11
+- **Tier:** 3
+- **Classification:** FOLLOW UP (GM Meetings Nov 10-12)
+- **Angle:** Day 2 notes from Aria in Las Vegas. Stearns: Mets need pitching and first base. Preller working King/Morejon re-signs. Dodgers weighing Skubal vs. position players. 180+ FAs in Vegas. ~5% lockout deal odds. Meetings end Nov 12.
+- **Content Produced:** Article (article-05, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - GM Meetings Day 3 wrap-up
+  - Market acceleration post-meetings
+
+---
+
 ## November 10, 2026
 
 ### Story 1: Skubal at GM Meetings — Mets and Dodgers Lead $355M Race
