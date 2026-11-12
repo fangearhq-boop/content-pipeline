@@ -57,6 +57,16 @@ Every claim must be checked against a web source before marking it correct or in
 The output always includes how many entries were verified, how many errors were found,
 and the error rate. This data shapes future quality decisions.
 
+**5. Two secondary outlets are not an official source.**
+When a league publishes the fact, agreement between two news sites, TV listings, or
+search snippets is not verification. This applies to start times, venues, and game
+stats (score, line, player game line). Those sites often reprint one national listing,
+including an Eastern clock with no zone. Labeling that clock with the home time zone
+publishes the wrong time. Use the official feed. For MLB, that is the Stats API
+`gameDate` (UTC) converted to the niche's home zone, `venue.name` on that game, and
+that game's box score. The Cubs brief enforces the time and the ballpark with
+`Cubs/mlb_schedule.py`. A mismatch is unverified until the copy matches the script.
+
 ---
 
 ## Verification Modes

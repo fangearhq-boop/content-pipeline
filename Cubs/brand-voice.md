@@ -99,7 +99,7 @@ What's your prediction for Horton's 2026 season?
 - Stats always use numerals: ".312 BA", "2.85 ERA", "14 HRs"
 - Score format: Winner first — "Cubs won 5-2" not "the score was 2-5"
 - Rankings: No. + number — "No. 2 in the NL Central" (NEVER "#2" — creates a clickable hashtag)
-- Time format: CT — "7:05 PM CT"
+- Time format: CT — "7:05 PM CT". A first pitch is the Stats API `gameDate` converted to America/Chicago by `python Cubs/mlb_schedule.py`. Do not take a clock off a national listing and add "CT".
 - Contractions always: "he's" not "he is", "they're" not "they are"
 - Newlines count as 1 character each toward the 280 limit
 
@@ -154,7 +154,7 @@ What's your prediction for Horton's 2026 season?
 | Stats | Always numerals | ".287 BA", "1.95 ERA", "22 HRs" |
 | Score format | Winner-Loser | "Cubs won 8-2" |
 | Rankings | No. + number | "No. 3 in the NL" — never "#3" |
-| Time format | 12-hour CT | "7:05 PM CT" |
+| Time format | 12-hour CT from `Cubs/mlb_schedule.py` | "7:05 PM CT" |
 | ALL CAPS | 1-2 words max for emphasis | "FOURTEEN strikeouts" |
 | Exclamation marks | Max 1 per tweet | "What a game!" |
 | Emoji | 1-3 per post, placed naturally | Start of line, end of line, or between sections |

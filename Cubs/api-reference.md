@@ -1,5 +1,17 @@
 # External Sources Reference
 
+## Official schedule, ballpark, and box score (required)
+
+These three facts do not come from news sites, even when two news sites agree.
+
+| Fact | Source | Command / URL |
+|------|--------|----------------|
+| First pitch | Stats API `gameDate` (UTC) converted to `America/Chicago` | `python Cubs/mlb_schedule.py --date YYYY-MM-DD` |
+| Ballpark | `venue.name` on that same game | same command |
+| Score and player game line | Stats API box score | `https://statsapi.mlb.com/api/v1/game/{gamePk}/boxscore` (the script prints the gamePk) |
+
+Not a source for any of the three: CBS, Yahoo, ESPN, Fox, local TV listings, team blogs. Those pages often repeat one national listing, including an Eastern clock with no zone. See the hard rule in `research-playbook.md`.
+
 ## Primary News Sources
 
 | Source | URL Pattern | Best For |

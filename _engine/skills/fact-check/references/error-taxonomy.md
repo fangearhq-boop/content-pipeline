@@ -61,10 +61,12 @@ Use this to prioritize what to search for and how to search for it.
 
 **Priority 1 claims (dates, times, locations, prices) — ~8% error rate**
 - Times wrong because of timezone confusion (ET vs CT vs MT)
+- A national listing's Eastern clock copied through and labeled CT. Two sites agreeing does not fix it, because they are often the same listing. MLB first pitch is Stats API `gameDate` (UTC) converted with America/Chicago, not a hand offset.
+- Venue carried forward from an earlier game in a series (Game 3 placed at the Game 1 park). Use `venue.name` on that date's game.
 - Event dates off by one day
 - Prices from outdated sources
 - Addresses with wrong street numbers
-- Search strategy: go to the official source (team website, event page, school district site)
+- Search strategy: go to the official source (league stats API, team website, event page, school district site). Do not stop at two secondary recaps when that official source exists.
 
 **Priority 2 claims (scores, records, statistics) — ~12% error rate**
 - Scores transcribed incorrectly from sources
