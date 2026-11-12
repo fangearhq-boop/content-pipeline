@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-12T08:30:00.326705+00:00",
+  "generated_at": "2026-11-12T16:32:24.319023+00:00",
   "account": "cubs",
   "window_days": 21,
   "tweet_count": 69,
   "measured_tweet_count": 69,
   "measured_median_impressions": 203,
-  "measured_mean_impressions": 4219.45,
+  "measured_mean_impressions": 4240.74,
   "median_impressions": 203,
-  "mean_impressions": 4219.45,
+  "mean_impressions": 4240.74,
   "max_impressions": 99045,
   "significant_findings": [
     {
@@ -41,12 +41,12 @@
       "kind": "category_vs_rest",
       "winner": "not_3",
       "loser": "3",
-      "median_impressions_winner": 2889.0,
+      "median_impressions_winner": 3623.5,
       "median_impressions_loser": 102,
       "n_winner": 22,
       "n_loser": 47,
       "p_value": 0.0,
-      "effect_size_cliffs_delta": 0.851,
+      "effect_size_cliffs_delta": 0.853,
       "effect_size_label": "large"
     },
     {
@@ -85,7 +85,7 @@
       "n_winner": 32,
       "n_loser": 37,
       "p_value": 0.0,
-      "effect_size_cliffs_delta": 0.712,
+      "effect_size_cliffs_delta": 0.714,
       "effect_size_label": "large"
     },
     {
@@ -98,7 +98,7 @@
       "n_winner": 32,
       "n_loser": 37,
       "p_value": 0.0,
-      "effect_size_cliffs_delta": 0.712,
+      "effect_size_cliffs_delta": 0.714,
       "effect_size_label": "large"
     },
     {
@@ -159,60 +159,60 @@
     "window_days": 90,
     "sample": "brief posts with a complete impressions snapshot",
     "signals": "reach (impressions, all measured briefs) and engagement rate (engagements / impressions, briefs with above-median reach only), each hour vs the rest of the day, Mann-Whitney + Cliff's delta, Holm-corrected across all hour x signal contrasts",
-    "brief_count": 397,
+    "brief_count": 393,
     "instruction": "When assigning posting_time, prefer recommended_hours and never use avoid_hours, but keep the day's usual shape: the same number of posts, spread across the day, at least 20 minutes apart, no more than 2 posts in any one hour, and within the caps of 5 posts 6AM-noon, 4 posts noon-6PM, 3 posts 6PM-midnight CT. Hours without a verdict are neutral. If recommended_hours is empty, keep the current schedule.",
     "hours": [
       {
         "hour_ct": 7,
-        "n": 72,
-        "median_impressions": 79.0,
-        "engagement_n": 35,
-        "median_engagement_rate": 0.0048,
+        "n": 71,
+        "median_impressions": 79,
+        "engagement_n": 34,
+        "median_engagement_rate": 0.0057,
         "reach_verdict": null,
-        "reach_p_value": 0.9827922817881021,
-        "reach_effect_size": 0.0016666666666666668,
+        "reach_p_value": 0.9356018643678636,
+        "reach_effect_size": -0.006167439419123436,
         "engagement_verdict": null,
-        "engagement_p_value": 0.6428400107081247,
-        "engagement_effect_size": 0.04716821639898563
+        "engagement_p_value": 0.521231823984186,
+        "engagement_effect_size": 0.06608788093550673
       },
       {
         "hour_ct": 8,
-        "n": 50,
-        "median_impressions": 81.5,
-        "engagement_n": 28,
-        "median_engagement_rate": 0.0067,
+        "n": 49,
+        "median_impressions": 82,
+        "engagement_n": 27,
+        "median_engagement_rate": 0.0037,
         "reach_verdict": null,
-        "reach_p_value": 0.27531186443451583,
-        "reach_effect_size": 0.09544668587896253,
+        "reach_p_value": 0.2479256816935358,
+        "reach_effect_size": 0.10204081632653061,
         "engagement_verdict": null,
-        "engagement_p_value": 0.26026835351921473,
-        "engagement_effect_size": 0.12520292207792208
+        "engagement_p_value": 0.35301404833209427,
+        "engagement_effect_size": 0.10511667737101263
       },
       {
         "hour_ct": 9,
-        "n": 65,
-        "median_impressions": 69,
-        "engagement_n": 27,
+        "n": 64,
+        "median_impressions": 68.5,
+        "engagement_n": 26,
         "median_engagement_rate": 0.0,
         "reach_verdict": null,
-        "reach_p_value": 0.07265643557319779,
-        "reach_effect_size": -0.14077849860982392,
+        "reach_p_value": 0.06934612147248953,
+        "reach_effect_size": -0.14347454407294832,
         "engagement_verdict": null,
-        "engagement_p_value": 0.9482114645296886,
-        "engagement_effect_size": -0.007532956685499058
+        "engagement_p_value": 0.829214468687707,
+        "engagement_effect_size": -0.02497789566755084
       },
       {
         "hour_ct": 10,
-        "n": 37,
-        "median_impressions": 70,
-        "engagement_n": 12,
+        "n": 36,
+        "median_impressions": 67.0,
+        "engagement_n": 11,
         "median_engagement_rate": 0.0,
         "reach_verdict": null,
-        "reach_p_value": 0.016201695915355252,
-        "reach_effect_size": -0.24001501501501502,
+        "reach_p_value": 0.01175585719603367,
+        "reach_effect_size": -0.2547463429816371,
         "engagement_verdict": null,
-        "engagement_p_value": 0.7222333616572847,
-        "engagement_effect_size": -0.058159722222222224
+        "engagement_p_value": 0.938854757930935,
+        "engagement_effect_size": -0.013468013468013467
       },
       {
         "hour_ct": 11,
@@ -234,11 +234,11 @@
         "engagement_n": 38,
         "median_engagement_rate": 0.0,
         "reach_verdict": null,
-        "reach_p_value": 0.504193222041343,
-        "reach_effect_size": 0.05209191614025451,
+        "reach_p_value": 0.4752322017129844,
+        "reach_effect_size": 0.05574089519043648,
         "engagement_verdict": null,
-        "engagement_p_value": 0.13555811069535517,
-        "engagement_effect_size": -0.1466391883322765
+        "engagement_p_value": 0.13383177173801575,
+        "engagement_effect_size": -0.1476608187134503
       },
       {
         "hour_ct": 13,
@@ -247,11 +247,11 @@
         "engagement_n": 11,
         "median_engagement_rate": 0.0115,
         "reach_verdict": null,
-        "reach_p_value": 0.20012326130720814,
-        "reach_effect_size": 0.19511343804537523,
+        "reach_p_value": 0.19152816015333274,
+        "reach_effect_size": 0.19894179894179895,
         "engagement_verdict": null,
-        "engagement_p_value": 0.13705585310612944,
-        "engagement_effect_size": 0.2520018841262365
+        "engagement_p_value": 0.13957769953949017,
+        "engagement_effect_size": 0.2506012506012506
       },
       {
         "hour_ct": 14,
@@ -260,11 +260,11 @@
         "engagement_n": 22,
         "median_engagement_rate": 0.0046,
         "reach_verdict": null,
-        "reach_p_value": 0.06956627806570892,
-        "reach_effect_size": 0.188219089288608,
+        "reach_p_value": 0.06525252789364266,
+        "reach_effect_size": 0.19129936097001474,
         "engagement_verdict": null,
-        "engagement_p_value": 0.8472654318430104,
-        "engagement_effect_size": -0.023976023976023976
+        "engagement_p_value": 0.8440942976294514,
+        "engagement_effect_size": -0.024514811031664963
       },
       {
         "hour_ct": 15,
@@ -273,11 +273,11 @@
         "engagement_n": 12,
         "median_engagement_rate": 0.0074,
         "reach_verdict": null,
-        "reach_p_value": 0.2795232420825151,
-        "reach_effect_size": -0.12262872628726287,
+        "reach_p_value": 0.2934841543408546,
+        "reach_effect_size": -0.11917808219178082,
         "engagement_verdict": null,
         "engagement_p_value": 1.0,
-        "engagement_effect_size": 0.00043402777777777775
+        "engagement_effect_size": -0.0004432624113475177
       },
       {
         "hour_ct": 16,
@@ -299,11 +299,11 @@
         "engagement_n": 14,
         "median_engagement_rate": 0.0009,
         "reach_verdict": null,
-        "reach_p_value": 0.7794764610088663,
-        "reach_effect_size": 0.03354838709677419,
+        "reach_p_value": 0.7460251587230922,
+        "reach_effect_size": 0.03880434782608696,
         "engagement_verdict": null,
-        "engagement_p_value": 0.5226403049803481,
-        "engagement_effect_size": -0.09699248120300752
+        "engagement_p_value": 0.522352768824534,
+        "engagement_effect_size": -0.09715821812596007
       }
     ],
     "recommended_hours": [],
@@ -343,11 +343,11 @@
       },
       "9": {
         "n": 8,
-        "mean": 866,
+        "mean": 1049.62,
         "median": 94.5,
         "top": {
-          "impressions": 3225,
-          "text": "STEVEN KWAN reportedly on the trade block \u2014 Cubs in the mix.\n\nRobert Murray (FanSided): Kwan is \"back on the table\" after Cleveland's ALCS exit. GM Carter Hawkins has ties in Cleveland.\n\nIf Happ walks, Kwan slots into LF. Controllable throu"
+          "impressions": 4566,
+          "text": "Cubs and Michael King are reportedly not a fit.\n\nFreddy Peralta is the top target \u2014 two-time All-Star, former Brewer under Craig Counsell.\n\n#Cubs #MLB"
         }
       },
       "22": {
@@ -462,7 +462,7 @@
     "by_weekday_ct": {
       "Wed": {
         "n": 10,
-        "mean": 3685.8,
+        "mean": 3832.7,
         "median": 1084.0,
         "top": {
           "impressions": 21159,
@@ -536,11 +536,11 @@
       },
       "brief": {
         "n": 41,
-        "mean": 359.22,
+        "mean": 395.05,
         "median": 85,
         "top": {
-          "impressions": 3225,
-          "text": "STEVEN KWAN reportedly on the trade block \u2014 Cubs in the mix.\n\nRobert Murray (FanSided): Kwan is \"back on the table\" after Cleveland's ALCS exit. GM Carter Hawkins has ties in Cleveland.\n\nIf Happ walks, Kwan slots into LF. Controllable throu"
+          "impressions": 4566,
+          "text": "Cubs and Michael King are reportedly not a fit.\n\nFreddy Peralta is the top target \u2014 two-time All-Star, former Brewer under Craig Counsell.\n\n#Cubs #MLB"
         }
       },
       "approved_post": {
@@ -574,7 +574,7 @@
     "by_opening": {
       "statement": {
         "n": 32,
-        "mean": 8806.78,
+        "mean": 8852.69,
         "median": 1116.0,
         "top": {
           "impressions": 99045,
@@ -603,10 +603,10 @@
       },
       "140-200": {
         "n": 5,
-        "mean": 1348.4,
+        "mean": 1642.2,
         "median": 433,
         "top": {
-          "impressions": 3097,
+          "impressions": 4566,
           "text": "Cubs and Michael King are reportedly not a fit.\n\nFreddy Peralta is the top target \u2014 two-time All-Star, former Brewer under Craig Counsell.\n\n#Cubs #MLB"
         }
       },
@@ -641,10 +641,10 @@
       },
       "2": {
         "n": 3,
-        "mean": 2006,
+        "mean": 2495.67,
         "median": 2681,
         "top": {
-          "impressions": 3097,
+          "impressions": 4566,
           "text": "Cubs and Michael King are reportedly not a fit.\n\nFreddy Peralta is the top target \u2014 two-time All-Star, former Brewer under Craig Counsell.\n\n#Cubs #MLB"
         }
       },
@@ -679,7 +679,7 @@
       },
       "False": {
         "n": 58,
-        "mean": 2992.1,
+        "mean": 3017.43,
         "median": 188.0,
         "top": {
           "impressions": 99045,
@@ -699,7 +699,7 @@
       },
       "False": {
         "n": 44,
-        "mean": 1059.77,
+        "mean": 1093.16,
         "median": 188.0,
         "top": {
           "impressions": 20488,
@@ -710,7 +710,7 @@
     "by_has_emoji_first_line": {
       "False": {
         "n": 63,
-        "mean": 4609.41,
+        "mean": 4632.73,
         "median": 216,
         "top": {
           "impressions": 99045,
@@ -730,7 +730,7 @@
     "by_has_allcaps": {
       "True": {
         "n": 65,
-        "mean": 4387.92,
+        "mean": 4410.52,
         "median": 173,
         "top": {
           "impressions": 99045,
