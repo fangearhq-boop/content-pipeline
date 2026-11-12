@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## Pipeline Run: 2026-11-12
+
+### Story 1: LSU Lands No. 1 Recruiting Class in Program History
+- **Date:** 2026-11-12
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Beth Torina's 2027 class is the No. 1 class in the nation — first time in LSU program history. Six signees headlined by five-star pitcher Sydney Gonglick and five-star infielder Bryli Seifert, plus transfer portal twins Mackenzie and Madison Pickens from Ole Miss and Louisville. SEC placed six programs in Softball America's top 10.
+- **Content Produced:** Article (article-01, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - LSU class final Softball America ranking confirmation
+  - Spring schedule and roster depth chart
+  - Integration of Pickens twins with existing roster
+
+### Story 2: Florida Secures No. 2 Class — Back-to-Back Top-Two Finishes
+- **Date:** 2026-11-12
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Florida signing previewed Nov 11)
+- **Angle:** Florida landed the No. 2 class nationally for the second consecutive year. Six signees: Taylor Jennings (No. 9 overall, No. 2 corner infielder), Taegan Lermann (No. 19), Samantha Nichols (No. 31), Allaire, Calvo, Grimsley. Combined with 4-0 fall and six returning starters.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Florida spring schedule
+  - Caroline Edwards in the lineup with new signings
+  - Final Softball America team rankings
+
+### Story 3: 5-for-5 Day-After — De-Commit Wave Hits Programs Nationwide
+- **Date:** 2026-11-12
+- **Tier:** 1
+- **Classification:** FOLLOW UP (5-for-5 consequences covered Oct 29–Nov 11)
+- **Angle:** Memphis pulled offers from Cassidy Ott, Kinley Patten, Isabell Gonzales the day after Signing Day. Cassidy Ott: "involuntarily de-committed due to the new 5-year eligibility rule." Tenth Circuit ruling + House v. NCAA 25-player cap creating roster vise. Memphis likely not alone.
+- **Content Produced:** Article (article-03, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Additional de-commit announcements from other programs
+  - Where Ott, Patten, Gonzales re-commit
+  - State-court rulings affecting individual athletes
+
+### Story 4: Texas Tech Signs Hollynn Gentry — First Five-Star Freshman in Program History
+- **Date:** 2026-11-12
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Texas Tech covered Oct 20–Nov 11)
+- **Angle:** Catcher Hollynn Gentry (No. 11 overall) is the first five-star freshman ever to sign with TTU. Class of four also includes Skylar Knight and Taylor Poland (No. 131). Completes the 2027 roster alongside No. 1 portal class (Pickering, Gallaway, Heavener, Polar). Big 12 opens March 12.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - TTU class ranking after all classes finalized
+  - Spring Big 12 schedule preview
+  - Gentry and Pickering combination behind plate/at bat
+
+### Story 5: Tennessee Signs Answers to the Rotation — Swartzlander and Pynes
+- **Date:** 2026-11-12
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Tennessee covered Oct 20–Nov 11)
+- **Angle:** Karen Weekly signed Emma Pynes (No. 55 overall, 4th-highest-ranked recruit in class) and Evelynn Swartzlander (No. 61) on Signing Day. Full class of 6 also includes Gracyn Needle and Kamryn Potts. Weekly contract extended through 2030. Tennessee 3-0 fall.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Tennessee class ranking
+  - Spring schedule and pitching depth chart
+  - Mardjetko + incoming class 2027 rotation preview
+
+---
+
 ## Pipeline Run: 2026-11-11
 
 ### Story 1: Signing Day Is Here — Class of 2027 Signs on November 11

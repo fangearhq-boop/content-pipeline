@@ -1,0 +1,419 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-12",
+  "compiled_at": "2026-11-12T10:14:57.830555+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 — LSU No. 1 Class",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2 — Florida No. 2 Class",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 — 5-for-5 De-commits",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 — Texas Tech Gentry",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 5 — Tennessee Signs",
+      "type": "X + Facebook"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "LSU Lands No. 1 Recruiting Class in Program History",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "HISTORIC. 🐯\n\nLSU softball just signed the No. 1 class in program history — first time ever.\n\nFive-star pitcher Sydney Gonglick. Five-star infielder Bryli Seifert. Portal twins Mackenzie and Madison Pickens.\n\nTorina is building something special.\n\n#LSUSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LSUSoftball"
+          ],
+          "char_count": 259
+        },
+        {
+          "label": "Post 1-2",
+          "text": "LSU signs the No. 1 class. Florida is No. 2.\n\nThe SEC puts 6 programs in Softball America's top 10. 🔥\n\nThe 2027 national title race just got more interesting.\n\n#LSUSoftball #NCAASB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LSUSoftball",
+            "#NCAASB"
+          ],
+          "char_count": 180
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-lsu-no-1-recruiting-class-program-history.html",
+        "headline": "LSU Lands No. 1 Recruiting Class in Program History",
+        "word_count": 582
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LSU Lands No. 1 Recruiting Class in Program History\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Photo Search Terms:** Beth Torina LSU | LSU softball team | LSU softball Alex Box Stadium\n- **Text Overlay — Headline:** NO. 1 IN THE NATION\n- **Text Overlay — Subtitle:** LSU Signs Historic Top Class\n- **Composition Notes:** Dark background, LSU gold/purple accent bar. Championship energy. Full-bleed team or stadium image.\n\n**Article Hero (1200×630)**\n- **Photo Search Terms:** Beth Torina LSU | LSU softball celebration\n- **Text Overlay:** HISTORIC: LSU Signs Nation's No. 1 Class\n- **Composition Notes:** Wide landscape shot, headline in lower third.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LSU Lands No. 1 Recruiting Class in Program History\n**Classification:** NEW STORY — LSU as No. 1 class never covered in this pipeline.\n**Sources:**\n- Tiger Rag: \"LSU Softball Signs The No. 1 Recruiting Class In The Nation For 2027\" — https://www.tigerrag.com/lsu-softball-signs-the-no-1-recruiting-class-in-the-nation-for-2027/\n- WBRZ: \"LSU softball signs highest rated recruiting class in program history\" — https://www.wbrz.com/news/lsu-softball-signs-highest-rated-recruiting-class-in-program-history\n**Key Facts (MEDIUM confidence — sources consistent):**\n- LSU's 2027 class is ranked No. 1 nationally by Softball America/Rivals — first time in program history\n- Six signees: pitcher Maci Bryant, catcher Jewel Cooper, utility Lillie Gaudio, pitcher Sydney Gonglick (five-star), infielder Bryli Seifert (five-star), infielder Jillian Wimmer\n- Torina added transfer portal twins Mackenzie and Madison Pickens from Ole Miss and Louisville\n- Torina's second straight top-three class (2026 class was No. 3)\n- SEC claimed six of top 10 in Softball America's 2027 team rankings\n**Freshness:** Announced November 11, 2026. Fully current.\n**Why this matters to ILS audience:** LSU claiming the No. 1 class for the first time in program history is a legitimately historic moment in SEC softball. It reshapes the 2027 national title conversation.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "LSU Softball Signs The No. 1 Recruiting Class In The Nation For 2027",
+          "url": "https://www.tigerrag.com/lsu-softball-signs-the-no-1-recruiting-class-in-the-nation-for-2027/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Tiger Rag"
+        },
+        {
+          "name": "LSU softball signs highest rated recruiting class in program history",
+          "url": "https://www.wbrz.com/news/lsu-softball-signs-highest-rated-recruiting-class-in-program-history",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "WBRZ"
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Florida Secures No. 2 Class — Back-to-Back Top-Two Finishes",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Florida softball does it again. 🐊\n\nNation's No. 2 class — the second straight year in the top two.\n\nTaylor Jennings: No. 9 overall.\nTaegan Lermann: No. 19 overall.\nSamantha Nichols: No. 31 overall.\n\n4-0 fall. Six starters back. Now THIS.\n\n#FloridaSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#FloridaSoftball"
+          ],
+          "char_count": 255
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Back-to-back No. 2 classes. A 4-0 fall. Six starters returning.\n\nSomebody ask Florida what they're missing. 👀\n\nBecause right now it really looks like nothing.\n\n#FloridaSoftball #NCAASB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#FloridaSoftball",
+            "#NCAASB"
+          ],
+          "char_count": 184
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-florida-no-2-class-back-to-back.html",
+        "headline": "Florida Does It Again: Gators Land Nation's No. 2 Class for Second Straight Year",
+        "word_count": 561
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Florida Secures No. 2 Class\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Photo Search Terms:** Florida softball Katie Seashole Pressly Stadium | Florida Gators softball team\n- **Text Overlay — Headline:** BACK-TO-BACK NO. 2\n- **Text Overlay — Subtitle:** Gators Lock In Elite Class\n- **Composition Notes:** Orange and blue color palette. Stadium or dugout shot with team energy.\n\n**Article Hero (1200×630)**\n- **Photo Search Terms:** Florida softball team | Florida Gators softball dugout\n- **Text Overlay:** Florida Lands No. 2 Class for Second Straight Year\n- **Composition Notes:** Landscape, celebration/team energy angle.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Florida Secures No. 2 Class — Back-to-Back Top-Two Finishes\n**Classification:** FOLLOW UP — Florida Signing Day previewed Nov 11 (Story 1). Today: confirmed results with specific signees and national ranking.\n**Sources:**\n- Florida Gators athletics: \"Florida Softball Secures Nation's No. 2 Signing Class\" — https://floridagators.com/news/2026/11/11/florida-softball-secures-nations-no-2-signing-class\n- WCJB: \"Gators softball secures second-ranked signing class in the nation\" — https://www.wcjb.com/2026/11/11/gators-softball-secures-second-ranked-signing-class-nation/\n- On3/Softball America rankings: https://www.on3.com/softball/news/2027-softball-america-signing-class-rankings/\n**Key Facts (HIGH confidence — official school release):**\n- Florida ranked No. 2 nationally by Softball America/Rivals — second straight year in top two\n- Six signees: Addison Allaire, Niayli Calvo, Josslynn Grimsley, Taylor Jennings, Taegan Lermann, Samantha Nichols\n- Taylor Jennings: No. 9 overall, No. 2 corner infielder\n- Taegan Lermann: No. 19 overall\n- Samantha Nichols: No. 31 overall, No. 7 middle infielder\n- NOTE: One source spells signee \"Niayli Calvo\" while another shows \"Yelli Calvo\" — using Florida's official spelling\n**Freshness:** Announced November 11, 2026. Fully current.\n**Why this matters:** Florida landing back-to-back top-two classes signals sustained elite recruiting. Combined with their fall results, the Gators may be the best-positioned team in the country entering 2027.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Florida Softball Secures Nation's No. 2 Signing Class",
+          "url": "https://floridagators.com/news/2026/11/11/florida-softball-secures-nations-no-2-signing-class",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Florida Gators athletics"
+        },
+        {
+          "name": "Gators softball secures second-ranked signing class in the nation",
+          "url": "https://www.wcjb.com/2026/11/11/gators-softball-secures-second-ranked-signing-class-nation/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "WCJB"
+        },
+        {
+          "name": "On3/Softball America rankings",
+          "url": "https://www.on3.com/softball/news/2027-softball-america-signing-class-rankings/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "5-for-5 Day-After — De-Commit Wave Hits Programs Nationwide",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Day after Signing Day. Programs already pulling offers. 😔\n\nMemphis de-committed three Class of 2027 commits: Cassidy Ott, Kinley Patten, and Isabell Gonzales — all due to the 5-for-5 roster squeeze.\n\nRachel Lawson called \"casualties.\" She was right.\n\n#NCAASB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAASB"
+          ],
+          "char_count": 258
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Cassidy Ott was \"involuntarily de-committed\" from Memphis. The 5-for-5 rule + 25-player cap are squeezing out 17-year-olds who had nothing to do with this mess.\n\nThe NCAA created it. Athletes are paying for it. 🏳️\n\n#NCAASB #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAASB",
+            "#Softball"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-5-for-5-de-commit-wave-memphis.html",
+        "headline": "Memphis Pulls Offers as 5-for-5 Fallout Hits Signing Day Commits",
+        "word_count": 629
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "5-for-5 De-Commit Wave\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Photo Search Terms:** softball player pitcher mound | softball player walking\n- **Text Overlay — Headline:** SIGNING DAY CASUALTIES\n- **Text Overlay — Subtitle (Warm Coral #FF6F61):** 5-for-5 Forces De-Commits\n- **Composition Notes:** Somber tone — solitary athlete, subdued color treatment. The story is about loss. Use warm coral for subtitle (urgent/consequence story).\n\n**Article Hero (1200×630)**\n- **Photo Search Terms:** softball player dugout | softball team bench\n- **Text Overlay:** Memphis Pulls Offers — 5-for-5 Creates Signing Day Casualties\n- **Composition Notes:** Landscape, human moment.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "5-for-5 Day-After — De-Commit Wave Hits Programs Nationwide\n**Classification:** FOLLOW UP — 5-for-5 consequences covered Oct 29–Nov 11. Today: day-after reality with specific athlete de-commits named.\n**Sources:**\n- Sports Illustrated: \"Memphis Softball Signs Social Media Star, Pulls Offers From Multiple 2027 Commits\" — https://www.si.com/onsi/softball/college/memphis-softball-signs-social-media-star-pulls-offers-from-multiple-2027-commits\n- Yahoo Sports: Same report syndicated — https://sports.yahoo.com/articles/memphis-softball-signs-social-media-212431008.html\n- 4star.live: \"Memphis Softball Is Caught in the NCAA's Biggest Roster Storm in History\" — http://www.4star.live/memphis-softball-is-caught-in-the-ncaas-biggest-roster-storm-in-history\n**Key Facts (HIGH confidence — multiple named sources and social media posts from athletes):**\n- Memphis pulled offers from: Cassidy Ott, Kinley Patten, and Isabell Gonzales\n- Cassidy Ott publicly stated she was \"involuntarily de-committed from the University of Memphis due to the new 5-year eligibility rule\"\n- House v. NCAA settlement applies a hard 25-player roster cap\n- Tenth Circuit November 6 ruling: 5-for-5 now in effect nationwide (covered Nov 10-11)\n- Kentucky head coach Rachel Lawson warned of \"casualties\" — this was flagged in Nov 11 coverage\n- ~200 state-court cases continue\n**Freshness:** Memphis situation reported prior to Signing Day but still fully current on November 12. The core news (5-for-5 is now in effect and causing roster moves) is active and ongoing.\n**Confidence note:** Memphis de-commits confirmed by multiple sources including social media statements from the athletes themselves. HIGH confidence.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Memphis Softball Signs Social Media Star, Pulls Offers From Multiple 2027 Commits",
+          "url": "https://www.si.com/onsi/softball/college/memphis-softball-signs-social-media-star-pulls-offers-from-multiple-2027-commits",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Sports Illustrated"
+        },
+        {
+          "name": "Same report syndicated",
+          "url": "https://sports.yahoo.com/articles/memphis-softball-signs-social-media-212431008.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Yahoo Sports"
+        },
+        {
+          "name": "Memphis Softball Is Caught in the NCAA's Biggest Roster Storm in History",
+          "url": "http://www.4star.live/memphis-softball-is-caught-in-the-ncaas-biggest-roster-storm-in-history",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "4star.live"
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Texas Tech Signs Hollynn Gentry — First Five-Star Freshman in Program History",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Program history at Texas Tech. 🤠\n\nHollynn Gentry — No. 11 overall — is the FIRST five-star freshman ever to sign with the Red Raiders.\n\nAdd her to the No. 1 portal class (Pickering, Gallaway, Heavener, Polar) and Glasco has built something nobody has seen here before.\n\n#WreckEm",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-texas-tech-hollynn-gentry-five-star.html",
+        "headline": "Historic Signing: Texas Tech Lands First Five-Star Freshman with Hollynn Gentry",
+        "word_count": 571
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Tech Signs Hollynn Gentry\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Photo Search Terms:** Texas Tech softball | Gerry Glasco Texas Tech | softball catcher equipment\n- **Text Overlay — Headline:** FIVE-STAR HISTORY\n- **Text Overlay — Subtitle:** Gentry Signs with Texas Tech\n- **Composition Notes:** Texas Tech crimson and black. Program-defining energy.\n\n**Article Hero (1200×630)**\n- **Photo Search Terms:** Texas Tech softball team | softball catcher gear action\n- **Text Overlay:** Texas Tech Signs First Five-Star Freshman in Program History\n- **Composition Notes:** Landscape, program pride angle.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Tech Signs Hollynn Gentry — First Five-Star Freshman in Program History\n**Classification:** FOLLOW UP — TTU signing class previewed Nov 11 (Story 4). Today: confirmed four signees with Gentry as headline recruit.\n**Sources:**\n- Texas Tech athletics: \"Softball signs four on National Signing Day\" — https://texastech.com/news/2026/11/11/softball-signs-four-on-national-signing-day\n- SI/On3: \"Gentry headlines flurry of Top 150 2027 commitments\" — https://www.on3.com/softball/news/gentry-headlines-flurry-of-top-150-2027-commitments\n**Key Facts (HIGH confidence — official school release):**\n- TTU signed four on November 11, 2026\n- Hollynn Gentry: No. 11 overall by Softball America/Rivals, first five-star freshman to sign with Texas Tech in program history, catcher\n- Skylar Knight: outfielder from Trinity, Texas\n- Taylor Poland: No. 131 nationally\n- Fourth signee not fully confirmed in available sources — marking as MEDIUM confidence\n- Portal class context: Kasidi Pickering (.384 BA, 50 HR, 169 RBI at Oklahoma), Gallaway, Heavener, Polar\n**Freshness:** Announced November 11. Fully current.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Softball signs four on National Signing Day",
+          "url": "https://texastech.com/news/2026/11/11/softball-signs-four-on-national-signing-day",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Texas Tech athletics"
+        },
+        {
+          "name": "Gentry headlines flurry of Top 150 2027 commitments",
+          "url": "https://www.on3.com/softball/news/gentry-headlines-flurry-of-top-150-2027-commitments",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "SI/On3"
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Tennessee Signs Answers to the Rotation Question — Swartzlander and Pynes",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Tennessee needed answers on Signing Day. 🍊\n\nKaren Weekly delivered.\n\nEmma Pynes (No. 55) and Evelynn Swartzlander (No. 61) signed with the Lady Vols. Mardjetko returns. Shelton developing. The circle picture is clearing up.\n\n#LadyVols #NCAASB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LadyVols",
+            "#NCAASB"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-tennessee-signs-swartzlander-pynes.html",
+        "headline": "Tennessee Softball Answers the Rotation Question on Signing Day",
+        "word_count": 554
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tennessee Signs Swartzlander and Pynes\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Photo Search Terms:** Tennessee softball Lady Vols | Karen Weekly Tennessee | Tennessee softball Sherri Parker Lee Stadium\n- **Text Overlay — Headline:** ANSWERS SIGNED\n- **Text Overlay — Subtitle:** Tennessee Lands Swartzlander & Pynes\n- **Composition Notes:** Tennessee orange. Stadium or coaching shot.\n\n**Article Hero (1200×630)**\n- **Photo Search Terms:** Tennessee Lady Vols softball | Karen Weekly Tennessee coaching\n- **Text Overlay:** Tennessee Signs Swartzlander and Pynes to Address 2027 Rotation\n- **Composition Notes:** Landscape, program stability angle."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tennessee Signs Answers to the Rotation — Swartzlander and Pynes\n**Classification:** FOLLOW UP — Tennessee rotation question covered Oct 20–Nov 11. Today: confirmed specific signees.\n**Sources:**\n- SI/Tennessee: \"Evelynn Swartzlander Signs With Tennessee Softball\" — https://www.si.com/college/tennessee/recruiting/evelynn-swartzlander-signs-with-tennessee-softball-01m7442hb5kd\n- SI/Tennessee: \"Emma Pynes Signs With Tennessee Softball\" — https://www.si.com/college/tennessee/recruiting/emma-pynes-signs-with-tennessee-softball-01m73yxwq1kb\n- Yahoo Sports live blog: \"Live Updates: Tennessee Lady Vols Softball Early Signing Period\"\n**Key Facts (HIGH confidence — official signings confirmed):**\n- Evelynn Swartzlander: Texas middle infielder, No. 61 nationally\n- Emma Pynes: Florida outfielder, No. 55 nationally, 4th-ranked recruit for Weekly in this class\n- Weekly has six total commits in the 2027 cycle; Gracyn Needle and Kamryn Potts also in class\n- Karen Weekly contract extended through 2030\n- Tennessee fall record: 3-0\n- Madison Mardjetko: 16-3, 1.26 ERA, returns as ace\n- Hannah Shelton: freshman, 3 IP, 7 K in fall ball\n**Note:** Swartzlander and Pynes are listed as MI and OF respectively, not pitchers. The circle depth additions may be elsewhere in the class (Needle/Potts positions not confirmed in search results). Marking the \"rotation answers\" framing as MEDIUM confidence — verify positions of Needle and Potts.\n**Freshness:** Announced November 11. Fully current.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Evelynn Swartzlander Signs With Tennessee Softball",
+          "url": "https://www.si.com/college/tennessee/recruiting/evelynn-swartzlander-signs-with-tennessee-softball-01m7442hb5kd",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "SI/Tennessee"
+        },
+        {
+          "name": "Emma Pynes Signs With Tennessee Softball",
+          "url": "https://www.si.com/college/tennessee/recruiting/emma-pynes-signs-with-tennessee-softball-01m73yxwq1kb",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "SI/Tennessee"
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
