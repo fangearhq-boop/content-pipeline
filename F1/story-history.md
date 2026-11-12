@@ -2,6 +2,45 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-11-12 Stories
+
+### STORY 1: Las Vegas GP Preview — Norris vs. Verstappen for P2 on the Strip
+- **Tier:** 1
+- **Category:** 2026 Las Vegas Grand Prix / Lando Norris / Max Verstappen
+- **Key facts:** Antonelli champion; Norris leads P2 battle; Verstappen 2nd in Brazil from 21st; Las Vegas Nov 22; three races remain
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: Piastri and Webber Part Ways After Seven Years
+- **Tier:** 1
+- **Category:** Oscar Piastri / Mark Webber / McLaren / Driver News
+- **Key facts:** Split confirmed Nov 9; mutual; 7-year partnership since 2019; Webber had already stepped back from trackside; Matos/Murray remain in support team
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Lawson Closing in on Racing Bulls 2027 Seat
+- **Tier:** 2
+- **Category:** Liam Lawson / Racing Bulls / 2027 Contracts
+- **Key facts:** Closing in on deal (The Race, Nov 9); announcement possible before Las Vegas; Tsolov is alternative; Permane says "coming weeks"
+- **Byline:** Elena Voss
+- **Status:** NEW
+
+### STORY 4: 2026 F1 Standings — Antonelli Champion, P2 Fight Alive
+- **Tier:** 2
+- **Category:** 2026 Drivers' Championship / Kimi Antonelli / Lando Norris / Max Verstappen
+- **Key facts:** Post-Brazil: Antonelli 390, Verstappen 279, Russell 262; Hamilton 400th race; 3 races remain; Mercedes Constructors' champions
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: Qatar and Abu Dhabi Season Finale Confirmed
+- **Tier:** 2
+- **Category:** 2026 F1 Calendar / Qatar GP / Abu Dhabi GP
+- **Key facts:** Both confirmed; Qatar Nov 29, Abu Dhabi Dec 6; Imola ruled out as fallback; FIA president confirmed
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+---
+
 ## 2026-11-11 Stories
 
 ### STORY 1: Norris Championship Hunt — Three Races Left After Brazil Win

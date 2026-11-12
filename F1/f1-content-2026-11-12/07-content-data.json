@@ -1,0 +1,345 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-12",
+  "compiled_at": "2026-11-12T11:24:38.229980+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Las Vegas Grand Prix Preview — Can Norris Extend His Lead Over Verstappen?",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "**Post 1 (Angle: P2 battle stakes)**\nPosting window: 8:00 AM ET\n\nAntonelli is champion. But Norris vs. Verstappen for P2 is very much alive — and Las Vegas is next. The Strip gives us F1's most electric night race with real stakes. #F1 #LasVegasGP\n\nCharacter count: 190 ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-las-vegas-gp-preview-norris-verstappen-p2.html",
+        "headline": "Las Vegas GP Preview: Norris and Verstappen Battle for P2 on the Strip",
+        "word_count": 633
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Las Vegas GP Preview\n\n**Image Concept 1 (Social — 1080x1350):**\n- **Search terms (imagn):** Lando Norris McLaren\n- **Description:** Norris in McLaren papaya livery, helmet on, intense pre-race or in-car moment\n- **Text overlay (Canva):** \"LAS VEGAS IS NEXT\" large, \"P2 BATTLE: NORRIS vs VERSTAPPEN\"\n\n**Image Concept 2 (Social — 1080x1350):**\n- **Search terms (imagn):** Max Verstappen Red Bull Racing\n- **Description:** Verstappen in Red Bull car at speed or celebration pose\n- **Text overlay (Canva):** \"10 DAYS TO LAS VEGAS\" header, \"#F1\" branding\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Las Vegas GP Preview\n**Key Facts (HIGH confidence):**\n- Brazilian GP was run November 8, 2026 — Norris won\n- Las Vegas GP is next race, scheduled for November 21-22, 2026\n- Kimi Antonelli is confirmed 2026 F1 World Champion\n- After Brazilian GP standings: Antonelli leads by 111 points (from previous day's research)\n- Norris, Verstappen, and Russell are fighting for P2 in standings\n- Verstappen finished second in Brazil from 21st on the grid\n- Norris won Brazil and leads P2 battle\n**Sources:**\n- https://www.vavel.com/en/motorsports/2026/11/08/formula-1/1278634-norris-wins-in-wet-to-dry-to-wet-brazilian-grand-prix.html\n- https://www.the-race.com/formula-1/f1-2026-brazilian-grand-prix-race-result/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "vavel.com",
+          "url": "https://www.vavel.com/en/motorsports/2026/11/08/formula-1/1278634-norris-wins-in-wet-to-dry-to-wet-brazilian-grand-prix.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "the-race.com",
+          "url": "https://www.the-race.com/formula-1/f1-2026-brazilian-grand-prix-race-result/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Piastri and Webber Part Ways — Seven-Year Management Split Confirmed",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "**Post 1 (Angle: Split announcement)**\nPosting window: 10:00 AM ET\n\nCONFIRMED: Oscar Piastri and manager Mark Webber have parted ways after seven years. A mutual split that ends one of F1's most storied management partnerships. #F1 #Piastri\n\nCharacter count: 171 ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Piastri"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-piastri-webber-management-split.html",
+        "headline": "Piastri and Webber Part Ways After Seven Years in Mutual Management Split",
+        "word_count": 575
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Piastri-Webber Split\n\n**Image Concept 1 (Social — 1080x1350):**\n- **Search terms (imagn):** Oscar Piastri McLaren\n- **Description:** Piastri in McLaren suit, focused expression, paddock or pre-race moment\n- **Text overlay (Canva):** \"PIASTRI AND WEBBER PART WAYS\" large, \"7 YEARS | MUTUAL SPLIT\"\n\n**Image Concept 2 (Social — 1080x1350):**\n- **Search terms (imagn):** Oscar Piastri McLaren\n- **Description:** Piastri celebrating or walking in paddock, confident pose\n- **Text overlay (Canva):** \"NEW CHAPTER\" large, \"WHAT'S NEXT FOR OSCAR?\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Piastri-Webber Split\n**Key Facts (HIGH confidence — confirmed by multiple outlets Nov 9, 2026):**\n- Split confirmed on November 9, 2026\n- Partnership lasted seven years (since 2019)\n- Split described as mutual\n- Webber had already stepped back from trackside role ahead of 2026 season\n- Piastri's future management structure not yet announced\n- Pedro Matos (former race engineer) and Emma Murray (mental coach) continue as trackside support\n**Sources:**\n- https://racer.com/2026/11/09/piastri-parts-ways-with-manager-webber\n- https://www.crash.net/f1/news/1110032/1/oscar-piastri-confirms-split-f1-career-manager-mark-webber\n- https://www.gpfans.com/en/f1-news/1092693/f1-oscar-piastri-mark-webber-split-management-confirmed/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "racer.com",
+          "url": "https://racer.com/2026/11/09/piastri-parts-ways-with-manager-webber",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "crash.net",
+          "url": "https://www.crash.net/f1/news/1110032/1/oscar-piastri-confirms-split-f1-career-manager-mark-webber",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "gpfans.com",
+          "url": "https://www.gpfans.com/en/f1-news/1092693/f1-oscar-piastri-mark-webber-split-management-confirmed/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Lawson Closing in on Racing Bulls Seat for 2027",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "**Post 1 (Angle: Closing on seat)**\nPosting window: 12:00 PM ET\n\nLiam Lawson is closing in on a 2027 Racing Bulls seat. Announcement could come before Las Vegas. After a strong Brazil weekend, the New Zealander appears to have the edge. #F1 #RacingBulls\n\nCharacter count: 190 ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#RacingBulls"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-lawson-racing-bulls-2027-seat.html",
+        "headline": "Liam Lawson Closing in on 2027 Racing Bulls Seat Ahead of Las Vegas Announcement",
+        "word_count": 563
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Lawson and Racing Bulls\n\n**Image Concept 1 (Social — 1080x1350):**\n- **Search terms (imagn):** Liam Lawson Racing Bulls\n- **Description:** Lawson in Racing Bulls car or suit, in-car action\n- **Text overlay (Canva):** \"LAWSON: 2027 DEAL CLOSE\" header, \"#F1 #RacingBulls\"\n\n**Image Concept 2 (Social — 1080x1350):**\n- **Search terms (imagn):** Liam Lawson Racing Bulls\n- **Description:** Lawson smiling or post-race, paddock setting\n- **Text overlay (Canva):** \"STAYING ON THE GRID?\" large text, announcement-style graphic\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Lawson and Racing Bulls 2027\n**Key Facts (MEDIUM confidence — reported but unconfirmed):**\n- Liam Lawson closing in on 2027 Racing Bulls seat (reported by The Race, November 9)\n- Racing Bulls could announce before Las Vegas GP (November 22)\n- Nikola Tsolov (Red Bull junior) is the alternative candidate\n- Lawson's strong performance at Brazilian GP weekend reportedly strengthened his case\n- Team principal Alan Permane said decision would come \"in the coming weeks\"\n**Sources:**\n- https://crash.net/f1/news/1110034/1/racing-bulls-closing-f1-2027-driver-decision-after-liam-lawson-statement\n- https://www.the-race.com/formula-1/liam-lawson-closing-on-f1-2027-racing-bulls-stay.md",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "crash.net",
+          "url": "https://crash.net/f1/news/1110034/1/racing-bulls-closing-f1-2027-driver-decision-after-liam-lawson-statement",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "the-race.com",
+          "url": "https://www.the-race.com/formula-1/liam-lawson-closing-on-f1-2027-racing-bulls-stay.md",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Standings Snapshot — Antonelli Champion, Norris vs. Verstappen for P2",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "**Post 1 (Angle: P2 fight context)**\nPosting window: 8:00 AM ET\n\nAfter Brazil: Antonelli champion, Hamilton's 400th race done. Now it is Norris vs. Verstappen for P2 with Las Vegas, Qatar, and Abu Dhabi remaining. #F1 #Formula1\n\nCharacter count: 161 ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-f1-2026-standings-snapshot-antonelli-champion.html",
+        "headline": "F1 2026 Standings: Antonelli Champion, Norris and Verstappen Fight for Runner-Up",
+        "word_count": 515
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Standings Snapshot\n\n**Image Concept 1 (Social — 1080x1350):**\n- **Search terms (imagn):** Kimi Antonelli Mercedes\n- **Description:** Antonelli celebrating championship win or podium moment\n- **Text overlay (Canva):** \"2026 F1 CHAMPION\" large, \"ANTONELLI | MERCEDES\"\n\n**Image Concept 2 (Social — 1080x1350):**\n- **Search terms (imagn):** Lewis Hamilton Mercedes\n- **Description:** Hamilton walking out of his car or reflecting, 400th race context\n- **Text overlay (Canva):** \"400 GRANDS PRIX\" milestone graphic, \"HAMILTON\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Standings Snapshot\n**Key Facts (HIGH confidence):**\n- Kimi Antonelli: 2026 F1 World Champion (confirmed at Brazilian GP)\n- Mercedes: 2026 Constructors' Champions\n- Post-Brazil standings: Antonelli 390 pts, Verstappen 279, Russell 262, Hamilton 261\n- Norris led P2 fight ahead of Verstappen based on race results\n- Three races remain: Las Vegas, Qatar, Abu Dhabi\n- Hamilton scored his 400th grand prix start in Brazil (finished lapped, 9th)\n**Sources:**\n- https://www.the-race.com/formula-1/f1-2026-brazilian-grand-prix-race-result/\n- https://www.vavel.com/en-us/more-sports/2026/11/08/1278551-f1-sao-paulo-grand-prix-live-updates-2026-brazil-gp-lap-by-lap-results.html",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "the-race.com",
+          "url": "https://www.the-race.com/formula-1/f1-2026-brazilian-grand-prix-race-result/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "vavel.com",
+          "url": "https://www.vavel.com/en-us/more-sports/2026/11/08/1278551-f1-sao-paulo-grand-prix-live-updates-2026-brazil-gp-lap-by-lap-results.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Qatar and Abu Dhabi Finals Confirmed Despite Regional Tensions",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "**Post 1 (Angle: Season finale locked in)**\nPosting window: 10:00 AM ET\n\nF1 confirms: Qatar on November 29, Abu Dhabi on December 6. The 2026 season ends as planned. No changes despite regional tensions. #F1 #Formula1\n\nCharacter count: 148 ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-qatar-abu-dhabi-f1-finale-confirmed.html",
+        "headline": "F1 Confirms Qatar and Abu Dhabi Season Finale Will Go Ahead as Planned",
+        "word_count": 530
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Qatar and Abu Dhabi Confirmed\n\n**Image Concept 1 (Social — 1080x1350):**\n- **Search terms (imagn):** Formula 1 Abu Dhabi Grand Prix\n- **Description:** Abu Dhabi circuit or sunset/evening setting at Yas Marina\n- **Text overlay (Canva):** \"SEASON FINALE CONFIRMED\" header, \"QATAR NOV 29 | ABU DHABI DEC 6\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Qatar and Abu Dhabi Confirmed\n**Key Facts (HIGH confidence):**\n- F1 confirmed Qatar (November 29) and Abu Dhabi (December 6) will proceed as scheduled\n- FIA president Mohammed Ben Sulayem confirmed both races\n- Imola was dropped as a fallback venue\n- Middle East conflict remains a monitoring concern but F1 confident in going ahead\n**Sources:**\n- https://www.autoracing1.com/pl/509111/formula-1-news-f1-says-qatar-and-abu-dhabi-grands-prix-will-go-ahead/\n- https://driven.site/news/formula-1-2026-season-to-finish-in-middle-east",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "autoracing1.com",
+          "url": "https://www.autoracing1.com/pl/509111/formula-1-news-f1-says-qatar-and-abu-dhabi-grands-prix-will-go-ahead/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "driven.site",
+          "url": "https://driven.site/news/formula-1-2026-season-to-finish-in-middle-east",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

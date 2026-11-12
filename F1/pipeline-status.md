@@ -1,9 +1,30 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-11-11
+## Last Run: 2026-11-12
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** F1 Fanrecap
+
+---
+
+### 2026-11-12 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 19 claims, HIGH: 41; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 5 tweets, 0 FB posts (known parsing), 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (20 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via GitHub MCP to main
+
+**Stories covered:**
+1. T1 NEW: Las Vegas GP Preview — Norris vs. Verstappen for P2 (Ryan Calloway)
+2. T1 NEW: Piastri-Webber management split confirmed (Marcus Cole)
+3. T2 NEW: Lawson closing in on Racing Bulls 2027 seat (Elena Voss)
+4. T2 FU: 2026 Standings — Antonelli champion, P2 fight continues (Ryan Calloway)
+5. T2 NEW: Qatar and Abu Dhabi finale confirmed (Marcus Cole)
 
 ---
 
