@@ -5,6 +5,63 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## November 12, 2026
+
+### Story 1: GM Meetings Final Day Wrap — Key Intelligence from Las Vegas
+- **Date:** 2026-11-12
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** GM Meetings concludes at Aria Las Vegas. White Sox shifting Grant Taylor from bullpen to rotation for 2027; SP acquisition still top priority. Giants' Bob Posey: "You've got to listen on pretty much anyone" — full trade openness. Phillies Dombrowski: "productive" but CBA expires in 20 days. 180+ FAs in Vegas; market still preliminary.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, 2 image concepts
+- **Follow-Up Opportunities:**
+  - White Sox starter acquisition (trade or free agent)
+  - Giants trade involving Adames or Chapman
+  - CBA expiration / lockout announcement Dec 1
+
+### Story 2: Skubal Begins California Meetings — Mets/Dodgers Primary Bidders
+- **Date:** 2026-11-12
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Skubal covered Oct 29–Nov 11)
+- **Angle:** Skubal heads to California next week. AP: 6 teams. ESPN McDaniel: Mets + Dodgers primary bidders. Heyman: Mets "probably" favorite. Cubs backed out; Blue Jays newly in. 8yr/$352M ($44M AAV) would shatter Yamamoto's $27M AAV record. No QO attached. Skubal turns 30 Nov 20. CBA expires Dec 1 — must sign or wait out lockout.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Skubal preferred destination signal from California meetings
+  - Mets/Dodgers formal offer
+  - Skubal signing announcement before Dec 1
+
+### Story 3: Seager Trade Market — Full NTC Means It's His Decision
+- **Date:** 2026-11-12
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Seager trade rumors began Nov 11)
+- **Angle:** Rangers exploring Seager trade at GM Meetings (Rosenthal/Grant). Full 10&5 no-trade clause — requires his consent. 2026: .227 BA, .736 OPS (career lows); elbow surgery post-season. 5 years/$155-157.5M remaining. Yankees (Heyman: potential 3B); Sherman skeptical. Other suitors: Blue Jays, Red Sox, Dodgers, Braves.
+- **Content Produced:** Article (article-03, Ryan Calloway), 2 X posts, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Seager waives NTC or declines trade
+  - Rangers trade partner announcement
+
+### Story 4: Teruaki Sato Posted — Five-Plus Teams, Dec 16 Deadline
+- **Date:** 2026-11-12
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Sato covered Nov 1–11)
+- **Angle:** Orix Buffaloes posted Sato Nov 1; 45-day window closes Dec 16. 2026 NPB Triple Crown: .308/.385/.613, 39 HR. Age 25. Confirmed bidders: Mets, Yankees, Dodgers, Phillies, Padres. Giants/Blue Jays/Pirates also mentioned. Projections: $80M–$180M range. CBA lockout pauses window Dec 1. Scout concern: 3B defense below MLB average.
+- **Content Produced:** Article (article-04, Marcus Cole), 2 X posts, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sato medical exam / preferred team signal
+  - Sato signing before Dec 1
+
+### Story 5: QO Deadline Tuesday — 8 Players, All Expected to Decline
+- **Date:** 2026-11-12
+- **Tier:** 3
+- **Classification:** FOLLOW UP (QOs issued Nov 2)
+- **Angle:** 8 QO recipients ($23.15M): Suzuki, Arozarena, Bednar, Bauers, Rogers, Jeffers, Lowe, Morejon. Deadline Nov 17 at 4 PM ET. All expected to decline. 18/157 historically accepted. Mariners interested in Suzuki, NOT re-signing Arozarena. Post-decline markets freeze at Dec 1 CBA expiration.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, 1 image concept
+- **Follow-Up Opportunities:**
+  - Nov 17 QO decline announcements
+  - Suzuki Mariners re-sign talks
+  - Arozarena open market
+
+---
+
 ## November 11, 2026
 
 ### Story 1: Skubal Meetings Begin — Six Teams, West Coast Preference, Record Deal Looming

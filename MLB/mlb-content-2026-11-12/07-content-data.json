@@ -1,0 +1,275 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-12",
+  "compiled_at": "2026-11-12T10:25:11.507965+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "Story",
+      "description": "Tier",
+      "type": "Publish Window"
+    },
+    {
+      "time": "1: GM Meetings Wrap",
+      "description": "2",
+      "type": "9:00 AM – 9:30 AM ET"
+    },
+    {
+      "time": "2: Skubal California Meetings",
+      "description": "1",
+      "type": "11:00 AM – 11:30 AM ET"
+    },
+    {
+      "time": "3: Seager Trade Market",
+      "description": "2",
+      "type": "1:00 PM – 1:30 PM ET"
+    },
+    {
+      "time": "4: Teruaki Sato Posted",
+      "description": "2",
+      "type": "3:00 PM – 3:30 PM ET"
+    },
+    {
+      "time": "5: QO Deadline",
+      "description": "3",
+      "type": "5:30 PM ET"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "GM Meetings Final Day Wrap — Key Intelligence from Las Vegas",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Final day of GM Meetings in Las Vegas. Here's the most important intelligence:\n\n📌 White Sox shifting Grant Taylor to the rotation\n📌 Giants open to trading \"pretty much anyone\"\n📌 Phillies: \"productive\" — but CBA expires in 20 days\n\nThe offseason is about to get very real. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 276
+        },
+        {
+          "label": "Post 1-2",
+          "text": "180+ free agents descended on the Aria in Las Vegas this week.\n\nThe market is still \"preliminary.\" The CBA expires Dec 1.\n\nTick. Tick. Tick.\n\n#MLB #FreeAgency",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#FreeAgency"
+          ],
+          "char_count": 158
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-gm-meetings-wrap.html",
+        "headline": "GM Meetings Wrap: White Sox, Giants, and the CBA Clock",
+        "word_count": 652
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Skubal Begins California Meetings Next Week — Mets/Dodgers Primary Bidders",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Corbin Skubal heads to California next week to meet with teams.\n\nAP: 6 teams in. ESPN: Mets + Dodgers are the primary bidders.\n\nHeyman: Mets \"probably\" the favorite. Blue Jays newly in. Cubs out.\n\nThe biggest pitching market in a generation is heating up. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 260
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Skubal projections: 8yr/$352M.\n\nThat would be $44M AAV — shattering Yamamoto's $27M AAV pitcher record.\n\nHe turns 30 on Nov 20. CBA expires Dec 1. The window is closing fast.\n\n#MLB #Mets #Dodgers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Mets",
+            "#Dodgers"
+          ],
+          "char_count": 195
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-skubal-california-meetings.html",
+        "headline": "Corbin Skubal Free Agency: Mets and Dodgers Lead as California Meetings Begin",
+        "word_count": 717
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Seager Trade Market — Full NTC Means It's His Decision",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Rangers are shopping Corey Seager.\n\nBut here's the catch: Seager has a full no-trade clause (10&5 rights).\n\nAny trade only happens if he says yes. And after elbow surgery + a career-low .227 season in 2026 — that's a big ask.\n\n#Rangers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rangers",
+            "#MLB"
+          ],
+          "char_count": 240
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Yankees want Corey Seager at third base, per Heyman.\n\nHis contract: 5 years/$155M+ remaining. His 2026: career lows across the board.\n\nSherman is skeptical. Yankees fans should probably be, too. 🤔\n\n#Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-03-seager-trade-market.html",
+        "headline": "Rangers Exploring Corey Seager Trade — But It's His Decision",
+        "word_count": 664
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Teruaki Sato Posted — Five-Plus Teams, Dec 16 Deadline",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "Teruaki Sato — 2026 NPB Triple Crown winner — is on the market.\n\n.308/.385/.613. 39 home runs. Age 25.\n\nConfirmed bidders: Mets, Yankees, Dodgers, Phillies, Padres.\n\nContract range: $80M to $180M. Dec 16 deadline. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 218
+        },
+        {
+          "label": "Post 4-2",
+          "text": "The CBA expires Dec 1. The Teruaki Sato posting window closes Dec 16.\n\nIf there's a lockout, that window PAUSES until a new CBA is done.\n\nTeams have about 19 days to get this done or wait months. #MLB #FreeAgency",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#FreeAgency"
+          ],
+          "char_count": 212
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-04-teruaki-sato-posting.html",
+        "headline": "Teruaki Sato Posted: MLB Teams Race Before CBA Lockout Pauses Window",
+        "word_count": 727
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "QO Deadline Tuesday — 8 Players, All Expected to Decline",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Eight players have until Nov 17 (4 PM ET) to accept or decline their qualifying offers ($23.15M).\n\nSuzuki, Arozarena, Bednar, Bauers, Rogers, Jeffers, Lowe, Morejon.\n\nAll expected to decline. Only 18 of 157 have ever said yes. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-05-qo-deadline.html",
+        "headline": "QO Deadline Nov. 17: Eight Players, All Expected to Decline",
+        "word_count": 690
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No Facebook posts found",
+      "Story 3: No posting window specified",
+      "Story 4: No Facebook posts found",
+      "Story 4: No posting window specified",
+      "Story 5: No Facebook posts found",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
