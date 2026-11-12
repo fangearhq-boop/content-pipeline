@@ -5,6 +5,51 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-11-12 (OFF DAY — Offseason. BBWAA Awards Week Day 2: NL MVP announced TONIGHT 6 PM CT (PCA heavy favorite, -1500). Misiorowski wins NL Cy Young unanimously (yesterday result). Ben Brown cervical spine surgery confirmed (C5, Nov 9). Suzuki declines QO (agent confirmed at GM Meetings). Insights: evening_18_24 WINNER (massive, delta=0.956) + opening=statement WINNER + opening=allcaps_lead LOSER + not_brief WINNER + hashtag_count=3 LOSER (CONFLICT, kept 3) + len_bucket=<140 WINNER + not_200-260 WINNER.)
+
+### STORY 1: PCA NL MVP Tonight — Hype Preview
+- **Angle:** NL MVP announced tonight at 6 PM CT. PCA is -1500 favorite: 45 HR, 41 SB, Gold Glove, Platinum Glove. First Cubs NL MVP since Kris Bryant in 2016 would be history.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, awards preview)
+- **Follow-Up Opportunities:**
+  - PCA wins NL MVP → Story 5 (7:00 PM CT celebration)
+  - If Ohtani/Turang wins → Tier 2 analysis/reaction
+
+### STORY 2: Misiorowski Wins NL Cy Young — Unanimously
+- **Angle:** FOLLOW UP (Yesterday's conditional resolved: Misiorowski wins). Unanimous (all 30 votes). 1.80 ERA, 252 Ks. Brewers now have WS + Cy Young in same year. Cubs division context.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, rivalry reaction)
+- **Follow-Up Opportunities:**
+  - Misiorowski extension with Brewers → Tier 2 rivalry news
+
+### STORY 3: Ben Brown Cervical Spine Surgery Confirmed
+- **Angle:** NEW. Surgery Nov 9 (C5 vertebra, stress fracture stabilized). Expected back first half of 2027. Cubs' rotation goes deeper into crisis mode.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, injury update)
+- **Follow-Up Opportunities:**
+  - Brown begins throwing (Jan 2027) → Tier 2 update
+  - Cubs SP acquisition as response → Tier 1
+
+### STORY 4: Suzuki Declines Qualifying Offer — Tests Free Agency
+- **Angle:** FOLLOW UP (QO extended Nov 2). Agent Wolfe confirmed decline at GM Meetings Nov 11. 26 HR, 86 RBI in 2026. Cubs can still re-sign but other teams now in play.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, hot stove / transaction)
+- **Follow-Up Opportunities:**
+  - Suzuki signs elsewhere → Tier 1 reaction, Cubs pivot to market
+  - Cubs re-sign Suzuki → Tier 1 breaking
+  - Formal QO decline filed (Nov 17 deadline) → Tier 3 note
+
+### STORY 5: PCA WINS NL MVP — Celebration (CONDITIONAL)
+- **Angle:** NEW — CONDITIONAL (assumed PCA wins at 6 PM CT; -1500 odds). First Cubs NL MVP since Kris Bryant in 2016. 45 HR, 41 SB, 10-year wait.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 PM CT, prime evening — CONDITIONAL)
+- **⚠️ CONDITIONAL:** If Ohtani or Turang wins instead, tweet needs update before 7 PM CT.
+- **Follow-Up Opportunities:**
+  - MVP confirmed → story closes
+  - PCA contract extension discussions → Tier 2
+
+---
+
 ## 2026-11-11 (OFF DAY — Offseason. BBWAA Awards Week: NL Cy Young tonight (Misiorowski heavy favorite), NL MVP tomorrow (PCA heavy favorite, -1100). Cubs out on Michael King (The Athletic); Peralta emerging as top FA target. Ben Brown surgery not ruled out. Insights: evening_18_24 WINNER (massive, delta=0.945) + opening=statement WINNER [SIGNAL REVERSAL from prior runs] + opening=allcaps_lead LOSER + not_brief WINNER + hashtag_count=3 LOSER (CONFLICT, kept 3) + len_bucket=<140 WINNER + not_200-260 WINNER + transaction WINNER.)
 
 ### STORY 1: NL Cy Young Is Tonight — Misiorowski the Heavy Favorite

@@ -1,0 +1,196 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-12",
+  "compiled_at": "2026-11-12T09:16:15.796095+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "PCA NL MVP Tonight — Preview",
+      "type": "Awards Preview"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Misiorowski Wins NL Cy Young",
+      "type": "Rivalry Reaction"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Ben Brown Cervical Spine Surgery",
+      "type": "Injury Update"
+    },
+    {
+      "time": "6:30 PM ⭐️",
+      "description": "Suzuki Declines QO",
+      "type": "Hot Stove / Transaction"
+    },
+    {
+      "time": "7:00 PM ⭐️",
+      "description": "PCA WINS NL MVP (CONDITIONAL)",
+      "type": "Breaking / Celebration"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "PCA NL MVP Tonight — Hype Preview",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "The 2026 NL MVP race has one competitor: Pete Crow-Armstrong.\n\n45 HRs. 41 SBs. Gold Glove. Platinum Glove. Announcement tonight at 6 PM CT on MLB Network.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Morning news / award preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 178
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Misiorowski Wins NL Cy Young — Unanimously",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Jacob Misiorowski wins the NL Cy Young Award — unanimously.\n\n1.80 ERA, 252 Ks. World Series trophy and now the hardware. Cubs, the bar has been raised this winter.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Rivalry reaction / result",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 183
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Ben Brown Cervical Spine Surgery Confirmed",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Ben Brown had cervical spine surgery Monday — stress fracture in his neck, C5 stabilized.\n\nExpected back first half of 2027. Cubs' rotation goes deeper into crisis mode.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Injury update",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 195
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Suzuki Declines Qualifying Offer — Tests Free Agency",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Seiya Suzuki is declining the Cubs' qualifying offer and testing free agency.\n\n26 HRs, 86 RBIs in 2026. He's earned it. Cubs can still re-sign him, but other teams are watching.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Hot stove / roster news",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "PCA WINS NL MVP — Celebration",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "7:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Pete Crow-Armstrong is the 2026 NL MVP.\n\n45 HRs. 41 SBs. First Cubs NL MVP since Kris Bryant in 2016. Wrigley's waited 10 years for this moment.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 PM CT",
+          "tweet_type": "Breaking / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 168
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
