@@ -1,0 +1,337 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-12",
+  "compiled_at": "2026-11-12T11:30:58.604003+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "LIV Golf Is Done — Wind-Down Confirmed, Liquidation Plan Filed",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "**Post 1 (Angle: It's over)**\nPosting window: 8:00 AM ET\n\nLIV Golf is done. Five years, billions in Saudi funding — the LIV 2.0 plan is abandoned and liquidation is next. January hearing finalizes the end. #Golf #LIVGolf\n\nCharacter count: 163 ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Golf",
+            "#LIVGolf"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-liv-golf-wind-down-liquidation.html",
+        "headline": "LIV Golf Is Done: Five-Year Experiment Ends in Liquidation After Saudi Funding Collapses",
+        "word_count": 644
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Wind-Down\n\n**Image Concept 1 (Social — 1080x1350):**\n- **Search terms (imagn):** Jon Rahm LIV Golf\n- **Description:** Rahm in LIV Golf kit, mid-round or post-shot\n- **Text overlay (Canva):** \"LIV GOLF IS DONE\" large bold, \"5 YEARS | WIND DOWN CONFIRMED\"\n\n**Image Concept 2 (Social — 1080x1350):**\n- **Search terms (imagn):** Bryson DeChambeau LIV Golf\n- **Description:** DeChambeau in LIV Golf gear, celebration or walking\n- **Text overlay (Canva):** \"THE ERA IS OVER\" dramatic text, LIV Golf league logo context\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf Wind-Down and Liquidation\n**Key Facts (HIGH confidence — multiple sources confirm):**\n- LIV Golf filed Chapter 11 bankruptcy on September 8, 2026\n- At a November 5 bankruptcy hearing, the league's attorney stated LIV would \"wind down operations\" rather than proceed with LIV 2.0 restructuring\n- LIV Golf filed a formal liquidation plan with a New Jersey court on November 10, 2026\n- Disclosure statement hearing set for November 24\n- Liquidation hearing scheduled for January 7, 2027\n- PIF (Saudi Arabia's Public Investment Fund) withdrew funding in April 2026 — trigger for the collapse\n- LIV Golf listed assets of $100M–$500M and liabilities of $500M–$1B in its September filing\n- Jon Rahm is the top unsecured creditor (~$7.4-7.5M); DeChambeau, Dustin Johnson, Cameron Smith also major creditors\n- Five-year run (league founded 2021/2022)\n**Sources:**\n- https://www.nbcsports.com/golf/news/liv-golf-files-bankruptcy-plan-and-sets-sight-on-january-liquidation\n- https://www.upi.com/Sports_News/2026/11/05/LIV-Golf-shut-down-five-year-rivarly/1991793900516/\n- https://bleacherreport.com/articles/25529587-liv-and-let-die-rival-league-tells-bankruptcy-court-it-will-wind-down-operations",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "nbcsports.com",
+          "url": "https://www.nbcsports.com/golf/news/liv-golf-files-bankruptcy-plan-and-sets-sight-on-january-liquidation",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "upi.com",
+          "url": "https://www.upi.com/Sports_News/2026/11/05/LIV-Golf-shut-down-five-year-rivarly/1991793900516/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "bleacherreport.com",
+          "url": "https://bleacherreport.com/articles/25529587-liv-and-let-die-rival-league-tells-bankruptcy-court-it-will-wind-down-operations",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "PGA Tour CEO Says There Are No Plans to Welcome Back LIV Players",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "**Post 1 (Angle: Tour's stance)**\nPosting window: 1:00 PM ET\n\nPGA Tour CEO: no plans to welcome back LIV players. With LIV shutting down, the question of where Rahm, DeChambeau, and Johnson go next has no easy answer. #PGATour #Golf\n\nCharacter count: 172 ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#Golf"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-pga-tour-no-return-program-liv-players.html",
+        "headline": "PGA Tour CEO: No Plans to Welcome Back LIV Players as Golf's Future Realigns",
+        "word_count": 639
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PGA Tour on LIV Players\n\n**Image Concept 1 (Social — 1080x1350):**\n- **Search terms (imagn):** Jon Rahm golf\n- **Description:** Rahm at a golf event, looking focused or pensive\n- **Text overlay (Canva):** \"WHERE DO THEY GO NOW?\" large, \"PGA TOUR: NO RETURN PROGRAM\"\n\n**Image Concept 2 (Social — 1080x1350):**\n- **Search terms (imagn):** Dustin Johnson golf\n- **Description:** Dustin Johnson at tournament, competitive look\n- **Text overlay (Canva):** \"LIV IS OVER | PGA TOUR DOOR CLOSED | DP WORLD TOUR ROUTE\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "PGA Tour on LIV Players\n**Key Facts (HIGH confidence):**\n- PGA Tour CEO stated there are no plans to welcome back LIV players\n- PGA Tour has not developed a returning-member program\n- Tour said it would wait for LIV bankruptcy proceedings to conclude before deciding\n- DP World Tour pathway exists: top 10 earn PGA Tour cards for 2027\n- Patrick Reed is reportedly No. 2 on the DP World Tour points list\n- Brooks Koepka returned under a January program with a five-year forfeiture of Player Equity Program potential\n**Sources:**\n- https://news.bloomberglaw.com/litigation/pga-tour-has-no-plans-to-welcome-back-liv-golf-players-ceo-says\n- https://bilyonaryo.com/pga-tour-wont-decide-liv-players-return-until-bankruptcy-concludes/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "news.bloomberglaw.com",
+          "url": "https://news.bloomberglaw.com/litigation/pga-tour-has-no-plans-to-welcome-back-liv-golf-players-ceo-says",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "bilyonaryo.com",
+          "url": "https://bilyonaryo.com/pga-tour-wont-decide-liv-players-return-until-bankruptcy-concludes/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "ANNIKA at Pelican Opens — LPGA Season's Penultimate Event Gets Underway",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "**Post 1 (Angle: Tournament opening)**\nPosting window: 8:00 AM ET\n\nThe ANNIKA driven by Gainbridge is underway at Pelican in Belleair, FL. LPGA's penultimate event — top 60 in points earn a spot in the CME Group Tour Championship. #LPGA #Golf\n\nCharacter count: 175 ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#Golf"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-annika-pelican-lpga-opens.html",
+        "headline": "ANNIKA at Pelican Opens: LPGA's Penultimate Event Sets the Stage for CME Qualification",
+        "word_count": 558
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ANNIKA at Pelican\n\n**Image Concept 1 (Social — 1080x1350):**\n- **Search terms (imagn):** Nelly Korda LPGA\n- **Description:** Korda in action, shot or celebration\n- **Text overlay (Canva):** \"THE ANNIKA BEGINS\" large, \"PELICAN | BELLEAIR FL | NOV 12-15\"\n\n**Image Concept 2 (Social — 1080x1350):**\n- **Search terms (imagn):** LPGA Tour golf\n- **Description:** Female golfer on course, general action\n- **Text overlay (Canva):** \"TOP 60 MAKE THE CME\" header, \"LPGA SEASON FINALE STRETCH\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ANNIKA at Pelican Opens\n**Key Facts (MEDIUM confidence — first round underway today):**\n- Tournament: ANNIKA driven by Gainbridge at Pelican Golf Club\n- Location: Belleair, Florida\n- Dates: November 12-15, 2026\n- This is the penultimate event of the 2026 LPGA season\n- The top 60 players in LPGA points after this event qualify for the CME Group Tour Championship (Naples, November 19-22)\n- The tournament serves as the LPGA's regular-season finale before the season-ending championship event\n- Previous years: 2025 first-round leader was Haeran Ryu at 6-under 64; Nelly Korda has won this event before\n**Sources:**\n- https://yournews.com/2026/11/11/7263038/golf-glance-pga-lpga-return-to-u-s-dp-champions-set/\n- https://www.castanetkamloops.net/news/Golf/396048/Nelly-Korda-rallies-to-win-Pelican-and-returns-to-No-1",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "yournews.com",
+          "url": "https://yournews.com/2026/11/11/7263038/golf-glance-pga-lpga-return-to-u-s-dp-champions-set/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "castanetkamloops.net",
+          "url": "https://www.castanetkamloops.net/news/Golf/396048/Nelly-Korda-rallies-to-win-Pelican-and-returns-to-No-1",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Mexico Open Recap — Andrew Novak's 5-Shot Win Signals PGA Tour Resurgence",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "**Post 1 (Angle: Win recap)**\nPosting window: 10:30 AM ET\n\nAndrew Novak won the Mexico Open by 5 shots at 25-under par on November 1 — his first individual PGA Tour title and an exemption through 2028. One of the fall season's best stories. #PGATour #Golf\n\nCharacter count: 198 ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#Golf"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-andrew-novak-mexico-open-pga-tour-title.html",
+        "headline": "Andrew Novak Claims Mexico Open by Five Shots for First Individual PGA Tour Title",
+        "word_count": 585
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Novak Mexico Open\n\n**Image Concept 1 (Social — 1080x1350):**\n- **Search terms (imagn):** Andrew Novak PGA Tour\n- **Description:** Novak celebrating or holding trophy at Mexico Open\n- **Text overlay (Canva):** \"MEXICO OPEN CHAMPION\" large, \"NOVAK | 25-UNDER | 5-SHOT WIN\"\n\n**Image Concept 2 (Social — 1080x1350):**\n- **Search terms (imagn):** Andrew Novak PGA Tour\n- **Description:** Novak mid-swing, action shot\n- **Text overlay (Canva):** \"FIRST SOLO PGA TOUR TITLE\" large bold text\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Andrew Novak Mexico Open Win\n**Key Facts (HIGH confidence — multiple major outlets confirmed):**\n- Tournament: VidantaWorld Mexico Open at Vidanta Vallarta\n- Winner: Andrew Novak\n- Final score: 25-under par for 72 holes\n- Winning margin: 5 shots over Steven Fisk and Kristoffer Ventura\n- Winner's share: $1,080,000 (from $6,000,000 purse)\n- First individual PGA Tour title (had previously won Zurich Classic in team format with Ben Griffin in 2025)\n- Extends exempt status through 2028\n- Completed November 1, 2026\n**Sources:**\n- https://www.golfmagic.com/tour/pga-tour/mexico-open-final-scores-and-prize-money-andrew-novak-claims-second-pga-tour-title\n- https://www.pgatour.com/article/news/daily-wrapup/2026/11/01/round-4-recap-vidantaworld-mexico-open",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "golfmagic.com",
+          "url": "https://www.golfmagic.com/tour/pga-tour/mexico-open-final-scores-and-prize-money-andrew-novak-claims-second-pga-tour-title",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "pgatour.com",
+          "url": "https://www.pgatour.com/article/news/daily-wrapup/2026/11/01/round-4-recap-vidantaworld-mexico-open",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "LPGA Updates Pace-of-Play Policy — No More Warnings Starting 2027",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "**Post 1 (Angle: New policy)**\nPosting window: 8:00 AM ET\n\nThe LPGA is done playing nice on slow play. Starting in 2027, no more warnings — players will be fined immediately for pace-of-play violations. #LPGA #Golf\n\nCharacter count: 157 ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#Golf"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-lpga-pace-of-play-policy-2027.html",
+        "headline": "LPGA Eliminates Slow-Play Warnings for 2027: Fines Begin Immediately Under New Policy",
+        "word_count": 589
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LPGA Pace-of-Play\n\n**Image Concept 1 (Social — 1080x1350):**\n- **Search terms (imagn):** LPGA Tour golf tournament\n- **Description:** Player checking yardage or waiting to tee off, pace-of-play context\n- **Text overlay (Canva):** \"NO MORE WARNINGS\" large, \"LPGA FINES FOR SLOW PLAY | 2027\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LPGA Pace-of-Play Policy 2027\n**Key Facts (MEDIUM confidence — single source but trade outlet):**\n- LPGA Tour announced updated pace-of-play policy for 2027\n- New policy eliminates warning phase — players fined immediately for violations\n- Stricter than previous policy which allowed warnings before fines\n- Aimed at reducing round times\n- Announced ahead of the season finale stretch\n**Sources:**\n- https://golf.com/news/lpga-update-pace-play-policy-fines",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "golf.com",
+          "url": "https://golf.com/news/lpga-update-pace-play-policy-fines",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

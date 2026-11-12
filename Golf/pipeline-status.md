@@ -1,9 +1,30 @@
 # Golf Fanrecap — Pipeline Status
 
-## Last Run: 2026-11-11
+## Last Run: 2026-11-12
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** Golf Fanrecap
+
+---
+
+### 2026-11-12 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 21 claims, HIGH: 44; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 5 tweets, 0 FB posts (known parsing), 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (20 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via GitHub MCP to main
+
+**Stories covered:**
+1. T1 NEW: LIV Golf wind-down confirmed, liquidation plan filed (Ryan Calloway)
+2. T1 NEW: PGA Tour CEO: no return program for LIV players (Jake Torres)
+3. T1 NEW: ANNIKA at Pelican opens — LPGA penultimate event (Marcus Cole)
+4. T2 FU: Andrew Novak Mexico Open win recap (Ryan Calloway)
+5. T2 NEW: LPGA pace-of-play policy 2027 — no more warnings (Jake Torres)
 
 ---
 

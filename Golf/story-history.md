@@ -2,6 +2,45 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-11-12 Stories
+
+### STORY 1: LIV Golf Is Done — Wind-Down Confirmed, Liquidation Plan Filed
+- **Tier:** 1
+- **Category:** LIV Golf / Golf Industry / Saudi Arabia PIF
+- **Key facts:** Filed Ch11 Sep 8; Nov 5 hearing: winding down; Nov 10 liquidation plan filed; Jan 7 hearing; PIF withdrew April; assets $100M-$500M, liabilities $500M-$1B; Rahm top creditor ~$7.4-7.5M
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: PGA Tour CEO: No Return Program for LIV Players
+- **Tier:** 1
+- **Category:** PGA Tour / LIV Golf Players / Golf Industry
+- **Key facts:** PGA Tour CEO confirmed no return program; waiting for LIV bankruptcy to conclude; DP World Tour top 10 earn PGA Tour cards; Reed at No. 2 DP World Tour; Koepka returned with 5-yr equity forfeiture
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 3: ANNIKA at Pelican Opens — LPGA Season's Penultimate Event
+- **Tier:** 1
+- **Category:** LPGA Tour / ANNIKA driven by Gainbridge / Pelican Golf Club
+- **Key facts:** Belleair FL, Nov 12-15; top 60 in LPGA points qualify for CME; penultimate event before Naples
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 4: Mexico Open Recap — Novak's 5-Shot Win
+- **Tier:** 2
+- **Category:** PGA Tour / VidantaWorld Mexico Open / Andrew Novak
+- **Key facts:** 25-under, 5-shot win over Fisk and Ventura; $1.08M of $6M purse; first individual PGA Tour title; exempt through 2028; Nov 1 2026
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: LPGA Pace-of-Play Policy 2027 — No More Warnings
+- **Tier:** 2
+- **Category:** LPGA Tour / Rules / 2027 Policy
+- **Key facts:** Warnings eliminated; fines begin immediately for pace violations; effective 2027 season
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+---
+
 ## 2026-11-11 Stories
 
 ### STORY 1: LIV Golf Officially Dead — Lawyers Confirm No Successor League
