@@ -1,5 +1,36 @@
 # Tennis Fanrecap — Pipeline Status
 
+## Current Run: 2026-11-12
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | WTA Finals Day 4: Andreeva d. Sabalenka 6-4, 6-0 (62 min, came back from 1-4, won last 11 games); Svitolina d. Muchova 3 sets; Group 2: Andreeva 2-0 (semi), Sabalenka/Svitolina 1-1 (Thursday decider); Day 5 today: Pegula/Gauff + Sabalenka/Svitolina decisive; ATP Finals draw: McEnroe Group (Zverev/Shelton/Fils/Jodar) + Lendl Group (Alcaraz/Medvedev/Cobolli/Tiafoe) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Nov 11 S1: WTA Finals Day 3 recap + Day 4 preview → Day 4 results); S2 FOLLOW-UP (Nov 11 S2: ATP Finals draw tomorrow → draw results); S3 NEW (Sabalenka ranking threat); S4 FOLLOW-UP (Nov 12 S2: draw revealed → group-stage analysis); S5 FOLLOW-UP (Nov 12 S1: Day 4 recap → Day 5 preview) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 T1, 2 T2); bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on Svitolina/Muchova three-set result (single source); MEDIUM on ATP Finals draw groups (single Italian source) |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 8 posts across 5 stories; all ≤280 chars (198, 197, 243, 219, 213, 229, 191, 252) |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Caption; engagement questions; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories; player-name-only search terms |
+| Articles (5) | COMPLETE | article-01 Andreeva stuns Sabalenka Day 4 (Marcus Cole T1 ~600w); article-02 ATP Finals draw groups (Ryan Calloway T1 ~600w); article-03 Sabalenka ranking threat (Elena Voss T1 ~550w); article-04 ATP Finals group preview (Marcus Cole T2 ~550w); article-05 WTA Finals Day 5 preview (Ryan Calloway T2 ~550w) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 35 claims auto-extracted; all stories present in all content files; PASSED; 2 MEDIUM flags: Svitolina/Muchova result single source; ATP Finals draw groups single Italian source |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles, 10 images; posting window warnings cosmetic |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 28 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-11-12.xlsx + tfr-postplanner-tobi-2026-11-12.xlsx — 8 posts each |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 12 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
+- **PostPlanner exports:** 8 posts standard + 8 TOBI
+- **Key stories:** WTA Finals Day 4 — Andreeva stuns Sabalenka 6-4, 6-0 (semis confirmed); Svitolina survives; Day 5 two deciders (Pegula/Gauff + Sabalenka/Svitolina); ATP Finals draw: McEnroe Group (Zverev/Shelton/Fils/Jodar) vs Lendl Group (Alcaraz/Medvedev/Cobolli/Tiafoe); Sabalenka No. 2 ranking under threat from Andreeva
+- **Issues:** WordPress proxy 403 (known); dashboard push 403 (known)
+
+---
+
 ## Current Run: 2026-11-11
 
 | Step | Status | Notes |

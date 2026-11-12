@@ -1,0 +1,344 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-12",
+  "compiled_at": "2026-11-12T12:14:31.980291+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "WTA Finals Day 4 Recap — Andreeva Stuns Sabalenka 6-4, 6-0; Svitolina Survives; Day 5 Deciders Today",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Mirra Andreeva beat Aryna Sabalenka 6-4, 6-0 at the WTA Finals. She came back from 1-4 down in set 1, then bageled the No. 2 seed. 11 consecutive games. 62 minutes. She's into the semis. #WTAFinals #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTAFinals",
+            "#Tennis"
+          ],
+          "char_count": 205
+        },
+        {
+          "label": "Post 1-2",
+          "text": "WTA Finals Day 5 today: Pegula vs Gauff — both 1-1, one spot left in Group 1. And Sabalenka vs Svitolina — both 1-1, one spot left in Group 2. Noskova and Andreeva are waiting. #WTAFinals #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTAFinals",
+            "#Tennis"
+          ],
+          "char_count": 195
+        }
+      ],
+      "facebook": {
+        "long_form": "The WTA Finals has its first big storyline, and it's one almost no one expected.\n\nMirra Andreeva walked into Wednesday's match against Aryna Sabalenka down 1-4 in the first set. What happened next was extraordinary. She won five straight games to take the set 6-4, then bageled the world No. 2 in the second set 6-0. Eleven consecutive games. The match lasted 62 minutes. Andreeva, who is 2-0 in the round robin, is now confirmed for the semifinals.\n\nSabalenka falls to 1-1 and needs a win on Thursday to stay alive. In the other Group 2 match, Elina Svitolina beat Karolina Muchova in three sets to also stay alive at 1-1 — Muchova is eliminated at 0-2.\n\nToday (Thursday, November 12) is decision day for both groups. Coco Gauff and Jessica Pegula play with the second Group 1 semi spot on the line, and Sabalenka and Svitolina fight for Group 2. Only two players will join Linda Noskova and Mirra Andreeva in the semifinals.\n\nWho do you think survives — Gauff or Pegula? And can Sabalenka recover after Wednesday's beatdown?",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-andreeva-stuns-sabalenka-wta-finals-day4.html",
+        "headline": "Andreeva Stuns Sabalenka 6-4, 6-0 at WTA Finals; Day 5 Has Two All-or-Nothing Deciders",
+        "word_count": 589
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Mirra Andreeva",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Aryna Sabalenka",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WTA Finals Day 4 Recap — Andreeva Stuns Sabalenka\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Andreeva beat Sabalenka 6-4, 6-0 on Day 4 (Nov 11 local time) | HIGH | Tribune.net.ph, Gulf News, Japan Times, Manila Times (all Nov 12) |\n| Match lasted 62 minutes | HIGH | Tribune.net.ph, Gulf News Nov 12 |\n| Andreeva came back from 1-4 down in set 1 | HIGH | Tribune.net.ph Nov 12 |\n| Andreeva won the last 11 consecutive games | HIGH | Tribune.net.ph Nov 12 |\n| Andreeva is now 2-0 in Group 2, through to semis | HIGH | Multiple Nov 12 sources |\n| Sabalenka is 1-1, needs a win Thursday to survive | HIGH | Multiple Nov 12 sources |\n| Svitolina beat Muchova in three sets (Day 4) | MEDIUM | First WTA Finals search result (single source reference) |\n| Svitolina is 1-1, Muchova is 0-2 (eliminated) | MEDIUM | Inferred from Svitolina three-set win + group math |\n| Group 1: Noskova 2-0 (semi), Pegula 1-1, Gauff 1-1, Kostyuk 0-2 (out) | HIGH | Confirmed in Nov 11 pipeline |\n| Group 2: Andreeva 2-0 (semi), Sabalenka 1-1, Svitolina 1-1, Muchova 0-2 (out) | HIGH | Derived from Day 4 results |\n| Day 5 (Nov 12): Pegula vs Gauff (Group 1 decider) and Sabalenka vs Svitolina (Group 2 decider) | HIGH | Logical from group math |\n| WTA Finals venue: Indian Wells, California | HIGH | Confirmed in prior pipelines |\n| WTA Finals dates: Nov 8–15 | HIGH | Confirmed in prior pipelines |",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "ATP Finals Turin Draw Revealed — Zverev in McEnroe Group, Alcaraz in Lendl Group",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "ATP Finals draw is set. John McEnroe Group: Zverev, Shelton, Fils, Jodar. Ivan Lendl Group: Alcaraz, Medvedev, Cobolli, Tiafoe. Turin starts Nov 15. Zverev and Alcaraz are on a collision course — but only if both advance. #ATPFinals #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis"
+          ],
+          "char_count": 240
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The match to circle at the 2026 ATP Finals: Alcaraz vs Medvedev in the Ivan Lendl Group. These two have met in Grand Slam finals before. Turin will give them another stage. Group play starts Nov 15. #ATPFinals #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "The 2026 Nitto ATP Finals groups are official.\n\nThis morning in Turin, the draw ceremony placed the eight qualified players into two round-robin groups. The John McEnroe Group features year-end No. 1 Alexander Zverev, Ben Shelton, Arthur Fils, and Rafael Jodar. The Ivan Lendl Group has Carlos Alcaraz, Daniil Medvedev, Flavio Cobolli, and Frances Tiafoe.\n\nThe headline storyline: Zverev and Alcaraz are in separate groups, which means — if both advance — they would only meet in the semifinals. For the first three days of the tournament (starting November 15), the two title favorites are on opposite ends of the bracket.\n\nThe other big narrative is the Lendl Group. Alcaraz and Medvedev have played in Grand Slam finals before, and their round-robin match at the Inalpi Arena will likely be the most-watched group stage match of the week.\n\nAlso worth noting: four first-time participants in Turin — Cobolli, Tiafoe, Jodar, and Fils — make this one of the most generationally diverse ATP Finals in recent memory.\n\nWho wins the John McEnroe Group? Let us know your prediction below.",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-atp-finals-draw-mcenroe-lendl-groups-turin.html",
+        "headline": "ATP Finals Draw: Zverev and Alcaraz Land in Separate Groups — Turin Begins November 15",
+        "word_count": 669
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3",
+          "size_desc": "Alexander Zverev",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4",
+          "size_desc": "Carlos Alcaraz",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ATP Finals Turin Draw Revealed\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| ATP Finals draw ceremony held Nov 12 in Turin | HIGH | ATP Tour, TNT Sports, confirmed in Nov 11 pipeline |\n| John McEnroe Group: Zverev, Shelton, Fils, Jodar | MEDIUM | LaPresse live page (single source, Italian, Nov 12 draw day) |\n| Ivan Lendl Group: Alcaraz, Medvedev, Cobolli, Tiafoe | MEDIUM | LaPresse live page (single source, Italian, Nov 12 draw day) |\n| Group names are John McEnroe Group and Ivan Lendl Group | HIGH | TNT Sports confirmed both group names |\n| ATP Finals dates: November 15–22, 2026 | HIGH | ATP Tour official |\n| Venue: Inalpi Arena, Turin | HIGH | ATP Tour official |\n| Top 2 from each group advance to semis | HIGH | ATP Tour format |\n| Field: Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe, Jodar | HIGH | Confirmed in prior pipelines |\n| Sinner out of ATP Finals with knee injury (not returning before 2027) | HIGH | Confirmed in prior pipelines |",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Sabalenka's No. 2 Ranking Under Threat After Andreeva's 6-0 Dismantling",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Aryna Sabalenka is now fighting for her WTA year-end No. 2 ranking, not just a semifinal spot. Andreeva gave her a 6-0 second set. The gap between No. 2 and No. 3 just got a lot smaller. #WTAFinals #TennisRankings",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTAFinals",
+            "#TennisRankings"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "Aryna Sabalenka entered the WTA Finals in Indian Wells as the second-best player on the planet, by ranking. Wednesday might have changed that conversation.\n\nAfter losing 6-4, 6-0 to Mirra Andreeva in just 62 minutes, Sabalenka is not only fighting for a semifinal place — she is fighting to protect her year-end No. 2 ranking. Andreeva, ranked No. 3, is 2-0 and already in the semifinals. The more Andreeva advances, and the earlier Sabalenka exits, the closer the gap in the rankings becomes.\n\nThe 6-0 second set was not just a scoreline. It showed Andreeva, who has been rising all season, is now at a level where she can dominate Sabalenka on this stage. That is a significant shift from where the two players stood even six months ago.\n\nSabalenka plays Svitolina today. A win keeps her season alive. But the broader message from Wednesday is that the conversation around the WTA's top two is no longer settled.\n\nWhat do you think — is Andreeva ready to take the No. 2 ranking this year?",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-sabalenka-no2-ranking-threat-andreeva.html",
+        "headline": "Sabalenka's Year-End No. 2 Ranking Is Under Threat After Andreeva's WTA Finals Stunner",
+        "word_count": 601
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5",
+          "size_desc": "Mirra Andreeva",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sabalenka No. 2 Ranking Under Threat\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Sabalenka is currently ranked World No. 2 | HIGH | WTA rankings confirmed in prior pipelines |\n| Andreeva is currently ranked World No. 3 | HIGH | WTA draws confirmed in prior pipelines |\n| Gulf News headline: \"Andreeva closes in on Sabalenka's No. 2 ranking\" | HIGH | Gulf News Nov 12 |\n| A 6-0 set loss in a high-pressure match signals form gap | HIGH (qualitative) | Established from match result |\n| Andreeva is 17 years old | MEDIUM | Age referenced in multiple sources; verify with primary source |",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "ATP Finals Group Preview — Lendl Group Loaded, McEnroe Group Is Zverev's to Lose",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "The McEnroe Group at the ATP Finals looks like Zverev's to win — Shelton, Fils, and Jodar are real opponents but the year-end No. 1 is the heavy favorite. The Lendl Group is wide open. Turin starts Nov 15. #ATPFinals #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis"
+          ],
+          "char_count": 224
+        },
+        {
+          "label": "Post 4-2",
+          "text": "Four debutants at the 2026 ATP Finals: Cobolli, Tiafoe, Jodar, and Fils. Jodar became the first player to qualify in his debut ATP Tour year. This is a generational field. #ATPFinals #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis"
+          ],
+          "char_count": 190
+        }
+      ],
+      "facebook": {
+        "long_form": "Now that the groups are set, here is what to watch when the 2026 Nitto ATP Finals begins in Turin on November 15.\n\nThe Ivan Lendl Group is the glamour draw. Carlos Alcaraz arrives with five 2026 titles, a 10-match winning streak, and the momentum of back-to-back Masters crowns in Vienna and Paris. Daniil Medvedev is a former world No. 1 who has won at the ATP Finals before. Their round-robin match has Grand Slam final energy — these two have made each other's season harder before, and Turin will be no different. Flavio Cobolli and Frances Tiafoe are both first-timers with the game to cause a surprise.\n\nThe John McEnroe Group looks more predictable on paper — but only slightly. Alexander Zverev is the year-end No. 1, a Roland Garros and US Open champion, and a two-time ATP Finals winner. If he is at his 2026 best, Shelton, Fils, and Jodar will find him very difficult to beat. But Ben Shelton reached the Paris Masters final two weeks ago, and Arthur Fils has been a consistent top-10 presence all year. Jodar, who qualified in his ATP Tour debut year — a first in the tournament's history — is a genuine wildcard.\n\nThe tournament starts November 15 and runs through November 22.\n\nWhich group-stage match are you most excited about?",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-atp-finals-group-preview-lendl-mcenroe.html",
+        "headline": "ATP Finals Group Preview: The Lendl Group Is Loaded, the McEnroe Group Is Zverev's to Lose",
+        "word_count": 671
+      },
+      "image_concepts": [
+        {
+          "label": "Image 6",
+          "size_desc": "Daniil Medvedev",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 7",
+          "size_desc": "Ben Shelton",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ATP Finals Group Preview\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Alcaraz and Medvedev contested the 2023 US Open final | HIGH | Historical record |\n| Tiafoe is making his first ATP Finals appearance | HIGH | Confirmed in Nov 7 pipeline |\n| Cobolli is making his first ATP Finals appearance | HIGH | Confirmed in prior pipelines |\n| Jodar qualified in his debut year on ATP Tour (historic first) | HIGH | Confirmed in Nov 7 pipeline |\n| Zverev has previously won ATP Finals in 2018 and 2021 (seeking 3rd title) | HIGH | ATP Tour records confirmed in prior pipelines |\n| Zverev is year-end No. 1 | HIGH | Confirmed in prior pipelines |\n| Alcaraz has 5 titles in 2026 (AO, Doha, Tokyo, Vienna, Paris) | HIGH | Confirmed in prior pipelines |\n| Alcaraz has never won ATP Finals | HIGH | ATP Tour records |",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "WTA Finals Day 5 — Two Decisive Matches Today Settle the Final Semifinal Spots",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Two matches Thursday complete the WTA Finals semifinal picture. Gauff vs Pegula in Group 1. Sabalenka vs Svitolina in Group 2. Both pairs are 1-1. Both matches are elimination games. Noskova and Andreeva have their bags packed for the semis. #WTAFinals",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTAFinals"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "Thursday's WTA Finals schedule in Indian Wells is the most important day of the round-robin stage. Both groups decide their second semifinalist on the same day.\n\nIn Group 1, Coco Gauff (1-1) faces Jessica Pegula (1-1). Linda Noskova has already secured the first spot; the winner of this match takes the second. Gauff has been on a good second-half run but lost to Noskova earlier in the week. Pegula beat Kostyuk in straight sets and will be looking to keep the momentum going. Their rivalry is one of tennis's most watched — they know each other's games as well as any two players on tour.\n\nIn Group 2, Aryna Sabalenka (1-1) must bounce back from Wednesday's humbling 6-0 set against Mirra Andreeva to face Elina Svitolina (1-1). Svitolina, who beat Karolina Muchova in three sets on Wednesday, is in form. Sabalenka needs to find the level she showed in her opening win over Muchova. For both players, it is win or go home.\n\nThe WTA Finals semifinals and final run through Sunday, November 15, completing the season-ending event in Indian Wells.\n\nWho are you rooting for to advance: Gauff or Pegula? Sabalenka or Svitolina?",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-wta-finals-day5-preview-pegula-gauff-sabalenka-svitolina.html",
+        "headline": "WTA Finals Day 5: Pegula vs. Gauff and Sabalenka vs. Svitolina Decide the Last Two Semifinal Spots",
+        "word_count": 554
+      },
+      "image_concepts": [
+        {
+          "label": "Image 8",
+          "size_desc": "Coco Gauff",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 9",
+          "size_desc": "Jessica Pegula",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 10",
+          "size_desc": "Elina Svitolina",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WTA Finals Day 5 Preview\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Pegula vs Gauff on Day 5 (Nov 12/13) with both at 1-1 | HIGH | Confirmed from group standings |\n| Sabalenka vs Svitolina on Day 5 (Nov 12/13) with both at 1-1 | HIGH | Confirmed from Day 4 results |\n| Noskova already in semis (2-0 Group 1) | HIGH | Multiple sources |\n| Andreeva already in semis (2-0 Group 2) | HIGH | Multiple Nov 12 sources |\n| Gauff lost to Noskova on Day 3 (6-3, 6-3) | HIGH | Confirmed in Nov 11 pipeline |\n| Sabalenka lost to Andreeva on Day 4 (6-4, 6-0) | HIGH | Multiple Nov 12 sources |",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
