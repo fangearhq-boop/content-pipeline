@@ -2,6 +2,50 @@
 
 ---
 
+## November 12, 2026
+
+### Story 1: Things to Do with Kids in Colorado Springs This Weekend (November 13–15)
+- **Date:** 2026-11-12
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** Weekend Family Roundup (Thursday mandatory). COS Home Show free all weekend at Norris Penrose Event Center. Holiday Character Stroll Sat Nov 14, 11 AM–1 PM, Acacia Park, 115 E. Platte Ave, free. Garden of the Gods History Day Sat Nov 14, 10 AM–2 PM, free. Anastasia Musical Youth Edition at ENT Center/UCCS. Acacia Park ice rink (kids 4 and under free, opened Thu Nov 13). Required springsdaily.com links included.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY (Thursday Weekend Family Roundup)
+
+### Story 2: D11's $775 Million Bond Passes: What It Means for Colorado Springs Schools
+- **Date:** 2026-11-12
+- **Tier:** T1
+- **Pillar:** Local News
+- **Key Facts:** D11 $775M bond approved November 2026 election; first D11 bond since 2006. Holmes Middle School $80M rebuild. MacLaren STEM Academy $24.18M renovations. Citizen oversight committee. Source: Gazette Nov 5, 2026.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 3: AAP: When a Parent Has a Substance Use Disorder, Here's How Pediatricians Can Help
+- **Date:** 2026-11-12
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** AAP guidance Oct 26, 2026 for December 2026 Pediatrics. Nonjudgmental approach. Trusted pediatric relationships support children in affected households. Sources: aap.org, healthychildren.org.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 4: CPSC Recall Alert: HAUOMS 8-Drawer Dresser Poses Tip-Over Risk to Young Children
+- **Date:** 2026-11-12
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** CPSC Recall #27-068, Nov 5, 2026. HAUOMS 8-Drawer Dresser, SKU AJ_DJ504298_1, ~1,392 units, sold Amazon ~$150. Tip-over when drawer extended, crush hazard. Full refund: recall@hauoms.com. Source: cpsc.gov/node/67710.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 5: Thanksgiving in COS: A Prep Guide for Families
+- **Date:** 2026-11-12
+- **Tier:** T2
+- **Pillar:** Evergreen
+- **Key Facts:** Thanksgiving Nov 27. Volunteer at Care and Share Food Bank or Salvation Army COS. Age-appropriate kitchen tasks (2–4, 5–7, 8–11, 12+). Gratitude jar craft (start now, read Nov 27). COS trails: Palmer Park, Red Rock Canyon.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY (Evergreen)
+
+---
+
 ## November 11, 2026
 
 ### Story 1: Veterans Day 2026 — D11, D20, D49 Schools Closed, Free COS Events

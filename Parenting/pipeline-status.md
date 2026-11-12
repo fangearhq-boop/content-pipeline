@@ -1,5 +1,36 @@
 # COS Parenting — Pipeline Status
 
+## Current Run: 2026-11-12
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Weekend events: COS Home Show (Norris Penrose, free, Nov 13–15), Character Stroll (Sat Nov 14, 11 AM–1 PM, Acacia Park, free), Garden of the Gods History Day (Sat Nov 14, 10 AM–2 PM, free), Anastasia Musical (ENT Center/UCCS), ice rink (opened Thu Nov 13, kids 4 under free). D11 $775M bond passed (Gazette Nov 5, Holmes $80M rebuild, MacLaren $24.18M). AAP substance use disorder guidance (Oct 26, 2026, December 2026 Pediatrics). CPSC recall HAUOMS 8-drawer dresser (#27-068, ~1,392 units, Amazon ~$150). Thanksgiving evergreen guide. |
+| Story History Check | COMPLETE | S1 NEW (Thursday Weekend Roundup, mandatory); S2 NEW (D11 bond — first bond since 2006, avoided repeating Nov 10 D11 food pantry story); S3 NEW (AAP substance use guidance); S4 NEW (HAUOMS dresser — 5th CPSC Nov 5 recall, Nov 11 covered 4 others); S5 NEW (Thanksgiving prep guide, evergreen) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 T1, 2 T2); bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags; all CPSC recall claims HIGH from cpsc.gov; D11 bond claims HIGH from Gazette; AAP claims HIGH from aap.org |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows (8 AM, 10 AM, 12 PM, 3 PM, 5 PM), 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts (2 each for S1+S2, 1 each for S3-S5); all ≤280 chars; 4 hashtags each; max 1 exclamation mark; contractions used |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; contractions; max 1 exclamation mark; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only concepts; clean bottom third for text overlay; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Weekend Roundup (Sarah Morales T1 ~550w, 3 springsdaily.com links included); article-02 D11 bond (Jamie Rivera T1 ~650w); article-03 AAP substance use (Sarah Morales T1 ~650w); article-04 HAUOMS recall (Jamie Rivera T2 ~600w, quick reference table); article-05 Thanksgiving guide (Sarah Morales T2 ~700w) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 51 claims auto-extracted by verify-facts.py; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (FB not compiled by script, cosmetic), 5 articles, 5 images; warnings: posting windows cosmetic only |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × x_image + facebook_image), all not_started, gemini base_only, dimensions 1200x675 (X) + 1200x630 (FB), brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| Publish Dashboard | BLOCKED | proxy 403 (known recurring issue — content-dashboards repo not in session's authorized set) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-11-12.xlsx (7 posts) + cosp-postplanner-tobi-2026-11-12.xlsx (7 TOBI posts) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 blocked by proxy (known recurring issue); 5 HTML article drafts ready locally |
+| Story History | COMPLETE | Nov 12 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 7 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+- **PostPlanner exports:** 7 posts standard + 7 TOBI
+- **Key stories:** Thursday Weekend Family Roundup (COS Home Show free all weekend, Character Stroll Sat, Garden of Gods History Day Sat, Anastasia Musical, ice rink open); D11 $775M bond passes (Holmes $80M rebuild, MacLaren $24.18M, first bond since 2006); AAP guidance on pediatricians supporting kids when parent has substance use disorder; CPSC recalls HAUOMS 8-drawer dresser (#27-068, tip-over hazard, full refund); Thanksgiving COS family prep guide (volunteers, kitchen tasks, gratitude jar, Palmer Park hike)
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); manifest image warning in review dashboard (cosmetic)
+
+---
+
 ## Current Run: 2026-11-11
 
 | Step | Status | Notes |

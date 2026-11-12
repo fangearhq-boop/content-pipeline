@@ -1,0 +1,348 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-12",
+  "compiled_at": "2026-11-12T12:29:52.423069+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Things to Do with Kids in Colorado Springs This Weekend (November 13–15)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "🗓️ COS families: free COS Home Show all weekend at Norris Penrose + Character Stroll Sat Nov 14, 11 AM at Acacia Park. See the full weekend guide: [LINK] #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 213
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Garden of the Gods History Day: Sat Nov 14, 10 AM–2 PM, free. Anastasia Musical opens at ENT Center/UCCS this weekend. Lots happening for COS families Nov 13–15. 🎭 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-weekend-family-roundup-november-13-15.html",
+        "headline": "Things to Do with Kids in Colorado Springs This Weekend (November 13–15)",
+        "word_count": 577
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Weekend Family Roundup — November 13–15\n\n#### X Image (1200×675)\n**Prompt:** A warm, inviting scene of a family of four — two parents and two young children — walking along a wide outdoor promenade lined with autumnal trees in golden and amber tones. The sky is bright blue with soft afternoon light. The mood is joyful and relaxed. Art style: lifestyle photography with slightly warm color grading, shallow depth of field. Clear open space in the bottom third of the frame for text overlay. No logos or signage.\n\n#### Facebook Image (1200×630)\n**Prompt:** A collage-style flat lay on a light wooden surface featuring colorful fall-themed family activity items: a small ice skate, a folded event flyer, autumn leaves, and a child's drawing. Soft, natural light from the left. Warm tones — cream, amber, teal. Art style: editorial lifestyle photography. Bottom third of image is clean light surface with no objects, leaving space for text overlay. No people.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Weekend Family Roundup — November 13–15\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Colorado Springs Home Show runs Nov 13–15 at Norris Penrose Event Center | HIGH | COS Home Show organizer site (confirmed in research) |\n| COS Home Show admission is free | HIGH | Confirmed in research |\n| Holiday Character Stroll: Sat Nov 14, 11 AM–1 PM, Acacia Park, free | HIGH | City of COS / Acacia Park event listing |\n| Character Stroll location: Acacia Park, 115 E. Platte Ave | HIGH | City of COS event listing |\n| Garden of the Gods History Day: Sat Nov 14, 10 AM–2 PM, free | HIGH | Garden of the Gods Visitor Center event listing |\n| Anastasia Musical Youth Edition plays Sat Nov 14 and Sun Nov 15 at ENT Center at UCCS | HIGH | ENT Center / UCCS ticketing (confirmed in Nov 11 pipeline — opens Thu Nov 13) |\n| Acacia Park ice rink opened Thu Nov 13; kids 4 and under free | HIGH | Confirmed in Nov 11 pipeline (Parenting S3) |\n| Weekend = Fri Nov 13 through Sun Nov 15 | HIGH | Calendar |",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "D11's $775 Million Bond Passes: What It Means for Colorado Springs Schools",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "D11 voters approved a $775 million school bond — the first since 2006. Holmes Middle School gets an $80M rebuild. Here's what COS families need to know: [LINK] #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 219
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The D11 bond includes a citizen oversight committee to track how $775M is spent. MacLaren STEM gets $24.18M in renovations. Projects could begin in 2027. 🏫 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-d11-bond-colorado-springs-schools.html",
+        "headline": "D11's $775 Million Bond Passes: What It Means for Colorado Springs Schools",
+        "word_count": 613
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 $775 Million Bond Passes\n\n#### X Image (1200×675)\n**Prompt:** An exterior view of a modern, light-filled school building in Colorado in autumn. Yellow and orange maple trees frame the entrance. A wide sidewalk leads to glass double doors. The sky is clear and blue. No students visible. Art style: architectural photography with warm natural light. Clean visual space in the bottom third of the image for text overlay. No school logos or district signage.\n\n#### Facebook Image (1200×630)\n**Prompt:** A bright elementary school classroom with colorful student artwork on the walls, wooden desks arranged in groups, and large windows letting in soft natural light. The room is empty and tidy. Art style: documentary editorial photography, slightly warm tones. Bottom third of frame is a clean, uncluttered floor area suitable for text overlay. No text visible in the frame.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 $775 Million Bond Passes\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| D11 $775 million bond measure passed in November 2026 election | HIGH | Gazette, Nov 5, 2026 |\n| First D11 bond since 2006 | HIGH | Gazette, Nov 5, 2026 |\n| Holmes Middle School rebuild funded at $80 million | HIGH | Gazette, Nov 5, 2026 |\n| MacLaren STEM Academy renovations funded at $24.18 million | HIGH | Gazette, Nov 5, 2026 |\n| Citizen oversight committee to monitor bond spending | HIGH | Gazette, Nov 5, 2026 |\n| Source URL: https://gazette.com/2026/11/05/colorado-springs-district-11-bond-maintains-voter-approval/ | HIGH | Gazette Nov 5, 2026 |",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "| Source URL",
+          "url": "https://gazette.com/2026/11/05/colorado-springs-district-11-bond-maintains-voter-approval/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "AAP: When a Parent Has a Substance Use Disorder, Here's How Pediatricians Can Help",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "New AAP guidance: when a parent has a substance use disorder, the pediatrician's office can be a key support system for kids. Here's what it says for families: [LINK] #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-aap-parent-substance-use-disorder-pediatricians.html",
+        "headline": "AAP: When a Parent Has a Substance Use Disorder, Here's How Pediatricians Can Help",
+        "word_count": 624
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AAP Guidance — Parent Substance Use Disorder\n\n#### X Image (1200×675)\n**Prompt:** A warm, softly lit pediatric office exam room. A wooden table sits against a neutral beige wall. A small stuffed animal and a children's book rest on a side table. No people visible. The mood is calm and reassuring. Art style: lifestyle interior photography with warm tones, soft shadows. Clean space in the bottom third for text overlay. No medical equipment in the foreground.\n\n#### Facebook Image (1200×630)\n**Prompt:** A close-up of two hands — an adult's and a child's — gently clasped together on a neutral linen surface. Soft, diffused natural light from the side. Warm skin tones. Art style: editorial lifestyle photography, shallow depth of field, desaturated background. Clean neutral space in the bottom third for text overlay. No faces visible.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AAP Guidance — Parent Substance Use Disorder\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| AAP published guidance Oct 26, 2026, ahead of December 2026 Pediatrics | HIGH | AAP News Release, aap.org |\n| Guidance calls for nonjudgmental approach by pediatricians | HIGH | AAP News Release, Oct 26, 2026 |\n| Guidance focuses on building trusted relationships with families | HIGH | AAP News Release, Oct 26, 2026 |\n| Children with parents with SUD face elevated risks: developmental delays, trauma, behavioral challenges | HIGH | AAP / Pediatrics December 2026 |\n| Early pediatric intervention can mitigate risks | HIGH | AAP guidance |\n| Source URL: https://www.aap.org/en/news-room/news-releases/aap/2026/ | HIGH | AAP official site |\n| Source URL: https://www.healthychildren.org/English/news/Pages/supporting-children-and-families-affected-by-a-parents-substance-use.aspx | HIGH | HealthyChildren.org (AAP consumer site) |",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "| Source URL",
+          "url": "https://www.aap.org/en/news-room/news-releases/aap/2026/",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md",
+            "articles/article-03-aap-parent-substance-use-disorder-pediatricians.html"
+          ]
+        },
+        {
+          "name": "| Source URL",
+          "url": "https://www.healthychildren.org/English/news/Pages/supporting-children-and-families-affected-by-a-parents-substance-use.aspx",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md",
+            "articles/article-03-aap-parent-substance-use-disorder-pediatricians.html"
+          ]
+        },
+        {
+          "name": "| LOW | Organization | aap | ews Release (Oct 26, 2026)",
+          "url": "https://www.aap.org/en/news",
+          "official": true,
+          "found_in": [
+            "06-fact-check-log.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "CPSC Recall Alert: HAUOMS 8-Drawer Dresser Poses Tip-Over Risk to Young Children",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "⚠️ CPSC Recall #27-068: HAUOMS 8-drawer dressers (sold on Amazon ~$150) tip over when a drawer is extended — crush hazard for kids. Stop using it. Refund: email recall@hauoms.com #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#27",
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-cpsc-recall-hauoms-dresser-tip-over.html",
+        "headline": "CPSC Recall Alert: HAUOMS 8-Drawer Dresser Poses Tip-Over Risk to Young Children",
+        "word_count": 530
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CPSC HAUOMS Dresser Recall\n\n#### X Image (1200×675)\n**Prompt:** A wooden eight-drawer dresser in a neutral-toned child's bedroom, positioned against a plain white wall. A small stuffed bear sits on top of the dresser. The room is tidy. Art style: interior lifestyle photography, clean and bright, natural light from the left. The bottom third of the frame shows a clean hardwood floor with no objects, suitable for text overlay. No safety anchors visible — the point is the unanchored dresser.\n\n#### Facebook Image (1200×630)\n**Prompt:** A wide angle shot of a child's bedroom with a wooden dresser against the far wall. A plush rug covers most of the floor. Soft warm light from a window on the right. The mood is calm but slightly alert — a parenting safety reminder context. Art style: lifestyle editorial photography. Bottom third is clean floor space, suitable for text overlay. No text or logos in the frame.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CPSC HAUOMS Dresser Recall\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Recall #27-068 issued November 5, 2026 | HIGH | CPSC.gov |\n| Product: HAUOMS 8-Drawer Dresser | HIGH | CPSC.gov recall page |\n| Units recalled: approximately 1,392 | HIGH | CPSC.gov |\n| Sold on Amazon for approximately $150 | HIGH | CPSC.gov |\n| SKU / Model: AJ_DJ504298_1 | HIGH | CPSC.gov |\n| Hazard: dresser tips over when drawer is extended | HIGH | CPSC.gov |\n| Risk: crush hazard to young children | HIGH | CPSC.gov |\n| Remedy: full refund; email photo to recall@hauoms.com | HIGH | CPSC.gov |\n| Source URL: https://www.cpsc.gov/node/67710 | HIGH | CPSC.gov official |",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "| Source URL",
+          "url": "https://www.cpsc.gov/node/67710",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md",
+            "articles/article-04-cpsc-recall-hauoms-dresser-tip-over.html"
+          ]
+        },
+        {
+          "name": "- CPSC Recall #27-068",
+          "url": "https://www.cpsc.gov/node/6",
+          "official": true,
+          "found_in": [
+            "06-fact-check-log.md"
+          ],
+          "publisher": "| LOW | Organization | cpsc | s"
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Thanksgiving in COS: A Family Prep Guide for November 27",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Thanksgiving is two weeks out. COS families: Care and Share Food Bank and Salvation Army need volunteers. Plus age-appropriate kitchen tasks for kids and a gratitude jar craft to start this week. 🦃 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-thanksgiving-colorado-springs-families-guide.html",
+        "headline": "From Gratitude Jars to Giving Back: A Thanksgiving Prep Guide for Colorado Springs Families",
+        "word_count": 896
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Thanksgiving COS Family Guide\n\n#### X Image (1200×675)\n**Prompt:** A family gathered in a cozy kitchen preparing Thanksgiving food. Two children — ages approximately 6 and 10 — stand at a wooden kitchen island helping an adult roll dough and arrange vegetables. Warm ambient light from above. Autumn colors: burnt orange, deep red, cream, and warm brown tones throughout the kitchen. Art style: warm editorial lifestyle photography, natural light. Clean lower third near the countertop edge for text overlay. No faces clearly visible.\n\n#### Facebook Image (1200×630)\n**Prompt:** A close-up of a mason jar filled with small folded slips of paper — a gratitude jar — sitting on a wooden table alongside dried autumn leaves, a small pumpkin, and a lit pillar candle. Warm bokeh background. Art style: cozy editorial photography, golden hour tones. The bottom third of the frame is clean table surface suitable for text overlay. No text on any items in the frame."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Thanksgiving COS Family Guide (Evergreen)\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Thanksgiving 2026 is November 27 | HIGH | Calendar |\n| Care and Share Food Bank accepts Thanksgiving volunteers in COS | HIGH | Established program, confirmed annually |\n| Salvation Army operates Thanksgiving meal programs in COS | HIGH | Established program |\n| Gratitude jar / kitchen activities are widely recommended age-appropriate practices | LOW | General parenting guidance (evergreen) |",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
