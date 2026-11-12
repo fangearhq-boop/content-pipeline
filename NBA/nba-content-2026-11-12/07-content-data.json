@@ -1,0 +1,321 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-12",
+  "compiled_at": "2026-11-12T11:19:06.984939+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Spurs 124, Bulls 119 — Wembanyama Leads 10th Straight Win With 32-Point Night",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "**Post 1 (Angle: Streak)**\nPosting window: 9:00 AM ET\n\nWembanyama dropped 32 and the Spurs overcame a 22-point deficit to beat Chicago 124-119. That's 10 straight wins for San Antonio. This team is the real deal. #GoSpursGo #NBA\n\nCharacter count: 174 ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GoSpursGo",
+            "#NBA"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-wembanyama-spurs-10-game-win-streak.html",
+        "headline": "Wembanyama Drops 32 as Spurs Overcome 22-Point Deficit for 10th Straight Win",
+        "word_count": 571
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Spurs 124, Bulls 119 — 10-Game Win Streak\n\n**Image Concept 1 (Social — 1080x1350):**\n- **Search terms (imagn):** Victor Wembanyama San Antonio Spurs\n- **Description:** Wembanyama in full celebration after a big basket — arms raised, crowd behind him. Dark background with Spurs silver-and-black jersey prominent.\n- **Text overlay (Canva):** \"10 STRAIGHT\" in large bold type, \"SPURS WIN 124-119\" below, Hoop Heroes logo\n\n**Image Concept 2 (Social — 1080x1350):**\n- **Search terms (imagn):** Victor Wembanyama San Antonio Spurs\n- **Description:** Wembanyama mid-game pose, intense expression, court action\n- **Text overlay (Canva):** \"32 PTS | DOWN 22 | STILL WINNING\" stacked text, Spurs black background\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Spurs 124, Bulls 119 — 10-Game Winning Streak\n**Key Facts (HIGH confidence — from game recap sources):**\n- Final score: San Antonio Spurs 124, Chicago Bulls 119\n- Date: Wednesday, November 11, 2026\n- Victor Wembanyama scored 32 points\n- Spurs trailed by 22 points at some point in the game\n- San Antonio completed the comeback to win and extend their streak to 10 games\n- Spurs winning streak now at 10 games (previous: 6-game streak by Nov. 4, then extended to 7, 8, 9, 10)\n- Recent context: Wembanyama scored a career-high 52 points on Nov. 4 vs. Dallas for win No. 6\n**Sources:**\n- ESPN recap (Spurs 124, Bulls 119)\n- Earlier streak context: https://www.audacy.com/knss/sports/spurs-wembanyama-0f27566857f479d2d5a7f4813e724add\n- https://www.smdailyjournal.com/sports/wembanyama-has-28-points-15-rebounds-to-lead-spurs-to-eighth-straight-win-139-122",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Earlier streak context",
+          "url": "https://www.audacy.com/knss/sports/spurs-wembanyama-0f27566857f479d2d5a7f4813e724add",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "smdailyjournal.com",
+          "url": "https://www.smdailyjournal.com/sports/wembanyama-has-28-points-15-rebounds-to-lead-spurs-to-eighth-straight-win-139-122",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Lakers 123, Bucks 112 — Luka's 32 Points Put LA at League-Best 11-2",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "**Post 1 (Angle: Luka / Lakers rise)**\nPosting window: 1:00 PM ET\n\nLuka: 32 points. Lakers: 11-2 — best record in the NBA. LA is rolling and there is no sign of a slowdown. #LakeShow #NBA\n\nCharacter count: 122 ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LakeShow",
+            "#NBA"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-luka-lakers-11-2-bucks-1-11.html",
+        "headline": "Luka Dončić Drops 32 as Lakers Reach League-Best 11-2, Bucks Sink to 1-11",
+        "word_count": 578
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Lakers 123, Bucks 112 — Lakers 11-2\n\n**Image Concept 1 (Social — 1080x1350):**\n- **Search terms (imagn):** Luka Doncic Los Angeles Lakers\n- **Description:** Luka in Lakers gold jersey, attacking the basket or hit a big shot moment\n- **Text overlay (Canva):** \"11-2 | BEST IN THE NBA\" in gold and purple, \"LUKA: 32 PTS\"\n\n**Image Concept 2 (Social — 1080x1350):**\n- **Search terms (imagn):** Luka Doncic Los Angeles Lakers\n- **Description:** Luka dribbling or in transition, full-court energy shot\n- **Text overlay (Canva):** \"LAKERS WIN\" large, \"7-GAME WIN STREAK\" below\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Lakers 123, Bucks 112 — Lakers to 11-2\n**Key Facts (HIGH confidence):**\n- Final score: Los Angeles Lakers 123, Milwaukee Bucks 112\n- Date: Wednesday, November 11, 2026\n- Luka Dončić led the Lakers with 32 points\n- Lakers improved to 11-2 — league-best record\n- Lakers on a seven-game winning streak\n- Milwaukee Bucks fell to 1-11\n**Sources:**\n- ESPN recap (Lakers 123, Bucks 112): https://www.espn.com/nba/recap?gameId=401909971\n- CBS Sports gametracker: https://www.cbssports.com/nba/gametracker/recap/NBA_20261111_LAL@MIL/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "ESPN recap (Lakers 123, Bucks 112)",
+          "url": "https://www.espn.com/nba/recap?gameId=401909971",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "CBS Sports gametracker",
+          "url": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261111_LAL@MIL/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Celtics 98, Raptors 93 — Tatum's Late Free Throws Seal Comeback",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "**Post 1 (Angle: Comeback win)**\nPosting window: 7:00 PM ET\n\nTatum hit the go-ahead free throws with 25 seconds left. Boston was down 22. Final: Celtics 98, Raptors 93. Five-game win streak. These Celtics do not quit. #BleedGreen #NBA\n\nCharacter count: 174 ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BleedGreen",
+            "#NBA"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-celtics-comeback-tatum-raptors.html",
+        "headline": "Tatum's Clutch Free Throws Seal 22-Point Comeback as Celtics Down Raptors 98-93",
+        "word_count": 516
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Celtics 98, Raptors 93 — Comeback Win\n\n**Image Concept 1 (Social — 1080x1350):**\n- **Search terms (imagn):** Jayson Tatum Boston Celtics\n- **Description:** Tatum at the free-throw line or in clutch-moment pose, focused expression\n- **Text overlay (Canva):** \"DOWN 22. WON BY 5.\" large text, Celtics green background\n\n**Image Concept 2 (Social — 1080x1350):**\n- **Search terms (imagn):** Jayson Tatum Boston Celtics\n- **Description:** Tatum celebrating or pumping fist after a big play\n- **Text overlay (Canva):** \"5-GAME WIN STREAK\" header, \"98-93 COMEBACK\" supporting text\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Celtics 98, Raptors 93 — Comeback Win\n**Key Facts (HIGH confidence):**\n- Final score: Boston Celtics 98, Toronto Raptors 93\n- Date: Wednesday, November 11, 2026\n- Jayson Tatum hit the tying and go-ahead free throws with 25.2 seconds remaining\n- Celtics came back from 22 points down\n- Boston extended winning streak to five games\n**Sources:**\n- CBS Sports gametracker: https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261111_BOS@TOR/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "CBS Sports gametracker",
+          "url": "https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261111_BOS@TOR/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Rockets 115, Warriors 108 — Houston Ends Golden State's 8-Game Win Streak",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "**Post 1 (Angle: Houston ends Golden State's run)**\nPosting window: 9:30 PM ET\n\nHouston 115, Golden State 108. The Rockets ended the Warriors' 8-game winning streak. KD dropped 20. The West got more interesting last night. #Rockets #NBA\n\nCharacter count: 160 ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rockets",
+            "#NBA"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-rockets-end-warriors-8-game-streak.html",
+        "headline": "Houston Ends Golden State's 8-Game Winning Streak, 115-108",
+        "word_count": 480
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rockets 115, Warriors 108 — Streak Ended\n\n**Image Concept 1 (Social — 1080x1350):**\n- **Search terms (imagn):** Kevin Durant Houston Rockets\n- **Description:** Durant in Rockets jersey, mid-shot or post-basket celebration\n- **Text overlay (Canva):** \"STREAK STOPPED\" large text, \"HOU 115 | GS 108\"\n\n**Image Concept 2 (Social — 1080x1350):**\n- **Search terms (imagn):** Kevin Durant Houston Rockets\n- **Description:** Durant driving or shooting, side profile, action shot\n- **Text overlay (Canva):** \"KD: 20 PTS\" header, \"ROCKETS SNAP WARRIORS 8-GAME STREAK\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Rockets 115, Warriors 108 — Ending Golden State's Streak\n**Key Facts (HIGH confidence):**\n- Final score: Houston Rockets 115, Golden State Warriors 108\n- Date: Wednesday, November 11, 2026\n- Kevin Durant scored 20 points for Houston\n- The win ended Golden State's eight-game winning streak\n**Sources:**\n- ESPN recap: https://www.espn.com/nba/recap?gameId=401909974",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "ESPN recap",
+          "url": "https://www.espn.com/nba/recap?gameId=401909974",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Cavaliers 115, Knicks 107 — Harden Drops Season-High 32 as Cleveland Surges",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "**Post 1 (Angle: Harden season-high)**\nPosting window: 11:00 AM ET\n\nJames Harden: season-high 32 points at Madison Square Garden. Cavaliers 115, Knicks 107. Harden reminded everyone he is still got it. #BeTheFight #NBA\n\nCharacter count: 158 ✓",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BeTheFight",
+            "#NBA"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-harden-season-high-cavaliers-knicks.html",
+        "headline": "Harden Drops Season-High 32 as Cavaliers Beat Knicks 115-107 at the Garden",
+        "word_count": 527
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cavaliers 115, Knicks 107 — Harden 32\n\n**Image Concept 1 (Social — 1080x1350):**\n- **Search terms (imagn):** James Harden Cleveland Cavaliers\n- **Description:** Harden driving to the basket or post-score reaction at MSG\n- **Text overlay (Canva):** \"SEASON HIGH: 32 PTS\" large, \"CAVS 115 | KNICKS 107\"\n\n**Image Concept 2 (Social — 1080x1350):**\n- **Search terms (imagn):** James Harden Cleveland Cavaliers\n- **Description:** Harden mid-celebration or walking away from basket\n- **Text overlay (Canva):** \"JAMES HARDEN IS BACK\" large bold text, Cavaliers wine-and-gold background"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cavaliers 115, Knicks 107 — Harden's Big Night\n**Key Facts (HIGH confidence):**\n- Final score: Cleveland Cavaliers 115, New York Knicks 107\n- Date: Wednesday, November 11, 2026\n- James Harden scored a season-high 32 points\n- Cleveland moved to 6-6\n- New York dropped to 6-5\n**Sources:**\n- CBS Sports gametracker: https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261111_CLE@NY/\n- NBA.com recap: https://www.nba.com/watch/video/game-recap-cavaliers-115-knicks-107-nov-11",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "CBS Sports gametracker",
+          "url": "https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261111_CLE@NY/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "NBA.com recap",
+          "url": "https://www.nba.com/watch/video/game-recap-cavaliers-115-knicks-107-nov-11",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

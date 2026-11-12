@@ -2,6 +2,45 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-11-12 Stories
+
+### STORY 1: Spurs 124, Bulls 119 — Wembanyama 32, 10-Game Win Streak
+- **Tier:** 1
+- **Category:** San Antonio Spurs / Chicago Bulls / Victor Wembanyama
+- **Key facts:** Wemby 32 pts; overcame 22-point deficit; Spurs 10-game win streak; San Antonio 10-3
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Lakers 123, Bucks 112 — Luka 32, Lakers to League-Best 11-2
+- **Tier:** 1
+- **Category:** Los Angeles Lakers / Milwaukee Bucks / Luka Dončić
+- **Key facts:** Luka 32 pts; Lakers 11-2 (league best); Lakers 7-game win streak; Bucks 1-11
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Celtics 98, Raptors 93 — Tatum Clutch Free Throws, Comeback From 22 Down
+- **Tier:** 2
+- **Category:** Boston Celtics / Toronto Raptors / Jayson Tatum
+- **Key facts:** Tatum go-ahead FTs with 25.2s left; came back from 22 down; Celtics 5-game win streak
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: Rockets 115, Warriors 108 — Houston Ends Golden State's 8-Game Win Streak
+- **Tier:** 2
+- **Category:** Houston Rockets / Golden State Warriors / Kevin Durant
+- **Key facts:** KD 20 pts; Rockets end Warriors 8-game win streak; Warriors streak snapped
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: Cavaliers 115, Knicks 107 — Harden Season-High 32 at MSG
+- **Tier:** 2
+- **Category:** Cleveland Cavaliers / New York Knicks / James Harden
+- **Key facts:** Harden season-high 32 pts; Cavs 6-6; Knicks 6-5; win at Madison Square Garden
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+---
+
 ## 2026-11-11 Stories
 
 ### STORY 1: Celtics 123, 76ers 101 — Paul George 36 Pts in Return to Philly
