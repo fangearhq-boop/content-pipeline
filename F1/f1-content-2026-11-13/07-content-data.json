@@ -1,0 +1,305 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-13",
+  "compiled_at": "2026-11-13T11:23:16.823594+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Norris Wins Sao Paulo GP — Mercedes Seal Constructors' Title",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "NINE-TIME CONSTRUCTORS' CHAMPIONS. 🏆🏆🏆🏆🏆🏆🏆🏆🏆\n\nMercedes clinches the 2026 F1 Constructors' title at Interlagos.\n\nRussell 4th. Antonelli 5th. Championship sealed.\n\nThe Silver Arrows are still in a class of their own.\n\n#F1 #BrazilGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BrazilGP"
+          ],
+          "char_count": 229
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Lando Norris wins the 2026 São Paulo Grand Prix from pole. 🏁\n\nRace time: 1:35:23 | Winning margin: 14.6 sec\n\nHis 3rd win of the season. McLaren flying.\n\n#F1 #BrazilGP #McLaren",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BrazilGP",
+            "#McLaren"
+          ],
+          "char_count": 175
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-norris-wins-sao-paulo-mercedes-constructors-title.html",
+        "headline": "Norris Dominates São Paulo GP as Mercedes Clinch Their Ninth Constructors' Title",
+        "word_count": 485
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen's 21st-to-2nd Drive — São Paulo Masterclass",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "21st on the grid.\n2nd at the flag.\n\nMax Verstappen in Brazil. That's just what he does.\n\nA second place in those conditions, from that position, is as good as a win for the championship battle.\n\n#F1 #BrazilGP #MaxVerstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BrazilGP",
+            "#MaxVerstappen"
+          ],
+          "char_count": 223
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Verstappen climbed 19 places in Brazil. Still trails Antonelli 279-390 with 75 pts left.\n\nThe math is merciless. But the drives are masterful.\n\n#F1 #BrazilGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BrazilGP"
+          ],
+          "char_count": 157
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-verstappen-21st-to-2nd-sao-paulo-masterclass.html",
+        "headline": "Verstappen's São Paulo Masterclass: From 21st to Second in 71 Laps",
+        "word_count": 471
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Las Vegas GP Preview — The Final Sprint Begins",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Next stop: Las Vegas. 🎰🏎️\n\nFormula 1 hits the Strip on November 20-22. No Sprint race — just 50 laps of the most glamorous circuit on the calendar.\n\nNorris leads into Vegas. Verstappen needs everything to go right.\n\n#F1 #LasVegasGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-las-vegas-gp-2026-preview.html",
+        "headline": "Las Vegas GP 2026 Preview: 50 Laps on the Strip with Everything Still to Fight For",
+        "word_count": 460
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Antonelli's Championship Lead — Can Anyone Catch Him?",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Kimi Antonelli: 390 points.\nMax Verstappen: 279 points.\nPoints remaining: 75.\n\nThe 2026 F1 World Championship is Antonelli's. The math is done. \n\nWhat a season for the young Mercedes star. 🏆\n\n#F1 #F12026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F12026"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-antonelli-2026-f1-world-champion.html",
+        "headline": "Kimi Antonelli Is the 2026 F1 World Champion — The Math Says So",
+        "word_count": 450
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "F1 Paddock Notebook — Lawson 2027, Piastri Split, Season Finale",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "F1 paddock updates:\n\n🔵 Oscar Piastri splits with manager Mark Webber\n🔵 Liam Lawson likely to stay at Racing Bulls for 2027\n🔵 Qatar & Abu Dhabi close the 2026 season\n\nBusy inter-race week in F1. 🏎️\n\n#F1 #F12026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F12026"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-f1-paddock-notebook-piastri-webber-lawson.html",
+        "headline": "F1 Paddock Notebook: Piastri Splits with Webber, Lawson Stays at Racing Bulls",
+        "word_count": 465
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -2,6 +2,45 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-11-13 Stories
+
+### STORY 1: Norris Wins Sao Paulo GP — Mercedes Clinch 9th Constructors' Title
+- **Tier:** 1
+- **Category:** McLaren / Mercedes / Lando Norris / Kimi Antonelli
+- **Key facts:** Norris wins from pole, 1:35:23.504, 14.6 sec margin; Verstappen 2nd; Hadjar 3rd; Russell 4th, Antonelli 5th; Mercedes clinch 9th constructors' title; Norris 3rd win of 2026; Hamilton 9th for Ferrari
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: Verstappen 21st → 2nd — Sao Paulo Masterclass
+- **Tier:** 1
+- **Category:** Max Verstappen / Red Bull Racing / São Paulo Grand Prix
+- **Key facts:** Started 21st, finished 2nd; 19-place recovery; 8 sec gap to nearest Red Bull after 2nd pit stop; stands 279 pts vs Antonelli 390 pts, gap 111 pts, 75 remaining
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Las Vegas GP Preview — Nov 20-22
+- **Tier:** 2
+- **Category:** Las Vegas Grand Prix / F1 Preview
+- **Key facts:** Race Nov 20-22; Strip Circuit 6.201 km; 50 laps; no Sprint; qualifying Saturday Nov 21; championship battle for P2 (Norris vs Verstappen)
+- **Byline:** Elena Voss
+- **Status:** NEW
+
+### STORY 4: Antonelli 2026 F1 World Champion Confirmed
+- **Tier:** 2
+- **Category:** Kimi Antonelli / Mercedes / 2026 Drivers Championship
+- **Key facts:** 390 pts, leads by 111 pts, 75 remaining, mathematically confirmed; 3 races left (Las Vegas, Qatar, Abu Dhabi)
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: F1 Paddock Notebook — Piastri/Webber Split, Lawson 2027
+- **Tier:** 2
+- **Category:** Racing Bulls / Liam Lawson / Oscar Piastri / Mark Webber
+- **Key facts:** Piastri confirmed split from manager Webber; Lawson likely retained at Racing Bulls for 2027 (Permane preference); Mekies: team makes own decisions
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+---
+
 ## 2026-11-12 Stories
 
 ### STORY 1: Las Vegas GP Preview — Norris vs. Verstappen for P2 on the Strip
