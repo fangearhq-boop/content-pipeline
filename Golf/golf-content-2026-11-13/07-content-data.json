@@ -1,0 +1,307 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-13",
+  "compiled_at": "2026-11-13T11:28:10.323441+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Austin Championship — Round 2 Underway in Texas",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Round 2 is underway at the Austin Championship. 🏌️\n\nErik van Rooyen and Max Greyserman co-led after R1 at -8.\n\n$6 million on the line. Fazio Canyons Course, Austin, Texas. Through Sunday.\n\n#AustinChampionship #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AustinChampionship",
+            "#PGATour"
+          ],
+          "char_count": 217
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Van Rooyen's on the leaderboard AND in the headlines this week.\n\nThe South African leads the Austin Championship at -8 after Round 1 — and he's also been vocal about where LIV players should line up to come back.\n\nA very busy week. ⛳️\n\n#AustinChampionship #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AustinChampionship",
+            "#PGATour"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-austin-championship-round-2-van-rooyen-leads.html",
+        "headline": "Austin Championship Round 2: Van Rooyen and Greyserman Co-Lead at the Fazio Canyons Course",
+        "word_count": 428
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "LIV Golf Shutdown Confirmed — The Five-Year Experiment Is Over",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "LIV Golf is officially done.\n\nThe Saudi-backed league announced its dissolution on Nov 5, 2026 — ending a 5-year experiment that reshaped professional golf.\n\nNo formal return plan from the PGA Tour yet.\n\nWhere do they go? ⛳️\n\n#LIVGolf #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#Golf"
+          ],
+          "char_count": 240
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Five years. 54 events. Billions of dollars.\n\nLIV Golf is folding. The Saudi PIF pulled funding. The players are on their own.\n\nThis is the biggest off-course story in golf since... well, LIV Golf started.\n\n#LIVGolf #PGATour #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#PGATour",
+            "#Golf"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-liv-golf-shutdown-confirmed.html",
+        "headline": "LIV Golf Is Done: Five-Year Experiment Ends as Saudi PIF Withdraws Funding",
+        "word_count": 451
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "ANNIKA at Pelican — LPGA's Penultimate Event Heats Up",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Round 2 at the ANNIKA driven by Gainbridge at Pelican in Belleair, FL. ⛳️\n\n$3.25 million LPGA purse. Penultimate event of the 2026 season.\n\nThe player-of-year race is very much alive heading into the final stretch. 🏆\n\n#LPGA #TheANNIKA #WomensGolf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#TheANNIKA",
+            "#WomensGolf"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-annika-at-pelican-round-2-lpga.html",
+        "headline": "ANNIKA at Pelican Enters Round 2 — LPGA's Penultimate Event Heats Up in Belleair",
+        "word_count": 419
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Van Rooyen Doubles Down — LIV Players Should Earn Their Way Back",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Erik van Rooyen isn't backing down.\n\nThe PGA Tour player says LIV Golf pros should have to go through qualifying school to get their Tour cards back.\n\n\"Shouldn't we just follow the rules?\"\n\nYour thoughts? ⬇️\n\n#PGATour #LIVGolf #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#LIVGolf",
+            "#Golf"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-van-rooyen-liv-players-qschool.html",
+        "headline": "Van Rooyen Doubles Down: LIV Players Should Earn PGA Tour Status Back Through Q-School",
+        "word_count": 461
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Post-LIV Landscape — Where Do the Players Go from Here?",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "LIV Golf is gone. Now what?\n\nOptions for former LIV players:\n📋 PGA Tour Q-School\n🌍 DP World Tour (top 10 earn PGA Tour cards)\n🤷 Independent events\n\nThe 2027 golf calendar just got a lot more complicated. \n\n#Golf #LIVGolf #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Golf",
+            "#LIVGolf",
+            "#PGATour"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-post-liv-golf-landscape-2027.html",
+        "headline": "Life After LIV: Where Do Golf's Exiled Players Go in 2027?",
+        "word_count": 534
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

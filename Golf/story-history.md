@@ -2,6 +2,45 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-11-13 Stories
+
+### STORY 1: Austin Championship Round 2 — Van Rooyen and Greyserman Co-Lead at -8
+- **Tier:** 1
+- **Category:** PGA Tour / Austin Championship / Erik van Rooyen / Max Greyserman
+- **Key facts:** Round 2 underway Nov 13; Fazio Canyons Course, Omni Barton Creek, Austin TX; $6M purse; Nov 12-15; van Rooyen and Greyserman co-led after R1 at -8 (64)
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: LIV Golf Shutdown Confirmed — 5-Year Experiment Ends
+- **Tier:** 1
+- **Category:** LIV Golf / PGA Tour / Golf Industry
+- **Key facts:** LIV announced dissolution Nov 5, 2026; Saudi PIF pulled funding; league ran 2022-2026; 54 events; moving toward liquidation; PGA Tour no formal return plan yet
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 3: ANNIKA at Pelican Round 2 — LPGA Penultimate Event
+- **Tier:** 2
+- **Category:** LPGA / ANNIKA driven by Gainbridge / Pelican Golf Club
+- **Key facts:** Round 2 underway Nov 13; Pelican Golf Club, Belleair FL; $3.25M purse; Nov 12-15; penultimate LPGA event of 2026 (season ends Nov 22)
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 4: Van Rooyen — LIV Players Should Go Through Q-School
+- **Tier:** 2
+- **Category:** LIV Golf / PGA Tour / Erik van Rooyen
+- **Key facts:** Van Rooyen doubled down on Q-School stance; "Shouldn't we just follow the rules?"; leading Austin Championship at -8
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: Post-LIV Landscape — Where Do Players Go in 2027?
+- **Tier:** 2
+- **Category:** LIV Golf / PGA Tour / DP World Tour
+- **Key facts:** Options: Q-School, DP World Tour (top 10 earn PGA Tour cards), no PGA Tour official reinstatement policy yet; 2027 landscape being reshuffled
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+---
+
 ## 2026-11-12 Stories
 
 ### STORY 1: LIV Golf Is Done — Wind-Down Confirmed, Liquidation Plan Filed
