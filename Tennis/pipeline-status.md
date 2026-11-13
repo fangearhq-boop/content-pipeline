@@ -1,5 +1,36 @@
 # Tennis Fanrecap — Pipeline Status
 
+## Current Run: 2026-11-13
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | WTA Finals Day 5 Group 1: Pegula d. Noskova 7-6(2), 4-6, 7-5 (2h46m, saved match point, 16 aces; Noskova 15 DFs; Gauff eliminated on H2H tiebreak despite Kostyuk win); Group 2 decider today: Sabalenka vs Svitolina (noon PT, both 1-1); ATP Finals Day 1 schedule: Zverev vs Jodar 2pm CET, Fils vs Shelton 8:30pm CET; Alcaraz opens Day 2 Monday vs Tiafoe. Sources: NBC Sports, ESPN, Sky Sports, Al Jazeera, Tennis Majors, ATP Tour official |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Nov 12 S5: Day 5 preview → Group 1 result); S2 FOLLOW-UP (Nov 12 S3+S5: Sabalenka ranking + Day 5 preview → Group 2 decider today); S3 FOLLOW-UP (Nov 12 S4: group preview → Day 1 schedule confirmed); S4 FOLLOW-UP (Nov 13 S1: results → semi matchups); S5 FOLLOW-UP (Nov 12 S4: group preview → H2H deep dive) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 T1, 2 T2); bylines: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; all Pegula/Noskova facts HIGH from multiple Nov 13 sources; ATP Finals Day 1 schedule HIGH from ATP Tour official; Sabalenka H2H vs Svitolina MEDIUM (pre-match preview single source) |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories (2 each for S1+S2, 1 each for S3-S5); all ≤280 chars (232, 210, 203, 207, 191, 191, 203) |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories; player-name-only search terms |
+| Articles (5) | COMPLETE | article-01 Pegula match point WTA Finals semis (Ryan Calloway T1 ~550w); article-02 Sabalenka-Svitolina decider (Elena Voss T1 ~550w); article-03 ATP Finals Day 1 schedule (Marcus Cole T1 ~600w); article-04 WTA Finals semi preview (Ryan Calloway T2 ~550w); article-05 ATP Finals H2H preview (Elena Voss T2 ~600w) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 50 claims auto-extracted; all stories present in all content files; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 10 images; posting window warnings cosmetic |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-11-13.xlsx (7 posts) + tfr-postplanner-tobi-2026-11-13.xlsx (7 TOBI posts) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 13 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 7 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3])
+- **PostPlanner exports:** 7 posts standard + 7 TOBI
+- **Key stories:** WTA Finals Day 5 — Pegula saves match point vs Noskova 7-6(2) 4-6 7-5, eliminates Gauff on H2H tiebreak; Sabalenka vs Svitolina Group 2 decider today (noon PT); ATP Finals Day 1 schedule: Zverev vs Jodar 2pm CET + Fils vs Shelton 8:30pm CET; WTA Finals semis Saturday (Andreeva vs Pegula confirmed); ATP Finals H2H preview (Zverev 4-0 Shelton, Alcaraz vs Medvedev Grand Slam rematch)
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known)
+
+---
+
 ## Current Run: 2026-11-12
 
 | Step | Status | Notes |

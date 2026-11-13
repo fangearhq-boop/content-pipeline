@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## November 13, 2026
+
+| 2026-11-13 | Pegula saves match point, eliminates Gauff — WTA Finals Day 5 Group 1 result: Pegula d. Noskova 7-6(2), 4-6, 7-5 in 2h46m (saved match point, 16 aces; Noskova 15 DFs); Gauff beat Kostyuk 6-4, 7-5 but eliminated on H2H tiebreak; Noskova + Pegula in semis. Sources: NBC Sports, ESPN, Sky Sports, Al Jazeera, Tennis Majors (Nov 13) | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Nov 12 S5: Day 5 preview → Day 5 Group 1 result) |
+| 2026-11-13 | Sabalenka vs Svitolina Group 2 decider today (Friday Nov 13, noon PT) — winner into WTA Finals semis vs Noskova; loser out; Sabalenka year-end No. 2 ranking also at stake; Svitolina came back from set down vs Muchova; Sabalenka recovering from 6-0 bagel by Andreeva. Sources: Sky Sports, WTA Finals official schedule | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 12 S3: Sabalenka ranking + Nov 12 S5: Day 5 preview) |
+| 2026-11-13 | ATP Finals Day 1 schedule confirmed — Zverev vs Jodar not before 2pm CET (McEnroe Group); Fils vs Shelton 8:30pm CET; Alcaraz opens Day 2 Monday vs Tiafoe; Jodar first player ever to qualify in debut tour year. Sources: ATP Tour official (atptour.com + nittoatpfinals.com), tennisnow.com, tennistemple.com | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Nov 12 S4: group preview → Day 1 schedule) |
+| 2026-11-13 | WTA Finals semi preview — Andreeva vs Pegula Saturday confirmed (1st career meeting); Noskova's opponent TBD (Sabalenka or Svitolina); semis Sat Nov 14 noon PT; Final Sun Nov 15 Indian Wells. Sources: WTA Tennis official Nov 13 | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Nov 13 S1: Day 5 results → semi matchups) |
+| 2026-11-13 | ATP Finals H2H preview — McEnroe Group: Zverev 4-0 vs Shelton (last: 2026 US Open final, 5 sets); Lendl Group: Alcaraz vs Medvedev Grand Slam final rematch (2023 USO); debutants Cobolli, Tiafoe, Fils, Jodar; tournament Sunday Nov 15. Sources: Multiple ATP Finals preview sources; Zverev-Shelton H2H from Tennis365/atptour.com | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 12 S4: group preview → H2H deep dive) |
+
+---
+
+
 ## November 12, 2026
 
 | 2026-11-12 | WTA Finals Day 4 recap + Day 5 preview — Andreeva stuns Sabalenka 6-4, 6-0 in 62 min (came back from 1-4 down, won last 11 games, Day 4 Nov 11); Svitolina beat Muchova 3 sets (Svitolina 1-1, Muchova 0-2 eliminated); Group 2 standings: Andreeva 2-0 (semi), Sabalenka/Svitolina 1-1 (Group 2 decider Thursday); Group 1 decider also Thursday (Pegula/Gauff both 1-1, Noskova through 2-0). Sources: Tribune.net.ph, Gulf News, Japan Times, Manila Times (all Nov 12) | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Nov 11 S1: WTA Finals Day 3 recap + Day 4 preview → Day 4 results) |
