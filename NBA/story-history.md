@@ -2,6 +2,45 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-11-13 Stories
+
+### STORY 1: Cunningham 52 Career High — Pistons 144, Wizards 140 (2OT)
+- **Tier:** 1
+- **Category:** Detroit Pistons / Washington Wizards / Cade Cunningham
+- **Key facts:** 52 pts/11 ast/0 TO; 16-25 FG; first 50/10/0 TO game since 1977-78; third Piston with 50-pt double-double (Yardley, Griffin); Trae Young 37/14 for WAS; Anthony Davis 30/15; Pistons win 144-140 2OT
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Timberwolves 133, Mavericks 94 — 5-Game Win Streak
+- **Tier:** 1
+- **Category:** Minnesota Timberwolves / Dallas Mavericks / LaMelo Ball
+- **Key facts:** 39-pt blowout, most lopsided win of season; LaMelo 22 pts/9 ast/6 3PM; Hyland 24 off bench; Flagg held to 12 (had 43 Nov 10); Kyrie 10; Risacher 22 for DAL; MIN 9-3, DAL 7-5
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: 76ers 123, Raptors 112 — Maxey 27, Embiid 20
+- **Tier:** 2
+- **Category:** Philadelphia 76ers / Toronto Raptors / Tyrese Maxey
+- **Key facts:** Maxey 27 pts, Embiid 20 pts; Barrett 31 for TOR; Raptors lost 4 of last 5
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: NBA Cup Friday Preview — 9 Games Nov 13
+- **Tier:** 2
+- **Category:** NBA Cup / Game Preview / Knicks Pacers / Bucks Magic
+- **Key facts:** 9-game slate; Knicks vs Pacers 7PM ET Prime Video; Jazz at Spurs 8PM ET NBA LP; Magic at Bucks
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: Mavericks Analysis — Flagg and Kyrie Struggle in 39-Pt Loss
+- **Tier:** 2
+- **Category:** Dallas Mavericks / Cooper Flagg / Kyrie Irving
+- **Key facts:** Flagg 12 pts (down from 43 Nov 10); Kyrie 10 pts; lack of third scorer exposed; DAL 7-5
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+
+---
+
 ## 2026-11-12 Stories
 
 ### STORY 1: Spurs 124, Bulls 119 — Wembanyama 32, 10-Game Win Streak
