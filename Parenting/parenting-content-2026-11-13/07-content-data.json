@@ -1,0 +1,438 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-13",
+  "compiled_at": "2026-11-13T12:32:34.591374+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Things to Do with Kids in COS This Sunday (November 15) — Stroller Safari, Going Batty, and More",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Sunday in COS: Stroller Safari at the Zoo, Going Batty at Garden of the Gods (1 PM), and the Acacia Park ice rink opens its first full weekend ($15, kids 4 & under free). Full guide for families this Sunday. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "Sunday, November 15 is a solid family day in Colorado Springs if you're looking to get out of the house.\n\nThe Cheyenne Mountain Zoo hosts its Stroller Safari: Nocturnal November program for young children and parents — a guided, hands-on wildlife experience designed for the stroller set. It's the kind of thing that works well for the 2-and-under crowd who can't do longer zoo visits yet.\n\nAt 1:00 PM, Garden of the Gods hosts Going Batty, a family program exploring bat biology and conservation at one of COS's most iconic outdoor locations. It's a free or low-cost program depending on your membership status — worth checking the Garden of the Gods website for details and registration.\n\nThe Acacia Park ice rink continues its season ($15/person, kids 4 and under free) with sessions through the weekend. The rink opened yesterday, so this Sunday will be one of its first full weekend days — a good time to go before the holiday crowd picks up.\n\nWhat are you and your family doing this Sunday?",
+        "image_caption": "",
+        "posting_time": "8:00 AM MT"
+      },
+      "article": {
+        "filename": "article-01-things-to-do-kids-cos-sunday-november-15.html",
+        "headline": "Things to Do with Kids in COS This Sunday, November 15 — Stroller Safari, Going Batty, and More",
+        "word_count": 502
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Weekend Family Outing",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Colorado Nature Discovery",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Bond Accountability — Protesters and Proposed Oversight Committee\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| D11 $775M bond approved November 2026 election | HIGH | Gazette Nov 5, 2026 (confirmed in Nov 12 pipeline) |\n| Protesters demonstrated outside D11 demanding public release of independent investigation | HIGH | Yahoo/FOX21 Nov 11, 2026 — https://www.yahoo.com/news/politics/articles/protesters-call-accountability-d11-leadership-021831509.html |\n| Protesters demand independent third-party investigation of Superintendent Michael Gaal and Deputy Superintendent Terry Comfort | HIGH | Yahoo/FOX21 Nov 11, 2026 |\n| D11 says investigation found no wrongdoing; cannot comment due to litigation | HIGH | Yahoo/FOX21 Nov 11, 2026 |\n| D11 board proposing independent citizen oversight committee to monitor bond spending | HIGH | Yahoo/FOX21 Nov 11, 2026 |\n| D11 $775M bond would be largest bond in El Paso County history | HIGH | Gazette Nov 5, 2026 (confirmed in Nov 12 pipeline) |\n| Holmes Middle School: $80M rebuild planned from bond | HIGH | Gazette Nov 5, 2026 (confirmed in Nov 12 pipeline) |\n| First D11 bond since 2006 | HIGH | Confirmed in Nov 12 pipeline |\n**Sources:**\n- Yahoo/FOX21: \"Protesters call for accountability from D11 leadership\" — https://www.yahoo.com/news/politics/articles/protesters-call-accountability-d11-leadership-021831509.html",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "| Protesters demonstrated outside D11 demanding public release of independent investigation | HIGH | Yahoo/FOX21 Nov 11, 2026",
+          "url": "https://www.yahoo.com/news/politics/articles/protesters-call-accountability-d11-leadership-021831509.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "D11 Protesters Demand Public Release of Superintendent Investigation; Board to Propose Oversight Committee",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "D11 voters approved a $775M bond last week. Now protesters demand release of an independent investigation into Superintendent Gaal and his deputy. The board is proposing a citizen oversight committee for bond spending. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "10:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 278
+        },
+        {
+          "label": "Post 2-2",
+          "text": "D11 says its investigation found no wrongdoing — but it can't release the report due to litigation. Protesters aren't accepting that. Meanwhile, the board is proposing a citizen oversight committee. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "10:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "Colorado Springs School District 11 just passed the largest bond in El Paso County history — $775 million approved by voters last week. But the conversation didn't stop at the ballot box.\n\nProtesters gathered outside D11 offices this week demanding the public release of an independent investigation into Superintendent Michael Gaal and Deputy Superintendent Terry Comfort. The district has said it can't comment because the matter is in litigation, but told FOX21 the investigation found no wrongdoing.\n\nNow the school board is proposing a citizen oversight committee to monitor how bond money gets spent — a structure some community members say should've been built into the ballot measure from the start.\n\nFor families in D11, this is worth watching. An $80 million rebuild of Holmes Middle School is planned, and bond spending decisions will shape district facilities for a generation.\n\nWhat do you think — is a citizen oversight committee the right accountability structure for a bond this size?",
+        "image_caption": "",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-02-d11-bond-accountability-superintendent-investigation.html",
+        "headline": "D11 Bond Passes. Now Protesters Want Answers About the Superintendent Investigation.",
+        "word_count": 625
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3",
+          "size_desc": "School Building Civic",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4",
+          "size_desc": "Community Meeting Space",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AAP 2026 Screen Time Framework Update\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| AAP updated screen time guidance in early 2026 (Jan-Feb) | HIGH | EdSurge Feb 5, 2026 — https://edsurge.com/news/2026-02-05-new-aap-screen-time-recommendations-focus-less-on-screens-more-on-family-time |\n| New framework is \"5 Cs\": Child, Content, Calm, Crowding out, Communication | HIGH | EdSurge Feb 5, 2026; FSU Psychologist Newswise; multiple sources confirm framework |\n| Central test: whether screens are displacing sleep, outdoor time, movement, in-person connection | HIGH | Multiple sources including CHOC Health, EdSurge |\n| Under 18 months: no screens except video chat still recommended | HIGH | CHOC Health — https://health.choc.org/updated-aap-recommendations-for-screen-time/ |\n| Ages 2-5: up to 1 hour per day of high-quality content | HIGH | CHOC Health |\n| Ages 6+: no strict hourly limit; focus on what screens replace, not counting minutes | HIGH | EdSurge, CHOC Health, multiple sources |\n| New guidance focuses on recreational/social media use, not schoolwork | HIGH | EdSurge, CHOC Health |\n| Framework shifted from time limits alone to quality and context | HIGH | Multiple sources |\n| AAP's own guidance available at healthychildren.org | HIGH | Standard AAP resource — https://www.healthychildren.org |\n**Sources:**\n- EdSurge: \"New AAP 'Screen Time' Recommendations Focus Less on Screens, More on Family Time\" — https://edsurge.com/news/2026-02-05-new-aap-screen-time-recommendations-focus-less-on-screens-more-on-family-time\n- CHOC Health: \"Updated AAP Recommendations for Screen Time\" — https://health.choc.org/updated-aap-recommendations-for-screen-time/\n- AAP healthychildren.org: https://www.healthychildren.org",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "| AAP's own guidance available at healthychildren.org | HIGH | Standard AAP resource",
+          "url": "https://www.healthychildren.org",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Colorado Springs School District 11",
+          "url": "https://www.d11.org",
+          "official": true,
+          "found_in": [
+            "articles/article-02-d11-bond-accountability-superintendent-investigation.html"
+          ]
+        },
+        {
+          "name": "| AAP updated screen time guidance in early 2026 (Jan-Feb) | HIGH | EdSurge Feb 5, 2026",
+          "url": "https://edsurge.com/news/2026-02-05-new-aap-screen-time-recommendations-focus-less-on-screens-more-on-family-time",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "no screens except video chat still recommended | HIGH | CHOC Health",
+          "url": "https://health.choc.org/updated-aap-recommendations-for-screen-time/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "| Under 18 months"
+        },
+        {
+          "name": "| LOW | Organization | aap",
+          "url": "https://edsurge.com/news/2026-02-05-new-aap-screen-time",
+          "official": false,
+          "found_in": [
+            "06-fact-check-log.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Fall 2026 Baby and Toddler Toy Recalls: What Colorado Springs Parents Need to Check Right Now",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Before holiday shopping: CPSC recalled SHEIN Pull & Chew Teething Toys (recall #26-782, ~644 units) for choking hazard. HABA Rainbow Rattle also recalled. Check everything at cpsc.gov/Recalls — gifting season is here. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "12:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#26",
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "Holiday shopping season is starting — and before you buy, wrap, or receive baby and toddler gifts this year, there are a few recalls you need to know about.\n\nThe Consumer Product Safety Commission has issued multiple recalls for infant and toddler products this fall. The highest priority: SHEIN Distribution Corporation's Pull and Chew Montessori Teething Toys (recall #26-782, September 17, 2026 — roughly 644 units sold on SHEIN.com between December 2025 and April 2026 for about $10). The silicone strings can reach a baby's throat and cause choking or respiratory distress. Full refund available from SHEIN.\n\nHABA USA also recalled Rainbow Rattle Grasping and Teething Toys for choking and ingestion hazards. Costway's Babyjoy High Chairs were recalled for entrapment and suffocation hazards.\n\nIf you've bought any of these — or think you might have one from a baby shower or secondhand — stop use immediately and check cpsc.gov/Recalls for remedy instructions.\n\nWhat's one safety check you do before every new baby product enters your home? 🛡️",
+        "image_caption": "",
+        "posting_time": "12:00 PM MT"
+      },
+      "article": {
+        "filename": "article-03-cpsc-fall-2026-baby-toddler-toy-recalls.html",
+        "headline": "Fall 2026 Toy Recalls Colorado Springs Parents Need to Know Before Holiday Shopping Starts",
+        "word_count": 582
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5",
+          "size_desc": "Baby Toys Flat Lay",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 6",
+          "size_desc": "Parent Safety Check",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CPSC Fall 2026 Baby and Toddler Toy Recalls\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| SHEIN Distribution Corporation recalled Pull and Chew Montessori Teething Toys: recall #26-782, Sept 17, 2026 | HIGH | CPSC.gov official recall page — https://www.cpsc.gov/Recalls/2026/SHEIN-Distribution-Corporation-Recalls-Pull-and-Chew-Montessori-Teething-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violate-Mandatory-Standard-for-Toys |\n| SHEIN teething toy units recalled: approximately 644 | HIGH | CPSC.gov recall page |\n| SHEIN teething toy sold Dec 2025 through Apr 2026 on SHEIN.com for approximately $10 | HIGH | CPSC.gov recall page |\n| SHEIN teething toy hazard: silicone strings can reach throat, choking/respiratory distress risk | HIGH | CPSC.gov recall page |\n| SHEIN teething toy remedy: full refund from SHEIN | HIGH | CPSC.gov recall page |\n| HABA USA recalled Rainbow Rattle Grasping and Teething Toys for choking and ingestion hazards | HIGH | CPSC.gov — https://www.cpsc.gov/Recalls/2026/HABA-USA-Recalls-Rainbow-Rattle-Grasping-and-Teething-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-and-Ingestion-Hazards |\n| Costway Babyjoy High Chairs recalled for entrapment and suffocation hazards | MEDIUM | Yahoo News; date and recall number not independently verified — single source |\n| Parents can check all CPSC recalls at cpsc.gov/Recalls | HIGH | Standard resource — https://www.cpsc.gov/Recalls |\n**Sources:**\n- CPSC: SHEIN Teething Toy Recall #26-782 — https://www.cpsc.gov/Recalls/2026/SHEIN-Distribution-Corporation-Recalls-Pull-and-Chew-Montessori-Teething-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violate-Mandatory-Standard-for-Toys\n- CPSC: HABA USA Rainbow Rattle Recall — https://www.cpsc.gov/Recalls/2026/HABA-USA-Recalls-Rainbow-Rattle-Grasping-and-Teething-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-and-Ingestion-Hazards",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "recall #26-782, Sept 17, 2026 | HIGH | CPSC.gov official recall page",
+          "url": "https://www.cpsc.gov/Recalls/2026/SHEIN-Distribution-Corporation-Recalls-Pull-and-Chew-Montessori-Teething-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violate-Mandatory-Standard-for-Toys",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "| SHEIN Distribution Corporation recalled Pull and Chew Montessori Teething Toys"
+        },
+        {
+          "name": "| HABA USA recalled Rainbow Rattle Grasping and Teething Toys for choking and ingestion hazards | HIGH | CPSC.gov",
+          "url": "https://www.cpsc.gov/Recalls/2026/HABA-USA-Recalls-Rainbow-Rattle-Grasping-and-Teething-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-and-Ingestion-Hazards",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "| Parents can check all CPSC recalls at cpsc.gov/Recalls | HIGH | Standard resource",
+          "url": "https://www.cpsc.gov/Recalls",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "articles/article-03-cpsc-fall-2026-baby-toddler-toy-recalls.html"
+          ]
+        },
+        {
+          "name": "| LOW | Organization | cpsc | .gov official recall page",
+          "url": "https://www.cpsc.gov/Recall",
+          "official": true,
+          "found_in": [
+            "06-fact-check-log.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "The AAP Just Changed Screen Time Guidelines — Here's What Colorado Springs Families Actually Need to Know",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The AAP updated screen time guidance in 2026. For school-age kids, hourly limits are out. The new '5 Cs' framework asks what screens are replacing, not how many minutes. Under 18 months: no screens except video chat. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "3:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "The American Academy of Pediatrics updated its screen time guidance in 2026, and if you've been trying to enforce strict hour limits with school-age kids, the new framework has some good news for you.\n\nFor kids under 18 months, the guidance still recommends avoiding screens except video chat. For ages 2–5, up to one hour of high-quality content daily still applies. But for school-age children and older, the AAP has moved away from counting minutes entirely.\n\nThe new \"5 Cs\" framework — Child, Content, Calm, Crowding out, and Communication — asks a different question: what are screens replacing? If your kid's screen time is cutting into sleep, outdoor play, movement, or face-to-face connection, that's the problem. If it isn't, counting minutes was never the real issue.\n\nThat's a meaningful shift for families who've been having daily battles over arbitrary limits. The focus is now on context and quality, not the clock.\n\nHow has your family been navigating screen time this year? 📱",
+        "image_caption": "",
+        "posting_time": "3:00 PM MT"
+      },
+      "article": {
+        "filename": "article-04-aap-screen-time-guidelines-2026-five-cs.html",
+        "headline": "Forget the Hour Limits: The AAP's New Screen Time Framework Asks a Better Question",
+        "word_count": 608
+      },
+      "image_concepts": [
+        {
+          "label": "Image 7",
+          "size_desc": "Family Screen Time Together",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 8",
+          "size_desc": "Calm Home Clock",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "COS Holiday Season Calendar\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Acacia Park ice rink opened November 13, 2026 | HIGH | Confirmed in Nov 11 and Nov 12 pipelines |\n| Ice rink runs through January 2027 | HIGH | VisitCOS 2026 listing |\n| Ice rink price: $15 per person including skate rental | HIGH | Search result from VisitCOS 2026 listing |\n| Children 4 and under: free with paying adult | HIGH | Confirmed in Nov 11 and Nov 12 pipelines |\n| Acacia Park address: 115 E. Platte Ave, Colorado Springs | HIGH | Confirmed in prior pipelines |\n| Nutcracker Ballet: Pikes Peak Center, November 27-29 | HIGH | Confirmed in Nov 11 pipeline |\n| Christmas in Magic Town: Michael Garman Museum, opens November 27 | HIGH | VisitCOS 2026 listing |\n| Electric Safari at Bancroft Park: free, December 4-6, 9-13, 16-23 | HIGH | Search result from VisitCOS 2026 listing (Cheyenne Mountain Zoo's event) |\n| Cheyenne Mountain Zoo Stroller Safari: Sunday Nov 15 | MEDIUM | SpringsEventHub weekly listing (single source) |\n| Going Batty at Garden of the Gods: Sunday Nov 15, 1:00 PM | MEDIUM | SpringsEventHub weekly listing (single source) |",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "American Academy of Pediatrics (HealthyChildren.org)",
+          "url": "https://www.healthychildren.org",
+          "official": true,
+          "found_in": [
+            "articles/article-04-aap-screen-time-guidelines-2026-five-cs.html"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "COS Holiday Season Is Here — Your Family Events Calendar for the Coming Weeks",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 5-1",
+          "text": "The Acacia Park ice rink opened today in COS. $15/person, kids 4 & under free. Runs through January. Nutcracker Nov 27–29. Electric Safari at Bancroft Park starts Dec 4 (free). Holiday season is underway. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "5:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 264
+        },
+        {
+          "label": "Post 5-2",
+          "text": "🎄 COS holiday season is open. Ice rink at Acacia Park: $15, kids 4 & under free, open through January. Nutcracker Nov 27–29. Electric Safari Dec 4+ (free). Christmas in Magic Town Nov 27. Full calendar inside. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "5:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "The holiday season is officially here in Colorado Springs — the Acacia Park ice rink opened its doors today (November 13) and runs through January 2027. 🎄\n\nHere's what COS families have coming up over the next six weeks:\n\n🧊 Ice rink at Acacia Park — open now through January 2027. $15/person including skate rental, kiddos 4 and under free with a paying adult. 115 E. Platte Ave.\n\n🩰 The Nutcracker Ballet — Pikes Peak Center, November 27–29. Classic Colorado Springs holiday tradition.\n\n🎩 Christmas in Magic Town — Michael Garman Museum, opens November 27. If your kids haven't seen the Magic Town display, this is the year.\n\n🦒 Electric Safari at Bancroft Park — Cheyenne Mountain Zoo's free event runs December 4–6, 9–13, and 16–23.\n\nThe calendar fills fast every year — this is the time to get dates on the schedule before Thanksgiving takes over.\n\nWhich COS holiday event is your family most looking forward to this season?",
+        "image_caption": "",
+        "posting_time": "5:00 PM MT"
+      },
+      "article": {
+        "filename": "article-05-cos-holiday-season-calendar-2026.html",
+        "headline": "COS Holiday Events for Families: Ice Rink Opens Today, Nutcracker, Electric Safari, and More",
+        "word_count": 625
+      },
+      "image_concepts": [
+        {
+          "label": "Image 9",
+          "size_desc": "Holiday Ice Rink",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 10",
+          "size_desc": "Colorado Mountain Holiday",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Managing Holiday Season Expectations with Kids (Evergreen)\nNo primary sources required for evergreen advice content. This is developmental parenting guidance.\n| Concept | Confidence | Basis |\n|---------|-----------|-------|\n| Gratitude practices support child wellbeing | HIGH | Established developmental psychology; widely published |\n| Kids under 7 understand giving/receiving concretely | HIGH | Established child development knowledge |\n| Family experiences create stronger memories than material gifts | HIGH | Established research |\n| Setting expectations before family gatherings reduces conflict | HIGH | Established parenting guidance |\n| COS has free holiday events alternatives to expensive activities | HIGH | From pipeline research |",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

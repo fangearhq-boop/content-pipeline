@@ -2,6 +2,50 @@
 
 ---
 
+## November 13, 2026
+
+### Story 1: Things to Do with Kids in COS This Sunday, November 15 — Stroller Safari, Going Batty, and More
+- **Date:** 2026-11-13
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** Stroller Safari: Nocturnal November at Cheyenne Mountain Zoo (designed for stroller set). Going Batty at Garden of the Gods at 1:00 PM (bat biology/conservation). Acacia Park ice rink first full weekend ($15, kids 4 & under free, opened Nov 13). Full article for Sunday planning.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY (Friday follow-on Weekend Roundup for Sunday events)
+
+### Story 2: D11 Bond Passes. Now Protesters Want Answers About the Superintendent Investigation.
+- **Date:** 2026-11-13
+- **Tier:** T1
+- **Pillar:** Local News
+- **Key Facts:** Protesters Nov 11 outside D11 demanding public release of independent investigation into Superintendent Michael Gaal and Deputy Superintendent Terry Comfort. D11 says investigation found no wrongdoing; can't release due to litigation. Board proposing citizen oversight committee to monitor $775M bond spending. Source: Yahoo/FOX21 Nov 11.
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (Nov 12 S2: D11 bond passes)
+
+### Story 3: Fall 2026 Toy Recalls Colorado Springs Parents Need to Know Before Holiday Shopping Starts
+- **Date:** 2026-11-13
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** SHEIN Pull & Chew Montessori Teething Toys recalled #26-782 (Sept 17, 2026, ~644 units, choking hazard, $10, SHEIN.com). HABA USA Rainbow Rattle recalled for choking/ingestion. Costway Babyjoy High Chairs recalled for entrapment/suffocation. Check cpsc.gov/Recalls.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 4: Forget the Hour Limits: The AAP's New Screen Time Framework Asks a Better Question
+- **Date:** 2026-11-13
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** AAP updated guidance early 2026. 5 Cs framework: Child, Content, Calm, Crowding out, Communication. Under 18 months: no screens except video chat. Ages 2–5: up to 1hr/day high-quality content. Ages 6+: no hourly limit, focus on displacement (sleep, activity, connection). Source: EdSurge Feb 5, 2026; CHOC Health; healthychildren.org.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 5: COS Holiday Events for Families: Ice Rink Opens Today, Nutcracker, Electric Safari, and More
+- **Date:** 2026-11-13
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** Acacia Park ice rink opened Nov 13 through January 2027 ($15/person, kids 4 & under free, 115 E. Platte Ave). Nutcracker Ballet at Pikes Peak Center Nov 27–29. Christmas in Magic Town at Michael Garman Museum opens Nov 27. Electric Safari at Bancroft Park Dec 4–6, 9–13, 16–23 (free).
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+---
+
 ## November 12, 2026
 
 ### Story 1: Things to Do with Kids in Colorado Springs This Weekend (November 13–15)

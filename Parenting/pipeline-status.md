@@ -1,5 +1,36 @@
 # COS Parenting — Pipeline Status
 
+## Current Run: 2026-11-13
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D11 protesters Nov 11 outside district demanding release of investigation into Supt Gaal and Deputy Supt Comfort (Yahoo/FOX21). AAP 2026 screen time framework — "5 Cs" replacing hourly limits for 6+ (EdSurge Feb 5, CHOC Health, healthychildren.org). CPSC SHEIN Pull & Chew Teething Toy recall #26-782 (Sept 17, ~644 units, $10, choking hazard); HABA Rainbow Rattle recall. Costway Babyjoy High Chair recall (medium confidence — single news source). Acacia Park ice rink opened Nov 13 ($15, kids 4 & under free); Nutcracker Nov 27-29; Electric Safari Dec 4-6, 9-13, 16-23 (free). Stroller Safari at Zoo Sunday; Going Batty at Garden of the Gods Sunday 1 PM. |
+| Story History Check | COMPLETE | S1 NEW (Sunday events roundup — Friday follow-on, distinct from Nov 12 Weekend Roundup which covered Sat+Sun Nov 14-15); S2 FOLLOW-UP (Nov 12 S2: D11 bond passes → bond accountability + superintendent controversy protests); S3 NEW (SHEIN + HABA recalls, distinct from Nov 12 HAUOMS dresser recall); S4 NEW (AAP 5 Cs screen time — first coverage of 2026 framework update); S5 NEW (holiday calendar follow-on — ice rink opened today) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 T1, 2 T2); bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; MEDIUM on Costway Babyjoy recall (single source — noted in article); all CPSC primary-source claims HIGH from cpsc.gov |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows (8 AM, 10 AM, 12 PM, 3 PM, 5 PM), 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts (1 for S1, 2 for S2, 1 each for S3-S4, 2 for S5); all ≤280 chars; 4 hashtags each; max 1 exclamation mark; contractions used; fixed 7 tweets that exceeded 280 after verify-facts |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; contractions; no hashtags; 0 exclamation marks |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only concepts (2 per story); clean bottom third for text overlay; no celebrity likenesses; brand kit kAHCKfCZgk0; dimensions 1200x675 |
+| Articles (5+1) | COMPLETE | article-01 Sunday events roundup (Sarah Morales T1 ~550w); article-02 D11 bond accountability (Jamie Rivera T1 ~650w); article-03 CPSC fall recalls (Sarah Morales T2 ~600w); article-04 AAP screen time 5 Cs (Jamie Rivera T2 ~650w); article-05 COS holiday calendar (Sarah Morales T1 ~650w); article-06 managing holiday expectations bonus (Sarah Morales, extra) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 102 claims auto-extracted by verify-facts.py; all stories present in all content files; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 10 images; validation all clear |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × 2 images each), all not_started, gemini base_only, dimensions 1200x675, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 28 items |
+| Publish Dashboard | BLOCKED | proxy 403 (known recurring issue — content-dashboards repo not in session's authorized set) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-11-13.xlsx (7 posts) + cosp-postplanner-tobi-2026-11-13.xlsx (6 TOBI posts) |
+| WordPress Publish | BLOCKED | WP env vars not set in this session + fanrumor.com:443 proxy 403 (known recurring issues); 5 HTML article drafts ready locally |
+| Story History | COMPLETE | Nov 13 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 7 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 primary + 1 bonus (bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+- **PostPlanner exports:** 7 posts standard + 6 TOBI
+- **Key stories:** Sunday Nov 15 family events (Stroller Safari at Zoo, Going Batty at Garden of the Gods 1 PM, ice rink first full weekend); D11 bond protesters demand release of superintendent investigation (oversight committee proposed); CPSC recalls SHEIN teething toy #26-782 + HABA Rainbow Rattle (pre-holiday safety); AAP 2026 screen time update — 5 Cs framework replaces hourly limits for school-age; COS holiday season calendar (ice rink opened today, Nutcracker Nov 27-29, Electric Safari Dec 4+ free)
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); article numbering required realignment with daily brief story order (brief S1=Sunday events, not D11); posting window format required `- **Posting window:**` lowercase not `**Posting Window:**`; 7 tweets exceeded 280 chars in first draft (all fixed before final verify-facts pass)
+
+---
+
 ## Current Run: 2026-11-12
 
 | Step | Status | Notes |
