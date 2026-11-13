@@ -1,8 +1,17 @@
-# Cubs Pipeline Status — Updated 2026-11-12
+# Cubs Pipeline Status — Updated 2026-11-13
 
 ## Latest Run
-- **Date:** 2026-11-12 (Thursday — Off day. BBWAA Awards Week Day 2: NL MVP tonight at 6 PM CT (PCA -1500 favorite). Misiorowski wins NL Cy Young unanimously (confirmed yesterday). Ben Brown cervical spine surgery confirmed (C5, Nov 9). Suzuki declines QO (agent confirmed GM Meetings Nov 11).)
-- **Stories:** 5
+- **Date:** 2026-11-13 (Friday — Off day. PCA wins NL MVP unanimously (all 30 votes). GM Meetings fallout: five starters gone, Ben Brown (C5 surgery), Horton out until mid-2027. Suzuki market: Blue Jays leading. King free agency live. Sato 45-day mid-point. Brewers locked up Contreras. AFL championship tomorrow.)
+- **Stories:** 7
+- **X posts:** 8
+- **Platforms:** X/Twitter only
+- **Status:** ✅ Complete
+- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 7 stories, 8 tweets
+- **07-content-data.json:** ✅ Valid JSON, all 8 posts with posting_time (12:00 PM / 1:15 PM / 2:30 PM / 3:45 PM / 5:00 PM / 6:30 PM / 8:00 PM / 9:30 PM CT), all strptime-parseable
+- **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
+- **Note:** 10 significant insights applied. HASHTAG OVERRIDE: hashtag_count=3 is LOSER (delta=0.847, large) + hashtag_count=1 is WINNER (delta=0.784, large) → 1 hashtag (#Cubs) used, overrides brand-voice 3-hashtag rule. ALLCAPS REVERSAL: opening=allcaps_lead LOSER (delta=0.717) — no ALL CAPS leads (prior Oct-Nov pipeline consistently used all-caps). MORNING AVOIDANCE: posting_window=morning_06_12 LOSER (delta=0.365) — first post at 12:00 PM CT (all 7:00–10:45 AM slots skipped). EVENING PRIORITY: posting_window=evening_18_24 WINNER (delta=0.959) → Stories 1B + 6 in 6:30 PM / 8:00 PM CT. ⚠️ Story 4 King stats (3.21 ERA / 185 IP / 32 starts) — MEDIUM confidence (prior pipeline notes only, not independently re-verified today). ⚠️ Owner should validate 1-hashtag rule departure before 12:00 PM first post.
+
+## Insights Summary (2026-11-13 run — from 2026-11-13T08:30 UTC snapshot)
 - **X posts:** 5
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete

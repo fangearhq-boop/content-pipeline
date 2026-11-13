@@ -5,6 +5,68 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-11-13 (OFF DAY — Offseason. PCA wins NL MVP unanimously (all 30 votes, Nov 12 BBWAA announcement). First unanimous Cubs NL MVP ever. GM Meetings fallout: five starters gone, Ben Brown cervical spine surgery (C5), Horton out until mid-2027. Suzuki market open: Blue Jays frontrunners (4yr/$110M Spotrac projection). Michael King (3.21 ERA, 185 IP) top rotation target; Mets/Yankees competition. Teruaki Sato 45-day window mid-point; rotation need wins Cubs budget. Brewers locked up WS MVP Contreras ($15.5M option). AFL championship tomorrow; Dominick Reid named AFL All-Star. Insights: evening_18_24 WINNER (delta=0.959, massive) + opening=statement WINNER (delta=0.717) + opening=allcaps_lead LOSER (delta=0.717, REVERSAL from prior runs) + not_brief WINNER (delta=0.825) + hashtag_count=1 WINNER (delta=0.784, OVERRIDE — 1 hashtag used) + hashtag_count=3 LOSER (delta=0.847, CONFLICT resolved) + len_bucket=<140 WINNER (delta=0.384) + not_200-260 WINNER (delta=0.694) + not_morning WINNER (delta=0.365).)
+
+### STORY 1: Pete Crow-Armstrong Wins NL MVP Unanimously — All 30 Votes
+- **Angle:** FOLLOW UP (Nov 12 initial celebration post. Today = unanimous angle, all 30 votes, first in Cubs history. PCA at 23: 45 HR, 41 SB, 10.6 fWAR. Ended Ohtani's 3-year streak. Also won Hank Aaron Award + Platinum Glove.)
+- **Tier:** 1
+- **Content Produced:** X Text Post (2 posts — 12:00 PM CT informative + 6:30 PM CT evening bold take)
+- **Follow-Up Opportunities:**
+  - PCA contract extension discussions → franchise cornerstone angle
+  - Winter awards tour (Cubs celebration, ring ceremony) → recap angle
+
+### STORY 2: Cubs Rotation Hunt — GM Meetings Fallout + Ben Brown Update
+- **Angle:** FOLLOW UP (Nov 1 rotation crisis post. Today = GM meetings synthesis: five starters gone (Imanaga/Gausman/Peterson/Boyd/Holmes) + Ben Brown cervical spine surgery (C5) + Horton out mid-2027. Hoyer: "We have a lot of innings to cover." Skubal, King, Cease as targets.)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT bold take/urgency)
+- **Follow-Up Opportunities:**
+  - King signs with Cubs → resolves top rotation slot
+  - Skubal signs anywhere → definitively rules in/out Cubs track
+  - Any rotation signing → follow-up celebration
+
+### STORY 3: Suzuki Now on Market — Blue Jays Lead Early Chase
+- **Angle:** FOLLOW UP (Nov 12 posted QO decline confirmation. Today = market developing: Blue Jays frontrunners, Spotrac 4yr/$110M projection, Cubs get comp pick, Cubs can still re-sign.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT market update/informative)
+- **Follow-Up Opportunities:**
+  - Suzuki signs with Blue Jays → farewell/gratitude post
+  - Cubs bring back Suzuki → surprise reunion angle
+  - Suzuki signs 4yr/$110M+ → contract reaction
+
+### STORY 4: Michael King — Cubs' Best Path to a Rotation Ace
+- **Angle:** FOLLOW UP (Oct 13-Nov 1 King coverage. Today = market is live. King opted out of Padres (Oct 29). 3.21 ERA, 185 IP, 32 starts (MEDIUM confidence). Cubs, Mets, Yankees all in. Projected 4yr/$118M.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT bold take/analysis)
+- **Follow-Up Opportunities:**
+  - King signs with Cubs → Tier 1 rotation celebration
+  - King signs with Mets/Yankees → missed target angle
+
+### STORY 5: Teruaki Sato — 45-Day Posting Window (Mid-Window Update)
+- **Angle:** FOLLOW UP (Oct 23/28 initial coverage. Today = mid-window; Yankees, Dodgers, Phillies bidding; Cubs scouting but rotation wins budget; deadline Dec 16.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT informative/hot stove)
+- **Follow-Up Opportunities:**
+  - Sato signs (expected $200M+) → reaction; confirm Cubs pivoted to pitching
+  - MLB lockout pauses window → news update
+
+### STORY 6: Brewers Lock Up Contreras — Dynasty Building
+- **Angle:** FOLLOW UP (Nov 1 Brewers WS champs. Today = Contreras $15.5M option exercised (Nov 2). WS MVP locked in. Division rival building on championship. Cubs counter urgency framing.)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:00 PM CT rival watch/division urgency)
+- **Follow-Up Opportunities:**
+  - Brewers sign another key piece → rival alert follow-up
+  - Cubs sign King/major arm → counter-move angle
+
+### STORY 7: AFL Championship Tomorrow — Dominick Reid All-Star
+- **Angle:** FOLLOW UP (Oct 22-23 AFL overview. Today = Reid named AFL All-Star with Mesa (best changeup in league per MLB.com); AFL championship game Nov 14 at Peoria Stadium. Jhon Cabral also impressed. CORRECTION: Cole Mathis is a Met, not Cubs — traded June 25 for David Peterson.)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 9:30 PM CT prospect feature)
+- **Follow-Up Opportunities:**
+  - Mesa wins AFL championship → prospect celebration
+  - Reid or Cabral added to 40-man → roster move coverage
+
+---
+
 ## 2026-11-12 (OFF DAY — Offseason. BBWAA Awards Week Day 2: NL MVP announced TONIGHT 6 PM CT (PCA heavy favorite, -1500). Misiorowski wins NL Cy Young unanimously (yesterday result). Ben Brown cervical spine surgery confirmed (C5, Nov 9). Suzuki declines QO (agent confirmed at GM Meetings). Insights: evening_18_24 WINNER (massive, delta=0.956) + opening=statement WINNER + opening=allcaps_lead LOSER + not_brief WINNER + hashtag_count=3 LOSER (CONFLICT, kept 3) + len_bucket=<140 WINNER + not_200-260 WINNER.)
 
 ### STORY 1: PCA NL MVP Tonight — Hype Preview

@@ -1,0 +1,445 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-13",
+  "compiled_at": "2026-11-13T09:25:39.357556+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "12:00 PM",
+      "description": "Story 1 — PCA MVP unanimous, all 30 votes",
+      "type": "Informative — historical context"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Story 2 — Rotation crisis, GM meetings, Brown",
+      "type": "Bold take — pitching urgency"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Story 3 — Suzuki market, Blue Jays leading",
+      "type": "Informative — market update"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Story 4 — Michael King",
+      "type": "Bold take — top target"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 5 — Teruaki Sato",
+      "type": "Informative — posting window"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Story 1 — PCA MVP (2nd post, bold take)",
+      "type": "Bold take — EVENING WINNER slot"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 6 — Brewers/Contreras",
+      "type": "Rival watch — division urgency"
+    },
+    {
+      "time": "9:30 PM",
+      "description": "Story 7 — AFL/Reid",
+      "type": "Prospect feature"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "PCA Wins NL MVP Unanimously — All 30 Votes",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "12:00 PM CT + 6:30 PM CT (Tier 1 = 2 posts)",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Pete Crow-Armstrong: first unanimous NL MVP in Cubs history. All 30 votes. 45 HR. 41 SB. 10.6 WAR.\n\nThe BBWAA got it right. 🏆\n\n#Cubs",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Award celebration / bold take",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 132
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Pete Crow-Armstrong won the NL MVP unanimously. All 30 first-place votes.\n\nHe's 23 years old and the best player in baseball. 🐻⬇️\n\n#Cubs",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Award celebration / bold take",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 136
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Pete Crow-Armstrong Wins NL MVP Unanimously\n**Decision:** FOLLOW UP\nPrevious coverage: Oct 9 (frontrunner odds), Oct 13 (final stat wrap), Oct 23 (WS framing), Oct 28 (all 38 MLB.com votes), Nov 1 (MLBPA award confirmed, build-up). Today = ACTUAL WINNER ANNOUNCED. New development qualifies as a new coverage angle.\n**Tier:** 1\n**Key Facts:**\n- BBWAA announced Nov 12, 2026 at 6 PM CT on MLB Network\n- All 30 first-place votes — unanimous\n- First Cub in history to win unanimous MVP\n- Finalists: PCA, Shohei Ohtani, Brice Turang (Brewers)\n- Season stats: .280/.372/.570, 45 HR, 41 SB, 107 RBI, 119 runs, 10.6 fWAR (FanGraphs)\n- Also won: Hank Aaron Award (NL's top hitter), Platinum Glove (NL's best fielder)\n- Ended Ohtani's 3-year AL/NL MVP streak\n- PCA age: 23 (born June 15, 2003)\n- One of 7 players in MLB history to join 40-40 club; first to do 45-40\n**Freshness:** BBWAA announcement was Nov 12 — 1 day old. Extremely fresh. Tier 1 justified.\n**Sources (all <24h or <48h):**\n- BBWAA.com official release: https://bbwaa.com/26-nl-mvp/\n- CBS Sports (Nov 12): https://www.cbssports.com/mlb/news/mlb-2026-national-league-mvp-pete-crow-armstrong-cubs/\n- Yahoo Sports (Nov 12): https://sports.yahoo.com/articles/cubs-pete-crow-armstrong-unanimously-005558916.html\n- Sports Illustrated: https://www.si.com/mlb/cubs/pete-crow-armstrong-2026-nl-mvp-award-rare-two-way-dominance\n**Why this audience cares:** PCA is the face of the Cubs franchise. This is the biggest individual award in the NL. Cubs fans have been following the MVP race all season. The unanimous nature makes it historic — first ever for the franchise.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "BBWAA.com official release",
+          "url": "https://bbwaa.com/26-nl-mvp/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "CBS Sports (Nov 12)",
+          "url": "https://www.cbssports.com/mlb/news/mlb-2026-national-league-mvp-pete-crow-armstrong-cubs/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yahoo Sports (Nov 12)",
+          "url": "https://sports.yahoo.com/articles/cubs-pete-crow-armstrong-unanimously-005558916.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/mlb/cubs/pete-crow-armstrong-2026-nl-mvp-award-rare-two-way-dominance",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Cubs Rotation Hunt — GM Meetings Fallout + Ben Brown Update",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Hoyer's message from GM meetings was clear: pitching, pitching, pitching. Five arms gone. Ben Brown out until 2027. The window is now.\n\n#Cubs",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Bold take / urgency",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 141
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs Rotation Hunt — GM Meetings Fallout\n**Decision:** FOLLOW UP\nPrevious coverage: Nov 1 (\"FIVE ARMS. All gone.\"). Today = GM meetings happened week of Nov 8 and Hoyer spoke publicly. New development: active offseason framing with specific targets named.\n**Tier:** 1\n**Key Facts:**\n- GM Meetings: Las Vegas, week of Nov 8, 2026\n- Jed Hoyer publicly stated pitching is the top priority for the offseason\n- Quote (Marquee Sports Network): \"We have a lot of innings to cover\"\n- 5 starters gone: Imanaga (FA), Gausman (FA), Peterson (FA after Cubs acquired him from Mets), Boyd (option declined), Holmes (option declined)\n- Cade Horton: recovering, not expected back until mid-2027\n- Potential lockout: Sun-Times (Nov 8) flagged that a looming lockout could accelerate early offseason activity\n- Top target: Tarik Skubal — 2x Cy Young winner, top FA of this class, massive contract expected (Cubs may shy away from size)\n- Other targets: Michael King (opted out of Padres), Dylan Cease (Blue Jays FA), Kodai Senga, Framber Valdez\n**Freshness:** Sun-Times article Nov 8 (5 days old); Marquee post-meetings — recent. Tier 1 justified given the Cubs' rotation situation is the defining offseason story.\n**Sources:**\n- Chicago Sun-Times (Nov 8, 2026): https://chicago.suntimes.com/cubs/2026/11/08/cubs-gm-meetings-offseason-mlb-lockout-free-agents-trades-rumors-jed-hoyer-pitching-rotation-pitchers\n- Marquee Sports Network: https://www.marqueesportsnetwork.com/we-have-a-lot-of-innings-to-cover-how-the-cubs-are-attacking-the-offseason-after-gm-meetings/\n- NBC Chicago: https://www.nbcchicago.com/chicago-sports-bears-sox-cubs-bulls-blackhawks/who-are-the-chicago-cubs-pitching-free-agents-heading-into-2027/4001317/\n**Why this audience cares:** The Cubs' 2026 playoff exit was directly tied to pitching. Five starters gone. Horton hurt. The front office's response this winter determines if the Cubs are contenders in 2027.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Chicago Sun-Times (Nov 8, 2026)",
+          "url": "https://chicago.suntimes.com/cubs/2026/11/08/cubs-gm-meetings-offseason-mlb-lockout-free-agents-trades-rumors-jed-hoyer-pitching-rotation-pitchers",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Marquee Sports Network",
+          "url": "https://www.marqueesportsnetwork.com/we-have-a-lot-of-innings-to-cover-how-the-cubs-are-attacking-the-offseason-after-gm-meetings/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "NBC Chicago",
+          "url": "https://www.nbcchicago.com/chicago-sports-bears-sox-cubs-bulls-blackhawks/who-are-the-chicago-cubs-pitching-free-agents-heading-into-2027/4001317/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Suzuki Now on Market — Blue Jays Lead Early Chase",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Seiya Suzuki is officially on the market. Blue Jays are early frontrunners. Spotrac values him at four years, $110M.\n\nCubs get a comp pick if he goes. And the door isn't closed on a reunion. 🙏\n\n#Cubs",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Hot stove / roster news",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Suzuki Now on Market — Blue Jays Lead Early Chase\n**Decision:** FOLLOW UP\nPrevious coverage: Oct 17 (QO imminent), Oct 28 (QO expected this week), Nov 1 (expected to decline), **Nov 12 (decline announced at GM Meetings)**. Today = market update: Suzuki officially a free agent, Blue Jays as early frontrunners, Cubs comp pick, door open on reunion.\n**Tier:** 2\n**Key Facts:**\n- Suzuki declined the $23.15M qualifying offer at GM Meetings (confirmed Nov 11)\n- Suzuki is now a free agent — market open\n- Spotrac projected market value: 4yr/$110M\n- Primary suitors: Blue Jays (frontrunner per reports), plus large-market clubs\n- Cubs receive compensatory draft pick if Suzuki signs elsewhere\n- Cubs and Suzuki can still negotiate a new deal — not off the table\n- 5 seasons with Cubs: 2022-2026, 26 HR / 86 RBI in 2026\n- NOTE: Nov 12 pipeline posted the decline announcement. Today's angle = market taking shape.\n**Freshness:** Decline confirmed Nov 11. Market framing is fresh. Tier 2 appropriate.\n**Sources:**\n- Chicago Sun-Times (Nov 2): https://chicago.suntimes.com/cubs/2026/11/02/cubs-qualifying-offer-seiya-suzuki-free-agency-jed-hoyer-ian-happ-mlb-rumors\n- Bleacher Nation (Nov 2): https://www.bleachernation.com/cubs/2026/11/02/seiya-suzuki-officially-one-of-eight-players-to-receive-a-qualifying-offer-this-year/\n- Nov 12 brief: Suzuki decline confirmed at GM Meetings\n**Why this audience cares:** Suzuki is beloved. Market framing tells fans where he might land and what Cubs get in return.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Chicago Sun-Times (Nov 2)",
+          "url": "https://chicago.suntimes.com/cubs/2026/11/02/cubs-qualifying-offer-seiya-suzuki-free-agency-jed-hoyer-ian-happ-mlb-rumors",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Bleacher Nation (Nov 2)",
+          "url": "https://www.bleachernation.com/cubs/2026/11/02/seiya-suzuki-officially-one-of-eight-players-to-receive-a-qualifying-offer-this-year/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Michael King — Cubs' Best Path to a Rotation Ace",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Michael King is the Cubs' best path to a rotation ace this winter. 3.21 ERA. 185 innings. 32 starts. The Mets and Yankees want him too.\n\nJed, don't miss this one. 🎯\n\n#Cubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Bold take / analysis",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 171
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Michael King — Cubs' Top Pitching Target\n**Decision:** FOLLOW UP\nPrevious coverage: Oct 13 (King as target after Skubal cold water), Oct 17 (countdown), Oct 23 (tick tock), Oct 28 (King opt-out clock), Nov 1 (FA opens tomorrow). Today = market is open, Cubs actively pursuing.\n**Tier:** 2\n**Key Facts:**\n- King opted out of remaining Padres deal post-2026 season (opt-out confirmed Oct 29)\n- FA officially opened Nov 2\n- 2026 stats: 3.21 ERA, 185 IP, 32 starts (MEDIUM confidence — from prior pipeline story notes)\n- Projected contract: 4yr/$118M\n- Primary competitors for King: Cubs, Mets, Yankees\n- King is 32 heading into 2027 season",
+        "sources": "- Sources:\n- Bleacher Nation (multiple): Cubs interested in King; Michael King opts out\n- MLB Trade Rumors: https://www.mlbtraderumors.com/chicago-cubs\n- Just Baseball: https://www.justbaseball.com/?p=246374\n**Confidence note:** King's 2026 stats (3.21 ERA / 185 IP / 32 starts) are MEDIUM — sourced from prior pipeline story notes (Nov 1 entry). Not independently re-verified today from Baseball Reference or FanGraphs. Flag in fact-check.\n**Why this audience cares:** King is the most realistic path to a proven rotation ace given Skubal's cost. Cubs need him. Mets and Yankees can outbid."
+      },
+      "sources": [
+        {
+          "name": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/chicago-cubs",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Just Baseball",
+          "url": "https://www.justbaseball.com/?p=246374",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Teruaki Sato — 45-Day Window, Cubs Scouting",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Teruaki Sato's 45-day posting window is open. Triple Crown. .306/.383/.609. 39 HR in NPB.\n\nCubs are scouting. Yankees, Dodgers, and Phillies are bidding. Rotation need wins out. 🤔\n\n#Cubs",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Informative / hot stove",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 186
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Teruaki Sato — 45-Day Posting Window\n**Decision:** FOLLOW UP\nPrevious coverage: Oct 23 (first mention of posting), Oct 28 (official posting + suitors). Today = mid-window update; market developing.\n**Tier:** 2\n**Key Facts:**\n- Sato officially posted Nov 2 (Hanshin Tigers 3B/OF, age 28)\n- 2026 NPB: .306/.383/.609, 39 HR, 106 RBI — Triple Crown winner\n- 45-day window: Nov 2 – Dec 16\n- Suitors: Yankees, Dodgers, Phillies all reported in\n- Cubs scouting since May 2026 but Bleacher Nation notes rotation need likely wins out over corner OF bidding\n- Potential MLB lockout could pause the 45-day window; timing unclear",
+        "sources": "- Sources:\n- Bleacher Nation (Nov 2): https://www.bleachernation.com/cubs/2026/11/02/four-postings-now-officially-opened-and-the-timing-is-key-taira-sato-itoh-and-roh/\n- MLB.com: https://www.mlb.com/news/teruaki-sato-mlb-posting-system\n- Bleacher Report: https://bleacherreport.com/articles/25513095-teruaki-sato-be-posted-top-mlb-landing-spots-triple-crown-winner-japans-hanshin-tigers\n**Why this audience cares:** Sato is the top position player on the market. Cubs fans want to know where he lands and whether Hoyer is spending."
+      },
+      "sources": [
+        {
+          "name": "Bleacher Nation (Nov 2)",
+          "url": "https://www.bleachernation.com/cubs/2026/11/02/four-postings-now-officially-opened-and-the-timing-is-key-taira-sato-itoh-and-roh/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "mlb.com",
+          "url": "https://www.mlb.com/news/teruaki-sato-mlb-posting-system",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "MLB.com"
+        },
+        {
+          "name": "Bleacher Report",
+          "url": "https://bleacherreport.com/articles/25513095-teruaki-sato-be-posted-top-mlb-landing-spots-triple-crown-winner-japans-hanshin-tigers",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 6,
+      "title": "Brewers Lock Up Contreras — Dynasty Building",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "8:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Brewers locked up World Series MVP William Contreras through 2027. $15.5M option exercised.\n\nMilwaukee won a ring. Now they're building a dynasty. Cubs can't sit still. 👀\n\n#Cubs",
+          "posting_time": "8:00 PM CT",
+          "tweet_type": "Rival watch",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 177
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Brewers Lock Up Contreras — Division Rival Doubles Down\n**Decision:** FOLLOW UP\nPrevious coverage: Nov 1 (Brewers WS champions recap). Contreras option exercise is new angle — adds urgency to Cubs offseason narrative.\n**Tier:** 2\n**Key Facts:**\n- Brewers exercised $15.5M club option for William Contreras on Nov 2 (sources: Yardbarker, Clutchpoints)\n- Contreras won World Series MVP (Brewers beat Rays 4-1 in 5 games, Oct 28)\n- Brewers WS championship: franchise's first title\n- Extension talks possible this offseason\n- Division framing: Brewers are WS champs and locking in core pieces. Cubs counter this winter or fall further behind.",
+        "sources": "- Sources:\n- FOX6: https://www.fox6now.com/news/brewers-roster-moves-contreras-bauers\n- Yardbarker: https://www.yardbarker.com/mlb/articles/brewers_nail_15_million_william_contreras_decision/s1_17435_44508413\n**Why this audience cares:** Brewers just won the World Series. Their division rival is building a dynasty. The Cubs need to respond."
+      },
+      "sources": [
+        {
+          "name": "FOX6",
+          "url": "https://www.fox6now.com/news/brewers-roster-moves-contreras-bauers",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yardbarker",
+          "url": "https://www.yardbarker.com/mlb/articles/brewers_nail_15_million_william_contreras_decision/s1_17435_44508413",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 7,
+      "title": "AFL Championship Tomorrow — Dominick Reid All-Star",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "9:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Dominick Reid was named an Arizona Fall League All-Star with Mesa this season. Best changeup in the league per MLB.com.\n\nAFL championship is tomorrow. The future looks good. ⚾\n\n#Cubs",
+          "posting_time": "9:30 PM CT",
+          "tweet_type": "Prospect feature",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 182
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "AFL Championship Tomorrow — Dominick Reid All-Star Season\n**Decision:** FOLLOW UP\nPrevious coverage: Oct 22-23 (AFL overview, Cole Mathis mentioned). Today = Reid AFL All-Star confirmed, AFL final tomorrow. Important correction: Mathis is a Met now.\n**Tier:** 3\n**Key Facts:**\n- AFL championship game: Nov 14, 2026 (tomorrow) at Peoria Stadium\n- Cubs prospects with Mesa Solar Sox\n- Dominick Reid (RHP): named AFL All-Star; best changeup in the league per MLB.com\n- Jhon Cabral also impressed scouts\n- Mesa Solar Sox 2026 record: 6-9 through late October (final record TBD)\n- Cole Mathis correction: traded to Mets (June 25, 2026) for LHP David Peterson — NOT a Cubs prospect",
+        "sources": "- Sources:\n- Fantasy Nerds (Oct 26): https://fantasynerds.com/news/story/2026/10/26/dominick-reid-shines-as-cubs-prospects-compete-in-arizona-fall-league-1661556\n- Roundtable: https://roundtable.io/sports/mlb/cubs/players/two-cubs-prospects-shine-in-arizona-fall-league\n- MLB.com: https://www.mlb.com/news/cubs-arizona-fall-league-overview-2026\n**Why this audience cares:** Fans want to know who's coming up. Reid as an AFL All-Star with the best changeup in the league is a fun prospect note heading into the offseason."
+      },
+      "sources": [
+        {
+          "name": "Fantasy Nerds (Oct 26)",
+          "url": "https://fantasynerds.com/news/story/2026/10/26/dominick-reid-shines-as-cubs-prospects-compete-in-arizona-fall-league-1661556",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Roundtable",
+          "url": "https://roundtable.io/sports/mlb/cubs/players/two-cubs-prospects-shine-in-arizona-fall-league",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "mlb.com",
+          "url": "https://www.mlb.com/news/cubs-arizona-fall-league-overview-2026",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "MLB.com"
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
