@@ -1,5 +1,36 @@
 # COS Parenting — Pipeline Status
 
+## Current Run: 2026-11-14
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Character Stroll at Acacia Park (Sat Nov 14, 11 AM–1 PM, free, Santa/Grinch/Buddy/Elsa/Anna). Handmade HollyDays market (9 AM). History Day at Garden of the Gods Visitor Center (10 AM–2 PM). Anastasia Musical Youth Edition (Ent Center, 2 PM + 6:30 PM). Colorado Cosmic Con (Norris-Penrose, 10 AM). Stroller Safari at Zoo Sunday Nov 15 (9 AM). Taleco Gear baby jumper/swing recall #26-688 (Aug 13 2026, ~41,100 units, Amazon/Walmart/TalecoGear.com, Apr 2021–Jul 2026, fall/strangulation hazard, 52+ incidents, 32+ injuries). D11 "Message Mile" march Nov 10. |
+| Story History Check | COMPLETE | S1 NEW (Saturday events roundup — Character Stroll headliner, different day than Nov 13 S1 which covered Sunday events); S2 FOLLOW-UP (Nov 13 S2: D11 protesters Nov 11 → Message Mile march Nov 10); S3 NEW (Taleco Gear recall #26-688 — different recall from Nov 13 S3 SHEIN/HABA); S4 NEW (Stroller Safari Sunday preview — Nov 13 S1 also covered Stroller Safari as event roundup entry, this is standalone preview); S5 NEW (holiday toy safety evergreen — distinct from Nov 13 S3 specific product recalls) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 T1, 2 T2); bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; CPSC recall claims HIGH from cpsc.gov/Recalls; D11 claims HIGH from Yahoo/FOX21; evergreen S5 no primary sources required |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows (8 AM, 10 AM, 12 PM, 3 PM, 5 PM), angle and format per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts (2 each for S1+S2, 1 each for S3-S5); all ≤280 chars; 4 hashtags each; max 1 exclamation mark; contractions used; fixed 6 char-limit issues found by verify-facts (removed failed draft code blocks, trimmed 2 posts) |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; contractions; 0 exclamation marks; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only concepts (2 per story); clean bottom third for text overlay; no celebrity likenesses; brand kit kAHCKfCZgk0; dimensions 1200x675 |
+| Articles (5) | COMPLETE | article-01 Saturday events (Sarah Morales T1 ~650w, quick reference table); article-02 D11 Message Mile (Jamie Rivera T1 ~700w); article-03 Taleco Gear recall (Sarah Morales T1 ~600w); article-04 Stroller Safari Sunday (Jamie Rivera T2 ~550w); article-05 holiday toy safety evergreen (Sarah Morales T2 ~700w, quick reference table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 60 claims auto-extracted by verify-facts.py; all stories present in all content files; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 10 images; validation all clear |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × 2 images each), all not_started, gemini base_only, dimensions 1200x675, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | proxy 403 (known recurring issue — content-dashboards repo not in session's authorized set) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-11-14.xlsx (7 posts) + cosp-postplanner-tobi-2026-11-14.xlsx (6 TOBI posts) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 blocked by proxy (known recurring issue); 5 HTML article drafts ready locally |
+| Story History | COMPLETE | Nov 14 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 7 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+- **PostPlanner exports:** 7 posts standard + 6 TOBI
+- **Key stories:** Saturday COS events (Character Stroll free at Acacia Park, Anastasia Musical, History Day at Garden of Gods); D11 "Message Mile" march Nov 10 (superintendent investigation transparency + $775M bond oversight); Taleco Gear baby jumper/swing recall #26-688 (~41,100 units, Amazon/Walmart, fall/strangulation hazard, full refund destroy item); Stroller Safari Nocturnal November at Zoo Sunday 9 AM; holiday toy safety guide (age labels = CPSC thresholds, open-ended beats flashy, check cpsc.gov/Recalls)
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); verify-facts found 6 char-limit issues (failed draft code blocks in X posts file + 2 marginally over posts — all fixed by rewriting 03-social-posts-x.md cleanly)
+
+---
+
 ## Current Run: 2026-11-13
 
 | Step | Status | Notes |

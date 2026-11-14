@@ -2,6 +2,50 @@
 
 ---
 
+## November 14, 2026
+
+### Story 1: What to Do in Colorado Springs Today — Character Stroll, Anastasia Musical, History Day, and More
+- **Date:** 2026-11-14
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** Character Stroll at Acacia Park 11 AM–1 PM (free, Santa/Grinch/Buddy/Elsa/Anna). Handmade HollyDays market 9 AM (vendors, food trucks, live music). History Day at Garden of the Gods Visitor Center 10 AM–2 PM (free). Anastasia Musical Youth Edition at Ent Center 2 PM + 6:30 PM. Colorado Cosmic Con at Norris-Penrose 10 AM. Acacia Park ice rink ongoing ($15, kids 4 & under free).
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 2: D11 Protesters Walk a "Message Mile" Demanding Release of Superintendent Investigation
+- **Date:** 2026-11-14
+- **Tier:** T1
+- **Pillar:** Local News
+- **Key Facts:** "Message Mile" march held November 10, 2026. Demanded public release of independent investigation into Supt. Michael Gaal and Deputy Supt. Terry Comfort. D11 says investigation found no wrongdoing; can't release due to litigation. Ties to $775M bond context — largest bond in El Paso County history. Board proposed citizen oversight committee for bond spending. Source: Yahoo/FOX21.
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (Nov 13 S2: D11 protesters Nov 11 / bond accountability)
+
+### Story 3: Taleco Gear Baby Jumpers and Infant Swings Recalled — 41,100 Units, Fall and Strangulation Hazard
+- **Date:** 2026-11-14
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** CPSC recall #26-688 (Aug 13, 2026). ~41,100 units. Sold on Amazon, Walmart, TalecoGear.com (Apr 2021–Jul 2026). Fall, impact, strangulation hazard. 52+ incident reports, 32+ injuries including head bumps. Remedy: full refund, item must be destroyed. Check cpsc.gov/Recalls.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 4: Stroller Safari Nocturnal November at Cheyenne Mountain Zoo — Sunday 9 AM
+- **Date:** 2026-11-14
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Stroller Safari: Nocturnal November at Cheyenne Mountain Zoo, Sunday Nov 15, 9 AM. Designed for stroller-and-toddler set. Guided hands-on experience with nocturnal animals. Good timing before zoo's holiday programming season begins. Check cmzoo.org for registration and pricing.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 5: How to Buy Kids' Gifts That Are Actually Safe and Worth It — Age Labels, Recalls, and What Works
+- **Date:** 2026-11-14
+- **Tier:** T2
+- **Pillar:** Evergreen
+- **Key Facts:** Age range labels = CPSC small-part safety testing thresholds, not marketing. Infants: no cords/strings over 12 inches, sanitizable materials. School-age: open-ended toys (building sets, art supplies, board games) outperform single-function electronics for sustained engagement. Check cpsc.gov/Recalls before buying or accepting baby gear as gift.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+---
+
 ## November 13, 2026
 
 ### Story 1: Things to Do with Kids in COS This Sunday, November 15 — Stroller Safari, Going Batty, and More
