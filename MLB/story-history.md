@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## November 14, 2026
+
+### Story 1: Skubal Free Agency — Mets Are "Probably" the Favorite as California Meetings Begin
+- **Date:** 2026-11-14
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Mets "probably" favorite per Heyman; Mets + Dodgers "primary bidders" per McDaniel; Cubs officially out; Padres have better odds than Dodgers per one insider; Skubal heading to California to meet with both clubs; 8yr/$352M ($44M AAV) would shatter Yamamoto $27M AAV; no QO; turns 30 Nov 20; CBA Dec 1.
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Skubal signing announcement before Dec 1
+  - Mets/Dodgers/Padres formal offer details
+
+### Story 2: QO Deadline November 17 — All 8 Expected to Decline
+- **Date:** 2026-11-14
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** 3 days to QO deadline (Nov 17 4PM ET). 8 players: Suzuki, Arozarena, Bednar, Bauers, Rogers, Jeffers, Lowe, Morejon. All expected to decline. Historical rate 18/157. Mariners interested in Suzuki re-sign; not retaining Arozarena. 14 days after decline before CBA locks everything Dec 1.
+- **Content Produced:** Article (article-02, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - QO decisions Nov 17 (all 8 expected to decline)
+  - First signings after QO deadline
+
+### Story 3: Teruaki Sato Posting Window — Six Teams, CBA Deadline Risk
+- **Date:** 2026-11-14
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Orix Buffaloes posted Sato Nov 1; 45-day window closes Dec 16. 2026 NPB Triple Crown: .308/.385/.613, 39 HR, age 25. Confirmed: Mets, Yankees, Dodgers, Phillies, Padres, Rangers. Stearns flew to Japan in person. Projections: $80M–$120M+. CBA lockout Dec 1 may freeze posting window. Scout concern: 3B defense below MLB average.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sato signing before Dec 1
+  - CBA impact on posting window clarification
+
+### Story 4: CBA Lockout Clock — 17 Days, $258M Cap Offer, No Deal in Sight
+- **Date:** 2026-11-14
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** CBA expires Dec 1 11:59PM ET; owners expected to lock out players. MLB latest: $258.2M cap + $180.2M floor starting 2028. Union: no cap in any form. No deal reported. Last lockout Dec 2 2021 lasted 99 days. Teams already freezing trade discussions. Everything freezes Dec 1.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - CBA expiration / lockout announcement Dec 1
+  - Any deal breakthrough or new proposals
+
+### Story 5: Corey Seager Trade Market — Full NTC, Yankees Linked, No Deal Close
+- **Date:** 2026-11-14
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Rangers exploring Seager trade (Rosenthal/Grant). Full 10&5 no-trade rights — his consent required. 2026: .227 BA, .736 OPS (career lows). Elbow surgery post-season. 5yr/$155-157.5M remaining. Heyman: Yankees have talked to Texas, possible 3B fit. Sherman skeptical. Blue Jays, Red Sox, Dodgers, Braves also mentioned. No deal close.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Seager waives NTC or declines trade
+  - Rangers trade partner announcement
+
+---
+
 ## November 12, 2026
 
 ### Story 1: GM Meetings Final Day Wrap — Key Intelligence from Las Vegas

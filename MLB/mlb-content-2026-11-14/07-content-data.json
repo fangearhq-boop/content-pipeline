@@ -1,0 +1,275 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-14",
+  "compiled_at": "2026-11-14T10:25:11.507394+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 — Skubal Mets Favorite",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 — QO Deadline 3 Days",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 — Sato Window Narrowing",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 — CBA Lockout 17 Days",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 — Seager Trade Market",
+      "type": "X + Facebook"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Skubal Free Agency — Mets Emerge as Favorite After California Meetings Begin",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Mets are \"probably\" the favorite to land Tarik Skubal, per Jon Heyman.\n\nCubs are out. Padres have better odds than the Dodgers per one insider. Skubal turns 30 Nov. 20 and CBA expires Dec. 1.\n\nThe race is on. #MLB #Mets",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Mets"
+          ],
+          "char_count": 223
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Skubal projections: 8 years, $352 million — $44M AAV.\n\nThat would shatter Yamamoto's $27M AAV record for starting pitchers by $17 million.\n\nThe Mets may be paying for the most expensive arm in baseball history. #MLB #Mets #Dodgers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Mets",
+            "#Dodgers"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "The Tarik Skubal sweepstakes is entering the home stretch — and the New York Mets are starting to look like the front-runner. ⚾\n\nJon Heyman reported that the Mets are \"probably\" the favorite to land Skubal, with ESPN's Kiley McDaniel naming them and the Dodgers as the \"primary bidders.\" The Cubs have officially dropped out of the race. The Padres have reportedly emerged with better odds than the Dodgers, per one insider.\n\nSkubal is headed to California to meet with teams — the Dodgers get their pitch, the Padres get their pitch, and the Mets have reportedly been in deep contact throughout. Here's the financial picture: projections have him landing an 8-year, $352 million deal ($44M AAV). That would shatter Yamamoto's record of $27M AAV for a starting pitcher by $17 million.\n\nThe CBA clock adds urgency to everything. The collective bargaining agreement expires Dec. 1 — a lockout would freeze all signings until a new deal is reached. That's why Skubal, his agent, and all six bidding teams are pushing to get this done before the month ends.\n\nHe turns 30 on Nov. 20. No trade clause to worry about. No qualifying offer. Pure, open market. This is the most consequential free agent signing in MLB in years.",
+        "image_caption": "The Mets are \"probably\" the favorite to land Tarik Skubal. ⚾ $352M. 8 years. $44M AAV. Clock is ticking before the CBA expires Dec. 1.",
+        "posting_time": "Window: 8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-skubal-mets-favorite-free-agency-dodgers-padres.html",
+        "headline": "Skubal Free Agency: Mets Are \"Probably\" the Favorite as California Meetings Begin",
+        "word_count": 538
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Skubal Free Agency — Mets Emerging\n**Facts (HIGH confidence):**\n- Six teams meeting Skubal (AP confirmed)\n- Mets and Dodgers primary bidders per ESPN's Kiley McDaniel\n- Jon Heyman: Mets \"probably\" the favorite; widespread expectation of Mets\n- Cubs officially out of bidding\n- Padres have better odds than Dodgers per Jon Heyman (4-1 Padres vs 5-1 Dodgers)\n- Skubal prefers West Coast (Bowden reporting)\n- CBA expires Dec. 1; Skubal hopes to sign before lockout\n- Skubal turns 30 on Nov. 20\n- Projections: 8yr/$352M ($44M AAV) per Kiley McDaniel — would shatter Yamamoto's $27M AAV record\n**Facts (MEDIUM confidence):**\n- Dodgers GM Brandon Gomes acknowledged club's interest\n- Mets downplaying chances publicly per Bob Nightengale\n- No confirmed contract as of search date",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "QO Deadline Three Days Away — All 8 Players Expected to Decline",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The QO deadline is Nov. 17 — 3 days from now.\n\n8 players. All expected to decline $23.15M one-year offers.\n\nThe moment they do, the free agent market accelerates — right before the CBA expires Dec. 1.\n\nTime is running out. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 227
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Mariners will try to re-sign Seiya Suzuki (26 HR, 5.1 WAR, career best) after he declines his QO.\n\nRandy Arozarena? Not so much — Seattle not interested in retaining him.\n\nNov. 17 is the starting gun. #Mariners #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Mariners",
+            "#MLB"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "The qualifying offer clock is ticking — and when it expires on Nov. 17, the free agent market will explode. For about 72 hours.\n\nEight players received $23.15 million qualifying offers from their teams earlier this month. They have until 4 PM ET on Tuesday, Nov. 17 to accept and return to their current clubs on a one-year deal — or decline and enter the open market.\n\nHere's who we're talking about:\n- **Seiya Suzuki** (Cubs) — 26 HR, 86 RBI, career-best 5.1 WAR\n- **Randy Arozarena** (Mariners) — 26 HR, .281/.381/.484\n- **David Bednar** (Yankees) — the Yankees' top closer candidate\n- **Jake Bauers** (Brewers) | **Trevor Rogers** (Orioles) | **Ryan Jeffers** (Twins) | **Brandon Lowe** (Pirates) | **Adrian Morejon** (Padres)\n\nHistorically, 18 of 157 players who've received QOs have ever accepted. All 8 of these players are expected to decline and enter free agency.\n\nThe catch: once they decline on Nov. 17, there are only 14 days before the CBA expires Dec. 1. That window is when you'll see the first big signings of the offseason.",
+        "image_caption": "Nov. 17. 4 PM ET. That's when 8 qualifying offer decisions come in — and the offseason officially begins. All 8 expected to decline. ⚾ #MLB",
+        "posting_time": "Window: 10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-qualifying-offer-deadline-november-17-suzuki-arozarena.html",
+        "headline": "Qualifying Offer Deadline November 17: Suzuki, Arozarena, and 6 Others Expected to Decline",
+        "word_count": 505
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "QO Deadline\n**Facts (HIGH confidence):**\n- 8 QO recipients: Seiya Suzuki (Cubs), Randy Arozarena (Mariners), David Bednar (Yankees), Jake Bauers (Brewers), Trevor Rogers (Orioles), Ryan Jeffers (Twins), Brandon Lowe (Pirates), Adrian Morejon (Padres)\n- QO value: $23.15M per player\n- Deadline: November 17, 4 PM ET\n- Historical acceptance rate: 18 of 157 have ever accepted\n- All 8 expected to decline\n- Arozarena stats: 26 HR, .281/.381/.484, 154 games\n- Suzuki stats: 26 HR, 86 RBI, 5.1 WAR (career best)\n- Mariners interested in Suzuki re-sign; NOT re-signing Arozarena\n- Post-decline: signing team forfeits a draft pick (end of 1st round or competitive balance round B)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Teruaki Sato Posting Window Narrowing — Dec 1 CBA Freeze Risk",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Teruaki Sato's posting window closes Dec. 16 — but Dec. 1 CBA lockout could freeze everything first.\n\nNPB Triple Crown. .308/.385/.613. 39 HR. Age 25.\n\nThe Mets, Yankees, Dodgers, Phillies, Padres AND Rangers all want him. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "Teruaki Sato won Japan's Nippon Professional Baseball Triple Crown in 2026. He's 25 years old. He posted a .308/.385/.613 slash line with 39 home runs. And he may become the most sought-after international hitter since Shohei Ohtani. ⚾\n\nSato was posted by the Orix Buffaloes on Nov. 1. The 45-day negotiating window would normally close Dec. 16. But there's a problem: the MLB lockout, expected to begin Dec. 1, could freeze that window — stopping any deal from being finalized.\n\nThe confirmed bidders as of this writing: the Mets, Yankees, Dodgers, Phillies, and Padres. The Rangers have also shown interest. Mets GM David Stearns reportedly flew to Japan to scout him in person — a signal of serious intent.\n\nWhat's his price? MLBTR projected $80M over four years. Bleacher Report projected $120M over six. Some analysts believe the market will push even higher.\n\nThere is a minor knock on Sato: scouts have flagged that his defense at third base may be below MLB average. He could be a DH candidate in the American League, which opens up the Yankees and Rangers as natural fits.\n\nThree weeks to get a deal done. The clock is running. 🕐",
+        "image_caption": "Teruaki Sato: NPB Triple Crown, .308/.385/.613, 39 HR. Age 25. Six teams want him. Dec. 1 CBA lockout could freeze the market. ⚾",
+        "posting_time": "Window: 12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-teruaki-sato-posting-window-cba-lockout-deadline.html",
+        "headline": "Teruaki Sato: Triple Crown, Six Bidders, and a Race Against the CBA Clock",
+        "word_count": 492
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Teruaki Sato\n**Facts (HIGH confidence):**\n- Posted by Orix Buffaloes Nov. 1\n- 45-day posting window closes Dec. 16\n- 2026 NPB Triple Crown: .308/.385/.613, 39 HR\n- Age 25\n- Confirmed bidders: Mets, Yankees, Dodgers, Phillies, Padres\n- Rangers newly interested (MLBTR Nov 2026)\n- CBA lockout Dec. 1 may pause or not pause the window (reporting unclear)\n- Posting fee tiered: 20% first $25M, 17.5% next $25M, 15% beyond $50M\n**Facts (MEDIUM confidence):**\n- Contract projections: $80M/4yr (Heyman) to $120M/6yr (Bleacher Report)\n- Scout concern: 3B defense below MLB average\n- Mets: Stearns flew to Japan to scout",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "CBA Lockout Clock — 17 Days Left, No Deal in Sight",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "17 days until the CBA expires and owners lock out players.\n\nMLB's latest offer: $258.2M salary cap (starting 2028). The union says no to any cap.\n\nIf this plays out like 2021, baseball goes dark for 99 days. #MLB #CBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#CBA"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "Baseball's offseason is running against the clock. ⏱️\n\nThe CBA — Major League Baseball's collective bargaining agreement — expires at 11:59 PM ET on December 1. When it does, the owners are widely expected to lock out the players, freezing all transactions until a new deal is reached.\n\nWhere do talks stand? Not close.\n\nMLB's latest offer: a $258.2 million salary cap and $180.2 million floor, with implementation delayed until 2028 — not immediately. The MLB Players Association's response has been consistent: no salary cap, period. The union also wants earlier free agency and a higher luxury tax threshold (~$300M).\n\nThe last lockout started Dec. 2, 2021 and lasted 99 days. It ended March 10, 2022, with minimal damage to the season. If this one drags on longer, the 2027 season could be affected.\n\nWhat freezes on Dec. 1:\n- All free agent signings (Skubal, Arozarena, Suzuki, everyone)\n- All trades (Seager, every deadline name)\n- Teruaki Sato's posting window (possibly)\n- Minor league contracts, extensions, everything\n\nTeams are already freezing trade discussions. The window to do business is 17 days long. ⏰",
+        "image_caption": "17 days until the CBA expires and owners lock out players. MLB offered a $258.2M cap. The union said no. Clock is ticking. ⏱️ #MLB #CBA",
+        "posting_time": "Window: 3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-cba-lockout-17-days-no-deal-salary-cap.html",
+        "headline": "CBA Lockout Clock: 17 Days, No Deal in Sight, and Baseball's Winter on the Line",
+        "word_count": 477
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "CBA Lockout\n**Facts (HIGH confidence):**\n- CBA expires Dec. 1, 2026 at 11:59 PM ET\n- Owners widely expected to lock out players\n- MLB latest proposal: $258.2M salary cap, $180.2M floor, starting 2028\n- Union: firmly opposed to any salary cap\n- No deal reported from any outlet\n- Last lockout: Dec. 2, 2021 – March 10, 2022 (99 days)\n- Freeze stops all FA signings, trades during lockout\n- Teams already freezing trade discussions\n**Facts (MEDIUM confidence):**\n- ~5% deal odds cited by multiple sources\n- Could push back 2027 season if lockout lasts 90+ days\n- Phillies Dombrowski: \"productive\" talks at GM Meetings",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Corey Seager Trade Market — Full No-Trade Clause, Yankees Interest Real But Skeptics Loud",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Rangers exploring trading Corey Seager — but Seager has full no-trade rights.\n\nNo deal happens without his blessing. He hit .227 in 2026 and had elbow surgery. $155M still owed.\n\nThe Yankees are linked. So is everyone else. #Rangers #Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rangers",
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "The Texas Rangers are willing to trade Corey Seager. There's just one problem: Seager has to agree to it. ⚾\n\nThe Athletic's Ken Rosenthal and Will Leitch Grant first reported this week that the Rangers are exploring trading their star shortstop at the GM Meetings. Texas' 2027 payroll target is near $193M, and moving Seager — still owed $155-157.5M over five more years — would create significant flexibility.\n\nHere's the catch: Seager has earned full 10-and-5 no-trade rights after 10 MLB seasons and five with his current team. No deal happens without his blessing.\n\nThe fit question is real too. Seager had the worst offensive season of his career in 2026 — a .227 batting average and .736 OPS (career lows). He had elbow surgery after the season. The contract made sense when he signed it; it's starting to look heavy now.\n\nWho's interested? The Yankees have talked to Texas about Seager, with Jon Heyman suggesting a possible fit at third base. Joel Sherman is skeptical — the Yankees already have a lineup with left-handed power. Blue Jays, Red Sox, Dodgers, and Braves have also been mentioned.\n\nNo deal is close. And whatever happens, Seager will have the final say.",
+        "image_caption": "Rangers want to trade Corey Seager. Seager has full no-trade rights. The Yankees are linked. No deal is close. ⚾ The Hot Stove is officially burning. #Rangers #Yankees #MLB",
+        "posting_time": "Window: 6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-corey-seager-trade-rangers-yankees-no-trade-clause.html",
+        "headline": "Rangers Exploring Corey Seager Trade — But He Has Full No-Trade Rights",
+        "word_count": 507
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Corey Seager Trade\n**Facts (HIGH confidence):**\n- Rangers exploring Seager trade (Rosenthal/Grant, The Athletic)\n- Seager has full 10&5 no-trade rights (his consent required)\n- 2026: .227 BA, .736 OPS (career lows)\n- Elbow surgery post-2026 season\n- Contract: 5 years/$155-157.5M remaining\n- Jon Heyman (NY Post): Yankees talked to Rangers, interest level unknown\n- Joel Sherman skeptical of Yankees fit\n- Other suitors mentioned: Blue Jays, Red Sox, Dodgers, Braves\n**Facts (MEDIUM confidence):**\n- Heyman: Seager could play 3B for Yankees to address weakness\n- Rangers payroll target: near $193M (Chris Young, 2027)\n- No trade close as of latest reports",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
