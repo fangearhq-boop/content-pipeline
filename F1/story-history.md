@@ -672,3 +672,42 @@
 - **Key facts:** Race date Nov 21; Apple TV broadcast; Antonelli could clinch title in Las Vegas
 - **Byline:** Marcus Cole
 - **Status:** NEW
+
+---
+
+## 2026-11-14
+
+### STORY 1: Las Vegas GP Preview — Verstappen the Favorite
+- **Tier:** 1
+- **Category:** Las Vegas Grand Prix / Max Verstappen / Lando Norris
+- **Key facts:** Vegas race Nov 19-21; Verstappen early betting favorite (13/8); Norris warns of narrow 2026 tire window; 3.8-mile circuit, 17 turns
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: P2 Championship Battle — Verstappen-Russell-Hamilton
+- **Tier:** 1
+- **Category:** 2026 F1 Championship / Max Verstappen / George Russell / Lewis Hamilton
+- **Key facts:** Verstappen leads Russell by 17 pts; Hamilton 1 pt behind Russell; 75 pts maximum remaining (3 races)
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Norris Tire Warning at Las Vegas
+- **Tier:** 2
+- **Category:** Lando Norris / McLaren / Las Vegas GP / 2026 F1 Tires
+- **Key facts:** Norris warns of "extremely narrow operating window" for 2026 tires at Las Vegas; McLaren has upgraded package from Brazil
+- **Byline:** Elena Voss
+- **Status:** NEW
+
+### STORY 4: Antonelli — Youngest F1 Champion in History
+- **Tier:** 2
+- **Category:** Kimi Antonelli / Mercedes / 2026 F1 Championship
+- **Key facts:** Youngest F1 champion in history; clinched in Mexico City; Mercedes 9th constructors' title (first since 2021)
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: Final Three Races — Las Vegas, Qatar, Abu Dhabi
+- **Tier:** 2
+- **Category:** F1 2026 Season / Las Vegas GP / Qatar GP / Abu Dhabi GP
+- **Key facts:** 3 races remaining; P2 battle main drama; Las Vegas Nov 19-21
+- **Byline:** Marcus Cole
+- **Status:** NEW

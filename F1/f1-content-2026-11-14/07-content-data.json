@@ -1,0 +1,327 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-14",
+  "compiled_at": "2026-11-14T11:22:27.947951+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Las Vegas GP Preview — One Week Out, Verstappen the Favorite",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "One week until Las Vegas. 🎰\n\nMax Verstappen is the early favorite after his 21st-to-2nd charge in Brazil.\n\nThe Strip is about to become a racetrack. Are you watching?\n\n#LasVegasGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LasVegasGP",
+            "#F1"
+          ],
+          "char_count": 183
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Lando Norris is already warning about Las Vegas:\n\n\"The 2026 tires have an extremely narrow operating window.\"\n\nThe Strip circuit could produce chaos. Buckle up for a wild weekend.\n\n#LasVegasGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LasVegasGP",
+            "#F1"
+          ],
+          "char_count": 196
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-las-vegas-gp-preview-verstappen-favorite.html",
+        "headline": "Las Vegas GP Preview: Verstappen Enters as Favorite for November 19-21 Showdown on the Strip",
+        "word_count": 593
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Las Vegas GP Preview\n**Key Facts (HIGH confidence):**\n- Las Vegas GP dates: November 19-21, 2026\n- Race day: Saturday night local time (sources mostly agree on Saturday night, some say Sunday Nov 22)\n- Verstappen is early betting favorite (13/8 at some bookmakers)\n- Circuit: 3.8-mile street circuit, 17 turns, Las Vegas Strip\n- No Sprint event at Las Vegas\n- Lando Norris warned about narrow tire operating window for 2026 cars\n**Sources:** ESPN preview, TheSpread odds, Sky Sports schedule",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "P2 Championship Shootout — Verstappen Leads Russell by 17, Hamilton Right Behind",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The title fight for No. 2 is REAL.\n\nVerstappen leads Russell by just 17 points. Hamilton is 1 behind Russell. Three races to go.\n\nLas Vegas. Qatar. Abu Dhabi. Someone will finish 2026 as runner-up. Who? 🏆\n\n#F1 #F12026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F12026"
+          ],
+          "char_count": 217
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Verstappen has 17 points on Russell. Hamilton has 1 point on NOBODY.\n\nThis is what a P2 championship fight looks like. All three can still finish second in 2026.\n\n#F1 #LasVegasGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 178
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-p2-championship-battle-verstappen-russell-hamilton.html",
+        "headline": "Verstappen Leads Russell by 17, Hamilton Right Behind: F1's P2 Battle Heats Up",
+        "word_count": 550
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "P2 Championship Battle\n**Key Facts (HIGH confidence — multiple sources agree):**\n- Kimi Antonelli: 2026 F1 Drivers' Champion (sealed in Mexico City, Oct/Nov 2026)\n- Max Verstappen: P2 in championship after Brazil\n- George Russell: leads 3rd place by some margin after Brazil; Verstappen leads Russell by 17 pts\n- Lewis Hamilton: 1 point behind Russell for 3rd\n- Verstappen cannot catch Antonelli; championship battle is for 2nd place\n- 75 points maximum remaining (3 races × 25 pts)\n**Sources:** SI F1 standings: https://www.si.com/onsi/f1/news/f1-standings-and-results-after-the-2026-brazilian-grand-prix, Sky Sports",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "SI F1 standings",
+          "url": "https://www.si.com/onsi/f1/news/f1-standings-and-results-after-the-2026-brazilian-grand-prix",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Norris's Las Vegas Warning — 2026 Tires Create Narrow Operating Window",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Norris on Las Vegas: narrow tire windows, tricky setup, high risk.\n\nMcLaren's new upgrade package is working — but Las Vegas is a different beast.\n\nThe 2026 cars are going to be tested hard on the Strip. 🔥\n\n#LasVegasGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LasVegasGP",
+            "#F1"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-norris-tire-warning-las-vegas-2026.html",
+        "headline": "Norris Warns of 2026 Tire Challenge at Las Vegas: 'Extremely Narrow Operating Window'",
+        "word_count": 540
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Norris Tire Warning\n**Key Facts (MEDIUM — single source):**\n- Norris warned that the 2026 cars have an extremely narrow tire operating window at Las Vegas\n- McLaren has a heavily-upgraded car that performed well in São Paulo\n- Norris won São Paulo from pole (3rd win of season, ended 7-race winless run)\n- Brazil win margin: 14.6 seconds over Verstappen\n**Sources:** F1 preview reporting",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Kimi Antonelli at 20 — The Youngest F1 Champion in History",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Kimi Antonelli. F1 World Champion. 20 years old.\n\nThe youngest champion in Formula 1 history sealed his title in Mexico City and hasn't looked back.\n\nMercedes. Dominant. Historic. 🏆\n\n#F1 #KimiAntonelli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#KimiAntonelli"
+          ],
+          "char_count": 201
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-antonelli-youngest-f1-champion-history.html",
+        "headline": "Kimi Antonelli: The 20-Year-Old Who Became Formula 1's Youngest World Champion",
+        "word_count": 472
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Championship\n**Key Facts (HIGH confidence — multiple sources):**\n- Kimi Antonelli: youngest F1 champion in history\n- Age: approximately 19-20 years old\n- Title clinched: Mexico City Grand Prix (Nov 1, 2026)\n- Mercedes 2026 Constructors' Champions (sealed in Brazil, Nov 8)\n- Antonelli's first F1 season as a full-time driver\n- Mercedes' ninth Constructors' Championship, first since 2021\n**Sources:** Motorsport Week, Sky Sports, Yahoo Sports (confirmed multiple sources)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Final Three Races — What Las Vegas, Qatar, and Abu Dhabi Will Decide",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Three races left in 2026:\n\n🎰 Las Vegas — Nov 19-21\n🇶🇦 Qatar — December\n🇦🇪 Abu Dhabi — Final round\n\nP2 fight. Race wins. Constructor positions. The season isn't over yet.\n\n#F1 #F12026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F12026"
+          ],
+          "char_count": 182
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-f1-final-three-races-las-vegas-qatar-abu-dhabi.html",
+        "headline": "Three Races to Go: What Las Vegas, Qatar, and Abu Dhabi Will Decide in F1's 2026 Finale",
+        "word_count": 541
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Final Three Races\n**Key Facts (HIGH confidence):**\n- Las Vegas GP: November 19-21, 2026\n- Qatar GP and Abu Dhabi GP follow in December\n- P2 battle: Verstappen +17 over Russell, Hamilton +18 behind Verstappen (1 behind Russell)\n- 75 points maximum available (3 races)\n**Sources:** F1 calendar, SI standings",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
