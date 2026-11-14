@@ -1,0 +1,330 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-14",
+  "compiled_at": "2026-11-14T11:27:34.506795+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Austin Championship — Crowe Leads as R2 Resumes Saturday Morning",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Trace Crowe opened with a career-best 62 and leads the Austin Championship at -13.\n\nPlay resumes this morning to finish Round 2. Round 3 follows.\n\nA first-time PGA Tour winner could be emerging in Austin. 👀\n\n#PGATour #AustinChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#AustinChampionship"
+          ],
+          "char_count": 236
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Brian Harman is at -11 and very much in this.\n\n67-66 through two rounds at the Austin Championship. The veteran knows how to close on a Sunday.\n\nThis tournament is heating up. 🏌️\n\n#PGATour #BrianHarman",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#BrianHarman"
+          ],
+          "char_count": 201
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-austin-championship-crowe-leads-round2-suspended.html",
+        "headline": "Crowe Carries One-Shot Lead as Darkness Suspends Austin Championship Round 2",
+        "word_count": 527
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Austin Championship Leaderboard\n**Key Facts (HIGH confidence — multiple sources):**\n- Trace Crowe: leader at -13 through 16 holes of R2 (R2 suspended due to darkness)\n- Kevin Yu: -12 (second place)\n- Brian Harman: -11 (tied third, R1 67 + R2 66 = 133 total)\n- Kristoffer Ventura: -11 (tied third)\n- R2 resumes Saturday morning (Nov 14)\n- Round 3 begins Saturday after R2 completion\n- Tournament through Nov 15 (Sunday final)\n- Crowe's Round 1: 62 (career-best opening round)\n- Event: Fazio Canyons Course at Omni Barton Creek Resort & Spa, Austin, TX\n- Prize purse: $6 million\n**Sources:** Golf Today (confirmed), Fox Sports, ESPN",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "ANNIKA at Pelican — Three-Way Tie at the Top Through 36 Holes",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "THREE-WAY TIE at the ANNIKA at Pelican through 36 holes:\n\nCiganda -12\nDuncan -12\nChoi -12\n\nOne of them is going to have to blink. Round 3 is today. ⛳\n\n#LPGA #ANNIKA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#ANNIKA"
+          ],
+          "char_count": 164
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Nelly Korda is 4 back at the ANNIKA at Pelican.\n\n4 strokes is nothing for the world No. 1. She has gone lower.\n\nWatch out. 🔭\n\n#LPGA #NellyKorda",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#NellyKorda"
+          ],
+          "char_count": 143
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-annika-pelican-ciganda-duncan-choi-three-way-tie.html",
+        "headline": "Ciganda, Duncan, Choi in Three-Way Tie at ANNIKA as Korda Lurks Four Back",
+        "word_count": 564
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ANNIKA at Pelican Leaderboard\n**Key Facts (HIGH confidence — multiple sources):**\n- Three-way tie at -12: Carlota Ciganda (65-63), Lindy Duncan (62-66), Hye-Jin Choi (61-67)\n- Nelly Korda: -8 (4 strokes back)\n- Mao Saigo and Minami Katsu: -10\n- Round 3 is Saturday November 14\n- Event: Pelican Golf Club, Belleair, FL; $3.25 million purse\n- Penultimate LPGA Tour event of 2026 season\n**Sources:** ESPN ANNIKA leaderboard (confirmed), Golf Channel round 3 tee times article",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "LIV Golf Bankruptcy Plan Filed — $45M+ Owed to Players, Rahm Claim Tops $100M",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "New details from LIV Golf's bankruptcy filing:\n\n💸 $45M+ owed to players\n💸 Jon Rahm reportedly owed more than $100M\n\nDisclosure hearing: Nov. 24\nTarget liquidation: January 2027\n\nThe fallout continues. #Golf #LIVGolf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Golf",
+            "#LIVGolf"
+          ],
+          "char_count": 215
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Jon Rahm walked away from LIV Golf.\n\nHe may lose more than $100 million in the process.\n\nThe five-year Saudi experiment has ended, and nobody is walking away clean. #LIVGolf #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#Golf"
+          ],
+          "char_count": 179
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-liv-golf-bankruptcy-plan-45-million-rahm-claim.html",
+        "headline": "LIV Golf Files Bankruptcy Plan: $45M+ Owed to Players, Rahm's Claim Exceeds $100M",
+        "word_count": 549
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf Bankruptcy Details\n**Key Facts (HIGH confidence — multiple AP-syndicated sources):**\n- LIV Golf filed formal bankruptcy plan: November 10, 2026\n- Target: January 2027 liquidation\n- Disclosure statement hearing: November 24, 2026\n- Unsecured creditors committee meeting: November 20\n- At least $45 million owed to players total\n- Jon Rahm reportedly owed more than $100 million from his contract\n- Judge approved Rahm's separation from LIV Golf\n- Saudi PIF ($5 billion invested) ended funding after 2026 season\n- BC Partners' $300 million LIV 2.0 pledge terminated (Restructuring Support Agreement terminated)\n- PGA Tour has NOT indicated reinstatement path for LIV players\n**Sources:** NBC Sports (AP story, Nov 10), CBS Sports, Yahoo Sports (confirmed multiple sources)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Korda's ANNIKA Chase — World No. 1 Lurks 4 Shots Back",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Never count out Nelly Korda.\n\nShe's at -8, sitting 4 behind the ANNIKA leaders. With two rounds left, that gap is completely closeable.\n\nThe world No. 1 is coming. ⛳\n\n#LPGA #NellyKorda #ANNIKA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#NellyKorda",
+            "#ANNIKA"
+          ],
+          "char_count": 192
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-korda-annika-chase-world-no1-four-back.html",
+        "headline": "Korda Enters ANNIKA Round 3 Just Four Back — World No. 1 is Dangerous",
+        "word_count": 468
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Nelly Korda at ANNIKA\n**Key Facts (HIGH confidence — single source, strong):**\n- Nelly Korda: -8 through 2 rounds (4 strokes back from -12 leaders)\n- Korda is world No. 1\n- Round 3 Saturday; Round 4 Sunday (final round)\n**Sources:** ESPN ANNIKA leaderboard",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Post-LIV Player Futures — DP World Tour Path Narrows as PGA Tour Waits",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Where do LIV players go now?\n\nPGA Tour: no reinstatement path yet\nDP World Tour: possible, but not guaranteed spots in big events\nQ-School: an option for some\n\nThe post-LIV era has no easy answers. #LIVGolf #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#PGATour"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-post-liv-player-futures-dp-world-tour-pga-path.html",
+        "headline": "Post-LIV Player Futures: The Road Back Is Long, Uncertain, and Costly",
+        "word_count": 583
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Post-LIV Player Futures\n**Key Facts (HIGH confidence — multiple sources):**\n- PGA Tour NOT offering clear reinstatement path until bankruptcy completed\n- DP World Tour offers 10 PGA Tour cards to its top finishers — an option for some\n- Jon Rahm, Sergio Garcia, Tyrrell Hatton, Louis Oosthuizen did not commit to LIV 2.0\n- Brooks Koepka already returned to PGA Tour (with penalties)\n- Bryson DeChambeau: LIV contract expires after 2026 season, situation unclear\n- Many former LIV players don't have guaranteed DP World Tour membership for 2027\n- PGA Tour \"past winners\" provision provides some access to smaller events only\n**Sources:** CBS Sports (confirmed), Yahoo Sports, Sky Sports",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

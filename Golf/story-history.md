@@ -494,3 +494,42 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** ANNIKA driven by Gainbridge at Pelican Nov 12-15 (Belleair FL); CME Group Tour Championship Nov 19-22 (Tiburón Naples FL); season ends Nov 22
 - **Byline:** Jake Torres
 - **Status:** NEW
+
+---
+
+## 2026-11-14
+
+### STORY 1: Austin Championship — Crowe Leads, R2 Suspended
+- **Tier:** 1
+- **Category:** PGA Tour / Austin Championship / Trace Crowe / Brian Harman
+- **Key facts:** Crowe -13 through 16 holes of R2 (suspended darkness); Yu -12; Harman -11; Crowe's R1 was 62 (career best); tournament through Nov 15
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: ANNIKA at Pelican — Three-Way Tie
+- **Tier:** 1
+- **Category:** LPGA / ANNIKA at Pelican / Carlota Ciganda / Lindy Duncan / Hye-Jin Choi / Nelly Korda
+- **Key facts:** Ciganda (65-63), Duncan (62-66), Choi (61-67) all at -12; Korda -8 (4 back); R3 today; $3.25M purse; Belleair, FL
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 3: LIV Golf Bankruptcy Plan Filed
+- **Tier:** 2
+- **Category:** LIV Golf / Bankruptcy / Jon Rahm
+- **Key facts:** Filed Nov 10; $45M+ owed to players; Rahm reportedly $100M+; hearing Nov 24; target Jan 2027 liquidation; PIF invested ~$5B; BC Partners $300M pledge terminated
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 4: Korda's ANNIKA Chase
+- **Tier:** 2
+- **Category:** Nelly Korda / LPGA / ANNIKA at Pelican
+- **Key facts:** Korda -8, 4 back from leaders; world No. 1; R3 Saturday; 2 rounds to erase gap
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: Post-LIV Player Futures
+- **Tier:** 2
+- **Category:** LIV Golf / PGA Tour / DP World Tour / Jon Rahm / Bryson DeChambeau
+- **Key facts:** PGA Tour no reinstatement path until bankruptcy complete; DP World Tour option but limited; Koepka already back with penalties; DeChambeau contract expires after 2026
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
