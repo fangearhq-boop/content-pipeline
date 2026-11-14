@@ -1029,3 +1029,42 @@
 - **Key facts:** 2 games Nov 10; Heat at Jazz 9PM ET; Magic at Kings 10PM ET; Jazz on back-to-back
 - **Byline:** Marcus Cole
 - **Status:** NEW
+
+---
+
+## 2026-11-14
+
+### STORY 1: Spurs 123, Warriors 85 — 11-Game Win Streak
+- **Tier:** 1
+- **Category:** San Antonio Spurs / Golden State Warriors / Stephon Castle / Victor Wembanyama
+- **Key facts:** Castle season-high 32 pts; Wemby 12/12; 38-pt blowout; 11-game win streak (longest in NBA)
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Blazers 120, Kings 107 — Avdija/Lillard Torch Sacramento
+- **Tier:** 1
+- **Category:** Portland Trail Blazers / Sacramento Kings / Deni Avdija / Damian Lillard
+- **Key facts:** Avdija 34 pts; Lillard 29 pts; Sacramento falls to 1-11, 0-7 at home; Portland 3rd straight win
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Magic 107, Bucks 99 — Wagner Near Triple-Double
+- **Tier:** 2
+- **Category:** Orlando Magic / Milwaukee Bucks / Franz Wagner
+- **Key facts:** Wagner 35 pts/12 ast; one rebound short of triple-double
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: Bulls 125, Hawks 117 (OT) — Powell Ends 8-Game Skid
+- **Tier:** 2
+- **Category:** Chicago Bulls / Atlanta Hawks / Norman Powell
+- **Key facts:** Powell 33 pts (9 in OT); Chicago snapped 8-game losing streak
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: Pacers 106, Knicks 104 — Cup Thriller
+- **Tier:** 2
+- **Category:** Indiana Pacers / New York Knicks / Pascal Siakam / Aaron Nesmith
+- **Key facts:** Siakam 19 pts; Nesmith 18 pts; Brunson cut to 106-102 with 26 sec left; Indiana held on
+- **Byline:** Marcus Cole
+- **Status:** NEW

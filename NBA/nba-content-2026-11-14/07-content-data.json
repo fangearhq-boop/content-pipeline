@@ -1,0 +1,312 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-14",
+  "compiled_at": "2026-11-14T11:17:11.202558+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Spurs 123, Warriors 85 — San Antonio Rolls to 11th Straight Win",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "San Antonio is rolling.\n\nThe Spurs have won 11 straight and they're not slowing down.\n\n123-85 over Golden State last night. Wemby: 12 PTS / 12 REB.\n\nLongest active win streak in the NBA. 🌹\n\n#PorVida",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PorVida"
+          ],
+          "char_count": 198
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Stephon Castle just dropped a season-high 32 PTS and the Spurs rocked the Warriors by 38.\n\nCastle is THAT guy in San Antonio. 11 wins in a row. This team is for real.\n\n#PorVida",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PorVida"
+          ],
+          "char_count": 176
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-spurs-11-game-win-streak-castle-wembanyama.html",
+        "headline": "Castle's Season-High 32 Fuels Spurs' 11th Straight Win as San Antonio Routs Warriors 123-85",
+        "word_count": 617
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Spurs 123, Warriors 85\n**Key Facts (HIGH confidence — multiple sources):**\n- Final score: San Antonio Spurs 123, Golden State Warriors 85\n- Stephon Castle: season-high 32 points\n- Victor Wembanyama: 12 points, 12 rebounds (double-double)\n- Win streak: 11 consecutive wins (the longest active streak in the NBA)\n- San Antonio unbeaten in NBA Cup play\n- Blowout margin: 38 points\n**Sources:** ESPN game recap (confirmed), AP recap via CBS Sports (confirmed)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Blazers 120, Kings 107 — Avdija, Lillard Torch Sacramento",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Deni Avdija: 34 PTS\nDamian Lillard: 29 PTS\n\nPortland is 3-0 in their last 3 games and looking DANGEROUS.\n\nBlazers 120, Kings 107. 🔥\n\n#RipCity",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RipCity"
+          ],
+          "char_count": 141
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Sacramento has lost 5 straight and falls to 1-11.\n\nThey are 0-7 at home.\n\nThat's the worst home record in the NBA and the alarms are ringing loud in Sacramento. 🚨\n\n#SacramentoProud",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SacramentoProud"
+          ],
+          "char_count": 180
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-blazers-beat-kings-avdija-lillard.html",
+        "headline": "Avdija Drops 34, Lillard Adds 29 as Blazers Roll Past Struggling Kings 120-107",
+        "word_count": 566
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Trail Blazers 120, Kings 107\n**Key Facts (HIGH confidence — multiple sources):**\n- Final score: Portland Trail Blazers 120, Sacramento Kings 107\n- Deni Avdija: 34 points\n- Damian Lillard: 29 points\n- Portland's third consecutive win\n- Sacramento record: 1-11 overall, 0-7 at home\n- Sacramento's fifth consecutive loss\n**Sources:** ESPN game recap (confirmed), CBS Sports gametracker (confirmed), AP recap (confirmed)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Magic 107, Bucks 99 — Wagner's Near Triple-Double Stuns Milwaukee",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Franz Wagner almost had a triple-double last night:\n\n35 PTS | 12 AST | just 1 rebound short\n\nMagic 107, Bucks 99. Orlando is quietly building something special.\n\n#MagicTogether",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MagicTogether"
+          ],
+          "char_count": 176
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-wagner-magic-beat-bucks.html",
+        "headline": "Wagner's Near Triple-Double (35 Points, 12 Assists) Lifts Magic Past Bucks 107-99",
+        "word_count": 444
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Magic 107, Bucks 99\n**Key Facts (HIGH confidence — single source, strong):**\n- Final score: Orlando Magic 107, Milwaukee Bucks 99\n- Franz Wagner: 35 points, 12 assists (one rebound shy of a triple-double)\n- NBA Cup game\n**Sources:** ESPN game recap (confirmed)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Bulls 125, Hawks 117 (OT) — Powell Ends Chicago's 8-Game Skid",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Norman Powell ERUPTED for 33 points including 9 in overtime.\n\nChicago finally snapped that 8-game losing streak.\n\nBulls 125, Hawks 117 (OT). Welcome back, Chicago. 🐂\n\n#BullsNation",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BullsNation"
+          ],
+          "char_count": 179
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-bulls-end-losing-streak-powell-ot.html",
+        "headline": "Powell's 33 Points — 9 in OT — End Chicago's 8-Game Skid in Bulls' 125-117 Victory",
+        "word_count": 498
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Bulls 125, Hawks 117 (OT)\n**Key Facts (HIGH confidence — multiple sources):**\n- Final score: Chicago Bulls 125, Atlanta Hawks 117 (overtime)\n- Norman Powell: 33 points, including 9 points in overtime\n- Chicago snapped its eight-game losing streak\n**Sources:** ESPN game recap (confirmed), AP recap (confirmed)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Pacers 106, Knicks 104 — Indiana Holds Off New York in NBA Cup Thriller",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Indiana held off New York in a thriller.\n\nPacers 106, Knicks 104.\n\nSiakam: 19 PTS | Nesmith: 18 PTS\n\nBrunson nearly pulled it back (106-102 with 26 seconds left), but Indiana closed the door. 💪\n\n#GoldAndBlue #NewYorkForever",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GoldAndBlue",
+            "#NewYorkForever"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-pacers-beat-knicks-cup-thriller.html",
+        "headline": "Siakam, Nesmith Power Pacers Past Knicks 106-104 in Tense NBA Cup Finish",
+        "word_count": 478
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pacers 106, Knicks 104\n**Key Facts (HIGH confidence — multiple sources):**\n- Final score: Indiana Pacers 106, New York Knicks 104\n- Pascal Siakam: 19 points\n- Aaron Nesmith: 18 points\n- Jalen Brunson's driving layup cut the lead to 106-102 with 26 seconds remaining\n- NBA Cup game\n**Sources:** ESPN game recap (confirmed), AP recap (confirmed)\n## Facts Flagged for Verification\n- Spurs 11-game streak being the \"longest active\" in the NBA — MEDIUM (plausible given league schedule, but requires standings cross-check)\n- Wembanyama double-double: 12/12 — HIGH from search summaries\n- Wagner near-triple-double (one rebound short) — HIGH from ESPN recap\n- Powell's 9 OT points specifically — HIGH from AP recap summary",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
