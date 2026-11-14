@@ -1,0 +1,334 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-14",
+  "compiled_at": "2026-11-14T12:15:36.673630+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Svitolina Shocks Sabalenka to Reach WTA Finals Semifinals",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Elina Svitolina beat Aryna Sabalenka 6-3, 3-6, 6-1 at the WTA Finals. Fourth match point. Sabalenka had 35 errors and exits 1-2. Svitolina vs Noskova today in the semis. #WTAFinals #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTAFinals",
+            "#Tennis"
+          ],
+          "char_count": 188
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Sabalenka exits the WTA Finals without reaching the semis. She's won just one match all week. Andreeva is 3-0. The year-end No. 2 ranking is now genuinely in play. #WTAFinals #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTAFinals",
+            "#Tennis"
+          ],
+          "char_count": 182
+        }
+      ],
+      "facebook": {
+        "long_form": "Aryna Sabalenka exits the 2026 WTA Finals without reaching the semifinals. Elina Svitolina beat her 6-3, 3-6, 6-1 on Friday in Indian Wells, converting her fourth match point in a third set that exposed every frustration Sabalenka has shown this week.\n\nThe numbers tell the story. Sabalenka committed 35 errors. Svitolina won 6 of 8 break points. When Sabalenka took the second set and briefly steadied, it looked like the natural order might reassert itself. It didn't. Svitolina came out in the third and took control immediately — a 1-4 hole Sabalenka fell into became 1-6 by the end.\n\nThe loss is about more than just this tournament. Sabalenka arrived in Indian Wells ranked No. 2 in the world. Mirra Andreeva, who went 3-0 in the group stage without dropping a set, is at No. 3 — and the gap is narrowing. After a week in which she lost two of three matches, the year-end rankings picture has changed.\n\nSvitolina, meanwhile, has a semifinal against Linda Noskova later today. What a week she is having.\n\nWho do you think wins the WTA Finals this weekend?",
+        "image_caption": "Svitolina 6-3, 3-6, 6-1 over Sabalenka at the WTA Finals. Sabalenka exits at 1-2. Svitolina's fourth match point finally stuck. What a Friday in Indian Wells.",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-svitolina-shocks-sabalenka-wta-finals-semis.html",
+        "headline": "Svitolina Shocks Sabalenka to Reach WTA Finals Semifinals",
+        "word_count": 509
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Svitolina Beats Sabalenka — WTA Finals Group 2 Decider Result\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Svitolina beat Sabalenka 6-3, 3-6, 6-1 | HIGH | Washington Times, ESPN, Al Jazeera, Tennis.com (all Nov 13 2026) |\n| Svitolina won on her fourth match point | HIGH | Washington Times / AP Nov 13 2026 |\n| Sabalenka committed 35 errors in the match | HIGH | Tennis.com box score Nov 13 2026 |\n| Svitolina won 75% of break points (6/8) | HIGH | Tennis.com box score Nov 13 2026 |\n| Sabalenka's year-end No. 2 ranking is in question | HIGH | Multiple sources confirmed in Nov 12-13 pipelines |\n| Andreeva is ranked No. 3 and has closed the ranking gap | HIGH | Confirmed in Nov 12 pipeline S3 |\n| Svitolina career H2H vs Sabalenka improved to 2-6 | HIGH | Washington Times / AP Nov 13 2026 |\n| Svitolina's semifinal opponent is Linda Noskova | HIGH | WTA Finals schedule + group math |\n| Sabalenka exits at 1-2 in group stage | HIGH | Group math (beat Muchova, lost to Andreeva + Svitolina) |",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "WTA Finals Semifinals Day — Pegula vs. Andreeva, Noskova vs. Svitolina Take the Court",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "WTA Finals semis are today (noon PT, Indian Wells). Andreeva vs Pegula — first career meeting. Noskova vs Svitolina. Andreeva is 3-0 with zero sets dropped all week. She's been something else. #WTAFinals #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTAFinals",
+            "#Tennis"
+          ],
+          "char_count": 211
+        },
+        {
+          "label": "Post 2-2",
+          "text": "To reach the WTA Finals semis, Andreeva beat Svitolina, Sabalenka, and Shnaider without dropping a set. Now she faces Pegula — who had to save a match point just to get here. Great matchup. #WTAFinals #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTAFinals",
+            "#Tennis"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "The 2026 WTA Finals semifinals are today in Indian Wells. Two matches, two paths to the final. Here's what you need to know.\n\n**Semifinal 1 — Mirra Andreeva vs. Jessica Pegula (noon PT)**\nAndreeva enters without having dropped a single set all week. She beat Svitolina 6-4, 6-0. She beat Sabalenka 6-4, 6-0. She beat Shnaider 6-2, 6-1. At 19, she is playing the kind of dominant, clean, efficient tennis that makes you think she might win this whole thing. Pegula, by contrast, had to save a match point against Noskova just to get here — but she won that match in a 2-hour 46-minute battle that required everything she had. These two have never played each other on tour.\n\n**Semifinal 2 — Linda Noskova vs. Elina Svitolina (after first semi)**\nNoskova, the 2026 Wimbledon champion, went 2-1 in her group and enters as the more rested player. Svitolina comes in on momentum but with more miles on her legs after a three-set win over Sabalenka on Friday. Their career head-to-head favors Noskova 2-1, with Svitolina's most recent win coming at Stuttgart earlier this year.\n\nThe final is Sunday. Someone becomes the 2026 WTA Finals champion tomorrow. Who are you rooting for?",
+        "image_caption": "WTA Finals semifinals today — noon PT in Indian Wells. Andreeva vs Pegula. Noskova vs Svitolina. Andreeva hasn't dropped a set all week. The final is Sunday. This is going to be a great day of tennis.",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-wta-finals-semifinals-preview-andreeva-pegula-noskova-svitolina.html",
+        "headline": "WTA Finals Semifinals: Andreeva vs. Pegula, Noskova vs. Svitolina — What to Watch",
+        "word_count": 590
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WTA Finals Semifinal Day Preview\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Semi 1: Andreeva vs. Pegula (first career meeting) | HIGH | WTA Tennis official Nov 13 + confirmed in Nov 13 pipeline |\n| Semi 2: Noskova vs. Svitolina | HIGH | Group results confirmed |\n| Semifinals day: Saturday, November 14, 2026 | HIGH | WTA Finals schedule (Nov 8-15 event, semis Day 7) |\n| Start time: noon PT Indian Wells | HIGH | WTA Finals schedule (wtatennis.com) |\n| Andreeva went 3-0 in group without dropping a set | HIGH | Multiple sources (beat Svitolina 6-4 6-0, Sabalenka 6-4 6-0, Shnaider 6-2 6-1) confirmed in prior pipelines |\n| Noskova is the 2026 Wimbledon champion | HIGH | Confirmed in Nov 11 pipeline |\n| Pegula saved a match point to beat Noskova 7-6(2) 4-6 7-5 (Nov 13) | HIGH | Confirmed in Nov 13 pipeline |\n| Final: Sunday November 15 | HIGH | WTA Finals schedule |\n| Andreeva vs Pegula: first career singles meeting on tour | HIGH | WTA Tennis official Nov 13 |",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "ATP Finals Eve — Zverev and Jodar Open Turin Tomorrow",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "ATP Finals Day 1 tomorrow (Sunday, Turin): Zverev vs Jodar at 2 PM CET. Shelton vs Fils at 8:30 PM CET. Alcaraz doesn't play until Monday vs Tiafoe. The best week in tennis starts tomorrow. #ATPFinals #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "The 2026 Nitto ATP Finals opens tomorrow in Turin, and Day 1 gives us two compelling matches from the John McEnroe Group.\n\nAlexander Zverev, the year-end world No. 1, opens his bid for a third ATP Finals title against Rafael Jodar. Jodar made history this season as the first player to qualify for the ATP Finals in his debut year on the ATP Tour — an extraordinary achievement that made him one of the breakthrough stories of 2026. The match starts not before 2:00 PM CET.\n\nThen at 8:30 PM CET, Ben Shelton — fresh off his Paris Masters final appearance — takes on Arthur Fils in a generational showdown between two power players who both want to establish themselves as the McEnroe Group spoiler.\n\nCarlos Alcaraz, the second seed and form player of the second half of the season, doesn't appear until Monday when he faces Frances Tiafoe. With nine straight wins and titles in Vienna and Paris, Alcaraz arrives in Turin with the longest runway of anyone in the field.\n\nWho wins the ATP Finals? And who pulls the upset in the McEnroe Group?",
+        "image_caption": "ATP Finals Day 1 tomorrow in Turin. Zverev vs Jodar at 2 PM CET. Shelton vs Fils at 8:30 PM CET. Alcaraz waits until Monday. The season-ending finale begins.",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-atp-finals-eve-preview-zverev-jodar-shelton-fils-turin.html",
+        "headline": "ATP Finals Opens in Turin Tomorrow — Zverev vs. Jodar Leads a Compelling Day 1",
+        "word_count": 585
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 6",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ATP Finals Eve Preview\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| ATP Finals tournament dates: November 15-22, 2026 | HIGH | ATP Tour official |\n| Venue: Inalpi Arena, Turin, Italy | HIGH | ATP Tour official |\n| Day 1 (Nov 15) Match 1: Zverev vs. Jodar, not before 2:00 PM CET | HIGH | ATP Tour official (confirmed in Nov 13 pipeline S3) |\n| Day 1 (Nov 15) Match 2: Shelton vs. Fils, 8:30 PM CET | HIGH | ATP Tour official (confirmed in Nov 13 pipeline S3) |\n| Day 2 (Nov 16) Alcaraz vs. Tiafoe, not before 2:00 PM CET | HIGH | ATP Tour official (confirmed in Nov 13 pipeline S3) |\n| Zverev is year-end No. 1 | HIGH | Confirmed in multiple prior pipelines |\n| Zverev has won ATP Finals in 2018 and 2021 | HIGH | ATP Tour records |\n| Jodar is first player in ATP history to qualify in debut tour year | HIGH | Confirmed in Nov 7 pipeline |\n| McEnroe Group: Zverev, Shelton, Fils, Jodar | HIGH | Confirmed in Nov 12 pipeline S2 |\n| Lendl Group: Alcaraz, Medvedev, Cobolli, Tiafoe | HIGH | Confirmed in Nov 12 pipeline S2 |",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Alcaraz Enters Turin as Red-Hot Favorite After 9-Match Win Streak",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Alcaraz arrives at the ATP Finals on a 9-match win streak. Vienna title. Paris title. 5 trophies in 2026. He called it \"probably the best indoor tennis of my career.\" First match: Monday vs Tiafoe. #ATPFinals #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "Carlos Alcaraz described his form heading into the ATP Finals with unusual directness: \"Probably the best indoor tennis of my career.\"\n\nThat's not a small statement from someone who reached the 2025 ATP Finals final and has five 2026 titles to his name. But the numbers support it. He went through Vienna and Paris without losing a match — nine consecutive wins, two titles, and a Paris Masters final victory over Ben Shelton that felt one-sided even though the scoreline (7-6, 7-5) doesn't quite show it.\n\nWhat's changed? Alcaraz has historically been a clay-court and grass-court player, with skeptics pointing to his indoor hard-court record as the place where the game's bigger servers could level the playing field. Vienna and Paris have silenced that argument, at least for now. He is hitting the ball cleaner on hard indoors, and his movement is as sharp as it's been all year.\n\nHis first ATP Finals match is Monday, November 16 against Frances Tiafoe in the Ivan Lendl Group. Zverev is the year-end No. 1 and the two-time champion, but Alcaraz is the form player. This is going to be the storyline of the week.\n\nDo you think Alcaraz finally wins the ATP Finals this year?",
+        "image_caption": "Alcaraz arrives in Turin with 9 straight wins, 5 titles in 2026, and what he calls his best indoor tennis ever. First match: Monday vs Tiafoe. This is his tournament to lose.",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-alcaraz-form-atp-finals-nine-match-streak-favorite.html",
+        "headline": "Nine Wins in a Row: Alcaraz Enters ATP Finals as the Season's Form Player",
+        "word_count": 523
+      },
+      "image_concepts": [
+        {
+          "label": "Image 7",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 8",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alcaraz Form Feature\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Alcaraz has won 5 titles in 2026: AO, Doha, Tokyo, Vienna, Paris | HIGH | Confirmed in multiple prior pipelines |\n| Alcaraz won Vienna and Paris back-to-back in Oct-Nov 2026 | HIGH | Confirmed in multiple prior pipelines |\n| Alcaraz's current win streak heading to Turin: 9 matches (Vienna + Paris) | HIGH | Multiple sources (brecorder.com, businessday.co.za, cy-mail.com Nov 9) |\n| Alcaraz beat Shelton 7-6(5) 7-5 in Paris Masters final Nov 8 | HIGH | Al Jazeera, multiple sources Nov 8 2026 |\n| Alcaraz called his indoor form \"probably the best since my comeback\" | HIGH | ATP Tour official quote (atptour.com/en/news/alcaraz-paris-2026-final-reaction) |\n| Alcaraz reached the 2025 ATP Finals final | HIGH | Confirmed in multiple prior pipelines |\n| Alcaraz's first ATP Finals match: Monday Nov 16 vs Tiafoe | HIGH | Confirmed from ATP schedule |\n| Alcaraz is World No. 2 | HIGH | Confirmed in prior pipelines |",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Andreeva's Group Stage Masterclass — The Youngest Finalist Builds a New Legacy",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Mirra Andreeva at the 2026 WTA Finals group stage: beat Svitolina 6-4, 6-0. Beat Sabalenka 6-4, 6-0. Beat Shnaider 6-2, 6-1. Zero sets dropped. At 19 years old. That's just remarkable. #WTAFinals #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTAFinals",
+            "#Tennis"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "Take a moment to appreciate what Mirra Andreeva has done this week at the WTA Finals.\n\nShe beat Elina Svitolina 6-4, 6-0. She beat Aryna Sabalenka 6-4, 6-0. She beat Diana Shnaider 6-2, 6-1. Three matches, zero sets dropped, six sets won. At 19 years old, in what is her first WTA Finals appearance.\n\nThe last time a teenager played the WTA Finals was Coco Gauff in 2023. What Andreeva has done in the group stage goes beyond just the age. Sabalenka is a Grand Slam champion and the world No. 2. Svitolina has won 20 WTA titles. Shnaider is a top-20 player. Andreeva defeated all three in straight sets. She gave up a combined total of only three games per set on average.\n\nThe 6-0 set against Sabalenka on Wednesday was the moment people started paying attention. The complete 3-0 record is what makes it historically significant. If she wins today's semifinal against Pegula — a first career meeting — she plays in the final on Sunday.\n\nThe 2026 WTA Finals might be the moment Andreeva announces herself not as a future star, but as the best player in the world right now.\n\nWho is your pick — Andreeva or the field?",
+        "image_caption": "Mirra Andreeva at the 2026 WTA Finals: 3-0, zero sets dropped. Beat Svitolina, Sabalenka, and Shnaider. At 19 years old. Semis today vs Pegula. Something is happening here.",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-andreeva-wta-finals-group-stage-unbeaten-history.html",
+        "headline": "3-0, Zero Sets Dropped: Andreeva's WTA Finals Group Stage Was Historically Dominant",
+        "word_count": 544
+      },
+      "image_concepts": [
+        {
+          "label": "Image 9",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 10",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Andreeva Group Stage Dominance Feature\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Andreeva went 3-0 in WTA Finals group stage without dropping a set | HIGH | Multiple sources confirmed in prior pipelines |\n| Beat Svitolina 6-4, 6-0 (Day 1) | HIGH | Tennismajors, Flashscore, WTA Tennis confirmed |\n| Beat Sabalenka 6-4, 6-0 (Day 4, confirmed Nov 12 pipeline) | HIGH | Confirmed in Nov 12 pipeline S1 |\n| Beat Shnaider 6-2, 6-1 (Day 6) | HIGH | Confirmed in Nov 13 pipeline research notes |\n| Andreeva is 19 years old | HIGH | Multiple sources |\n| She is the first teenager at WTA Finals since Gauff 2023 | HIGH | justwomenssports.com Nov 2026 |\n| She won 50 wins in a season earlier than any player since Caroline Wozniacki 2009 | MEDIUM | justwomenssports.com Nov 2026 (single source for the specific record) |\n| Andreeva's current ranking is No. 3, with Sabalenka at No. 2 | HIGH | Confirmed in prior pipelines |\n| Today's semifinal vs Pegula is their first career meeting | HIGH | WTA Tennis official |",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

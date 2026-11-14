@@ -1,5 +1,36 @@
 # Tennis Fanrecap — Pipeline Status
 
+## Current Run: 2026-11-14
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Svitolina d. Sabalenka 6-3, 3-6, 6-1 (Group 2 decider, Nov 13); WTA Finals semis today: Andreeva vs Pegula + Noskova vs Svitolina (noon PT); ATP Finals opens tomorrow Nov 15 (Zverev vs Jodar 2pm CET, Shelton vs Fils 8:30pm CET); Alcaraz 9-match streak, 5 titles 2026; Andreeva 3-0 group stage unbeaten. Sources: Washington Times/AP, ESPN, Al Jazeera, Tennis.com, businessday.co.za, brecorder.com, justwomenssports.com |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Nov 13 S2: Group 2 decider preview → result); S2 FOLLOW-UP (Nov 13 S4: semifinal bracket → semifinal day); S3 FOLLOW-UP (Nov 13 S3: Day 1 schedule → eve preview); S4 FOLLOW-UP (Nov 13 S5: H2H preview → Alcaraz form feature); S5 FOLLOW-UP (Nov 12 S1: Andreeva stuns Sabalenka → group dominance feature) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 T1, 2 T2); bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; Svitolina win HIGH from multiple Nov 13 sources; Alcaraz win streak HIGH from multiple sources; Andreeva record MEDIUM for Wozniacki comparison (single source) |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories (2 each for S1+S2, 1 each for S3-S5); all ≤280 chars (190, 185, 212, 210, 210, 216, 205) |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories; player-name-only search terms |
+| Articles (5) | COMPLETE | article-01 Svitolina shocks Sabalenka WTA Finals semis (Elena Voss T1 ~550w); article-02 WTA Finals semifinals preview (Marcus Cole T1 ~600w); article-03 ATP Finals eve preview (Ryan Calloway T1 ~550w); article-04 Alcaraz form feature (Elena Voss T2 ~550w); article-05 Andreeva group stage masterclass (Marcus Cole T2 ~550w) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 38 claims auto-extracted; all stories present in all content files; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 10 images; posting window warnings cosmetic |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-11-14.xlsx (7 posts) + tfr-postplanner-tobi-2026-11-14.xlsx (7 TOBI posts) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 14 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 7 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** 7 posts standard + 7 TOBI
+- **Key stories:** Svitolina d. Sabalenka 6-3, 3-6, 6-1 (Group 2 decider result, semis set); WTA Finals semis today — Andreeva vs Pegula + Noskova vs Svitolina (noon PT); ATP Finals opens tomorrow — Zverev vs Jodar Day 1; Alcaraz enters Turin on 9-match win streak after Vienna + Paris; Andreeva 3-0 without dropping a set in group stage
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known)
+
+---
+
 ## Current Run: 2026-11-13
 
 | Step | Status | Notes |

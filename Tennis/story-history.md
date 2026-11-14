@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## November 14, 2026
+
+| 2026-11-14 | Svitolina shocks Sabalenka 6-3, 3-6, 6-1 — WTA Finals Group 2 decider result; Svitolina converted 4th match point; Sabalenka 35 errors, exits 1-2; Svitolina career H2H vs Sabalenka now 2-6; Svitolina vs Noskova in semis today; Sabalenka year-end No. 2 ranking in question. Sources: Washington Times/AP, ESPN, Al Jazeera, Tennis.com (Nov 13 2026) | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 13 S2: Group 2 decider preview → result) |
+| 2026-11-14 | WTA Finals semifinals day — Andreeva vs Pegula (1st career meeting), Noskova vs Svitolina; noon PT Indian Wells; Andreeva 3-0 without dropping a set; Final Sunday Nov 15. Sources: WTA Tennis official, prior pipelines | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Nov 13 S4: semifinal bracket confirmed → semifinal day) |
+| 2026-11-14 | ATP Finals eve preview — Zverev vs Jodar not before 2pm CET Day 1 (McEnroe Group); Shelton vs Fils 8:30pm CET Day 1; Alcaraz opens Day 2 Monday vs Tiafoe; tournament Nov 15-22 Inalpi Arena Turin. Sources: ATP Tour official, confirmed in Nov 13 pipeline | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Nov 13 S3: Day 1 schedule confirmed → eve preview) |
+| 2026-11-14 | Alcaraz form feature — 9-match win streak entering ATP Finals; 5 titles 2026 (AO/Doha/Tokyo/Vienna/Paris); beat Shelton 7-6(5) 7-5 in Paris final; called it "best indoor tennis of my career"; seeks first ATP Finals title; first match Monday Nov 16 vs Tiafoe. Sources: ATP Tour official, brecorder.com, businessday.co.za, cy-mail.com (Nov 9 2026) | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 13 S5: H2H preview → Alcaraz form feature) |
+| 2026-11-14 | Andreeva group stage masterclass — 3-0, zero sets dropped; beat Svitolina 6-4 6-0, Sabalenka 6-4 6-0, Shnaider 6-2 6-1; first teenager at WTA Finals since Gauff 2023; ranked No. 3, closing on Sabalenka's No. 2 spot; semis today vs Pegula. Sources: WTA Tennis official, tennismajors.com, flashscore.com, justwomenssports.com | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Nov 12 S1: Andreeva stuns Sabalenka Day 4 → group dominance feature) |
+
+---
+
+
 ## November 13, 2026
 
 | 2026-11-13 | Pegula saves match point, eliminates Gauff — WTA Finals Day 5 Group 1 result: Pegula d. Noskova 7-6(2), 4-6, 7-5 in 2h46m (saved match point, 16 aces; Noskova 15 DFs); Gauff beat Kostyuk 6-4, 7-5 but eliminated on H2H tiebreak; Noskova + Pegula in semis. Sources: NBC Sports, ESPN, Sky Sports, Al Jazeera, Tennis Majors (Nov 13) | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Nov 12 S5: Day 5 preview → Day 5 Group 1 result) |
