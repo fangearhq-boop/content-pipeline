@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## Pipeline Run: 2026-11-14
+
+### Story 1: Oklahoma Claims No. 1 in D1Softball 2027 Rankings — Dueling Rankings Stir Debate
+- **Date:** 2026-11-14
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** D1Softball ranks Oklahoma No. 1 in 2027 class (top 10: Oklahoma, LSU, Oregon, Auburn, Stanford, Florida, UCLA, Arizona State, Tennessee, Texas A&M), while Softball America has LSU No. 1 (first time in program history). OU class headlined by five-star OF Finlee Williams + five-star C Riley Hilliard; returns Wells (39 HR NFCA FY) + Kavan (2x WCWS MOP). Goose Hutchens already enrolled at OU (reclassified 2026).
+- **Content Produced:** Article (article-01, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Preseason rankings release in January
+  - Spring schedule/roster depth chart
+  - Wells and Williams combo preview
+
+### Story 2: 5-for-5 Fallout — Former Players in Limbo, More De-Commits Expected
+- **Date:** 2026-11-14
+- **Tier:** 1
+- **Classification:** FOLLOW UP (5-for-5 consequences covered Oct 29–Nov 12)
+- **Angle:** Memphis de-commits (Ott, Patten, Gonzales) post-Signing Day. Three former Arizona players (Stewart, Adams, Jenkins) want to return but can't practice/play during litigation. Rachel Lawson "casualties" warning validated. House v. NCAA 25-player cap + 5-for-5 creating roster vise. ~200 state-court cases continue.
+- **Content Produced:** Article (article-02, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Additional de-commit announcements from other programs
+  - Where Ott, Patten, Gonzales re-commit
+  - State-court case resolutions
+
+### Story 3: Arizona Closes Fall Ball with 15-2 Win over UNLV
+- **Date:** 2026-11-14
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Arizona fall covered Oct 24–26)
+- **Angle:** Caitlin Lowe's debut fall in Tucson ends 15-2 win over UNLV. 10 letterwinners return including Big 12 DPOY Regan Shockey. Torres (D1Softball National POY) and Beachum (now TTU) transferred out but top-15 class signed, 2nd in Big 12 by SA.
+- **Content Produced:** Article (article-03, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Arizona 2027 spring schedule release
+  - First Big 12 conference series result
+  - Lowe's first preseason ranking
+
+### Story 4: FSU Softball Closes Fall at Florida — Rebuilding Without Torres and Beachum
+- **Date:** 2026-11-14
+- **Tier:** 2
+- **Classification:** FOLLOW UP (FSU fall covered earlier fall season)
+- **Angle:** FSU ended fall with road game at Florida (Katie Seashole Pressly). Opened fall 19-5 over Chipola. Rebuilding without Torres (D1Softball National POY transferred) and Beachum (now TTU). Character-building fall campaign.
+- **Content Produced:** Article (article-04, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - FSU 2027 preseason ranking
+  - First ACC series result
+  - Torres and Beachum impact at their new programs
+
+### Story 5: Five Programs That Could Win the 2027 Women's College World Series
+- **Date:** 2026-11-14
+- **Tier:** 3
+- **Classification:** NEW STORY (synthesis)
+- **Angle:** First 2027 title picture synthesis after fall ball + signing day. Oklahoma (D1Softball No. 1 class, Wells/Kavan), LSU (SA No. 1 class, Torina), Florida (No. 2 class, 4-0 fall, Edwards), Tennessee (Mardjetko 16-3 1.26 ERA, Weekly extension), Texas Tech (Pickering, Gentry, No. 1 portal class).
+- **Content Produced:** Article (article-05, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Preseason rankings release (January)
+  - Spring schedule announcements
+  - 2027 season opening series
+
+---
+
 ## Pipeline Run: 2026-11-12
 
 ### Story 1: LSU Lands No. 1 Recruiting Class in Program History
