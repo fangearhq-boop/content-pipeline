@@ -1,0 +1,358 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-14",
+  "compiled_at": "2026-11-14T09:18:44.096360+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "12:00 PM",
+      "description": "Story 1 — 40-man deadline, Nov 20",
+      "type": "Informative — roster news"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Story 2 — AFL wrap, Reid All-Star",
+      "type": "Prospect feature"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Story 3 — PCA franchise cornerstone",
+      "type": "Bold take — franchise anchor"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Story 4 — Rotation market, Peralta 7-8 years",
+      "type": "Analysis — EVENING WINNER slot"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 5 — NL Central rival watch",
+      "type": "Bold take — EVENING WINNER slot"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "40-Man Roster Deadline Approaching — Friday November 20",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "The 40-man roster deadline hits Friday, November 20 — 6 days away.\n\nCubs carry 34 of 40 spots and face tough decisions on which prospects to protect from the Rule 5 Draft.\n\n#Cubs",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative / roster news",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 178
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "40-Man Roster Deadline Approaching (November 20)\n**Key Facts:**\n- 40-man roster protection deadline: Friday, November 20, 2026\n- Cubs currently at 34 of 40 roster spots occupied (Bleacher Nation, Nov 2026)\n- Prospects not on 40-man roster by Nov 20 are eligible for the Rule 5 Draft (December)\n- In Rule 5 Draft, teams pay $100K to select a player who must remain on the 26-man roster all season\n- Last year (2025 cycle): Cubs added Owen Caissie and Ben Cowles; DFA'd Adbert Alzolay and Brennen Davis\n- Current cycle: specific protection list not confirmed in research; check official MLB transactions\n**Sources:**\n- https://www.bleachernation.com (Nov 2026, 40-man deadline piece)\n- https://www.mlb.com/news/rule-5-draft-prospects-protected-on-40-man-rosters-2025 (prior cycle context)\n- https://www.marqueesportsnetwork.com (prior cycle context)\n**Confidence:** MEDIUM (40-man deadline date + Cubs spot count from BN article; prior cycle specifics LOW)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "bleachernation.com",
+          "url": "https://www.bleachernation.com",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "mlb.com",
+          "url": "https://www.mlb.com/news/rule-5-draft-prospects-protected-on-40-man-rosters-2025",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "marqueesportsnetwork.com",
+          "url": "https://www.marqueesportsnetwork.com",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "AFL Wrap — Mesa Eliminated, Dominick Reid Named All-Star",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Dominick Reid closed the AFL as an All-Star — the Mesa Solar Sox fell 5-2 to Salt River in Round 1, but Reid's changeup was the talk of the league all October.\n\n#Cubs",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Prospect feature / roster note",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 166
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "AFL Wrap — Mesa Solar Sox Eliminated, Dominick Reid All-Star\n**Key Facts:**\n- Mesa Solar Sox (Cubs' AFL affiliate) eliminated: lost to Salt River Rafters 5-2 in AFL first round\n- Dominick Reid (Cubs pitching prospect): Named AFL All-Star; described as having the best changeup in the AFL per MLB.com / league observers\n- Jhon Cabral also impressed during Mesa's AFL run\n- AFL Championship Game: Saturday Nov 14, Peoria Stadium. Surprise Saguaros vs [Salt River or Peoria winner]\n- Surprise beat Glendale Desert Dogs 10-4 in semifinal (Cole Mathis, NYM, 7 RBI — AFL playoff record)\n- Salt River beat Mesa 5-2 in first round\n- Note from Nov 13 pipeline: Cole Mathis is a Mets prospect (traded from Cubs June 25 for David Peterson — this was flagged as a correction in Nov 13 notes)\n**Sources:**\n- https://www.bleedcubbieblue.com (Dominick Reid AFL updates multiple dates)\n- https://www.statscrew.com/minorbaseball/l-AZFL/y-2026 (AFL 2026 standings/bracket)\n- https://sports.yahoo.com (AFL Mesa updates)\n- https://www.mlb.com/arizona-fall-league (official AFL page)\n**Confidence:** MEDIUM (Reid All-Star from prior pipeline + MLB.com description; Mesa 5-2 loss per statscrew bracket — single source)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "bleedcubbieblue.com",
+          "url": "https://www.bleedcubbieblue.com",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "statscrew.com",
+          "url": "https://www.statscrew.com/minorbaseball/l-AZFL/y-2026",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "mlb.com",
+          "url": "https://www.mlb.com/arizona-fall-league",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "PCA Franchise Cornerstone — Unanimous MVP, Locked In Long-Term",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Pete Crow-Armstrong — 45 HRs, 41 SBs, 10.6 fWAR, all 30 NL MVP votes.\n\nFirst unanimous MVP in Cubs franchise history. Locked in long-term at $115M. Build around him.\n\n#Cubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Bold take / franchise analysis",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 172
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA Franchise Cornerstone — Unanimous MVP, Locked In\n**Key Facts:**\n- Pete Crow-Armstrong: won NL MVP unanimously (all 30 BBWAA votes), announced Nov 12\n- Stats: 45 HR, 41 SB, 10.6 fWAR (from prior pipeline research, Nov 13)\n- Also won Hank Aaron Award and Platinum Glove CF\n- Already under contract: 6-year, $115M extension signed March 2026 (confirmed by CBS Sports, mlb.com, ABC7, TSN)\n- Extension covers 2027-32 (or through 2033 depending on source — conservative: \"long-term\")\n- First unanimous NL MVP in Cubs franchise history (per Nov 13 pipeline research; MEDIUM confidence — not independently re-verified today)\n- Ended Shohei Ohtani's consecutive NL MVP streak (Ohtani won the previous 3 NL MVPs per prior pipeline)\n**Sources:**\n- https://cbssports.com/mlb/news/cubs-pete-crow-armstrong-extension-contract/ (extension details)\n- https://www.mlb.com/cubs/news/pete-crow-armstrong-contract-extension-cubs (official extension)\n- https://www.thescore.com/mlb/news/3506804 (extension report)\n- Nov 13 pipeline research (MVP unanimous win, 30 votes, stats)\n**Confidence:** HIGH for extension (multiple primary sources). MEDIUM for \"first unanimous in franchise history\" (from prior research, not independently verified today). HIGH for 30 votes/unanimous.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "cbssports.com",
+          "url": "https://cbssports.com/mlb/news/cubs-pete-crow-armstrong-extension-contract/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "mlb.com",
+          "url": "https://www.mlb.com/cubs/news/pete-crow-armstrong-contract-extension-cubs",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "thescore.com",
+          "url": "https://www.thescore.com/mlb/news/3506804",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Rotation Market Reality — Peralta Wants 7-to-8 Years",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Freddy Peralta's asking price is 7-to-8 years — and the Cubs are running out of time and options.\n\n5 starters gone. Ben Brown and Cade Horton out until mid-2027. The rotation math is brutal.\n\n#Cubs",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Analysis / urgency",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Rotation Market Reality — Peralta's Price Tag\n**Key Facts:**\n- Freddy Peralta (FA after 2026, was with Rays after trade from Brewers via Mets):\n- Seeking 7-to-8-year deal per Bob Nightengale / reports (Bleacher Nation, Nov 3)\n- Craig Counsell managed him in Milwaukee\n- Cubs linked per Sahadev Sharma (The Athletic), ClutchPoints report\n- Two-time All-Star; \"late-season surge\" with Rays per MLB.com profile\n- Cubs' rotation situation:\n- 5 starters gone: Imanaga, Gausman, Peterson, Boyd, Holmes (confirmed Nov 13 pipeline)\n- Ben Brown: cervical spine surgery Nov 9; return expected mid-2027\n- Cade Horton: Tommy John surgery; return expected mid-2027\n- Michael King: status murky — The Athletic earlier reported Cubs and King \"don't appear to be a fit,\" but other sources still link them. MEDIUM confidence on current status.\n- Adrian Morejon also mentioned as a Cubs target (The Athletic / Sharma)\n**Sources:**\n- https://www.bleachernation.com (Peralta asking price, Nov 3 2026)\n- https://clutchpoints.com/mlb/chicago-cubs/cubs-rumors-michael-king-freddy-peralta-adrian-morejon-free-agency\n- https://www.mlb.com/whitesox/news/freddy-peralta-2026-free-agent-profile (FA profile)\n- https://chicago.suntimes.com/cubs/2026/11/10/cubs-ben-brown-injury-neck-surgery (Brown surgery)\n- https://roundtable.io/sports/mlb/cubs/news/chicago-cubs-appear-out-on-another-free-agent-pitcher (Cubs out on another target)\n**Confidence:** MEDIUM for Peralta asking price (Bob Nightengale / BN report, single primary source). HIGH for Brown/Horton injury timelines (confirmed multiple sources).",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "bleachernation.com",
+          "url": "https://www.bleachernation.com",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "clutchpoints.com",
+          "url": "https://clutchpoints.com/mlb/chicago-cubs/cubs-rumors-michael-king-freddy-peralta-adrian-morejon-free-agency",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "mlb.com",
+          "url": "https://www.mlb.com/whitesox/news/freddy-peralta-2026-free-agent-profile",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "chicago.suntimes.com",
+          "url": "https://chicago.suntimes.com/cubs/2026/11/10/cubs-ben-brown-injury-neck-surgery",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "roundtable.io",
+          "url": "https://roundtable.io/sports/mlb/cubs/news/chicago-cubs-appear-out-on-another-free-agent-pitcher",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "NL Central Rival Watch — Brewers Built, Cardinals Moving",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "8:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Brewers have a World Series title, NL Cy Young, and WS MVP locked through 2027.\n\nThe Cubs' answer to all of it is a depleted rotation market and no frontline starter signed.\n\n#Cubs",
+          "posting_time": "8:00 PM CT",
+          "tweet_type": "Bold take / rival watch",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 184
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "NL Central Rival Watch — Brewers Built, Cardinals Moving\n**Key Facts:**\n- Brewers (2026 World Series Champions):\n- Jacob Misiorowski: NL Cy Young (unanimously, Nov 11) — 1.80 ERA, 252 K, 0.80 WHIP\n- William Contreras: WS MVP, $15.5M club option exercised Nov 2\n- Pat Murphy: NL Manager of Year finalist (3rd consecutive potential award)\n- Brewers also adding minor league pieces\n- Cardinals:\n- Re-signed INF Ramon Mendoza (minor move, minor league deal, Nov 3)\n- Making Series of 40-man roster moves per mlb.com\n- Context: Cubs have zero confirmed starters for 2027 rotation as of Nov 14\n**Sources:**\n- https://www.fox6now.com/news/brewers-roster-moves-contreras-bauers (Contreras option, Brewers moves)\n- https://roundtable.io/sports/mlb/brewers/news/contreras-return-headlines-brewers-eight-roster-moves\n- https://www.nbcsports.com/fantasy/baseball/player-news/2026-11-03/cardinals-re-sign-infielder-ramon-mendoza\n- https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/03/the-miz-among-4-members-of-world-series-champion-brewers-who-are-finalists-for-major-bbwaa-awards\n- Nov 11-13 pipeline data (Misiorowski Cy Young confirmed)\n**Confidence:** HIGH for Misiorowski stats/win, Contreras option. HIGH for Brewers WS title. MEDIUM for Cardinals roster moves detail.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "fox6now.com",
+          "url": "https://www.fox6now.com/news/brewers-roster-moves-contreras-bauers",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "roundtable.io",
+          "url": "https://roundtable.io/sports/mlb/brewers/news/contreras-return-headlines-brewers-eight-roster-moves",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "nbcsports.com",
+          "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-11-03/cardinals-re-sign-infielder-ramon-mendoza",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "ny1.com",
+          "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/03/the-miz-among-4-members-of-world-series-champion-brewers-who-are-finalists-for-major-bbwaa-awards",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

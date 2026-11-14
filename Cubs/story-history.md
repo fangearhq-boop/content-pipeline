@@ -5,6 +5,50 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-11-14 (OFF DAY — Offseason. Mesa Solar Sox eliminated from AFL playoffs (5-2 by Salt River in Round 1); Dominick Reid closed AFL as All-Star. 40-man roster deadline Nov 20 (6 days). Rotation market: Peralta seeking 7-8 years. Brewers built: WS title + Cy Young + locked WS MVP. Cubs zero confirmed starters for 2027. Insights: evening_18_24 WINNER (delta=0.869, large) + recap_longform WINNER (not applicable off day) + hashtag_count=3 LOSER (delta=0.815, OVERRIDE — 1 hashtag used) + not_brief WINNER (delta=0.795) + hashtag_count=1 WINNER (delta=0.729) + opening=statement WINNER (delta=0.689) + opening=allcaps_lead LOSER (delta=0.689) + not_200-260 WINNER (delta=0.679) + not_morning WINNER (delta=0.424) + has_stat WINNER (delta=0.327).)
+
+### STORY 1: 40-Man Roster Deadline Approaching — Friday November 20
+- **Angle:** NEW STORY. 40-man deadline Nov 20 — 6 days away. Cubs at 34 of 40 spots. Prospect protection decisions imminent.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT informative)
+- **Follow-Up Opportunities:**
+  - Cubs add prospects to 40-man (Nov 20) → Tier 2 roster move post naming who was added/protected
+  - Cubs DFA player to clear 40-man space → Tier 2 transaction reaction
+
+### STORY 2: AFL Wrap — Mesa Eliminated, Dominick Reid All-Star
+- **Angle:** FOLLOW UP (Nov 13 AFL championship preview). Mesa Solar Sox fell 5-2 to Salt River in AFL Round 1. Dominick Reid finished as AFL All-Star — changeup was best in Mesa; puts him on 40-man radar.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT prospect feature)
+- **Follow-Up Opportunities:**
+  - Reid or Cabral added to 40-man (Nov 20) → Tier 2 roster protection post
+  - Reid spring training standout → Tier 2 prospect feature
+
+### STORY 3: PCA Franchise Cornerstone — Unanimous MVP, Locked In Long-Term
+- **Angle:** FOLLOW UP (Nov 12-13 PCA MVP coverage). Transition from celebration to context: 45 HR, 41 SB, 10.6 fWAR, all 30 MVP votes. First unanimous NL MVP in Cubs franchise history. Locked in long-term at $115M. Build around him.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT bold take)
+- **Follow-Up Opportunities:**
+  - PCA story closes — no further follow-ups needed unless contract extension details released
+
+### STORY 4: Rotation Market Reality — Peralta Wants 7-to-8 Years
+- **Angle:** FOLLOW UP (Nov 11-13 rotation crisis). Peralta's asking price crystallizes at 7-8 years. Cubs have never committed that long in free agency in recent history. 5 starters gone + Brown/Horton out mid-2027. Time is running out.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT evening analysis)
+- **Follow-Up Opportunities:**
+  - Peralta signs with Cubs → Tier 1 breaking news celebration
+  - Peralta signs elsewhere → Tier 2 Cubs pivot angle; next rotation target
+  - Cubs sign any SP → Tier 1 breaking
+
+### STORY 5: NL Central Rival Watch — Brewers Built, Cardinals Moving
+- **Angle:** FOLLOW UP (Nov 1 Brewers WS + Nov 13 Contreras option). Full contrast: Brewers have WS title + NL Cy Young (Misiorowski) + WS MVP (Contreras, locked through 2027). Cubs have zero confirmed starters. Cardinals making minor moves.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:00 PM CT evening bold take)
+- **Follow-Up Opportunities:**
+  - Brewers sign another key piece → Tier 2 rival alert
+  - Cubs sign major arm → counter-move angle against Brewers context
+
+---
+
 ## 2026-11-13 (OFF DAY — Offseason. PCA wins NL MVP unanimously (all 30 votes, Nov 12 BBWAA announcement). First unanimous Cubs NL MVP ever. GM Meetings fallout: five starters gone, Ben Brown cervical spine surgery (C5), Horton out until mid-2027. Suzuki market open: Blue Jays frontrunners (4yr/$110M Spotrac projection). Michael King (3.21 ERA, 185 IP) top rotation target; Mets/Yankees competition. Teruaki Sato 45-day window mid-point; rotation need wins Cubs budget. Brewers locked up WS MVP Contreras ($15.5M option). AFL championship tomorrow; Dominick Reid named AFL All-Star. Insights: evening_18_24 WINNER (delta=0.959, massive) + opening=statement WINNER (delta=0.717) + opening=allcaps_lead LOSER (delta=0.717, REVERSAL from prior runs) + not_brief WINNER (delta=0.825) + hashtag_count=1 WINNER (delta=0.784, OVERRIDE — 1 hashtag used) + hashtag_count=3 LOSER (delta=0.847, CONFLICT resolved) + len_bucket=<140 WINNER (delta=0.384) + not_200-260 WINNER (delta=0.694) + not_morning WINNER (delta=0.365).)
 
 ### STORY 1: Pete Crow-Armstrong Wins NL MVP Unanimously — All 30 Votes

@@ -1,15 +1,33 @@
-# Cubs Pipeline Status — Updated 2026-11-13
+# Cubs Pipeline Status — Updated 2026-11-14
 
 ## Latest Run
-- **Date:** 2026-11-13 (Friday — Off day. PCA wins NL MVP unanimously (all 30 votes). GM Meetings fallout: five starters gone, Ben Brown (C5 surgery), Horton out until mid-2027. Suzuki market: Blue Jays leading. King free agency live. Sato 45-day mid-point. Brewers locked up Contreras. AFL championship tomorrow.)
-- **Stories:** 7
-- **X posts:** 8
+- **Date:** 2026-11-14 (Saturday — Off day. Mesa Solar Sox eliminated from AFL playoffs (5-2 by Salt River Round 1). 40-man deadline Nov 20. Peralta asking 7-8 years. Brewers built (WS + Cy Young + locked WS MVP). PCA franchise cornerstone angle.)
+- **Stories:** 5
+- **X posts:** 5
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
-- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 7 stories, 8 tweets
-- **07-content-data.json:** ✅ Valid JSON, all 8 posts with posting_time (12:00 PM / 1:15 PM / 2:30 PM / 3:45 PM / 5:00 PM / 6:30 PM / 8:00 PM / 9:30 PM CT), all strptime-parseable
+- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 5 stories, 5 tweets
+- **07-content-data.json:** ✅ Valid JSON, all 5 posts with posting_time (12:00 PM / 2:30 PM / 3:45 PM / 6:30 PM / 8:00 PM CT), all strptime-parseable
 - **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
-- **Note:** 10 significant insights applied. HASHTAG OVERRIDE: hashtag_count=3 is LOSER (delta=0.847, large) + hashtag_count=1 is WINNER (delta=0.784, large) → 1 hashtag (#Cubs) used, overrides brand-voice 3-hashtag rule. ALLCAPS REVERSAL: opening=allcaps_lead LOSER (delta=0.717) — no ALL CAPS leads (prior Oct-Nov pipeline consistently used all-caps). MORNING AVOIDANCE: posting_window=morning_06_12 LOSER (delta=0.365) — first post at 12:00 PM CT (all 7:00–10:45 AM slots skipped). EVENING PRIORITY: posting_window=evening_18_24 WINNER (delta=0.959) → Stories 1B + 6 in 6:30 PM / 8:00 PM CT. ⚠️ Story 4 King stats (3.21 ERA / 185 IP / 32 starts) — MEDIUM confidence (prior pipeline notes only, not independently re-verified today). ⚠️ Owner should validate 1-hashtag rule departure before 12:00 PM first post.
+- **Note:** 10 significant insights applied. HASHTAG OVERRIDE: hashtag_count=3 is LOSER (delta=0.815, large) + hashtag_count=1 is WINNER (delta=0.729, large) → 1 hashtag (#Cubs) used, overrides brand-voice 3-hashtag rule (4th consecutive day). ALLCAPS LOSER: opening=allcaps_lead LOSER (delta=0.689) — no ALL CAPS leads. MORNING AVOIDANCE: posting_window=morning_06_12 LOSER (delta=0.424) — first post at 12:00 PM CT. EVENING PRIORITY: posting_window=evening_18_24 WINNER (delta=0.869) → Stories 4+5 in 6:30 PM / 8:00 PM CT. ⚠️ Story 2 (Mesa 5-2 AFL loss) — MEDIUM confidence (single statscrew.com source; verify at mlbfallball.com). ⚠️ Story 3 "first unanimous NL MVP in franchise history" — MEDIUM confidence (from prior pipeline, not re-verified today). ⚠️ Story 4 Peralta 7-8 years asking price — MEDIUM confidence (single source chain: Bob Nightengale via Bleacher Nation Nov 3).
+
+## Insights Summary (2026-11-14 run — from 2026-11-14T08:30 UTC snapshot)
+- **Generated:** 2026-11-14T08:30:00 UTC
+- **Measured tweet count:** not shown in this snapshot
+- **Significant findings:** 10
+  1. `content_type=recap_longform` WINNER — delta=0.892 (large). Off day — no game recap possible. All posts analytical/substantive.
+  2. `posting_window=evening_18_24` WINNER — delta=0.869 (large). Stories 4+5 in 6:30 PM / 8:00 PM CT.
+  3. `hashtag_count=3` LOSER — delta=0.815 (large). ⚠️ CONFLICT with pipeline hard rule. 1 hashtag used (4th consecutive override day).
+  4. `content_type=brief` LOSER — delta=0.795 (large). All posts substantive with stat context.
+  5. `hashtag_count=1` WINNER — delta=0.729 (large). Applied: #Cubs only.
+  6. `opening=statement` WINNER — delta=0.689 (large). All 5 posts use statement openings.
+  7. `opening=allcaps_lead` LOSER — delta=0.689 (large). No ALL CAPS leads.
+  8. `len_bucket=200-260` LOSER — delta=0.679 (large). All posts <200 chars (178/166/172/197/184).
+  9. `posting_window=morning_06_12` LOSER — delta=0.424 (medium). No morning posts; first at 12:00 PM CT.
+  10. `has_stat` WINNER — delta=0.327 (small). Stats in every tweet.
+- **Action:** Insights applied throughout. 1-hashtag override active.
+
+## Previous Run (2026-11-13)
 
 ## Insights Summary (2026-11-13 run — from 2026-11-13T08:30 UTC snapshot)
 - **X posts:** 5
