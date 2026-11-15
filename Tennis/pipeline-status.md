@@ -16,9 +16,9 @@
 | Fact-Check | COMPLETE | 06-fact-check-log.md — 30 claims extracted; 29 VERIFIED, 1 MEDIUM (Medvedev no ATP Finals title); PASSED |
 | Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 10 images |
 | Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, imagn source |
-| Review Dashboard | PENDING | Not yet generated (run generate-review-dashboard.py) |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
 | Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
-| PostPlanner Export | PENDING | Run generate-postplanner-export.py + --tobi |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-11-15.xlsx (7 posts) + tfr-postplanner-tobi-2026-11-15.xlsx (7 TOBI posts) |
 | WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
 | Story History | COMPLETE | Nov 15 section prepended to Tennis/story-history.md |
 
