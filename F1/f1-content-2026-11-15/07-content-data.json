@@ -1,0 +1,390 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-15",
+  "compiled_at": "2026-11-15T11:23:09.512321+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Las Vegas GP Preview — Verstappen the Race Favorite as Champion Antonelli Heads to the Strip (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Las Vegas Grand Prix is just 4 days away.\n\nVerstappen and Antonelli are co-favorites at +200 for the win.\n\nThe title is Antonelli's. But the race? That's still wide open. 🎲\n\n#F1 #LasVegasGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 193
+        },
+        {
+          "label": "Post 1-2",
+          "text": "3 races left. Verstappen +17 over Russell for P2 in the standings.\n\nLas Vegas is next and Max needs points. Watch closely. 🏎️\n\n#F1 #LasVegasGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 142
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-las-vegas-gp-preview-verstappen-favorite.html",
+        "headline": "Las Vegas GP Preview: Verstappen Arrives as Race Favorite While Antonelli Races Free as Champion",
+        "word_count": 619
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Verstappen Las Vegas (social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Antonelli Vegas arrival (social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Las Vegas GP Preview\n**Primary Sources:**\n- Formula1.com timetable: Las Vegas GP Nov 19-21, 2026\n- Statsniper: \"F1 standings 2026 Antonelli title lead Las Vegas Grand Prix\" (https://statsniper.com/blog/f1/f1-standings-2026-antonelli-title-lead-las-vegas-grand-prix/)\n- Scores and Stats: \"Las Vegas Grand Prix Odds: Antonelli vs. Verstappen at +200\" (https://www.scoresandstats.com/blog/las-vegas-grand-prix-odds/)\n- Grand Prix 247: \"Who are the betting favorites to win the F1 Las Vegas Grand Prix?\" (https://www.grandprix247.com/formula-1-news/formula-1-las-vegas-grand-prix-date-odds-who-will-win)\n**Verified Facts (HIGH confidence):**\n- Las Vegas GP dates: November 19-21, 2026 — Formula 1 official timetable\n- Antonelli leads championship at 390 points (Drivers' champion already) — multiple sources\n- Verstappen second at 279 points — multiple sources\n- Russell third at 262 points — multiple sources\n- Hamilton fourth at 261 points — multiple sources\n- Three races remain (Las Vegas, Qatar, Abu Dhabi) — multiple sources\n**Medium confidence:**\n- Verstappen and Antonelli co-favorites at +200; Russell at +600 — single odds source from approximately November 9",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "F1 standings 2026 Antonelli title lead Las Vegas Grand Prix",
+          "url": "https://statsniper.com/blog/f1/f1-standings-2026-antonelli-title-lead-las-vegas-grand-prix/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Statsniper"
+        },
+        {
+          "name": "Las Vegas Grand Prix Odds: Antonelli vs. Verstappen at +200",
+          "url": "https://www.scoresandstats.com/blog/las-vegas-grand-prix-odds/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Scores and Stats"
+        },
+        {
+          "name": "Who are the betting favorites to win the F1 Las Vegas Grand Prix?",
+          "url": "https://www.grandprix247.com/formula-1-news/formula-1-las-vegas-grand-prix-date-odds-who-will-win",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Grand Prix 247"
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Norris Dominates Wet São Paulo — McLaren's Third Win of Season, Mercedes Clinches Constructors' Title (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Lando Norris dominated a wet Interlagos in São Paulo.\n\nMcLaren's 3rd win of 2026. Verstappen climbed from 21st to 2nd.\n\nAlso: Mercedes just clinched the Constructors' title. 🏆\n\n#F1 #SaoPauloGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SaoPauloGP"
+          ],
+          "char_count": 192
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Starting 21st at Interlagos.\n\nFinishing 2nd.\n\nThat's just Max Verstappen doing Max Verstappen things in São Paulo. 🔴 #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 120
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-norris-sao-paulo-mclaren-mercedes-title.html",
+        "headline": "Norris Masters a Wet Interlagos as McLaren Wins São Paulo — Mercedes Clinches 2026 Constructors' Title",
+        "word_count": 599
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Norris São Paulo celebration (social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Mercedes celebrations (social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "São Paulo GP Results\n**Primary Sources:**\n- Formula 1 official: \"Norris beats Verstappen in wet Sao Paulo GP thriller as Mercedes win constructors' championship\" (https://www.formula1.com/en/latest/article/norris-beats-verstappen-in-wet-sao-paulo-gp-thriller-as-mercedes-win-constructors-championship.7JN7MXLZf5lk5l0C3gfKGI)\n- Sky Sports: \"Sao Paulo GP: Lando Norris wins wet race for McLaren as Mercedes seal 2026 F1 Constructors' Championship\" (https://www.skysports.com/f1/news/13609694/sao-paulo-gp-lando-norris-wins-wet-race-for-mclaren-as-mercedes-seal-2026-f1-constructors-championship-in-brazil)\n- Silverstone: \"F1 2026 São Paulo Grand Prix results: Norris dominates in tricky conditions at Interlagos\" (https://www.silverstone.co.uk/news/f1-2026-sao-paulo-grand-prix-results-norris-dominates-tricky-conditions-interlagos)\n- Yahoo Sports: \"Lando Norris wins at rainy Interlagos despite shaky start\" (https://sports.yahoo.com/f1/breaking-news/live/f1-sao-paulo-grand-prix-live-updates-starting-grid-results-best-bets-weather-and-more-143600231.html)\n- Motorsport Week results (https://www.motorsportweek.com/2026/11/08/f1-2026-sao-paulo-grand-prix-race-results/)\n- Grande Premio: \"2026 F1 standings after São Paulo GP as Mercedes clinches title\" (https://grandepremio.com/en/f1/2026-f1-standings-after-sao-paulo-gp-as-mercedes-clinches-title-and-verstappen-extends-lead-over-russell/)\n**Verified Facts (HIGH confidence):**\n- Norris P1 at São Paulo — Formula 1 official, Sky Sports, multiple sources\n- Verstappen P2 (started 21st) — multiple sources\n- Hadjar P3 — multiple sources\n- Antonelli P5 — Formula 1 official\n- Race at Interlagos, November 8, 2026 — Motorsport Week\n- Mercedes clinched 2026 Constructors' Championship — multiple sources\n- McLaren's 3rd race win of season — multiple sources\n- Winning margin approximately 14.6 seconds — multiple sources\n**Medium confidence:**\n- Norris's win was from pole — mentioned in multiple sources but as described in context\n- Leclerc standings position at 249 points — single source\n### STORIES 3-5: Championship Standings and Context\n**Verified Facts (HIGH confidence):**\n- Mercedes Constructors' total: 652 points — Sky Sports (updated Nov 13)\n- Ferrari 510 points — Sky Sports\n- Red Bull 415 points — Sky Sports\n- McLaren 398 points — Sky Sports\n- Verstappen-Russell gap: 17 points after São Paulo — Grande Premio\n- Hamilton 261 (one behind Russell at 262) — Grande Premio",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Norris beats Verstappen in wet Sao Paulo GP thriller as Mercedes win constructors' championship",
+          "url": "https://www.formula1.com/en/latest/article/norris-beats-verstappen-in-wet-sao-paulo-gp-thriller-as-mercedes-win-constructors-championship.7JN7MXLZf5lk5l0C3gfKGI",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Formula 1 official"
+        },
+        {
+          "name": "Sao Paulo GP: Lando Norris wins wet race for McLaren as Mercedes seal 2026 F1 Constructors' Championship",
+          "url": "https://www.skysports.com/f1/news/13609694/sao-paulo-gp-lando-norris-wins-wet-race-for-mclaren-as-mercedes-seal-2026-f1-constructors-championship-in-brazil",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Sky Sports"
+        },
+        {
+          "name": "F1 2026 São Paulo Grand Prix results: Norris dominates in tricky conditions at Interlagos",
+          "url": "https://www.silverstone.co.uk/news/f1-2026-sao-paulo-grand-prix-results-norris-dominates-tricky-conditions-interlagos",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Silverstone"
+        },
+        {
+          "name": "Lando Norris wins at rainy Interlagos despite shaky start",
+          "url": "https://sports.yahoo.com/f1/breaking-news/live/f1-sao-paulo-grand-prix-live-updates-starting-grid-results-best-bets-weather-and-more-143600231.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Yahoo Sports"
+        },
+        {
+          "name": "Motorsport Week results",
+          "url": "https://www.motorsportweek.com/2026/11/08/f1-2026-sao-paulo-grand-prix-race-results/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "2026 F1 standings after São Paulo GP as Mercedes clinches title",
+          "url": "https://grandepremio.com/en/f1/2026-f1-standings-after-sao-paulo-gp-as-mercedes-clinches-title-and-verstappen-extends-lead-over-russell/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Grande Premio"
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "P2 Championship Battle — Verstappen Leads Russell by 17 as Season Enters Final Act (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The title is Antonelli's. But P2 is a battle.\n\nVerstappen: 279 pts\nRussell: 262 pts\nHamilton: 261 pts\n\n17 points split three drivers. 75 points available. #F1 #LasVegasGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 170
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-p2-championship-battle-verstappen-russell-hamilton.html",
+        "headline": "The Real F1 Championship Fight: Verstappen, Russell, and Hamilton Separated by 18 Points Entering Las Vegas",
+        "word_count": 595
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Verstappen helmet on (social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Hamilton in car (social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Mercedes Clinches 2026 Constructors' Championship at São Paulo (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Mercedes are the 2026 F1 Constructors' Champions. 🏆\n\n652 points. Three drivers delivering all season.\n\nFerrari were 142 points behind. It wasn't even close. #F1 #Petronas",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Petronas"
+          ],
+          "char_count": 170
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-mercedes-2026-constructors-championship.html",
+        "headline": "Mercedes Seal the Double: 2026 Constructors' Championship Clinched at São Paulo Completes Historic Season",
+        "word_count": 514
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Mercedes team celebration (social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Verstappen's Las Vegas Story — Red Bull Star Chases Race Win on Streets He Loves (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Max Verstappen is coming to Las Vegas as the race fan favorite.\n\nHe just drove from 21st to 2nd in Brazil. He needs points in P2.\n\nTime to put on a show. 🎲 #F1 #LasVegasGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 171
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-verstappen-las-vegas-p2-mission.html",
+        "headline": "Verstappen Heads to Las Vegas on a Mission: P2 Championship Lead, Race Favorite Status, and Maximum Motivation",
+        "word_count": 526
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Verstappen onboard (social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

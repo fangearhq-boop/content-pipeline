@@ -2,6 +2,45 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-11-15 Stories
+
+### STORY 1: Las Vegas GP Preview — Verstappen Race Favorite, Antonelli as Champion
+- **Tier:** 1
+- **Category:** Las Vegas Grand Prix / Max Verstappen / Kimi Antonelli
+- **Key facts:** Las Vegas GP Nov 19-21; Verstappen +200 (race win); Antonelli champion 390 pts; Verstappen 279 (P2); Russell 262 (P3); Hamilton 261 (P4); 3 races remaining
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: Norris Wins São Paulo — McLaren 3rd Win, Mercedes Clinch Constructors' Title
+- **Tier:** 1
+- **Category:** Lando Norris / McLaren / São Paulo GP / Mercedes Constructors'
+- **Key facts:** Norris P1 from pole; Verstappen P2 (from 21st); Hadjar P3; Antonelli P5; Mercedes clinch constructors' (652 pts); McLaren 3rd win; ~14.6s margin; Nov 8, 2026
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: P2 Championship Battle — Verstappen 279 vs Russell 262 vs Hamilton 261
+- **Tier:** 2
+- **Category:** Championship Standings / Max Verstappen / George Russell / Lewis Hamilton
+- **Key facts:** Verstappen +17 over Russell; Hamilton 1 behind Russell; 75 pts available (3 races); Leclerc 249 (P5)
+- **Byline:** Elena Voss
+- **Status:** NEW
+
+### STORY 4: Mercedes 2026 Constructors' Championship Clinched
+- **Tier:** 2
+- **Category:** Mercedes / Constructors' Championship
+- **Key facts:** Mercedes 652 pts; Ferrari 510; Red Bull 415; McLaren 398; clinched at São Paulo Nov 8
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: Verstappen at Las Vegas — P2 Mission, Race Favorite Status
+- **Tier:** 2
+- **Category:** Max Verstappen / Red Bull / Las Vegas Street Circuit
+- **Key facts:** +200 odds; São Paulo P2 from 21st; needs to protect 17pt P2 lead; Las Vegas Nov 19-21
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+---
+
 ## 2026-11-13 Stories
 
 ### STORY 1: Norris Wins Sao Paulo GP — Mercedes Clinch 9th Constructors' Title
