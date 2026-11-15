@@ -2,6 +2,45 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-11-15 Stories
+
+### STORY 1: Austin Championship Final Round — Crowe (-14) Chases Wire-to-Wire Title
+- **Tier:** 1
+- **Category:** PGA Tour / Austin Championship / Trace Crowe
+- **Key facts:** Crowe -14 entering final round (rounds 62-69-71); Ramey/Valimaki/van Rooyen at -13; Kohles/Greyserman at -12; $6M purse; Fazio Canyons Course, Austin TX; first PGA Tour title on line; tee times moved up for weather
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: The ANNIKA Pelican Final Round — Lindy Duncan (-13) Seeks First LPGA Title
+- **Tier:** 1
+- **Category:** LPGA / The ANNIKA Pelican / Lindy Duncan
+- **Key facts:** Duncan -13 (rounds 62-66-69); Choi -12; Yoshida -11; Korda lurking; Duncan 35yo, 222nd career start, no wins; $3.25M purse; 500 CME Global points; Pelican Golf Club, Belleair FL; Golf Channel/CNBC 1:30 PM ET
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 3: LIV Golf Bankruptcy — $40M+ Owed Players, January 2027 Emergence Target
+- **Tier:** 2
+- **Category:** LIV Golf / Bankruptcy / Jon Rahm / Bryson DeChambeau
+- **Key facts:** Chapter 11 NJ; Rahm ~$7.5M, DeChambeau ~$5.7M; $40M+ total; $14M DIP financing approved; LIV 2.0/BC Partners targeting Jan 2027; contract rejections for DeChambeau/Johnson/C. Smith possible; Nov 24 hearing
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 4: Lindy Duncan — 222 Starts, 35 Years Old, One Round From History
+- **Tier:** 2
+- **Category:** Lindy Duncan / LPGA / The ANNIKA
+- **Key facts:** Duncan turned pro 2013; 222 career LPGA starts; zero wins; 35 years old; R3 bogey-free 69; leads by 1 at -13
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: Nelly Korda Chasing at ANNIKA — World No. 1 in Sunday Chase Mode
+- **Tier:** 2
+- **Category:** Nelly Korda / LPGA / The ANNIKA Pelican
+- **Key facts:** Korda world No. 1; behind leaders entering final round; $3.25M purse; 500 CME Global points; Pelican Golf Club; LPGA described entry as "chasing history"
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+---
+
 ## 2026-11-13 Stories
 
 ### STORY 1: Austin Championship Round 2 — Van Rooyen and Greyserman Co-Lead at -8

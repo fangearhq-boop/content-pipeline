@@ -1,0 +1,459 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-15",
+  "compiled_at": "2026-11-15T11:31:17.239655+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Austin Championship Final Round — Crowe (-14) Chases Wire-to-Wire Title at Fazio Canyons (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Trace Crowe enters the final round at the Austin Championship at -14.\n\nOne shot clear of three players at -13.\n\nWire-to-wire first PGA Tour title on the line. 🏌️\n\n#PGATour #AustinChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#AustinChampionship"
+          ],
+          "char_count": 191
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Four-way battle at the Austin Championship today.\n\nCrowe -14. Ramey, Valimaki and van Rooyen all at -13.\n\nFinal round tee times moved up due to weather. First title on the line. 🏆\n\n#PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour"
+          ],
+          "char_count": 189
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-austin-championship-crowe-final-round.html",
+        "headline": "Trace Crowe Enters Austin Championship Final Round at -14, One Shot From First PGA Tour Title",
+        "word_count": 519
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Featured Article Image",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social/Thumbnail",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "Trace Crowe chases wire-to-wire victory, first PGA Tour title at Austin Championship",
+          "url": "https://www.pgatour.com/article/news/daily-wrapup/2026/11/14/round-3-austin-championship-recap-fazio-canyons-course-scores-leaderboard-results",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "PGA Tour official R3 recap"
+        },
+        {
+          "name": "Trace Crowe salvages his round with two late birdies and leads Austin Championship",
+          "url": "https://abcnews.com/Sports/wireStory/trace-crowe-salvages-round-late-birdies-leads-austin-138149407",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "ABC News/AP"
+        },
+        {
+          "name": "Austin Championship Final Round Tee Times: Trace Crowe takes narrow lead into Sunday",
+          "url": "https://www.golfmagic.com/tour/pga-tour/austin-championship-final-round-tee-times-trace-crowe-takes-narrow-lead-sunday",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Golf Magic"
+        },
+        {
+          "name": "Trace Crowe's Late Birdies Keep Him Ahead in Austin",
+          "url": "https://athlonsports.com/golf/trace-crowes-late-birdies-keep-him-ahead-in-austin",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Athlon Sports"
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "ANNIKA Pelican Final Round — Lindy Duncan (-13) Seeks First LPGA Title After 222 Starts (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Lindy Duncan is 1 shot from LPGA history.\n\n222 career starts. 35 years old. Zero wins. That changes today?\n\nShe leads The ANNIKA at -13. Final round starts 1:30 PM ET on Golf Channel. 🌟\n\n#LPGA #ANNIKAatPelican",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#ANNIKAatPelican"
+          ],
+          "char_count": 209
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Choi is 1 back. Yoshida is 2 back. Korda is lurking.\n\nLindy Duncan leads The ANNIKA at -13 entering Sunday's final round.\n\nThis is about to be a great one. 🏌️‍♀️\n\n#LPGA #ANNIKAatPelican",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#ANNIKAatPelican"
+          ],
+          "char_count": 185
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-annika-pelican-lindy-duncan-final-round.html",
+        "headline": "Lindy Duncan Leads The ANNIKA at -13, Seeks First LPGA Win in Her 222nd Career Start",
+        "word_count": 507
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Featured Article Image",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social/Thumbnail",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "Lindy Duncan leads The Annika in search of first LPGA win after 222 career starts",
+          "url": "https://sports.yahoo.com/articles/lindy-duncan-leads-annika-search-232145155.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Yahoo Sports AP"
+        },
+        {
+          "name": "Lindy Duncan takes 1-shot lead into final round of The Annika",
+          "url": "https://sports.yahoo.com/articles/lindy-duncan-takes-1-shot-005317468.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Yahoo Sports"
+        },
+        {
+          "name": "Lindy Duncan Holds 54-Hole Lead at The ANNIKA as Cold Front Hits Pelican",
+          "url": "https://golftoday.co.uk/the-annika-2026-r3-lindy-duncan-leads/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Golf Today"
+        },
+        {
+          "name": "Lindy Duncan takes sole possession of top spot at The Annika",
+          "url": "https://fieldlevelmedia.com/lpga_tour/lindy-duncan-takes-sole-possession-of-top-spot-at-the-annika/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Field Level Media"
+        },
+        {
+          "name": "The Annika 2026: Final round tee times, groupings and how to watch",
+          "url": "https://www.golfchannel.com/how-to-watch-annika-2026-round-4-tee-times-groupings",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Golf Channel"
+        },
+        {
+          "name": "World No. 1 Nelly Korda Chasing History at The ANNIKA",
+          "url": "https://www.lpga.com/news/2026/world-no-1-nelly-korda-chasing-history-at-the-annika-driven-by-gainbridge-at-pelican-headlines-world-class-field",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "LPGA official"
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "LIV Golf Bankruptcy — $40M+ Owed Players, January 2027 Emergence Target (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "LIV Golf owes players $40M+.\n\nRahm: ~$7.5M. DeChambeau: ~$5.7M.\n\nChapter 11 filed in New Jersey. LIV 2.0 target is January 2027. The story isn't over yet. ⚖️\n\n#LIVGolf #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#Golf"
+          ],
+          "char_count": 173
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-liv-golf-bankruptcy-player-payments.html",
+        "headline": "LIV Golf Bankruptcy: $40M+ Owed to Players, Rahm and DeChambeau Among Largest Claimants",
+        "word_count": 517
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Featured Article Image",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social/Thumbnail",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf Bankruptcy\n**Primary Sources:**\n- Front Office Sports: \"LIV bankruptcy reveals PIF's $495M exit, player contract details\" (https://frontofficesports.com/article/liv-bankruptcy-reveals-pifs-495m-exit-player-contract-details/)\n- Gulf News: \"LIV Golf bankruptcy: Rahm & DeChambeau among players owed millions\" (https://gulfnews.com/sport/liv-golf-bankruptcy-rahm-dechambeau-among-players-owed-millions-1.500668129)\n- Forbes Australia: \"LIV Golf files for bankruptcy, owing its stars more than US$40 million\" (https://www.forbes.com.au/news/sport/liv-golf-files-for-bankruptcy-owing-its-stars-more-than-40-million/)\n- Golf Digest: \"LIV Golf will know if it's ceasing operations by end of month\" (https://www.golfdigest.com/story/liv-golf-will-know-if-its-ceasing-operations-by-end-of-month--ac)\n- The Star Malaysia: \"LIV Golf wins interim court approval to access $14 million in bankruptcy financing\" (https://www.thestar.com.my/sport/golf/2026/09/11/liv-golf-wins-interim-court-approval-to-access-14-million-in-bankruptcy-financing)\n**Verified Facts (HIGH confidence):**\n- LIV Golf filed Chapter 11 bankruptcy (New Jersey) — multiple sources\n- $14M DIP financing approved by court — The Star\n- Total owed to players: $40M+ — Forbes Australia\n- Jon Rahm: approximately $7.5M owed — Gulf News/multiple sources\n- Bryson DeChambeau: approximately $5.7M owed — Gulf News\n- Targeting January 2027 emergence (LIV 2.0/BC Partners) — Golf Digest\n- Court motion to reject executory contracts (DeChambeau, Johnson, Cameron Smith mentioned) — Golf Digest/Bloomberg\n**Medium confidence:**\n- Court actually rejected the contracts vs. filed a motion to reject — Bloomberg framing unclear\n- Nov 24 hearing detail (from prior pipeline context)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "LIV bankruptcy reveals PIF's $495M exit, player contract details",
+          "url": "https://frontofficesports.com/article/liv-bankruptcy-reveals-pifs-495m-exit-player-contract-details/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Front Office Sports"
+        },
+        {
+          "name": "LIV Golf bankruptcy: Rahm & DeChambeau among players owed millions",
+          "url": "https://gulfnews.com/sport/liv-golf-bankruptcy-rahm-dechambeau-among-players-owed-millions-1.500668129",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Gulf News"
+        },
+        {
+          "name": "LIV Golf files for bankruptcy, owing its stars more than US$40 million",
+          "url": "https://www.forbes.com.au/news/sport/liv-golf-files-for-bankruptcy-owing-its-stars-more-than-40-million/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Forbes Australia"
+        },
+        {
+          "name": "LIV Golf will know if it's ceasing operations by end of month",
+          "url": "https://www.golfdigest.com/story/liv-golf-will-know-if-its-ceasing-operations-by-end-of-month--ac",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Golf Digest"
+        },
+        {
+          "name": "LIV Golf wins interim court approval to access $14 million in bankruptcy financing",
+          "url": "https://www.thestar.com.my/sport/golf/2026/09/11/liv-golf-wins-interim-court-approval-to-access-14-million-in-bankruptcy-financing",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "The Star Malaysia"
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Duncan's Defining Moment — 222 Starts, 35 Years Old, One Round From LPGA History (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "35 years old. 222nd LPGA Tour start. Never won.\n\nThat's Lindy Duncan's story heading into Sunday at The ANNIKA.\n\nThis is the kind of moment golf was made for. 💪\n\n#LPGA #ANNIKAatPelican",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#ANNIKAatPelican"
+          ],
+          "char_count": 184
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-lindy-duncan-historic-moment-222-starts.html",
+        "headline": "Lindy Duncan's 222-Start Journey: The Road to The ANNIKA Final Round Is One She's Earned",
+        "word_count": 518
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Featured Article Image",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Social/Thumbnail",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Nelly Korda Chasing History at ANNIKA — World No. 1 Enters Final Round Behind Leaders (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Nelly Korda is the world No. 1. She's chasing Lindy Duncan at The ANNIKA today.\n\n$3.25M purse. 500 CME points. Best women's golfer alive — competing to close a gap.\n\nWatch. 👀\n\n#LPGA #NellyKorda",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#NellyKorda"
+          ],
+          "char_count": 193
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nelly-korda-annika-chase.html",
+        "headline": "Nelly Korda Enters ANNIKA Final Round Behind Leaders, World No. 1 Set Up for Sunday Chase",
+        "word_count": 532
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Featured Article Image",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Social/Thumbnail",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
