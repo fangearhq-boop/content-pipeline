@@ -2,6 +2,45 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-11-15 Stories
+
+### STORY 1: Heat 137, Pistons 117 — Giannis 34/14/8, Klay 26 on Return
+- **Tier:** 1
+- **Category:** Miami Heat / Detroit Pistons / Giannis Antetokounmpo / Klay Thompson
+- **Key facts:** Giannis 34/14/8 (13-17 FG); Klay 26 pts (6 3-pointers, returned from sprained ankle); Bam 20; Heat 14 blocks (season-high), 10 steals; Cunningham 33/8 for DET; Huerter 20 off bench; Heat 7-6, Pistons 8-4; Detroit led 39-37 after Q1; Miami won by 20
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Nuggets 116, Pelicans 108 — Jokic 26/10ast, Sixth Straight Loss for NOP
+- **Tier:** 1
+- **Category:** Denver Nuggets / New Orleans Pelicans / Nikola Jokic / DeJounte Murray
+- **Key facts:** Jokic 26/8reb/10ast; Murray 23/9ast (+16); Braun 17/7reb/4stl; Zion 24 for NOP; Bey 4-15 FG; DeJounte Murray absent (trade request + ankle); Pelicans 6-game losing streak (4-10); Nuggets 7-4
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Cavaliers 127, Mavericks 117 — Proctor First Career Triple-Double
+- **Tier:** 2
+- **Category:** Cleveland Cavaliers / Dallas Mavericks / Tyrese Proctor
+- **Key facts:** Proctor 24/11/10 (first career TD); Hezonja 22; Thomas 20; Cleveland missing Mitchell/Harden/Allen/Watson/Mobley/Merrill/Tomlin; Kyrie 34; Flagg 18 (6-19 FG); Cleveland max lead 22; DAL 11-0 Q3 run; Cleveland 7-7, Dallas 7-6
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: Mavericks' Struggles Deepen — Kyrie 34 Wasted as Flagg Shoots 6-of-19
+- **Tier:** 2
+- **Category:** Dallas Mavericks / Cooper Flagg / Kyrie Irving
+- **Key facts:** Flagg 6-19 FG; Kyrie 34; DAL 7-6; second straight loss; lost to injury-depleted Cleveland
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: Pelicans in Crisis — 6-Game Skid, DeJounte Murray Trade Request
+- **Tier:** 2
+- **Category:** New Orleans Pelicans / DeJounte Murray / Zion Williamson
+- **Key facts:** Pelicans 4-10 (6-game losing streak); DeJounte Murray trade request; Zion 24; Bey 4-15; lost to Denver
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+---
+
 ## 2026-11-13 Stories
 
 ### STORY 1: Cunningham 52 Career High — Pistons 144, Wizards 140 (2OT)

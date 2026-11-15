@@ -1,0 +1,425 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-15",
+  "compiled_at": "2026-11-15T11:17:02.312080+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Heat 137, Pistons 117 — Giannis 34/14/8, Klay 26 on Return (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Giannis: 34 PTS / 14 REB / 8 AST on 13-of-17 shooting.\n\nMiami blocked 14 shots and won by 20. Heat are 7-6 and rolling.\n\nThat's not a rental — that's a force. 🔥\n\n#HeatNation",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HeatNation"
+          ],
+          "char_count": 173
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Klay Thompson returned from a sprained ankle last night.\n\nHe dropped 26 points with 6 three-pointers.\n\nSome players just don't stay hurt. 🎯\n\n#HeatNation",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HeatNation"
+          ],
+          "char_count": 152
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-giannis-klay-heat-rout-pistons.html",
+        "headline": "Giannis Drops 34, Klay Returns With 26 as Heat Rout Pistons 137-117 for Fourth Straight Win",
+        "word_count": 634
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Giannis action (social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Klay Thompson return (social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Heat 137, Pistons 117\n**Primary Sources:**\n- ABC News (AP): \"Antetokounmpo scores 34, Heat block 14 shots and roll past Pistons 137-117 for 4th straight win\" (https://abcnews.com/Sports/wireStory/antetokounmpo-scores-34-heat-block-14-shots-roll-138152484)\n- Yardbarker: \"Giannis Antetokounmpo Scores 34, Klay Thompson Drops 26 as Heat Roll Past Pistons 137-117 for Fourth Straight Win\" (https://www.yardbarker.com/nba/articles/giannis_antetokounmpo_scores_34_klay_thompson_drops_26_as_heat_roll_past_pistons_137_117_for_fourth_straight_win/s1_16736_44563417)\n- TalkBasket: \"Giannis leads Heat past Pistons with 34-point performance\" (https://www.talkbasket.net/228243-giannis-leads-heat-past-pistons-with-34-point-performance)\n- Yahoo Sports: \"Klay Thompson stunned after seeing what Giannis did vs Pistons\" (https://sports.yahoo.com/articles/goodness-klay-thompson-stunned-seeing-072032994.html)\n**Verified Facts (HIGH confidence):**\n- Giannis Antetokounmpo: 34 pts, 14 reb, 8 ast, 13-for-17 FG, 1 stl, 3 blk — multiple AP/wire reports\n- Klay Thompson: 26 pts, 6 three-pointers — multiple sources; returned from sprained ankle\n- Bam Adebayo: 20 pts — Yardbarker\n- Miami Heat team: 14 blocks (season-high), 10 steals — AP/ABC News\n- Cade Cunningham: 33 pts, 8 ast for Detroit — AP/ABC News\n- Kevin Huerter: 20 pts off bench (Detroit) — Yardbarker\n- Miami won its 4th consecutive game, moving to 7-6 — multiple sources\n- Detroit fell to 8-4 — multiple sources\n- Detroit led 39-37 after Q1; Miami outscored 31-21 in Q2, 35-26 in Q3 — AP\n- Final margin 20 points (137-117) — confirmed multiple sources\n- Duncan Robinson left with thigh injury — Yardbarker\n**Medium confidence:**\n- Davion Mitchell stat (conflicting between 9 reb vs 9 ast across sources)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Antetokounmpo scores 34, Heat block 14 shots and roll past Pistons 137-117 for 4th straight win",
+          "url": "https://abcnews.com/Sports/wireStory/antetokounmpo-scores-34-heat-block-14-shots-roll-138152484",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "ABC News (AP)"
+        },
+        {
+          "name": "Giannis Antetokounmpo Scores 34, Klay Thompson Drops 26 as Heat Roll Past Pistons 137-117 for Fourth Straight Win",
+          "url": "https://www.yardbarker.com/nba/articles/giannis_antetokounmpo_scores_34_klay_thompson_drops_26_as_heat_roll_past_pistons_137_117_for_fourth_straight_win/s1_16736_44563417",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Yardbarker"
+        },
+        {
+          "name": "Giannis leads Heat past Pistons with 34-point performance",
+          "url": "https://www.talkbasket.net/228243-giannis-leads-heat-past-pistons-with-34-point-performance",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "TalkBasket"
+        },
+        {
+          "name": "Klay Thompson stunned after seeing what Giannis did vs Pistons",
+          "url": "https://sports.yahoo.com/articles/goodness-klay-thompson-stunned-seeing-072032994.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Yahoo Sports"
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Nuggets 116, Pelicans 108 — Jokic 26/10ast, Pelicans Drop Sixth Straight (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Jokic: 26 PTS / 10 AST / 8 REB\nMurray: 23 PTS / 9 AST (+16)\n\nNuggets 7-4. New Orleans has now lost six straight. 💪\n\n#MileHighBasketball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MileHighBasketball"
+          ],
+          "char_count": 135
+        },
+        {
+          "label": "Post 2-2",
+          "text": "DeJounte Murray has requested a trade from New Orleans.\n\nThe Pelicans are 4-10. Six losses in a row. Roster unraveling.\n\nThis front office has some explaining to do. 🚨\n\n#Pelicans",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Pelicans"
+          ],
+          "char_count": 178
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-jokic-murray-nuggets-pelicans-six-losses.html",
+        "headline": "Jokic 26/10, Murray 23/9 Lead Nuggets Past Pelicans as New Orleans' Losing Streak Hits Six",
+        "word_count": 541
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Jokic passing (social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Zion Williamson defense/offense (social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Nuggets 116, Pelicans 108\n**Primary Sources:**\n- Washington Post: \"Jokic, Murray help Nuggets hand Pelicans a sixth straight loss\" (https://www.washingtonpost.com/sports/nba/2026/11/14/nuggets-pelicans-score/c648a9d8-e09f-11f1-912c-4fbb80d73f7f_story.html)\n- Denver Stiffs: \"Nuggets finish road trip with 116-108 victory over New Orleans Pelicans\" (https://www.denverstiffs.com/recap-denver-nuggets-finish-road-trip-with-116-108-victory-over-new-orleans-pelicans/)\n- Yardbarker: \"Nuggets Beat Pelicans 116-108 as Jokic Scores 26\" (https://www.yardbarker.com/nba/articles/nuggets_beat_pelicans_116_108_as_jokic_scores_26/s1_17668_44562852)\n- Sportando: \"Denver beats New Orleans: Jokic and Murray make NBA history\" (https://sportando.basketball/en/denver-beats-new-orleans-jokic-and-murray-make-nba-history)\n- TalkBasket: \"Nikola Jokic leads Nuggets past Pelicans as skid reaches six\" (https://www.talkbasket.net/228233-nikola-jokic-leads-nuggets-past-pelicans-as-skid-reaches-six)\n**Verified Facts (HIGH confidence):**\n- Nikola Jokic: 26 pts, 8 reb, 10 ast — multiple sources (Washington Post, Yardbarker, Denver Stiffs)\n- Jamal Murray: 23 pts, 9 ast, 9-of-16 FG, +16 — Denver Stiffs\n- Christian Braun: 17 pts, 7 reb, 4 stl — Denver Stiffs\n- Zion Williamson: 24 pts for New Orleans — multiple sources\n- Saddiq Bey: 4-of-15 FG for New Orleans — Denver Stiffs\n- DeJounte Murray: absent (ankle injury + trade request) — Washington Post\n- DeMar DeRozan spinning jumper to push lead to 102-87 with 6:36 remaining — Denver Stiffs\n- Denver started: 19-11 lead early on Jokic layup; led 29-23 entering Q2\n- Nuggets improved to 7-4; Pelicans fell to 4-10\n- New Orleans' 6th consecutive loss — multiple sources\n**Medium confidence (single source):**\n- Jokic and Murray became the first pair of teammates to record 1,000 assists to each other — Sportando only; note as MEDIUM",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Jokic, Murray help Nuggets hand Pelicans a sixth straight loss",
+          "url": "https://www.washingtonpost.com/sports/nba/2026/11/14/nuggets-pelicans-score/c648a9d8-e09f-11f1-912c-4fbb80d73f7f_story.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Washington Post"
+        },
+        {
+          "name": "Nuggets finish road trip with 116-108 victory over New Orleans Pelicans",
+          "url": "https://www.denverstiffs.com/recap-denver-nuggets-finish-road-trip-with-116-108-victory-over-new-orleans-pelicans/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Denver Stiffs"
+        },
+        {
+          "name": "Nuggets Beat Pelicans 116-108 as Jokic Scores 26",
+          "url": "https://www.yardbarker.com/nba/articles/nuggets_beat_pelicans_116_108_as_jokic_scores_26/s1_17668_44562852",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Yardbarker"
+        },
+        {
+          "name": "Denver beats New Orleans: Jokic and Murray make NBA history",
+          "url": "https://sportando.basketball/en/denver-beats-new-orleans-jokic-and-murray-make-nba-history",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Sportando"
+        },
+        {
+          "name": "Nikola Jokic leads Nuggets past Pelicans as skid reaches six",
+          "url": "https://www.talkbasket.net/228233-nikola-jokic-leads-nuggets-past-pelicans-as-skid-reaches-six",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "TalkBasket"
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Cavaliers 127, Mavericks 117 — Proctor's First Career Triple-Double (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Tyrese Proctor's first career triple-double:\n\n24 PTS | 11 REB | 10 AST\n\nCleveland was missing Mitchell, Harden, Allen + 4 others.\n\nThe Cavs STILL beat Dallas by 10. 🔥\n\n#BeTheFight",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BeTheFight"
+          ],
+          "char_count": 179
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-proctor-triple-double-cavs-beat-mavs.html",
+        "headline": "Tyrese Proctor Delivers First Career Triple-Double as Short-Handed Cavaliers Stun Mavericks 127-117",
+        "word_count": 581
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Tyrese Proctor (social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Cooper Flagg Dallas (social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cavaliers 127, Mavericks 117\n**Primary Sources:**\n- ABC News (AP): \"Tyrese Proctor has a triple-double as short-handed Cavaliers top Mavericks 127-117\" (https://abcnews.com/Sports/wireStory/tyrese-proctor-triple-double-short-handed-cavaliers-top-138152065)\n- Fear the Sword: \"Cavs beat Mavericks 127-117 behind Tyrese Proctor's triple double\" (https://www.fearthesword.com/cavs-scores-results/54445/cavs-beat-mavericks-127-117-behind-tyrese-proctors-triple-double)\n- Yardbarker: \"Cavaliers Beat Mavericks 127-117 as Proctor Scores 24\" (https://www.yardbarker.com/nba/articles/cavaliers_beat_mavericks_127_117_as_proctor_scores_24/s1_17668_44562902)\n- BVM Sports: \"Cavaliers Beat Mavericks 127-117 Behind Tyrese Proctor Triple-Double\" (https://bvmsports.com/2026/11/14/cavaliers-beat-mavericks-127-117-behind-tyrese-proctor-triple-double/)\n**Verified Facts (HIGH confidence):**\n- Tyrese Proctor: 24 pts, 11 reb, 10 ast (first career triple-double) — multiple AP/wire sources\n- Mario Hezonja: 22 pts — Yardbarker, Fear the Sword\n- Meleek Thomas: 20 pts — Yardbarker, Fear the Sword\n- Cleveland missing (resting/injured): Donovan Mitchell, James Harden, Peyton Watson, Jarrett Allen, Evan Mobley, Sam Merrill, Nae'Qwan Tomlin — AP\n- Kyrie Irving: 34 pts for Dallas — multiple sources\n- Cooper Flagg: 18 pts, 6-of-19 FG — Fear the Sword, Yardbarker\n- Cleveland led by as many as 22 pts — Yardbarker\n- Dallas made 11-0 run in Q3 — Yardbarker\n- Cleveland 7-7 (after win) — BVM Sports; Dallas 7-6\n### Stories 4 & 5: Analysis pieces\nStory 4 builds on Story 3 data (Mavericks angle). Story 5 builds on Story 2 data (Pelicans angle).",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Tyrese Proctor has a triple-double as short-handed Cavaliers top Mavericks 127-117",
+          "url": "https://abcnews.com/Sports/wireStory/tyrese-proctor-triple-double-short-handed-cavaliers-top-138152065",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "ABC News (AP)"
+        },
+        {
+          "name": "Cavs beat Mavericks 127-117 behind Tyrese Proctor's triple double",
+          "url": "https://www.fearthesword.com/cavs-scores-results/54445/cavs-beat-mavericks-127-117-behind-tyrese-proctors-triple-double",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Fear the Sword"
+        },
+        {
+          "name": "Cavaliers Beat Mavericks 127-117 as Proctor Scores 24",
+          "url": "https://www.yardbarker.com/nba/articles/cavaliers_beat_mavericks_127_117_as_proctor_scores_24/s1_17668_44562902",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Yardbarker"
+        },
+        {
+          "name": "Cavaliers Beat Mavericks 127-117 Behind Tyrese Proctor Triple-Double",
+          "url": "https://bvmsports.com/2026/11/14/cavaliers-beat-mavericks-127-117-behind-tyrese-proctor-triple-double/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "BVM Sports"
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Mavericks' Struggles Deepen — Kyrie's 34 Not Enough, Flagg Shooting Woes (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cooper Flagg went 6-of-19 for 18 points.\n\nDallas lost to a Cleveland team missing seven key players.\n\nKyrie dropped 34 but it wasn't enough. The Mavericks have issues. ⚠️\n\n#MFFL",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MFFL"
+          ],
+          "char_count": 177
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-mavericks-kyrie-flagg-struggles.html",
+        "headline": "Kyrie's 34 Points Can't Save Dallas: Mavericks Lose to Injury-Ravaged Cavaliers as Flagg Goes 6-for-19",
+        "word_count": 512
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Kyrie Irving Dallas (social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Pelicans' Crisis — 6-Game Skid, DeJounte Murray Trade Request, Zion's Limits (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Zion had 24 points and New Orleans STILL lost its sixth straight game.\n\nDeJounte Murray wants out. The Pelicans are 4-10.\n\nSomething has to change. 🚨\n\n#Pelicans",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Pelicans"
+          ],
+          "char_count": 160
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-pelicans-crisis-dejounte-trade-request-six-losses.html",
+        "headline": "Pelicans Hit 4-10 as Six-Game Skid Deepens — DeJounte Murray's Trade Request Signals Front-Office Crisis",
+        "word_count": 515
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "DeJounte Murray Pelicans (social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
