@@ -9724,3 +9724,62 @@ Each day's stories are appended at the top (newest first).
   - McClanahan recovery
   - Rays FA decisions
   - Rays 2027 roster outlook
+
+---
+
+## November 15, 2026
+
+### Story 1: Skubal California Meetings Start This Week — Mets Go First
+- **Date:** 2026-11-15
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Skubal market covered Oct 30–Nov 14)
+- **Angle:** Skubal (2x Cy Young, 1.80 ERA, 252 K) meeting with 6 teams in California this week. Mets first; Cohen + Stearns in room. Heyman: "probably the favorite." 8yr/$352M $44M AAV projection. No QO; no draft compensation. Dec 1 urgency.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Skubal signing announcement (expected before Dec 1)
+  - Record contract details
+  - Team reaction to Skubal signing
+
+### Story 2: QO Deadline 48 Hours Away — Bauers Already Gone
+- **Date:** 2026-11-15
+- **Tier:** 1
+- **Classification:** FOLLOW UP (QO covered Oct 30–Nov 14)
+- **Angle:** Nov 17 4 PM ET deadline. Bauers declined and signed 4yr/$58M Red Sox (Passan). 7 remain: Arozarena, Bednar, Jeffers, Suzuki, Lowe, Morejon, Rogers. All expected to decline. Historical rate: 11.5%. Last QOs under current CBA (Yahoo: QO system likely not to survive next CBA).
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - QO decisions Nov 17
+  - Arozarena signing announcement
+  - Bednar market overview
+
+### Story 3: Pre-Lockout Spending Spree
+- **Date:** 2026-11-15
+- **Tier:** 2
+- **Classification:** FOLLOW UP (CBA/lockout covered Oct 30–Nov 14)
+- **Angle:** Bauers $58M Red Sox, Phillips $35M Braves. BJ aggressive on Marte. Marlins marketing Lopez/Edwards/Stowers. A's fielding Wilson calls. Giants declining Webb. Dec 1 hard wall.
+- **Content Produced:** Article (article-03, Ryan Calloway), 2 X posts, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Additional signings this week
+  - Nov 30 final-day frenzy
+  - First post-lockout signing
+
+### Story 4: Cubs Rotation Crisis — All Five SP Are Free Agents
+- **Date:** 2026-11-15
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Cubs pitching covered Nov 11–14)
+- **Angle:** All 5 2026 Cubs starters are FAs. Cubs reportedly out on Skubal. Targets: King (3.21 ERA, 32 starts, opted out), Peralta, Imai (NPB). Hoyer: rotation is No. 1 priority.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Cubs signing King or Peralta
+  - Cubs rotation build complete
+  - Spring 2027 rotation preview
+
+### Story 5: Teruaki Sato Profile
+- **Date:** 2026-11-15
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Sato covered Oct 30–Nov 14)
+- **Angle:** 2026 NPB Triple Crown (.308/.385/.613, 39 HR, age 25). Posted Nov 1, window through Dec 16. Teams: Mets, Yankees, Dodgers, Phillies, Red Sox. Projections $80M-$120M+. 3B defense question → DH/corner OF. Lockout wrinkle: window extends past Dec 1.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Sato signing announcement
+  - Sato contract details
+  - Sato spring training first impressions

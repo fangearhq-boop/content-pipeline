@@ -1,0 +1,308 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-15",
+  "compiled_at": "2026-11-15T10:20:45.080271+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 — Skubal Meetings Start",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 — QO Deadline 48 Hours",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 — Pre-Lockout Spree",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 — Cubs Rotation Crisis",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 — Teruaki Sato Profile",
+      "type": "X + Facebook"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Skubal's California Meetings Start This Week — Mets Go First",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Tarik Skubal's California meetings start THIS WEEK.\n\nMets go first — Steve Cohen and David Stearns in the room.\n\nJon Heyman: Mets are \"probably the favorite.\"\n\nDec 1 deadline. Two-time Cy Young. The race is on. #Mets #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Mets",
+            "#MLB"
+          ],
+          "char_count": 221
+        },
+        {
+          "label": "Post 1-2",
+          "text": "8 years. $352 million. $44M AAV.\n\nThat's what Tarik Skubal is projected to get — shattering Yamamoto's $27M AAV record for a pitcher.\n\nNo qualifying offer attached, so whoever signs him pays nothing in draft compensation. #MLB #HotStove",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#HotStove"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-skubal-california-meetings-mets-first.html",
+        "headline": "Skubal's California Meetings Start This Week — and the Mets Go First",
+        "word_count": 521
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Skubal California Meetings\n\n#### Image 1a — Social (1080x1350)\n**Purpose:** Social media post\n**Search Term:** Tarik Skubal Detroit Tigers\n**Canva Text:** THE MEETINGS BEGIN / Skubal Meets With the Mets First / The Race for the Ace Is On\n**Mood:** Urgency, big event\n\n#### Image 1b — Article Hero (1200x630)\n**Purpose:** Article featured image\n**Search Term:** Tarik Skubal pitching mound\n**Canva Text:** Tarik Skubal's California Meetings Start Now — and the Mets Go First\n**Mood:** Authoritative, breaking\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tarik Skubal California Meetings\n**Source 1:** Dodgers Nation — \"Tarik Skubal Sets California Free Agency Meetings, Including Mets\" (Nov 10, 2026)\n- Six teams scheduled for California meetings\n- Mets meeting first; owner Steve Cohen and David Stearns attending in person\n- Confidence: HIGH\n**Source 2:** Yahoo Sports — \"Tarik Skubal Reportedly Meeting With Six Teams; Dodgers, Mets, Padres Included\"\n- Six teams confirmed; Dodgers, Mets, Padres named; Blue Jays also reported\n- Confidence: HIGH\n**Source 3:** Jon Heyman (NY Post) via Dodgers Blue / various — Mets \"probably the favorite\"\n- Confidence: HIGH (attributed to Heyman directly)\n**Source 4:** MLB.com — \"Tarik Skubal rumors and 2026 MLB Free Agent news\"\n- 8yr/$352M projection with $44M AAV (shatters Yamamoto $27M AAV record)\n- No qualifying offer attached\n- Confidence: MEDIUM (projection, not confirmed contract)\n**Key Facts (HIGH confidence):**\n- Skubal: 2x Cy Young winner, 2026 season: 16-5, 1.80 ERA, 252 K\n- California meetings happening this week (week of Nov 15)\n- Mets meeting first (Cohen + Stearns)\n- 6 teams total\n- No qualifying offer — no draft compensation\n- Dec 1 CBA deadline driving urgency to sign before lockout",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Qualifying Offer Deadline 48 Hours Away — All 8 Expected to Decline",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The qualifying offer deadline is Monday at 4 PM ET.\n\nJake Bauers already declined the QO and signed 4 years/$58M with Boston.\n\n7 players remain. All expected to decline.\n\nThe offseason is about to get very busy, very fast. #MLB #HotStove",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#HotStove"
+          ],
+          "char_count": 237
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Still waiting on QO decisions by Monday:\n\nRandy Arozarena\nDavid Bednar\nRyan Jeffers\nSeiya Suzuki\nJosh Lowe\nAngel Morejon\nJake Rogers\n\nHistorical rate: 11.5% accept. All 7 expected to say no. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 195
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-qo-deadline-48-hours-bauers-gone.html",
+        "headline": "QO Deadline Is Monday — Bauers Already Said No. Here Come the Rest.",
+        "word_count": 492
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "QO Deadline 48 Hours Away\n\n#### Image 2a — Social (1080x1350)\n**Purpose:** Social media post\n**Search Term:** Randy Arozarena Seattle Mariners\n**Canva Text:** 48 HOURS / The Qualifying Offer Deadline Is Monday / What Happens When They All Say No\n**Mood:** Countdown, anticipation\n\n#### Image 2b — Article Hero (1200x630)\n**Purpose:** Article featured image\n**Search Term:** baseball player free agent signing contract\n**Canva Text:** Qualifying Offer Deadline Is Monday — Bauers Already Said No. Here Come the Rest.\n**Mood:** News, analytical\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Qualifying Offer Deadline November 17\n**Source 1:** beisbol.love — \"2026 MLB Qualifying Offer: 8 Players, $23.15M, Nov. 17 Deadline\"\n- Amount: $23.15M (one-year)\n- Deadline: November 17, 4:00 PM ET\n- 8 players received offers\n- Confidence: HIGH\n**Source 2:** Yahoo Sports — offseason calendar article\n- Nov 17 4:00 PM ET deadline confirmed\n- Confidence: HIGH\n**Source 3:** MLB.com / various — Players who received QO: Randy Arozarena, David Bednar, Jake Bauers, Ryan Jeffers, Josh Lowe, Angel Morejon, Jake Rogers, Seiya Suzuki\n- Confidence: HIGH (from pipeline history confirmed by multiple sources)\n**Source 4:** ESPN's Jeff Passan (via MLB.com hot stove Nov 14) — Jake Bauers signed 4yr/$58M with Red Sox\n- Bauers declined QO and signed multi-year deal with Boston\n- Confidence: HIGH (reported by Passan)\n**Key Facts (HIGH confidence):**\n- QO amount: $23.15M for one year\n- Deadline: November 17, 2026, 4:00 PM ET\n- 8 total recipients; Bauers (1B) already signed with Red Sox 4yr/$58M\n- 7 remaining: Arozarena, Bednar, Jeffers, Lowe, Morejon, Rogers, Suzuki\n- Historical acceptance rate: 18/157 (11.5%) — all 8 expected to decline",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Pre-Lockout Spending Spree Begins — Teams Rushing Before December 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Teams know what's coming December 1.\n\nRed Sox: Jake Bauers, 4 yr/$58M.\nBraves: Evan Phillips, 3 yr/$35M.\nBlue Jays: chasing Ketel Marte.\n\nThe pre-lockout sprint is officially on. #MLB #HotStove",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#HotStove"
+          ],
+          "char_count": 193
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Every deal signed before December 1 counts.\n\nAfter that, player-team communication freezes. No signings. No trades.\n\nThe last MLB lockout ran 99 days. Teams aren't waiting around. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 184
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-pre-lockout-spending-spree.html",
+        "headline": "The Pre-Lockout Sprint Is On: Teams Are Spending Before December 1 Changes Everything",
+        "word_count": 459
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Pre-Lockout Spending Spree\n\n#### Image 3a — Social (1080x1350)\n**Purpose:** Social media post\n**Search Term:** MLB winter meetings general manager\n**Canva Text:** PRE-LOCKOUT SPRINT / Teams Are Signing Now / Before December 1 Changes Everything\n**Mood:** Urgency, action\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pre-Lockout Spending Spree\n**Source 1:** MLB.com hot stove (Nov 14) — Red Sox sign Bauers 4yr/$58M (ESPN/Passan)\n- Confidence: HIGH\n**Source 2:** MLB.com hot stove (Nov 14) — Braves sign Evan Phillips 3yr/$35M\n- Confidence: HIGH\n**Source 3:** SportsNet / Yahoo — Blue Jays \"working hard to find offense,\" targeting Ketel Marte via trade\n- Confidence: MEDIUM\n**Source 4:** MLB.com hot stove (Nov 14) — Marlins shopping Otto Lopez, Xavier Edwards, Kyle Stowers\n- Confidence: HIGH (confirmed per MLB.com)\n**Source 5:** MLB.com hot stove (Nov 14) — A's fielding calls about Jacob Wilson\n- Confidence: MEDIUM\n**Key Facts (HIGH confidence):**\n- CBA expires December 1, 2026, 11:59 PM ET\n- Lockout expected; last lockout ran 99 days (Dec 2, 2021–March 10, 2022)\n- Bauers: 4yr/$58M Red Sox\n- Phillips: 3yr/$35M Braves",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Cubs Have No Starters — All Five 2026 Rotation Arms Are Free Agents",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Every pitcher in the Cubs' 2026 starting rotation is a free agent.\n\nEvery. Single. One.\n\nMichael King. Freddy Peralta. Second-tier arms.\n\nJed Hoyer has his work cut out. This is the most urgent rotation rebuild in baseball. #Cubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-cubs-rotation-five-starters-free-agents.html",
+        "headline": "Every Pitcher in the Cubs' 2026 Rotation Is a Free Agent — All Five",
+        "word_count": 478
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cubs Rotation Crisis\n\n#### Image 4a — Social (1080x1350)\n**Purpose:** Social media post\n**Search Term:** Chicago Cubs pitching mound Wrigley Field\n**Canva Text:** STARTING FROM ZERO / All 5 Cubs Starters Are Free Agents / The Most Urgent Rotation Rebuild in Baseball\n**Mood:** Problem statement, analytical\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs Rotation Crisis\n**Source 1:** Roundtable (Nov 10, 2026) — Cubs \"appear out on another free-agent starter,\" pivoting to second tier\n- Michael King, Freddy Peralta among second-tier targets\n- Confidence: MEDIUM (Roundtable, subscription details limited)\n**Source 2:** Bleacher Nation — Earlier coverage established Cubs backed off Skubal\n- Confidence: HIGH (confirmed by multiple sources in prior research)\n**Source 3:** Bleachernation — Michael King opted out of Padres deal (confirmed earlier research)\n- King: 3.21 ERA, 32 starts, opted out\n- Confidence: HIGH\n**Source 4:** Marqueesportsnetwork.com — Cubs linked to King, Imanaga/Padres discussions mentioned\n- Confidence: MEDIUM\n**Key Facts (HIGH confidence):**\n- Michael King: 3.21 ERA, 32 starts, opted out of Padres deal\n- Cubs reportedly out on Skubal\n- All 5 of Cubs' 2026 rotation starters are free agents",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Teruaki Sato — The Wild Card in a Wild Offseason",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Teruaki Sato: 2026 NPB Triple Crown winner.\n.308/.385/.613. 39 HR. Age 25.\n\nHe was posted Nov 1. His window runs through Dec 16 — AFTER the lockout.\n\nMets. Yankees. Dodgers. Phillies. Red Sox. All in.\n\nThe bidding war is coming. #MLB #HotStove",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#HotStove"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-teruaki-sato-mlb-wildcard.html",
+        "headline": "Teruaki Sato: Triple Crown, 39 Home Runs, Age 25 — and He's Coming to MLB",
+        "word_count": 629
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Teruaki Sato Profile\n\n#### Image 5a — Social (1080x1350)\n**Purpose:** Social media post\n**Search Term:** Teruaki Sato Hanshin Tigers NPB\n**Canva Text:** TRIPLE CROWN WINNER / Teruaki Sato Is Coming to MLB / The Wild Card of the 2026 Offseason\n**Mood:** Profile, anticipation\n\n#### Image 5b — Article Hero (1200x630)\n**Purpose:** Article featured image\n**Search Term:** NPB Japanese baseball player batting\n**Canva Text:** Teruaki Sato: Triple Crown, 39 Home Runs, Age 25 — and He's Coming to MLB\n**Mood:** Feature, profile"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Teruaki Sato\n**Source 1:** lsusports-adjacent / multiple sports outlets — Posted November 1, 2026\n- 45-day window: through December 16, 2026\n- Confidence: HIGH\n**Source 2:** Bleacher Report — \"Ranking Teruaki Sato's Top Landing Spots After Winning Japan's NPB Triple Crown\"\n- 2026 Triple Crown: .308/.385/.613, 39 HR\n- Teams: Mets, Yankees, Dodgers, Phillies, Red Sox\n- Confidence: HIGH (.308/.385/.613, 39 HR — from multiple independent sources)\n**Source 3:** AMNY — \"Mets-Teruaki Sato Posted Nov 1\" (Nov 2, 2026)\n- Mets confirmed as interested\n- Confidence: HIGH\n**Source 4:** Rotoballer — \"Teruaki Sato Officially Posted Over the Weekend\"\n- Posting confirmed\n- Confidence: HIGH\n**Source 5:** Newsweek — Contract projections: $80M (4yr, Heyman) to $120M+ (Bowden)\n- Confidence: MEDIUM (projections, not confirmed)\n**Key Facts (HIGH confidence):**\n- Sato: 2026 NPB Triple Crown winner for Hanshin Tigers\n- Stats: .308/.385/.613, 39 HR, age 25\n- Posted: November 1, 2026\n- 45-day window: through December 16, 2026\n- Teams: Mets, Yankees, Dodgers, Phillies, Red Sox interested\n- Main concern: 3B defense — projects as DH/corner OF",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
