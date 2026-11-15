@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## November 15, 2026
+
+| 2026-11-15 | WTA Finals Final preview — Andreeva vs Svitolina final today; Andreeva 4-0 zero sets dropped entering final; Svitolina beat Noskova 6-2, 6-1 in semis; Andreeva beat Pegula 6-3, 6-4 in semis; first teen finalist since 2004; Svitolina 2018 champion. Sources: Yahoo Sports, WTA Tennis official, ksat.com, malaymail.com | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Nov 14 S2: semis day → final day) |
+| 2026-11-15 | ATP Finals Day 1 — Zverev vs Jodar not before 2pm CET; Shelton vs Fils 8:30pm CET; Jodar first player to qualify in debut tour year; Fils first Frenchman at ATP Finals since Monfils 2016; Zverev 2018+2021 champion. Sources: ATP Tour official (atptour.com), lastwordonsports.com | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Nov 14 S3: eve preview → Day 1) |
+| 2026-11-15 | Svitolina WTA Finals final bid — 2018 champion; oldest finalist since Venus Williams 2017; beat Noskova (2026 Wimbledon champion) 6-2, 6-1 in semis; personal comeback narrative post-Ukraine war years; career H2H vs Andreeva 0-2. Sources: Yahoo Sports, WTA Tennis official | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 14 S1: Svitolina shocks Sabalenka → final bid) |
+| 2026-11-15 | ATP Finals Day 2 preview — Alcaraz vs Tiafoe not before 2pm CET Monday; Medvedev vs Cobolli also Day 2 Lendl Group; Alcaraz 9-match streak, 5 titles; Medvedev seeks first ATP Finals title; Cobolli debut. Sources: ATP Tour official | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Nov 14 S4: Alcaraz form → Day 2 preview) |
+| 2026-11-15 | Andreeva title bid feature — 4-0 entering final, zero sets dropped (beat Svitolina 6-4 6-0, Sabalenka 6-4 6-0, Shnaider 6-2 6-1, Pegula 6-3 6-4); 19 years old; first teen finalist since 2004; year-end ranking implications vs Sabalenka No. 2. Sources: Yahoo Sports, WTA Tennis official, malaymail.com | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 14 S5: group stage dominance → entering final) |
+
+---
+
+
 ## November 14, 2026
 
 | 2026-11-14 | Svitolina shocks Sabalenka 6-3, 3-6, 6-1 — WTA Finals Group 2 decider result; Svitolina converted 4th match point; Sabalenka 35 errors, exits 1-2; Svitolina career H2H vs Sabalenka now 2-6; Svitolina vs Noskova in semis today; Sabalenka year-end No. 2 ranking in question. Sources: Washington Times/AP, ESPN, Al Jazeera, Tennis.com (Nov 13 2026) | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 13 S2: Group 2 decider preview → result) |

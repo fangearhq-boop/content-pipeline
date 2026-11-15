@@ -1,0 +1,274 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-15",
+  "compiled_at": "2026-11-15T12:15:56.061961+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "WTA Finals Final — Andreeva vs. Svitolina for the Title",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The 2026 WTA Finals final is today. Mirra Andreeva vs. Elina Svitolina, Indian Wells. Andreeva is 4-0 at the event with zero sets dropped. Svitolina is the 2018 champion. #WTAFinals #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTAFinals",
+            "#Tennis"
+          ],
+          "char_count": 189
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Andreeva beat Svitolina 6-4, 6-0 in the group stage. Now they meet again in the final. Andreeva hasn't dropped a set all week. Svitolina is 0-2 vs. Andreeva this tournament. Big afternoon ahead. #WTAFinals #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTAFinals",
+            "#Tennis"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-andreeva-svitolina-wta-finals-final-preview.html",
+        "headline": "Andreeva vs. Svitolina: Everything to Know About the 2026 WTA Finals Final",
+        "word_count": 612
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WTA Finals Final — Andreeva vs. Svitolina\n\n**Image 1-A** (Social 1080x1350)\n- Search terms: `Mirra Andreeva`\n- Composition: Action or celebration shot; full frame with clear subject identification\n- Usage: X/Twitter + Facebook main image for S1\n\n**Image 1-B** (Article Hero 1200x630)\n- Search terms: `Elina Svitolina`\n- Composition: Close-up or mid-frame portrait; horizontal crop suitable for article banner\n- Usage: Article hero image for article-01\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WTA Finals Final — Andreeva vs. Svitolina\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| WTA Finals final: Andreeva vs. Svitolina, Sunday November 15, 2026 | HIGH | WTA Tennis official (wtatennis.com), Yahoo Sports Nov 14 2026 |\n| Andreeva beat Pegula 6-3, 6-4 in semifinals (first career meeting) | HIGH | Baidu 2026 WTA Finals page, tennisuptodate.com |\n| Svitolina beat Noskova 6-2, 6-1 in semifinals | HIGH | tennisuptodate.com, Baidu 2026 WTA Finals page |\n| Andreeva is 4-0 at the event with zero sets dropped | HIGH | WTA Tennis official, malaymail.com Nov 15 2026 |\n| Andreeva beat Svitolina 6-4, 6-0 in group stage (Nov 9) | HIGH | Confirmed in multiple prior pipelines (Nov 10 research notes) |\n| Svitolina is the 2018 WTA Finals champion | HIGH | WTA Tennis official, prior pipelines |\n| Svitolina is the oldest finalist since Venus Williams in 2017 | HIGH | ksat.com Nov 14 2026 |\n| Andreeva (age 19) is first teenager in WTA Finals final since 2004 | HIGH | ksat.com, Yahoo Sports Nov 14 2026 |\n| Svitolina career H2H vs Andreeva: 0-2 | HIGH | Derived from group stage + semifinal results |\n| Final venue: Indian Wells / Coachella Valley | HIGH | WTA Tennis official |",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "ATP Finals Day 1 Is Here — Zverev Opens vs. Jodar, Shelton Faces Fils Tonight",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "ATP Finals Day 1 is here. Turin, Inalpi Arena. Zverev vs. Jodar at 2 PM CET (year-end No. 1 vs. the debutant who made history just qualifying). Shelton vs. Fils at 8:30 PM CET. Let's go. #ATPFinals #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis"
+          ],
+          "char_count": 205
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Arthur Fils is the first Frenchman at the ATP Finals since Gaël Monfils in 2016. Rafael Jodar is the first player in ATP history to qualify in his debut tour year. Day 1 in Turin has real storylines. #ATPFinals #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-atp-finals-day-1-zverev-jodar-shelton-fils-turin.html",
+        "headline": "ATP Finals Opens in Turin: Zverev Faces Jodar, Shelton Takes On Fils in Day 1",
+        "word_count": 657
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ATP Finals Day 1 — Zverev vs. Jodar, Shelton vs. Fils\n\n**Image 2-A** (Social 1080x1350)\n- Search terms: `Alexander Zverev`\n- Composition: Action or serve shot; vertical frame for social\n- Usage: X/Twitter + Facebook main image for S2\n\n**Image 2-B** (Article Hero 1200x630)\n- Search terms: `Ben Shelton`\n- Composition: Horizontal action or service motion; suitable for article banner\n- Usage: Article hero image for article-02\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ATP Finals Day 1 — Zverev vs. Jodar, Shelton vs. Fils\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| ATP Finals Day 1: Sunday November 15, 2026, Inalpi Arena, Turin | HIGH | ATP Tour official (atptour.com, nittoatpfinals.com) |\n| Match 1: Zverev vs. Jodar, not before 2:00 PM CET, McEnroe Group | HIGH | ATP Tour official (confirmed in prior pipelines) |\n| Match 2: Shelton vs. Fils, 8:30 PM CET, McEnroe Group | HIGH | ATP Tour official (confirmed in prior pipelines) |\n| Zverev is year-end No. 1 | HIGH | Confirmed in multiple prior pipelines |\n| Zverev is 2018 and 2021 ATP Finals champion | HIGH | ATP Tour records, confirmed in prior pipelines |\n| Jodar is first player in ATP history to qualify in debut tour year | HIGH | Confirmed in prior pipelines (Nov 7 S3 and Nov 13 S3) |\n| Zverev leads H2H vs Jodar 1-0 (Roland Garros QF 2026) | HIGH | lastwordonsports.com Nov 14 2026 |\n| Fils is first Frenchman at ATP Finals since Gaël Monfils in 2016 | HIGH | ATP Finals Day 1 preview sources, prior pipelines |\n| Shelton leads H2H vs Fils 2-1 | HIGH | ATP Finals Day 1 preview sources |",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Svitolina's Road to the Final — From Upset Victories to a Title Shot",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Elina Svitolina is in the WTA Finals final. She beat Sabalenka. She beat Noskova (the 2026 Wimbledon champion). She's the 2018 champion and oldest finalist since Venus in 2017. What a week. #WTAFinals #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTAFinals",
+            "#Tennis"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-svitolina-path-wta-finals-final-comeback-2018-champion.html",
+        "headline": "Svitolina's Path to the WTA Finals Final: From Upset Victories to a Title Shot",
+        "word_count": 577
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Svitolina's Road to the Final\n\n**Image 3-A** (Social 1080x1350)\n- Search terms: `Elina Svitolina`\n- Composition: Celebratory or focused expression; vertical crop\n- Usage: X/Twitter + Facebook main image for S3\n\n**Image 3-B** (Article Hero 1200x630)\n- Search terms: `Elina Svitolina`\n- Composition: Different shot from Image 3-A if possible; horizontal banner crop\n- Usage: Article hero image for article-03\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Svitolina's Road to the Final\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Svitolina beat Sabalenka 6-3, 3-6, 6-1 in Group 2 decider (Nov 13) | HIGH | Confirmed in Nov 14 pipeline S1 |\n| Svitolina beat Noskova 6-2, 6-1 in semifinals | HIGH | tennisuptodate.com, Baidu 2026 WTA Finals page |\n| Noskova is the 2026 Wimbledon champion | HIGH | Confirmed in prior pipelines (Nov 11 S1) |\n| Svitolina is 2018 WTA Finals champion (beat Osaka in final) | HIGH | WTA Tennis official, prior pipelines |\n| Svitolina is oldest finalist since Venus Williams in 2017 | HIGH | ksat.com Nov 14 2026 |\n| Svitolina career H2H vs Andreeva: 0-2 | HIGH | Derived from group stage + prior pipeline data |\n| Svitolina's tournament path: beat Sabalenka (Group 2 decider) + Noskova (SF) | HIGH | Confirmed from full tournament results |",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "ATP Finals Day 2 Preview — Alcaraz vs. Tiafoe, Medvedev vs. Cobolli",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "ATP Finals Day 2 (Monday, Turin): Alcaraz vs. Tiafoe not before 2 PM CET. Medvedev vs. Cobolli also in the Lendl Group. Alcaraz arrives on a 9-match win streak. This is the match of the week. #ATPFinals #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-atp-finals-day-2-preview-alcaraz-tiafoe-medvedev-cobolli.html",
+        "headline": "Alcaraz vs. Tiafoe, Medvedev vs. Cobolli: ATP Finals Day 2 Preview",
+        "word_count": 687
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ATP Finals Day 2 Preview — Alcaraz vs. Tiafoe\n\n**Image 4-A** (Social 1080x1350)\n- Search terms: `Carlos Alcaraz`\n- Composition: Action or winner's pose; vertical for social feed\n- Usage: X/Twitter + Facebook main image for S4\n\n**Image 4-B** (Article Hero 1200x630)\n- Search terms: `Frances Tiafoe`\n- Composition: Horizontal crop; expressive or mid-match action\n- Usage: Article hero image for article-04\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ATP Finals Day 2 Preview\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| ATP Finals Day 2: Monday November 16, 2026, Inalpi Arena, Turin | HIGH | ATP Tour official (confirmed in prior pipelines) |\n| Match 1: Alcaraz vs. Tiafoe, Lendl Group, not before 2:00 PM CET | HIGH | ATP Tour official (confirmed in Nov 14 pipeline S3) |\n| Match 2: Medvedev vs. Cobolli, Lendl Group | HIGH | Confirmed in Nov 12 pipeline draw reveals |\n| Alcaraz is on 9-match winning streak (Vienna + Paris) | HIGH | Confirmed in multiple prior pipelines |\n| Alcaraz has 5 titles in 2026 (AO, Doha, Tokyo, Vienna, Paris) | HIGH | Confirmed in prior pipelines |\n| Cobolli is making his ATP Finals debut | HIGH | Confirmed in Nov 12 pipeline S2 |\n| Alcaraz is World No. 2 | HIGH | Confirmed in prior pipelines |\n| Medvedev has never won the ATP Finals title | MEDIUM | ATP records (single reference in prior research) |",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Andreeva Enters the Final 4-0 — What This Run Means for the Season Finale",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Andreeva at the 2026 WTA Finals: beat Svitolina 6-4, 6-0. Beat Sabalenka 6-4, 6-0. Beat Shnaider 6-2, 6-1. Beat Pegula 6-3, 6-4. At 19. Zero sets dropped. First teen finalist since 2004. #WTAFinals #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTAFinals",
+            "#Tennis"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-andreeva-4-0-wta-finals-run-title-bid-history.html",
+        "headline": "Andreeva Enters the Final 4-0: The Run That Has Redefined the WTA's Season Finale",
+        "word_count": 563
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Andreeva's Title Bid\n\n**Image 5-A** (Social 1080x1350)\n- Search terms: `Mirra Andreeva`\n- Composition: Different from Image 1-A if possible; pumped fist or trophy-ready expression\n- Usage: X/Twitter + Facebook main image for S5\n\n**Image 5-B** (Article Hero 1200x630)\n- Search terms: `Mirra Andreeva`\n- Composition: Horizontal article banner crop; different moment than 5-A\n- Usage: Article hero image for article-05"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Andreeva's Title Bid — 4-0, Zero Sets Dropped\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Andreeva group stage: beat Svitolina 6-4, 6-0 (Day 1) | HIGH | Confirmed in multiple prior pipelines |\n| Andreeva group stage: beat Sabalenka 6-4, 6-0 (Day 4) | HIGH | Confirmed in Nov 12 pipeline S1 |\n| Andreeva group stage: beat Shnaider 6-2, 6-1 (Day 6) | HIGH | Confirmed in Nov 13 pipeline research notes |\n| Andreeva semifinal: beat Pegula 6-3, 6-4 | HIGH | Baidu 2026 WTA Finals page, tennisuptodate.com |\n| Andreeva total event record: 4-0, zero sets dropped | HIGH | Derived from confirmed match results |\n| Andreeva is 19 years old | HIGH | Multiple sources confirmed in prior pipelines |\n| First teenager in WTA Finals final since 2004 | HIGH | ksat.com, Yahoo Sports Nov 14 2026 |\n| Year-end No. 2 ranking implications vs Sabalenka | HIGH | Confirmed in prior pipelines (Nov 12 S3, Nov 14 S1) |\n| $10 million season-ending event prize money | MEDIUM | malaymail.com Nov 15 2026 |",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
