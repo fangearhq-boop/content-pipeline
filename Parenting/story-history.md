@@ -2,6 +2,50 @@
 
 ---
 
+## November 15, 2026
+
+### Story 1: D11 Bond Certified — What the $775M Win Means for Families Now
+- **Date:** 2026-11-15
+- **Tier:** T1
+- **Pillar:** Local News
+- **Key Facts:** Issue 4A approved ~51.68% yes; first D11 bond since 2006; largest single bond in El Paso County history. Holmes Middle School $80M rebuild. Board to redirect mill levy override funds to teacher pay. Citizen oversight committee proposed. Results pending county certification.
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (Nov 13 S2: D11 bond passes → what's next)
+
+### Story 2: CPSC Recalls — SHEIN Baby Rattles and Kakgold RC Cars
+- **Date:** 2026-11-15
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** SHEIN baby rattle/teether sets (2,657 units; knobs detach, choking risk under age 3; sold US.Shein.com Nov 2025–Jul 2026). Kakgold 4WD RC cars (294 units; button cell + lithium-ion batteries accessible; ingestion/injury risk; violates toy safety standard). Both recalled Nov 12, 2026.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 3: COS Family Events This Week — Star Party Tuesday, Rocky Ram's Holiday Spectacular Saturday
+- **Date:** 2026-11-15
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** Family Star Party: Voyager Anniversary at UCCS Centennial Hall, Tue Nov 18 6:00 PM (free, CSAS). Rocky Ram's Holiday Spectacular at Crystal Reservoir, Pikes Peak, Sat Nov 21. D49 BOE Work Session Tue Nov 18 6:30–9:30 PM (Creekside Success Center). Thanksgiving break all three districts: Nov 23–27.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 4: Colorado's Flu Season Starting Early — What COS Families Need to Know
+- **Date:** 2026-11-15
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** Colorado confirmed first pediatric flu death of 2026–27 season; child was elementary-aged, unvaccinated. Last season: 5,931 statewide flu hospitalizations (worst since 2004), 1,169 children, 8 pediatric deaths. Flu vaccination rate for kids 6mo–9yrs: ~36%. CDPHE sending RSV immunization reminders for infants under 8 months.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 5: D20 Interim Superintendent Susan Field and USAFA School Build
+- **Date:** 2026-11-15
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** Board unanimously appointed Dr. Susan Field (prev. asst. supt. for learning services) as interim superintendent through 2026–27. D20 broke ground on new pre-K–8 school at Air Force Academy ($42.7M DoD award). D20 maintained "accreditation with distinction" in 2025–26 preliminary state results. Former supt. Jinger Haberer was voted out.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+---
+
 ## November 14, 2026
 
 ### Story 1: What to Do in Colorado Springs Today — Character Stroll, Anastasia Musical, History Day, and More

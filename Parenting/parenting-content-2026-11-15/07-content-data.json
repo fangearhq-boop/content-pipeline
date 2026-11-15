@@ -1,0 +1,417 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-15",
+  "compiled_at": "2026-11-15T12:28:04.532813+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "D11 Bond Certified — What the $775M Win Means for Families Now",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "COS families: D11's $775M bond is on track to pass with ~51.7% yes. What comes next — Holmes Middle School rebuild, teacher pay commitments, citizen oversight committee. We've got the breakdown. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "It's official (or close enough): D11's $775 million bond is on track to pass with roughly 51.7% of voters saying yes. 🏫\n\nFor COS families, that \"yes\" vote is just the beginning. The real story now is what happens next — and there's a lot to track.\n\nThe board has committed to redirecting mill levy override funds to teacher pay now that the bond has passed. Holmes Middle School gets an $80 million rebuild. The district is also proposing a citizen oversight committee to watch how the bond money gets spent. That oversight piece matters: at $775 million, this is the largest single bond in El Paso County history.\n\nThe construction timeline will play out over years, not months. Families with kids in D11 schools right now are the ones who will feel the first rounds of changes — and they're also the ones most worth keeping in the loop as the board moves from \"it passed\" to \"here's what we're actually building.\"\n\nWhat's the top project you're hoping to see from the D11 bond? Drop it in the comments. 👇",
+        "image_caption": "D11's $775M bond is on track to pass — the first D11 bond since 2006. Holmes Middle School rebuild, teacher pay redirects, citizen oversight. Here's what's next for COS families.",
+        "posting_time": "8:00 AM MT"
+      },
+      "article": {
+        "filename": "article-01-d11-bond-certified-whats-next-cos-families.html",
+        "headline": "D11's $775M Bond Is On Track to Pass. Here's What Happens Next for Colorado Springs Families.",
+        "word_count": 624
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Bond — What's Next\n\n#### Image 1-1 — Social (1200x675)\n- **Status:** not_started\n- **Prompt:** Exterior view of a bright, modern elementary school building in golden morning light, clean brick facade with large windows, a playground visible at one side, wide green lawn in the foreground, clear blue sky, warm and optimistic mood, photorealistic style, clean visual space in the bottom third for text overlay, no people, no signs, no logos\n- **Usage:** Social (X + Facebook)\n\n#### Image 1-2 — Article Hero (1200x630)\n- **Status:** not_started\n- **Prompt:** Aerial view of a school campus under construction, concrete foundations and steel framing visible, surrounded by a suburban Colorado neighborhood with mountain peaks in the background, late afternoon light, neutral documentary mood, photorealistic style, clean visual space in the bottom third for text overlay, no people, no text, no logos\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Bond Certified — What the $775M Win Means for Families Now\n| Fact | Confidence | Priority | Source |\n|------|-----------|----------|--------|\n| D11 Issue 4A approved: approximately 51.68% yes, unofficial | HIGH | 1 | Kensington Sales Group bond tracker; Gazette Nov 5 2026 |\n| $775 million total bond amount | HIGH | 1 | KKTV Aug 2026, Gazette Nov 5 2026 |\n| Largest single bond in El Paso County history | HIGH | 2 | Gazette Nov 5 2026 (\"Colorado Springs D-11 bond maintains voter approval\") |\n| First D11 bond since 2006 | HIGH | 2 | Multiple sources confirmed in Nov 12 pipeline S2 |\n| Holmes Middle School: $80 million rebuild | HIGH | 1 | Multiple sources confirmed in Nov 12 pipeline S2 |\n| Board committed to redirecting mill levy override funds to teacher pay if bond passes | HIGH | 2 | Gazette Nov 5 2026 |\n| Citizen oversight committee proposed for bond spending | HIGH | 2 | Confirmed in Nov 13 + Nov 14 pipelines |\n| Results unofficial pending county certification | HIGH | 2 | Multiple election sources |\n**Sources:**\n- Gazette: \"Colorado Springs D-11 bond maintains voter approval\" — https://gazette.com/2026/11/05/colorado-springs-district-11-bond-maintains-voter-approval/\n- KKTV: \"D11 bond could raise property taxes\" — https://www.kktv.com/2026/10/15/d11s-775m-bond-could-raise-property-taxes-heres-what-homeowners-would-pay/\n- KRDO: \"Colorado Springs School District 11 ballot issue 4A\" — https://krdo.com/2026-el-paso-county-ballot-issues/2026/10/09/colorado-springs-school-district-11-ballot-issue-4a/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Colorado Springs D-11 bond maintains voter approval",
+          "url": "https://gazette.com/2026/11/05/colorado-springs-district-11-bond-maintains-voter-approval/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Gazette"
+        },
+        {
+          "name": "D11 bond could raise property taxes",
+          "url": "https://www.kktv.com/2026/10/15/d11s-775m-bond-could-raise-property-taxes-heres-what-homeowners-would-pay/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "KKTV"
+        },
+        {
+          "name": "Colorado Springs School District 11 ballot issue 4A",
+          "url": "https://krdo.com/2026-el-paso-county-ballot-issues/2026/10/09/colorado-springs-school-district-11-ballot-issue-4a/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "KRDO"
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "CPSC Recalls: SHEIN Baby Rattles and Kakgold RC Cars — Two New Hazards to Know About",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "CPSC recall alert (Nov 12): SHEIN baby rattle/teether sets — knobs detach, choking risk for kids under 3 (2,657 units). Kakgold 4WD RC cars — battery ingestion hazard (294 units). Stop use, check cpsc.gov/Recalls. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "10:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "Two new CPSC recalls landed on November 12 — just as holiday shopping is ramping up. If you have little ones at home, these are worth a quick check. 🛒\n\nSHEIN baby rattle and teether sets — about 2,657 units sold on US.Shein.com between November 2025 and July 2026. The knobs on these rattles can detach and become a choking hazard for children under 3. The fix: stop use immediately and contact SHEIN for a refund.\n\nKakgold 4WD remote-controlled cars — about 294 units. These RC toys have button cell and lithium-ion batteries that children can access, which creates a serious ingestion and injury risk. Same action: stop use and contact the company for a remedy.\n\nBoth products are now off the shelves, but they may already be in your home or on your holiday list. Full recall details are at cpsc.gov/Recalls — it only takes a minute to check.\n\nDo you search product recall lists before buying gifts? Let us know in the comments.",
+        "image_caption": "CPSC recalls (Nov 12): SHEIN baby rattle/teether sets (choking hazard) and Kakgold RC cars (battery ingestion risk). Check cpsc.gov/Recalls before you shop this holiday season.",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-02-cpsc-recalls-shein-baby-rattles-kakgold-rc-cars.html",
+        "headline": "Two New CPSC Recalls COS Parents Should Know About Before Holiday Shopping",
+        "word_count": 593
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CPSC Recalls — SHEIN + Kakgold\n\n#### Image 2-1 — Social (1200x675)\n- **Status:** not_started\n- **Prompt:** A baby rattle and a small remote-controlled toy car side by side on a clean white surface, soft natural light from the left, warning/caution mood without being alarming, photorealistic product-style photography, vivid primary colors on the toys, clean visual space in the bottom third for text overlay, no text, no labels, no brand markings\n- **Usage:** Social (X + Facebook)\n\n#### Image 2-2 — Article Hero (1200x630)\n- **Status:** not_started\n- **Prompt:** An open laptop showing a government safety website on screen, next to a few children's toys spread on a kitchen counter, warm indoor lighting, cautionary but helpful mood, photorealistic style, clean visual space in the bottom third for text overlay, no visible text on screen, no brand logos\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CPSC Recalls — SHEIN Baby Rattles and Kakgold RC Cars\n| Fact | Confidence | Priority | Source |\n|------|-----------|----------|--------|\n| SHEIN baby rattle and teether sets recall posted November 12, 2026 | HIGH | 1 | CPSC.gov recalls page, ConsumerAffairs Nov 13 2026 roundup |\n| SHEIN rattles: about 2,657 units sold on US.Shein.com | HIGH | 2 | CPSC.gov, ConsumerAffairs roundup |\n| SHEIN rattles: sold November 2025 through July 2026 | HIGH | 1 | CPSC.gov |\n| SHEIN rattles hazard: knobs can detach, choking risk for children under 3 | HIGH | 1 | CPSC.gov |\n| SHEIN rattles remedy: stop use, contact SHEIN for refund | HIGH | 1 | CPSC.gov |\n| Kakgold 4WD RC cars recall posted November 12, 2026 | HIGH | 1 | CPSC.gov — https://www.cpsc.gov/Recalls/2027/Kakgold-Recalls-4WD-Remote-Controlled-Car-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys |\n| Kakgold RC cars: about 294 units | HIGH | 2 | CPSC.gov |\n| Kakgold hazard: button cell and lithium-ion batteries accessible to children, ingestion/injury risk | HIGH | 1 | CPSC.gov |\n| Kakgold violates mandatory toy safety standard | HIGH | 2 | CPSC.gov |\n**Sources:**\n- CPSC: Kakgold 4WD RC car recall — https://www.cpsc.gov/Recalls/2027/Kakgold-Recalls-4WD-Remote-Controlled-Car-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys\n- ConsumerAffairs: \"Consumer product safety recall roundup for November 13, 2026\" — https://www.consumeraffairs.com/news/consumer-product-safety-recall-roundup-for-november-13-2026-111326.html",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "| Kakgold 4WD RC cars recall posted November 12, 2026 | HIGH | 1 | CPSC.gov",
+          "url": "https://www.cpsc.gov/Recalls/2027/Kakgold-Recalls-4WD-Remote-Controlled-Car-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "articles/article-02-cpsc-recalls-shein-baby-rattles-kakgold-rc-cars.html"
+          ]
+        },
+        {
+          "name": "| LOW | Organization | cpsc | 026 \\| HIGH \\| 1 \\| CPSC.gov",
+          "url": "https://www.cpsc.gov/Recall",
+          "official": true,
+          "found_in": [
+            "06-fact-check-log.md"
+          ]
+        },
+        {
+          "name": "U.S. Consumer Product Safety Commission",
+          "url": "https://www.cpsc.gov/Recalls",
+          "official": true,
+          "found_in": [
+            "articles/article-02-cpsc-recalls-shein-baby-rattles-kakgold-rc-cars.html"
+          ]
+        },
+        {
+          "name": "Consumer product safety recall roundup for November 13, 2026",
+          "url": "https://www.consumeraffairs.com/news/consumer-product-safety-recall-roundup-for-november-13-2026-111326.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "ConsumerAffairs"
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "COS This Week: Family Star Party Tuesday, Rocky Ram's Holiday Spectacular Saturday",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "COS family events this week: Family Star Party at UCCS Tuesday 6 PM (free — CSAS + Golden Record). Rocky Ram's Holiday Spectacular on Pikes Peak Saturday. Last week before Thanksgiving break Nov 23. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "12:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "A solid week ahead for COS families — and it's the last full week before Thanksgiving break. Here's what's on. 🌟\n\nTuesday, November 18 — Family Star Party: Voyager Anniversary, UCCS Centennial Hall, 6:00 PM. This is a free public event from the Colorado Springs Astronomical Society. The theme is the Voyager spacecraft's Golden Record — the message we sent to space. Expect real stargazing and kid-friendly activities. It's free, it's STEM, and it's genuinely cool.\n\nSaturday, November 21 — Rocky Ram's Holiday Spectacular, Crystal Reservoir, Pikes Peak. Photos with Santa and Mrs. Claus, holiday activities, and kid-friendly games on Pikes Peak before the holiday season is fully underway. This is the kind of COS-specific thing that's hard to find anywhere else.\n\nAll three COS districts (D11, D20, D49) are on until November 22 — Thanksgiving break starts November 23 and runs through November 27.\n\nWhat's the first family event you're looking forward to this holiday season?",
+        "image_caption": "COS this week: Family Star Party at UCCS (free, Tuesday 6 PM) + Rocky Ram's Holiday Spectacular on Pikes Peak (Saturday). Last week before Thanksgiving break — make it count.",
+        "posting_time": "12:00 PM MT"
+      },
+      "article": {
+        "filename": "article-03-cos-family-events-this-week-november-15-21-star-party-rocky-rams.html",
+        "headline": "COS Family Events This Week: Star Party Tuesday, Rocky Ram's Holiday Spectacular Saturday",
+        "word_count": 597
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COS Events This Week\n\n#### Image 3-1 — Social (1200x675)\n- **Status:** not_started\n- **Prompt:** A family with two children looking up at a starry night sky through a small telescope, set in a Colorado mountain landscape with Pikes Peak silhouette in the background, cool deep blues and purples with stars visible, warm lantern glow on the family, wonder and adventure mood, painterly illustration style, clean visual space in the bottom third for text overlay, no text, no logos\n- **Usage:** Social (X + Facebook)\n\n#### Image 3-2 — Article Hero (1200x630)\n- **Status:** not_started\n- **Prompt:** A festive outdoor winter scene on a mountain, decorated holiday trees, light snow on the ground, warm golden string lights, a few pine trees, Pikes Peak visible in the background, cheerful holiday mood, photorealistic style, clean visual space in the bottom third for text overlay, no people, no text, no logos\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "COS This Week Events\n| Fact | Confidence | Priority | Source |\n|------|-----------|----------|--------|\n| Family Star Party: Voyager Anniversary at UCCS Centennial Hall, Tuesday November 18, 6:00 PM | HIGH | 1 | Colorado Springs events calendar (springseventhub.com, happenincos.com) |\n| Family Star Party: Colorado Springs Astronomical Society, free public event | HIGH | 1 | Local events calendar |\n| Rocky Ram's Holiday Spectacular at Crystal Reservoir, Pikes Peak | HIGH | 1 | Colorado Springs events calendar (visitcos.com, rallytakesthetrain.com) |\n| Rocky Ram's: Saturday November 21 | HIGH | 1 | Local events calendar |\n| Rocky Ram's: photos with Santa and Mrs. Claus, kid-friendly games | HIGH | 2 | Local events calendar |\n| D49 BOE Work Session / Special Meeting: Tuesday November 18, 6:30–9:30 PM, Creekside Success Center | MEDIUM | 1 | D49 district calendar (d49.org) — calendar page age noted as ~655 days, verify at d49.org |\n| Thanksgiving break all three districts: November 23–27 | HIGH | 1 | D49 calendar confirmed; standard CPS school calendar |\n**Sources:**\n- Happenin' COS: November 2026 events — https://happenincos.com/events/november-2026\n- Springs Even Hub this week: https://www.springseventhub.com/colorado-springs/this-week\n- Colorado Springs Christmas Events 2026: https://www.rallytakesthetrain.com/christmas-events/colorado-springs-co",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "School District 49",
+          "url": "https://www.d49.org",
+          "official": true,
+          "found_in": [
+            "articles/article-03-cos-family-events-this-week-november-15-21-star-party-rocky-rams.html"
+          ]
+        },
+        {
+          "name": "November 2026 events",
+          "url": "https://happenincos.com/events/november-2026",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Happenin' COS"
+        },
+        {
+          "name": "Springs Even Hub this week",
+          "url": "https://www.springseventhub.com/colorado-springs/this-week",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Colorado Springs Christmas Events 2026",
+          "url": "https://www.rallytakesthetrain.com/christmas-events/colorado-springs-co",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Colorado's Flu Season Is Starting Early — What COS Families Need to Know",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Colorado confirmed its first pediatric flu death of 2026-27. Last season: 1,169 children hospitalized, 8 died statewide. Flu vaccination rate for kids 6mo–9yrs is only 36%. Get them vaccinated now — flu season is here. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "3:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "Colorado has confirmed the first pediatric flu death of the 2026–27 season. That's not meant to alarm you — but it is a good reason to act now if you haven't yet. 💉\n\nLast season was Colorado's worst on record for flu hospitalizations: 5,931 statewide, with 1,169 children hospitalized and 8 pediatric deaths. The child in this year's first case was elementary-aged and had not received the current flu vaccine.\n\nHere's the number that keeps coming up: flu vaccination rates for children between 6 months and 9 years old are sitting at about 36%. For comparison, that's not close to what it needs to be to protect the kids who can't get vaccinated at all.\n\nCDPHE is also reminding families with infants under 8 months about RSV immunization — the program that helped bring Colorado's RSV hospitalization numbers down last season.\n\nYour pediatrician or any pharmacy can get your kids vaccinated. The earlier in the season, the better.\n\nHave your kids gotten their flu shots this year? Share below — we're curious where COS families are at.",
+        "image_caption": "Colorado confirmed its first pediatric flu death of 2026–27. Last season: 1,169 children hospitalized statewide. Flu vaccination rates for kids 6mo–9yrs: only 36%. Now is the time.",
+        "posting_time": "3:00 PM MT"
+      },
+      "article": {
+        "filename": "article-04-colorado-flu-season-early-cos-families.html",
+        "headline": "Colorado's Flu Season Is Starting Early. Here's What COS Families Need to Do Now.",
+        "word_count": 712
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Colorado Flu Season\n\n#### Image 4-1 — Social (1200x675)\n- **Status:** not_started\n- **Prompt:** A close-up of a child's arm receiving a vaccine injection, friendly healthcare setting with soft teal and white tones, nurse's gloved hand visible but no face, calm and caring mood, photorealistic style, clean visual space in the bottom third for text overlay, no labels, no text, no brand markings\n- **Usage:** Social (X + Facebook)\n\n#### Image 4-2 — Article Hero (1200x630)\n- **Status:** not_started\n- **Prompt:** A parent and young child sitting in a bright pediatrician's waiting room, child holding a stuffed animal, warm neutral palette with soft yellows and greens, reassuring and calm mood, photorealistic style, clean visual space in the bottom third for text overlay, no text, no signs, no logos\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Colorado Flu Season Starting Early\n| Fact | Confidence | Priority | Source |\n|------|-----------|----------|--------|\n| Colorado confirmed first pediatric flu death of 2026–27 season | HIGH | 2 | Denver7, CDPHE, CPR News |\n| Child was elementary-aged and had not received the 2026–27 flu vaccine | HIGH | 2 | Denver7 |\n| 2025–26 season: 5,931 flu hospitalizations statewide (highest since 2004 tracking began) | HIGH | 2 | CPR News, CU Anschutz pediatrics |\n| 2025–26: 1,169 flu hospitalizations in children; 8 pediatric deaths | HIGH | 2 | CPR News |\n| Children 6 months–9 years flu vaccination rate: approximately 36% | HIGH | 2 | Denver7, state data |\n| CDPHE sending RSV immunization reminders to families with children under 8 months | HIGH | 2 | Denver7 health coverage |\n| RSV hospitalizations for Colorado children declined 2023–24 to 2024–25 with maternal vaccine + infant immunization | HIGH | 3 | CDPHE |\n| Annual flu vaccination recommended for everyone 6 months and older | HIGH | 3 | CDPHE, CDC |\n**Sources:**\n- Denver7: \"CDPHE urges vaccination against flu as Colorado sees early rise in cases, hospitalizations\" — https://www.denver7.com/lifestyle/health/cdphe-urges-vaccination-against-flu-as-colorado-sees-early-rise-in-cases-hospitalizations\n- Denver7: \"Colorado confirms first pediatric flu death of the season\" — https://www.denver7.com/lifestyle/health/colorado-confirms-first-pediatric-flu-death-of-the-season-as-cases-hospitalizations-see-early-rise\n- CPR News: \"7 influenza child deaths colorado\" — https://www.cpr.org/2026/04/16/7-influenza-child-deaths-colorado/\n- CDPHE seasonal vaccines: https://cdphe.colorado.gov/immunizations/seasonal-respiratory-vaccines",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "CDPHE seasonal vaccines",
+          "url": "https://cdphe.colorado.gov/immunizations/seasonal-respiratory-vaccines",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "articles/article-04-colorado-flu-season-early-cos-families.html"
+          ]
+        },
+        {
+          "name": "CDPHE urges vaccination against flu as Colorado sees early rise in cases, hospitalizations",
+          "url": "https://www.denver7.com/lifestyle/health/cdphe-urges-vaccination-against-flu-as-colorado-sees-early-rise-in-cases-hospitalizations",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Denver7"
+        },
+        {
+          "name": "Colorado confirms first pediatric flu death of the season",
+          "url": "https://www.denver7.com/lifestyle/health/colorado-confirms-first-pediatric-flu-death-of-the-season-as-cases-hospitalizations-see-early-rise",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Denver7"
+        },
+        {
+          "name": "7 influenza child deaths colorado",
+          "url": "https://www.cpr.org/2026/04/16/7-influenza-child-deaths-colorado/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "CPR News"
+        },
+        {
+          "name": "| LOW | URL Reference | cdphe.colorado.gov | ado/ - CDPHE seasonal vaccines",
+          "url": "https://cdphe.colorado",
+          "official": false,
+          "found_in": [
+            "06-fact-check-log.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "D20 Families: What to Know About the District's New Interim Leader and School Builds",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "D20 update: Dr. Susan Field is interim superintendent through 2026-27. D20 broke ground on a new pre-K–8 school at the Air Force Academy ($42.7M DoD award). District kept \"accreditation with distinction.\" #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "5:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "If you're a D20 family and you haven't been following the leadership transition, here's the quick version — and there's some genuinely good news in it.\n\nAcademy District 20's board voted to part ways with former superintendent Jinger Haberer earlier this year. The board then unanimously appointed Dr. Susan Field as interim superintendent through the 2026–27 school year. Dr. Field was previously the assistant superintendent for learning services — she's not an outside hire, she knows the district.\n\nMeanwhile, D20 broke ground on a new pre-K through 8th grade school at the Air Force Academy, funded by a $42.7 million Department of Defense award. For USAFA families who've been in D20's boundaries, that's a significant addition.\n\nAcademic performance held up through the transition: D20 maintained its \"accreditation with distinction\" rating in the preliminary 2025–26 state performance results.\n\nD20 families — what's your biggest question about the new leadership? Leave it in the comments.",
+        "image_caption": "D20 update: Dr. Susan Field is interim superintendent through 2026–27. The district broke ground on a new $42.7M pre-K–8 school at the Air Force Academy. And D20 kept its \"accreditation with distinction\" rating.",
+        "posting_time": "5:00 PM MT"
+      },
+      "article": {
+        "filename": "article-05-d20-interim-superintendent-usafa-school.html",
+        "headline": "D20 Families: What to Know About the District's New Interim Leader and School Builds",
+        "word_count": 714
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D20 Interim Superintendent + USAFA School\n\n#### Image 5-1 — Social (1200x675)\n- **Status:** not_started\n- **Prompt:** Exterior of a modern school building under construction near an open Colorado landscape, steel frame and concrete foundations, construction crane visible in the background, wide blue sky with scattered clouds, optimistic progress mood, photorealistic style, clean visual space in the bottom third for text overlay, no people, no text, no logos\n- **Usage:** Social (X + Facebook)\n\n#### Image 5-2 — Article Hero (1200x630)\n- **Status:** not_started\n- **Prompt:** A superintendent at a podium in a school gymnasium addressing a crowd of parents and teachers, warm gymnasium lighting, professional and community-focused mood, wide angle showing the audience, photorealistic style, clean visual space in the bottom third for text overlay, no visible faces in detail, no text, no logos\n- **Usage:** Article hero"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D20 Interim Superintendent and School Construction\n| Fact | Confidence | Priority | Source |\n|------|-----------|----------|--------|\n| D20 board voted to part ways with superintendent Jinger Haberer | HIGH | 2 | KOAA, Gazette |\n| Dr. Susan Field named interim superintendent through 2026–27 school year | HIGH | 2 | KOAA — \"Academy School District 20 names interim superintendent\" |\n| Dr. Susan Field was previously assistant superintendent for learning services | HIGH | 2 | KOAA |\n| Board vote to appoint Field was unanimous | HIGH | 2 | KOAA |\n| New pre-K through 8th grade school breaking ground at Air Force Academy | HIGH | 1 | KOAA, Ground.News |\n| School funded by $42.7 million Department of Defense award | HIGH | 1 | KOAA, Ground.News |\n| D20 maintained \"accreditation with distinction\" in 2025–26 performance results | HIGH | 2 | Gazette — \"Preliminary results show watchlist schools, districts improving\" |\n| Former board president Amy Shandy resigned due to family relocation | MEDIUM | 2 | Gazette Aug 2026 |\n**Sources:**\n- KOAA: \"Academy School District 20 names interim superintendent after ousting former leader\" — https://www.koaa.com/news/covering-colorado/education/academy-school-district-20-names-interim-superintendent-after-ousting-former-leader\n- KOAA: \"New pre-K through eighth grade school breaks ground at Air Force Academy\" — https://www.koaa.com/news/covering-colorado/education/new-pre-k-through-eighth-grade-school-breaks-ground-at-air-force-academy-in-colorado",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Academy School District 20 names interim superintendent after ousting former leader",
+          "url": "https://www.koaa.com/news/covering-colorado/education/academy-school-district-20-names-interim-superintendent-after-ousting-former-leader",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "KOAA"
+        },
+        {
+          "name": "New pre-K through eighth grade school breaks ground at Air Force Academy",
+          "url": "https://www.koaa.com/news/covering-colorado/education/new-pre-k-through-eighth-grade-school-breaks-ground-at-air-force-academy-in-colorado",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "KOAA"
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

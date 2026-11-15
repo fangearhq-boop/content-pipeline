@@ -1,5 +1,36 @@
 # COS Parenting — Pipeline Status
 
+## Current Run: 2026-11-15
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D11 $775M bond Issue 4A certified ~51.68% yes; first D11 bond since 2006; Holmes $80M rebuild. CPSC recalls Nov 12: SHEIN baby rattle/teether sets (2,657 units, choking hazard); Kakgold 4WD RC cars (294 units, battery ingestion). COS events: Family Star Party at UCCS Centennial Hall Tue Nov 18 6 PM (free, CSAS Golden Record); Rocky Ram's Holiday Spectacular Pikes Peak Sat Nov 21. Colorado flu 2026-27 first pediatric death (elementary-aged, unvaccinated); 2025-26 worst on record (5,931 hospitalizations, 1,169 children, 8 deaths). D20: Dr. Susan Field interim supt through 2026-27 (prev. asst. supt. learning services, unanimous vote); new pre-K–8 at USAFA $42.7M DoD award; D20 "accreditation with distinction." |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Nov 13 S2: D11 bond passes → what's next for families); S2 NEW STORY (SHEIN + Kakgold recalls); S3 NEW STORY (COS family events this week); S4 NEW STORY (Colorado flu season early start); S5 NEW STORY (D20 leadership + USAFA school) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 T1, 2 T2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4]; posting window format fixed to `- **Posting window:**` |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; all CPSC recall claims HIGH from cpsc.gov; flu stats HIGH from CDPHE/Denver7/CPR News; D20 claims HIGH from KOAA |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows (8 AM, 10 AM, 12 PM, 3 PM, 5 PM), 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 5 posts across 5 stories; all ≤280 chars (253, 274, 261, 279, 265); 4 hashtags each; fixed S3 (290→261) and removed overlong S5 draft (300→265) |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; `**Long-Form Post (time)**` format; engagement questions; no hashtags; 0 exclamation marks in articles |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only concepts (2 per story); clean bottom third for text overlay; no celebrity likenesses; brand kit kAHCKfCZgk0; dimensions 1200x675 (social) + 1200x630 (hero) |
+| Articles (5) | COMPLETE | article-01 D11 bond what's next (Jamie Rivera T1 ~650w, quick reference table); article-02 CPSC recalls SHEIN + Kakgold (Sarah Morales T1 ~600w, 2 quick reference tables); article-03 COS events this week Nov 15-21 (Jamie Rivera T1 ~600w); article-04 Colorado flu season 2026-27 (Sarah Morales T2 ~600w); article-05 D20 interim superintendent + USAFA school (Jamie Rivera T2 ~600w, quick reference table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 77 claims auto-extracted by verify-facts.py; all stories present in all content files; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 5 X posts, 5 FB posts, 5 articles, 10 images; validation all clear |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × 2 images each), all not_started, gemini base_only, dimensions 1200x675 (social) + 1200x630 (hero), brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 30 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-11-15.xlsx (5 posts) + cosp-postplanner-tobi-2026-11-15.xlsx (5 TOBI posts) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); 5 HTML article drafts ready locally |
+| Story History | COMPLETE | Nov 15 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 5 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **PostPlanner exports:** 5 posts standard + 5 TOBI
+- **Key stories:** D11 $775M bond certified — Holmes $80M rebuild, teacher pay redirect, citizen oversight committee; CPSC recalls SHEIN baby rattle/teether (choking hazard) + Kakgold RC cars (battery ingestion); COS family events this week — Family Star Party UCCS Tue free + Rocky Ram's Holiday Spectacular Pikes Peak Sat; Colorado flu season early — first 2026-27 pediatric death, 36% vaccination rate for kids; D20 — Dr. Susan Field interim supt, new USAFA school $42.7M DoD, "accreditation with distinction"
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); verify-facts found S3/S5 tweets over 280 (fixed); FB posts format required `**Long-Form Post (time)**` not `#### Long-Form Post` headers; posting window required `- **Posting window:**` lowercase format
+
+---
+
 ## Current Run: 2026-11-14
 
 | Step | Status | Notes |
