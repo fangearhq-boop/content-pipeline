@@ -1,0 +1,306 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-15",
+  "compiled_at": "2026-11-15T10:19:09.457052+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 — LSU No. 1 Class",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2 — OU Portal Losses",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 — Texas Tech Rise",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 — December Portal Preview",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 5 — 5-for-5 + House Double Squeeze",
+      "type": "X + Facebook"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "LSU Signs Nation's No. 1 Signing Class — A Historic First for the Tigers",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "LSU just signed the No. 1 recruiting class in college softball — by Softball America.\n\nFirst time in Tigers program history.\n\nBeth Torina has OU's attention. #LSUSoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LSUSoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 187
+        },
+        {
+          "label": "Post 1-2",
+          "text": "5 stars. 4 stars. A five-star pitcher AND a four-star pitcher in the same class.\n\nLSU's 2027 signing class just answered everyone asking about their rotation depth.\n\nThe Tigers aren't recruiting for now — they're building for a dynasty. #LSUSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LSUSoftball"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-lsu-no1-signing-class-historic.html",
+        "headline": "LSU Signs the No. 1 Recruiting Class in Softball — A Historic First for the Tigers Program",
+        "word_count": 547
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LSU Signs Nation's No. 1 Signing Class\n\n#### Image 1a — Social (1080x1350)\n**Purpose:** Social media post\n**Search Term:** Beth Torina LSU softball\n**Canva Text:** NO. 1 IN THE NATION / LSU Signs Historic 2027 Class / First Time in Program History\n**Mood:** Celebratory, program milestone\n\n#### Image 1b — Article Hero (1200x630)\n**Purpose:** Article featured image\n**Search Term:** LSU Tigers softball team Baton Rouge\n**Canva Text:** LSU Signs the No. 1 Recruiting Class in Softball History — A Historic First for the Tigers\n**Mood:** Authoritative, program feature\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LSU Signs Nation's No. 1 Signing Class\n**Source 1:** lsusports.net official release (Nov 11, 2026) — \"softball signs top ranked 2027 signing class\"\n- Class ranked No. 1 nationally by Softball America/Rivals\n- First time in LSU softball program history to hold No. 1 class ranking\n- Second consecutive top-three class for Beth Torina\n- Six signees: Sydney Gonglik (5-star utility/pitcher), Bryli Seifert (4-star infielder, No. 32 overall), Jewel Cooper (4-star catcher, No. 29 overall), Macie Bryant (4-star pitcher, No. 22 overall), Lillie Gaudio (4-star utility), Jillian Wimmer (4-star infielder, No. 39 overall)\n- Confidence: HIGH (direct from official university release)\n**Source 2:** On3 Softball — \"LSU adds four-star pitcher Macie Bryant to stacked 2027 class\"\n- Bryant: 4-star pitcher, No. 22 overall in Softball America 2027 Rankings, No. 5 in state of Texas, No. 9 at her position\n- Confidence: HIGH\n**Source 3:** On3 Softball — \"Four-star catcher Jewel Cooper joins 2027 LSU recruiting class\"\n- Cooper: 4-star catcher, No. 29 overall\n- Confidence: HIGH\n**Key Facts (HIGH confidence):**\n- LSU class: No. 1 Softball America/Rivals\n- Six signees total\n- Two five-star athletes (Gonglik)\n- Signing date: November 11, 2026\n- \"First time in program history\" per official release",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Oklahoma's Portal Losses and Gains — What Gasso Is Working With",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Kasidi Pickering: .384 BA, 50 HR, 169 RBI in 3 seasons at Oklahoma.\n\nShe's going to Texas Tech.\n\nThat's a massive transfer — but OU's No. 1 freshman class makes it survivable. The Sooners aren't done building. #Sooners #BigXII",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#BigXII"
+          ],
+          "char_count": 226
+        },
+        {
+          "label": "Post 2-2",
+          "text": "OU lost Pickering, Milloy, and both Zaches to the portal.\n\nThey gained Macie Harter from MTSU + Adi Hansen from CSI + the No. 1 2027 freshman class.\n\nPatty Gasso has rebuilt after portal losses before. December is about to get interesting. #Sooners",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-oklahoma-portal-losses-rebuild.html",
+        "headline": "Oklahoma's Transfer Portal Losses: What Patty Gasso Is Working With Heading Into December",
+        "word_count": 548
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Oklahoma Transfer Portal Losses and Gains\n\n#### Image 2a — Social (1080x1350)\n**Purpose:** Social media post\n**Search Term:** Kasidi Pickering Oklahoma softball\n**Canva Text:** THE PORTAL TAKES A STAR / What Oklahoma Does Next / Gasso's Rebuild Begins\n**Mood:** Transition, anticipation\n\n#### Image 2b — Article Hero (1200x630)\n**Purpose:** Article featured image\n**Search Term:** Patty Gasso Oklahoma softball dugout\n**Canva Text:** Oklahoma Faces Its Biggest Offseason Test — Can Gasso Rebuild After Portal Losses?\n**Mood:** Analytical, forward-looking\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Oklahoma Transfer Portal Losses and Gains\n**Source 1:** SI / On3 — \"Oklahoma's Kasidi Pickering Transferring to Texas Tech, Per Report\"\n- Pickering: NFCA First-Team All-American, .384 BA, 50 HR, 169 RBI in 189 games over three seasons\n- Entered portal June 8, 2026\n- Texas Tech announced signing June 19-20, 2026\n- Confidence: HIGH (confirmed by Texas Tech official release)\n**Source 2:** SI — \"Oklahoma's Offseason Guide as the Sooners Look to Battle Back to the WCWS in 2027\"\n- Other portal departures: Tia Milloy (UTIL), Berkley Zache (P), Riley Zache (UTIL)\n- Portal additions: Macie Harter from Middle Tennessee State; Adi Hansen from College of Southern Idaho\n- Confidence: MEDIUM (SI offseason guide, not official OU release)\n**Source 3:** Stormin' Norman — \"Oklahoma Ready to Get to Work as Transfer Portal Officially Opens\"\n- Gasso \"ready to get to work\" when portal opens\n- Five-star freshman class still D1Softball No. 1\n- Confidence: MEDIUM\n**Key Facts (HIGH confidence):**\n- Pickering: .384 BA, 50 HR, 169 RBI → Texas Tech (confirmed by TTU release)\n- Portal opened for softball in June 2026\n**Key Facts (MEDIUM confidence):**\n- Other departures: Milloy, B. Zache, R. Zache\n- Additions: Harter (MTSU), Hansen (CSI)\n- Gasso stated readiness for December portal",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Texas Tech's Softball Rise — Pickering, Portal, and the NIL Blueprint",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Texas Tech just landed the No. 1 transfer class in softball.\n\nThey also signed the first five-star freshman in program history.\n\nOh, and Kasidi Pickering — NFCA All-American — is now a Red Raider.\n\nLubbock is not a rebuild. It's a rise. #TexasTech #BigXII",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TexasTech",
+            "#BigXII"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-texas-tech-softball-rise.html",
+        "headline": "Texas Tech's Softball Rise: How the Red Raiders Became a Big 12 Power",
+        "word_count": 467
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Tech's Softball Rise\n\n#### Image 3a — Social (1080x1350)\n**Purpose:** Social media post\n**Search Term:** Texas Tech Red Raiders softball\n**Canva Text:** THE RISE IS REAL / Texas Tech Claims No. 1 Transfer Class / Lubbock Is Ready\n**Mood:** Bold, rising power\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Tech's Softball Rise\n**Source 1:** SI — \"How an NIL Loophole is Transforming Texas Tech Into a Softball Powerhouse\"\n- NIL strategy allows TTU to offer compensation structures attracting talent from traditional powerhouses\n- Confidence: MEDIUM (SI investigation — details behind paywall)\n**Source 2:** Roundtable / Softball coverage — \"texas tech softball tops transfer portal rankings once again\"\n- TTU transfer class ranked No. 1 nationally per Softball America\n- Confidence: MEDIUM\n**Source 3:** Stormin' Norman / SI — Jocelyn Gentry described as \"first 5-star freshman in program history\"\n- Big 12 play opens March 12\n- Confidence: MEDIUM (multiple secondary sources)\n**Key Facts (HIGH confidence):**\n- Kasidi Pickering now at Texas Tech (official signing confirmed)\n- Big 12 opens March 12 for Texas Tech",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "The December Transfer Portal Opens in 16 Days — What Every Fan Needs to Know",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "The softball transfer portal opens December 1.\n\nThat's 16 days away.\n\nWith a 25-player House cap AND the 5-for-5 rule still in litigation, every roster move in this window counts double.\n\nKnow what your program needs before the clock starts. #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 258
+        },
+        {
+          "label": "Post 4-2",
+          "text": "December 1-15 is the softball transfer portal window.\n\nPrograms to watch as buyers: Oklahoma, Arizona, FSU, Ole Miss.\n\nPrograms sitting on loaded rosters will have hard decisions to make.\n\nBuckle up — this window shapes the entire 2027 season. #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-december-transfer-portal-guide.html",
+        "headline": "The December Softball Transfer Portal Opens in 16 Days — Everything You Need to Know",
+        "word_count": 500
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "December Transfer Portal Window\n\n#### Image 4a — Social (1080x1350)\n**Purpose:** Social media post\n**Search Term:** college softball player helmet bat\n**Canva Text:** 16 DAYS / The Softball Transfer Portal Opens December 1 / Everything You Need to Know\n**Mood:** Urgency, informational\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "December Transfer Portal Window\n**Source 1:** nextcommit.ai / third-party guide — Softball D1 portal window: December 1-15, 2026\n- Confidence: MEDIUM (third-party, not NCAA official)\n**Source 2:** On3 — 2026-27 softball transfer portal wire shows active movement\n- Confidence: HIGH for general portal activity; MEDIUM for specific window dates\n**Key Facts:**\n- Window commonly cited as December 1-15, 2026 (MEDIUM confidence — not from official NCAA source; treat as approximate)\n- House settlement: 25-player roster cap (HIGH)\n- 5-for-5 injunction: athletes can be rostered but cannot practice or play (HIGH — per court records cited in earlier search)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "5-for-5 and the House Settlement — College Softball's Double Roster Squeeze",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Two rules are squeezing college softball rosters simultaneously:\n\nHouse settlement: 25-player cap.\n5-for-5: more eligible players than ever.\n\nPrograms can roster 5-for-5 athletes — but they can't practice or play.\n\n200+ court cases. No resolution before December. #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-5for5-house-settlement-double-squeeze.html",
+        "headline": "5-for-5 and the House Settlement: College Softball's Double Roster Squeeze Explained",
+        "word_count": 559
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "5-for-5 and House Settlement\n\n#### Image 5a — Social (1080x1350)\n**Purpose:** Social media post\n**Search Term:** softball player field bench dugout\n**Canva Text:** THE DOUBLE SQUEEZE / House Settlement + 5-for-5 / What It Means for Every Roster\n**Mood:** Serious, policy-driven\n\n#### Image 5b — Article Hero (1200x630)\n**Purpose:** Article featured image\n**Search Term:** softball team huddle bench\n**Canva Text:** The Two Legal Battles Squeezing College Softball Rosters in 2026\n**Mood:** Analytical, evergreen"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "5-for-5 and House Settlement Double Squeeze\n**Source 1:** SI / Yahoo Sports — Wisne v. NCAA: preliminary injunction July 31, stay Aug 21, Tenth Circuit oral arguments Oct 13\n- Confidence: HIGH\n**Source 2:** Yahoo Sports — \"College Softball Remains in Limbo As 5-for-5 Litigation Continues\"\n- 200+ state-court cases nationwide\n- Rostered but cannot practice or play\n- Confidence: HIGH\n**Key Facts (HIGH confidence):**\n- Injunction in place; athletes can be rostered, cannot practice/play\n- Tenth Circuit heard oral arguments Oct 13; no ruling issued\n- 200+ state cases ongoing\n- 25-player cap per House settlement in effect",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

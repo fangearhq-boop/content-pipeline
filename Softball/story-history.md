@@ -4458,3 +4458,62 @@ _This file tracks every story covered, the angle used, content produced, and fol
   - Tenth Circuit ruling (timeline TBD)
   - NCAA response and roster planning by programs
   - State-level litigation updates
+
+---
+
+## November 15, 2026
+
+### Story 1: LSU Signs Nation's No. 1 Signing Class — Historic First for Tigers
+- **Date:** 2026-11-15
+- **Tier:** 1
+- **Classification:** FOLLOW UP (OU vs LSU rankings battle covered Nov 14)
+- **Angle:** LSU's Nov 11 Signing Day class: No. 1 by Softball America/Rivals (first in program history). Six signees: Sydney Gonglik (5-star), Jewel Cooper (4-star catcher No.29), Macie Bryant (4-star pitcher No.22), Bryli Seifert (4-star infielder No.32), Lillie Gaudio, Jillian Wimmer. Second consecutive top-3 class. Beth Torina building toward dynasty.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - LSU 2027 spring schedule release
+  - Preseason rankings (January)
+  - LSU vs OU showdown in conference play
+
+### Story 2: Oklahoma Transfer Portal Losses and Gains
+- **Date:** 2026-11-15
+- **Tier:** 2
+- **Classification:** FOLLOW UP (OU covered throughout fall)
+- **Angle:** Kasidi Pickering (.384 BA, 50 HR, 169 RBI; NFCA All-American) → Texas Tech. Also lost Tia Milloy, Berkley Zache, Riley Zache. Added Macie Harter (MTSU), Adi Hansen (CSI). D1Softball No. 1 freshman class (Williams + Hilliard five-stars, Hutchens already enrolled) offsets losses. December portal next step.
+- **Content Produced:** Article (article-02, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - OU December portal additions
+  - Spring preseason ranking
+  - Harter/Hansen first impressions in spring
+
+### Story 3: Texas Tech's Softball Rise
+- **Date:** 2026-11-15
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** TTU No. 1 transfer class nationally (SA), first five-star freshman in program history (Jocelyn Gentry), Kasidi Pickering signing. NIL loophole strategy (SI investigation). Big 12 opens March 12.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - TTU preseason ranking
+  - Spring results vs Big 12
+  - Pickering first impressions at TTU
+
+### Story 4: December Transfer Portal Window — 16 Days Away
+- **Date:** 2026-11-15
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Dec 1-15 softball portal window. House 25-player cap + 5-for-5 complicating moves. Buyers: OU, Arizona, FSU, Ole Miss. Practical guide for fans.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 2 X posts, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Portal opening day movement Dec 1
+  - Key commitments Dec 1-15
+  - 5-for-5 athlete decisions
+
+### Story 5: 5-for-5 and House Settlement: Double Roster Squeeze
+- **Date:** 2026-11-15
+- **Tier:** 3
+- **Classification:** FOLLOW UP (5-for-5 covered Oct 29–Nov 14)
+- **Angle:** House 25-player cap + 5-for-5 (can roster, can't play) colliding. Tenth Circuit Oct 13 oral arguments, no ruling. 200+ state cases. Programs in impossible position.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Tenth Circuit ruling (TBD)
+  - State-level case outcomes
+  - Program-specific roster impact
