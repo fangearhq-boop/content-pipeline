@@ -1,0 +1,247 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-15",
+  "compiled_at": "2026-11-15T09:24:10.744415+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "12:00 PM",
+      "description": "Story 1 — 40-man deadline correction (Nov 17)",
+      "type": "Informative — roster deadline"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Story 2 — Holmes/Peterson wanted back, King market",
+      "type": "Hot stove analysis"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 3 — CBA Dec 1 expiry, 16 days to move",
+      "type": "Bold take — urgency"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Story 4 — Suzuki, Blue Jays frontrunners",
+      "type": "Evening — hot stove WINNER slot"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 5 — Cardinals new GM, NL Central two-team race",
+      "type": "Rival watch — EVENING WINNER slot"
+    },
+    {
+      "time": "9:30 PM",
+      "description": "Story 6 — Brewers lose Bauers, get premium pick",
+      "type": "Rival watch — EVENING WINNER slot"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "40-Man Deadline Crunch — Tuesday November 17 (Correction)",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "The 40-man deadline is Tuesday at 6 PM ET — not next week.\n\nThe Cubs have 34 of 40 spots filled. Any prospect not added in the next 48 hours is Rule 5 Draft eligible on December 9.\n\n#Cubs",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative / roster deadline correction",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 187
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Cubs Want Holmes + Peterson — Rotation Market Heats Up",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "USA Today's Nightengale: the Cubs would love to bring back Holmes and Peterson.\n\nMichael King posted a 3.21 ERA over 185 innings in 2026 and is on the market. That's the rotation plan Hoyer needs to execute.\n\n#Cubs",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Hot stove / rotation analysis",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "CBA Expires December 1 — 16 Days to Move",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The MLB CBA expires December 1. The Cubs have zero confirmed starting pitchers.\n\nThat's 16 days to avoid a potential lockout that freezes every transaction in baseball. No other contender is this exposed.\n\n#Cubs",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Bold take / urgency",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Suzuki Market — Blue Jays Frontrunners, Cubs Get Comp Pick",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Per The Athletic, Toronto is the frontrunner for Seiya Suzuki.\n\nHe gave the Cubs 26 HR, .841 OPS, and 5.1 WAR in 2026. Blue Jays are right to pursue him. Cubs receive a compensation draft pick.\n\n#Cubs",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Hot stove / transaction market",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 200
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Cardinals Name Rob Cerfolio GM — Modest Budget, NL Central Opening",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "8:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "St. Louis named Rob Cerfolio GM. The plan: modest spending, no blockbusters.\n\nBrewers won the World Series. Cubs have 30 of 30 NL MVP votes. The NL Central belongs to those two in 2027.\n\n#Cubs",
+          "posting_time": "8:00 PM CT",
+          "tweet_type": "Rival watch / bold take",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 192
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 6,
+      "title": "Brewers Lose NLCS MVP Bauers to Red Sox",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "9:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Jake Bauers signed with the Red Sox. The Brewers get a premium 2027 Draft pick as compensation.\n\nContreras stays at $15.5M. Championship front offices plan for every loss. Cubs have 16 days to prove they will too.\n\n#Cubs",
+          "posting_time": "9:30 PM CT",
+          "tweet_type": "Rival watch / analysis",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 5,
+        "claims_flagged": 5,
+        "errors_corrected": 0
+      },
+      "research": null,
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

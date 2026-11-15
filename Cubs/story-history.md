@@ -5,6 +5,64 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-11-15 (OFF DAY — Offseason. 40-man roster deadline Nov 17 at 6 PM ET (correction from Nov 14 which said Nov 20). Cubs at 34/40 spots, 2 days to protect prospects. CBA expires Dec 1 (potential lockout). Suzuki market: Blue Jays frontrunners per The Athletic (Mitch Bannon). Cardinals named Rob Cerfolio GM (modest budget). Brewers lose NLCS MVP Bauers to Red Sox 4yr deal; Contreras locked at $15.5M. Insights: evening_18_24 WINNER (delta=0.894, large) + hashtag_count=3 LOSER (delta=0.825, OVERRIDE — 1 hashtag used) + content_type=brief LOSER (delta=0.767) + opening=statement WINNER (delta=0.732) + opening=allcaps_lead LOSER (delta=0.732) + hashtag_count=1 WINNER (delta=0.725) + len_bucket=200-260 LOSER (delta=0.724) + posting_window=morning_06_12 LOSER (delta=0.503) + has_stat WINNER (delta=0.339).)
+
+### STORY 1: 40-Man Deadline Crunch — Tuesday November 17 (Correction)
+- **Angle:** FOLLOW UP (Nov 14 coverage said Nov 20; actual deadline is Nov 17 at 6 PM ET — correction). Cubs at 34 of 40 spots. Any prospect not added in next 48 hours is Rule 5 Draft eligible December 9.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT informative / correction)
+- **Follow-Up Opportunities:**
+  - Cubs add prospects to 40-man (Nov 17) → Tier 2 roster move post naming who was added/protected
+  - Cubs DFA player to clear 40-man space → Tier 2 transaction reaction
+
+### STORY 2: Cubs Want Holmes + Peterson — Rotation Market Heats Up
+- **Angle:** FOLLOW UP (Nov 14 rotation market). New: Nightengale (USA Today) reports Cubs "would love to bring back" Holmes and Peterson. Michael King (3.21 ERA, 185 IP, 2026) top external target per Morosi.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT hot stove analysis)
+- **Follow-Up Opportunities:**
+  - Holmes re-signs with Cubs → Tier 2 rotation acquisition post
+  - Peterson re-signs with Cubs → Tier 2 rotation acquisition post
+  - Michael King signs with Cubs → Tier 1 breaking rotation news
+  - King signs elsewhere → Tier 2 Cubs-must-pivot angle
+
+### STORY 3: CBA Expires December 1 — 16 Days to Move
+- **Angle:** NEW STORY. CBA expires Dec 1. If lockout occurs, all transactions freeze. Cubs have zero confirmed starters. 16 days to act before potential freeze.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT bold take / urgency)
+- **Follow-Up Opportunities:**
+  - CBA extension reached → story closes, context shifts
+  - Lockout announced → Tier 1 breaking news; Cubs transactions frozen story
+  - Cubs sign SP before Dec 1 → Tier 2 "beating the clock" angle
+
+### STORY 4: Suzuki Market — Blue Jays Frontrunners, Cubs Get Comp Pick
+- **Angle:** FOLLOW UP (Nov 12-14 Suzuki coverage). New: The Athletic's Bannon reports Blue Jays are frontrunners. Suzuki: 26 HR, .841 OPS, 5.1 WAR in 2026. Cubs receive compensation draft pick if Suzuki signs elsewhere.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT evening hot stove WINNER slot)
+- **Follow-Up Opportunities:**
+  - Suzuki signs with Blue Jays → Tier 2 farewell / comp pick story
+  - Suzuki signs elsewhere → Tier 2 Cubs comp pick + pivot story
+  - Cubs make surprise run at Suzuki → Tier 1 breaking
+
+### STORY 5: Cardinals Name Rob Cerfolio GM — Modest Budget, NL Central Opening
+- **Angle:** NEW STORY. Cardinals promoted Cerfolio to GM. The Athletic: "unlikely to be big spenders." Cardinals 77-85 in 2026, missed playoffs 4th straight year. Brewers WS champs, Cubs have unanimous NL MVP — NL Central is a two-team race.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 8:00 PM CT rival watch / evening bold take)
+- **Follow-Up Opportunities:**
+  - Cardinals make a surprising big signing → Tier 2 rival alert
+  - Cardinals trade Burleson → Tier 3 division transaction
+  - NL Central power vacuum confirmed through offseason → ongoing context
+
+### STORY 6: Brewers Lose NLCS MVP Bauers to Red Sox
+- **Angle:** FOLLOW UP (Nov 14 Brewers/rival watch). New: Jake Bauers signed 4-year deal with Red Sox. Brewers get premium 2027 Draft pick as compensation. Contreras stays at $15.5M. Championship front offices plan for every loss.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 9:30 PM CT rival watch / late evening)
+- **Follow-Up Opportunities:**
+  - Brewers sign Bauers replacement → Tier 2 rival watch
+  - Brewers sign Woodruff → Tier 2 rival rotation story
+  - Premium pick lands in top 5 → Tier 3 division draft context
+
+---
+
 ## 2026-11-14 (OFF DAY — Offseason. Mesa Solar Sox eliminated from AFL playoffs (5-2 by Salt River in Round 1); Dominick Reid closed AFL as All-Star. 40-man roster deadline Nov 20 (6 days). Rotation market: Peralta seeking 7-8 years. Brewers built: WS title + Cy Young + locked WS MVP. Cubs zero confirmed starters for 2027. Insights: evening_18_24 WINNER (delta=0.869, large) + recap_longform WINNER (not applicable off day) + hashtag_count=3 LOSER (delta=0.815, OVERRIDE — 1 hashtag used) + not_brief WINNER (delta=0.795) + hashtag_count=1 WINNER (delta=0.729) + opening=statement WINNER (delta=0.689) + opening=allcaps_lead LOSER (delta=0.689) + not_200-260 WINNER (delta=0.679) + not_morning WINNER (delta=0.424) + has_stat WINNER (delta=0.327).)
 
 ### STORY 1: 40-Man Roster Deadline Approaching — Friday November 20

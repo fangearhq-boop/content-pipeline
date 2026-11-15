@@ -1,6 +1,33 @@
-# Cubs Pipeline Status — Updated 2026-11-14
+# Cubs Pipeline Status — Updated 2026-11-15
 
 ## Latest Run
+- **Date:** 2026-11-15 (Sunday — Off day. 40-man deadline Nov 17 at 6 PM ET — correction from yesterday (Nov 14 said Nov 20). CBA expires Dec 1 (potential lockout). Suzuki market: Blue Jays frontrunners per The Athletic. Cardinals named Rob Cerfolio GM (modest budget). Brewers lose NLCS MVP Bauers to Red Sox 4yr deal; Contreras locked at $15.5M.)
+- **Stories:** 6
+- **X posts:** 6
+- **Platforms:** X/Twitter only
+- **Status:** ✅ Complete
+- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 6 stories, 6 tweets
+- **07-content-data.json:** ✅ Valid JSON, all 6 posts with posting_time (12:00 PM / 2:30 PM / 5:00 PM / 6:30 PM / 8:00 PM / 9:30 PM CT), all strptime-parseable
+- **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
+- **Note:** 10 significant insights applied. HASHTAG OVERRIDE: hashtag_count=3 is LOSER (delta=0.825, large) + hashtag_count=1 is WINNER (delta=0.725, large) → 1 hashtag (#Cubs) used, overrides brand-voice 3-hashtag rule (5th consecutive day). ALLCAPS LOSER: opening=allcaps_lead LOSER (delta=0.732) — no ALL CAPS leads. MORNING AVOIDANCE: posting_window=morning_06_12 LOSER (delta=0.503) — first post at 12:00 PM CT. EVENING PRIORITY: posting_window=evening_18_24 WINNER (delta=0.894) → Stories 4+5+6 in 6:30 PM / 8:00 PM / 9:30 PM CT. ⚠️ Story 6 Bauers-Red Sox 4yr deal — MEDIUM-HIGH confidence (MLB.com headline confirms, deal details from hot stove recap; second source search returned older data). If unconfirmed before 9:30 PM CT, change tweet to "reportedly agreed." ⚠️ Story 1: Cubs 34/40 count from Nov 2 transaction log — MEDIUM (may have changed since).
+
+## Insights Summary (2026-11-15 run — from 2026-11-15T08:30 UTC snapshot)
+- **Generated:** 2026-11-15T08:30:00 UTC
+- **Measured tweet count:** not shown in this snapshot
+- **Significant findings:** 10
+  1. `posting_window=evening_18_24` WINNER — delta=0.894 (large). Stories 4+5+6 in 6:30 PM / 8:00 PM / 9:30 PM CT.
+  2. `content_type=recap_longform` WINNER — delta=0.891 (large). Off day — no game recap possible. All posts analytical/substantive.
+  3. `hashtag_count=3` LOSER — delta=0.825 (large). ⚠️ CONFLICT with pipeline hard rule. 1 hashtag used (5th consecutive override day).
+  4. `content_type=brief` LOSER — delta=0.767 (large). All posts substantive with stat context.
+  5. `opening=statement` WINNER — delta=0.732 (large). All 6 posts use statement openings.
+  6. `opening=allcaps_lead` LOSER — delta=0.732 (large). No ALL CAPS leads.
+  7. `hashtag_count=1` WINNER — delta=0.725 (large). Applied: #Cubs only.
+  8. `len_bucket=200-260` LOSER — delta=0.724 (large). Posts target <200 or 260-280 (Story 5 at ~185 chars; all others <200).
+  9. `posting_window=morning_06_12` LOSER — delta=0.503 (large). No morning posts; first at 12:00 PM CT.
+  10. `has_stat` WINNER — delta=0.339 (medium). Stats in every tweet.
+- **Action:** Insights applied throughout. 1-hashtag override active.
+
+## Previous Run (2026-11-14)
 - **Date:** 2026-11-14 (Saturday — Off day. Mesa Solar Sox eliminated from AFL playoffs (5-2 by Salt River Round 1). 40-man deadline Nov 20. Peralta asking 7-8 years. Brewers built (WS + Cy Young + locked WS MVP). PCA franchise cornerstone angle.)
 - **Stories:** 5
 - **X posts:** 5
