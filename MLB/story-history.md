@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## November 16, 2026
+
+### Story 1: QO Deadline Tomorrow — Seven Players, $23 Million, One Day Left to Decide
+- **Date:** 2026-11-16
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** QO deadline 4PM ET Nov 17. Jake Bauers already signed 4yr/$58M Red Sox (declined). 7 players remain: Suzuki, Arozarena, Bednar, Jeffers, Morejon, plus two others. Historical acceptance: 18/157 (~11.5%). Morejon "almost certainly" declining. May be last QO cycle ever — CBA expires Dec 1.
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - QO decisions Nov 17 (deadline day)
+  - First post-QO signings starting Nov 18
+
+### Story 2: Tarik Skubal West Coast Meetings — Mets Favorite, $400M Ceiling
+- **Date:** 2026-11-16
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Skubal meeting 6 teams in California including Mets, Dodgers, Padres. Mets "probably the favorite" per Heyman. Dodgers GM Gomes confirmed talks. Contract ceiling: $400M per ESPN. AAV floor: $44M (shatters Yamamoto $27M record). Must sign before Dec 1 CBA expiration.
+- **Content Produced:** Article (article-02, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Skubal signing announcement before Dec 1
+  - Mets or Dodgers formal offer emergence
+
+### Story 3: Jazz Chisholm — 11 Teams Engaged, Blue Jays Frontrunner
+- **Date:** 2026-11-16
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** 11 teams engaged per Morosi (MLB Network). Blue Jays frontrunner per Davidi (Sportsnet); Toronto envisions Chisholm at 2B, Clement to super-utility. Yankees not expected to return. No QO — no draft pick cost. 2026: .231/.312/.399, 19 HR, 41 SB. In-person meetings start next week.
+- **Content Produced:** Article (article-03, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Chisholm signing or formal offer before Dec 1
+  - Blue Jays formal offer details
+
+### Story 4: Pre-Lockout Transaction Sprint Accelerates
+- **Date:** 2026-11-16
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Giants trade Ryan Walker to Brewers (Holub + Perry) Nov 16. Evan Phillips 3yr/Braves (Nov 12). Emilio Pagán 1yr/Tigers (Nov 10). Jake Bauers 4yr/$58M/Red Sox (Nov 13). Owners meetings Nov 17-19. Dec 1 CBA freeze 15 days away. Teams moving fast.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Owners meetings Nov 17-19 activity
+  - Additional mid-tier free agent signings this week
+
+### Story 5: CBA Countdown — 15 Days Until Expiration
+- **Date:** 2026-11-16
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** CBA expires Dec 1 at 11:59 PM ET (15 days). Owners want salary cap; MLBPA refuses. No progress reported. Manfred pledged lockout. Last lockout Dec 2021–Mar 2022: 99 days. 2027 season at risk.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Any CBA negotiation breakthrough
+  - Official lockout announcement Dec 1
+
+---
+
 ## November 14, 2026
 
 ### Story 1: Skubal Free Agency — Mets Are "Probably" the Favorite as California Meetings Begin

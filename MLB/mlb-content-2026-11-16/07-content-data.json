@@ -1,0 +1,369 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-16",
+  "compiled_at": "2026-11-16T10:29:44.988682+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "Story",
+      "description": "Tier",
+      "type": "Type"
+    },
+    {
+      "time": "1. QO Deadline Tomorrow",
+      "description": "Tier 1",
+      "type": "FOLLOW UP"
+    },
+    {
+      "time": "2. Tarik Skubal Meetings",
+      "description": "Tier 1",
+      "type": "FOLLOW UP"
+    },
+    {
+      "time": "3. Jazz Chisholm Free Agency",
+      "description": "Tier 2",
+      "type": "FOLLOW UP"
+    },
+    {
+      "time": "4. Pre-Lockout Transaction Sprint",
+      "description": "Tier 2",
+      "type": "NEW STORY"
+    },
+    {
+      "time": "5. CBA Countdown — 15 Days",
+      "description": "Tier 3",
+      "type": "FOLLOW UP"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "QO Deadline Tomorrow — Seven Players, $23 Million, One Day Left",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The QO deadline is tomorrow — 4 PM ET, Nov. 17.\n\nJake Bauers already signed 4yr/$58M with Boston. Seven players remain undecided.\n\nHistory: 18 of 157 have ever accepted. Almost all will decline. Watch tomorrow. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 215
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Players holding QOs worth $23.15M each:\n\nSeiya Suzuki (Cubs), Randy Arozarena (Mariners), David Bednar (Yankees), Ryan Jeffers (Twins), Adrian Morejon (Reds), and two others.\n\nMorejon \"almost certainly\" declining per reports. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "The qualifying offer deadline arrives tomorrow at 4:00 PM ET — and the baseball world is watching.\n\nHere's the situation. Eight players received qualifying offers this offseason worth $23.15M each. Jake Bauers is already off the board — he signed a 4-year, $58 million deal with the Boston Red Sox and therefore declined. That leaves seven players still undecided.\n\nThe names: Seiya Suzuki (Cubs), Randy Arozarena (Mariners), David Bednar (Yankees), Ryan Jeffers (Twins), Adrian Morejon (Reds), and two others. Each has until 4 PM ET on November 17 to accept or decline. Any player who accepts gets guaranteed $23.15 million on a one-year contract from their current team. Any player who declines hits the open market — but their new team surrenders a draft pick if the original club offered arbitration.\n\nHistory says almost none of them will accept. All-time, 18 of 157 qualifying offer recipients have said yes — that's roughly 11.5 percent. The incentive to test free agency is overwhelmingly strong for established players.\n\nAdrian Morejon is reportedly \"almost certainly\" declining, per Yahoo Sports. The others have been quieter, but expect most or all to decline.\n\nThis may also be the last QO cycle ever. The MLB CBA expires December 1, and the new deal — if one ever gets done — could eliminate the qualifying offer system entirely.\n\nOne day left. Watch the wire at 4 PM ET tomorrow.",
+        "image_caption": "One day left for seven players to decide whether $23.15 million guaranteed is worth giving up free agency. History says almost all will say no. Tomorrow we find out. #MLB",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-qo-deadline-tomorrow-seven-players.html",
+        "headline": "The QO Deadline Is Tomorrow: Seven Players, $23 Million, and One Day Left to Decide",
+        "word_count": 571
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1a",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1b",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "QO Deadline Tomorrow\n**[HIGH] QO deadline: 4:00 PM ET, November 17, 2026**",
+        "sources": "Source: Yahoo Sports, ESPN — multiple outlets confirm Nov. 17 deadline.\n**[HIGH] 8 players received qualifying offers at $23.15M each**\nNamed: Jake Bauers (1B, Brewers), David Bednar (RP, Yankees), Seiya Suzuki (OF, Cubs), Randy Arozarena (OF, Mariners), Adrian Morejon (SP, Reds), Ryan Jeffers (C, Twins), plus two additional players.\nSource: Multiple MLB outlets, confirmed.\n**[HIGH] Jake Bauers signed 4yr/$58M with Boston Red Sox — therefore declined QO**\nSource: ESPN/Jeff Passan, reported Nov. 13.\n**[HIGH] Historical QO acceptance rate: 18 of 157 all-time (~11.5%)**\nSource: Yahoo Sports — confirmed.\n**[MEDIUM] Adrian Morejon \"almost certainly\" declining per reports**\nSource: Yahoo Sports — single outlet.\n**[HIGH] Seven players remain who have not yet publicly decided**\nConfirmed from above: Suzuki, Arozarena, Bednar, Jeffers, Morejon, plus two others."
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Tarik Skubal West Coast Meetings — Mets Favorite",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Tarik Skubal is meeting with teams in California this week.\n\nMets: industry favorite per Heyman. Dodgers: GM Gomes confirmed talks. Padres: confirmed.\n\nContract ceiling: $400M per ESPN. Dec. 1 deadline ticking. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 215
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Signing Skubal before Dec. 1 would mean:\n\n— A new record AAV for a starting pitcher ($44M floor)\n— An 8+ year deal\n— The biggest pitching contract in MLB history\n\nIf no deal, the market freezes with the lockout. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "The most important free-agent pitcher in a generation is in California this week — and teams are lining up to make their case.\n\nTarik Skubal is meeting with six teams, including the Mets, Dodgers, and Padres. Jon Heyman reports the Mets are the industry favorite to land him — \"probably the favorite\" in his words. Dodgers GM Brandon Gomes addressed the meetings at the GM Meetings earlier this month: \"We've been in touch with his camp, and our expectation is we'll meet at some point.\" The Padres are also confirmed.\n\nWhat's Skubal worth? According to ESPN, the ceiling on this deal is $400 million. The floor on his average annual value is estimated at $44 million per season — which would shatter the existing pitcher AAV record set by Yoshinobu Yamamoto at $27 million. Skubal isn't just the top arm on the market. He's in a category of one.\n\nThere's a hard clock on this negotiation. The MLB CBA expires December 1. If Skubal hasn't signed by then, the market freezes until a new agreement is reached — which could mean months. Every team in those California meetings knows that the window to sign the best pitcher in baseball is 15 days long.\n\nThe Mets are ahead. The Dodgers are in. The question is how much either side is willing to pay — and whether the Mets can close before the lockout.",
+        "image_caption": "Tarik Skubal is meeting with teams in California. The Mets are the favorite. The contract ceiling is $400M. Dec. 1 is 15 days away. #MLB #Mets #Dodgers",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-skubal-mets-favorite-400m.html",
+        "headline": "Tarik Skubal's Market Is Wide Open — and the Mets Are Ahead",
+        "word_count": 575
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2a",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2b",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tarik Skubal Meetings\n**[HIGH] Skubal meeting 6 teams including Mets, Dodgers, Padres in California**",
+        "sources": "Source: AP confirmed.\n**[HIGH] Mets are the industry favorite / \"probably the favorite\"**\nSource: Jon Heyman — multiple reports.\n**[HIGH] Dodgers GM Brandon Gomes confirmed talks: \"We've been in touch with his camp, and our expectation is we'll meet at some point\"**\nSource: GM Meetings press conference, reported by multiple outlets.\n**[HIGH] Contract could reach $400M per ESPN**\nSource: ESPN — reported.\n**[HIGH] AAV floor estimated at $44M — would shatter Yamamoto's $27M pitcher AAV record**\nSource: Multiple outlets confirm this floor estimate.\n**[HIGH] Skubal must sign before Dec. 1 CBA expiration or market freezes**\nSource: Multiple outlets confirm this timeline.\n**[MEDIUM] Blue Jays and Cubs also listed as interested teams**\nSource: Some outlets — not universally confirmed."
+      },
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Jazz Chisholm — 11 Teams, No Qualifying Offer",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Jazz Chisholm is the most coveted free agent at second base.\n\n11 teams are engaged. Blue Jays are the frontrunner per Sportsnet's Davidi. In-person meetings start next week.\n\nNo qualifying offer — no draft pick cost. #MLB #BlueJays",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#BlueJays"
+          ],
+          "char_count": 231
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Chisholm in 2026: .231 BA, 19 HR, 41 SB.\n\nSpeed, pop, and no hometown restrictions — he goes wherever he wants.\n\n11 teams want him. The question is who wants to pay. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 170
+        }
+      ],
+      "facebook": {
+        "long_form": "Jazz Chisholm is the hottest position player on the free-agent market — and there's no shortage of competition to sign him.\n\nMLB Network's Jon Morosi reports that 11 teams have engaged Chisholm's representatives. In-person meetings are scheduled to begin next week. The Blue Jays are emerging as the frontrunner, per Sportsnet's Shi Davidi, who reports that Toronto met with Chisholm's agents at the GM Meetings and envisions him as their starting second baseman, with Ernie Clement moving into a super-utility role.\n\nThe Yankees, who had Chisholm last season, are not expected to re-engage, per Morosi.\n\nWhat makes Chisholm especially attractive to teams: no qualifying offer was attached to him, meaning any team that signs him pays no draft pick penalty. That significantly expands the market. Eleven teams engaged isn't surprising — it may actually be an undercount.\n\nIn 2026, Chisholm hit .231/.312/.399 with 19 home runs and 41 stolen bases. He's one of the fastest players in baseball, he has above-average power for a middle infielder, and he's not yet 30 years old.\n\nMeetings start next week. The Blue Jays have momentum. But 11 teams is a crowded field — expect a bidding war.",
+        "image_caption": "11 teams. No qualifying offer. Jazz Chisholm is the most coveted middle infielder on the market — and the Blue Jays are the frontrunner. #MLB #BlueJays",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-jazz-chisholm-11-teams-no-qo.html",
+        "headline": "Jazz Chisholm Has 11 Teams Chasing Him — and No Qualifying Offer to Worry About",
+        "word_count": 476
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3a",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3b",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jazz Chisholm Free Agency\n**[HIGH] 11 teams have engaged Chisholm's representatives**",
+        "sources": "Source: Jon Morosi, MLB Network.\n**[HIGH] Blue Jays frontrunner — Shi Davidi (Sportsnet) says Toronto met with Chisholm's reps at GM Meetings**\nToronto envisions Chisholm as starting 2B, Ernie Clement to super-utility.\nSource: Sportsnet/Shi Davidi.\n**[HIGH] In-person meetings scheduled to begin next week**\nSource: Multiple outlets.\n**[HIGH] No qualifying offer attached — no draft pick cost to signing team**\nSource: Confirmed.\n**[HIGH] Yankees NOT expected to return**\nSource: Jon Morosi.\n**[HIGH] 2026 stats: .231/.312/.399, 19 HR, 41 SB**\nSource: Research agent — standard stats."
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Pre-Lockout Transaction Sprint Accelerates",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The pre-lockout transaction sprint is on.\n\nToday: Giants trade Ryan Walker to Brewers (prospects Holub + Perry). Earlier: Evan Phillips 3yr/Braves. Jake Bauers 4yr/$58M/Red Sox.\n\nDec. 1 is 15 days away. Teams are moving. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "Teams aren't waiting for free agency to heat up on its own. With the CBA expiring in 15 days, the pre-lockout transaction sprint is officially underway.\n\nToday, the Giants traded reliever Ryan Walker to the Brewers in exchange for prospects Blake Holub and Gavin Perry. It's a relatively modest move in isolation — but it's part of a broader pattern of teams clearing cap space, moving pieces, and positioning themselves before December 1.\n\nHere's what's happened in just the past week:\n\n— Evan Phillips: 3-year deal with the Atlanta Braves (November 12)\n— Emilio Pagán: 1-year deal with the Detroit Tigers (November 10)\n— Jake Bauers: 4-year, $58 million with the Boston Red Sox (November 13) — the first major qualifying offer decision of the cycle\n\nMLB owners meetings run November 17–19. That gathering historically produces a surge of signings and trade talks. With the Dec. 1 hard stop looming, the next two weeks will be the most active stretch of the offseason — perhaps the most consequential offseason sprint in years, given that whatever doesn't get done may not get done until a new CBA is in place.\n\nIf you're a baseball fan: set your alerts. This window is closing fast.",
+        "image_caption": "Giants trade Walker today. Phillips to Braves. Bauers $58M in Boston. The pre-lockout sprint is on — and December 1 is 15 days away. #MLB",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-prelockout-sprint-transactions.html",
+        "headline": "The Pre-Lockout Sprint Is On: Teams Are Moving Before the Dec. 1 Deadline",
+        "word_count": 477
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4a",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4b",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pre-Lockout Transaction Sprint\n**[HIGH] Giants traded RP Ryan Walker to Brewers for prospects Blake Holub and Gavin Perry**",
+        "sources": "Source: Yahoo Sports, dated November 16, 2026.\n**[HIGH] Evan Phillips: 3yr deal with Braves**\nSource: CBS Sports, November 12.\n**[HIGH] Emilio Pagán: 1yr deal with Tigers**\nSource: CBS Sports, November 10.\n**[HIGH] MLB owners meetings November 17–19**\nSource: Multiple outlets confirm dates.\n**[HIGH] CBA expires December 1 — teams rushing to complete deals**\nSource: Multiple outlets."
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "CBA Countdown — 15 Days Until Expiration",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "15 days until the MLB CBA expires.\n\nOwners want a salary cap. The players won't accept one. No progress toward a deal.\n\nCommissioner Manfred has pledged a lockout. The last one lasted 99 days. The 2027 season is at risk. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "Fifteen days from tonight, the MLB collective bargaining agreement expires — and no one is predicting a last-minute deal.\n\nThe core dispute is familiar and unresolved. MLB owners want a salary cap, arguing it would create competitive balance and predictability. The MLBPA has refused a cap in every negotiation cycle and shows no sign of changing its position. Commissioner Rob Manfred has signaled that if no agreement is reached by December 1, baseball will implement a work stoppage.\n\nThe last lockout — which began December 2, 2021 — lasted 99 days and pushed spring training back by weeks, with the regular season losing a handful of games at the start. That was widely viewed as a contained outcome. If the upcoming negotiations drag into spring, the 2027 season itself could be in jeopardy.\n\nWhat does this mean for the offseason right now? Any player who hasn't signed before December 1 joins a frozen market. That includes Tarik Skubal, whose California meetings are happening this week under exactly this pressure. It includes Jazz Chisholm, with 11 teams engaged and meetings starting next week. The CBA countdown isn't background noise — it's the defining pressure of this entire offseason.\n\nFifteen days. No deal in sight. Watch closely.",
+        "image_caption": "15 days. No deal in sight. Commissioner Manfred has pledged a lockout. The 2027 season is officially at risk. #MLB",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-cba-countdown-15-days.html",
+        "headline": "The CBA Is 15 Days from Expiring — and a Lockout Is Coming",
+        "word_count": 445
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5a",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5b",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CBA Countdown\n**[HIGH] CBA expires December 1, 2026 at 11:59 PM ET**",
+        "sources": "Source: Multiple outlets confirm the Dec. 1 deadline.\n**[HIGH] Core dispute: owners want salary cap; MLBPA refuses**\nSource: Multiple reporting from GM Meetings coverage.\n**[HIGH] Commissioner Manfred has indicated MLB will implement a lockout if no deal**\nSource: Multiple outlets.\n**[HIGH] Last lockout: December 2, 2021 – March 10, 2022 — 99 days, delayed spring training**\nSource: Confirmed historical record.\n**[MEDIUM] No progress toward a deal as of November 16**\nSource: No outlet has reported a breakthrough — MEDIUM as absence of evidence.\n**[MEDIUM] Odds of avoiding lockout estimated at ~5%**\nSource: Industry sources cited in prior coverage — single-source MEDIUM."
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
