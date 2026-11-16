@@ -1,0 +1,478 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-16",
+  "compiled_at": "2026-11-16T11:26:28.348557+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Haas Drops Ocon, Confirms Camara for Las Vegas — Hirakawa in FP1 (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Esteban Ocon has been removed from Haas mid-season.\n\nRafael Câmara — Ferrari academy driver and F2 leader — will race in Las Vegas.\n\nRyo Hirakawa (WEC champion) gets FP1 in Bearman's car.\n\nWild week for the American team. 🔄\n\n#HaasF1 #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HaasF1",
+            "#F1"
+          ],
+          "char_count": 236
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Rafael Câmara is already signed for Haas 2027.\n\nNow he gets a race start in Las Vegas this weekend — before that season even begins.\n\nThe Ferrari academy pathway to F1 is wide open. 🏎️\n\n#HaasF1 #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HaasF1",
+            "#F1"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-haas-camara-las-vegas-ocon-dropped.html",
+        "headline": "Haas Confirm Camara for Las Vegas After Dropping Ocon, Hirakawa Takes FP1 Seat",
+        "word_count": 664
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Haas Drops Ocon, Confirms Camara — Hirakawa in FP1\n**Sources:**\n- RacingNews365: https://racingnews365.com/haas-make-las-vegas-grand-prix-driver-decision-with-change-for-fp1\n- Crash.net: https://www.crash.net/f1/news/1110122/1/haas-confirms-driver-plans-f1-vegas-gp-two-changes\n- Sky Sports: https://www.skysports.com/f1/news/13612731/rafael-camara-haas-keep-brazilian-driver-as-oliver-bearmans-team-mate-for-las-vegas-gp-following-home-debut\n- PlanetF1: https://www.planetf1.com/news/haas-confirm-esteban-ocon-replacement-las-vegas-rafael-camara\n- Yahoo Sports: https://sports.yahoo.com/articles/camara-gets-nod-haas-las-101835082.html\n- GPBlog: https://www.gpblog.com/en/news/haas-makes-its-decision-and-also-gives-world-champion-a-chance-in-vegas\n- SpeedWeek: https://www.speedweek.com/en/a/formula-1/haas-f1-las-vegas-camara-hirakawa\n**Verified Facts (HIGH confidence):**\n- Ocon removed after Mexico City GP — 5+ outlets\n- Camara confirmed for Las Vegas race seat — 5+ outlets\n- Hirakawa in FP1 for Bearman's car — multiple outlets\n- Camara signed for 2027 season — multiple outlets\n- Hirakawa finished 10th on debut at Mexico — Sky Sports, Yahoo Sports\n- FIA quota: Haas used 4 drivers (Bearman, Ocon, Hirakawa, Camara) — GPBlog, Yahoo Sports",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "RacingNews365",
+          "url": "https://racingnews365.com/haas-make-las-vegas-grand-prix-driver-decision-with-change-for-fp1",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "crash.net",
+          "url": "https://www.crash.net/f1/news/1110122/1/haas-confirms-driver-plans-f1-vegas-gp-two-changes",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Crash.net"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/f1/news/13612731/rafael-camara-haas-keep-brazilian-driver-as-oliver-bearmans-team-mate-for-las-vegas-gp-following-home-debut",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "PlanetF1",
+          "url": "https://www.planetf1.com/news/haas-confirm-esteban-ocon-replacement-las-vegas-rafael-camara",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/camara-gets-nod-haas-las-101835082.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "GPBlog",
+          "url": "https://www.gpblog.com/en/news/haas-makes-its-decision-and-also-gives-world-champion-a-chance-in-vegas",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "SpeedWeek",
+          "url": "https://www.speedweek.com/en/a/formula-1/haas-f1-las-vegas-camara-hirakawa",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Las Vegas Race Week Begins — Strip Circuit Takes Shape (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "F1 race week in Las Vegas is officially underway.\n\nRoad closures on the Strip began today.\n\nRace night: Saturday November 21, 8 PM local time.\n\n4 AM Sunday for UK fans. Worth it. 🌙\n\n#LasVegasGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LasVegasGP",
+            "#F1"
+          ],
+          "char_count": 197
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Las Vegas GP weather forecast:\nUpper 60s early this week → upper 50s by race day Saturday.\n\nCooler temps = narrower tire window.\n\nTeams are adjusting setup RIGHT NOW for Saturday night's conditions. 🏎️\n\n#LasVegasGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LasVegasGP",
+            "#F1"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-las-vegas-race-week-begins-strip-circuit.html",
+        "headline": "F1 Race Week Is Here: Las Vegas Strip Closes as Grand Prix Build-Up Begins",
+        "word_count": 748
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Las Vegas Race Week Begins\n**Sources:**\n- 8NewsNow (road closures): https://www.8newsnow.com/news/local-news/road-closures-for-f1-las-vegas-grand-prix-begin-this-week/\n- Las Vegas Review-Journal: https://www.reviewjournal.com/sports/motor-sports/formula-1/las-vegas-grand-prix-week-arrives-what-to-expect-as-f1-returns-to-the-strip-3914580/\n- oversteer48 (schedule): https://oversteer48.com/las-vegas-f1-schedule/\n- Formula1.com article: https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22\n- GPFans (circuit guide): https://www.gpfans.com/en/f1-news/1092063/why-the-las-vegas-grand-prix-is-harder-than-its-long-straights-suggest/\n**Verified Facts (HIGH confidence):**\n- Race Saturday Nov 21 at 8 PM local — multiple sources (some list Nov 22 UTC/UK, that's time zone)\n- Road closures around Strip begin race week — 8NewsNow (dated Nov 16, 2026)\n- RTC transit special routing Nov 16-25 — 8NewsNow\n- Strip closures from Spring Mountain Road to Harmon Avenue — Review-Journal\n- Temperature forecast upper 60s→upper 50s — 8NewsNow search result\n- FP1 Thursday Nov 19 — from calendar data",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "8NewsNow (road closures)",
+          "url": "https://www.8newsnow.com/news/local-news/road-closures-for-f1-las-vegas-grand-prix-begin-this-week/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Las Vegas Review-Journal",
+          "url": "https://www.reviewjournal.com/sports/motor-sports/formula-1/las-vegas-grand-prix-week-arrives-what-to-expect-as-f1-returns-to-the-strip-3914580/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "oversteer48 (schedule)",
+          "url": "https://oversteer48.com/las-vegas-f1-schedule/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Formula1.com article",
+          "url": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "GPFans (circuit guide)",
+          "url": "https://www.gpfans.com/en/f1-news/1092063/why-the-las-vegas-grand-prix-is-harder-than-its-long-straights-suggest/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Verstappen's Vegas Record — P2 Championship Chase on Familiar Ground (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Max Verstappen won the Las Vegas Grand Prix in 2025.\n\nHe arrives for 2026 leading P2 by 17 points over Russell and 18 over Hamilton.\n\nThree races. 75 points possible.\n\nThe maths are in his favour — but nothing is settled. 🏆\n\n#F1 #LasVegasGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-verstappen-defending-vegas-winner-p2-championship.html",
+        "headline": "Defending Vegas Winner Verstappen Eyes P2 Title With 17-Point Lead Over Russell",
+        "word_count": 719
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Vegas Record\n**Sources:**\n- Formula1.com (2025 LV GP victory): https://www.formula1.com/en/latest/article/verstappen-beats-norris-for-dominant-las-vegas-gp-victory-as-piastri.6u1Op0SO7YQa2bwJOq8DVI\n- SI standings after Brazil: https://www.si.com/onsi/f1/news/f1-standings-and-results-after-the-2026-brazilian-grand-prix\n**Verified Facts:**\n- Verstappen 2025 LV GP winner — Formula1.com (official F1 site) HIGH\n- Verstappen 279 pts, Russell 262, Hamilton 261 after Brazil — SI standings HIGH (MEDIUM: some source discrepancy)\n- 75 points maximum remaining (3 races) — SI standings HIGH\n- Verstappen won from 21st at Brazil — multiple outlets HIGH",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Formula1.com (2025 LV GP victory)",
+          "url": "https://www.formula1.com/en/latest/article/verstappen-beats-norris-for-dominant-las-vegas-gp-victory-as-piastri.6u1Op0SO7YQa2bwJOq8DVI",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "SI standings after Brazil",
+          "url": "https://www.si.com/onsi/f1/news/f1-standings-and-results-after-the-2026-brazilian-grand-prix",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Ferrari's Las Vegas Mission — Redemption After Brazil Nightmare (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Leclerc demoted at Brazil. Hamilton \"devastated\" by SF-26 pace.\n\nFerrari arrive in Las Vegas wanting answers.\n\nA street circuit. A different set of demands. Can they reset this weekend?\n\n🔴 Watch this space. #Ferrari #LasVegasGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Ferrari",
+            "#LasVegasGP",
+            "#F1"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-ferrari-las-vegas-redemption-brazil-penalty.html",
+        "headline": "Ferrari Arrive in Las Vegas With a Point to Prove After Brazil Nightmare",
+        "word_count": 757
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ferrari Las Vegas Mission\n**Sources:**\n- RacingNews365: https://racingnews365.com/ferrari-doomed-by-painful-compromise-in-sao-paulo-gp-debacle\n- The Race (Brazil result): https://www.the-race.com/formula-1/f1-2026-brazilian-grand-prix-race-result/\n- PlanetF1 (Ferrari investigation): https://www.planetf1.com/news/ferrari-launches-investigation-after-lewis-hamilton-spanish-gp-dnf\n**Verified Facts:**\n- Leclerc 5-second penalty at Brazil (7th→8th) — The Race HIGH\n- Ferrari investigation launched post-Brazil — multiple outlets (MEDIUM — specific investigation scope varies)\n- Hamilton \"devastated\" by pace — from first search summary (MEDIUM — single AI summary attribution, need care)\n- Leclerc 251 pts, Hamilton 261 pts — SI standings HIGH",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "RacingNews365",
+          "url": "https://racingnews365.com/ferrari-doomed-by-painful-compromise-in-sao-paulo-gp-debacle",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "The Race (Brazil result)",
+          "url": "https://www.the-race.com/formula-1/f1-2026-brazilian-grand-prix-race-result/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "PlanetF1 (Ferrari investigation)",
+          "url": "https://www.planetf1.com/news/ferrari-launches-investigation-after-lewis-hamilton-spanish-gp-dnf",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Antonelli's Final Chapter — Youngest Champion Faces Three-Race Legacy Run (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Kimi Antonelli: youngest F1 world champion in history.\n\nThree races left in 2026 — Las Vegas, Qatar, Abu Dhabi.\n\nThe title is won. The legacy is just beginning. 🏆\n\n#F1 #Antonelli #LasVegasGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Antonelli",
+            "#LasVegasGP"
+          ],
+          "char_count": 190
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-antonelli-youngest-champion-final-three-races.html",
+        "headline": "Champion With Nothing to Lose: Antonelli Eyes History in Vegas and Beyond",
+        "word_count": 798
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Final Chapter\n**Sources:**\n- SI standings: https://www.si.com/onsi/f1/news/f1-standings-and-results-after-the-2026-brazilian-grand-prix\n- Sky Sports (standings updated Nov 13): https://www.skysports.com/f1/standings\n- Sky Sports (Brazil recap): https://www.skysports.com/f1/news/13609694/sao-paulo-gp-lando-norris-wins-wet-race-for-mclaren-as-mercedes-seal-2026-f1-constructors-championship-in-brazil\n**Verified Facts (HIGH confidence):**\n- Antonelli 390 pts, champion (3 races remain) — SI, Sky Sports, multiple outlets\n- Youngest F1 champion in history — from pipeline-status prior runs (story noted as \"youngest champion\")\n- Mercedes 9th constructors' title sealed — Sky Sports (Brazil recap) HIGH\n- Races remaining: Las Vegas, Qatar, Abu Dhabi — calendar sources HIGH",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "SI standings",
+          "url": "https://www.si.com/onsi/f1/news/f1-standings-and-results-after-the-2026-brazilian-grand-prix",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Sky Sports (standings updated Nov 13)",
+          "url": "https://www.skysports.com/f1/standings",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Sky Sports (Brazil recap)",
+          "url": "https://www.skysports.com/f1/news/13609694/sao-paulo-gp-lando-norris-wins-wet-race-for-mclaren-as-mercedes-seal-2026-f1-constructors-championship-in-brazil",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

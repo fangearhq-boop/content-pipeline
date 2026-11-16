@@ -750,3 +750,42 @@
 - **Key facts:** 3 races remaining; P2 battle main drama; Las Vegas Nov 19-21
 - **Byline:** Marcus Cole
 - **Status:** NEW
+
+---
+
+## 2026-11-16
+
+### STORY 1: Haas Drops Ocon, Confirms Camara for Las Vegas — Hirakawa in FP1
+- **Tier:** 1
+- **Category:** Haas F1 / Rafael Camara / Esteban Ocon / Ryo Hirakawa / Las Vegas GP
+- **Key facts:** Ocon removed after Mexico City GP; Camara (Ferrari academy, F2 leader) gets race seat; Hirakawa (WEC champion, P10 at Mexico debut) in FP1 for Bearman's car; Haas 4 drivers used (FIA quota concern)
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: Las Vegas Race Week Begins — Strip Circuit Takes Shape
+- **Tier:** 1
+- **Category:** Las Vegas Grand Prix / F1 Race Week 2026
+- **Key facts:** Race week starts Nov 16; closures Spring Mountain to Harmon; race Sat Nov 21 8 PM local; weather upper 60s→upper 50s; RTC transit special routing Nov 16-25
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Verstappen Vegas Record — Defending Strip Winner Eyes P2 Title
+- **Tier:** 2
+- **Category:** Max Verstappen / Red Bull / Las Vegas GP / P2 Championship
+- **Key facts:** Verstappen won 2025 LV GP; P2 standings: Verstappen 279, Russell 262, Hamilton 261; +17 over Russell, +18 over Hamilton; 75 pts remaining
+- **Byline:** Elena Voss
+- **Status:** NEW
+
+### STORY 4: Ferrari Las Vegas Mission — Redemption After Brazil Nightmare
+- **Tier:** 2
+- **Category:** Ferrari / Charles Leclerc / Lewis Hamilton / Las Vegas GP
+- **Key facts:** Leclerc demoted at Brazil (5-sec penalty, 7th→8th); Hamilton "devastated" by pace; SF-26 investigation ongoing; Leclerc 251 pts, Hamilton 261 pts
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: Antonelli's Final Chapter — Youngest Champion Faces Three-Race Legacy Run
+- **Tier:** 2
+- **Category:** Kimi Antonelli / Mercedes / 2026 F1 Season / Las Vegas GP
+- **Key facts:** Antonelli 390 pts, youngest champion in history; 3 races remain (Las Vegas, Qatar, Abu Dhabi); Mercedes 9th constructors' title sealed
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP

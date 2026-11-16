@@ -1,8 +1,31 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-11-14
+## Last Run: 2026-11-16
 
 **Status:** COMPLETE (with known proxy limitations)
+
+---
+
+### 2026-11-16 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 28 claims, HIGH: 54; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 0 FB posts (known parsing), 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (22 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via git remote with PAT
+
+**Stories covered:**
+1. T1 NEW: Haas drops Ocon, confirms Camara for Las Vegas; Hirakawa in FP1 (Ryan Calloway)
+2. T1 NEW: Las Vegas race week begins — Strip circuit, closures, weather (Marcus Cole)
+3. T2 NEW: Verstappen defending Vegas winner, P2 championship +17 over Russell (Elena Voss)
+4. T2 NEW: Ferrari Las Vegas mission — redemption after Brazil nightmare (Ryan Calloway)
+5. T2 FOLLOW UP: Antonelli youngest champion — final 3 races (Elena Voss)
+
+---
 **Niche:** F1 Fanrecap
 
 ---
