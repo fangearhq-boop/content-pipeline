@@ -5,6 +5,53 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-11-16 (OFF DAY — Offseason. 40-man deadline TOMORROW Nov 17 at 6 PM ET; Suzuki QO deadline TOMORROW Nov 17 at 4 PM ET. Cubs' top rotation target: Kaima Taira (1.36 ERA/146 IP, Boras, met at GM Meetings). Ian Happ departing without QO. CBA expires Dec 1 (15 days). Insights: evening_18_24 WINNER (delta=0.872) + hashtag_count=3 LOSER (delta=0.828, OVERRIDE — 1 hashtag used) + hashtag_count=1 WINNER (delta=0.712) + not_brief WINNER (delta=0.657) + statement opening WINNER (delta=0.645) + allcaps_lead LOSER (delta=0.645) + len_200-260 LOSER (delta=0.633) + morning_06_12 LOSER (delta=0.582) + has_stat WINNER (delta=0.423) + len_260+ WINNER (delta=0.303).)
+
+### STORY 1: Ian Happ Farewell — 7 Seasons, No QO
+- **Angle:** NEW STORY. Cubs declined to extend qualifying offer to Ian Happ. 7 seasons as a Cub, 24 HRs in 2026, 20+ HRs in 5 of last 6 seasons. Mariners, Reds, Pirates interested. Projections: $45M–$100M 4yr deal.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT informative/passionate)
+- **Follow-Up Opportunities:**
+  - Happ signs with specific team → Tier 2 farewell / destination reaction
+  - Happ returns to Cubs on below-market deal → Tier 2 surprise reunion
+
+### STORY 2: 40-Man Roster Deadline Tomorrow — 6 Slots, 6 Decisions
+- **Angle:** FOLLOW UP (Nov 15 deadline correction to Nov 17). Day-before alert. Cubs at 34/40 spots. Wiggins, Kipp, Noland, McCullough all Rule 5 eligible. Rule 5 Draft December 10.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT roster/informative)
+- **Follow-Up Opportunities:**
+  - Cubs add specific prospects to 40-man (Nov 17) → Tier 2 roster move post naming who was added
+  - Cubs DFA player to clear space → Tier 2 transaction reaction
+
+### STORY 3: Suzuki QO Deadline Tomorrow — The Era Ends Officially
+- **Angle:** FOLLOW UP (ongoing Suzuki coverage). QO deadline Nov 17 at 4 PM ET. Agent already said declining. 26 HRs, .841 OPS in 2026. Blue Jays and Mariners frontrunners. Cubs get comp pick.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT hot stove/follow-up)
+- **Follow-Up Opportunities:**
+  - Suzuki officially declines QO (Nov 17) → story closes, pivot to destination
+  - Suzuki signs with Blue Jays → Tier 2 farewell/comp pick post
+  - Suzuki signs with Mariners → Tier 2 destination reaction
+
+### STORY 4: Kaima Taira — Cubs' Top Rotation Target
+- **Angle:** NEW STORY. Japanese RHP Kaima Taira is the Cubs' top rotation target per multiple reports. 1.36 ERA over 146 IP in NPB 2026. Boras client. Cubs met with Boras at GM Meetings. ESPN projects 5yr/$72.5M. White Sox, Padres, Blue Jays competing. Deadline: ~December 5.
+- **Tier:** 2 (escalates to Tier 1 if signing announced)
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT evening WINNER slot / hot stove analysis)
+- **Follow-Up Opportunities:**
+  - Taira signs with Cubs → Tier 1 rotation celebration; major lead story
+  - Taira signs elsewhere → Tier 2 Cubs pivot angle
+  - CBA lockout pauses negotiations → Tier 2 update
+
+### STORY 5: CBA Countdown — 15 Days Until the Freeze
+- **Angle:** FOLLOW UP (Nov 15 CBA story). 15 days to Dec 1 expiration. Lockout expected Dec 2. All transactions freeze. Cubs have zero confirmed starters for 2027. Urgency framing.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:00 PM CT bold take/urgency)
+- **Follow-Up Opportunities:**
+  - CBA agreement reached → story closes
+  - Lockout announced → Tier 1 breaking news; Cubs transactions frozen story
+  - Cubs sign starter before Dec 1 → Tier 1 "beating the clock" angle
+
+---
+
 ## 2026-11-15 (OFF DAY — Offseason. 40-man roster deadline Nov 17 at 6 PM ET (correction from Nov 14 which said Nov 20). Cubs at 34/40 spots, 2 days to protect prospects. CBA expires Dec 1 (potential lockout). Suzuki market: Blue Jays frontrunners per The Athletic (Mitch Bannon). Cardinals named Rob Cerfolio GM (modest budget). Brewers lose NLCS MVP Bauers to Red Sox 4yr deal; Contreras locked at $15.5M. Insights: evening_18_24 WINNER (delta=0.894, large) + hashtag_count=3 LOSER (delta=0.825, OVERRIDE — 1 hashtag used) + content_type=brief LOSER (delta=0.767) + opening=statement WINNER (delta=0.732) + opening=allcaps_lead LOSER (delta=0.732) + hashtag_count=1 WINNER (delta=0.725) + len_bucket=200-260 LOSER (delta=0.724) + posting_window=morning_06_12 LOSER (delta=0.503) + has_stat WINNER (delta=0.339).)
 
 ### STORY 1: 40-Man Deadline Crunch — Tuesday November 17 (Correction)
