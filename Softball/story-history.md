@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## Pipeline Run: 2026-11-16
+
+### Story 1: Signing Day's Final Verdict — Who Won the 2027 Class?
+- **Date:** 2026-11-16
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Signing Day and class rankings covered Nov 11–15)
+- **Angle:** Synthesis five days after Signing Day. D1Softball ranks Oklahoma No. 1; Softball America ranks LSU No. 1 (first in program history). Texas Tech holds No. 1 transfer class nationally. Florida No. 2 SA class (second straight year). Tennessee top-6 nationally. What each class means for January preseason polls and WCWS odds.
+- **Content Produced:** Article (article-01, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - January preseason polls (NFCA/USA Today, D1Softball, ESPN)
+  - Spring schedule releases from each program
+  - Head-to-head Big 12 matchups (OU vs TTU vs Arizona)
+
+### Story 2: 5-for-5 After Federal Reversal — 200+ State Cases Are the Last Hope
+- **Date:** 2026-11-16
+- **Tier:** 1
+- **Classification:** FOLLOW UP (5-for-5 covered continuously Oct 29–Nov 15; Tenth Circuit reversal Nov 6 is the new development)
+- **Angle:** Tenth Circuit reversed preliminary injunction in Wisne v. NCAA on Nov 6. NCAA rule now enforced for Class of 2022 athletes. Three paths for affected athletes: state court, December portal, or accept year is lost. House 25-player cap makes roster-holding a liability.
+- **Content Produced:** Article (article-02, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - State court rulings (ongoing, 200+ cases)
+  - December portal entries by 5-for-5 athletes
+  - Any Tenth Circuit en banc petition or SCOTUS appeal
+
+### Story 3: December Transfer Portal — 15 Days Away, Most Consequential Window Ever
+- **Date:** 2026-11-16
+- **Tier:** 2
+- **Classification:** FOLLOW UP (December portal previewed Nov 15 as 16 days; now 15)
+- **Angle:** Pitching-need focus. Arizona (lost Torres/D1Softball POY), FSU (lost Torres + Beachum), Ole Miss most desperate for pitching. 5-for-5 reversal adds unexpected names to December pool.
+- **Content Produced:** Article (article-03, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Portal opening day Dec 1 — specific player entries
+  - Arizona, FSU, Ole Miss acquisitions
+  - 5-for-5 athlete portal decisions
+
+### Story 4: Tennessee's 2027 Rotation Is the SEC's Deepest
+- **Date:** 2026-11-16
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Mardjetko (16-3, 1.26 ERA Sr), Nuwer (4 shutouts Jr), Shelton (3IP 7K frosh) — deepest pitching staff in the SEC and arguably the country. Weekly contract extended through 2030. Offense remains the question mark.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Tennessee 2027 schedule release
+  - January preseason poll ranking
+  - Mardjetko preseason All-American watch
+
+### Story 5: The Big 12 Is About to Become the Toughest Softball Conference in America
+- **Date:** 2026-11-16
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** OU (No. 1 D1Softball class), Texas Tech (No. 1 transfer class + Pickering, Big 12 opens March 12), Arizona (Lowe era + Shockey Big 12 DPOY), Texas — four programs capable of WCWS appearances from one conference for first time.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - January preseason polls with multiple Big 12 teams in top 10
+  - First Big 12 head-to-head matchups (March 12+)
+  - Conference tournament outcomes
+
+---
+
 ## Pipeline Run: 2026-11-14
 
 ### Story 1: Oklahoma Claims No. 1 in D1Softball 2027 Rankings — Dueling Rankings Stir Debate

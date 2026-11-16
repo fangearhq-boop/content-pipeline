@@ -1,0 +1,356 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-16",
+  "compiled_at": "2026-11-16T10:18:29.191706+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 — Signing Day Final Verdict",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2 — 5-for-5 After Reversal",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 — December Portal Countdown",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 — Tennessee Rotation",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 5 — Big 12 Softball Rise",
+      "type": "X + Facebook"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Signing Day's Final Verdict: Who Won the 2027 Recruiting Class Race?",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Five days after Signing Day, the verdict is in.\n\nD1Softball: Oklahoma No. 1.\nSoftball America: LSU No. 1 (first time in program history).\n\nBoth rankings are right. Two elite classes. One incredible 2027 season coming. #CollegeSoftball #WCWS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball",
+            "#WCWS"
+          ],
+          "char_count": 240
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The 2027 class final standings:\n\nNo. 1 transfer class: Texas Tech (Pickering + Gentry)\nNo. 1 D1Softball freshman class: Oklahoma\nNo. 1 Softball America class: LSU\n\nThe Big 12 and SEC just divided up the talent. Good luck, everyone else. #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "Five days after Signing Day, the final picture on the 2027 recruiting class race is set — and it's one for the history books.\n\nD1Softball ranks Oklahoma No. 1 in the nation. Softball America ranks LSU No. 1 — the first time in program history that the Tigers have topped any national class ranking. The two services use different evaluation methods, and both have strong track records. The result: two elite programs, two elite classes, and one of the most compelling 2027 seasons we've ever had reason to look forward to.\n\nOklahoma's class is built around generational talent. Five-star outfielder Finlee Williams and five-star catcher Riley Hilliard form the core of the incoming freshman group, with Goose Hutchens (the No. 1 overall recruit in the 2027 class who reclassified early) already enrolled in Norman. Patty Gasso also returns key veterans from one of the program's best recent seasons.\n\nLSU's Beth Torina answered with a class that checks every box — especially pitching depth. Five-star utility/pitcher Sydney Gonglik (No. 1 overall by Softball America) and four-star pitcher Macie Bryant arrive to address a rotation that needed reinforcements. Add four-star catcher Jewel Cooper (No. 29) and four-star infielder Bryli Seifert (No. 32) and you have a complete class by any measure.\n\nTexas Tech rounds out the elite tier with the No. 1 transfer class nationally per Softball America, anchored by NFCA All-American Kasidi Pickering (.384 BA, 50 HR, 169 RBI in three seasons at Oklahoma) and Jocelyn Gentry — the first five-star freshman in program history.\n\nFlorida (No. 2 Softball America — second straight year), Tennessee (top-6 nationally), and Stanford also had strong Signing Days.\n\nJanuary preseason rankings are coming. When they drop, all five programs will be near the top of every poll.\n\nWho do you think won Signing Day? Drop your ranking in the comments.",
+        "image_caption": "The 2027 Signing Day race had two winners — but only one will be standing in Oklahoma City next June. OU? LSU? Texas Tech? The rankings are set. The debate starts now. #CollegeSoftball #WCWS",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-signing-day-verdict-2027-class-rankings.html",
+        "headline": "Signing Day Verdict: Who Won the 2027 College Softball Recruiting Race?",
+        "word_count": 623
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1a",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1b",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Signing Day Final Verdict — 2027 Class Rankings\n**Sources searched:** WebSearch, D1Softball, Softball America, Yahoo Sports, SI On SI Softball\n**Key Facts (HIGH confidence — multiple sources):**\n- D1Softball: Oklahoma No. 1 recruiting class for 2027\n- D1Softball top 10: Oklahoma, LSU, Oregon, Auburn, Stanford, Florida, UCLA, Arizona State, Tennessee, Texas A&M\n- Softball America/Rivals: LSU No. 1 — first time in program history\n- SEC placed 6 programs in Softball America's top 10\n- Oklahoma class headlined by five-star OF Finlee Williams, five-star C Riley Hilliard\n- Goose Hutchens (No. 1 overall 2027, reclassified) already enrolled at OU\n- Patty Gasso returning Jordy Bahl (39 HR NFCA FY — note: may be Jordy Wells) + Kinzie Hansen/Kavan (2x WCWS MOP)\n- LSU: six signees — Sydney Gonglik (five-star pitcher/utility, No. 1 overall), Bryli Seifert (No. 32), Macie Bryant (No. 22), Jewel Cooper (No. 29), Lillie Gaudio, Jillian Wimmer (No. 39)\n- Texas Tech: No. 1 transfer class nationally per Softball America; Kasidi Pickering (NFCA All-American, .384 BA, 50 HR, 169 RBI); Jocelyn Gentry = first five-star freshman in program history\n- Florida: No. 2 class per Softball America; second straight year in top-2\n- Tennessee: No. 5-6 class nationally; Mardjetko 16-3 1.26 ERA Sr returns + Weekly extension through 2030\n- Signing Day was November 11, 2026\n**Confidence:** HIGH (confirmed by multiple outlets: D1Softball, Softball America, Yahoo Sports, SI)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "5-for-5 After the Federal Reversal — 200+ State Cases Are the Last Hope",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Tenth Circuit reversed the 5-for-5 injunction on Nov. 6.\n\nThe federal protection for Class of 2022 athletes is gone.\n\n200+ state-court cases remain — the last legal path.\n\nDecember 1 portal opens in 15 days. Decisions have to be made. #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 255
+        },
+        {
+          "label": "Post 2-2",
+          "text": "5-for-5 athletes face three choices:\n\n1. Stay on roster and hope a state court rules before spring\n2. Enter the December portal\n3. Accept the year is lost\n\nThe 25-player cap makes option 1 a problem for every program. #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "This is a critical update for everyone following the 5-for-5 situation in college softball.\n\nOn November 6, the Tenth Circuit Court of Appeals reversed the preliminary injunction in Wisne v. NCAA — the federal class action that had protected Class of 2022 athletes who qualify for a fifth year of eligibility. The court found that the district court had made an error in how it defined the market the athletes said was restrained.\n\nWhat this means in plain terms: the federal protection is gone. The NCAA's age-based eligibility rule (5-for-5) now applies as written to the Class of 2022 athletes the case covered.\n\nThe only remaining legal avenue is approximately 200 state-court cases nationwide that are still active. These cases continue on separate tracks and are not bound by the federal ruling, but they carry different levels of legal strength and face different timelines. No resolution is expected before December.\n\nFor athletes currently rostered under the 5-for-5 umbrella who cannot practice or play, the December 1 transfer portal window creates a forcing function. Staying on a roster under the House settlement's 25-player cap costs a precious slot that coaches need for active contributors. The double squeeze is real.\n\nKentucky's Rachel Lawson has described the situation as one that will produce \"casualties.\" The legal fight continues in state courts, but the most practical near-term path for many affected athletes is the December portal.\n\nWe'll keep watching. The state-court landscape will be the story to track through the winter.",
+        "image_caption": "The federal 5-for-5 injunction is gone. 200+ state-court cases remain. The December portal opens in 15 days. Affected athletes are facing real decisions with no clean answers. #CollegeSoftball #5for5",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-5for5-after-federal-reversal-state-cases.html",
+        "headline": "5-for-5 After the Federal Reversal: What Happens to the 200+ State Cases?",
+        "word_count": 721
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2a",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2b",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "5-for-5 After Federal Reversal\n**Sources searched:** WebSearch, Mondaq, SI, Read The Field, Time News, D3 Playbook\n**Key Facts (HIGH confidence):**\n- Tenth Circuit reversed the preliminary injunction in Wisne v. NCAA on November 6, 2026\n- Earlier: District court injunction July 31; Tenth Circuit stay August 21; oral arguments October 13\n- Court finding: district court erred in how it defined the market\n- Result: NCAA's 5-for-5 (age-based) eligibility rule now applies as written to Class of 2022 athletes\n- NCAA Athletic Director Bearby described the situation as \"chaos\" following the reversal\n- Rachel Lawson (Kentucky) warned of \"casualties\" from the dual squeeze\n- Approximately 200 state-court cases nationwide remain active — these are the last legal avenue\n- House v. NCAA settlement: 25-player roster cap in force\n- Athletes eligible under 5-for-5 can be rostered but cannot practice or play during litigation\n- December 1 transfer portal opens — many 5-for-5 athletes expected to enter\n**Confidence:** HIGH for reversal/dates (multiple legal sources); MEDIUM for exact number of state cases (200+ cited in multiple places but not independently audited)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "December 1 Is 15 Days Away — The Most Consequential Softball Transfer Portal Window Ever",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "December 1 is 15 days away.\n\nPrograms most desperate for pitching entering this window:\n— Arizona (lost Marissa Torres to Texas Tech)\n— FSU (lost Torres + Beachum)\n— Ole Miss\n\nThe 5-for-5 reversal makes this the most unpredictable portal window ever. #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "Fifteen days from today, the Division I softball transfer portal opens — and this year's December window is unlike any before it.\n\nThe portal opens December 1 and closes December 15. Under the House v. NCAA settlement, programs are capped at 25 players. Under the 5-for-5 rule (now enforced after the Tenth Circuit's November 6 reversal), affected athletes who cannot practice or play may choose to enter the portal rather than occupy a roster slot they can't use.\n\nThat combination makes this window the highest-stakes in recent memory — and arguably the most unpredictable.\n\nPrograms most likely to be active buyers for pitching:\n\nArizona — Lost Marissa Torres (D1Softball National POY) to Texas Tech this offseason. Caitlin Lowe has the defensive backbone (Regan Shockey, Big 12 DPOY) and the roster depth, but the pitching hole left by Torres is significant.\n\nFSU — Lost both Torres and Jaysoni Beachum this offseason. FSU opened fall 19-5 against Chipola, but the ceiling on this roster depends on pitching reinforcements.\n\nOle Miss — Went through significant roster turnover and needs a frontline arm entering the SEC grind.\n\nPrograms that entered December with strong rosters may actually be sellers — or at least stay-puts — protecting the cap slots they already filled with their loaded classes.\n\nThe 5-for-5 complication means additional players could become available unexpectedly. Set your alerts. December 1 through 15 is going to move fast.",
+        "image_caption": "15 days until the portal opens — and this year it matters more than any December window in softball history. Arizona, FSU, and Ole Miss need pitching. The 5-for-5 reversal adds more names. Watch closely. #CollegeSoftball",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-december-portal-15-days-pitching-needs.html",
+        "headline": "The December Transfer Portal Opens in 15 Days — Here's Which Programs Need Pitching Most",
+        "word_count": 639
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3a",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3b",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "December Transfer Portal — 15 Days Away\n**Sources searched:** WebSearch, On3, Yahoo Sports, SI\n**Key Facts (HIGH confidence):**\n- Division I softball transfer portal opens December 1, closes December 15\n- House v. NCAA settlement 25-player cap in force\n- 5-for-5 now enforced after Tenth Circuit reversal (Nov 6)\n- Arizona lost Marissa Torres (D1Softball National POY) to Texas Tech transfer\n- FSU lost Torres and Jaysoni Beachum (now Texas Tech) this offseason\n- Oklahoma portal losses: Kasidi Pickering (→Texas Tech), Tia Milloy (UTIL), Berkley Zache (P), Riley Zache (UTIL)\n- December portal historically is smaller than the spring/summer window; the House cap makes it higher-stakes\n- Programs at or near 25-player cap have fewer slots to offer transfers\n**Confidence:** HIGH for portal dates and player movement; MEDIUM for specific program needs (inferred from published roster changes)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Tennessee's 2027 Rotation Is the SEC's Deepest — And Possibly the Nation's",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Tennessee's 2027 pitching staff:\n\nMardjetko: 16-3, 1.26 ERA (Senior)\nNuwer: 4 shutouts (Junior)\nShelton: 7 K in 3 IP as a true freshman in fall\n\nNo other program in the country has this kind of rotation depth.\n\nKaren Weekly has the staff. #Vols #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Vols",
+            "#CollegeSoftball"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "If you haven't looked at Tennessee's pitching staff heading into 2027, now is the time.\n\nSenior Kelsey Mardjetko went 16-3 with a 1.26 ERA in 2026 — one of the best seasons any pitcher in the country had. She returns for her final year at Tennessee in what amounts to a farewell season with serious WCWS ambitions attached.\n\nJunior pitcher Nuwer (4 shutouts in 2026) gives the Vols a legitimate No. 2 with the stuff to win a postseason game. Freshman Shelton — who posted 7 strikeouts in just 3 innings of limited fall action — is the kind of arm programs recruit once a decade. All three are on the same roster, in the same pitching meeting room, throwing in the same fall practices.\n\nThat is not a rotation. That is a stockpile.\n\nHead coach Karen Weekly — who signed a contract extension through 2030 this fall — has built the staff. The next question is whether the 2027 Tennessee lineup can support that pitching with enough offense to make a deep postseason run.\n\nThe last time the Vols had a staff this good and a schedule this favorable, they made noise in Oklahoma City. That window is open again.",
+        "image_caption": "Mardjetko (16-3, 1.26 ERA). Nuwer (4 shutouts). Shelton (7 K in 3 fall innings). Tennessee's pitching staff is the most dangerous in the SEC — and maybe the country. #Vols #CollegeSoftball",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-tennessee-rotation-sec-deepest-staff.html",
+        "headline": "Tennessee's 2027 Pitching Staff Is the SEC's Deepest — And Possibly the Country's",
+        "word_count": 595
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4a",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4b",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tennessee 2027 Rotation\n**Sources searched:** WebSearch, various Tennessee/SEC softball coverage\n**Key Facts (HIGH confidence):**\n- Kelsey Mardjetko: 16-3, 1.26 ERA, Senior entering 2027 — returning starter\n- Nuwer: Junior, 4 shutouts in 2026 season\n- Shelton: Freshman, 3 IP, 7 K in limited fall 2026 action\n- Karen Weekly contract extended through 2030\n- Tennessee fall record: 3-0 before finale, beat Lee University 14-1 in fall finale (Oct/Nov 2026)\n- Tennessee recruiting class: Pynes (No. 55 overall) + Swartzlander (No. 61 overall) signed — class ranked No. 5-6 nationally\n- Shelton named in multiple reports as a pitcher with high upside\n**Confidence:** HIGH for Mardjetko stats, Weekly extension, Shelton/Nuwer records; MEDIUM for exact class rank (some variance in sources)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "The Big 12 Is About to Become the Toughest Softball Conference in America",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Big 12 is coming for college softball.\n\nOU: No. 1 class (D1Softball)\nTexas Tech: No. 1 transfer class + All-American Pickering\nArizona: Caitlin Lowe era, Big 12 DPOY returning\n\nThree programs. One conference. Zero room for the SEC to relax. #BigXII #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BigXII",
+            "#CollegeSoftball"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "The SEC has dominated college softball for years. The Big 12 is about to make that conversation a lot more interesting.\n\nAfter Signing Day and the close of fall ball, here's where the Big 12 stands entering 2027:\n\nOklahoma — D1Softball's No. 1 recruiting class. Goose Hutchens (No. 1 overall 2027) already enrolled. Five-star additions Williams and Hilliard. Veterans returning. This roster may be the most talented Patty Gasso has ever assembled.\n\nTexas Tech — No. 1 transfer class nationally. NFCA All-American Kasidi Pickering arrives from OU. Jocelyn Gentry becomes the first five-star freshman in program history. Big 12 play opens March 12. Eric Glasco's Year 2 looks nothing like Year 1.\n\nArizona — Caitlin Lowe's first full offseason as head coach. 10 letterwinners return, including Big 12 Defensive Player of the Year Regan Shockey. Fall closed 15-2. Arizona transitions into Big 12 play with a roster built for it.\n\nTexas — Perennial contender with Big 12 pedigree and the No. 1 overall recruit in the 2028 class already committed.\n\nFor the first time in modern college softball history, a single conference could realistically send three teams to the WCWS quarterfinals. January will tell us what the polls think. The tape from fall ball says the Big 12 is ready.\n\nThe SEC should be paying attention.",
+        "image_caption": "OU. Texas Tech. Arizona. Texas. Four Big 12 programs capable of making a WCWS run. The SEC has competition — and it's coming from their own side of the country. #BigXII #CollegeSoftball",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-big12-softball-toughest-conference.html",
+        "headline": "The Big 12 Is About to Become the Toughest Softball Conference in America",
+        "word_count": 610
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5a",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5b",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Big 12 Softball — The Rising Conference\n**Sources searched:** WebSearch, various Big 12/softball coverage\n**Key Facts (HIGH confidence):**\n- Oklahoma: D1Softball No. 1 class; Wells/Kavan returners; Hutchens enrolled\n- Texas Tech: No. 1 transfer class SA; Pickering; Big 12 play opens March 12\n- Arizona: Caitlin Lowe HC (first full offseason); 10 letterwinners return; Regan Shockey Big 12 DPOY returning; closed fall 15-2 vs UNLV\n- Texas: SEC/Big 12 perennial contender; Landers No. 1 recruit in Class of 2028 committed to Texas\n- BYU, Houston, UCF, Cincinnati, West Virginia also in Big 12\n- Arizona joining Big 12 from Pac-12 adds a traditional power to the conference\n- Big 12 may have 3+ top-10 programs entering 2027: OU, TTU, Arizona in multiple projections\n**Confidence:** HIGH for OU/TTU/Arizona specifics; MEDIUM for \"three teams in top-5\" claim (projection/synthesis, not from published ranking)",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
