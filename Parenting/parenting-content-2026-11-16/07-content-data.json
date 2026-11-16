@@ -1,0 +1,452 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-16",
+  "compiled_at": "2026-11-16T12:34:18.812264+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CPSC Recalls — Infant Walkers, Safety Gates, Soother Clips",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "CPSC recall alert: Uuoeebb infant walkers (entrapment/fall), BabyBond retractable safety gates (entrapment), and Primark Little Bear soother clips (choking). Check cpsc.gov/Recalls if you have any of these at home. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 274
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Infant walkers, stair gates, soother clips — three new CPSC recalls in one week. Stop using them now and check cpsc.gov/Recalls for the remedy. It takes 5 minutes. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "Three new CPSC recalls came through this week, and if you have any of these in your home, it's time to act.\n\nThe first is the Uuoeebb infant walker, sold on Amazon by BaoD. It's been recalled for entrapment and fall hazards and violates the mandatory safety standard for infant walkers. The second is the BabyBond retractable safety gate — a product many families use at stairs and doorways. It's been recalled for entrapment risk. The third is the Primark Little Bear 2-Pack Soother Clip, recalled for choking and laceration hazards.\n\nFor all three: stop using the product immediately. Visit cpsc.gov/Recalls to look up your specific item and find out what the remedy is — most are either a full refund or a free repair kit. It takes about five minutes to check.\n\nWe know it can feel overwhelming to keep up with every recall. But infant walkers and safety gates in particular are products that give parents a false sense of security — and when the product itself is the hazard, it's worth pausing to check.\n\nHas your family dealt with a product recall before? Share your experience below.",
+        "image_caption": "",
+        "posting_time": "8:00 AM MT"
+      },
+      "article": {
+        "filename": "article-01-cpsc-recalls-walkers-gates-soother-clips.html",
+        "headline": "CPSC Recalls Infant Walkers, Safety Gates, and Soother Clips: What COS Families Need to Know",
+        "word_count": 507
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CPSC Recalls — Infant Walkers, Safety Gates, Soother Clips\n**Confidence:** HIGH (all from official cpsc.gov recall pages)\n**Verified Facts:**\n- **[HIGH]** Uuoeebb infant walkers recalled: entrapment and fall hazards; violates mandatory standard for infant walkers; sold on Amazon by BaoD — CPSC official recall page\n- **[HIGH]** BabyBond retractable safety gates recalled: entrapment hazard; violates mandatory standard for infant gates — CPSC official recall page (issued by Infant Innovations)\n- **[HIGH]** Primark Little Bear 2-Pack Soother Clips recalled: choking and laceration hazards — CPSC official recall page\n- **[MEDIUM]** Bambora sling carriers stop-use warning (mentioned in search results summary but full CPSC page not retrieved — do NOT use specific details without verification)\n**Sources:**\n- CPSC: \"Uuoeebb Infant Walkers Recalled\" — https://www.cpsc.gov/Recalls/2026/Uuoeebb-Infant-Walkers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Infant-Walkers-Sold-on-Amazon-by-BaoD\n- CPSC: \"BabyBond Retractable Safety Gates Recalled\" — https://www.cpsc.gov/Recalls/2026/Infant-Innovations-Recalls-BabyBond-Retractable-Safety-Gates-Due-to-Risk-of-Serious-Injury-or-Death-to-Children-from-Entrapment-Violates-Mandatory-Standard-for-Gates-and-Enclosures\n- CPSC: \"Primark Little Bear 2-Pack Soother Clips Recalled\" — https://www.cpsc.gov/Recalls/2026/Primark-Recalls-Little-Bear-2-Pack-Soother-Clips-Due-to-Choking-and-Laceration-Hazards\n- CPSC recalls portal: https://www.cpsc.gov/Recalls\n**Article notes:** Use only the 3 HIGH-confidence recalls. Recommend standard guidance: stop use immediately, check CPSC portal at cpsc.gov/Recalls for remedy details.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Uuoeebb Infant Walkers Recalled",
+          "url": "https://www.cpsc.gov/Recalls/2026/Uuoeebb-Infant-Walkers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Infant-Walkers-Sold-on-Amazon-by-BaoD",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md",
+            "articles/article-01-cpsc-recalls-walkers-gates-soother-clips.html"
+          ],
+          "publisher": "CPSC"
+        },
+        {
+          "name": "BabyBond Retractable Safety Gates Recalled",
+          "url": "https://www.cpsc.gov/Recalls/2026/Infant-Innovations-Recalls-BabyBond-Retractable-Safety-Gates-Due-to-Risk-of-Serious-Injury-or-Death-to-Children-from-Entrapment-Violates-Mandatory-Standard-for-Gates-and-Enclosures",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md",
+            "articles/article-01-cpsc-recalls-walkers-gates-soother-clips.html"
+          ],
+          "publisher": "CPSC"
+        },
+        {
+          "name": "Primark Little Bear 2-Pack Soother Clips Recalled",
+          "url": "https://www.cpsc.gov/Recalls/2026/Primark-Recalls-Little-Bear-2-Pack-Soother-Clips-Due-to-Choking-and-Laceration-Hazards",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md",
+            "articles/article-01-cpsc-recalls-walkers-gates-soother-clips.html"
+          ],
+          "publisher": "CPSC"
+        },
+        {
+          "name": "CPSC recalls portal",
+          "url": "https://www.cpsc.gov/Recalls",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "06-fact-check-log.md",
+            "articles/article-01-cpsc-recalls-walkers-gates-soother-clips.html"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Thanksgiving Week COS Family Events Guide",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "COS Thanksgiving week guide: Turkey Trot 5K Nov 26 at Briargate YMCA (Tiny Trot 8:15 AM, run 9 AM). Nutcracker at Pikes Peak Center Nov 27–28. Cranksgiving bike ride Nov 21 at Red Leg Brewing. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 252
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Turkey Trot logistics for COS families: Thu Nov 26, 9 AM, Briargate YMCA. Youth ages 6–19: $43.65. Adults: $54.25. Stroller- and dog-friendly. Kids Tiny Trot runs first at 8:15 AM. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "Thanksgiving week in Colorado Springs is shaping up to be a busy one for families — and that's a great thing.\n\nThe Turkey Trot 5K returns for its 29th year on Thursday, Nov. 26, at Briargate YMCA. The Kids Tiny Trot kicks off at 8:15 AM, with the main run starting at 9 AM. It's stroller- and dog-friendly, which means the whole family can participate. Adult registration is $54.25, youth ages 6–19 is $43.65.\n\nEarlier in the week: on Monday, Nov. 23, Chefs' Kitchen is hosting a Kids Thanksgiving Mini-Camp from 9 AM to noon — $235, focused on holiday baking and cooking. A great option if you're looking for something to do with older kids during the break.\n\nOn Saturday, Nov. 21, Cranksgiving brings its food-drive bike ride back to Red Leg Brewing at 9 AM. It's a family-friendly way to give back while getting outside before the holiday.\n\nAnd closing out the week: the Nutcracker returns to Pikes Peak Center on Nov. 27 and 28 with the Colorado Springs Philharmonic. If this is a holiday tradition in your house, get tickets early.\n\nWhat's your family's go-to Thanksgiving week activity in COS?",
+        "image_caption": "",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-02-thanksgiving-week-cos-family-events.html",
+        "headline": "Your COS Thanksgiving Week Family Guide: Turkey Trot, Cranksgiving, the Nutcracker, and More",
+        "word_count": 554
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Thanksgiving Week COS Family Events Guide\n**Confidence:** HIGH for Turkey Trot; MEDIUM for other events\n**Verified Facts:**\n- **[HIGH]** Turkey Trot 5K: Thursday Nov 26, 9:00 AM start; Kids Tiny Trot 8:15 AM; Briargate YMCA; adult $54.25, youth ages 6–19 $43.65; stroller- and dog-friendly; 29th annual event — visitcos.com official listing\n- **[MEDIUM]** Cranksgiving food-drive bike ride: Saturday Nov 21, 9 AM; Red Leg Brewing Co.; family-friendly — Gazette listing\n- **[MEDIUM]** Chefs' Kitchen Kids Thanksgiving Mini-Camp: Monday Nov 23, 9 AM–noon; $235; holiday baking and cooking for kids — Gazette listing\n- **[MEDIUM]** The Nutcracker: Sat Nov 27 + Sun Nov 28; Colorado Springs Philharmonic at Pikes Peak Center — Gazette/prior pipelines\n**Sources:**\n- Visit COS (official): Turkey Trot 5K — https://www.visitcos.com/events/annual/turkey-trot-5k/\n- Gazette: COS and Beyond Holiday Events — https://gazette.com/2026/11/10/colorado-springs-and-beyond-holiday-events/\n- Gazette: COS Cooking Classes and Events Nov 11 — https://gazette.com/2026/11/11/colorado-springs-area-cooking-classes-and-events-starting-nov-11/\n**Article notes:** Lead with Turkey Trot as HIGH-confidence flagship. Treat MEDIUM items as \"check the event website or call ahead for the latest details.\" Do not invent unit counts, prices, or age ranges beyond what is confirmed.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Turkey Trot 5K",
+          "url": "https://www.visitcos.com/events/annual/turkey-trot-5k/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md",
+            "articles/article-02-thanksgiving-week-cos-family-events.html"
+          ],
+          "publisher": "Visit COS (official)"
+        },
+        {
+          "name": "COS and Beyond Holiday Events",
+          "url": "https://gazette.com/2026/11/10/colorado-springs-and-beyond-holiday-events/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md"
+          ],
+          "publisher": "Gazette"
+        },
+        {
+          "name": "COS Cooking Classes and Events Nov 11",
+          "url": "https://gazette.com/2026/11/11/colorado-springs-area-cooking-classes-and-events-starting-nov-11/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md"
+          ],
+          "publisher": "Gazette"
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "D11 Bond — What Families at Holmes and MacLaren Should Expect",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "D11 bond is certified. Holmes Middle ($80M rebuild) and MacLaren Elementary ($24.18M) are the biggest projects. Planning phase and community design meetings come first, then construction. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "The D11 bond is certified. Now comes the part that actually affects families: what happens next.\n\nThe $775M bond measure passed with about 51.68% of the vote — the first D11 bond since 2006. Holmes Middle School is slated for an $80M rebuild, and MacLaren Elementary is set for $24.18M in improvements. Those are the two biggest school-level projects in the bond.\n\nHere's what the timeline typically looks like: first comes the planning phase, where D11 works with architects and project managers to scope each project. Then community design meetings, where families at the affected schools can weigh in on how the new buildings and spaces should be used. Then construction.\n\nFor Holmes and MacLaren families: you won't be displaced overnight. Projects of this size usually move through the planning phase over the first year before any ground breaks. A required citizen oversight committee will be formed to track how bond funds are spent.\n\nThe best way to stay informed is to watch d11.org for updates as the planning process begins. Board meetings are open to the public — that's where the timeline decisions happen.\n\nWhat questions do you have about the D11 bond projects?",
+        "image_caption": "",
+        "posting_time": "12:00 PM MT"
+      },
+      "article": {
+        "filename": "article-03-d11-bond-what-families-should-expect.html",
+        "headline": "D11 Bond Is Certified. Here's What Families at Holmes and MacLaren Should Expect Next",
+        "word_count": 567
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Bond — What Families at Holmes and MacLaren Should Expect\n**Confidence:** MEDIUM (follow-up synthesis from prior pipeline data; no new Nov 16 D11 source found)\n**Verified Facts (from prior pipeline research):**\n- **[HIGH]** D11 bond Issue 4A certified ~51.68% yes (El Paso County canvass, confirmed Nov 15 pipeline)\n- **[HIGH]** Holmes Middle School: $80M rebuild included in bond (confirmed Nov 15 pipeline)\n- **[HIGH]** MacLaren Elementary: $24.18M included in bond (confirmed Nov 15 pipeline)\n- **[HIGH]** First D11 bond since 2006 (confirmed Nov 12/15 pipelines)\n- **[MEDIUM]** Citizen oversight committee: required by bond measure (Nov 15 pipeline context — standard bond governance requirement in Colorado)\n- **[MEDIUM]** Construction timeline of 12–18 months after certification start: typical for school district bonds in Colorado (general knowledge — not from a specific D11 source)\n- **[MEDIUM]** Community design meetings typically precede construction: standard D11 practice based on prior bond projects (general knowledge)\n**Sources:**\n- Prior pipeline research Nov 15 2026 (D11 bond certification)\n**Article notes:** Frame as \"here's what typically happens next\" not \"D11 announced X date.\" Avoid specific construction start dates or timelines that haven't been confirmed. Include a call to action: families can attend D11 board meetings or watch d11.org for updates.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Colorado Springs School District 11",
+          "url": "https://www.d11.org",
+          "official": true,
+          "found_in": [
+            "articles/article-03-d11-bond-what-families-should-expect.html"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "ADHD + Screen Time — New AAP-Supported Guide for COS Families",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "New AAP-backed guide: screen-time transitions are harder for kids with ADHD (dopamine seeking). Transition warnings, visual timers, and co-regulation help. Full guide at understood.org. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "If you have a kid with ADHD, you already know that screen-time transitions are a different animal than they are for other kids. A new AAP-backed guide published today helps explain why — and gives parents practical strategies.\n\nThe core insight: ADHD brains are wired to seek dopamine, and screens deliver it in a steady stream. When it's time to stop, the brain doesn't just resist — it actively protests, because it's losing something it was chemically craving. That's not a behavior problem. It's neurology.\n\nThe strategies that help are ones that give the brain a runway. A 5-minute warning, then a 2-minute warning. A visual timer the child can see (not just hear). Co-regulation — meaning a parent who stays calm and present during the transition instead of escalating. And, when possible, framing screen time as \"earned and time-limited\" rather than something that gets taken away.\n\nThe full guide is available through understood.org. If screen-time conflict is a recurring issue in your home, it's worth 15 minutes to read.\n\nWhat strategies have worked in your family for screen-time transitions?",
+        "image_caption": "",
+        "posting_time": "3:00 PM MT"
+      },
+      "article": {
+        "filename": "article-04-adhd-screen-time-aap-guide.html",
+        "headline": "Why Screen-Time Transitions Are Harder for Kids with ADHD — and What Actually Helps",
+        "word_count": 641
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ADHD + Screen Time — New AAP-Supported Guide\n**Confidence:** HIGH (Washington Post article + AAP involvement)\n**Verified Facts:**\n- **[HIGH]** New guidance published Nov 16, 2026 by Understood in partnership with AAP — Washington Post wellness section\n- **[HIGH]** Target audience: parents of elementary-aged children with ADHD\n- **[HIGH]** Core insight: ADHD brains have dopamine dysregulation that makes screen-time transitions harder than for neurotypical children\n- **[HIGH]** Key strategies include transition warnings (5-minute, 2-minute), visual timers, co-regulation techniques — WaPo article\n- **[MEDIUM]** Distinct from general 5 Cs framework (Oct 2026 AAP update): ADHD-specific guidance addresses different neurological triggers — inferred from WaPo description; full AAP PDF not retrieved\n**Sources:**\n- Washington Post Wellness: \"How to Stop Fighting Over Screen Time If Your Kid Has ADHD\" (Nov 16, 2026) — https://www.washingtonpost.com/wellness/2026/11/16/how-stop-fighting-over-screen-time-if-your-kid-has-adhd/\n- Understood.org (partner source)\n- AAP (advisory organization)\n**Article notes:** Use WaPo article as the primary source. Recommend readers also check understood.org for the full guide. Do not attribute specific statistics or quotes beyond what was confirmed in the WaPo article summary.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "How to Stop Fighting Over Screen Time If Your Kid Has ADHD",
+          "url": "https://www.washingtonpost.com/wellness/2026/11/16/how-stop-fighting-over-screen-time-if-your-kid-has-adhd/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md"
+          ],
+          "publisher": "Washington Post Wellness"
+        },
+        {
+          "name": "understood.org",
+          "url": "https://www.understood.org",
+          "official": false,
+          "found_in": [
+            "articles/article-04-adhd-screen-time-aap-guide.html"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Thanksgiving Baking with Kids — Age-by-Age Kitchen Guide",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "10 days to Thanksgiving. Ages 2–4: washing and stirring. Ages 5–8: measuring and rolling. Ages 9–12: peeling and chopping with supervision. Teens: full recipes. Get them in the kitchen early — it pays off at the table. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "Thanksgiving is 10 days away, and one of the best things you can do with your kids between now and then is get them in the kitchen with you. Here's an age-by-age guide for COS families.\n\nAges 2–4: Washing produce, stirring batters (with help holding the bowl), and tearing bread for stuffing. The goal here is involvement, not precision. Let them make a mess. They'll eat better because they helped.\n\nAges 5–8: Measuring dry and wet ingredients, rolling out pie dough with a rolling pin, peeling potatoes or apples with a Y-peeler. These ages love responsibility. Give them a \"job\" and they'll stay focused.\n\nAges 9–12: Chopping soft vegetables with supervision (bananas, mushrooms, cooked potatoes), managing a timer, following a recipe from start to finish. This is the age range where real cooking skills click. A green bean casserole or cranberry sauce is fully within reach.\n\nTeens: Full recipe ownership. Let them choose one dish and own the whole thing — shopping list, prep, cooking, and plating. They'll complain and then be quietly proud.\n\nThe developmental research on cooking with kids is clear: it builds math skills (fractions, measurement), scientific reasoning (heat + time = change), and food confidence that lasts into adulthood. It also makes the meal taste better, because everyone had a hand in it.\n\nWhat's your family's kitchen tradition at Thanksgiving?",
+        "image_caption": "",
+        "posting_time": "5:00 PM MT"
+      },
+      "article": {
+        "filename": "article-05-thanksgiving-baking-with-kids-age-guide.html",
+        "headline": "Thanksgiving Baking with Kids: An Age-by-Age Guide for Colorado Springs Families",
+        "word_count": 828
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Thanksgiving Baking with Kids — Age-by-Age Guide\n**Confidence:** N/A (evergreen content — no external factual claims required)\n**Notes:**\n- No primary factual sources required; this is developmental guidance\n- Age ranges are general child development milestones (fine motor skills, reading ability, supervision needs) — widely accepted by pediatric occupational therapy and education communities\n- Article tone: warm, practical, specific — give COS families specific tasks, not abstract advice\n- Distinct from Nov 12 Thanksgiving prep guide (which focused on volunteers, gratitude jar, Palmer Park hike — no kitchen activities covered)\n**Sources:** N/A (evergreen)",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

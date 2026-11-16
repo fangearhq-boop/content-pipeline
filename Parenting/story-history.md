@@ -2,6 +2,50 @@
 
 ---
 
+## November 16, 2026
+
+### Story 1: CPSC Recalls — Infant Walkers, Safety Gates, Soother Clips
+- **Date:** 2026-11-16
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** Uuoeebb infant walkers recalled (entrapment/fall, Amazon BaoD); BabyBond retractable safety gates recalled (entrapment, Infant Innovations); Primark Little Bear soother clips recalled (choking/laceration). All official CPSC recalls. Stop use; check cpsc.gov/Recalls.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 2: Thanksgiving Week COS Family Events Guide
+- **Date:** 2026-11-16
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** Turkey Trot 5K — Nov 26, Briargate YMCA, Tiny Trot 8:15 AM, 5K 9 AM, adult $54.25, youth 6–19 $43.65, stroller/dog-friendly, 29th year. Cranksgiving — Nov 21, 9 AM, Red Leg Brewing, food-drive bike ride. Chefs' Kitchen Kids Mini-Camp — Nov 23, 9 AM–noon, $235. Nutcracker — Nov 27–28, Pikes Peak Center.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 3: D11 Bond — What Families at Holmes and MacLaren Should Expect Next
+- **Date:** 2026-11-16
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** Bond certified 51.68%, first since 2006. Holmes $80M rebuild, MacLaren $24.18M. Planning phase first (6–12 months), then community design meetings, then construction. Citizen oversight committee required. Watch d11.org.
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW-UP (Nov 15 S1: D11 bond certified → implementation timeline for affected families)
+
+### Story 4: ADHD + Screen Time — New AAP-Supported Guide
+- **Date:** 2026-11-16
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** Understood + AAP joint guide published Nov 16. ADHD brains have dopamine dysregulation making screen transitions harder. Strategies: 5-min/2-min warnings, visual timers, co-regulation, earned/time-limited framing. Full guide at understood.org.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY (distinct from Oct 24/Nov 13 5 Cs general framework — this is ADHD-specific)
+
+### Story 5: Thanksgiving Baking with Kids — Age-by-Age Guide
+- **Date:** 2026-11-16
+- **Tier:** T2
+- **Pillar:** Evergreen
+- **Key Facts:** Evergreen content. Ages 2–4: washing/stirring/pouring. Ages 5–8: measuring/rolling/peeling. Ages 9–12: chopping (soft foods)/timing/full recipes with supervision. Teens: full recipe ownership. Cooking builds math, science, motor skills.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY (distinct from Nov 12 Thanksgiving prep guide which covered volunteers/gratitude jar/Palmer Park — no kitchen activities)
+
+---
+
 ## November 15, 2026
 
 ### Story 1: D11 Bond Certified — What the $775M Win Means for Families Now

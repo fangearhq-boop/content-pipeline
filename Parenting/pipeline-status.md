@@ -1,6 +1,36 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-11-15
+## Current Run: 2026-11-16
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | CPSC recalls: Uuoeebb infant walkers (entrapment/fall, Amazon BaoD), BabyBond retractable gates (entrapment, Infant Innovations), Primark soother clips (choking/laceration) — all HIGH from cpsc.gov. Thanksgiving events: Turkey Trot Nov 26 Briargate YMCA ($54.25 adult, $43.65 youth 6-19, Tiny Trot 8:15 AM) HIGH from visitcos.com; Cranksgiving Nov 21 Red Leg Brewing + Chefs' Kitchen Nov 23 $235 + Nutcracker Nov 27-28 MEDIUM from Gazette. ADHD screen time: Understood+AAP guide published Nov 16 HIGH from WaPo. D11 bond implementation: MEDIUM (follow-up synthesis from prior pipeline data). Thanksgiving baking: evergreen, no sources required. |
+| Story History Check | COMPLETE | S1 NEW (CPSC recalls — distinct from Nov 15 SHEIN+Kakgold); S2 NEW (Thanksgiving week events — distinct from Nov 15 events Nov 15-21); S3 FOLLOW-UP (Nov 15 S1: bond certified → implementation timeline); S4 NEW (ADHD screen time — distinct from Oct 24/Nov 13 5 Cs general framework); S5 NEW (Thanksgiving baking — distinct from Nov 12 prep guide) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; cpsc.gov official sources for all 3 recalls; visitcos.com for Turkey Trot; WaPo for ADHD guide; evergreen S5 no sources required |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows (8 AM, 10 AM, 12 PM, 3 PM, 5 PM), 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars; 4 hashtags each; correct #### Text Post format; no failed drafts |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; `**Long-Form Post (time)**` format; engagement questions; contractions; 0 exclamation marks in articles |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only concepts (2 per story); clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0; dimensions 1200x675 (social) + 1200x630 (hero) |
+| Articles (5) | COMPLETE | article-01 CPSC recalls (Sarah Morales T1 ~550w, quick reference table); article-02 Thanksgiving week events (Jamie Rivera T1 ~600w, quick reference table); article-03 D11 bond implementation (Sarah Morales T2 ~600w); article-04 ADHD screen time (Jamie Rivera T2 ~600w); article-05 Thanksgiving baking age guide (Sarah Morales T2 ~700w, quick reference table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 66 claims auto-extracted; all stories present; PASSED; no char limit violations |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 10 images |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × 2 images), all not_started, gemini base_only, dimensions 1200x675 (social) + 1200x630 (hero), brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-11-16.xlsx (7 posts) + cosp-postplanner-tobi-2026-11-16.xlsx (7 TOBI posts); FB=0 in export (pre-existing format mismatch in postplanner script) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 16 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB image captions
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+- **Key stories:** CPSC recalls — Uuoeebb infant walkers, BabyBond gates, Primark soother clips; Thanksgiving week COS guide — Turkey Trot Nov 26 (Briargate YMCA), Cranksgiving Nov 21, kids cooking camp Nov 23, Nutcracker Nov 27-28; D11 bond implementation — Holmes $80M rebuild / MacLaren $24.18M planning timeline; ADHD+screen time new AAP guide (Nov 16); Thanksgiving baking age-by-age
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); PostPlanner FB=0 (pre-existing format mismatch)
+
+---
+
+## Previous Run: 2026-11-15
 
 | Step | Status | Notes |
 |------|--------|-------|
