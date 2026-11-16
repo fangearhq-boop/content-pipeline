@@ -3,6 +3,16 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## November 16, 2026
+
+| 2026-11-16 | Andreeva wins WTA Finals — beat Svitolina 7-5, 6-3; first teenager to win since Sharapova 2004; first on debut since Barty 2019; 5-0 zero sets dropped; ends year WTA No. 2; Svitolina declined post-match handshake (Ukrainian policy since 2022); didn't name Andreeva in runner-up speech. Sources: WTA Tennis official, ESPN, AP, tennis.com | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 15 S1: WTA Finals final preview → result) |
+| 2026-11-16 | ATP Finals Day 2 — Alcaraz vs Tiafoe afternoon (Lendl Group); Medvedev vs Cobolli evening; Alcaraz leads H2H 2-1; Cobolli home crowd Inalpi Arena; Day 1: Zverev d. Jodar 6-4 6-4, Shelton d. Fils 6-2 3-6 6-3; Fils first Frenchman since Monfils 2016. Sources: ATP Tour official, prior pipelines | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Nov 15 S4: ATP Finals Day 2 preview → Day 2 live) |
+| 2026-11-16 | Svitolina runner-up / handshake controversy — 2018 champion returns to final 8 years later; beat Noskova 6-2, 6-1 in semis; lost to Andreeva 7-5, 6-3; declined post-match handshake per Ukrainian Federation policy; thanked Ukraine in speech, didn't mention champion; Andreeva called her season "amazing". Sources: ESPN, AP, BBC | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Nov 15 S3: Svitolina final bid → runner-up reaction) |
+| 2026-11-16 | ATP Finals Day 1 recap — Zverev d. Jodar 6-4, 6-4 (McEnroe Group); Shelton d. Fils 6-2, 3-6, 6-3; Fils first Frenchman at ATP Finals since Monfils 2016; Zverev 2-time champion defending; both McEnroe Group winners advance. Sources: ATP Tour official, prior research | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 15 S2: Day 1 preview → Day 1 recap) |
+| 2026-11-16 | Andreeva's historic 2026 season — WTA Finals champion, 5-0 zero sets; joins Evert + Sharapova as only teenagers to win; first Finals debut winner since Barty 2019; ends year WTA No. 2; coached by Conchita Martinez; 2027 ceiling question. Sources: WTA Tennis official, ESPN | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Nov 15 S5: Andreeva title bid feature → season retrospective) |
+
+---
+
 ## November 15, 2026
 
 | 2026-11-15 | WTA Finals Final preview — Andreeva vs Svitolina final today; Andreeva 4-0 zero sets dropped entering final; Svitolina beat Noskova 6-2, 6-1 in semis; Andreeva beat Pegula 6-3, 6-4 in semis; first teen finalist since 2004; Svitolina 2018 champion, oldest finalist since Venus Williams 2017. Sources: Yahoo Sports, WTA Tennis official (wtatennis.com), ksat.com, malaymail.com | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Nov 14 S2: semis day → final day) |

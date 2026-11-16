@@ -1,0 +1,443 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-16",
+  "compiled_at": "2026-11-16T12:23:19.937085+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Mirra Andreeva Wins WTA Finals — First Teenager Since Sharapova (2004)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Mirra Andreeva is the 2026 WTA Finals champion. The 19-year-old beat Elina Svitolina 7-5, 6-3 to win without dropping a single set — the first teenager to win the WTA Finals since Maria Sharapova in 2004. #WTAFinals #Tennis #WTA #MirraAndreeva",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTAFinals",
+            "#Tennis",
+            "#WTA",
+            "#MirraAndreeva"
+          ],
+          "char_count": 243
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Andreeva also becomes the first player to win the WTA Finals on debut since Ash Barty in 2019 and ends the year at WTA No. 2. Elina Svitolina declined the post-match handshake — her standing policy with Russian players since 2022. #WTAFinals #Tennis #WTA #Andreeva",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTAFinals",
+            "#Tennis",
+            "#WTA",
+            "#Andreeva"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "History was made in Indian Wells on Sunday.\n\nMirra Andreeva, just 19 years old, won the 2026 WTA Finals by defeating Elina Svitolina 7-5, 6-3 in the final — completing the tournament without dropping a single set across five matches. It was a performance that placed her name alongside Chris Evert and Maria Sharapova as the only teenagers to ever win the WTA season-ending championship.\n\nShe is also the first player to win the WTA Finals on debut since Ash Barty did it in 2019, and she ends the year at a career-high WTA No. 2.\n\nSunday's ceremony added an emotional footnote. Svitolina — who has not shaken hands with Russian or Belarusian players since Russia's 2022 invasion of Ukraine — declined the post-match handshake. In her runner-up speech, she thanked the crowd, her team, and Ukraine, without mentioning the champion. Andreeva, for her part, publicly praised Svitolina's \"amazing\" season.\n\nThere is a lot to feel about all of this. What stood out to you most from the WTA Finals final?",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-andreeva-wins-wta-finals.html",
+        "headline": "Andreeva Wins WTA Finals Without Dropping a Set — First Teen Champion Since Sharapova",
+        "word_count": 570
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Mirra Andreeva Wins WTA Finals\n\n**Image 1A (Social — 1080x1350)**\n- **Search Term:** Mirra Andreeva\n- **Usage:** X post 1A, Facebook Image Caption post\n- **Notes:** Select celebration/emotional reaction image. Clean crop.\n\n**Image 1B (Article Hero — 1200x630)**\n- **Search Term:** Mirra Andreeva\n- **Usage:** article-01 hero image\n- **Notes:** Select mid-match or trophy-lift image for article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mirra Andreeva Wins WTA Finals\n**Key Facts:**\n- Andreeva defeated Elina Svitolina 7-5, 6-3 in the WTA Finals final at Indian Wells on Sunday, November 15 — **HIGH** (multiple independent sources: Al Jazeera, France24/AFP, Sofascore, Japan Times)\n- Andreeva is 19 years old (born approximately 2007) — **HIGH** (multiple sources describe her as 19 / a teenager)\n- Andreeva went 5-0 at the 2026 WTA Finals without dropping a single set — **HIGH** (Al Jazeera, Sofascore)\n- She is the first teenager to win the WTA Finals since Maria Sharapova in 2004 — **HIGH** (AFP/France24, Japan Times)\n- She is the third teenager to win the WTA Finals after Chris Evert and Maria Sharapova — **HIGH** (AFP/France24 sourced)\n- She is the first player to win the WTA Finals on debut since Ash Barty in 2019 — **HIGH** (Japan Times, Yahoo Sports)\n- Andreeva ends the year at a career-high WTA No. 2 — **MEDIUM** (single source: Japan Times/Yahoo)\n- Match took 1 hour 48 minutes — **MEDIUM** (Tennistemple)\n- Svitolina also beat Andreeva in an earlier round-robin match? No — Andreeva beat Svitolina 6-4, 6-0 in the round-robin stage — **HIGH** (Tennistemple)\n- Svitolina won a marathon game to break back in the second set before missing an overhead on match point — **HIGH** (AFP/France24)\n- Svitolina declined post-match handshake — **HIGH** (Al Jazeera, Sportskeeda)\n- Svitolina also declined handshake with Sabalenka at this event — **HIGH** (Sportskeeda)\n- Andreeva praised Svitolina's season as \"amazing\" in her speech — **HIGH** (Yahoo Sports)\n- Svitolina nodded without expression during Andreeva's remarks — **HIGH** (Yahoo Sports)\n- Andreeva's quote: \"I had to become more brave and aggressive in important moments\" — **HIGH** (Yahoo Sports paraphrase)\n**Sources:**\n- Al Jazeera: \"Russia's Andreeva defeats Ukraine's Svitolina 7-5, 6-3 to win WTA Finals\" — https://www.aljazeera.com/sports/2026/11/16/russias-andreeva-defeats-ukraines-svitolina-7-5-6-3-to-win-wta-finals\n- France24/AFP: \"Andreeva defeats Svitolina to win WTA Finals\" — https://www.france24.com/en/live-news/20261115-andreeva-defeats-svitolina-to-win-wta-finals\n- Sofascore: \"WTA Finals: Mirra Andreeva defeats Elina Svitolina 7-5, 6-3\" — https://www.sofascore.com/news/wta-finals-mirra-andreeva-defeats-elina-svitolina-7-5-6-3\n- Japan Times: \"Mirra Andreeva beats Elina Svitolina to capture WTA Finals crown\" — https://www.japantimes.co.jp/sports/2026/11/16/tennis/mirra-andreeva-wta-finals/\n- Yahoo Sports (AFP): \"Russian Teenager Mirra Andreeva Wins WTA Finals\" — https://sports.yahoo.com/articles/russian-teenager-mirra-andreeva-wins-221905158.html\n- Sportskeeda: \"Fans rip into Elina Svitolina for not acknowledging Mirra Andreeva in WTA Finals runner-up speech\" — https://www.sportskeeda.com/tennis/news-disrespectful-rude-sickening-fans-rip-elina-svitolina-acknowledging-mirra-andreeva-wta-finals-runner-up-speech",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Russia's Andreeva defeats Ukraine's Svitolina 7-5, 6-3 to win WTA Finals",
+          "url": "https://www.aljazeera.com/sports/2026/11/16/russias-andreeva-defeats-ukraines-svitolina-7-5-6-3-to-win-wta-finals",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Al Jazeera"
+        },
+        {
+          "name": "Andreeva defeats Svitolina to win WTA Finals",
+          "url": "https://www.france24.com/en/live-news/20261115-andreeva-defeats-svitolina-to-win-wta-finals",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "France24/AFP"
+        },
+        {
+          "name": "WTA Finals: Mirra Andreeva defeats Elina Svitolina 7-5, 6-3",
+          "url": "https://www.sofascore.com/news/wta-finals-mirra-andreeva-defeats-elina-svitolina-7-5-6-3",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Sofascore"
+        },
+        {
+          "name": "Mirra Andreeva beats Elina Svitolina to capture WTA Finals crown",
+          "url": "https://www.japantimes.co.jp/sports/2026/11/16/tennis/mirra-andreeva-wta-finals/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Japan Times"
+        },
+        {
+          "name": "Russian Teenager Mirra Andreeva Wins WTA Finals",
+          "url": "https://sports.yahoo.com/articles/russian-teenager-mirra-andreeva-wins-221905158.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Yahoo Sports (AFP)"
+        },
+        {
+          "name": "Fans rip into Elina Svitolina for not acknowledging Mirra Andreeva in WTA Finals runner-up speech",
+          "url": "https://www.sportskeeda.com/tennis/news-disrespectful-rude-sickening-fans-rip-elina-svitolina-acknowledging-mirra-andreeva-wta-finals-runner-up-speech",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Sportskeeda"
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "ATP Finals Day 2 — Alcaraz and Medvedev Begin Group Stage in Turin",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Day 2 at the ATP Finals in Turin is here. Carlos Alcaraz (No. 2) takes on debutant Frances Tiafoe (No. 7) in the afternoon. Daniil Medvedev (No. 4) vs. Flavio Cobolli (No. 5) follows in the evening session. #ATPFinals #Tennis #ATP #Alcaraz",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Alcaraz"
+          ],
+          "char_count": 239
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Quick ATP Finals Day 1 recap — Zverev d. Jodar 6-4, 6-4. Shelton d. Fils 6-2, 3-6, 6-3. Fils is the first Frenchman at the ATP Finals since Gaël Monfils in 2016. The Ivan Lendl Group opens tonight. #ATPFinals #Tennis #ATP #Zverev",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Zverev"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "The 2026 Nitto ATP Finals in Turin shifts to its second group today, and it features two of the biggest names left in the draw.\n\nCarlos Alcaraz (No. 2) opens his campaign in the Ivan Lendl Group this afternoon against Frances Tiafoe (No. 7), making his first ATP Finals appearance. Alcaraz leads their head-to-head series 2-1 but Tiafoe, one of the game's most electric players, is capable of anything on a big stage.\n\nThen comes the evening session: Daniil Medvedev (No. 4) takes on Italy's Flavio Cobolli (No. 5) — a home-crowd matchup that the Inalpi Arena will love. Cobolli is also making his debut, and there is nothing like carrying a home crowd against one of tennis's most experienced big-match performers.\n\nFor context, Day 1 saw World No. 1 Alexander Zverev beat debut qualifier Rafael Jodar 6-4, 6-4, and Ben Shelton outlast Arthur Fils 6-2, 3-6, 6-3 in a tense three-setter.\n\nWhich Day 2 match are you more excited about — Alcaraz vs. Tiafoe or Medvedev vs. Cobolli?",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-atp-finals-day-2-alcaraz-medvedev.html",
+        "headline": "ATP Finals Day 2: Alcaraz and Medvedev Begin Group Stage Campaigns in Turin",
+        "word_count": 629
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ATP Finals Day 2 — Alcaraz and Medvedev\n\n**Image 2A (Social — 1080x1350)**\n- **Search Term:** Carlos Alcaraz\n- **Usage:** X post 2A, Facebook Image Caption post\n- **Notes:** Select strong on-court action image\n\n**Image 2B (Article Hero — 1200x630)**\n- **Search Term:** Daniil Medvedev\n- **Usage:** article-02 hero image\n- **Notes:** Select mid-match image showing intensity\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ATP Finals Day 2 — Alcaraz and Medvedev Begin Group Stage\n**Key Facts:**\n- ATP Finals 2026 is held November 15-22 at Inalpi Arena, Turin, Italy — **HIGH** (ATP Tour official, Wikipedia)\n- Ivan Lendl Group players: Carlos Alcaraz (2), Daniil Medvedev (4), Flavio Cobolli (5), Frances Tiafoe (7) — **HIGH** (ATP Tour official draw)\n- John McEnroe Group players: Alexander Zverev (1), Ben Shelton (3), Arthur Fils (6), Rafael Jodar (8) — **HIGH** (ATP Tour official draw)\n- Day 2 (Monday Nov 16): afternoon session starts 2 PM CET with Alcaraz vs Tiafoe, evening session 8:30 PM CET with Medvedev vs Cobolli — **HIGH** (ATP Tour preview articles, previous search confirmation)\n- Alcaraz leads Tiafoe 2-1 head-to-head — **HIGH** (ATP Tour official)\n- Medvedev leads Cobolli 2-1 head-to-head — **HIGH** (previous search result)\n- Cobolli is Italian (home player) — **HIGH** (multiple sources)\n- All four of Cobolli, Fils, Tiafoe, Jodar are making their ATP Finals debuts — **HIGH** (ATP Tour/Wikipedia)\n- Jannik Sinner is not competing due to injury — **HIGH** (Wikipedia 2026 ATP Finals)\n**Day 1 Results:**\n- Zverev (1) beat Jodar (8): 6-4, 6-4 — **HIGH** (Flashscore, Sportsnews2community, Perfect Tennis)\n- Shelton (3) beat Fils (6): 6-2, 3-6, 6-3 — **HIGH** (Flashscore, Sportsnews2community, Perfect Tennis)\n- Fils first Frenchman at ATP Finals since Gaël Monfils in 2016 — **HIGH** (previous search confirmed)\n- Jodar is a debut-year qualifier — **HIGH** (from pipeline-status Nov 15)\n**Sources:**\n- ATP Tour draw page: https://www.atptour.com/en/news/nitto-atp-finals-2026-draw-resource-page\n- ATP Tour Day 2 preview: https://www.atptour.com/en/news/alcaraz-tiafoe-medvedev-cobolli-nitto-atp-finals-2026-day-2-preview\n- Perfect Tennis Day 1 recap: https://perfect-tennis.com/atp-finals-2026-day-1-recap\n- Flashscore tracker: https://www.flashscore.com/news/tennis-finals-turin-atp-singles-tennis-tracker-zverev-and-alcaraz-win-on-opening-day-of-atp-finals/EXc6i2AE\n- Wikipedia 2026 ATP Finals: https://en.wikipedia.org/wiki/2026_ATP_Finals",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "ATP Tour draw page",
+          "url": "https://www.atptour.com/en/news/nitto-atp-finals-2026-draw-resource-page",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "ATP Tour Day 2 preview",
+          "url": "https://www.atptour.com/en/news/alcaraz-tiafoe-medvedev-cobolli-nitto-atp-finals-2026-day-2-preview",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Perfect Tennis Day 1 recap",
+          "url": "https://perfect-tennis.com/atp-finals-2026-day-1-recap",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Flashscore tracker",
+          "url": "https://www.flashscore.com/news/tennis-finals-turin-atp-singles-tennis-tracker-zverev-and-alcaraz-win-on-opening-day-of-atp-finals/EXc6i2AE",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Wikipedia 2026 ATP Finals",
+          "url": "https://en.wikipedia.org/wiki/2026_ATP_Finals",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Svitolina's WTA Finals Run Ends in Final — Handshake Controversy Follows",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Runner-up Elina Svitolina reached the WTA Finals for the first time since winning the title in 2018. She declined the post-match handshake with champion Andreeva — her policy since 2022 — and did not name Andreeva in her speech. #WTAFinals #Tennis #WTA #Svitolina",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTAFinals",
+            "#Tennis",
+            "#WTA",
+            "#Svitolina"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "Elina Svitolina's run to the 2026 WTA Finals final deserves to be remembered on its own terms.\n\nEight years after winning the title in 2018, the 32-year-old Ukrainian made it back to the final, defeating Linda Noskova 6-2, 6-1 in the semifinals. It was a remarkable return for a player who has dealt with serious physical setbacks and carried the weight of representing Ukraine throughout.\n\nIn the final, she lost to Andreeva 7-5, 6-3. What followed at the trophy ceremony drew more attention than the match itself. Svitolina declined the post-match handshake — consistent with the Ukrainian Tennis Federation's standing policy regarding Russian and Belarusian players. Her runner-up speech thanked the crowd, her team, and Ukraine, but did not mention the champion. Fans have been divided over whether the omission was understandable or inappropriate.\n\nAndreeva, to her credit, called Svitolina's season \"amazing.\" Svitolina acknowledged the remark with a nod.\n\nThere is no clean way to cover this story. How do you feel about how the ceremony played out?",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-svitolina-runner-up-reaction.html",
+        "headline": "The Handshake That Wasn't: Svitolina's WTA Finals Runner-Up Story",
+        "word_count": 559
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Svitolina Runner-Up / Handshake\n\n**Image 3A (Social — 1080x1350)**\n- **Search Term:** Elina Svitolina\n- **Usage:** X post 3, Facebook Image Caption post\n- **Notes:** Select strong portrait or on-court action image\n\n**Image 3B (Article Hero — 1200x630)**\n- **Search Term:** Elina Svitolina\n- **Usage:** article-03 hero image\n- **Notes:** Select expressive image; avoid generic sideline shots\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Svitolina Runner-Up / Handshake Controversy\n**Key Facts:**\n- Svitolina won 2018 WTA Finals — **HIGH** (Wikipedia)\n- Svitolina beat Linda Noskova 6-2, 6-1 in the WTA Finals semifinals — **HIGH** (from Nov 15 pipeline research / confirmed)\n- Svitolina and Ukrainian players' policy of not shaking hands with Russian/Belarusian players since 2022 — **HIGH** (Al Jazeera, Sportskeeda)\n- Svitolina also declined handshake with Sabalenka at this year's WTA Finals — **HIGH** (Sportskeeda)\n- Svitolina's runner-up speech: thanked crowd, team, Ukraine; did not name Andreeva — **HIGH** (Sportskeeda)\n- Fans critical on social media — **HIGH** (Sportskeeda)\n- Svitolina nodded without expression from her seat during Andreeva's speech — **HIGH** (Yahoo Sports)\n**Sources:**\n- Sportskeeda: https://www.sportskeeda.com/tennis/news-disrespectful-rude-sickening-fans-rip-elina-svitolina-acknowledging-mirra-andreeva-wta-finals-runner-up-speech\n- Al Jazeera: https://www.aljazeera.com/sports/2026/11/16/russias-andreeva-defeats-ukraines-svitolina-7-5-6-3-to-win-wta-finals",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Sportskeeda",
+          "url": "https://www.sportskeeda.com/tennis/news-disrespectful-rude-sickening-fans-rip-elina-svitolina-acknowledging-mirra-andreeva-wta-finals-runner-up-speech",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/16/russias-andreeva-defeats-ukraines-svitolina-7-5-6-3-to-win-wta-finals",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "ATP Finals Day 1 Recap — Zverev and Shelton Win in McEnroe Group",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "ATP Finals Day 1: Zverev d. Jodar 6-4, 6-4 (McEnroe Group). Shelton d. Fils 6-2, 3-6, 6-3 — Fils the first Frenchman at the Finals since Monfils in 2016. Both McEnroe Group winners now await Day 3. #ATPFinals #Tennis #ATP #Shelton",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Shelton"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "The 2026 ATP Finals is underway in Turin, and Day 1 had exactly what you would want from a season-ending showdown: a commanding performance from the top seed and a three-set battle that went down to the wire.\n\nAlexander Zverev (No. 1) opened his title defense in clinical fashion, defeating Spanish debut qualifier Rafael Jodar 6-4, 6-4. The world No. 1 and two-time champion looked composed from the first point.\n\nThen came the drama. Ben Shelton (No. 3) and Arthur Fils (No. 6) went three sets, with Shelton taking it 6-2, 3-6, 6-3. For Fils, the result was a loss — but reaching the ATP Finals at all marks a milestone: he is the first Frenchman to compete in the season-ending championship since Gaël Monfils in 2016.\n\nToday, attention turns to the Ivan Lendl Group. Alcaraz. Medvedev. Cobolli. Tiafoe.\n\nWho do you think wins the Lendl Group?",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-atp-finals-day-1-recap.html",
+        "headline": "ATP Finals Day 1 Recap: Zverev and Shelton Win in McEnroe Group",
+        "word_count": 536
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ATP Finals Day 1 Recap\n\n**Image 4A (Social — 1080x1350)**\n- **Search Term:** Alexander Zverev\n- **Usage:** X post 4, Facebook Image Caption post\n- **Notes:** Select winning/celebrating image\n\n**Image 4B (Article Hero — 1200x630)**\n- **Search Term:** Ben Shelton\n- **Usage:** article-04 hero image\n- **Notes:** Select strong service or celebration image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ATP Finals Day 1 Recap — McEnroe Group\n**Key Facts (all HIGH from multiple sources):**\n- Zverev beat Jodar 6-4, 6-4 — **HIGH**\n- Shelton beat Fils 6-2, 3-6, 6-3 — **HIGH**\n- Fils first Frenchman at ATP Finals since Monfils in 2016 — **HIGH**\n- Jodar first debut-year qualifier to reach ATP Finals in recent years — **HIGH** (from yesterday's research)\n- Zverev is World No. 1 and two-time ATP Finals champion — **HIGH** (ATP Tour/Wikipedia)\n- Shelton is World No. 3 — **HIGH** (ATP Tour draw)\n- Jodar is World No. 8 — **HIGH** (ATP Tour draw)\n- Fils is World No. 6 — **HIGH** (ATP Tour draw)\n**Sources:**\n- Perfect Tennis: https://perfect-tennis.com/atp-finals-2026-day-1-recap\n- Flashscore: https://www.flashscore.com/news/tennis-finals-turin-atp-singles-tennis-tracker-zverev-and-alcaraz-win-on-opening-day-of-atp-finals/EXc6i2AE",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Perfect Tennis",
+          "url": "https://perfect-tennis.com/atp-finals-2026-day-1-recap",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Flashscore",
+          "url": "https://www.flashscore.com/news/tennis-finals-turin-atp-singles-tennis-tracker-zverev-and-alcaraz-win-on-opening-day-of-atp-finals/EXc6i2AE",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Andreeva's Historic 2026 Season — From Rising Star to WTA Finals Champion",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "At 19, Mirra Andreeva is WTA No. 2 heading into 2027 — the third teenager to win the WTA Finals after Chris Evert and Maria Sharapova. She won her maiden Finals without dropping a single set across five matches. #WTAFinals #Tennis #WTA #MirraAndreeva",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTAFinals",
+            "#Tennis",
+            "#WTA",
+            "#MirraAndreeva"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "Take a moment to appreciate what Mirra Andreeva has done in 2026.\n\nShe ended the year at WTA No. 2 — the highest-ranked she has ever been — after winning the season-ending WTA Finals without dropping a set. Her 5-0 record at the tournament included a 6-4, 6-0 round-robin demolition of Svitolina and a 7-5, 6-3 final win over the same player. No breaks. No wobbles.\n\nAt 19, she joins Chris Evert and Maria Sharapova as the only teenagers to have won the WTA Finals. She won on debut, as Ash Barty did in 2019. She came into the year as a compelling prospect and leaves as one of the two best players in the world.\n\nWhether or not she becomes No. 1 in 2027 will be one of the storylines worth watching from the first week. For now, she can enjoy what she built in 2026.\n\nWhat do you think her ceiling is?",
+        "image_caption": "",
+        "posting_time": "9:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-andreeva-historic-season.html",
+        "headline": "No Sets Dropped, No Doubts: Andreeva's WTA Finals Run Tells the Full Story of Her Season",
+        "word_count": 575
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Andreeva's Historic Season\n\n**Image 5A (Social — 1080x1350)**\n- **Search Term:** Mirra Andreeva\n- **Usage:** X post 5, Facebook Image Caption post\n- **Notes:** Select different image from Story 1 — mid-match intensity preferred\n\n**Image 5B (Article Hero — 1200x630)**\n- **Search Term:** Mirra Andreeva\n- **Usage:** article-05 hero image\n- **Notes:** Select wide shot or celebratory pose"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Andreeva's Historic 2026 Season\n**Key Facts:**\n- Andreeva is WTA No. 2 at year-end — **MEDIUM** (single source, Japan Times)\n- Third teenager to win WTA Finals after Evert and Sharapova — **HIGH** (AFP/France24)\n- First teenager since Sharapova 2004 — **HIGH** (multiple sources)\n- 5-0 record at 2026 WTA Finals, no sets dropped — **HIGH** (multiple sources)\n- First to win WTA Finals on debut since Barty 2019 — **HIGH** (multiple sources)\n- Andreeva was 19 at the time of the win — **HIGH**\n- Career-high ranking — **MEDIUM** (inferred from \"career-high world No. 2\")\n**Sources:**\n- Japan Times: https://www.japantimes.co.jp/sports/2026/11/16/tennis/mirra-andreeva-wta-finals/\n- Criticalreport Substack: https://criticalreport.substack.com/p/mirra-andreeva-2026-wta-finals\n- Tennis365 rankings: https://www.tennis365.com/tennis-news/wta-rankings-mirra-andreeva-breaks-new-ground-aryna-sabalenka-drops",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Japan Times",
+          "url": "https://www.japantimes.co.jp/sports/2026/11/16/tennis/mirra-andreeva-wta-finals/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Criticalreport Substack",
+          "url": "https://criticalreport.substack.com/p/mirra-andreeva-2026-wta-finals",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Tennis365 rankings",
+          "url": "https://www.tennis365.com/tennis-news/wta-rankings-mirra-andreeva-breaks-new-ground-aryna-sabalenka-drops",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
