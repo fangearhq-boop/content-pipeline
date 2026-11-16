@@ -1107,3 +1107,42 @@
 - **Key facts:** Siakam 19 pts; Nesmith 18 pts; Brunson cut to 106-102 with 26 sec left; Indiana held on
 - **Byline:** Marcus Cole
 - **Status:** NEW
+
+---
+
+## 2026-11-16
+
+### STORY 1: Lakers 131, Suns 123 — Luka 43 Pts, 8-Game Win Streak
+- **Tier:** 1
+- **Category:** Los Angeles Lakers / Phoenix Suns / Luka Dončić
+- **Key facts:** Luka 43 pts, 9 ast, 5 3s, 12/14 FT; Lakers led by 31 in Q3; Suns 4th-quarter rally; 8-game win streak; Reaves out (heel)
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: 76ers 131, Pacers 124 — LeBron Passes Jason Kidd, 3rd All-Time Assists
+- **Tier:** 1
+- **Category:** Philadelphia 76ers / Indiana Pacers / LeBron James
+- **Key facts:** LeBron 15 pts/11 ast/6 reb; passed Jason Kidd (12,092 career assists); milestone to VJ Edgecombe in Q4; behind Stockton (15,806) and Paul (12,552)
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Rockets 147, Wizards 119 — Trae Young Scoreless (Career First), Houston 11-3
+- **Tier:** 1
+- **Category:** Houston Rockets / Washington Wizards / Trae Young / Amen Thompson / Kevin Durant
+- **Key facts:** Thompson 26 pts (9-11 FG)/7 reb/7 ast; Durant 25; Eason 25 (bench); Trae 0 pts (0-5 FG, career first); Sarr 25/9; Houston 11-3; Wizards 4-10
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: Celtics 131, Mavericks 94 — Tatum 32, Franchise Q1 Record
+- **Tier:** 2
+- **Category:** Boston Celtics / Dallas Mavericks / Jayson Tatum
+- **Key facts:** Tatum 32 pts; franchise record Q1 lead; 37-pt blowout; Dallas 7-7 after back-to-back losses
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: Monday NBA Preview — Magic at Celtics, Bulls at Cavs
+- **Tier:** 2
+- **Category:** NBA Preview / Boston Celtics / Orlando Magic / Chicago Bulls / Cleveland Cavaliers
+- **Key facts:** Magic at Celtics, Bulls at Cavs, Grizzlies at Wizards — all 7 PM ET; NBA Cup group play through Nov 27
+- **Byline:** Marcus Cole
+- **Status:** NEW

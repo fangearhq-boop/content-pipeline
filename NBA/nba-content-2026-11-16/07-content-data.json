@@ -1,0 +1,473 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-16",
+  "compiled_at": "2026-11-16T11:19:04.845418+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Lakers 131, Suns 123 — Luka 43 Pts, 8-Game Win Streak (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Luka Dončić: 43 PTS / 9 AST / 5 3s / 12-14 FT\n\nThe Lakers led by 31. The Suns rallied. Luka shut the door.\n\nEight straight wins. MVP conversation is wide open. 👑\n\n#LakeShow",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LakeShow"
+          ],
+          "char_count": 172
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Lakers have won 8 in a row.\n\nLuka's 6th 40-point game this season came last night in Phoenix.\n\nAustin Reaves was OUT with a heel injury. Luka handled it alone. 🔥\n\n#LakeShow",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LakeShow"
+          ],
+          "char_count": 176
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-luka-43-lakers-eight-game-streak-suns.html",
+        "headline": "Luka Erupts for 43, Lakers Survive Suns Fightback for 8th Straight Win",
+        "word_count": 634
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Lakers 131, Suns 123\n\n**Image 1A (Social — 1080x1350)**\n- **Photo source:** imagn\n- **Search terms:** \"Luka Doncic Los Angeles Lakers\"\n- **Caption overlay:** \"43 PTS | 8 STRAIGHT WINS\"\n- **Mode:** base_only (clean player photo for Canva overlay)\n\n**Image 1B (Social — 1080x1350)**\n- **Photo source:** imagn\n- **Search terms:** \"Los Angeles Lakers celebration\"\n- **Caption overlay:** \"8-GAME WIN STREAK\"\n- **Mode:** base_only\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Lakers 131, Suns 123 — Luka 43 Pts, 8-Game Win Streak\n**Sources:**\n- ABC7 Los Angeles: https://abc7.com/post/luka-doncic-scores-43-lakers-stretch-winning-streak-8-131-123-win-suns/20042930/\n- Washington Post: https://www.washingtonpost.com/sports/nba/2026/11/15/lakers-suns-score/a3df3314-e151-11f1-a99e-b3e3805c6b8b_story.html\n- IBTimes UK: https://www.ibtimes.co.uk/luka-doncic-scores-43-lakers-hold-off-suns-comeback-secure-eighth-straight-win-1832421\n- CBS Los Angeles: https://www.cbsnews.com/losangeles/news/luka-doncic-scores-43-lakers-stretch-winning-streak-to-8-with-131-123-win-over-suns-2/\n- Eagle Tribune: https://www.eagletribune.com/luka-doncic-scores-43-lakers-stretch-winning-streak-to-8-with-131-123-win-over-suns/article_35da831e-3286-5531-9338-7dc00bf27fda.html\n- ClickOnDetroit: https://www.clickondetroit.com/sports/2026/11/16/luka-doncic-scores-43-lakers-stretch-winning-streak-to-8-with-131-123-win-over-suns/\n**Verified Facts (HIGH confidence):**\n- Final score: Lakers 131, Suns 123 — 5+ outlets\n- Luka 43 points — 5+ outlets\n- Luka 9 assists — multiple outlets\n- Luka 5 three-pointers — multiple outlets\n- Luka 12-of-14 FT — multiple outlets\n- Lakers led by 31 in Q3 — ABC7 + IBTimes\n- 8-game win streak — 5+ outlets\n- Sixth 40-point game for Luka this season — multiple outlets\n- Austin Reaves out (heel injury) — Washington Post\n**Freshness:** Sunday, November 15, 2026 game — same day AP wires published. Fresh.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "ABC7 Los Angeles",
+          "url": "https://abc7.com/post/luka-doncic-scores-43-lakers-stretch-winning-streak-8-131-123-win-suns/20042930/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Washington Post",
+          "url": "https://www.washingtonpost.com/sports/nba/2026/11/15/lakers-suns-score/a3df3314-e151-11f1-a99e-b3e3805c6b8b_story.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "IBTimes UK",
+          "url": "https://www.ibtimes.co.uk/luka-doncic-scores-43-lakers-hold-off-suns-comeback-secure-eighth-straight-win-1832421",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "CBS Los Angeles",
+          "url": "https://www.cbsnews.com/losangeles/news/luka-doncic-scores-43-lakers-stretch-winning-streak-to-8-with-131-123-win-over-suns-2/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Eagle Tribune",
+          "url": "https://www.eagletribune.com/luka-doncic-scores-43-lakers-stretch-winning-streak-to-8-with-131-123-win-over-suns/article_35da831e-3286-5531-9338-7dc00bf27fda.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "ClickOnDetroit",
+          "url": "https://www.clickondetroit.com/sports/2026/11/16/luka-doncic-scores-43-lakers-stretch-winning-streak-to-8-with-131-123-win-over-suns/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "76ers 131, Pacers 124 — LeBron Passes Kidd, Moves to 3rd All-Time in Assists (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "LeBron James just passed Jason Kidd.\n\nHe is now No. 3 on the NBA's all-time assists list at 12,092.\n\nOnly John Stockton and Chris Paul are ahead of him. The man never stops. 🐐\n\n#HereWeGo #Sixers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HereWeGo",
+            "#Sixers"
+          ],
+          "char_count": 194
+        },
+        {
+          "label": "Post 2-2",
+          "text": "LeBron missed Thursday with sciatica.\n\nThen came back and passed Jason Kidd for 3rd all-time in assists.\n\nHe had 15 PTS / 11 AST in the win. The career keeps growing.\n\n#Sixers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sixers"
+          ],
+          "char_count": 175
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-lebron-passes-kidd-third-all-time-assists.html",
+        "headline": "History in Philadelphia: LeBron James Climbs to No. 3 on NBA's Career Assists List",
+        "word_count": 667
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "76ers 131, Pacers 124\n\n**Image 2A (Social — 1080x1350)**\n- **Photo source:** imagn\n- **Search terms:** \"LeBron James Philadelphia 76ers\"\n- **Caption overlay:** \"3RD ALL-TIME IN ASSISTS | 12,092 CAREER\"\n- **Mode:** base_only\n\n**Image 2B (Article hero — 1200x630)**\n- **Photo source:** imagn\n- **Search terms:** \"LeBron James Philadelphia 76ers\"\n- **Caption overlay:** \"HISTORY IN PHILLY\"\n- **Mode:** base_only\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "76ers 131, Pacers 124 — LeBron Passes Kidd, 3rd All-Time\n**Sources:**\n- Philadelphia Inquirer: https://www.inquirer.com/sixers/lebron-james-nba-assists-indiana-pacers-20261115.html\n- NBCSports: https://www.nbcsports.com/nba/news/lebron-james-moves-past-jason-kidd-for-3rd-on-nbas-career-assist-list-76ers-top-pacers-131-124\n- ESPN: https://www.espn.com/nba/story/_/id/50493152/lebron-james-passes-jason-kidd-nba-assists-list\n- TSN: https://www.tsn.ca/nba/article/76ers-james-moves-to-3rd-on-nbas-career-assist-list/\n- Sky Sports: https://www.skysports.com/nba/news/13612633/lebron-james-now-third-in-all-time-nba-assists-as-he-leads-the-philadelphia-76ers-past-the-indiana-pacers-131-124\n- NBC Philadelphia: https://www.nbcphiladelphia.com/nba/philadelphia-76ers/lebron-james-career-assists-jason-kidd-sixers-tyrese-maxey/4497920/\n- Sports Inquirer: https://sports.inquirer.net/707273/lebron-james-moves-to-3rd-on-nba-career-assist-list\n**Verified Facts (HIGH confidence):**\n- Final score: 76ers 131, Pacers 124 — multiple outlets\n- LeBron moved to 3rd all-time in assists — 7+ outlets\n- Passed Jason Kidd — 5+ outlets\n- Career total 12,092 assists — ESPN, Sky Sports\n- 15 points, 11 assists, 6 rebounds on the night — multiple outlets\n- Milestone assist to VJ Edgecombe in Q4 — NBC Philadelphia, Philadelphia Inquirer\n- Missed Thursday (sciatica) — ESPN\n- Stockton No. 1 (15,806) — ESPN\n- Chris Paul No. 2 (12,552) — ESPN\n**Freshness:** Sunday, November 15, 2026 game. Heavily covered nationally.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Philadelphia Inquirer",
+          "url": "https://www.inquirer.com/sixers/lebron-james-nba-assists-indiana-pacers-20261115.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "NBCSports",
+          "url": "https://www.nbcsports.com/nba/news/lebron-james-moves-past-jason-kidd-for-3rd-on-nbas-career-assist-list-76ers-top-pacers-131-124",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/nba/story/_/id/50493152/lebron-james-passes-jason-kidd-nba-assists-list",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "TSN",
+          "url": "https://www.tsn.ca/nba/article/76ers-james-moves-to-3rd-on-nbas-career-assist-list/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/nba/news/13612633/lebron-james-now-third-in-all-time-nba-assists-as-he-leads-the-philadelphia-76ers-past-the-indiana-pacers-131-124",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "NBC Philadelphia",
+          "url": "https://www.nbcphiladelphia.com/nba/philadelphia-76ers/lebron-james-career-assists-jason-kidd-sixers-tyrese-maxey/4497920/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Sports Inquirer",
+          "url": "https://sports.inquirer.net/707273/lebron-james-moves-to-3rd-on-nba-career-assist-list",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Rockets 147, Wizards 119 — Trae Young Held Scoreless for First Time Ever (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "For the FIRST time in his NBA career, Trae Young was held scoreless.\n\n0 points. 0-5 from the field.\n\nThe Rockets won 147-119. Houston is 11-3 and playing elite basketball. 🚀\n\n#RocketCity",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RocketCity"
+          ],
+          "char_count": 186
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Amen Thompson: 26 PTS (9-11 FG)\nKevin Durant: 25 PTS\nTari Eason: 25 PTS (off the bench)\n\n40 team assists. 57.8% shooting.\n\nThe Rockets aren't just good — they're dangerous. 🚀\n\n#RocketCity",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RocketCity"
+          ],
+          "char_count": 187
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-trae-young-scoreless-rockets-blowout-wizards.html",
+        "headline": "Trae Young Scoreless for First Time as Rockets Blast Wizards 147-119, Improve to 11-3",
+        "word_count": 757
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rockets 147, Wizards 119\n\n**Image 3A (Social — 1080x1350)**\n- **Photo source:** imagn\n- **Search terms:** \"Amen Thompson Houston Rockets\"\n- **Caption overlay:** \"26 PTS | ROCKETS 11-3\"\n- **Mode:** base_only\n\n**Image 3B (Social — 1080x1350)**\n- **Photo source:** imagn\n- **Search terms:** \"Trae Young Washington Wizards\"\n- **Caption overlay:** \"FIRST SCORELESS GAME — CAREER\"\n- **Mode:** base_only\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Rockets 147, Wizards 119 — Trae Young's First Scoreless Game\n**Sources:**\n- Bozeman Daily Chronicle: https://www.bozemandailychronicle.com/wire/sports/rockets-blow-out-wizards-147-119-hold-trae-young-scoreless-for-first-time-in-his/article_93080c7e-dec7-5163-801c-71cffb59f6df.html\n- Click2Houston: https://www.click2houston.com/sports/2026/11/16/houston-rockets-blow-out-wizards-147-119-hold-trae-young-scoreless-for-first-time-in-his-career/\n- Yardbarker (game recap): https://www.yardbarker.com/nba/articles/rockets_beat_wizards_147_119_as_thompson_and_durant_combine_for_51/s1_17668_44566877\n- Yardbarker (Trae story): https://www.yardbarker.com/nba/articles/rockets_crush_wizards_hold_trae_young_to_career_first_0_points/s1_17045_44566912\n- NBCSports (player news): https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-15/amen-thompson-posts-27-7-7-1-1-line-vs-wizards\n- IBTimes AU: https://www.ibtimes.com.au/amen-thompson-rockets-rout-wizards-147-119-1878652\n- roundtable.io: https://roundtable.io/sports/nba/rockets/game-day/houston-hangs-a-season-high-147-on-washington-in-a-road-rout\n**Verified Facts (HIGH confidence):**\n- Final score: Rockets 147, Wizards 119 — 7+ outlets\n- Trae Young 0 points (first scoreless career game) — multiple outlets\n- Amen Thompson 26 pts on 9-of-11 FG — multiple outlets (NBCSports says 27 pts, 9/11 — slight discrepancy; majority say 26)\n- Thompson 7 reb, 7 ast — NBCSports\n- Kevin Durant 25 pts — multiple outlets\n- Tari Eason 25 pts off bench — multiple outlets\n- Alex Sarr 25 pts, 9 reb (Wizards) — Yardbarker\n- AJ Dybantsa 16 pts on 6-18 FG — Yardbarker\n- Houston 40 assists — roundtable.io\n- Houston shot 57.8% (52-90) — roundtable.io\n- Rockets 11-3 — multiple outlets\n- Wizards 4-10 — multiple outlets\n**Note on Thompson points:** NBCSports player news says 27; majority of recaps say 26. Using 26 to match majority.\n**Freshness:** Sunday, November 15, 2026. Fresh, widely covered.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Bozeman Daily Chronicle",
+          "url": "https://www.bozemandailychronicle.com/wire/sports/rockets-blow-out-wizards-147-119-hold-trae-young-scoreless-for-first-time-in-his/article_93080c7e-dec7-5163-801c-71cffb59f6df.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Click2Houston",
+          "url": "https://www.click2houston.com/sports/2026/11/16/houston-rockets-blow-out-wizards-147-119-hold-trae-young-scoreless-for-first-time-in-his-career/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yardbarker (game recap)",
+          "url": "https://www.yardbarker.com/nba/articles/rockets_beat_wizards_147_119_as_thompson_and_durant_combine_for_51/s1_17668_44566877",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yardbarker (Trae story)",
+          "url": "https://www.yardbarker.com/nba/articles/rockets_crush_wizards_hold_trae_young_to_career_first_0_points/s1_17045_44566912",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "NBCSports (player news)",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-15/amen-thompson-posts-27-7-7-1-1-line-vs-wizards",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "IBTimes AU",
+          "url": "https://www.ibtimes.com.au/amen-thompson-rockets-rout-wizards-147-119-1878652",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "roundtable.io",
+          "url": "https://roundtable.io/sports/nba/rockets/game-day/houston-hangs-a-season-high-147-on-washington-in-a-road-rout",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Celtics 131, Mavericks 94 — Tatum 32, Boston Sets Franchise Q1 Lead Record (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jayson Tatum dropped 32 as the Celtics blew out Dallas 131-94.\n\nBoston set a FRANCHISE RECORD for their largest first-quarter lead.\n\nThe Celtics are not messing around this season. ☘️\n\n#Celtics",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Celtics"
+          ],
+          "char_count": 193
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-celtics-tatum-32-blowout-mavericks-franchise-record.html",
+        "headline": "Tatum Pours In 32 as Celtics Shred Mavericks by 37, Set Franchise Q1 Record",
+        "word_count": 652
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Celtics 131, Mavericks 94\n\n**Image 4A (Social — 1080x1350)**\n- **Photo source:** imagn\n- **Search terms:** \"Jayson Tatum Boston Celtics\"\n- **Caption overlay:** \"32 PTS | FRANCHISE Q1 RECORD\"\n- **Mode:** base_only\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Celtics 131, Mavericks 94\n**Sources:**\n- ESPN recap: https://www.espn.com/nba/recap?gameId=401909989 (from first search, Nov 15 2026 URL)\n- AP wire summary from first search result (SI scoreboard)\n**Verified Facts:**\n- Final score: Celtics 131, Mavericks 94 — ESPN recap URL confirmed Nov 15 2026\n- Jayson Tatum 32 pts — AP wire summary\n- Franchise record Q1 lead — AP wire summary\n**Note:** Tatum's stat is MEDIUM confidence (single AP summary, Celtics recap not separately retrieved). Score is HIGH (ESPN recap URL with 2026 date).",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "ESPN recap",
+          "url": "https://www.espn.com/nba/recap?gameId=401909989",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Monday Night Preview — Magic at Celtics, Bulls at Cavs (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Monday NBA slate (all 7 PM ET):\n\n🏀 Magic at Celtics\n🏀 Bulls at Cavaliers\n🏀 Grizzlies at Wizards\n\nNBA Cup group play continues. Every win matters. Who you watching tonight?",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 171
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-monday-nba-preview-magic-celtics-bulls-cavaliers.html",
+        "headline": "Monday NBA Preview: Magic at Celtics Leads Three-Game Slate With Cup Implications",
+        "word_count": 646
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Monday Night Preview\n\n**Image 5A (Social — 1080x1350)**\n- **Photo source:** imagn\n- **Search terms:** \"Boston Celtics Orlando Magic\"\n- **Caption overlay:** \"TONIGHT: MAGIC AT CELTICS | 7 PM ET\"\n- **Mode:** base_only"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Monday Night Preview\n**Sources:**\n- Legionreport.com NBA schedule: https://legionreport.com/nba-schedule-november-2026/\n- NBA official 2026-27 schedule PDF: https://cdn.nba.com/manage/2026/08/2026-27-NBA-Regular-Season-Schedule-By-Date.pdf\n- ESPN NBA Cup 2026 hub: https://www.espn.com/nba/story/_/id/49577473/2026-nba-season-tournament-cup-format-highlights-updates\n**Verified Facts:**\n- Magic at Celtics, Bulls at Cavaliers, Grizzlies at Wizards on Monday Nov 16 — legionreport + NBA PDF\n- NBA Cup group play through Nov 27 — ESPN Cup hub\n- Knockout Rounds Dec 4-5, Semis Dec 8-9, Final Dec 11 — ESPN Cup hub",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Legionreport.com NBA schedule",
+          "url": "https://legionreport.com/nba-schedule-november-2026/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "NBA official 2026-27 schedule PDF",
+          "url": "https://cdn.nba.com/manage/2026/08/2026-27-NBA-Regular-Season-Schedule-By-Date.pdf",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "ESPN NBA Cup 2026 hub",
+          "url": "https://www.espn.com/nba/story/_/id/49577473/2026-nba-season-tournament-cup-format-highlights-updates",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

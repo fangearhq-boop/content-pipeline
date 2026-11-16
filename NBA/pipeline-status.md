@@ -1,10 +1,31 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Current Status
-**Last Run:** 2026-11-14
+**Last Run:** 2026-11-16
 **Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy; git push via git remote
 
 ## Pipeline Run Log
+
+### 2026-11-16 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 30 claims, HIGH: 59; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 8 tweets, 0 FB posts (known parsing), 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (23 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy; content-dashboards not in session scope)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via git remote with PAT
+
+**Stories covered:**
+1. T1 NEW: Lakers 131, Suns 123 — Luka 43/9ast, 8-game win streak (Jake Torres)
+2. T1 NEW: 76ers 131, Pacers 124 — LeBron passes Kidd, 3rd all-time assists at 12,092 (Marcus Cole)
+3. T1 NEW: Rockets 147, Wizards 119 — Trae Young scoreless (career first), Houston 11-3 (Damon Pierce)
+4. T2 NEW: Celtics 131, Mavericks 94 — Tatum 32, franchise Q1 record (Jake Torres)
+5. T2 NEW: Monday NBA Preview — Magic at Celtics, Bulls at Cavs (Marcus Cole)
+
+---
 
 ### 2026-11-14 ✅ (Automated)
 - Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
