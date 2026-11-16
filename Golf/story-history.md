@@ -2,6 +2,45 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-11-16 Stories
+
+### STORY 1: Lindy Duncan Wins The ANNIKA — First LPGA Title in 222nd Career Start
+- **Tier:** 1
+- **Category:** LPGA / The ANNIKA Pelican / Lindy Duncan
+- **Key facts:** Duncan wins at 16-under 264; final round 67; beats Choi by 2; 35 years old, 222nd career start; oldest first-time LPGA winner since 2008; first maiden winner at The ANNIKA; $487,500 from $3M purse
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: Austin Championship Final Round — Crowe (-14) Leads by One into Monday
+- **Tier:** 1
+- **Category:** PGA Tour / Austin Championship / Trace Crowe
+- **Key facts:** Rain washed out Sunday; final round Monday 7:30 AM CT; Crowe -14, leads by 1; Ramey/Valimaki/van Rooyen -13; Kohles/Greyserman -12; Smotherman -11; $6M purse; Fazio Canyons Course, Austin TX
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+
+### STORY 3: Austin Smotherman's Historic Three-Win Chase
+- **Tier:** 2
+- **Category:** PGA Tour / Austin Smotherman / Win streak
+- **Key facts:** Won Bank of Utah Oct 4 (100th career start, beat Ghim by 2); Won Bermuda Championship Oct 25 (beat Power in playoff); lost card 169th FedExCup 2024; regained via 2 KFT wins 2025; at -11 entering Austin final round
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 4: RSM Classic Preview — PGA Tour Season Finale at Sea Island Nov 19-22
+- **Tier:** 2
+- **Category:** PGA Tour / RSM Classic / Sea Island
+- **Key facts:** Sea Island, Georgia Nov 19-22; Seaside (par 70) + Plantation (par 72) courses; $7.4M purse; 500 FedExCup Fall points; last card-securing opportunity; 2025 winner Valimaki -23; 2024 winner McNealy
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: LIV Golf Bankruptcy — Player Futures in Flux
+- **Tier:** 2
+- **Category:** LIV Golf / Bankruptcy / Jon Rahm / Player futures
+- **Key facts:** Filed Nov 10; $45M+ owed players; Rahm reportedly $100M+; Rahm 2026 LIV champion 259.90 pts; Nov 24 hearing; Jan 2027 emergence target; PGA Tour no reinstatement until process complete; Mickelson/Tringale/Kokrak in relegation zone
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+---
+
 ## 2026-11-15 Stories
 
 ### STORY 1: Austin Championship Final Round — Crowe (-14) Chases Wire-to-Wire Title

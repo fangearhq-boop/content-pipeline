@@ -1,9 +1,30 @@
 # Golf Fanrecap — Pipeline Status
 
-## Last Run: 2026-11-15
+## Last Run: 2026-11-16
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** Golf Fanrecap
+
+---
+
+### 2026-11-16 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 28 claims, HIGH: 52; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 8 tweets, 0 FB posts (known parsing), 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (18 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via git remote with PAT
+
+**Stories covered:**
+1. T1 FOLLOW UP: Lindy Duncan wins The ANNIKA — first title, 222nd start, oldest first-time winner since 2008 (Ryan Calloway)
+2. T1 FOLLOW UP: Austin Championship Monday final round — Crowe -14, leads by 1; Smotherman -11 chasing history (Jake Torres)
+3. T2 NEW: Austin Smotherman three-win chase — won Bank of Utah Oct 4, Bermuda Oct 25; needs one more (Marcus Cole)
+4. T2 NEW: RSM Classic preview — PGA Tour season finale, Sea Island Nov 19-22, $7.4M purse (Jake Torres)
+5. T2 FOLLOW UP: LIV Golf bankruptcy — $45M+ owed players, Rahm $100M+, Nov 24 hearing (Ryan Calloway)
 
 ---
 
