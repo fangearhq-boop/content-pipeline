@@ -1,0 +1,402 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-17",
+  "compiled_at": "2026-11-17T12:22:51.113969+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Things to Do with Kids in Colorado Springs This Weekend (November 21–23)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "COS families: this weekend has options. Skate in the Park at Acacia Park is open (kids 4 and under skate free). Vintage Market Days runs Fri–Sun at Norris Penrose. PPBC Holiday Craft Fair is Sat at 1505 E Monument St. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 277
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Full list: things to do with kids in Colorado Springs this weekend at springsdaily.com/events/this-weekend-with-kids — plus free things to do this weekend at springsdaily.com/events/free-this-weekend #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "It's Thursday, which means it's time to figure out what the weekend actually looks like for your family.\n\nHere are the options we've got on the radar for Colorado Springs this weekend (November 21–23):\n\nSkate in the Park at Acacia Park opened its 15th season last Friday and is running daily through January. It's $15 per person including skate rental — and kids ages 4 and under skate free with a paid adult. It's right in downtown COS, easy to get to, and a solid two-hour outing for families of all ages. Military and first responders get $2 off.\n\nVintage Market Days runs all three days (Friday through Sunday) at Norris Penrose Event Center. This is the mix of vintage finds, boutique goods, and holiday items that pops up a few times a year — kids typically get in free.\n\nSaturday morning, the PPBC Holiday Craft Fair is at East United Methodist Church (1505 E Monument St), and the Rampart Craft Bazaar is running at 8250 Lexington Dr. Both are free or low-cost and worth checking if you're doing some early holiday shopping with the kids along.\n\nFor the full list, check the springsdaily.com weekend guides — the <a href=\"https://springsdaily.com/events/this-weekend-with-kids\">full list of things to do with kids in Colorado Springs this weekend</a> and <a href=\"https://springsdaily.com/events/free-this-weekend\">free things to do this weekend</a> are updated regularly.\n\nWhat are your family's weekend plans?",
+        "image_caption": "",
+        "posting_time": "8:00 AM MT"
+      },
+      "article": {
+        "filename": "article-01-things-to-do-kids-cos-weekend-nov-21-23.html",
+        "headline": "Things to Do with Kids in Colorado Springs This Weekend (November 21–23)",
+        "word_count": 630
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Weekend Family Roundup November 21–23\n\n**Image 1A (Social — 1200x675)**\n- **Prompt:** A joyful family ice skating outdoors on a winter rink in a festive downtown park setting, surrounded by holiday lights and greenery. Parents helping a young child on skates. Warm golden hour lighting with cool blue winter tones. Realistic illustration style. Clean lower third for text overlay. No text, no watermarks.\n- **Usage:** X post, Facebook Image Caption\n\n**Image 1B (Article Hero — 1200x630)**\n- **Prompt:** A wide view of families enjoying an outdoor winter marketplace with craft fair booths and holiday decorations in a Colorado city park. Families with strollers and young children browsing. Soft winter daylight, warm earthy tones. Clean bottom third space. No text, no watermarks.\n- **Usage:** article-01 hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Things to Do with Kids in Colorado Springs This Weekend (November 21–23)\n**Key Facts:**\n- Skate in the Park: opened Nov 13, 2026 (15th season); Acacia Park downtown COS; daily hours TBD (check city site); $15/person incl. skate rental; ages 4 and under FREE with paid adult; $2 off active military/first responders; runs through January 2027 — **HIGH** (official city announcement coloradosprings.gov)\n- Vintage Market Days: Nov 21–23 (Friday through Sunday); Norris Penrose Event Center, Lower Gold Camp Rd COS; paid entry (~$5 adults, kids free) — **MEDIUM** (norrispenrose.com events page, entry pricing not confirmed from official source)\n- PPBC Holiday Craft Fair: Saturday Nov 22, 9 AM; East United Methodist Church, 1505 E Monument St COS; free/low entry — **MEDIUM** (happenincos.com, details not from official organizer page)\n- Rampart Craft Bazaar: Saturday Nov 22; 8250 Lexington Dr COS; free entry — **MEDIUM** (happenincos.com, event listing)\n- Required internal links: springsdaily.com/events/this-weekend-with-kids, springsdaily.com/events/free-this-weekend, springsdaily.com/events/this-weekend — **N/A** (required by CLAUDE.md, not factual claims)\n- Today is Thursday Nov 17 — weekend roundup article is REQUIRED by CLAUDE.md — **N/A** (rule, not fact)\n**Note on confidence:** Only Skate in the Park has an official city source (HIGH). Craft fair and Vintage Market dates/locations are MEDIUM; mark in article as subject to change. The article's core section on Skate in the Park is fully HIGH-confidence and leads the piece.\n**Sources:**\n- City of Colorado Springs (Skate in the Park): https://coloradosprings.gov/news/skate-park-returns-friday-acacia-park-holiday-celebration\n- Norris Penrose (Vintage Market Days): https://www.norrispenrose.com/events\n- Happenincos (craft fairs): https://happenincos.com/events/november-2026",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "City of Colorado Springs (Skate in the Park)",
+          "url": "https://coloradosprings.gov/news/skate-park-returns-friday-acacia-park-holiday-celebration",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md"
+          ]
+        },
+        {
+          "name": "Norris Penrose (Vintage Market Days)",
+          "url": "https://www.norrispenrose.com/events",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md",
+            "articles/article-01-things-to-do-kids-cos-weekend-nov-21-23.html"
+          ]
+        },
+        {
+          "name": "Happenincos (craft fairs)",
+          "url": "https://happenincos.com/events/november-2026",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "CPSC Recalls Play Yard Mattresses and Dressers — November Safety Alert",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Two new CPSC recalls COS parents should know about: Mommy & Me Pack & Play mattresses (suffocation/entrapment hazard) and HAUOMS eight-drawer dressers (tip-over risk for kids). Check cpsc.gov/Recalls if you have either. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 279
+        },
+        {
+          "label": "Post 2-2",
+          "text": "This is the third week of CPSC recalls affecting families. If you haven't bookmarked cpsc.gov/Recalls, now's a good time — it's searchable by product category and updated as recalls are issued. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "Two more CPSC recalls came through this week, and both affect items that sit in a lot of Colorado Springs homes.\n\nThe first is Mommy & Me Pack & Play mattresses, recalled for suffocation and entrapment hazards in play yards. Play yard mattresses are the kind of product families use from early infancy through toddlerhood, often for travel or as a secondary sleep space. If you have one, stop using it and check cpsc.gov/Recalls for the specific remedy.\n\nThe second is HAUOMS eight-drawer dressers — 1,392 units recalled for tip-over and child entrapment risk. Dresser tip-overs are one of the CPSC's highest-priority hazard categories because children can be entrapped underneath, and it happens fast. If you have this dresser, check whether your model is affected.\n\nThis is now the third week running with CPSC recalls affecting young children. If you haven't already, it's worth bookmarking cpsc.gov/Recalls — you can search by product category, and it's updated as new recalls are issued.\n\nDo you have a system for tracking recalls at home? Drop your tips below.",
+        "image_caption": "",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-02-cpsc-recalls-play-yard-mattress-dresser.html",
+        "headline": "CPSC Recalls Play Yard Mattresses and Dressers: What Colorado Springs Families Need to Know",
+        "word_count": 525
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CPSC Recalls — Play Yard Mattresses + HAUOMS Dressers\n\n**Image 2A (Social — 1200x675)**\n- **Prompt:** A simple, clean illustration of a play yard/pack-and-play with a mattress and a wooden dresser on a soft neutral background. Safety warning visual with a calm, informational tone. Soft lighting. Clean lower third for text overlay. No text, no watermarks.\n- **Usage:** X post, Facebook Image Caption\n\n**Image 2B (Article Hero — 1200x630)**\n- **Prompt:** A focused close-up of a hand with a smartphone showing a CPSC recall lookup, on a clean home interior background with soft natural light. Realistic and calm. Clean bottom third. No text, no watermarks.\n- **Usage:** article-02 hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CPSC Recalls — Mommy & Me Play Yard Mattresses + HAUOMS Dressers\n**Key Facts:**\n- Mommy & Me Pack & Play mattresses recalled for suffocation and entrapment hazards in play yards — CPSC formal recall, Nov 13, 2026 — **HIGH** (Consumer Affairs CPSC roundup Nov 13 citing cpsc.gov)\n- HAUOMS eight-drawer dressers recalled: 1,392 units; tip-over and child entrapment risk — **HIGH** (Consumer Affairs CPSC roundup Nov 6 citing cpsc.gov)\n- Both are formal CPSC recalls — stop use and check cpsc.gov/Recalls for remedy — **HIGH** (standard CPSC recall guidance)\n- These are distinct from Nov 15 recalls (SHEIN rattle/Kakgold) and Nov 16 recalls (Uuoeebb/BabyBond/Primark) — **HIGH** (confirmed by pipeline history)\n- Specific CPSC recall page URLs for Mommy & Me and HAUOMS not independently retrieved — article should direct to cpsc.gov/Recalls database rather than specific URLs — **MEDIUM** (confirmed through Consumer Affairs roundup, not directly from cpsc.gov pages)\n**Sources:**\n- Consumer Affairs CPSC roundup Nov 13 2026: https://www.consumeraffairs.com/news/consumer-product-safety-recall-roundup-for-november-13-2026-111326.html\n- Consumer Affairs CPSC roundup Nov 6 2026: https://www.consumeraffairs.com/news/consumer-product-safety-recall-roundup-for-november-06-2026-110626.html\n- CPSC recall database: https://www.cpsc.gov/Recalls",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "CPSC recall database",
+          "url": "https://www.cpsc.gov/Recalls",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md",
+            "articles/article-02-cpsc-recalls-play-yard-mattress-dresser.html"
+          ]
+        },
+        {
+          "name": "Consumer Affairs CPSC roundup Nov 13 2026",
+          "url": "https://www.consumeraffairs.com/news/consumer-product-safety-recall-roundup-for-november-13-2026-111326.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md"
+          ]
+        },
+        {
+          "name": "Consumer Affairs CPSC roundup Nov 6 2026",
+          "url": "https://www.consumeraffairs.com/news/consumer-product-safety-recall-roundup-for-november-06-2026-110626.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "D11 Bond Accountability — Protesters Demand Transparency on New Bond Spending",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Community members are calling on D11 to be transparent with the new $775M bond money. The district is proposing a citizen oversight committee. Here's where things stand for Colorado Springs families. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "There's been some community pushback on the D11 bond this week, and it's worth knowing about if you're a Colorado Springs family paying attention to where the $775M in approved bond money goes.\n\nProtesters gathered outside D11 leadership around November 10 demanding accountability and transparency on bond spending. The district has proposed an independent citizen oversight committee to monitor how the money is allocated and spent — a structure that, in principle, gives the public a formal mechanism to track progress.\n\nD11 has said an independent investigation found no wrongdoing. The matter is in litigation, and the district has declined further comment.\n\nWhat families do know: the bond includes an $80M rebuild of Holmes Middle School and $24.18M in planning for MacLaren Elementary, among other projects. The oversight committee, if established, would be the main way the community gets visibility into those timelines and budgets.\n\nIt's early days for the bond implementation. What would transparency look like to you as a D11 family?",
+        "image_caption": "",
+        "posting_time": "12:00 PM MT"
+      },
+      "article": {
+        "filename": "article-03-d11-bond-accountability-protest.html",
+        "headline": "D11 Community Members Demand Bond Accountability — What Parents Should Know",
+        "word_count": 407
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Bond Accountability Protest\n\n**Image 3A (Social — 1200x675)**\n- **Prompt:** A community meeting scene with parents and community members gathering outside a modern school building under blue sky. Engaged expressions, diverse group, autumn/fall setting. Warm community tone. Clean lower third for text overlay. No text, no watermarks.\n- **Usage:** X post, Facebook Image Caption\n\n**Image 3B (Article Hero — 1200x630)**\n- **Prompt:** A wide shot of a modern Colorado Springs elementary school building exterior in autumn with parents walking toward an entrance. Golden afternoon light, clean professional composition. Clean bottom third. No text, no watermarks.\n- **Usage:** article-03 hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Bond Accountability Protest\n**Key Facts:**\n- Protesters gathered outside D11 leadership demanding accountability and transparency — FOX21 News, Nov 10, 2026 — **HIGH** (FOX21 coverage)\n- D11 bond approved by voters in 2026 election, approximately 51.68% yes — **HIGH** (confirmed from Nov 15 pipeline research)\n- D11 proposed independent citizen oversight committee to monitor bond spending — **HIGH** (from Nov 16 pipeline, FOX21)\n- Independent investigation found no wrongdoing per D11; matter remains in litigation — **HIGH** (FOX21 Nov 10)\n- D11 declined further comment citing ongoing litigation — **HIGH** (FOX21 Nov 10)\n- Holmes Middle School $80M rebuild, MacLaren Elementary $24.18M planning phase — **HIGH** (from Nov 16 pipeline research confirmed)\n- D11 bond total: $775M — **HIGH** (confirmed from Nov 15 pipeline)\n**Sources:**\n- FOX21 News: https://fox21news.com/news/protesters-call-for-accountability-from-d11-leadership",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "FOX21 News",
+          "url": "https://fox21news.com/news/protesters-call-for-accountability-from-d11-leadership",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "AAP 2026–27 Flu Guidance — What COS Families Need to Know Right Now",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "AAP update for 2026–27: all kids 6 months and up should get a flu shot. Kids under 8 getting vaccinated for the first time this season need 2 doses. Colorado's season is already off to a concerning start. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "The American Academy of Pediatrics has updated its flu guidance for the 2026–27 season, and there's one piece of it that many families miss every year: the two-dose rule.\n\nIf your child is between 6 months and 8 years old and is getting vaccinated for the first time this season — or only received one dose before July 1, 2026 — they need two doses this year, given at least four weeks apart. The first dose primes the immune system; the second builds the full protection. Getting only one dose leaves kids in that age group only partially covered.\n\nFor older kids and adults, one dose is what's recommended.\n\nThe urgency here is real. Last season saw 190 pediatric flu deaths nationally, and only 49.4% of children in that age group were vaccinated. Colorado's 2026–27 season has already recorded its first pediatric death — an elementary-aged, unvaccinated child. That's earlier than typical.\n\nIf your kids haven't been vaccinated yet, most pediatric offices and many pharmacies have the vaccine in stock now. Calling to confirm before you go in is worth the two minutes.\n\nHas your family gotten flu shots yet this season?",
+        "image_caption": "",
+        "posting_time": "3:00 PM MT"
+      },
+      "article": {
+        "filename": "article-04-aap-flu-guidance-cos-families.html",
+        "headline": "AAP's 2026–27 Flu Guidance: What Colorado Springs Families Need to Do Before December",
+        "word_count": 513
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AAP 2026–27 Flu Guidance\n\n**Image 4A (Social — 1200x675)**\n- **Prompt:** A warm, reassuring scene of a healthcare provider gently administering a vaccine to a young child, with the child's parent nearby smiling. Bright clean medical setting, soft natural light. Diverse subjects. Clean lower third for text overlay. No text, no watermarks.\n- **Usage:** X post, Facebook Image Caption\n\n**Image 4B (Article Hero — 1200x630)**\n- **Prompt:** A parent and child at a pharmacy counter, reviewing a vaccination checklist. Soft warm indoor lighting, clean background. Realistic illustration style. Clean bottom third. No text, no watermarks.\n- **Usage:** article-04 hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AAP 2026–27 Flu Guidance\n**Key Facts:**\n- AAP recommends annual flu vaccination for all children 6 months and older — 2026–27 policy, Pediatrics — **HIGH** (HealthyChildren.org/AAP official)\n- Children 6 months–8 years getting first flu shot (or only one dose before July 1, 2026): need 2 doses this season — **HIGH** (AAP News Release, HealthyChildren.org)\n- 2025–26 season: 190 pediatric flu deaths nationally — **HIGH** (AAP/Drug Topics)\n- 2025–26: only 49.4% of children ages 6 months–17 received flu vaccine — **HIGH** (AAP/Drug Topics)\n- Colorado 2026–27: first pediatric death already reported, elementary-aged, unvaccinated — **HIGH** (from Nov 15 Parenting pipeline — CDPHE/Denver7/CPR News; classified HIGH)\n- Baloxavir now available as generic for 2026–27 — **HIGH** (Drug Topics Aug 13 2026)\n- All 2026–27 U.S. flu vaccines are trivalent with updated compositions — **HIGH** (Drug Topics)\n**Sources:**\n- HealthyChildren.org (AAP official): https://www.healthychildren.org/English/news/Pages/aap-(influenza)-flu-prevention-recommendations-for-2026-27.aspx\n- AAP News Release: https://www.aap.org/en/news-room/news-releases/aap/2026/american-academy-of-pediatrics-issues-recommendations-for-influenza-prevention-and-control-for-2026-27/\n- Drug Topics Aug 13 2026: https://www.drugtopics.com/view/aap-releases-2026-2027-childhood-flu-recommendations",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "HealthyChildren.org (AAP official)",
+          "url": "https://www.healthychildren.org/English/news/Pages/aap-",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md"
+          ]
+        },
+        {
+          "name": "AAP News Release",
+          "url": "https://www.aap.org/en/news-room/news-releases/aap/2026/american-academy-of-pediatrics-issues-recommendations-for-influenza-prevention-and-control-for-2026-27/",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md"
+          ]
+        },
+        {
+          "name": "Drug Topics Aug 13 2026",
+          "url": "https://www.drugtopics.com/view/aap-releases-2026-2027-childhood-flu-recommendations",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Skate in the Park Returns to Acacia Park — 15th Season, Kids Under 5 Skate Free",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Skate in the Park is back at Acacia Park for its 15th season. Kids 4 and under skate free with a paid adult. Adults: $15 including skate rental. Open daily through January 2027 in downtown Colorado Springs. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "The cold weather just got a little more fun.\n\nSkate in the Park opened its 15th season at Acacia Park in downtown Colorado Springs last Friday (November 13), and it's running daily through January 2027 as part of the Acacia Park Holiday Celebration.\n\nHere's what you need to know:\n\nAdmission is $15 per person and includes skate rental — no need to bring your own. Children ages 4 and under skate free when accompanied by a paid adult. If you're active-duty military or a first responder, you get $2 off.\n\nIt's a City of Colorado Springs Parks, Recreation & Cultural Services program, which means it's well-run and sticks around. The holiday atmosphere in downtown COS this time of year makes the whole outing feel like an event, not just an errand.\n\nFor families with younger kids who haven't tried ice skating yet, this is a pretty low-pressure way to try it — skate rental is included, the rink is managed, and the age-4-and-under free admission removes the financial sting of a short skate session with a toddler.\n\nAre you planning to take your kids skating this season?",
+        "image_caption": "",
+        "posting_time": "5:00 PM MT"
+      },
+      "article": {
+        "filename": "article-05-skate-in-the-park-acacia-park-15th-season.html",
+        "headline": "Skate in the Park Is Back at Acacia Park — Kids Under 5 Skate Free This Winter",
+        "word_count": 428
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Skate in the Park\n\n**Image 5A (Social — 1200x675)**\n- **Prompt:** A young child learning to ice skate with a parent's hand for support on an outdoor winter rink with holiday lights and mountains visible in the background. Joyful, warm golden light on a cold day. Clean lower third for text overlay. No text, no watermarks.\n- **Usage:** X post, Facebook Image Caption\n\n**Image 5B (Article Hero — 1200x630)**\n- **Prompt:** A wide aerial view of a small outdoor ice rink in a festive downtown Colorado park setting, families skating with holiday lights and snow-capped mountains in the background. Cool blue winter tones with warm light accents. Clean bottom third. No text, no watermarks.\n- **Usage:** article-05 hero"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Skate in the Park — Acacia Park 15th Season\n**Key Facts:**\n- Skate in the Park opened Nov 13, 2026 (15th season) — **HIGH** (official city announcement)\n- Location: Acacia Park, downtown Colorado Springs — **HIGH** (official city announcement)\n- Runs through January 2027 — **HIGH** (official city announcement)\n- $15 per person includes skate rental — **HIGH** (official city announcement)\n- Ages 4 and under: FREE with a paid adult — **HIGH** (official city announcement)\n- $2 discount: active-duty military and first responders — **HIGH** (official city announcement)\n- Part of Acacia Park Holiday Celebration — **HIGH** (official city announcement)\n- Operated by City of Colorado Springs Parks, Recreation & Cultural Services — **HIGH** (official city announcement)\n**Sources:**\n- City of Colorado Springs: https://coloradosprings.gov/news/skate-park-returns-friday-acacia-park-holiday-celebration",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "City of Colorado Springs official announcement",
+          "url": "https://coloradosprings.gov/news/skate-park-returns-friday-acacia-park-holiday-celebration",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md"
+          ]
+        },
+        {
+          "name": "City of Colorado Springs",
+          "url": "https://coloradosprings.gov",
+          "official": true,
+          "found_in": [
+            "articles/article-05-skate-in-the-park-acacia-park-15th-season.html"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

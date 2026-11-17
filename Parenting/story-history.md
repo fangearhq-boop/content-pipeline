@@ -2,6 +2,50 @@
 
 ---
 
+## November 17, 2026
+
+### Story 1: Things to Do with Kids in Colorado Springs — Weekend Nov 21–23
+- **Date:** 2026-11-17
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** Weekend Family Roundup (Thursday required). Skate in the Park opens Nov 13, daily through Jan 2027, $15/person incl. rental, ages 4 and under free. Vintage Market Days Nov 21–23 Norris Penrose, ~$5 adults. PPBC Holiday Craft Fair Nov 22 9 AM East United Methodist Church. Rampart Craft Bazaar Nov 22 8250 Lexington Dr.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 2: CPSC Recalls — Play Yard Mattresses and Dressers
+- **Date:** 2026-11-17
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** Mommy & Me Pack & Play mattresses recalled — suffocation/entrapment in play yards. HAUOMS eight-drawer dressers (1,392 units) recalled — tip-over/entrapment. Stop use; check cpsc.gov/Recalls. Running November table: 5 recalls across 3 weeks.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 3: D11 Bond — Community Accountability Protest
+- **Date:** 2026-11-17
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** Protesters gathered ~Nov 10 outside D11 leadership demanding transparent bond spending. $775M bond approved 51.68%. District proposing independent citizen oversight committee. Holmes $80M rebuild, MacLaren $24.18M. Independent investigation found no wrongdoing; matter in litigation.
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (Nov 16 S3: implementation timeline → community accountability action)
+
+### Story 4: AAP 2026–27 Flu Guidance for COS Families
+- **Date:** 2026-11-17
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** Two-dose rule for children 6 months–8 years (first time vaccinated or only 1 dose before July 1, 2026). 190 pediatric deaths last season; 49.4% vaccination rate. Colorado recorded first pediatric death this season. All 2026–27 vaccines trivalent with updated strains. Baloxavir now generic.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 5: Skate in the Park — 15th Season at Acacia Park
+- **Date:** 2026-11-17
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** 15th season, opened Nov 13, daily through Jan 2027. $15/person includes skate rental. Children 4 and under free with paying adult. Active-duty military/first responders $2 off. City of Colorado Springs Parks, Recreation & Cultural Services program.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+---
+
 ## November 16, 2026
 
 ### Story 1: CPSC Recalls — Infant Walkers, Safety Gates, Soother Clips

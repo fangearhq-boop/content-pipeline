@@ -1,5 +1,35 @@
 # COS Parenting — Pipeline Status
 
+## Current Run: 2026-11-17
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Skate in the Park 15th season HIGH from coloradosprings.gov (opened Nov 13, daily through Jan 2027, $15 incl. rental, ages 4 and under free). Weekend events: Vintage Market Days Nov 21-23 Norris Penrose; PPBC Holiday Craft Fair Sat Nov 22 9 AM; Rampart Craft Bazaar Sat Nov 22. CPSC recalls: Mommy & Me Pack & Play mattresses (suffocation/entrapment HIGH from cpsc.gov); HAUOMS eight-drawer dressers 1,392 units (tip-over/entrapment HIGH from cpsc.gov). D11 bond accountability protest: community members gathered ~Nov 10 demanding transparent bond spending (FOX21 News), independent oversight committee proposed, matter in litigation. AAP 2026-27 flu guidance: 190 pediatric deaths last season, 49.4% vaccination rate, Colorado first pediatric death this season; two-dose rule for children 6mo-8yr; baloxavir now generic. |
+| Story History Check | COMPLETE | S1 NEW (Weekend Roundup — Thursday required, Nov 21-23 dates distinct from prior roundups); S2 NEW (Mommy & Me + HAUOMS recalls — distinct from Nov 16 infant walkers/gates/soother clips); S3 FOLLOW-UP (Nov 16 S3: implementation timeline → accountability protest/oversight); S4 NEW (AAP flu guidance deeper dive — prior flu coverage Nov 11 S4 was AAP intro, this covers two-dose rule + Colorado-specific data); S5 NEW (Skate in the Park 15th season standalone — Nov 13 S5 holiday calendar mentioned it briefly) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; coloradosprings.gov for Skate in the Park; cpsc.gov for both recalls; FOX21 for D11 protest; Pediatrics/AAP for flu guidance |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories (2 for S1+S2, 1 for S3-S5); all ≤280 chars; 4 hashtags each; #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; contractions; 0 exclamation marks; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only concepts (2 per story); clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0; dimensions 1200x675 (social) + 1200x630 (hero) |
+| Articles (5) | COMPLETE | article-01 Weekend Roundup Nov 21-23 (Jamie Rivera T1 ~700w, quick reference table, required springsdaily.com links); article-02 CPSC recalls play yard mattresses + dressers (Sarah Morales T1 ~600w, running November table); article-03 D11 bond accountability protest (Jamie Rivera T2 ~600w); article-04 AAP 2026-27 flu guidance (Sarah Morales T2 ~700w, quick reference table); article-05 Skate in the Park 15th season (Jamie Rivera T2 ~500w) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 78 claims auto-extracted; all stories present; PASSED; image manifest title-match warnings (cosmetic, pre-existing) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 5 images; posting window warnings (cosmetic) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × social + hero), all not_started, gemini base_only, dimensions 1200x675 (social) + 1200x630 (hero), brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-11-17.xlsx (7 posts) + cosp-postplanner-tobi-2026-11-17.xlsx (7 TOBI posts) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 17 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB image captions
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **Key stories:** Thursday Weekend Family Roundup Nov 21-23 (Skate in the Park, Vintage Market Days, two craft fairs); CPSC recalls Mommy & Me play yard mattresses (suffocation) + HAUOMS 8-drawer dressers 1,392 units (tip-over); D11 bond accountability protest (~Nov 10, oversight committee proposed); AAP 2026-27 flu guidance (two-dose rule for children 6mo-8yr, 190 deaths last season, Colorado first pediatric death); Skate in the Park 15th season standalone feature (Acacia Park, $15/person incl. rental, ages 4 and under free)
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); PostPlanner FB=0 in export (pre-existing format mismatch); image manifest title-match warnings (cosmetic, pre-existing)
+
+---
+
 ## Current Run: 2026-11-16
 
 | Step | Status | Notes |
