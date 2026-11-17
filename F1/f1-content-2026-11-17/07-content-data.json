@@ -1,0 +1,312 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-17",
+  "compiled_at": "2026-11-17T11:22:45.396970+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Las Vegas GP Preview — The Final Showdown Stage Sets Up for Saturday",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "48 hours until Las Vegas. 🎰\n\nRound 21 of 23. The Strip circuit. Saturday night race under the neon lights.\n\nVerstappen and Russell are separated by points. The P2 Drivers' fight is ALIVE.\n\n#LasVegasGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LasVegasGP",
+            "#F1"
+          ],
+          "char_count": 204
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The championship is settled. But Las Vegas is NOT a formality.\n\nVerstappen vs. Russell. Norris pushing for wins. Ferrari needing a statement.\n\nThree races left. The neon stage is set. #LasVegasGP #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LasVegasGP",
+            "#F1Fanrecap"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-las-vegas-gp-2026-preview.html",
+        "headline": "Las Vegas Grand Prix 2026 Preview: P2 Battle, McLaren Momentum, and the Final Neon Showdown",
+        "word_count": 498
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Antonelli's Lap of Honor — What Three Races Remain for the Youngest Champion in History",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Kimi Antonelli. 20 years old. Youngest F1 World Champion in history.\n\nHe enters Las Vegas racing without pressure, but with a chance to add more wins to an already legendary season.\n\nThree races. A kid chasing history. #F1 #Antonelli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Antonelli"
+          ],
+          "char_count": 233
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Sebastian Vettel held the record. Now Kimi Antonelli does.\n\nThe youngest F1 champion. Second season in the sport. The 2026 title is his.\n\nWhat will the final 3 races look like for a 20-year-old with nothing to prove? #F1 #Antonelli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Antonelli"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-antonelli-youngest-f1-champion-legacy.html",
+        "headline": "Kimi Antonelli's Lap of Honor: What Three Races Mean for F1's Youngest Champion",
+        "word_count": 559
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Verstappen vs. Russell — P2 Drivers' Battle Reaches Sin City",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Max Verstappen. George Russell. Three races to decide P2.\n\nThe Drivers' championship is Antonelli's. But the runner-up battle is REAL.\n\nLas Vegas this weekend. Then Qatar. Then Abu Dhabi. #F1 #LasVegasGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-verstappen-russell-p2-battle-las-vegas.html",
+        "headline": "Verstappen vs. Russell: The P2 Drivers' Battle Heads to Las Vegas With Three Races Left",
+        "word_count": 488
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Norris Eyes Vegas Redemption After Brazil Masterclass",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Lando Norris won Brazil in the wet last weekend.\n\nMcLaren arrives in Las Vegas with momentum and a race-winning car.\n\nThe title's gone, but Norris has nothing to lose. Can he do it again? #F1 #Norris",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Norris"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-norris-mclaren-brazil-to-las-vegas.html",
+        "headline": "Norris Looks to Carry Brazil Momentum into Las Vegas After McLaren's Race-Winning Drive",
+        "word_count": 461
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Ferrari's Las Vegas Redemption Quest Continues",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Ferrari need a statement. Las Vegas is the stage.\n\nLeclerc and Hamilton arrive in Nevada looking to close out a complicated 2026 season on the right note.\n\nCan the Scuderia deliver? #F1 #Ferrari #LasVegasGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Ferrari",
+            "#LasVegasGP"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-ferrari-las-vegas-redemption.html",
+        "headline": "Ferrari Seek Las Vegas Redemption as Leclerc and Hamilton Target a Strong Season Close",
+        "word_count": 506
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

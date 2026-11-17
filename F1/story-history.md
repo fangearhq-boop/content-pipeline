@@ -789,3 +789,42 @@
 - **Key facts:** Antonelli 390 pts, youngest champion in history; 3 races remain (Las Vegas, Qatar, Abu Dhabi); Mercedes 9th constructors' title sealed
 - **Byline:** Elena Voss
 - **Status:** FOLLOW UP
+
+---
+
+## 2026-11-17
+
+### STORY 1: Las Vegas GP Preview — The Final Neon Showdown (Round 21 of 23)
+- **Tier:** 1
+- **Category:** Las Vegas Grand Prix / 2026 F1 Season
+- **Key facts:** Race Nov 19-21, 2026; race 20:00 PST Saturday Nov 21 (04:00 GMT Nov 22); 50 laps; Round 21 of 23; Verstappen vs. Russell for P2
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: Antonelli's Lap of Honor — Youngest Champion's Final 3 Races
+- **Tier:** 1
+- **Category:** Kimi Antonelli / Mercedes / 2026 F1 Drivers' Championship
+- **Key facts:** Antonelli clinched title at Mexico City GP Nov 1; age 20; youngest F1 champion in history; broke Vettel's record; second F1 season; Mercedes won Constructors' at Brazil Nov 8
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
+### STORY 3: Verstappen vs. Russell — P2 Drivers' Battle at Las Vegas
+- **Tier:** 2
+- **Category:** Max Verstappen / Red Bull / George Russell / Mercedes
+- **Key facts:** 3 races remaining; Verstappen won Mexico City; Russell chasing from behind; both competing for P2 in Drivers' standings
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 4: Norris Eyes Vegas Redemption After Brazil Win
+- **Tier:** 2
+- **Category:** Lando Norris / McLaren / Las Vegas GP / Brazil GP
+- **Key facts:** Norris won Brazil GP Nov 8 in wet conditions; Verstappen 2nd, Hadjar 3rd; McLaren MCL40 race-winning package
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: Ferrari Las Vegas Redemption Quest
+- **Tier:** 3
+- **Category:** Ferrari / Charles Leclerc / Lewis Hamilton / Las Vegas GP
+- **Key facts:** Leclerc demoted at Brazil via penalty; Hamilton in his first Ferrari season; seeking strong finish to 2026
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP

@@ -1,8 +1,29 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-11-16
+## Last Run: 2026-11-17
 
 **Status:** COMPLETE (with known proxy limitations)
+
+---
+
+### 2026-11-17 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 20 claims, HIGH: 33; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 0 FB posts (known parsing), 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (22 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via git remote with PAT
+
+**Stories covered:**
+1. T1 NEW: Las Vegas GP Preview — Round 21, Nov 19-21; race 20:00 PST Sat; P2 battle stakes (Ryan Calloway)
+2. T1 FOLLOW UP: Antonelli youngest F1 champion, lap of honor — 3 races remain (Elena Voss)
+3. T2 NEW: Verstappen vs. Russell — P2 Drivers' battle at Las Vegas (Marcus Cole)
+4. T2 FOLLOW UP: Norris eyes Las Vegas after Brazil win, McLaren momentum (Ryan Calloway)
+5. T3 FOLLOW UP: Ferrari Las Vegas redemption — Leclerc/Hamilton need strong close (Elena Voss)
 
 ---
 
