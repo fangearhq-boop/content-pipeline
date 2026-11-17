@@ -1,0 +1,305 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-17",
+  "compiled_at": "2026-11-17T11:17:08.996367+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Pelicans 115, Warriors 94 — Fears Delivers First Career Triple-Double, Ends 6-Game Skid",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Jeremiah Fears just made history.\n\nFIRST career triple-double as New Orleans ended a 6-game skid with a 115-94 blowout of Golden State.\n\nSaddiq Bey: 23 PTS (5 threes). Zion: 16 PTS. The Pelicans are BACK.\n\n#Pelicans",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Pelicans"
+          ],
+          "char_count": 215
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Six-game losing streak? Gone.\n\nNew Orleans just hammered Golden State 115-94. Jeremiah Fears triple-double. Bey 23. Zion 16.\n\nThe Pelicans showed up. #Pelicans #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Pelicans",
+            "#NBA"
+          ],
+          "char_count": 164
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-fears-first-triple-double-pelicans-warriors.html",
+        "headline": "Jeremiah Fears Delivers First Career Triple-Double as Pelicans Rout Warriors 115-94",
+        "word_count": 542
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "76ers 135, Nets 123 — Embiid Season-High 37, Brown 31, Playing Without LeBron",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "No LeBron? No problem.\n\nJoel Embiid: 37 PTS (season high).\nJaylen Brown: 31 PTS.\nResult: 76ers 135, Nets 123.\n\nThis Sixers duo is a problem for the entire East. #Sixers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sixers"
+          ],
+          "char_count": 168
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Embiid (37) + Brown (31) = 68 combined.\n\nLeBron James was OUT with his back. Didn't matter.\n\nThe 76ers obliterated the Nets 135-123. Philly's depth is REAL. #Sixers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sixers"
+          ],
+          "char_count": 164
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-embiid-season-high-37-sixers-nets.html",
+        "headline": "Embiid Drops Season-High 37, Brown Adds 31 as 76ers Roll Past Nets 135-123 Without LeBron",
+        "word_count": 591
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Heat 128, Rockets 110 — Giannis Leads Miami to 5th Straight Win",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Giannis. Miami. Five straight wins.\n\nThe Greek Freak: 20 PTS / 13 REB as the Heat routed Houston 128-110. Miami never trailed.\n\nThe Giannis era in South Beach is working. #HeatNation",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HeatNation"
+          ],
+          "char_count": 182
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-giannis-heat-five-game-win-streak.html",
+        "headline": "Giannis Leads Heat to Fifth Straight Win with 20-Point, 13-Rebound Night Over Rockets",
+        "word_count": 536
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Timberwolves 106, Trail Blazers 98 — Shannon Jr. Posts Career-High 34, Gobert 18/15",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Terrence Shannon Jr. just set a NEW career high.\n\n34 points vs. Portland last night. Rudy Gobert added 18 PTS / 15 REB.\n\nTimberwolves hold off the Blazers 106-98. #Timberwolves",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Timberwolves"
+          ],
+          "char_count": 176
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-shannon-jr-career-high-timberwolves-blazers.html",
+        "headline": "Shannon Jr. Sets Career High with 34 Points, Gobert Dominates as Timberwolves Top Blazers 106-98",
+        "word_count": 554
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Magic 115, Celtics 105 — Orlando Upsets Boston",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "UPSET ALERT: Orlando Magic 115, Boston Celtics 105.\n\nThe Magic knocked off the Celtics on the road Monday night.\n\nBoston absorbs an unexpected loss as NBA Cup group play heats up. #Magic",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Magic"
+          ],
+          "char_count": 186
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-magic-upset-celtics.html",
+        "headline": "Orlando Magic Knock Off Boston Celtics 115-105, Raise Questions About Eastern Conference Contenders",
+        "word_count": 506
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

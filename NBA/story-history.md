@@ -1146,3 +1146,42 @@
 - **Key facts:** Magic at Celtics, Bulls at Cavs, Grizzlies at Wizards — all 7 PM ET; NBA Cup group play through Nov 27
 - **Byline:** Marcus Cole
 - **Status:** NEW
+
+---
+
+## 2026-11-17
+
+### STORY 1: Pelicans 115, Warriors 94 — Fears First Career Triple-Double, Ends 6-Game Skid
+- **Tier:** 1
+- **Category:** New Orleans Pelicans / Golden State Warriors / Jeremiah Fears
+- **Key facts:** Fears first career triple-double; Saddiq Bey 23 pts (5 threes); Zion 16 pts; Pelicans snapped 6-game losing streak; 21-pt margin
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: 76ers 135, Nets 123 — Embiid Season-High 37, Brown 31, Playing Without LeBron
+- **Tier:** 1
+- **Category:** Philadelphia 76ers / Brooklyn Nets / Joel Embiid / Jaylen Brown / LeBron James
+- **Key facts:** Embiid 37 pts (season high); Brown 31 pts; LeBron James out (back/sciatica); 76ers won without LeBron; Embiid+Brown combined 68 pts
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Heat 128, Rockets 110 — Giannis Leads Miami to 5th Straight Win
+- **Tier:** 2
+- **Category:** Miami Heat / Houston Rockets / Giannis Antetokounmpo
+- **Key facts:** Giannis 20 pts/13 reb; Heat 5-game win streak; Miami never trailed; Giannis first full season in Miami (traded from Bucks June 2026)
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: Timberwolves 106, Trail Blazers 98 — Shannon Jr. Career-High 34, Gobert 18/15
+- **Tier:** 2
+- **Category:** Minnesota Timberwolves / Portland Trail Blazers / Terrence Shannon Jr. / Rudy Gobert
+- **Key facts:** Shannon Jr. career-high 34 pts (prev best 33 on Apr 8, 2026 vs. Orlando); Gobert 18 pts/15 reb
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: Magic 115, Celtics 105 — Orlando Upsets Boston
+- **Tier:** 3
+- **Category:** Orlando Magic / Boston Celtics
+- **Key facts:** Magic road upset; Boston home loss; NBA Cup group stage ongoing
+- **Byline:** Marcus Cole
+- **Status:** NEW
