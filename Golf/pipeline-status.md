@@ -1,9 +1,30 @@
 # Golf Fanrecap — Pipeline Status
 
-## Last Run: 2026-11-16
+## Last Run: 2026-11-17
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** Golf Fanrecap
+
+---
+
+### 2026-11-17 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, image manifest, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 24 claims, HIGH: 40; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 0 FB posts (known parsing), 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (22 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via git remote with PAT
+
+**Stories covered:**
+1. T1 NEW: PGA Tour CEO rules out LIV player returns — Rolapp "no plans"; Rahm/DeChambeau/DJ in limbo; Koepka only returnee ($5M charity, no equity for 5yr) (Ryan Calloway)
+2. T1 NEW: CME Group Tour Championship preview — Nov 19-22 Naples FL, $11M purse, Thitikul defending at -26, Korda world No. 1 in field (Jake Torres)
+3. T2 FOLLOW UP: LIV Golf legacy — 4 years, $5B, Chapter 11; what disruption meant for golf; PGA Tour elevated prizes as response (Marcus Cole)
+4. T2 NEW: Scheffler's historic 2026 season — 67.86 avg, 20+ No. 1 stats, FedEx Cup, surpassed Tiger in career earnings (Jake Torres)
+5. T3 FOLLOW UP: RSM Classic season finale preview — Nov 19-22 Sea Island, $7.4M purse, Scheffler not in field (Ryan Calloway)
 
 ---
 

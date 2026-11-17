@@ -1,0 +1,311 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-17",
+  "compiled_at": "2026-11-17T11:30:17.354255+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "PGA Tour CEO: No Plans to Bring Back LIV Golf Players",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "PGA Tour CEO Brian Rolapp today: \"no plans\" to bring back LIV Golf players.\n\nNo new Returning Member Programme. Rules will be enforced.\n\nLIV bankrupt. Rahm, DeChambeau, Dustin Johnson left in limbo. 🚨\n\n#PGATour #LIVGolf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#LIVGolf"
+          ],
+          "char_count": 219
+        },
+        {
+          "label": "Post 1-2",
+          "text": "LIV Golf is bankrupt. $5 billion spent by Saudi Arabia.\n\nThe PGA Tour just told them: \"no plans\" to welcome players back.\n\nRahm, DeChambeau, Dustin Johnson. What happens next? #PGATour #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#Golf"
+          ],
+          "char_count": 190
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-pga-tour-no-liv-player-returns.html",
+        "headline": "PGA Tour CEO: No Plans to Welcome Back LIV Golf Players as League Heads to Liquidation",
+        "word_count": 583
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "CME Group Tour Championship Preview — LPGA's $11M Season Finale Starts Thursday",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The LPGA's $11M season finale starts Thursday.\n\nCME Group Tour Championship. Naples, FL. The top 60 players.\n\nThitikul is defending. Korda is No. 1 in the world.\n\nBest LPGA event of the year. #LPGA #CMEGroupTourChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#CMEGroupTourChampionship"
+          ],
+          "char_count": 223
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Jeeno Thitikul won the 2025 CME Group Tour Championship at -26.\n\nShe won her 4th LPGA title of 2026 at the Lotte Championship.\n\nShe arrives in Naples as defending champ and in-form favorite. 🏆\n\n#LPGA #Thitikul",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#Thitikul"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-cme-group-tour-championship-2026-preview.html",
+        "headline": "CME Group Tour Championship 2026 Preview: Thitikul, Korda, and the LPGA's $11M Finale",
+        "word_count": 615
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "LIV Golf's Legacy — What the Collapse Means for Professional Golf",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "LIV Golf. 2022-2026. $5 billion invested by Saudi Arabia.\n\nResult: Chapter 11 bankruptcy filed September 2026. Folded November 5.\n\nThe most expensive disruption in golf history is over. What did it change?\n\n#LIVGolf #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#Golf"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-liv-golf-legacy-collapse.html",
+        "headline": "LIV Golf's Legacy: What Four Years of Disruption Meant for Professional Golf",
+        "word_count": 691
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Scheffler's Historic 2026 FedEx Cup Season by the Numbers",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Scottie Scheffler's 2026 season by the numbers:\n\n67.86 scoring average.\nNo. 1 in 20+ stats.\nFedEx Cup champion.\nPassed Tiger Woods in career earnings.\n\nThe best individual season in modern PGA Tour history? #Golf #Scheffler",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Golf",
+            "#Scheffler"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-scheffler-historic-2026-season.html",
+        "headline": "Scottie Scheffler's 2026 Season Was One of the Greatest in PGA Tour History",
+        "word_count": 618
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "RSM Classic Final Prep — Sea Island Awaits PGA Tour's Season Finale",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The PGA Tour's 2026 season closes at Sea Island this week.\n\nThe RSM Classic at Sea Island Golf Club, Nov 19-22. $7.4M purse.\n\nOne last chance for history before the books close on 2026. #RSMClassic #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RSMClassic",
+            "#PGATour"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-rsm-classic-2026-preview.html",
+        "headline": "RSM Classic 2026 Preview: The PGA Tour's Season Finale at Sea Island",
+        "word_count": 568
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

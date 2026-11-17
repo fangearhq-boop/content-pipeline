@@ -2,6 +2,45 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-11-17 Stories
+
+### STORY 1: PGA Tour CEO Rules Out LIV Golf Player Returns
+- **Tier:** 1
+- **Category:** PGA Tour / LIV Golf / Brian Rolapp / Reinstatement
+- **Key facts:** CEO Brian Rolapp confirms no Returning Member Programme; "rules matter and they will be enforced"; LIV Chapter 11 Sept 2026; folded Nov 5; liquidation Jan 2027; $45M+ owed players; Rahm $100M+; Koepka only returnee ($5M charity, no FedEx Cup bonus, no equity for 5yr); Patrick Reed left without formal reinstatement; Rahm/DeChambeau/DJ in limbo
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: CME Group Tour Championship 2026 Preview
+- **Tier:** 1
+- **Category:** LPGA / CME Group Tour Championship / Thitikul / Korda
+- **Key facts:** Nov 19-22; Tiburon Golf Club, Naples FL; $11M purse; $2M winner; top 60 players; Thitikul defending at -26 (2025); Thitikul 4th LPGA title 2026 at Lotte Championship; Nelly Korda world No. 1 in field
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 3: LIV Golf's Legacy — What the Collapse Means for Golf
+- **Tier:** 2
+- **Category:** LIV Golf / Bankruptcy / Legacy / Professional golf
+- **Key facts:** 2022-2026; ~$5B invested by Saudi PIF; PIF pulled funding April 2026; Chapter 11 Sept 2026; folded Nov 5; $45M+ owed players; Rahm $100M+; McIlroy/Scheffler never left PGA Tour; PGA Tour elevated prize funds/Player Equity as response; no US TV relevance achieved; Jan 2027 liquidation target
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 4: Scheffler's Historic 2026 FedEx Cup Season
+- **Tier:** 2
+- **Category:** PGA Tour / Scottie Scheffler / FedEx Cup / Historic season
+- **Key facts:** 67.86 scoring average; No. 1 in 20+ PGA Tour stats; 3 wins (American Express, 3M Open, FedEx St. Jude); 13 top-5 finishes in 20 starts; 2nd FedEx Cup title (also 2024); surpassed Tiger Woods in all-time PGA Tour career earnings
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: RSM Classic 2026 Season Finale Preview
+- **Tier:** 3
+- **Category:** PGA Tour / RSM Classic / Sea Island
+- **Key facts:** Nov 19-22; Sea Island Golf Club, St. Simons Island GA; $7.4M purse; Plantation Course + Seaside Course; card-securing finishes still available; FedEx Cup already Scheffler's; 2025 winner Valimaki; Scheffler not in field
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+---
+
 ## 2026-11-16 Stories
 
 ### STORY 1: Lindy Duncan Wins The ANNIKA — First LPGA Title in 222nd Career Start
