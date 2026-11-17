@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## Pipeline Run: 2026-11-17
+
+### Story 1: QO Deadline Day — Arozarena Declines, Suzuki Out, Full Free Agency Opens at 4 PM ET
+- **Date:** 2026-11-17
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** TODAY at 4 PM ET QO deadline expires. Arozarena confirmed decline. Suzuki's agent confirmed decline at GM Meetings. Bednar, Rogers, Jeffers, Lowe, Morejon all expected to follow. May be last QO cycle in MLB history — MLBPA wants QOs eliminated in next CBA. Mariners/Cubs each receive compensatory picks.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - First post-QO signings starting Nov 18
+  - Arozarena/Suzuki market development
+
+### Story 2: Skubal at the Finish Line — Mets Favorite, $400M Deal Must Come Before Dec. 1
+- **Date:** 2026-11-17
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Mets made in-person pitch in Orange County. Jon Heyman: Mets "probably the favorite." 6 finalists: Mets, Dodgers, Padres, Blue Jays, two unnamed. Dodgers GM Gomes confirmed interest. $400M ceiling per ESPN. $44M AAV floor shatters Yamamoto's $27M record. Skubal wants to sign before Dec 1 CBA expiration.
+- **Content Produced:** Article (article-02, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Skubal signing announcement
+  - If deal closes before Dec 1 deadline
+
+### Story 3: Owners Meetings Day 1 — Labor Gap Wide, 14 Days to Freeze
+- **Date:** 2026-11-17
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Day 1 of Nov 17-19 owners meetings. CBA expires Dec 1 — exactly 14 days. Owners pushing salary cap and 5-year max contracts. MLBPA flatly rejected both. No progress reported from any outlet. Last lockout: 99 days. 2027 season at risk.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Day 2 and Day 3 owners meetings (Nov 18-19)
+  - Any CBA breakthrough or breakdown news
+
+### Story 4: Jazz Chisholm — Blue Jays Frontrunner, 11 Teams, Personal Meetings Starting
+- **Date:** 2026-11-17
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Jon Morosi: 11 teams engaged. Shi Davidi (Sportsnet): Blue Jays frontrunner. Toronto vision: Chisholm at 2B, Clement to super-utility. Yankees moving on. No QO — no draft pick penalty. 2026: .231/.312/.399, 19 HR, 41 SB. Personal meetings starting this week.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Personal meetings outcome
+  - Signing announcement
+
+### Story 5: 14 Days to Freeze — The Pre-Lockout Sprint Is On
+- **Date:** 2026-11-17
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Dec 1 hard deadline — all transactions freeze if lockout. 14 days to sign or wait until spring. Teams most pressured: Cubs (need full rotation), Orioles (need SP), Yankees (replacing Chisholm), Red Sox (need SP depth). Yamamoto's 45-day window (posted Nov 1) closes Dec 16 — CBA freeze may prevent signing.
+- **Content Produced:** Article (article-05, Jake Torres), 2 X posts, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Transaction tracker as deals close before Dec 1
+  - If CBA resolution comes before deadline
+
+---
+
 ## November 16, 2026
 
 ### Story 1: QO Deadline Tomorrow — Seven Players, $23 Million, One Day Left to Decide

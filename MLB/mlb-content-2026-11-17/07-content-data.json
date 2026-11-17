@@ -1,0 +1,427 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-17",
+  "compiled_at": "2026-11-17T10:27:03.933094+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 — QO Deadline Day Results",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 — Skubal Watch",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 — Owners Meetings Day 1",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 — Jazz Chisholm",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "Story 5 — 14-Day Sprint",
+      "type": "X + Facebook"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "QO Deadline Day — Arozarena Declines, Suzuki Set to Follow, Full Free Agency Opens",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Arozarena declining. Suzuki declining. Full MLB free agency opens TODAY at 4 PM ET.\n\nSeven players. $23.15M on the table. All expected to say no.\n\nThis may be the last qualifying offer cycle in MLB history. #MLB #Mariners #Cubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Mariners",
+            "#Cubs"
+          ],
+          "char_count": 227
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Mariners get a draft pick for Arozarena. Cubs get one for Suzuki.\n\nSmall consolation. Big free agency market just opened.\n\nWho wins the QO era's possible final day? #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 169
+        }
+      ],
+      "facebook": {
+        "long_form": "Today at 4 PM ET, the qualifying offer deadline expires — and free agency fully opens for seven of baseball's best players.\n\nRandy Arozarena has already confirmed he's declining Seattle's $23.15M offer. Seiya Suzuki's agent Joel Wolfe told reporters at the GM Meetings that Suzuki will decline Chicago's offer as well. Bednar, Rogers, Jeffers, Lowe, and Morejon are all expected to follow.\n\nThe Mariners and Cubs each get compensatory draft picks — small consolation for losing cornerstone players. But the bigger story may be what this day represents: the possible final qualifying offer cycle in MLB history. With the CBA expiring December 1, the MLBPA has signaled it wants the QO system eliminated in the next collective bargaining agreement.\n\nSeven star players hitting the open market simultaneously. History watching from the edges. What a day.",
+        "image_caption": "Today at 4 PM ET, seven players officially become free agents — and it may be the last qualifying offer deadline in baseball history. What do you think happens to the QO system in the next CBA?",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-qo-deadline-day-free-agency-opens.html",
+        "headline": "QO Deadline Day: Arozarena Declines, Suzuki Out, Full Free Agency Opens at 4 PM ET",
+        "word_count": 849
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Breaking Post",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Draft Pick Compensation",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "sports.mynorthwest.com",
+          "url": "https://sports.mynorthwest.com/mlb/seattle-mariners/report-randy-arozarena-rejects-seattle-mariners-qualifying-offer",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sportsmockery.com",
+          "url": "https://www.sportsmockery.com/chicago-cubs/seiya-suzuki-takes-one-step-closer-to-leaving-the-chicago-cubs/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "cbssports.com",
+          "url": "https://www.cbssports.com/mlb/news/mlb-qualifying-offer-2027-contract/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "spotrac.com",
+          "url": "https://www.spotrac.com/mlb/qualifying-offer",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Skubal at the Finish Line — Mets Favorite, $400M Deal Must Come Before Dec. 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Mets are \"probably the favorite\" for Tarik Skubal — Jon Heyman.\n\nIn-person pitch made in Orange County. Six finalists remain. $400M ceiling.\n\nHe wants to sign before December 1. The clock is running. #MLB #Mets",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Mets"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "The Mets flew to Orange County to make their pitch to Tarik Skubal in person — and according to Jon Heyman of the New York Post, they're \"probably the favorite.\"\n\nSix teams remain in the running: the Mets, Dodgers, Padres, Blue Jays, and two unnamed clubs. Dodgers GM Brandon Gomes has confirmed the team is engaged. Contract ceiling per ESPN: $400 million. AAV floor: $44 million — which would shatter Yoshinobu Yamamoto's previous record of $27 million per year by more than $17 million.\n\nThe urgency is real. Skubal turns 30 this month and wants this done before December 1 when the CBA expires and transactions freeze. If a lockout follows, any team that hasn't signed him waits until spring at the earliest.\n\nMets fans: how are you feeling about those odds?",
+        "image_caption": "The Mets are \"probably the favorite\" for Tarik Skubal — and the $400M ceiling would make him the richest pitcher in baseball history. Would you do it?",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-skubal-mets-favorite-400m-deal.html",
+        "headline": "Mets Favorite to Land Skubal in $400M Deal Before Dec. 1 Freeze",
+        "word_count": 764
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Mets Favorite",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "$44M AAV Record",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "clutchpoints.com",
+          "url": "https://clutchpoints.com/mlb/mlb-stories/mets-news-tarik-skubal-has-in-person-meeting-with-ny-amid-high-profile-free-agency",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "mlbtraderumors.com",
+          "url": "https://www.mlbtraderumors.com/2026/11/dodgers-expect-to-have-meeting-with-tarik-skubal.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "athlonsports.com",
+          "url": "https://athlonsports.com/mlb/los-angeles-dodgers/dodgers-receive-tarik-skubal-mets-update-amid-mlb-free-agency",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Owners Meetings Day 1 — Labor Gap Wide, 14 Days to Freeze or Deal",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Owners meetings start today. CBA expires in 14 days. No progress reported.\n\nOwners want a salary cap and 5-year max contracts. MLBPA has refused both.\n\nDecember 1 is coming fast. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 183
+        }
+      ],
+      "facebook": {
+        "long_form": "The owners began their three-day meetings today in what may be the most consequential gathering in a generation. CBA expires December 1 — exactly 14 days from now.\n\nThe ownership side is pushing a salary cap and a five-year maximum contract length for free agents. The MLBPA has repeatedly and publicly rejected both proposals. Commissioner Manfred has pledged a lockout if no deal is reached by midnight December 1.\n\nFor context: the last MLB lockout ran from December 2021 through March 2022 — 99 days. The 2027 season isn't in jeopardy yet, but it's on the board if this drags.\n\nNo progress has been reported from any outlet on Day 1. The Winter Meetings, typically scheduled for December, could be canceled entirely if a lockout takes hold.\n\nWatch this space.",
+        "image_caption": "Owners meetings started today. CBA expires in 14 days. No progress yet. What's your take — do we get a deal, or does the lockout hit?",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-owners-meetings-cba-countdown-14-days.html",
+        "headline": "Owners Meet, Labor Gap Yawns: 14 Days to Deal or Lockout",
+        "word_count": 802
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Labor Countdown",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "The Gap",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "foxsports.com",
+          "url": "https://www.foxsports.com/articles/mlb/mlb-owners-meet-amid-labor-negotiations-with-players-union",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "ground.news",
+          "url": "https://ground.news/article/mlb-proposes-limiting-most-free-agent-contracts-to-5-years-and-15-of-a-teams-salary-cap_5a07df",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Jazz Chisholm — Blue Jays Frontrunner, 11 Teams Engaged, in-Person Meetings This Week",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jon Morosi: 11 teams engaged with Jazz Chisholm.\n\nBlue Jays are the frontrunner — Shi Davidi (Sportsnet).\n\nNo qualifying offer. No draft pick penalty. Best value on the free agent market. #MLB #BlueJays",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#BlueJays"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "Jon Morosi of MLB Network reports 11 teams are engaged in Jazz Chisholm's free agency market — and according to Shi Davidi of Sportsnet, the Toronto Blue Jays have emerged as the frontrunner.\n\nToronto's vision: Chisholm at second base, with Addison Clement sliding into a super-utility role. The Yankees, who had Chisholm last year, are not expected to return to the table.\n\nHere's what makes Chisholm uniquely valuable right now: no qualifying offer. The team that signs him pays no draft pick penalty — something you can't say about most of the marquee names on the board. Combined with his 2026 numbers (.231/.312/.399, 19 HR, 41 SB) and 2025 showing (31 HR, 31 SB), he represents elite athleticism and position flexibility.\n\nPersonal meetings are expected this week. If you're a Blue Jays fan, now is a very good time to be excited.",
+        "image_caption": "11 teams want Jazz Chisholm. The Blue Jays are ahead. No qualifying offer means no draft pick cost — and 41 stolen bases last year. This is the best pure value on the free agent market.",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-jazz-chisholm-blue-jays-frontrunner.html",
+        "headline": "Blue Jays Frontrunner for Jazz Chisholm as 11-Team Market Heats Up",
+        "word_count": 682
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Blue Jays Frontrunner",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "clutchpoints.com",
+          "url": "https://clutchpoints.com/mlb/mlb-stories/mlb-rumors-jazz-chisholm-jr-free-agency-broad-interest-update",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "thebiglead.com",
+          "url": "https://www.thebiglead.com/yankees-jazz-chisholm-jr-mlb-free-agency-2026/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "14 Days to Freeze — The Pre-Lockout Sprint Is On",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5-1",
+          "text": "The MLB offseason has a hard deadline: December 1 at 11:59 PM ET.\n\nAfter that, lockout. All transactions freeze.\n\nSkubal. Chisholm. Yamamoto. The QO players. 14 days to get it done. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 186
+        },
+        {
+          "label": "Post 5-2",
+          "text": "Every transaction from now carries extra urgency.\n\nCubs need a full rotation. Orioles need pitching. Yankees replacing Chisholm. Red Sox adding SP.\n\n14 days. Then nothing moves until spring. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 195
+        }
+      ],
+      "facebook": {
+        "long_form": "Here's where things stand: December 1 is 14 days away. At 11:59 PM ET, the CBA expires. If a lockout follows — and Commissioner Manfred says one will — all transactions stop. No signings. No trades. The offseason pauses.\n\nThat means every team with an unmet need is working against the same hard clock. Tarik Skubal ($400M, six teams bidding). Jazz Chisholm (11 teams, Blue Jays leading). Yoshinobu Yamamoto (posted November 1, 45-day window closing December 16 — the freeze may prevent any team from completing that deal). Plus seven QO players who just became fully free today.\n\nThe Cubs need an entire rotation. The Orioles need starting pitching. The Yankees need to replace Chisholm. The Red Sox, locked in with Bauers, need SP depth.\n\nFourteen days. Then nothing moves until spring.\n\nThe next two weeks may be the most active transaction stretch in baseball since the last lockout. Buckle up.",
+        "image_caption": "14 days until MLB transactions freeze. Skubal. Chisholm. Yamamoto. All the QO players. The sprint is on — and the clock doesn't stop for anyone.",
+        "posting_time": "10:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-14-days-to-freeze-pre-lockout-sprint.html",
+        "headline": "14 Days to Sign or Wait Until Spring: The Pre-Lockout Sprint Is On",
+        "word_count": 906
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "The Sprint Clock",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "espn.com",
+          "url": "https://www.espn.com/mlb/story/_/id/50328768/free-agency-tracker-offseason-trades-moves-2026-2027",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
