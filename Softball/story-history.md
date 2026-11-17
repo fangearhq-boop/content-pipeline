@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## Pipeline Run: 2026-11-17
+
+### Story 1: January Preseason Poll Race — Who Will the Voters Anoint as No. 1 in 2027?
+- **Date:** 2026-11-17
+- **Tier:** 1
+- **Classification:** FOLLOW UP (class rankings covered Nov 11–16; preseason poll context is new angle)
+- **Angle:** After D1Softball gave Oklahoma No. 1 and SA gave LSU No. 1, the debate shifts to January preseason polls. Oklahoma's case: Wells + Kavan + Hutchens enrolled + five-stars incoming. LSU's case: first SA No. 1 in program history + Gonglik + Bryant. Tennessee's dark horse: best pitching staff in the SEC per many analysts.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - January preseason NFCA/D1Softball/USA Today polls drop
+  - Spring schedule releases from each program
+  - Head-to-head Big 12 matchups (OU vs TTU vs Arizona)
+
+### Story 2: 5-for-5 Clock Ticking — 14 Days to December Portal, Athletes Must Act
+- **Date:** 2026-11-17
+- **Tier:** 1
+- **Classification:** FOLLOW UP (5-for-5 covered continuously Oct 29–Nov 16; Dec 1 deadline angle as 14 days away)
+- **Angle:** December transfer portal opens in 14 days (Dec 1). After Tenth Circuit reversed preliminary injunction in Wisne v. NCAA on Nov 6, 5-for-5 athletes face binary choice: enter portal or lose year. 200+ state cases continue but no ruling before December. 25-player cap makes carrying unplayable athletes a roster liability. Rachel Lawson called situation "casualties."
+- **Content Produced:** Article (article-02, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Portal opening day Dec 1 — specific player entries
+  - State court rulings (ongoing)
+  - 5-for-5 athlete portal decisions
+
+### Story 3: Arizona in December — Caitlin Lowe's First Portal Window Sets the 2027 Ceiling
+- **Date:** 2026-11-17
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Arizona/portal covered Nov 15-16; Lowe's December strategy is new angle)
+- **Angle:** After 15-2 fall and Big 12 DPOY Shockey returning, Arizona still needs pitching — lost Torres (D1Softball National POY) to TTU in summer portal. Lowe's December window (Dec 1-15) is her first chance to fix the program's biggest hole. What she adds or doesn't add defines Arizona's 2027 ceiling.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Arizona portal additions in December
+  - Spring schedule/rotation depth chart
+  - Lowe's first Big 12 conference games
+
+### Story 4: Texas Tech 2027 — The Pickering Effect and Big 12 Title Expectations
+- **Date:** 2026-11-17
+- **Tier:** 2
+- **Classification:** FOLLOW UP (TTU covered Oct 20–Nov 16; preview of spring impact is new angle)
+- **Angle:** Kasidi Pickering (.384 BA, 50 HR, 169 RBI at OU) joins No. 1 transfer class nationally + first five-star freshman in program history Jocelyn Gentry. Glasco's second full season, Big 12 opens March 12. TTU is a genuine WCWS title contender. 50 HR power changes how defenses approach the entire TTU lineup.
+- **Content Produced:** Article (article-04, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - TTU's first Big 12 conference games (March 12)
+  - Head-to-head with OU and Arizona
+  - Pickering stats in first Big 12 action
+
+### Story 5: 2027 Season Calendar — What Happens Between Now and Opening Day
+- **Date:** 2026-11-17
+- **Tier:** 3
+- **Classification:** NEW STORY (evergreen explainer)
+- **Angle:** Offseason roadmap: December portal (Dec 1-15), January preseason polls, spring practice (mid-Jan/early Feb), Big 12 opens March 12. The 5-for-5 situation adds unusual December movement. Season is closer than it feels.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - January preseason poll releases
+  - December portal movement
+  - Spring schedule announcements
+
+---
+
 ## Pipeline Run: 2026-11-16
 
 ### Story 1: Signing Day's Final Verdict — Who Won the 2027 Class?

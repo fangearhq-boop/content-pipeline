@@ -1,0 +1,399 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-17",
+  "compiled_at": "2026-11-17T10:16:57.328015+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 — January Preseason Poll Race",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2 — 5-for-5 Clock Ticking",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 — Arizona December Portal",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 — Texas Tech/Pickering",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 5 — 2027 Offseason Calendar",
+      "type": "X + Facebook"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "January Preseason Poll Race — Who Will the Voters Anoint as No. 1 in 2027?",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "D1Softball: Oklahoma No. 1. Softball America: LSU No. 1.\n\nJanuary's preseason poll is the next vote — and it's the one that counts.\n\nOU has Wells, Kavan, and Hutchens already in Norman.\nLSU has the first SA No. 1 class in program history.\n\nThe debate starts now. #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 279
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The January preseason poll will tell us who won the 2027 class race.\n\nOklahoma: returning veterans + five-stars incoming.\nLSU: Torina's historic No. 1 SA class.\nTennessee: best pitching staff in the SEC.\n\nWho gets your No. 1 vote? #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "Signing Day answered one question and created another.\n\nD1Softball said Oklahoma. Softball America said LSU. Two No. 1 rankings, two different methodologies, two different stories about what makes a great recruiting class.\n\nThe next debate starts in January, when the NFCA, D1Softball, USA TODAY, and ESPN release their preseason Top 25 polls — the ones that actually set the tone for the season.\n\nOklahoma's case is built on experience and elite talent. Julianna \"Goose\" Hutchens — the No. 1 overall recruit — is already in Norman. Kelsi Wells (39 home runs, NFCA Freshman of the Year) and Jocelyn Kavan (two-time WCWS MVP) return to anchor the lineup. Five-star outfielder Finlee Williams and five-star catcher Riley Hilliard are the incoming additions. Patty Gasso has built for now and for later simultaneously.\n\nLSU's case is built on historic achievement. Beth Torina's class claimed the No. 1 spot in Softball America for the first time in program history. Five-star pitcher/utility Sydney Gonglik (No. 1 overall, SA) and four-star pitcher Macie Bryant arrive to give LSU an elite pitching corps. The Tigers went into Signing Day with the program's highest recruiting ceiling ever — and cleared it.\n\nTennessee is the dark horse in this conversation. The Vols return the deepest pitching staff in the SEC — possibly in the country — and their class ranked No. 5-6 nationally. Senior Kelsey Mardjetko (16-3, 1.26 ERA) and junior Nuwer (4 shutouts) return to a staff that head coach Karen Weekly has built into an elite unit with a 2030 contract extension.\n\nWho gets your No. 1 vote? Drop your preseason pick in the comments.",
+        "image_caption": "Two No. 1 classes. One preseason poll. The debate continues. Who is No. 1 in January — Oklahoma, LSU, or Tennessee? #CollegeSoftball #WCWS",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-january-preseason-poll-race-2027.html",
+        "headline": "Oklahoma vs. LSU: Who Gets the January Preseason No. 1 Vote?",
+        "word_count": 708
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "d1softball.com",
+          "url": "https://d1softball.com/2027-signing-class-rankings/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "on3.com",
+          "url": "https://www.on3.com/softball/news/2027-softball-america-signing-class-rankings/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "5-for-5 Clock Ticking — 14 Days to December Portal, Athletes Must Act",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The December portal opens in 14 days.\n\nFor athletes blocked by 5-for-5 — after the Tenth Circuit reversed the injunction Nov. 6 — it's the most consequential 15-day window in college softball history.\n\nEnter portal. Fight in state court. Or lose the year. #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 272
+        },
+        {
+          "label": "Post 2-2",
+          "text": "5-for-5 athletes face a hard binary:\n\nEnter the December portal by Dec. 15.\nOr wait on 200+ state court cases — with no ruling expected before December.\n\nThe 25-player cap makes carrying an unplayable athlete a real roster liability. Decisions have to be made. #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "Fourteen days. That is how long athletes blocked by the NCAA's 5-for-5 rule have to decide what comes next.\n\nThe Tenth Circuit reversed the preliminary injunction in Wisne v. NCAA on November 6. The federal class action protection that had been shielding Class of 2022 athletes from the age-based eligibility rule is gone. Athletes who had been practicing, competing, and planning their fifth year on the belief that federal courts would protect them are now subject to the rule as written — and the December portal opens in 14 days.\n\nThe situation is complicated by the House v. NCAA settlement's 25-player roster cap. Programs carrying athletes who can be rostered under 5-for-5 but cannot practice or play in games are holding roster spots that could otherwise go to contributors. That math is forcing conversations between coaches and athletes that nobody wants to have.\n\nKentucky head coach Rachel Lawson called the unfolding situation one with \"casualties.\" She was right. These are real athletes with real scholarships and real college softball journeys caught in a legal dispute that may not be resolved before they age out of eligibility entirely.\n\nDecember 1 is 14 days away. The clock is running.",
+        "image_caption": "14 days until the December portal. For hundreds of 5-for-5 athletes, it may be the last chance to find a home. #CollegeSoftball #5for5",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-5for5-clock-14-days-december-portal.html",
+        "headline": "14 Days: 5-for-5 Athletes Must Decide Before the December Portal Closes",
+        "word_count": 730
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "si.com",
+          "url": "https://www.si.com/onsi/softball/college/college-softball-remains-in-limbo-as-5-for-5-litigation-continues-to-put-ncaa-on-defense-2026",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "nextcommit.ai",
+          "url": "https://www.nextcommit.ai/blog/ncaa-transfer-portal-windows-2026-27",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Arizona in December — Caitlin Lowe's First Portal Window Sets the 2027 Ceiling",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Arizona went 15-2 this fall. Regan Shockey (Big 12 DPOY) is back. Caitlin Lowe is the right coach.\n\nBut Marissa Torres — D1Softball National POY — is now at Texas Tech.\n\nDecember portal opens Dec. 1. What Lowe adds in the circle defines Arizona's 2027 ceiling. #ArizonaSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ArizonaSoftball"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "Caitlin Lowe's first fall at Arizona was exceptional. The Wildcats went 15-2. Big 12 DPOY Regan Shockey returns. Ten letterwinners are back. The program has real talent.\n\nBut there is one hole that fall ball did not answer: who pitches?\n\nMarissa Torres — the D1Softball National Player of the Year — transferred to Texas Tech in the summer portal. She was Arizona's ace, its front-line pitcher, the reason Wildcat opponents had to build a game plan. She is gone. And her departure left a vacancy that four fall transfer additions did not fully address.\n\nDecember 1 is when the portal opens. For Caitlin Lowe — a former national champion player who understands exactly what it takes to win at the highest level — this window is the first real test of her program-building instincts.\n\nShe can compete at the highest level with what she has. But to reach the WCWS from the new, more competitive Big 12, she needs an ace. What she finds — or does not find — in the December portal sets Arizona's 2027 ceiling.",
+        "image_caption": "15-2 in fall ball. Big 12 DPOY returning. But Caitlin Lowe knows Arizona still needs one more piece. Watch December closely. #ArizonaSoftball",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-arizona-december-portal-caitlin-lowe.html",
+        "headline": "Caitlin Lowe's First Big Test: Finding an Ace in the December Portal",
+        "word_count": 689
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "thisistucson.com",
+          "url": "https://thisistucson.com",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "si.com",
+          "url": "https://www.si.com/onsi/softball/transfer-portal/arizona-adds-4-transfers-including-sister-of-ou-softball-legend",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Texas Tech 2027 — The Pickering Effect and Big 12 Title Expectations",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Kasidi Pickering: .384 BA, 50 HR, 169 RBI in three seasons at Oklahoma.\n\nShe's now a Red Raider.\n\nNo. 1 transfer class nationally. First five-star freshman in program history. Big 12 opens March 12.\n\nBuilt to win a title. #TTUSoftball #BigXII",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TTUSoftball",
+            "#BigXII"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "Here is a number worth memorizing: 50.\n\nThat is how many home runs Kasidi Pickering hit across three seasons at Oklahoma. She also batted .384, drove in 169 runs, and earned NFCA First-Team All-American recognition. She was arguably the most feared bat in college softball.\n\nShe signed with Texas Tech in June.\n\nEric Glasco's program already had the No. 1 transfer class nationally per Softball America, adding Bradi Gallaway, Jayden Heavener, and Moriah Polar to complement returning starters. He signed Jocelyn Gentry — the first five-star freshman in program history. And then Kasidi Pickering.\n\nThe Big 12 opens March 12. When Texas Tech steps onto the field for conference play, they will do so as a program that reached the WCWS finals for the first time in recent memory and then immediately upgraded its roster.\n\nThe question for the Red Raiders entering 2027 is not whether they are good enough to compete. They clearly are. The question is whether Lubbock is ready to be a national championship destination.\n\nBased on everything we can see right now, the answer appears to be yes.",
+        "image_caption": "50 home runs at Oklahoma. Now Kasidi Pickering is a Red Raider — and Texas Tech has never looked more dangerous. The Big 12 opens March 12. #TTUSoftball",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-texas-tech-pickering-effect-2027.html",
+        "headline": "The Pickering Effect: Why Texas Tech Is a 2027 WCWS Title Contender",
+        "word_count": 695
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "texastech.com",
+          "url": "https://texastech.com/news/2026/6/19/softball-red-raiders-sign-kasidi-pickering",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "si.com",
+          "url": "https://www.si.com/onsi/softball/transfer-portal/texas-tech-signs-all-american-transfer-from-oklahoma-continues-portal-haul-2026-kasidi-pickering",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "2027 Season Calendar — What Happens Between Now and Opening Day",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Your 2027 softball offseason calendar:\n\nDec. 1-15 — Transfer portal opens\nJanuary — Preseason No. 1 polls drop\nMid-January — Spring practices begin\nMarch 12 — Big 12 opens (TTU, OU, Arizona, Texas)\n\nThe offseason is busier than the regular season. Stay locked in. #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": {
+        "long_form": "The offseason is not quiet. It never is — but especially not this year.\n\nHere is the calendar every college softball fan should be tracking for the next 90 days.\n\nDecember 1-15: Transfer Portal Opens.\nThis year's window is unlike any previous one. 5-for-5 enforcement after the Tenth Circuit's November 6 reversal is pushing affected athletes toward the portal. Arizona, FSU, and Ole Miss are all actively seeking pitching. The window closes December 15.\n\nJanuary: Preseason Polls and Schedule Releases.\nThe NFCA, D1Softball, USA TODAY, and ESPN will release their preseason Top 25 rankings. Oklahoma vs. LSU for No. 1 is the storyline. Conference schedules also drop, giving fans the first look at when the marquee Big 12 matchups occur.\n\nMid-January to Early February: Spring Practices Begin.\nFull roster preparation begins. New transfers meet returning cores. Spring lineups take shape.\n\nMarch 12: Big 12 Conference Play Opens.\nTexas Tech vs. the Big 12 field — with Kasidi Pickering in the lineup for the first time. OU, Arizona, Texas. The most competitive conference in college softball history opens for business.\n\nStay tuned. This offseason has a long way to go.",
+        "image_caption": "Dec. 1 portal. January polls. March 12 Big 12 opens. The 2027 season is closer than you think. Get ready. #CollegeSoftball",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-2027-offseason-calendar-softball.html",
+        "headline": "Your 2027 College Softball Offseason Calendar: What Happens Between Now and Opening Day",
+        "word_count": 706
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
