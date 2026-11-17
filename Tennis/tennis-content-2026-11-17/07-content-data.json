@@ -1,0 +1,368 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-17",
+  "compiled_at": "2026-11-17T12:12:09.817806+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Alcaraz Crushes Tiafoe 6-2, 6-2 — \"Superman\" ATP Finals Opener",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Carlos Alcaraz opened his ATP Finals campaign with a 6-2, 6-2 demolition of Frances Tiafoe in just 69 minutes. His winning streak moves to 10 matches. Tiafoe's verdict: \"It's unfair — he's like Superman.\" #ATPFinals #Tennis #ATP #Alcaraz",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Alcaraz"
+          ],
+          "char_count": 237
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Alcaraz broke Tiafoe 4 of 5 times and never faced a moment of danger in Turin. He now leads the Ivan Lendl Group at 1-0 and faces Medvedev on Wednesday in what could already be the group decider. #ATPFinals #Tennis #ATP #Alcaraz",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Alcaraz"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "Carlos Alcaraz walked onto the Inalpi Arena on Monday evening and gave his ATP Finals campaign the most emphatic possible start.\n\nHe dismantled Frances Tiafoe 6-2, 6-2 in 69 minutes, breaking Tiafoe's serve four of five times and extending his winning streak to 10 matches. It was the kind of performance that makes you stop and appreciate what you're watching. Tiafoe, one of the more electric personalities on tour, did not sugarcoat it afterward: \"It's unfair — he's like Superman.\"\n\nThis is a player who entered Turin having already won in Vienna and Paris back-to-back. The form that carried him through the fall indoor season came with him to Italy, and it didn't flicker once against a motivated opponent on a big occasion.\n\nAlcaraz now sits at 1-0 in the Ivan Lendl Group. Next up: Daniil Medvedev on Wednesday. If both players keep winning, that match will effectively decide who tops the group.\n\nWhat do you think — is this the year Alcaraz finally wins the ATP Finals?",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-alcaraz-crushes-tiafoe-atp-finals.html",
+        "headline": "Alcaraz Dismantles Tiafoe 6-2, 6-2 to Open ATP Finals — Opponent Calls Him \"Superman\"",
+        "word_count": 582
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alcaraz Crushes Tiafoe 6-2, 6-2\n\n**Image 1A (Social — 1080x1350)**\n- **Search Term:** Carlos Alcaraz\n- **Usage:** X post 1A, Facebook Image Caption post\n- **Notes:** Select dominant/celebrating mid-match image. Strong expression preferred.\n\n**Image 1B (Article Hero — 1200x630)**\n- **Search Term:** Carlos Alcaraz\n- **Usage:** article-01 hero image\n- **Notes:** Select wide action shot or service motion for article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alcaraz Crushes Tiafoe 6-2, 6-2\n**Key Facts:**\n- Carlos Alcaraz defeated Frances Tiafoe 6-2, 6-2 at the ATP Finals in Turin on Monday, November 16 — **HIGH** (NBC Sports, TennisGrandstand)\n- Match took 69 minutes — **HIGH** (NBC Sports)\n- Alcaraz broke Tiafoe 4 of 5 times on Tiafoe's serve — **HIGH** (NBC Sports)\n- Alcaraz's winning streak extended to 10 matches — **HIGH** (TennisGrandstand, NBC Sports)\n- Tiafoe compared Alcaraz to Superman post-match — **HIGH** (NBC Sports)\n- Alcaraz is No. 2 seed, Tiafoe is No. 7 seed at this event — **HIGH** (ATP draw)\n- Alcaraz leads H2H with Tiafoe 2-1 going in — **HIGH** (ATP Tour official)\n- Frances Tiafoe is making his ATP Finals debut — **HIGH** (ATP draw confirmation)\n**Sources:**\n- NBC Sports: \"Alcaraz's dominant display at ATP Finals leads opponent to compare him to Superman\" — https://www.nbcsports.com/tennis/news/alcarazs-dominant-display-at-atp-finals-leads-opponent-to-compare-him-to-superman\n- TennisGrandstand: \"Alcaraz 10-match winning streak ATP Finals\" — https://tennisgrandstand.com/alcaraz-10-match-winning-streak-atp-finals/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Alcaraz's dominant display at ATP Finals leads opponent to compare him to Superman",
+          "url": "https://www.nbcsports.com/tennis/news/alcarazs-dominant-display-at-atp-finals-leads-opponent-to-compare-him-to-superman",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "NBC Sports"
+        },
+        {
+          "name": "Alcaraz 10-match winning streak ATP Finals",
+          "url": "https://tennisgrandstand.com/alcaraz-10-match-winning-streak-atp-finals/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "TennisGrandstand"
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "ATP Finals Day 3 — Fils vs Jodar and Zverev vs Shelton",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "ATP Finals Day 3 in Turin: Fils (0-1) vs Jodar (0-1) is a must-win for both — Jodar leads the H2H 2-1. Then Zverev (1-0) vs Shelton (1-0) in the evening. Zverev is 6-0 against Shelton all-time. #ATPFinals #Tennis #ATP #Zverev",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Zverev"
+          ],
+          "char_count": 225
+        },
+        {
+          "label": "Post 2-2",
+          "text": "One match to stay alive. Fils vs Jodar in the McEnroe Group this afternoon — the loser is eliminated from title contention. Jodar beat Fils in straight sets twice this year already. #ATPFinals #Tennis #ATP #Fils",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Fils"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "Day 3 at the ATP Finals serves up elimination tennis in the McEnroe Group.\n\nArthur Fils (0-1) and Rafael Jodar (0-1) both lost their opening matches. Today's match between them is effectively do-or-die — the loser falls to 0-2 and cannot reach the semifinals. Jodar leads their head-to-head 2-1, with both of his wins this year coming in straight sets on hard courts, the same surface they're playing on in Turin. Fils, the first Frenchman at the ATP Finals since Gaël Monfils in 2016, needs to end that run today.\n\nThen comes the evening: Alexander Zverev (1-0) versus Ben Shelton (1-0). Both players won on Day 1, so this match shapes the top of the McEnroe Group. Zverev leads their head-to-head 6-0 — a run that includes beating Shelton in five sets in the 2026 US Open final. Shelton will be looking to change that number, but Zverev's dominance in this matchup is hard to argue with.\n\nIt is shaping up to be a compelling Day 3. Which match are you watching more closely?",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-atp-finals-day-3-preview.html",
+        "headline": "ATP Finals Day 3: Fils vs Jodar Must-Win, Then Zverev vs Shelton in McEnroe Group",
+        "word_count": 537
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ATP Finals Day 3 — Fils vs Jodar, Zverev vs Shelton\n\n**Image 2A (Social — 1080x1350)**\n- **Search Term:** Alexander Zverev\n- **Usage:** X post 2A, Facebook Image Caption post\n- **Notes:** Select strong on-court action image\n\n**Image 2B (Article Hero — 1200x630)**\n- **Search Term:** Ben Shelton\n- **Usage:** article-02 hero image\n- **Notes:** Select powerful service or celebratory image for article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ATP Finals Day 3 — Fils vs Jodar, Zverev vs Shelton\n**Key Facts:**\n- Day 3 (Nov 17) McEnroe Group: Arthur Fils (0-1) vs Rafael Jodar (0-1) — both must-win — **HIGH** (Tennis Majors)\n- Jodar leads H2H with Fils 2-1 — all matches in 2026 on hard courts, straight sets — **HIGH** (Tennis Majors)\n- Evening: Alexander Zverev (1-0) vs Ben Shelton (1-0) — both undefeated after Day 1 — **HIGH** (ATP Tour preview)\n- Zverev leads H2H with Shelton 6-0 — **HIGH** (ATP Tour/prior research)\n- Zverev beat Shelton in 2026 US Open final — **HIGH** (prior research confirmed HIGH)\n- Zverev is World No. 1 and two-time ATP Finals champion (2018, 2021) — **HIGH** (prior pipeline research)\n- Shelton is World No. 3 — **HIGH** (ATP draw)\n- Fils is World No. 6, first Frenchman at ATP Finals since Monfils 2016 — **HIGH** (confirmed in multiple prior pipelines)\n- Jodar is World No. 8, first debut-year qualifier — **HIGH** (confirmed in prior pipelines)\n**Sources:**\n- Tennis Majors: \"Fils vs Jodar — a must-win rematch in Turin\" — https://www.tennismajors.com/atp/nitto-atp-finals-atp/fils-vs-jodar-a-must-win-rematch-in-turin-after-two-defeats-to-the-spaniard-this-summer-867127.html\n- ATP Tour Day 3 preview: https://www.atptour.com/en/news/zverev-shelton-fils-jodar-nitto-atp-finals-2026-day-3-preview",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Fils vs Jodar — a must-win rematch in Turin",
+          "url": "https://www.tennismajors.com/atp/nitto-atp-finals-atp/fils-vs-jodar-a-must-win-rematch-in-turin-after-two-defeats-to-the-spaniard-this-summer-867127.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Tennis Majors"
+        },
+        {
+          "name": "ATP Tour Day 3 preview",
+          "url": "https://www.atptour.com/en/news/zverev-shelton-fils-jodar-nitto-atp-finals-2026-day-3-preview",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Medvedev Opens With Clinical 7-6(4), 6-3 Win Over Cobolli",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Daniil Medvedev opens his ATP Finals with a 7-6(4), 6-3 win over Flavio Cobolli. He faced zero break points and won 86% of points on Cobolli's second serve. Clinical. #ATPFinals #Tennis #ATP #Medvedev",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Medvedev"
+          ],
+          "char_count": 200
+        }
+      ],
+      "facebook": {
+        "long_form": "Daniil Medvedev opened his 2026 ATP Finals account on Monday evening in Turin, and he did it the Medvedev way — methodical, relentless, and almost completely unchallenged.\n\nThe result: 7-6(4), 6-3 over Flavio Cobolli in 85 minutes. Medvedev faced zero break points across the match, won 86% of points when Cobolli hit a second serve, and never gave the Italian a path back into the contest. The first set was competitive enough — Cobolli had the Inalpi Arena crowd behind him as a home-country debutant — but the tiebreak went Medvedev's way, and the second set was relatively comfortable from there.\n\nMedvedev is now 1-0 in the Ivan Lendl Group alongside Alcaraz, who was equally dominant earlier in the day. Tiafoe and Cobolli both sit at 0-1 and need to respond in their next matches to stay alive.\n\nWhich Lendl Group match are you anticipating most this week?",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-medvedev-beats-cobolli.html",
+        "headline": "Medvedev Outduels Cobolli 7-6, 6-3 to Open ATP Finals Campaign",
+        "word_count": 471
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Medvedev Beats Cobolli 7-6(4), 6-3\n\n**Image 3A (Social — 1080x1350)**\n- **Search Term:** Daniil Medvedev\n- **Usage:** X post 3, Facebook Image Caption post\n- **Notes:** Select focused/intense match image\n\n**Image 3B (Article Hero — 1200x630)**\n- **Search Term:** Daniil Medvedev\n- **Usage:** article-03 hero image\n- **Notes:** Select expressive or mid-point image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Medvedev Beats Cobolli 7-6(4), 6-3\n**Key Facts:**\n- Daniil Medvedev defeated Flavio Cobolli 7-6(4), 6-3 at ATP Finals on Monday, November 16 — **HIGH** (TennisGrandstand)\n- Match took 85 minutes — **HIGH** (TennisGrandstand)\n- Medvedev faced zero break points in the match — **HIGH** (TennisGrandstand)\n- Medvedev won 86% of points on Cobolli's second serve — **HIGH** (TennisGrandstand)\n- Cobolli is Italian, playing home crowd at Inalpi Arena, Turin — **HIGH** (prior pipelines)\n- Cobolli is making his ATP Finals debut — **HIGH** (ATP draw)\n- Medvedev is World No. 4 — **HIGH** (ATP draw)\n- Cobolli is World No. 5 — **HIGH** (ATP draw)\n**Sources:**\n- TennisGrandstand: https://tennisgrandstand.com/alcaraz-10-match-winning-streak-atp-finals/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "TennisGrandstand",
+          "url": "https://tennisgrandstand.com/alcaraz-10-match-winning-streak-atp-finals/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Andreeva's Champion Reaction — \"She Is Not Getting the Win\"",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Mirra Andreeva on the toughest moment in her WTA Finals final win: \"I just thought I am going to die on the court but she is not getting the win.\" That is a champion's mindset. #WTAFinals #Tennis #WTA #MirraAndreeva",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTAFinals",
+            "#Tennis",
+            "#WTA",
+            "#MirraAndreeva"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "It has been less than 24 hours since Mirra Andreeva lifted the WTA Finals trophy in Indian Wells, and her post-match comments are already some of the most memorable quotes of the tennis season.\n\nOn the moment she felt the most pressure in the final against Svitolina: \"It was the second time in my life where I just thought I am going to die on the court but she is not getting the win.\" That is not a figure of speech — it is a window into how she thinks when things are hardest. She makes a decision, and she executes.\n\nOn her celebrations: \"I am going to celebrate, get a car.\" She was not being modest. The WTA Finals prize includes a Mercedes-AMG SL 55, and Andreeva, 19, was going to enjoy it.\n\nHer first words on court after winning: \"I want to thank myself.\" Her one-word summary of her 2026 season: \"consistent, happy and work.\"\n\nThere is a clarity to how she talks about herself that matches the clarity of how she plays. She is 19, she is WTA No. 2, and she just became the third teenager in history to win the WTA Finals.\n\nWhat was your favorite part of Andreeva's 2026 WTA Finals run?",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-andreeva-champion-quotes.html",
+        "headline": "Champion Quotes: Andreeva's Post-WTA Finals Reflections Reveal a Fierce Competitor",
+        "word_count": 608
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Andreeva Champion Reaction Quotes\n\n**Image 4A (Social — 1080x1350)**\n- **Search Term:** Mirra Andreeva\n- **Usage:** X post 4, Facebook Image Caption post\n- **Notes:** Select different image from prior pipelines — trophy or post-match celebration preferred\n\n**Image 4B (Article Hero — 1200x630)**\n- **Search Term:** Mirra Andreeva\n- **Usage:** article-04 hero image\n- **Notes:** Select celebratory or emotional post-win image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Andreeva Champion Reaction Quotes\n**Key Facts:**\n- Andreeva on hardest moment: \"It was the second time in my life where I just thought I am going to die on the court but she is not getting the win\" — **HIGH** (Sky Sports/WTA Champions Corner)\n- Andreeva on celebrations: \"I am going to celebrate, get a car\" (won Mercedes-AMG SL 55 as prize) — **HIGH** (WTA Tennis Champions Corner, Yahoo Sports)\n- On-court first words: \"I want to thank myself\" — **HIGH** (WTA Tennis Champions Corner)\n- Season summary in her own words: \"consistent, happy and work\" — **HIGH** (Taipei Times)\n- Andreeva is 19 years old — **HIGH** (multiple prior sources)\n- Third teenager to win WTA Finals after Evert and Sharapova — **HIGH** (prior pipelines HIGH confirmed)\n- First debut winner since Barty 2019 — **HIGH** (prior pipelines HIGH confirmed)\n**Sources:**\n- WTA Tennis Champions Corner: https://www.wtatennis.com/news/4609456/wta-finals-singles-champions-corner\n- Yahoo Sports: https://sports.yahoo.com/articles/mirra-andreeva-issues-strong-message-223326869.html\n- Taipei Times: https://www.taipeitimes.com/News/sport/archives/2026/11/17/2003867872",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "WTA Tennis Champions Corner",
+          "url": "https://www.wtatennis.com/news/4609456/wta-finals-singles-champions-corner",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/mirra-andreeva-issues-strong-message-223326869.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Taipei Times",
+          "url": "https://www.taipeitimes.com/News/sport/archives/2026/11/17/2003867872",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Lendl Group Standings — Alcaraz and Medvedev Move to 1-0",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "ATP Finals Lendl Group after Day 2 — Alcaraz 1-0, Medvedev 1-0, Tiafoe 0-1, Cobolli 0-1. Alcaraz vs Medvedev on Wednesday could already decide who tops the group. #ATPFinals #Tennis #ATP #ATPFinals2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#ATPFinals2026"
+          ],
+          "char_count": 201
+        }
+      ],
+      "facebook": {
+        "long_form": "After two days of action at the ATP Finals in Turin, the Ivan Lendl Group picture is becoming clearer — and more intriguing.\n\nCarlos Alcaraz and Daniil Medvedev are both unbeaten at 1-0. Alcaraz was dominant in a 6-2, 6-2 rout of Tiafoe earlier Monday; Medvedev followed with a clinical 7-6(4), 6-3 win over Cobolli. The two tournament favorites have set themselves up well heading into the second round of group matches.\n\nFrances Tiafoe and Flavio Cobolli are both 0-1. They still have a path to the semifinals — a win in their next match and favorable results in the final round could still get them through — but neither can afford another loss. Tiafoe next faces Cobolli, while Alcaraz and Medvedev are on a collision course for Wednesday.\n\nThat Alcaraz-Medvedev clash — if both keep winning — could effectively be a Lendl Group semifinal before the actual semifinals. These two have history from Grand Slam finals, and their ATP Finals meeting should be one of the week's marquee matches.\n\nWho wins the Lendl Group — Alcaraz or Medvedev?",
+        "image_caption": "",
+        "posting_time": "9:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-lendl-group-standings.html",
+        "headline": "Lendl Group Standings: Alcaraz and Medvedev Both 1-0 as Tiafoe and Cobolli Need a Win",
+        "word_count": 521
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Lendl Group Standings After Day 2\n\n**Image 5A (Social — 1080x1350)**\n- **Search Term:** Carlos Alcaraz\n- **Usage:** X post 5, Facebook Image Caption post\n- **Notes:** Select different image from Story 1 — in-motion or service image preferred\n\n**Image 5B (Article Hero — 1200x630)**\n- **Search Term:** Daniil Medvedev\n- **Usage:** No article for Story 5 (Tier 2, no article)\n- **Notes:** Social only"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Lendl Group Standings After Day 2\n**Key Facts (derived from confirmed match results above):**\n- Alcaraz is 1-0 in Lendl Group after beating Tiafoe 6-2, 6-2 — **HIGH** (from Story 1)\n- Medvedev is 1-0 in Lendl Group after beating Cobolli 7-6(4), 6-3 — **HIGH** (from Story 3)\n- Tiafoe is 0-1 — **HIGH** (from Story 1)\n- Cobolli is 0-1 — **HIGH** (from Story 3)\n- Alcaraz vs Medvedev scheduled for Wednesday Nov 18 — **MEDIUM** (derived from tournament schedule, not independently confirmed)\n- In round-robin, top 2 from each group advance to semifinals — **HIGH** (ATP Finals format, Wikipedia confirmed)\n**Sources:**\n- Derived from confirmed match results (TennisGrandstand, NBC Sports)\n- ATP Finals format: https://en.wikipedia.org/wiki/2026_ATP_Finals",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "ATP Finals format",
+          "url": "https://en.wikipedia.org/wiki/2026_ATP_Finals",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

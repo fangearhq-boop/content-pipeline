@@ -1,6 +1,36 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-11-16
+## Current Run: 2026-11-17
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Alcaraz d. Tiafoe 6-2, 6-2 (69 min, 10-match streak, "Superman" quote); Medvedev d. Cobolli 7-6(4), 6-3 (zero BPs, 86% 2nd serve return); Day 3: Fils vs Jodar (must-win, Jodar leads H2H 2-1) + Zverev vs Shelton (Zverev 6-0 H2H); Andreeva champion quotes. Sources: NBC Sports, TennisGrandstand, Tennis Majors, ATP Tour, WTA Champions Corner, Yahoo Sports, Taipei Times |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Nov 16 S2: ATP Finals Day 2 preview → Lendl Group result); S2 FOLLOW-UP (Nov 16 S4: Day 1 recap → Day 3 preview); S3 FOLLOW-UP (Nov 16 S2: Day 2 start → Medvedev result); S4 FOLLOW-UP (Nov 16 S1: Andreeva wins → champion reaction); S5 FOLLOW-UP (Nov 16 S2: Day 2 → Lendl Group standings) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Ryan Calloway [S1,S4], Elena Voss [S2,S5], Marcus Cole [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; Alcaraz/Medvedev scores HIGH; "Superman" quote HIGH; Day 3 H2H stats HIGH; Andreeva quotes HIGH |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories (2 each for S1+S2, 1 each for S3-S5); all ≤280 chars |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories; player-name-only search terms |
+| Articles (5) | COMPLETE | article-01 Alcaraz crushes Tiafoe (Ryan Calloway T1 ~530w); article-02 ATP Finals Day 3 preview (Elena Voss T1 ~540w); article-03 Medvedev beats Cobolli (Marcus Cole T2 ~510w); article-04 Andreeva champion quotes (Ryan Calloway T2 ~550w); article-05 Lendl Group standings (Elena Voss T2 ~520w) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 24 claims extracted; PASSED (all stories present in all content files) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 5 images |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-11-17.xlsx (7 posts) + tfr-postplanner-tobi-2026-11-17.xlsx (7 TOBI posts); FB=0 in export (pre-existing format mismatch) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 17 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB image captions
+- **Articles:** 5 (bylines: Ryan Calloway [S1,S4], Elena Voss [S2,S5], Marcus Cole [S3])
+- **Key stories:** Alcaraz 6-2, 6-2 "Superman" ATP Finals opener; ATP Finals Day 3 preview Fils-Jodar elimination + Zverev-Shelton; Medvedev clinical Cobolli win; Andreeva champion quotes; Lendl Group standings
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); PostPlanner FB=0 (pre-existing format mismatch)
+
+---
+
+## Previous Run: 2026-11-16
 
 | Step | Status | Notes |
 |------|--------|-------|

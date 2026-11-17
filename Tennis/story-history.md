@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## November 17, 2026
+
+| 2026-11-17 | Alcaraz crushes Tiafoe 6-2, 6-2 at ATP Finals Day 2 (Turin); 69 min; broke 4/5 serve games; 10-match winning streak; Tiafoe called him "Superman." Sources: NBC Sports, TennisGrandstand | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Nov 16 S2: ATP Finals Day 2 preview → Day 2 Lendl Group result) |
+| 2026-11-17 | ATP Finals Day 3 preview — McEnroe Group: Fils (0-1) vs Jodar (0-1) must-win; Jodar leads H2H 2-1 all 2026 on hard courts; evening: Zverev (1-0) vs Shelton (1-0); Zverev leads H2H 6-0 incl. 2026 US Open final. Sources: Tennis Majors, ATP Tour | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 16 S4: ATP Finals Day 1 recap → Day 3 preview) |
+| 2026-11-17 | Medvedev beats Cobolli 7-6(4), 6-3 at ATP Finals Day 2; 85 min; zero break points faced; won 86% on Cobolli's 2nd serve; home crowd Inalpi Arena. Sources: TennisGrandstand | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Nov 16 S2: ATP Finals Day 2 — Alcaraz and Medvedev Begin Group Stage → Medvedev result) |
+| 2026-11-17 | Andreeva champion reaction quotes — "she is not getting the win" (toughest moment); "I want to thank myself" (on-court); "consistent, happy and work" (season summary); won Mercedes-AMG SL 55. Sources: WTA Tennis Champions Corner, Yahoo Sports, Taipei Times | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Nov 16 S1: Andreeva wins WTA Finals → champion reaction) |
+| 2026-11-17 | ATP Finals Lendl Group standings after Day 2 — Alcaraz 1-0, Medvedev 1-0, Tiafoe 0-1, Cobolli 0-1; Alcaraz-Medvedev clash Wednesday could be group decider. Sources: Derived from confirmed results | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 16 S2: ATP Finals Day 2 → Lendl Group standings) |
+
+---
+
+
 ## November 16, 2026
 
 | 2026-11-16 | Andreeva wins WTA Finals — beat Svitolina 7-5, 6-3; first teenager to win since Sharapova 2004; first on debut since Barty 2019; 5-0 zero sets dropped; ends year WTA No. 2; Svitolina declined post-match handshake (Ukrainian policy since 2022); didn't name Andreeva in runner-up speech. Sources: WTA Tennis official, ESPN, AP, tennis.com | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 15 S1: WTA Finals final preview → result) |
