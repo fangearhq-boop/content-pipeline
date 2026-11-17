@@ -1,0 +1,226 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-17",
+  "compiled_at": "2026-11-17T09:17:28.843892+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "12:00 PM",
+      "description": "Story 1: 40-Man Deadline",
+      "type": "Informative/Urgent"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Story 2: Suzuki Farewell/Official",
+      "type": "Informative/Passionate"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 3: Happ Market",
+      "type": "Informative/Analysis"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Story 4: Rotation Urgency / 14 Days",
+      "type": "Bold Take / Urgency"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 5: Imanaga Departure",
+      "type": "Bold Take / Passionate"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "40-Man Deadline Day — Clock Hits Zero at 6 PM ET",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Today is the action day. Cubs at 34/40 spots, 6 open. Jaxon Wiggins is the consensus must-protect; Noland, Kipp, McCullough also on the bubble. Any unprotected prospect is Rule 5 Draft-eligible December 9-10 in San Diego.",
+      "posting_window": "12:00 PM CT (midday — avoids morning loser window; deadline isn't until 5 PM CT so this hits before the news breaks)",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "40-man deadline tonight at 6 PM ET. Cubs have 6 open spots — decisions on Wiggins, McCullough, Kipp, and Noland.\n\nWiggins is the obvious protect: elite arm, real reliever ceiling. Leave him exposed and December's Rule 5 Draft hands him to a rival.\n\nProtect your guys.\n\n#Cubs",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "40-Man Deadline Day — Clock Hits Zero at 6 PM ET\n**Decision:** FOLLOW UP (Nov 15 deadline correction post, Nov 16 day-before alert)\n**New development today:** This IS the deadline. Today's post covers the actual action — not a preview.\n**Key Facts:**\n- 40-man deadline: today, November 17, 6 PM ET / 5 PM CT (confirmed: North Side Baseball, niche-config, story history)\n- Cubs' current 40-man count: 34 of 40 (confirmed: Bleed Cubbie Blue Nov 3, story history Nov 15-16)\n- Open spots: 6 (confirmed from 34/40)\n- Rule 5 Draft date: December 9 or 10 in San Diego (MLB.com says Dec 9; one secondary source says Dec 10 — using range \"December 9-10\"; MEDIUM confidence)\n- Jaxon Wiggins: 2023 compensatory pick, high-octane arm, converted reliever profile, health questions in 2026 — consensus must-protect (confirmed: MLB.com top-30 reference, cubbiescrib.com, northsidebaseball.com)\n- Connor Noland: 2025 cycle left exposed; 2026 ETA on FanGraphs = most immediate add (MEDIUM confidence)\n- Grant Kipp: No. 20 on MLB.com Cubs Top 30 (confirmed: search results)\n- Brody McCullough: No. 29 on MLB.com Cubs Top 30, 10th-round pick 2022 (confirmed: search results)\n**Freshness:** TODAY — the deadline is at 6 PM ET. Live story.\n**Sources:** northsidebaseball.com, cubbiescrib.com, mlb.com/cubs/news/rule-5-draft-prospects, bleedcubbieblue.com",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Suzuki Officially Closes His Cubs Chapter",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Suzuki formally declines the $23.15M qualifying offer today (deadline 3 PM CT). Already posted a farewell message to Cubs fans (\"Grateful for everything\"). Blue Jays and Mariners frontrunners. Cubs get a compensatory draft pick.",
+      "posting_window": "2:30 PM CT (after deadline, closing the story)",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Seiya Suzuki declining the $23.15M qualifying offer today — the Blue Jays and Mariners are his likely landing spots.\n\n26 HR, .841 OPS in 2026. Cubs get a compensatory draft pick when he signs.\n\nFive seasons. The Wrigley connection was real. Best of luck, Seiya.\n\n#Cubs",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 2
+      },
+      "research": {
+        "facts": "Suzuki Officially Closes His Cubs Chapter\n**Decision:** FOLLOW UP (Nov 12-16; story closes today at the QO deadline)\n**New development today:** Suzuki formally declines ($23.15M QO deadline at 3 PM CT). WGN TV reports his farewell post to Cubs fans.\n**Key Facts (previously verified in story history):**\n- Suzuki 2026 stats: 26 HR, .841 OPS, 5.1 WAR (VERIFIED from prior pipeline runs; confirmed in Nov 15-16 story history entries)\n- QO value: $23.15M for one year (VERIFIED: cbssports.com, mlb.com)\n- QO deadline: November 17 at 4 PM ET / 3 PM CT (confirmed: fansided.com offseason calendar, cbssports.com)\n- Agent Joel Wolfe already publicly stated Suzuki would decline at the GM Meetings (VERIFIED: nbcsports.com Nov 11)\n- WGN TV: Suzuki posted \"Grateful for everything\" farewell to Cubs fans (confirmed: wgntv.com)\n- Frontrunners: Blue Jays (The Athletic/Bannon); also Mariners, Padres, Red Sox, Phillies (search results)\n- Cubs receive compensatory draft pick if Suzuki signs with a team that did not surrender its first-round pick (VERIFIED: standard MLB QO mechanic confirmed multiple sources)\n- Market projection: 4yr/$110M (one projection — MEDIUM confidence; not cross-referenced)\n- 7 seasons as a Cub (from story history Nov 16; VERIFIED)\n**Note:** Formal confirmation of the decline may not hit wires until after 3-4 PM CT. Tweet scheduled 2:30 PM CT is based on agent's pre-announced decision; flag as likely-but-technically-pending at time of posting.\n**Freshness:** TODAY is the deadline; farewell post already circulating\n**Sources:** nbcsports.com (Nov 11), wgntv.com, cbssports.com, fansided.com offseason calendar",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Ian Happ's Market Is Taking Shape",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Mariners and Reds are early frontrunners. Padres also in the mix. 24 HRs in 2026, gold glove defense, .145 vs. LHP. Projections: 2yr/$36-45M. No QO attached.",
+      "posting_window": "5:00 PM CT (early evening — WINNER window starts; transitions day into evening slate)",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Ian Happ's market is forming. Reds and Mariners are the early frontrunners, Padres also in the mix.\n\n24 HRs in 2026, elite defense, weak vs. lefties. Projections: 2yr/$36-45M. Cubs declined the QO, so there's no draft pick attached.\n\nHe's not coming back cheap.\n\n#Cubs",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Ian Happ's Market Is Taking Shape\n**Decision:** FOLLOW UP (Nov 16 farewell angle; today's angle is specific market intel)\n**New development:** Mariners (Morosi), Reds (Bowden), Padres (SI/Selbe) all named specifically; market is shaping up.\n**Key Facts:**\n- Happ 2026: 24 HRs (VERIFIED: story history Nov 16)\n- Happ 2026: .145 average vs. LHP — platoon concern (confirmed: cubbiescrib.com search result)\n- Projected contract: 2yr/$45M (Bowden projection) or 2yr/$36M (SI/Selbe prediction) — MEDIUM confidence; not from signed deals\n- No qualifying offer from Cubs → no draft-pick compensation attached (VERIFIED: multiple sources confirmed Cubs did not extend QO to Happ)\n- Mariners: Jon Morosi linked early interest (confirmed: search result)\n- Reds: Bowden lists as top-fit; Cincinnati connection (college baseball at U. of Cincinnati) (confirmed: search results)\n- Padres: SI's Selbe predicts 2yr/$36M deal with San Diego (confirmed: si.com search result)\n- 7 seasons, gold glove defense (from story history Nov 16, VERIFIED)\n**Freshness:** Projections/links from last 7 days; Morosi report recent\n**Sources:** cubshq.com, cubbiescrib.com, si.com (Padres prediction), lastwordonsports.com",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Rotation Urgency — 14 Days Before the CBA Freeze",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "14 days to Dec 1. Zero confirmed starters for 2027. Top target Kaima Taira (1.36 ERA/146 IP, Boras) has real competition from Padres, White Sox, Blue Jays. Imanaga likely leaving for Tigers or Padres. The window to build a rotation is closing fast.",
+      "posting_window": "6:30 PM CT (prime WINNER slot per evening_18_24 finding)",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Cubs have 14 days to sign starters before the CBA expires and transactions freeze. Zero confirmed starters for 2027.\n\nTop target: Kaima Taira, 1.36 ERA/146 IP in NPB, Boras client. The Padres, Sox, and Blue Jays are all in this race too.\n\nThis offseason is a sprint.\n\n#Cubs",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Rotation Urgency — 14 Days Before the CBA Freeze\n**Decision:** FOLLOW UP (Nov 15 \"16 days,\" Nov 16 \"15 days\" — continuing daily countdown)\n**New development:** 14 days now. Imanaga departure becoming clearer. Urgency intensifies.\n**Key Facts:**\n- CBA expiration: December 1, 2026 at 11:59 PM (VERIFIED: ksl.com, covers.com, multiple sources)\n- Days remaining from today: Nov 17 → Dec 1 = 14 days (VERIFIED: basic calendar math)\n- Zero confirmed starters for 2027 (VERIFIED: all five 2026 starters are free agents: Imanaga, Boyd, Peterson, Gausman, Holmes)\n- Ben Brown: post spinal surgery, out through early 2027 (from prior story history Nov 13-14; MEDIUM — not re-verified today)\n- Target: Kaima Taira, 1.36 ERA over 146 IP in NPB 2026 (VERIFIED: multiple sources)\n- Taira competitors: Padres, White Sox, Blue Jays, Giants (confirmed: mlbtraderumors.com)\n- Holmes/Peterson: Cubs \"would love to bring back\" per Nightengale/USA Today (confirmed: search result Nov 13)\n- Lockout probability: ~95% per market odds (Kalshi ~5% chance of new deal) (VERIFIED: actionnetwork.com)\n**Freshness:** Deadline is 14 days out as of today\n**Sources:** ksl.com, covers.com, mlb.com/news (Hot-Stove-Nov-13), mlbtraderumors.com",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Shota Imanaga Is Likely Gone",
+      "tier": 2,
+      "status": "",
+      "angle": "Morosi/Bleacher Report link Tigers and Padres as frontrunners. Cubs not expected to compete for a multi-year deal. Imanaga was their best 2026 starter. His departure means the rotation rebuild is from zero — all five 2026 starters leaving.",
+      "posting_window": "8:00 PM CT (evening WINNER window; closing bold take)",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Shota Imanaga is likely leaving. Tigers and Padres are emerging as frontrunners — and the Cubs aren't expected to meet his market.\n\nFive of five 2026 starters now heading for the exits. Entire rotation needs rebuilding before the Dec. 1 CBA freeze.\n\nTough offseason ahead.\n\n#Cubs",
+          "posting_time": "8:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 1,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Shota Imanaga Is Likely Gone\n**Decision:** NEW ANGLE (prior coverage focused on other rotation targets; Tigers/Padres as specific frontrunners is new content)\n**New development:** Jon Morosi (MLB Network) reports Tigers/Padres as frontrunners; Cubs not expected to compete.\n**Key Facts:**\n- Imanaga free agent status: second cycle (accepted QO in 2025-26 offseason, 1yr deal; now fully free) (MEDIUM — complex timeline, check accuracy)\n- Jon Morosi: Tigers met with Imanaga's representatives; Padres also pursuing (confirmed: sportskeeda.com/bleacherreport.com)\n- Cubs not expected to compete for multi-year deal (confirmed: bleacherreport.com Oct 1 2026, search results)\n- Imanaga 2026 ERA: NOT VERIFIED with a specific number. Bleacher Report \"2.37 ERA\" appeared in draft but was not confirmed in search results. DO NOT USE specific 2026 ERA without verified source. Use \"their best 2026 starter\" framing instead.\n- All five 2026 starters (Imanaga, Boyd, Peterson, Gausman, Holmes) are free agents (VERIFIED: multiple sources)\n**Freshness:** Morosi report and Bleacher Report from early Oct - early Nov 2026\n**Sources:** sportskeeda.com, bleacherreport.com (Oct 1 2026)\n**Fact-Check Note:** Do NOT cite Imanaga's specific 2026 ERA — single unconfirmed source. Use descriptive framing only.",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

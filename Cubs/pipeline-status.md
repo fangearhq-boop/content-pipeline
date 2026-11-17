@@ -1,6 +1,37 @@
-# Cubs Pipeline Status — Updated 2026-11-16
+# Cubs Pipeline Status — Updated 2026-11-17
 
 ## Latest Run
+- **Date:** 2026-11-17 (Tuesday — Off day. 40-man deadline TODAY at 6 PM ET. Suzuki QO deadline TODAY at 3 PM CT. Imanaga likely leaving (Tigers/Padres frontrunners — new angle). CBA expires Dec 1 (14 days).)
+- **Stories:** 5
+- **X posts:** 5
+- **Platforms:** X/Twitter only
+- **Status:** ✅ Complete
+- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 5 stories, 5 tweets
+- **07-content-data.json:** ✅ Valid JSON, all 5 posts with posting_time (12:00 PM / 2:30 PM / 5:00 PM / 6:30 PM / 8:00 PM CT), all strptime-parseable. All 5 tweets in 260+ char bucket (274/268/268/277/279). All under 280. ✅
+- **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
+- **Fact-check correction:** "Seven seasons" → "Five seasons" for Suzuki (Happ/Suzuki conflation caught and corrected)
+- **Note:** 10 significant insights applied. HASHTAG OVERRIDE (7th consecutive day): hashtag_count=3 is LOSER (delta=0.831, large) + hashtag_count=1 is WINNER (delta=0.722, large) → 1 hashtag (#Cubs) used, overrides brand-voice 3-hashtag rule. ALLCAPS LOSER: opening=allcaps_lead LOSER (delta=0.594) — no ALL CAPS leads. MORNING AVOIDANCE: posting_window=morning_06_12 LOSER (delta=0.627) — first post at 12:00 PM CT. EVENING PRIORITY: posting_window=evening_18_24 WINNER (delta=0.855) → Stories 4+5 in 6:30 PM / 8:00 PM CT. TWEET LENGTH: len_bucket=260+ WINNER (delta=0.506) — all 5 tweets at 260+ chars (avg 273). CONTENT DEPTH: content_type=brief LOSER (delta=0.606) — all substantive multi-paragraph tweets.
+
+## Insights Summary (2026-11-17 run — from 2026-11-17T08:30 UTC snapshot)
+- **Generated:** 2026-11-17T08:30:00 UTC
+- **Measured tweet count:** 60
+- **Median impressions:** 766.5; Mean: 6,163.18
+- **Significant findings:** 10
+  1. `content_type=recap_longform` WINNER — delta=0.952 (large). Off day — no game recap. Noted but not applicable.
+  2. `posting_window=evening_18_24` WINNER — delta=0.855 (large). Stories 4+5 in 6:30 PM / 8:00 PM CT.
+  3. `hashtag_count=3` LOSER — delta=0.831 (large). ⚠️ CONFLICT with brand-voice.md hard rule. 1 hashtag used (7th consecutive override day).
+  4. `hashtag_count=1` WINNER — delta=0.722 (large). Applied: #Cubs only on every tweet.
+  5. `len_bucket=200-260` LOSER — delta=0.685 (large). All tweets avoid 200-260 range; target 260+.
+  6. `posting_window=morning_06_12` LOSER — delta=0.627 (large). No morning posts; first at 12:00 PM CT.
+  7. `content_type=brief` LOSER — delta=0.606 (large). All posts substantive with stat context.
+  8. `opening=statement` WINNER — delta=0.594 (large). All 5 posts use declarative statement openings.
+  9. `opening=allcaps_lead` LOSER — delta=0.594 (large). No ALL CAPS leads.
+  10. `has_score=True` WINNER — delta=0.547 (large). Off day — no score. Not applicable.
+  11. `len_bucket=260+` WINNER — delta=0.506 (large). All 5 tweets at 260+ chars (274/268/268/277/279).
+  12. `has_stat=True` WINNER — delta=0.499 (large). Stats in every tweet: 6 spots/6 PM deadline, $23.15M/26 HR/.841 OPS/5 seasons, 24 HRs/2yr projections, 14 days/1.36 ERA/146 IP/0 starters, 5/5 starters/Dec 1.
+- **Action:** Insights applied throughout. 1-hashtag override active. All tweets 260-280 chars. No morning slots.
+
+## Previous Run (2026-11-16)
 - **Date:** 2026-11-16 (Monday — Off day. 40-man deadline TOMORROW Nov 17 at 6 PM ET. Suzuki QO deadline TOMORROW Nov 17 at 4 PM ET. Cubs' top target: Kaima Taira (1.36 ERA/146 IP, Boras client, Cubs met at GM Meetings). Ian Happ departing without QO. CBA expires Dec 1.)
 - **Stories:** 5
 - **X posts:** 5

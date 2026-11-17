@@ -5,6 +5,57 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-11-17 (OFF DAY — Offseason. 40-man deadline TODAY Nov 17 at 6 PM ET; Suzuki QO deadline TODAY Nov 17 at 3 PM CT (4 PM ET). Imanaga departure — Tigers/Padres frontrunners (new angle). CBA expires Dec 1 (14 days). Insights: evening_18_24 WINNER (delta=0.855) + hashtag_count=3 LOSER (delta=0.831, OVERRIDE — 1 hashtag used, 7th consecutive day) + hashtag_count=1 WINNER (delta=0.722) + content_type=brief LOSER (delta=0.606) + opening=statement WINNER (delta=0.594) + allcaps_lead LOSER (delta=0.594) + has_stat WINNER (delta=0.499) + len_260+ WINNER (delta=0.506) + len_200-260 LOSER (delta=0.685) + morning_06_12 LOSER (delta=0.627). Fact-check correction: "Seven seasons" → "Five seasons" for Suzuki (Happ conflation caught).)
+
+### STORY 1: 40-Man Deadline Day — Clock Hits Zero at 6 PM ET
+- **Angle:** FOLLOW UP (Nov 15, 16 coverage — today is the actual deadline). Cubs at 34/40, 6 open spots. Wiggins, Noland, Kipp, McCullough on the bubble. Deadline 5 PM CT.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT informative/urgent)
+- **Follow-Up Opportunities:**
+  - Cubs add specific prospects (confirmed via MLB.com transaction log) → Tier 2 "who they protected" post
+  - Cubs DFA a player to clear room → Tier 2 transaction reaction
+  - Notable prospect goes unprotected and gets taken in Rule 5 Draft (Dec 9-10) → Tier 2 reaction
+
+### STORY 2: Suzuki Officially Closes His Cubs Chapter
+- **Angle:** FOLLOW UP (Nov 12-16 coverage — story closes today). QO deadline 3 PM CT. Suzuki posted "Grateful for everything" farewell. Blue Jays / Mariners frontrunners. Cubs get comp pick.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT farewell/close)
+- **Fact-check note:** Initial draft said "Seven seasons" (Ian Happ conflation); corrected to "Five seasons" (Suzuki joined Cubs 2022).
+- **Follow-Up Opportunities:**
+  - Suzuki signs with Blue Jays → Tier 2 farewell/destination reaction
+  - Suzuki signs with Mariners → Tier 2 destination reaction
+  - Cubs' comp pick assignment confirmed → Tier 3 draft pipeline context
+
+### STORY 3: Ian Happ's Market Is Taking Shape
+- **Angle:** FOLLOW UP (Nov 16 farewell angle; today's angle is specific market intel — Reds, Mariners, Padres all named)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT informative/market update)
+- **Follow-Up Opportunities:**
+  - Happ signs with Reds → Tier 2 destination/farewell post
+  - Happ signs with Mariners → Tier 2 destination reaction
+  - Cubs make surprise run at Happ → Tier 2 reunion angle
+
+### STORY 4: Rotation Urgency — 14 Days Before the CBA Freeze
+- **Angle:** FOLLOW UP (Nov 15 "16 days," Nov 16 "15 days" — daily countdown escalating). Kaima Taira top target, stiff competition, 14 days left.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT bold take/urgency — evening WINNER slot)
+- **Follow-Up Opportunities:**
+  - Cubs sign Taira → Tier 1 rotation celebration
+  - Taira signs elsewhere → Tier 2 Cubs-must-pivot angle
+  - Cubs sign Holmes or Peterson → Tier 2 retention celebration
+  - CBA lockout announced Dec 2 → Tier 1 breaking; cubs transactions frozen
+
+### STORY 5: Shota Imanaga Is Likely Gone
+- **Angle:** NEW ANGLE (prior coverage focused on other rotation targets; Tigers/Padres as specific frontrunners is new content not previously covered)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:00 PM CT bold take — evening WINNER slot)
+- **Follow-Up Opportunities:**
+  - Imanaga signs with Tigers → Tier 2 farewell/destination reaction
+  - Imanaga signs with Padres → Tier 2 destination reaction
+  - Cubs make surprise run at Imanaga → Tier 2 breaking angle
+
+---
+
 ## 2026-11-16 (OFF DAY — Offseason. 40-man deadline TOMORROW Nov 17 at 6 PM ET; Suzuki QO deadline TOMORROW Nov 17 at 4 PM ET. Cubs' top rotation target: Kaima Taira (1.36 ERA/146 IP, Boras, met at GM Meetings). Ian Happ departing without QO. CBA expires Dec 1 (15 days). Insights: evening_18_24 WINNER (delta=0.872) + hashtag_count=3 LOSER (delta=0.828, OVERRIDE — 1 hashtag used) + hashtag_count=1 WINNER (delta=0.712) + not_brief WINNER (delta=0.657) + statement opening WINNER (delta=0.645) + allcaps_lead LOSER (delta=0.645) + len_200-260 LOSER (delta=0.633) + morning_06_12 LOSER (delta=0.582) + has_stat WINNER (delta=0.423) + len_260+ WINNER (delta=0.303).)
 
 ### STORY 1: Ian Happ Farewell — 7 Seasons, No QO
