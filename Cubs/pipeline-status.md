@@ -1,16 +1,16 @@
-# Cubs Pipeline Status — Updated 2026-11-17
+# Cubs Pipeline Status — Updated 2026-11-18
 
 ## Latest Run
-- **Date:** 2026-11-17 (Tuesday — Off day. 40-man deadline TODAY at 6 PM ET. Suzuki QO deadline TODAY at 3 PM CT. Imanaga likely leaving (Tigers/Padres frontrunners — new angle). CBA expires Dec 1 (14 days).)
+- **Date:** 2026-11-18 (Wednesday — Off day. Cubs protected Wiggins + McCullough (40-man deadline Nov 17). CBA expires Dec 1 (13 days — lockout almost guaranteed). Kaima Taira confirmed as top rotation target. Suzuki QO declined (Blue Jays/Mariners frontrunners). Rival watch: Brewers added Walker, Cardinals Cerfolio GM, Reds floating EDLC.)
 - **Stories:** 5
 - **X posts:** 5
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
 - **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 5 stories, 5 tweets
-- **07-content-data.json:** ✅ Valid JSON, all 5 posts with posting_time (12:00 PM / 2:30 PM / 5:00 PM / 6:30 PM / 8:00 PM CT), all strptime-parseable. All 5 tweets in 260+ char bucket (274/268/268/277/279). All under 280. ✅
+- **07-content-data.json:** ✅ Valid JSON, all 5 posts with posting_time (1:15 PM / 2:30 PM / 3:45 PM / 5:00 PM / 6:30 PM CT), all strptime-parseable. All 5 tweets in 260+ char bucket (276/265/274/273/278). All under 280. ✅
 - **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding)
-- **Fact-check correction:** "Seven seasons" → "Five seasons" for Suzuki (Happ/Suzuki conflation caught and corrected)
-- **Note:** 10 significant insights applied. HASHTAG OVERRIDE (7th consecutive day): hashtag_count=3 is LOSER (delta=0.831, large) + hashtag_count=1 is WINNER (delta=0.722, large) → 1 hashtag (#Cubs) used, overrides brand-voice 3-hashtag rule. ALLCAPS LOSER: opening=allcaps_lead LOSER (delta=0.594) — no ALL CAPS leads. MORNING AVOIDANCE: posting_window=morning_06_12 LOSER (delta=0.627) — first post at 12:00 PM CT. EVENING PRIORITY: posting_window=evening_18_24 WINNER (delta=0.855) → Stories 4+5 in 6:30 PM / 8:00 PM CT. TWEET LENGTH: len_bucket=260+ WINNER (delta=0.506) — all 5 tweets at 260+ chars (avg 273). CONTENT DEPTH: content_type=brief LOSER (delta=0.606) — all substantive multi-paragraph tweets.
+- **Fact-check note:** Kaima Taira ERA discrepancy: 1.48 (Clutchpoints headline, used today) vs 1.36 (prior pipeline research). Flagged as medium-confidence; both sourced; different seasons may explain. All other claims verified.
+- **Note:** 12 significant insights applied. HASHTAG OVERRIDE (8th consecutive day): hashtag_count=3 is LOSER (p=0.0, large) + hashtag_count=1 is WINNER (p=0.0, large) → 1 hashtag (#Cubs) used, overrides brand-voice 3-hashtag rule. ALLCAPS LOSER: no ALL CAPS leads. MORNING AVOIDANCE: morning_06_12 LOSER — first post at 1:15 PM CT. EVENING PRIORITY: evening_18_24 WINNER → Story 5 in 6:30 PM CT slot. TWEET LENGTH: len_bucket=260+ WINNER — all 5 tweets at 260+ chars (avg 273). CONTENT DEPTH: content_type=brief LOSER — all substantive multi-paragraph tweets.
 
 ## Insights Summary (2026-11-17 run — from 2026-11-17T08:30 UTC snapshot)
 - **Generated:** 2026-11-17T08:30:00 UTC

@@ -1,0 +1,186 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-18",
+  "compiled_at": "2026-11-18T09:18:31.429880+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "1:15 PM",
+      "description": "Story 1: Wiggins + McCullough 40-Man",
+      "type": "Informative / Roster"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Story 2: CBA Lockout — 13 Days",
+      "type": "Bold Take / Urgency"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Story 3: Kaima Taira Top Target",
+      "type": "Hot Stove / Analysis"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 4: Suzuki Free Agent Market",
+      "type": "Informative / Roster"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Story 5: Rival Watch NL Central",
+      "type": "Bold Take / Rival Watch"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs Protect Wiggins + McCullough, Expose Kipp + Cabrera",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs added Jaxon Wiggins (No. 6 prospect) and Brody McCullough (2.98 ERA, 1.04 WHIP at Double-A) to the 40-man. Grant Kipp and Jose Cabrera left exposed to the Rule 5 Draft — with the lockout looming Dec 1, that draft may never happen.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "The Cubs protected two arms by yesterday's 40-man deadline: Jaxon Wiggins (No. 6 prospect) and Brody McCullough (2.98 ERA, 1.04 WHIP at Double-A).\n\nGrant Kipp and Jose Cabrera were left exposed to the Rule 5 Draft — Dec. 9, assuming the lockout doesn't get there first.\n\n#Cubs",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "CBA Lockout — 13 Days to Sign or Freeze",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "CBA expires Dec 1 — 13 days. Lockout \"almost guaranteed\" per MLBPA exec director Bruce Meyer. Cubs need three starters, an outfielder, and a catcher decision before transactions freeze. Owners want salary cap; players refuse. The 2021-22 lockout lasted 99 days.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Thirteen days until the CBA expires on Dec. 1 — and a lockout is almost guaranteed.\n\nThe Cubs need three starters, an outfielder, and a catcher. That work has to happen before the freeze.\n\nOwners want a salary cap. Players won't budge. We've seen this movie.\n\n#Cubs",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Kaima Taira — Cubs' Top Rotation Target, White Sox Also Competing",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Multiple insiders name Taira as Cubs' top rotation priority. 1.48 ERA last season in Japan. Boras client. Contract projections: 3yr/$30M (Bowden) to 5yr/$72.5M (ESPN). White Sox also competing — Boras met with White Sox GM Getz at GM Meetings.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Cubs are locked in on Kaima Taira as their top rotation target this offseason, per multiple insiders.\n\n1.48 ERA over 146 IP in Japan last season. Boras client. Contract projections run from 3 years, $30M to 5 years, $72.5M.\n\nThe catch: the White Sox want him too.\n\n#Cubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Suzuki Free Agent Market — Blue Jays/Mariners Lead, Shaw Now de Facto RF",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Suzuki officially declined the QO Monday. Blue Jays and Mariners are the frontrunners at a projected 4yr/$110M. Cubs collect a compensation pick. Without a replacement, Matt Shaw is the de facto right fielder in 2027 — a rebuild signal vs. win-now tension.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Suzuki officially declined the QO Monday, closing a five-season chapter as a Cub.\n\nBlue Jays and Mariners lead the chase. Spotrac projects 4 years, $110M. Cubs collect a compensation draft pick.\n\nAbsent a replacement, Matt Shaw is the de facto right fielder in 2027.\n\n#Cubs",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Rival Watch — Brewers Keep Building, Cardinals Modest, Reds Float EDLC",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "While the Cubs focus on their own Hot Stove, the NL Central is moving. Brewers (World Series champs) acquired Ryan Walker from the Giants. Cardinals hired new GM Cerfolio with a modest budget. Reds are fielding trade calls on Elly De La Cruz (3 years club control, extension turned down).",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The NL Central is not standing still.\n\nBrewers added Ryan Walker from the Giants after winning the World Series. Cardinals have a new GM in Cerfolio with a modest payroll. Reds are fielding trade calls on Elly De La Cruz.\n\nWhile you all were watching the Cubs' Hot Stove.\n\n#Cubs",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

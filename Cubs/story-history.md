@@ -9885,3 +9885,52 @@ Each day's stories are appended at the top (newest first).
   - Suzuki officially declines QO → Tier 1 reaction/farewell angle
   - Suzuki signs with Blue Jays → farewell/gratitude post
   - Cubs extend QO officially → news confirmation post
+
+## 2026-11-18 (OFF DAY — Offseason. Cubs added Wiggins + McCullough to 40-man (deadline Nov 17); left Kipp + Cabrera exposed. CBA expires Dec 1 (13 days — lockout almost guaranteed). Kaima Taira confirmed as Cubs' top rotation target; White Sox competing. Suzuki declined QO (Blue Jays/Mariners frontrunners). NL Central moving: Brewers added Walker, Cardinals Cerfolio GM, Reds floating EDLC. Insights: evening_18_24 WINNER + hashtag_count=3 LOSER (OVERRIDE — 1 hashtag used, 8th consecutive day) + hashtag_count=1 WINNER + content_type=brief LOSER + opening=statement WINNER + allcaps_lead LOSER + has_stat WINNER + len_260+ WINNER + len_200-260 LOSER + morning_06_12 LOSER.)
+
+### STORY 1: Cubs Protect Wiggins + McCullough, Expose Kipp + Cabrera
+- **Angle:** FOLLOW UP (Nov 17 deadline day covered; today = aftermath). Cubs added Jaxon Wiggins (No. 6 prospect) and Brody McCullough (2.98 ERA, 1.04 WHIP at Double-A) on Nov 17. Grant Kipp (No. 20) and Jose Cabrera left Rule 5 eligible. Rule 5 Draft Dec 9 may not happen with Dec 1 lockout.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, informative/roster)
+- **Follow-Up Opportunities:**
+  - Kipp or Cabrera selected in Rule 5 Draft (Dec 9) → Tier 2 reaction
+  - Rule 5 Draft canceled by lockout → Tier 3 context post
+  - Wiggins spring training standout → prospect feature
+
+### STORY 2: CBA Lockout — 13 Days to Sign or Freeze
+- **Angle:** FOLLOW UP (CBA noted in headers since Nov 15; first dedicated story). CBA expires Dec 1. Lockout "almost guaranteed" per MLBPA exec. Cubs need 3 starters, outfield, catcher before freeze. 2021-22 precedent: 99-day lockout.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, bold take/urgency)
+- **Follow-Up Opportunities:**
+  - Dec 1 CBA expiration confirmed lockout → Tier 1 immediate reaction
+  - Surprise new CBA agreement → Tier 1 relief/reaction
+  - Cubs sign a starter before Dec 1 → Tier 1 breaking news
+
+### STORY 3: Kaima Taira — Cubs' Top Rotation Target, White Sox Also Competing
+- **Angle:** FOLLOW UP (Nov 16 header noted Cubs met Taira at GM Meetings; first dedicated tweet). Multiple insiders confirm Cubs' top priority. 1.48 ERA last season per Clutchpoints (prior coverage used 1.36 — discrepancy flagged in fact-check). Boras client. White Sox also competing (Boras met with Getz at GM Meetings). Projections: 3yr/$30M–5yr/$72.5M.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, hot stove/analysis)
+- **Fact-check note:** 1.48 ERA used (from Clutchpoints headline) vs 1.36 from prior pipeline research. Flagged as medium-confidence; both sourced; different seasons may explain discrepancy.
+- **Follow-Up Opportunities:**
+  - Cubs sign Taira → Tier 1 rotation acquisition post
+  - White Sox sign Taira → Tier 2 Cubs-miss angle
+  - Taira signs before Dec 1 lockout → urgency update
+
+### STORY 4: Suzuki Free Agent Market — Blue Jays/Mariners Lead, Shaw Now de Facto RF
+- **Angle:** FOLLOW UP (Nov 17 QO decline; today = market developing). Blue Jays and Mariners frontrunners. Spotrac 4yr/$110M. Cubs compensation pick confirmed. Matt Shaw is de facto RF if no replacement signed.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, informative/roster)
+- **Follow-Up Opportunities:**
+  - Suzuki signs with Blue Jays → Tier 2 farewell/destination reaction
+  - Suzuki signs with Mariners → Tier 2 destination reaction
+  - Cubs re-sign Suzuki → Tier 1 surprise reunion
+  - Cubs sign OF replacement → Tier 2 roster move post
+
+### STORY 5: Rival Watch — Brewers Keep Building, Cardinals Modest, Reds Float EDLC
+- **Angle:** NEW STORY. NL Central division update: Brewers added Ryan Walker (RP) from Giants on Nov 15 (WS champs keep improving). Cardinals new GM Rob Cerfolio with modest budget. Reds fielding trade calls on Elly De La Cruz (3yr control, extension turned down).
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, bold take/rival watch)
+- **Follow-Up Opportunities:**
+  - EDLC trade completed → Tier 2 Cubs-angle (division context, Cubs buyers?)
+  - Cardinals sign notable FA → rival watch
+  - Brewers sign another player → Tier 2 "WS champs keep adding" framing
