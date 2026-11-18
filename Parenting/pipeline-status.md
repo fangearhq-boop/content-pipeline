@@ -1,5 +1,35 @@
 # COS Parenting — Pipeline Status
 
+## Current Run: 2026-11-18
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | CPSC recalls: SHEIN Baby Rattle/Teether Sets (~2,657 units, choking hazard, recall #27-083, HIGH from cpsc.gov); Little Partners Grow N Stow Learning Tower (fall hazard, HIGH from cpsc.gov). D11 boundary redrawing: 100+ families at Trailblazer Elementary meeting; enrollment down 21.6% to ~22,265; D49 up 65.5% (HIGH from D11 community meeting coverage). Electric Safari: opens Dec 2, runs through Jan 1 2027, 85+ sculptures, USA TODAY No. 2 (HIGH from cmzoo.org). AAP substance use disorder report: ~1 in 4 children, December 2026 Pediatrics (HIGH from aap.org/healthychildren.org). Thanksgiving break guide: Turkey Trot Briargate YMCA pricing + Wolf Center Turkey Toss + Skate in Park hours (HIGH from visitcos.com/coloradosprings.gov). |
+| Story History Check | COMPLETE | S1 NEW (CPSC recalls — SHEIN rattle + Learning Tower, distinct from Nov 17 S2 Mommy & Me mattresses + HAUOMS dressers); S2 NEW (D11 boundary redrawing — distinct from Nov 17 S2 bond accountability; different D11 issue — attendance zones vs. capital spending); S3 NEW (Electric Safari — first standalone 2026 coverage); S4 NEW (AAP substance use report — follow-up to Nov 12 S3 first coverage, now deeper dive into December 2026 Pediatrics publication); S5 NEW (Thanksgiving break guide — distinct from Nov 16 S2 Thanksgiving week events which focused on Turkey Trot + Wolf Center specifically) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; cpsc.gov official sources for both recalls; D11 enrollment figures from district data; cmzoo.org for Electric Safari; aap.org/healthychildren.org for AAP report; visitcos.com for Turkey Trot pricing |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows (8 AM, 10 AM, 12 PM, 3 PM, 5 PM), 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars; 4 hashtags each; #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; contractions; 0 exclamation marks; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only concepts (2 per story); clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0; dimensions 1200x675 (social) + 1200x630 (hero) |
+| Articles (5) | COMPLETE | article-01 CPSC recalls SHEIN rattle + Learning Tower (Sarah Morales T1 ~550w, quick reference table); article-02 D11 boundary redrawing (Jamie Rivera T1 ~600w); article-03 Electric Safari 2026 (Sarah Morales T2 ~600w, quick reference table); article-04 AAP substance use guidance (Jamie Rivera T2 ~600w); article-05 Thanksgiving break COS guide (Sarah Morales T2 ~650w, quick reference table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 74 claims auto-extracted; all stories present; PASSED; image manifest title-match warnings (cosmetic, pre-existing) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 5 images; 3 official sources |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × social + hero), all not_started, gemini base_only, dimensions 1200x675 (social) + 1200x630 (hero), brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-11-18.xlsx (7 posts) + cosp-postplanner-tobi-2026-11-18.xlsx (7 TOBI posts); FB=0 in export (pre-existing format mismatch) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 18 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB image captions
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+- **Key stories:** CPSC recalls — SHEIN Baby Rattle/Teether Sets (~2,657 units, choking hazard) + Little Partners Learning Tower (fall hazard); D11 boundary redrawing — 100+ families at Trailblazer Elementary meeting, enrollment down 21.6% to ~22,265; Electric Safari 2026 opens Dec 2 (USA TODAY No. 2 zoo lights, advance tickets required); AAP substance use report — 1 in 4 children, December 2026 Pediatrics, anticipatory guidance at well-child visits; Thanksgiving break COS guide — Turkey Trot 5K + Tiny Trot, Wolf Center Turkey Toss, Skate in the Park daily through Jan 2027
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); PostPlanner FB=0 in export (pre-existing format mismatch); image manifest title-match warnings (cosmetic, pre-existing)
+
+---
+
 ## Current Run: 2026-11-17
 
 | Step | Status | Notes |

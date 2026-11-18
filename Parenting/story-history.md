@@ -2,6 +2,50 @@
 
 ---
 
+## November 18, 2026
+
+### Story 1: CPSC Recalls — Baby Rattle Sets and Learning Tower
+- **Date:** 2026-11-18
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** SHEIN Baby Rattle and Teether Toy Sets recalled (~2,657 units, sold US.Shein.com Nov 2025–Jul 2026, ~$10, recall #27-083); purple/orange knobs detach — choking hazard for children under 3; full refund remedy. Little Partners "Grow N Stow" Folding Learning Tower recalled — fall hazard. Stop use; check cpsc.gov/Recalls.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 2: D11 Boundary Redrawing — Over 100 Families Show Up
+- **Date:** 2026-11-18
+- **Tier:** T1
+- **Pillar:** Local News
+- **Key Facts:** D11 boundary review in progress; 100+ northwest-area families attended meeting at Trailblazer Elementary. D11 enrollment down 21.6% over decade to ~22,265 students; D49 up 65.5%. Administrators reviewing attendance zones and transfer policies. No vote scheduled; community engagement ongoing — d11.org.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 3: Electric Safari at Cheyenne Mountain Zoo Opens Dec. 2
+- **Date:** 2026-11-18
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Electric Safari 2026 opens Dec 2 at Cheyenne Mountain Zoo, runs through Jan 1, 2027. 85+ light sculptures, drone show, Santa at Safari Lodge. USA TODAY No. 2 zoo lights in North America (7th straight year top 3). Advance tickets required — cmzoo.org. Dec 22–Jan 1 stretch sells out weeks ahead.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 4: AAP Report — 1 in 4 Kids Lives With a Parent With Substance Use Disorder
+- **Date:** 2026-11-18
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** AAP clinical report published December 2026 Pediatrics — ~1 in 4 U.S. children lives with adult who has substance use disorder. Guidance for pediatricians: nonjudgmental communication, anticipatory guidance at well-child visits. Colorado tracks above national SUD average. Family resources: healthychildren.org, elpasocountyhealth.org.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY (follow-up to Nov 12 S3 AAP substance use first coverage)
+
+### Story 5: Thanksgiving Break in COS — A Family Activity Guide
+- **Date:** 2026-11-18
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Thanksgiving break Nov 24–28 for most D11/D20/D49 families. Turkey Trot 5K at Briargate YMCA Thanksgiving morning (Tiny Trot 8:15 AM, 5K 9 AM; $43.65 ages 6–19, $54.25 ages 20+). Wolf Center Turkey Toss in Divide 9–11 AM ($20 ages 6–11, $40 ages 12+). Skate in the Park at Acacia Park daily through Jan 2027 ($15 incl. rental, ages 4 and under free).
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+---
+
 ## November 17, 2026
 
 ### Story 1: Things to Do with Kids in Colorado Springs — Weekend Nov 21–23

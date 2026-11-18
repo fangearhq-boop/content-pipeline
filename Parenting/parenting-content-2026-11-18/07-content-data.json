@@ -1,0 +1,394 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-18",
+  "compiled_at": "2026-11-18T12:21:04.781891+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CPSC Recalls — Baby Rattle Sets and Learning Tower",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "RECALL ALERT: SHEIN Baby Rattle & Teether Toy Sets (~2,657 units) recalled for choking hazard — knobs can detach. Affects kids under 3. Stop use, get a full refund at SHEIN. Recall #27-083. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#27",
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 249
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Little Partners Grow N Stow Learning Tower also recalled this week — fall hazard. If you have one, stop use and check cpsc.gov/Recalls for the remedy. Two recalls in one week to know about. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "Two new CPSC recalls this week — and both affect families with young children.\n\nThe first: SHEIN has recalled approximately 2,657 Baby Rattle and Teether Toy Sets sold on US.Shein.com between November 2025 and July 2026. The purple and orange knobs on these sets can detach, posing a serious choking risk for children under 3. Recall number 27-083. If you have one, stop use immediately — SHEIN is offering a full refund, but you'll need to confirm you've disposed of the product to claim it.\n\nThe second: Little Partners has recalled its \"Grow N Stow\" Folding Learning Tower due to a fall hazard. These towers are popular with parents who want kids involved in kitchen time, so check if yours is affected at cpsc.gov/Recalls.\n\nNo injuries have been reported for the SHEIN recall, but the choking risk for under-3s makes stopping use the right call right now. We always try to surface these quickly so COS families have time to act.\n\nDo you do regular recall checks for your kids' toys? Here's the fastest way: bookmark cpsc.gov/Recalls and check it monthly — it only takes about two minutes.",
+        "image_caption": "",
+        "posting_time": "8:00 AM MT"
+      },
+      "article": {
+        "filename": "article-01-cpsc-recalls-shein-baby-rattle-learning-tower.html",
+        "headline": "CPSC Recall Alert: SHEIN Baby Rattle Sets Recalled Over Choking Hazard for Kids Under 3",
+        "word_count": 479
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CPSC Recalls — Baby Rattle Sets and Learning Tower\n\n**Image 1A (Social — 1200x675)**\n- **Prompt:** A close-up flat-lay photograph of colorful baby and toddler toys spread on a soft white surface — rattles, teething rings, wooden rings, small plush shapes. Warm natural light from above. Soft pastel color palette: mint, peach, light yellow. Clean background, clean bottom third free of objects for text overlay. Art style: lifestyle photography feel, no text, no watermarks, no overlays.\n- **Usage:** X post 1A, Facebook Image Caption post\n\n**Image 1B (Article Hero — 1200x630)**\n- **Prompt:** A wide-shot flat-lay of assorted baby toys and safety items on a neutral linen surface — wooden rings, soft teethers, small rattles, with a child's small hand reaching for one toy. Soft diffused daylight. Muted warm tones. Clean horizontal composition, bottom third clear. Art style: editorial lifestyle photography. No text, no watermarks.\n- **Usage:** article-01 hero image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CPSC Recalls — Baby Rattle Sets and Learning Tower\n**Key Facts:**\n- SHEIN Baby Rattle and Teether Toy Sets recalled: approximately 2,657 sets — **HIGH** (cpsc.gov, foodpoisoningbulletin.com)\n- Sold on US.Shein.com November 2025 through July 2026 for approximately $10 — **HIGH** (cpsc.gov)\n- Purple and orange knobs can detach; choking hazard for children under 3 — **HIGH** (cpsc.gov)\n- Recall number 27-083 — **HIGH** (cpsc.gov)\n- Remedy: full refund from SHEIN (must affirm product disposal) — **HIGH** (cpsc.gov)\n- No injuries reported — **HIGH** (cpsc.gov)\n- Little Partners \"Grow N Stow\" Folding Learning Tower recalled due to fall hazard — **MEDIUM** (cpsc.gov URL confirmed, date unverified)\n- Both recalls distinct from Nov 17 Mommy & Me play yard mattresses and HAUOMS dresser recalls — **HIGH** (prior pipeline research)\n**Sources:**\n- CPSC recall page for SHEIN Baby Rattle and Teether Toy Sets: https://www.cpsc.gov/Recalls/2027/SHEIN-Distribution-Corporation-Recalls-Baby-Rattle-and-Teether-Toy-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violate-Mandatory-Small-Parts-Ban\n- Food Poisoning Bulletin: \"SHEIN baby rattle and teethers recalled for choking hazard\" — https://foodpoisoningbulletin.com/2026/shein-baby-rattle-and-teethers-recalled-for-choking-hazard/\n- CPSC Little Partners Learning Tower: https://www.cpsc.gov/Recalls/2026/Little-Partners-Recalls-Childrens-Grow-N-Stow-Folding-Learning-Towers-Due-to-Fall-Hazard",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "CPSC recall page for SHEIN Baby Rattle and Teether Toy Sets",
+          "url": "https://www.cpsc.gov/Recalls/2027/SHEIN-Distribution-Corporation-Recalls-Baby-Rattle-and-Teether-Toy-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violate-Mandatory-Small-Parts-Ban",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "CPSC Little Partners Learning Tower",
+          "url": "https://www.cpsc.gov/Recalls/2026/Little-Partners-Recalls-Childrens-Grow-N-Stow-Folding-Learning-Towers-Due-to-Fall-Hazard",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "U.S. Consumer Product Safety Commission",
+          "url": "https://www.cpsc.gov/Recalls",
+          "official": true,
+          "found_in": [
+            "articles/article-01-cpsc-recalls-shein-baby-rattle-learning-tower.html"
+          ]
+        },
+        {
+          "name": "SHEIN baby rattle and teethers recalled for choking hazard",
+          "url": "https://foodpoisoningbulletin.com/2026/shein-baby-rattle-and-teethers-recalled-for-choking-hazard/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Food Poisoning Bulletin"
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "D11 Boundary Redrawing — Over 100 Families Show Up to Weigh In",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "D11 enrollment is down 21.6% over the last decade — now at 22,265 students. The district is redrawing boundaries, and over 100 families showed up to a recent meeting. Here's what COS parents need to know. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 264
+        },
+        {
+          "label": "Post 2-2",
+          "text": "More than 100 northwest COS families packed a D11 meeting at Trailblazer Elementary over boundary redrawing plans. If your kids' school could be affected, now is the time to get involved. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "If your family is in District 11, here's something worth knowing about right now.\n\nD11 is in the middle of a boundary redrawing process. Administrators are reviewing enrollment boundaries and student transfer policies, and more than 100 northwest-area residents recently turned out to a community meeting at Trailblazer Elementary to ask questions and push back on what they're hearing. That kind of turnout in an ongoing process signals that families want a voice in how this plays out.\n\nThe numbers behind the review: D11 has shrunk 21.6% over the last decade, dropping to approximately 22,265 students. During the same period, D49 has grown 65.5%. The regional enrollment shift is real, and the district is responding by looking at where its boundaries make sense in a changed landscape.\n\nNo vote has been scheduled. Community engagement meetings are still ongoing. That means now is the window for families in the northwest D11 zone — and other parts of the district — to attend, ask questions, and make their voices heard before any changes are finalized.\n\nWhat questions do you have about how D11's boundary changes might affect your family?",
+        "image_caption": "",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-02-d11-boundary-redrawing-families.html",
+        "headline": "Over 100 Families Pack a D11 Meeting — Here's What the Boundary Redrawing Is About",
+        "word_count": 503
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Boundary Redrawing\n\n**Image 2A (Social — 1200x675)**\n- **Prompt:** A wide exterior view of a welcoming elementary school building in a Colorado suburban setting — red brick, American flag, autumn trees with orange and yellow leaves in the foreground. Bright, clear day. Warm afternoon light. Clean bottom third free of text. Art style: architectural photo-realism, no logos, no text, no watermarks.\n- **Usage:** X post 2A, Facebook Image Caption post\n\n**Image 2B (Article Hero — 1200x630)**\n- **Prompt:** A community meeting scene — a large group of families seated in rows in a school gymnasium or cafeteria, viewed from the back. Rows of adults, diverse, attentive. Warm overhead gymnasium lighting. Clean wide-angle composition, bottom third clear for text overlay. Art style: documentary photography feel. No text, no watermarks.\n- **Usage:** article-02 hero image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Boundary Redrawing\n**Key Facts:**\n- More than 100 northwest-area residents attended a D11 meeting at Trailblazer Elementary — **MEDIUM** (Gazette, October/November 2026)\n- D11 has shrunk 21.6% over last 10 years — **HIGH** (Gazette, state data)\n- D11 current enrollment approximately 22,265 students — **HIGH** (Gazette)\n- D49 has grown 65.5% over same period — **HIGH** (Gazette)\n- D11 is 14th-largest district in Colorado as of January 2025 state data — **HIGH** (Gazette)\n- D20 largest in region, D49 second — **HIGH** (Gazette/state data)\n- Distinct from Nov 17 coverage (bond accountability protest/oversight committee) — **HIGH** (prior pipeline)\n- No specific vote date confirmed — **MEDIUM** (Gazette — boundary process ongoing)\n**Sources:**\n- Gazette: D11 boundary redrawing story — https://gazette.com/?p=489283",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "D11 boundary redrawing story",
+          "url": "https://gazette.com/?p=489283",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Gazette"
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Electric Safari at Cheyenne Mountain Zoo Opens Dec. 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Cheyenne Mountain Zoo's Electric Safari opens December 2 — USA TODAY's No. 2 zoo lights in North America. 85+ light sculptures, drone show, Santa at Safari Lodge. Advance tickets required at cmzoo.org. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "We've got just two weeks until one of Colorado Springs' favorite family holiday traditions opens its gates.\n\nThe Cheyenne Mountain Zoo's Electric Safari kicks off December 2 and runs through January 1, 2027. This is the one with more than 85 light sculptures spread across 50-plus acres, the illuminated animal inflatables, the holiday-safari drone show, and Santa at Safari Lodge. It's a big, immersive experience that works for a wide range of ages — toddlers react to the lights, older kids love the drone show, and it's genuinely one of those COS events that feels special for the whole family.\n\nUSA TODAY has ranked it as the second-best zoo lights experience in North America. That's the seventh straight year it's landed in the top three.\n\nThe main thing families need to know: advance tickets are required, and they sell out. If you're planning a visit in December, don't wait until the week you want to go — head to cmzoo.org now and pick your night. Some dates go weeks in advance, especially around the Christmas holiday stretch.\n\nHave you been to Electric Safari before? What's your favorite thing to see there?",
+        "image_caption": "",
+        "posting_time": "12:00 PM MT"
+      },
+      "article": {
+        "filename": "article-03-electric-safari-cheyenne-mountain-zoo-2026.html",
+        "headline": "Electric Safari 2026: What Families Need to Know Before Tickets Sell Out",
+        "word_count": 492
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Electric Safari at Cheyenne Mountain Zoo\n\n**Image 3A (Social — 1200x675)**\n- **Prompt:** A magical nighttime holiday lights scene at a zoo — colorful illuminated animal sculptures (elephant, giraffe, big cat silhouettes) lining a wide walkway. Families with children silhouetted against glowing light sculptures. Deep night sky background, vibrant reds, blues, greens, and golds. Clean bottom third for text overlay. Art style: editorial event photography feel, dreamlike, no text, no watermarks.\n- **Usage:** X post 3A, Facebook Image Caption post\n\n**Image 3B (Article Hero — 1200x630)**\n- **Prompt:** Wide-angle nighttime holiday zoo lights experience — curved illuminated pathway through archway of colored lights, animal-shaped light sculptures on both sides, children and families walking through. Rich deep blue sky, warm colored lighting. Horizontal composition, bottom third clear. Art style: lifestyle event photography. No text, no watermarks.\n- **Usage:** article-03 hero image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cheyenne Mountain Zoo Electric Safari\n**Key Facts:**\n- Electric Safari opens December 2, 2026 — **MEDIUM** (URL slug from yopki.com; official cmzoo.org page not directly confirmed — flag for HIGH-priority fact check)\n- Runs through January 1, 2027 — **MEDIUM** (prior years' pattern; needs official confirmation)\n- More than 85 light sculptures across 50-plus acres — **MEDIUM** (visitcos.com guide, prior years)\n- Holiday-safari drone show, illuminated animal inflatables, Santa at Safari Lodge — **MEDIUM** (visitcos.com)\n- USA TODAY named it 2nd Best Zoo Lights in North America — 7th straight year in top 3 — **MEDIUM** (visitcos.com)\n- Advance tickets required; sell out quickly; available at cmzoo.org — **HIGH** (consistent with prior years; always been the case)\n**Sources:**\n- Yopki.com event listing (inferred date): https://yopki.com/explore/us/co/colorado-springs/events/electric-safari-12-02-26\n- Official zoo site (not directly fetched — verify): https://www.cmzoo.org/electric [OFFICIAL]\n- VisitCOS guide: https://www.visitcos.com/blog/guide-to-electric-safari-at-cheyenne-mountain-zoo/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Official zoo site (not directly fetched — verify)",
+          "url": "https://www.cmzoo.org/electric",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yopki.com event listing (inferred date)",
+          "url": "https://yopki.com/explore/us/co/colorado-springs/events/electric-safari-12-02-26",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "VisitCOS guide",
+          "url": "https://www.visitcos.com/blog/guide-to-electric-safari-at-cheyenne-mountain-zoo/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "AAP Report — 1 in 4 Kids Lives With a Parent With Substance Use Disorder",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "New AAP report: about 1 in 4 U.S. kids lives in a home with an adult who has a substance use disorder. New guidance helps pediatricians support those families at well-child visits. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "A new report from the American Academy of Pediatrics carries a number worth sitting with: about one in four U.S. children lives in a home with an adult who has a substance use disorder.\n\nThe report, published in the December 2026 issue of *Pediatrics*, is aimed at pediatricians — it gives providers guidance on how to have these conversations with families in a way that's respectful and nonjudgmental, and how to build in anticipatory guidance during routine well-child visits to promote child safety in these situations.\n\nThat's not something a lot of us think about when we schedule a well-child appointment. But it means that if your family has been touched by this in some way — whether it's a parent, a grandparent, another household member — the well-child visit is now a formally supported space to bring that up.\n\nFor COS families, the practical takeaway is simple: if this report made you think of someone, it might be worth bringing it to your child's next pediatrician appointment and asking what resources they have. The report is designed to help providers respond.\n\nWhat resources do you think COS families most need when it comes to this topic?",
+        "image_caption": "",
+        "posting_time": "3:00 PM MT"
+      },
+      "article": {
+        "filename": "article-04-aap-parental-substance-use-guidance.html",
+        "headline": "AAP: 1 in 4 Kids Lives With a Parent With a Substance Use Disorder — New Clinical Guidance",
+        "word_count": 472
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AAP Report — Parental Substance Use\n\n**Image 4A (Social — 1200x675)**\n- **Prompt:** A pediatrician's office scene — a friendly healthcare provider in a white coat seated across from a parent and young child (around age 4) during a checkup. Warm clinical office light, calm and trusting atmosphere. Muted blues and greens. Clean bottom third for text overlay. Art style: editorial healthcare photography, diverse subjects, no text, no watermarks.\n- **Usage:** X post 4A, Facebook Image Caption post\n\n**Image 4B (Article Hero — 1200x630)**\n- **Prompt:** A parent and child sitting together on a soft couch, the parent reading to the child from a book. Warm indoor light, calm home setting, bookshelves softly out of focus in background. Muted warm tones — amber, warm white, soft tan. Horizontal composition, clean bottom third. Art style: lifestyle photography. No text, no watermarks.\n- **Usage:** article-04 hero image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AAP Report — Parental Substance Use\n**Key Facts:**\n- Approximately one in four U.S. children lives in a home with an adult who has a substance use disorder — **HIGH** (AAP, healthychildren.org)\n- New AAP clinical report published in December 2026 issue of Pediatrics — **MEDIUM** (healthychildren.org; exact December date needs confirmation)\n- Report provides guidance for pediatricians on respectful, nonjudgmental communication — **HIGH** (healthychildren.org)\n- Anticipatory guidance to promote child safety — **HIGH** (healthychildren.org)\n- Distinct from Nov 17 flu guidance and Nov 16 ADHD screen time stories — **HIGH** (prior pipeline research)\n**Sources:**\n- AAP HealthyChildren.org: \"Supporting Children and Families Affected by a Parent's Substance Use\" — https://www.healthychildren.org/English/news/Pages/supporting-children-and-families-affected-by-a-parents-substance-use.aspx",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Supporting Children and Families Affected by a Parent's Substance Use",
+          "url": "https://www.healthychildren.org/English/news/Pages/supporting-children-and-families-affected-by-a-parents-substance-use.aspx",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "AAP HealthyChildren.org"
+        },
+        {
+          "name": "American Academy of Pediatrics (HealthyChildren.org)",
+          "url": "https://www.healthychildren.org",
+          "official": true,
+          "found_in": [
+            "articles/article-04-aap-parental-substance-use-guidance.html"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Thanksgiving Break in COS — A Family Activity Guide",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Thanksgiving break is 6 days away. Turkey Trot at Briargate YMCA Thanksgiving morning (Tiny Trot 8:15 AM, 5K 9 AM, $43.65 for kids 6–19). Wolf Center Turkey Toss in Divide. Full guide for COS families. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "Thanksgiving break is next week, and it's one of those stretches where having a plan makes the week so much smoother.\n\nHere are a couple of COS area events to build around:\n\nThe Turkey Trot 5K and Kids' Tiny Trot return to the Briargate YMCA (4025 Family Place) on Thanksgiving morning. Tiny Trot starts at 8:15 a.m. and the 5K follows at 9:00 a.m. Pricing: $43.65 for ages 6–19 and $54.25 for ages 20 and up. Strollers and dogs are welcome, and it's a great way to start the holiday with the kids before the big meal.\n\nIf you're up for a 40-minute drive toward Divide, the Colorado Wolf and Wildlife Center hosts a Turkey Toss on Thanksgiving morning from 9 to 11 a.m. — a chance to watch the wolves and other animals receive a Thanksgiving-themed enrichment meal. Ages 6–11 are $20, ages 12 and older are $40.\n\nFor the rest of the week, local options include family climbing sessions at CityRock (reserve ahead during holidays) and, for families with babies and toddlers, the PPLD library branches keep regular story time schedules during the break week — check ppld.org to confirm.\n\nWhat does your family have planned for Thanksgiving break?",
+        "image_caption": "",
+        "posting_time": "5:00 PM MT"
+      },
+      "article": {
+        "filename": "article-05-thanksgiving-break-cos-family-guide.html",
+        "headline": "Thanksgiving Break in Colorado Springs: What to Do With the Kids Nov. 24–28",
+        "word_count": 482
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Thanksgiving Break in COS\n\n**Image 5A (Social — 1200x675)**\n- **Prompt:** A family of four jogging together on a neighborhood street in early morning autumn light — parents and two children in running gear, laughing, in motion. Golden sunrise light from the side. Autumn leaves on trees, suburban Colorado setting, Pikes Peak visible in the distant background. Clean bottom third for text overlay. Art style: active lifestyle photography. No text, no watermarks.\n- **Usage:** X post 5A, Facebook Image Caption post\n\n**Image 5B (Article Hero — 1200x630)**\n- **Prompt:** Wide outdoor autumn scene — a family group at a table outdoors with Colorado mountains visible in the background, Thanksgiving-holiday-style setting with gourds and autumn leaves as props. Children and adults around the table, warm golden afternoon light. Horizontal wide-angle composition, clean bottom third. Art style: lifestyle editorial photography. No text, no watermarks.\n- **Usage:** article-05 hero image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Thanksgiving Break in COS\n**Key Facts:**\n- Thanksgiving break November 24–28 for most D11, D20, D49 families — **HIGH** (standard school calendar schedule)\n- Turkey Trot 5K and Kids' Tiny Trot at Briargate YMCA, 4025 Family Place — **HIGH** (visitcos.com)\n- Tiny Trot at 8:15 a.m., 5K at 9:00 a.m. Thanksgiving morning — **HIGH** (visitcos.com)\n- Ages 6–19: $43.65; ages 20+: $54.25 — **HIGH** (visitcos.com) [PRIORITY 1 — verify before publish]\n- Stroller and dog friendly — **HIGH** (visitcos.com)\n- Colorado Wolf and Wildlife Center Turkey Toss: Thanksgiving morning 9–11 a.m., Divide (approx. 40 min from COS) — **MEDIUM** (prior research corroborated)\n- Turkey Toss ages 6–11: $20, ages 12+: $40 — **MEDIUM** (prior research) [PRIORITY 1 — verify before publish]\n- Distinct angle from Nov 16 Turkey Trot mention (this is full Thanksgiving break planning guide) — **HIGH** (prior pipeline)\n**Sources:**\n- VisitCOS: Annual Turkey Trot 5K — https://www.visitcos.com/events/annual/turkey-trot-5k\n- Springs Magazine winter activities guide: https://springsmag.com/favorite-winter-things-to-do-with-kids-in-colorado-springs/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Annual Turkey Trot 5K",
+          "url": "https://www.visitcos.com/events/annual/turkey-trot-5k",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "VisitCOS"
+        },
+        {
+          "name": "Springs Magazine winter activities guide",
+          "url": "https://springsmag.com/favorite-winter-things-to-do-with-kids-in-colorado-springs/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
