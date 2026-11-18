@@ -3,6 +3,16 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## November 18, 2026
+
+| 2026-11-18 | Zverev beats Shelton 6-2, 7-6(4) at ATP Finals Day 3 (Turin); 14 aces, zero double faults; extends H2H vs Shelton to 7-0; first player to qualify for semifinals. Sources: NBC Sports, TennisGrandstand, Tribune Philippines, GMA Network | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 17 S2: Day 3 preview Zverev vs Shelton → Zverev qualifies) |
+| 2026-11-18 | Fils comes back to beat Jodar 4-6, 6-2, 6-2 at ATP Finals Day 3; first Frenchman to win ATP Finals match since Tsonga 2011; Jodar drops to 0-2; Fils faces Zverev Thursday. Sources: Washington Post, TennisGrandstand | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Nov 17 S2: Day 3 preview Fils vs Jodar → Fils comeback) |
+| 2026-11-18 | ATP Finals Day 4 preview — Lendl Group: Alcaraz (1-0) vs Medvedev (1-0) not before 2pm CET; winner advances to semis; Alcaraz leads H2H 7-3; Cobolli vs Tiafoe evening (both 0-1). Sources: nittoatpfinals.com, tennisuptodate.com, lastwordonsports.com | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Nov 17 S5: Lendl Group standings → Day 4 decider preview) |
+| 2026-11-18 | McEnroe Group standings after Day 3 — Zverev 2-0 (qualified), Shelton 1-1, Fils 1-1, Jodar 0-2; Shelton vs Fils Thursday for second semifinal spot. Sources: Derived from confirmed results | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 17 S2: Day 3 preview → Day 3 McEnroe Group results) |
+| 2026-11-18 | Andreeva ends 2026 as WTA World No. 2 — year-end rankings finalized; overtook Sabalenka (now No. 3); WTA Finals champion, zero sets dropped. Sources: wtatennis.com WTA Rankings Watch | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Nov 17 S4: Andreeva champion reaction → year-end No. 2 ranking) |
+
+---
+
 ## November 17, 2026
 
 | 2026-11-17 | Alcaraz crushes Tiafoe 6-2, 6-2 at ATP Finals Day 2 (Turin); 69 min; broke 4/5 serve games; 10-match winning streak; Tiafoe called him "Superman." Sources: NBC Sports, TennisGrandstand | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Nov 16 S2: ATP Finals Day 2 preview → Day 2 Lendl Group result) |

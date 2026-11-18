@@ -1,6 +1,36 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-11-17
+## Current Run: 2026-11-18
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Zverev d. Shelton 6-2, 7-6(4) (14 aces, 0 DF, qualifies, H2H 7-0); Fils d. Jodar 4-6, 6-2, 6-2 (comeback, first French ATP Finals win since Tsonga 2011); Day 4: Alcaraz vs Medvedev not before 2pm CET (Alcaraz leads H2H 7-3), Cobolli vs Tiafoe 8:30pm CET; McEnroe Group: Zverev 2-0 qualified, Shelton 1-1, Fils 1-1, Jodar 0-2; Andreeva ends year WTA No. 2. Sources: NBC Sports, TennisGrandstand, Washington Post, Tribune Philippines, GMA Network, nittoatpfinals.com, wtatennis.com |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Nov 17 S2: Day 3 preview Zverev vs Shelton → Zverev qualifies); S2 FOLLOW-UP (Nov 17 S2: Day 3 preview Fils vs Jodar → Fils comeback); S3 FOLLOW-UP (Nov 17 S5: Lendl Group standings → Day 4 Alcaraz-Medvedev preview); S4 FOLLOW-UP (Nov 17 S2: Day 3 preview → Day 3 McEnroe Group results); S5 FOLLOW-UP (Nov 17 S4: Andreeva champion reaction → year-end No. 2) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Elena Voss [S1,S4], Marcus Cole [S2,S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; Zverev/Fils scores HIGH; aces/DF stats HIGH; H2H records HIGH; Andreeva year-end No. 2 HIGH |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories (2 each for S1+S2, 1 each for S3-S5); all ≤280 chars |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories; player-name-only search terms |
+| Articles (5) | COMPLETE | article-01 Zverev beats Shelton (Elena Voss T1 ~530w); article-02 Fils comeback Jodar (Marcus Cole T1 ~520w); article-03 Day 4 preview Alcaraz-Medvedev (Ryan Calloway T2 ~510w); article-04 McEnroe Group standings Day 3 (Elena Voss T2 ~520w); article-05 Andreeva year-end No. 2 (Marcus Cole T2 ~500w) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 25 claims extracted; PASSED (all stories present in all content files) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 5 images |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-11-18.xlsx (7 posts) + tfr-postplanner-tobi-2026-11-18.xlsx (7 TOBI posts); FB=0 in export (pre-existing format mismatch) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 18 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB image captions
+- **Articles:** 5 (bylines: Elena Voss [S1,S4], Marcus Cole [S2,S5], Ryan Calloway [S3])
+- **Key stories:** Zverev qualifies 6-2, 7-6(4) over Shelton (14 aces, 0 DF, H2H 7-0); Fils comeback 4-6, 6-2, 6-2 over Jodar (first French ATP Finals win since Tsonga 2011); Day 4 Alcaraz vs Medvedev group decider + Cobolli vs Tiafoe; McEnroe Group standings (Zverev through, Shelton vs Fils Thursday); Andreeva year-end WTA No. 2
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); PostPlanner FB=0 (pre-existing format mismatch)
+
+---
+
+## Previous Run: 2026-11-17
 
 | Step | Status | Notes |
 |------|--------|-------|

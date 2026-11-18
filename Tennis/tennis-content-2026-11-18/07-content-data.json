@@ -1,0 +1,381 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-18",
+  "compiled_at": "2026-11-18T12:14:43.295502+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Zverev Beats Shelton 6-2, 7-6(4) — Qualifies for ATP Finals Semis",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Alexander Zverev is the first player through to the ATP Finals semifinals. He beat Ben Shelton 6-2, 7-6(4) — 14 aces, zero double faults. H2H with Shelton is now 7-0. #ATPFinals #Tennis #ATP #Zverev",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Zverev"
+          ],
+          "char_count": 198
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Zverev served 14 aces and didn't drop a double fault against Shelton in Turin. That's the kind of serving performance that qualifies you for semifinals. He's through. #ATPFinals #Tennis #ATP #Zverev",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Zverev"
+          ],
+          "char_count": 198
+        }
+      ],
+      "facebook": {
+        "long_form": "Alexander Zverev is the first player through to the ATP Finals semifinals, and he got there in emphatic style.\n\nHis 6-2, 7-6(4) win over Ben Shelton on Tuesday in Turin was a performance built on serving dominance. Fourteen aces. Zero double faults. Shelton — one of the most powerful servers on tour with 15 aces of his own — simply couldn't match Zverev's total control of the match. The first set was settled quickly. The second went to a tiebreak, but Zverev took that 7-4 and closed it out without drama.\n\nShelton and Zverev had already met in the 2026 US Open final, with Zverev winning that too. The all-time head-to-head is now 7-0, a number that reflects just how difficult Zverev is to beat when he is at his best.\n\nFor Zverev, the ATP Finals holds obvious personal significance — he's won it twice before, in 2018 and 2021, and Turin gives him another shot at adding a third title. Getting through the group stage as the first qualifier is a confident start.\n\nWho do you think will challenge Zverev in the semis?",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-zverev-beats-shelton-atp-finals-semis.html",
+        "headline": "Zverev Books ATP Finals Semifinal Spot With 6-2, 7-6 Win Over Shelton",
+        "word_count": 549
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Zverev Beats Shelton 6-2, 7-6(4) — ATP Finals Semifinal\n\n**Image 1A (Social — 1080x1350)**\n- **Search Term:** Alexander Zverev\n- **Usage:** X post 1A, Facebook Image Caption post\n- **Notes:** Select dominant/celebrating mid-match image. Strong expression preferred.\n\n**Image 1B (Article Hero — 1200x630)**\n- **Search Term:** Alexander Zverev\n- **Usage:** article-01 hero image\n- **Notes:** Select wide action shot or service motion for article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Zverev Beats Shelton 6-2, 7-6(4) — ATP Finals Semifinal\n**Key Facts:**\n- Alexander Zverev defeated Ben Shelton 6-2, 7-6(4) on Tuesday, November 17, at the ATP Finals in Turin — **HIGH** (NBC Sports, TennisGrandstand, Tribune Philippines)\n- Zverev clinches his ATP Finals semifinal spot as the first player through — **HIGH** (NBC Sports, GMA Network)\n- Zverev fired 14 aces and committed zero double faults — **HIGH** (Tribune Philippines, TennisGrandstand)\n- Shelton hit 15 aces with two double faults — **HIGH** (TennisGrandstand)\n- Zverev extends all-time H2H vs Shelton to 7-0 — **HIGH** (TennisGrandstand, confirmed vs prior pipelines)\n- Zverev is World No. 1 and two-time ATP Finals champion (2018, 2021) — **HIGH** (prior pipelines confirmed)\n- Shelton is World No. 3 — **HIGH** (ATP draw, prior pipelines)\n- Zverev beat Shelton in the 2026 US Open final — **HIGH** (prior pipelines HIGH confirmed)\n**Sources:**\n- NBC Sports: \"Zverev beats Shelton again in rematch of US Open final and advances at ATP Finals\" — https://www.nbcsports.com/tennis/news/zverev-beats-shelton-again-in-rematch-of-us-open-final-and-advances-at-atp-finals\n- TennisGrandstand: \"ATP Finals Day 3: Zverev Books Semi-Final Spot, Fils Beats Jodar\" — https://tennisgrandstand.com/zverev-semi-final-spot-atp-finals-fils-jodar/\n- Tribune Philippines: \"Zverev serves up emphatic win to reach ATP Finals last four\" — https://tribune.net.ph/2026/11/18/zverev-serves-up-emphatic-win-to-reach-atp-finals-last-four\n- GMA Network: \"Alexander Zverev remains perfect vs Ben Shelton, now 2-0 at ATP Finals\" — https://www.gmanetwork.com/news/sports/othersports/1009899/alexander-zverev-remains-perfect-vs-ben-shelton-now-2-0-at-atp-finals/story/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Zverev beats Shelton again in rematch of US Open final and advances at ATP Finals",
+          "url": "https://www.nbcsports.com/tennis/news/zverev-beats-shelton-again-in-rematch-of-us-open-final-and-advances-at-atp-finals",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "NBC Sports"
+        },
+        {
+          "name": "ATP Finals Day 3: Zverev Books Semi-Final Spot, Fils Beats Jodar",
+          "url": "https://tennisgrandstand.com/zverev-semi-final-spot-atp-finals-fils-jodar/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "TennisGrandstand"
+        },
+        {
+          "name": "Zverev serves up emphatic win to reach ATP Finals last four",
+          "url": "https://tribune.net.ph/2026/11/18/zverev-serves-up-emphatic-win-to-reach-atp-finals-last-four",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Tribune Philippines"
+        },
+        {
+          "name": "Alexander Zverev remains perfect vs Ben Shelton, now 2-0 at ATP Finals",
+          "url": "https://www.gmanetwork.com/news/sports/othersports/1009899/alexander-zverev-remains-perfect-vs-ben-shelton-now-2-0-at-atp-finals/story/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "GMA Network"
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Fils Beats Jodar 4-6, 6-2, 6-2 — Comeback Keeps Him Alive",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Arthur Fils comes back from a set down to beat Rafael Jodar 4-6, 6-2, 6-2. The first Frenchman to win a match at the ATP Finals since Tsonga in 2011. He's alive in Turin. #ATPFinals #Tennis #ATP #Fils",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Fils"
+          ],
+          "char_count": 200
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Down a set, then two straight 6-2 sets. Fils had the composure to flip the match against Jodar and keep his ATP Finals campaign alive. Now he faces Zverev on Thursday. #ATPFinals #Tennis #ATP #Fils",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Fils"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": {
+        "long_form": "Arthur Fils was down a set, facing elimination at the ATP Finals, and then he found another gear entirely.\n\nThe final score — 4-6, 6-2, 6-2 over Rafael Jodar — doesn't quite capture how the match unfolded. Jodar took the first set and had the momentum. Fils, who'd lost to Shelton in his opening match, looked like he might be heading for a straight-sets exit. Instead, the Frenchman responded with two clinical sets that showed exactly why he qualified for Turin in the first place.\n\nThe win makes Fils the first Frenchman to win a match at the ATP Finals since Jo-Wilfried Tsonga in 2011. That's a 15-year gap, and it carries weight in a country with a deep tennis culture. Fils, 24, is at his first ATP Finals and is representing French tennis at the top table.\n\nJodar is now 0-2 and needs significant external help to advance. Fils, meanwhile, faces Alexander Zverev on Thursday — the already-qualified world No. 1. It's a tall order, but after Tuesday's comeback, nothing looks impossible.\n\nWhat do you make of Fils's ATP Finals campaign so far?",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-fils-beats-jodar-comeback-atp-finals.html",
+        "headline": "First French ATP Finals Win Since Tsonga 2011: Fils Comeback Keeps Dream Alive",
+        "word_count": 575
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Fils Beats Jodar 4-6, 6-2, 6-2 — Comeback Win\n\n**Image 2A (Social — 1080x1350)**\n- **Search Term:** Arthur Fils\n- **Usage:** X post 2A, Facebook Image Caption post\n- **Notes:** Select strong on-court action or fist-pump image\n\n**Image 2B (Article Hero — 1200x630)**\n- **Search Term:** Arthur Fils\n- **Usage:** article-02 hero image\n- **Notes:** Select wide action or celebration image for article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Fils Beats Jodar 4-6, 6-2, 6-2 — Comeback Win\n**Key Facts:**\n- Arthur Fils defeated Rafael Jodar 4-6, 6-2, 6-2 on Tuesday, November 17, at the ATP Finals in Turin — **HIGH** (Washington Post, TennisGrandstand, Perfect Tennis)\n- Fils came back from losing the first set to win in three — **HIGH** (Washington Post, TennisGrandstand)\n- Fils becomes the first Frenchman to win a match at the ATP Finals since Jo-Wilfried Tsonga in 2011 — **HIGH** (Washington Post)\n- Fils improves to 1-1; Jodar drops to 0-2 — **HIGH** (confirmed from match results)\n- Jodar leads H2H with Fils 2-1 going in (all 2026 on hard courts) — **HIGH** (prior pipeline research)\n- Fils is World No. 6, first Frenchman at ATP Finals since Monfils 2016 — **HIGH** (confirmed in prior pipelines)\n- Jodar is World No. 8, first debut-year qualifier — **HIGH** (confirmed in prior pipelines)\n- Fils faces Zverev on Thursday (Day 5) — **HIGH** (ATP Finals schedule)\n**Sources:**\n- Washington Post: \"Fils beats Jodar, advances at ATP Finals\" — https://www.washingtonpost.com/sports/tennis/2026/11/17/atp-finals-shelton-zverev-jodar-fils/ed1180be-e29b-11f1-a99e-b3e3805c6b8b_story.html\n- TennisGrandstand: \"ATP Finals Day 3: Zverev Books Semi-Final Spot, Fils Beats Jodar\" — https://tennisgrandstand.com/zverev-semi-final-spot-atp-finals-fils-jodar/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Fils beats Jodar, advances at ATP Finals",
+          "url": "https://www.washingtonpost.com/sports/tennis/2026/11/17/atp-finals-shelton-zverev-jodar-fils/ed1180be-e29b-11f1-a99e-b3e3805c6b8b_story.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Washington Post"
+        },
+        {
+          "name": "ATP Finals Day 3: Zverev Books Semi-Final Spot, Fils Beats Jodar",
+          "url": "https://tennisgrandstand.com/zverev-semi-final-spot-atp-finals-fils-jodar/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "TennisGrandstand"
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Day 4 Preview — Alcaraz vs Medvedev Could Decide the Lendl Group",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "ATP Finals Day 4 — Alcaraz (1-0) vs Medvedev (1-0) not before 2pm CET. Winner is through to the semis. Alcaraz leads H2H 7-3 but Medvedev has won indoors recently. #ATPFinals #Tennis #ATP #Alcaraz",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Alcaraz"
+          ],
+          "char_count": 196
+        }
+      ],
+      "facebook": {
+        "long_form": "The match the Lendl Group has been building toward arrives Wednesday in Turin.\n\nCarlos Alcaraz (1-0) and Daniil Medvedev (1-0) are on a collision course, with their afternoon match — not before 2:00 PM CET — serving as the effective group decider. The winner advances to the semifinals. Both players opened with convincing victories: Alcaraz dismantled Frances Tiafoe 6-2, 6-2 on Day 2; Medvedev beat Flavio Cobolli 7-6(4), 6-3.\n\nTheir overall head-to-head history runs 7-3 in Alcaraz's favour, but those numbers don't tell the full story. Medvedev beat Alcaraz at Indian Wells 2026, Alcaraz beat him at Vienna. Their indoor results split in a similar way. When Alcaraz is on form indoors — as he has been all autumn — he's very hard to beat. But Medvedev is never more dangerous than when facing a player who needs to do something special to win.\n\nIn the evening (not before 8:30 PM CET), Flavio Cobolli and Frances Tiafoe both face elimination at 0-1.\n\nWho wins today — Alcaraz or Medvedev?",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-atp-finals-day-4-preview-alcaraz-medvedev.html",
+        "headline": "ATP Finals Day 4 Preview: Alcaraz vs Medvedev — Group Decider Time in Turin",
+        "word_count": 559
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Day 4 — Alcaraz vs Medvedev Preview\n\n**Image 3A (Social — 1080x1350)**\n- **Search Term:** Carlos Alcaraz\n- **Usage:** X post 3A, Facebook Image Caption post\n- **Notes:** Select strong on-court action image\n\n**Image 3B (Article Hero — 1200x630)**\n- **Search Term:** Daniil Medvedev\n- **Usage:** article-03 hero image\n- **Notes:** Select intense focus or service image for article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Day 4 Preview — Alcaraz vs Medvedev, Cobolli vs Tiafoe\n**Key Facts:**\n- Day 4 (Nov 18, Wednesday) Lendl Group: Alcaraz vs Medvedev not before 2:00 PM CET (8:00 AM ET) — **HIGH** (ATP Finals official schedule, nittoatpfinals.com)\n- Cobolli vs Tiafoe not before 8:30 PM CET on Day 4 — **HIGH** (ATP Finals official schedule)\n- Alcaraz is 1-0 (beat Tiafoe 6-2, 6-2); Medvedev is 1-0 (beat Cobolli 7-6(4), 6-3) — **HIGH** (confirmed in prior pipeline research)\n- Alcaraz leads all-time H2H vs Medvedev 7-3 — **HIGH** (lastwordonsports.com, tennisuptodate.com)\n- Medvedev beat Alcaraz at Indian Wells 2026; Alcaraz beat Medvedev at Vienna 2026 — **HIGH** (lastwordonsports.com)\n- Alcaraz has won both their indoor head-to-head meetings including Turin 2023 — **HIGH** (tennisuptodate.com)\n- Winner of Alcaraz–Medvedev advances to the semifinals — **HIGH** (ATP Finals group format)\n**Sources:**\n- ATP Finals official schedule: https://www.nittoatpfinals.com/en/scores-centre/schedule\n- Tennisuptodate.com: \"Preview: ATP Finals Day Four — Alcaraz seeks second win against Medvedev\" — https://tennisuptodate.com/atp/preview-atp-finals-day-four-carlos-alcaraz-seeks-second-win-against-medvedev-as-cobolli-and-tiafoe-face-elimination-pressure\n- Last Word On Sports: \"2026 ATP Finals Day 4 Predictions: Alcaraz vs Medvedev\" — https://lastwordonsports.com/tennis/2026/11/17/2026-atp-finals-day-4-predictions-alcaraz-vs-medvedev/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "ATP Finals official schedule",
+          "url": "https://www.nittoatpfinals.com/en/scores-centre/schedule",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Preview: ATP Finals Day Four — Alcaraz seeks second win against Medvedev",
+          "url": "https://tennisuptodate.com/atp/preview-atp-finals-day-four-carlos-alcaraz-seeks-second-win-against-medvedev-as-cobolli-and-tiafoe-face-elimination-pressure",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Tennisuptodate.com"
+        },
+        {
+          "name": "2026 ATP Finals Day 4 Predictions: Alcaraz vs Medvedev",
+          "url": "https://lastwordonsports.com/tennis/2026/11/17/2026-atp-finals-day-4-predictions-alcaraz-vs-medvedev/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Last Word On Sports"
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "McEnroe Group After Day 3 — Zverev Through, Two-Way Battle for Second",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "McEnroe Group after Day 3: Zverev 2-0 (qualified). Shelton 1-1, Fils 1-1 — they meet Thursday, winner takes the second semi spot. Jodar 0-2, needs a miracle. #ATPFinals #Tennis #ATP #ATPFinals2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#ATPFinals2026"
+          ],
+          "char_count": 196
+        }
+      ],
+      "facebook": {
+        "long_form": "The Alexander McEnroe Group at the ATP Finals is now clear at the top and very much alive in the middle.\n\nAfter Tuesday's two matches, the standings look like this: Zverev is 2-0 and through to the semifinals. Shelton and Fils are both 1-1, headed for a Thursday showdown that will decide who joins Zverev in the last four. Jodar is 0-2 — he needs to beat Shelton and Fils needs to beat Zverev on Thursday for his semifinals chances to remain alive. That's a scenario that requires a lot to go right.\n\nThe Shelton vs Fils matchup on Thursday shapes up as genuine must-see tennis. Both players entered the week with something to prove: Shelton, the powerhouse server from Georgia, against Fils, the comeback artist who's just rediscovered his form. The winner claims a semifinal spot in Turin. The loser goes home having come agonizingly close.\n\nWhich player do you think advances from the McEnroe Group to join Zverev in the last four?",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-mcenroe-group-standings-day-3.html",
+        "headline": "McEnroe Group After Day 3: Zverev Qualified, Shelton and Fils Set Up Thursday Showdown",
+        "word_count": 529
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McEnroe Group Standings After Day 3\n\n**Image 4A (Social — 1080x1350)**\n- **Search Term:** Ben Shelton\n- **Usage:** X post 4A, Facebook Image Caption post\n- **Notes:** Select powerful service or action image\n\n**Image 4B (Article Hero — 1200x630)**\n- **Search Term:** Arthur Fils\n- **Usage:** article-04 hero image\n- **Notes:** Select mid-match concentration image for article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "McEnroe Group Standings After Day 3\n**Key Facts (derived from confirmed match results):**\n- Zverev: 2-0, qualified for semifinals — **HIGH** (NBC Sports, GMA Network)\n- Shelton: 1-1 (beat Fils Day 1; lost to Zverev Day 3) — **HIGH** (confirmed from results)\n- Fils: 1-1 (lost to Shelton Day 1; beat Jodar Day 3) — **HIGH** (confirmed from results)\n- Jodar: 0-2 (lost to Zverev Day 1; lost to Fils Day 3) — **HIGH** (confirmed from results)\n- Shelton vs Fils scheduled for Thursday (Day 5) McEnroe Group finale — **HIGH** (ATP Finals schedule)\n- Jodar must beat Shelton AND Fils must beat Zverev on Day 5 to have any chance — **MEDIUM** (derived from format)\n**Sources:**\n- Derived from confirmed match results (Zverev d. Jodar Day 1; Shelton d. Fils Day 1; Zverev d. Shelton Day 3; Fils d. Jodar Day 3)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Andreeva Ends 2026 as WTA World No. 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Mirra Andreeva closes 2026 ranked No. 2 in the world. WTA Finals champion, zero sets dropped in the tournament, 19 years old. That is a season for the history books. #WTA #Tennis #WTAFinals #Andreeva",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTA",
+            "#Tennis",
+            "#WTAFinals",
+            "#Andreeva"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "Mirra Andreeva's 2026 season is over, and the year-end rankings tell the story perfectly.\n\nThe 19-year-old closes the year ranked No. 2 in the world, moving Aryna Sabalenka back to No. 3. The WTA Finals championship last Saturday in Riyadh was the final piece — a tournament she went through without dropping a single set. It was not a fluke. It was the culmination of a season in which she consistently beat the best players in the world when it mattered most.\n\nFor context: Andreeva was ranked No. 20 at the start of 2026. She ends the year at No. 2. That kind of rise in a single season is virtually unprecedented in modern women's tennis.\n\nShe's now one of three teenagers in WTA Finals history to win the title, alongside Chris Evert and Maria Sharapova. She's the first to win on her debut at the event since Ash Barty in 2019. At 19, she has time to do almost anything.\n\nWhat do you think — is Andreeva the favourite for No. 1 in 2027?",
+        "image_caption": "",
+        "posting_time": "9:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-andreeva-year-end-wta-no-2.html",
+        "headline": "Andreeva Ends 2026 as WTA World No. 2 — Year-End Rankings Confirm Historic Season",
+        "word_count": 507
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Andreeva Ends 2026 as WTA No. 2\n\n**Image 5A (Social — 1080x1350)**\n- **Search Term:** Mirra Andreeva\n- **Usage:** X post 5A, Facebook Image Caption post\n- **Notes:** Select champion celebration or smiling image\n\n**Image 5B (Article Hero — 1200x630)**\n- **Search Term:** Mirra Andreeva\n- **Usage:** article-05 hero image\n- **Notes:** Select wide trophy or on-court celebration image for article hero"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Andreeva Ends 2026 as WTA World No. 2\n**Key Facts:**\n- Mirra Andreeva ends 2026 season ranked No. 2 in the world — **HIGH** (WTA Rankings Watch, wtatennis.com)\n- Andreeva overtook Aryna Sabalenka to push her to No. 3 — **HIGH** (WTA Rankings Watch)\n- Andreeva won the WTA Finals in Riyadh, dropping zero sets in the tournament — **HIGH** (prior pipeline research confirmed HIGH)\n- Andreeva is 19 years old — **HIGH** (multiple confirmed sources prior pipelines)\n- Year-end rankings finalized following WTA Finals conclusion — **HIGH** (WTA standard calendar end)\n**Sources:**\n- WTA Rankings Watch: \"Andreeva ends year at No. 2, Andreescu continues resurgence\" — https://www.wtatennis.com/news/4609878/rankings-watch-andreeva-ends-year-at-no-2-andreescu-continues-resurgence",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Andreeva ends year at No. 2, Andreescu continues resurgence",
+          "url": "https://www.wtatennis.com/news/4609878/rankings-watch-andreeva-ends-year-at-no-2-andreescu-continues-resurgence",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "WTA Rankings Watch"
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
