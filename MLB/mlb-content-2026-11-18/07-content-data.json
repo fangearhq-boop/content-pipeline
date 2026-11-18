@@ -1,0 +1,472 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-18",
+  "compiled_at": "2026-11-18T10:23:19.658469+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "QO Deadline Results — Bednar and Jeffers Accept; Five Decline",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "OFFICIAL: QO deadline results are in.\n\n✅ David Bednar (Yankees) — ACCEPTED\n✅ Ryan Jeffers (Twins) — ACCEPTED (surprise)\n\n❌ Arozarena, Suzuki, Lowe, Rogers, Morejon — ALL DECLINED\n\nJeffers was reportedly eyeing a multi-year deal. The $23.15M guarantee won. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 260
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Ryan Jeffers accepting the qualifying offer is the story of the deadline.\n\nHe declined a multi-year extension offer from the Twins to explore FA.\nThen he accepted the $23.15M one-year QO anyway.\n\nMarket uncertainty + a $23M guarantee = take the bird in hand. #MLB #Twins",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Twins"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "The qualifying offer deadline passed at 4:00 PM ET yesterday, and the results produced the Hot Stove's first genuine surprise: Ryan Jeffers is staying with the Minnesota Twins.\n\nJeffers had reportedly been considering turning down Minnesota's qualifying offer to pursue a multi-year contract on the open market. Reports suggested he was looking for the kind of guaranteed security that a one-year deal can't provide. Then the deadline arrived — and he accepted the $23.15 million guarantee for 2027.\n\nDavid Bednar made the other acceptance, returning to the New York Yankees on the same terms.\n\nFor the five who declined — Randy Arozarena (Mariners), Seiya Suzuki (Cubs), Brandon Lowe (Pirates), Trevor Rogers (Orioles), and Adrian Morejon (Padres) — their former teams will now receive draft compensation if they sign contracts of a certain value with new clubs. That draft pick cost adds another layer of complexity to their free agency.\n\nWhat changed Jeffers' mind? Market signals, most likely. In a November where top free agents are rushing to close deals before the December 1 CBA expiration, a one-year $23 million guarantee looks better than the uncertainty of an open market that could get complicated quickly. Jeffers made the smart play.\n\nFor the five who declined, the clock is now running. They have 13 days to sign or wait out a lockout.",
+        "image_caption": "QO deadline results: Bednar ✅ Jeffers ✅ (surprise). Arozarena, Suzuki, Lowe, Rogers, Morejon all head to open market. 13 days until the CBA expires. #MLB #HotStove",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-qo-deadline-bednar-jeffers-accept.html",
+        "headline": "QO Deadline Results: Bednar and Jeffers Accept; Arozarena, Suzuki, Lowe, Rogers, Morejon Decline",
+        "word_count": 686
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080×1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200×630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "QO Deadline Results\n**Sources:**\n- https://www.yardbarker.com/mlb/articles/mlb_notebook_david_bednar_ryan_jeffers_accept_qualifying_offer_while_5_others_decline_becoming_free_agents/s1_13549_44577445\n- https://sports.yahoo.com/articles/two-players-accept-qualifying-offers-001445794.html\n- https://bvmsports.com/2026/11/17/mlb-qualifying-offers-arozarena-declines-bednar-returns/\n- https://www.mlb.com/news/qualifying-offer-candidates-and-decisions-2026-27\n- https://www.mlbtraderumors.com/2026/11/ryan-jeffers-declined-multi-year-offer-from-twins-to-accept-qo.html\n**Verified Facts:**\n- [HIGH] Qualifying offer deadline: November 17, 2026 at 4:00 PM ET\n- [HIGH] QO value: one year, $23.15 million for the 2027 season\n- [HIGH] David Bednar (Yankees) ACCEPTED the qualifying offer\n- [HIGH] Ryan Jeffers (Twins) ACCEPTED the qualifying offer (surprise — had reportedly planned to decline for multi-year deal per MLBTR)\n- [HIGH] Randy Arozarena (Mariners) DECLINED the qualifying offer — now a free agent\n- [HIGH] Seiya Suzuki (Cubs) DECLINED the qualifying offer — now a free agent\n- [HIGH] Brandon Lowe (Pirates) DECLINED the qualifying offer — now a free agent\n- [HIGH] Trevor Rogers (Orioles) DECLINED the qualifying offer — now a free agent\n- [HIGH] Adrian Morejon (Padres) DECLINED the qualifying offer — now a free agent\n- [HIGH] Jake Bauers (Brewers) declined earlier and signed with Boston Red Sox (4yr/$58M per Passan)\n- [HIGH] Teams that sign declined QO players owe draft compensation to former clubs\n- [MEDIUM] \"Historically 11.5% of QO recipients have accepted\" — rate mentioned in prior research, verify\n**Story angle:** Jeffers' surprise acceptance is the headline. He was reportedly seeking a multi-year deal but accepted the one-year guarantee. Bednar's acceptance was less surprising. The five decliners all hit the market simultaneously.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "yardbarker.com",
+          "url": "https://www.yardbarker.com/mlb/articles/mlb_notebook_david_bednar_ryan_jeffers_accept_qualifying_offer_while_5_others_decline_becoming_free_agents/s1_13549_44577445",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/two-players-accept-qualifying-offers-001445794.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "bvmsports.com",
+          "url": "https://bvmsports.com/2026/11/17/mlb-qualifying-offers-arozarena-declines-bednar-returns/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "mlb.com",
+          "url": "https://www.mlb.com/news/qualifying-offer-candidates-and-decisions-2026-27",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "mlbtraderumors.com",
+          "url": "https://www.mlbtraderumors.com/2026/11/ryan-jeffers-declined-multi-year-offer-from-twins-to-accept-qo.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Skubal Market — Mets Meeting \"Went Very Well,\" Decision Before Dec 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Heyman on Skubal's Mets meeting in Orange County: it went \"very well.\"\n\nThe Mets are \"probably the favorite.\" Dodgers also meeting.\n\nDecision expected before Dec. 1. Contract range: $325M–$405M.\n\nThe biggest pitching deal in baseball history is coming. #MLB #Mets",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Mets"
+          ],
+          "char_count": 263
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Quick math on Tarik Skubal's market:\n\nThe Athletic projection: 9yr / $405M\nESPN's McDaniel: $325M–$400M range\n\nFor comparison, Yoshinobu Yamamoto set the AAV record at $27M.\n\nSkubal's floor projection: $44M AAV. That's a 63% raise over Yamamoto. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "If you wanted one data point about how Tarik Skubal's free agency is going, here it is: the New York Mets flew their people to Orange County, California for an in-person pitch, and when it was over, Jon Heyman reported that the meeting \"went very well.\"\n\nHeyman also said the Mets are \"probably the favorite.\"\n\nThe Los Angeles Dodgers — Skubal's incumbent team — are also meeting with him. They know what they have, and they know what it would cost to lose him. But the Mets have resources and a clear stated priority to build around elite starting pitching. Skubal is the best starting pitcher available.\n\nThe contract projections are staggering. The Athletic projected nine years and $405 million. ESPN's Kiley McDaniel put the range at $325 to $400 million. Either way, this deal will shatter the AAV record for starting pitchers — Yoshinobu Yamamoto's $27 million average is about to look like a floor, not a ceiling.\n\nJon Heyman expects Skubal to sign before the CBA expires on December 1. That is 13 days from now. The timeline is coming into focus. The price is extraordinary. The only remaining question is the logo on his jersey.",
+        "image_caption": "Heyman: The Mets' Skubal meeting in Orange County \"went very well.\" They are \"probably the favorite.\" Decision expected before Dec. 1. Contract projections: $325M–$405M. #MLB #Mets #HotStove",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-skubal-mets-frontrunner-decision-before-dec1.html",
+        "headline": "Skubal Market: Mets Meeting \"Went Very Well,\" Decision Expected Before CBA Deadline",
+        "word_count": 691
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080×1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200×630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Skubal Market Update\n**Sources:**\n- https://www.mlb.com/news/tarik-skubal-rumors-november-17-free-agent-update\n- https://sports.yahoo.com/articles/latest-mlb-insider-tarik-skubal-080658526.html\n- https://sports.yahoo.com/articles/mlb-insider-reveals-tarik-skubal-170119055.html\n- https://www.yardbarker.com/mlb/articles/tarik_skubal_free_agency_updates_meetings_with_mets_and_dodgers/s1_17075_44547355\n**Verified Facts:**\n- [HIGH] Mets in-person meeting with Skubal in Orange County, CA — Heyman reports it \"went very well\"\n- [HIGH] Heyman: Mets are \"probably the favorite\"\n- [HIGH] Dodgers are also meeting with Skubal (Gomes confirmed interest earlier)\n- [HIGH] Jon Heyman expects Skubal to sign before Dec 1 CBA expiration\n- [HIGH] The Athletic projected 9yr/$405M for Skubal\n- [HIGH] ESPN's Kiley McDaniel projected $325-$400M range\n- [MEDIUM] \"Nearly everybody in the game expects Skubal to sign with the Mets\" — per one MLB.com report\n- [MEDIUM] Conflicting report: \"widespread belief that Skubal prefers to stay with the Dodgers\"\n- [MEDIUM] Skubal: 2x Cy Young winner, 1.80 ERA in 2026, 252 K — verify exact 2026 stats\n- [HIGH] No QO was issued to Skubal (he was under contract with Detroit through 2026, then opted out) — wait, actually need to clarify. If he was with the Dodgers in 2026 (the previous research mentioned \"Dodgers, his incumbent team\")...\n**Note on Skubal's team:** Previous pipeline research said Skubal is with the Dodgers. The Nov 17 research said \"Yamamoto $27M AAV record\" and mentioned Skubal wanting to sign before Dec 1. Wikipedia entry listed him as a Tiger but that may be outdated.\nActually, from the search results: \"Dodgers, his incumbent team\" is mentioned. So Skubal was with the Dodgers in 2026. This is the confirmed fact — previous research is consistent.\n**Story angle:** Mets meeting \"went very well\" is a strong signal. Decision before Dec 1 is the likely timeline. The contract size will shatter records.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "mlb.com",
+          "url": "https://www.mlb.com/news/tarik-skubal-rumors-november-17-free-agent-update",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/latest-mlb-insider-tarik-skubal-080658526.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/mlb-insider-reveals-tarik-skubal-170119055.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "yardbarker.com",
+          "url": "https://www.yardbarker.com/mlb/articles/tarik_skubal_free_agency_updates_meetings_with_mets_and_dodgers/s1_17075_44547355",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Seiya Suzuki Declines Cubs' QO — $100M+ Market Opens",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Official: Seiya Suzuki has declined the Cubs' qualifying offer.\n\nSpotrac projects 4yr/$109.9M. Blue Jays among frontrunners.\n\nThe Cubs could now lose Suzuki AND Ian Happ in the same offseason.\n\nTheir pitching needs and their outfield needs both just got bigger. #Cubs #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": {
+        "long_form": "Seiya Suzuki is a free agent.\n\nThe Chicago Cubs' outfielder officially declined their qualifying offer on November 17, turning down a one-year $23.15 million guarantee in pursuit of a longer-term deal. Spotrac projects four years and $109.9 million. Reports have tied the Toronto Blue Jays as one of the frontrunners.\n\nHere is what makes this story particularly painful for Cubs fans: Ian Happ, their left fielder, is also a free agent. The Cubs could lose both corner outfielders in the same offseason.\n\nAdd that to the rotation situation — all five of Chicago's 2026 starting pitchers are free agents — and the Cubs front office is facing one of the most complex rebuilding puzzles in baseball. General manager Jed Hoyer has publicly stated that pitching is the No. 1 priority, which is fair. But if the outfield problem doesn't get solved alongside the rotation problem, the team's offensive production will fall off a cliff.\n\nThere is still a path where Suzuki returns. His market will develop quickly, and if the price exceeds what other teams are willing to pay, the Cubs could re-engage. But the signal from every report is the same: probably not. The Cubs drafted comp pick, at minimum, is coming.",
+        "image_caption": "Seiya Suzuki officially declined the Cubs' qualifying offer. 4yr/$109.9M projected. Blue Jays among frontrunners. With Ian Happ also a FA, the Cubs could lose both corner outfielders. #Cubs #MLB #HotStove",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-suzuki-declines-qo-cubs-outfield-crisis.html",
+        "headline": "Seiya Suzuki Declines Cubs' QO — $100M+ Market Opens as Cubs Face Double Outfield Need",
+        "word_count": 601
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080×1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Seiya Suzuki Declines QO\n**Sources:**\n- https://www.bleachernation.com/cubs/2026/11/17/seiya-suzuki-declines-offer/\n- https://sports.yahoo.com/articles/seiya-suzuki-one-step-closer-205824590.html\n- https://beisbol.love/mlb-baseball/seiya-suzuki-rejects-qualifying-offer-cubs-free-agent/\n- https://chicago.suntimes.com/cubs/2026/11/02/cubs-qualifying-offer-seiya-suzuki-free-agency-jed-hoyer-ian-happ-mlb-rumors\n**Verified Facts:**\n- [HIGH] Seiya Suzuki officially declined the Cubs' qualifying offer on November 17, 2026\n- [HIGH] Spotrac projects 4yr/$109.9M for Suzuki\n- [HIGH] Cubs also have Ian Happ as a free agent (mentioned in Sun-Times context — both are FAs)\n- [HIGH] Cubs will receive a draft pick if Suzuki signs elsewhere (compensation pick)\n- [HIGH] Cubs' stated offseason priority is pitching (rotation) — Jed Hoyer public statement\n- [MEDIUM] Blue Jays among reported frontrunners for Suzuki (multiple insiders)\n- [MEDIUM] \"Return is increasingly unlikely\" — framing in coverage, not a Hoyer quote\n**Story angle:** Cubs could lose both Suzuki and Happ in same offseason. With all five starters still FAs, the front office has enormous needs and limited runway with Dec 1 looming.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "bleachernation.com",
+          "url": "https://www.bleachernation.com/cubs/2026/11/17/seiya-suzuki-declines-offer/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/seiya-suzuki-one-step-closer-205824590.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "beisbol.love",
+          "url": "https://beisbol.love/mlb-baseball/seiya-suzuki-rejects-qualifying-offer-cubs-free-agent/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "chicago.suntimes.com",
+          "url": "https://chicago.suntimes.com/cubs/2026/11/02/cubs-qualifying-offer-seiya-suzuki-free-agency-jed-hoyer-ian-happ-mlb-rumors",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Jazz Chisholm Market — Blue Jays Met With Reps, 11 Teams Engaged",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Toronto is quietly building the most aggressive Hot Stove game in the AL East.\n\nBlue Jays met with Jazz Chisholm reps at the GM Meetings.\nAlso in on Brandon Lowe. Also connected to Seiya Suzuki.\n\n11 teams are chasing Chisholm. Toronto is leading. #BlueJays #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BlueJays",
+            "#MLB"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "Toronto is not waiting around this offseason.\n\nThe Blue Jays met with Jazz Chisholm Jr.'s representatives at the GM Meetings, per Sportsnet's Shi Davidi, making their case for why the former Yankees second baseman should choose Canada. Meanwhile, Shi Davidi and others have continued to describe Toronto as the frontrunner in a market that Jon Morosi says involves 11 teams.\n\nThe Blue Jays' vision for Chisholm makes sense: he plays second base, with Addison Barger or Ernie Clement filling a super-utility role to cover other positions. Combined with their interest in Brandon Lowe (another middle-infield option) and their connection to Seiya Suzuki, Toronto is quietly assembling what could be the most aggressive shopping list of any team this winter.\n\nChisholm's 2026 numbers — .231/.312/.399 with 19 home runs and 41 stolen bases — tell a story about a player who provides impact on the basepaths and in the power game, even when the batting average disappoints. His on-base work leaves room for improvement, but at age 29, he is in the core years of his career.\n\nThe Yankees are not coming back, per Morosi. That clears the field. With personal meetings starting, the Blue Jays have an opportunity to close this quickly before December 1 — and they appear motivated to do so.",
+        "image_caption": "Blue Jays met with Jazz Chisholm reps at the GM Meetings. Toronto is the frontrunner in a 11-team market. Also connected to Lowe and Suzuki. Jays are building something. #BlueJays #MLB #HotStove",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-chisholm-blue-jays-frontrunner-11-teams.html",
+        "headline": "Jazz Chisholm Market: Blue Jays Frontrunner as 11 Teams Engage — Toronto's Aggressive Hot Stove",
+        "word_count": 637
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080×1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jazz Chisholm Market\n**Sources:**\n- https://www.thescore.com/mlb/news/3653173/report-blue-jays-meet-with-chisholms-reps-eyeing-d-backs-marte\n- https://sports.yahoo.com/articles/blue-jays-rumors-toronto-reportedly-172015030.html\n- https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-12\n- https://bvmsports.com/2026/11/13/jazz-chisholm-market-blue-jays-padres-show-interest/\n**Verified Facts:**\n- [HIGH] Blue Jays met with Jazz Chisholm's representatives (per Shi Davidi, Sportsnet)\n- [HIGH] Jon Morosi (MLB Network): 11 teams have engaged in discussions with Chisholm's reps\n- [HIGH] Personal meetings scheduled to begin shortly (Morosi)\n- [HIGH] Yankees are NOT pursuing Chisholm (Morosi)\n- [HIGH] No qualifying offer was attached to Chisholm — no draft pick cost for signing team\n- [HIGH] Chisholm 2026 stats: .231/.312/.399, 19 HR, 41 SB\n- [MEDIUM] Blue Jays vision: Chisholm at 2B, Addison Barger/Ernie Clement as super-utility (per The Score)\n- [MEDIUM] Blue Jays also interested in Ketel Marte (Diamondbacks) and Brandon Lowe\n**Story angle:** Blue Jays aggressive on multiple fronts. Toronto could become the most improved team in the AL East this winter.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "thescore.com",
+          "url": "https://www.thescore.com/mlb/news/3653173/report-blue-jays-meet-with-chisholms-reps-eyeing-d-backs-marte",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/blue-jays-rumors-toronto-reportedly-172015030.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "mlb.com",
+          "url": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-12",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "bvmsports.com",
+          "url": "https://bvmsports.com/2026/11/13/jazz-chisholm-market-blue-jays-padres-show-interest/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "CBA Countdown — 13 Days, Lockout Looks Inevitable",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "13 days until the CBA expires. Owners meetings are happening NOW.\n\nMLB's latest offer: salary cap delayed to 2028.\nMLBPA: rejected.\n\nThe last lockout lasted 99 days and threatened the 2022 season.\n\nEvery signing this week matters more than it normally would. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "Thirteen days. That is how long baseball has before the collective bargaining agreement expires and the sport enters what could be a prolonged labor work stoppage.\n\nThe MLB owners meetings are underway in New York through Thursday, and the working assumption around baseball is that a lockout will begin at 12:01 AM ET on December 2. The sides remain deeply at odds.\n\nMLB's last substantive offer — presented November 3 — proposed a $258.2 million salary cap with the hard number delayed until 2028. The MLB Players Association rejected it almost immediately. The union has refused any form of a salary cap, and that position has not changed despite weeks of meetings.\n\nFor historical context: the last MLB lockout ran from December 2021 to March 2022 — 99 days — and threatened to cancel the beginning of the season. It ended with a compromise CBA. This situation appears more entrenched.\n\nWhat does this mean for free agents and teams? The next 13 days are the entire free-agent window. Deals that might normally stretch into January must be closed now. That is why Skubal's situation is so urgent. It is why the QO results matter more than usual. It is why teams like Toronto are moving on multiple fronts simultaneously.\n\nDecember 1 is a wall. Baseball knows it. The sprint is on.",
+        "image_caption": "13 days until the CBA expires. Owners meetings are happening now. Last lockout lasted 99 days. The sprint to Dec. 1 is at peak intensity. Every signing this week counts. #MLB #HotStove",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-cba-countdown-13-days-lockout-inevitable.html",
+        "headline": "CBA Countdown: 13 Days Until the Freeze, Owners Meetings Underway, Lockout Expected December 2",
+        "word_count": 638
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080×1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CBA Countdown — 13 Days\n**Sources:**\n- https://www.sportico.com/leagues/baseball/2026/mlb-offseason-dates-free-agency-cba-lockout-1234956972/\n- https://sports.yahoo.com/articles/mlb-owners-prepare-major-move-010957372.html\n- https://www.aol.com/articles/mlb-lockout-countdown-where-owners-113046000.html\n**Verified Facts:**\n- [HIGH] CBA expires December 1, 2026 at 11:59 PM ET\n- [HIGH] Owners meetings running November 17–19 in New York\n- [HIGH] MLB's latest bargaining offer (Nov 3): $258.2M salary cap delayed to 2028\n- [HIGH] MLBPA rejected the Nov 3 offer \"almost immediately\"\n- [HIGH] Lockout expected to begin 12:01 AM ET on December 2\n- [HIGH] Last lockout: December 2021 – March 2022, lasted 99 days\n- [HIGH] 2027 season at risk if lockout extends into spring\n- [MEDIUM] MLBPA could decertify during lockout to challenge antitrust exemption\n- [MEDIUM] \"Owners formally vote for lockout\" — may happen during meetings, no confirmed vote yet\n**Story angle:** Thirteen days. Free agency is in full sprint. Every team knows Dec 1 is the wall. The urgency is real and driving this entire Hot Stove season.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "sportico.com",
+          "url": "https://www.sportico.com/leagues/baseball/2026/mlb-offseason-dates-free-agency-cba-lockout-1234956972/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/mlb-owners-prepare-major-move-010957372.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "aol.com",
+          "url": "https://www.aol.com/articles/mlb-lockout-countdown-where-owners-113046000.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

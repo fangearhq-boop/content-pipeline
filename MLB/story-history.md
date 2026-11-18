@@ -9891,3 +9891,62 @@ Each day's stories are appended at the top (newest first).
   - Sato signing announcement
   - Sato contract details
   - Sato spring training first impressions
+
+---
+
+## November 18, 2026
+
+### Story 1: QO Deadline Results — Bednar and Jeffers Accept; Five Decline
+- **Date:** 2026-11-18
+- **Tier:** 1
+- **Classification:** FOLLOW UP (QO covered Nov 15–17)
+- **Angle:** QO deadline passed Nov 17 at 4PM ET. Bednar (Yankees) and Jeffers (Twins) BOTH ACCEPTED — Jeffers was the surprise (had reportedly planned to decline for multi-year deal). Five declined: Arozarena, Suzuki, Lowe, Rogers, Morejon. All hit open market with draft compensation attached.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Arozarena signing destination
+  - Suzuki market development
+  - Lowe/Rogers/Morejon signings
+
+### Story 2: Skubal Market — Mets Meeting "Went Very Well," Decision Before Dec 1
+- **Date:** 2026-11-18
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Skubal covered Oct 30–Nov 17)
+- **Angle:** Heyman: Mets in-person meeting in Orange County "went very well" / Mets "probably the favorite." Dodgers also meeting. Decision expected before Dec 1. Contract projections: $325M–$405M.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Skubal signing announcement
+  - Record contract details
+  - Team reaction to Skubal signing
+
+### Story 3: Seiya Suzuki Declines Cubs' QO — $100M+ Market Opens
+- **Date:** 2026-11-18
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Suzuki QO covered Nov 15–17)
+- **Angle:** Official QO decline confirmed. Spotrac 4yr/$109.9M projection. Blue Jays frontrunner. Cubs lose Suzuki AND Ian Happ (both FAs) — two corner OF holes plus full rotation need.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Suzuki signing (before Dec 1)
+  - Cubs outfield replacements
+  - Blue Jays final offer
+
+### Story 4: Jazz Chisholm Market — Blue Jays Frontrunner, 11 Teams Engaged
+- **Date:** 2026-11-18
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Chisholm covered Nov 15–17)
+- **Angle:** Blue Jays formally met with Chisholm reps at GM Meetings (Davidi, Sportsnet). 11 teams engaged per Morosi. Personal meetings starting. Yankees not returning. Toronto also in on Lowe + Suzuki.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Chisholm signing announcement
+  - Blue Jays broader offseason plan
+  - Marte trade to Toronto?
+
+### Story 5: CBA Countdown — 13 Days, Owners Meetings Underway, Lockout Expected December 2
+- **Date:** 2026-11-18
+- **Tier:** 2
+- **Classification:** FOLLOW UP (CBA covered Oct 30–Nov 17)
+- **Angle:** Owners meetings Nov 17–19 in NY. CBA expires Dec 1 11:59 PM ET. Latest rejected offer: $258.2M cap delayed to 2028. Lockout expected 12:01 AM Dec 2. 2027 season at risk. 99-day precedent from 2021-22.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Lockout begins Dec 2
+  - New CBA framework
+  - 2027 season start date confirmation
