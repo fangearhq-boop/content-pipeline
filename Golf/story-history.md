@@ -650,3 +650,42 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** PGA Tour no reinstatement path until bankruptcy complete; DP World Tour option but limited; Koepka already back with penalties; DeChambeau contract expires after 2026
 - **Byline:** Jake Torres
 - **Status:** FOLLOW UP
+
+---
+
+## 2026-11-18
+
+### STORY 1: Chad Ramey Wins Rain-Delayed Austin Championship
+- **Tier:** 1
+- **Category:** PGA Tour / Austin Championship / Chad Ramey
+- **Key facts:** Ramey wins second PGA Tour title; rain-delayed finish; held composure through weather delays
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: RSM Classic Opens Thursday — Sea Island, No Scheffler
+- **Tier:** 1
+- **Category:** PGA Tour / RSM Classic / Sea Island Golf Club
+- **Key facts:** Nov 19-22; $7.4M purse; Scheffler absent; wide-open field; Seaside Course coastal conditions
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 3: LIV Player Futures — PGA Tour Board Confirms No Reinstatement Path
+- **Tier:** 2
+- **Category:** PGA Tour / LIV Golf / Jon Rahm / Bryson DeChambeau / Dustin Johnson
+- **Key facts:** Board met Nov 16; Rolapp confirmed no returning member program; Koepka only returnee; one-year ban applies to departing players
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 4: McIlroy Wins DP World Tour Season Title — Record-Tying 8th
+- **Tier:** 2
+- **Category:** Rory McIlroy / DP World Tour / Race to Dubai
+- **Key facts:** 8th Race to Dubai title (record-tying); Tyrrell Hatton won final Dubai event; McIlroy secured season crown on points
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: CME Group Tour Championship Preview — $11M Purse, Korda in Field
+- **Tier:** 3
+- **Category:** LPGA Tour / CME Group Tour Championship / Atthaya Thitikul / Nelly Korda
+- **Key facts:** Nov 19-22; Tiburón GC Naples FL; $11M purse (richest in women's golf); Thitikul defending at -26; Korda world No. 1
+- **Byline:** Jake Torres
+- **Status:** NEW
