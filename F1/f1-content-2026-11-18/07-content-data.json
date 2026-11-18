@@ -1,0 +1,381 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-18",
+  "compiled_at": "2026-11-18T11:27:34.643958+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "George Russell's Final Push — P2 Championship Battle Heats Up (Tier 1 NEW)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "George Russell trails Max Verstappen by 17 points.\n\nThree races left: Las Vegas. Qatar. Abu Dhabi.\n\nP2 in the 2026 championship is still alive. Can Russell close the gap? 🏁 #LasVegasGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LasVegasGP",
+            "#F1"
+          ],
+          "char_count": 188
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Mercedes have been strong on the high-speed Las Vegas Strip Circuit.\n\nIf Russell is closing the 17-point gap on Verstappen, it starts TONIGHT in FP1. #LasVegasGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LasVegasGP",
+            "#F1"
+          ],
+          "char_count": 165
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-russell-championship-final-push.html",
+        "headline": "George Russell's Final Push: 17 Points Behind Verstappen With Three Races Left",
+        "word_count": 485
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "George Russell's Final Push\n\n**Image Concept 1 (Social 1080x1350):**\n- Search terms: \"George Russell Mercedes\"\n- Usage: Social post for standings angle\n- Caption overlay: \"17 POINTS BACK | 3 RACES LEFT\"\n- Mood: Determined, intense\n\n**Image Concept 2 (Social 1080x1350):**\n- Search terms: \"George Russell Las Vegas\"\n- Usage: Track advantage post\n- Caption overlay: \"CAN RUSSELL CLOSE THE GAP?\"\n- Mood: Dramatic, race atmosphere\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "George Russell's Final Push — P2 Championship\n**Key Facts (HIGH confidence):**\n- George Russell has 262 championship points after 20 races (source: RacingNews365, Sky Sports F1)\n- Max Verstappen has 279 points (source: RacingNews365, Sky Sports F1)\n- Gap: 17 points with 3 races remaining\n- Three remaining races: Las Vegas (Nov 22), Qatar, Abu Dhabi\n- Maximum points available per race: 26 (25 for win + 1 fastest lap)\n- Maximum remaining points: 78 — Russell can mathematically overtake Verstappen\n**Supporting Facts (MEDIUM confidence):**\n- Mercedes' car has historically performed well at Las Vegas (high-speed, smooth tarmac)\n- Russell won at Las Vegas in 2024 (single source, needs secondary verification)\n**Sources:**\n- https://racingnews365.com/2026-f1-championship-standings-after-the-mexico-city-grand-prix\n- https://www.skysports.com/f1/standings",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "racingnews365.com",
+          "url": "https://racingnews365.com/2026-f1-championship-standings-after-the-mexico-city-grand-prix",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "skysports.com",
+          "url": "https://www.skysports.com/f1/standings",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Las Vegas GP Practice Preview — FP1 Thursday Night (Tier 1 NEW)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "🗓️ Las Vegas GP 2026 Weekend:\n\n▸ FP1 — Thu 7:30 PM PST\n▸ FP2 — Thu 11:00 PM PST\n▸ FP3 — Fri 7:30 PM PST\n▸ Race — Sat 8:00 PM PST\n\n50 laps. Night race. The Strip. #F1 #LasVegasGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 177
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Lights out Saturday night at 8 PM on the Las Vegas Strip.\n\nRound 21 of 23. The championship isn't over for second place.\n\nWho wins Vegas? #LasVegasGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LasVegasGP",
+            "#F1"
+          ],
+          "char_count": 153
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-las-vegas-gp-practice-preview.html",
+        "headline": "Las Vegas GP Practice Preview: FP1 Tonight on the Strip as F1's Night Race Returns",
+        "word_count": 525
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Las Vegas GP Practice Preview\n\n**Image Concept 1 (Social 1080x1350):**\n- Search terms: \"Las Vegas Strip Circuit Formula 1\"\n- Usage: Schedule announcement post\n- Caption overlay: \"LAS VEGAS GP 🌃 | SCHEDULE INSIDE\"\n- Mood: Neon, nighttime city\n\n**Image Concept 2 (Article Hero 1200x630):**\n- Search terms: \"Las Vegas Grand Prix Formula 1\"\n- Usage: Article featured image\n- Caption overlay: none (article hero)\n- Mood: Race atmosphere, strip circuit\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Las Vegas GP Practice Preview\n**Key Facts (HIGH confidence):**\n- Las Vegas GP is Round 21 of 23 in the 2026 F1 World Championship\n- Race date: Saturday November 21 local time / Sunday November 22 at 04:00 GMT\n- Race distance: 50 laps of the Las Vegas Strip Circuit\n- FP1: Thursday Nov 19, 7:30 PM PST / 00:30 GMT Friday Nov 20\n- FP2: Thursday Nov 19, 11:00 PM PST / 04:00 GMT Friday Nov 20\n- FP3: Friday Nov 20, 7:30 PM PST / 03:30 GMT Saturday Nov 21\n- Qualifying: Friday Nov 20 (early Saturday local), 04:00 GMT Saturday Nov 21\n**Supporting Facts (HIGH confidence):**\n- Las Vegas Strip Circuit is a street circuit running through the city at night\n- Race known for its unique atmosphere, cold track temperatures at night\n**Sources:**\n- https://www.gpblog.com/en/news/formula-1-las-vegas-gp-2026-all-session-times-and-full-weekend-schedule\n- https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "gpblog.com",
+          "url": "https://www.gpblog.com/en/news/formula-1-las-vegas-gp-2026-all-session-times-and-full-weekend-schedule",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "formula1.com",
+          "url": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Oscar Piastri's Las Vegas Mission — McLaren's Points Machine (Tier 2 NEW)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Oscar Piastri: 152 points. Consistent. Quiet. Deadly.\n\nMcLaren's No. 2 driver arrives in Las Vegas looking for a podium and a statement finish. #LasVegasGP #McLaren",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LasVegasGP",
+            "#McLaren"
+          ],
+          "char_count": 164
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Everyone watches Verstappen vs. Russell. Don't sleep on Oscar Piastri in Las Vegas.\n\nMcLaren has the pace. Piastri has the racecraft. #F1 #LasVegasGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 149
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-piastri-las-vegas-mission.html",
+        "headline": "Oscar Piastri's Las Vegas Mission: McLaren's Quiet Points Machine Eyes a Podium",
+        "word_count": 423
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Oscar Piastri's Las Vegas Mission\n\n**Image Concept 1 (Social 1080x1350):**\n- Search terms: \"Oscar Piastri McLaren\"\n- Usage: Piastri feature post\n- Caption overlay: \"PIASTRI'S VEGAS MISSION\"\n- Mood: Focused, determined\n\n**Image Concept 2 (Social 1080x1350):**\n- Search terms: \"McLaren Formula 1\"\n- Usage: Team/car spotlight\n- Caption overlay: \"152 POINTS | PODIUM HUNTING\"\n- Mood: Speed, McLaren papaya\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Oscar Piastri's Las Vegas Mission\n**Key Facts (HIGH confidence):**\n- Oscar Piastri has 152 championship points, 6th in standings (source: Sky Sports F1)\n- Races for McLaren driving the MCL40\n- Lando Norris won the Brazilian GP on November 8; Piastri has been consistent scorer\n- McLaren is 4th in Constructors' with 398 points (source: Sky Sports F1)\n**Sources:**\n- https://www.skysports.com/f1/standings",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "skysports.com",
+          "url": "https://www.skysports.com/f1/standings",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Hamilton's Las Vegas Debut With Ferrari — Same Strip, New Colours (Tier 2 NEW)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "Lewis Hamilton races Las Vegas for the first time in Ferrari red.\n\n261 points. 4th in the championship. One point behind Russell.\n\nThe strip. New colours. Same Hamilton. #F1 #LasVegasGP #Ferrari",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP",
+            "#Ferrari"
+          ],
+          "char_count": 194
+        },
+        {
+          "label": "Post 4-2",
+          "text": "Hamilton + Ferrari + Las Vegas Strip = must-watch television.\n\nThe seven-time champion debuts at a circuit he knows well, in machinery he's still learning. #F1 #Ferrari",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Ferrari"
+          ],
+          "char_count": 168
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-hamilton-ferrari-las-vegas-debut.html",
+        "headline": "Hamilton's Las Vegas Debut in Ferrari Red: Same Strip, New Mission",
+        "word_count": 460
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton's Las Vegas Debut With Ferrari\n\n**Image Concept 1 (Social 1080x1350):**\n- Search terms: \"Lewis Hamilton Ferrari\"\n- Usage: Hamilton Ferrari debut feature\n- Caption overlay: \"HAMILTON | FIRST VEGAS IN FERRARI RED\"\n- Mood: Iconic, historical\n\n**Image Concept 2 (Social 1080x1350):**\n- Search terms: \"Lewis Hamilton Las Vegas\"\n- Usage: Las Vegas track focus\n- Caption overlay: \"SAME STRIP. NEW COLOURS.\"\n- Mood: Dramatic comparison\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton's Las Vegas Debut With Ferrari\n**Key Facts (HIGH confidence):**\n- 2026 is Lewis Hamilton's first season with Scuderia Ferrari (source: multiple confirmed)\n- Hamilton has 261 championship points, 4th in standings (source: Sky Sports F1, RacingNews365)\n- He trails Russell by just 1 point for 3rd place\n- Hamilton previously won at Las Vegas with Mercedes\n**Supporting Facts (MEDIUM confidence):**\n- Hamilton's first Ferrari season has had mixed results, with car development challenges early in the year\n- Ferrari had a difficult Brazil GP with Leclerc's penalty\n**Sources:**\n- https://racingnews365.com/2026-f1-championship-standings-after-the-mexico-city-grand-prix\n- https://www.skysports.com/f1/standings",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "racingnews365.com",
+          "url": "https://racingnews365.com/2026-f1-championship-standings-after-the-mexico-city-grand-prix",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "skysports.com",
+          "url": "https://www.skysports.com/f1/standings",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Three Races, Three Chances — The 2026 F1 Season Endgame (Tier 3 NEW)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "3 races left. Everything still at stake — except the title.\n\nP2: Verstappen 279 | Russell 262 (gap: 17)\nP3: Russell 262 | Hamilton 261 (gap: 1)\nP5: Hamilton 261 | Leclerc 249 (gap: 12)\n\nIt's on. #F1 2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-three-races-season-endgame.html",
+        "headline": "Three Races, Three Chances: The 2026 F1 Season's Final Chapter",
+        "word_count": 421
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Season Endgame\n\n**Image Concept 1 (Social 1080x1350):**\n- Search terms: \"F1 2026 championship standings podium\"\n- Usage: Standings graphic post\n- Caption overlay: \"3 RACES TO GO | THE FIGHT FOR P2\"\n- Mood: Championship intensity\n\n**Image Concept 2 (Social 1080x1350):**\n- Search terms: \"Kimi Antonelli Mercedes champion\"\n- Usage: Champion + remaining stakes\n- Caption overlay: \"ANTONELLI IS CHAMPION. THE BATTLE CONTINUES.\"\n- Mood: Celebratory but forward-looking"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "2026 Season Endgame\n**Key Facts (HIGH confidence):**\n- Kimi Antonelli clinched 2026 Drivers' Championship at Mexico City GP, November 1, 2026\n- Antonelli is 20 years old — youngest F1 world champion in history\n- Broke Sebastian Vettel's record (set in 2010)\n- Mercedes clinched Constructors' Championship at Brazilian GP, November 8, 2026\n- Standings after Brazil: Antonelli 390, Verstappen 279, Russell 262, Hamilton 261, Leclerc 249, Norris 246, Piastri 152\n**Sources:**\n- https://racingnews365.com/2026-f1-championship-standings-after-the-mexico-city-grand-prix\n- https://www.skysports.com/f1/standings\n- https://www.crash.net/f1/feature/1107916/1/kimi-antonelli-makes-f1-history-where-he-ranks-among-youngest-world-champions",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "racingnews365.com",
+          "url": "https://racingnews365.com/2026-f1-championship-standings-after-the-mexico-city-grand-prix",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "skysports.com",
+          "url": "https://www.skysports.com/f1/standings",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "crash.net",
+          "url": "https://www.crash.net/f1/feature/1107916/1/kimi-antonelli-makes-f1-history-where-he-ranks-among-youngest-world-champions",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

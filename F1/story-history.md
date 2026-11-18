@@ -828,3 +828,42 @@
 - **Key facts:** Leclerc demoted at Brazil via penalty; Hamilton in his first Ferrari season; seeking strong finish to 2026
 - **Byline:** Elena Voss
 - **Status:** FOLLOW UP
+
+---
+
+## 2026-11-18
+
+### STORY 1: George Russell's Final Push — 17 Points Behind Verstappen
+- **Tier:** 1
+- **Category:** George Russell / Mercedes / 2026 F1 Drivers' Championship / Las Vegas GP
+- **Key facts:** Russell 262 pts, Verstappen 279 pts; gap 17 pts; 3 races left (Las Vegas, Qatar, Abu Dhabi); 78 max points remaining; Mercedes suits Vegas high-speed circuit
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: Las Vegas GP Practice Preview — FP1 Tonight
+- **Tier:** 1
+- **Category:** Las Vegas Grand Prix / 2026 F1 Season / Schedule
+- **Key facts:** FP1 Thu Nov 19 7:30 PM PST; FP2 11:00 PM PST; Race Sat Nov 21 8:00 PM PST / 04:00 GMT Nov 22; 50 laps; Las Vegas Strip Circuit
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Oscar Piastri's Las Vegas Mission
+- **Tier:** 2
+- **Category:** Oscar Piastri / McLaren / Las Vegas GP
+- **Key facts:** Piastri 152 pts, 6th in standings; McLaren MCL40 strong race pace; Norris won Brazil GP Nov 8; McLaren 4th constructors (398 pts)
+- **Byline:** Elena Voss
+- **Status:** NEW
+
+### STORY 4: Hamilton's Las Vegas Debut With Ferrari
+- **Tier:** 2
+- **Category:** Lewis Hamilton / Ferrari / Las Vegas GP
+- **Key facts:** 2026 Hamilton's first Ferrari season; 261 pts (4th, 1 behind Russell); Hamilton previously excelled at Las Vegas with Mercedes; Ferrari had difficult Brazil GP
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: Three Races, Three Chances — 2026 Season Endgame
+- **Tier:** 3
+- **Category:** 2026 F1 Season / Kimi Antonelli / Championship Standings
+- **Key facts:** Antonelli champion (390 pts, clinched Mexico City Nov 1, age 20); Verstappen 279, Russell 262, Hamilton 261, Leclerc 249, Norris 246, Piastri 152; Mercedes Constructors' champions
+- **Byline:** Elena Voss
+- **Status:** NEW
