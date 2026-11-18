@@ -1185,3 +1185,42 @@
 - **Key facts:** Magic road upset; Boston home loss; NBA Cup group stage ongoing
 - **Byline:** Marcus Cole
 - **Status:** NEW
+
+---
+
+## 2026-11-18
+
+### STORY 1: Knicks 111, Raptors 102 — Brunson Clutch 4-Point Play
+- **Tier:** 1
+- **Category:** New York Knicks / Toronto Raptors / Jalen Brunson / Karl-Anthony Towns
+- **Key facts:** Brunson 31 pts; tiebreaking 4-point play with 1:25 left; KAT 16 pts/16 reb; road win at Toronto
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Lakers 118, Hornets 114 (OT) — Miracle Comeback From 18 Down
+- **Tier:** 1
+- **Category:** Los Angeles Lakers / Charlotte Hornets
+- **Key facts:** Lakers trailed by 18 pts; rallied to force OT; held Hornets scoreless final 4:24 of OT; won 118-114
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Jazz 132, Clippers 107 — Dominant Road Upset
+- **Tier:** 2
+- **Category:** Utah Jazz / Los Angeles Clippers
+- **Key facts:** Jazz 2-13 record; won by 25 points on road; Clippers stunned at home
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: Wednesday NBA Slate — 12 Games, Pistons at Spurs Headliner
+- **Tier:** 2
+- **Category:** NBA Preview / Detroit Pistons / San Antonio Spurs / Cade Cunningham / Victor Wembanyama
+- **Key facts:** 12 games Nov 18; Pistons at Spurs, Rockets at Pacers, Bucks at Heat, 76ers at Magic, Bulls at Nets
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: NBA Cup Group Stage — Knockout Round Races Through Nov 27
+- **Tier:** 3
+- **Category:** NBA Cup / In-Season Tournament
+- **Key facts:** Group stage through Nov 27; every game has Cup implications; 12-game Nov 18 slate key
+- **Byline:** Marcus Cole
+- **Status:** NEW

@@ -1,0 +1,274 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-18",
+  "compiled_at": "2026-11-18T11:20:45.394261+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Knicks 111, Raptors 102 — Brunson 31pts, Clutch 4-Point Play",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "CLUTCH. Jalen Brunson hit a tiebreaking four-point play with 1:25 left and the Knicks closed out Toronto 111-102. KAT added 16/16. New York keeps rolling. 🏀 #NewYorkForever",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkForever"
+          ],
+          "char_count": 172
+        },
+        {
+          "label": "Post 1-2",
+          "text": "16 points AND 16 rebounds. Karl-Anthony Towns is doing EVERYTHING the Knicks need him to do. That trade looks better every week. #NewYorkForever",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkForever"
+          ],
+          "char_count": 144
+        }
+      ],
+      "facebook": {
+        "long_form": "The Knicks needed a hero moment in Toronto, and Jalen Brunson delivered exactly that.\n\nWith the game tied in the final two minutes, Brunson drove hard, drew the contact, made the shot, and converted the free throw — a four-point play that put New York ahead for good. Final score: Knicks 111, Raptors 102.\n\nBrunson finished with 31 points and continues to prove he's one of the most clutch players in the league. But the story isn't just about him tonight. Karl-Anthony Towns was an absolute force with 16 points and 16 rebounds — dominating inside while Brunson orchestrated the offense from the perimeter.\n\nThe Knicks keep rolling, and this road win in Canada is another example of a team that knows how to win tight games. Madison Square Garden is going to be rocking this season.",
+        "image_caption": "Brunson. Four-point play. Ice in his veins. 🏀 #Knicks #NewYorkForever",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-knicks-raptors-brunson-clutch.html",
+        "headline": "Brunson's Clutch Four-Point Play Powers Knicks Past Raptors 111-102",
+        "word_count": 628
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks 111, Raptors 102\n\n**Image Concept 1 — Social (1080x1350)**\n- **Search terms (imagn):** Jalen Brunson New York Knicks\n- **Mode:** base_only\n- **Description:** Brunson mid-drive, attacking the basket, determination on face — Knicks blue/orange color theme\n- **Text overlay (Canva):** \"CLUTCH\" / Brunson 31 PTS / KNICKS WIN 111-102\n\n**Image Concept 2 — Social (1080x1350)**\n- **Search terms (imagn):** Karl-Anthony Towns New York Knicks\n- **Mode:** base_only\n- **Description:** KAT posting up or rebounding, blue/orange Knicks uniform\n- **Text overlay (Canva):** 16 PTS / 16 REB / KAT DOMINATES\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Knicks 111, Raptors 102\n**Verified facts (HIGH confidence):**\n- Final score: Knicks 111, Raptors 102 — confirmed via CBS Sports gametracker and TheScore\n- Jalen Brunson scored 31 points — confirmed via CBS Sports\n- Karl-Anthony Towns: 16 points, 16 rebounds — confirmed via CBS Sports\n- Brunson hit a tiebreaking four-point play with 1:25 left in the fourth quarter — confirmed TheScore recap\n- Game played November 17, 2026, in Toronto (Scotiabank Arena)\n**Medium confidence:**\n- New York's current winning streak of 15 games — single source; treat as \"extended their winning streak\" without specific number in articles",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Lakers 118, Hornets 114 (OT) — Miracle Comeback From 18 Down",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Down 18. OT. VICTORY. The Lakers erased an 18-point deficit and held Charlotte SCORELESS in the final 4:24 of OT to win 118-114. That's a highlight reel comeback. #LakeShow",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LakeShow"
+          ],
+          "char_count": 172
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Zero points. 4 minutes and 24 seconds of OT. That's how the Lakers locked up the Hornets and walked out with the W 118-114. Defense wins. #LakeShow",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LakeShow"
+          ],
+          "char_count": 147
+        }
+      ],
+      "facebook": {
+        "long_form": "You cannot count out the Los Angeles Lakers.\n\nDown 18 points and staring at a home loss, LA flipped the script and stormed back to force overtime. Then they did something even more impressive — they held the Charlotte Hornets completely scoreless for the final 4 minutes and 24 seconds of overtime. Final score: Lakers 118, Hornets 114.\n\nIt was a remarkable defensive stand that sealed one of the more stunning comeback wins you'll see this season. After trailing by double digits, the Lakers' defense suffocated Charlotte when it mattered most. No buckets for the Hornets down the stretch — just clock ticking away as the Lakers walked away with the W.\n\nThe Lakers aren't going away without a fight this season. When this team locks in defensively, they're dangerous.",
+        "image_caption": "18 down. OT. Hold. Victory. The Lakers don't quit. 💜💛 #LakeShow",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-lakers-hornets-ot-comeback.html",
+        "headline": "Lakers Erase 18-Point Deficit, Hold Hornets Scoreless in OT to Win 118-114",
+        "word_count": 646
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Lakers 118, Hornets 114 (OT)\n\n**Image Concept 1 — Social (1080x1350)**\n- **Search terms (imagn):** Los Angeles Lakers\n- **Mode:** base_only\n- **Description:** Lakers player celebrating or crowd atmosphere, purple/gold theme\n- **Text overlay (Canva):** DOWN 18 → OT VICTORY / LAKERS 118 HORNETS 114\n\n**Image Concept 2 — Social (1080x1350)**\n- **Search terms (imagn):** Charlotte Hornets Los Angeles Lakers\n- **Mode:** base_only\n- **Description:** Defensive moment, hand up, contest shot — dramatic lighting\n- **Text overlay (Canva):** ZERO POINTS / 4:24 of OT / LOCKED IN 🔒\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Lakers 118, Hornets 114 (OT)\n**Verified facts (HIGH confidence):**\n- Final score: Lakers 118, Hornets 114 — confirmed via Legion Report and CBS Sports\n- Went to overtime — confirmed multiple sources\n- Lakers trailed by 18 points at some point in the game — confirmed first search result\n- Lakers held Charlotte scoreless in the final 4:24 of overtime — confirmed first search result\n- Game played November 17, 2026, in Los Angeles (Crypto.com Arena)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Jazz 132, Clippers 107 — Utah Dominant Road Win",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Nobody told the Utah Jazz they're 2-13. They just went into LA and demolished the Clippers 132-107. Full send energy from Utah. #TakeNote #Jazz",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TakeNote",
+            "#Jazz"
+          ],
+          "char_count": 143
+        }
+      ],
+      "facebook": {
+        "long_form": "The Utah Jazz may be one of the NBA's youngest and least-experienced rosters this season, but on Tuesday night they looked nothing like a team with a 2-13 record.\n\nUtah walked into the Clippers' arena and put on a show, winning 132-107. The final score wasn't even close — this was a dominant performance from start to finish. The Jazz outscored Los Angeles by 25 points, playing with energy and confidence that completely caught the Clippers off guard.\n\nFor LA, it's a stinging loss that highlights the dangers of underestimating any team on any given night. The NBA is a brutal league, and nobody gets a free night. The Clippers will need to regroup quickly with more games on the horizon.\n\nFor Utah? This one goes in the memory bank as a reminder that the talent is there, even if the wins haven't come consistently.",
+        "image_caption": "When Utah Jazz showed up and said \"not tonight\" to the Clippers. 132-107 road win. 🎵 #TakeNote",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-jazz-clippers-upset.html",
+        "headline": "Jazz Dismantle Clippers 132-107 in Dominant Road Upset",
+        "word_count": 607
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jazz 132, Clippers 107\n\n**Image Concept 1 — Social (1080x1350)**\n- **Search terms (imagn):** Utah Jazz\n- **Mode:** base_only\n- **Description:** Jazz player celebrating, navy/gold/green uniform\n- **Text overlay (Canva):** UPSET ALERT / JAZZ 132 CLIPPERS 107\n\n**Image Concept 2 — Social (1080x1350)**\n- **Search terms (imagn):** Los Angeles Clippers\n- **Mode:** base_only\n- **Description:** Clippers player frustrated expression or bench confusion\n- **Text overlay (Canva):** 25-POINT LOSS / UTAH DOESN'T CARE ABOUT YOUR RECORD\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jazz 132, Clippers 107\n**Verified facts (HIGH confidence):**\n- Final score: Jazz 132, Clippers 107 — confirmed via ESPN scoreboard snippet\n- Utah Jazz road win at Los Angeles\n- Utah's record at time of game: 2-13 — confirmed via ESPN listing",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Tonight's NBA Slate — 12 Games Including Pistons at Spurs, Rockets at Pacers",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "4:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "12 games tonight 🏀 Pistons at Spurs is the headliner — Cunningham vs. Wembanyama. Rockets at Pacers, Bucks at Heat, Sixers at Magic also on tap. Big Wednesday. #NBA",
+          "posting_time": "4:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 164
+        },
+        {
+          "label": "Post 4-2",
+          "text": "Pistons at Spurs tonight. San Antonio has been one of the NBA's hottest teams. Can Cade Cunningham come into the AT&T Center and get the win? Tip-off tonight. #NBA #GoSpursGo",
+          "posting_time": "4:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#GoSpursGo"
+          ],
+          "char_count": 174
+        }
+      ],
+      "facebook": {
+        "long_form": "Wednesday night in the NBA is as loaded as it gets.\n\nTwelve games tip off across the league tonight, and the headliner is a potential gem: the Detroit Pistons travel to San Antonio to face the Spurs. Cade Cunningham and Victor Wembanyama on the same floor? Must-watch television.\n\nAlso on tap tonight:\n🏀 Rockets at Pacers (7:00 PM ET)\n🏀 Bucks at Heat\n🏀 76ers at Magic\n🏀 Bulls at Nets\n\nThe Spurs have been one of the league's most impressive teams in recent weeks, and Detroit will need a monster game from Cunningham to walk out of the AT&T Center with a win. Houston-Indiana is another one to watch as both teams have been playing strong basketball.\n\nLock in tonight. It's going to be a great night of basketball.",
+        "image_caption": "12 games. One night. The NBA is wide open in November. 🏀 Which game are you watching? #NBA",
+        "posting_time": "4:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-wednesday-nba-slate-preview.html",
+        "headline": "Wednesday NBA Preview: Pistons at Spurs Leads 12-Game Slate",
+        "word_count": 532
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wednesday NBA Slate Preview\n\n**Image Concept 1 — Social (1080x1350)**\n- **Search terms (imagn):** Cade Cunningham Detroit Pistons\n- **Mode:** base_only\n- **Description:** Cunningham dribbling or attacking, Pistons red/blue\n- **Text overlay (Canva):** TONIGHT / PISTONS AT SPURS / 12 GAMES 🏀\n\n**Image Concept 2 — Social (1080x1350)**\n- **Search terms (imagn):** Victor Wembanyama San Antonio Spurs\n- **Mode:** base_only\n- **Description:** Wembanyama blocking or shooting, Spurs black/silver/white\n- **Text overlay (Canva):** THE MATCHUP / WEMBY VS. CADE / TONIGHT\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tonight's NBA Slate (November 18)\n**Verified facts (HIGH confidence):**\n- 12 games scheduled for November 18 — Land of Basketball daily summary\n- Key matchups: Pistons at Spurs, Rockets at Pacers, Bucks at Heat, 76ers at Magic, Bulls at Nets — Legion Report schedule\n- Rockets at Pacers at 7:00 PM ET — Land of Basketball\n- Bulls at Nets 8:30 PM ET — Bleacher Report\n**Additional context:**\n- Detroit Pistons star: Cade Cunningham (All-Star caliber guard) — career context\n- San Antonio Spurs: Victor Wembanyama leads an ascending team",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "NBA Cup Group Stage — Key Races Through November 27",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "NBA Cup group stage runs through November 27. With a full 12-game slate tonight, every result matters in the race for knockout round berths. Who's your team? #NBACup #NBA",
+          "posting_time": "7:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBACup",
+            "#NBA"
+          ],
+          "char_count": 170
+        }
+      ],
+      "facebook": {
+        "long_form": "Don't sleep on the NBA Cup this season.\n\nThe In-Season Tournament group stage runs through November 27, and with tonight's 12-game slate, there's plenty at stake beyond the regular season standings. Teams are competing for spots in the knockout rounds — and nobody wants to get bounced early from the chance at a Cup championship.\n\nFor fans, this is what makes the NBA special in November — every game has layered meaning. The standings, the Cup, the momentum heading into December. It all adds up.\n\nWhich teams do you think will come out of their groups and make a run in the knockout round? Drop your picks in the comments!",
+        "image_caption": "The NBA Cup group stage is heating up. Every game counts through November 27. 🏆 #NBACup #NBA",
+        "posting_time": "7:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-nba-cup-group-stage.html",
+        "headline": "NBA Cup Group Stage: What's at Stake Through November 27",
+        "word_count": 538
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NBA Cup Group Stage\n\n**Image Concept 1 — Social (1080x1350)**\n- **Search terms (imagn):** NBA basketball court\n- **Mode:** base_only\n- **Description:** Wide court shot, colorful NBA Cup branding if available, or generic court energy\n- **Text overlay (Canva):** NBA CUP 🏆 / GROUP STAGE / THRU NOV 27\n\n**Image Concept 2 — Social (1080x1350)**\n- **Search terms (imagn):** NBA trophy celebration\n- **Mode:** base_only\n- **Description:** Trophy or trophy-adjacent celebration imagery\n- **Text overlay (Canva):** WHO ADVANCES? / IN-SEASON TOURNAMENT / KNOCKOUT ROUND AHEAD"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NBA Cup Group Stage\n**Verified facts (HIGH confidence):**\n- NBA Cup group stage runs through November 27 — per NBA Cup rules/schedule\n- Tonight's games factor into Cup group standings\n## Fact-Check Notes\n- Knicks win streak exact number is MEDIUM confidence — do not use \"15 games\" in article headlines without hedging\n- Lakers comeback deficit confirmed as 18 points\n- Jazz record 2-13 at time of win — confirmed single source (ESPN snippet)\n- Pistons at Spurs game: confirmed for November 18 (TheScore listing)",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
