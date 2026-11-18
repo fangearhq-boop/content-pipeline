@@ -4635,3 +4635,62 @@ _This file tracks every story covered, the angle used, content produced, and fol
   - Tenth Circuit ruling (TBD)
   - State-level case outcomes
   - Program-specific roster impact
+
+---
+
+## November 18, 2026
+
+### Story 1: Tenth Circuit Rules for NCAA in Wisne — Fifth Year Closed for Class of 2022
+- **Date:** 2026-11-18
+- **Tier:** 1
+- **Classification:** FOLLOW UP (5-for-5/Wisne covered Oct 29–Nov 17)
+- **Angle:** Tenth Circuit reversed and vacated nationwide preliminary injunction in Wisne v. NCAA. Panel held plaintiffs failed to show likelihood of success on antitrust market definition. ~200 state cases (850+ athletes) remain. New 46-athlete suit filed seeking fresh injunction. December portal opens in 13 days — primary relief valve for affected softball players.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - En banc rehearing petition outcome
+  - State-court case developments
+  - December portal movement by 5-for-5 athletes
+
+### Story 2: Oklahoma State Cowgirls Sign 7 on Signing Day — Five Four-Stars Join Stillwater
+- **Date:** 2026-11-18
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** OSU signed seven players on Nov 11, 2026, with five four-star recruits. Pitcher Ava Salcedo flipped from Grand Canyon. Big 12 opportunity as OU/Texas departed for SEC.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - OSU December portal additions
+  - Spring preseason ranking
+  - Big 12 opener results March 2027
+
+### Story 3: FSU Softball Signs Highest-Rated Recruit in Program History — Five-Star Pitcher Addison DeRoche
+- **Date:** 2026-11-18
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** DeRoche is No. 5 nationally in 2027 class — program's highest-rated recruit ever. Also signed 4-star catcher Layna Ayala. Class ranked No. 13 nationally. Ella Dodge (Tennessee transfer) added earlier.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - DeRoche spring development
+  - FSU tournament seeding in 2027
+  - ACC softball landscape preview
+
+### Story 4: LSU Signs Portal Twins Pickens + Winchell to Complete No. 1 Class
+- **Date:** 2026-11-18
+- **Tier:** 2
+- **Classification:** FOLLOW UP (LSU Nov 11 signing day covered Nov 15)
+- **Angle:** Beth Torina added portal twins Mackenzie and Madison Pickens plus Notre Dame outfielder Michey Winchell (senior) to LSU's No. 1-ranked 2027 class. Targeted portal strategy supplements elite recruiting.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - LSU 2027 roster finalization
+  - Spring preseason ranking
+  - SEC schedule/WCWS path
+
+### Story 5: Tennessee Returns 9 Starters — Lady Vols Fall Ball Points to SEC Title Contention
+- **Date:** 2026-11-18
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Tennessee returns nine starters for 2027. NFCA First Team All-American Sage Mardjetko (16-3, 1.26 ERA, 171 K) and Sophia Knight (.394 avg) lead returning core. UT went 49-12 in 2026. Continuity is rare in portal era.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - January preseason poll ranking
+  - Spring schedule release
+  - SEC opener results

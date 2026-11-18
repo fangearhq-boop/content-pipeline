@@ -1,0 +1,444 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-18",
+  "compiled_at": "2026-11-18T10:15:49.693487+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Tenth Circuit Rules for NCAA in Wisne — Fifth Year Closed for Class of 2022",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "BREAKING: The Tenth Circuit reversed the nationwide injunction in Wisne v. NCAA.\n\nThe NCAA wins the 5-for-5 fight — for now.\n\n~200 state cases still open. December portal opens in 13 days. Class of 2022 softball players must decide now. #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 253
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Tenth Circuit ruled for the NCAA in 5-for-5. What's next:\n\n• En banc rehearing possible\n• 200+ state court cases continue\n• December portal opens Dec. 1\n• Programs must finalize rosters NOW\n\nSoftball's most complicated offseason just got more complicated. #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": {
+        "long_form": "The legal fight over college softball's fifth-year eligibility just reached a major turning point.\n\nThe Tenth Circuit Court of Appeals reversed and vacated the nationwide preliminary injunction in *Wisne v. NCAA*, handing the NCAA a significant victory in the 5-for-5 eligibility litigation. The court found that the plaintiffs — class-of-2022 athletes who sought a fifth year of competition under COVID-era eligibility rules — failed to demonstrate a likelihood of success on their antitrust argument. Specifically, the panel rejected the plaintiffs' definition of the relevant labor market.\n\nFor softball players who had been counting on a fifth season, this ruling closes what many had considered the likeliest path to eligibility.\n\nBut the story isn't over. Approximately 200 concurrent lawsuits filed in state courts still involve up to 850 athletes across all sports, and a new 46-athlete group has already filed a fresh suit seeking an immediate preliminary injunction. Plaintiffs in the Wisne case can also petition for en banc rehearing from the full Tenth Circuit.\n\nWhat does this mean for softball programs? The December transfer portal window opens in just 13 days (December 1–15). Programs that had budgeted roster spots for returning class-of-2022 players now need to reassess — and fast. The portal has become the primary relief valve.\n\nWe'll continue tracking this. The legal calendar is moving quickly.",
+        "image_caption": "The Tenth Circuit ruled for the NCAA in the 5-for-5 case. Class-of-2022 softball players face a harder road to a fifth year. 200+ state cases remain. December portal opens December 1. #CollegeSoftball",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-tenth-circuit-ncaa-wisne-ruling.html",
+        "headline": "Tenth Circuit Rules for NCAA in Wisne — Fifth Year Door Closes for Class of 2022",
+        "word_count": 667
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080×1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200×630)",
+          "search_terms": [],
+          "text_overlay": [
+            "None (article hero — image only)"
+          ],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tenth Circuit Rules for NCAA in Wisne\n**Sources:**\n- https://sports.yahoo.com/articles/tenth-circuit-rules-favor-ncaa-155503008.html\n- https://www.on3.com/news/tenth-circuit-rules-in-favor-ncaa-wisne-eligibility-lawsuit-overturns-injunction/\n- https://www.sportico.com/law/analysis/2026/wisne-ncaa-10th-circuit-legal-analysis-1234957739/\n- https://www.si.com/onsi/softball/college/class-of-2022-softball-players-fifth-season-put-on-hold-by-federal-appeals-court\n**Verified Facts:**\n- [HIGH] Tenth Circuit reversed and vacated the nationwide preliminary injunction in *Wisne v. NCAA* — ruling approximately November 6-7, 2026\n- [HIGH] Panel found plaintiffs failed to show likelihood of success on the merits regarding their antitrust market definition\n- [HIGH] NCAA chief legal officer Scott Bearby said the NCAA was \"appreciative of the Tenth Circuit's decision\"\n- [HIGH] Roughly 200 concurrent lawsuits pending in state courts involving up to 850 athletes (per ESPN via Time News)\n- [HIGH] A new 46-athlete suit seeking a preliminary injunction for immediate eligibility has been filed\n- [HIGH] Plaintiffs can seek en banc rehearing from the full Tenth Circuit\n- [MEDIUM] NCAA's Bearby stated that injunctions have \"created chaos for the 2026-27 season\"\n- [MEDIUM] Ruling affects class-of-2022 athletes who were seeking a fifth year of eligibility under the COVID extra-year framework\n**Story angle:** The Tenth Circuit's ruling is the most significant development since the original injunction, but the fight is far from over. 200+ state cases remain. For softball specifically, programs planning to carry class-of-2022 players on 2027 rosters now face a different calculus with the December portal opening in 13 days.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/tenth-circuit-rules-favor-ncaa-155503008.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "on3.com",
+          "url": "https://www.on3.com/news/tenth-circuit-rules-in-favor-ncaa-wisne-eligibility-lawsuit-overturns-injunction/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sportico.com",
+          "url": "https://www.sportico.com/law/analysis/2026/wisne-ncaa-10th-circuit-legal-analysis-1234957739/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "si.com",
+          "url": "https://www.si.com/onsi/softball/college/class-of-2022-softball-players-fifth-season-put-on-hold-by-federal-appeals-court",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Oklahoma State Cowgirls Sign 7 on Signing Day — Five Four-Stars Join Stillwater",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Oklahoma State signed SEVEN players on Signing Day, including five 4-star prospects.\n\nPitcher Ava Salcedo flipped from Grand Canyon to join the Cowgirls.\n\nThe Big 12 is wide open. #OKState #CowgirlSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#OKState",
+            "#CowgirlSoftball"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "Oklahoma State softball made a statement on National Signing Day.\n\nThe Cowgirls signed seven players, led by five four-star recruits. Among the highlights: pitcher Ava Salcedo flipped her commitment from Grand Canyon to join OSU's program in Stillwater. When a recruit changes course from another school to join your program, it says something about the direction you're heading.\n\nOklahoma State operates in an increasingly interesting landscape. With Oklahoma and Texas now in the SEC, the Big 12 has space at the top — and the Cowgirls are positioning themselves to claim it. A class this talent-dense signals that head coach Kenny Gajewski is serious about building a perennial contender.\n\nFor fans of the Cowgirls, Signing Day was a good day. Keep an eye on this program.",
+        "image_caption": "Oklahoma State signed SEVEN players on Signing Day, including five 4-star prospects. Pitcher Ava Salcedo flipped from Grand Canyon. The Cowgirls are building. #OKState #CowgirlSoftball",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-oklahoma-state-signing-day-seven-signees.html",
+        "headline": "Oklahoma State Cowgirls Sign Seven on Signing Day — Five Four-Stars Join Stillwater",
+        "word_count": 633
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080×1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200×630)",
+          "search_terms": [],
+          "text_overlay": [
+            "None"
+          ],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Oklahoma State Cowgirls Signing Day\n**Sources:**\n- https://okstate.com/news/2026/11/11/cowgirl-softball-signs-seven-on-national-signing-day\n- https://sports.yahoo.com/articles/oklahoma-state-softball-announces-first-190004667.html\n- https://sports.yahoo.com/articles/oklahoma-state-softball-lands-ava-181058778.html\n**Verified Facts:**\n- [HIGH] Oklahoma State softball signed seven players on National Signing Day, November 11, 2026\n- [HIGH] The class features five recruits with four-star ratings\n- [HIGH] Pitcher Ava Salcedo (Washington High School) is in the class, previously committed to Grand Canyon\n- [MEDIUM] OSU's 2026 signing class description: \"A class that includes five recruits with four-star ratings is coming to the Oklahoma State softball team in 2027\"\n- [MEDIUM] No total class ranking found for OSU — cannot state a specific national ranking\n**Story angle:** OSU making a push in the Big 12 as OU and Texas have departed for the SEC. Five four-star prospects signals real program investment.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "okstate.com",
+          "url": "https://okstate.com/news/2026/11/11/cowgirl-softball-signs-seven-on-national-signing-day",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/oklahoma-state-softball-announces-first-190004667.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/oklahoma-state-softball-lands-ava-181058778.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "FSU Softball Signs Highest-Rated Recruit in Program History — Five-Star Addison DeRoche",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Florida State signed pitcher Addison DeRoche — No. 5 recruit nationally and the highest-rated prospect in FSU softball program history.\n\nPlus 4-star catcher Layna Ayala. No. 13 class nationally.\n\nThe Noles are building. #FSUSoftball #Noles",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#FSUSoftball",
+            "#Noles"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "Florida State softball just shattered its own recruiting ceiling.\n\nPitcher Addison DeRoche — the No. 5 player nationally in the 2027 recruiting class — signed with the Seminoles on National Signing Day, becoming the highest-rated recruit in FSU softball program history. That's not a small thing. That's a program redefining what it's capable of attracting.\n\nSigning day also brought four-star catcher Layna Ayala to Tallahassee, giving the Noles a talent infusion at two key positions. With the class ranked No. 13 nationally, FSU is building toward something.\n\nDeRoche's addition addresses what has been an occasional vulnerability for the Seminoles: elite top-of-rotation pitching depth. Add in the transfer of Tennessee infielder Ella Dodge, and the 2027 Noles roster is starting to look like a team that can win a Super Regional.\n\nFlorida State hasn't won the Women's College World Series — but classes like this one are how programs get there.",
+        "image_caption": "Florida State signed the highest-rated recruit in program history: five-star pitcher Addison DeRoche (No. 5 nationally). Plus 4-star catcher Layna Ayala. No. 13 class in the country. The Noles are rising. #FSUSoftball",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-fsu-signs-addison-deroche-program-history.html",
+        "headline": "Florida State Softball Signs Highest-Rated Recruit in Program History — Five-Star Pitcher Addison DeRoche",
+        "word_count": 641
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080×1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200×630)",
+          "search_terms": [],
+          "text_overlay": [
+            "None"
+          ],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "FSU Softball Signs Addison DeRoche\n**Sources:**\n- https://sports.yahoo.com/articles/fsu-softball-signs-five-star-182242353.html\n- https://chopchat.com/fsu-softball-recruiting-finishes-two-key-pieces-and-no-13-class-nationally\n**Verified Facts:**\n- [HIGH] FSU signed pitcher Addison DeRoche on November 11, 2026 (National Signing Day)\n- [HIGH] DeRoche is rated No. 5 nationally in the 2027 class by recruiting services\n- [HIGH] DeRoche is the highest-rated recruit in FSU softball program history (per FSU Wire/JD McCarthy)\n- [HIGH] Also signed four-star catcher Layna Ayala on Signing Day\n- [HIGH] FSU's 2027 class ranked No. 13 nationally (per ChopChat)\n- [MEDIUM] Coach is Lonni Alameda (need to verify no coaching change)\n**Story angle:** FSU breaking their own program ceiling with DeRoche. Combined with Ella Dodge transfer from Tennessee, Noles have added significant talent.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/fsu-softball-signs-five-star-182242353.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "chopchat.com",
+          "url": "https://chopchat.com/fsu-softball-recruiting-finishes-two-key-pieces-and-no-13-class-nationally",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "LSU Signs Portal Twins Pickens + Winchell to Complete No. 1 Class",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "LSU didn't stop at the No. 1 signing class.\n\nBeth Torina added portal twins Mackenzie and Madison Pickens PLUS Notre Dame outfielder Michey Winchell to the 2027 roster.\n\nNo. 1 class. Targeted portal pieces. 2027 is loading. #LSUSoftball #GeauxTigers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LSUSoftball",
+            "#GeauxTigers"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "LSU's No. 1-ranked signing class is only part of the story.\n\nAfter announcing the top-rated 2027 recruiting class in program history on November 11, coach Beth Torina went back to work. She signed portal twins Mackenzie and Madison Pickens — a rare simultaneous acquisition of sibling pitchers — and Notre Dame outfielder Michey Winchell, who will be a senior for the Tigers in 2027.\n\nWinchell brings immediate starting experience from the ACC to a lineup that will need veteran leadership to surround its younger signees. The Pickens twins add pitching depth and rotation options.\n\nWhat's emerging at LSU is a blueprint: sign the top high school class, add targeted portal pieces, manage outgoing transfers selectively rather than chasing every available name. The result is a 2027 roster that balances elite youth with proven experience.\n\nThe Women's College World Series in June 2027 is still far away. But if the Tigers can stay healthy and gel during the spring, Beth Torina is building a genuine championship contender.",
+        "image_caption": "LSU added portal twins Mackenzie and Madison Pickens PLUS Notre Dame's Michey Winchell to their No. 1-ranked 2027 class. Beth Torina is building something special in Baton Rouge. #LSUSoftball #GeauxTigers",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-lsu-portal-twins-pickens-winchell.html",
+        "headline": "LSU Goes All-In: Signs Portal Twins Pickens and Outfielder Winchell to Complete No. 1 Class",
+        "word_count": 665
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080×1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LSU Portal Additions\n**Sources:**\n- https://www.tigerrag.com/lsu-softball-wins-recruiting-doubleheader-by-signing-portal-pair-of-twins-mackenzie-and-madison-pickens/\n- https://www.tigerrag.com/lsu-softball-continues-to-export-but-not-import-via-the-transfer-portal/\n- https://www.wbrz.com/videos/lsu-softball-looks-ahead-to-playing-better-in-2027/\n- https://lsusports.net/news/2026/11/11/softball-signs-top-ranked-2027-signing-class\n**Verified Facts:**\n- [HIGH] LSU signed portal twins Mackenzie and Madison Pickens for 2027 season (per Tiger Rag)\n- [HIGH] LSU signed Notre Dame outfielder Michey Winchell (will be a senior in 2027)\n- [HIGH] LSU's 2027 signing day class of six high school signees is ranked No. 1 nationally by Softball America/Rivals (program's first-ever No. 1 ranking)\n- [HIGH] LSU signed: Maci Bryant (pitcher), Jewel Cooper (catcher, 4-star), Lillie Gaudio (utility), Sydney Gonglick (pitcher), Bryli Seifert (infielder, 5-star), Jillian Wimmer (infielder) on Nov 11\n- [MEDIUM] LSU has been \"exporting\" transfers more than importing — the portal net is not fully known\n- [MEDIUM] Beth Torina described as building \"toward dynasty\" — framing by reporter, not Torina quote\n**Story angle:** LSU's calculated approach: sign the No. 1 class, add targeted portal pieces (twins + Winchell), manage outgoing transfers selectively.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "tigerrag.com",
+          "url": "https://www.tigerrag.com/lsu-softball-wins-recruiting-doubleheader-by-signing-portal-pair-of-twins-mackenzie-and-madison-pickens/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "tigerrag.com",
+          "url": "https://www.tigerrag.com/lsu-softball-continues-to-export-but-not-import-via-the-transfer-portal/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "wbrz.com",
+          "url": "https://www.wbrz.com/videos/lsu-softball-looks-ahead-to-playing-better-in-2027/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "lsusports.net",
+          "url": "https://lsusports.net/news/2026/11/11/softball-signs-top-ranked-2027-signing-class",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Tennessee Returns 9 Starters — Lady Vols Fall Ball Points to SEC Title Contention",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "In a portal era that empties rosters every spring, Tennessee is returning NINE starters for 2027.\n\nSage Mardjetko (16-3, 1.26 ERA). Sophia Knight (.394 avg). Nine starters.\n\nThe Lady Vols are ready. #LadyVols #TennesseeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LadyVols",
+            "#TennesseeSoftball"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "Here's something you don't see every year in modern college softball: a program returning nine starters.\n\nTennessee is doing exactly that for 2027. After going 49-12 in 2026 with one of the best pitching staffs in the SEC, the Lady Vols are bringing back the core of that roster. NFCA First Team All-American Sage Mardjetko (16-3, 1.26 ERA, 171 strikeouts) returns as one of the premier pitchers in the country. Sophia Knight, who hit .394 as the team's leading hitter, also returns.\n\nIn an era when transfer portals empty lineups across the country every spring, returning nine starters is extraordinary continuity. It means Tennessee doesn't have to rebuild chemistry — they just have to execute.\n\nThe Lady Vols are legitimate SEC title contenders alongside Alabama, LSU, and OU. Their challenge in 2027 will be doing what Tennessee-caliber talent demands: reaching Tallahassee and competing for a national title.\n\nSage Mardjetko. Sophia Knight. Nine starters. The Lady Vols are ready.",
+        "image_caption": "Tennessee is returning NINE starters for 2027, including NFCA All-American Sage Mardjetko (16-3, 1.26 ERA) and leading hitter Sophia Knight (.394 avg). In the portal era, that kind of continuity is rare. #LadyVols #TennesseeSoftball",
+        "posting_time": "5:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-tennessee-nine-starters-2027-preview.html",
+        "headline": "Tennessee Returns Nine Starters for 2027 — Lady Vols' Fall Ball Points to SEC Title Contention",
+        "word_count": 646
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080×1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tennessee Lady Vols Fall Ball / 2027 Preview\n**Sources:**\n- https://utsports.com/news/2026/9/23/softball-lady-vols-swing-into-fall-ball-action\n- https://utsports.com/news/2026/8/12/tennessee-softball-announces-2026-fall-ball-schedule\n- https://www.si.com/onsi/softball/college/tennessee-softball-sophomore-stuns-fans-with-rare-fall-ball-achievement\n**Verified Facts:**\n- [HIGH] Tennessee returns nine starters for 2027 season\n- [HIGH] Sage Mardjetko went 16-3 with 171 strikeouts and 1.26 ERA in 2026, earned NFCA First Team All-America\n- [HIGH] Sophia Knight led team with .394 batting average in 2026\n- [HIGH] Tennessee fall schedule included 8 games, 7 at home, 1 road at Middle Tennessee (Oct 18)\n- [HIGH] UT's 2026 record was approximately 49-12 (per NCAA rankings snapshot)\n- [MEDIUM] \"Rare fall ball achievement\" mentioned (freshman/sophomore stuns fans) — specific details not confirmed from sources\n- [MEDIUM] Nuwer (Erin) listed as returning pitcher alongside Mardjetko\n**Story angle:** Nine returning starters is extraordinary continuity in the portal era. Lady Vols are a preseason Top 10 lock.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "utsports.com",
+          "url": "https://utsports.com/news/2026/9/23/softball-lady-vols-swing-into-fall-ball-action",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "utsports.com",
+          "url": "https://utsports.com/news/2026/8/12/tennessee-softball-announces-2026-fall-ball-schedule",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "si.com",
+          "url": "https://www.si.com/onsi/softball/college/tennessee-softball-sophomore-stuns-fans-with-rare-fall-ball-achievement",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
