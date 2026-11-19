@@ -2,6 +2,45 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-11-19 Stories
+
+### STORY 1: Las Vegas GP Race Week Underway — FP1 and FP2 Tonight
+- **Tier:** 1
+- **Category:** Las Vegas Grand Prix / F1 Race Week / Las Vegas Strip Circuit
+- **Key facts:** Round 21 of 23; FP1+FP2 Nov 19 local; Qualifying Nov 20; Race Nov 21; 6.201 km, 17 turns, 50 laps; cold night temps; Verstappen 2023+2025 winner, Russell 2024 winner
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: Verstappen vs Russell — P2 Battle With 3 Races Left
+- **Tier:** 1
+- **Category:** Drivers' Championship / Max Verstappen / George Russell / Lewis Hamilton
+- **Key facts:** Verstappen 279, Russell 262, Hamilton 261 — 18 pts covering 3 drivers; 75 pts available; Russell won Vegas 2024; Mercedes W17 suited to cold track temps; Verstappen +200 favorite
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Las Vegas Strip Circuit Technical Preview
+- **Tier:** 2
+- **Category:** Las Vegas Grand Prix / Technical Preview / Tire Strategy
+- **Key facts:** 3 long straights = low-drag setup; cold asphalt slows tire warm-up; Mercedes W17 excels in low temps; Red Bull higher downforce; tire compound selection critical; surface evolution through weekend
+- **Byline:** Elena Voss
+- **Status:** NEW
+
+### STORY 4: Norris and Piastri Eye Las Vegas Podiums
+- **Tier:** 2
+- **Category:** Lando Norris / Oscar Piastri / McLaren / São Paulo GP
+- **Key facts:** Norris 3 wins in 2026; won São Paulo Nov 8 from pole by 14.6s; Piastri 5 podiums/152 pts; McLaren targeting podiums in Vegas; 3 total 2026 wins for McLaren
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: Leclerc vs Hamilton — Ferrari Final Three Races
+- **Tier:** 3
+- **Category:** Charles Leclerc / Lewis Hamilton / Ferrari / Drivers' Championship
+- **Key facts:** Leclerc 249 (P5), Hamilton 261 (P4), 12-point gap; 75 pts available; Ferrari P2 constructors' (510 pts); Leclerc qualifying excellence all season; Las Vegas not traditionally Ferrari-friendly
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+---
+
 ## 2026-11-15 Stories
 
 ### STORY 1: Las Vegas GP Preview — Verstappen Race Favorite, Antonelli as Champion

@@ -1,8 +1,29 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-11-18
+## Last Run: 2026-11-19
 
 **Status:** COMPLETE (with known proxy limitations)
+
+---
+
+### 2026-11-19 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, image manifest, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 23 claims, HIGH: 46; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 8 tweets, 5 FB posts, 5 articles; validation all clear
+- Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (28 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via git remote with PAT
+
+**Stories covered:**
+1. T1 NEW: Las Vegas GP Race Week — FP1+FP2 tonight; Round 21 of 23; championship context (Ryan Calloway)
+2. T1 NEW: Verstappen 279 vs Russell 262 vs Hamilton 261 — 17 pts, 75 available, P2 battle (Marcus Cole)
+3. T2 NEW: Las Vegas Strip Circuit technical preview — cold track, 3 straights, tire strategy (Elena Voss)
+4. T2 NEW: Norris 3 wins in 2026, Piastri 5 podiums — McLaren Vegas mission (Ryan Calloway)
+5. T3 NEW: Leclerc 249 vs Hamilton 261 — Ferrari 12-pt gap, final 3 races (Marcus Cole)
 
 ---
 

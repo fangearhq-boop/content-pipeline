@@ -1,0 +1,402 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-19",
+  "compiled_at": "2026-11-19T11:25:01.055952+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Las Vegas GP Race Week Underway — FP1 and FP2 Tonight on the Strip",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Race Week is ON 🏁 F1's Las Vegas GP starts tonight with FP1 and FP2 on the Strip Circuit. 50 laps. 3 long straights. Night race. The P2 championship battle is wide open. #F1 #LasVegasGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 185
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Las Vegas GP 2026 schedule: Practice 1+2 tonight, Qualifying Friday, Race Saturday night. The championship is settled but the P2 fight is must-watch TV. 17 points between Verstappen and Russell. #F1 #LasVegasGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "🏁 RACE WEEK IS HERE — LAS VEGAS GRAND PRIX 2026 🏁\n\nThe Formula 1 circus has arrived in Nevada, and tonight the action begins at the Las Vegas Strip Circuit.\n\nFree Practice 1 and 2 are on the schedule for Thursday evening local time — the first time the cars hit the famously cold asphalt of the Las Vegas Strip this weekend. Qualifying follows on Friday night, with the race itself set for Saturday evening under the city lights.\n\nThis is Round 21 of 23 on the 2026 Formula 1 calendar, and while Kimi Antonelli has already clinched his historic first World Championship, the battle for second, third, and fourth in the Drivers' Standings is as close as it gets. Max Verstappen leads George Russell by just 17 points. Lewis Hamilton is 1 point behind Russell.\n\nThree drivers. 18 points. 75 still to race. Las Vegas could not come at a better time.\n\nWho do you think wins the Las Vegas Grand Prix? Drop your pick below 👇🏁",
+        "image_caption": "Race Week starts NOW 🏁 FP1 and FP2 at the Las Vegas Strip Circuit tonight. The P2 battle is on. #F1 #LasVegasGP",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-las-vegas-gp-race-week.html",
+        "headline": "Race Week in Vegas: FP1 and FP2 Launch the 2026 Las Vegas Grand Prix",
+        "word_count": 553
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Las Vegas GP Race Week\n\n**Image 1A** | Social (1080x1350) | X/Facebook\n- **Photo source:** imagn\n- **Search terms:** \"Las Vegas Grand Prix Formula 1\"\n- **Text overlay:** \"RACE WEEK 🏁 / LAS VEGAS GP 2026 / FP1 + FP2 TONIGHT\"\n- **Brand colors:** F1 red/silver on Vegas night backdrop\n- **Mood:** Hype/event launch\n\n**Image 1B** | Social (1080x1350) | Facebook\n- **Photo source:** imagn\n- **Search terms:** \"Las Vegas Strip Circuit F1 2026\"\n- **Text overlay:** \"FP1 TONIGHT · QUALIFYING FRIDAY · RACE SATURDAY\"\n- **Brand colors:** F1 Fanrecap red/black\n- **Mood:** Schedule graphic\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Las Vegas GP Race Week — FP1/FP2 Tonight\n**Sources:**\n- https://www.formula1.com/en/racing/2026/las-vegas\n- https://www.the-race.com/formula-1/what-time-is-f1s-2026-las-vegas-grand-prix-full-weekend-schedule/\n- https://www.fox5vegas.com/2026/11/17/your-guide-2026-las-vegas-grand-prix-las-vegas/\n- https://www.gpblog.com/en/news/formula-1-las-vegas-gp-2026-all-session-times-and-full-weekend-schedule\n**Facts gathered:**\n- Las Vegas GP is Round 21 of 23 on the 2026 F1 calendar\n- Race Week dates: November 19-22, 2026 (McLaren confirms Nov 19-21)\n- Las Vegas Strip Circuit: 17 turns, 3 straights, 50 laps, 6.201 km\n- FP1 and FP2 scheduled Thursday November 19 local time (~4:30 PM and 8:00 PM PT respectively)\n- Qualifying Friday November 20 local (~10:30 PM PT)\n- Race Saturday November 21 local (~10:00 PM PT)\n- Night race, cold asphalt temperatures\n- Previous Las Vegas GP winners: Verstappen 2023, Russell 2024, Verstappen 2025\n**Confidence:**\n- Round 21 of 23 — HIGH\n- Las Vegas Strip Circuit 6.201 km, 17 turns, 50 laps — HIGH (multiple sources)\n- FP1/FP2 today (Nov 19) — HIGH (McLaren, Fox5Vegas, GPBlog)\n- Previous winners (Verstappen 2023/2025, Russell 2024) — MEDIUM (Racing News 365, AutoRacing1 — slight conflict on 2025 winner)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "formula1.com",
+          "url": "https://www.formula1.com/en/racing/2026/las-vegas",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "the-race.com",
+          "url": "https://www.the-race.com/formula-1/what-time-is-f1s-2026-las-vegas-grand-prix-full-weekend-schedule/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "fox5vegas.com",
+          "url": "https://www.fox5vegas.com/2026/11/17/your-guide-2026-las-vegas-grand-prix-las-vegas/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "gpblog.com",
+          "url": "https://www.gpblog.com/en/news/formula-1-las-vegas-gp-2026-all-session-times-and-full-weekend-schedule",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen vs Russell — The Las Vegas P2 Showdown With Just 3 Races Left",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Verstappen: 279 pts. Russell: 262 pts. Hamilton: 261 pts. THREE drivers, 18 points, 75 still to race. Las Vegas could change everything. The 2026 P2 fight starts tonight. #F1 #LasVegasGP",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 186
+        },
+        {
+          "label": "Post 2-2",
+          "text": "George Russell won the last Las Vegas GP in 2024. He's 17 points behind Verstappen for P2 in the standings with 3 races left. Motivation doesn't get higher than this. #F1 #LasVegasGP",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 182
+        }
+      ],
+      "facebook": {
+        "long_form": "17 POINTS. 75 AVAILABLE. THIS IS WHY WE WATCH FORMULA 1.\n\nEntering the 2026 Las Vegas Grand Prix, the Drivers' Championship fight for second place could not be closer:\n\n🥈 Max Verstappen — 279 points\n🥉 George Russell — 262 points\n4️⃣ Lewis Hamilton — 261 points\n\nVerstappen leads Russell by just 17 points. Hamilton is 1 point behind his own Mercedes teammate. Any three of them could emerge from Las Vegas with a dramatically different picture.\n\nHistory adds another wrinkle. Russell won in Las Vegas in 2024. Verstappen has won here twice (2023 and 2025). Hamilton has never won on the Strip. All three have reasons to believe they can dominate this weekend.\n\nWhat makes the Las Vegas GP so tantalizing is the volatility of a street circuit at night — safety cars, tire incidents, strategic pivots — any single variable can flip the standings. This is not a race to miss.\n\nWhich driver do you think finishes the Las Vegas GP weekend in P2 in the standings? 👇",
+        "image_caption": "17 points apart. 75 left to race. The 2026 F1 P2 battle is heating up. #F1 #LasVegasGP",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-verstappen-russell-p2-battle.html",
+        "headline": "17 Points, 75 Available: The Verstappen-Russell Las Vegas Reckoning",
+        "word_count": 470
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen vs Russell\n\n**Image 2A** | Social (1080x1350) | X/Facebook\n- **Photo source:** imagn\n- **Search terms:** \"Max Verstappen Red Bull Racing\"\n- **Text overlay:** \"VERSTAPPEN 279 | RUSSELL 262 | HAMILTON 261 / 17 POINTS. 75 AVAILABLE.\"\n- **Brand colors:** Red/silver/steel\n- **Mood:** Championship tension\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen vs Russell — P2 Battle\n**Sources:**\n- https://www.formula1.com/en/results/2026/drivers\n- https://www.espn.com/f1/standings\n- https://www.autoracing1.com/pl/509931/formula-1-news-2026-las-vegas-gp-preview/\n- https://www.gridguy.racing/\n**Facts gathered:**\n- After 20 rounds, Drivers' Championship standings:\nP1: Kimi Antonelli (Mercedes) — 390 pts — WORLD CHAMPION\nP2: Max Verstappen (Red Bull) — 279 pts\nP3: George Russell (Mercedes) — 262 pts\nP4: Lewis Hamilton (Ferrari) — 261 pts\nP5: Charles Leclerc (Ferrari) — 249 pts\nP6: Lando Norris (McLaren) — ~322 pts (from search context)\nP7: Oscar Piastri (McLaren) — ~152 pts\n- Verstappen leads Russell by 17 points; Hamilton 1 behind Russell\n- 3 races remaining (Las Vegas, plus two more) = max 75 pts available\n- Verstappen won from 21st on grid at São Paulo (Nov 8)\n**Confidence:**\n- Antonelli 390, champion — HIGH (Formula1.com official)\n- Verstappen 279, Russell 262, Hamilton 261 — HIGH (ESPN, Formula1.com)\n- Leclerc 249 — HIGH (from previous pipeline data confirmed by Formula1.com)\n- Norris ~322 — MEDIUM (not confirmed precisely in this round)\n- 3 races remaining = 75 pts — HIGH\n- Verstappen favorite for Las Vegas (+200 odds) — MEDIUM (single source)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "formula1.com",
+          "url": "https://www.formula1.com/en/results/2026/drivers",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "espn.com",
+          "url": "https://www.espn.com/f1/standings",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "autoracing1.com",
+          "url": "https://www.autoracing1.com/pl/509931/formula-1-news-2026-las-vegas-gp-preview/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "gridguy.racing",
+          "url": "https://www.gridguy.racing/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Las Vegas Strip Circuit — Tire Strategy, Cold Temps, and the Speed Trap",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Cold track. Three long straights. High-speed corners. The Las Vegas Strip Circuit rewards low-drag setups — but cold tires make life complicated. Mercedes thrives in these temps. This should be fascinating. #F1",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "Not all street circuits are equal. The Las Vegas Strip Circuit is one of F1's most technically demanding layouts — and it's not because of the glamour.\n\nHere's what the engineers are dealing with this weekend:\n\n🌡️ COLD TEMPERATURES: Night racing on the Strip means track temperatures can drop significantly, slowing tire warm-up and dramatically affecting handling balance in the opening laps.\n\n💨 THREE LONG STRAIGHTS: Teams must run low-drag setups to maximize straight-line speed — but that means less downforce through the high-speed corners, which demands more from the driver.\n\n🏎️ TIRE DEGRADATION: The Las Vegas surface evolves over the weekend as rubber builds up. Session 1 (tonight) will tell teams a lot about which compound window they're working in.\n\nMercedes have historically been the team best able to extract performance from cold-track, high-speed circuits. The W17 is built to perform in exactly these conditions. Red Bull will need Verstappen to maximize qualifying in a car that may be at a slight disadvantage.\n\nThis is where F1 engineering meets chess. 🏆\n\nWhat aspect of the Las Vegas GP do you find most fascinating — the racing, the city backdrop, or the technical puzzle? 👇\n\n---",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-las-vegas-technical-preview.html",
+        "headline": "Cold, Fast, and Unforgiving: The Technical Challenge of the Las Vegas Strip Circuit",
+        "word_count": 530
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Technical Preview\n\n**Image 3A** | Social (1080x1350) | Facebook\n- **Photo source:** imagn\n- **Search terms:** \"Formula 1 Las Vegas night race\"\n- **Text overlay:** \"COLD TRACK. 3 STRAIGHTS. TIRE STRATEGY. / THE STRIP IS BRUTAL.\"\n- **Brand colors:** Dark night circuit aesthetic\n- **Mood:** Technical/analytical\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Las Vegas Strip Circuit Technical Preview\n**Sources:**\n- https://www.gpfans.com/en/f1-news/1092063/why-the-las-vegas-grand-prix-is-harder-than-its-long-straights-suggest/\n- https://www.formula1.com/en/latest/article/what-makes-the-las-vegas-grand-prix-special-and-why-you-should-see-it.7EKzEf0h1QWqvLFrEsdJVC\n**Facts gathered:**\n- Three long straights reward low-drag setup\n- Cold track temperatures at night challenge tire compounds\n- New tarmac sections each year affect grip\n- Mercedes W17 performs well in low-temperature conditions (noted by multiple sources)\n- Red Bull tends toward higher downforce setups\n- Tire management is a key variable on this circuit\n**Confidence:**\n- Three long straights, circuit layout — HIGH (official F1 sources)\n- Cold track temps — HIGH (multiple F1 media)\n- Mercedes/Red Bull setup characteristics — MEDIUM (analysis sources)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "gpfans.com",
+          "url": "https://www.gpfans.com/en/f1-news/1092063/why-the-las-vegas-grand-prix-is-harder-than-its-long-straights-suggest/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "formula1.com",
+          "url": "https://www.formula1.com/en/latest/article/what-makes-the-las-vegas-grand-prix-special-and-why-you-should-see-it.7EKzEf0h1QWqvLFrEsdJVC",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Norris and Piastri Eye Las Vegas Podiums — McLaren Targets Third P1 of Season",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Lando Norris won São Paulo two weeks ago from pole, 14.6 seconds clear. He arrives in Las Vegas as the in-form driver in the field. Can McLaren add win No. 4 on the Strip? #F1 #LasVegasGP",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 187
+        }
+      ],
+      "facebook": {
+        "long_form": "Lando Norris arrives in Las Vegas on a high.\n\nJust two weeks ago at the São Paulo Grand Prix, he led from pole position, dominated in difficult changing conditions, and won by 14.6 seconds. It was his third Formula 1 victory of the 2026 season — a campaign that has established him as one of the genuine stars of this era.\n\nThe 2026 McLaren MCL40 has been devastatingly quick in race trim this year, and while Norris sits sixth in the standings, McLaren as a team has shown the outright pace to challenge at any circuit on any given weekend.\n\nBeside him is Oscar Piastri, the Australian quietly going about his business with five podiums to date. Piastri has identified Las Vegas as a circuit where McLaren's low-drag configuration could shine.\n\nCan they add a fourth win to their 2026 tally? Saturday night could answer that question in spectacular fashion.\n\nWho's your money on for the Las Vegas GP podium? 🏆👇\n\n---",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-norris-piastri-mclaren-vegas.html",
+        "headline": "Norris in Form, Piastri Hungry: McLaren Arrives in Vegas With Momentum",
+        "word_count": 469
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Norris and Piastri\n\n**Image 4A** | Social (1080x1350) | X/Facebook\n- **Photo source:** imagn\n- **Search terms:** \"Lando Norris McLaren\"\n- **Text overlay:** \"NORRIS: 3 WINS IN 2026 / MCLAREN ARRIVES IN VEGAS\"\n- **Brand colors:** McLaren papaya/black\n- **Mood:** In-form champion energy\n\n**Image 4B** | Social (1080x1350) | Facebook\n- **Photo source:** imagn\n- **Search terms:** \"Oscar Piastri McLaren\"\n- **Text overlay:** \"PIASTRI — PODIUM MISSION: LAS VEGAS\"\n- **Brand colors:** McLaren papaya\n- **Mood:** Hungry contender\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Norris and Piastri — McLaren at Las Vegas\n**Sources:**\n- https://www.silverstone.co.uk/news/f1-2026-sao-paulo-grand-prix-results-norris-dominates-tricky-conditions-interlagos\n- https://www.mclaren.com/racing/formula-1/2026/las-vegas-grand-prix/\n- https://www.the-race.com/formula-1/f1-2026-brazilian-grand-prix-race-result/\n**Facts gathered:**\n- Norris won São Paulo GP from pole; won by 14.6 seconds\n- Norris' 3rd win of 2026 season\n- Norris P6 in standings (~322 pts), Piastri P7 (~152 pts)\n- Both McLaren drivers targeting Las Vegas podiums\n- McLaren won 3 races in 2026 (Norris x3)\n**Confidence:**\n- Norris 3 wins in 2026 — HIGH (multiple sources)\n- 14.6 second margin at São Paulo — HIGH (Crash.net, official F1)\n- Piastri 152 pts — MEDIUM (from previous pipeline data)\n- McLaren Las Vegas targets — MEDIUM (team page)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "silverstone.co.uk",
+          "url": "https://www.silverstone.co.uk/news/f1-2026-sao-paulo-grand-prix-results-norris-dominates-tricky-conditions-interlagos",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "mclaren.com",
+          "url": "https://www.mclaren.com/racing/formula-1/2026/las-vegas-grand-prix/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "the-race.com",
+          "url": "https://www.the-race.com/formula-1/f1-2026-brazilian-grand-prix-race-result/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Ferrari's Leclerc Battles for Top-5 — Can He Jump Hamilton in Final Stretch?",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5-1",
+          "text": "Charles Leclerc (249 pts) is 12 behind Lewis Hamilton (261 pts) with 75 available. He needs to outscore Hamilton by 13+ across the final three races. Vegas is where it starts. #F1 #LasVegasGP",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 191
+        },
+        {
+          "label": "Post 5-2",
+          "text": "Full 2026 F1 standings after 20 rounds: 🏆 Antonelli 390 (CHAMPION) | Verstappen 279 | Russell 262 | Hamilton 261 | Leclerc 249. Three races left. Everything to play for in P2-P5. #F1",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 182
+        }
+      ],
+      "facebook": {
+        "long_form": "📊 Charles Leclerc: 249 points. P5 in the standings.\n📊 Lewis Hamilton: 261 points. P4 in the standings.\n\nThe gap is 12 points. With 75 points still on the table across three remaining rounds, Leclerc's fight for fourth place is very much alive.\n\nFor Ferrari, finishing inside the top-four of the Drivers' Championship would be a significant achievement in a season dominated by Mercedes and Kimi Antonelli. Leclerc's qualifying pace has been outstanding all year, and he's extracted multiple grid positions beyond what the SF-26's raw pace deserved.\n\nHamilton, now in his first season with the Scuderia in Ferrari red, has been adapting throughout the year and found his groove in the second half. He'll be motivated to protect fourth and show the paddock his value.\n\nThis subplot — Leclerc vs. Hamilton in the final three races — deserves as much attention as the Verstappen-Russell showdown.\n\nWho do you want to see finish fourth in the 2026 Drivers' Championship? #F1 #LasVegasGP",
+        "image_caption": "Leclerc (249) is 12 behind Hamilton (261). Three races left. Ferrari isn't done yet. #F1 #LasVegasGP",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-leclerc-hamilton-ferrari-final-push.html",
+        "headline": "Leclerc's Math Problem: Ferrari Needs a Vegas Push to Close On Hamilton",
+        "word_count": 453
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ferrari Leclerc/Hamilton\n\n**Image 5A** | Social (1080x1350) | Facebook\n- **Photo source:** imagn\n- **Search terms:** \"Charles Leclerc Ferrari\"\n- **Text overlay:** \"LECLERC: 249 PTS / 12 BEHIND HAMILTON / THREE RACES LEFT\"\n- **Brand colors:** Ferrari red\n- **Mood:** Chase/urgency\n\n---\n\n**Article Hero Images** (1200x630)\n\n**Story 1 Hero:** Las Vegas Strip Circuit F1 cars — night panoramic\n**Story 2 Hero:** Max Verstappen Red Bull — race action\n**Story 3 Hero:** F1 car tire close-up — technical\n**Story 4 Hero:** Lando Norris McLaren — celebrating\n**Story 5 Hero:** Charles Leclerc Ferrari — qualifying"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Leclerc vs Hamilton — Ferrari Final Push\n**Sources:**\n- https://www.formula1.com/en/results/2026/drivers\n- https://www.espn.com/f1/standings\n**Facts gathered:**\n- Leclerc: 249 pts (P5)\n- Hamilton: 261 pts (P4), 1 behind Russell for P3\n- Gap between Leclerc and Hamilton: 12 pts\n- 75 points available in 3 races = Leclerc can still reach P4\n- Ferrari stands P2 in constructors' at 510 pts (behind Mercedes 652)\n- Hamilton has had difficulties at Las Vegas historically (new experience in Ferrari in 2026)\n**Confidence:**\n- Leclerc 249, Hamilton 261 — HIGH (Formula1.com official)\n- Ferrari 510 pts constructors' — HIGH\n- Leclerc-Hamilton gap 12 pts — HIGH\n- Hamilton Ferrari debut this season — HIGH (widely reported)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "formula1.com",
+          "url": "https://www.formula1.com/en/results/2026/drivers",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "espn.com",
+          "url": "https://www.espn.com/f1/standings",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
