@@ -1,0 +1,453 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-19",
+  "compiled_at": "2026-11-19T12:34:56.664465+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CPSC Recalls — HABA Rainbow Rattle and TooyBing Stacking Toys",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "RECALL ALERT: HABA Rainbow Rattle recalled — elastic cord knot can untie, releasing small parts. Choking hazard. ~2,000 units sold at Target, Amazon, Nordstrom Dec 2025–Jul 2026 (~$13). Full refund available. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 268
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Also recalled: TooyBing Wooden Bead Stacking Toys (~21,758 units, Amazon). Wooden beads violate the small parts ban — choking hazard for under-3s. Free replacement available. Check cpsc.gov/Recalls. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "Two toy recalls worth checking before you finalize any holiday wish lists this year.\n\nThe first is the HABA Rainbow Rattle Grasping and Teething Toy (recall #26-719). The knot on the elastic cord can come untied, releasing small parts that pose a choking and ingestion hazard. This affects about 2,000 units sold between December 2025 and July 2026 at Target, Amazon, Nordstrom, and specialty toy stores — typically for about $13. The remedy is a full refund. No injuries have been reported, but if you have one, stop use and contact HABA USA at 800-468-6873 to claim the refund.\n\nThe second is the TooyBing Wooden Bead Stacking Toy (model TB-MZWJ). These wooden beads violate the federal small parts ban, making them a choking hazard for children under 3. About 21,758 units were sold on Amazon between July 2023 and December 2025 for about $10. The remedy is a free replacement — stop use, destroy the toy, and email a photo to TooyBing to get the compliant version.\n\nThese are both August 2026 recalls, which means some families may have them on shelves without knowing. The holiday season is a good time to check: visit cpsc.gov/Recalls and search the product name. If you're shopping for a family with young children, it's also a quick way to vet a gift idea.\n\nWhat's your process for checking toy recalls? Do you check before buying, or when you hear something specific?",
+        "image_caption": "",
+        "posting_time": "8:00 AM MT"
+      },
+      "article": {
+        "filename": "article-01-cpsc-recalls-haba-rainbow-rattle-tooybing-stacking-toys.html",
+        "headline": "Two Toy Recalls Parents Should Check Before Holiday Shopping: HABA Rattle and TooyBing Beads",
+        "word_count": 538
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CPSC Recalls — HABA Rainbow Rattle and TooyBing Stacking Toys\n\n**Image 1A (Social — 1200x675)**\n- **Prompt:** A flat-lay overhead shot of two recalled children's toys on a soft white surface: a colorful wooden bead stacking toy with scattered round wooden beads and a pastel baby rattle toy with elastic cord. Clean, well-lit studio lighting with soft shadows. Warm neutral background with clean space in the bottom third for text overlay. No text, no watermarks. Calm, cautionary visual mood. Muted pastel color palette — soft yellow, light blue, warm cream. Modern flat-lay art style.\n- **Usage:** X post 1A, Facebook Image Caption post\n\n**Image 1B (Article Hero — 1200x630)**\n- **Prompt:** A close-up top-down view of small wooden toy beads scattered on a soft gray surface next to a pastel baby rattle toy, emphasizing the small size of the beads against a neutral background. Studio lighting, clean composition. No text, no watermarks, no overlays. Bottom third clean for text. Muted warm tones — cream, light gray, soft peach. Documentary minimalist style.\n- **Usage:** article-01 hero image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "HABA USA Recalls Rainbow Rattle Grasping and Teething Toys Due to Risk of Serious Injury or Death from Choking and Ingestion Hazards",
+          "url": "https://www.cpsc.gov/Recalls/2026/HABA-USA-Recalls-Rainbow-Rattle-Grasping-and-Teething-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-and-Ingestion-Hazards",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "articles/article-01-cpsc-recalls-haba-rainbow-rattle-tooybing-stacking-toys.html"
+          ],
+          "publisher": "CPSC"
+        },
+        {
+          "name": "TooyBing Wooden Bead Stacking Toys Recalled Due to Risk of Serious Injury or Death from Choking — Violate Small Parts Ban",
+          "url": "https://www.cpsc.gov/Recalls/2026/TooyBing-Wooden-Bead-Stacking-Toys-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violate-Small-Parts-Ban",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "articles/article-01-cpsc-recalls-haba-rainbow-rattle-tooybing-stacking-toys.html"
+          ],
+          "publisher": "CPSC"
+        },
+        {
+          "name": "U.S. Consumer Product Safety Commission",
+          "url": "https://www.cpsc.gov/Recalls",
+          "official": true,
+          "found_in": [
+            "articles/article-01-cpsc-recalls-haba-rainbow-rattle-tooybing-stacking-toys.html"
+          ]
+        },
+        {
+          "name": "recall alert subscription",
+          "url": "https://www.cpsc.gov/Recalls/Subscription",
+          "official": true,
+          "found_in": [
+            "articles/article-01-cpsc-recalls-haba-rainbow-rattle-tooybing-stacking-toys.html"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "AAP 2026 — Mental and Emotional Health Belongs in Every Pediatric Visit",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "New AAP framework (May 2026): mental and emotional health should be part of every pediatric visit — not just when there's a concern. Anticipatory guidance, screening, brief check-ins starting at the first appointment. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "There's a meaningful shift in what the American Academy of Pediatrics is now asking pediatricians to do at well-child visits — and it matters for how you approach your kids' checkups.\n\nIn May 2026, the AAP published a framework in Pediatrics called \"Framework for Approaching Healthy Mental and Emotional Development in Pediatrics.\" The core change: mental, emotional, and relational health shouldn't come up only when there's a known concern — it should be woven into every visit, from infancy forward. The approach includes anticipatory guidance, surveillance, screening, and brief interventions, delivered in ways that account for trauma and equity.\n\nThis builds on the AAP's 2025 screening guidelines, which already called for anxiety screening annually from ages 8–18, depression and suicide risk screening starting at 12, and substance use assessments annually after 11. The 2026 framework extends the idea: check-ins on how kids are doing emotionally should be a routine part of the conversation, not a special flag.\n\nWhat does this mean practically? At your next well-child visit, you can ask your pediatrician how they're incorporating social-emotional check-ins — and expect them to have a framework for it. You can also visit healthychildren.org for guidance on what to look for at each developmental stage.\n\nWhat would you most want your pediatrician to ask about when it comes to your kids' mental health?",
+        "image_caption": "",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-02-aap-framework-mental-emotional-health-every-visit.html",
+        "headline": "AAP 2026: Mental and Emotional Health Belongs in Every Pediatric Visit",
+        "word_count": 620
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AAP 2026 — Mental and Emotional Health Belongs in Every Pediatric Visit\n\n**Image 2A (Social — 1200x675)**\n- **Prompt:** A pediatrician's examination room seen from a warm, welcoming angle: a child sitting on a paper-covered exam table, a friendly doctor in a white coat seated nearby at eye level in conversation. Soft natural lighting from a window, plants visible, warm teal and cream color palette. The scene feels calm and open — a check-in, not an emergency. No faces in close-up. No text, no watermarks. Clean space in the bottom third for text overlay. Warm editorial illustration style.\n- **Usage:** X post 2A, Facebook Image Caption post\n\n**Image 2B (Article Hero — 1200x630)**\n- **Prompt:** A pediatrician's office waiting room: a parent and child seated together reading, warm teal accent walls, natural wood furniture, soft diffused lighting. Calm, welcoming, healthcare-positive atmosphere. No faces in close-up. Muted teal and warm white color palette. No text, no watermarks. Bottom third clean. Modern editorial documentary style.\n- **Usage:** article-02 hero image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "American Academy of Pediatrics Offers Framework on Integrating Mental, Emotional and Relational Health into Every Visit",
+          "url": "https://www.aap.org/en/news-room/news-releases/aap/2026/american-academy-of-pediatrics-offers-framework-on-integrating-mental-emotional-and-relational-health-into-every-visit/",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "articles/article-02-aap-framework-mental-emotional-health-every-visit.html"
+          ],
+          "publisher": "AAP News Release"
+        },
+        {
+          "name": "American Academy of Pediatrics Offers Guidance on Screening Children for Mental Health, Emotional, and Behavioral Problems",
+          "url": "https://www.aap.org/en/news-room/news-releases/aap/2025/american-academy-of-pediatrics-offers-guidance-on-screening-children-for-mental-emotional-behavioral-health-disorders/",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "AAP News Release (2025 screening report background)"
+        },
+        {
+          "name": "Integrating Mental, Emotional and Relational Health into Every Well-Child Visit",
+          "url": "https://www.healthychildren.org/English/news/Pages/integrating-mental-emotional-and-relational-health-into-every-well-child-visit-new-AAP-report.aspx",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "articles/article-02-aap-framework-mental-emotional-health-every-visit.html"
+          ],
+          "publisher": "HealthyChildren.org"
+        },
+        {
+          "name": "American Academy of Pediatrics (HealthyChildren.org)",
+          "url": "https://www.healthychildren.org",
+          "official": true,
+          "found_in": [
+            "articles/article-02-aap-framework-mental-emotional-health-every-visit.html"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Things to Do with Kids in Colorado Springs This Weekend (November 20–22)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "This weekend in COS 🎄 Broadmoor Holiday Kickoff (Sun, free), Vintage Market Days all 3 days at Norris Penrose, Trans-Siberian Orchestra Sun night, White Christmas at Colorado College. Full weekend guide for families. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 276
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Trans-Siberian Orchestra is in Colorado Springs THIS Sunday — Broadmoor World Arena, 2:30 PM and 7:30 PM. Tickets from ~$79. 30th anniversary tour. Worth it for kids 6+. 🎸🎄 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "The holiday season is about to announce itself in a big way this weekend. Here's what's happening in COS for families with kids.\n\n**Broadmoor Holiday Kickoff — Sunday, Nov. 22, 4 PM (free)**\nThe Broadmoor kicks off its holiday season Sunday afternoon at 1 Lake Ave. The public portions are free, all ages welcome. If you've never done the Broadmoor holiday lighting with kids, it's a genuinely magical Colorado Springs experience — and it doesn't cost anything to show up for the outdoor portions.\n\n**Vintage Market Days: \"Rocking Around the Christmas Tree\" — Fri–Sun, Nov. 20–22**\nNorris Penrose Event Center (1045 Lower Gold Camp Rd.). The holiday-themed market runs all three days. Pricing is roughly $17 on Friday and $12 Saturday–Sunday based on prior years — check vintagemarketdays.com to confirm. Stroller-friendly, all ages.\n\n**Trans-Siberian Orchestra — Sunday, Nov. 22, 2:30 PM and 7:30 PM**\nBroadmoor World Arena, 3185 Venetucci Blvd. The 30th anniversary tour of \"The Ghosts of Christmas Eve.\" Tickets start around $79 on AXS. Best for kids 6 and up who can handle a big rock-orchestra production, but the light show gets younger kids too.\n\n**Irving Berlin's White Christmas — Opens Nov. 19, runs through Dec. 27**\nColorado College Fine Arts Center (JiGaSa Theatre). Ticketed — check fac.coloradocollege.edu for pricing. Ages 7+. This is the kind of production COS does well, and it runs for over a month so you're not stuck getting in this weekend, but this is the opening weekend if you want to be early.\n\n**Skate in the Park — Ongoing through Jan. 2027**\nAcacia Park, $15/person including skate rental. Kids 4 and under are free with a paying adult. It's open daily.\n\nFor the full list of family events happening this weekend, check the <a href=\"https://springsdaily.com/events/this-weekend-with-kids\">full list of things to do with kids in Colorado Springs this weekend</a>, plus <a href=\"https://springsdaily.com/events/free-this-weekend\">free things to do this weekend</a> and <a href=\"https://springsdaily.com/events/this-weekend\">everything happening this weekend</a> on Springs Daily.\n\nWhich of these are you planning to do with your family?",
+        "image_caption": "",
+        "posting_time": "12:00 PM MT"
+      },
+      "article": {
+        "filename": "article-03-things-to-do-kids-colorado-springs-weekend-november-20-22.html",
+        "headline": "Things to Do with Kids in Colorado Springs This Weekend (November 20–22)",
+        "word_count": 739
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Things to Do with Kids in Colorado Springs This Weekend (November 20–22)\n\n**Image 3A (Social — 1200x675)**\n- **Prompt:** A family silhouette (two adults, two children) standing in front of a large decorated holiday Christmas tree at dusk, with warm golden holiday lights glowing. Colorado mountain backdrop visible in the distance. The scene feels festive and intimate — a holiday kickoff moment. Warm amber and deep teal night-sky tones. No text, no watermarks. Clean space in the bottom third for text. Cinematic holiday editorial style.\n- **Usage:** X post 3A, Facebook Image Caption post\n\n**Image 3B (Article Hero — 1200x630)**\n- **Prompt:** An outdoor holiday market scene at dusk with string lights overhead, craft vendor booths with holiday decorations, families browsing with strollers. Warm golden-hour light filtering through the market. Colorado mountains faintly visible in the background. No text, no watermarks. Warm amber, cream, and deep blue color palette. Bottom third clean for text overlay. Editorial lifestyle photography style.\n- **Usage:** article-03 hero image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "Irving Berlin's White Christmas",
+          "url": "https://fac.coloradocollege.edu/theatre-events/irving-berlins-white-christmas/",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "articles/article-03-things-to-do-kids-colorado-springs-weekend-november-20-22.html"
+          ],
+          "publisher": "Colorado College Fine Arts Center"
+        },
+        {
+          "name": "The Ghosts of Christmas Eve",
+          "url": "https://www.broadmoorworldarena.com/events/detail/tso26",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Broadmoor World Arena / AXS: TSO"
+        },
+        {
+          "name": "Vintage Market Days Colorado Springs",
+          "url": "https://vintagemarketdays.com/market/colorado-springs",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md",
+            "articles/article-03-things-to-do-kids-colorado-springs-weekend-november-20-22.html"
+          ]
+        },
+        {
+          "name": "Gazette holiday events roundup (broader COS context)",
+          "url": "https://gazette.com/2026/11/10/colorado-springs-and-beyond-holiday-events/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "broadmoorworldarena.com",
+          "url": "https://www.broadmoorworldarena.com",
+          "official": false,
+          "found_in": [
+            "articles/article-03-things-to-do-kids-colorado-springs-weekend-november-20-22.html"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "D49 Purple Star Schools — All 7 Falcon Zone Schools Recognized",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Every one of D49's 7 Falcon Zone schools now holds Colorado's Purple Star designation — recognizing strong support for military-connected families. D49 Board passed the resolution unanimously in December 2025. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "If your family is military-connected and you're in the D49 zone, this is worth knowing.\n\nAll seven schools in District 49's Falcon Zone now hold Colorado's Purple Star designation. That means every school in that cluster has met the state criteria for supporting military-connected students: a designated staff contact for military families, programs to help kids adjust when they transition in or out, and training for staff. The designation is valid for three years.\n\nThe recognition came through Colorado's April 7, 2026 ceremony — the state's second annual round under HB24-1076, the law that created the Purple Star program in 2024. D49's Board of Education had unanimously passed a Purple Star resolution back in December 2025, setting the groundwork for this sweep. This year 22 additional schools across Colorado were recognized in the ceremony; multiple D49 Falcon Zone campuses were among them.\n\nFor COS, this matters. We're a military city — Fort Carson, Peterson Space Force Base, Schriever SFB, and NORAD all draw families who may PCS multiple times through their kids' school years. Having a school with a designated point of contact and transition support isn't a small thing if you've ever moved midyear with a kid who didn't know anyone.\n\nYou can check which other COS schools hold the Purple Star at ed.cde.state.co.us/cdeawards/purplestarschools.\n\nDoes your school hold the Purple Star designation? Have you ever used military family resources through your kids' school?",
+        "image_caption": "",
+        "posting_time": "3:00 PM MT"
+      },
+      "article": {
+        "filename": "article-04-d49-purple-star-schools-falcon-zone-military-families.html",
+        "headline": "All 7 D49 Falcon Zone Schools Now Hold Colorado Purple Star Designation for Military Families",
+        "word_count": 615
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D49 Purple Star Schools — All 7 Falcon Zone Schools Recognized\n\n**Image 4A (Social — 1200x675)**\n- **Prompt:** A school building exterior with a large purple five-pointed star symbol displayed prominently on the brick wall or flag pole, set against a bright Colorado blue sky. Clean, proud, institutional. A few pine trees visible. American flag and Colorado state flag also visible. No students or faces. No text, no watermarks. Clean space in the bottom third. Blue, white, and purple color palette. Clean architectural photography style.\n- **Usage:** X post 4A, Facebook Image Caption post\n\n**Image 4B (Article Hero — 1200x630)**\n- **Prompt:** A close-up of a purple five-pointed star plaque or banner mounted on a school building exterior, with a blurred school courtyard and Colorado sky in the background. The star is the focal point — prominent, clear, symbolic. No text on the star or plaque in the image. No text, no watermarks. Purple, cream, and sky blue color palette. Bottom third clean for overlay. Documentary editorial style.\n- **Usage:** article-04 hero image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "Colorado Department of Education Purple Star Schools list",
+          "url": "https://ed.cde.state.co.us/cdeawards/purplestarschools",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "articles/article-04-d49-purple-star-schools-falcon-zone-military-families.html"
+          ]
+        },
+        {
+          "name": "All seven district 49 Falcon Zone schools earn Colorado Purple Star designation for military support",
+          "url": "https://www.koaa.com/news/local-news/all-seven-district-49-falcon-zone-schools-earn-colorado-purple-star-designation-for-military-support",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md",
+            "articles/article-04-d49-purple-star-schools-falcon-zone-military-families.html"
+          ],
+          "publisher": "KOAA 5"
+        },
+        {
+          "name": "21 southern Colorado schools receive Purple Star designation for supporting military-connected students",
+          "url": "https://krdo.com/news/2026/04/08/21-southern-colorado-schools-receive-purple-star-designation-for-supporting-military-connected-students/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "KRDO"
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "COS Holiday Season Preview — Flying W, Royal Gorge Santa Express, Festival of Lights",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "COS holiday season starts Dec 3. Flying W Cowboy Christmas (~$65 adult / $30 child). Royal Gorge Santa Express (~$104 child, Cañon City). Festival of Lights Parade Dec 5 — free. Book Flying W + Santa Express now. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": {
+        "long_form": "The COS holiday season officially starts kicking off in two weeks. Here are three events worth getting on the calendar now — two of them sell out.\n\n**Flying W Ranch Cowboy Christmas Jubilee — Dec. 3–23**\n3330 Chuckwagon Road. Multiple dinner show seatings each evening: 3:00, 6:00, 6:30, and 7:00 PM. The Flying W Wranglers do their thing — classic western cowboy show with Christmas music, and dinner is included (smoked Angus steak). Pricing is roughly $65 for adults 13+ and $30 for kids 4–12; check flyingw.com/christmas/ for exact 2026 prices. This is a COS tradition. If you've got family visiting over the holidays who hasn't seen it, this is the booking to make.\n\n**Royal Gorge Route Railroad Santa Express — Select December dates**\nDeparting from Cañon City (about 45 minutes from COS). Tickets are approximately $114 adult and $104 per child (ages 1–12). This one sells out early; don't wait until December to look. Book at royalgorgeroute.com/santa-express. Note: this is the Royal Gorge Railroad in Cañon City — not a Pikes Peak train.\n\n**Festival of Lights Parade — Saturday, Dec. 5, 5:50 PM**\nTejon Street, downtown Colorado Springs. The 42nd annual parade is free for all ages. Also that day: the Pioneers Museum Family Fun Day runs 10 AM–2 PM on the same block. The parade is an easy one to build an afternoon around.\n\nWhich of these is your family doing this holiday season?",
+        "image_caption": "",
+        "posting_time": "5:00 PM MT"
+      },
+      "article": {
+        "filename": "article-05-cos-holiday-season-preview-flying-w-santa-express-festival-lights.html",
+        "headline": "COS Holiday Season Preview: Flying W Dinner Show, Royal Gorge Santa Express, Festival of Lights",
+        "word_count": 697
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COS Holiday Season Preview — Flying W, Royal Gorge Santa Express, Festival of Lights\n\n**Image 5A (Social — 1200x675)**\n- **Prompt:** A holiday dinner scene at a rustic western-style venue: a family seated at a long wooden table with Christmas decorations — pine boughs, candles, red and green accents — smoked meat dinner plates visible. Warm amber candlelight and string lights overhead. Colorado mountain landscape painting visible on the wall behind. Cozy, festive, authentic western holiday atmosphere. No faces in close-up. No text, no watermarks. Clean bottom third. Warm amber and pine green color palette. Editorial lifestyle photography.\n- **Usage:** X post 5A, Facebook Image Caption post\n\n**Image 5B (Article Hero — 1200x630)**\n- **Prompt:** A nighttime holiday parade street scene: crowds lining a downtown street with colorful lights, holiday floats with twinkling lights moving through the frame. Children visible in the foreground from behind, looking up at the parade. City lights and storefronts glowing warm in the background. No text, no watermarks. Bottom third clean for text. Deep blue night sky, warm amber and red holiday lights. Cinematic editorial style.\n- **Usage:** article-05 hero image"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "Cowboy Christmas Jubilee",
+          "url": "https://flyingw.com/christmas/",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "articles/article-05-cos-holiday-season-preview-flying-w-santa-express-festival-lights.html"
+          ],
+          "publisher": "Flying W Ranch"
+        },
+        {
+          "name": "Santa Express",
+          "url": "https://royalgorgeroute.com/santa-express",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "articles/article-05-cos-holiday-season-preview-flying-w-santa-express-festival-lights.html"
+          ],
+          "publisher": "Royal Gorge Route Railroad"
+        },
+        {
+          "name": "42nd Annual COS Festival of Lights",
+          "url": "https://www.coloradospringsfestivaloflights.com/",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "articles/article-05-cos-holiday-season-preview-flying-w-santa-express-festival-lights.html"
+          ],
+          "publisher": "Festival of Lights"
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -1,5 +1,35 @@
 # COS Parenting — Pipeline Status
 
+## Current Run: 2026-11-19
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | HABA Rainbow Rattle recall #26-719 Aug 27 2026 (HIGH from cpsc.gov, ~2,000 units, choking hazard, full refund); TooyBing Wooden Bead Stacking Toy model TB-MZWJ recall Aug 13 2026 (HIGH from cpsc.gov, ~21,758 units, small parts ban violation, free replacement). AAP May 2026 Pediatrics framework — mental/emotional/relational health at every pediatric visit (HIGH from aap.org). Weekend picks: Broadmoor Holiday Kickoff (free, Sun Nov 22); Vintage Market Days Norris Penrose ($17/$12 Fri/Sat–Sun); Trans-Siberian Orchestra World Arena (from ~$79, Sun Nov 22); White Christmas Colorado College (ticketed Nov 19–Dec 27); Skate in the Park Acacia Park ($15 incl. rental). D49 All 7 Falcon Zone Purple Star schools — April 7 2026 ceremony under HB24-1076 (HIGH from KOAA news/CDE). Flying W Ranch Cowboy Christmas Jubilee Dec 3–23 (~$65/$30); Royal Gorge Route Railroad Santa Express select Dec dates (~$114/$104, Cañon City); Festival of Lights Parade Dec 5 5:50 PM Tejon Street (free). |
+| Story History Check | COMPLETE | S1 NEW (HABA + TooyBing recalls — distinct from Nov 18 S1 SHEIN rattle + Learning Tower; different brands/products); S2 NEW (AAP 2026 mental health framework — distinct from Nov 18 S4 AAP substance use report; different AAP guidance topics); S3 NEW (Weekend Roundup Nov 20–22 — Thursday required; distinct from Nov 17 S1 roundup for Nov 21–23); S4 NEW (D49 Purple Star milestone — all 7 Falcon Zone schools completed, first COS Parenting coverage); S5 NEW (COS holiday preview Flying W/Santa Express/Festival of Lights — distinct from Nov 18 S3 Electric Safari) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; cpsc.gov official sources for both recalls; aap.org for AAP framework; KOAA/CDE for D49 Purple Star; flyingw.com + royalgorgeroute.com + coloradospringsfestivaloflights.com for holiday events |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows (8 AM, 10 AM, 12 PM, 3 PM, 5 PM), 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars; 4 hashtags each; #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; contractions; 0 exclamation marks; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only concepts (2 per story); clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0; dimensions 1200x675 (social) + 1200x630 (hero) |
+| Articles (5) | COMPLETE | article-01 CPSC recalls HABA + TooyBing (Jamie Rivera T1 ~600w, quick reference table); article-02 AAP 2026 mental health framework (Sarah Morales T2 ~550w); article-03 Weekend Roundup Nov 20–22 (Jamie Rivera T1 ~700w, quick reference table, required springsdaily.com links); article-04 D49 Purple Star schools (Sarah Morales T2 ~580w); article-05 COS holiday preview Flying W/Santa Express/Festival (Jamie Rivera T2 ~620w, quick reference table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 95 claims auto-extracted; all stories present; PASSED; image manifest title-match warnings (cosmetic, pre-existing) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 5 images |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × social + hero), all not_started, gemini base_only, dimensions 1200x675 (social) + 1200x630 (hero), brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-11-19.xlsx (7 posts) + cosp-postplanner-tobi-2026-11-19.xlsx (7 TOBI posts); FB=0 in export (pre-existing format mismatch) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 19 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB image captions
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **Key stories:** CPSC recalls — HABA Rainbow Rattle (#26-719, ~2,000 units, choking hazard, full refund) + TooyBing Bead Stacking Toy (TB-MZWJ, ~21,758 units, small parts ban, free replacement); AAP 2026 mental/emotional health framework — routine promotion at every pediatric visit (May 2026 Pediatrics); Thursday Weekend Roundup Nov 20–22 — Broadmoor Holiday Kickoff (free), Vintage Market Days, Trans-Siberian Orchestra, White Christmas, Skate in the Park; D49 all 7 Falcon Zone schools Purple Star complete (April 7 2026 ceremony, HB24-1076); COS holiday preview — Flying W Cowboy Christmas Jubilee Dec 3–23, Royal Gorge Santa Express (Cañon City), Festival of Lights Parade Dec 5 (free)
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); PostPlanner FB=0 in export (pre-existing format mismatch); image manifest title-match warnings (cosmetic, pre-existing)
+
+---
+
 ## Current Run: 2026-11-18
 
 | Step | Status | Notes |

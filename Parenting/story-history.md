@@ -2,6 +2,50 @@
 
 ---
 
+## November 19, 2026
+
+### Story 1: CPSC Recalls — HABA Rainbow Rattle and TooyBing Stacking Toys
+- **Date:** 2026-11-19
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** HABA Rainbow Rattle Grasping and Teething Toy recalled (#26-719, Aug 27 2026) — elastic cord knot can untie, releasing small parts; choking hazard for infants; ~2,000 units sold Target/Amazon/Nordstrom Dec 2025–Jul 2026, ~$13; full refund. TooyBing Wooden Bead Stacking Toy (model TB-MZWJ, recalled Aug 13 2026) — wooden beads violate small parts ban; choking hazard for under-3s; ~21,758 units sold Amazon Jul 2023–Dec 2025, ~$10; free replacement. Both recalls active through holiday shopping season — check cpsc.gov/Recalls.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 2: AAP 2026 — Mental and Emotional Health Belongs in Every Pediatric Visit
+- **Date:** 2026-11-19
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** AAP published new framework in May 2026 Pediatrics shifting from screening schedules to routine mental/emotional/relational health promotion at every pediatric visit. Existing thresholds: anxiety annually 8–18; depression + suicide risk starting 12; substance use annually after 11. New standard: anticipatory guidance, surveillance, screening, brief interventions — trauma-informed and equitable — at all well-child visits regardless of concern level. Parents can ask their pediatrician directly.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 3: Things to Do with Kids in Colorado Springs This Weekend (November 20–22)
+- **Date:** 2026-11-19
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** Thursday Weekend Roundup (required). Five picks for Nov 20–22: (1) Broadmoor Holiday Kickoff — Sun Nov 22, 4 PM, 1 Lake Ave., free public portions, all ages; (2) Vintage Market Days "Rocking Around the Christmas Tree" — Fri–Sun Nov 20–22, Norris Penrose Event Center, ~$17 Fri / ~$12 Sat–Sun, stroller-friendly; (3) Trans-Siberian Orchestra — Sun Nov 22, Broadmoor World Arena, 2:30 PM and 7:30 PM, from ~$79, best 6+; (4) Irving Berlin's White Christmas — Nov 19–Dec 27, Colorado College Fine Arts Center, ticketed, 7+; (5) Skate in the Park — ongoing through Jan 2027, Acacia Park, $15/person incl. rental, ages 4 and under free.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 4: D49 Purple Star Schools — All 7 Falcon Zone Schools Recognized
+- **Date:** 2026-11-19
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** All 7 D49 Falcon Zone schools now carry Colorado Purple Star designation — recognizes schools providing strong support for military-connected families. Designations came through April 7, 2026 ceremony under HB24-1076 (22 additional Colorado schools recognized). Purple Star program requires designated staff contact, adjustment support programs, staff training; valid 3 years. D49 Board unanimously passed Purple Star resolution Dec 4, 2025. COS is major military community (Fort Carson, Peterson SFB, Schriever SFB, NORAD).
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 5: COS Holiday Season Preview — Flying W, Royal Gorge Santa Express, Festival of Lights
+- **Date:** 2026-11-19
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Three anchor COS holiday events to book now. Flying W Ranch Cowboy Christmas Jubilee: Dec 3–23, 3330 Chuckwagon Rd., multiple seatings, ~$65 adult (13+) / ~$30 child (4–12), flyingw.com/christmas/. Royal Gorge Route Railroad Santa Express: select December dates, departs Cañon City (~45 min from COS), ~$114 adult / ~$104 child (ages 1–12), sells out quickly, royalgorgeroute.com/santa-express (NOT Pikes Peak Cog Railway). Festival of Lights Parade: Sat Dec 5, 5:50 PM, Tejon Street downtown, free, 42nd annual; Pioneers Museum Family Fun Day same day 10 AM–2 PM.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+---
+
 ## November 18, 2026
 
 ### Story 1: CPSC Recalls — Baby Rattle Sets and Learning Tower
