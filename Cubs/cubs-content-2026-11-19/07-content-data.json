@@ -1,0 +1,201 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-19",
+  "compiled_at": "2026-11-19T09:20:35.933170+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "12:00 PM",
+      "description": "Story 1: CBA Countdown — 12 Days",
+      "type": "Informative / Urgency"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Story 2: Cubs Out on Michael King",
+      "type": "Roster News / Follow-Up"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Story 3: Kaima Taira Dec 16 Deadline",
+      "type": "Hot Stove / Analysis"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 4: AFL Two Pitching All-Stars",
+      "type": "Prospect Feature"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Story 5: Five Starters Gone",
+      "type": "Bold Take / Evening Prime"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 1B: CBA Countdown Angle 2",
+      "type": "Bold Take / Evening Prime"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CBA Countdown — 12 Days Before the Market Freezes",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "CBA expires Dec 1 — 12 days. MLB/MLBPA making little progress. The 2021 lockout lasted 99 days. Cubs need 3 starters, an outfielder, and a catcher before freeze. Two angles: informative frame (noon) + bold evening take (8 PM).",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Twelve days. That's all Jed Hoyer has left to sign starting pitchers, an outfielder, and a catcher before December 1 freezes everything.\n\nThe 2021 lockout lasted 99 days. This one looks just as likely. Act now or wait until spring — there's no middle ground.\n\n#Cubs",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 265
+        },
+        {
+          "label": "Post 1B",
+          "text": "Here's how the Cubs' offseason math breaks down: they need 3 starters, an outfielder, and a catcher before December 1.\n\nThe 2021 lockout ran 99 days. Teams that moved early locked up rosters. Teams that waited scrambled in spring. Hoyer knows which side he wants to be on.\n\n#Cubs",
+          "posting_time": "8:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Cubs Appear Out on Michael King",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Sahadev Sharma (The Athletic) via Roundtable, Nov 10: Cubs and King \"don't appear to be a fit.\" King went 12-10 / 3.21 ERA / 185 IP in 2026. His 3-4yr/$75-90M projection now shifts Cubs to Plan B. Increases urgency around Taira and other arms.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Michael King has narrowed his free-agent search, and the Cubs reportedly aren't on the short list.\n\nKing went 12-10 with a 3.21 ERA and 185 innings in 2026. With projections at $75-90M over 3-4 years, Chicago needs to pivot fast — and the lockout is 12 days away.\n\n#Cubs",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Kaima Taira — December 16 Deadline, Lockout Complicates",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Taira's 45-day posting window runs until Dec 16 at 5 PM ET. But Dec 1 lockout hits first — could pause the window indefinitely. Cubs' No. 1 target may end up frozen in a 99-day work stoppage. Speed is critical.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Cubs have until December 16 to sign Kaima Taira — but December 1 complicates everything.\n\nIf the CBA expires without a deal, baseball freezes. The lockout could pause Taira's 45-day window, leaving Chicago's No. 1 target in limbo for 99+ days. Speed matters now.\n\n#Cubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Arizona Fall League — Two Cubs Pitching Prospects Named All-Stars",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Two Cubs pitching prospects earned AFL All-Star selections (Roundtable, Nov 8). Farm system producing arms right as 5 starters exit in free agency. Cavalry is building — and right on time.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Two Cubs pitching prospects earned Arizona Fall League All-Star selections — a sign of what's growing in this system.\n\nWith five starters hitting free agency, Hoyer's rebuild starts in the minors. The pipeline is delivering right when Chicago needs it most.\n\n#Cubs",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Five Starters Gone — The Blank Rotation",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Imanaga/Gausman/Peterson/Boyd/Holmes all free agents. Horton rehabbing until mid-2027. Five starters gone + Horton out = blank page. That's either terrifying or a generational rebuild opportunity. Hoyer has 12 days to answer.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Five starting pitchers are gone. Horton rehabbing until mid-2027. Hoyer has 12 days before the lockout freezes everything.\n\nThe Cubs' rotation isn't a question mark — it's a blank page. That's either terrifying or a generational opportunity. Hoyer better answer fast.\n\n#Cubs",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

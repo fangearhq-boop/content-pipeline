@@ -9934,3 +9934,48 @@ Each day's stories are appended at the top (newest first).
   - EDLC trade completed → Tier 2 Cubs-angle (division context, Cubs buyers?)
   - Cardinals sign notable FA → rival watch
   - Brewers sign another player → Tier 2 "WS champs keep adding" framing
+
+## 2026-11-19 (OFF DAY — Offseason. CBA 12 days to Dec 1 lockout — almost guaranteed. Cubs reportedly out on Michael King (Sharma/Athletic Nov 10). Kaima Taira Dec 16 posting deadline complicates lockout. Two Cubs pitching prospects AFL All-Stars. Five starters + Horton (mid-2027) = blank rotation. Insights: 12 findings — evening_18_24 WINNER + hashtag_count=3 LOSER (OVERRIDE — 1 hashtag used, 9th consecutive day) + hashtag_count=1 WINNER + len_260+ WINNER + len_200-260 LOSER + morning_06_12 LOSER + statement WINNER + allcaps_lead LOSER + has_stat WINNER + content_type=brief LOSER + recap_longform WINNER (not applicable off day) + has_score WINNER (not applicable off day).)
+
+### STORY 1: CBA Countdown — 12 Days Before the Market Freezes
+- **Angle:** FOLLOW UP (Nov 18 had 13-day frame; today = 12 days + dedicated urgency story x2 angles). MLB/MLBPA little progress. 2021 lockout = 99 days. Cubs need 3 starters, OF, C before freeze.
+- **Tier:** 1
+- **Content Produced:** X Text Post (2 posts — 12:00 PM CT informative + 8:00 PM CT bold/evening prime)
+- **Follow-Up Opportunities:**
+  - Dec 1 arrives with no CBA = Tier 1 lockout confirmed post
+  - CBA breakthrough agreement = Tier 1 relief/reaction post
+  - Cubs sign any starter before Dec 1 = Tier 1 breaking news
+
+### STORY 2: Cubs Appear Out on Michael King
+- **Angle:** FOLLOW UP (King tracked since Nov 1 as top target). Roundtable/Sharma (The Athletic), Nov 10: Cubs and King "don't appear to be a fit." King 12-10 / 3.21 ERA / 185 IP. Projected $75-90M/3-4yr. Cubs shifting to Plan B.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, roster news)
+- **Follow-Up Opportunities:**
+  - King signs with specific team → reaction/analysis angle
+  - Cubs pivot to alternative starter (not Taira) → who is Plan B?
+
+### STORY 3: Kaima Taira — December 16 Deadline, Lockout Complicates
+- **Angle:** FOLLOW UP (Taira covered Nov 18; today = deadline collision angle). Dec 16 posting deadline runs until 5 PM ET. CBA lockout Dec 1 could PAUSE Taira's window. Cubs' No. 1 target in limbo for 99+ days if lockout hits first.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, analysis)
+- **Follow-Up Opportunities:**
+  - Cubs sign Taira before Dec 1 = Tier 1 acquisition
+  - Lockout hits before Taira signs = Tier 2 "window paused" update
+  - Taira signs with another team = Tier 2 reaction
+
+### STORY 4: Arizona Fall League — Two Cubs Pitching Prospects Named All-Stars
+- **Angle:** NEW STORY. Two Cubs pitching prospects earned AFL All-Star nods (Roundtable, Nov 8). Both pitchers. Farm system producing arms as 5 starters exit. Cole Mathis also at AFL (Top 30 prospect). Single source for All-Star claim — did not name individual prospects in tweet.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, prospect feature)
+- **Follow-Up Opportunities:**
+  - AFL concludes / final standings → wrap-up prospect story
+  - Specific AFL standout earns promotion / major league assignment → Tier 2
+
+### STORY 5: Five Starters Gone — The Blank Rotation
+- **Angle:** FOLLOW UP (rotation vacuum covered multiple cycles; today = boldest framing). Imanaga/Gausman/Peterson/Boyd/Holmes all free agents. Horton rehabbing until mid-2027. 5 starters + Horton = blank page. Either terrifying or generational opportunity. 12 days to answer.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, bold take/evening prime)
+- **Follow-Up Opportunities:**
+  - Cubs sign any two starters = rotation framework tweet
+  - Winter Meetings (Dec 8-11, if no lockout) = news hub coverage
+  - Lockout confirmed = "rotation still blank, now frozen" angle
