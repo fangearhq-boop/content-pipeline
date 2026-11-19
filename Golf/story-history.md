@@ -2,6 +2,45 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-11-19 Stories
+
+### STORY 1: RSM Classic Round 1 Underway — Final PGA Tour Event, Ben James in Contention
+- **Tier:** 1
+- **Category:** PGA Tour / RSM Classic / Sea Island / Sami Välimäki / Ben James
+- **Key facts:** Nov 19–22; Sea Island Golf Club, St. Simons Island GA; $7.4M purse; R1 live today; Välimäki defending (-23 in 2025); Ben James (+1950) early favorite; Michael Brennan (+2050); Michael Thorbjornsen (+2000); Blades Brown (World Wide Technology Championship winner 2026) in field; Scheffler absent; 35 top-100 players; final FedEx Cup Fall event 2026
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: CME Group Tour Championship Round 1 — Thitikul Defending, Korda Chasing $4M
+- **Tier:** 1
+- **Category:** LPGA / CME Group Tour Championship / Atthaya Thitikul / Nelly Korda
+- **Key facts:** Nov 19–22; Tiburón Golf Club Naples FL; $11M purse; $4M to winner; 60-player field (top LPGA season points); R1 live today; Thitikul defending (-26 in 2025); Nelly Korda world No. 1; Haeran Ryu, Charley Hull also in field
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 3: LIV Golf CEO Meets LPGA on Women's Expansion
+- **Tier:** 2
+- **Category:** LIV Golf / LPGA / Scott O'Neil / Women's golf / Expansion
+- **Key facts:** CEO Scott O'Neil met with LPGA leadership; discussions exploratory; options include signing LPGA stars or launching women's tour; no deal announced; LIV Golf in Chapter 11 since Sept 2026; PGA Tour CEO confirmed no men's reinstatement path
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 4: RSM Classic Field — 35 Top-100 Players, PGA Cards Still at Stake
+- **Tier:** 2
+- **Category:** PGA Tour / RSM Classic / Field depth / Card security
+- **Key facts:** 35 of world top-100 in field; FedEx Cup won by Scheffler; card-securing finishes still available; Plantation + Seaside courses R1-R2; cut top 65+ties; weekend Seaside only
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: Dual Season Finale — PGA Tour and LPGA Close Out 2026 Simultaneously
+- **Tier:** 3
+- **Category:** PGA Tour / LPGA / Season finale / RSM Classic / CME Group Tour Championship
+- **Key facts:** RSM Classic (Sea Island GA) + CME Group Tour Championship (Naples FL) both running Nov 19–22; both tours go dark after Sunday; rare simultaneous season close
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+---
+
 ## 2026-11-17 Stories
 
 ### STORY 1: PGA Tour CEO Rules Out LIV Golf Player Returns

@@ -1,9 +1,30 @@
 # Golf Fanrecap — Pipeline Status
 
-## Last Run: 2026-11-18
+## Last Run: 2026-11-19
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** Golf Fanrecap
+
+---
+
+### 2026-11-19 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, image manifest, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 18 claims, HIGH: 21; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 0 FB posts (known parsing), 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (17 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via git remote with PAT
+
+**Stories covered:**
+1. T1 NEW: RSM Classic Round 1 Underway — final PGA Tour 2026 event, Ben James favored, Välimäki defending, Sea Island (Ryan Calloway)
+2. T1 NEW: CME Group Tour Championship Round 1 — $11M/$4M winner, Thitikul defending, Korda world No. 1 targets title (Jake Torres)
+3. T2 NEW: LIV Golf CEO Scott O'Neil meets LPGA on women's expansion — exploratory, no deal (Marcus Cole)
+4. T2 NEW: RSM Classic field breakdown — 35 top-100 players, card-securing finishes at stake (Ryan Calloway)
+5. T3 NEW: Dual season finale — PGA Tour + LPGA close simultaneously Nov 19–22 (Jake Torres)
 
 ---
 
