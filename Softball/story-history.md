@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## Pipeline Run: 2026-11-19
+
+### Story 1: December Portal Is 12 Days Away — Which Programs Are Hunting Pitching?
+- **Date:** 2026-11-19
+- **Tier:** 1
+- **Classification:** FOLLOW UP (portal countdown covered through Nov 18; this angle: which programs have the most at stake in the Dec 1-15 window and why)
+- **Angle:** Dec portal opens Dec 1, closes Dec 15. Arizona (lost Torres to TTU) is most urgent — 15-2 fall but needs elite pitching. Ole Miss and Auburn also have critical needs. OU/LSU/Tennessee don't need December. The 25-player cap and 5-for-5 pressure make every slot precious. Separation between prepared and unprepared starts December 1.
+- **Content Produced:** Article (article-01, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Portal opening day Dec 1 — specific player entries
+  - Arizona pitching target announcement
+  - Which programs move fastest in first 8 days
+
+### Story 2: 5-for-5 Legal Roadmap — En Banc, Supreme Court, or State Courts Are the Final Options
+- **Date:** 2026-11-19
+- **Tier:** 1
+- **Classification:** FOLLOW UP (5-for-5 covered Oct 29–Nov 18; this angle: post-reversal legal path forward — three remaining options explained)
+- **Angle:** After Tenth Circuit reversed Wisne v. NCAA injunction Nov 6, 850 athletes have three paths: en banc (rarely granted), SCOTUS emergency petition (long odds), or state courts (200+ cases active, most viable). December 1 portal is the binary decision point — enter portal or risk losing everything if no legal protection comes.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - En banc petition filing
+  - December portal entries from affected athletes
+  - State court rulings
+
+### Story 3: Tennessee's Continuity Advantage — 9 Starters Back Is Rare in the Portal Era
+- **Date:** 2026-11-19
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Tennessee covered multiple times; this angle: comparative rarity of 9 starters returning and what it means for WCWS probability)
+- **Angle:** Tennessee returns 9 starters from 49-12 squad in an era where most top-10 programs are rebuilding through portal. Mardjetko (16-3, 1.26ERA, 171K, NFCA First Team AA) + Knight (.394avg) lead the core. Weekly extended through 2030. Continuity is a competitive advantage that cannot be purchased in a portal window.
+- **Content Produced:** Article (article-03, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - January preseason poll ranking
+  - Spring schedule announcement
+  - Head-to-head with OU/LSU in WCWS bracket
+
+### Story 4: The Texas Tech Effect — How One Program Changed the Big 12's Power Structure
+- **Date:** 2026-11-19
+- **Tier:** 2
+- **Classification:** FOLLOW UP (TTU covered repeatedly; this angle: systemic Big 12 power shift, not just roster specifics)
+- **Angle:** Glasco's TTU now has No. 1 transfer class nationally (SA), Pickering (.384BA 50HR 169RBI), first five-star freshman in program history (Gentry). Big 12 opens March 12 with OU+TTU+Texas+Arizona all WCWS caliber — could send 3 teams to WCWS QF. TTU's rise forced every Big 12 program to elevate.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - TTU's first Big 12 conference games (March 12)
+  - Head-to-head with OU
+  - Pickering stats in first Big 12 action
+
+### Story 5: Mid-Major Programs Find Their Lane in the Class of 2027 Landscape
+- **Date:** 2026-11-19
+- **Tier:** 3
+- **Classification:** NEW STORY (evergreen/analysis — mid-major recruiting success below the top 10)
+- **Angle:** D1Softball ranked 50 signing classes — Georgia Tech No. 32. The full picture shows the talent gap between No. 10 and No. 30 is narrowing. NIL and portal leveling the field. Regional recruiting maturing in Sun Belt and ACC. Good for the sport.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - January preseason poll reveals mid-major strength
+  - Spring breakout performances from non-SEC programs
+  - Full D1Softball top-50 class analysis
+
+---
+
 ## Pipeline Run: 2026-11-17
 
 ### Story 1: January Preseason Poll Race — Who Will the Voters Anoint as No. 1 in 2027?
