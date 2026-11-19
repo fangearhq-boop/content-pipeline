@@ -1,0 +1,256 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-19",
+  "compiled_at": "2026-11-19T10:22:25.882147+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Owners Meetings Finale — Manfred Says \"Can't Imagine\" Deal Without Cap, Lockout Countdown at 12 Days",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Rob Manfred after the owners meetings:\n\n\"I can't imagine the owners ratifying a deal that does not include a cap and floor.\"\n\nAll 30 owners are unanimous. The CBA expires in 12 days. A lockout is coming. #MLB #CBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#CBA"
+          ],
+          "char_count": 213
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The owners meetings are over. Here's where we are:\n\n• All 30 owners: unanimous on salary cap\n• MLBPA: lockout appears guaranteed\n• CBA expiration: December 1, 11:59 PM ET\n• Last lockout: 99 days\n\n12 days to get a deal. Nobody expects one. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "The three-day MLB owners meetings in New York concluded Thursday, and Commissioner Rob Manfred delivered the clearest message yet about where this CBA stands.\n\n\"I can't imagine the owners ratifying a deal that does not include a cap and floor,\" Manfred told reporters.\n\nAll 30 MLB team owners are unanimously in support of the salary cap and floor proposals. MLBPA interim executive director Bruce Meyer responded by stating that a lockout appears virtually guaranteed — the union sees any cap proposal as a tool to suppress player salaries, and that position has not changed.\n\nWhere things stand: MLB's most recent offer (November 3) proposed a $258.2 million salary cap and $180.2 million floor, with implementation delayed to 2028. The union rejected it. No new proposal has been made public.\n\nThe CBA expires at 11:59 p.m. ET on December 1 — 12 days from now. When it expires, teams are expected to lock players out of facilities on December 2. That means no free agent signings, no trades, no arbitration hearings.\n\nThe last lockout ran from December 2, 2021 through March 10, 2022. It lasted 99 days. The 2027 season could be in jeopardy if this one runs even longer.\n\nFor fans: enjoy the next 12 days of hot stove activity. After December 1, baseball goes quiet.",
+        "image_caption": "The owners meetings ended with no progress. Manfred: \"Can't imagine\" a deal without a cap. MLBPA: lockout guaranteed. December 1 is 12 days away. #MLB #CBA #Lockout",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-owners-meetings-lockout-countdown.html",
+        "headline": "Owners Meetings Finale: Manfred Says He \"Can't Imagine\" a Deal Without a Cap — 12 Days Remain",
+        "word_count": 503
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Owners Meetings / Lockout Countdown\n\n**Image 1-A** (Social — 1080x1350)\n- **Type:** imagn\n- **Search Terms:** \"Rob Manfred MLB commissioner\"\n- **Caption:** Rob Manfred's message after the owners meetings: \"Can't imagine\" a deal without a salary cap. 12 days remain.\n- **Alt text:** MLB Commissioner Rob Manfred speaking at podium\n- **Status:** not_started\n\n**Image 1-B** (Article hero — 1200x630)\n- **Type:** stock\n- **Search Terms:** empty baseball stadium padlocked gate lockout labor\n- **Caption:** The MLB stadium could go dark on December 2 if no CBA deal is reached in the next 12 days.\n- **Alt text:** Empty baseball stadium representing a potential lockout\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Pre-Lockout Market Heats Up — Mariners Land Maikel Garcia, Twins Sign Sonny Gray",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The pre-lockout sprint is real:\n\n• Mariners acquired All-Star 3B Maikel Garcia from Kansas City (6-player deal)\n• Twins signed Sonny Gray: 2 years, $55M\n• Braves signed Evan Phillips: 3 years, $35M\n\nTeams are moving fast. 12 days until the freeze. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 252
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Mariners landing Maikel Garcia is the biggest trade of this offseason so far.\n\nA six-player deal that gets them an All-Star third baseman under team control.\n\nMeanwhile they traded from their starting pitching surplus. Smart. #Mariners #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Mariners",
+            "#MLB"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "The 12-day countdown to the CBA deadline is lighting a fire under MLB transactions — and the market is accelerating fast.\n\nThe biggest deal of the winter so far: the Seattle Mariners acquired All-Star third baseman Maikel Garcia from the Kansas City Royals in a six-player blockbuster. The Mariners prioritized defense and used their starting pitching surplus as trade capital. Garcia, who made the All-Star Game this past season, adds an elite defensive third baseman to a Seattle lineup that needed offensive help.\n\nOn the free agent side:\n\nThe Minnesota Twins locked up starting pitcher Sonny Gray on a two-year, $55 million deal. Gray gives the Twins rotation stability heading into 2027 and is a significant addition at a position of need.\n\nThe Atlanta Braves signed reliever Evan Phillips to a three-year, $35 million deal. Phillips was one of the top relief arms on the market, and the Braves secured him before the lockout freeze.\n\nThe Boston Red Sox acquired catcher Nick Fortes from the Tampa Bay Rays, sending 17-year-old right-hander Angel Roa to Tampa.\n\nThe pattern is clear: teams with resources and needs are transacting urgently. The deals will only accelerate from here as the December 1 deadline approaches.",
+        "image_caption": "Mariners land All-Star 3B Maikel Garcia. Twins sign Sonny Gray 2yr/$55M. Braves add Evan Phillips. The pre-lockout sprint is real — 12 days left. #MLB",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-pre-lockout-market-transactions.html",
+        "headline": "Pre-Lockout Sprint: Mariners Land Maikel Garcia, Twins Sign Sonny Gray as Market Accelerates",
+        "word_count": 472
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Pre-Lockout Transactions\n\n**Image 2-A** (Social — 1080x1350)\n- **Type:** imagn\n- **Search Terms:** \"Maikel Garcia Kansas City Royals\"\n- **Caption:** Maikel Garcia is headed to Seattle in one of the biggest trades of the pre-lockout sprint.\n- **Alt text:** Maikel Garcia fielding at third base\n- **Status:** not_started\n\n**Image 2-B** (Article hero — 1200x630)\n- **Type:** imagn\n- **Search Terms:** \"Sonny Gray Minnesota Twins\"\n- **Caption:** Sonny Gray joins the Twins on a 2-year, $55 million deal as teams race to sign before the freeze.\n- **Alt text:** Pitcher Sonny Gray on the mound\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Skubal's 12-Day Window — 78 Percent of Experts Say He Signs Before Lockout",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "78% of ESPN's panel of insiders believe Tarik Skubal signs before the Dec. 1 lockout.\n\nThe Mets are the frontrunner. The Padres are emerging. The contract could shatter $400M.\n\n12 days. The biggest pitching market in baseball history is running out of time. #MLB #Skubal",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Skubal"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "The numbers on Tarik Skubal's situation are becoming clearer.\n\nPer ESPN's panel of insiders, 78 percent believe Skubal will sign a contract before the December 1 CBA deadline. That's a strong consensus, and it tracks with the reporting: Skubal himself has said he wants to sign before the freeze.\n\nThe Mets remain the frontrunner. Jon Heyman reported that New York is \"probably the favorite\" after their in-person pitch in Orange County. Skubal met with six finalists: the Mets, Dodgers, Padres, Blue Jays, and two unnamed clubs.\n\nThe Padres have emerged as a potential sleeper in recent days. San Diego could offer a compelling situation for a pitcher trying to shatter records — a competitive team, a beautiful park, a fan base that cares about pitching.\n\nWhat is Skubal worth? The contract ceiling sits around $400 million per ESPN projections. His average annual value ($44 million+) would shatter the record set by Yoshinobu Yamamoto's $27 million AAV from his Dodgers deal. That is not a typo. Skubal would make $44 million per year — per year — if he gets the deal he is projected to get.\n\nThe alternative: if Skubal doesn't sign by December 1, he is frozen in the market until the lockout ends. If the lockout mirrors 2021-22's 99-day stoppage, that could mean March or later. No team will commit $400 million to a pitcher in spring training. The 12-day window is the window that matters.",
+        "image_caption": "78% of insiders say Skubal signs before the lockout. Mets frontrunner. $400M ceiling. 12 days to close. #MLB #Skubal",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-skubal-12-day-window.html",
+        "headline": "Skubal's 12-Day Window: 78 Percent of Experts Say He Signs Before the Lockout",
+        "word_count": 487
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Skubal\n\n**Image 3-A** (Social — 1080x1350)\n- **Type:** imagn\n- **Search Terms:** \"Tarik Skubal Detroit Tigers\"\n- **Caption:** Tarik Skubal has 12 days. 78% of experts say he signs before the lockout. The Mets are the frontrunner.\n- **Alt text:** Tarik Skubal pitching for the Detroit Tigers\n- **Status:** not_started\n\n**Image 3-B** (Article hero — 1200x630)\n- **Type:** imagn\n- **Search Terms:** \"Tarik Skubal pitcher\"\n- **Caption:** A $400M decision in 12 days — Skubal's historic contract must come before December 1.\n- **Alt text:** Tarik Skubal in pitching motion\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Blue Jays Are the Most Aggressive Team in the Pre-Lockout Market",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Blue Jays are the most active team in this market:\n\n• Jazz Chisholm: frontrunner\n• Seiya Suzuki: in pursuit\n• Brandon Lowe: interested\n• Christian Walker: monitoring\n\nToronto has a 12-day window to transform their roster. #BlueJays #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BlueJays",
+            "#MLB"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "If you want to understand who is going all-in before December 1, start with the Toronto Blue Jays.\n\nToronto is pursuing a remarkable collection of targets in the final 12 days of the pre-lockout market:\n\nJazz Chisholm. The Blue Jays are the frontrunner, according to Shi Davidi of Sportsnet. Toronto's vision: Chisholm at second base, with existing infielder Ernie Clement moving to a super-utility role. Eleven teams have engaged with Chisholm's representatives, and personal meetings are starting now. The Yankees are not returning. The Blue Jays are the team to beat.\n\nSeiya Suzuki. The outfielder declined the Cubs' $23.15 million qualifying offer and hit the open market. Spotrac projects a 4-year, $109.9 million deal. Toronto sees an outfield upgrade that fits their timeline.\n\nBrandon Lowe. The second baseman declined Tampa Bay's qualifying offer and is on the market. Blue Jays interest in Lowe adds another layer to their middle infield strategy.\n\nChristian Walker. The Astros are gauging trade interest in their first baseman, and Toronto is reportedly monitoring.\n\nThis is an extraordinary portfolio. If the Blue Jays land Chisholm and Suzuki before December 1, they transform their roster. If they add Lowe or Walker on top of that, they become one of the most dangerous lineups in the American League.\n\nTwelve days is enough time — if they move decisively.",
+        "image_caption": "The Blue Jays are chasing Chisholm, Suzuki, Lowe, and Walker — all before December 1. Toronto is the most aggressive team in baseball right now. #BlueJays #MLB",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-blue-jays-aggressive-market.html",
+        "headline": "The Blue Jays Are the Most Aggressive Team in the Pre-Lockout Market",
+        "word_count": 422
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Blue Jays\n\n**Image 4-A** (Social — 1080x1350)\n- **Type:** imagn\n- **Search Terms:** \"Jazz Chisholm Blue Jays\"\n- **Caption:** The Blue Jays are the frontrunner for Jazz Chisholm — and they're not stopping there.\n- **Alt text:** Jazz Chisholm batting or fielding\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "What the MLB Lockout Actually Means — The Day-by-Day Freeze for Fans",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "When the CBA expires December 1, here's what stops immediately:\n\n• All free agent signings freeze\n• All 40-man roster trades freeze\n• Arbitration hearings freeze\n• Rule 5 draft canceled\n• No team-player communication\n\nThis is what a lockout looks like from the outside. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "A lot of fans know an MLB lockout is probably coming on December 2. Far fewer know what that actually means, day by day. Here's the practical guide.\n\nWhat stops on December 2:\n\nAll free agent signings freeze. Any player not under contract before midnight on December 1 cannot sign until a new CBA is reached. That includes Tarik Skubal, Jazz Chisholm, Randy Arozarena, and everyone else still on the market.\n\nAll 40-man roster trades freeze. Teams cannot trade players on the 40-man roster. Rule 5 draft players can still be moved in some scenarios, but major trades are off the table.\n\nArbitration hearings are suspended. Players eligible for arbitration cannot exchange numbers or have hearings.\n\nThe Rule 5 draft is expected to be canceled. The draft lottery for the amateur draft is also reportedly expected to be scrapped.\n\nNo communication between teams and players. This is the most unusual provision — teams cannot discuss baseball business with their own players. Players cannot access team facilities.\n\nWhat continues:\n\nTeams can sign amateur free agents (international players). Some minor-league operations continue. Players can work out independently.\n\nWhat it means for the 2027 season:\n\nThe last lockout ran 99 days, from December 2, 2021 through March 10, 2022. During that lockout, spring training was delayed and the first two series of the regular season were canceled. If this lockout runs the same length, the 2027 season is threatened. If it runs longer — and there is no guarantee it won't — the damage could be more severe.\n\nThe next 12 days matter. After December 1, we all wait.",
+        "image_caption": "After December 1: no signings, no trades, no arbitration, no team-player contact. Here's exactly what a baseball lockout looks like from the outside. #MLB #Lockout #CBA",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-lockout-fan-guide.html",
+        "headline": "What the MLB Lockout Actually Means: A Fan's Guide to the December Freeze",
+        "word_count": 452
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Lockout Explainer\n\n**Image 5-A** (Social — 1080x1350)\n- **Type:** stock\n- **Search Terms:** baseball calendar countdown December stadium offseason\n- **Caption:** December 1 is 12 days away. After that, baseball goes silent. Here's what a lockout means for fans.\n- **Alt text:** Baseball calendar with December 1 circled\n- **Status:** not_started\n\n---\n\n## Total Image Concepts: 8"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

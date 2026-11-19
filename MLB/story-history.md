@@ -5,6 +5,59 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## Pipeline Run: 2026-11-19
+
+### Story 1: Owners Meetings Finale — Manfred "Can't Imagine" Deal Without Cap, 12 Days Remain
+- **Date:** 2026-11-19
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** Three-day owners meetings concluded with no CBA progress. Manfred: "Can't imagine owners ratifying a deal that does not include a cap and floor." All 30 clubs unanimous. MLBPA's Bruce Meyer called lockout virtually certain. MLB's last offer: $258.2M cap / $180.2M floor, delayed to 2028. CBA expires 11:59 PM ET December 1; lockout expected December 2.
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Any late CBA developments before December 1
+  - Lockout confirmation December 2
+
+### Story 2: Pre-Lockout Sprint — Mariners Land Maikel Garcia, Twins Sign Sonny Gray
+- **Date:** 2026-11-19
+- **Tier:** 1
+- **Classification:** NEW
+- **Angle:** Mariners acquired All-Star 3B Maikel Garcia from Royals in 6-player blockbuster. Twins signed Sonny Gray, 2yr/$55M. Braves signed Evan Phillips, 3yr/$35M. Red Sox acquired Nick Fortes from Rays for 17-year-old Angel Roa. Market sprint accelerating with 12 days until freeze.
+- **Content Produced:** Article (article-02, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Continued transaction wire through December 1
+  - Skubal/Chisholm/Arozarena announcements
+
+### Story 3: Skubal's 12-Day Window — 78% of Experts Say He Signs Before Lockout
+- **Date:** 2026-11-19
+- **Tier:** 1
+- **Classification:** FOLLOW UP
+- **Angle:** ESPN panel: 78% believe Skubal closes before December 1. Mets still frontrunner after Orange County meeting. Padres emerging as sleeper. Contract projections $325M-$400M; $44M AAV would shatter Yamamoto's $27M record. Skubal has said he wants to sign before freeze.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Skubal signing announcement before Thanksgiving
+  - Padres vs. Mets final bid
+
+### Story 4: Blue Jays Are the Most Aggressive Team in Pre-Lockout Market
+- **Date:** 2026-11-19
+- **Tier:** 2
+- **Classification:** NEW
+- **Angle:** Shi Davidi: Blue Jays frontrunner for Jazz Chisholm (11 teams engaged, personal meetings starting). Pursuing Seiya Suzuki (4yr/$109.9M Spotrac projection). Monitoring Astros on Christian Walker trade. Brandon Lowe as Chisholm backup plan. 12 days to close multiple deals.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Chisholm signing destination
+  - Suzuki destination
+
+### Story 5: What the MLB Lockout Actually Means — A Fan's Guide
+- **Date:** 2026-11-19
+- **Tier:** 2
+- **Classification:** EVERGREEN
+- **Angle:** Explainer: what stops at CBA expiration (free agent signings, 40-man trades, Rule 5 Draft, arbitration, team-player communication), what continues (international amateurs, minor leagues, internal front-office work). Reference: 2021 lockout ran 99 days, canceled first 2 series of 2022.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Lockout confirmation/details as December 2 approaches
+
+---
+
 ## Pipeline Run: 2026-11-17
 
 ### Story 1: QO Deadline Day — Arozarena Declines, Suzuki Out, Full Free Agency Opens at 4 PM ET
