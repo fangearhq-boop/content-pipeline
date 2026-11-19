@@ -3,6 +3,16 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## November 19, 2026
+
+| 2026-11-19 | Alcaraz beats Medvedev 6-2, 6-4 at ATP Finals Day 4 (Turin); 72 min; zero break points conceded; winning streak extended to 11; H2H vs Medvedev now 8-3; left thigh strapped mid-match; advances as Ivan Lendl Group winner. Sources: NBC Sports, TennisGrandstand, ATP Tour official | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Nov 18 S3: Day 4 preview Alcaraz-Medvedev → Alcaraz wins, qualifies) |
+| 2026-11-19 | Tiafoe beats Cobolli 7-6(6), 6-0 at ATP Finals Day 4; saved two set points in tiebreak; won tiebreak 8-6; then bagelled second set; first ATP Finals win for Tiafoe; Cobolli exits 0-2. Sources: TennisGrandstand, ATP Tour official | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 18 S3: Day 4 preview Cobolli vs Tiafoe → Tiafoe wins first match) |
+| 2026-11-19 | ATP Finals Day 5 — McEnroe Group finale today; Shelton (1-1) vs Jodar (0-2) afternoon; Zverev (2-0, through) vs Fils (1-1) evening; Shelton needs win to advance; if Shelton loses Fils can still advance depending on standings. Sources: ATP Tour official (nittoatpfinals.com) | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Nov 18 S4: McEnroe Group standings after Day 3 → Day 5 finale) |
+| 2026-11-19 | Medvedev vs Tiafoe Friday — Ivan Lendl Group decider; both 1-1; winner plays Zverev in semifinals Saturday; Medvedev leads career H2H 4-0 (all hard court); Alcaraz already through as group winner. Sources: ATP Tour official (nittoatpfinals.com), derived from confirmed results | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Nov 19 S2: Tiafoe beats Cobolli → Friday decider vs Medvedev) |
+| 2026-11-19 | Rybakina ends 2026 as WTA World No. 1 — first from Kazakhstan; 17th in WTA history to hold year-end No. 1; clinched Oct 29 Pan Pacific Open Tokyo; 8,099 ranking points; Chris Evert WTA No. 1 Trophy; Andreeva No. 2 (7,806 pts); Swiatek drops to No. 9. Sources: wtatennis.com WTA Rankings | T2 | X, FB, Article | Elena Voss; NEW (year-end WTA rankings confirmation) |
+
+---
+
 ## November 18, 2026
 
 | 2026-11-18 | Zverev beats Shelton 6-2, 7-6(4) at ATP Finals Day 3 (Turin); 14 aces, zero double faults; extends H2H vs Shelton to 7-0; first player to qualify for semifinals. Sources: NBC Sports, TennisGrandstand, Tribune Philippines, GMA Network | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 17 S2: Day 3 preview Zverev vs Shelton → Zverev qualifies) |

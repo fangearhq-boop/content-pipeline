@@ -1,0 +1,417 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-19",
+  "compiled_at": "2026-11-19T12:16:29.464110+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Alcaraz Beats Medvedev 6-2, 6-4 — Qualifies as Lendl Group Winner",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Carlos Alcaraz beats Daniil Medvedev 6-2, 6-4 to book his ATP Finals semifinal spot. Zero break points conceded. 11-match winning streak. H2H with Medvedev now 8-3. He's through. #ATPFinals #Tennis #ATP #Alcaraz",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Alcaraz"
+          ],
+          "char_count": 211
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Alcaraz had his left thigh strapped and needed a medical timeout against Medvedev. Still won 6-2, 6-4 without conceding a break point. That is a 11-match winning streak through an injury scare. #ATPFinals #Tennis #ATP #Alcaraz",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Alcaraz"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "Carlos Alcaraz is in the ATP Finals semifinals, and he got there in emphatic fashion.\n\nHe beat Daniil Medvedev 6-2, 6-4 on Wednesday in Turin — finishing in roughly 72 minutes, conceding zero break points, and extending his winning streak to 11 matches. The head-to-head record against Medvedev is now 8-3 in Alcaraz's favour.\n\nThere was one moment of concern. Alcaraz took a medical timeout for his left thigh mid-match, emerging with the leg visibly strapped. It slowed nothing down. He closed out the second set without drama and confirmed his place in the last four as the Ivan Lendl Group winner.\n\nMedvedev is now 1-1 and must beat Frances Tiafoe on Friday to advance. For Alcaraz, the semifinal awaits — and given the form he is in, whoever comes out of the McEnroe Group will have their work cut out.\n\nWho do you think Alcaraz will face in the semifinals?",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-alcaraz-beats-medvedev-atp-finals-semis.html",
+        "headline": "Alcaraz Cruises Past Medvedev 6-2, 6-4 to Book ATP Finals Semifinal Spot",
+        "word_count": 528
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alcaraz Beats Medvedev 6-2, 6-4\n\n#### Image Concept 1A (Social)\n**Type:** imagn photo\n**Search Term:** Carlos Alcaraz Nitto ATP Finals\n**Credit:** (USA TODAY Sports Images)\n**Dimensions:** 1080x1350\n**Status:** not_started\n\n#### Image Concept 1B (Article Hero)\n**Type:** imagn photo\n**Search Term:** Carlos Alcaraz ATP Tour\n**Credit:** (USA TODAY Sports Images)\n**Dimensions:** 1200x630\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alcaraz Beats Medvedev 6-2, 6-4\n**Sources:**\n- Sofascore / ATP Tour-linked: Alcaraz beats Medvedev 6-2, 6-4 in Turin — https://www.sofascore.com/news/atp-finals-alcaraz-beats-medvedev-6-2-6-4-in-turin\n- ESPN: \"Carlos Alcaraz cruises past Daniil Medvedev at ATP Finals despite leg issue\" — https://www.espn.com/tennis/story/_/id/50521030/alcaraz-cruises-medvedev-atp-finals-leg-issue\n- Tennis Majors: \"Alcaraz beats Medvedev in straight sets, one step from the semi-finals\" — https://www.tennismajors.com/atp/nitto-atp-finals-atp/alcaraz-beats-medvedev-in-straight-sets-one-step-from-the-semi-finals-867235.html\n- The Score: \"Alcaraz beats Medvedev at ATP Finals despite physical issue\" — https://www.thescore.com/atp/news/3658851/alcaraz-beats-medvedev-at-atp-finals-despite-physical-issue\n- BusinessWorld: \"Alcaraz overpowers Medvedev, cruises into ATP Finals last four\" — https://bworldonline.com/sports/2026/11/19/795267/alcaraz-overpowers-medvedev-cruises-into-atp-finals-last-four/\n- Tribune India / ANI: \"ATP Finals 2026: Carlos Alcaraz beats Daniil Medvedev to move closer to semi-finals\" — https://www.tribuneindia.com/news/atp-finals/atp-finals-2026-carlos-alcaraz-beats-daniil-medvedev-to-move-closer-to-semi-finals\n**Key Facts (Confidence):**\n- Score: Alcaraz def. Medvedev 6-2, 6-4 — HIGH (multiple independent sources)\n- Duration: approximately 72 minutes — HIGH (multiple sources)\n- Break points: Alcaraz faced zero break points — HIGH (ESPN, Tennis Majors)\n- Winning streak: 11 matches — HIGH (multiple sources)\n- H2H: Alcaraz now leads Medvedev 8-3 — HIGH (Tribune India/ANI)\n- Left thigh medical timeout: leg strapped during second set — HIGH (ESPN, The Score)\n- Standings: Alcaraz 2-0, group winner, through to semis — HIGH\n- Medvedev: drops to 1-1, must beat Tiafoe Friday — HIGH",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Alcaraz beats Medvedev 6-2, 6-4 in Turin",
+          "url": "https://www.sofascore.com/news/atp-finals-alcaraz-beats-medvedev-6-2-6-4-in-turin",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Sofascore / ATP Tour-linked"
+        },
+        {
+          "name": "Carlos Alcaraz cruises past Daniil Medvedev at ATP Finals despite leg issue",
+          "url": "https://www.espn.com/tennis/story/_/id/50521030/alcaraz-cruises-medvedev-atp-finals-leg-issue",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "ESPN"
+        },
+        {
+          "name": "Alcaraz beats Medvedev in straight sets, one step from the semi-finals",
+          "url": "https://www.tennismajors.com/atp/nitto-atp-finals-atp/alcaraz-beats-medvedev-in-straight-sets-one-step-from-the-semi-finals-867235.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Tennis Majors"
+        },
+        {
+          "name": "Alcaraz beats Medvedev at ATP Finals despite physical issue",
+          "url": "https://www.thescore.com/atp/news/3658851/alcaraz-beats-medvedev-at-atp-finals-despite-physical-issue",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "The Score"
+        },
+        {
+          "name": "Alcaraz overpowers Medvedev, cruises into ATP Finals last four",
+          "url": "https://bworldonline.com/sports/2026/11/19/795267/alcaraz-overpowers-medvedev-cruises-into-atp-finals-last-four/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "BusinessWorld"
+        },
+        {
+          "name": "ATP Finals 2026: Carlos Alcaraz beats Daniil Medvedev to move closer to semi-finals",
+          "url": "https://www.tribuneindia.com/news/atp-finals/atp-finals-2026-carlos-alcaraz-beats-daniil-medvedev-to-move-closer-to-semi-finals",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Tribune India / ANI"
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Tiafoe Beats Cobolli 7-6(6), 6-0 — First ATP Finals Win",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Frances Tiafoe was down two set points in the tiebreak. Saved them, won it 8-6. Then won the second set 6-0. His first ever ATP Finals win, against Cobolli. 92 minutes of work. #ATPFinals #Tennis #ATP #Tiafoe",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Tiafoe"
+          ],
+          "char_count": 208
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Cobolli exits the ATP Finals without a win, 0-2 in the Lendl Group. Played in front of his home crowd in Turin and lost both matches. That is tough. Tiafoe is now 1-1 and plays Medvedev Friday. #ATPFinals #Tennis #ATP #Cobolli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Cobolli"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "Frances Tiafoe has been to the ATP Finals before. He never won a match there — until Wednesday.\n\nHe beat Flavio Cobolli 7-6(6), 6-0 in Turin, and the story of the match was written in the first-set tiebreak. Cobolli led 6-4, holding two set points. Tiafoe saved them both, then won the tiebreak 8-6. After that, the second set was one-sided: 6-0, with Tiafoe winning every game.\n\nIt was a tough night for Cobolli. He was playing in his home country, in front of a Turin crowd that wanted him to do well. He finishes the group stage 0-2, without a win, having led in the tiebreak of his second match and still come up short.\n\nTiafoe is now 1-1. He plays Daniil Medvedev on Friday for a place in the semifinals.\n\nWhat do you think of Tiafoe's chances against Medvedev?",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-tiafoe-beats-cobolli-first-atp-finals-win.html",
+        "headline": "Tiafoe Saves Two Set Points, Then Bagels Cobolli to Win First ATP Finals Match",
+        "word_count": 527
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tiafoe Beats Cobolli 7-6(6), 6-0\n\n#### Image Concept 2A (Social)\n**Type:** imagn photo\n**Search Term:** Frances Tiafoe ATP Tour\n**Credit:** (USA TODAY Sports Images)\n**Dimensions:** 1080x1350\n**Status:** not_started\n\n#### Image Concept 2B (Article Hero)\n**Type:** imagn photo\n**Search Term:** Flavio Cobolli ATP Tour\n**Credit:** (Imagn Images)\n**Dimensions:** 1200x630\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tiafoe Beats Cobolli 7-6(6), 6-0\n**Sources:**\n- Tennis Majors: \"'That was pretty brutal': Tiafoe silences Turin to crush Cobolli, Alcaraz tops group\" — https://www.tennismajors.com/atp/nitto-atp-finals-atp/tiafoe-crushes-cobolli-in-front-on-italian-crowd-alcaraz-qualified-as-group-winner-at-the-atp-finals-867257.html\n- TNT Sports: \"Frances Tiafoe beats Flavio Cobolli at Nitto ATP Finals 2026\" — https://www.tntsports.co.uk/tennis/atp-finals/2026/flavio-cobolli-frances-tiafoe_mtc22079864/live-commentary.shtml\n- Tennis Temple: \"ATP Finals: Tiafoe Eliminates Cobolli and Will Fight for a Semifinal Spot Against Medvedev\" — https://en.tennistemple.com/actu/atp-finals-tiafoe-eliminates-cobolli-and-will/fXrC\n- FinChannel: \"Tiafoe earns first ATP Finals win and sets Medvedev showdown\" — https://finchannel.com/tiafoe-earns-first-atp-finals-win-and-sets-medvedev-showdown/142202/sport/2026/11/\n**Key Facts (Confidence):**\n- Score: Tiafoe def. Cobolli 7-6(6), 6-0 — HIGH (multiple sources)\n- Duration: 1 hour 32 minutes — HIGH (Tennis Majors, confirmed multiple sources)\n- Tiebreak drama: Cobolli led 6-4 (two set points) before Tiafoe rallied to win 8-6 — HIGH (Tennis Majors)\n- Second set: Tiafoe won all six games (6-0 bagel) — HIGH\n- First ATP Finals win for Tiafoe — HIGH (Tennis Temple, FinChannel)\n- Cobolli eliminated at 0-2 — HIGH\n- Tiafoe advances to 1-1; plays Medvedev Friday — HIGH\n- Quote context (not attributed): \"That was pretty brutal\" — MEDIUM (Tennis Majors headline; full quote context not confirmed)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "'That was pretty brutal': Tiafoe silences Turin to crush Cobolli, Alcaraz tops group",
+          "url": "https://www.tennismajors.com/atp/nitto-atp-finals-atp/tiafoe-crushes-cobolli-in-front-on-italian-crowd-alcaraz-qualified-as-group-winner-at-the-atp-finals-867257.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Tennis Majors"
+        },
+        {
+          "name": "Frances Tiafoe beats Flavio Cobolli at Nitto ATP Finals 2026",
+          "url": "https://www.tntsports.co.uk/tennis/atp-finals/2026/flavio-cobolli-frances-tiafoe_mtc22079864/live-commentary.shtml",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "TNT Sports"
+        },
+        {
+          "name": "ATP Finals: Tiafoe Eliminates Cobolli and Will Fight for a Semifinal Spot Against Medvedev",
+          "url": "https://en.tennistemple.com/actu/atp-finals-tiafoe-eliminates-cobolli-and-will/fXrC",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Tennis Temple"
+        },
+        {
+          "name": "Tiafoe earns first ATP Finals win and sets Medvedev showdown",
+          "url": "https://finchannel.com/tiafoe-earns-first-atp-finals-win-and-sets-medvedev-showdown/142202/sport/2026/11/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "FinChannel"
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "ATP Finals Day 5 — Shelton vs Jodar and Fils vs Zverev Decide the McEnroe Group",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "ATP Finals Day 5 — McEnroe Group finale. Shelton (1-1) vs Jodar (0-2) not before 2pm CET. Fils (1-1) vs Zverev (2-0) not before 8:30pm CET. Shelton wins: he is through. If not, Fils's fate depends on the standings. #ATPFinals #Tennis #ATP #ATPFinals2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#ATPFinals2026"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "The McEnroe Group finale is today, and two players have something significant at stake.\n\nBen Shelton (1-1) plays Rafael Jodar (0-2) this afternoon — not before 2:00 PM CET. Shelton needs the win to book his place in the ATP Finals semifinals. Jodar is already eliminated, having lost both his group matches, but he's still playing and he's a competitor.\n\nThen at 8:30 PM CET, Alexander Zverev (2-0, already through) plays Arthur Fils (1-1). Fils is still alive. If Shelton wins, he advances regardless of what happens in the evening match. If Shelton loses, Fils can still reach the last four if the standings fall right.\n\nZverev playing a \"dead rubber\" after his work is done could also mean Fils gets a chance to push for a result he needs. That's the tension in tonight's late match.\n\nWho advances from the McEnroe Group alongside Zverev?",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-day-5-mcentroe-group-shelton-jodar-fils-zverev.html",
+        "headline": "ATP Finals Day 5: McEnroe Group Closes Out — What's at Stake for Shelton and Fils",
+        "word_count": 561
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ATP Finals Day 5 — McEnroe Group\n\n#### Image Concept 3A (Social)\n**Type:** imagn photo\n**Search Term:** Ben Shelton ATP Tour\n**Credit:** (USA TODAY Sports Images)\n**Dimensions:** 1080x1350\n**Status:** not_started\n\n#### Image Concept 3B (Article Hero)\n**Type:** imagn photo\n**Search Term:** Arthur Fils ATP Tour\n**Credit:** (Imagn Images)\n**Dimensions:** 1200x630\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ATP Finals Day 5 — McEnroe Group\n**Sources:**\n- ATP Tour official: \"Ben Shelton faces Rafael Jodar, Alexander Zverev meets Arthur Fils on Day 5 at Nitto ATP Finals\" — https://www.atptour.com/en/news/shelton-jodar-zverev-fils-nitto-atp-finals-2026-day-5-preview\n- ATP Tour official schedule: https://www.atptour.com/en/scores/current/nitto-atp-finals/605/daily-schedule?day=5\n- Nittoatpfinals.com: \"Nitto ATP Finals 2026 Schedule\" — https://www.nittoatpfinals.com/en/news/nitto-atp-finals-2026-schedule\n**Key Facts (Confidence):**\n- Day 5 date: Thursday, November 19, 2026 — HIGH (ATP Tour official)\n- Shelton vs Jodar: not before 2:00 PM CET (8:00 AM ET) — HIGH (ATP Tour)\n- Fils vs Zverev: not before 8:30 PM CET (2:30 PM ET) — HIGH (ATP Tour)\n- First meeting between Shelton and Jodar (H2H 0-0) — HIGH (ATP Tour)\n- Standings: Zverev 2-0 (through), Shelton 1-1, Fils 1-1, Jodar 0-2 — HIGH\n- Fils path: can advance even with a loss if Shelton also loses (sets tiebreak) — MEDIUM (derived from standings logic)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Ben Shelton faces Rafael Jodar, Alexander Zverev meets Arthur Fils on Day 5 at Nitto ATP Finals",
+          "url": "https://www.atptour.com/en/news/shelton-jodar-zverev-fils-nitto-atp-finals-2026-day-5-preview",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "ATP Tour official"
+        },
+        {
+          "name": "ATP Tour official schedule",
+          "url": "https://www.atptour.com/en/scores/current/nitto-atp-finals/605/daily-schedule?day=5",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Nitto ATP Finals 2026 Schedule",
+          "url": "https://www.nittoatpfinals.com/en/news/nitto-atp-finals-2026-schedule",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Nittoatpfinals.com"
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Medvedev vs Tiafoe Friday — Lendl Group's Second Semifinal Spot",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Friday in Turin: Medvedev (1-1) vs Tiafoe (1-1). Winner takes the last Lendl Group semifinal spot and faces Zverev. Medvedev leads career H2H 4-0. The final group match that actually matters. #ATPFinals #Tennis #ATP #Medvedev",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Medvedev"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "The last group-stage match with genuine stakes at the 2026 ATP Finals is on Friday — Daniil Medvedev against Frances Tiafoe.\n\nBoth players are 1-1 in the Ivan Lendl Group. The winner reaches the semifinals. The loser goes home. Carlos Alcaraz is already through as the group winner, so this one truly is a straight shoot-out.\n\nMedvedev leads their career head-to-head record 4-0 — the numbers favour the Russian. But Tiafoe has been building toward this. His first ATP Finals win came on Wednesday, and there is nothing about his game that makes him a pushover indoors. He saved two set points in the tiebreak against Cobolli before dominating the second set, which speaks to resilience under pressure.\n\nThe winner faces Zverev in the semifinals on Saturday.\n\nWhich player do you back — Medvedev or Tiafoe?",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-medvedev-tiafoe-lendl-group-decider-friday.html",
+        "headline": "Medvedev vs Tiafoe: The Lendl Group's Semifinal Spot Comes Down to Friday",
+        "word_count": 482
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Medvedev vs Tiafoe — Friday\n\n#### Image Concept 4A (Social)\n**Type:** imagn photo\n**Search Term:** Daniil Medvedev ATP Tour\n**Credit:** (USA TODAY Sports Images)\n**Dimensions:** 1080x1350\n**Status:** not_started\n\n#### Image Concept 4B (Article Hero)\n**Type:** imagn photo\n**Search Term:** Frances Tiafoe ATP Tour\n**Credit:** (Imagn Images)\n**Dimensions:** 1200x630\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Medvedev vs Tiafoe Friday\n**Sources:**\n- Derived from confirmed Day 4 standings and ATP Finals schedule\n- ATP Tour schedule: Lendl Group Day 6 = Friday November 20 — HIGH\n- Career H2H Medvedev leads Tiafoe 4-0 — MEDIUM (confirmed by prior research; not independently verified today)\n**Key Facts (Confidence):**\n- Match date: Friday, November 20 — HIGH\n- Medvedev (1-1) vs Tiafoe (1-1) — HIGH\n- Winner reaches semifinals; loser eliminated — HIGH\n- Alcaraz (2-0) already through as Lendl Group winner — HIGH\n- Other Friday match: Alcaraz vs Cobolli (no semifinal implications) — HIGH\n- Career H2H: Medvedev leads Tiafoe 4-0 — MEDIUM",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Rybakina Closes 2026 as WTA World No. 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Elena Rybakina closes 2026 as WTA World No. 1 — the first player representing Kazakhstan to end a year at the top. She is the 17th player in WTA history to achieve it. Andreeva ends at No. 2. #WTA #Tennis #WTARankings #Rybakina",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTA",
+            "#Tennis",
+            "#WTARankings",
+            "#Rybakina"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "Elena Rybakina ends 2026 at the top of the WTA rankings, cementing a historic year with a distinction no player representing Kazakhstan has held before.\n\nShe is the 17th player in WTA history to close a season ranked No. 1 in the world. Rybakina clinched the position on October 29 at the Pan Pacific Open in Tokyo, finishing the year with 8,099 ranking points. She receives the Chris Evert WTA No. 1 Trophy.\n\nMirra Andreeva, who won the 2026 WTA Finals in Indian Wells without dropping a set, closes the season at No. 2 with 7,806 points. Iga Swiatek, who held the year-end No. 1 position in 2022, 2023, and 2024, finishes 2026 at No. 9.\n\nIt is the kind of season that reshapes how people talk about the sport. Rybakina is at the top of the game.\n\nWho do you think makes the biggest leap in the WTA rankings in 2027?",
+        "image_caption": "",
+        "posting_time": "9:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-rybakina-year-end-wta-no-1-kazakhstan.html",
+        "headline": "Rybakina Closes 2026 as WTA World No. 1 — First From Kazakhstan to Achieve It",
+        "word_count": 485
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rybakina Year-End WTA No. 1\n\n#### Image Concept 5A (Social)\n**Type:** imagn photo\n**Search Term:** Elena Rybakina WTA\n**Credit:** (USA TODAY Sports Images)\n**Dimensions:** 1080x1350\n**Status:** not_started\n\n#### Image Concept 5B (Article Hero)\n**Type:** imagn photo\n**Search Term:** Elena Rybakina WTA Tour\n**Credit:** (Imagn Images)\n**Dimensions:** 1200x630\n**Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Rybakina Year-End WTA No. 1\n**Sources:**\n- WTA Tennis official (wtatennis.com): Year-end rankings announcement — https://www.wtatennis.com (year-end No. 1 confirmation)\n- Research sub-agent summary: Rybakina clinched Oct 29 at Pan Pacific Open, Tokyo; 8,099 pts; Andreeva 7,806; Swiatek No. 9\n**Key Facts (Confidence):**\n- Rybakina year-end No. 1 — HIGH (wtatennis.com official)\n- First Kazakhstan player to achieve year-end No. 1 — HIGH\n- 17th player in WTA history to achieve year-end No. 1 — HIGH (from WTA official)\n- Clinched at Pan Pacific Open, Tokyo, October 29 — HIGH\n- Year-end points: Rybakina 8,099; Andreeva 7,806 — HIGH\n- Chris Evert WTA No. 1 Trophy — HIGH (official WTA ceremony)\n- Swiatek No. 9 at year-end — MEDIUM (single source)\n- Andreeva No. 2 (covered Nov 18, confirmed from wtatennis.com) — HIGH",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Year-end rankings announcement",
+          "url": "https://www.wtatennis.com",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "WTA Tennis official (wtatennis.com)"
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

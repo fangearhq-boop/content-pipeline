@@ -1,6 +1,36 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-11-18
+## Current Run: 2026-11-19
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Alcaraz d. Medvedev 6-2, 6-4 (72 min, 0 BPs, streak 11, H2H 8-3, left thigh strapped); Tiafoe d. Cobolli 7-6(6), 6-0 (saved 2 set points, bagelled S2, first ATP Finals win); Day 5 McEnroe Group: Shelton (1-1) vs Jodar (0-2) afternoon, Zverev (2-0 through) vs Fils (1-1) evening; Medvedev vs Tiafoe Friday (both 1-1, Medvedev H2H 4-0); Rybakina year-end WTA No. 1 (8,099 pts, 17th in history, Andreeva No. 2, Swiatek No. 9). Sources: NBC Sports, TennisGrandstand, ATP Tour official, wtatennis.com |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Nov 18 S3: Day 4 preview Alcaraz-Medvedev → Alcaraz wins); S2 FOLLOW-UP (Nov 18 S3: Day 4 preview Cobolli-Tiafoe → Tiafoe first win); S3 FOLLOW-UP (Nov 18 S4: McEnroe Group standings → Day 5 finale); S4 FOLLOW-UP (Nov 19 S2: Tiafoe beats Cobolli → Friday decider); S5 NEW (year-end WTA rankings) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Ryan Calloway [S1,S4], Elena Voss [S2,S5], Marcus Cole [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories (2 each for S1+S2, 1 each for S3-S5); all ≤280 chars |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories; player-name-only search terms |
+| Articles (5) | COMPLETE | article-01 Alcaraz beats Medvedev (Ryan Calloway T1 ~530w); article-02 Tiafoe beats Cobolli (Elena Voss T1 ~510w); article-03 Day 5 McEnroe Group (Marcus Cole T2 ~510w); article-04 Medvedev vs Tiafoe Friday (Ryan Calloway T2 ~520w); article-05 Rybakina WTA No. 1 (Elena Voss T2 ~490w) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 28 claims extracted; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 5 images |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-11-19.xlsx (7 posts) + tfr-postplanner-tobi-2026-11-19.xlsx (7 TOBI posts); FB=0 in export (pre-existing format mismatch) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 19 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB image captions
+- **Articles:** 5 (bylines: Ryan Calloway [S1,S4], Elena Voss [S2,S5], Marcus Cole [S3])
+- **Key stories:** Alcaraz 6-2, 6-4 over Medvedev (streak 11, H2H 8-3, left thigh strapped); Tiafoe first ATP Finals win 7-6(6), 6-0 over Cobolli; Day 5 McEnroe Group finale (Shelton needs win, Fils still alive); Medvedev vs Tiafoe Friday group decider (H2H 4-0 Medvedev); Rybakina year-end WTA No. 1 (first from Kazakhstan, 17th in history)
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); PostPlanner FB=0 (pre-existing format mismatch)
+
+---
+
+## Previous Run: 2026-11-18 (archived)
 
 | Step | Status | Notes |
 |------|--------|-------|
