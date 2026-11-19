@@ -1,10 +1,31 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Current Status
-**Last Run:** 2026-11-18
+**Last Run:** 2026-11-19
 **Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy; git push via git remote
 
 ## Pipeline Run Log
+
+### 2026-11-19 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles, image manifest)
+- Step 10: verify-facts.py — 5 stories, 20 claims, HIGH: 41; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 0 FB posts (known parsing), 5 articles; validation all clear
+- Step 11: Image manifest created (not_started for all — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (22 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy; content-dashboards not in session scope)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via git remote with PAT
+
+**Stories covered:**
+1. T1 NEW: Heat 137, Bucks 130 — Giannis first game vs former team; 27/14/9; 22 3PTRs; Miami 6-game streak; Bucks 1-14 (Jake Torres)
+2. T1 NEW: Mavericks 116, Warriors 94 — Flagg 33 (11-15 FG), 15th career 30-pt game (2nd-most teen in NBA history); Washington 21; Kyrie 17 (Marcus Cole)
+3. T2 NEW: Nuggets 105, Celtics 101 — Jokic 24/8/9; Murray 21; DeRozan sealed FTs at 49s; down 17 at half (Damon Pierce)
+4. T2 NEW: Hawks 117, Thunder 112 — Okongwu season-high 28; Johnson TD; SGA 34 but 3 in Q4; Dort/Wiggins homecoming (Jake Torres)
+5. T3 NEW: Thursday NBA Slate — 4 games; Bucks home, Spurs bounce back, Knicks-Wolves, Warriors-Grizzlies (Marcus Cole)
+
+---
 
 ### 2026-11-18 ✅ (Automated)
 - Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles, image manifest)

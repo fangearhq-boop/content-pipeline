@@ -1,0 +1,426 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-19",
+  "compiled_at": "2026-11-19T11:18:08.848839+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Heat 137, Bucks 130 — Giannis Beats Former Team in Emotional Return",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Giannis returned to face his old team and finished with 27 pts, 14 reb, 9 ast. Miami made 22 threes. Heat win their 6th straight. Bucks fall to 1-14. As Giannis said: \"as special as every other night.\" 🏀 #HeatNation",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HeatNation"
+          ],
+          "char_count": 215
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Bucks are 1-14. FOURTEEN losses. The team that gave up Giannis is watching him win with a different jersey. Brutal storyline. #NBATwitter",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBATwitter"
+          ],
+          "char_count": 141
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-giannis-heat-beat-bucks.html",
+        "headline": "Giannis Returns, Wins: Heat Beat Bucks 137-130 for Sixth Straight",
+        "word_count": 485
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Heat 137, Bucks 130 — Giannis vs Former Team\n\n**Image 1A** | Social (1080x1350) | X/Facebook\n- **Photo source:** imagn\n- **Search terms:** \"Giannis Antetokounmpo Miami Heat\"\n- **Text overlay:** \"27 PTS · 14 REB · 9 AST / HEAT WIN 6th STRAIGHT\"\n- **Brand colors:** Miami Heat red/black/white\n- **Mood:** Triumphant return\n\n**Image 1B** | Social (1080x1350) | Facebook\n- **Photo source:** imagn\n- **Search terms:** \"Bam Adebayo Miami Heat\"\n- **Text overlay:** \"HEAT 137 · BUCKS 130 / MIAMI: 9-6 · MILWAUKEE: 1-14\"\n- **Brand colors:** Heat red\n- **Mood:** Dominant\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Heat 137, Bucks 130 — Giannis vs Former Team\n**Sources:**\n- https://sports.yahoo.com/articles/giannis-antetokounmpo-beats-bucks-first-031259402.html\n- https://nba.com/heat/news/coups-takeaways-heat-bucks-six-straight-wins-antetokounmpo-adebayo-mitchell\n- https://www.espn.com/nba/story/_/id/50528238/giannis-bam-adebayo-put-drama-aside-heat-hold-bucks\n- https://hothothoops.com/2026/11/19/player-grades-miami-heat-bucks-vice-city/\n**Facts gathered:**\n- Heat beat Bucks 137-130 on November 18, 2026, in Miami (Vice City Night)\n- Giannis Antetokounmpo: 27 pts, 14 reb, 9 ast — first game vs Milwaukee since trade\n- Bam Adebayo: 26 pts\n- Davion Mitchell: 24 pts\n- Miami made 22 three-pointers (season-high per NBA.com)\n- Heat record: 9-6, sixth consecutive win; 9-2 since 0-4 start\n- Bucks record: 1-14 (NBA-worst)\n- Giannis quote: called it \"as special as every other night\"\n- Former Bucks players (Tyler Herro, Jaime Jaquez Jr., Kel'el Ware, Kasparas Jakucionis) on Bucks roster, combined 49 pts\n**Confidence:**\n- Heat 137, Bucks 130 — HIGH (multiple sources)\n- Giannis 27/14/9 — HIGH (ESPN, Yahoo, NBA.com)\n- Bam 26, Mitchell 24 — HIGH (CBS Sports, Yahoo)\n- 22 three-pointers — HIGH (NBA.com)\n- Bucks 1-14 — HIGH (multiple sources)\n- Heat 6-game win streak — HIGH (multiple sources)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/giannis-antetokounmpo-beats-bucks-first-031259402.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "nba.com",
+          "url": "https://nba.com/heat/news/coups-takeaways-heat-bucks-six-straight-wins-antetokounmpo-adebayo-mitchell",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "espn.com",
+          "url": "https://www.espn.com/nba/story/_/id/50528238/giannis-bam-adebayo-put-drama-aside-heat-hold-bucks",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "hothothoops.com",
+          "url": "https://hothothoops.com/2026/11/19/player-grades-miami-heat-bucks-vice-city/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Flagg Erupts for 33, Mavericks Rout Shorthanded Warriors 116-94",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Cooper Flagg: 33 PTS (11-15 FG), 9 AST, 5 REB, 3 STL. 15th career 30-pt game at 19 years old — only LeBron James had more as a teenager. Dallas blows out Warriors 116-94. #MFFL",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MFFL"
+          ],
+          "char_count": 176
+        },
+        {
+          "label": "Post 2-2",
+          "text": "No Steph. No Butler. No Porzingis. Mavs didn't care. 34 assists as a team. Kyrie Irving back with 17. PJ Washington adds 21. Dallas ends a 3-game skid with authority. 116-94. #MFFL",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MFFL"
+          ],
+          "char_count": 180
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-flagg-33-mavericks-warriors.html",
+        "headline": "Flagg Erupts for 33, Mavericks Rout Shorthanded Warriors 116-94",
+        "word_count": 441
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Mavericks 116, Warriors 94 — Flagg 33\n\n**Image 2A** | Social (1080x1350) | X/Facebook\n- **Photo source:** imagn\n- **Search terms:** \"Cooper Flagg Dallas Mavericks\"\n- **Text overlay:** \"FLAGG: 33 PTS · 9 AST / 15th Career 30-Point Game\"\n- **Brand colors:** Mavericks blue/silver\n- **Mood:** Star power\n\n**Image 2B** | Social (1080x1350) | Facebook\n- **Photo source:** imagn\n- **Search terms:** \"Cooper Flagg Dallas Mavericks\"\n- **Text overlay:** \"MAVS 116, WARRIORS 94 / 3-GAME SKID SNAPPED\"\n- **Brand colors:** Mavericks blue\n- **Mood:** Blowout victory\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mavericks 116, Warriors 94 — Flagg 33\n**Sources:**\n- https://www.theticket.com/2026/11/18/cooper-flaggs-33-points-help-mavericks-end-skid-take-down-warriors/\n- https://www.mavsmoneyball.com/dallas-mavericks-game-coverage/64028/mavericks-vs-warriors-recap-cooper-flagg-leads-dallas-to-dominant-116-94-win-over-golden-state-steph-curry\n- https://sports.yahoo.com/articles/3-things-led-mavericks-cathartic-034132950.html\n- https://dallassportsjournal.com/mavericks-warriors-recap-cooper-flagg-pj-washington-kyrie-irving/\n- https://www.espn.com/nba/recap?gameId=401910016\n**Facts gathered:**\n- Mavericks 116, Warriors 94 on November 18, 2026, at American Airlines Center\n- Cooper Flagg: 33 pts (11-of-15 FG), 9 ast, 5 reb, 3 stl\n- Flagg 15th career 30-point game, second-most by teenager in NBA history behind LeBron (20)\n- P.J. Washington Jr.: 21 pts\n- Kyrie Irving: 17 pts (returned from one-game absence)\n- Dallas posted season-high 34 assists\n- Dallas led 35-25 after Q1; led by as many as 29 points\n- Warriors without Stephen Curry (out at least another week), Jimmy Butler, Kristaps Porzingis\n- Warriors shot 24% from 3-point range\n- Dallas snapped 3-game losing streak\n**Confidence:**\n- Mavericks 116, Warriors 94 — HIGH (ESPN, multiple sources)\n- Flagg 33 (11-15 FG) — HIGH (multiple sources)\n- Flagg 15th career 30-pt game, teen record context — MEDIUM (single team source)\n- Washington 21, Irving 17 — HIGH\n- 34 assists season-high — MEDIUM (team source)\n- Curry/Butler/Porzingis out — HIGH (multiple sources)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "theticket.com",
+          "url": "https://www.theticket.com/2026/11/18/cooper-flaggs-33-points-help-mavericks-end-skid-take-down-warriors/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "mavsmoneyball.com",
+          "url": "https://www.mavsmoneyball.com/dallas-mavericks-game-coverage/64028/mavericks-vs-warriors-recap-cooper-flagg-leads-dallas-to-dominant-116-94-win-over-golden-state-steph-curry",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/3-things-led-mavericks-cathartic-034132950.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "dallassportsjournal.com",
+          "url": "https://dallassportsjournal.com/mavericks-warriors-recap-cooper-flagg-pj-washington-kyrie-irving/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "espn.com",
+          "url": "https://www.espn.com/nba/recap?gameId=401910016",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Nuggets Rally From 17 Down to Edge Celtics 105-101",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Down 17 at halftime. Jokic: 24/8/9. Murray: 21. DeRozan sealed it at the line with 49 seconds left. Nuggets 105, Celtics 101. Tatum: 20 first half, 4 second half. Classic Denver. #Nuggets",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Nuggets"
+          ],
+          "char_count": 187
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-nuggets-celtics-comeback.html",
+        "headline": "Nuggets Rally From 17 Down, Edge Celtics 105-101 Behind Jokic and Murray",
+        "word_count": 433
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nuggets 105, Celtics 101\n\n**Image 3A** | Social (1080x1350) | X/Facebook\n- **Photo source:** imagn\n- **Search terms:** \"Nikola Jokic Denver Nuggets\"\n- **Text overlay:** \"JOKIC: 24/8/9 / DOWN 17. NEVER QUIT.\"\n- **Brand colors:** Nuggets gold/navy\n- **Mood:** Comeback resilience\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Nuggets 105, Celtics 101 — Comeback From 17 Down\n**Sources:**\n- https://www.denverstiffs.com/recap-nuggets-storm-back-from-17-down-to-defeat-the-celtics-105-101/\n- https://www.espn.com/nba/recap?gameId=401910015\n- https://www.denver7.com/sports/nuggets/jokic-scores-24-murray-adds-21-nuggets-rally-from-17-point-deficit-to-beat-celtics-105-101\n- https://www.bostonsportsjournal.com/2026/11/18/bsj-game-report-nuggets-105-celtics-101-boston-made-a-mess\n- https://www.nbcboston.com/nba/boston-celtics/live-updates-nikoka-jokic-denver-nuggets/4051724/\n**Facts gathered:**\n- Nuggets 105, Celtics 101 on November 18, 2026, at Ball Arena (Denver)\n- Nikola Jokic: 24 pts, 8 reb, 9 ast\n- Jamal Murray: 21 pts\n- DeMar DeRozan: 18 pts (13 in Q4); 2 FTs with 49s left sealed the win\n- Denver outscored Boston 56-40 in second half\n- Boston led by 17 in first half\n- Jayson Tatum: 24 pts (20 in first half, only 4 in second half)\n- Neemias Queta: 17 pts, 10 reb; putback gave Boston 101-100 lead with ~1 min left\n- Boston whistled for 30 fouls, Denver 13 (Tatum tech in final seconds)\n- Nuggets moved to 8-5; Celtics dropped to 11-4\n**Confidence:**\n- Nuggets 105, Celtics 101 — HIGH (multiple sources)\n- Jokic 24/8/9 — HIGH (AP, ESPN, Denver Stiffs — slight variance on assists 8 vs 9)\n- Murray 21 — HIGH\n- DeRozan 18, sealed with FTs at 49s — HIGH (ESPN, Denver Stiffs)\n- Tatum 24 (20 first half, 4 second half) — HIGH (NBC Boston)\n- 17-point deficit — HIGH (multiple sources)\n- Nuggets 8-5, Celtics 11-4 — HIGH",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "denverstiffs.com",
+          "url": "https://www.denverstiffs.com/recap-nuggets-storm-back-from-17-down-to-defeat-the-celtics-105-101/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "espn.com",
+          "url": "https://www.espn.com/nba/recap?gameId=401910015",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "denver7.com",
+          "url": "https://www.denver7.com/sports/nuggets/jokic-scores-24-murray-adds-21-nuggets-rally-from-17-point-deficit-to-beat-celtics-105-101",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "bostonsportsjournal.com",
+          "url": "https://www.bostonsportsjournal.com/2026/11/18/bsj-game-report-nuggets-105-celtics-101-boston-made-a-mess",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "nbcboston.com",
+          "url": "https://www.nbcboston.com/nba/boston-celtics/live-updates-nikoka-jokic-denver-nuggets/4051724/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Okongwu's Season-High 28 Lifts Hawks Past Thunder 117-112",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "4:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Onyeka Okongwu: season-high 28 PTS, 9 REB. Jalen Johnson: 16/12/11 triple-double. SGA scored 34 but just 3 in the 4th. Hawks win 117-112 in OKC. Dort + Wiggins combined for 30 in their return. #TrueToAtlanta",
+          "posting_time": "4:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TrueToAtlanta"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-okongwu-hawks-beat-thunder.html",
+        "headline": "Okongwu's Season-High 28, Johnson Triple-Double Power Hawks Past Thunder 117-112",
+        "word_count": 428
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hawks 117, Thunder 112 — Okongwu\n\n**Image 4A** | Social (1080x1350) | X/Facebook\n- **Photo source:** imagn\n- **Search terms:** \"Onyeka Okongwu Atlanta Hawks\"\n- **Text overlay:** \"OKONGWU: 28 PTS (SEASON HIGH) / HAWKS WIN IN OKC\"\n- **Brand colors:** Hawks red/black/gold\n- **Mood:** Breakout performance\n\n**Image 4B** | Social (1080x1350) | Facebook\n- **Photo source:** imagn\n- **Search terms:** \"Jalen Johnson Atlanta Hawks\"\n- **Text overlay:** \"JALEN JOHNSON: 16/12/11 TRIPLE-DOUBLE\"\n- **Brand colors:** Hawks\n- **Mood:** All-around excellence\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hawks 117, Thunder 112 — Okongwu 28\n**Sources:**\n- https://sports.yahoo.com/articles/okongwu-28-points-help-hawks-033310557.html\n- https://www.espn.com/nba/recap?gameId=401910014\n- https://www.peachtreehoops.com/recaps/73749/okongwu-28-points-onyeka-atlanta-hawks-hold-oklahoma-city-thunder-nba-recap-final-score\n- https://news9.com/oklahoma-city-thunder/former-thunder-players-dort-wiggins-help-hawks-beat-oklahoma-city-117-112\n- https://clutchpoints.com/nba/oklahoma-city-thunder/thunder-news-mark-daigneault-reflects-lu-dort-aaron-wiggins-legacy-loss-hawks\n**Facts gathered:**\n- Hawks 117, Thunder 112 on November 18, 2026, in Oklahoma City\n- Onyeka Okongwu: season-high 28 pts, 9 reb, 1 blk\n- Nickeil Alexander-Walker: 19 pts, 4 reb, 7 ast\n- Jalen Johnson: 16 pts, 12 reb, 11 ast (triple-double)\n- Lu Dort and Aaron Wiggins (former OKC) combined for 30 pts in return\n- Shai Gilgeous-Alexander: 34 pts, led OKC (held to 3 in Q4)\n- Jared McCain: 18 pts for OKC\n- Isaiah Hartenstein: 17 reb for OKC\n- Atlanta led by 13 at halftime; OKC erased to tie at 83 entering Q4; Hawks pulled away with 8-0 run midway through Q4\n- OKC coach Mark Daigneault praised Dort and Wiggins post-game\n**Confidence:**\n- Hawks 117, Thunder 112 — HIGH (multiple sources)\n- Okongwu 28/9 season high — HIGH (ESPN, Peachtree Hoops, Yahoo)\n- Johnson triple-double 16/12/11 — HIGH (ESPN)\n- SGA 34, held to 3 in Q4 — HIGH (multiple sources)\n- Dort/Wiggins combined 30 in return — HIGH (News9, ClutchPoints)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/okongwu-28-points-help-hawks-033310557.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "espn.com",
+          "url": "https://www.espn.com/nba/recap?gameId=401910014",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "peachtreehoops.com",
+          "url": "https://www.peachtreehoops.com/recaps/73749/okongwu-28-points-onyeka-atlanta-hawks-hold-oklahoma-city-thunder-nba-recap-final-score",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "news9.com",
+          "url": "https://news9.com/oklahoma-city-thunder/former-thunder-players-dort-wiggins-help-hawks-beat-oklahoma-city-117-112",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "clutchpoints.com",
+          "url": "https://clutchpoints.com/nba/oklahoma-city-thunder/thunder-news-mark-daigneault-reflects-lu-dort-aaron-wiggins-legacy-loss-hawks",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Thursday NBA Slate — Six Games, Including Rockets at Knicks",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Thursday NBA action tonight: Trail Blazers at Bucks, Clippers at Spurs, Knicks at Timberwolves, Warriors at Grizzlies. Bucks try to avoid 1-15. Spurs bounce back. Big night. #NBA",
+          "posting_time": "7:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 178
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "7:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-thursday-nba-preview.html",
+        "headline": "Thursday NBA Preview: Spurs Regroup, Bucks Seek Redemption in Four-Game Slate",
+        "word_count": 465
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Thursday Slate\n\n**Image 5A** | Social (1080x1350) | Facebook\n- **Photo source:** imagn\n- **Search terms:** \"NBA basketball court\"\n- **Text overlay:** \"THURSDAY NIGHT NBA / 4 GAMES · NOV. 19\"\n- **Brand colors:** HH blue/gold\n- **Mood:** Hype/preview\n\n---\n\n**Article Hero Images** (1200x630)\n\n**Story 1 Hero:** Giannis Antetokounmpo Miami Heat — full-court celebration scene\n**Story 2 Hero:** Cooper Flagg Dallas Mavericks — mid-game action\n**Story 3 Hero:** Nikola Jokic Denver Nuggets — fourth quarter focus\n**Story 4 Hero:** Onyeka Okongwu Atlanta Hawks — scoring pose\n**Story 5 Hero:** NBA logo/court panoramic"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Thursday NBA Slate — Nov 19\n**Sources:**\n- https://www.cbssports.com/nba/scoreboard/\n**Facts gathered:**\n- Thursday November 19 slate includes approximately 6 games\n- Rockets at Knicks is the premier matchup\n- Celtics hosting Pacers in bounce-back game\n- Other games to be confirmed from official schedule\n**Confidence:**\n- Rockets vs Knicks on Thursday Nov 19 — MEDIUM (from schedule context)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "cbssports.com",
+          "url": "https://www.cbssports.com/nba/scoreboard/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

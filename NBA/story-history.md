@@ -2,6 +2,45 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-11-19 Stories
+
+### STORY 1: Heat 137, Bucks 130 — Giannis Beats Former Team in Emotional Return
+- **Tier:** 1
+- **Category:** Miami Heat / Milwaukee Bucks / Giannis Antetokounmpo / Bam Adebayo
+- **Key facts:** Giannis 27/14/9 (first game vs Bucks since trade); Bam 26; Mitchell 24; 22 3-pointers; Heat 6-game win streak (9-6); Bucks 1-14 (NBA-worst); former Bucks (Herro, Jaquez, Ware, Jakucionis) combined 49 for MIL
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Mavericks 116, Warriors 94 — Cooper Flagg 33 Points
+- **Tier:** 1
+- **Category:** Dallas Mavericks / Golden State Warriors / Cooper Flagg / Kyrie Irving
+- **Key facts:** Flagg 33 (11-15 FG), 9 ast, 5 reb, 3 stl; 15th career 30-pt game (2nd-most by teen, behind LeBron 20); Washington 21; Irving 17 (returned); season-high 34 assists; Warriors without Curry/Butler/Porzingis; DAL ends 3-game skid
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Nuggets 105, Celtics 101 — Comeback From 17 Down
+- **Tier:** 2
+- **Category:** Denver Nuggets / Boston Celtics / Nikola Jokic / DeMar DeRozan
+- **Key facts:** Jokic 24/8/9ast; Murray 21; DeRozan 18 (13 in Q4, sealed with FTs at 49s); DEN outscored BOS 56-40 in 2nd half; Tatum 24 (20 first half, 4 second half); Queta 17/10 for BOS; DEN 8-5; BOS 11-4
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: Hawks 117, Thunder 112 — Okongwu Season-High 28
+- **Tier:** 2
+- **Category:** Atlanta Hawks / Oklahoma City Thunder / Onyeka Okongwu / Jalen Johnson
+- **Key facts:** Okongwu season-high 28/9; Johnson 16/12/11 TD; Alexander-Walker 19; SGA 34 (3 in Q4); McCain 18, Hartenstein 17 reb for OKC; Dort + Wiggins combined 30 in return; ATL led 13 at half, OKC tied at 83 in Q4, Hawks 8-0 run sealed it
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: Thursday NBA Slate — Bucks, Spurs, Knicks-Wolves, Warriors-Grizzlies
+- **Tier:** 3
+- **Category:** NBA Preview / Milwaukee Bucks / San Antonio Spurs / Knicks Timberwolves
+- **Key facts:** Four games at 8:00 PM ET; Bucks home game (1-14); Spurs bounce back after losing 12-game streak; Knicks vs Timberwolves West-East clash; Warriors without Curry/Butler/Porzingis at Memphis
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+---
+
 ## 2026-11-15 Stories
 
 ### STORY 1: Heat 137, Pistons 117 — Giannis 34/14/8, Klay 26 on Return
