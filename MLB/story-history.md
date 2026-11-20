@@ -5,6 +5,65 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## November 20, 2026
+
+### Story 1: Skubal Watch — Mets Still Favored, Decision Expected Within Days
+- **Date:** 2026-11-20
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Skubal covered Oct 30–Nov 19)
+- **Angle:** Mets are "industry favorites" per ESPN following Orange County meeting "went very well." Dodgers backing off (want shorter deal). Blue Jays still in final group. Contract projections $325M–$429M. Decision expected before Dec. 1 CBA expiration.
+- **Content Produced:** Article (article-01, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Skubal signing announcement
+  - Record contract details
+  - Team reaction/rotation outlook
+
+### Story 2: CBA Countdown — 11 Days, No Deal, Lockout Expected Dec. 2
+- **Date:** 2026-11-20
+- **Tier:** 1
+- **Classification:** FOLLOW UP (CBA covered Oct 30–Nov 19)
+- **Angle:** Owners meetings (Nov 17-19 NY) concluded with no progress. Salary cap the core dispute. Dec. 1 expiration, lockout Dec. 2. Fan FAQ: what happens, what's frozen, the 99-day 2021 precedent, early-March deadline for game losses.
+- **Content Produced:** Article (article-02, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Lockout begins Dec. 2
+  - New CBA framework announced
+  - 2027 season start date confirmation
+
+### Story 3: Suzuki to San Diego? Padres Emerge as Frontrunner
+- **Date:** 2026-11-20
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Suzuki covered Nov 15–19)
+- **Angle:** Passan reports Padres met with Suzuki and "could be the favorites." Mariners won't do long-term. Blue Jays pursuing both Suzuki + Chisholm. Cubs lose Suzuki + Happ + full rotation. Spotrac: 4yr/$109.9M.
+- **Content Produced:** Article (article-03, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Suzuki signing announcement
+  - Padres outfield construction
+  - Blue Jays pivot if Suzuki signs elsewhere
+
+### Story 4: Teruaki Sato's Dec. 16 Deadline — The Lockout Loophole
+- **Date:** 2026-11-20
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Sato covered Nov 15–19)
+- **Angle:** Fresh angle — Sato CAN be signed during MLB lockout because NPB posting agreements are outside CBA framework. Dec. 16 window stays open. Teams that miss Skubal can still get Sato. If unsigned by Dec. 16, returns to Hanshin for one year.
+- **Content Produced:** Article (article-04, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Sato signing announcement (before Dec. 16)
+  - Sato contract details
+  - Team reaction/defensive positioning
+
+### Story 5: Randy Arozarena's $100M+ Ask is Stalling His Market
+- **Date:** 2026-11-20
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Arozarena QO decline covered Nov 17–19)
+- **Angle:** Suitors balking at $100M+ ask (Passan). Mariners won't offer long-term. QO compensation attached. Dec. 1 lockout gives him 11 days to get a deal done or wait until spring. Something has to give — historically it's the player's ask.
+- **Content Produced:** Article (article-05, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Arozarena signing (before or after lockout)
+  - Ask adjustment and new market
+  - Landing team analysis
+
+---
+
 ## Pipeline Run: 2026-11-19
 
 ### Story 1: Owners Meetings Finale — Manfred "Can't Imagine" Deal Without Cap, 12 Days Remain
