@@ -1,0 +1,437 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-20",
+  "compiled_at": "2026-11-20T12:14:50.907051+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Ben Shelton Reaches First ATP Finals Semifinal — Beats Jodar 7-6(8), 7-5",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Ben Shelton is in the ATP Finals semifinals for the first time. He beat Rafael Jodar 7-6(8), 7-5 in Turin — 14 aces, 2:07, tiebreak won 10-8. First ATP Finals semi of his career. He faces Alcaraz on Saturday. #ATPFinals #Tennis #ATP #Shelton",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Shelton"
+          ],
+          "char_count": 241
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Jodar exits Turin 0-3. He lost three straight group-stage matches, including two tiebreaks, in his first year at the ATP Finals. No wins. Shelton took the McEnroe Group's runner-up spot, 2-1. #ATPFinals #Tennis #ATP #ATPFinals2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#ATPFinals2026"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "Ben Shelton is in the ATP Finals semifinals for the first time, and Thursday night in Turin showed exactly why he belongs there.\n\nHe beat Rafael Jodar 7-6(8), 7-5 in just over two hours. The first-set tiebreak lasted until 10-8 — tense, prolonged, and the defining moment of the match. Shelton hit 14 aces. Jodar, in his debut year at the event, fought hard but exits at 0-3 without a win.\n\nIt was the win Shelton needed. He came into the day at 1-1 in the group, knowing a loss would have opened the door for Arthur Fils. He closed it, finished 2-1, and booked his place in the last four alongside Alcaraz and Zverev.\n\nShelton's semifinal opponent is Carlos Alcaraz on Saturday. It is a matchup that will generate a lot of interest — the No. 2 seed vs the American who finally made the ATP Finals last four.\n\nWho do you like in Alcaraz vs Shelton on Saturday?",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-shelton-beats-jodar-first-atp-finals-semifinal.html",
+        "headline": "Ben Shelton Reaches ATP Finals Semifinals for the First Time — Beats Jodar 7-6(8), 7-5",
+        "word_count": 567
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Shelton Beats Jodar — First ATP Finals Semifinal\n\n**Image Concept 1 (Social 1080x1350)**\nSearch terms: Ben Shelton\nType: imagn\nDescription: Shelton celebrating or serving at an indoor hard court, intense expression\n\n**Image Concept 2 (Article Hero 1200x630)**\nSearch terms: Ben Shelton\nType: imagn\nDescription: Shelton mid-match, indoor arena, wide shot\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ben Shelton Beats Jodar, First ATP Finals Semifinal\n**Sources:**\n- ATP Tour official: https://www.atptour.com/en/news/shelton-jodar-nitto-atp-finals-2026-thursday\n- Nitto ATP Finals official: https://www.nittoatpfinals.com/en/news/shelton-jodar-nitto-atp-finals-2026-thursday\n- ESPN: https://www.espn.com/tennis/story/_/id/50534384/shelton-beats-jodar-joins-zverev-alcaraz-atp-finals-semis\n- TennisMajors: https://www.tennismajors.com/atp/nitto-atp-finals-atp/zverev-saves-his-best-for-the-tie-break-beats-fils-and-tops-group-mcenroe-unbeaten-867371.html\n- TennisWatcher: https://www.tenniswatcher.com/en/news/ben-shelton-edges-rafael-jodar-in-turin-and-reaches-first-atp-finals-semi-final-as-zverev-beats-fils\n- TennisGrandstand: https://tennisgrandstand.com/shelton-first-atp-finals-semi-final-zverev-fils/\n**Facts (confidence tagged):**\n- Shelton beats Jodar 7-6(8), 7-5 on Thursday Nov 19 — HIGH (ATP Tour official + multiple sources)\n- Match duration: approximately 2 hours 7 minutes — HIGH (ATP Tour)\n- Shelton hit 14 aces — HIGH (ATP Tour)\n- Jodar hit 9 aces — HIGH (ATP Tour)\n- Shelton ends group stage 2-1 — HIGH (derived from confirmed results: beat Fils Day 1, lost to Zverev Day 3, beat Jodar Day 5)\n- Jodar exits 0-3 — HIGH (confirmed: lost all three group matches)\n- First ATP Finals semifinal for Shelton — HIGH (ESPN, ATP Tour)\n- Shelton advances as McEnroe Group runner-up — HIGH (Zverev 1st, Shelton 2nd)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "ATP Tour official",
+          "url": "https://www.atptour.com/en/news/shelton-jodar-nitto-atp-finals-2026-thursday",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Nitto ATP Finals official",
+          "url": "https://www.nittoatpfinals.com/en/news/shelton-jodar-nitto-atp-finals-2026-thursday",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/tennis/story/_/id/50534384/shelton-beats-jodar-joins-zverev-alcaraz-atp-finals-semis",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "TennisMajors",
+          "url": "https://www.tennismajors.com/atp/nitto-atp-finals-atp/zverev-saves-his-best-for-the-tie-break-beats-fils-and-tops-group-mcenroe-unbeaten-867371.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "TennisWatcher",
+          "url": "https://www.tenniswatcher.com/en/news/ben-shelton-edges-rafael-jodar-in-turin-and-reaches-first-atp-finals-semi-final-as-zverev-beats-fils",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "TennisGrandstand",
+          "url": "https://tennisgrandstand.com/shelton-first-atp-finals-semi-final-zverev-fils/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Zverev Goes 3-0 — Beats Fils 6-4, 7-6(6) to Top McEnroe Group Unbeaten",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Alexander Zverev beats Arthur Fils 6-4, 7-6(6) to finish the McEnroe Group 3-0. His 21st career ATP Finals win. Fils saved 5 match points. Zverev won the tiebreak 8-6. The ankle is the new story. #ATPFinals #Tennis #ATP #Zverev",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Zverev"
+          ],
+          "char_count": 227
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Fils saved five match points in that tiebreak. Five. And Zverev still won. Closed it 8-6. Went 3-0, unbeaten, zero sets dropped across the group stage. Now he is heading into the semis with a right ankle concern. #ATPFinals #Tennis #ATP #Fils",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Fils"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "Alexander Zverev completed a perfect group stage at the ATP Finals, beating Arthur Fils 6-4, 7-6(6) on Thursday evening to finish 3-0 in the McEnroe Group.\n\nIt was his 21st career win at this event, and the tiebreak was anything but straightforward. Fils dug in and saved five consecutive match points before Zverev finally closed it 8-6. The mental composure to convert under that pressure was notable — a reminder of why Zverev remains the year-end No. 1 and the two-time champion of this tournament.\n\nThe concern is the ankle. Zverev appeared to hurt his right ankle in the closing stages, and while he completed the match without issue, the question of his fitness for Saturday's semifinal is now the week's biggest subplot.\n\nFils is out at 1-2. His tournament ends without a semifinal place, but his comeback win over Jodar in the group stage earned him a moment in Turin.\n\nDo you think Zverev's ankle will affect him in the semifinals?",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-zverev-beats-fils-3-0-group-stage-ankle-concern.html",
+        "headline": "Zverev Goes 3-0 — Beats Fils 6-4, 7-6(6) to Top McEnroe Group Unbeaten",
+        "word_count": 513
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Zverev Beats Fils 3-0 Group Stage\n\n**Image Concept 1 (Social 1080x1350)**\nSearch terms: Alexander Zverev\nType: imagn\nDescription: Zverev celebrating, indoor court, fist pump\n\n**Image Concept 2 (Article Hero 1200x630)**\nSearch terms: Alexander Zverev\nType: imagn\nDescription: Zverev serving or mid-rally, indoor, wide shot\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Zverev Beats Fils 6-4, 7-6(6) — 3-0 Group Stage\n**Sources:**\n- TennisMajors: https://www.tennismajors.com/atp/nitto-atp-finals-atp/zverev-saves-his-best-for-the-tie-break-beats-fils-and-tops-group-mcenroe-unbeaten-867371.html\n- TennisWatcher: https://www.tenniswatcher.com/en/news/alexander-zverev-beats-arthur-fils-to-top-john-mcenroe-group-at-the-atp-finals\n- VAVEL: https://www.vavel.com/en-us/tennis-usa/2026/11/19/1279781-alexander-zverev-vs-arthur-fils-live-set-by-set-score-updates-in-atp-finals.html\n- TennisTonic: https://tennistonic.com/tennis-news/1083234/alexander-zverev-matches-rafael-nadal-with-21-career-wins-at-atp-finals/\n- World Today Journal: https://world-today-journal.com/zverev-beats-fils-to-finish-3-0-at-atp-finals-ankle-injury-casts-shadow-over-semifinals/\n- TennisGrandstand: https://tennisgrandstand.com/shelton-first-atp-finals-semi-final-zverev-fils/\n**Facts (confidence tagged):**\n- Zverev beats Fils 6-4, 7-6(6) — HIGH (TennisMajors, VAVEL, TennisWatcher; one outlier 6-3 from Newsy-Today, discard)\n- Fils saved 5 match points in the second-set tiebreak — HIGH (TennisMajors)\n- Zverev wins tiebreak 8-6 — HIGH (TennisMajors, VAVEL)\n- Zverev finishes McEnroe Group 3-0, group winner — HIGH (confirmed unbeaten)\n- Zverev's 21st career ATP Finals win — HIGH (TennisTonic)\n- Fils exits 1-2 — HIGH (derived from confirmed results: beat Jodar Day 3, lost to Shelton Day 1, lost to Zverev Day 5)\n- Zverev appeared to hurt right ankle in closing stages — HIGH (World Today Journal, multiple sources)\n- Zverev is year-end ATP No. 1 — HIGH (ATP scouting report Nov 2026)\n- Zverev previous ATP Finals titles: 2018, 2021 — HIGH (ATP Tour historical record)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "TennisMajors",
+          "url": "https://www.tennismajors.com/atp/nitto-atp-finals-atp/zverev-saves-his-best-for-the-tie-break-beats-fils-and-tops-group-mcenroe-unbeaten-867371.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "TennisWatcher",
+          "url": "https://www.tenniswatcher.com/en/news/alexander-zverev-beats-arthur-fils-to-top-john-mcenroe-group-at-the-atp-finals",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "VAVEL",
+          "url": "https://www.vavel.com/en-us/tennis-usa/2026/11/19/1279781-alexander-zverev-vs-arthur-fils-live-set-by-set-score-updates-in-atp-finals.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "TennisTonic",
+          "url": "https://tennistonic.com/tennis-news/1083234/alexander-zverev-matches-rafael-nadal-with-21-career-wins-at-atp-finals/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "World Today Journal",
+          "url": "https://world-today-journal.com/zverev-beats-fils-to-finish-3-0-at-atp-finals-ankle-injury-casts-shadow-over-semifinals/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "TennisGrandstand",
+          "url": "https://tennisgrandstand.com/shelton-first-atp-finals-semi-final-zverev-fils/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Day 6 — Medvedev vs Tiafoe: Last Lendl Group Semifinal Spot on the Line",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Today in Turin: Medvedev (1-1) vs Tiafoe (1-1). One win. One semifinal spot. That is what it comes down to tonight. Medvedev leads career H2H 4-0. Alcaraz also plays Cobolli, but that one is already decided. #ATPFinals #Tennis #ATP #Medvedev",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Medvedev"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "The last open question at the ATP Finals gets answered tonight.\n\nDaniil Medvedev (1-1) and Frances Tiafoe (1-1) meet at the Inalpi Arena in Turin — the winner takes the final semifinal spot. The loser goes home.\n\nMedvedev leads their career head-to-head 4-0, all on hard courts. That is a significant number heading into a match like this. But Tiafoe earned his first ATP Finals win earlier this week — beating Cobolli in a tiebreak before bagelling him in the second — and momentum counts for something.\n\nCarlos Alcaraz plays Cobolli in the afternoon session, but that result means nothing for the standings. Alcaraz is already through. Tonight's match is the one that matters.\n\nThe semifinal draw means the winner of this match faces Alexander Zverev on Saturday.\n\nWho wins: Medvedev or Tiafoe?",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-medvedev-tiafoe-day-6-lendl-group-decider.html",
+        "headline": "Medvedev vs Tiafoe: The Last Lendl Group Spot Gets Decided in Turin Tonight",
+        "word_count": 467
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Day 6 — Medvedev vs Tiafoe\n\n**Image Concept 1 (Social 1080x1350)**\nSearch terms: Daniil Medvedev\nType: imagn\nDescription: Medvedev focused, baseline stance, indoor hard court\n\n**Image Concept 2 (Article Hero 1200x630)**\nSearch terms: Frances Tiafoe\nType: imagn\nDescription: Tiafoe serving or celebrating, indoor court\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Day 6 — Medvedev vs Tiafoe, Alcaraz vs Cobolli\n**Sources:**\n- ATP Tour official schedule: https://www.atptour.com/en/scores/current/nitto-atp-finals/605/results\n- Archyde: https://www.archyde.com/2026-atp-finals-alcaraz-through-medvedev-vs-tiafoe-decides-semifinal-spot/\n- Finchannel: https://finchannel.com/tiafoe-earns-first-atp-finals-win-and-sets-medvedev-showdown/142202/sport/2026/11/\n- TennisTemple: https://en.tennistemple.com/actu/atp-finals-tiafoe-eliminates-cobolli-and-will/fXrC\n**Facts (confidence tagged):**\n- Medvedev (1-1) vs Tiafoe (1-1) — winner takes Lendl Group's second semifinal spot — HIGH (ATP Tour official)\n- Alcaraz vs Cobolli — no standing implications for group stage — HIGH (Alcaraz already qualified 2-0)\n- Medvedev leads career H2H vs Tiafoe 4-0 — HIGH (Bets.com.au preview, single source; previously confirmed in Nov 19 pipeline at H2H 4-0 all hard court) — MEDIUM (single reference, consistent with prior pipeline)\n- This is first meeting between Medvedev and Tiafoe at the ATP Finals — MEDIUM (single source, Nov 19 pipeline confirmed)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "ATP Tour official schedule",
+          "url": "https://www.atptour.com/en/scores/current/nitto-atp-finals/605/results",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Archyde",
+          "url": "https://www.archyde.com/2026-atp-finals-alcaraz-through-medvedev-vs-tiafoe-decides-semifinal-spot/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Finchannel",
+          "url": "https://finchannel.com/tiafoe-earns-first-atp-finals-win-and-sets-medvedev-showdown/142202/sport/2026/11/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "TennisTemple",
+          "url": "https://en.tennistemple.com/actu/atp-finals-tiafoe-eliminates-cobolli-and-will/fXrC",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "ATP Finals Semifinals Set — Alcaraz vs Shelton, Zverev vs TBD Saturday",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "ATP Finals semifinals confirmed: Alcaraz vs Shelton on Saturday. The other semi is Zverev vs whoever wins Medvedev-Tiafoe tonight. It is Alcaraz's tournament to lose right now. #ATPFinals #Tennis #ATP #Alcaraz",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Alcaraz"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "Three of the four ATP Finals semifinalists are confirmed. Carlos Alcaraz, Alexander Zverev, and Ben Shelton will play on Saturday. The fourth spot is decided tonight when Medvedev meets Tiafoe.\n\nAlcaraz faces Shelton in one semifinal. It is Alcaraz's first ATP Finals with a genuine path to the title — he has the form, the wins in the group stage, and the momentum of an 11-match streak heading into the knockout rounds.\n\nShelton, reaching the ATP Finals last four for the first time, will not be overawed. He has beaten Alcaraz before and will not play the role of underdog quietly.\n\nOn the other side, Zverev is the top seed and two-time champion, though the ankle concern from Thursday changes the picture slightly. His opponent is whoever survives Medvedev-Tiafoe tonight.\n\nWhich semifinal are you most looking forward to on Saturday?",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-atp-finals-semifinals-alcaraz-shelton-zverev.html",
+        "headline": "Alcaraz vs Shelton, Zverev vs TBD: The ATP Finals Semifinals Take Shape",
+        "word_count": 474
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Semifinals Set — Alcaraz vs Shelton\n\n**Image Concept 1 (Social 1080x1350)**\nSearch terms: Carlos Alcaraz\nType: imagn\nDescription: Alcaraz celebrating or in action, indoor court\n\n**Image Concept 2 (Article Hero 1200x630)**\nSearch terms: Ben Shelton\nType: imagn\nDescription: Shelton in action, indoor arena environment\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Semifinals Lineup — Alcaraz vs Shelton, Zverev vs TBD\n**Sources:**\n- The Sports Encounter: https://thesportsencounter.com/2026/11/19/atp-finals-semifinals-zverev-alcaraz-shelton-medvedev-tiafoe/\n- ATP Tour draw structure (confirmed from prior pipelines and official pages)\n**Facts (confidence tagged):**\n- Alcaraz (Lendl Group winner) faces McEnroe Group runner-up = Shelton — HIGH (draw structure confirmed)\n- Zverev (McEnroe Group winner) faces Lendl Group runner-up = Medvedev or Tiafoe — HIGH (draw structure)\n- Both semifinals Saturday at Inalpi Arena Turin — HIGH (tournament schedule Nov 15-22 confirmed)\n- Alcaraz seeking first ATP Finals title — HIGH (ATP scouting report + prior pipelines)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "The Sports Encounter",
+          "url": "https://thesportsencounter.com/2026/11/19/atp-finals-semifinals-zverev-alcaraz-shelton-medvedev-tiafoe/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Zverev Ankle Concern Adds Intrigue to ATP Finals Semifinals",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Zverev hurt his right ankle in the closing stages of the Fils match last night. He finished 3-0 in the group, but the ankle is now the main storyline entering the ATP Finals semifinals on Saturday. #ATPFinals #Tennis #ATP #Zverev",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Zverev"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "A footnote from Thursday night that could become a major story by Saturday.\n\nAlexander Zverev hurt his right ankle late in his win over Arthur Fils, and while he completed the match and finished the group stage 3-0 unbeaten, the footage of him checking the ankle after the final point was noticeable.\n\nZverev is the top seed, the year-end No. 1, and a two-time ATP Finals champion (2018, 2021). He enters the semifinals with every reason to be confident. But an ankle issue, however minor it appears tonight, adds an element of uncertainty to a tournament he has been the favourite for all week.\n\nHis semifinal opponent will be known by tonight — Medvedev or Tiafoe. Whoever it is will now be doing some mental arithmetic about how fit Zverev actually is.\n\nDo you think the ankle will be a factor for Zverev on Saturday?",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-zverev-ankle-concern-atp-finals-semifinals.html",
+        "headline": "Zverev Hurts His Ankle Beating Fils — Can He Go Full Intensity in the Semifinals?",
+        "word_count": 507
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Zverev Ankle Concern\n\n**Image Concept 1 (Social 1080x1350)**\nSearch terms: Alexander Zverev\nType: imagn\nDescription: Zverev checking ankle or receiving medical attention, candid\n\n**Image Concept 2 (Article Hero 1200x630)**\nSearch terms: Alexander Zverev\nType: imagn\nDescription: Zverev at net or post-match, indoor court"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Zverev Ankle Concern\n**Sources:**\n- World Today Journal: https://world-today-journal.com/zverev-beats-fils-to-finish-3-0-at-atp-finals-ankle-injury-casts-shadow-over-semifinals/\n- Multiple supporting sources reference ankle issue\n**Facts (confidence tagged):**\n- Zverev hurt right ankle late in Fils match Thursday — HIGH (World Today Journal, multiple sources)\n- No retirement / completed the match — HIGH (result confirmed)\n- Zverev year-end No. 1 — HIGH (ATP Tour confirmed)\n- Zverev ATP Finals champion 2018 and 2021 — HIGH (historical record)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "World Today Journal",
+          "url": "https://world-today-journal.com/zverev-beats-fils-to-finish-3-0-at-atp-finals-ankle-injury-casts-shadow-over-semifinals/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

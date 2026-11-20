@@ -3,6 +3,16 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## November 20, 2026
+
+| 2026-11-20 | Ben Shelton beats Rafael Jodar 7-6(8), 7-5 at ATP Finals Day 5 (Turin); 14 aces; 2:07; tiebreak won 10-8; first ATP Finals semifinal for Shelton; Jodar exits 0-3; Shelton ends group stage 2-1 as McEnroe Group runner-up. Sources: ATP Tour official, nittoatpfinals.com, ESPN | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 19 S3: Day 5 McEnroe Group preview → Shelton qualifies) |
+| 2026-11-20 | Alexander Zverev beats Arthur Fils 6-4, 7-6(6) at ATP Finals Day 5; Fils saved 5 match points in second-set tiebreak; Zverev closed 8-6; 21st career ATP Finals win; finishes McEnroe Group 3-0 unbeaten; ankle concern in closing stages. Sources: TennisMajors, TennisWatcher, TennisTonic | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Nov 19 S3: Day 5 McEnroe Group preview → Zverev tops group 3-0) |
+| 2026-11-20 | Day 6 — Medvedev (1-1) vs Tiafoe (1-1) tonight; winner takes Lendl Group's second semifinal spot; Medvedev leads career H2H 4-0 all hard court; Alcaraz vs Cobolli (no standing implications). Sources: ATP Tour official, Archyde, Finchannel | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Nov 19 S4: Medvedev vs Tiafoe Friday preview → Day 6 match day) |
+| 2026-11-20 | ATP Finals semifinals confirmed — Alcaraz (Lendl 1st) vs Shelton (McEnroe 2nd) Saturday; Zverev (McEnroe 1st) vs [Medvedev or Tiafoe, to be decided tonight] Saturday; both at Inalpi Arena Turin; Alcaraz carries 11-match streak; Zverev ankle concern. Sources: The Sports Encounter, ATP Tour draw structure | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 19 S3: Day 5 McEnroe Group preview → semifinals picture now confirmed) |
+| 2026-11-20 | Zverev ankle concern ahead of ATP Finals semifinals — hurt right ankle in closing stages of Fils match Day 5; completed match; fitness for Saturday semifinal is now main subplot; Zverev is year-end No. 1, 2018+2021 ATP Finals champion. Sources: World Today Journal, TennisGrandstand | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Nov 20 S2: Zverev beats Fils → ankle concern follow-up) |
+
+---
+
 ## November 19, 2026
 
 | 2026-11-19 | Alcaraz beats Medvedev 6-2, 6-4 at ATP Finals Day 4 (Turin); 72 min; zero break points conceded; winning streak extended to 11; H2H vs Medvedev now 8-3; left thigh strapped mid-match; advances as Ivan Lendl Group winner. Sources: NBC Sports, TennisGrandstand, ATP Tour official | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Nov 18 S3: Day 4 preview Alcaraz-Medvedev → Alcaraz wins, qualifies) |

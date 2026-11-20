@@ -1,6 +1,36 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-11-19
+## Current Run: 2026-11-20
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Shelton beats Jodar 7-6(8), 7-5 (14 aces, 2:07, tiebreak 10-8, first ATP Finals semi, Jodar exits 0-3); Zverev beats Fils 6-4, 7-6(6) (21st ATP Finals win, Fils saved 5 match points, ankle concern, 3-0 group); Day 6 Medvedev vs Tiafoe tonight (H2H 4-0 Medvedev); Alcaraz vs Shelton confirmed semi; Zverev ankle concern. Sources: ATP Tour official, nittoatpfinals.com, ESPN, TennisMajors, TennisWatcher, World Today Journal |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Nov 19 S3: Day 5 McEnroe Group preview → Shelton qualifies); S2 FOLLOW-UP (Nov 19 S3: Day 5 McEnroe Group preview → Zverev tops group 3-0); S3 FOLLOW-UP (Nov 19 S4: Medvedev vs Tiafoe Friday → Day 6 match day); S4 FOLLOW-UP (Nov 19 S3: Day 5 → semifinals picture now confirmed); S5 FOLLOW-UP (Nov 20 S2: Zverev beats Fils → ankle concern follow-up) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Elena Voss [S1,S4], Marcus Cole [S2,S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; Shelton/Zverev scores HIGH (ATP Tour official); 14 aces HIGH; Fils 5 match points HIGH (TennisMajors); Zverev ankle HIGH (World Today Journal); semifinals structure HIGH |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories (2 each for S1+S2, 1 each for S3-S5); all ≤280 chars |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories; player-name-only search terms |
+| Articles (5) | COMPLETE | article-01 Shelton beats Jodar (Elena Voss T1 ~530w); article-02 Zverev beats Fils ankle (Marcus Cole T1 ~520w); article-03 Day 6 Medvedev-Tiafoe (Ryan Calloway T2 ~510w); article-04 Semifinals confirmed (Elena Voss T2 ~500w); article-05 Zverev ankle concern (Marcus Cole T2 ~490w) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 23 claims extracted; PASSED |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 5 images |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-11-20.xlsx (7 posts) + tfr-postplanner-tobi-2026-11-20.xlsx (7 TOBI posts); FB=0 in export (pre-existing format mismatch) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 20 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB image captions
+- **Articles:** 5 (bylines: Elena Voss [S1,S4], Marcus Cole [S2,S5], Ryan Calloway [S3])
+- **Key stories:** Shelton 7-6(8), 7-5 over Jodar (14 aces, first ATP Finals semi, tiebreak 10-8, Jodar exits 0-3); Zverev 6-4, 7-6(6) over Fils (21st ATP Finals win, Fils saved 5 match points, 3-0 group, right ankle concern); Day 6 Medvedev vs Tiafoe decider (H2H 4-0 Medvedev); Semifinals: Alcaraz vs Shelton confirmed, Zverev vs TBD; Zverev ankle concern
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); PostPlanner FB=0 (pre-existing format mismatch)
+
+---
+
+## Previous Run: 2026-11-19
 
 | Step | Status | Notes |
 |------|--------|-------|
