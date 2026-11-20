@@ -1,0 +1,175 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-20",
+  "compiled_at": "2026-11-20T09:20:22.433478+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CBA Countdown — Manfred Digs In, 11 Days Left",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "The Cubs need three starting pitchers. They have 11 days to sign them.\n\nManfred went on record: owners won't compromise on a salary cap. MLBPA won't move. The 2021-22 lockout ran 99 days — and Assad is the only starter on this roster.\n\nThe offseason clock is merciless.\n\n#Cubs",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Bold take / urgency",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "CBA Countdown — Manfred Digs In, 11 Days Left\n**Core Facts (confidence tags applied)**\n- CBA expires 11:59 PM ET December 1, 2026 — [HIGH] (multiple sources: Yahoo Sports, Fox News/OutKick, Yardbarker all cite same deadline)\n- 11 days from November 20 to December 1 — [HIGH] (calendar math)\n- Manfred statement: owners \"will not compromise\" on salary cap requirement — [HIGH] (Yardbarker headline quotes Manfred directly; Ministry of Sport confirms same position)\n- Proposed cap: $258.2M hard ceiling, $180.2M floor — [MEDIUM] (cited in multiple reports but specific figures could be from earlier in talks; treat as directional, not final)\n- MLBPA firmly against any salary cap — [HIGH] (consistent across all sources)\n- 2021-22 lockout: 99-day stoppage — [HIGH] (historical fact, widely documented)\n- Cubs need 3+ starters, outfield depth, catcher before freeze — [HIGH] (rotation vacuum well-documented; Assad only starter with experience)\n**Sources**\n- Yahoo Sports: \"With lockout imminent, Rob Manfred 'can't imagine' MLB owners ratifying new CBA without salary cap, floor\" (sports.yahoo.com)\n- Yardbarker: \"Rob Manfred: Owners 'Will Not Compromise' On MLB Salary Cap In New CBA\" (yardbarker.com)\n- Ministry of Sport: \"MLB Owners Refuse Compromise on Salary Cap Ahead of Looming December Lockout\" (ministryofsport.com)\n- Fox News/OutKick: \"New statements from Rob Manfred, MLBPA, guarantee baseball is shut down indefinitely in two weeks\" (foxnews.com)\n**Fact-check flags**\n- Exact cap/floor figures ($258.2M/$180.2M): MEDIUM confidence — use directional language, don't quote exact figures in tweet\n- \"11 days\" count: HIGH — Nov 20 to Dec 1 is exactly 11 days",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Trevor Rogers — Cubs' LH Answer to the Rotation Crisis",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "The Cubs lost Imanaga and have no left-handed starters. Trevor Rogers is the name.\n\nHe went 9-3 with a 1.81 ERA in 2025, then regressed to 4.03 last year. The Athletic reports real interest — which version are they betting on?\n\nJavier Assad as your No. 1 is not a plan.\n\n#Cubs",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Stat breakdown / hot stove analysis",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Trevor Rogers — Cubs' LH Answer to the Rotation Crisis\n**Core Facts**\n- Cubs showing \"early interest\" in Trevor Rogers (LHP) — [MEDIUM] (Sahadev Sharma/Athletic per SI/OnSI report; single-source, not cross-referenced)\n- Trevor Rogers 2026 season: 10-11, 4.03 ERA — [MEDIUM] (cited in aggregator reports; need Baseball-Reference for exact line; treat as directional)\n- Trevor Rogers 2025: 9-3, 1.81 ERA, 103 K in 18 starts — [MEDIUM] (cited in Bleed Cubbie Blue and other fan sites; not verified against official box score)\n- Projected contract: 4yr/$104M — [LOW] (Bleacher Report projection, not from team negotiations; DO NOT cite as confirmed deal)\n- Javier Assad: only healthy starting experience on roster — [HIGH] (consistent across Cubs beat coverage)\n- Shota Imanaga, Kevin Gausman, David Peterson, Matthew Boyd, Clay Holmes, Colin Rea all free agents — [HIGH] (well-documented rotation exodus)\n**Sources**\n- SI/OnSI: \"Cubs Pitching Rumors: Losing Out on Dustin May, Is Trevor Rogers a Top Target? More\"\n- Yahoo Sports: \"4 Pitchers The Cubs Are Showing Early Interest In\"\n- Bleed Cubbie Blue: \"The Short Porch is thinking about free agent starting pitching\"\n- FanRecap: \"Cubs Rotation Pressure Is Rising As Their Pitching Market Tightens\"\n**Fact-check flags**\n- Rogers' exact 2026 stats: MEDIUM — do not quote exact ERA without Baseball-Reference verification; use directional language\n- Contract figure: LOW confidence — do not quote $104M as a reported offer; it's a projection\n- Do NOT claim Rogers is a top-3 starter in MLB — single-source claim",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Kaima Taira — 11 Days to Sign Before the Freeze",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Cubs are the top suitor for Kaima Taira and virtual meetings are happening now.\n\nCBA expires December 1 and freezes the market. His posting window runs to Dec 16 — a 99-day lockout would blow past that. Projected 3-4yr at $18M per year.\n\nEleven days to get this done.\n\n#Cubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Hot stove / urgency",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Kaima Taira — 11 Days to Sign Before the Freeze\n**Core Facts**\n- Posting window opened November 1, 2026 — [HIGH] (Bleacher Nation, Oct 30 report on posting acceptance)\n- Deadline to sign: December 16, 2026 posting deadline — [HIGH] (multiple sources consistent)\n- CBA expires December 1, 2026 — [HIGH]\n- Lockout would freeze MLB transactions — [HIGH] (consistent with 2021-22 precedent)\n- Whether lockout pauses posting window is disputed:\n- One source says lockout could \"force him to sign before\" Dec 16\n- Another says lockout \"won't pause the negotiation window\"\n- **RESOLUTION:** Use cautious framing — \"must sign before Dec 1 or risk a frozen market\" is accurate; don't claim lockout definitively cancels his window\n- Cubs have \"strong interest\" (Bruce Levine) — [HIGH]\n- Cubs described as most engaged suitor by multiple reports — [MEDIUM] (sports mockery + BVM Sports; not from lead beat reporters)\n- Virtual meetings: Taira won't travel to US before signing — [MEDIUM] (Cubs Insider report; single source)\n- Contract projections: 3yr/$18M AAV (Keith Law/Athletic) + 4yr/$18M AAV (MLB Trade Rumors) — [MEDIUM] (projections, not negotiated terms)\n- Teams: Cubs, White Sox, Padres confirmed as interested — [HIGH] (multiple sources)\n**Sources**\n- Cubs Insider: \"Cubs Indeed Have 'Strong Interest' in Japanese RHP Kaima Taira\" (cubsinsider.com, Nov 13)\n- Bleacher Nation: \"The Chicago Cubs Have 'Extensively Scouted' Japanese Slugger Teruaki Sato\" (note: same outlet separately covers Taira; bleachernation.com)\n- Sports Mockery: \"Rumors Point One Way: Kaima Taira Is the Japanese Free Agent the Cubs Want To Sign\"\n- BVM Sports: \"Cubs, White Sox, Padres Show Strong Interest in Kaima Taira\" (Nov 13)\n**Fact-check flags**\n- \"Sign before Dec 1\" framing: directionally correct based on CBA risks; use as advice/pressure angle, not hard rule\n- Contract figures: LOW-MEDIUM — projections only; do NOT frame as reported offers",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "AFL Season Wrap — Snell + Reid Finish as All-Stars",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The AFL is over. Mesa went 11-15 and bowed out in round one — but two Cubs prospects earned All-Star nods.\n\nKade Snell batted above .290 with 14 walks in 17 games. Dominick Reid fanned 17 in 13 innings. With five starters gone, Reid's development is well-timed.\n\n#Cubs",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Prospect feature",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "AFL Season Wrap — Snell + Reid Finish as All-Stars\n**Core Facts**\n- Mesa Solar Sox (Cubs AFL affiliate) eliminated in playoffs — [MEDIUM] (Bleed Cubbie Blue + CubsHQ; consistent)\n- Mesa final record: 11-15 (fifth place out of six teams) — [MEDIUM] (CubsHQ report; not cross-referenced with official AFL standings)\n- Kade Snell: .286 AVG in 17 games, 1 HR, 9 RBI, 14 BB; finished at .290+ — [MEDIUM] (Yahoo Sports/SI report; not cross-referenced with official stats)\n- Dominick Reid: 2-1, 13.0 IP, 17 K, 3.46 ERA in 4 starts — [MEDIUM] (Yahoo Sports/SI report)\n- Both Snell and Reid named AFL All-Stars — [HIGH] (consistent across two independent sources: SI/OnSI and Yahoo Sports)\n- AFL champion: Peoria Javelinas (beat Surprise Saguaros 8-3) — [MEDIUM] (CubsHQ; treat as likely accurate)\n- Jhon Cabral: solid performance as reliever — [MEDIUM] (Bleed Cubbie Blue feature)\n**Sources**\n- SI/OnSI: \"2 Cubs Prospects Showing Promise, Make Arizona Fall League All-Star Team\"\n- Yahoo Sports: \"Two Cubs Prospects Shine in Arizona Fall League\" + \"Cubs AFL Update: The Solar Sox season ends\"\n- Bleed Cubbie Blue: \"Cubs AFL Update: The Solar Sox season ends\" + \"A visit to the Arizona Fall League\"\n- CubsHQ: \"Useche and Snell stay hot as Arizona Fall League winds down\"\n**Fact-check flags**\n- Snell's exact final average: MEDIUM — use \"above .290\" rather than a precise figure\n- Reid K total (17): MEDIUM — directionally accurate, don't quote as 100% precise\n- Mesa final record 11-15: MEDIUM — consistent but not official AFL source",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "NL Central Watch — Cardinals Make Modest Moves, Cubs Can't Afford to Wait",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "6:30 PM CT (evening_18_24 WINNER — best engagement slot)",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cardinals filled their 40-man and called it a week. The Brewers — WS champs — are quiet. The Reds are dangling Elly De La Cruz.\n\nThe NL Central is in slow motion. The Cubs have a blank rotation and 11 days before the market freezes.\n\nEvery team can wait. The Cubs can't.\n\n#Cubs",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Rival watch / bold take",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "NL Central Watch — Cardinals Modest, Cubs Can't Wait\n**Core Facts**\n- Cardinals added Jesús Báez (INF) + Jacob Odle (RHP) to 40-man roster, Nov 18 — [HIGH] (MLB.com official transactions per ESPN transaction log)\n- Cardinals DFA'd Max Rajcic to clear spot — [HIGH] (same source)\n- Cardinals 40-man now full — [HIGH] (MLB.com)\n- Cardinals new GM: Rob Cerfolio — [HIGH] (covered previously, story history)\n- Brewers WS champions; roster relatively quiet post-WS — [HIGH] (story history context)\n- Brewers free agents include Dustin May, Brandon Woodruff — [MEDIUM] (MLB.com free agent list)\n- Reds fielding calls on Elly De La Cruz (3yr control, turned down extension) — [MEDIUM] (MLB.com trade candidate piece)\n- Cubs 40-man at 36, blank rotation — [HIGH]\n**Sources**\n- MLB.com: \"Cardinals add Báez, Odle to roster ahead of Rule 5 Draft, DFA Rajcic\"\n- ESPN: Cardinals 2026 transaction log\n- MLB.com: \"Trade candidates for every team 2026-27 offseason\"\n- MLB.com: \"2026-2027 MLB free agents for every team\"\n**Fact-check flags**\n- Cardinals budget constraints: MEDIUM — Rob Cerfolio \"modest budget\" is characterization from early reports; treat as directional\n- Brewers \"quiet\" characterization: HIGH — consistent with public reporting",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

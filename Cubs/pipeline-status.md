@@ -1,3 +1,48 @@
+# Cubs Pipeline Status — Updated 2026-11-20
+
+## Latest Run
+- **Date:** 2026-11-20 (Friday — Off day. CBA 11 days to Dec 1 lockout. Manfred "won't compromise" on salary cap. Cubs top suitor for Kaima Taira (virtual meetings active). Trevor Rogers identified as new LH rotation target. AFL season over — Snell + Reid named All-Stars, Mesa 11-15. Cardinals filled 40-man, Brewers quiet post-WS.)
+- **Stories:** 5
+- **X posts:** 5
+- **Platforms:** X/Twitter only
+- **Status:** ✅ Complete
+- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 5 stories, 5 tweets
+- **07-content-data.json:** ✅ Valid JSON, all 5 posts with posting_time (1:15 PM / 2:30 PM / 3:45 PM / 5:00 PM / 6:30 PM CT), all strptime-parseable. Char counts: 276/276/278/268/277 — all 260+ bucket, all under 280. ✅
+- **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding, cubs-x-bot reads from content-pipeline)
+- **Fact-check:** ✅ All claims passed. MEDIUM claims framed appropriately (Rogers 2025 ERA not BR-verified — noted). "Assad is the only starter" slightly imprecise (Wiggins/McCullough are prospects, not MLB-tested) — noted as directionally correct.
+- **Note:** 12 significant insights applied. HASHTAG OVERRIDE (10th consecutive day): hashtag_count=3 is LOSER + hashtag_count=1 is WINNER → 1 hashtag (#Cubs) used. ALLCAPS LOSER: no ALL CAPS leads. MORNING AVOIDANCE: morning_06_12 LOSER — first post at 1:15 PM CT. EVENING PRIORITY: evening_18_24 WINNER → Post 5 at 6:30 PM CT. TWEET LENGTH: len_260+ WINNER — all 5 tweets at 260+ chars (avg 275). CONTENT DEPTH: content_type=brief LOSER — all substantive multi-paragraph tweets. has_stat WINNER — stats in all 5 tweets.
+- **Hashtag override recommendation (10th day):** Strongest quantitative signal in the dataset. Strongly recommend formally updating brand-voice.md from "Exactly 3 hashtags" to "1 primary hashtag (#Cubs)." Data is unambiguous: n=58, p=0.0, Cliff's delta=0.731 (3-hashtag LOSES) + delta=0.605 (1-hashtag WINS).
+
+## Insights Summary (2026-11-20 run — from 2026-11-20T08:30 UTC snapshot)
+- **Generated:** 2026-11-20T08:30:00 UTC
+- **Measured tweet count:** 58
+- **Significant findings:** 12
+  1. `content_type=recap_longform` WINNER — delta=0.943 (large). Off day — no game recap. Not applicable.
+  2. `posting_window=evening_18_24` WINNER — delta=0.77 (large). Post 5 at 6:30 PM CT.
+  3. `len_bucket=260+` WINNER — delta=0.745 (large). All 5 tweets at 260+ chars.
+  4. `hashtag_count=3` LOSER — delta=0.731 (large). ⚠️ CONFLICT with brand-voice.md. 1 hashtag used (10th consecutive override day).
+  5. `has_score=True` WINNER — delta=0.66 (large). Off day — no score. Not applicable.
+  6. `opening=statement` WINNER — delta=0.656 (large). All 5 posts use declarative statement openings.
+  7. `opening=allcaps_lead` LOSER — delta=0.656 (large). No ALL CAPS leads.
+  8. `has_stat=True` WINNER — delta=0.62 (large). Stats in every tweet.
+  9. `hashtag_count=1` WINNER — delta=0.605 (large). Applied: #Cubs only.
+  10. `posting_window=morning_06_12` LOSER — delta=0.569 (large). No morning posts; first at 1:15 PM CT.
+  11. `content_type=transaction` LOSER — delta=0.49 (large). No pure transaction tweets; moves embedded in analysis.
+  12. `len_bucket=<140` LOSER — delta=0.46 (medium). No tweets under 140 chars.
+  13. `content_type=brief` LOSER — delta=0.407 (medium). Substantive multi-paragraph posts throughout.
+
+## Pipeline Run Log
+
+### 2026-11-20 — Friday (Off day)
+- 5 stories | 5 X posts | JSON valid | Fact-check PASS
+- CBA 11-day countdown (Manfred hardball) | Trevor Rogers NEW | Taira virtual meetings | AFL wrap | NL Central rival watch
+- Insights: 10th hashtag override, all 12 findings applied
+- Push: content-pipeline ✅ | content-dashboards ⚠️ (out of session scope)
+
+---
+
+# --- Previous Run Archive ---
+
 # Cubs Pipeline Status — Updated 2026-11-19
 
 ## Latest Run

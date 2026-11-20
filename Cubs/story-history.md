@@ -9979,3 +9979,49 @@ Each day's stories are appended at the top (newest first).
   - Cubs sign any two starters = rotation framework tweet
   - Winter Meetings (Dec 8-11, if no lockout) = news hub coverage
   - Lockout confirmed = "rotation still blank, now frozen" angle
+
+## 2026-11-20 (OFF DAY — Offseason. CBA 11 days to Dec 1 lockout — Manfred "won't compromise" on salary cap; MLBPA unmoved. Cubs top suitor for Kaima Taira (virtual meetings active). Trevor Rogers identified as LH rotation target. AFL season over — Snell + Reid named All-Stars, Mesa 11-15. Cardinals filled 40-man, Brewers quiet post-WS. Insights: 12 findings — evening_18_24 WINNER + hashtag_count=3 LOSER (OVERRIDE — 1 hashtag used, 10th consecutive day) + hashtag_count=1 WINNER + len_260+ WINNER + morning_06_12 LOSER + statement WINNER + allcaps_lead LOSER + has_stat WINNER + content_type=brief LOSER + recap_longform WINNER (not applicable off day) + has_score WINNER (not applicable off day) + content_type=transaction LOSER.)
+
+### STORY 1: CBA Countdown — Manfred Digs In, 11 Days Left
+- **Angle:** FOLLOW UP (Nov 18: 13-day frame; Nov 19: 12 days; today: 11 days + fresh hardball angle — Manfred on record "won't compromise" on salary cap; 2021-22 lockout = 99 days; Assad only starter on roster)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, urgency/bold take)
+- **Follow-Up Opportunities:**
+  - Dec 1 lockout confirmed → Tier 1 immediate reaction + Cubs impact
+  - Surprise CBA deal → Tier 1 relief/reaction
+  - Cubs sign any starter before Dec 1 → Tier 1 breaking news
+
+### STORY 2: Trevor Rogers — Cubs' LH Answer to the Rotation Crisis
+- **Angle:** NEW STORY (Sharma/Athletic: Cubs showing early interest in LHP Trevor Rogers; 2025: 9-3 / 1.81 ERA / 103 K in 18 starts; 2026: 4.03 ERA regression; Imanaga gone, rotation LH-free; Assad de facto No. 1)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, stat breakdown/analysis)
+- **Follow-Up Opportunities:**
+  - Rogers signs with Cubs → Tier 1 rotation acquisition
+  - Rogers signs elsewhere → Cubs rotation pivot angle
+  - Multiple Cubs starters signed → rotation framework update
+
+### STORY 3: Kaima Taira — 11 Days to Sign Before the Freeze
+- **Angle:** FOLLOW UP (Nov 18: lockout complicates; Nov 19: Dec 16 deadline collision; today: virtual meetings active, Cubs top suitor confirmed, 3-4yr/$18M AAV projected, must-sign-before-Dec-1 urgency frame)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, hot stove urgency)
+- **Follow-Up Opportunities:**
+  - Cubs sign Taira before Dec 1 → Tier 1 acquisition
+  - Lockout hits before Taira signs → "window frozen" Tier 2
+  - Taira signs with another team → Tier 2 reaction + Cubs Plan C
+
+### STORY 4: AFL Season Wrap — Snell + Reid Finish as All-Stars
+- **Angle:** FOLLOW UP (AFL season OVER; Mesa 11-15, out in round one; Kade Snell .290+ / 14 BB / 17 games; Dominick Reid 17 K in 13 IP / All-Star; Peoria Javelinas won AFL title; 5 starters gone = Reid development well-timed)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, prospect feature/wrap-up)
+- **Follow-Up Opportunities:**
+  - Snell/Reid spring training assignment → prospect feature
+  - Reid earns MLB roster invitation → Tier 2 rotation depth angle
+
+### STORY 5: NL Central Watch — Cardinals Make Modest Moves, Cubs Can't Afford to Wait
+- **Angle:** NEW STORY (Cardinals added Jesús Báez + Jacob Odle to 40-man Nov 18, 40-man now full, new GM Cerfolio modest budget; Brewers WS champs but quiet roster-wise; Reds fielding calls on EDLC; Cubs blank rotation, 11 days)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, rival watch/bold take/evening)
+- **Follow-Up Opportunities:**
+  - Cardinals sign notable FA → rival watch update
+  - EDLC trade completed → Tier 2 division implications
+  - Brewers add starter → "WS champs keep building" framing
