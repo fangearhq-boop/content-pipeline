@@ -1,6 +1,36 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-11-19
+## Current Run: 2026-11-20
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | CHE-US/CHESLICR magnetic robot toys CPSC warning: ~101,282 units on Amazon, model X004N3MGCB, sets of 5/10 ~$9, Guangzhou Shian Trading Co. refused recall, HIGH from cpsc.gov. D11 capacity review: 11 underused schools, enrollment down 21.6% to ~22,265, D49 up 65.5%, Nov 18 work session, HIGH from krdo.com/gazette.com. AAP + Understood.org ADHD screen time paper: released Nov 16 2026, ages 5–10, first ADHD-specific guidance, HIGH from prnewswire.com/aap.org. Bear Creek Dog Park ADA work: Nov 19–Dec 18 2026, limited parking, 3 overflow lots, HIGH from elpasoco.com. D11 $775M bond 4A: confirmed passed, ~50K yes votes, first in 20 years, largest El Paso County school bond, HIGH from gazette.com/krdo.com. |
+| Story History Check | COMPLETE | S1 NEW (CHE-US magnetic toys — distinct from Nov 19 S1 HABA/TooyBing recalls; different brand/product); S2 NEW (D11 capacity review — distinct from Nov 18 S2 boundary redrawing; different D11 issue — building utilization vs. attendance zones); S3 NEW (ADHD screen time guidance — distinct from Nov 19 S2 AAP mental health framework; different AAP topic, ADHD-specific first paper); S4 NEW (Bear Creek Dog Park ADA — first coverage); S5 NEW (D11 bond 4A passes — first standalone bond-passage explainer) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH confidence for all 5; cpsc.gov official URL for S1; elpasoco.com official URL for S4; aap.org official URL for S3 |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows (8 AM, 10 AM, 12 PM, 3 PM, 5 PM), 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars (verified by verify-facts.py); 4 hashtags each; #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; contractions; 0 exclamation marks; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only concepts (2 per story); clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0; dimensions 1200x675 (social) + 1200x630 (hero) |
+| Articles (5) | COMPLETE | article-01 CPSC CHE-US magnetic toys (Sarah Morales T1 ~650w, quick reference table); article-02 D11 capacity review (Jamie Rivera T1 ~720w, quick reference table); article-03 AAP ADHD screen time (Sarah Morales T2 ~620w, quick reference table); article-04 Bear Creek Dog Park ADA (Jamie Rivera T2 ~600w, quick reference table); article-05 D11 bond 4A passes (Sarah Morales T2 ~700w, quick reference table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 54 claims; all stories present; all char limits PASSED; image manifest title-match warnings (cosmetic, pre-existing) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 5 images; 4/5 stories with official source URLs |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × social + hero), all not_started, gemini base_only, dimensions 1200x675 (social) + 1200x630 (hero), brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-11-20.xlsx (7 posts) + cosp-postplanner-tobi-2026-11-20.xlsx (7 TOBI posts) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 20 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB image captions
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+- **Key stories:** CPSC warning — CHE-US magnetic robot toys (~101,282 units Amazon, model X004N3MGCB, seller refused recall, dispose immediately); D11 capacity review — 11 underused schools, enrollment down 21.6%, no closures, co-location focus; AAP + Understood.org ADHD screen time paper (Nov 16, ages 5–10, first ADHD-specific guidance, context over minutes, guilt relief); Bear Creek Dog Park ADA work Nov 19–Dec 18 (limited parking, 3 overflow lots); D11 $775M bond 4A passes (first in 20 years, largest El Paso County school bond, capital improvements across all campuses)
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); PostPlanner FB=0 in export (pre-existing format mismatch); image manifest title-match warnings (cosmetic, pre-existing)
+
+---
+
+## Previous Run: 2026-11-19
 
 | Step | Status | Notes |
 |------|--------|-------|

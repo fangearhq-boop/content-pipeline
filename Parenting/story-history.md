@@ -2,6 +2,50 @@
 
 ---
 
+## November 20, 2026
+
+### Story 1: CPSC Warning — CHE-US Magnetic Robot Toys (Amazon)
+- **Date:** 2026-11-20
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** CPSC formal warning for CHE-US/CHESLICR magnetic stick figure robot toys; model X004N3MGCB; ~101,282 units sold on Amazon in sets of 5 or 10 for ~$9; Guangzhou Shian Trading Co. refused voluntary recall; arms/legs pull apart releasing high-powered magnets violating ASTM F963 and fitting small parts cylinder; ingestion of 2+ magnets can cause intestinal perforations, blockages, sepsis — potentially fatal without surgery; no refund available; CPSC advises immediate disposal.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 2: D11 Capacity Review — 11 Underused Schools
+- **Date:** 2026-11-20
+- **Tier:** T1
+- **Pillar:** Local News
+- **Key Facts:** D11 presented capacity review at Nov 18 work session; 11 campuses now meet Colorado state underused threshold; district enrollment down 21.6% to ~22,265 students; D49 grew 65.5% same period; board ruled out closures — focus on co-location options; planning exercise for 2026-27; no decisions announced.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 3: AAP + Understood.org ADHD Screen Time Guidance for Ages 5–10
+- **Date:** 2026-11-20
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** Released Nov 16 2026; Understood.org in partnership with AAP; first expert-backed screen time guidance specifically for parents of children ages 5–10 with ADHD; context and content matter more than counting minutes; directly refutes myth that screens cause ADHD; addresses parental guilt as explicit goal; fills gap left by general AAP screen time guidance.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 4: Bear Creek Regional Dog Park ADA Accessibility Work
+- **Date:** 2026-11-20
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** El Paso County started ADA upgrades at Bear Creek Regional Dog Park Nov 19; project runs through Dec 18 2026; scope: parking areas and entrance path; on-site parking limited during construction; overflow at Parks Headquarters, Bear Creek Regional Park main lot, north side of dog park; dog park remains open.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 5: D11 $775M Bond 4A Passes — First in 20 Years
+- **Date:** 2026-11-20
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** Ballot Issue 4A approved; $775M for capital improvements across all D11 campuses; nearly 50,000 yes votes; first D11 bond in 20 years; largest school bond in El Paso County history; capital-only (no salaries/operations); no specific campus timelines announced; planning phase begins.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+---
+
 ## November 19, 2026
 
 ### Story 1: CPSC Recalls — HABA Rainbow Rattle and TooyBing Stacking Toys

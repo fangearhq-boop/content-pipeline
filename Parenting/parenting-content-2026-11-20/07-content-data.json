@@ -1,0 +1,415 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-20",
+  "compiled_at": "2026-11-20T12:26:42.047461+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CPSC Warns Parents to Ditch CHE-US Magnetic Robot Figures — 101K+ Units, Amazon",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "🚨 CPSC: Throw away CHE-US magnetic robot toys (X004N3MGCB). The magnets release when arms/legs are pulled — if swallowed, they can perforate intestines. 101K+ sold on Amazon. No recall, no refund. Dispose now.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 270
+        },
+        {
+          "label": "Post 1-2",
+          "text": "If you bought the CHE-US robot toy set on Amazon (~$9, sets of 5 or 10), look for model code X004N3MGCB on the packaging. The seller refused a recall — CPSC says throw it away immediately. No compensation available. 🗑️\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "If you've bought a set of those CHE-US stick figure robot toys on Amazon — the ones that come in sets of five or ten for about $9 — the CPSC wants you to throw them away today.\n\nThe Consumer Product Safety Commission issued a formal warning this week for about 101,000 of these toys. The brand name is CHE-US or CHESLICR, and the model code on the packaging is X004N3MGCB. The hazard isn't obvious at first glance: the arms and legs on the figures can be pulled apart, and when they are, they release high-powered magnets that are small enough to fit in the small parts cylinder (the standard choking hazard test).\n\nHere's the serious part. If a child swallows two or more of these magnets, they can attract each other through the walls of the intestines. That can cause perforations, blockages, or sepsis — any of which can be fatal without surgery. This isn't a theoretical risk; high-powered magnet injuries in children are well-documented.\n\nThe seller, Guangzhou Shian Trading Co. (the company behind the CHE-US brand), refused to work with the CPSC on a voluntary recall. That means there's no refund and no exchange — the CPSC's only option was to issue a warning and tell parents to dispose of the toys immediately.\n\nThere's no compensation available here, which is frustrating. But the disposal part is straightforward: if you have them, they go in the trash now. If you gave them as a gift, it's worth a heads-up call.\n\nHave you seen these toys at your house or a family member's?\n\n---",
+        "image_caption": "",
+        "posting_time": "8:00 AM MT"
+      },
+      "article": {
+        "filename": "article-01-cpsc-warning-che-us-magnetic-robot-toys-amazon.html",
+        "headline": "CPSC Warns Parents to Throw Away CHE-US Magnetic Robot Toys — Over 100,000 Units Sold on Amazon",
+        "word_count": 695
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CHE-US Magnetic Robot Toys — CPSC Warning\n\n**Social Image (1200x675)**\n- **Prompt:** A close-up flat lay of small metallic disc magnets scattered on a plain white surface, with a faint warning orange glow emanating from beneath them. Dramatic overhead lighting, soft shadows. High contrast. The magnets are silver/steel colored, various small sizes. Clean empty bottom third for text overlay. Art style: editorial product photography, photorealistic.\n- **Mood:** Urgent, cautionary\n- **Color palette:** White background, steel silver, warning orange accent\n- **Brand colors to reinforce in Canva:** Warm Coral (#FF6F61) for warning overlay\n\n**Article Hero (1200x630)**\n- **Prompt:** A parent's hand gently holding small metallic disc magnets over a plain light background. Warm indoor lighting from the side. Focus on the magnets, hand blurred slightly. The composition suggests care and concern. Clean empty bottom third. Art style: soft editorial, photorealistic, natural lighting.\n- **Mood:** Concerned, protective\n- **Color palette:** Warm neutrals, steel silver magnets, light background\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CHE-US Magnetic Robot Toy CPSC Warning\n**Confidence:** HIGH\n**Source URLs:**\n- https://www.cpsc.gov/Recalls/2026/CPSC-Warns-Consumers-to-Immediately-Stop-Using-CHE-US-Magnetic-Stick-Figure-Robot-Toys (official CPSC warning page)\n- https://www.cpsc.gov/s3fs-public/2026-10-29-che-us-magnetic-toy-warning.pdf\n**Key Facts:**\n- Product: CHE-US magnetic stick figure robot toys (also branded CHESLICR)\n- Units: ~101,282 sold on Amazon\n- Seller: Guangzhou Shian Trading Co., Ltd.\n- Model code: X004N3MGCB (found on packaging)\n- Sold in sets of 5 or 10, price: ~$9\n- Hazard: Arms and legs can be pulled apart, releasing high-powered magnets that exceed the federal toy safety standard (ASTM F963) and that fit within the small parts cylinder (choking hazard for under age 3)\n- Injury risk: If two or more magnets are swallowed, they can attract each other through intestinal walls, causing perforations, blockages, or sepsis — potentially fatal without surgery\n- Seller refused voluntary recall; no refund available\n- CPSC action: Formal warning (not a recall); consumers told to dispose of product immediately\n- Sale period: Available on Amazon; still potentially listed\n**Research Notes:**\n- High-powered magnet toy ingestion injuries are well-documented in medical literature; CPSC has previously recalled similar products (e.g., Zen Magnets 2021)\n- The refusal-to-recall situation is notable — CPSC must issue a warning rather than the typical recall mechanism, which limits consumer remedies\n- No injury reports cited in the warning, but precautionary",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "U.S. Consumer Product Safety Commission",
+          "url": "https://www.cpsc.gov/Recalls/2026/CPSC-Warns-Consumers-to-Immediately-Stop-Using-CHE-US-Magnetic-Stick-Figure-Robot-Toys",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "U.S. Consumer Product Safety Commission",
+          "url": "https://www.cpsc.gov/s3fs-public/2026-10-29-che-us-magnetic-toy-warning.pdf",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "HIGH Source URLs",
+          "url": "https://www.cpsc.gov/Recall",
+          "official": true,
+          "found_in": [
+            "06-fact-check-log.md"
+          ],
+          "publisher": "| LOW | Organization | cpsc |"
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "D11 Reviews School Capacity — 11 Campuses Now Underused",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "D11 has 11 schools that meet Colorado's underuse threshold. Enrollment is down 21.6% to ~22,265 students. The Nov 18 board session focused on co-location — not closures. Here's what COS families need to know.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 269
+        },
+        {
+          "label": "Post 2-2",
+          "text": "While D11 enrollment dropped 21.6%, D49 grew 65.5%. The school board reviewed 11 underused campuses this week — no closures planned, but co-location talks are ahead. 2026-27 planning is underway. 📚\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "D11 held a work session on November 18 to review enrollment and building capacity, and the numbers tell a clear story: 11 schools in the district now meet Colorado's threshold for underused campuses.\n\nDistrict enrollment has dropped 21.6% to about 22,265 students. That's a significant decline — and it comes alongside D49 growing 65.5% over the same period, which reflects what many local families already know: a lot of people have been choosing to move into the D49 area or enroll their kids there.\n\nThe board is not talking about closures. They've been clear about that. The focus right now is on co-location, which means putting multiple programs or schools in the same building rather than shutting a building down. That's a planning conversation, not a decision announcement.\n\nThe capacity review is a step ahead of the 2026-27 school year. No decisions came out of the November 18 meeting, and the district said it's still in an exploratory phase.\n\nIf your kids are in D11, nothing is changing immediately. But this is a conversation worth following as the district works through what to do with buildings that aren't at capacity. We'll keep tracking it as the planning process moves forward.\n\nWhat do you think D11 should do with underused buildings?\n\n---",
+        "image_caption": "",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-02-d11-capacity-review-11-underused-schools.html",
+        "headline": "D11 Has 11 Underused Schools — What the Capacity Review Means for COS Families",
+        "word_count": 684
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Capacity Review — 11 Underused Schools\n\n**Social Image (1200x675)**\n- **Prompt:** An aerial-perspective illustration of a school campus with wide, mostly-empty hallways and open classroom doors, seen from a bird's-eye view. Soft natural daylight through large windows. The space feels quiet but not abandoned — chairs stacked, lockers empty. Clean empty bottom third. Art style: editorial illustration, clean architectural style, muted warm tones.\n- **Mood:** Reflective, informative\n- **Color palette:** Warm taupes, cream, soft blue window light, Primary Teal accent\n\n**Article Hero (1200x630)**\n- **Prompt:** Interior of a bright elementary school hallway with rows of colorful student cubbies, bulletin boards with art, and wide windows letting in Colorado morning sunlight. The hallway is empty but feels warm and lived-in. Slight warm color grade. Clean empty bottom third. Art style: editorial documentary photography style, photorealistic.\n- **Mood:** Local, warm, grounded\n- **Color palette:** Warm yellows and blues, school colors, natural light\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 School Capacity Review — 11 Underused Campuses\n**Confidence:** HIGH\n**Source URLs:**\n- https://www.krdo.com/news/local-news/d11-capacity-review-underused-schools-november-2026/\n- https://gazette.com/education/d11-enrollment-decline-capacity-review/\n**Key Facts:**\n- District: Colorado Springs School District 11\n- Event: Work session, November 18, 2026\n- 11 D11 schools now meet Colorado state criteria for underused campuses\n- Current enrollment: ~22,265 students\n- Enrollment decline: 21.6% from prior period\n- D49 growth: 65.5% over same period (drawing families from D11)\n- Board position: Not moving toward closures; exploring co-location options\n- Purpose: Planning exercise ahead of 2026-27 school year\n- No decisions announced at the work session\n- State criteria for underused: typically below a threshold utilization rate (varies; Colorado uses ~65% as a common benchmark)\n**Research Notes:**\n- D11 has faced enrollment pressure for years; D49 and charter growth are ongoing factors\n- \"Co-location\" means sharing building with another school or program rather than closing a campus\n- This is planning-stage — no immediate impact on families, but important context for D11 decisions in the spring",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "krdo.com",
+          "url": "https://www.krdo.com/news/local-news/d11-capacity-review-underused-schools-november-2026/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "gazette.com",
+          "url": "https://gazette.com/education/d11-enrollment-decline-capacity-review/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "| MEDIUM | School District | d11",
+          "url": "https://www.krdo.com/news/local-news/d11-capacity-rev",
+          "official": false,
+          "found_in": [
+            "06-fact-check-log.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "AAP and Understood.org Release First ADHD-Specific Screen Time Guidance for Ages 5–10",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "New from AAP + Understood.org: first screen time guidance for kids ages 5–10 with ADHD. Context matters more than minutes. Screens don't cause ADHD — and your guilt about screen time? Let it go. 📱\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "If you have a kid with ADHD and you've ever felt guilty about how much screen time they're getting — this one's for you.\n\nThe American Academy of Pediatrics partnered with Understood.org to release the first expert-backed screen time guidance written specifically for parents of kids ages five to ten with ADHD. It came out November 16, and it's worth bookmarking.\n\nThe core message is a shift away from minute-counting. For kids with ADHD, context and content matter more than how long they're on a screen. A child with ADHD using a device to hyperfocus on something genuinely educational or creative is a different situation from one passively scrolling — and the guidance acknowledges that nuance, which the general AAP screen time advice doesn't really address.\n\nIt also specifically calls out one of the most persistent myths: screens don't cause ADHD. And it's direct about parental guilt. A lot of families feel like they're doing something wrong when their kid needs more screen time than their neurotypical peers. This paper pushes back on that.\n\nYou can find it at understood.org. It's free, it's readable, and it's a genuinely useful reference for the conversations we all have at home about devices.\n\nWhat's been the hardest screen time call to make with your ADHD kid?\n\n---",
+        "image_caption": "",
+        "posting_time": "12:00 PM MT"
+      },
+      "article": {
+        "filename": "article-03-aap-understood-adhd-screen-time-guidance-ages-5-10.html",
+        "headline": "First Expert Guidance for ADHD Screen Time (Ages 5–10): What AAP and Understood.org Want Parents to Know",
+        "word_count": 685
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AAP + Understood.org ADHD Screen Time Guidance\n\n**Social Image (1200x675)**\n- **Prompt:** A child approximately seven years old using a tablet at a wooden kitchen table, natural morning light streaming through a window. Parent hand visible at edge of frame, relaxed and present but not hovering. Scene feels calm and normal, not frantic. Clean empty bottom third. Art style: soft editorial lifestyle photography, photorealistic, warm tones.\n- **Mood:** Reassuring, warm, modern family\n- **Color palette:** Warm honey wood tones, soft morning light, Primary Teal accent in clothing\n\n**Article Hero (1200x630)**\n- **Prompt:** A close-up of a child's hands holding a tablet on a soft-colored couch cushion, focus on the hands and device. Blurred background shows a living room setting. Warm afternoon light. Clean empty bottom third. Art style: editorial lifestyle, photorealistic, soft focus background.\n- **Mood:** Calm, modern, non-judgmental\n- **Color palette:** Warm neutrals, soft blue device glow, cream and teal accents\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AAP + Understood.org ADHD Screen Time Guidance for Ages 5–10\n**Confidence:** HIGH\n**Source URLs:**\n- https://www.prnewswire.com/news-releases/understood-org-aap-adhd-screen-time-guidance-november-2026\n- https://www.understood.org/en/articles/adhd-screen-time-guidance-aap\n- https://www.aap.org/en/news-room/news-releases/2026/aap-understood-adhd-screen-time/\n**Key Facts:**\n- Release date: November 16, 2026\n- Published by: Understood.org, in partnership with the American Academy of Pediatrics (AAP)\n- Target audience: Parents of children ages 5–10 with ADHD\n- First guidance: First expert-backed, ADHD-specific screen time document for this age group\n- Key message: Context and content matter more than counting minutes\n- Addresses myth: Screens do NOT cause ADHD\n- Addresses parental guilt: Many families with ADHD kids feel excessive guilt about screen use — this paper explicitly aims to relieve it\n- Gap filled: Existing AAP general screen time guidance covers all kids; this fills the gap for ADHD-specific families\n- No specific screen time minute limits given (intentional — ADHD affects executive function differently than neurotypical kids)\n**Research Notes:**\n- Understood.org is a well-regarded nonprofit focused on learning and thinking differences; AAP partnership gives it clinical credibility\n- ADHD affects ~9.4% of US children ages 2–17 (CDC estimate); in Colorado Springs metro area, that translates to a substantial number of families\n- Paper is freely available on Understood.org",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "American Academy of Pediatrics",
+          "url": "https://www.aap.org/en/news-room/news-releases/2026/aap-understood-adhd-screen-time/",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "prnewswire.com",
+          "url": "https://www.prnewswire.com/news-releases/understood-org-aap-adhd-screen-time-guidance-november-2026",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "understood.org",
+          "url": "https://www.understood.org/en/articles/adhd-screen-time-guidance-aap",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Bear Creek Regional Dog Park ADA Work Starts — Limited Parking Through December 18",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Heads up: Bear Creek Regional Dog Park has limited on-site parking through Dec 18 while ADA upgrades are underway. Overflow parking is at Parks HQ, the Bear Creek main lot, and the north side of the park. 🐾\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "Just a quick heads up for families who regularly take the dogs and kids to Bear Creek Regional Dog Park: construction started November 19 and runs through December 18. 🐾\n\nEl Paso County is doing ADA accessibility upgrades — specifically upgrading the parking areas and the entrance path to meet ADA standards. That's genuinely good news for families who bring strollers or who have family members with mobility needs. The work just means limited on-site parking for the next month.\n\nThe county has set up overflow parking at three spots: Parks Headquarters (right next to the park), the Bear Creek Regional Park main lot, and the north side of the dog park itself. If you're planning a holiday-season visit, it's worth knowing before you arrive.\n\nThe timing isn't ideal with December filling up fast, but the construction wraps before the week of Christmas. Plan your trips with a few extra minutes for parking, and you're good.\n\nDo you take your kids and dogs to Bear Creek regularly?\n\n---",
+        "image_caption": "",
+        "posting_time": "3:00 PM MT"
+      },
+      "article": {
+        "filename": "article-04-bear-creek-dog-park-ada-work-limited-parking.html",
+        "headline": "Bear Creek Regional Dog Park ADA Work Underway — Plan Ahead for Limited Parking Through Dec 18",
+        "word_count": 558
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bear Creek Dog Park ADA Work\n\n**Social Image (1200x675)**\n- **Prompt:** A sunlit Colorado outdoor park pathway with a dog running in the background and an orange construction cone visible at the edge of a gravel parking area. Mountains faintly visible on the horizon under a crisp blue Colorado sky. Clean empty bottom third. Art style: editorial outdoor photography, photorealistic, bright natural light.\n- **Mood:** Practical, local, helpful\n- **Color palette:** Sky blue, dry grass gold, construction orange accent, mountain grey\n\n**Article Hero (1200x630)**\n- **Prompt:** A wide shot of a dog park fence line on a clear November Colorado day — dry golden grass, a split-rail fence, and a gravel parking area visible. A single orange construction cone is placed near the entrance. Mountains in background. No people. Clean empty bottom third. Art style: editorial landscape photography, photorealistic, natural winter light.\n- **Mood:** Informational, local, outdoorsy\n- **Color palette:** Colorado winter palette — golden grass, blue sky, grey mountains\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Bear Creek Regional Dog Park ADA Accessibility Work\n**Confidence:** HIGH\n**Source URLs:**\n- https://www.elpasoco.com/news/bear-creek-regional-dog-park-ada-accessibility-improvements-2026/\n- https://www.elpasoco.com/parks-recreation/bear-creek-regional-park/\n**Key Facts:**\n- Location: Bear Creek Regional Dog Park, Colorado Springs\n- Work started: November 19, 2026 (same day as announcement)\n- Work ends: December 18, 2026\n- Scope: ADA accessibility upgrades — parking areas and entrance path\n- On-site parking: Limited during construction\n- Overflow parking options (per El Paso County):\n1. Parks Headquarters (adjacent)\n2. Bear Creek Regional Park main lot\n3. North side of the dog park\n- No amenity closures noted beyond limited parking\n**Research Notes:**\n- Bear Creek Regional Dog Park is one of the most popular off-leash parks in the Colorado Springs area, serving many families with dogs\n- ADA improvements benefit families with mobility needs, strollers, and other access requirements\n- The 30-day window is short; most families will need to plan alternates for the holiday season",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "El Paso County",
+          "url": "https://www.elpasoco.com/news/bear-creek-regional-dog-park-ada-accessibility-improvements-2026/",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "El Paso County",
+          "url": "https://www.elpasoco.com/parks-recreation/bear-creek-regional-park/",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "D11's $775M School Bond Is Official — First in 20 Years",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "It's official: D11's $775M bond (4A) passed — first in 20 years and the largest school bond in El Paso County history. Building upgrades across all campuses. No specific timelines yet. 🏫\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "The vote is confirmed: D11's Ballot Issue 4A passed. That's $775 million for school improvements across every campus in Colorado Springs School District 11.\n\nIt's the first D11 bond to pass in 20 years — and the largest school bond in El Paso County history. Nearly 50,000 yes votes came in with the early results, and the final count held.\n\nThe money is capital-only, which means it covers building upgrades, deferred maintenance, and facility improvements. It can't go toward salaries or operating costs. The district has been open about the fact that many buildings are aging and have needed work for a long time — this bond is what makes that work possible.\n\nWhat it doesn't come with right now is a school-by-school timeline. The district will need to go through a process to prioritize which campuses get what and when. That work will happen over the coming months, and we'll keep tracking it as decisions get made.\n\nFor families with kids in D11 schools today, the bond passage means renewed investment in the buildings your kids walk into every morning. The improvements aren't immediate, but they're coming.\n\nWhat would you most like to see improved at your D11 campus?\n\n---",
+        "image_caption": "",
+        "posting_time": "5:00 PM MT"
+      },
+      "article": {
+        "filename": "article-05-d11-bond-4a-passes-775-million.html",
+        "headline": "D11's $775M School Bond Is Official — Here's What Colorado Springs Families Can Expect",
+        "word_count": 670
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 $775M Bond Passes\n\n**Social Image (1200x675)**\n- **Prompt:** A warm exterior shot of a classic Colorado Springs school building — red brick, large windows, American flag on a flagpole — on a clear autumn afternoon. Warm golden hour light. The building looks dignified and well-established. Clean empty bottom third. Art style: editorial architectural photography, photorealistic, warm light.\n- **Mood:** Hopeful, civic, local pride\n- **Color palette:** Warm brick red, sky blue, golden afternoon light, Primary Teal accent\n\n**Article Hero (1200x630)**\n- **Prompt:** Interior of a school gymnasium with bleachers, polished hardwood floor, and large high windows letting in Colorado sunlight. The space is empty but bright and well-maintained. Clean empty bottom third. Art style: editorial architectural interior photography, photorealistic, natural light.\n- **Mood:** Investment, possibility, local\n- **Color palette:** Warm wood tones, blue gymnasium lines, natural light"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 $775M Bond Measure 4A Passes\n**Confidence:** HIGH\n**Source URLs:**\n- https://gazette.com/education/d11-bond-4a-results-november-2026/\n- https://www.krdo.com/news/local-news/d11-bond-measure-4a-passes-colorado-springs/\n- https://www.d11.org/bond\n**Key Facts:**\n- Ballot item: Issue 4A\n- Amount: $775 million\n- District: Colorado Springs School District 11\n- Result: Approved by voters\n- Yes votes in early results: Nearly 50,000\n- Status: Confirmed\n- Use of funds: Capital improvements across all D11 campuses — aging buildings, deferred maintenance, facility upgrades\n- Historical context: First D11 bond to pass in 20 years; largest school bond in El Paso County history\n- Timeline: No specific campus timelines announced yet\n**Research Notes:**\n- The bond's passage comes alongside the separate capacity/enrollment story (Story 2), which could appear contradictory — voters approving $775M while 11 schools are underused; worth acknowledging this in the article\n- Bond funding is capital only — cannot be used for salaries or operations\n- Families in D11 will see building improvements but timeline decisions come later; most families won't see immediate visible changes",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "| LOW | URL Reference | d11.org | -passes-colorado-springs/",
+          "url": "https://www.d11.org/bond",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "06-fact-check-log.md"
+          ]
+        },
+        {
+          "name": "gazette.com",
+          "url": "https://gazette.com/education/d11-bond-4a-results-november-2026/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "krdo.com",
+          "url": "https://www.krdo.com/news/local-news/d11-bond-measure-4a-passes-colorado-springs/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "| MEDIUM | School District | d11 | URLs",
+          "url": "https://gazette.com/education/d11-bond-4a-res",
+          "official": false,
+          "found_in": [
+            "06-fact-check-log.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
