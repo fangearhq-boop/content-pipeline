@@ -2,6 +2,45 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-11-20
+
+### STORY 1: Las Vegas GP FP2 — Russell P1, Verstappen P13 (Power Unit Issue)
+- **Tier:** 1
+- **Category:** Las Vegas Grand Prix / George Russell / Max Verstappen / FP2
+- **Key facts:** Russell 1:47.272 (P1); Gasly P2 +0.071; Leclerc P3 +0.333; Verstappen P13 +2.869 (power unit issue); FP1 washed out; qualifying Friday 8 PM PST / 11 PM ET on Apple TV+
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: Verstappen-Russell Championship Battle — 17 Points Left
+- **Tier:** 1
+- **Category:** 2026 F1 Drivers' Championship / Max Verstappen / George Russell / Las Vegas GP
+- **Key facts:** Verstappen 279 pts, Russell 262 pts, 17-point gap; 3 races left (Las Vegas, Qatar, Abu Dhabi); 78 max pts available; Antonelli champion (390 pts, clinched Mexico City Nov 1)
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: Las Vegas GP Grid Penalty Chaos — Five Drivers Affected
+- **Tier:** 2
+- **Category:** Las Vegas Grand Prix / Grid Penalties / Oscar Piastri / Carlos Sainz / Oliver Bearman
+- **Key facts:** Bearman −35, Piastri −10, Sainz −10, Stroll −10, Antonelli −5; 70 combined places dropped
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
+### STORY 4: Kimi Antonelli — World Champion With Nothing to Lose
+- **Tier:** 2
+- **Category:** Kimi Antonelli / Mercedes / 2026 F1 Drivers' Championship
+- **Key facts:** Clinched Mexico City Nov 1; age 20 years, 68 days (youngest champion, breaking Vettel's record); first Italian champion since Ascari 1953; 390 pts; racing penalty-free in Vegas final 3 races
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: Las Vegas GP Race Preview — Apple TV+ Debut, Strip Circuit
+- **Tier:** 3
+- **Category:** Las Vegas Grand Prix / 2026 F1 Season
+- **Key facts:** Race Saturday Nov 21, 8 PM PST; 6.201 km circuit, 17 turns, 50 laps; Apple TV+ US exclusive; Verstappen 2023/2025 winner; Russell 2024 winner
+- **Byline:** Elena Voss
+- **Status:** NEW
+
+---
+
 ## 2026-11-19 Stories
 
 ### STORY 1: Las Vegas GP Race Week Underway — FP1 and FP2 Tonight

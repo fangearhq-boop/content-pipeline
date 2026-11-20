@@ -1,0 +1,369 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-20",
+  "compiled_at": "2026-11-20T11:27:19.890477+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Russell Leads Wet FP2 as Verstappen Suffers Power Unit Blow",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "FP2 at Las Vegas: Russell 1st. Gasly 2nd. Leclerc 3rd. Verstappen? 13th — with a power unit issue. Qualifying is TONIGHT. The championship picture just got more interesting. #F1 #LasVegasGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 189
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Verstappen ended FP2 at Las Vegas in 13th. A power unit issue. Russell was 2.9 seconds faster. With 17 championship points between them, this matters. Qualifying 11 PM ET on Apple TV+. #LasVegasGP #F1",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LasVegasGP",
+            "#F1"
+          ],
+          "char_count": 200
+        }
+      ],
+      "facebook": {
+        "long_form": "George Russell led a rain-soaked Las Vegas FP2 session on Thursday night, posting a time of 1:47.272 to beat Pierre Gasly by just 0.071 seconds. Charles Leclerc was third, 0.333 back. The session started on full wet tires before the track dried enough for intermediates — chaotic, compressed, and revealing.\n\nWhat it revealed most was the gap between Russell and his championship rival. Max Verstappen finished 13th, 2.869 seconds off Russell's pace, after suffering a power unit issue that curtailed his running. That is the last thing the Red Bull driver needed with 17 championship points separating them and qualifying scheduled for tonight.\n\nFP1, meanwhile, never really happened — torrential rain washed out the first practice session entirely. Teams arrived in Las Vegas with almost no dry-weather data heading into what could be a pivotal qualifying.\n\nQualifying is tonight (Friday, 11 PM ET) on Apple TV+. This one could get interesting.",
+        "image_caption": "Russell P1 | Verstappen P13 | FP2 Las Vegas GP | Power unit issue clouds title fight",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-russell-fp2-verstappen-power-unit.html",
+        "headline": "Russell Tops Soggy Las Vegas FP2 as Verstappen's Power Unit Clouds Championship Picture",
+        "word_count": 559
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "FP2 Results — Russell Leads, Verstappen 13th (Power Unit Issue)\n**Sources:**\n- https://www.formula1.com/en/latest/article/fp2-russell-beats-gasly-and-leclerc-to-top-spot-in-wet-las-vegas-gp-practice.62NwXdkf1krQs0esgViJtc\n- https://www.planetf1.com/news/2026-las-vegas-grand-prix-fp2-report\n- https://www.motorsport.com/f1/news/f1-las-vegas-gp-fp2-report/10875824/\n- https://www.autosport.com/f1/news/f1-las-vegas-gp-russell-fastest-in-damp-fp2-from-gasly/10875841/\n- https://sundayguardianlive.com/sports/las-vegas-gp-fp2-results-george-russell-leads-pierre-gasly-charles-leclerc-as-max-verstappen-finishes-13th-324854/\n**Facts gathered:**\n- FP1 completely washed out by torrential rain — no timed laps for most drivers\n- FP2 ran in damp/wet conditions; started on full wets, switched to intermediates ~20 minutes in\n- Late red flag preceded final flying laps\n- George Russell (Mercedes): 1:47.272 — P1\n- Pierre Gasly (Alpine): 1:47.343 — P2 (+0.071)\n- Charles Leclerc (Ferrari): 1:47.605 — P3 (+0.333)\n- Isack Hadjar (Red Bull): 1:48.407 — P4 (+1.135)\n- Oscar Piastri (McLaren): 1:48.453 — P5 (+1.181)\n- Lewis Hamilton (Ferrari): 1:48.483 — P6 (+1.211)\n- Lando Norris (McLaren): 1:48.837 — P7 (+1.565)\n- Max Verstappen (Red Bull): 1:50.141 — P13 (+2.869)\n- Verstappen suffered power unit issue; curtailed running explains P13\n- Piastri spun at Turn 5 early in session\n- Norris had off at Turn 14\n- Qualifying: Friday Nov 20, 8:00 PM PST / 11:00 PM ET\n- Race: Saturday Nov 21, 8:00 PM PST / 11:00 PM ET\n- TV (US): Apple TV+ exclusive\n**Confidence:**\n- FP2 results (all positions, times) — HIGH (formula1.com, autosport.com, motorsport.com, Sunday Guardian)\n- FP1 washout — HIGH (confirmed multiple sources)\n- Verstappen power unit issue — HIGH (autosport.com, motorsport.com)\n- Qualifying/Race times — HIGH (The Race, formula1.com)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "formula1.com",
+          "url": "https://www.formula1.com/en/latest/article/fp2-russell-beats-gasly-and-leclerc-to-top-spot-in-wet-las-vegas-gp-practice.62NwXdkf1krQs0esgViJtc",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "planetf1.com",
+          "url": "https://www.planetf1.com/news/2026-las-vegas-grand-prix-fp2-report",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "motorsport.com",
+          "url": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-fp2-report/10875824/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "autosport.com",
+          "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-russell-fastest-in-damp-fp2-from-gasly/10875841/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sundayguardianlive.com",
+          "url": "https://sundayguardianlive.com/sports/las-vegas-gp-fp2-results-george-russell-leads-pierre-gasly-charles-leclerc-as-max-verstappen-finishes-13th-324854/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen-Russell Championship Showdown — 17 Points, 3 Races Left",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "17 points. 3 races. The fight between Verstappen (279 pts) and Russell (262 pts) for P2 in the 2026 standings comes to a head in Las Vegas. Antonelli has the title. Everything else is wide open. #F1 #LasVegasGP",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 210
+        },
+        {
+          "label": "Post 2-2",
+          "text": "George Russell could close to within 7 points of Verstappen if he wins and Max finishes outside the top 10. Las Vegas was Russell's win last year. The momentum is real. #F1 #LasVegasGP",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 184
+        }
+      ],
+      "facebook": {
+        "long_form": "The 2026 Drivers' Championship belongs to Kimi Antonelli. That much has been settled since Mexico City on November 1. But the battle for runner-up — a fight between Max Verstappen and George Russell — is producing its own drama, and Las Vegas is at the center of it.\n\nVerstappen leads Russell by just 17 points: 279 to 262. With three races remaining (Las Vegas, Qatar, Abu Dhabi), a maximum of 78 points are still on the table. That means Russell could overtake Verstappen if results break his way — and Thursday's wet practice suggests Las Vegas could break his way very directly.\n\nRussell won here in 2024. The Mercedes is well-suited to the high-speed Strip Circuit. And after Verstappen's power unit scare in FP2, the Red Bull camp will be nervous about whether their car is fully reliable heading into qualifying tonight.\n\nOne race at a time. Las Vegas is now.",
+        "image_caption": "Verstappen 279 pts vs Russell 262 pts | 17-point gap | 3 races left | Las Vegas is the moment",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-verstappen-russell-championship-battle.html",
+        "headline": "17 Points, 3 Races, 1 Chance: Russell and Verstappen's Las Vegas Championship Duel",
+        "word_count": 528
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "2026 Championship Battle — Russell vs. Verstappen\n**Sources:**\n- https://www.crash.net/f1/news/1110014/1/new-f1-championship-standings-after-brazil-grand-prix\n- https://racingnews365.com/2026-f1-championship-standings-after-sao-paulo-grand-prix\n- https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city\n**Facts gathered:**\n- Kimi Antonelli: 390 pts (Champion, clinched Mexico City Nov 1, 2026)\n- Antonelli age at clinch: 20 years, 68 days (youngest champion, breaking Vettel's record)\n- First Italian world champion since Alberto Ascari (1953)\n- Max Verstappen: 279 pts (P2 in standings)\n- George Russell: 262 pts (P3 in standings)\n- Lewis Hamilton (Ferrari): ~261 pts (P4)\n- Charles Leclerc (Ferrari): ~249 pts (P5)\n- Lando Norris (McLaren): ~246 pts (P6)\n- Gap Verstappen to Russell: 17 points\n- Races remaining: Las Vegas, Qatar, Abu Dhabi (3 races, 78 max points)\n- Norris won São Paulo GP Nov 8 in wet conditions\n- Mercedes already confirmed Constructors' champions\n**Confidence:**\n- Antonelli 390 pts, champion — HIGH (crash.net, racingnews365, Al Jazeera)\n- Verstappen 279, Russell 262 — HIGH (crash.net, racingnews365)\n- Antonelli youngest champion record — HIGH (Al Jazeera, formula1.com)\n- 78 max points remaining — HIGH (3 races × 26 max per race)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "crash.net",
+          "url": "https://www.crash.net/f1/news/1110014/1/new-f1-championship-standings-after-brazil-grand-prix",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "racingnews365.com",
+          "url": "https://racingnews365.com/2026-f1-championship-standings-after-sao-paulo-grand-prix",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "aljazeera.com",
+          "url": "https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Grid Penalty Chaos — Five Drivers Taking Hits Before Qualifying",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Before a single qualifying lap: Bearman −35 places, Piastri −10, Sainz −10, Stroll −10, Antonelli −5. That's 70 combined grid places gone before Q1 begins. Las Vegas is already chaos. #F1 #LasVegasGP",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "The 2026 Las Vegas Grand Prix grid is already a mess before qualifying begins, and that is not entirely a bad thing for fans who enjoy strategy chaos.\n\nFive drivers will drop grid places from wherever they qualify: Oscar Piastri loses 10 spots, Carlos Sainz loses 10 spots, Lance Stroll loses 10 spots, Kimi Antonelli loses 5 spots, and Oliver Bearman loses a staggering 35 spots — which will almost certainly push him to the back of the grid no matter how well he qualifies.\n\nThat is 70 combined grid places disappearing into the penalty ether before a single lap of qualifying is complete.\n\nFor Piastri (sixth in the championship with 152 points), the penalty is a painful setback when he is trying to consolidate his position. For Sainz and Stroll, it makes points-scoring more difficult. Bearman will essentially be starting over from scratch.\n\nThe Las Vegas GP is never short on drama, and this one is delivering early.",
+        "image_caption": "Grid Penalty Chaos | Bearman −35, Piastri −10, Sainz −10 | Las Vegas GP",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-las-vegas-grid-penalty-chaos.html",
+        "headline": "Five Drivers, 70 Combined Grid Places Lost: Las Vegas GP's Pre-Race Penalty Chaos",
+        "word_count": 553
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Grid Penalties — Five Drivers Affected\n**Sources:**\n- https://formula1.com/en/latest/article/piastri-set-for-10-place-grid-penalty-at-las-vegas-grand-prix.5eT1wWFQzCfOS6W2tvTtLk\n- https://www.formula1.com/en/latest/article/sainz-set-for-las-vegas-grand-prix-grid-drop-after-practice-incident.2sbDKjhjgXZyu00NvBjDbp\n**Facts gathered:**\n- Oscar Piastri (McLaren): −10 grid places\n- Carlos Sainz: −10 grid places\n- Lance Stroll (Aston Martin): −10 grid places\n- Kimi Antonelli (Mercedes): −5 grid places\n- Oliver Bearman: −35 grid places (essentially back row)\n- Penalties are confirmed pre-qualifying\n**Confidence:**\n- All five driver penalties — HIGH (formula1.com official penalty notices)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "formula1.com",
+          "url": "https://formula1.com/en/latest/article/piastri-set-for-10-place-grid-penalty-at-las-vegas-grand-prix.5eT1wWFQzCfOS6W2tvTtLk",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "formula1.com",
+          "url": "https://www.formula1.com/en/latest/article/sainz-set-for-las-vegas-grand-prix-grid-drop-after-practice-incident.2sbDKjhjgXZyu00NvBjDbp",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Antonelli's Las Vegas — The Champion's Mindset",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "Kimi Antonelli: 2026 F1 World Champion. 20 years old. First Italian champion since Alberto Ascari in 1953. He clinched in Mexico City on Nov 1. In Las Vegas, he races with no pressure — just pure speed. #F1",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 206
+        },
+        {
+          "label": "Post 4-2",
+          "text": "Antonelli has nothing to lose at the Las Vegas GP. No championship pressure. He's Mercedes' man, running free. Watch out for a world champion having the time of his life this weekend. #LasVegasGP #F1",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LasVegasGP",
+            "#F1"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "Kimi Antonelli arrived in Las Vegas as a world champion — and that changes everything about how he races.\n\nThe 20-year-old clinched the 2026 Drivers' Championship at the Mexico City Grand Prix on November 1, becoming the youngest world champion in F1 history (20 years, 68 days), breaking Sebastian Vettel's record. He also became the first Italian world champion since Alberto Ascari claimed the title 73 years ago.\n\nIt is a remarkable achievement for a driver in just his second season in Formula 1. And now, with the pressure of the championship entirely removed, Antonelli is free to race without consequence.\n\nThat could be fascinating to watch in Las Vegas. No conservative tire management, no calculating safe points. Just a world champion driving a Mercedes on a circuit that suits the car, with nothing to lose and everything to prove on the final stretch of a historic season.\n\nWatch closely. Champions unleashed are something to see.",
+        "image_caption": "Kimi Antonelli | 2026 World Champion | 20 years old | Youngest champion in F1 history",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-antonelli-youngest-world-champion.html",
+        "headline": "Italy's First Champion in 73 Years: How Kimi Antonelli Can Shape the Las Vegas GP",
+        "word_count": 577
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli — World Champion at 20\n**Sources:**\n- https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city\n- https://racingnews365.com/2026-f1-championship-standings-after-sao-paulo-grand-prix\n**Facts gathered:**\n- Clinched at Mexico City Grand Prix, November 1, 2026\n- Age at clinching: 20 years, 68 days\n- Breaks Sebastian Vettel's record (youngest world champion)\n- First Italian champion since Alberto Ascari, 1953 (73 years!)\n- 2026 is Antonelli's second season in F1 (debut 2025)\n- Mercedes Constructors' champions too\n**Confidence:**\n- All Antonelli championship facts — HIGH (Al Jazeera, racingnews365, formula1.com)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "aljazeera.com",
+          "url": "https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "racingnews365.com",
+          "url": "https://racingnews365.com/2026-f1-championship-standings-after-sao-paulo-grand-prix",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Las Vegas GP Race Preview — Strip Circuit, Apple TV Debut",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Las Vegas Grand Prix | Saturday | 8 PM PST / 11 PM ET | Apple TV+. 50 laps, 6.2 km Strip Circuit, cold nights, tire mysteries. Russell leads practice. Verstappen has a power unit problem. This is F1 at its most dramatic. #LasVegasGP",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LasVegasGP"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "The 2026 Las Vegas Grand Prix is almost here, and it arrives with all the drama you could want.\n\nThe race is Saturday, November 21, at 8 PM PST / 11 PM ET. For American fans, this is the first Las Vegas GP broadcast exclusively on Apple TV+ — F1's new US rights deal giving the platform a showcase event. Sky Sports carries it live in the UK; Channel 4 offers highlights.\n\nThe Las Vegas Strip Circuit is 6.201 kilometers long with 17 turns and runs for 50 laps. The desert night air means cold asphalt temperatures, which create unique tire behavior that teams have been trying to understand since the event debuted in 2023. Verstappen won in 2023 and 2025. Russell won in 2024.\n\nThis year's grid comes in with power unit concerns, penalty chaos, a championship battle with 17 points separating second and third, and a world champion with nothing to lose. The setup for drama could not be richer.\n\nSet your alarms. Las Vegas is worth staying up for.",
+        "image_caption": "Las Vegas GP | Saturday Nov 21 | 8 PM PST | Apple TV+ | High-speed Strip Circuit",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-las-vegas-gp-race-preview.html",
+        "headline": "Race Day Preview: What to Know Before the 2026 Las Vegas Grand Prix",
+        "word_count": 527
+      },
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Las Vegas GP Race Preview\n**Sources:**\n- https://www.the-race.com/formula-1/what-time-is-f1s-2026-las-vegas-grand-prix-full-weekend-schedule/\n- https://formula1.com official circuit guide\n**Facts gathered:**\n- Race: Saturday Nov 21, 2026, 8:00 PM PST / 11:00 PM ET\n- Circuit: Las Vegas Strip Circuit, 6.201 km, 17 turns\n- Laps: 50\n- US broadcast: Apple TV+ (exclusive in 2026)\n- UK broadcast: Sky Sports live; Channel 4 highlights\n- Past winners: Verstappen 2023 and 2025; Russell 2024\n- Cold night temperatures create unique tire management challenge\n**Confidence:**\n- Race time, circuit specs — HIGH (formula1.com, The Race)\n- Past winners — HIGH (formula1.com)\n- Apple TV+ US exclusive — HIGH (formula1.com)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "the-race.com",
+          "url": "https://www.the-race.com/formula-1/what-time-is-f1s-2026-las-vegas-grand-prix-full-weekend-schedule/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "formula1.com",
+          "url": "https://formula1.com",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
