@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## Pipeline Run: 2026-11-20
+
+### Story 1: The No. 1 Class Debate — D1Softball vs Softball America
+- **Date:** 2026-11-20
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** D1Softball has Oklahoma at No. 1; Softball America has LSU at No. 1 (first time in program history). Class depth vs individual player ratings — both services are right. Texas A&M, Arizona State also in both top 10s. The WCWS decides it.
+- **Content Produced:** Article (article-01, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - January preseason poll (who gets consensus No. 1?)
+  - December portal additions shifting the rankings
+  - Spring results validating or challenging both rankings
+
+### Story 2: Florida Softball's Back-to-Back Top-5 Classes
+- **Date:** 2026-11-20
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Florida earned top-5 Softball America ranking two consecutive years. 6 signees including Jennings No. 9, Lermann No. 19, Nichols No. 31. Six starters returning. Florida has never won a WCWS title — 2027 roster may be deepest ever.
+- **Content Produced:** Article (article-02, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Florida spring schedule / tournament seeding
+  - SEC competition with OU/Texas joining
+  - WCWS bid
+
+### Story 3: Auburn's Dark Horse 2027 Case
+- **Date:** 2026-11-20
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Auburn No. 4 Softball America, No. 6 D1Softball. Under Bobby Pierce, Tigers are SEC's quiet contender. Offensive class skews heavy — pitching via December portal is the decisive variable. Add an arm and they're a WCWS dark horse.
+- **Content Produced:** Article (article-03, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Auburn December portal moves
+  - Spring preseason ranking
+  - SEC schedule opener results
+
+### Story 4: Oklahoma's December Portal Math — 11 Days to Find an Ace
+- **Date:** 2026-11-20
+- **Tier:** 2
+- **Classification:** FOLLOW UP (OU covered Oct–Nov 19)
+- **Angle:** OU has No. 1 D1Softball class, Wells/Kavan returning, Hutchens enrolled, Emma Reynolds committed. But lost Torres (D1Softball POY) and Pickering (.384 BA, 50 HR, 169 RBI) to TTU. Harter/Hansen added from portal. Gasso needs an elite arm by Dec 15.
+- **Content Produced:** Article (article-04, Emily Rawlings), 2 X posts, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - OU December portal commitment announcement
+  - Spring preseason ranking
+  - WCWS title prediction
+
+### Story 5: Six Questions Softball Fans Will Have Answered by Christmas
+- **Date:** 2026-11-20
+- **Tier:** 3
+- **Classification:** EVERGREEN/FORWARD-LOOKING
+- **Angle:** Forward-looking fan engagement piece: Who wins the December portal? Does Arizona land a pitcher? Who's No. 1 in January polls? Do state courts produce 5-for-5 relief? Who is the first big name in December portal? Can a mid-major surprise?
+- **Content Produced:** Article (article-05, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - December portal opening
+  - January preseason polls
+  - 5-for-5 state court developments
+
+---
+
 ## Pipeline Run: 2026-11-19
 
 ### Story 1: December Portal Is 12 Days Away — Which Programs Are Hunting Pitching?
