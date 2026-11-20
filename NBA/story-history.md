@@ -2,6 +2,45 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-11-20
+
+### STORY 1: Spurs 124, Clippers 112 — Wembanyama 32-Point Double-Double
+- **Tier:** 1
+- **Category:** San Antonio Spurs / Los Angeles Clippers / Victor Wembanyama
+- **Key facts:** Wembanyama 32 pts/11 reb, fourth straight double-double; Castle 21 pts/12 ast; Champagnie 20 pts; Spurs 13-3 (tied NBA best); played through blister
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Knicks 102, Timberwolves 99 — KAT Beats Former Team
+- **Tier:** 1
+- **Category:** New York Knicks / Minnesota Timberwolves / Karl-Anthony Towns / Jalen Brunson / LaMelo Ball
+- **Key facts:** KAT 22 pts/12 reb vs. former team; Brunson 21 pts/7 ast; Knicks blew 19-pt lead but held on; LaMelo Ball missed late tying 3; Knicks 9-6, three straight wins; Wolves 11-6
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Grizzlies 126, Warriors 98 — Fifth Straight Win; Steph Curry Out
+- **Tier:** 2
+- **Category:** Memphis Grizzlies / Golden State Warriors / Jaylen Wells / Stephen Curry
+- **Key facts:** Wells 22 pts, five in double figures; Curry out (right oblique tear); Memphis 52.2% FG, 34 ast; Grizzlies 12-4; Warriors 8-8; Memphis 5-game win streak
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: NBA Cup West Group A — Rockets at Nuggets Tonight
+- **Tier:** 2
+- **Category:** NBA Cup / Houston Rockets / Denver Nuggets / Alperen Şengün / Nikola Jokić
+- **Key facts:** 10 PM ET on NBC/Peacock; Group A lead on the line; Rockets 12-4; Şengün questionable (corneal abrasion); Capela out (ankle); 9-game Friday slate
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: Dejounte Murray Trade Buzz — Heat and Suns Circle
+- **Tier:** 3
+- **Category:** Dejounte Murray / New Orleans Pelicans / Miami Heat / Phoenix Suns
+- **Key facts:** Murray requested trade; market "lukewarm" per reports; Heat and Suns connected but no talks yet; Zion Williamson situation also uncertain
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+---
+
 ## 2026-11-19 Stories
 
 ### STORY 1: Heat 137, Bucks 130 — Giannis Beats Former Team in Emotional Return
