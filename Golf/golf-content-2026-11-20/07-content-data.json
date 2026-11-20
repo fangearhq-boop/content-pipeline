@@ -1,0 +1,384 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-20",
+  "compiled_at": "2026-11-20T11:33:54.363535+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "RSM Classic R1 — Svensson Leads at -8 After Back-Nine 29",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Jesper Svensson shot a back-nine 29 today at Sea Island.\n\nThat's a 64 on the Plantation Course. He leads the RSM Classic at -8 after Round 1.\n\nGreyserman and Higgo are right there at -7. #RSMClassic",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#RSMClassic"
+          ],
+          "char_count": 198
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The RSM Classic isn't just another fall event.\n\nTop 100 in FedEx Cup Fall standings = full 2027 PGA Tour status.\n\nSvensson leads at -8. The bubble players are watching every stroke. #PGATour #RSMClassic",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#RSMClassic"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "Jesper Svensson had one of those back nines you remember.\n\nThe 29 he posted on the back of the Plantation Course at Sea Island gave him a 64 and the Round 1 lead at the RSM Classic — eight under par, two clear of a tie for second between Max Greyserman and Garrick Higgo.\n\nFive players sit at -6 behind them: Lee Hodges, Emiliano Grillo, Hank Lebioda, Maverick McNealy, and Davis Riley. This field is loaded at the top.\n\nThe RSM Classic runs through Sunday at Sea Island Golf Club, St. Simons Island, Georgia. With a $7.4M purse and 2027 PGA Tour status hanging in the balance for bubble players, every shot this week carries weight. Round 2 is underway today.",
+        "image_caption": "Jesper Svensson leads the RSM Classic at -8 after firing a 64 — including a back-nine 29 — on the Plantation Course at Sea Island. #RSMClassic #PGATour",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-svensson-rsm-classic-r1-lead.html",
+        "headline": "Jesper Svensson Shoots Back-Nine 29 to Lead RSM Classic After Round 1",
+        "word_count": 389
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "RSM Classic R1 — Svensson Leads at -8\n\n**Primary Image Concept:** Jesper Svensson mid-swing or celebrating a putt at Sea Island\n**Imagn Search Terms:** Jesper Svensson golf RSM Classic\n**Fallback:** Sea Island Golf Club Plantation Course aerial or fairway shot\n**Caption Style:** Action/celebration with score overlay (-8, 64)\n\n---"
+        }
+      ],
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "RSM Classic R1 — Svensson Leads at -8\n**Sources:**\n- https://golftoday.co.uk/rsm-classic-2026-r1-jesper-svensson-leads-after-64/\n- https://sports.yahoo.com/articles/jesper-svenssons-back-nine-29-003017653.html\n- https://www.golfchannel.com/pga-tour/news/rsm-challenge-2026-players-on-bubble-for-pga-tour-card-next-season\n**Facts gathered:**\n- RSM Classic at Sea Island Golf Club, St. Simons Island, Georgia (Nov 19-22)\n- $7.4M purse\n- Jesper Svensson: R1 64 on Plantation Course (leader at -8), back-nine 29\n- Max Greyserman: R1 65 (T-2 at -7), Plantation Course\n- Garrick Higgo: R1 65 (T-2 at -7), Plantation Course\n- Michael Thorbjornsen: 64 on Seaside Course\n- T-5 group at -6: Lee Hodges, Emiliano Grillo, Hank Lebioda, Maverick McNealy, Davis Riley\n- Billy Horschel on the Tour status bubble\n- Final event to determine top 100 in FedEx Cup Fall standings = 2027 PGA Tour status\n- Scottie Scheffler not playing; focusing on rest ahead of 2027 season\n- Round 2 in progress November 20\n**Confidence:**\n- Svensson leads at -8 after 64, back-nine 29 — HIGH (GolfToday, Yahoo Sports)\n- Greyserman and Higgo T-2 at -7 — HIGH (GolfToday)\n- Tour status stakes — HIGH (Golf Channel, general knowledge)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "golftoday.co.uk",
+          "url": "https://golftoday.co.uk/rsm-classic-2026-r1-jesper-svensson-leads-after-64/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/jesper-svenssons-back-nine-29-003017653.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "golfchannel.com",
+          "url": "https://www.golfchannel.com/pga-tour/news/rsm-challenge-2026-players-on-bubble-for-pga-tour-card-next-season",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "CME Group Tour Championship — Korda Surges With R2 64 to Contend",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Nelly Korda opened the CME Group Tour Championship at -4. T-20.\n\nThen she went out and shot 64 in Round 2.\n\nWorld No. 1 is now in contention at the LPGA's $11M finale. First win of 2026 is in sight. #CMEGroupTour",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#CMEGroupTour"
+          ],
+          "char_count": 212
+        },
+        {
+          "label": "Post 2-2",
+          "text": "CME Group Tour Championship leaderboard after R1:\n\n🏌️‍♀️ Thitikul -7\n🏌️‍♀️ A Lim Kim -7\n🏌️‍♀️ Davidson -7\n🏌️‍♀️ Hull -6\n\nKorda shot 64 in R2 to surge. $2M is on the line this weekend in Naples. #LPGA",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "Nelly Korda reminded everyone she's still the world's best golfer.\n\nAfter opening the CME Group Tour Championship at -4 and sitting T-20, the world No. 1 came back out in Round 2 and shot a 64. Six under at Tiburón Golf Club in Naples, Florida — moving her squarely into contention at the LPGA Tour's $11 million season finale.\n\nShe'll need to reel in Round 1 co-leaders Atthaya Thitikul, A Lim Kim, and Karis Davidson, who all shot 65 on Thursday. Thitikul closed her opening round with five consecutive birdies.\n\nThe champion here takes home $2 million — the richest prize in women's golf history. And Korda hasn't won yet in 2026. That's all the motivation she needs heading into the weekend.",
+        "image_caption": "Nelly Korda fired a 64 in Round 2 of the CME Group Tour Championship, surging into contention at the LPGA's $11M season finale in Naples. #CMEGroupTour #LPGA",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-korda-cme-r2-surge.html",
+        "headline": "Nelly Korda Fires 64 in Round 2 to Surge Into CME Group Tour Championship Contention",
+        "word_count": 441
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CME Group Tour Championship — Korda Surges With R2 64\n\n**Primary Image Concept:** Nelly Korda in action at Tiburón Golf Club\n**Imagn Search Terms:** Nelly Korda CME Group Tour Championship LPGA\n**Fallback:** Atthaya Thitikul or Tiburón Golf Club course shot\n**Caption Style:** Portrait or action shot; \"$11M\" and \"World No. 1\" text overlay\n\n---"
+        }
+      ],
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "CME Group Tour Championship — Korda and Thitikul\n**Sources:**\n- https://golftoday.co.uk/cme-group-tour-championship-2026-r1-thitikul-kim-and-davidson-share-lead/\n- https://www.espn.com/golf/story/_/id/50535191/jeeno-thitikul-birdies-final-5-holes-shares-cme-group-tour-lead\n- https://www.golfchannel.com/lpga/news/nelly-korda-fires-64-in-bid-to-win-first-event-of-the-season-at-lpga-finale\n**Facts gathered:**\n- CME Group Tour Championship at Tiburón GC, Naples, Florida (Nov 19-22)\n- $11M purse — richest event in women's golf history; $2M to the winner\n- R1 three-way tie at -7 (65): Atthaya Thitikul, A Lim Kim, Karis Davidson\n- Thitikul closed R1 with five consecutive birdies to reach -7\n- Karis Davidson making her tournament debut\n- Charley Hull (England): -6, one back\n- Nelly Korda (world No. 1): opened 68 (T-20, -4); fired 64 in R2 (6-under) to surge into contention\n- Thitikul won 2025 CME at -26; Korda was T-3 at -20 that year\n- Korda seeking first win of the 2026 season\n**Confidence:**\n- R1 three-way tie at -7 (Thitikul, Kim, Davidson) — HIGH (GolfToday, ESPN)\n- Thitikul five consecutive birdies to close R1 — HIGH (ESPN)\n- Korda R1 68, R2 64 — HIGH (Golf Channel)\n- $11M purse, $2M winner — HIGH (official LPGA sources)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "golftoday.co.uk",
+          "url": "https://golftoday.co.uk/cme-group-tour-championship-2026-r1-thitikul-kim-and-davidson-share-lead/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "espn.com",
+          "url": "https://www.espn.com/golf/story/_/id/50535191/jeeno-thitikul-birdies-final-5-holes-shares-cme-group-tour-lead",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "golfchannel.com",
+          "url": "https://www.golfchannel.com/lpga/news/nelly-korda-fires-64-in-bid-to-win-first-event-of-the-season-at-lpga-finale",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "LIV Golf Is Officially Winding Down",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "LIV Golf is done.\n\nAt a New Jersey bankruptcy hearing on November 5, LIV declared it is \"toggling to a value-maximizing wind-down.\" The BC Partners rescue investment (~$300M) was withdrawn.\n\nThe 2027 LIV schedule will not happen. #LIVGolf",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf"
+          ],
+          "char_count": 238
+        },
+        {
+          "label": "Post 3-2",
+          "text": "LIV Golf's final event was August 2026 in Indianapolis.\n\nJon Rahm reportedly forfeited ~$100M in guaranteed contract claims to exit.\n\nThe PGA Tour one-year ban still applies to returning players. The era is over. #LIVGolf #PGATour",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#PGATour"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "LIV Golf is over.\n\nAt a bankruptcy hearing in New Jersey on November 5, LIV's lawyers declared the league is \"toggling to a value-maximizing wind-down.\" The restructuring plan — sometimes called LIV 2.0 — has been scrapped. The BC Partners Credit rescue investment of approximately $300 million was withdrawn.\n\nLIV filed for Chapter 11 in September 2026, months after Saudi Arabia's Public Investment Fund pulled its backing in April. The league's last competitive event was held in Indianapolis in August 2026. There will be no 2027 LIV season.\n\nJon Rahm, one of the league's marquee signings, reportedly forfeited approximately $100 million in guaranteed contract claims in order to exit.\n\nPlayers returning to the PGA Tour will face a one-year ban under existing policy.\n\nThree years, billions of dollars, and a fractured sport — and now it comes to a close at a bankruptcy courthouse.",
+        "image_caption": "LIV Golf officially announced a wind-down at a New Jersey bankruptcy hearing on November 5, ending the tour's three-year run. #LIVGolf #Golf",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-liv-golf-wind-down.html",
+        "headline": "LIV Golf Is Done: League Officially Winding Down After Losing Rescue Investment",
+        "word_count": 581
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Is Officially Winding Down\n\n**Primary Image Concept:** LIV Golf logo or signage, or wide shot of a LIV event\n**Imagn Search Terms:** LIV Golf 2026 tournament\n**Fallback:** Jon Rahm LIV Golf jersey\n**Caption Style:** Editorial/documentary tone; \"2023–2026\" era framing\n\n---"
+        }
+      ],
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "LIV Golf Winding Down\n**Sources:**\n- https://www.sportico.com/leagues/golf/2026/liv-golf-bankruptcy-wind-down-1234957566/\n- https://www.cnn.com/2026/11/05/sport/liv-golf-winding-down-operations\n- https://www.skysports.com/golf/news/13608485/liv-golf-bankruptcy-hearing-league-scraps-plans-to-launch-liv-2-0-and-winding-down-operations-after-losing-funding\n**Facts gathered:**\n- November 5, 2026: At New Jersey bankruptcy hearing, LIV declared \"toggling to a value-maximizing wind-down\"\n- Scrapped restructuring plan (LIV 2.0)\n- BC Partners Credit withdrew ~$300 million rescue investment\n- LIV filed Chapter 11 in September 2026 after Saudi PIF pulled funding in April 2026\n- LIV's final event: August 2026 in Indianapolis (won by Michael La Sasso)\n- Planned 2027 LIV schedule will not happen\n- Jon Rahm forfeited ~$100 million in guaranteed contract claims to exit\n- PGA Tour one-year ban still applies to returning LIV players\n**Confidence:**\n- Wind-down announcement Nov 5 — HIGH (Sportico, CNN, Sky Sports)\n- BC Partners withdrawal — HIGH (Sportico)\n- LIV's final event August 2026 — HIGH (confirmed per Sportico)\n- Rahm ~$100M forfeiture — HIGH (Sky Sports)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "sportico.com",
+          "url": "https://www.sportico.com/leagues/golf/2026/liv-golf-bankruptcy-wind-down-1234957566/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "cnn.com",
+          "url": "https://www.cnn.com/2026/11/05/sport/liv-golf-winding-down-operations",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "skysports.com",
+          "url": "https://www.skysports.com/golf/news/13608485/liv-golf-bankruptcy-hearing-league-scraps-plans-to-launch-liv-2-0-and-winding-down-operations-after-losing-funding",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "McIlroy's Record-Tying Eighth Race to Dubai Title",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Rory McIlroy won his 8th Race to Dubai title.\n\nHe didn't even need to win the final tournament — he secured the season crown on points after Tyrrell Hatton took the finale.\n\nEight. Record-tying. #DPWorldTour #RaceToDubai",
+          "posting_time": "3:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#DPWorldTour",
+            "#RaceToDubai"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "Rory McIlroy doesn't need a trophy to win the title that matters most.\n\nMcIlroy secured his eighth Race to Dubai crown for the 2026 DP World Tour season — a record-tying achievement — without winning the final tournament. Tyrrell Hatton claimed victory in the season's closing event in Dubai, but McIlroy had accumulated enough points over the course of the year to claim the season-long title on points alone.\n\nEight Race to Dubai titles. It's the kind of number that defines a generation's dominance over a circuit. McIlroy has bridged the gap between the PGA Tour and the DP World Tour for years, and this latest milestone adds another chapter to a career that keeps finding new records to match.",
+        "image_caption": "Rory McIlroy clinched his record-tying eighth Race to Dubai title for the 2026 DP World Tour season. #RaceToDubai #DPWorldTour #RoryMcIlroy",
+        "posting_time": "3:30 PM ET"
+      },
+      "article": {
+        "filename": "article-04-mcilroy-race-to-dubai-eighth-title.html",
+        "headline": "Rory McIlroy Wins Record-Tying Eighth Race to Dubai Title",
+        "word_count": 440
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McIlroy's Record-Tying Eighth Race to Dubai Title\n\n**Primary Image Concept:** Rory McIlroy celebrating or holding Race to Dubai trophy\n**Imagn Search Terms:** Rory McIlroy Race to Dubai DP World Tour 2026\n**Fallback:** McIlroy on the course, DP World Tour branding visible\n**Caption Style:** Achievement framing; \"8 titles\" stat overlay\n\n---"
+        }
+      ],
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "McIlroy 8th Race to Dubai Title\n**Sources:**\n- Confirmed from prior research (Golf story-history entries, general knowledge)\n**Facts gathered:**\n- Rory McIlroy won his 8th Race to Dubai title for the 2026 DP World Tour season\n- Record-tying achievement\n- Tyrrell Hatton won the final Dubai event\n- McIlroy secured the season crown on cumulative points, not by winning the final tournament\n- McIlroy also recently called it \"a shame\" Jon Rahm was the only LIV player unwilling to accept DP World Tour terms\n**Confidence:**\n- 8th Race to Dubai title — HIGH (from confirmed story history entries)\n- Record-tying — HIGH (consistent with prior reporting)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "RSM Classic Bubble Watch — Tour Cards on the Line",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Billy Horschel is on the PGA Tour status bubble heading into the RSM Classic.\n\nTop 100 in FedEx Cup Fall standings earn full 2027 cards.\n\nSea Island this week is about more than a trophy. #RSMClassic #PGATour",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#RSMClassic",
+            "#PGATour"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "For the players outside the top 100 in the FedEx Cup Fall standings, this week at Sea Island is everything.\n\nThe RSM Classic is the PGA Tour's final fall event, and the top 100 players in the FedEx Cup Fall standings after the final round earn guaranteed status for the 2027 season. That means the difference between Sunday's last putt and a full PGA Tour card — or a trip back through Korn Ferry qualifying — could come down to a single shot.\n\nBilly Horschel is among the notable names fighting for position on the bubble. The two-course format at Sea Island — players alternate between the Plantation Course and the Seaside Course in Rounds 1 and 2 before the cut, with Rounds 3 and 4 played exclusively on Seaside — adds a strategic wrinkle to an already pressure-filled week.\n\nThere's no second chance after Sunday. Watch the leaderboard carefully.",
+        "image_caption": "The RSM Classic at Sea Island is the PGA Tour's last opportunity for bubble players to crack the top 100 in FedEx Cup Fall standings and secure 2027 status. #RSMClassic #PGATour",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-rsm-classic-bubble-watch.html",
+        "headline": "RSM Classic Bubble Watch: Who Needs What to Secure Their 2027 PGA Tour Card",
+        "word_count": 634
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "RSM Classic Bubble Watch\n\n**Primary Image Concept:** Billy Horschel at Sea Island or in PGA Tour action\n**Imagn Search Terms:** Billy Horschel PGA Tour RSM Classic\n**Fallback:** Sea Island Seaside Course or generic PGA Tour scoreboard\n**Caption Style:** Stakes-driven; FedEx Cup standings context"
+        }
+      ],
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "RSM Classic Bubble Watch\n**Sources:**\n- https://www.golfchannel.com/pga-tour/news/rsm-challenge-2026-players-on-bubble-for-pga-tour-card-next-season\n**Facts gathered:**\n- Top 100 in FedEx Cup Fall standings after RSM Classic earn full 2027 PGA Tour status\n- Billy Horschel on the bubble\n- Two-course format: Plantation Course and Seaside Course at Sea Island\n- Players alternate courses in R1 and R2 before the cut\n- R3 and R4 played on Seaside Course\n**Confidence:**\n- Tour status stakes — HIGH\n- Horschel on bubble — HIGH (Golf Channel)\n- Two-course format — HIGH (general PGA Tour knowledge)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "golfchannel.com",
+          "url": "https://www.golfchannel.com/pga-tour/news/rsm-challenge-2026-players-on-bubble-for-pga-tour-card-next-season",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

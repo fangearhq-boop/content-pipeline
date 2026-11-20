@@ -2,6 +2,45 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-11-20 Stories
+
+### STORY 1: RSM Classic R1 — Svensson Leads at -8 After Back-Nine 29
+- **Tier:** 1
+- **Category:** PGA Tour / RSM Classic / Sea Island / Jesper Svensson / Round 1
+- **Key facts:** Svensson 64 Plantation Course, back-nine 29, leads at -8; Greyserman and Higgo T-2 at -7; Thorbjornsen 64 Seaside; T-5 group at -6 (Hodges, Grillo, Lebioda, McNealy, Riley); $7.4M purse; R2 in progress Nov 20; Scheffler out
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: CME Group Tour Championship — Korda Surges With R2 64 to Contend
+- **Tier:** 1
+- **Category:** LPGA / CME Group Tour Championship / Nelly Korda / Atthaya Thitikul / Round 2
+- **Key facts:** Thitikul/A Lim Kim/Davidson share R1 lead at -7 (65s); Thitikul closed R1 with 5 consecutive birdies; Korda opened R1 at -4 (T-20), fired R2 64 to surge into contention; Korda world No. 1 seeking first 2026 win; $11M purse, $2M to winner; Tiburón GC, Naples FL
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 3: LIV Golf Is Officially Winding Down
+- **Tier:** 2
+- **Category:** LIV Golf / Bankruptcy / Wind-down / Jon Rahm / BC Partners
+- **Key facts:** Nov 5 NJ bankruptcy hearing; "toggling to a value-maximizing wind-down"; BC Partners Credit withdrew ~$300M; LIV filed Chapter 11 Sept 2026; Saudi PIF pulled funding April 2026; last event Aug 2026 Indianapolis (La Sasso winner); no 2027 season; Rahm forfeited ~$100M in guaranteed claims; PGA Tour 1-year ban still applies
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 4: McIlroy's Record-Tying Eighth Race to Dubai Title
+- **Tier:** 2
+- **Category:** DP World Tour / Race to Dubai / Rory McIlroy / Season title
+- **Key facts:** McIlroy won 8th Race to Dubai; record-tying; secured on points; Tyrrell Hatton won final Dubai event; McIlroy called it "a shame" Rahm was only LIV player unwilling to accept DP World Tour terms
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: RSM Classic Bubble Watch — Tour Cards on the Line
+- **Tier:** 3
+- **Category:** PGA Tour / RSM Classic / FedEx Cup Fall / Tour status / Billy Horschel
+- **Key facts:** Top 100 FedEx Cup Fall = full 2027 PGA Tour status; Billy Horschel on bubble; two-course format Plantation + Seaside; R1/R2 alternate, R3/R4 Seaside only; $7.4M purse
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+---
+
 ## 2026-11-19 Stories
 
 ### STORY 1: RSM Classic Round 1 Underway — Final PGA Tour Event, Ben James in Contention
