@@ -1,6 +1,36 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-11-20
+## Current Run: 2026-11-21
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Kidsview bouncer recall #27-092 (Nov 19 2026): ~412 units, Amazon Aug 2022–Nov 2023, $60–$170, 7 collapses, 2 head strikes, 1 medical, gift card remedy — HIGH from cpsc.gov. FZChenrry magnetic fidget ball warning #27-095 (Nov 19 2026): ~1,372 sets, Chanlee on Amazon Feb 2025–Sep 2026, ~$16/set, seller refused recall, no remedy — HIGH from cpsc.gov. COS childcare desert: 47,000 kids under 5, 18,400 licensed spots, east COS/Fountain-Fort Carson worst, new zoning ordinance + loan program, 14,000 on statewide subsidy waitlist — HIGH from koaa.com. Skate in the Park: 12th season, Acacia Park 115 E. Platte Ave., mid-Nov–Jan 2027, $15 with rental, ages 4 and under free, door only — HIGH from gazette.com/downtowncs.com. Holiday weekend guide: Vintage Market Days Norris Penrose Nov 20–22 10am–4pm $12/day, Broadmoor holiday lights free — HIGH from vintagemarketdays.com. |
+| Story History Check | COMPLETE | S1 NEW (Kidsview bouncer — distinct from Nov 20 S1 CHE-US magnetic robots, different product/brand); S2 NEW (FZChenrry fidget balls — distinct from Nov 20 S1 CHE-US, different brand/product/warning same week); S3 NEW (childcare shortage — first COS childcare coverage); S4 NEW (Skate in the Park guide — Nov 19 S3 weekend roundup had one-line mention, this is full dedicated guide); S5 NEW (Nov 21–22 weekend guide — Nov 19 S5 was future Dec events, different events different time horizon) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH confidence for all 5; cpsc.gov official URLs for S1 and S2; koaa.com for S3; gazette.com + downtowncs.com for S4; vintagemarketdays.com for S5 |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows (8 AM, 10 AM, 12 PM, 3 PM, 5 PM), 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars (verified by verify-facts.py); 4 hashtags each; #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; contractions; 0 exclamation marks; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only concepts (2 per story); clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0; dimensions 1200x675 (social) + 1200x630 (hero) |
+| Articles (5) | COMPLETE | article-01 Kidsview bouncer recall (Jamie Rivera T1 ~620w, quick reference table); article-02 FZChenrry magnetic balls warning (Sarah Morales T1 ~650w, quick reference table); article-03 COS childcare shortage (Jamie Rivera T2 ~700w, quick reference table); article-04 Skate in the Park guide (Sarah Morales T2 ~580w, quick reference table); article-05 Holiday weekend guide (Jamie Rivera T2 ~600w, quick reference table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 63 claims; all stories present; all char limits PASSED; image manifest title-match warnings (cosmetic, pre-existing) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (pre-existing format mismatch), 5 articles, 5 images; 4/5 stories with official source URLs |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × social + hero), all not_started, gemini base_only, dimensions 1200x675 (social) + 1200x630 (hero), brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-11-21.xlsx (7 posts) + cosp-postplanner-tobi-2026-11-21.xlsx (7 TOBI posts); FB=0 in export (pre-existing format mismatch) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 21 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB image captions
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **Key stories:** CPSC Recall #27-092 — Kidsview infant bouncers (~412 units, Amazon 2022–2023, 7 collapses, 2 head strikes, gift card remedy); CPSC Warning #27-095 — FZChenrry magnetic fidget balls (~1,372 sets, Chanlee on Amazon, seller refused recall, no refund, dispose now); COS childcare desert — 47K kids under 5, 18.4K spots, new zoning ordinance + loan program, 14K on statewide subsidy waitlist; Skate in the Park 12th season at Acacia Park ($15 with rental, ages 4 and under free, through January); COS holiday weekend guide — Vintage Market Days Norris Penrose ($12/day, ages 12 under free), Skate in the Park, Broadmoor holiday lights (free)
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); PostPlanner FB=0 in export (pre-existing format mismatch); image manifest title-match warnings (cosmetic, pre-existing)
+
+---
+
+## Previous Run: 2026-11-20
 
 | Step | Status | Notes |
 |------|--------|-------|

@@ -2,6 +2,50 @@
 
 ---
 
+## November 21, 2026
+
+### Story 1: CPSC Recall — Kidsview Infant Bouncers (#27-092)
+- **Date:** 2026-11-21
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** CPSC Recall #27-092 announced Nov 19 2026; ~412 Kidsview infant bouncer seats made Aug–Oct 2022; sold Amazon Aug 2022–Nov 2023, $60–$170; hazard: frame collapse during infant use; 7 collapses reported, 2 with infant's head striking a surface, 1 medical attention; remedy: stop use, email haimaoziying@163.com for Amazon gift card refund.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 2: CPSC Warning — FZChenrry Magnetic Fidget Ball Toys (#27-095)
+- **Date:** 2026-11-21
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** CPSC Warning #27-095 announced Nov 19 2026; seller Chanlee refused voluntary recall; ~1,372 sets sold Amazon Feb 2025–Sep 2026 ~$16/set; product: 8 textured silicone magnetic balls, purple, in black oval zippered case; high-powered magnets violate mandatory toy standard; swallowing 2+ magnets can cause intestinal perforations and tears, potentially fatal without surgery; NO recall, NO refund, NO replacement; CPSC advises stop use, do not sell or give away, dispose.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 3: COS Childcare Desert / Shortage
+- **Date:** 2026-11-21
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** Colorado Springs has ~47,000 children under 5 and only ~18,400 licensed childcare spots (gap ~28,600); east COS, SE COS, and Fountain-Fort Carson worst affected; COS City Council passed new zoning ordinance allowing childcare in more building types; new loan program for providers; statewide ~14,000 Colorado kids on childcare subsidy waitlist (Colorado Sun April 2026).
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 4: Skate in the Park 2026 Guide
+- **Date:** 2026-11-21
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** 12th season at Acacia Park, 115 E. Platte Ave., downtown Colorado Springs; opened mid-November 2026; runs through approximately January 2027; $15 admission includes skate rental; ages 4 and under free; tickets at door only; operated by Downtown Colorado Springs.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 5: COS Holiday Weekend Family Guide Nov 21–22
+- **Date:** 2026-11-21
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Vintage Market Days "Rocking Around the Christmas Tree" — Norris Penrose Event Center (1045 Lower Gold Camp Rd), Nov 20–22, 10am–4pm, $12/day Sat–Sun or $17 weekend pass, ages 12 and under free, 150+ vendors; Skate in the Park at Acacia Park ($15 with rental, ages 4 and under free); Broadmoor holiday lights (free, through approx. March 1 2027).
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+---
+
 ## November 20, 2026
 
 ### Story 1: CPSC Warning — CHE-US Magnetic Robot Toys (Amazon)
