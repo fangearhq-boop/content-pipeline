@@ -10025,3 +10025,49 @@ Each day's stories are appended at the top (newest first).
   - Cardinals sign notable FA → rival watch update
   - EDLC trade completed → Tier 2 division implications
   - Brewers add starter → "WS champs keep building" framing
+
+## 2026-11-21 (OFF DAY — Offseason. CBA 10 days to Dec 1 lockout — pitching market moving (Gray/Twins $55M, May/White Sox $52.5M, Skubal in Mets meetings). Cubs claimed Joey Bart off waivers from White Sox (.662 OPS/3 teams/2026). Kaima Taira: nine teams pursuing, Cubs top suitor with virtual meetings active. Trevor Rogers QO declined, Cubs early interest confirmed by multiple sources. Rotation vacuum: Imanaga/Gausman/Peterson/Boyd/Holmes all FAs; Assad only starter. Insights: 14 findings — evening_18_24 WINNER + hashtag_count=3 LOSER (OVERRIDE — 1 hashtag used, 11th consecutive day) + hashtag_count=1 WINNER + len_260+ WINNER + morning_06_12 LOSER + statement WINNER + allcaps_lead LOSER + has_stat WINNER + content_type=transaction LOSER + recap_longform WINNER (N/A off day) + has_score WINNER (N/A off day) + content_type=brief LOSER.)
+
+### STORY 1: CBA Countdown — Market Moving Without the Cubs
+- **Angle:** FOLLOW UP (Nov 20: 11 days + Manfred angle; today: pitching market is moving — Gray/Twins, May/White Sox, Skubal/Mets — Cubs on sideline; Assad only confirmed 2027 starter)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, analysis/urgency)
+- **Follow-Up Opportunities:**
+  - Dec 1 lockout confirmed → Tier 1 immediate reaction + Cubs impact
+  - Cubs sign any starter before Dec 1 → Tier 1 breaking
+  - Surprise CBA deal → Tier 1 relief/reaction
+
+### STORY 2: Joey Bart Waiver Claim
+- **Angle:** NEW STORY (Cubs claimed Joey Bart off waivers from White Sox Nov 20; .662 OPS/44 games/3 teams in 2026; Carson Kelly departed in FA; Amaya only C on 40-man before claim; depth, not solution framing)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, roster depth/stat breakdown)
+- **Follow-Up Opportunities:**
+  - Bart tender decision (Jan 17 tender deadline) → transaction note
+  - Bart outperforms depth expectations in spring → feature update
+
+### STORY 3: Kaima Taira — 10 Days, Nine Teams
+- **Angle:** FOLLOW UP (Nov 20: virtual meetings active + Dec 16 deadline; today: nine teams confirmed by Yardbarker, White Sox also competing, Dec 16 window collides with Dec 1 lockout — could freeze 99+ days)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, hot stove urgency)
+- **Follow-Up Opportunities:**
+  - Cubs sign Taira before Dec 1 → Tier 1 acquisition
+  - Lockout hits before Taira signs → "window frozen" Tier 2
+  - Taira signs with another team → Tier 2 reaction + rotation Plan C
+
+### STORY 4: Trevor Rogers — Early Cubs Interest, With a Price Tag
+- **Angle:** FOLLOW UP (Nov 20: new story — Rogers interest from Sharma/Athletic; today: QO declined at $23.15M, corroborated by MLBTR/Bleacher Nation/Cubs Insider, signing cost = two draft picks + $1M international pool)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, stat breakdown/roster analysis)
+- **Follow-Up Opportunities:**
+  - Rogers signs with Cubs → Tier 1 rotation acquisition
+  - Rogers signs elsewhere → Cubs rotation pivot angle
+  - Multiple offers surface → contract value/projection update
+
+### STORY 5: Evening Bold Take — The Rotation Is Gone. 10 Days.
+- **Angle:** FOLLOW UP (synthesizes multiple arcs; starkest framing of rotation vacuum — Imanaga/Gausman/Peterson/Boyd/Holmes all FAs; Horton out until mid-2027; Ben Brown spine surgery; Assad only arm; Jed Hoyer has 10 days; Dec 1 lockout closes window)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, bold take/evening prime)
+- **Follow-Up Opportunities:**
+  - Dec 1 lockout hits with rotation blank → Tier 1 "rotation still blank, now frozen"
+  - Any starter signed before Dec 1 → "first domino falls" angle
+  - Winter Meetings (Dec 8-11, if no lockout) → news hub coverage

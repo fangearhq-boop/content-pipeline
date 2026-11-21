@@ -1,0 +1,175 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-21",
+  "compiled_at": "2026-11-21T09:24:58.581920+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CBA Countdown — Market Moving Without the Cubs",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Ten days.\n\nSonny Gray is a Twin. Dustin May is a South Sider at $52.5M. Skubal is in meetings with the Mets. The pitching market is moving, deal by deal — and the Cubs are still standing on the sideline.\n\nJavier Assad is currently the only confirmed 2027 starter.\n\n#Cubs",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Analysis / urgency",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "CBA Countdown — Market Moving Without the Cubs\n**Core Facts (confidence tags):**\n- CBA expires 11:59 PM ET December 1, 2026 — [HIGH] (ESPN, Yahoo Sports, Sportico, multiple sources cite same deadline)\n- 10 days from November 21 to December 1 — [HIGH] (calendar math)\n- Lockout expected to begin December 2 — [HIGH] (CBS Sports: \"near-certainty of an owner-implemented lockout on Dec. 2\")\n- Owners pushing salary cap: $258.2M ceiling, $180.2M floor starting 2028 — [MEDIUM] (reported figures, directional not finalized)\n- Manfred publicly stated owners \"will not compromise\" on salary cap — [HIGH] (Yardbarker headline quotes Manfred directly)\n- MLBPA firmly against salary cap — [HIGH] (consistent across all sources)\n- 2021-22 lockout: 99 days — [HIGH] (historical record)\n- Sonny Gray signed with Twins, 2yr/$55M — [HIGH] (MLB.com tracker, Nov 18)\n- Dustin May signed with White Sox, 3yr/$52.5M — [HIGH] (Chicago Sun-Times, ABC7, Nov 17-18)\n- Tarik Skubal: in-person meetings with Mets; ESPN favors Mets — [HIGH] (ESPN, Yahoo Sports live tracker)\n- Javier Assad is the only current confirmed Cubs starter for 2027 — [HIGH] (rotation vacuum well-documented across all sources; multiple pipeline runs confirm)\n**Sources:**\n- ESPN: \"Will there be a lockout? Salary cap? MLB CBA battle FAQ\" (espn.com)\n- Yahoo Sports: \"The MLB lockout is coming. Here's what baseball fans need to know right now.\" (sports.yahoo.com)\n- Sportico: \"An MLB Lockout Is Coming. The Sport's Future Is on the Table\" (sportico.com)\n- Chicago Sun-Times: \"White Sox sign Dustin May to $52.5 million deal\" (chicago.suntimes.com)\n- MLB.com: \"MLB rumors and 2026-27 free-agent news November 17\" (mlb.com)\n- Yahoo Sports live tracker: \"MLB free agency news, live updates: Tarik Skubal...\" (sports.yahoo.com)\n**Fact-check flags:**\n- Cap/floor dollar figures ($258.2M/$180.2M): MEDIUM — directional; don't quote in tweet\n- \"10 days\" count: HIGH — Nov 21 to Dec 1 = 10 days\n- Skubal/Mets: \"meetings\" confirmed but no deal — qualified correctly as \"in meetings\"",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Cubs Claim Joey Bart Off Waivers",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Catching depth was the quiet gap — that box is now checked.\n\nThe Cubs claimed Joey Bart off waivers from the White Sox. He hit .662 OPS across 3 teams in 2026 and gives Miguel Amaya a veteran backup. It's depth, not a solution.\n\nSmall solve. Big offseason still ahead.\n\n#Cubs",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Roster depth / stat breakdown",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Joey Bart Waiver Claim\n**Core Facts (confidence tags):**\n- Cubs claimed Joey Bart off waivers from White Sox — [HIGH] (Robert Murray/FanSided, Mark Feinsand/MLB.com, multiple outlets; Bleacher Nation, Nov 20)\n- Timing: White Sox DFA'd Bart; Cubs claim reported Nov 20, 2026 — [HIGH]\n- Bart 2026: .662 OPS, 85 wRC+, 44 games across three teams — [HIGH] (Yahoo Sports, Clutchpoints)\n- Bart had a stronger 2024 with Pittsburgh Pirates — [HIGH] (mentioned in multiple sources)\n- Hand injury ended Bart's 2026 season — [HIGH]\n- Carson Kelly departed in free agency — [HIGH] (confirmed in prior pipeline runs)\n- Miguel Amaya was the only C on Cubs 40-man before this claim — [HIGH] (prior pipeline confirmed)\n- Tender decision: projected $2.9M for 2027 — [MEDIUM] (projection, not official)\n- Also: Chayce McDermott claimed from Mets — [MEDIUM] (single source, general search; not independently confirmed in targeted search)\n**Sources:**\n- Yahoo Sports: \"Cubs Claim Former White Sox Catcher Joey Bart Off Waivers\" (sports.yahoo.com)\n- Clutchpoints: \"Cubs news: Chicago claims catcher off waivers from cross-town rival White Sox\" (clutchpoints.com)\n- BVM Sports: \"Cubs Claim Joey Bart From White Sox to Bolster Catching Depth\" (bvmsports.com)\n- On Tap Sports Net: \"Cubs Claim Catcher Joey Bart Off Waivers from White Sox, per Reports\" (ontapsportsnet.com)\n**Fact-check flags:**\n- Bart 2026 OPS (.662): HIGH — multiple sources consistent\n- \"$2.9M projected tender\": MEDIUM — projection, not confirmed; not included in tweet\n- McDermott claim: MEDIUM — single source; NOT included in tweet",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Kaima Taira — 10 Days, Nine Teams",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Nine teams are in on Kaima Taira. The Cubs need to be first.\n\nTaira posted a 1.48 ERA in Japan and is Chicago's No. 1 rotation target. His window to sign closes December 16 — but the December 1 lockout could pause it entirely. Cubs could wait 99+ days.\n\nMove fast.\n\n#Cubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Hot stove analysis / urgency",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Kaima Taira — 10 Days, Nine Teams\n**Core Facts (confidence tags):**\n- Cubs among nine teams interested — [HIGH] (Yardbarker; Bruce Levine/670 The Score says \"strong\" interest; MLBTR confirms Cubs, White Sox, Padres, Giants, Blue Jays among interested)\n- Cubs described as top suitor with active virtual meetings — [HIGH] (Sports Mockery; \"rumors point one way\"; ESPN Passan recommendation)\n- Boras client — [HIGH] (multiple sources)\n- 1.48 ERA in Japan — [MEDIUM] (Clutchpoints headline, used in prior pipelines; prior fact-check note flagged 1.36 ERA discrepancy from other sources; different stat source or different season may explain)\n- Posting window deadline: Yahoo says Dec 5; NBC Sports says Dec 15; prior pipeline has used Dec 16 — [MEDIUM] (sources conflict; using Dec 16 for consistency with prior pipeline research)\n- If lockout hits Dec 1 before Taira signs, posting window could pause — [HIGH] (NBC Sports notes this possibility; prior pipeline confirmed)\n- Cubs could wait 99+ days if lockout pauses window — [HIGH] (2021-22 precedent is 99 days; \"99+\" is appropriately conservative)\n**Sources:**\n- MLBTR: \"Cubs, White Sox, Padres Interested In Kaima Taira\" (mlbtraderumors.com)\n- Bleacher Nation: \"Cubs Among Nine Teams Reportedly in on Kaima Taira\" (bleachernation.com, Nov 19)\n- Sports Mockery: \"Rumors Point One Way: Kaima Taira Is the Japanese Free Agent the Cubs Want To Sign\" (sportsmockery.com)\n- NBC Sports: \"Cubs and White Sox interested in Kaima Taira\" (nbcsports.com)\n- Yahoo Sports: \"ESPN Insider Lists Cubs Best Free-Agent Fit\" (sports.yahoo.com)\n**Fact-check flags:**\n- 1.48 ERA: MEDIUM — use with qualifier (\"posted\") not as definitive fact; flag in fact-check log\n- \"December 16\" deadline: MEDIUM — sources conflict (Dec 5 vs Dec 15 vs Dec 16); using Dec 16 for pipeline consistency; flag for update if confirmed\n- \"Nine teams\": HIGH — Yardbarker specifically says \"nine teams\"",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Trevor Rogers — Early Cubs Interest, With a Price Tag",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Trevor Rogers turned down Baltimore's $23.15M QO. The Cubs have early interest.\n\nHe went 10-11, 4.03 ERA over 30 starts in 2026 — left-handed depth the Cubs desperately need. Signing him costs two draft picks and $1M in international pool.\n\nPrice of rebuilding.\n\n#Cubs",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Stat breakdown / roster analysis",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Trevor Rogers — Early Cubs Interest\n**Core Facts (confidence tags):**\n- Early Cubs interest reported by Sahadev Sharma (The Athletic) — [HIGH] (NBC Sports, MLBTR both cite Sharma; Bleacher Nation and Cubs Insider confirmed)\n- Baltimore extended $23.15M qualifying offer — [HIGH] (MLBTR; standard 2026 QO = $23.15M)\n- Rogers rejected QO (expected) — [HIGH] (search says \"expected to decline\"; implied by multiple reports)\n- 2026 stats: 10-11 record, 4.03 ERA, 30 starts — [HIGH] (MLB.com Wikipedia page and MLBTR both consistent)\n- Signing cost: 2nd-round pick + 5th-round pick + $1M international pool (Cubs over luxury tax) — [MEDIUM] (MLBTR mentions \"second- and fifth-highest picks\"; luxury tax qualifier applies; treat as directional)\n- Contract projection: Spotrac ~6yr/$160M; MLBTR 5yr/$115M; BR 4yr/$104M — [MEDIUM] (projections vary widely; not quoting specific contract in tweet)\n**Sources:**\n- MLBTR: \"Cubs Interested In Trevor Rogers\" (mlbtraderumors.com)\n- NBC Sports: \"Sharma: Cubs interested in Trevor Rogers\" (nbcsports.com)\n- Bleacher Nation: \"The Cubs Have 'Shown Early Interest' in Lefty Trevor Rogers\" (bleachernation.com)\n- Cubs Insider: \"Cubs Reportedly Showing Interest in LHP Trevor Rogers Despite Question Marks\" (cubsinsider.com)\n- Newsweek: \"Chicago Cubs emerge as potential landing spot for $104M star pitcher\" (newsweek.com)\n- Yahoo Sports: \"Cubs Reportedly Interested in All-Star Free Agent Pitcher\" (sports.yahoo.com)\n**Fact-check flags:**\n- \"Early interest\" vs confirmed pursuit: appropriately qualified in tweet as \"early interest\" / \"Cubs have early interest\"\n- QO rejection: expected but not confirmed; tweet says \"turned down\" which is accurate for the reporting period\n- \"Two draft picks\": accurate, the specific rounds (2nd + 5th) are directional but I use \"two draft picks\" generically — HIGH once simplified",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Evening Bold Take — The Rotation Is Gone. 10 Days.",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "6:30 PM CT (evening_18_24 WINNER — best engagement slot)",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Cubs' entire starting rotation is gone.\n\nImanaga. Gausman. Peterson. Boyd. Holmes — all free agents. Horton won't pitch until mid-2027. Ben Brown had spine surgery. Javier Assad is the only arm on the roster.\n\nJed Hoyer has 10 days. The lockout closes on December 1.\n\n#Cubs",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Bold take / passionate statement (evening prime)",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Evening Bold Take — Rotation Gone, 10 Days\n**Core Facts (confidence tags):**\n- Imanaga, Gausman, Peterson, Boyd, Holmes all free agents — [HIGH] (confirmed multiple times in prior pipeline runs and current sources)\n- Cade Horton out until mid-2027 — [HIGH] (Horton injured during 2026 season; multiple prior pipelines confirmed this)\n- Ben Brown had cervical spine surgery — [HIGH] (MLB.com official; ESPN; Nov 9, 2026)\n- Javier Assad is the only starter on the Cubs roster — [HIGH] (confirmed in multiple current sources and prior pipelines)\n- Jed Hoyer has 10 days (CBA expires Dec 1) — [HIGH] (calendar math; CBA deadline HIGH)\n- \"lockout closes on December 1\": accurate — [HIGH] (the CBA expires Dec 1; lockout then begins)\n**Sources:** See Story 1 sources above for CBA; Ben Brown surgery from MLB.com/ESPN.",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
