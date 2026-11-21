@@ -1,0 +1,326 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-21",
+  "compiled_at": "2026-11-21T11:15:28.412702+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Wagner's Buzzer-Beater Lifts Magic 113-111 Over Nets",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Franz Wagner wins it with 2.4 seconds left. 35 points. Magic 113, Nets 111. The man is unstoppable right now. #MagicTogether",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MagicTogether"
+          ],
+          "char_count": 124
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Franz Wagner this month: 38 pts at Jazz. 35 pts vs Bucks. 35 pts vs Nets (buzzer-beater). He is not human right now. All-Star lock. 🪄 #MagicTogether #NBA",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MagicTogether",
+            "#NBA"
+          ],
+          "char_count": 153
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-wagner-buzzer-beater-magic-nets.html",
+        "headline": "Franz Wagner Hits Walk-Off Basket, Magic Edge Nets 113-111",
+        "word_count": 516
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Magic 113, Nets 111 — Franz Wagner\n\n**Concept 1A — Social (1080x1350)**\n- **Photo source:** imagn\n- **Search term:** Franz Wagner Orlando Magic\n- **Overlay text:** \"35 PTS | 2.4 SEC LEFT | MAGIC WIN\"\n- **Mood:** Dramatic, celebration, late-game heroics\n\n**Concept 1B — Article Hero (1200x630)**\n- **Photo source:** imagn\n- **Search term:** Franz Wagner Orlando Magic\n- **Overlay text:** \"Wagner's Walk-Off: 35 Points, Magic 113-111\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "cbssports.com",
+          "url": "https://www.cbssports.com/nba/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "espn.com",
+          "url": "https://www.espn.com/nba/scoreboard/_/date/20261120",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Cavaliers Roll Pacers 128-119, Extend Win Streak",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Cavaliers win again. 128-119 over the Pacers. Cleveland is built different this season. No. 1 in the East and counting. #BeTheFight #NBA",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BeTheFight",
+            "#NBA"
+          ],
+          "char_count": 136
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Indiana scored 119 points and still lost by 9. That's how locked in Cleveland is right now. The Cavaliers are the class of the East. #BeTheFight",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BeTheFight"
+          ],
+          "char_count": 144
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-cavaliers-128-pacers-119.html",
+        "headline": "Cavaliers Roll Pacers 128-119, Cement Eastern Conference Lead",
+        "word_count": 473
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cavaliers 128, Pacers 119\n\n**Concept 2A — Social (1080x1350)**\n- **Photo source:** imagn\n- **Search term:** Cleveland Cavaliers\n- **Overlay text:** \"CAVS WIN | 128-119 | EAST'S BEST\"\n- **Mood:** Dominant, championship energy\n\n**Concept 2B — Article Hero (1200x630)**\n- **Photo source:** imagn\n- **Search term:** Cleveland Cavaliers\n- **Overlay text:** \"Cleveland Rolls: Cavaliers Beat Pacers 128-119\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "cbssports.com",
+          "url": "https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261120_IND@CLE/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "espn.com",
+          "url": "https://www.espn.com/nba/scoreboard/_/date/20261120",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Nuggets 133, Rockets 124 — 32 Lead Changes in Denver Thriller",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Denver 133, Houston 124. 32 lead changes. THIRTY-TWO. That's one of the wildest games of the NBA season. Jokic doing Jokic things once again. #MileHighBasketball",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MileHighBasketball"
+          ],
+          "char_count": 161
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-nuggets-133-rockets-124-lead-changes.html",
+        "headline": "32 Lead Changes, Denver Wins: Nuggets Outlast Rockets 133-124 in Wild Thriller",
+        "word_count": 555
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nuggets 133, Rockets 124\n\n**Concept 3A — Social (1080x1350)**\n- **Photo source:** imagn\n- **Search term:** Nikola Jokic Denver Nuggets\n- **Overlay text:** \"32 LEAD CHANGES | NUGGETS 133 ROCKETS 124\"\n- **Mood:** Action, frenetic, high-energy\n\n**Concept 3B — Article Hero (1200x630)**\n- **Photo source:** imagn\n- **Search term:** Nikola Jokic Denver Nuggets\n- **Overlay text:** \"Denver Thriller: 32 Lead Changes, Nuggets Win 133-124\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "espn.com",
+          "url": "https://www.espn.com/nba/scoreboard/_/date/20261120",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "thescore.com",
+          "url": "https://www.thescore.com/nba/events/2026-11-20",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Thunder 126, Pelicans 120 — SGA, OKC Remain Dominant",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "4:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "SGA and the Thunder beat the Pelicans 126-120. Oklahoma City just keeps winning. SGA is building an MVP case game by game. #ThunderUp",
+          "posting_time": "4:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#ThunderUp"
+          ],
+          "char_count": 133
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-thunder-126-pelicans-120-sga.html",
+        "headline": "SGA Leads Thunder Past Pelicans 126-120, OKC Keeps Pace at Top of West",
+        "word_count": 457
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Thunder 126, Pelicans 120\n\n**Concept 4A — Social (1080x1350)**\n- **Photo source:** imagn\n- **Search term:** Shai Gilgeous-Alexander Oklahoma City Thunder\n- **Overlay text:** \"SGA LEADS THE WAY | THUNDER 126-120\"\n- **Mood:** Dominant, MVP energy\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "espn.com",
+          "url": "https://www.espn.com/nba/scoreboard/_/date/20261120",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Lakers 106, Kings 104 — L.A. Wins NBA Cup Group Game",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Lakers hold on 106-104 over the Kings. NBA Cup group play getting tighter in the West. L.A. stays alive for the knockout round. #LakeShow #NBAInSeasonTournament",
+          "posting_time": "9:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LakeShow",
+            "#NBAInSeasonTournament"
+          ],
+          "char_count": 160
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-lakers-kings-nba-cup.html",
+        "headline": "Lakers Survive Kings 106-104, Stay Alive in NBA Cup Group Play",
+        "word_count": 500
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Lakers 106, Kings 104\n\n**Concept 5A — Social (1080x1350)**\n- **Photo source:** imagn\n- **Search term:** Los Angeles Lakers\n- **Overlay text:** \"NBA CUP | LAKERS 106 KINGS 104 | ALIVE\"\n- **Mood:** Clutch, determination"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "deadspin.com",
+          "url": "https://deadspin.com/nba-roundup-lakers-win-5th-straight-clinch-west-group-b/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "espn.com",
+          "url": "https://www.espn.com/nba/scoreboard/_/date/20261120",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

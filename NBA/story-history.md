@@ -1302,3 +1302,42 @@
 - **Key facts:** Group stage through Nov 27; every game has Cup implications; 12-game Nov 18 slate key
 - **Byline:** Marcus Cole
 - **Status:** NEW
+
+---
+
+## 2026-11-21
+
+### STORY 1: Magic 113, Nets 111 — Franz Wagner Walk-Off Buzzer-Beater
+- **Tier:** 1
+- **Category:** Orlando Magic / Brooklyn Nets / Franz Wagner
+- **Key facts:** Wagner 35 pts; walk-off basket with 2.4 seconds left; Magic win 113-111
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Cavaliers 128, Pacers 119 — Cleveland Rolls
+- **Tier:** 1
+- **Category:** Cleveland Cavaliers / Indiana Pacers
+- **Key facts:** Cavs win 128-119; extending win streak; No. 1 in East; Indiana scored 119 and still lost by 9
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Nuggets 133, Rockets 124 — 32 Lead Changes
+- **Tier:** 2
+- **Category:** Denver Nuggets / Houston Rockets / Nikola Jokic
+- **Key facts:** 32 lead changes; Nuggets win 133-124; Jokic led Denver's offense
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: Thunder 126, Pelicans 120 — SGA Leads OKC
+- **Tier:** 2
+- **Category:** Oklahoma City Thunder / New Orleans Pelicans / Shai Gilgeous-Alexander
+- **Key facts:** Thunder win 126-120; SGA MVP candidacy growing; OKC Western Conference leaders
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: Lakers 106, Kings 104 — NBA Cup Group Win
+- **Tier:** 3
+- **Category:** Los Angeles Lakers / Sacramento Kings / NBA Cup
+- **Key facts:** Lakers win 106-104; NBA Cup West group stage; Lakers stay alive for knockout round
+- **Byline:** Marcus Cole
+- **Status:** NEW
