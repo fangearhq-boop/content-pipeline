@@ -767,3 +767,42 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** Nov 19-22; Tiburón GC Naples FL; $11M purse (richest in women's golf); Thitikul defending at -26; Korda world No. 1
 - **Byline:** Jake Torres
 - **Status:** NEW
+
+---
+
+## 2026-11-21
+
+### STORY 1: RSM Classic R2 — Three-Way Tie at Sea Island
+- **Tier:** 1
+- **Category:** PGA Tour / RSM Classic / Rasmus Neergaard-Petersen / Michael Thorbjornsen / Marco Penge
+- **Key facts:** Three-way tie at -9 (Neergaard-Petersen 68-65, Thorbjornsen 64-69, Penge 68-65); Neergaard-Petersen bogey-free; 9 players within 2 shots
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: CME Group Tour Championship R2 — A Lim Kim Hole-in-One, Leads by 3
+- **Tier:** 1
+- **Category:** LPGA Tour / CME Group Tour Championship / A Lim Kim / Atthaya Thitikul
+- **Key facts:** Kim at -15 (65-64), 7-iron hole-in-one on par-3 16th (168 yards); Thitikul P2 at -12; Korda T-11 at -9; $11M purse
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+
+### STORY 3: Tour Card Drama — Horschel Loses Full Status at RSM Classic
+- **Tier:** 2
+- **Category:** PGA Tour / Tour Card / Billy Horschel / FedExCup Fall
+- **Key facts:** Billy Horschel among players losing full Tour card at final event; conditional status implications
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 4: Korda 6 Back — World No. 1 Eyes CME Championship Charge
+- **Tier:** 2
+- **Category:** LPGA Tour / Nelly Korda / CME Group Tour Championship
+- **Key facts:** Korda T-11 at -9; 6 shots behind Kim; 36 holes remaining; world No. 1 seeking season-finale title
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: Dual Season Finale — RSM Classic + CME Tour Championship Closing Simultaneously
+- **Tier:** 3
+- **Category:** PGA Tour / LPGA Tour / Season Finale
+- **Key facts:** Both PGA Tour RSM Classic and LPGA CME Group Tour Championship finish same weekend; unique dual-finale golf weekend
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP

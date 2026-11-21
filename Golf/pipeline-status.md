@@ -1,9 +1,30 @@
 # Golf Fanrecap — Pipeline Status
 
-## Last Run: 2026-11-19
+## Last Run: 2026-11-21
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** Golf Fanrecap
+
+---
+
+### 2026-11-21 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, image manifest, 5 articles)
+- Step 10: verify-facts.py — 5 stories, 11 claims, HIGH: 29; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 0 FB posts (known parsing), 5 articles; validation all clear
+- Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (22 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via git remote with PAT
+
+**Stories covered:**
+1. T1 FOLLOW UP: RSM Classic R2 — Three-way tie at -9 (Neergaard-Petersen, Thorbjornsen, Penge); 9 players within 2 shots (Ryan Calloway)
+2. T1 FOLLOW UP: CME Group Tour Championship R2 — A Lim Kim hole-in-one, leads at -15; Thitikul -12; Korda T-11 (Jake Torres)
+3. T2 NEW: Tour card drama — Billy Horschel loses full status at RSM Classic (Marcus Cole)
+4. T2 FOLLOW UP: Korda 6 back at CME Championship; world No. 1 looking to charge (Ryan Calloway)
+5. T3 FOLLOW UP: Dual season finale — RSM Classic + CME Tour Championship closing simultaneously (Jake Torres)
 
 ---
 

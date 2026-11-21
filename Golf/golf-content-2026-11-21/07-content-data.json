@@ -1,0 +1,249 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-21",
+  "compiled_at": "2026-11-21T11:25:39.459959+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "RSM Classic R2 — Three-Way Tie at 9-Under Heading Into Weekend",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "RSM Classic after 36 holes: Neergaard-Petersen, Thorbjornsen, Penge share the lead at 9-under. Nine players within 2 shots. Wild final weekend ahead at Sea Island. #PGATour",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour"
+          ],
+          "char_count": 172
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Rasmus Neergaard-Petersen has not made a bogey in 36 holes at Sea Island. He's tied for the lead at the RSM Classic heading into the weekend. Keep an eye on this one. #PGATour #RSMClassic",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#RSMClassic"
+          ],
+          "char_count": 187
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-rsm-classic-r2-three-way-tie.html",
+        "headline": "RSM Classic R2: Neergaard-Petersen, Thorbjornsen, Penge Share Lead at 9-Under",
+        "word_count": 515
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "RSM Classic R2 — Three-Way Tie\n\n**Concept 1A — Social (1080x1350)**\n- **Photo source:** imagn\n- **Search term:** Sea Island Golf Club\n- **Overlay text:** \"RSM CLASSIC R2 | THREE-WAY TIE | 9-UNDER\"\n- **Mood:** Clean, coastal, PGA Tour prestige\n\n**Concept 1B — Article Hero (1200x630)**\n- **Photo source:** imagn\n- **Search term:** PGA Tour Sea Island Golf\n- **Overlay text:** \"RSM Classic: Three Players Share 36-Hole Lead\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "CME Group Tour Championship R2 — Kim Surges to 3-Shot Lead With Hole-in-One",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "A Lim Kim made a HOLE-IN-ONE on No. 16 (7-iron, 168 yards) in Round 2 of the CME Group Tour Championship. She leads at 15-under, 3 ahead of Thitikul. Season finale getting exciting. #LPGA",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA"
+          ],
+          "char_count": 187
+        },
+        {
+          "label": "Post 2-2",
+          "text": "CME Group Tour Championship R2 leaderboard: Kim -15 | Thitikul -12 | Korda T-11 at -9. A Lim Kim is making a serious move at the $11M LPGA season finale. #LPGA",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA"
+          ],
+          "char_count": 159
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-kim-hole-in-one-leads-cme-championship.html",
+        "headline": "A Lim Kim's Hole-in-One Headlines 64, Builds 3-Shot Lead at CME Tour Championship",
+        "word_count": 557
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CME Group Tour Championship R2 — Kim Leads\n\n**Concept 2A — Social (1080x1350)**\n- **Photo source:** imagn\n- **Search term:** A Lim Kim LPGA\n- **Overlay text:** \"HOLE-IN-ONE | KIM LEADS AT -15 | CME TOUR CHAMPIONSHIP\"\n- **Mood:** Celebration, LPGA finale drama\n\n**Concept 2B — Article Hero (1200x630)**\n- **Photo source:** imagn\n- **Search term:** A Lim Kim LPGA Tour\n- **Overlay text:** \"Kim Surges: Hole-in-One Caps 64, Leads CME Tour Championship\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Tour Card Drama — Horschel Among Those Losing Full Status at RSM",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Billy Horschel has lost his full PGA Tour card at the RSM Classic. At the season's final event, the leaderboard isn't the only scoreboard that matters. #PGATour #RSMClassic",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#RSMClassic"
+          ],
+          "char_count": 172
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-horschel-tour-card-drama-rsm-classic.html",
+        "headline": "Horschel Loses Full Tour Status as Card Drama Runs Parallel to RSM Classic Trophy Race",
+        "word_count": 605
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tour Card Drama\n\n**Concept 3A — Social (1080x1350)**\n- **Photo source:** imagn\n- **Search term:** Billy Horschel PGA Tour\n- **Overlay text:** \"PGA TOUR STATUS ON THE LINE | RSM CLASSIC\"\n- **Mood:** Dramatic, stakes, human interest\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Korda 6 Back, Title Defense Fades — Can No. 1 Player Charge?",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Nelly Korda is T-11 at 9-under — 6 shots behind A Lim Kim with 36 holes left at the CME Group Tour Championship. Can the world No. 1 charge? #LPGA #CMEGroupTourChampionship",
+          "posting_time": "3:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#CMEGroupTourChampionship"
+          ],
+          "char_count": 172
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:30 PM ET"
+      },
+      "article": {
+        "filename": "article-04-korda-six-back-cme-championship-charge.html",
+        "headline": "Korda Six Back With 36 Holes Left — Can the World No. 1 Make a CME Championship Run?",
+        "word_count": 574
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Korda's Chase\n\n**Concept 4A — Social (1080x1350)**\n- **Photo source:** imagn\n- **Search term:** Nelly Korda LPGA\n- **Overlay text:** \"KORDA 6 BACK | CAN SHE CHARGE? | CME TOUR CHAMPIONSHIP\"\n- **Mood:** Determination, chase mentality\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Final Weekend — PGA Tour and LPGA Season Endings Happen Simultaneously",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Both the PGA Tour's RSM Classic and LPGA's CME Group Tour Championship are finishing this weekend. Two tour seasons ending at the same time. The final leaderboards will be wild. #Golf",
+          "posting_time": "8:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Golf"
+          ],
+          "char_count": 183
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-dual-season-finale-pga-lpga-weekend.html",
+        "headline": "Golf's Dual Season Finale: RSM Classic and CME Championship Both Closing This Weekend",
+        "word_count": 510
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dual Season Finale\n\n**Concept 5A — Social (1080x1350)**\n- **Photo source:** imagn\n- **Search term:** PGA Tour LPGA golf\n- **Overlay text:** \"PGA TOUR + LPGA | BOTH SEASON FINALES | THIS WEEKEND\"\n- **Mood:** Grand, season-ending celebration"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
