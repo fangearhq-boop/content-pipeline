@@ -3,6 +3,64 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## Pipeline Run: 2026-11-21
+
+### Story 1: Tennessee's No. 9 Class — Kaylee Hodges Leads the Way
+- **Date:** 2026-11-21
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Karen Weekly signed six players to Tennessee's 2027 class (No. 9 SA), headlined by No. 1 pitcher Kaylee Hodges. Nine starters return, Mardjetko (16-3, 1.26 ERA) is back, Weekly extended through 2030. Tennessee is built for a WCWS run without needing the December portal.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - January preseason poll ranking
+  - Spring results / SEC competition
+  - Hodges debut performance
+
+### Story 2: 10 Days to December Portal — Team-by-Team Needs
+- **Date:** 2026-11-21
+- **Tier:** 1
+- **Classification:** FOLLOW UP (portal countdown covered Oct–Nov 20)
+- **Angle:** Dec. 1 portal opens in 10 days. Arizona needs ace after Torres transfer. OU needs elite arm. Ole Miss, Auburn both hunting pitchers. Dead period Dec. 9-12 makes first week critical. Teams that move fastest Dec. 1-8 win the market.
+- **Content Produced:** Article (article-02, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Portal opening day announcements
+  - Individual commitment announcements
+  - January rankings shift
+
+### Story 3: 5-for-5 at the December Crossroads
+- **Date:** 2026-11-21
+- **Tier:** 2
+- **Classification:** FOLLOW UP (5-for-5 / Wisne v. NCAA covered throughout)
+- **Angle:** Tenth Circuit reversed federal injunction — NCAA won that round. But 200+ state cases still active, 850 athletes in limbo. December portal adds urgency. No clean resolution before January. Dec. 1 is a psychological crossroads.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - State court rulings
+  - En banc decision
+  - December portal athlete movements
+
+### Story 4: Big 12 Softball's 2027 Power Surge
+- **Date:** 2026-11-21
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Big 12 building first-ever three-team WCWS threat: OU (No. 1 D1Softball class), TTU (No. 1 transfer class), Arizona (15-2 fall). Conference opens March 12. Could send three teams to WCWS quarterfinals.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Conference opener March 12
+  - January rankings
+  - Portal adds for Arizona
+
+### Story 5: What January Polls Will Tell Us That December Can't
+- **Date:** 2026-11-21
+- **Tier:** 3
+- **Classification:** EVERGREEN/FORWARD-LOOKING
+- **Angle:** January preseason polls will be the first verdict on the offseason — incorporating portal moves, 5-for-5 resolutions, coaching changes. D1Softball (OU No. 1) vs SA (LSU No. 1) debate will be settled temporarily. Most contested preseason No. 1 debate in sport's history.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - January poll release
+  - Portal activity feeds into rankings
+
+---
+
 ## Pipeline Run: 2026-11-20
 
 ### Story 1: The No. 1 Class Debate — D1Softball vs Softball America
