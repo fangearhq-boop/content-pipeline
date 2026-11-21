@@ -945,3 +945,42 @@
 - **Key facts:** Antonelli champion (390 pts, clinched Mexico City Nov 1, age 20); Verstappen 279, Russell 262, Hamilton 261, Leclerc 249, Norris 246, Piastri 152; Mercedes Constructors' champions
 - **Byline:** Elena Voss
 - **Status:** NEW
+
+---
+
+## 2026-11-21
+
+### STORY 1: Las Vegas GP Qualifying — Verstappen Inherits Pole, Antonelli Fastest with Penalty
+- **Tier:** 1
+- **Category:** Las Vegas Grand Prix / Max Verstappen / Kimi Antonelli / Qualifying
+- **Key facts:** Antonelli fastest (1:33.893) but 5-place penalty drops him to P6; Verstappen pole (1:34.151); Russell P2; Norris P3; Hadjar P4
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: Ferrari Q2 Elimination — Leclerc P11, Hamilton P12
+- **Tier:** 1
+- **Category:** Ferrari / Charles Leclerc / Lewis Hamilton / Las Vegas GP
+- **Key facts:** Both Ferraris eliminated in Q2; Leclerc 11th, Hamilton 12th; championship implications for Leclerc vs Russell
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Piastri 10-Place Grid Penalty — McLaren Split Strategy
+- **Tier:** 2
+- **Category:** Oscar Piastri / McLaren / Las Vegas GP
+- **Key facts:** Piastri 10-place penalty for power unit component; Norris starts P3; McLaren runs split strategies
+- **Byline:** Elena Voss
+- **Status:** NEW
+
+### STORY 4: Russell 262, Hamilton 261 — P2 Championship Battle With 3 Races Left
+- **Tier:** 2
+- **Category:** 2026 F1 Season / George Russell / Lewis Hamilton / Charles Leclerc
+- **Key facts:** Russell leads Hamilton by 1 point; Leclerc at 249 (13 behind Russell); 75 points available; Antonelli champion
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: Las Vegas GP Race Preview
+- **Tier:** 3
+- **Category:** Las Vegas Grand Prix / Race Preview / Strategy
+- **Key facts:** Verstappen from pole; Antonelli from P6; Ferrari mid-grid; cold track, 3 long straights, strategy-driven
+- **Byline:** Marcus Cole
+- **Status:** NEW

@@ -1,0 +1,249 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-21",
+  "compiled_at": "2026-11-21T11:20:44.337323+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Verstappen Inherits Las Vegas Pole After Antonelli's Engine Penalty",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Antonelli was FASTEST in Las Vegas qualifying (1:33.893) but gets a 5-place penalty for his 6th engine. Verstappen inherits pole. Russell P2. The reigning champion starts P6. Only in F1. #LasVegasGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LasVegasGP"
+          ],
+          "char_count": 198
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Las Vegas GP starting grid: Verstappen P1 | Russell P2 | Norris P3 | Hadjar P4. Antonelli starts P6 despite being fastest. Leclerc P11. Hamilton P12. What a race this will be. #LasVegasGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LasVegasGP"
+          ],
+          "char_count": 187
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-verstappen-pole-antonelli-penalty-las-vegas.html",
+        "headline": "Verstappen Inherits Las Vegas Pole After Antonelli's Engine Penalty",
+        "word_count": 538
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Las Vegas GP Qualifying\n\n**Concept 1A — Social (1080x1350)**\n- **Photo source:** imagn\n- **Search term:** Max Verstappen Red Bull Racing\n- **Overlay text:** \"VERSTAPPEN ON POLE | LAS VEGAS GP | ANTONELLI P6\"\n- **Mood:** Night race, neon, Las Vegas drama\n\n**Concept 1B — Article Hero (1200x630)**\n- **Photo source:** imagn\n- **Search term:** Kimi Antonelli Mercedes\n- **Overlay text:** \"Fastest But Penalized: Las Vegas GP Qualifying Drama\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Ferrari Nightmare — Both Leclerc and Hamilton Eliminated in Q2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Both Ferraris out in Q2. Leclerc qualifies 11th. Hamilton 12th. Ferrari had the worst possible Las Vegas qualifying. Title hopes for Leclerc just got much harder. #LasVegasGP #F1",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LasVegasGP",
+            "#F1"
+          ],
+          "char_count": 178
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Lewis Hamilton's first Las Vegas GP with Ferrari and he qualifies 12th. His title fight vs Russell is now razor thin — 262 to 261 points. Starting from the back doesn't help. #LasVegasGP",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LasVegasGP"
+          ],
+          "char_count": 186
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-ferrari-q2-elimination-leclerc-hamilton.html",
+        "headline": "Ferrari's Las Vegas Nightmare: Leclerc and Hamilton Both Eliminated in Q2",
+        "word_count": 598
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ferrari Q2 Elimination\n\n**Concept 2A — Social (1080x1350)**\n- **Photo source:** imagn\n- **Search term:** Charles Leclerc Ferrari\n- **Overlay text:** \"BOTH FERRARIS OUT IN Q2 | LECLERC P11 | HAMILTON P12\"\n- **Mood:** Dramatic, contrast, red on dark\n\n**Concept 2B — Article Hero (1200x630)**\n- **Photo source:** imagn\n- **Search term:** Lewis Hamilton Ferrari\n- **Overlay text:** \"Ferrari's Las Vegas Nightmare: Both Cars Eliminated in Q2\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Piastri's 10-Place Grid Penalty Compounds McLaren's Las Vegas Woes",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Oscar Piastri gets a 10-place grid penalty. Norris starts P3. McLaren will be running very different strategies in Las Vegas tonight. #LasVegasGP",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LasVegasGP"
+          ],
+          "char_count": 145
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-piastri-penalty-mclaren-las-vegas.html",
+        "headline": "Piastri Takes 10-Place Grid Penalty, McLaren Navigates Split Strategy in Las Vegas",
+        "word_count": 529
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Piastri Grid Penalty\n\n**Concept 3A — Social (1080x1350)**\n- **Photo source:** imagn\n- **Search term:** Oscar Piastri McLaren\n- **Overlay text:** \"10-PLACE PENALTY | PIASTRI STARTS DEEP | NORRIS P3\"\n- **Mood:** Tension, strategic setback\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Russell vs Hamilton vs Leclerc — P2 Battle With 3 Races Left",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Russell 262 pts. Hamilton 261 pts. 75 pts available over 3 races. ONE POINT separates them. The Russell-Hamilton-Leclerc title fight is the story of the 2026 season. #F1 #LasVegasGP",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 181
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-russell-hamilton-leclerc-championship-battle.html",
+        "headline": "One Point, Three Races: The 2026 F1 Championship Fight for Second",
+        "word_count": 598
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "P2 Championship Battle\n\n**Concept 4A — Social (1080x1350)**\n- **Photo source:** imagn\n- **Search term:** George Russell Mercedes\n- **Overlay text:** \"RUSSELL 262 | HAMILTON 261 | 1 POINT SEPARATES THEM\"\n- **Mood:** Rivalry, championship tension\n\n**Concept 4B — Article Hero (1200x630)**\n- **Photo source:** imagn\n- **Search term:** George Russell Mercedes\n- **Overlay text:** \"One Point: The 2026 F1 P2 Championship Fight\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Las Vegas GP Race Preview — Strip Circuit Strategy, Verstappen's Pole",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Las Vegas GP race tonight: Verstappen from pole, Antonelli 6th, Ferrari mid-grid, Piastri starting deep. Cold track. 3 long straights. Strategy will decide everything. #LasVegasGP #F1",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LasVegasGP",
+            "#F1"
+          ],
+          "char_count": 183
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-las-vegas-gp-race-preview.html",
+        "headline": "Las Vegas GP Race Preview: Verstappen From Pole, Ferrari and Piastri Must Charge",
+        "word_count": 574
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Race Preview\n\n**Concept 5A — Social (1080x1350)**\n- **Photo source:** imagn\n- **Search term:** Formula One Las Vegas\n- **Overlay text:** \"LAS VEGAS GP TONIGHT | LIGHTS OUT | F1 2026\"\n- **Mood:** Night race, neon lights, anticipation"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
