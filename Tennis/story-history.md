@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## November 21, 2026
+
+| 2026-11-21 | Medvedev beats Tiafoe 6-3, 6-4 at ATP Finals Day 6 (Turin); 15 aces; a break in each set; Medvedev reaches semis for 4th time (1st since 2023); Tiafoe exits 1-2; Medvedev faces Zverev Saturday night. Sources: ATP Tour official, ESPN, Sofascore, TennisTemple | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Nov 20 S3: Day 6 preview Medvedev vs Tiafoe → result) |
+| 2026-11-21 | Alcaraz beats Cobolli 6-4, 6-1 at ATP Finals Day 6; completes 3-0 group stage; left thigh strapping mid-match; limiting movement in practice ahead of Shelton SF; Cobolli exits 1-2. Sources: Sunday Guardian Live, Tico Times, NBCSports, ESPN | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Nov 20 S4: Semifinals confirmed → Alcaraz completes 3-0 group stage) |
+| 2026-11-21 | ATP Finals Day 7 Alcaraz vs Shelton preview — first semi 2:30pm CET; H2H Alcaraz 4-1; Shelton beat Alcaraz at 2026 US Open QF (5 sets); Alcaraz won Paris Masters final 7-6(5) 7-5; Alcaraz thigh concern; Shelton's first ATP Finals semi. Sources: NBCSports, BVM Sports, TennisNerd, VAVEL live | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 20 S4: Semifinals confirmed → Semifinal Day, Alcaraz-Shelton preview) |
+| 2026-11-21 | Zverev vs Medvedev ATP Finals preview — 8:30pm CET; Zverev ankle "probably stay until end of my career" (Tennis Majors); Medvedev 14-8 H2H; Zverev 2018+2021 champion, Medvedev 2020 champion; Zverev year-end No. 1. Sources: Tennis Majors, EssentiallySports, Sportskeeda, ATP Tour | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Nov 20 S2: Zverev ankle concern → semis vs Medvedev) |
+| 2026-11-21 | ATP Finals Final preview — Sunday Nov 22 not before 3pm CET; top 4 seeds in semis; Alcaraz seeking first title; Zverev chasing 3rd (2018, 2021); Medvedev 2020 champion; Shelton seeking first final. Sources: Derived from confirmed results + tournament schedule | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Nov 20 S4: Semifinals confirmed → Final preview Sunday Nov 22) |
+
+---
+
+
 ## November 20, 2026
 
 | 2026-11-20 | Ben Shelton beats Rafael Jodar 7-6(8), 7-5 at ATP Finals Day 5 (Turin); 14 aces; 2:07; tiebreak won 10-8; first ATP Finals semifinal for Shelton; Jodar exits 0-3; Shelton ends group stage 2-1 as McEnroe Group runner-up. Sources: ATP Tour official, nittoatpfinals.com, ESPN | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 19 S3: Day 5 McEnroe Group preview → Shelton qualifies) |
