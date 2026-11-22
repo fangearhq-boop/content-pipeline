@@ -1,0 +1,226 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-22",
+  "compiled_at": "2026-11-22T09:29:51.237059+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "1:15 PM",
+      "description": "CBA Countdown — 9 days, market moving",
+      "type": "Bold take / urgency"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Hiromi Itoh visits Chicago",
+      "type": "Roster news / informative"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Kaima Taira — Cubs still leading",
+      "type": "Hot stove urgency"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Teruaki Sato — NPB Triple Crown",
+      "type": "Stat breakdown / informative"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "NL Central watch — Peralta + division gap",
+      "type": "Bold take / rival jab (evening prime)"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CBA Countdown — 9 Days, Pitching Market Moving Without Cubs",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "The pitching market just lit up. Gray to Minnesota for $55M. May to the White Sox for $52.5M. Skubal in meetings now. The Cubs have exactly one healthy starter on the 2027 roster.\n\nJed Hoyer has 9 days before the Dec. 1 lockout freezes everything. Assad is the rotation.\n\n#Cubs",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 14,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "CBA Countdown — 9 Days, Pitching Market Moving Without Cubs\n**Decision:** FOLLOW UP\n**Previous coverage:** Nov 18 (13 days), Nov 19 (12 days + King out), Nov 20 (11 days + Manfred hardball), Nov 21 (10 days + market moving: Gray/Twins, May/White Sox, Skubal in Mets meetings).\n**New development:** Gray and May deals now confirmed. Skubal in in-person meetings. Itoh also in Chicago. Cubs motionless.\n**Sources:**\n1. Yahoo Sports MLB live feed, updated Nov 22, 2026 — Sonny Gray / Twins $55M confirmed ✓ FRESH (<24h)\n2. MLB.com Hot Stove Nov 21 — Webb, Peralta, Mets, Yankees, Cubs, White Sox ✓ FRESH (<24h)\n3. Yahoo Sports (recent): Manfred \"can't imagine\" deal without cap/floor ✓ FRESH (<48h)\n4. ESPN CBA FAQ — lockout mechanics and precedent ✓ reference\n5. Chicago Sun-Times Oct 3 — Hoyer \"pitching acquisition top priority\"; Brown/Steele internal options ✓ MEDIUM (older; quote is Hoyer's stated priority; still valid context)\n**Key Verified Facts:**\n- Sonny Gray: Twins, 2yr/$55M — CONFIRMED Yahoo Nov 22\n- Dustin May: White Sox, 3yr/$52.5M — sources range $52M–$52.5M; MEDIUM confidence on exact dollar (use \"$52.5M\")\n- Tarik Skubal: in-person meetings underway, no deal yet — CONFIRMED MLB.com Nov 21\n- CBA expires Dec 1 at 11:59 PM — CONFIRMED ESPN, Yahoo\n- Lockout \"almost guaranteed\" per MLBPA exec — sourced Yardbarker, Fox/Outkick\n- Manfred: \"can't imagine owners ratifying deal without cap and floor\" — VERIFIED Yahoo Sports\n- 2021-22 lockout was 99 days — VERIFIED CBS Sports historical record\n- Assad only healthy starter entering 2027 — VERIFIED multiple sources\n- Cade Horton: returning mid-2027 from injury — VERIFIED multiple prior pipeline runs; not a 2027 Opening Day option\n- Ben Brown: spine surgery — MEDIUM (Sun-Times Oct 3, prior research; use conditional language)\n- Justin Steele: no MLB action since April 2025 — MEDIUM (Sun-Times Oct 3; could change)\n- Jed Hoyer quote \"great majority of our focus...pitching acquisition\" — VERIFIED ESPN\n**Freshness:** ✓ Gray and May deals confirmed today (Yahoo Nov 22). Skubal meetings MLB.com Nov 21.\n**Confidence:** HIGH for Gray/Twins. MEDIUM for May exact dollar. HIGH for CBA mechanics and Hoyer quote.",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Hiromi Itoh Visits Chicago — Second Japanese Arm",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Japanese RHP Hiromi Itoh visited Chicago Friday. He posted a 3.18 ERA, 159 K, and 34 walks in 172 innings in 2026 — elite command from a 29-year-old.\n\nHis window to sign closes Dec. 1 — same as the lockout. The Cubs could land two Japanese arms in 9 days.\n\n#Cubs",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 18,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Hiromi Itoh Visits Chicago — Second Japanese Arm\n**Decision:** NEW STORY\n**Story history check:** No previous coverage of Hiromi Itoh in Cubs content pipeline.\n**Sources:**\n1. Jesse Rogers ESPN X post (@JesseRogersESPN, Nov 21): \"RHP Hiromi Itoh visited Chicago today. Both the Cubs and White Sox have pitching needs. His deadline to sign a deal is Dec. 1.\" ✓ FRESH (<24h) — primary source\n2. CubsHQ Nov 21: \"Report: Japanese pitching star Hiromi Itoh visits Chicago\" ✓ FRESH (<24h)\n3. Yardbarker Nov 21: \"Hiromi Itoh Reportedly Visited Chicago\" ✓ FRESH (<24h)\n4. Bleacher Nation Cubs Bullets Nov 21 ✓ FRESH (<24h)\n**Key Verified Facts:**\n- Age: 29 years old — MEDIUM (single source; sources don't conflict)\n- Team: Hokkaido Nippon-Ham Fighters (NPB) — VERIFIED multiple sources\n- 2026 ERA: 3.18 — VERIFIED Jesse Rogers ESPN report\n- 2026 K: 159 — VERIFIED Jesse Rogers ESPN report\n- 2026 BB: 34 — VERIFIED ESPN report\n- 2026 IP: 172 — VERIFIED ESPN report\n- 2026 GS: 26 — VERIFIED ESPN report\n- K/BB: 4.68 (159/34) — computed from verified numbers; VERIFIED\n- Visit: Chicago, Friday Nov 20, per ESPN Jesse Rogers + Jorge Castillo — VERIFIED, 2 reporters\n- Cubs and White Sox both have pitching needs — VERIFIED (factual, both teams known to need starters)\n- Signing deadline: Dec 1 — VERIFIED (ESPN directly stated; aligns with CBA lockout)\n- Scout projection: back-end starter or possible reliever — MEDIUM (one analytical piece; not official)\n**Freshness:** ✓ ESPN broke Nov 21 (yesterday). Multiple outlets confirmed same day.\n**Confidence:** HIGH for visit, ERA, K, BB, IP. MEDIUM for age and projection.",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Kaima Taira — 9 Days, Cubs Still Top Suitor",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Nine teams want Kaima Taira. The Cubs are leading with virtual meetings active. His window closes Dec. 16 — but Dec. 1 is the lockout, which could freeze the signing for three months.\n\nJed Hoyer's top target could be on ice until spring if he doesn't move in 9 days.\n\n#Cubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 11,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Kaima Taira — 9 Days, Cubs Still Top Suitor\n**Decision:** FOLLOW UP\n**Previous coverage:** Nov 18 (top target, lockout complicates), Nov 19 (Dec 16 deadline collision), Nov 20 (virtual meetings + 11-day urgency), Nov 21 (9 teams pursuing, Cubs leading).\n**New angle today:** 9-day countdown framing; Itoh visit adds context (Cubs pursuing multiple Japanese arms).\n**Sources:**\n1. MLBTR: \"Cubs, White Sox, Padres Interested In Kaima Taira\" ✓ recent\n2. Sports Mockery: \"Rumors Point One Way: Kaima Taira Is the Japanese Free Agent the Cubs Want To Sign\" ✓ recent\n3. Sports Mockery: posting fee ~$12.75M, total ~$85M ✓ MEDIUM (one outlet projection)\n4. Bleacher Nation (Oct 30): posting accepted ✓ reference\n5. MLB.com: Cubs and Padres need starting pitching ✓ recent\n**Key Verified Facts:**\n- Nine teams pursuing — VERIFIED Yardbarker (prior research)\n- Cubs leading; virtual meetings active — VERIFIED Sports Mockery + multiple sources\n- Boras client — VERIFIED multiple sources\n- Posting fee ~$12.75M — MEDIUM (Sports Mockery estimate; one source)\n- Total contract ~$85M — MEDIUM (derived from Sports Mockery; treat as projection)\n- Posting deadline Dec 16 — MEDIUM (sources conflict: Dec 5 / Dec 15 / Dec 16; use Dec 16 per prior pipeline consistency)\n- Dec 1 lockout could freeze signing for 99+ days — VERIFIED (CBA mechanics + 2021 precedent)\n- Role: starter — VERIFIED MLBTR\n**Freshness:** ✓ MLB.com article within recent days. No breaking new development today; story remains live and competitive.\n**Confidence:** HIGH for Cubs interest + 9-team competition. MEDIUM for deadline date and financial projections.",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Teruaki Sato — NPB Triple Crown, Cubs Scouting Hard",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Teruaki Sato won the NPB Triple Crown: .306, 39 HR, 106 RBI. The Cubs have \"extensively scouted\" him per The Athletic. Suzuki and Happ are gone. The outfield needs an answer.\n\nSato has 269 outfield games in Japan. He fits at right field or DH. The Phillies want him too.\n\n#Cubs",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 16,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Teruaki Sato — NPB Triple Crown, Cubs Scouting Hard\n**Decision:** FOLLOW UP with fresh angle (first dedicated tweet)\n**Previous coverage:** Sato peripherally mentioned Nov 19–20 research; no dedicated tweet before today.\n**Sources:**\n1. MLBTR Nov 21: \"Cubs Interested In Teruaki Sato, Jarren Duran\" ✓ FRESH (<24h, within range)\n2. Bleacher Nation Nov 19: \"Cubs Have 'Extensively Scouted' Japanese Slugger Teruaki Sato\" ✓ FRESH (<72h)\n3. Yardbarker: same MLBTR report ✓\n4. Heavy: Phillies rumor ✓\n5. CubsInsider Nov 16: initial \"kick the tires\" report ✓\n**Key Verified Facts:**\n- 2026 NPB stats: .306 BA / 39 HR / 106 RBI — VERIFIED Bleacher Nation (Triple Crown)\n- Cubs \"extensively scouted\" per The Athletic's Patrick Mooney — VERIFIED (Mooney is credible Cubs beat writer)\n- Phillies pursuing — VERIFIED Heavy (corroborated by multiple outlets)\n- Primarily 3B in NPB; 269 career OF games — VERIFIED MLBTR\n- Fits RF or DH for Cubs — VERIFIED logic (Bregman at 3B; Sato can play OF per 269 games)\n- Suzuki declined QO — VERIFIED (prior pipeline coverage)\n- Ian Happ free agent — VERIFIED (prior pipeline coverage)\n- Age: 27 (one source) or turns 28 in March (another) — MEDIUM; use \"27-year-old\" with acknowledgment sources differ\n**Freshness:** ✓ MLBTR piece from Nov 21 (within 24–48h). Bleacher Nation Nov 19 original report still fresh context.\n**Confidence:** HIGH for NPB stats, Cubs scouting, Phillies competition. MEDIUM for age.",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "NL Central Watch — Peralta Trade Buzz + Division Reality",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Brewers so deep they're shopping an arm; Misiorowski unanimous NL Cy Young (1.80 ERA / 252 K); Cubs have Assad. Division contrast framing anchors the urgency.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Brewers are so deep, they're reportedly trading Freddy Peralta. Jacob Misiorowski — 1.80 ERA, 252 strikeouts, unanimous NL Cy Young — is still theirs. The Cubs have Javier Assad.\n\n9 days. That's what separates an answer from a 99-day lockout silence.\n\n#Cubs",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 11,
+        "claims_flagged": 5,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "NL Central Watch — Peralta Trade Buzz + Division Reality\n**Decision:** NEW STORY (new angle)\n**Previous coverage:** Brewers / Cardinals / NL Central watch has been a recurring section. Peralta trade buzz is fresh from Nov 21.\n**Sources:**\n1. MLB.com Hot Stove Nov 21: Freddy Peralta reportedly in trade discussions ✓ FRESH (<24h)\n2. BVM Sports Nov 21: Peralta market + Itoh visit ✓ FRESH (<24h)\n3. MLBTR Nov 11: Misiorowski NL Cy Young ✓ established (11 days old but confirmed award)\n4. NBC Sports Nov 11: Misiorowski \"unanimously claims NL Cy Young\" ✓\n5. BBWAA: Pete Crow-Armstrong unanimously wins NL MVP ✓ VERIFIED (official source)\n6. ESPN NL Central offseason update ✓ recent\n7. CBS Sports: PCA extension 6yr/$115M (March 2026) ✓\n**Key Verified Facts:**\n- Freddy Peralta: in trade discussions per MLB.com Nov 21 — VERIFIED, primary source\n- Peralta note: could be traded before hitting free agency — VERIFIED MLB.com\n- Jacob Misiorowski: 1.80 ERA / 252 K — VERIFIED MLBTR + NBC Sports\n- Misiorowski: unanimously won NL Cy Young (all 30 first-place votes) — VERIFIED NBC Sports + MLBTR\n- Cardinals: Nolan Gorman non-tendered — VERIFIED MLBTR\n- Cardinals: traded Sonny Gray + Willson Contreras to Red Sox (earlier this offseason) — MEDIUM (ESPN NL Central update; treat as confirmed per multiple outlets)\n- PCA: unanimously won NL MVP — VERIFIED BBWAA official\n- PCA: 6yr/$115M extension (March 2026) — VERIFIED CBS Sports\n- Cubs have Assad as sole starter — VERIFIED ongoing\n**Freshness:** ✓ Peralta trade buzz from MLB.com Nov 21. Misiorowski award from Nov 11 (reference context, not breaking news framing).\n**Confidence:** HIGH for Peralta rumors, Misiorowski award stats, PCA MVP. MEDIUM for Cardinals Gray/Contreras trade (ESPN report, corroborated by context but couldn't independently verify exact recipients/timing).\n## Fact-Check Flags Noted\n| Claim | Confidence | Action |\n|-------|-----------|--------|\n| May deal: $52M vs $52.5M | MEDIUM | Use $52.5M (Yahoo figure); caveat in fact-check |\n| Taira posting deadline: Dec 5/15/16 | MEDIUM | Use Dec 16 per pipeline consistency; flag |\n| Itoh age: 29 | MEDIUM | Single source; not disputed; use |\n| Sato age: 27 vs 28 | MEDIUM | Use \"27-year-old\"; flag age uncertainty |\n| Cardinals Gray/Contreras trades to Red Sox | MEDIUM | Cited ESPN; use \"traded earlier this offseason\" language |\n| Steele last MLB game April 2025 | MEDIUM | Sun-Times Oct 3; use conditional: \"has not pitched since...\" |",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

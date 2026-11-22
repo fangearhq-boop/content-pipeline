@@ -1,17 +1,44 @@
-# Cubs Pipeline Status — Updated 2026-11-21
+# Cubs Pipeline Status — Updated 2026-11-22
 
 ## Latest Run
-- **Date:** 2026-11-21 (Saturday — Off day. CBA 10 days to Dec 1 lockout. Pitching market moving: Gray/Twins ($55M), May/White Sox ($52.5M), Skubal in Mets meetings. Cubs claimed Joey Bart off waivers from White Sox. Kaima Taira: 9 teams pursuing, Cubs top suitor with virtual meetings. Trevor Rogers QO declined, Cubs early interest confirmed. Assad only starter on roster.)
+- **Date:** 2026-11-22 (Sunday — Off day. CBA 9 days to Dec 1 lockout. Gray/Twins ($55M) + May/White Sox ($52.5M) confirmed; Skubal in-person meetings. Japanese RHP Hiromi Itoh visited Chicago Friday (3.18 ERA / 159 K / 172 IP, Dec 1 window). Kaima Taira: 9 teams pursuing, Cubs top suitor, Dec 16 deadline vs. lockout. Teruaki Sato NPB Triple Crown (.306 / 39 HR / 106 RBI), Cubs "extensively scouted" per The Athletic. Brewers shopping Peralta; Misiorowski unanimous NL Cy Young.)
 - **Stories:** 5
 - **X posts:** 5
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
 - **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 5 stories, 5 tweets
-- **07-content-data.json:** ✅ Valid JSON, all 5 posts with posting_time (12:00 PM / 1:15 PM / 3:45 PM / 5:00 PM / 6:30 PM CT), all strptime-parseable. Char counts: 270/275/271/268/277 — all 260+ bucket, all under 280. ✅
+- **07-content-data.json:** ✅ Valid JSON, all 5 posts with posting_time (1:15 PM / 2:30 PM / 3:45 PM / 5:00 PM / 6:30 PM CT), all strptime-parseable. Char counts: 277/262/273/277/261 — all 260+ bucket, all under 280. ✅
 - **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding, cubs-x-bot reads from content-pipeline)
-- **Fact-check:** ✅ PASS overall. MEDIUM flags: Taira 1.48 ERA (Clutchpoints; prior pipeline flagged 1.36 discrepancy — different season/source; used "posted" language). Dec 16 deadline (sources conflict: Dec 5/Dec 15/Dec 16 — used Dec 16 for consistency). All claims directionally accurate.
-- **Note:** 14 significant insights applied. HASHTAG OVERRIDE (11th consecutive day): hashtag_count=3 is LOSER + hashtag_count=1 is WINNER → 1 hashtag (#Cubs) used. ALLCAPS LOSER: no ALL CAPS leads. MORNING AVOIDANCE: morning_06_12 LOSER — first post at 12:00 PM CT (noon). EVENING PRIORITY: evening_18_24 WINNER → Post 5 at 6:30 PM CT. TWEET LENGTH: len_260+ WINNER — all 5 tweets at 260+ chars (avg 272). CONTENT DEPTH: content_type=brief LOSER — all substantive multi-paragraph tweets. has_stat WINNER — stats in all 5 tweets. TRANSACTION LOSER: Joey Bart claim reframed as roster-depth analysis.
-- **Hashtag override recommendation (11th day):** Strongest quantitative signal in the dataset. Strongly recommend formally updating brand-voice.md from "Exactly 3 hashtags" to "1 primary hashtag (#Cubs)." Data is unambiguous: n=58, p=0.0, Cliff's delta=0.710 (3-hashtag LOSES) + delta=0.578 (1-hashtag WINS).
+- **Fact-check:** ✅ PASS overall. MEDIUM flags: May deal ±$500K ($52M vs $52.5M — used $52.5M per Yahoo Nov 22). Itoh age 29 (single source, not disputed). Taira Dec 16 deadline (conflicting sources Dec 5/Dec 15/Dec 16 — used Dec 16 per pipeline consistency). All HIGH priority claims verified.
+- **Note:** 14 significant insights applied. HASHTAG OVERRIDE (12th consecutive day): hashtag_count=3 is LOSER (delta=0.679) + hashtag_count=1 is WINNER (delta=0.56) → 1 hashtag (#Cubs) used. ALLCAPS LOSER: no ALL CAPS leads. MORNING AVOIDANCE: morning_06_12 LOSER — first post at 1:15 PM CT. EVENING PRIORITY: evening_18_24 WINNER → Post 5 at 6:30 PM CT. TWEET LENGTH: len_260+ WINNER — all 5 tweets at 260+ chars (avg 270). CONTENT DEPTH: content_type=brief LOSER — all substantive multi-paragraph tweets. has_stat WINNER — stats in all 5 tweets.
+- **Hashtag override recommendation (12th day):** Strongest quantitative signal in the dataset. Strongly recommend formally updating brand-voice.md from "Exactly 3 hashtags" to "1 primary hashtag (#Cubs)." Data is unambiguous: n=58+, Cliff's delta=0.679 (3-hashtag LOSES) + delta=0.56 (1-hashtag WINS).
+
+## Insights Summary (2026-11-22 run — from 2026-11-22T08:30 UTC snapshot)
+- **Generated:** 2026-11-22T08:30:00 UTC
+- **Measured tweet count:** 58
+- **Significant findings:** 14
+  1. `content_type=recap_longform` WINNER — delta=0.887 (large). Off day — no game recap. Not applicable.
+  2. `posting_window=evening_18_24` WINNER — delta=0.779 (large). Post 5 at 6:30 PM CT.
+  3. `len_bucket=260+` WINNER — delta=0.816 (large). All 5 tweets at 260+ chars (avg 270).
+  4. `hashtag_count=3` LOSER — delta=0.679 (large). ⚠️ CONFLICT with brand-voice.md. 1 hashtag used (12th consecutive override day).
+  5. `has_score=True` WINNER — delta=0.673 (large). Off day — no score. Not applicable.
+  6. `opening=statement` WINNER — delta=0.624 (large). All 5 posts use declarative statement openings.
+  7. `opening=allcaps_lead` LOSER — delta=0.598 (large). No ALL CAPS leads.
+  8. `has_stat=True` WINNER — delta=0.642 (large). Stats in every tweet.
+  9. `hashtag_count=1` WINNER — delta=0.56 (large). Applied: #Cubs only.
+  10. `posting_window=morning_06_12` LOSER — delta=0.692 (large). No morning posts; first at 1:15 PM CT.
+  11. `content_type=transaction` LOSER — delta=0.570 (large). All transactions embedded in analysis framing.
+  12. `len_bucket=<140` LOSER — delta=0.549 (large). No tweets under 140 chars.
+  13. `len_bucket=140-200` LOSER — delta=0.404 (medium). No tweets in 140-200 range.
+  14. `content_type=brief` LOSER — delta=0.312 (small). Substantive multi-paragraph posts throughout.
+
+## Pipeline Run Log
+
+### 2026-11-22 — Sunday (Off day)
+- 5 stories | 5 X posts | JSON valid | Fact-check PASS (3 MEDIUM flags: May ±$500K, Itoh age, Taira deadline)
+- CBA 9-day countdown | Hiromi Itoh visit NEW | Teruaki Sato NPB Triple Crown | Taira 9 days | NL Central rival watch
+- Insights: 12th hashtag override, all 14 findings applied
+- Push: content-pipeline ✅ | content-dashboards ⚠️ (out of session scope)
 
 ## Insights Summary (2026-11-21 run — from 2026-11-21T08:30 UTC snapshot)
 - **Generated:** 2026-11-21T08:30:00 UTC

@@ -10071,3 +10071,50 @@ Each day's stories are appended at the top (newest first).
   - Dec 1 lockout hits with rotation blank → Tier 1 "rotation still blank, now frozen"
   - Any starter signed before Dec 1 → "first domino falls" angle
   - Winter Meetings (Dec 8-11, if no lockout) → news hub coverage
+
+## 2026-11-22 (OFF DAY — Offseason. CBA 9 days to Dec 1 lockout — Gray/Twins $55M confirmed, May/White Sox $52.5M confirmed, Skubal in-person meetings. Japanese RHP Hiromi Itoh visited Chicago Friday (3.18 ERA / 159 K / 172 IP / Dec 1 window). Kaima Taira: nine teams pursuing, Cubs top suitor, Dec 16 window, lockout could freeze 99+ days. Teruaki Sato NPB Triple Crown (.306 / 39 HR / 106 RBI), Cubs "extensively scouted" per The Athletic, Phillies competition. Brewers shopping Freddy Peralta; Misiorowski unanimous NL Cy Young (1.80 ERA / 252 K). Insights: 14 findings — hashtag_count=3 LOSER (12th consecutive override, 1 hashtag used) + hashtag_count=1 WINNER + len_260+ WINNER + evening_18_24 WINNER + morning_06_12 LOSER + opening=statement WINNER + allcaps_lead LOSER + has_stat WINNER.)
+
+### STORY 1: CBA Countdown — 9 Days, Pitching Market Moving Without Cubs
+- **Angle:** FOLLOW UP (Nov 21: market moving — Gray/Twins, May/White Sox, Skubal/Mets meetings; today: deals confirmed, Skubal in-person meetings now underway, Cubs have exactly one healthy starter on 2027 roster)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold take/urgency)
+- **Follow-Up Opportunities:**
+  - Dec 1 lockout confirmed → Tier 1 immediate reaction + Cubs impact
+  - Cubs sign any starter before Dec 1 → Tier 1 breaking
+  - Skubal signs → Tier 2 "another arm off the board"
+
+### STORY 2: Hiromi Itoh Visits Chicago — Second Japanese Arm
+- **Angle:** NEW STORY (ESPN Jesse Rogers + Jorge Castillo: Itoh visited Chicago Friday; 3.18 ERA / 159 K / 34 BB / 172 IP in 2026; Dec 1 signing window matches lockout; could land two Japanese arms in 9 days if Cubs move on both Taira and Itoh)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster news/informative)
+- **Follow-Up Opportunities:**
+  - Cubs sign Itoh → Tier 1 acquisition
+  - Itoh signs with another team → "one Japanese arm available" pivot
+  - White Sox land Itoh → rival-market angle
+
+### STORY 3: Kaima Taira — 9 Days, Cubs Still Top Suitor
+- **Angle:** FOLLOW UP (Nov 21: nine teams pursuing, Dec 16 deadline collision; today: countdown framing — 9 days to sign or risk 99+ day lockout freeze with Dec 16 posting window)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, hot stove urgency)
+- **Follow-Up Opportunities:**
+  - Cubs sign Taira before Dec 1 → Tier 1 acquisition
+  - Lockout hits before Taira signs → "window frozen" Tier 2
+  - Taira signs with another team → Tier 2 reaction + rotation Plan C
+
+### STORY 4: Teruaki Sato — NPB Triple Crown, Cubs Scouting Hard
+- **Angle:** FOLLOW UP with fresh framing (Sato mentioned in prior research; first dedicated tweet today — anchored on NPB Triple Crown .306/39 HR/106 RBI; The Athletic's Mooney "extensively scouted"; Suzuki+Happ departures = outfield vacancy; Phillies competition; 269 outfield games in Japan)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, stat breakdown/informative)
+- **Follow-Up Opportunities:**
+  - Cubs sign Sato → Tier 1 outfield acquisition
+  - Sato signs with Phillies → "another target gone" angle
+  - More scouting intel surfaces → deeper profile angle
+
+### STORY 5: NL Central Watch — Peralta Trade Buzz + Division Reality
+- **Angle:** NEW STORY (new angle; Brewers so deep they're shopping Peralta per MLB.com Nov 21; Misiorowski unanimous NL Cy Young (1.80 ERA / 252 K) still theirs; Cubs have Javier Assad; 9-day countdown vs. 99-day lockout silence contrast)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, bold take/rival watch/evening prime)
+- **Follow-Up Opportunities:**
+  - Peralta traded → Tier 2 division implications
+  - Cubs acquire an arm before lockout → "closing the gap" angle
+  - Dec 1 lockout hits → "division gap frozen for 99 days" Tier 2
