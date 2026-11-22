@@ -1,0 +1,278 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-22",
+  "compiled_at": "2026-11-22T11:26:12.521427+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "LIV Golf Officially Winding Down — End of a $5 Billion Era",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "LIV Golf is officially shutting down.\n\nAfter five years and an estimated $5 billion in Saudi PIF investment, the league is winding down operations following a September bankruptcy filing. The 2026 season was the last.\n\nA sport-reshaping era is over.\n\n#LIVGolf #PGATour #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#PGATour",
+            "#Golf"
+          ],
+          "char_count": 274
+        },
+        {
+          "label": "Post 1-2",
+          "text": "What happens to LIV Golf's players now?\n\nJon Rahm is angling for a PGA Tour return. DeChambeau and Cameron Smith's situations are unresolved. The Returning Member Program is closed.\n\nThe PGA Tour says it's in no rush to decide.\n\n#LIVGolf #PGATour #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#PGATour",
+            "#Golf"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-liv-golf-shutdown-bankruptcy.html",
+        "headline": "LIV Golf Officially Winding Down After Five Years and Roughly $5 Billion in Saudi Investment",
+        "word_count": 491
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Shutdown\n\n**Concept 1A — Article Hero** (1200x630 landscape)\n- **imagn_search:** \"LIV Golf tournament\"\n- **Description:** LIV Golf event imagery — course action or crowd\n- **Usage:** article-01 hero\n\n**Concept 1B — Social** (1080x1350 vertical)\n- **imagn_search:** \"Dustin Johnson LIV Golf\"\n- **Description:** Prominent LIV Golf player at event — symbol of the era\n- **Usage:** story-1 social\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf Shutdown\n**Sources:** CBS News, CNN, CBS Sports, ESPN, Heavy.com, NBC Sports, Wikipedia\n**Verified facts (HIGH):**\n- LIV Golf lawyers told NJ bankruptcy court Nov 5, 2026 that the league would not proceed with LIV 2.0 relaunch\n- LIV Golf filed for bankruptcy September 8, 2026\n- LIV Golf filed Chapter 11 bankruptcy plan Nov 10, 2026, targeting January liquidation\n- Saudi Arabia's PIF changed investment strategy in April 2026 and stopped funding after 2026 season\n- BC Partners rescue deal (committed ~$300 million) fell through\n- LIV laid off 289 employees and furloughed 22 more before filing\n- LIV creditors subpoenaed PGA Tour for documents\n- PGA Tour called subpoena a \"desperate fishing expedition\"\n- Next bankruptcy hearing: November 24, 2026\n**Verified facts (MEDIUM):**\n- PIF total investment: sources differ ($5 billion per ESPN filing vs $7 billion per other sources)\n- LIV Golf's 2026 season was its final season",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "CME Group Tour Championship Final Round — A Lim Kim Leads, Korda Chasing LPGA Hall of Fame",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Final round underway at the 2026 CME Group Tour Championship.\n\nA Lim Kim: -18 (leads by 2)\nNelly Korda: -16\n\nA Korda win today would qualify her for the LPGA Hall of Fame. $4 million goes to the winner.\n\nWatch closely.\n\n#LPGA #CMEGroupTourChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#CMEGroupTourChampionship"
+          ],
+          "char_count": 251
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Nelly Korda is two shots back with a Hall of Fame entry on the line at the CME Tour Championship.\n\nShe's the world No. 1. She's been here before. Today could be one of the most significant rounds in LPGA history.\n\n#LPGA #NellyKorda #CMEGroupTourChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#NellyKorda",
+            "#CMEGroupTourChampionship"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-cme-tour-championship-kim-korda.html",
+        "headline": "CME Group Tour Championship Final Round: A Lim Kim Leads, Korda's Hall of Fame Moment Awaits",
+        "word_count": 461
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CME Group Tour Championship\n\n**Concept 2A — Article Hero** (1200x630 landscape)\n- **imagn_search:** \"Nelly Korda LPGA\"\n- **Description:** Korda mid-swing or celebrating — Hall of Fame pursuit angle\n- **Usage:** article-02 hero\n\n**Concept 2B — Social** (1080x1350 vertical)\n- **imagn_search:** \"A Lim Kim LPGA\"\n- **Description:** A Lim Kim putting or celebrating at Tiburón\n- **Usage:** story-2 social\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CME Group Tour Championship Final Round\n**Sources:** Golf Channel, ESPN, Yahoo Sports, Washington Times\n**Verified facts (HIGH):**\n- Tournament: CME Group Tour Championship, Tiburón Golf Club, Naples, Florida\n- Dates: November 19-22, 2026\n- Total purse: $11 million, winner's share: $4 million\n- A Lim Kim entered final round at 18-under par, leading by 2 shots\n- Nelly Korda entered final round at 16-under, 2 shots back (some sources say 2 shots, some say 2 shots)\n- A Korda win would qualify her for the LPGA Hall of Fame\n- Jeeno Thitikul (Atthaya Thitikul) in the final group\n- Kim made hole-in-one on par-3 16th hole (7-iron, 168 yards) in R2\n**Verified facts (MEDIUM):**\n- Kim was at -15 after R2, R3 lead at 18-under per Golf Channel\n- Thitikul entered final round in position to chase",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Jon Rahm Open to Koepka-Style Deal for PGA Tour Return",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Jon Rahm says he'd accept the same deal Brooks Koepka got to return to the PGA Tour.\n\nThat means: $5M fine, no equity for 5 years, no signature events or FedExCup bonus access.\n\nThe Tour says the Returning Member Program is closed. No timeline.\n\n#PGATour #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#Golf"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-rahm-pga-tour-return-koepka-deal.html",
+        "headline": "Jon Rahm Open to Koepka-Style Deal for PGA Tour Return, But No Timeline in Sight",
+        "word_count": 454
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jon Rahm PGA Tour Return\n\n**Concept 3A — Article Hero** (1200x630 landscape)\n- **imagn_search:** \"Jon Rahm\"\n- **Description:** Rahm driving or reacting — determined expression\n- **Usage:** article-03 hero\n\n**Concept 3B — Social** (1080x1350 vertical)\n- **imagn_search:** \"Jon Rahm LIV Golf\"\n- **Description:** Rahm at a LIV event — context for the story\n- **Usage:** story-3 social\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jon Rahm / PGA Tour Return\n**Sources:** Golf Channel, Sky Sports, Golf Magic, Fox News, Irish Star\n**Verified facts (HIGH):**\n- Brooks Koepka's reinstatement terms: $5M fine, no equity for 5 years, no direct access to signature events or FedExCup bonus money\n- Jon Rahm has said he would accept Koepka-style terms to return to PGA Tour\n- Rahm has NOT spoken directly with PGA Tour about return\n- Rahm plans to play DP World Tour in 2027\n- PGA Tour CEO Rolapp: \"There are no plans for that currently, no\" re: Returning Member Program\n- Returning Member Program is closed per CEO Rolapp\n**Verified facts (MEDIUM):**\n- PGA Tour plans to postpone any ruling on LIV players until January 2027 (per The Athletic)\n- Rahm said he has \"no idea\" when he would be allowed back",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "PGA Tour Not Rushing LIV Reinstatement Decision — January Timeline",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "PGA Tour CEO Rolapp on LIV players returning: \"There are no plans for that currently.\"\n\nThe Returning Member Program that brought back Koepka is closed. Any ruling has reportedly been pushed to January 2027.\n\nLIV players are in limbo.\n\n#PGATour #LIVGolf #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#LIVGolf",
+            "#Golf"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-pga-tour-liv-reinstatement-january.html",
+        "headline": "PGA Tour Not Rushing LIV Reinstatement Decision, Program Closed Until at Least January",
+        "word_count": 416
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PGA Tour / LIV Reinstatement\n\n**Concept 4A — Article Hero** (1200x630 landscape)\n- **imagn_search:** \"PGA Tour TPC Sawgrass\"\n- **Description:** PGA Tour event at TPC Sawgrass or Tour HQ imagery\n- **Usage:** article-04 hero\n\n**Concept 4B — Social** (1080x1350 vertical)\n- **imagn_search:** \"Brooks Koepka PGA Tour\"\n- **Description:** Koepka on PGA Tour — reference for the reinstatement deal\n- **Usage:** story-4 social\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "PGA Tour / LIV Reinstatement Timeline\n**Sources:** Washington Post, Yahoo Sports, News4Jax, Front Office Sports\n**Verified facts (HIGH):**\n- PGA Tour CEO Brian Rolapp confirmed Tour is in no hurry on LIV reinstatement\n- Returning Member Program that allowed Koepka is closed\n- LIV creditors subpoenaed PGA Tour for documents in bankruptcy proceedings\n- PGA Tour called subpoena a \"desperate fishing expedition\"\n- Bankruptcy hearing scheduled November 24, 2026\n**Verified facts (MEDIUM):**\n- January 2027 timeline for PGA Tour ruling on LIV players (per multiple reports)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "LPGA Season in Review — $132 Million Purse, Season Ends November 22",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The 2026 LPGA Tour season wraps up today.\n\n$132 million in total prize money. January 29 to November 22. A Korda-led world ranking. And a final round in Naples with everything on the line.\n\nWhat a year for women's golf.\n\n#LPGA #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#Golf"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-lpga-2026-season-review.html",
+        "headline": "LPGA Tour 2026 Season Wraps Up With $132 Million Purse and a Memorable Season Finale",
+        "word_count": 410
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LPGA Season in Review\n\n**Concept 5A — Social** (1080x1350 vertical)\n- **imagn_search:** \"LPGA Tour CME Group\"\n- **Description:** LPGA Tour action at CME Group Tour Championship\n- **Usage:** story-5 social"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LPGA Season Overview\n**Sources:** Wikipedia (2026 LPGA Tour), Sky Sports, Washington Times\n**Verified facts (HIGH):**\n- 2026 LPGA Tour season ran January 29 to November 22, 2026\n- Total purse: $132 million\n- Season finale: CME Group Tour Championship (Nov 19-22)\n- Nelly Korda led world rankings throughout 2026 season\n**Verified facts (MEDIUM):**\n- \"$132 million\" per Washington Times; richest season in LPGA history (not independently confirmed)",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

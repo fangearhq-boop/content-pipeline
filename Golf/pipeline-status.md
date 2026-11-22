@@ -1,9 +1,30 @@
 # Golf Fanrecap — Pipeline Status
 
-## Last Run: 2026-11-21
+## Last Run: 2026-11-22
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** Golf Fanrecap
+
+---
+
+### 2026-11-22 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles, image manifest)
+- Step 10: verify-facts.py — 5 stories, 30 claims, HIGH: 68; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 0 FB posts (known parsing), 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (22 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via git remote with PAT
+
+**Stories covered:**
+1. T1 NEW: LIV Golf officially winding down — bankruptcy wind-down, Jan liquidation target, $5B era ends (Ryan Calloway)
+2. T1 FOLLOW UP: CME Tour Championship final round — Kim -18 leads by 2, Korda -16 chasing HOF entry (Jake Torres)
+3. T2 NEW: Jon Rahm open to Koepka-style deal ($5M fine etc.) for PGA Tour return; no timeline from Tour (Marcus Cole)
+4. T2 NEW: PGA Tour not rushing LIV reinstatement — program closed, Jan 2027 decision timeline (Ryan Calloway)
+5. T3 NEW: LPGA 2026 season in review — $132M purse, season closes today (Jake Torres)
 
 ---
 

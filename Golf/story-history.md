@@ -806,3 +806,40 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** Both PGA Tour RSM Classic and LPGA CME Group Tour Championship finish same weekend; unique dual-finale golf weekend
 - **Byline:** Jake Torres
 - **Status:** FOLLOW UP
+
+## 2026-11-22
+
+### STORY 1: LIV Golf Officially Winding Down — Bankruptcy Wind-Down Confirmed
+- **Tier:** 1
+- **Category:** LIV Golf / PGA Tour / Saudi PIF / Bankruptcy
+- **Key facts:** LIV lawyers confirmed Nov 5 no LIV 2.0; bankruptcy filed Sep 8; Chapter 11 plan filed Nov 10; Jan liquidation target; PIF stopped funding Apr 2026; BC Partners deal fell through; 289 laid off, 22 furloughed; creditors subpoenaed PGA Tour; Nov 24 hearing
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: CME Group Tour Championship Final Round — Kim -18, Korda 2 Back, HOF on the Line
+- **Tier:** 1
+- **Category:** LPGA Tour / CME Group Tour Championship / A Lim Kim / Nelly Korda / Atthaya Thitikul
+- **Key facts:** Kim at -18 leads by 2; Korda at -16; Korda win = LPGA Hall of Fame entry; $11M purse/$4M winner; Tiburón Golf Club, Naples FL; Kim hole-in-one R2 (7-iron, 168 yds, par-3 16th); Thitikul in final group
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+
+### STORY 3: Jon Rahm Open to Koepka-Style Deal for PGA Tour Return
+- **Tier:** 2
+- **Category:** PGA Tour / Jon Rahm / LIV Golf / Brooks Koepka
+- **Key facts:** Koepka terms: $5M fine, no equity 5 yrs, no signature events/FedExCup bonus; Rahm says he'd accept; has not spoken with Tour; plans DP World Tour 2027; Tour CEO says program closed, no plans currently
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 4: PGA Tour Not Rushing LIV Reinstatement — January 2027 Timeline
+- **Tier:** 2
+- **Category:** PGA Tour / LIV Golf / Reinstatement / Brian Rolapp
+- **Key facts:** Rolapp: "no plans currently"; Returning Member Program closed; ruling pushed to Jan 2027; LIV creditors subpoenaed PGA Tour (Tour called it "desperate fishing expedition"); Nov 24 bankruptcy hearing
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: LPGA 2026 Season in Review — $132M Purse, Season Ends November 22
+- **Tier:** 3
+- **Category:** LPGA Tour / 2026 Season / Nelly Korda
+- **Key facts:** Season ran Jan 29–Nov 22; $132M total purse; Korda world No. 1 all year; CME Tour Championship is finale
+- **Byline:** Jake Torres
+- **Status:** NEW
