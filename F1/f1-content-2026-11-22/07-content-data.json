@@ -1,0 +1,275 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-22",
+  "compiled_at": "2026-11-22T11:22:06.457402+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Verstappen Wins Las Vegas GP From Norris and Piastri",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Verstappen wins the 2026 Las Vegas GP for the third time! 🏁\n\nP1 Verstappen\nP2 Norris (+0.639s)\nP3 Piastri (+1.529s)\n\nMcLaren takes the double podium. Max moves to 304 pts — 37 behind Antonelli with 2 races left.\n\n#F1 #LasVegasGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 228
+        },
+        {
+          "label": "Post 1-2",
+          "text": "McLaren's Las Vegas double podium (Norris P2, Piastri P3) leaves them just 9 points behind Red Bull in the constructors' fight.\n\n440-431 heading into Qatar and Abu Dhabi. This one goes to the wire.\n\n#F1 #McLaren #LasVegasGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#McLaren",
+            "#LasVegasGP"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-verstappen-wins-las-vegas-gp.html",
+        "headline": "Verstappen Wins Las Vegas Grand Prix for Third Time, Norris and Piastri Complete McLaren Double Podium",
+        "word_count": 425
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Las Vegas GP Race Result\n\n**Concept 1A — Article Hero** (1200x630 landscape)\n- **imagn_search:** \"Max Verstappen Red Bull Racing\"\n- **Description:** Verstappen celebrating or driving in Las Vegas GP context\n- **Usage:** article-01 hero\n\n**Concept 1B — Social** (1080x1350 vertical)\n- **imagn_search:** \"Lando Norris Oscar Piastri McLaren\"\n- **Description:** Norris and/or Piastri on the Las Vegas podium — McLaren double\n- **Usage:** story-1 social\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Las Vegas GP Race Result — Verstappen Wins\n**Sources:** formula1.com, racingnews365.com, Yahoo Sports, scuderiafans.com, ABC News\n**Verified facts (HIGH):**\n- Verstappen won the 2026 Las Vegas Grand Prix — race time 1:27:39.624, 50 laps\n- Podium: Verstappen 1st, Norris 2nd (+0.639s), Piastri 3rd (+1.529s)\n- McLaren secured a double podium (Norris P2, Piastri P3)\n- Rest of top 10: Kimi Antonelli 4th, Pierre Gasly 5th, Franco Colapinto 6th, Lewis Hamilton 7th, Carlos Sainz 8th, George Russell 9th, Charles Leclerc 10th\n- Retirements: Arvid Lindblad, Sergio Perez (DNF); Alex Albon (DNS)\n- Race described as \"chaotic\" with Ferrari collision and five driver grid penalties pre-race\n- This is Verstappen's third Las Vegas GP win\n**Verified facts (MEDIUM):**\n- Verstappen entered Las Vegas with 279 points; left with 304 (25 for win)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Ferrari Disaster Continues — Hamilton 7th, Leclerc 10th at Las Vegas",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Ferrari's Las Vegas weekend: Q2 eliminated Saturday, then P7 and P10 in the race.\n\nHamilton stays P3 in the championship with 267 pts — just 3 clear of Russell and Norris (264 each).\n\nTwo races to go.\n\n#F1 #Ferrari #LasVegasGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Ferrari",
+            "#LasVegasGP"
+          ],
+          "char_count": 226
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Championship P2-P5 after Las Vegas:\n\nVerstappen 304\nHamilton 267\nRussell 264\nNorris 264\n\nThree points separate P3 from P4 and P5. Qatar is now a must-deliver for Hamilton.\n\n#F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 176
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-ferrari-hamilton-leclerc-las-vegas.html",
+        "headline": "Ferrari's Las Vegas Nightmare: Hamilton 7th, Leclerc 10th After Q2 Disaster",
+        "word_count": 392
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ferrari — Hamilton 7th, Leclerc 10th\n\n**Concept 2A — Article Hero** (1200x630 landscape)\n- **imagn_search:** \"Lewis Hamilton Ferrari\"\n- **Description:** Hamilton in the Ferrari at Las Vegas\n- **Usage:** article-02 hero\n\n**Concept 2B — Social** (1080x1350 vertical)\n- **imagn_search:** \"Charles Leclerc Ferrari\"\n- **Description:** Leclerc in cockpit or post-race\n- **Usage:** story-2 social\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ferrari Disaster — Hamilton 7th, Leclerc 10th\n**Sources:** scuderiafans.com, racingnews365.com, grandepremio.com\n**Verified facts (HIGH):**\n- Hamilton finished 7th at Las Vegas; Leclerc finished 10th (with penalty)\n- Both Ferraris were eliminated in Q2 qualifying (Leclerc P11, Hamilton P12 on grid)\n- Ferrari's championship position: constructors second on 517 points\n**Verified facts (MEDIUM):**\n- Hamilton moved to 267 points after Las Vegas (3rd in championship)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Championship Update — Antonelli Champion; Verstappen 2nd; Qatar the Next Test",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "2026 F1 Drivers' Championship after Las Vegas:\n\n🏆 Antonelli 402 (Champion)\n2. Verstappen 304\n3. Hamilton 267\n4. Russell 264\n4. Norris 264\n\nQatar (Nov 29) and Abu Dhabi (Dec 6) remain. Everything from P2 to P5 is live.\n\n#F1 #Formula1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-f1-championship-standings-2026.html",
+        "headline": "2026 F1 Championship Standings After Las Vegas: Antonelli Champion, Battle for P2 Goes to Qatar",
+        "word_count": 377
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Standings\n\n**Concept 3A — Article Hero** (1200x630 landscape)\n- **imagn_search:** \"Kimi Antonelli Mercedes\"\n- **Description:** Antonelli celebrating or driving — World Champion visual\n- **Usage:** article-03 hero\n\n**Concept 3B — Social** (1080x1350 vertical)\n- **imagn_search:** \"Max Verstappen Red Bull Racing\"\n- **Description:** Verstappen post-race — still chasing championship milestones\n- **Usage:** story-3 social\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Standings After Las Vegas\n**Sources:** planetf1.com, racingnews365.com, crash.net, grandepremio.com\n**Verified facts (HIGH):**\n- Kimi Antonelli: 402 points — confirmed 2026 World Champion\n- Max Verstappen: 304 points (2nd)\n- Lewis Hamilton: 267 points (3rd)\n- George Russell: 264 points (tied 4th)\n- Lando Norris: 264 points (tied 4th/5th)\n- Constructors: Mercedes 666, Ferrari 517, Red Bull 440, McLaren 431\n- Two races remain: Qatar (Round 22, Nov 29) and Abu Dhabi (Round 23, Dec 6)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Qatar Grand Prix Preview — Round 22, Lusail Circuit, November 29",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Next up: Qatar 🇶🇦\n\nRound 22. Lusail Circuit. November 29.\n\n57 laps under the floodlights. Extreme heat. Tight championship battle from P2 to P5. Nine points between McLaren and Red Bull in the constructors' fight.\n\n#F1 #QatarGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#QatarGP"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-qatar-gp-preview-2026.html",
+        "headline": "Qatar Grand Prix 2026 Preview: What to Watch at Lusail as Championship Climax Approaches",
+        "word_count": 407
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Qatar GP Preview\n\n**Concept 4A — Article Hero** (1200x630 landscape)\n- **imagn_search:** \"Formula 1 Lusail Qatar\"\n- **Description:** Lusail Circuit floodlit aerial or race action\n- **Usage:** article-04 hero\n\n**Concept 4B — Social** (1080x1350 vertical)\n- **imagn_search:** \"Formula 1 Qatar race\"\n- **Description:** F1 cars under floodlights at Qatar circuit\n- **Usage:** story-4 social\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Qatar Grand Prix Preview\n**Sources:** formula1.com, racingnews365.com, mercedesamgf1.com, espn.com\n**Verified facts (HIGH):**\n- Qatar GP at Lusail International Circuit, Round 22 of 2026 season\n- Race date: Sunday, November 29, 2026\n- Circuit: approximately 5.4km, 57 laps, 16 turns, runs clockwise\n- Race start: 16:00 GMT (floodlit)\n- Known for extreme heat and physical demands on drivers\n**Verified facts (MEDIUM):**\n- Lap record: 1:23.196 (set in 2021)\n- Schedule: FP1 Friday Nov 27, Qualifying Saturday Nov 28, Race Sunday Nov 29",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Team Staff Safety Concerns Cloud Qatar and Abu Dhabi Finale",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Developing: Some F1 team staff have said they will not travel to Qatar and Abu Dhabi for the season's final races over safety concerns, per reports.\n\nNo teams named publicly. The paddock heads to Qatar on Nov 27.\n\n#F1 #Formula1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-f1-staff-safety-concerns-qatar.html",
+        "headline": "Some F1 Team Staff to Skip Qatar and Abu Dhabi Finale Over Safety Concerns",
+        "word_count": 323
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Team Staff Safety Concerns\n\n**Concept 5A — Social** (1080x1350 vertical)\n- **imagn_search:** \"Formula 1 paddock garage\"\n- **Description:** Generic F1 paddock/garage atmosphere — team operations visual\n- **Usage:** story-5 social"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Team Staff Safety Concerns\n**Sources:** racingnews365.com (Nov 20 report)\n**Verified facts (MEDIUM):**\n- Some team staff have stated they will not travel to Qatar and Abu Dhabi over safety concerns\n- Reports surfaced approximately November 20, 2026\n- No specific team or number of staff confirmed publicly\n**Note:** This is a MEDIUM-confidence story based on a single source; treat as developing.",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

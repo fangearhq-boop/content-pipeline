@@ -984,3 +984,40 @@
 - **Key facts:** Verstappen from pole; Antonelli from P6; Ferrari mid-grid; cold track, 3 long straights, strategy-driven
 - **Byline:** Marcus Cole
 - **Status:** NEW
+
+## 2026-11-22
+
+### STORY 1: Las Vegas GP Race Result — Verstappen Wins From Norris and Piastri
+- **Tier:** 1
+- **Category:** Las Vegas Grand Prix / Max Verstappen / Lando Norris / Oscar Piastri / McLaren
+- **Key facts:** Verstappen wins in 1:27:39.624, 50 laps; Norris P2 (+0.639s), Piastri P3 (+1.529s); McLaren double podium; Verstappen 304 pts (2nd in championship); retirements: Lindblad, Perez; Albon DNS
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: Ferrari — Hamilton 7th, Leclerc 10th at Las Vegas
+- **Tier:** 1
+- **Category:** Ferrari / Lewis Hamilton / Charles Leclerc / Las Vegas GP
+- **Key facts:** Hamilton P7, Leclerc P10 (penalty); Hamilton 267 pts (3rd); just 3 pts ahead of Russell/Norris (264 each); constructors P2 at 517
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: Championship Standings — Antonelli 402, Verstappen 304, Battle for P2 to P5
+- **Tier:** 2
+- **Category:** 2026 F1 Season / Championship Standings / Kimi Antonelli
+- **Key facts:** Antonelli champion (402 pts); Verstappen 2nd (304); Hamilton 3rd (267); Russell/Norris tied at 264; Constructors: Mercedes 666, Ferrari 517, Red Bull 440, McLaren 431
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
+### STORY 4: Qatar Grand Prix Preview — Round 22, November 29, Lusail
+- **Tier:** 2
+- **Category:** Qatar Grand Prix / Lusail Circuit / F1 2026
+- **Key facts:** Race Nov 29; Lusail ~5.4km, 57 laps, 16 turns, clockwise; floodlit; extreme heat; 16:00 GMT race start; lap record 1:23.196
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: Team Staff Safety Concerns for Qatar and Abu Dhabi
+- **Tier:** 3
+- **Category:** F1 2026 Season / Team Operations / Qatar / Abu Dhabi
+- **Key facts:** Reports from ~Nov 20; some staff say they won't travel; no teams named; developing story
+- **Byline:** Marcus Cole
+- **Status:** NEW

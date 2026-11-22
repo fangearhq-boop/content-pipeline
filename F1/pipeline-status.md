@@ -1,8 +1,29 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-11-21
+## Last Run: 2026-11-22
 
 **Status:** COMPLETE (with known proxy limitations)
+
+---
+
+### 2026-11-22 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles, image manifest)
+- Step 10: verify-facts.py — 5 stories, 31 claims, HIGH: 55; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 0 FB posts (known parsing), 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (22 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via git remote with PAT
+
+**Stories covered:**
+1. T1 FOLLOW UP: Las Vegas GP race result — Verstappen wins, Norris P2, Piastri P3; McLaren double podium (Ryan Calloway)
+2. T1 FOLLOW UP: Ferrari — Hamilton P7, Leclerc P10; Hamilton just 3 pts ahead of Russell/Norris (Marcus Cole)
+3. T2 FOLLOW UP: Championship standings — Antonelli 402 (champion), Verstappen 304, Hamilton 267, Russell/Norris 264 (Elena Voss)
+4. T2 NEW: Qatar GP preview — Round 22, Nov 29, Lusail Circuit; championship battle context (Ryan Calloway)
+5. T3 NEW: Team staff safety concerns for Qatar and Abu Dhabi finale (Marcus Cole)
 
 ---
 
