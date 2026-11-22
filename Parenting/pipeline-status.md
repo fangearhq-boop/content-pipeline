@@ -1,6 +1,36 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-11-21
+## Current Run: 2026-11-22
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Trouble in Toyland 2026 (PIRG Nov 17 2026): 7 AI toys tested, guardrails weakened, GOLAB Panda Plush sexually explicit content, ~500K squishies recalled/warned, 900+ CPSC toy violations Jan–Jul 2026 — HIGH from pirg.org/koin.com/abc27.com. Qpancy pajamas Recall #27-094 (Nov 19 2026): ~1,309 units, Amazon Mar–Aug 2026, ~$20, fails flammability standard, serious burns/death risk, full refund — HIGH from cpsc.gov. Thanksgiving week COS: Turkey Trot YMCA Nov 26 (Tiny Trot 8:15 AM / 5K 9:00 AM), Chefs' Kitchen 3-day camp ages 7–14 $235, CS Philharmonic Nutcracker Nov 27–29 Pikes Peak Center, CMZ open daily, Skate in the Park Acacia Park $15/ages 4 under free, Broadmoor lights free — HIGH from visitcos.com/findarace.com. AAP AI guidance Oct 2026: "Safe and equitable pediatric use of generative AI" published Pediatrics journal, clinician-focused, family guide in development — HIGH from news-medical.net/eurekalert.org. D11/D20/D49 Thanksgiving break: typical Nov 24–28 return Nov 30 — MEDIUM (standard CO district calendar, verify at d11.org/asd20.org/sd49.org). |
+| Story History Check | COMPLETE | S1 NEW (Trouble in Toyland 2026 — first PIRG annual report coverage); S2 NEW (Qpancy #27-094 — distinct from Nov 13 SHEIN/Kakgold recalls, different brand/product); S3 NEW (Thanksgiving week activities guide — first this season); S4 NEW (AAP AI guidance — first coverage, Oct 2026, distinct from Nov 20 ADHD screen time paper); S5 NEW (D11/D20/D49 Thanksgiving break — first this season) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH confidence for S1-S4; MEDIUM for S5 dates; cpsc.gov official URL for S2; pirg.org for S1; news-medical.net/eurekalert.org for S4; visitcos.com/findarace.com for S3; d11.org/asd20.org/sd49.org listed for S5 |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows (8 AM, 10 AM, 12 PM, 3 PM, 5 PM), 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories (code-block format); all ≤280 chars; 4 hashtags each: #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; contractions; 0 exclamation marks; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only concepts (2 per story); clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0; dimensions 1200x675 (social) + 1200x630 (hero) |
+| Articles (5) | COMPLETE | article-01 Trouble in Toyland 2026 (Sarah Morales T1 ~700w, quick reference table); article-02 Qpancy pajamas recall (Jamie Rivera T1 ~650w, quick reference table); article-03 Thanksgiving week activities (Sarah Morales T2 ~700w, quick reference table); article-04 AAP AI guidance for pediatricians (Jamie Rivera T2 ~650w, quick reference table); article-05 D11/D20/D49 Thanksgiving break (Sarah Morales T2 ~700w, quick reference table) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 68 claims; all stories present; image manifest title-match warnings (cosmetic, pre-existing) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (pre-existing format mismatch), 5 articles, 5 images; 4/5 stories with official source URLs |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries (5 stories × social + hero), all not_started, gemini base_only, dimensions 1200x675 (social) + 1200x630 (hero), brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-11-22.xlsx (7 posts) + cosp-postplanner-tobi-2026-11-22.xlsx (7 TOBI posts); FB=0 in export (pre-existing format mismatch) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 22 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB image captions
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+- **Key stories:** Trouble in Toyland 2026 — AI toys (GOLAB Panda Plush sexually explicit content), heated squishies (~500K recalled), counterfeits; CPSC Recall #27-094 — Qpancy children's pajamas (~1,309 units, Amazon Mar–Aug 2026, fails flammability, serious burns/death risk, full refund); Thanksgiving week COS guide — Turkey Trot, Nutcracker, Skate in the Park, CMZ; AAP AI guidance for pediatricians (Oct 2026, Pediatrics journal, clinician-focused, family guide in development); D11/D20/D49 Thanksgiving break dates (Nov 24–28, return Nov 30, verify on district sites)
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); PostPlanner FB=0 in export (pre-existing format mismatch); image manifest title-match warnings (cosmetic, pre-existing)
+
+---
+
+## Previous Run: 2026-11-21
 
 | Step | Status | Notes |
 |------|--------|-------|

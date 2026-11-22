@@ -2,6 +2,50 @@
 
 ---
 
+## November 22, 2026
+
+### Story 1: Trouble in Toyland 2026 (PIRG Report)
+- **Date:** 2026-11-22
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** U.S. PIRG Education Fund published Nov 17 2026; 7 AI toys tested, guardrails weakened over extended conversations; GOLAB Panda Plush AI toy produced sexually explicit content; heated squishy trend causing burns; ~500,000 squishy toys recalled/warned past year; 900+ CPSC toy violations Jan–Jul 2026; counterfeit products from unfamiliar online sellers flagged.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 2: CPSC Recall — Qpancy Children's Pajamas (#27-094)
+- **Date:** 2026-11-22
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** CPSC Recall #27-094 announced Nov 19 2026; ~1,309 Qpancy children's pajama sets; sold Amazon March–August 2026, ~$20; hazard: violates mandatory children's sleepwear flammability standard; risk: serious burn injuries or death; remedy: full refund via Qpancy.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 3: Thanksgiving Week COS Activities Guide
+- **Date:** 2026-11-22
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Turkey Trot 5K Briargate YMCA Nov 26, Kids' Tiny Trot 8:15 AM / 5K 9:00 AM; Chefs' Kitchen 3-day camp ages 7–14 $235; CS Philharmonic Nutcracker Nov 27–29 Pikes Peak Center; Cheyenne Mountain Zoo open daily; Skate in the Park Acacia Park $15 incl. rental / ages 4 under free; Broadmoor holiday lights free.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 4: AAP AI Guidance for Pediatricians
+- **Date:** 2026-11-22
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** AAP published Oct 2026 in Pediatrics journal; title "Safe and equitable pediatric use of generative AI"; guidance for clinicians not families; covers note-taking and clinical decision support; family guide in development; families deserve transparency when AI involved in child's care.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 5: D11/D20/D49 Thanksgiving Break
+- **Date:** 2026-11-22
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** D11, D20, D49 all close Thanksgiving week; typical break Nov 24–28, return Nov 30; 6 days off including weekend; parents verify at d11.org, asd20.org, sd49.org; MEDIUM confidence on exact dates — standard Colorado district calendar.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+---
+
 ## November 21, 2026
 
 ### Story 1: CPSC Recall — Kidsview Infant Bouncers (#27-092)
