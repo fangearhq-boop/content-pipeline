@@ -3,6 +3,64 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## Pipeline Run: 2026-11-22
+
+### Story 1: Oregon Rises — The No. 3 D1Softball Class
+- **Date:** 2026-11-22
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Oregon's 2027 signing class lands at No. 3 nationally in D1Softball — highest in program history. Three Pac-conference programs in the top 10 (Oregon No. 3, Stanford No. 5, UCLA No. 7). The national title picture is wider than it's been in years. January polls will be the first formal verdict.
+- **Content Produced:** Article (article-01, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - January preseason poll debut ranking
+  - Spring scrimmage results
+  - Portal additions (if any)
+
+### Story 2: 9 Days Out — The December Pitching Rush
+- **Date:** 2026-11-22
+- **Tier:** 1
+- **Classification:** FOLLOW UP (portal countdown)
+- **Angle:** OSU pitcher Saylor Davis confirmed entering portal Dec. 1 (3 years eligibility). Arizona, OU, Ole Miss, Auburn are top buyers. Dead period Dec. 9-12 makes the first 8 days critical. Specific player name (Davis) gives the story a concrete hook.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Portal opening day — specific commitment announcements
+  - Arizona/OU signing a pitcher
+  - Dead period Dec. 9-12 recap
+
+### Story 3: Beyond Wisne — Individual Athletes Use State Courts
+- **Date:** 2026-11-22
+- **Tier:** 2
+- **Classification:** FOLLOW UP (new legal dimension)
+- **Angle:** Virginia Tech outfielder Bre Warren and LSU's Monticelli/Lassiter filing individually in state courts. State courts granting relief at higher rate than federal. 200+ cases, 850 athletes. NCAA asking Congress for legislation to block suits.
+- **Content Produced:** Article (article-03, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Warren's Virginia Tech case outcome
+  - LSU group case ruling
+  - Congressional action timeline
+
+### Story 4: The Rankings Gap — D1Softball vs Softball America
+- **Date:** 2026-11-22
+- **Tier:** 2
+- **Classification:** FOLLOW UP (analytical angle on OU/LSU No. 1 debate)
+- **Angle:** D1Softball: OU No. 1 (roster impact/competitive readiness). Softball America: LSU No. 1 (individual prospect quality — first in program history). Texas A&M consensus Top-10 (No. 8 SA, No. 10 D1Softball). January polls will reconcile both methodologies.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - January preseason poll — which service was closer
+  - Spring results for OU and LSU
+  - Texas A&M as consensus third-team
+
+### Story 5: South Carolina's Quiet Rise — SEC Dark Horse
+- **Date:** 2026-11-22
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** South Carolina No. 17 SA, No. 21 D1Softball. No. 17 in an SEC with 5 top-10 classes is competitive. Dark-horse programs at this ranking range often disrupt postseason brackets. January polls will confirm starting position.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - January preseason ranking
+  - SEC play results (how they fare vs. top-5 SEC opponents)
+
+---
+
 ## Pipeline Run: 2026-11-21
 
 ### Story 1: Tennessee's No. 9 Class — Kaylee Hodges Leads the Way
