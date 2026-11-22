@@ -1,6 +1,36 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-11-21
+## Current Run: 2026-11-22
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Alcaraz beats Shelton 3-6, 6-3, 7-6(1) SF (13-match streak, tiebreak 7-1, thigh managed — HIGH from ATP Tour + ANI News + Perfect Tennis); Zverev beats Medvedev 7-6(0), 6-4 SF (tiebreak 7-0, 5-0 no sets dropped all tournament — HIGH from ATP Tour + ANI News); Final today Alcaraz vs Zverev not before 3pm CET (Alcaraz first final, Zverev seeking 3rd, Corretja 1998 last Spanish winner — HIGH from ATP Tour Final Preview + Italy.news); H2H Alcaraz 7-6 overall / Zverev 5-4 hard courts — MEDIUM (single source) |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Nov 21 S3: Alcaraz vs Shelton preview → result); S2 FOLLOW-UP (Nov 21 S4: Zverev vs Medvedev preview → result); S3 FOLLOW-UP (Nov 21 S5: Final preview → day-of analysis); S4 FOLLOW-UP (Nov 21 S2: Alcaraz thigh → stakes); S5 FOLLOW-UP (Nov 21 S4: Zverev semis → third title stakes) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Ryan Calloway [S1,S4], Elena Voss [S2,S5], Marcus Cole [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; SF scores HIGH (ATP Tour+ANI News); tiebreaks HIGH; Corretja 1998 HIGH; H2H 7-6 MEDIUM |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories (2 each for S1+S2, 1 each for S3-S5); all ≤280 chars |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories; player-name-only search terms |
+| Articles (5) | COMPLETE | article-01 Alcaraz beats Shelton (Ryan Calloway T1 ~510w); article-02 Zverev beats Medvedev (Elena Voss T1 ~490w); article-03 Final preview Alcaraz vs Zverev (Marcus Cole T2 ~530w); article-04 Alcaraz title stakes (Ryan Calloway T2 ~490w); article-05 Zverev third title bid (Elena Voss T2 ~490w) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 18 claims; ✓ All stories present; image warnings (expected, all not_started) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 5 images; posting window warnings (pre-existing format) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-11-22.xlsx (7 posts) + tfr-postplanner-tobi-2026-11-22.xlsx (7 TOBI posts); FB=0 in export (pre-existing format mismatch) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 22 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB image captions
+- **Articles:** 5 (bylines: Ryan Calloway [S1,S4], Elena Voss [S2,S5], Marcus Cole [S3])
+- **Key stories:** Alcaraz beats Shelton 3-6, 6-3, 7-6(1) (comeback from set down, 13-match streak, first ATP Finals final); Zverev beats Medvedev 7-6(0), 6-4 (tiebreak 7-0, 5 wins 0 sets dropped); Final today Alcaraz vs Zverev (3pm CET, Alcaraz first title vs Zverev 3rd, first Spanish champion since Corretja 1998 on the line); Alcaraz stakes (28-year gap, career slam near-complete); Zverev stakes (world No. 1, joining 8 all-time greats)
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); PostPlanner FB=0 (pre-existing format mismatch)
+
+---
+
+## Previous Run: 2026-11-21
 
 | Step | Status | Notes |
 |------|--------|-------|

@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## November 22, 2026
+
+| 2026-11-22 | Alcaraz beats Shelton 3-6, 6-3, 7-6(1) at ATP Finals SF (Turin); came back from set down; 13-match winning streak; managing left thigh throughout; first ATP Finals final for Alcaraz; tiebreak 7-1. Sources: ATP Tour official, ANI News, Perfect Tennis Day 7 Recap | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Nov 21 S3: Alcaraz vs Shelton SF preview → result) |
+| 2026-11-22 | Zverev beats Medvedev 7-6(0), 6-4 at ATP Finals SF; tiebreak 7-0; five wins, zero sets dropped all tournament; year-end No. 1; Medvedev 14-8 H2H advantage overturned. Sources: ATP Tour official, ANI News | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 21 S4: Zverev vs Medvedev SF preview → result) |
+| 2026-11-22 | ATP Finals Final preview — Alcaraz vs Zverev, Sunday Nov 22 not before 3pm CET; Alcaraz seeking first title; first Spanish champion since Corretja 1998; Zverev seeking 3rd (2018, 2021); H2H Alcaraz 7-6 overall, Zverev 5-4 on hard. Sources: ATP Tour Final Preview, Italy.news | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (Nov 21 S5: Final preview Sunday → day-of analysis) |
+| 2026-11-22 | Alcaraz title stakes — first ATP Finals title, first Spanish champion since Corretja 1998 (28 years), 13-match streak, thigh concern managed. Sources: ATP Tour Final Preview, ANI News | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Nov 21 S2: Alcaraz thigh concern → stakes of winning final) |
+| 2026-11-22 | Zverev third title bid — world No. 1, 5-0 no sets dropped, potential third title among 8 all-time (Lendl, Sampras, Federer, Djokovic, Connors, Nastase, McEnroe, Hewitt). Sources: ATP Tour Final Preview, Wikipedia 2026 ATP Finals | T2 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 21 S4: Zverev vs Medvedev SF → what a third Zverev title would mean) |
+
+---
+
+
 ## November 21, 2026
 
 | 2026-11-21 | Medvedev beats Tiafoe 6-3, 6-4 at ATP Finals Day 6 (Turin); 15 aces; a break in each set; Medvedev reaches semis for 4th time (1st since 2023); Tiafoe exits 1-2; Medvedev faces Zverev Saturday night. Sources: ATP Tour official, ESPN, Sofascore, TennisTemple | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Nov 20 S3: Day 6 preview Medvedev vs Tiafoe → result) |

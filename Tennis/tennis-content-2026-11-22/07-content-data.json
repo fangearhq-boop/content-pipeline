@@ -1,0 +1,394 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-22",
+  "compiled_at": "2026-11-22T12:15:20.566759+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Alcaraz Beats Shelton 3-6, 6-3, 7-6(1) — Advances to ATP Finals Final",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Alcaraz beats Shelton 3-6, 6-3, 7-6(1). Down a set, managing a thigh issue, wins the tiebreak 7-1. Into his first-ever ATP Finals final. Winning streak now 13. That is Alcaraz. #ATPFinals #Tennis #ATP #Alcaraz",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Alcaraz"
+          ],
+          "char_count": 209
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Shelton pushed Alcaraz to three sets. Won the first. Made it a tiebreak. Lost it 7-1. That gap — right there — is why Alcaraz is in the final and Shelton goes home 2-2. #ATPFinals #Tennis #ATP #Shelton",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Shelton"
+          ],
+          "char_count": 201
+        }
+      ],
+      "facebook": {
+        "long_form": "Carlos Alcaraz is in the ATP Finals final.\n\nHe beat Ben Shelton 3-6, 6-3, 7-6(1) on Saturday in Turin — but it did not come easy. Shelton won the first set, broke early, and played the kind of aggressive tennis that reminded everyone why he earned this semifinal spot. Alcaraz, who had been managing a left thigh issue all week, had to adjust.\n\nHe did. The second set was more like the Alcaraz we expect — sharp, moving well, putting pressure on every return. And then the tiebreak told the whole story: Alcaraz won it 7-1. No drama, no hesitation. When it matters most, he finds a way.\n\nThis is Alcaraz's first ATP Finals final. He enters the championship match having won 13 consecutive matches. He meets Alexander Zverev on Sunday.\n\nFor Shelton, this tournament was a genuine moment. He made it to his first ATP Finals semifinal, pushed the best player in the world to three sets, and left with a 2-2 record. That is not a disappointing result — that is growth.\n\nWho do you think wins today — Alcaraz or Zverev?",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-alcaraz-beats-shelton-atp-finals-semifinal.html",
+        "headline": "Alcaraz Comes Back From a Set Down to Beat Shelton 3-6, 6-3, 7-6(1) — Advances to ATP Finals Final",
+        "word_count": 480
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alcaraz Beats Shelton 3-6, 6-3, 7-6(1)\n\n**Image Concept 1 (Social 1080x1350):**\n- imagn search terms: `Carlos Alcaraz`\n- Description: Alcaraz celebrating or in mid-motion celebrating after a point in Turin\n- Posting Window: 8:00 AM ET\n\n**Image Concept 2 (Article Hero 1200x630):**\n- imagn search terms: `Ben Shelton`\n- Description: Shelton in action during the semifinal at the Inalpi Arena\n- Posting Window: 8:00 AM ET\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alcaraz Beats Shelton 3-6, 6-3, 7-6(1)\n**Facts Used:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Score: 3-6, 6-3, 7-6(1) | HIGH | ATP Tour official results + ANI News + Perfect Tennis Day 7 Recap |\n| Tiebreak won 7-1 by Alcaraz | HIGH | ATP Tour official results |\n| Alcaraz winning streak = 13 matches | HIGH | Multiple sources (ATP Tour, ANI News) |\n| Alcaraz left thigh concern throughout tournament | HIGH | ATP Tour (confirmed Day 6 strapping vs Cobolli, carried into SF) |\n| Shelton record at tournament: 2-2 | HIGH | ATP Tour group stage results (2 wins: Jodar, Fils; losses: Zverev, Alcaraz) |\n| Shelton first ATP Finals semifinal | HIGH | ATP Tour biographical/tournament notes |\n| Venue: Inalpi Arena, Turin | HIGH | ATP Tour official |\n**Sources:**\n- ATP Tour: \"Alcaraz Overcomes Injury to Meet Zverev in ATP Finals Title Decider\" — https://azat.tv/en/alcaraz-reaches-atp-finals-to-face-zverev/\n- ATP Tour official results — https://www.atptour.com/en/scores/current/nitto-atp-finals/605/results\n- ANI News: \"ATP Finals 2026: Zverev beats Medvedev to set up title clash with Alcaraz\" — https://www.aninews.in/news/sports/tennis/atp-finals-2026-zverev-beats-medvedev-to-set-up-title-clash-with-alcaraz20261122041958/\n- Perfect Tennis Day 7 Recap — https://www.perfect-tennis.com/atp-finals-2026-day-7-recap/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Alcaraz Overcomes Injury to Meet Zverev in ATP Finals Title Decider",
+          "url": "https://azat.tv/en/alcaraz-reaches-atp-finals-to-face-zverev/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "ATP Tour"
+        },
+        {
+          "name": "ATP Tour official results",
+          "url": "https://www.atptour.com/en/scores/current/nitto-atp-finals/605/results",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "ATP Finals 2026: Zverev beats Medvedev to set up title clash with Alcaraz",
+          "url": "https://www.aninews.in/news/sports/tennis/atp-finals-2026-zverev-beats-medvedev-to-set-up-title-clash-with-alcaraz20261122041958/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "ANI News"
+        },
+        {
+          "name": "Perfect Tennis Day 7 Recap",
+          "url": "https://www.perfect-tennis.com/atp-finals-2026-day-7-recap/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Zverev Beats Medvedev 7-6(0), 6-4 — Books Final Spot Without Dropping a Set",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Zverev beats Medvedev 7-6(0), 6-4. Wins the tiebreak 7-0. Five matches, zero sets dropped. He has not been in a third set all week. He meets Alcaraz in the final today. #ATPFinals #Tennis #ATP #Zverev",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Zverev"
+          ],
+          "char_count": 200
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Medvedev had a 14-8 H2H advantage over Zverev heading in. Zverev won the tiebreak without conceding a point. That is the shape this tournament has taken — the No. 1 seed playing flawless tennis. #ATPFinals #Tennis #ATP #Medvedev",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Medvedev"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "Alexander Zverev is into the ATP Finals final, and he has been utterly dominant in Turin.\n\nHe beat Daniil Medvedev 7-6(0), 6-4 on Saturday night — and the numbers tell the story better than words can. That tiebreak? Zverev won it 7-0. Not a point dropped. Medvedev, one of the best tiebreak players on tour, did not win a single point.\n\nFive matches. Zero sets lost. That is Zverev's tournament record heading into Sunday's final. His serve has been massive, his movement crisp, and his decision-making close to flawless. The ankle concern he mentioned before the tournament — the one he said would \"probably stay until the end of my career\" — has not been a factor at all in his results.\n\nMedvedev walked in with a 14-8 head-to-head advantage. Zverev treated that number like it did not exist. He is the year-end world No. 1, and right now, he is playing like it.\n\nThe final is today. Zverev vs Alcaraz. What do you think — can Alcaraz find a way, or does Zverev complete a perfect tournament?",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-zverev-beats-medvedev-atp-finals-semifinal.html",
+        "headline": "Zverev Beats Medvedev 7-6(0), 6-4 — Into ATP Finals Final Without Dropping a Set All Tournament",
+        "word_count": 448
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Zverev Beats Medvedev 7-6(0), 6-4\n\n**Image Concept 3 (Social 1080x1350):**\n- imagn search terms: `Alexander Zverev`\n- Description: Zverev in celebration or serving at Inalpi Arena Turin\n- Posting Window: 10:30 AM ET\n\n**Image Concept 4 (Article Hero 1200x630):**\n- imagn search terms: `Daniil Medvedev`\n- Description: Medvedev in match action during the semifinal\n- Posting Window: 10:30 AM ET\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Zverev Beats Medvedev 7-6(0), 6-4\n**Facts Used:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Score: 7-6(0), 6-4 | HIGH | ATP Tour official + ANI News |\n| Tiebreak won 7-0 | HIGH | ATP Tour (ANI News: \"7:6 (7:0)\") |\n| Zverev 5-0 in tournament, 0 sets dropped | HIGH | ATP Tour results (every match in straight sets) |\n| Medvedev H2H lead 14-8 over Zverev entering match | MEDIUM | Previously noted in Nov 21 pipeline |\n| Zverev year-end No. 1 | HIGH | ATP Tour year-end rankings confirmation |\n| Venue/date: Inalpi Arena, Sat Nov 21 night | HIGH | ATP Tour |\n**Sources:**\n- ATP Tour: \"Alexander Zverev downs Daniil Medvedev, sets Nitto ATP Finals title clash with Carlos Alcaraz\" — https://www.atptour.com/en/news/zverev-medvedev-nitto-atp-finals-2026-saturday\n- ANI News — https://www.aninews.in/news/sports/tennis/atp-finals-2026-zverev-beats-medvedev-to-set-up-title-clash-with-alcaraz20261122041958/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Alexander Zverev downs Daniil Medvedev, sets Nitto ATP Finals title clash with Carlos Alcaraz",
+          "url": "https://www.atptour.com/en/news/zverev-medvedev-nitto-atp-finals-2026-saturday",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "ATP Tour"
+        },
+        {
+          "name": "ANI News",
+          "url": "https://www.aninews.in/news/sports/tennis/atp-finals-2026-zverev-beats-medvedev-to-set-up-title-clash-with-alcaraz20261122041958/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Alcaraz vs Zverev — The 2026 ATP Finals Final (3:00 PM CET)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Alcaraz vs Zverev. ATP Finals final. Today. 3:00 PM CET. Alcaraz seeking his first title here. Zverev seeking his third (2018, 2021). One of them makes history this afternoon. #ATPFinals #Tennis #ATP #ATPFinals2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#ATPFinals2026"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "The 2026 Nitto ATP Finals final is today. Alcaraz vs Zverev. 3:00 PM CET at the Inalpi Arena in Turin.\n\nIt is the matchup tennis wanted. The year-end No. 1 against the sport's most dynamic player. Two different styles, two different stories to this week. Zverev has not dropped a set in five matches — a metronomic perfection. Alcaraz came from a set down to beat Shelton, managing a thigh issue throughout.\n\nThe head-to-head stands at 7-6 to Alcaraz overall, though Zverev holds the edge on hard courts. Their last meeting was the 2026 Australian Open semifinal — Alcaraz won in five sets. Finals are different. Surface matters. Big servers tend to do well at year-end championships, and Zverev's serve has been the best in the tournament this week.\n\nWhat history is at stake: Alcaraz can become the first Spanish ATP Finals champion since Álex Corretja in 1998. Zverev can win his third title, joining a group of eight all-time greats who have done the same.\n\nOne final. Two stories. Who takes it?",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-03-alcaraz-zverev-atp-finals-final-preview.html",
+        "headline": "Alcaraz vs Zverev: Everything You Need to Know About Today's ATP Finals Final",
+        "word_count": 441
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ATP Finals Final Preview\n\n**Image Concept 5 (Social 1080x1350):**\n- imagn search terms: `Carlos Alcaraz`\n- Description: Alcaraz in match play — dynamic action shot\n- Posting Window: 10:30 AM ET\n\n**Image Concept 6 (Social 1080x1350):**\n- imagn search terms: `Alexander Zverev`\n- Description: Zverev serving or in concentration — focused shot\n- Posting Window: 10:30 AM ET\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ATP Finals Final Preview\n**Facts Used:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Final at Inalpi Arena, not before 3:00 PM CET | HIGH | ATP Tour final preview |\n| Zverev previous titles: 2018, 2021 | HIGH | ATP Tour historical records |\n| Alcaraz seeking first ATP Finals title | HIGH | ATP Tour biographical |\n| Last Spanish ATP Finals champion: Álex Corretja 1998 | HIGH | ATP Tour Final Preview + Italy.news |\n| H2H Alcaraz leads 7-6 overall | MEDIUM | Multiple sources (verify before article publication) |\n| H2H Zverev leads 5-4 on hard courts | MEDIUM | Single source (Italia.news) — treat as MEDIUM |\n| Most recent meeting: 2026 Australian Open SF, Alcaraz won 5 sets | HIGH | ATP Tour + multiple sources |\n**Sources:**\n- ATP Tour Final Preview — https://www.atptour.com/en/news/nitto-atp-finals-2026-final-preview\n- Italy.news: \"ATP Finals in Turin: Alcaraz faces Zverev in the final\" — https://italien.news/en/sport/tennis/atp-finals-turin-alcaraz-zverev-final-2026/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "ATP Tour Final Preview",
+          "url": "https://www.atptour.com/en/news/nitto-atp-finals-2026-final-preview",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "ATP Finals in Turin: Alcaraz faces Zverev in the final",
+          "url": "https://italien.news/en/sport/tennis/atp-finals-turin-alcaraz-zverev-final-2026/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Italy.news"
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "What an Alcaraz Title Would Mean — First ATP Finals Crown, First Spanish Champion Since Corretja",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "If Alcaraz wins today, he becomes the first Spanish ATP Finals champion since Álex Corretja in 1998. 28 years. He has won Wimbledon twice, Roland Garros, the US Open. This is the last piece. #ATPFinals #Tennis #ATP #Alcaraz",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Alcaraz"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "Carlos Alcaraz has won almost everything.\n\nTwo Wimbledon titles. Roland Garros. The US Open. At 23, he has a Grand Slam on every surface that holds one. But the ATP Finals — the year-end championship for the eight best players in the world — has never been his.\n\nUntil today, he had never even played in the final. The tournament structure has worked against him, the draw has not been kind, and injury has ended runs before they began. Now he is here, with a 13-match winning streak, managing a thigh concern, and facing the most in-form player of the week in Alexander Zverev.\n\nIf he wins, he completes a career sweep of the sport's biggest titles. He also becomes the first Spanish champion at the ATP Finals since Álex Corretja lifted the trophy in 1998 — 28 years ago.\n\nThat is what today is about for Alcaraz. History. The last piece.\n\nDo you think he can do it?",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-04-alcaraz-title-stakes-first-spanish-champion.html",
+        "headline": "First ATP Finals Title, First Spanish Champion in 28 Years: What Alcaraz Is Playing For Today",
+        "word_count": 454
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alcaraz Title Stakes\n\n**Image Concept 7 (Social 1080x1350):**\n- imagn search terms: `Carlos Alcaraz`\n- Description: Alcaraz close-up expression — focused or emotional\n- Posting Window: 12:30 PM ET\n\n**Image Concept 8 (Social 1080x1350):**\n- imagn search terms: `Carlos Alcaraz`\n- Description: Alcaraz pumping fist or celebrating in Turin\n- Posting Window: 12:30 PM ET\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alcaraz Title Stakes\n**Facts Used:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Alcaraz has won Wimbledon x2, US Open, French Open | HIGH | Known career record |\n| Alcaraz never played ATP Finals final before 2026 | HIGH | ATP Tour |\n| Last Spanish ATP Finals champion: Álex Corretja 1998 | HIGH | ATP Tour Final Preview |\n| 28 years gap 1998 to 2026 | HIGH | Calculated: 2026 - 1998 = 28 |\n| Alcaraz winning streak: 13 matches entering final | HIGH | ATP Tour |\n**Sources:**\n- ATP Tour Final Preview — https://www.atptour.com/en/news/nitto-atp-finals-2026-final-preview\n- ANI News — https://www.aninews.in/news/sports/tennis/atp-finals-2026-zverev-beats-medvedev-to-set-up-title-clash-with-alcaraz20261122041958/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "ATP Tour Final Preview",
+          "url": "https://www.atptour.com/en/news/nitto-atp-finals-2026-final-preview",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "ANI News",
+          "url": "https://www.aninews.in/news/sports/tennis/atp-finals-2026-zverev-beats-medvedev-to-set-up-title-clash-with-alcaraz20261122041958/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Zverev's Third Title Bid — World No. 1, Five Wins, No Sets Dropped",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Zverev is year-end No. 1. He hasn't dropped a set all week. If he wins today, he joins 7 others who have won the ATP Finals three or more times. The final starts in a few hours. #ATPFinals #Tennis #ATP #Zverev",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPFinals",
+            "#Tennis",
+            "#ATP",
+            "#Zverev"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "Alexander Zverev was already having a career-best year before this week. He finished as year-end world No. 1 for the first time in his career. Now he is in the ATP Finals final without dropping a set, with a chance to win the tournament for the third time.\n\nThe list of players who have won the ATP Finals three or more times is short. Ivan Lendl. Pete Sampras. Roger Federer. Novak Djokovic. Jimmy Connors. Ilie Nastase. John McEnroe. Lleyton Hewitt. Zverev already has two titles — 2018 and 2021. A third today would put him in that company.\n\nHe has looked the part all week. His serve is functioning at the highest level. His foot movement is sharp. The ankle that caused concern before the tournament has not cost him a single set, let alone a match.\n\nThe challenge is Alcaraz, who leads their head-to-head 7-6 and won their last meeting in a five-set Australian Open semifinal earlier this year. But hard-court finals often favor the big server, and Zverev's ball has been the best in Turin.\n\nCan he finish it?",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-zverev-third-title-bid-atp-finals-2026.html",
+        "headline": "World No. 1, Five Wins, No Sets Dropped: What a Third ATP Finals Title Would Mean for Zverev",
+        "word_count": 470
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Zverev Third Title Bid\n\n**Image Concept 9 (Social 1080x1350):**\n- imagn search terms: `Alexander Zverev`\n- Description: Zverev in power serve motion or celebratory gesture\n- Posting Window: 3:00 PM ET\n\n**Image Concept 10 (Social 1080x1350):**\n- imagn search terms: `Alexander Zverev`\n- Description: Zverev looking up or composed between points\n- Posting Window: 3:00 PM ET"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Zverev Third Title Stakes\n**Facts Used:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Zverev previous titles: 2018, 2021 | HIGH | ATP Tour historical records |\n| Year-end world No. 1 | HIGH | ATP Tour year-end rankings |\n| Three-time ATP Finals winners are rare (8 players total) | HIGH | ATP Tour Final Preview reference |\n| Djokovic, Federer, Lendl, Connors among three-time+ winners | HIGH | Historical ATP Finals records |\n| 2025 champion was Jannik Sinner | HIGH | Wikipedia 2025 ATP Finals |\n**Sources:**\n- ATP Tour Final Preview — https://www.atptour.com/en/news/nitto-atp-finals-2026-final-preview\n- Wikipedia: 2026 ATP Finals — https://en.wikipedia.org/wiki/2026_ATP_Finals",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "ATP Tour Final Preview",
+          "url": "https://www.atptour.com/en/news/nitto-atp-finals-2026-final-preview",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "2026 ATP Finals",
+          "url": "https://en.wikipedia.org/wiki/2026_ATP_Finals",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Wikipedia"
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
