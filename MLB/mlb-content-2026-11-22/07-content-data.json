@@ -1,0 +1,481 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-22",
+  "compiled_at": "2026-11-22T10:21:52.639883+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Dodgers Land Royce Lewis — Former No. 1 Pick Joins LA in Trade With Twins",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Dodgers just acquired Royce Lewis from the Twins.\n\nThe 2017 No. 1 overall pick (.227/.287/.380, 15 HR, 16 SB in 2026) heads to LA for Bobby Miller and a catching prospect.\n\nMinnesota also cut Larnach and Ober — slashing $18.3M in payroll. Full rebuild mode. #Dodgers #Twins",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#Twins"
+          ],
+          "char_count": 277
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Dodgers get Royce Lewis. Twins get Bobby Miller.\n\nLA adds a right-handed infield bat through 2028 at an affordable arb cost. Minnesota slashes payroll and starts a youth movement.\n\nThe interesting subtext: Dodgers redirecting resources instead of chasing Skubal? #Dodgers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "The Los Angeles Dodgers made a significant move before the lockout hits — they traded for Royce Lewis, the 2017 No. 1 overall pick, from the Minnesota Twins.\n\nThe deal: Dodgers get Lewis. Twins get pitcher Bobby Miller and 19-year-old catching prospect Francisco Espinoza. Minnesota also non-tendered outfielder Trevor Larnach and starter Bailey Ober on the same day — total payroll reduction of approximately $18.3 million. The Twins are clearly in rebuild mode.\n\nFor Los Angeles, Lewis fills a real need. The Dodgers needed a right-handed infield bat to replace the retired Miguel Rojas. Lewis can play first base, second base, and cover multiple positions — exactly the utility profile LA was looking for. He's under club control through 2028 at an affordable arbitration cost, meaning the Dodgers get two-plus years of a former top pick without the nine-figure investment.\n\nLewis had his best season in 2026, appearing in a career-high 125 games and hitting .227/.287/.380 with 15 home runs and 16 stolen bases. Those aren't elite numbers, but for a utility/depth infielder with upside on a team already loaded with offensive weapons, they're more than adequate.\n\nThe bigger question is what this means for Tarik Skubal. The Dodgers were reportedly in the mix for the two-time Cy Young winner. Trading for Lewis instead of staying at the Skubal negotiating table suggests LA may be content redirecting their resources elsewhere — and that's very good news for the Mets.",
+        "image_caption": "The Dodgers get Royce Lewis. The Twins cut payroll and start a rebuild. And the Mets' odds of landing Tarik Skubal just got a little better.\n\nFormer No. 1 pick heads to LA. #Dodgers #Twins",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-dodgers-acquire-royce-lewis-twins-trade-analysis.html",
+        "headline": "Dodgers Acquire Royce Lewis From Twins: What the Deal Means for Both Clubs",
+        "word_count": 511
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dodgers Acquire Royce Lewis\n\n#### Image 1 — Social (1080x1350)\n**Type:** imagn\n**Search Terms:** Royce Lewis Minnesota Twins\n**Caption Text Overlay:** \"Royce Lewis · Now a Dodger\"\n**Status:** not_started\n\n#### Image 2 — Social (1080x1350)\n**Type:** imagn\n**Search Terms:** Bobby Miller Los Angeles Dodgers\n**Caption Text Overlay:** \"Dodgers Trade Bobby Miller · Twins Rebuild Begins\"\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/mlb/story/_/id/50544410/sources-dodgers-acquire-royce-lewis-trade-twins",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "mlb.com",
+          "url": "https://www.mlb.com/news/royce-lewis-traded-from-twins-to-dodgers",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "MLB.com"
+        },
+        {
+          "name": "ABC7 LA",
+          "url": "https://abc7.com/post/sources-dodgers-acquire-royce-lewis-trade-twins/20061047/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/royce-lewis-dodgers-175252470.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Bleacher Report",
+          "url": "https://bleacherreport.com/articles/25535791-royce-lewis-traded-dodgers-twins-mlb-rumors-reveal-details-deal-former-no-1-pick",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yardbarker",
+          "url": "https://www.yardbarker.com/mlb/articles/dodgers_and_twins_swap_reclamation_projects_royce_lewis_traded_for_bobby_miller/s1_17194_44598135",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Skubal's $400 Million Offer Is on the Table — 9 Days Left Before the Lockout",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Mets put a formal offer on the table for Tarik Skubal: 9 years, ~$400 million.\n\nThat's $44M AAV — shattering Yamamoto's $27M record.\n\nDodgers just traded for Royce Lewis. ESPN's Olney says Skubal ends up in Queens.\n\nThe race is effectively over. #Mets #Skubal",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Mets",
+            "#Skubal"
+          ],
+          "char_count": 263
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Skubal's market in one sentence:\n\nMets: $400M offer on the table.\nDodgers: just traded for Royce Lewis instead.\nBlue Jays: still engaged.\nDecision: after the Dec. 1 lockout.\n\nThe wait is going to be brutal. #Skubal #MLBFreeAgency",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Skubal",
+            "#MLBFreeAgency"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "It's official: the Mets have made Tarik Skubal a formal contract offer.\n\nNine years. Nearly $400 million. That's the number that MLB Network's Jim Duquette reported — a contract that would shatter every record in the history of pitching contracts. For comparison, Yoshinobu Yamamoto's deal with the Dodgers is $325 million over 12 years, an average annual value of approximately $27 million. The Mets' offer to Skubal would work out to roughly $44 million per year.\n\nThe case for why the Mets do it: Skubal is a 29-year-old two-time American League Cy Young Award winner who is entering what should be the peak years of his career. The Mets have deep pockets, need an ace, and have already spent nine figures on players in recent offseasons. Giving Skubal $400 million is a commitment to winning now.\n\nThe case for why it might not happen (or might happen later): the CBA expires in nine days. With no agreement in sight, a lockout is essentially certain. Skubal is not expected to sign before that happens, which means the negotiations get frozen along with everything else in baseball.\n\nESPN's Buster Olney has gone on record saying he believes Skubal ends up with the Mets. With the Dodgers now trading for Royce Lewis instead of pursuing Skubal, the field appears to be thinning. The Blue Jays remain in the mix. But right now, $400 million from New York is on the table — and it's the biggest offer in pitcher history.",
+        "image_caption": "Mets on Skubal: 9 years, ~$400M. That's $44M per year — the largest pitching contract in baseball history.\n\nDodgers just traded for Royce Lewis instead. The Mets may be close to getting their man. #Mets #Skubal",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-02-skubal-400m-mets-offer-9-days-lockout.html",
+        "headline": "Mets Put $400 Million Offer on Table for Skubal — But the Lockout Stands in the Way",
+        "word_count": 480
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Skubal $400M Offer\n\n#### Image 3 — Social (1080x1350)\n**Type:** imagn\n**Search Terms:** Tarik Skubal Detroit Tigers\n**Caption Text Overlay:** \"Mets Offer: 9 Years · $400M · Record Pitching Deal\"\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "Yahoo Sports (live updates)",
+          "url": "https://sports.yahoo.com/mlb/live/mlb-free-agency-news-live-updates-tarik-skubal-remains-a-hefty-prize-400m-dodgers-acquire-royce-lewis-from-twins-002844518.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "TSN/MLB Network (Duquette)",
+          "url": "https://www.tsn.ca/mlb/article/report-mets-make-record-offer-to-free-agent-skubal/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Bleacher Report (Skubal rumors)",
+          "url": "https://bleacherreport.com/articles/25535773-new-tarik-skubal-rumors-former-gm-talks-mets-initial-contract-offer-amid-dodgers-blue-jays-buzz",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "SI/Dodgers",
+          "url": "https://www.si.com/mlb/dodgers/onsi/tarik-skubal-first-offer-mets-bad-news-dodgers",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yahoo Sports (escalation)",
+          "url": "https://sports.yahoo.com/articles/tarik-skubals-free-agency-escalates-224110642.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "9 Days to the Freeze — What the Dec. 2 Lockout Means for Every Free Agent",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "9 days until the MLB lockout.\n\nDec. 1 at 11:59 PM — the CBA expires.\nDec. 2 at 12:01 AM — all transactions freeze.\n\nNo signings. No trades. No Skubal. No Chisholm. No Arozarena.\n\nThe last lockout lasted 99 days. The 2027 season may be on the line. #MLB #CBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#CBA"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "You have nine days to watch free agency move in real time. After that, everything freezes.\n\nThe MLB collective bargaining agreement expires at 11:59 PM Eastern on December 1. At 12:01 AM on December 2, owners are expected to impose a lockout — halting all transactions across baseball. No signings. No trades. No waiver claims. No arbitration negotiations. No team-player communication.\n\nHere's what that means for the biggest names still on the market:\n\nTarik Skubal has a $400 million offer from the Mets but is not expected to sign before Dec. 1. His negotiation gets frozen until a new CBA is agreed.\n\nJazz Chisholm Jr. has 11 teams engaged and in-person meetings scheduled this week. If the Blue Jays or any other team wants to close before the freeze, they have nine days.\n\nRandy Arozarena's market has stalled over his $100 million-plus asking price. He'll either take a deal in the next nine days or wait out the lockout and hope his market improves in spring.\n\nTeruaki Sato is the one wild card: NPB posting agreements sit outside the CBA framework, so he can technically be signed even during a lockout — but his window closes December 16 regardless.\n\nThe last lockout ran 99 days, ending March 10, 2022, and cost some regular season games. With owners pushing for a salary cap and the players' union categorically refusing, there's no bridge in sight. The 2027 season isn't in danger yet — but the December 2 date is as close to certain as anything in baseball.",
+        "image_caption": "9 days. CBA expires Dec. 1. Lockout hits Dec. 2. Everything freezes.\n\nSkubal, Chisholm, Arozarena — all go into limbo. The last one lasted 99 days. #MLB #CBALockout",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-mlb-lockout-9-days-what-freezes-december-2.html",
+        "headline": "9 Days to the Freeze: What the December 2 MLB Lockout Means for Every Free Agent",
+        "word_count": 516
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "9 Days to Lockout\n\n#### Image 4 — Social (1080x1350)\n**Type:** imagn\n**Search Terms:** MLB baseball Commissioner Rob Manfred\n**Caption Text Overlay:** \"Dec. 1 · CBA Expires · Lockout Hits Dec. 2\"\n**Status:** not_started\n\n#### Image 5 — Social (1080x1350)\n**Type:** imagn\n**Search Terms:** empty baseball stadium field\n**Caption Text Overlay:** \"9 Days · Then Everything Freezes\"\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "Yahoo Sports (lockout FAQ)",
+          "url": "https://sports.yahoo.com/articles/mlb-lockout-countdown-where-owners-113046629.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "ESPN (CBA FAQ)",
+          "url": "https://www.espn.com/mlb/story/_/id/50370123/lockout-salary-cap-cba-labor-battle-faq",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "CBS Sports",
+          "url": "https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "World Today News",
+          "url": "https://www.world-today-news.com/mlb-faces-potential-lockout-as-salary-cap-dispute-threatens-2027-season-planning/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "MLB.com (Manfred)",
+          "url": "https://www.mlb.com/news/commissioner-rob-manfred-discusses-salary-cap-and-floor-proposals",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Fox News",
+          "url": "https://www.foxnews.com/sports/inside-mlb-cba-negotiations-manfred-players-union-exec-discuss-issues-sides-attempt-save-2027-season",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Giants Hot Stove: Logan Webb Available and Freddy Peralta Enters Play",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Two big Giants Hot Stove items:\n\n1. San Francisco is open to trading Logan Webb (Cubs interested)\n2. The Giants are pursuing Freddy Peralta (no QO cost — teams keep draft picks)\n\nA Webb trade + Peralta signing tells a very interesting organizational story. #SFGiants #MLBRumors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SFGiants",
+            "#MLBRumors"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "The San Francisco Giants are shaping up to be one of the most interesting teams to watch in the final nine days before the lockout.\n\nAccording to FanSided's Robert Murray, the Giants are open to listening to trade offers for right-hander Logan Webb. Webb is under a five-year, $90 million extension through 2028, which makes him controllable and affordable — exactly what trade market buyers want. The Cubs have reportedly expressed interest, and they're not alone.\n\nAt the same time, the Giants are pursuing Freddy Peralta on the free agent market. Peralta is a right-hander who posted strong numbers before his midseason trade from Milwaukee to Tampa Bay last year. Because that trade happened mid-season, he was ineligible for a qualifying offer — meaning any team that signs him keeps its draft picks entirely.\n\nHere's the logic of a Giants move that includes both: if San Francisco signs Peralta, he slots in behind Logan Webb as the No. 2 starter. That, paradoxically, makes Webb more tradeable — San Francisco's rotation is deeper, so they can absorb dealing away an asset. A team like the Cubs, who need a frontline starter, might be willing to give up real value for a pitcher of Webb's caliber.\n\nNothing has been finalized. There are conflicting reports about how serious the Giants are about moving Webb — one source says they're open to offers, another says they're not. What's clear is that San Francisco is active, and with nine days before the lockout freezes everything, things could move fast.",
+        "image_caption": "Giants Hot Stove: open to trading Logan Webb (Cubs interested), AND pursuing Freddy Peralta as a free agent.\n\n9 days to get it done before the lockout freeze. #SFGiants #MLB",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-04-giants-logan-webb-trade-freddy-peralta-hot-stove.html",
+        "headline": "Giants Hot Stove: Logan Webb Available and Freddy Peralta in Play Before the Freeze",
+        "word_count": 553
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Giants Hot Stove\n\n#### Image 6 — Social (1080x1350)\n**Type:** imagn\n**Search Terms:** Logan Webb San Francisco Giants\n**Caption Text Overlay:** \"Logan Webb Available? · Giants Hot Stove Heats Up\"\n**Status:** not_started\n\n#### Image 7 — Social (1080x1350)\n**Type:** imagn\n**Search Terms:** Freddy Peralta Milwaukee Brewers\n**Caption Text Overlay:** \"Freddy Peralta · Giants Pursuing Free Agent Starter\"\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "FanSided (Robert Murray)",
+          "url": "https://fansided.com/mlb/mlb-insider-on-freddy-peralta-texts-and-what-it-ll-take-to-trade-for-ketel-marte-01m7tmzmmbsp",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "MLB.com (Nov 21 Hot Stove)",
+          "url": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-21",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "CBS Sports (Peralta)",
+          "url": "https://cbssports.com/mlb/news/mlb-rumors-freddy-peralta-hiromi-itoh-mark-vientos-mets-cubs-white-sox",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Bleacher Nation (Cubs/Webb)",
+          "url": "https://bleachernation.com/cubs/2026/11/21/logan-webb-cubs-giants",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yahoo Sports (Webb rumors)",
+          "url": "https://sports.yahoo.com/articles/giants-reportedly-open-trading-90-212245712.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Jazz Chisholm's Market Heats Up — Blue Jays Frontrunner, Meetings Begin",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Jazz Chisholm Jr. update: 11 teams engaged, in-person meetings starting this week.\n\nBlue Jays are the frontrunner per Davidi/Sportsnet.\nYankees are out.\nNo QO = no draft pick cost for whoever signs him.\n\n9 days to get it done before the lockout. #BlueJays #Chisholm #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BlueJays",
+            "#Chisholm",
+            "#MLB"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "Jazz Chisholm Jr.'s free agency is heating up — and the clock is ticking.\n\nMLB Network's Jon Morosi reported that 11 teams have engaged with Chisholm's representatives, and in-person meetings are scheduled to begin this week. The Toronto Blue Jays are the frontrunner, according to Shi Davidi of Sportsnet, who reports that Toronto envisions Chisholm at second base alongside shortstop Ernie Clement in a super-utility defensive alignment. The Yankees, who Chisholm played for in 2026, are out of the running.\n\nFor the team that signs him, Chisholm comes without draft pick cost — he either didn't receive or declined a qualifying offer, meaning the signing team faces no compensation penalty. That matters because it lowers the bar for mid-market teams who want to add an impact bat without sacrificing draft capital.\n\nChisholm hit .231/.312/.399 in 2026 with 19 home runs and 41 stolen bases. The slash line isn't elite, but the combination of power and speed — and the ability to play multiple positions at a high level — makes him one of the more interesting pieces on the market.\n\nThe urgency here is real: nine days until the CBA expires and all transactions freeze. Any team that wants Chisholm before the lockout needs to close in the next week. The Blue Jays say they want to be aggressive. We'll find out soon enough whether that's true.",
+        "image_caption": "Jazz Chisholm: 11 teams engaged, Blue Jays frontrunner, meetings starting this week.\n\nNo QO = no draft pick cost. 9 days to get a deal done before the Dec. 2 lockout. #BlueJays #Chisholm",
+        "posting_time": "10:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-jazz-chisholm-blue-jays-frontrunner-11-teams.html",
+        "headline": "Jazz Chisholm's Market Heats Up: Blue Jays Frontrunner as 11 Teams Circle the Former Yankee",
+        "word_count": 488
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jazz Chisholm Jr.\n\n#### Image 8 — Social (1080x1350)\n**Type:** imagn\n**Search Terms:** Jazz Chisholm New York Yankees\n**Caption Text Overlay:** \"11 Teams Engaged · Blue Jays Frontrunner · 9 Days Left\"\n**Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "Yahoo Sports (broad interest)",
+          "url": "https://sports.yahoo.com/articles/mlb-rumors-jazz-chisholm-jr-184840985.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "MLB.com Hot Stove (Nov 12)",
+          "url": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-12",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Clutch Points",
+          "url": "https://clutchpoints.com/mlb/mlb-stories/mlb-rumors-jazz-chisholm-jr-free-agency-broad-interest-update",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yahoo/Blue Jays update",
+          "url": "https://sports.yahoo.com/articles/blue-jays-receive-free-agency-072044428.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Sportskeeda",
+          "url": "https://www.sportskeeda.com/baseball/news-jazz-chisholm-jr-free-agency-mlb-insider-drops-major-update-ex-yankees-free-agent",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

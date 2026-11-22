@@ -5,6 +5,66 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## November 22, 2026
+
+### Story 1: Dodgers Acquire Royce Lewis — Former No. 1 Pick Joins LA
+- **Date:** 2026-11-22
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Dodgers traded for Lewis (2017 No. 1 pick, .227/.287/.380 15HR 16SB 125G) from Twins for Bobby Miller + Francisco Espinoza. Twins also cut Larnach/Ober — $18.3M payroll reduction. Rebuild signal from Minnesota. Dodgers redirecting resources instead of chasing Skubal.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Lewis's 2027 role/production
+  - Twins rebuild prospects
+  - Dodgers' final Skubal decision
+
+### Story 2: Skubal's $400M Offer Is on the Table
+- **Date:** 2026-11-22
+- **Tier:** 1
+- **Classification:** FOLLOW UP (escalation since Nov. 20)
+- **Angle:** Mets made formal offer: 9yr/~$400M ($44M AAV) — would shatter Yamamoto's $27M AAV record. Skubal not expected to sign before Dec. 1 lockout. Olney: "ends up in Queens." Dodgers acquiring Lewis signals they're out.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Skubal signing announcement (after lockout)
+  - Record contract details
+  - Rotation outlook for Mets/whoever signs him
+
+### Story 3: 9 Days to the Lockout Freeze
+- **Date:** 2026-11-22
+- **Tier:** 1
+- **Classification:** FOLLOW UP (CBA countdown)
+- **Angle:** Dec. 1 CBA expiration (9 days), lockout Dec. 2. All transactions freeze. Fan FAQ on what gets frozen — Skubal, Chisholm, Arozarena all in limbo. Sato NPB exception. 99-day 2021 precedent. 2027 season at risk.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Lockout begins Dec. 2
+  - Signings before the freeze
+  - New CBA timeline
+
+### Story 4: Giants Hot Stove — Logan Webb + Freddy Peralta
+- **Date:** 2026-11-22
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Giants open to Webb trade offers (FanSided/Murray, Nov 21). Cubs interested. Giants also pursuing Peralta (no QO). Logic: sign Peralta → Webb becomes more tradeable. 9 days before lockout.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Webb trade completion
+  - Peralta signing
+  - Giants rotation construction
+
+### Story 5: Jazz Chisholm — Blue Jays Frontrunner, 11 Teams Engaged
+- **Date:** 2026-11-22
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Chisholm not covered Nov. 20; previous coverage Nov. 17-19)
+- **Angle:** Morosi: 11 teams engaged, in-person meetings starting this week. Blue Jays frontrunner per Davidi. Toronto vision: Chisholm 2B + Clement super-utility. Yankees out. No QO = no draft pick cost. 2026: .231/.312/.399 19HR 41SB. 9-day deadline.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Chisholm signing announcement
+  - Blue Jays infield construction
+  - Market update if deal reaches lockout
+
+
+---
+
 ## November 20, 2026
 
 ### Story 1: Skubal Watch — Mets Still Favored, Decision Expected Within Days
