@@ -1341,3 +1341,79 @@
 - **Key facts:** Lakers win 106-104; NBA Cup West group stage; Lakers stay alive for knockout round
 - **Byline:** Marcus Cole
 - **Status:** NEW
+
+---
+
+## 2026-11-22
+
+### STORY 1: Wembanyama 50 Points, 19 Rebounds — Spurs Roll Pelicans 114-91
+- **Tier:** 1
+- **Category:** San Antonio Spurs / New Orleans Pelicans / Victor Wembanyama
+- **Key facts:** Wemby 50 pts (20-29 FG, 5-11 3P, 5-6 FT), 19 reb, 5 blk, 4 stl; 32 pts 1H; +35 on floor; Pelicans missing Zion; Fears 29, Poole 25; "stat padding" postgame comment
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Tyler Herro Career-High 50 — Bucks Lose 13th Straight, Fall to 76ers
+- **Tier:** 1
+- **Category:** Milwaukee Bucks / Philadelphia 76ers / Tyler Herro / LeBron James
+- **Key facts:** Herro 50 pts (15-23 FG, 7-12 3PT, 13-13 FT), 11 reb, 7 ast; Bucks 13-game skid; 76ers 132-129; Embiid 26/17; LeBron 21 (13 Q4); Herro 1st player ever with 50+/11+reb/7+3s/65%+; 7th Buck with 50+ pts ever; previous high 41 (Dec 2022 vs Rockets with Miami)
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Keegan Murray Putback Ends Kings' 8-Game Skid
+- **Tier:** 1
+- **Category:** Sacramento Kings / Boston Celtics / Keegan Murray
+- **Key facts:** Murray putback over 3 defenders with 5 seconds left; Kings 97-96; Sacramento's first home win of season; ended 8-game losing streak
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: Bridges Buzzer-Beater Lifts Knicks Past Trail Blazers
+- **Tier:** 2
+- **Category:** New York Knicks / Portland Trail Blazers / Mikel Bridges / Jalen Brunson
+- **Key facts:** Brunson 30 pts; Bridges hits winning 3 at buzzer; Knicks 97-96 on the road
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: Mavericks 110, Clippers 100 — Flagg and Irving Late Run
+- **Tier:** 2
+- **Category:** Dallas Mavericks / Los Angeles Clippers / Cooper Flagg / Kyrie Irving
+- **Key facts:** Irving 25 pts; Flagg 22 pts, 8 reb, 6 ast; Dallas 11-0 late run to close out LA
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+## 2026-11-22
+
+### STORY 1: Wembanyama 50 Points, 19 Rebounds — Spurs Roll Pelicans 114-91
+- **Tier:** 1
+- **Category:** San Antonio Spurs / New Orleans Pelicans / Victor Wembanyama
+- **Key facts:** Wemby 50 pts (20-29 FG, 5-11 3P, 5-6 FT), 19 reb, 5 blk, 4 stl; 32 pts 1H; +35 on floor; Pelicans missing Zion; Fears 29, Poole 25
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Tyler Herro Career-High 50 — Bucks Lose 13th Straight, 76ers Win 132-129
+- **Tier:** 1
+- **Category:** Milwaukee Bucks / Philadelphia 76ers / Tyler Herro / LeBron James
+- **Key facts:** Herro 50 pts (15-23 FG, 7-12 3PT, 13-13 FT), 11 reb, 7 ast; Bucks 13-game skid; Embiid 26/17; LeBron 21 (13 Q4); Herro 1st in NBA history with 50+/11+reb/7+3s/65%+; 7th Buck with 50+ pts
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Keegan Murray Putback Ends Kings' 8-Game Skid, Stuns Celtics 97-96
+- **Tier:** 1
+- **Category:** Sacramento Kings / Boston Celtics / Keegan Murray
+- **Key facts:** Murray putback over 3 defenders with 5 seconds left; Kings' first home win of season; ended 8-game losing streak
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: Bridges Buzzer-Beater Lifts Knicks Past Trail Blazers 97-96
+- **Tier:** 2
+- **Category:** New York Knicks / Portland Trail Blazers / Mikel Bridges / Jalen Brunson
+- **Key facts:** Brunson 30 pts; Bridges hits winning 3 at buzzer; Knicks 97-96 on the road
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: Mavericks 110, Clippers 100 — Flagg 22/8/6, Irving 25, 11-0 Late Run
+- **Tier:** 2
+- **Category:** Dallas Mavericks / Los Angeles Clippers / Cooper Flagg / Kyrie Irving
+- **Key facts:** Irving 25 pts; Flagg 22 pts, 8 reb, 6 ast; Dallas 11-0 late run
+- **Byline:** Marcus Cole
+- **Status:** NEW
