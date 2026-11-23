@@ -1,6 +1,36 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-11-22
+## Current Run: 2026-11-23
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Alcaraz beats Zverev 6-2, 7-6(9-7) in ATP Finals final (Turin); 3 set points saved; 5-0 campaign, zero sets dropped; first Spanish champion since Corretja 1998; $5,171,000; "means the world to me" — HIGH from Al Jazeera, ATP Tour, Sky Sports, TennisWatcher, Xinhua; Alcaraz 4th with career GS + ATP Finals (Agassi 1999, Federer 2003, Djokovic 2015) — HIGH; Zverev year-end No. 1 (Roland Garros + US Open, clinched Oct 12) — HIGH; Sinner Wimbledon win (beat Zverev final), US Open withdrawal Aug 21, season over Oct 6, 2027 AO target — HIGH; Davis Cup Finals 8 teams, Bologna Nov 24-29, Italy seeking 4th consecutive title — MEDIUM |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Nov 22 S3: ATP Finals Final preview → result); S2 FOLLOW-UP (Nov 22 S4: Alcaraz title stakes → historic season review); S3 NEW (Davis Cup Finals preview); S4 NEW (ATP year-end rankings); S5 FOLLOW-UP (Sinner end-of-season review) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Elena Voss [S1,S4], Ryan Calloway [S2,S5], Marcus Cole [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; all key claims verified multi-source |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories (2 each for S1+S2, 1 each for S3-S5); all ≤280 chars (4 violations fixed: S2 300→shortened, S3 298→compact, S4 311→shortened, S5 304→shortened) |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories; player-name-only search terms |
+| Articles (5) | COMPLETE | article-01 Alcaraz wins ATP Finals (Elena Voss T1 ~530w); article-02 Alcaraz 2026 historic season (Ryan Calloway T1 ~560w); article-03 Davis Cup Finals preview (Marcus Cole T2 ~520w); article-04 ATP year-end rankings (Elena Voss T2 ~510w); article-05 Sinner 2026 season review (Ryan Calloway T2 ~530w); article-02 corrected: removed incorrect Federer/Djokovic age claims |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 51 claims; char count violations resolved; image warnings (expected, all not_started) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 5 images; posting window warnings (pre-existing format) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-11-23.xlsx (7 posts) + tfr-postplanner-tobi-2026-11-23.xlsx (7 TOBI posts); FB=0 in export (pre-existing format mismatch) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 23 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB image captions
+- **Articles:** 5 (bylines: Elena Voss [S1,S4], Ryan Calloway [S2,S5], Marcus Cole [S3])
+- **Key stories:** Alcaraz wins ATP Finals 6-2 7-6(9-7) (3 set points saved, first Spanish champion since 1998, $5.17M); Alcaraz 2026 historic season (career Grand Slam at 22, ATP Finals, 4th man with both titles); Davis Cup Finals preview Bologna Nov 24-29 (Italy seeks 4th consecutive); Zverev year-end No. 1 (Roland Garros + US Open); Sinner 2026 review (Wimbledon, knee injury, 2027 AO target)
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); PostPlanner FB=0 (pre-existing format mismatch)
+
+---
+
+## Previous Run: 2026-11-22
 
 | Step | Status | Notes |
 |------|--------|-------|

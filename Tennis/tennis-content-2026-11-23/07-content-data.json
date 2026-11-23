@@ -1,0 +1,504 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-23",
+  "compiled_at": "2026-11-23T12:20:35.081675+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Alcaraz Wins ATP Finals — Beats Zverev 6-2, 7-6(9-7)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "ALCARAZ WINS THE ATP FINALS. 🏆\n\n6-2, 7-6(9-7) over Zverev.\n\nThree set points down in the tiebreak. Saved them all.\n\nMatch point at 9-7 — backhand down the line.\n\nFirst Spanish champion at the ATP Finals since Corretja in 1998.\n\n#TennisFanrecap #NittoATPFinals #Alcaraz",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#NittoATPFinals",
+            "#Alcaraz"
+          ],
+          "char_count": 268
+        },
+        {
+          "label": "Post 1-2",
+          "text": "28 years.\n\nThat is how long Spain waited for an ATP Finals champion.\n\nCorretja 1998 → Alcaraz 2026.\n\n5-0 for the week. Perfect campaign. $5.17M. First title. 🎾\n\nHe said it \"means the world.\" After that tiebreak, we believe him.\n\n#TennisFanrecap #NittoATPFinals #AlcarazChampion",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#NittoATPFinals",
+            "#AlcarazChampion"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "Carlos Alcaraz is the 2026 ATP Finals champion.\n\nThe 23-year-old Spaniard beat world No. 1 Alexander Zverev 6-2, 7-6(9-7) on Sunday in Turin to win his first title at the season-ending event. The first set was dominant — Alcaraz broke early and never looked back, winning 6-2 in a statement opening salvo against the year's best player.\n\nThe second set was something else. Zverev found his level, the match tightened, and they went to a tiebreak. Zverev led 6-3 and had three consecutive set points. Alcaraz saved every single one. Then, at 9-7, he found a backhand down the line on match point — a shot that required both precision and nerve — and collapsed to the court.\n\nHe finished the week 5-0, dropping zero sets across five matches. He is the first Spanish champion at the ATP Finals since Alex Corretja won the title in 1998, ending a 28-year wait. His prize: $5,171,000, a record for the event. His post-match quote summed it up: \"This one means the world to me, to my team, to my family.\"\n\nWhat set points? Three saved. One trophy lifted. This is why we watch tennis.\n\nWhat was your favorite moment from Alcaraz's week in Turin?",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-alcaraz-wins-2026-atp-finals-title.html",
+        "headline": "Alcaraz Wins First ATP Finals Title, Beats Zverev in Tiebreak Thriller",
+        "word_count": 646
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alcaraz Wins ATP Finals\n\n**Social Image (1080x1350, 4:5 vertical)**\n\n**Visual Description:** Alcaraz celebrating after winning the ATP Finals — arms raised, face expressing pure joy, ideally with the Turin indoor court in the background.\n\n**Photo Search Terms (Imagn):**\n1. \"Carlos Alcaraz\"\n2. \"Carlos Alcaraz trophy\"\n3. \"Carlos Alcaraz celebration\"\n4. \"Carlos Alcaraz Turin\"\n5. \"Carlos Alcaraz champion\"\n\n**Text Overlay Copy:**\n- Headline: ALCARAZ — ATP FINALS CHAMPION\n- Subtitle: 6-2, 7-6(9-7) | Turin 2026\n- Headline color: #FFFFFF (white)\n- Subtitle color: #FFD700 (gold)\n- Bar: Semi-transparent dark overlay, bottom third\n\n**Composition Notes:** Tight on Alcaraz's face/upper body for maximum impact. Vertical composition preferred. Leave bottom third clear for text overlay.\n\n---\n\n**Article Hero (1200x630, landscape)**\n\n**Photo Search Terms (Imagn):**\n1. \"Carlos Alcaraz\"\n2. \"Carlos Alcaraz trophy\"\n\n**Text Overlay:** None (featured image, clean)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "Alcaraz storms past world number one Zverev to win maiden ATP Finals title",
+          "url": "https://www.aljazeera.com/sports/2026/11/23/carlos-alcaraz-atp-finals-2026-title-alexander-zverev-tennis",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Al Jazeera (Nov 23, 2026)"
+        },
+        {
+          "name": "BREAKING: Alcaraz beats Zverev to win the ATP Finals for the first time",
+          "url": "https://www.tennismajors.com/atp/nitto-atp-finals-atp/breaking-news-alcaraz-beats-zverev-to-win-the-atp-finals-for-the-first-time-867706.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Tennis Majors (Nov 23, 2026)"
+        },
+        {
+          "name": "Carlos Alcaraz beats world No 1 Alexander Zverev in blockbuster final to claim title for first time",
+          "url": "https://www.skysports.com/tennis/news/13615397/atp-finals-carlos-alcaraz-beats-world-no-1-alexander-zverev-in-blockbuster-final-to-claim-title-for-first-time",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Sky Sports (Nov 23, 2026)"
+        },
+        {
+          "name": "Alcaraz defeats Zverev in straight sets and wins 2026 ATP Finals",
+          "url": "https://www.tenniswatcher.com/en/news/alcaraz-defeats-zverev-in-straight-sets-and-wins-2026-atp-finals",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "TennisWatcher (Nov 23, 2026)"
+        },
+        {
+          "name": "Alcaraz beats Zverev to claim maiden ATP Finals title",
+          "url": "https://english.news.cn/20261123/7b4aa387e7364a1a91070a656add3451/c.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Xinhua (Nov 23, 2026)"
+        },
+        {
+          "name": "Carlos Alcaraz on Nitto ATP Finals title: 'This one is special'",
+          "url": "https://www.atptour.com/en/news/alcaraz-nitto-atp-finals-2026-reaction-sunday-final",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "ATP Tour (Nov 23, 2026)"
+        },
+        {
+          "name": "'It means world to me': Carlos Alcaraz reflects on amazing week after ATP Finals triumph",
+          "url": "https://www.tribuneindia.com/news/sports/it-means-world-to-me-carlos-alcaraz-reflects-on-amazing-week-after-atp-finals-triumph",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Tribune India (Nov 23, 2026)"
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Alcaraz's Historic 2026 Season: Career Grand Slam + ATP Finals Complete",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Carlos Alcaraz in 2026:\n\n✅ Australian Open — youngest career Grand Slam (22, 272 days)\n✅ ATP Finals — first title\n\nThe FOURTH man to hold the career Grand Slam and the ATP Finals.\n\nAgassi. Federer. Djokovic. Alcaraz. 🔥\n\n#TennisFanrecap #Alcaraz #NittoATPFinals",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#Alcaraz",
+            "#NittoATPFinals"
+          ],
+          "char_count": 260
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Federer and Djokovic completed the career Grand Slam in their late 20s.\n\nAlcaraz just did it at 22.\n\nAnd he has now also added the ATP Finals.\n\nWe are watching something generational. 🎾\n\n#TennisFanrecap #Alcaraz #TennisHistory",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#Alcaraz",
+            "#TennisHistory"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "Take a moment to appreciate what Carlos Alcaraz accomplished in 2026.\n\nHe began the year with one missing piece on a resume that already included the French Open, Wimbledon, and the US Open. The Australian Open — the one title he had never won — was the final piece of the career Grand Slam puzzle. In January, he went to Melbourne and beat Novak Djokovic in the final. At 22 years and 272 days old, he became the youngest man in history to complete the career Grand Slam.\n\nThen on Sunday, Alcaraz added the ATP Finals trophy to that collection.\n\nHe is now the fourth man in the Open Era to hold the career Grand Slam and the season-ending championship at the same time. The others: Andre Agassi in 1999, Roger Federer in 2003, and Novak Djokovic in 2015. That list has not grown for 11 years, until now. His 2026 season finished: six titles, 47 wins, five losses, and arguably the two most significant milestones a tennis player can achieve in one calendar year.\n\nFederer and Djokovic — both legends who took the sport to heights most players can only dream about — completed the career Grand Slam in their late 20s. Alcaraz did it at 22, with years and years still to come.\n\nWe are very likely watching the greatest tennis player of his generation — and there are years still to run.\n\nDoes this 2026 season make Alcaraz the frontrunner for the GOAT conversation when his career is done?",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-alcaraz-2026-historic-season-career-grand-slam-atp-finals.html",
+        "headline": "The 2026 Season That Rewrote Tennis History: Alcaraz's Complete Year",
+        "word_count": 613
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alcaraz 2026 Season Historic Achievement\n\n**Social Image (1080x1350, 4:5 vertical)**\n\n**Visual Description:** Alcaraz holding the ATP Finals trophy OR a photo from the Australian Open win earlier this year — either trophy moment works. Ideally the most recent ATP Finals win.\n\n**Photo Search Terms (Imagn):**\n1. \"Carlos Alcaraz\"\n2. \"Carlos Alcaraz trophy\"\n3. \"Carlos Alcaraz Australian Open\"\n4. \"Carlos Alcaraz champion\"\n5. \"Carlos Alcaraz Zverev\"\n\n**Text Overlay Copy:**\n- Headline: THE CAREER GRAND SLAM + ATP FINALS\n- Subtitle: Alcaraz Joins Agassi, Federer, Djokovic\n- Headline color: #FFFFFF (white)\n- Subtitle color: #FFD700 (gold)\n\n**Composition Notes:** Trophy in frame if possible. Celebratory image with upward-reaching or arms-raised pose.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "Carlos Alcaraz becomes youngest man to complete a career Grand Slam",
+          "url": "https://wtop.com/world/2026/02/carlos-alcaraz-becomes-youngest-man-to-complete-a-career-grand-slam-is-a-calendar-slam-next/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "WTOP/SI (Feb 2026)"
+        },
+        {
+          "name": "Carlos Alcaraz seven Grand Slam titles at 22",
+          "url": "https://www.skysports.com/tennis/news/12110/13501868/carlos-alcaraz-seven-grand-slam-titles-at-22",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Sky Sports (Feb 2026)"
+        },
+        {
+          "name": "Alcaraz joins an elite club by adding ATP Finals trophy to his career Grand Slam",
+          "url": "https://www.washingtonpost.com/sports/tennis/2026/11/22/carlos-alcaraz-alexander-zverev-atp-finals/6f7992f0-e68c-11f1-8db0-6f1e3c389e7c_story.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Washington Post (Nov 22, 2026)"
+        },
+        {
+          "name": "Alcaraz Wins ATP Finals 2026 — Career Grand Slam Plus Finals",
+          "url": "https://www.globaltennisnews.com/atp-finals-2026-alcaraz-champion-zverev-career-grand-slam/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Global Tennis News (Nov 23, 2026)"
+        },
+        {
+          "name": "2026 Carlos Alcaraz tennis season",
+          "url": "https://en.wikipedia.org/wiki/2026_Carlos_Alcaraz_tennis_season",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Davis Cup Finals Preview — Bologna Starts Tuesday, Nov 24",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Davis Cup Final 8 starts TOMORROW in Bologna. 🇮🇹\n\nCzechia vs Canada | Italy vs Korea\nGreat Britain vs Germany | Austria vs Spain\n\nItaly goes for FOUR straight titles on home soil.\n\nZverev leads Germany. Final is Sunday Nov 29.\n\n#TennisFanrecap #DavisCup2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#DavisCup2026"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "The ATP Finals ended Sunday. The Davis Cup Finals begin Tuesday.\n\nThe Final 8 opens in Bologna, Italy on November 24, and it runs through Sunday, November 29. Eight nations, four quarterfinals, two semi-finals, one final — and Italy is trying to win a fourth consecutive Davis Cup title on its own soil.\n\nThe quarterfinal draw sets up some fascinating matchups. Great Britain faces Germany in what could be the tie of the round — Alexander Zverev, fresh off his ATP Finals campaign, will anchor the German team. Spain, with Carlos Alcaraz available if he recovers from Sunday's efforts, faces Austria. Italy takes on South Korea and Czechia meets Canada in the other two quarterfinals.\n\nItaly won the Davis Cup in 2023, 2024, and 2025, and no nation has won four consecutive titles in the modern era of the event. They have the home crowd, the depth, and the experience. But a Spain team with Alcaraz at full fitness would be the clearest challenger.\n\nThis is team tennis at its most compelling — where individual rivalries give way to national pride, and where anything can happen in a best-of-three tie format.\n\nWhich team do you think ends Italy's run this year?",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-davis-cup-finals-2026-bologna-preview.html",
+        "headline": "Davis Cup Final 8 Bologna Preview: Can Italy Make It Four in a Row?",
+        "word_count": 608
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Davis Cup Finals Preview\n\n**Social Image (1080x1350, 4:5 vertical)**\n\n**Visual Description:** Alexander Zverev in German Davis Cup kit OR a team Davis Cup action shot OR a graphic-style image of the event.\n\n**Photo Search Terms (Imagn):**\n1. \"Alexander Zverev Germany\"\n2. \"Alexander Zverev Davis Cup\"\n3. \"Carlos Alcaraz Spain\"\n4. \"Davis Cup\"\n5. \"Alexander Zverev\"\n\n**Text Overlay Copy:**\n- Headline: DAVIS CUP FINAL 8\n- Subtitle: Bologna | Nov 24-29 | Italy Goes for Four\n- Headline color: #FFFFFF (white)\n- Subtitle color: #FFD700 (gold)\n\n**Composition Notes:** Player in action or competitive pose. Davis Cup colors (green/yellow) if possible, otherwise dark court background works.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "Great Britain draw Germany in quarter-final",
+          "url": "https://www.lta.org.uk/fan-zone/davis-cup/news/2026/great-britain-draw-germany-in-quarter-final/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "LTA.org.uk"
+        },
+        {
+          "name": "Davis Cup Final 8 Set: Bologna Field Confirmed",
+          "url": "https://www.tennisnerd.net/?p=69415",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "TennisNerd (Sep 2026)"
+        },
+        {
+          "name": "2026 Davis Cup Qualifiers Second Round Recap",
+          "url": "https://tennistourcalendar.com/2026-davis-cup-qualifiers-second-round-recap/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "TennisTourCalendar (2026)"
+        },
+        {
+          "name": "Davis Cup Final 8 2026: All you need to know about the Bologna event",
+          "url": "https://www.flashscore.com/news/tennis-davis-cup-world-group-teams-men-davis-cup-finals-2026-all-you-need-to-know-about-the-bologna-event/p4lvqhw0/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Flashscore (2026)"
+        },
+        {
+          "name": "Davis Cup Final 8 2026: the complete guide to the eight teams",
+          "url": "https://tennisuptodate.com/atp/davis-cup-final-8-2026-the-complete-guide-to-the-eight-teams-heading-to-bologna",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "TennisUpToDate (2026)"
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "ATP Year-End Rankings: Zverev Locks No. 1, Alcaraz Surges",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "2026 ATP year-end rankings drop today.\n\nAlexander Zverev: year-end No. 1.\n\nRoland Garros. US Open. Clinched No. 1 in October.\n\nHe still lost the ATP Finals to Alcaraz.\n\nThat is how good this season was for BOTH of them. 🎾\n\n#TennisFanrecap #ATPRankings #Zverev",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ATPRankings",
+            "#Zverev"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "Today, November 23, the official 2026 ATP year-end rankings are released — and the picture at the top tells the story of an extraordinary season.\n\nAlexander Zverev ends 2026 as world No. 1 for the first time in his career. He won Roland Garros. He won the US Open. He clinched the top ranking mathematically on October 12, long before the ATP Finals in Turin. It is a career milestone for one of the sport's most talented players, who spent years on the doorstep of this achievement before finally breaking through in 2026.\n\nBut the rankings story does not end there. Carlos Alcaraz, unbeaten across five matches this week, picked up 1,500 ranking points as ATP Finals champion — a significant boost that reshuffles the final standings. Jannik Sinner, who had led the race through mid-season, missed the second half of the year after a right knee injury ended his season in October. He still managed to win Wimbledon before the injury took hold.\n\nThree players. Three extraordinary arcs: Zverev finally at No. 1, Alcaraz adding more historic milestones, Sinner missing what could have been a third-title season. The 2027 Australian Open can't come soon enough.\n\nWhat do you think — was this Zverev's best season, or did losing the ATP Finals final leave the story incomplete?",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-atp-year-end-rankings-2026-zverev-no-1-alcaraz-surges.html",
+        "headline": "2026 ATP Year-End Rankings: Zverev No. 1, Alcaraz Surges After Finals Win",
+        "word_count": 619
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ATP Year-End Rankings\n\n**Social Image (1080x1350, 4:5 vertical)**\n\n**Visual Description:** Alexander Zverev holding the year-end No. 1 trophy or a strong tennis action shot from his best 2026 performance.\n\n**Photo Search Terms (Imagn):**\n1. \"Alexander Zverev\"\n2. \"Alexander Zverev trophy\"\n3. \"Alexander Zverev ATP\"\n4. \"Alexander Zverev No. 1\"\n5. \"Alexander Zverev serve\"\n\n**Text Overlay Copy:**\n- Headline: ZVEREV — YEAR-END No. 1\n- Subtitle: 2026 ATP Rankings | Historic Season\n- Headline color: #FFFFFF (white)\n- Subtitle color: #FFD700 (gold)\n\n**Composition Notes:** Strong competitive image showing Zverev at his best. Celebratory or focused/determined expression.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "Alexander Zverev clinches 2026 ATP Year-End No. 1 Ranking",
+          "url": "https://www.atptour.com/en/news/alexander-zverev-clinches-year-end-no-1-2026",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "ATP Tour (Oct 12, 2026)"
+        },
+        {
+          "name": "Zverev clinches year-end No. 1 ranking after Alcaraz loss and with Sinner out injured",
+          "url": "https://www.nbcsports.com/tennis/news/zverev-clinches-year-end-no-1-ranking-after-alcaraz-loss-and-with-sinner-out-injured",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "NBC Sports (Oct 12, 2026)"
+        },
+        {
+          "name": "Alexander Zverev Clinches 2026 ATP Year-End No. 1 Ranking",
+          "url": "https://www.tennisnerd.net/?p=69973",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "TennisNerd (2026)"
+        },
+        {
+          "name": "Alcaraz ends year as world No. 1 as he achieves a record",
+          "url": "https://bolavip.com/en/amp/tennis/alcaraz-ends-year-as-world-no-1-as-he-achieves-a-record-that-federer-nadal-and-djokovic-couldnt-reach",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "BolaNova"
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Sinner's 2026 Season in Review — Knee Forces Exit, 2027 Return Targeted",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Jannik Sinner's 2026 season:\n\n🏆 Wimbledon champion (beat Zverev in the final)\n🤕 Knee injury ends year in October\n\nHe missed the US Open and the ATP Finals.\n\nTargeting the 2027 Australian Open for his return.\n\nThe rivalry restarts in Melbourne. 🎾\n\n#TennisFanrecap #Sinner #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#Sinner",
+            "#ATPTour"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "Jannik Sinner's 2026 season ended the way no one wanted — sitting on the sidelines, watching his rivals compete for a title he had won the year before.\n\nSinner began 2026 as the defending ATP Finals champion and world No. 1. He had every reason to believe 2026 could be even better than 2025. And for a while, it was. In July, he won Wimbledon, defeating Alexander Zverev in the final to claim another Grand Slam title. At that point, he led the year-end race.\n\nThen the knee started acting up. What had been a manageable issue through the summer became impossible to ignore. He withdrew from the US Open in August, and on October 6, he confirmed what many had feared: his season was over. Conservative treatment — no surgery — was the plan. The target for his return is the 2027 Australian Open in January.\n\nFor all the disappointment of the ending, Sinner still won Wimbledon this year. He still led the world rankings for months. And when the Alcaraz-Sinner rivalry resumes in Melbourne, it will pick up from exactly where it left off: two of the best players on the planet, with everything still to be settled.\n\nIf Sinner is fully fit in January, who is the favorite for the 2027 Australian Open — him, Alcaraz, or Zverev?",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-sinner-2026-season-review-knee-injury-wimbledon-return.html",
+        "headline": "Wimbledon Champion, Then Gone: Jannik Sinner's 2026 Season in Review",
+        "word_count": 603
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sinner 2026 Season Review\n\n**Social Image (1080x1350, 4:5 vertical)**\n\n**Visual Description:** Jannik Sinner lifting the Wimbledon trophy or celebrating a big win — the contrast between triumph and injury makes the image hit harder.\n\n**Photo Search Terms (Imagn):**\n1. \"Jannik Sinner\"\n2. \"Jannik Sinner Wimbledon\"\n3. \"Jannik Sinner trophy\"\n4. \"Jannik Sinner champion\"\n5. \"Jannik Sinner ATP\"\n\n**Text Overlay Copy:**\n- Headline: SINNER'S 2026: WIMBLEDON TO RECOVERY\n- Subtitle: Knee Injury Ends Season | Targets Melbourne 2027\n- Headline color: #FFFFFF (white)\n- Subtitle color: #FFD700 (gold)\n\n**Composition Notes:** Trophy moment if available from Wimbledon 2026. Upbeat tone — the injury is part of the story but the dominant image should be the triumph."
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "Jannik Sinner to miss US Open tennis major due to knee injury",
+          "url": "https://www.aljazeera.com/news/2026/8/21/jannik-sinner-tennis-skip-us-open-2026-knee-injury",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Al Jazeera (Aug 21, 2026)"
+        },
+        {
+          "name": "Tennis-Sinner to miss rest of 2026 to recover from knee injury",
+          "url": "https://www.ksl.com/article/51632863/tennis-sinner-to-miss-rest-of-2026-to-recover-from-knee-injury",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "KSL/AP (Oct 6, 2026)"
+        },
+        {
+          "name": "Jannik Sinner to miss the rest of the year due to knee inflammation",
+          "url": "https://www.ctvnews.ca/sports/article/jannik-sinner-to-miss-the-rest-of-the-year-due-to-knee-inflammation/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "CTV News (Oct 6, 2026)"
+        },
+        {
+          "name": "Sinner 2026 injury announcement",
+          "url": "https://www.atptour.com/en/news/sinner-2026-injury-announcement-october",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "ATP Tour (Oct 6, 2026)"
+        },
+        {
+          "name": "Jannik Sinner handed fresh injury update as world No 1 faces anxious wait over comeback",
+          "url": "https://www.tennis365.com/atp-tour/jannik-sinner-fresh-injury-update-world-no-1-anxious-wait-comeback",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Tennis365"
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

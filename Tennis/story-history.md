@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## November 23, 2026
+
+| 2026-11-23 | Alcaraz wins 2026 ATP Finals — beats Zverev 6-2, 7-6(9-7) in Turin; three set points saved in second-set tiebreak; first Spanish champion since Corretja 1998 (28 years); 5-0 campaign, zero sets dropped; $5,171,000 prize; "means the world to me." Sources: Al Jazeera, ATP Tour, Sky Sports, TennisWatcher, Xinhua | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 22 S3: ATP Finals Final preview → result) |
+| 2026-11-23 | Alcaraz 2026 historic season — career Grand Slam at 22y272d (beat Djokovic 2-6 6-2 6-3 7-5 AO final); ATP Finals title added; 4th man with career GS + ATP Finals (Agassi 1999, Federer 2003, Djokovic 2015); 47-5 record, 6 titles. Sources: Multiple confirmed sources | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Nov 22 S4: Alcaraz title stakes → historic season review) |
+| 2026-11-23 | Davis Cup Finals 2026 preview — Final 8 starts Bologna Nov 24; Italy seeks 4th consecutive title; QFs: Czechia vs Canada, Italy vs South Korea, Great Britain vs Germany, Austria vs Spain; Final Nov 29. Sources: ATP Tour, Davis Cup official | T2 | X, FB, Article | Marcus Cole |
+| 2026-11-23 | ATP Year-End Rankings 2026 — Zverev clinches year-end No. 1 (Roland Garros + US Open, clinched Oct 12); Alcaraz gains 1,500 ranking points as Finals champion; Sinner out since October. Sources: ATP Tour rankings | T2 | X, FB, Article | Elena Voss |
+| 2026-11-23 | Sinner 2026 season review — Won Wimbledon (beat Zverev final); knee injury forces US Open withdrawal (Aug 21); season ended Oct 6; conservative treatment (no surgery); targets 2027 Australian Open return. Sources: Al Jazeera, KSL/AP | T2 | X, FB, Article | Ryan Calloway |
+
+---
+
+
 ## November 22, 2026
 
 | 2026-11-22 | Alcaraz beats Shelton 3-6, 6-3, 7-6(1) at ATP Finals SF (Turin); came back from set down; 13-match winning streak; managing left thigh throughout; first ATP Finals final for Alcaraz; tiebreak 7-1. Sources: ATP Tour official, ANI News, Perfect Tennis Day 7 Recap | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Nov 21 S3: Alcaraz vs Shelton SF preview → result) |
