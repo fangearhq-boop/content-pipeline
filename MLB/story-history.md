@@ -5,6 +5,63 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## November 23, 2026
+
+### Story 1: Skubal Agrees to $450M Deal With Mets — Largest Pitching Contract in MLB History
+- **Date:** 2026-11-23
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Skubal $400M offer covered Nov 22; now agreed at $450M)
+- **Angle:** 9yr/$450M deal agreed pending physical. $50M AAV breaks Yamamoto record ($27M). Full no-trade clause + $45M signing bonus. Mets beat Dodgers/Padres/Blue Jays. Mets went 74-88 in 2026 — now committed to ace-first rebuild.
+- **Content Produced:** Article (article-01, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Physical completion and official announcement
+  - Mets roster construction around Skubal in 8-day window
+  - Lockout impact on Mets finishing their offseason
+
+### Story 2: 8 Days to the Freeze — The Lockout Is Coming
+- **Date:** 2026-11-23
+- **Tier:** 1
+- **Classification:** FOLLOW UP (CBA countdown covered through Nov 22)
+- **Angle:** CBA expires Dec. 1. Owners want salary cap ($258.2M/$180.2M floor). MLBPA refuses any cap. Lockout "all but guaranteed" per MLBPA exec. 2021 precedent: 99 days, ended March 10. Structural fight makes long stoppage likely.
+- **Content Produced:** Article (article-02, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Official lockout announcement Dec. 2
+  - Length of stoppage and any negotiations
+  - Impact on Skubal/Chisholm/Suzuki signings
+
+### Story 3: Jazz Chisholm Free Agency — Blue Jays and 11 Teams
+- **Date:** 2026-11-23
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Chisholm covered Nov 22)
+- **Angle:** 11 teams engaged per Morosi. Blue Jays frontrunner — Toronto ranked near bottom in SBs (75 team total; Chisholm had 41). No QO, no draft pick cost. Yankees out. 8 days before lockout.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Signing announcement before Dec. 1
+  - If unsigned: post-lockout market for Chisholm
+
+### Story 4: White Sox Bet $52.5M on Dustin May
+- **Date:** 2026-11-23
+- **Tier:** 2
+- **Classification:** FOLLOW UP (May signing announced Nov 17; now contextualized)
+- **Angle:** 3yr/$52.5M deal — largest White Sox FA investment since Benintendi (2023). Age 29, 4.12 ERA. No. 2 starter behind Sean Burke. Market-setter for mid-tier starters. White Sox still hunting more additions.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - White Sox next rotation addition before lockout
+  - May's spring performance and rotation integration
+
+### Story 5: Seiya Suzuki Tests Free Agency — $90–110M Market
+- **Date:** 2026-11-23
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Suzuki QO decline covered Nov 17)
+- **Angle:** Declined $23.15M QO Nov 17. Projected 4yr/$90–110M market. Mariners/Red Sox/Blue Jays/Phillies linked. Cubs also lose Happ+Kelly — third of lineup gone. 8 days before lockout adds urgency.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Signing announcement before Dec. 1
+  - Cubs rebuilding around departures
+  - Post-lockout market if unsigned
+
+---
+
 ## November 22, 2026
 
 ### Story 1: Dodgers Acquire Royce Lewis — Former No. 1 Pick Joins LA
