@@ -2,6 +2,50 @@
 
 ---
 
+## November 23, 2026
+
+### Story 1: SHEIN Baby Rattle and Teether Recall (Choking Hazard)
+- **Date:** 2026-11-23
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** CPSC recall announced Nov 12, 2026; ~2,657 SHEIN Baby Rattle and Teether Toy Sets; sold SHEIN.com Nov 2025–July 2026, ~$10; SKU sk25070936134444119; purple/orange knobs detach, choking hazard under-3s; no injuries; remedy: full refund, call 833-853-8668 (9 AM–6 PM).
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 2: CHE-US Magnetic Robot Toys Recall (#27-096)
+- **Date:** 2026-11-23
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** CPSC Recall #27-096 announced Nov 19, 2026; ~101,282 sets sold on Amazon Apr 2025–Aug 2026, $9–$18; sets of 5 or 10 stick figures/robots, packaging code X004N3MGCB; high-powered magnets violate mandatory toy standard; swallowing 2+ magnets → intestinal perforation, potentially fatal without emergency surgery; remedy: stop use, contact CHE-US for full refund. Second magnetic toy action this week (Nov 21: FZChenrry #27-095).
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 3: D11 Underused Campuses / Co-Location Plan
+- **Date:** 2026-11-23
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** D11 board work session Nov 18, 2026; 11 campuses meet state criteria for underuse; NO closures planned; strategy = co-location with charter schools/programs; D11 enrollment 2025-26: 23,458 (up from 22,265 in 2024-25) but 3,000+ below 2001-02 peak; elementary schools at 81% capacity, projected 73% in 10 years.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 4: AAP 2026-27 Flu Guidance
+- **Date:** 2026-11-23
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** AAP published 2026-27 influenza recommendations (Pediatrics doi: 10.1542/peds.2026-078778); annual flu vaccine recommended for all children 6 months+; 2025-26 season: 190 pediatric deaths nationally; all vaccines now trivalent (Afluria discontinued); AAP and CDC now differ on vaccine schedules; pediatricians advised to follow AAP.
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 5: Finnish Screen Time / Cognition Study
+- **Date:** 2026-11-23
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** 8-year follow-up study, 260 Finnish children (PANIC project, Univ. Jyväskylä + Eastern Finland); ScienceDaily published Nov 17, 2026; finding: more childhood screen time → better cognitive processing speed at ~age 15.8; caveat: faster responses but lower accuracy on some tasks; study did not distinguish screen content type; researcher quote: "It depends on what kind of activities children are doing on screen" — Petri Jalanko.
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+---
+
 ## November 22, 2026
 
 ### Story 1: Trouble in Toyland 2026 (PIRG Report)

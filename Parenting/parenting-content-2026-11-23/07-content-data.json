@@ -1,0 +1,446 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-23",
+  "compiled_at": "2026-11-23T12:32:06.758368+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "SHEIN Recalls ~2,657 Baby Rattle and Teether Toy Sets Over Choking Hazard",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "SHEIN Baby Rattle & Teether Sets recalled: ~2,657 sets, choking hazard for under-3s. Knobs detach. Sold on SHEIN.com ~$10. Stop use, call 833-853-8668 for a full refund.\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 229
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Holiday shopping with an infant or toddler at home? Before buying baby and toddler toys this season, check CPSC.gov. The SHEIN rattle recall is a reminder: even budget toys land on the recall list.\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-shein-baby-rattle-teether-recall-choking-hazard.html",
+        "headline": "CPSC Recalls ~2,657 SHEIN Baby Rattle and Teether Sets — Choking Hazard for Kids Under 3",
+        "word_count": 510
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "SHEIN Baby Rattle and Teether Recall\n\n**X/Twitter Image**\n- **Dimensions:** 1200x675\n- **Prompt:** Bright, clean flat-lay of colorful baby rattles and teether toys on a soft white background, overhead shot, natural daylight, pastel colors (soft yellow, pale mint, blush), gentle shadows, clean space in the bottom third for text overlay, no text or labels visible, art style: modern photography with clean minimalist aesthetic\n- **Mood:** Alert but clean, safety-focused\n- **Overlay (Canva):** \"RECALL ALERT\" / \"SHEIN Baby Rattle & Teether Sets\"\n\n**Facebook Image**\n- **Dimensions:** 1200x630\n- **Prompt:** Cozy flat-lay of assorted infant and toddler baby toys including rattles and chewing toys on a neutral beige linen surface, warm natural lighting, soft pastel color palette, slightly elevated perspective, clean open space at bottom for text, no text or brand markings, style: warm lifestyle photography\n- **Mood:** Warm but cautionary, parenting community tone\n- **Overlay (Canva):** \"RECALL ALERT\" / \"SHEIN Baby Rattle & Teether Sets\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "SHEIN Distribution Corporation Recalls Baby Rattle and Teether Toy Sets Due to Risk of Serious Injury or Death from Choking, Violate Mandatory Small Parts Ban",
+          "url": "https://www.cpsc.gov/Recalls/2027/SHEIN-Distribution-Corporation-Recalls-Baby-Rattle-and-Teether-Toy-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violate-Mandatory-Small-Parts-Ban",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md"
+          ],
+          "publisher": "CPSC"
+        },
+        {
+          "name": "| LOW | Organization | cpsc | andatory Small Parts Ban\"",
+          "url": "https://www.cpsc.gov/Recall",
+          "official": true,
+          "found_in": [
+            "06-fact-check-log.md"
+          ]
+        },
+        {
+          "name": "U.S. Consumer Product Safety Commission",
+          "url": "https://www.cpsc.gov/Recalls",
+          "official": true,
+          "found_in": [
+            "articles/article-01-shein-baby-rattle-teether-recall-choking-hazard.html"
+          ]
+        },
+        {
+          "name": "Coverage",
+          "url": "https://foodpoisoningbulletin.com/2026/shein-baby-rattle-and-teethers-recalled-for-choking-hazard/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "CHE-US Recalls 101,000+ Magnetic Robot Toy Sets Over Magnet Ingestion Risk",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "CPSC recall #27-096: 101,000+ CHE-US magnetic robot toys recalled. High-powered magnets — swallowing two can require emergency surgery. Sold on Amazon at $9–$18. Stop use, contact CHE-US for a refund.\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#27",
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 260
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Two magnetic toy CPSC actions in one week. FZChenrry fidget balls Wednesday, CHE-US robot sets today. If you've bought magnetic toy sets from Amazon in the past 18 months, it's worth a check at CPSC.gov.\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-che-us-magnetic-robot-toys-recall-magnet-ingestion.html",
+        "headline": "CPSC Recalls 101,000+ CHE-US Magnetic Robot Toys — Swallowing Two Magnets Can Be Fatal",
+        "word_count": 635
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CHE-US Magnetic Robot Toys Recall\n\n**X/Twitter Image**\n- **Dimensions:** 1200x675\n- **Prompt:** Small colorful magnetic stick figure toy components arranged on a bright white surface, overhead flat-lay, clean graphic composition, bold primary colors (red, blue, yellow), no text or labels, clean lower third for overlay, art style: clean product photography with graphic feel\n- **Mood:** Warning, attention-grabbing\n- **Overlay (Canva):** \"RECALL ALERT\" / \"101,000+ Magnetic Robot Toy Sets\"\n\n**Facebook Image**\n- **Dimensions:** 1200x630\n- **Prompt:** Colorful magnetic toy components scattered on a light wood surface, natural overhead lighting, primary color scheme, negative space at bottom, no logos or text visible, art style: lifestyle photography with flat-lay composition\n- **Mood:** Alerting, parenting safety tone\n- **Overlay (Canva):** \"CPSC Recall #27-096\" / \"CHE-US Magnetic Robot Toys\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "CPSC recall",
+          "url": "https://cpsc.gov/Recalls/2027/CHE-US-Recalls-Magnetic-Robot-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md"
+          ]
+        },
+        {
+          "name": "CPSC warning (related CHE-US stick figures variant)",
+          "url": "https://www.cpsc.gov/Warnings/2027/CPSC-Warns-Consumers-to-Stop-Using-CHE-US-Magnetic-Stick-Figures-Immediately-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md"
+          ]
+        },
+        {
+          "name": "- CPSC recall",
+          "url": "https://cpsc.gov/Recalls",
+          "official": true,
+          "found_in": [
+            "06-fact-check-log.md",
+            "articles/article-02-che-us-magnetic-robot-toys-recall-magnet-ingestion.html"
+          ],
+          "publisher": "| LOW | Organization | cpsc | v. Sources"
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "D11 Reviews 11 Underused Campuses — District Says No Closures, Just Co-Location",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "D11 board Nov 18: 11 campuses flagged as underused by state criteria. No closures planned — co-location is the strategy. Elementary schools at 81% capacity now, projected to drop to 73% in 10 years.\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-d11-underused-campuses-colocation-plan-2026.html",
+        "headline": "D11 Flags 11 Underused Schools — But the District Says No Closures Are Coming",
+        "word_count": 588
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Underused Schools\n\n**X/Twitter Image**\n- **Dimensions:** 1200x675\n- **Prompt:** Exterior of a modern American elementary school building on a crisp autumn day, blue sky, trees with fall foliage, clean architectural lines, no people visible, warm golden morning light, clean open space at the bottom of the image, no text or signage, art style: architectural photography, sharp and clear\n- **Mood:** Informational, calm, community-focused\n- **Overlay (Canva):** \"D11 SCHOOLS UPDATE\" / \"11 Campuses Flagged as Underused\"\n\n**Facebook Image**\n- **Dimensions:** 1200x630\n- **Prompt:** Wide angle exterior of a classic Colorado elementary school building in autumn, red brick facade, yellow and orange trees, blue Colorado sky, warm afternoon light, empty parking lot, clean lower third, no text or signs, art style: editorial documentary photography\n- **Mood:** Community, local news\n- **Overlay (Canva):** \"D11 ENROLLMENT UPDATE\" / \"No Closures — Co-Location Strategy\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "Colorado Springs School District 11",
+          "url": "https://www.d11.org",
+          "official": true,
+          "found_in": [
+            "articles/article-03-d11-underused-campuses-colocation-plan-2026.html"
+          ]
+        },
+        {
+          "name": "krdo.com",
+          "url": "https://krdo.com/news/2026/11/18/d11-board-discusses-school-capacity/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md"
+          ]
+        },
+        {
+          "name": "krdo.com",
+          "url": "https://krdo.com/news/2026/11/19/d11-enrollment-school-capacity/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md"
+          ]
+        },
+        {
+          "name": "gazette.com",
+          "url": "https://gazette.com/2026/11/18/district-11-board-reviews-current-enrollment-building-capacity/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md"
+          ]
+        },
+        {
+          "name": "| MEDIUM | School District | d11 | s",
+          "url": "https://krdo.com/news/2026/11/18/d11-board-discu",
+          "official": false,
+          "found_in": [
+            "06-fact-check-log.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "AAP Issues 2026-27 Flu Guidance — Annual Flu Shot Still Recommended for All Kids 6 Months+",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "AAP 2026-27 flu guidance: annual shot recommended for all kids 6 months+. Last season, 190 pediatric flu deaths nationally. Not too late to schedule yours before Thanksgiving travel week.\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-aap-flu-vaccine-guidance-2026-27-kids.html",
+        "headline": "AAP 2026-27 Flu Guidance: Annual Vaccine Still Recommended for All Kids 6 Months+",
+        "word_count": 506
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AAP 2026-27 Flu Guidance\n\n**X/Twitter Image**\n- **Dimensions:** 1200x675\n- **Prompt:** Clean close-up of a small bandage on a child's arm with a cheerful colorful design, soft focus background in blue and white clinic colors, warm natural light, no text or branding, clean lower third for text overlay, art style: warm lifestyle photography with shallow depth of field\n- **Mood:** Reassuring, health-positive\n- **Overlay (Canva):** \"FLU SHOT SEASON\" / \"AAP 2026-27 Guidance for Kids\"\n\n**Facebook Image**\n- **Dimensions:** 1200x630\n- **Prompt:** Cozy close-up of a parent's hand gently holding a small child's hand in a warm clinic waiting room, soft blurred background in pale blue and white, warm gentle light, no text or signage, clean open space at bottom, art style: warm lifestyle documentary photography\n- **Mood:** Nurturing, health-positive, community care\n- **Overlay (Canva):** \"FLU SEASON IS HERE\" / \"Annual Vaccine Recommended for Kids 6 Months+\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "American Academy of Pediatrics (HealthyChildren.org)",
+          "url": "https://www.healthychildren.org/English/news/Pages/aap-",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md"
+          ]
+        },
+        {
+          "name": "American Academy of Pediatrics",
+          "url": "https://www.aap.org/en/news-room/news-releases/aap/2026/american-academy-of-pediatrics-issues-recommendations-for-influenza-prevention-and-control-for-2026-27/",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md"
+          ]
+        },
+        {
+          "name": "American Academy of Pediatrics",
+          "url": "https://publications.aap.org/pediatrics/article/doi/10.1542/peds.2026-078778/208572/",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md"
+          ]
+        },
+        {
+          "name": "American Academy of Pediatrics (HealthyChildren.org)",
+          "url": "https://www.healthychildren.org",
+          "official": true,
+          "found_in": [
+            "articles/article-04-aap-flu-vaccine-guidance-2026-27-kids.html"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "New Research: More Screen Time in Childhood Linked to Better Cognitive Processing in Teens",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "New Finnish study: more screen time in childhood linked to faster cognitive processing in teens. But there's a catch — faster responses, lower accuracy. And content type matters more than hours.\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-screen-time-cognition-study-finland-2026.html",
+        "headline": "New Study: More Screen Time in Childhood Linked to Faster Teen Cognition — With an Important Catch",
+        "word_count": 586
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Screen Time / Cognition Study\n\n**X/Twitter Image**\n- **Dimensions:** 1200x675\n- **Prompt:** A child sitting at a table with a tablet, seen from the side, natural window light from the left, cozy home setting with warm tones, wooden table, soft focus background, the child's face not visible or turned away, clean lower third, no text on screens or in background, art style: warm editorial family photography\n- **Mood:** Thoughtful, inquisitive, balanced\n- **Overlay (Canva):** \"SCREEN TIME RESEARCH\" / \"What 8 Years of Data Found\"\n\n**Facebook Image**\n- **Dimensions:** 1200x630\n- **Prompt:** Warm lifestyle photo of a child engaged with a tablet on a cozy couch, afternoon light coming through a window, soft warm tones, shallow depth of field, no text visible on the screen, the child's expression engaged and focused, clean space at the bottom for text, art style: warm documentary family photography\n- **Mood:** Warm, relatable, thought-provoking\n- **Overlay (Canva):** \"NEW RESEARCH\" / \"Screen Time and Kids' Cognition — The Full Picture\""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "American Academy of Pediatrics (HealthyChildren.org)",
+          "url": "https://www.healthychildren.org",
+          "official": true,
+          "found_in": [
+            "articles/article-05-screen-time-cognition-study-finland-2026.html"
+          ]
+        },
+        {
+          "name": "sciencedaily.com",
+          "url": "https://sciencedaily.com/releases/2026/11/261116014725.htm",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md"
+          ]
+        },
+        {
+          "name": "jyu.fi",
+          "url": "https://www.jyu.fi/en/news/more-screen-time-since-childhood-associated-with-better-cognitive-processing-in-adolescence",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md",
+            "00-daily-brief.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

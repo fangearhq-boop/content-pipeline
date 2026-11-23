@@ -1,6 +1,36 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-11-22
+## Current Run: 2026-11-23
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | SHEIN Baby Rattle/Teether Recall (Nov 12, ~2,657 sets, choking under-3s, SKU sk25070936134444119, 833-853-8668 for refund) — HIGH from cpsc.gov + foodpoisoningbulletin. CHE-US magnetic robot toys Recall #27-096 (Nov 19, ~101,282 sets, Amazon Apr 2025–Aug 2026, $9–$18, packaging X004N3MGCB, magnet ingestion fatal risk) — HIGH from cpsc.gov. D11 11 underused campuses (Nov 18 board session, co-location not closures, 23,458 students 2025-26, 81% capacity → 73% in 10y) — HIGH from krdo.com + gazette.com. AAP 2026-27 flu guidance (all kids 6 mo+, 190 pediatric deaths 2025-26, trivalent only, Afluria discontinued, AAP vs CDC divergence) — HIGH from healthychildren.org + aap.org + publications.aap.org. Finnish screen time study (Nov 17, 8-year follow-up 260 children, more screen time → better processing speed but lower accuracy, content type matters) — HIGH from sciencedaily.com + jyu.fi. |
+| Story History Check | COMPLETE | S1 NEW (SHEIN rattle recall — distinct from Nov 22 Qpancy pajamas, Nov 21 FZChenrry/Kidsview); S2 NEW (CHE-US #27-096 — distinct from Nov 21 FZChenrry #27-095 warning, different product/seller); S3 NEW (D11 underused campuses — first coverage of Nov 18 board session); S4 NEW (AAP flu guidance 2026-27 — distinct from Nov 22 AAP AI guidance for pediatricians); S5 NEW (Finnish screen time study — first coverage) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH confidence for all 5 stories; official cpsc.gov URLs for S1/S2; official aap.org/healthychildren.org/publications.aap.org for S4; university sources for S5 |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows (8 AM, 10 AM, 12 PM, 3 PM, 5 PM); fixed to ### STORY N: format for script parsing |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories (2 for S1+S2, 1 for S3-S5); all ≤280 chars; 4 hashtags each; S1 tweet #1 trimmed from 290 to 232 chars |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; contractions; 0 exclamation marks; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only concepts (2 per story); clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 SHEIN rattle recall (Jamie Rivera T1 ~620w, quick reference table); article-02 CHE-US magnetic robot recall (Sarah Morales T1 ~650w, quick reference table); article-03 D11 underused campuses (Jamie Rivera T2 ~600w); article-04 AAP flu 2026-27 (Sarah Morales T2 ~570w); article-05 Finnish screen time study (Jamie Rivera T2 ~610w) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 63 claims; all stories present; image manifest warnings (cosmetic, pre-existing) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (pre-existing format mismatch), 5 articles, 5 images; 5/5 stories with official source URLs |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-11-23.xlsx (7 posts) + cosp-postplanner-tobi-2026-11-23.xlsx (7 TOBI posts); FB=0 in export (pre-existing format mismatch) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 23 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB image captions
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **Key stories:** SHEIN Baby Rattle/Teether recall (Nov 12, ~2,657 sets, choking hazard under-3s, full refund); CHE-US magnetic robot toys recall #27-096 (Nov 19, ~101K sets, Amazon, fatal magnet ingestion risk, 2nd magnetic toy action this week); D11 11 underused campuses (no closures, co-location strategy, 81% capacity); AAP 2026-27 flu guidance (190 pediatric deaths last season, all kids 6 mo+, AAP/CDC divergence); Finnish screen time study (more time → faster processing but lower accuracy, content type matters)
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); PostPlanner FB=0 (pre-existing format mismatch)
+
+---
+
+## Previous Run: 2026-11-22
 
 | Step | Status | Notes |
 |------|--------|-------|
