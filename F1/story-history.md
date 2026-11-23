@@ -1021,3 +1021,40 @@
 - **Key facts:** Reports from ~Nov 20; some staff say they won't travel; no teams named; developing story
 - **Byline:** Marcus Cole
 - **Status:** NEW
+
+## 2026-11-23
+
+### STORY 1: Qatar GP Weekend Guide — No Sprint, Three Practices, Race Sunday Nov 29
+- **Tier:** 2
+- **Category:** Qatar Grand Prix / Lusail Circuit / F1 2026
+- **Key facts:** Race Nov 29; FP1/FP2 Nov 27, FP3/Qualifying Nov 28; NO sprint race; 57 laps; 5.4km; 16 turns; floodlit; lap record 1:23.196
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: Hamilton's P2 Hunt — Three Points Behind Russell/Norris, 58 Available
+- **Tier:** 2
+- **Category:** 2026 F1 Season / Lewis Hamilton / George Russell / Lando Norris / Championship
+- **Key facts:** Hamilton 267 (3rd); Russell 264 (4th); Norris 264 (4th); 58 pts available Qatar+Abu Dhabi; Hamilton leapfrogged Russell post-Las Vegas
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: McLaren vs. Red Bull — Constructors Title Fight, 9 Points Apart
+- **Tier:** 2
+- **Category:** 2026 F1 Season / McLaren / Red Bull / Constructors Championship
+- **Key facts:** Red Bull 440 pts (3rd); McLaren 431 pts (4th); 9-point gap; prize money implications; 2 races left
+- **Byline:** Elena Voss
+- **Status:** NEW
+
+### STORY 4: Câmara's Dilemma — F1 or F2 Championship, Qatar/Abu Dhabi Same Weekends
+- **Tier:** 2
+- **Category:** Rafael Câmara / Haas / Formula 2 / Qatar Grand Prix
+- **Key facts:** Câmara leads F2 by 7 pts over Tsolov; Qatar/Abu Dhabi F1 same weekends as F2; can't race both; Haas decision pending; Iran-US conflict risk to events
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: 2026 Season in Review — Antonelli's Title, What It Means
+- **Tier:** 3
+- **Category:** 2026 F1 Season / Kimi Antonelli / Mercedes / World Championship
+- **Key facts:** Antonelli clinched at Mexico City; 402 pts, 98 ahead of Verstappen; debut season champion; Mercedes dominant constructor (666 pts)
+- **Byline:** Marcus Cole
+- **Status:** NEW

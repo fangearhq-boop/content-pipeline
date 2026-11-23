@@ -1,0 +1,272 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-23",
+  "compiled_at": "2026-11-23T11:21:35.674416+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Qatar GP Weekend Guide — No Sprint, Three Practices, Race Sunday Nov 29",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "F1 heads to Qatar next weekend. No sprint race — it's the traditional format.\n\nFP1: Friday Nov 27 | FP2: Friday Nov 27 | FP3: Saturday Nov 28\nQualifying: Saturday Nov 28 | Race: Sunday Nov 29\n\nLusail Circuit, floodlit, penultimate round.\n\n#F1 #QatarGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#QatarGP"
+          ],
+          "char_count": 251
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Qatar GP is next. 57 laps around the floodlit Lusail Circuit.\n\nNo sprint — just 3 practices, qualifying, and the race. The championship battle for P2 through P5 is as tight as it gets.\n\n#QatarGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#QatarGP",
+            "#F1"
+          ],
+          "char_count": 198
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-qatar-gp-preview-no-sprint-lusail.html",
+        "headline": "Qatar Grand Prix 2026: Full Weekend Schedule, No Sprint, Everything You Need to Know",
+        "word_count": 437
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Qatar GP Weekend Schedule\n\n**Concept 1A — Social (1080x1350)**\n- search_term: \"Formula 1 Qatar Grand Prix Lusail\"\n- overlay: \"QATAR GP | NOV 27-29 | NO SPRINT\"\n- mood: night race energy, floodlit circuit\n\n**Concept 1B — Article Hero (1200x630)**\n- search_term: \"Formula 1 Qatar Grand Prix Lusail\"\n- overlay: \"Qatar GP 2026: Schedule, Format, What to Watch\"\n- mood: dramatic circuit lighting, anticipation\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Qatar GP Weekend Schedule\n**Facts (HIGH confidence):**\n- Race: Round 22, Lusail International Circuit, Qatar\n- Race date: Sunday, November 29, 2026\n- Practice 1: Friday, November 27 (4:30 PM local / 1:30 PM GMT)\n- Practice 2: Friday, November 27 (8:00 PM local / 5:00 PM GMT)\n- Practice 3: Saturday, November 28 (5:30 PM local / 2:30 PM GMT)\n- Qualifying: Saturday, November 28 (9:00 PM local / 6:00 PM GMT)\n- Race: Sunday, November 29 (16:00 GMT / 7:00 PM local)\n- NO sprint race format in 2026 — traditional 3-practice format confirmed\n- Circuit: Lusail (~5.4km, 57 laps, 16 turns, clockwise, floodlit)",
+        "sources": "- Sources: Formula1.com official timetable, Visit Qatar, QIC\n**Additional context (HIGH confidence):**\n- Lap record: 1:23.196\n- Known for extreme heat and demanding tire wear\n- Race 1 of final 2 rounds (Abu Dhabi is the finale)"
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Hamilton's P2 Hunt — Three Points Behind Russell and Norris, 58 Available",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Lewis Hamilton: 267 pts\nGeorge Russell: 264 pts\nLando Norris: 264 pts\n\n58 points left across Qatar and Abu Dhabi.\n\nThe P2 championship battle is not over. Not even close. #F1 #QatarGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#QatarGP"
+          ],
+          "char_count": 183
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Hamilton moved into 3rd in the championship after Las Vegas — just 3 points ahead of Russell and Norris.\n\nQatar and Abu Dhabi will decide who finishes runner-up to Antonelli. That battle is very much alive.\n\n#F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-hamilton-p2-hunt-russell-norris.html",
+        "headline": "Hamilton's Hunt for P2: Three Points Separate Three Drivers With 58 Left to Score",
+        "word_count": 453
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton P2 Hunt\n\n**Concept 2A — Social (1080x1350)**\n- search_term: \"Lewis Hamilton Ferrari\"\n- overlay: \"HAMILTON 267 | RUSSELL 264 | NORRIS 264 | 2 RACES LEFT\"\n- mood: intense championship battle\n\n**Concept 2B — Article Hero (1200x630)**\n- search_term: \"Lewis Hamilton Ferrari\"\n- overlay: \"Three Drivers, Three Points: Hamilton's Hunt for P2\"\n- mood: competitive, championship drama\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton P2 Hunt\n**Championship standings (HIGH confidence):**\n- Kimi Antonelli: 402 pts (CHAMPION — clinched at Mexico City)\n- Max Verstappen: 304 pts (2nd)\n- Lewis Hamilton: 267 pts (3rd)\n- George Russell: 264 pts (4th — tied with Norris)\n- Lando Norris: 264 pts (4th — tied with Russell)\n- Points available: 58 (Qatar + Abu Dhabi, including sprint if any)\n- Hamilton moved past Russell for 3rd after Las Vegas GP",
+        "sources": "- Sources: Formula1.com, Grand Premio, ESPN\n**Verification notes:**\n- Points confirmed from multiple sources including official F1 site\n- Hamilton overtook Russell post-Las Vegas — multiple sources confirmed"
+      },
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "McLaren vs. Red Bull — Constructors Title Fight Down to Final Two Rounds",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "McLaren vs. Red Bull in the constructors' championship.\n\nJust 9 points separating them heading into Qatar. P3 in the constructors carries real prize money.\n\nTwo races left. Everything to play for. #F1 #QatarGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#QatarGP"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-mclaren-red-bull-constructors-nine-points.html",
+        "headline": "McLaren vs. Red Bull: Nine Points for Third in the Constructors With Two Races Remaining",
+        "word_count": 454
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McLaren vs. Red Bull\n\n**Concept 3A — Social (1080x1350)**\n- search_term: \"McLaren Formula 1\"\n- overlay: \"McLAREN 431 vs RED BULL 440 | 9 POINTS | 2 RACES LEFT\"\n- mood: constructors battle, papaya vs red\n\n**Concept 3B — Article Hero (1200x630)**\n- search_term: \"McLaren Red Bull Formula 1\"\n- overlay: \"Nine Points: McLaren and Red Bull's Constructors Finale\"\n- mood: team rivalry\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "McLaren vs. Red Bull Constructors\n**Constructors championship (MEDIUM confidence — multiple snapshots disagreed):**\n- Mercedes: 666 pts (1st — well clear)\n- Ferrari: 517 pts (2nd)\n- Red Bull: 440 pts (3rd)\n- McLaren: 431 pts (4th)\n- Gap between McLaren and Red Bull: approximately 9 points",
+        "sources": "- Sources: Earlier search data from 11-22 pipeline; espn snapshot\n**Note:** Exact points vary slightly across sources; gap of ~9 pts confirmed in multiple references. Using 440/431 as the best available figures."
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Câmara's Dilemma — Haas F1 Seat vs. F2 Championship in Same Weekends",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Rafael Câmara leads the F2 championship by 7 points.\n\nHe's also Haas's F1 driver for Qatar and Abu Dhabi — both on the same weekends as F2 rounds.\n\nHe can't do both. What would you choose? #F1 #F2",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F2"
+          ],
+          "char_count": 196
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-camara-f1-f2-dilemma-haas-qatar.html",
+        "headline": "Câmara's Career Crossroads: F1 Seat or F2 Championship Title? Haas Rookie Faces Impossible Choice",
+        "word_count": 512
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Câmara's Dilemma\n\n**Concept 4A — Social (1080x1350)**\n- search_term: \"Rafael Camara Haas Formula 1\"\n- overlay: \"F1 OR F2? CÂMARA'S BIGGEST DECISION\"\n- mood: drama, decision moment\n\n**Concept 4B — Article Hero (1200x630)**\n- search_term: \"Rafael Camara Haas\"\n- overlay: \"F1 Seat vs. F2 Title: Câmara Faces Career's Biggest Choice\"\n- mood: young driver crossroads\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Câmara's Dilemma\n**Facts (HIGH confidence):**\n- Rafael Câmara: Brazilian rookie, Haas F1 driver for final 2026 rounds\n- F2 championship lead: 7 points over Nikita Tsolov (Red Bull reserve)\n- Qatar F1 round AND Qatar F2 round are on the same weekend\n- Same situation for Abu Dhabi finale\n- It is \"effectively impossible\" to race in both F1 and F2 on same weekend\n- Brazil debut (Interlagos): finished P20 (last), 2 laps down\n- Las Vegas: second F1 outing\n- Haas originally committed him only for Interlagos; kept him for Las Vegas\n- 2027 Haas driver confirmed\n- Regional conflict concern: Iran-US conflict adds uncertainty to Qatar/Abu Dhabi rounds",
+        "sources": "- Sources: The Race, SpeedWeek"
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "2026 Season in Review — What Antonelli's Championship Means for F1's Future",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Kimi Antonelli won the 2026 F1 world championship in his debut season. 98 points clear of Verstappen. Title clinched 4 races early.\n\nAs the season winds down in Qatar and Abu Dhabi — take a moment to appreciate what just happened. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-antonelli-2026-championship-review.html",
+        "headline": "Kimi Antonelli's 2026 Title: What a Debut Season Championship Means for Formula 1",
+        "word_count": 537
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Season Review\n\n**Concept 5A — Social (1080x1350)**\n- search_term: \"Kimi Antonelli Mercedes Formula 1\"\n- overlay: \"2026 WORLD CHAMPION | DEBUT SEASON | KIMI ANTONELLI\"\n- mood: triumphant, championship celebration"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli 2026 Championship Review\n**Facts (HIGH confidence):**\n- Antonelli clinched title at Mexico City Grand Prix — 4 races before season end\n- Final championship margin: 98 points ahead of Verstappen (402 vs 304)\n- Youngest world champion or historic achievement — debut season title\n- Mercedes constructor champions as well (666 pts, well ahead of Ferrari 517)",
+        "sources": "- Sources: Formula1.com, ESPN, Grand Premio"
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
