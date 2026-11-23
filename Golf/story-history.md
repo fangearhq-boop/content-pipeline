@@ -843,3 +843,40 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** Season ran Jan 29–Nov 22; $132M total purse; Korda world No. 1 all year; CME Tour Championship is finale
 - **Byline:** Jake Torres
 - **Status:** NEW
+
+## 2026-11-23
+
+### STORY 1: Thitikul Wins CME Three-Peat, Passes Sorenstam Career Earnings Record
+- **Tier:** 1
+- **Category:** LPGA Tour / CME Group Tour Championship / Atthaya Thitikul / Nelly Korda
+- **Key facts:** Thitikul wins 3rd consecutive CME; final round 65 (7-under); 2-shot win over Aki Iwai; Korda 3rd (-4); first three-peat in event history; $4M prize; 5th LPGA title of 2026; career earnings $24,292,858 — surpasses Sorenstam's all-time LPGA record
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: LIV Golf Bankruptcy Disclosure Hearing November 24
+- **Tier:** 1
+- **Category:** LIV Golf / PGA Tour / Bankruptcy / Chapter 11
+- **Key facts:** Hearing Nov 24 (Tuesday) NJ court; conditionally approves disclosure statement (begins wind-down); creditors subpoenaed PGA Tour (18 categories); Tour calls it "desperate fishing expedition"; docs by Dec 4; Judge Kaplan
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+
+### STORY 3: DeChambeau, Rahm, Oosthuizen Head to DP World Tour as LIV Players Migrate
+- **Tier:** 2
+- **Category:** DP World Tour / LIV Golf / Bryson DeChambeau / Jon Rahm / Louis Oosthuizen
+- **Key facts:** DeChambeau Category 1 member via 2024 US Open exemption; Rahm, Oosthuizen, Hatton all via career exemptions; DJ/Smith/Watson for specific events; ~19 former LIV players; DeChambeau faces 12-month PGA Tour suspension
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 4: Blades Brown Youngest PGA Tour Winner in 95 Years — Mexico Win Recap
+- **Tier:** 2
+- **Category:** PGA Tour / World Wide Technology Championship / Blades Brown
+- **Key facts:** Brown 19 years old; World Wide Technology Championship, Nov 8; 7-shot deficit; final round 63; won playoff (2nd hole, birdie) over Ben James; youngest winner since Kocsis 1931 (18); Players Championship invite; PGA Championship invite
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: BMW Australian PGA Championship Preview — Nov 26-29, The Lakes Sydney
+- **Tier:** 3
+- **Category:** Australian PGA Championship / The Lakes Golf Club / Sydney
+- **Key facts:** Dates Nov 26-29; The Lakes Golf Club, Sydney; strong international field; LIV collapse context for Australian players; Ripper GC trio impacted
+- **Byline:** Jake Torres
+- **Status:** NEW

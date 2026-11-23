@@ -1,0 +1,257 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-23",
+  "compiled_at": "2026-11-23T11:25:51.511729+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Thitikul Wins CME Three-Peat, Passes Sorenstam Career Earnings Record",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Jeeno Thitikul just won the CME Group Tour Championship for the THIRD year in a row.\n\nNo one has ever done that at this event. She also passed Annika Sorenstam's all-time LPGA earnings record. Final round 65. 2-shot win over Aki Iwai.\n\nHistoric. #LPGA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA"
+          ],
+          "char_count": 251
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Thitikul: 3 CME championships in a row. 5 LPGA titles in 2026. Career earnings past Annika Sorenstam's record.\n\nNelly Korda needed the win for the LPGA Hall of Fame. She finished 3rd.\n\nJeeno is in a different stratosphere. #LPGA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-thitikul-cme-three-peat-sorenstam-record.html",
+        "headline": "Thitikul Wins CME Three-Peat, Passes Sorenstam Career Earnings Record With Historic Tiburón Victory",
+        "word_count": 562
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Thitikul CME Three-Peat\n\n**Concept 1A — Social (1080x1350)**\n- search_term: \"Atthaya Thitikul LPGA\"\n- overlay: \"THREE-PEAT | CME CHAMPION | HISTORY MADE\"\n- mood: triumphant, celebration, historic achievement\n\n**Concept 1B — Article Hero (1200x630)**\n- search_term: \"Atthaya Thitikul LPGA\"\n- overlay: \"Thitikul's Three-Peat: CME Champion, Sorenstam Record Broken\"\n- mood: champion, wide landscape\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Thitikul CME Three-Peat\n**Facts (HIGH confidence):**\n- Tournament: 2026 CME Group Tour Championship\n- Venue: Tiburón Golf Club, Naples, Florida\n- Winner: Atthaya \"Jeeno\" Thitikul\n- Final round: 7-under 65\n- Winning margin: 2 shots over Aki Iwai\n- Nelly Korda finished 3rd, 4 shots back\n- First player in CME event history to win three consecutive times\n- First LPGA player since Inbee Park (2013-15, Women's PGA Championship) to win same tournament 3 straight years\n- Prize: $4 million (largest in women's golf)\n- Fifth LPGA title of 2026\n- Career earnings after win: $24,292,858 — surpasses Annika Sorenstam's LPGA career earnings record",
+        "sources": "- Sources: NBC Sports, Yahoo Sports, Sky Sports, Golf Magic, Irish Golf Desk (all confirmed)"
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "LIV Golf Bankruptcy Disclosure Hearing Tuesday — Wind-Down Begins",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "LIV Golf's bankruptcy disclosure hearing is tomorrow (Tuesday, Nov 24) in New Jersey.\n\nThe court will consider beginning the wind-down of the $5B league. Meanwhile the PGA Tour is fighting a sweeping creditor subpoena — calling it a \"desperate fishing expedition.\"",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 264
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The end of LIV Golf moves through court tomorrow.\n\nCreditors want PGA Tour financial documents — revenue, media rights, player pay. The Tour says no. Judge Kaplan will sort it out.\n\nThe $5B experiment is almost over.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-liv-golf-bankruptcy-hearing-nov24.html",
+        "headline": "LIV Golf Bankruptcy Disclosure Hearing Tuesday: Wind-Down Begins, PGA Tour Fights Creditor Subpoena",
+        "word_count": 527
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Bankruptcy Hearing\n\n**Concept 2A — Social (1080x1350)**\n- search_term: \"LIV Golf\"\n- overlay: \"LIV GOLF WIND-DOWN | COURT HEARING NOV 24\"\n- mood: serious, end of an era\n\n**Concept 2B — Article Hero (1200x630)**\n- search_term: \"LIV Golf tournament\"\n- overlay: \"The End of LIV: Bankruptcy Hearing Begins Wind-Down\"\n- mood: solemn, historical\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf Bankruptcy Hearing Nov 24\n**Facts (HIGH confidence):**\n- Hearing date: Tuesday, November 24, 2026 (confirmed as Tuesday from multiple sources; Nov 24 is Tuesday)\n- Court: New Jersey (Bankruptcy Judge Michael Kaplan)\n- Purpose: Conditionally approve LIV Golf's disclosure statement — begins wind-down phase\n- LIV filed Chapter 11 bankruptcy: September 8, 2026\n- BC Partners deal fell through; Saudi PIF stopped funding April 2026\n- Liquidation target: January 2027\n- PGA Tour subpoena: creditors demanded 18 categories of Tour documents (revenue, sponsorships, media rights, player compensation)\n- Tour called it a \"desperate fishing expedition\"\n- Creditors requested Tour documents by December 4",
+        "sources": "- Sources: NBC Sports, Sky Sports, ESPN, Golf Magic, Lufkin Daily News (AP-syndicated)"
+      },
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "DeChambeau, Rahm, Oosthuizen Head to DP World Tour as LIV Players Migrate",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Where are the LIV Golf players going?\n\nDeChambeau: DP World Tour full member (2024 US Open exemption)\nRahm: DP World Tour\nOosthuizen: DP World Tour\nHatton: DP World Tour\n\nAbout 19 former LIV players have found routes back. The European circuit is absorbing the fallout.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-dechambeau-rahm-dp-world-tour-liv-exodus.html",
+        "headline": "DeChambeau Leads LIV Exodus to DP World Tour as Former Stars Find Post-LIV Homes for 2027",
+        "word_count": 544
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Players to DP World Tour\n\n**Concept 3A — Social (1080x1350)**\n- search_term: \"Bryson DeChambeau golf\"\n- overlay: \"DECHAMBEAU | RAHM | OOSTHUIZEN | DP WORLD TOUR 2027\"\n- mood: new chapter, forward-looking\n\n**Concept 3B — Article Hero (1200x630)**\n- search_term: \"Bryson DeChambeau golf\"\n- overlay: \"After LIV: Where Golf's Big Names Are Landing in 2027\"\n- mood: transitional, new era\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "DeChambeau and LIV Players to DP World Tour\n**Facts (HIGH confidence):**\n- DeChambeau: joining DP World Tour as Category 1 full member via 2024 U.S. Open exemption\n- Jon Rahm: DP World Tour 2027 (returned via career exemption)\n- Louis Oosthuizen: returning via career money list exemption\n- Also returning: Tyrrell Hatton (DP World Tour 2027)\n- DJ, Cameron Smith, Bubba Watson: signed agreements for specific DP World Tour tournaments\n- Approximately 19 former LIV players given routes into DP World Tour ecosystem\n- DeChambeau faces 12-month PGA Tour suspension from last LIV appearance",
+        "sources": "- Sources: CBS Sports, Golf Channel, Golf Magic, Irish News"
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Blades Brown's Historic PGA Tour Win — Youngest in 95 Years",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Reminder: Blades Brown, 19, won the World Wide Technology Championship on Nov 8 — the youngest PGA Tour winner in 95 years.\n\nHe rallied from 7 shots back with a 63 and won in a playoff.\n\nHe now has an invite to The Players Championship. That's wild.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-blades-brown-youngest-pga-tour-winner-95-years.html",
+        "headline": "Blades Brown, 19, Becomes Youngest PGA Tour Winner in 95 Years With Seven-Shot Rally in Mexico",
+        "word_count": 470
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Blades Brown Youngest PGA Tour Winner\n\n**Concept 4A — Social (1080x1350)**\n- search_term: \"Blades Brown PGA Tour\"\n- overlay: \"YOUNGEST PGA TOUR WINNER IN 95 YEARS | BLADES BROWN\"\n- mood: historic, young champion\n\n**Concept 4B — Article Hero (1200x630)**\n- search_term: \"PGA Tour World Wide Technology Championship\"\n- overlay: \"19 Years Old, 95-Year Record: Blades Brown's Historic PGA Win\"\n- mood: historic achievement, celebration\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Blades Brown Youngest PGA Tour Winner 95 Years\n**Facts (HIGH confidence):**\n- Winner: Blades Brown (19 years old)\n- Tournament: World Wide Technology Championship at El Cardonal, Los Cabos, Mexico\n- Date: November 8, 2026\n- Final round: 9-under 63 (rallied from 7-shot deficit)\n- Won in playoff: birdie on second playoff hole over Ben James\n- Record: youngest PGA Tour winner in 95 years\n- Previous record: Charles Kocsis won the Michigan Open at 18 (1931)\n- Earned: spot at The Players Championship, PGA Championship invitation next year\n- Turned pro as a teenager; earned 2027 PGA Tour card via top 20 Korn Ferry Tour finish",
+        "sources": "- Sources: AP (ADN, AJC, Gulf News, NBC Sports — widely syndicated)"
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "BMW Australian PGA Championship — Preview, Nov 26-29, The Lakes Sydney",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The BMW Australian PGA Championship starts Thursday at The Lakes Golf Club in Sydney (Nov 26-29).\n\nOne of the final events of the global golf calendar. A strong field heads Down Under. 🇦🇺",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 187
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-bmw-australian-pga-championship-preview.html",
+        "headline": "BMW Australian PGA Championship Preview: The Lakes Golf Club, Sydney, November 26-29",
+        "word_count": 380
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "BMW Australian PGA Championship\n\n**Concept 5A — Social (1080x1350)**\n- search_term: \"The Lakes Golf Club Sydney Australia\"\n- overlay: \"BMW AUSTRALIAN PGA | NOV 26-29 | THE LAKES SYDNEY\"\n- mood: scenic, international golf"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "BMW Australian PGA Championship\n**Facts (MEDIUM confidence):**\n- Tournament: BMW Australian PGA Championship\n- Venue: The Lakes Golf Club, Sydney, Australia\n- Dates: November 26-29, 2026\n- Returns to The Lakes after absence\n- Strong international field expected (some LIV players competing at Australian events)",
+        "sources": "- Sources: LIV's collapse impacted Australian players (Ripper GC trio); general reports"
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

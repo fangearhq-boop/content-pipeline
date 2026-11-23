@@ -1,9 +1,30 @@
 # Golf Fanrecap — Pipeline Status
 
-## Last Run: 2026-11-22
+## Last Run: 2026-11-23
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** Golf Fanrecap
+
+---
+
+### 2026-11-23 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles, image manifest)
+- Step 10: verify-facts.py — 5 stories, 29 claims, HIGH: 47; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 0 FB posts (known parsing), 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (22 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy; content-dashboards not in session scope)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via git remote with PAT
+
+**Stories covered:**
+1. T1 FOLLOW UP: Thitikul CME three-peat — 65 final round; 2-shot win; Sorenstam career earnings record ($24.3M); 5th title 2026 (Ryan Calloway)
+2. T1 FOLLOW UP: LIV Golf bankruptcy disclosure hearing Nov 24 — wind-down begins; PGA Tour fights subpoena (Jake Torres)
+3. T2 NEW: DeChambeau, Rahm, Oosthuizen to DP World Tour — ~19 former LIV players migrate (Marcus Cole)
+4. T2 NEW: Blades Brown youngest PGA Tour winner 95 yrs — 63 final round, 7-shot rally, Nov 8 recap (Ryan Calloway)
+5. T3 NEW: BMW Australian PGA Championship preview — Nov 26-29, The Lakes Sydney (Jake Torres)
 
 ---
 
