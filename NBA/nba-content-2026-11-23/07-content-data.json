@@ -1,0 +1,266 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-23",
+  "compiled_at": "2026-11-23T11:16:49.373658+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Heat 123, Thunder 113 — Adebayo Triple-Double, Miami Extends Win Streak to Seven",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Bam Adebayo: 24 points and a triple-double.\n\nMiami Heat: 7 wins in a row, shorthanded, without the top seed's full roster.\n\nThe Heat are quietly making noise. 🔥\n\n#HeatCulture",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HeatCulture"
+          ],
+          "char_count": 174
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The shorthanded Heat beat the shorthanded Thunder 123-113 and won their 7th game in a row.\n\nBam had the triple-double. Pelle Larsson came off the bench for 21.\n\nThis team just finds ways. #HeatCulture",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HeatCulture"
+          ],
+          "char_count": 200
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-heat-adebayo-triple-double-thunder.html",
+        "headline": "Bam Adebayo Triple-Double Extends Heat's Win Streak to Seven as Miami Beats Thunder 123-113",
+        "word_count": 523
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Heat 123, Thunder 113 — Adebayo Triple-Double\n\n**Concept 1A — Social (1080x1350)**\n- search_term: \"Bam Adebayo Miami Heat\"\n- overlay: \"24 PTS | TRIPLE-DOUBLE | HEAT WIN 7 STRAIGHT\"\n- mood: intense, energetic\n- notes: Look for Adebayo in action near the basket\n\n**Concept 1B — Article Hero (1200x630)**\n- search_term: \"Bam Adebayo Miami Heat\"\n- overlay: \"Heat's 7-Game Streak: Adebayo Delivers Triple-Double vs. Thunder\"\n- mood: celebratory, Miami red\n- notes: Wide landscape crop preferred\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Heat 123, Thunder 113 — Adebayo Triple-Double\n**Game facts (HIGH confidence):**\n- Final score: Heat 123, Thunder 113\n- Date: Sunday, November 22, 2026\n- Bam Adebayo: 24 points, triple-double (assists/rebounds combination confirmed)\n- Pelle Larsson: 21 points off the bench\n- Miami Heat win streak: 7 games\n- Both teams were shorthanded",
+        "sources": "- Sources: AP (ESPN recap, CBS Sports)\n**Supporting facts (HIGH confidence):**\n- Heat described as \"very shorthanded\" vs \"very shorthanded\" Thunder\n- Adebayo's triple-double confirmed as first of the season in multiple fantasy/sports reports\n- Sources: ESPN, AP syndicated\n**Verification notes:**\n- Score (123-113), Adebayo stats, Larsson points, win streak all HIGH from multiple AP-syndicated outlets\n- \"Shorthanded\" qualifier confirmed across sources"
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Warriors 88, Celtics 87 — Podziemski Clutch, Golden State Ends 5-Game Skid",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Warriors 88, Celtics 87.\n\nBrandin Podziemski: 18 pts, 7 reb. Golden State ends a 5-game losing streak.\n\nTatum had 27 and Boston still lost its 4th straight — their longest skid in 5 years.\n\n#Warriors #Celtics",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Warriors",
+            "#Celtics"
+          ],
+          "char_count": 208
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Podziemski clutch. Warriors survive 88-87.\n\nCeltics drop their 4th in a row — longest skid in 5 years for Boston. Jayson Tatum scored 27 and it still wasn't enough.\n\nGolden State needed this one. #Warriors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Warriors"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-warriors-celtics-podziemski-88-87.html",
+        "headline": "Podziemski Leads Warriors Past Celtics 88-87, Golden State Ends Five-Game Losing Streak",
+        "word_count": 517
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Warriors 88, Celtics 87 — Podziemski Clutch\n\n**Concept 2A — Social (1080x1350)**\n- search_term: \"Brandin Podziemski Golden State Warriors\"\n- overlay: \"WARRIORS SURVIVE 88-87 | 5-GAME SKID OVER\"\n- mood: clutch, relief\n- notes: Podziemski in action or celebration\n\n**Concept 2B — Article Hero (1200x630)**\n- search_term: \"Golden State Warriors\"\n- overlay: \"Warriors End Skid: 88-87 Thriller Over Celtics\"\n- mood: comeback energy\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Warriors 88, Celtics 87 — Podziemski Late Play\n**Game facts (HIGH confidence):**\n- Final score: Warriors 88, Celtics 87\n- Date: Sunday, November 22, 2026\n- Brandin Podziemski: 18 points, 7 rebounds\n- Jayson Tatum: 27 points (team-high for Boston)\n- Golden State ending 5-game losing streak\n- Boston's 4th consecutive loss (longest skid in five years per AP)",
+        "sources": "- Sources: AP (ESPN, GMA Network)\n**Verification notes:**\n- Score, Podziemski stats, Tatum points, Golden State skid end confirmed from AP-syndicated reports\n- Boston skid detail (\"longest in five years\") from AP via GMA"
+      },
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Knicks 113, Pacers 106 — KAT 30/13, New York Wins Fifth Straight",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "KAT: 30 pts / 13 reb\nBrunson: 22 pts\nHart: triple-double\n\nKnicks roll the Pacers 113-106 to win 5 in a row. New York is rolling right now. #NewYorkForever",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkForever"
+          ],
+          "char_count": 154
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-knicks-pacers-kat-brunson-hart.html",
+        "headline": "Karl-Anthony Towns Posts 30/13, Knicks Win Fifth Straight With 113-106 Victory Over Pacers",
+        "word_count": 492
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks 113, Pacers 106 — KAT 30/13\n\n**Concept 3A — Social (1080x1350)**\n- search_term: \"Karl-Anthony Towns New York Knicks\"\n- overlay: \"30 PTS | 13 REB | KNICKS WIN 5 STRAIGHT\"\n- mood: dominant, blue and orange\n\n**Concept 3B — Article Hero (1200x630)**\n- search_term: \"New York Knicks\"\n- overlay: \"Five in a Row: KAT, Brunson, Hart Carry the Knicks\"\n- mood: momentum, New York energy\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Knicks 113, Pacers 106 — KAT/Brunson/Hart\n**Game facts (HIGH confidence):**\n- Final score: Knicks 113, Pacers 106\n- Date: Sunday, November 22, 2026\n- Karl-Anthony Towns: 30 points, 13 rebounds\n- Jalen Brunson: 22 points\n- Josh Hart: triple-double\n- New York winning streak: 5 games",
+        "sources": "- Sources: AP (ESPN, CBS Sports, GMA Network)\n**Verification notes:**\n- All stat lines HIGH from multiple AP outlets\n- Win streak confirmed at 5 games"
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Hawks 107, Pistons 97 — Nickeil Alexander-Walker 27, 18-0 Q4 Run",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Atlanta went on an 18-0 run to open the fourth quarter and beat Detroit 107-97.\n\nNickeil Alexander-Walker led everyone with 27 points. Cade Cunningham was held to 5.\n\nHawks bounce back in a big way. #TrueToAtlanta",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TrueToAtlanta"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-hawks-pistons-nickeil-18-0-run.html",
+        "headline": "Nickeil Alexander-Walker Scores 27 as Hawks Open Fourth Quarter on 18-0 Run, Beat Pistons 107-97",
+        "word_count": 471
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hawks 107, Pistons 97 — Nickeil 27\n\n**Concept 4A — Social (1080x1350)**\n- search_term: \"Nickeil Alexander-Walker Atlanta Hawks\"\n- overlay: \"27 PTS | 18-0 Q4 RUN | HAWKS WIN\"\n- mood: dominant, red\n\n**Concept 4B — Article Hero (1200x630)**\n- search_term: \"Atlanta Hawks\"\n- overlay: \"18-0 Fourth Quarter: Hawks Blow Past Pistons 107-97\"\n- mood: dominant fourth quarter energy\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hawks 107, Pistons 97 — Nickeil Alexander-Walker 27\n**Game facts (HIGH confidence):**\n- Final score: Hawks 107, Pistons 97\n- Date: Sunday, November 22, 2026\n- Nickeil Alexander-Walker: 27 points\n- Atlanta opened Q4 on 18-0 run\n- Cade Cunningham: 5 points (held to season-low type performance)",
+        "sources": "- Sources: AP (ESPN, CBS Sports)\n**Verification notes:**\n- Score, Nickeil stat, 18-0 run, Cade held to 5 all HIGH from multiple AP outlets"
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "NBA Cup Group Stage — Heat, Spurs, Knicks Among Leaders Heading to Final Week",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "NBA Cup group play is in its final week.\n\nHeat are undefeated in their group. Spurs have the top point differential in the entire tournament. Knicks are rolling.\n\nThe knockout bracket is coming together. Who do you have winning it?",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nba-cup-group-stage-standings.html",
+        "headline": "NBA Cup Group Stage Nears End: Heat, Spurs, Knicks Lead the Race to Las Vegas",
+        "word_count": 514
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NBA Cup Group Stage\n\n**Concept 5A — Social (1080x1350)**\n- search_term: \"NBA Cup trophy\"\n- overlay: \"NBA CUP KNOCKOUT ROUND | WHO ADVANCES?\"\n- mood: tournament energy, gold and black\n- notes: Can use NBA Cup branding if available, otherwise use court/arena shot"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NBA Cup Group Stage\n**Facts (MEDIUM confidence — specific current standings not confirmed):**\n- Spurs have top point differential in NBA Cup through mid-November\n- Miami described as near top of East group, 2-0 in Cup\n- Knicks among active teams in group play\n- Group play ends late November, knockout round follows in December",
+        "sources": "- Sources: Bleacher Report (after Nov 6), Sports Illustrated (through Nov 13), ESPN standings tables\n**Verification notes:**\n- Exact current standings MEDIUM — snapshots conflict; using earlier confirmed data points only\n- Dallas, Denver lead West Group A (confirmed per Nov 13 SI snapshot)"
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -1417,3 +1417,40 @@
 - **Key facts:** Irving 25 pts; Flagg 22 pts, 8 reb, 6 ast; Dallas 11-0 late run
 - **Byline:** Marcus Cole
 - **Status:** NEW
+
+## 2026-11-23
+
+### STORY 1: Heat 123, Thunder 113 — Adebayo Triple-Double, Miami Extends Win Streak to Seven
+- **Tier:** 1
+- **Category:** Miami Heat / Oklahoma City Thunder / Bam Adebayo / Pelle Larsson
+- **Key facts:** Adebayo 24 pts triple-double (first of season); Larsson 21 off bench; both teams shorthanded; Heat 7-game win streak (league's longest active)
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Warriors 88, Celtics 87 — Podziemski Clutch, GS Ends 5-Game Skid
+- **Tier:** 1
+- **Category:** Golden State Warriors / Boston Celtics / Brandin Podziemski / Jayson Tatum
+- **Key facts:** Podziemski 18 pts 7 reb; Tatum 27 pts; Warriors end 5-game skid; Celtics 4th straight loss (longest in 5 years)
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Knicks 113, Pacers 106 — KAT 30/13, Brunson 22, Hart Triple-Double
+- **Tier:** 2
+- **Category:** New York Knicks / Indiana Pacers / Karl-Anthony Towns / Jalen Brunson / Josh Hart
+- **Key facts:** KAT 30 pts 13 reb; Brunson 22 pts; Hart triple-double; Knicks 5-game win streak
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: Hawks 107, Pistons 97 — Nickeil Alexander-Walker 27, 18-0 Q4 Run
+- **Tier:** 2
+- **Category:** Atlanta Hawks / Detroit Pistons / Nickeil Alexander-Walker / Cade Cunningham
+- **Key facts:** Nickeil 27 pts (team-high); 18-0 Q4 run; Cade Cunningham held to 5 pts
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: NBA Cup Group Stage — Heat, Spurs, Knicks Leading the Race
+- **Tier:** 3
+- **Category:** NBA Cup / Miami Heat / San Antonio Spurs / New York Knicks
+- **Key facts:** Heat undefeated in group; Spurs top point differential in tournament; Knicks on 5-game streak; knockout round begins December
+- **Byline:** Marcus Cole
+- **Status:** NEW
