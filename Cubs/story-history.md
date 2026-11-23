@@ -10118,3 +10118,50 @@ Each day's stories are appended at the top (newest first).
   - Peralta traded → Tier 2 division implications
   - Cubs acquire an arm before lockout → "closing the gap" angle
   - Dec 1 lockout hits → "division gap frozen for 99 days" Tier 2
+
+## 2026-11-23 (OFF DAY — Offseason. CBA 8 days to Dec 1 lockout — Skubal confirmed to Mets 9yr/$450M (second-largest pitcher contract ever). Hiromi Itoh visited Chicago (3.18 ERA / 159 K / 172 IP / Dec 1 window). Teruaki Sato NPB Triple Crown (.306 / 39 HR / 106 RBI), Cubs "extensively scouted" per The Athletic. Cardinals non-tendered Gorman; Brewers locked up WS MVP Contreras through 2027 + added Walker. Insights: 14 findings — hashtag_count=3 LOSER (13th consecutive override, 1 hashtag used) + hashtag_count=1 WINNER + len_260+ WINNER + evening_18_24 WINNER + morning_06_12 LOSER exception for Skubal breaking news + opening=statement WINNER + has_stat WINNER.)
+
+### STORY 1: Skubal to Mets — $450M Market Reset
+- **Angle:** FOLLOW UP (Nov 22: Skubal in in-person meetings; today: 9yr/$450M to Mets confirmed — second-largest pitcher deal ever; Cubs never in; Assad only confirmed starter; 8 days to Dec 1)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, breaking context/urgency — morning exception for confirmed $450M deal)
+- **Follow-Up Opportunities:**
+  - Dec 1 lockout hits → Tier 1 reaction + Cubs rotation frozen
+  - Cubs sign any starter before Dec 1 → Tier 1 breaking
+  - Another top-tier arm signs → "rotation market depleting" Tier 2
+
+### STORY 2: NL Central Rival Watch — Brewers Extend Lead
+- **Angle:** FOLLOW UP (Nov 22: Brewers trading Peralta, Misiorowski Cy Young; today: Contreras locked through 2027, Walker added; Cardinals non-tendered Gorman, modest Cerfolio budget; Cubs vs. Brewers is the NL Central race)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, bold take/rival jab)
+- **Follow-Up Opportunities:**
+  - Cubs acquire rotation/OF help → "closing the gap" angle
+  - Cardinals make a surprising move → division race recalibration
+  - Winter Meetings (Dec 8-11) → division comparison redux
+
+### STORY 3: Hiromi Itoh Visits Chicago — Clock Expires Dec 1
+- **Angle:** NEW STORY (ESPN Jesse Rogers + Jorge Castillo: Itoh visited Chicago Nov 20; 3.18 ERA / 159 K / 172 IP 2026 NPB; Dec 1 posting window same as lockout; White Sox also courting; if no deal by Dec 1 Itoh returns to Japan)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, roster news/urgency/evening prime)
+- **Follow-Up Opportunities:**
+  - Cubs sign Itoh → Tier 1 acquisition
+  - White Sox land Itoh → crosstown rival angle
+  - Itoh unsigned at Dec 1 → "back to Japan" lockout story
+
+### STORY 4: Teruaki Sato — NPB Triple Crown, Cubs Watching
+- **Angle:** FOLLOW UP (Nov 22: first dedicated tweet, Phillies competition; today: Triple Crown stats as fresh hook, Yankees + Phillies competition; Dec 1 lockout makes Dec 16 posting window theoretical)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:00 PM CT, stat breakdown/stakes/evening prime)
+- **Follow-Up Opportunities:**
+  - Cubs sign Sato → Tier 1 outfield acquisition
+  - Sato signs with Phillies or Yankees → "another target gone" angle
+  - More scouting intel → deeper profile
+
+### STORY 5: CBA Countdown — 8 Days, Lockout Expected
+- **Angle:** FOLLOW UP (Nov 22: 9-day countdown, Gray/May/Skubal market moves; today: Skubal $450M as market illustration; lockout now "expected" not "possible"; Assad is the confirmed starter entering any freeze)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 PM CT, bold take/stakes/evening prime)
+- **Follow-Up Opportunities:**
+  - Dec 1 lockout confirmed → Tier 1 immediate reaction
+  - CBA deal reached → Tier 1 market-opens reaction + Cubs action
+  - Cubs move on Taira/Itoh/Sato before Dec 1 → Tier 1 acquisition

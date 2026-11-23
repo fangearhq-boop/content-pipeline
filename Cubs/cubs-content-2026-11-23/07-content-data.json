@@ -1,0 +1,186 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-23",
+  "compiled_at": "2026-11-23T09:23:00.859122+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Skubal to Mets / Market Reset",
+      "type": "Breaking context / urgency"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "NL Central Rival Watch",
+      "type": "Bold take / rival jab"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Hiromi Itoh Visits Chicago",
+      "type": "Roster news / urgency"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Teruaki Sato Triple Crown",
+      "type": "Stat breakdown / stakes"
+    },
+    {
+      "time": "9:30 PM",
+      "description": "CBA 8-Day Countdown",
+      "type": "Bold take / stakes"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Skubal to Mets — $450M Market Reset",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Tarik Skubal: 9 years, $450 million. Mets. Done. 🤯\n\nThe Cubs were never in. Javier Assad is their only confirmed starter, the clock expires December 1, and Taira, Itoh, and Rogers are all still out there. Jed Hoyer has 8 days to move.\n\nThis market won't wait.\n\n#Cubs",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "NL Central Rival Watch — Brewers Extend Lead",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "The Brewers won the World Series, added Ryan Walker this winter, and locked up WS MVP Contreras through 2027. Milwaukee is lapping the field. 🏆\n\nMeanwhile, the Cardinals non-tendered Gorman, Cerfolio brings a modest budget. Cubs and Brewers — that's the NL Central race.\n\n#Cubs",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Hiromi Itoh Visits Chicago — Clock Expires Dec 1",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Hiromi Itoh visited Chicago this week for a free-agency meeting — and his clock expires December 1.\n\nThe right-hander posted a 3.18 ERA, 159 Ks over 172 innings in 2026. If the lockout hits on Dec 1, he goes back to Japan without a deal. Cubs need to decide fast. ⏰\n\n#Cubs",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Teruaki Sato — NPB Triple Crown, Cubs Watching",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "8:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Teruaki Sato just won the NPB Triple Crown — .306 BA, 39 home runs, 106 RBI. The Cubs have been watching closely.\n\nHis window is Dec 16, but the lockout makes Dec 1 the real deadline. Phillies, Yankees in. Hoyer has 8 days. 🎯\n\n#Cubs",
+          "posting_time": "8:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "CBA Countdown — 8 Days, Lockout Expected",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "9:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The CBA expires in 8 days. Rob Manfred won't do a deal without a salary cap. The union says that's not on the table. A lockout December 1 is now expected.\n\nFor the Cubs, that means every free agent and trade freezes — and Assad is their only confirmed starter. 🔒\n\n#Cubs",
+          "posting_time": "9:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
