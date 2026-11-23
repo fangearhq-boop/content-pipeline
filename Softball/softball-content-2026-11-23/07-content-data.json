@@ -1,0 +1,394 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-23",
+  "compiled_at": "2026-11-23T10:19:12.504443+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Florida's No. 2 Class for Second Straight Year — Allaire, Calvo Lead Gators' Elite Haul",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Tim Walton's Gators just landed back-to-back top-5 recruiting classes.\n\nFlorida's 2027 class is No. 2 nationally — led by pitcher Addison Allaire and infielder Niyali Calvo.\n\n6 signees. 6 starters returning. The Gators have never won a WCWS.\n\nThat could change. #FloridaSoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#FloridaSoftball"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "Tim Walton has built something special in Gainesville.\n\nFor the second straight year, Florida's signing class is ranked No. 2 nationally. This isn't a one-time spike — it's a program that has figured out how to consistently recruit at the sport's highest level.\n\nThis year's class is headlined by pitcher Addison Allaire and top-15 infielder Niyali Calvo. Six signees total. And they're walking into a roster that already has six starters returning and a 4-0 fall scrimmage record.\n\nThe Gators have never won a Women's College World Series title. That's the shadow over every great Florida season and every elite recruiting class. But back-to-back No. 2 classes represent something different — not just talent, but sustained momentum. The kind of momentum that eventually produces a first championship.\n\nFlorida fans have been waiting a long time. This class is the best evidence yet that the wait might not be much longer.",
+        "image_caption": "Florida's 2027 signing class is ranked No. 2 nationally for the second year in a row. Pitcher Addison Allaire and infielder Niyali Calvo lead a six-player class with six starters returning. The Gators are building toward a first WCWS title. #FloridaSoftball #GatorSoftball",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-florida-no2-class-allaire-calvo-wcws-2027.html",
+        "headline": "Florida's No. 2 Recruiting Class for the Second Straight Year Sets Up a WCWS Run",
+        "word_count": 611
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Florida No. 2 Class\n\n**Concept 1 (Social — 1080x1350):**\n- Type: imagn\n- Search Terms: \"Tim Walton Florida Gators\" OR \"Florida Gators softball\"\n- Caption Overlay: \"Back-to-Back Top-5 Class — Florida Softball 2027 No. 2 Nationally\"\n- Mood: Pride, momentum, forward-looking\n\n**Concept 2 (Article Hero — 1200x630):**\n- Type: imagn\n- Search Terms: \"Florida Gators softball dugout\"\n- Caption Overlay: \"Florida's No. 2 Class: Building Toward a First WCWS Title\"\n- Mood: Aspirational, competitive\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Florida No. 2 Class — Allaire, Calvo\n**Sources:**\n- WRUF 98.1 FM (Nov 19, 2026): https://www.wruf.com/headlines/2026/11/19/florida-softball-welcomes-nations-no-2-recruiting-class/\n- The Independent Florida Alligator (Nov 19, 2026): https://www.alligator.org/article/2026/11/florida-softball-signing-day-26\n- Yahoo Sports (Tennessee class context): https://sports.yahoo.com/articles/tennessee-softball-coach-karen-weekly-220605938.html\n**Verified Facts (HIGH confidence):**\n- Florida's 2027 class is ranked No. 2 nationally by Rivals for the second consecutive year\n- Tim Walton is the head coach\n- Pitcher Addison Allaire headlines the class\n- Niyali Calvo is listed as a top-15 infielder in the class\n- 6 signees total\n- Florida went 4-0 in fall scrimmages\n- 6 starters returning for the 2027 season\n**Verified Facts (MEDIUM confidence):**\n- Florida has never won a WCWS title (consistent with historical record, not explicitly stated in today's sources but well-established)\n**Facts to avoid / flag:**\n- Final Rivals score or exact ranking of Allaire within the class — not confirmed in available sources\n- Exact ranking in Softball America (confirmed they're No. 2 in Rivals; SA ranking may differ)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "WRUF 98.1 FM (Nov 19, 2026)",
+          "url": "https://www.wruf.com/headlines/2026/11/19/florida-softball-welcomes-nations-no-2-recruiting-class/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "The Independent Florida Alligator (Nov 19, 2026)",
+          "url": "https://www.alligator.org/article/2026/11/florida-softball-signing-day-26",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yahoo Sports (Tennessee class context)",
+          "url": "https://sports.yahoo.com/articles/tennessee-softball-coach-karen-weekly-220605938.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "December Portal Opens in 8 Days — The Arms Race for Elite Pitchers Begins",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "8 days until the December transfer portal opens.\n\nArizona still needs an ace after losing Torres to Texas Tech. So do Ole Miss and Auburn.\n\nThe arms race starts Dec. 1. The dead period (Dec. 9-12) means every day before then counts double.\n\n#SoftballTransfer",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#SoftballTransfer"
+          ],
+          "char_count": 258
+        },
+        {
+          "label": "Post 2-2",
+          "text": "OSU pitcher Saylor Davis is reportedly entering the portal Dec. 1.\n\n3 years of eligibility. A left-handed arm.\n\nShe's exactly the kind of player that changes a program's ceiling.\n\nWatch who lands her. #SoftballPortal #NCCASoftball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#SoftballPortal",
+            "#NCCASoftball"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "The December transfer portal opens in eight days. And the race for elite pitching is already heating up.\n\nArizona had one of the best fall records in the country — 15-2 — but they lost pitcher Isa Torres to Texas Tech. Without a true rotation anchor, they're the most motivated buyer in December's market. Ole Miss and Auburn are right behind them.\n\nOklahoma State's Saylor Davis is reportedly planning to enter the portal on Dec. 1 with three years of eligibility remaining. That kind of availability — a pitcher with three full years ahead — is rare in December windows that typically feature graduate transfers or one-year players.\n\nHere's the structural challenge: the portal opens Dec. 1, but a dead period runs Dec. 9-12. That means coaches have exactly eight days to identify, contact, and lock up their targets before a four-day communication blackout hits. Miss that window and you're waiting for the summer portal.\n\nThe teams that win December are the ones who've done the prep work now. Relationships built in November become commitments in the first week of December.",
+        "image_caption": "The December transfer portal opens Dec. 1. Arizona, Ole Miss, and Auburn are hunting for pitchers. OSU's Saylor Davis is reportedly entering on day one with 3 years of eligibility. The 8-day window before the Dec. 9-12 dead period is everything. #SoftballTransfer #NCCASoftball",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-december-portal-8-days-pitching-arms-race.html",
+        "headline": "Eight Days to Change Your Rotation: The December Portal Pitching Race Is On",
+        "word_count": 636
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "December Portal Countdown\n\n**Concept 3 (Social — 1080x1350):**\n- Type: imagn\n- Search Terms: \"Arizona softball pitcher\" OR \"Arizona Wildcats softball\"\n- Caption Overlay: \"8 Days to the December Portal — The Pitching Race Begins\"\n- Mood: Urgency, competition\n\n**Concept 4 (Article Hero — 1200x630):**\n- Type: imagn\n- Search Terms: \"softball pitcher mound game\"\n- Caption Overlay: \"December Portal: 8 Days, 8 Chances to Land an Ace\"\n- Mood: Focus, athletic intensity\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "December Portal Countdown\n**Sources:**\n- nextcommit.ai NCAA Recruiting Calendar 2026-27: https://www.nextcommit.ai/blog/ncaa-transfer-portal-windows-2026-27\n- SI / On3 (Saylor Davis portal entry): https://www.si.com/onsi/softball/transfer-portal/oklahoma-state-softball-pitcher-enters-transfer-portal\n- Yardbarker (Saylor Davis): https://www.yardbarker.com/softball/articles/oklahoma_state_softball_pitcher_enters_transfer_portal/s1_17749_43082941\n- Collegesoftball.app portal tracker: https://collegesoftball.app/portal\n**Verified Facts (HIGH confidence):**\n- December transfer portal window: Dec. 1-15, 2026\n- Dead period: Dec. 9-12 (four days of no contact after portal opens)\n- This compresses actionable time to 8 days (Dec. 1-8)\n- Arizona lost pitcher Isa Torres to Texas (confirmed in multiple prior runs)\n- Ole Miss and Auburn are known to need pitching additions\n**Verified Facts (MEDIUM confidence):**\n- OSU pitcher Saylor Davis reportedly planning to enter portal Dec. 1 with 3 years eligibility — per SI/On3 report (date of announcement ambiguous, could be late 2025 for the Dec 2026 window)\n- Davis is a left-handed pitcher (noted in research)\n**Note:** Davis announcement timing is MEDIUM confidence. Treat as a reported/expected entry, not a confirmed Dec 1, 2026 announcement.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "nextcommit.ai NCAA Recruiting Calendar 2026-27",
+          "url": "https://www.nextcommit.ai/blog/ncaa-transfer-portal-windows-2026-27",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "SI / On3 (Saylor Davis portal entry)",
+          "url": "https://www.si.com/onsi/softball/transfer-portal/oklahoma-state-softball-pitcher-enters-transfer-portal",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yardbarker (Saylor Davis)",
+          "url": "https://www.yardbarker.com/softball/articles/oklahoma_state_softball_pitcher_enters_transfer_portal/s1_17749_43082941",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Collegesoftball.app portal tracker",
+          "url": "https://collegesoftball.app/portal",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "48-Hour Window — Recruiting Shutdown Starts Tuesday, Coaches Must Act Now",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Coaches have 48 hours before the NCAA recruiting shutdown kicks in.\n\nStarting Tuesday, they can't call, text, or email any recruit.\n\nSoftball's No. 1 priority: get those portal conversations locked in before the blackout.\n\nDec. 1 is 8 days away. #NCCASoftball",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCCASoftball"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "Coaches, check your calendars.\n\nThe NCAA softball recruiting shutdown begins Tuesday, November 25 — and it runs through Saturday, November 29. During those five days, coaches cannot call, text, email, or otherwise contact any recruit. This is stricter than a dead period: even written correspondence is prohibited.\n\nToday and Monday are the last unrestricted contact days before that blackout.\n\nWhat does that mean practically? If a coach has an uncommitted 2027 recruit she's been building a relationship with, now is the moment to make the final push. If a staff has a portal target they've been in contact with ahead of the Dec. 1 opening, the conversations happening in the next 48 hours may be the most important ones of the offseason.\n\nThe sequence that follows is unforgiving: shutdown through Nov. 29, then Dec. 1 portal opens, then dead period Dec. 9-12. There is no clean stretch of uninterrupted recruiting time between now and December. Every contact matters.\n\nFor recruits still weighing options: expect your phone to be more active today and tomorrow than it's been in weeks. And then very quiet for five days after that.",
+        "image_caption": "The NCAA softball recruiting shutdown starts Tuesday, Nov. 25 and runs through Nov. 29. Coaches can't call, text, or email any recruit during that period. Today and Monday are the final unrestricted contact days before the blackout — and the Dec. 1 portal window. #NCCASoftball #SoftballRecruiting",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-recruiting-shutdown-nov25-last-48-hours-coaches.html",
+        "headline": "The Last 48 Hours: What the NCAA Recruiting Shutdown Means for Coaches and Recruits",
+        "word_count": 669
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Recruiting Shutdown\n\n**Concept 5 (Social — 1080x1350):**\n- Type: imagn\n- Search Terms: \"NCAA softball coach recruitment\"\n- Caption Overlay: \"48 Hours Left — Recruiting Shutdown Starts Tuesday\"\n- Mood: Urgency, deadline pressure\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Recruiting Shutdown Nov. 25-29\n**Sources:**\n- NCAA 2026-27 D1 Women's Softball Recruiting Calendar: https://ncaaorg.s3.amazonaws.com/compliance/recruiting/calendar/2026-27/2026-27D1Rec_WSBRecruitingCalendar.pdf\n- NCSA Sports: https://www.ncsasports.org/ncaa-eligibility-center/recruiting-rules/ncaa-recruiting-shutdown\n**Verified Facts (HIGH confidence):**\n- Softball recruiting shutdown: Nov. 25-29, 2026\n- During a shutdown, coaches cannot call, text, or email any recruit\n- A shutdown is stricter than a dead period\n- During a dead period, written communication is allowed; during a shutdown it is not\n- The shutdown period is a restriction on institutions, not on players\n**Verified Facts (MEDIUM confidence):**\n- After the Nov. 25-29 shutdown ends (Nov. 30), the Dec. 1 portal window opens\n- Dec. 9-12 dead period follows the opening of the portal window",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "NCAA 2026-27 D1 Women's Softball Recruiting Calendar",
+          "url": "https://ncaaorg.s3.amazonaws.com/compliance/recruiting/calendar/2026-27/2026-27D1Rec_WSBRecruitingCalendar.pdf",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "NCSA Sports",
+          "url": "https://www.ncsasports.org/ncaa-eligibility-center/recruiting-rules/ncaa-recruiting-shutdown",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "SEC Claims Six of D1Softball's Top 10 — The Talent Gap Is Widening",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Six of the top 10 softball recruiting classes in 2027 come from the SEC.\n\nOklahoma, LSU, Auburn, Florida, Tennessee, Texas A&M — all in the D1Softball top 10.\n\nThe talent gap isn't closing. It's widening.\n\n#SECSoftball",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#SECSoftball"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "Here's the 2027 D1Softball national recruiting top 10:\n\n1. Oklahoma\n2. LSU\n3. Oregon\n4. Auburn\n5. Stanford\n6. Florida\n7. UCLA\n8. Arizona State\n9. Tennessee\n10. Texas A&M\n\nCount the SEC programs: Oklahoma, LSU, Auburn, Florida, Tennessee, Texas A&M. That's six of ten spots.\n\nThe Pac-conference is making a push — Oregon (No. 3), Stanford (No. 5), and UCLA (No. 7) are all in there, and that's genuinely impressive. But the SEC's ability to field six top-10 classes simultaneously is the defining story of 2027 recruiting.\n\nWhat does this mean for the 2027 WCWS? Every title contender is likely coming from that list. The preseason polls in January will formalize the conversation. But the seeds were planted in November.\n\nTexas A&M added four-star pitcher Brielle Gardiner (No. 36 nationally, Softball America) this week. Tennessee signed six players led by No. 1 pitcher Kaylee Hodges. LSU and Oklahoma sit at No. 1 in Softball America and D1Softball respectively. The SEC isn't just recruiting well — it's recruiting elite.",
+        "image_caption": "Six of D1Softball's top 10 recruiting classes for 2027 come from the SEC: Oklahoma, LSU, Auburn, Florida, Tennessee, and Texas A&M. Three Pac programs (Oregon, Stanford, UCLA) also make the list. The WCWS field for 2027 is taking shape. #SECSoftball #2027Recruiting",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-sec-six-top10-d1softball-recruiting-dominance-2027.html",
+        "headline": "The SEC Holds Six of D1Softball's Top 10 Recruiting Spots — and the Gap Is Widening",
+        "word_count": 677
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "SEC Recruiting Dominance\n\n**Concept 6 (Social — 1080x1350):**\n- Type: imagn\n- Search Terms: \"LSU softball team celebration\"\n- Caption Overlay: \"SEC Claims 6 of D1Softball's Top 10 Classes — 2027 Recruiting\"\n- Mood: Dominant, conference pride\n\n**Concept 7 (Article Hero — 1200x630):**\n- Type: imagn\n- Search Terms: \"SEC softball conference\"\n- Caption Overlay: \"Six SEC Programs. One Conference. The Future of Softball.\"\n- Mood: Powerful, commanding\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "SEC Recruiting Dominance\n**Sources:**\n- Nov. 22, 2026 pipeline research (confirmed in D1Softball top 10 list)\n- uclabruins.com (Nov 11, 2026): https://uclabruins.com/news/2026/11/11/softball-announces-2027-signing-class (UCLA No. 4 Softball America)\n- on3.com (Texas A&M, Brielle Gardiner): https://www.on3.com/softball/news/texas-am-adds-four-star-pitcher-brielle-gardiner-to-talented-2027-class\n- utsports.com (Tennessee, Nov 16): https://utsports.com/news/2026/11/16/softball-lady-vols-sign-six-in-class-of-2027\n**Verified Facts (HIGH confidence):**\n- D1Softball top 10 (2027): Oklahoma (1), LSU (2), Oregon (3), Auburn (4), Stanford (5), Florida (6), UCLA (7), Arizona State (8), Tennessee (9), Texas A&M (10)\n- SEC programs in that top 10: Oklahoma, LSU, Auburn, Florida, Tennessee, Texas A&M = 6 programs\n- Pac-conference programs in top 10: Oregon, Stanford, UCLA = 3 programs\n- UCLA ranked No. 4 by Softball America (per UCLA Athletics release, Nov 11)\n- Tennessee signed 6 players; Kaylee Hodges (No. 1 pitcher, No. 2 overall SA) is the headliner\n- Texas A&M added Brielle Gardiner (four-star pitcher, No. 36 SA)\n**Verified Facts (MEDIUM confidence):**\n- Softball America ranks LSU No. 1 (confirmed from multiple prior runs)\n- Softball America ranks Florida No. 2 (Rivals ranking confirmed today; SA ranking may vary)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "uclabruins.com (Nov 11, 2026)",
+          "url": "https://uclabruins.com/news/2026/11/11/softball-announces-2027-signing-class",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "on3.com (Texas A&M, Brielle Gardiner)",
+          "url": "https://www.on3.com/softball/news/texas-am-adds-four-star-pitcher-brielle-gardiner-to-talented-2027-class",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "utsports.com (Tennessee, Nov 16)",
+          "url": "https://utsports.com/news/2026/11/16/softball-lady-vols-sign-six-in-class-of-2027",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Bre Warren Ends Virginia Tech Eligibility Fight",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Virginia Tech's Bre Warren is stepping away from her eligibility fight.\n\nShe won't seek a permanent injunction after her state court request was denied.\n\n850 athletes are still fighting in 200+ cases. Her road ends here.\n\n#NCAASoftball #5for5",
+          "posting_time": "5:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAASoftball",
+            "#5for5"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "Bre Warren's fight for a sixth year of softball is over.\n\nThe Virginia Tech outfielder and South Carolina graduate transfer filed for a preliminary injunction in Montgomery County Circuit Court after the NCAA denied her eligibility waiver. The court denied the injunction. Now, according to Ground News, Warren will not seek a permanent injunction.\n\nShe was on VT's roster this season. She just never got to play.\n\nWarren's case was one of the more visible individual eligibility fights in a year defined by them. The Tenth Circuit reversed the federal five-for-five injunction in November — which closed the federal door for the class of 2022. State courts became the primary avenue, and Warren pursued one of those paths.\n\nShe didn't get what she was fighting for. But 200+ cases involving 850 athletes are still active in state courts. The NCAA's eligibility rules remain contested, and the fight for a legislative fix in Congress is ongoing. Warren's chapter is closing. The larger story isn't.",
+        "image_caption": "Virginia Tech outfielder Bre Warren won't seek a permanent injunction after her state court request was denied. Her eligibility fight is over. But 200+ cases involving 850 athletes are still active nationwide. The legal battle over the NCAA's five-year rule continues. #NCAASoftball #5for5",
+        "posting_time": "5:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-bre-warren-ends-virginia-tech-eligibility-fight.html",
+        "headline": "Bre Warren Ends Her Virginia Tech Eligibility Fight — What It Means for 850 Athletes Still in the Battle",
+        "word_count": 701
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bre Warren Ends Eligibility Fight\n\n**Concept 8 (Social — 1080x1350):**\n- Type: imagn\n- Search Terms: \"Virginia Tech softball outfield\"\n- Caption Overlay: \"Bre Warren Ends Eligibility Fight — 850 Athletes Still in the Battle\"\n- Mood: Somber, determined, legal gravity"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Bre Warren Ends VT Eligibility Fight\n**Sources:**\n- SI (eligibility lawsuit): https://www.si.com/onsi/softball/news/virginia-tech-softball-outfielder-sues-ncaa-over-eligibility\n- Yardbarker: https://www.yardbarker.com/softball/articles/virginia_tech_softball_outfielder_sues_ncaa_over_eligibility/s1_17749_43082941\n- The Franklin News-Post (injunction denied): https://thefranklinnewspost.com/eedition/page_6ce8932d-dafb-5048-8f4d-4067f61992ca.html\n- Ground News (ends quest): https://ground.news/article/bre-warren-ends-quest-to-play-for-virginia-tech-softball\n- Tech Sideline (VT coverage): https://techsideline.com/message_board/vtsoftball/764602\n**Verified Facts (HIGH confidence):**\n- Bre Warren is a Virginia Tech outfielder / South Carolina graduate transfer\n- She sued the NCAA in Montgomery County Circuit Court over an eligibility waiver denial\n- The court denied her request for a preliminary injunction\n- She is on the VT roster but has not played in 2026 due to the NCAA waiver denial\n- Ground News reports she will not seek a permanent injunction\n**Verified Facts (MEDIUM confidence):**\n- The broader context: 200+ state cases active, 850 athletes affected (from prior runs, consistent)\n- Tenth Circuit reversed Wisne v. NCAA federal injunction ~Nov. 7 (confirmed in prior research)\n- NCAA seeking Congressional legislation\n**Broader context verified (HIGH):**\n- NCAA's five-year eligibility rule is at center of the dispute\n- State courts have been granting relief at a higher rate than federal courts in individual athlete cases",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "SI (eligibility lawsuit)",
+          "url": "https://www.si.com/onsi/softball/news/virginia-tech-softball-outfielder-sues-ncaa-over-eligibility",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yardbarker",
+          "url": "https://www.yardbarker.com/softball/articles/virginia_tech_softball_outfielder_sues_ncaa_over_eligibility/s1_17749_43082941",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "The Franklin News-Post (injunction denied)",
+          "url": "https://thefranklinnewspost.com/eedition/page_6ce8932d-dafb-5048-8f4d-4067f61992ca.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Ground News (ends quest)",
+          "url": "https://ground.news/article/bre-warren-ends-quest-to-play-for-virginia-tech-softball",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Tech Sideline (VT coverage)",
+          "url": "https://techsideline.com/message_board/vtsoftball/764602",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

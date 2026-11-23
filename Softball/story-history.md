@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## Pipeline Run: 2026-11-23
+
+### Story 1: Florida No. 2 Class for Second Straight Year — Allaire, Calvo Lead Gators
+- **Date:** 2026-11-23
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Tim Walton's Florida Gators land back-to-back No. 2 national classes. Pitcher Addison Allaire and infielder Niyali Calvo (top-15) headline six signees. Six starters return, 4-0 fall. Florida has never won a WCWS title — back-to-back elite classes represent their best shot yet.
+- **Content Produced:** Article (article-01, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - January preseason poll ranking
+  - Spring scrimmage results with new signees
+  - WCWS run narrative (title drought angle)
+
+### Story 2: December Portal Opens in 8 Days — The Arms Race for Elite Pitchers
+- **Date:** 2026-11-23
+- **Tier:** 1
+- **Classification:** FOLLOW UP (portal countdown — Saylor Davis angle updates Nov 22)
+- **Angle:** Dec. 1 portal opens in 8 days. OSU's Saylor Davis reportedly entering on day one with 3 years eligibility. Arizona (lost Torres), Ole Miss, Auburn are top buyers. Dead period Dec. 9-12 compresses actionable window to 8 days. Teams with Nov relationships win Dec. portal.
+- **Content Produced:** Article (article-02, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Portal opening day — Davis commitment destination
+  - Arizona/Ole Miss/Auburn landing a pitcher
+  - Dead period Dec. 9-12 and post-blackout signings
+
+### Story 3: 48-Hour Window — Recruiting Shutdown Starts Tuesday
+- **Date:** 2026-11-23
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** NCAA softball recruiting shutdown Nov. 25-29. Coaches cannot call, text, or write any recruit. Today and Monday are last unrestricted contact days. Sequence is unforgiving: shutdown → Dec. 1 portal → dead period Dec. 9-12. Every contact before Tuesday matters.
+- **Content Produced:** Article (article-03, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Commitments announced right before shutdown (today/Monday)
+  - Portal activity burst on Dec. 1 after blackout ends
+  - Dead period Dec. 9-12 recap
+
+### Story 4: SEC Claims Six of D1Softball's Top 10 — Talent Gap Is Widening
+- **Date:** 2026-11-23
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** D1Softball 2027 top 10: Oklahoma, LSU, Oregon, Auburn, Stanford, Florida, UCLA, Arizona State, Tennessee, Texas A&M. Six SEC programs. Three Pac programs (Oregon No. 3, Stanford No. 5, UCLA No. 7) represent genuine challenge but SEC depth is unmatched. January preseason polls will formalize SEC dominance.
+- **Content Produced:** Article (article-04, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - January preseason poll results
+  - Spring results for SEC top-6 programs
+  - Oregon as top SEC challenger
+
+### Story 5: Bre Warren Ends Virginia Tech Eligibility Fight
+- **Date:** 2026-11-23
+- **Tier:** 2
+- **Classification:** FOLLOW UP (closes 5-for-5/individual athlete storyline)
+- **Angle:** Warren state court denied preliminary injunction, will not seek permanent injunction. VT outfielder never played in 2026. 200+ cases, 850 athletes still active. Tenth Circuit reversed Wisne federal injunction Nov. 7. Congressional legislation remains viable path for consistent resolution.
+- **Content Produced:** Article (article-05, Jordan Reeves), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - LSU Monticelli/Lassiter group case ruling
+  - Congressional eligibility legislation progress
+  - Other high-profile individual case outcomes
+
+---
+
 ## Pipeline Run: 2026-11-22
 
 ### Story 1: Oregon Rises — The No. 3 D1Softball Class
