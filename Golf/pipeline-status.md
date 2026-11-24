@@ -1,9 +1,30 @@
 # Golf Fanrecap — Pipeline Status
 
-## Last Run: 2026-11-23
+## Last Run: 2026-11-24
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** Golf Fanrecap
+
+---
+
+### 2026-11-24 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles, image manifest)
+- Step 10: verify-facts.py — 5 stories, 38 claims, HIGH: 64; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 0 FB posts (known parsing), 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (22 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy; content-dashboards not in session scope)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via git remote with PAT
+
+**Stories covered:**
+1. T1 NEW: Marco Penge wins RSM Classic in 4-man playoff; first PGA Tour win; card saved; moves 120th→64th (Marcus Cole)
+2. T1 FOLLOW UP: LIV Golf wind-down advancing; Nov 5 hearing confirmed; Jan 2027 liquidation target (Ryan Calloway)
+3. T2 NEW: BMW Australian PGA Championship preview — Nov 26-29, The Lakes Sydney, record AU$2.5M purse (Jake Torres)
+4. T2 FOLLOW UP: ~19 former LIV players to DP World Tour incl. DeChambeau, Rahm, Oosthuizen (Marcus Cole)
+5. T3 NEW: PGA Tour 2026 season closes — Scheffler FedExCup, Penge RSM, LIV backdrop defines year (Ryan Calloway)
 
 ---
 

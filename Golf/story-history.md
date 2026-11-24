@@ -880,3 +880,42 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** Dates Nov 26-29; The Lakes Golf Club, Sydney; strong international field; LIV collapse context for Australian players; Ripper GC trio impacted
 - **Byline:** Jake Torres
 - **Status:** NEW
+
+---
+
+## 2026-11-24
+
+### STORY 1: Marco Penge Wins RSM Classic in Four-Man Playoff
+- **Tier:** 1
+- **Category:** RSM Classic / Marco Penge / PGA Tour / Sea Island
+- **Key facts:** Penge wins in 4-man playoff vs Greyserman, Thorbjornsen, Li; all at 16-under 266; birdie 18 twice; 4-ft putt to win; $1.332M prize; first PGA Tour win; moved from 120th to 64th in FedExCup Fall standings; card saved
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 2: LIV Golf Wind-Down Advances Through Bankruptcy
+- **Tier:** 1
+- **Category:** LIV Golf / bankruptcy / wind-down / PGA Tour
+- **Key facts:** Nov 5 hearing confirmed wind-down; no LIV 2.0; January 2027 liquidation target; PGA Tour contests subpoenas; $15.6M exec payments question; PIF ended support after 2026 season
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 3: BMW Australian PGA Championship Preview
+- **Tier:** 2
+- **Category:** BMW Australian PGA Championship / DP World Tour / The Lakes Sydney / Min Woo Lee
+- **Key facts:** Nov 26-29 at The Lakes, Sydney (first time since 1987); AU$2.5M record purse; DP World Tour season opener; Min Woo Lee favorite
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 4: Former LIV Players Moving to DP World Tour
+- **Tier:** 2
+- **Category:** LIV Golf / DP World Tour / DeChambeau / Rahm / Oosthuizen
+- **Key facts:** ~19 former LIV players to DP World Tour; DeChambeau, Rahm, Oosthuizen named; PGA Tour reinstatement Jan 2027
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 5: PGA Tour 2026 Season Wrap
+- **Tier:** 3
+- **Category:** PGA Tour / 2026 season / Scottie Scheffler / FedExCup
+- **Key facts:** Season closed with RSM Classic; Scheffler won FedExCup/Tour Championship; Penge RSM winner; Blades Brown youngest winner in 95 yrs; LIV Golf collapse backdrop
+- **Byline:** Ryan Calloway
+- **Status:** NEW

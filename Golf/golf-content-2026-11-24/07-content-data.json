@@ -1,0 +1,307 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-24",
+  "compiled_at": "2026-11-24T11:27:10.228239+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Marco Penge Wins RSM Classic in Four-Man Playoff for First PGA Tour Title",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Marco Penge was 120th on the FedExCup Fall list heading into the final round.\n\nHe birdied 18 twice. Won a four-man playoff. Walked away with his first PGA Tour title and $1.3M.\n\nOne of the rounds of the year. #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour"
+          ],
+          "char_count": 217
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Penge 1. Greyserman, Thorbjornsen, Li 0.\n\nA four-way tie after 72 holes at the RSM Classic. Then Penge made a 4-foot birdie on the first playoff hole.\n\nFirst PGA Tour win. Card saved. The RSM Classic has a memorable champion. #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-penge-rsm-classic-first-pga-tour-win.html",
+        "headline": "Marco Penge Wins RSM Classic in Four-Man Playoff for First PGA Tour Title",
+        "word_count": 562
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Marco Penge Wins RSM Classic\n\n**Image 1A** — Social (1080x1350)\n- **Photo source:** imagn\n- **Search terms:** \"Marco Penge\"\n- **Concept:** Penge celebrating with the trophy or reacting after the winning putt; fist pump or arms raised\n- **Text overlay:** \"FIRST WIN — Penge wins RSM Classic in 4-man playoff\"\n- **Status:** not_started\n\n**Image 1B** — Article Hero (1200x630)\n- **Photo source:** imagn\n- **Search terms:** \"RSM Classic Sea Island\"\n- **Concept:** Player celebrating on the 18th green at Sea Island; trophy presentation\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Marco Penge Wins RSM Classic\n- **Event:** 2026 RSM Classic, Sea Island, Georgia\n- **Winner:** Marco Penge (England)\n- **Score:** All four playoff participants finished regulation at 16-under 266\n- **Playoff:** Four-man playoff — Penge, Max Greyserman, Michael Thorbjornsen, Haotong Li\n- **Winning moment:** Penge birdied the 18th hole to force the playoff, then won on the first extra hole with a 4-foot birdie putt\n- **Prize:** $1,332,000 of a $7,400,000 total purse\n- **Other payouts:** Each of Greyserman, Thorbjornsen, Li earned $559,933\n- **Significance:** First PGA Tour win for Penge; moved from 120th to 64th in FedExCup Fall standings; retained PGA Tour card for 2027\n- **Background:** English player, born Crawley, May 15, 1998; first DP World Tour win at 2025 Hainan Classic; won Danish Golf Championship 2025; earned dual PGA Tour membership for 2026 via Race to Dubai; previously suspended two months (betting violation, did not bet on own events); has ADHD (publicly discussed)\n- **Source:** Golf Channel https://www.golfchannel.com/pga-tour/news/rsm-classic-2026-marco-penge-wins-first-pga-tour-title-in-dramatic-season-capping-playoff; Yahoo Sports https://sports.yahoo.com/articles/marco-penge-wins-rsm-classic-193220582.html; thegolfnewsnet.com https://thegolfnewsnet.com/golfnewsnetteam/2026/11/23/2026-the-rsm-classic-final-results-prize-money-payout-pga-tour-leaderboard-and-how-much-each-golfer-won-145672/; rsmus.com https://www.rsmus.com/newsroom/2026/2026-rsm-classic-winner\n**Confidence:** HIGH (multiple independent sources confirm win, playoff, purse details)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Golf Channel",
+          "url": "https://www.golfchannel.com/pga-tour/news/rsm-classic-2026-marco-penge-wins-first-pga-tour-title-in-dramatic-season-capping-playoff",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Golf Channel https://www.golfchannel.com/pga-tour/news/rsm-classic-2026-marco-penge-wins-first-pga-tour-title-in-dramatic-season-capping-playoff; Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/marco-penge-wins-rsm-classic-193220582.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Golf Channel https://www.golfchannel.com/pga-tour/news/rsm-classic-2026-marco-penge-wins-first-pga-tour-title-in-dramatic-season-capping-playoff; Yahoo Sports https://sports.yahoo.com/articles/marco-penge-wins-rsm-classic-193220582.html; thegolfnewsnet.com",
+          "url": "https://thegolfnewsnet.com/golfnewsnetteam/2026/11/23/2026-the-rsm-classic-final-results-prize-money-payout-pga-tour-leaderboard-and-how-much-each-golfer-won-145672/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Golf Channel https://www.golfchannel.com/pga-tour/news/rsm-classic-2026-marco-penge-wins-first-pga-tour-title-in-dramatic-season-capping-playoff; Yahoo Sports https://sports.yahoo.com/articles/marco-penge-wins-rsm-classic-193220582.html; thegolfnewsnet.com https://thegolfnewsnet.com/golfnewsnetteam/2026/11/23/2026-the-rsm-classic-final-results-prize-money-payout-pga-tour-leaderboard-and-how-much-each-golfer-won-145672/; rsmus.com",
+          "url": "https://www.rsmus.com/newsroom/2026/2026-rsm-classic-winner",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "LIV Golf Wind-Down Advances — Disclosure Hearing Day, Liquidation on Track for January",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "LIV Golf's timeline:\nSept 8 — Chapter 11 bankruptcy\nNov 5 — lawyers confirm wind-down\nJan 2027 — liquidation target\n\nA $5 billion era is wrapping up its final chapters in a New Jersey courtroom.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 194
+        },
+        {
+          "label": "Post 2-2",
+          "text": "LIV Golf's lawyers told the court: \"unable to bring key parties to a fully consensual arrangement.\"\n\nNo LIV 2.0. The league is winding down. January liquidation is the target.\n\nProfessional golf restructures. #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Golf"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-liv-golf-wind-down-bankruptcy-latest.html",
+        "headline": "LIV Golf's Wind-Down Advances Through Bankruptcy Process as January Liquidation Target Nears",
+        "word_count": 541
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Wind-Down\n\n**Image 2A** — Social (1080x1350)\n- **Photo source:** imagn\n- **Search terms:** \"LIV Golf\"\n- **Concept:** LIV Golf signage or branding at a tournament; era-ending visual\n- **Text overlay:** \"WIND-DOWN — LIV Golf's final chapters in a courtroom\"\n- **Status:** not_started\n\n**Image 2B** — Article Hero (1200x630)\n- **Photo source:** imagn\n- **Search terms:** \"LIV Golf tournament\"\n- **Concept:** LIV Golf course signage or branded visual\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf Wind-Down\n- **Status:** Wind-down confirmed November 5, 2026 in New Jersey Bankruptcy Court\n- **Date of key hearing:** November 5, 2026 — attorneys confirmed wind-down decision\n- **Attorney quote:** Gibson Dunn's Matthew Williams said \"the debtors were ultimately unable to bring the key parties to a fully consensual arrangement that would have supported a LIV 2.0 league\"\n- **Timeline:** January 2027 liquidation target\n- **Background:** LIV filed Chapter 11 bankruptcy September 8, 2026; Saudi PIF ended support after 2026 season\n- **PGA Tour:** Fighting subpoenas filed in connection with the bankruptcy\n- **Open question:** Whether $15.6 million in pre-filing payments to 7 executives can be reversed\n- **Source:** TSN https://www.tsn.ca/golf/article/liv-golf-is-winding-down-operations-lawyer-says-in-bankruptcy-hearing/; Bleacher Report; CBS Sports; golf.com\n**Confidence:** HIGH (multiple sources confirm Nov 5 hearing and wind-down details)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "TSN",
+          "url": "https://www.tsn.ca/golf/article/liv-golf-is-winding-down-operations-lawyer-says-in-bankruptcy-hearing/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "BMW Australian PGA Championship Preview — Min Woo Lee Among Favorites at The Lakes",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The DP World Tour season opens Thursday at The Lakes Golf Club in Sydney.\n\nBMW Australian PGA Championship. Record AU$2.5M purse. Min Woo Lee among the favourites.\n\nGolf is back in Sydney for the first time at The Lakes since 1987. #Golf #AusPGA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Golf",
+            "#AusPGA"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-bmw-australian-pga-championship-preview.html",
+        "headline": "BMW Australian PGA Championship Opens DP World Tour Season at The Lakes Sydney With Record Purse",
+        "word_count": 470
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "BMW Australian PGA Championship\n\n**Image 3A** — Social (1080x1350)\n- **Photo source:** imagn\n- **Search terms:** \"Min Woo Lee\"\n- **Concept:** Min Woo Lee mid-swing or celebrating; Australian background if available\n- **Text overlay:** \"SEASON OPENER — BMW Australian PGA Championship, Sydney\"\n- **Status:** not_started\n\n**Image 3B** — Article Hero (1200x630)\n- **Photo source:** imagn\n- **Search terms:** \"The Lakes Golf Club Sydney\"\n- **Concept:** Aerial or fairway view of The Lakes; DP World Tour branding visible\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "BMW Australian PGA Championship\n- **Event:** BMW Australian PGA Championship (DP World Tour season opener)\n- **Venue:** The Lakes Golf Club, Sydney, New South Wales (first time since 1987 at The Lakes)\n- **Dates:** November 26-29, 2026\n- **Prize purse:** AU$2.5 million (most in event's 121-year history)\n- **Notable:** Opening event of the 2026 DP World Tour season\n- **Favorites:** Min Woo Lee (joint-favorite per Golf Monthly)\n- **Source:** sydney.com; app.europeantour.com; golfmagic.com\n**Confidence:** MEDIUM (venue and dates confirmed by multiple sources; purse confirmed; some source conflict on exact venue)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Former LIV Players Setting Course for DP World Tour as Dissolution Nears Completion",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "DeChambeau. Rahm. Oosthuizen.\n\nAround 19 former LIV players are heading to the DP World Tour as LIV Golf winds down.\n\nThe redistribution of professional golf's biggest names is underway. #Golf #LIVGolf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Golf",
+            "#LIVGolf"
+          ],
+          "char_count": 201
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-former-liv-players-dp-world-tour-dechambeau-rahm.html",
+        "headline": "DeChambeau, Rahm, Oosthuizen Among 19 Former LIV Players Moving to DP World Tour as Redistribution Accelerates",
+        "word_count": 527
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Former LIV Players / DP World Tour\n\n**Image 4A** — Social (1080x1350)\n- **Photo source:** imagn\n- **Search terms:** \"Bryson DeChambeau\"\n- **Concept:** DeChambeau in action or celebrating; competitive expression\n- **Text overlay:** \"BACK TO TOURS — Former LIV players land on DP World Tour\"\n- **Status:** not_started\n\n**Image 4B** — Article Hero (1200x630)\n- **Photo source:** imagn\n- **Search terms:** \"Jon Rahm\"\n- **Concept:** Rahm mid-swing or post-shot; European Tour/DP World Tour setting\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Former LIV Players / DP World Tour\n- **Number migrating:** approximately 19 former LIV players (from previous pipeline research Nov 23)\n- **Named players:** Bryson DeChambeau, Jon Rahm, Louis Oosthuizen\n- **PGA Tour reinstatement:** Decisions not until January 2027; \"program closed\" per PGA Tour\n- **Source:** From Golf pipeline-status Nov 23 prior coverage; previously confirmed in research\n**Confidence:** MEDIUM (from prior pipeline research; specific player names and DP World Tour migration confirmed in Nov 23 stories)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "PGA Tour 2026 Season Closes — RSM Classic Caps a Dramatic Year",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The 2026 PGA Tour season is over.\n\nScheffler won the Tour Championship. Penge won the RSM Classic in a playoff. Blades Brown became one of the youngest winners in 95 years.\n\nAnd LIV Golf filed for bankruptcy. What a year for professional golf.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-pga-tour-2026-season-wrap.html",
+        "headline": "PGA Tour 2026 Season Closes After RSM Classic — Scheffler, Penge, and Transformation Define the Year",
+        "word_count": 543
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PGA Tour 2026 Season Summary\n\n**Image 5A** — Social (1080x1350)\n- **Photo source:** imagn\n- **Search terms:** \"Scottie Scheffler\"\n- **Concept:** Scheffler celebrating FedExCup win or Tour Championship trophy moment\n- **Text overlay:** \"2026 SEASON CLOSED — Scheffler, Penge, Brown headline a dramatic year\"\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "PGA Tour 2026 Season Summary\n- **Season-ending event:** RSM Classic (ended November 23, 2026)\n- **Tour Championship winner (FedExCup):** Scottie Scheffler (confirmed by Sky Sports)\n- **RSM Classic winner:** Marco Penge (first PGA Tour win)\n- **Notable 2026 events:** Blades Brown youngest PGA Tour winner in 95 years (November 2026)\n- **Context:** LIV Golf's collapse reshaping professional golf for 2027\n- **Source:** Sky Sports schedule page; initial golf search results\n**Confidence:** HIGH (Scheffler Tour Championship confirmed by Sky Sports; RSM Classic confirmed)",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
