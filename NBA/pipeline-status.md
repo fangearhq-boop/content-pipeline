@@ -1,10 +1,31 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Current Status
-**Last Run:** 2026-11-23
+**Last Run:** 2026-11-24
 **Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy; git push via git remote
 
 ## Pipeline Run Log
+
+### 2026-11-24 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles, image manifest)
+- Step 10: verify-facts.py — 5 stories, 41 claims, HIGH: 61; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 0 FB posts (known parsing), 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (22 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy; content-dashboards not in session scope)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via git remote with PAT
+
+**Stories covered:**
+1. T1 NEW: Bucks 116, Raptors 111 — Herro 32; Milwaukee ends 13-game losing streak; now 2-14 (Damon Pierce)
+2. T1 NEW: Timberwolves 142, Nets 116 — McDaniels career-high 34; Randle 29; Minnesota season-high scoring (Jake Torres)
+3. T2 NEW: Trail Blazers 128, 76ers 111 — Avdija 31; Blazers hit 19 threes as a team (Marcus Cole)
+4. T2 NEW: Bulls 122, Cavaliers 108 — 63 bench points; Hawkins season-high 19; Hield 17; led 72-50 at half (Damon Pierce)
+5. T3 NEW: Spurs 123, Kings 107 — no Wembanyama, no Fox; outscored Kings 41-23 in Q2 (Jake Torres)
+
+---
 
 ### 2026-11-23 ✅ (Automated)
 - Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles, image manifest)

@@ -1454,3 +1454,42 @@
 - **Key facts:** Heat undefeated in group; Spurs top point differential in tournament; Knicks on 5-game streak; knockout round begins December
 - **Byline:** Marcus Cole
 - **Status:** NEW
+
+---
+
+## 2026-11-24
+
+### STORY 1: Bucks 116, Raptors 111 — Tyler Herro 32, Milwaukee Ends 13-Game Losing Streak
+- **Tier:** 1
+- **Category:** Milwaukee Bucks / Toronto Raptors / Tyler Herro
+- **Key facts:** Herro 32 pts; Bucks end 13-game losing streak; Milwaukee now 2-14
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 2: Timberwolves 142, Nets 116 — McDaniels Career-High 34, Randle 29
+- **Tier:** 1
+- **Category:** Minnesota Timberwolves / Brooklyn Nets / Jaden McDaniels / Julius Randle
+- **Key facts:** McDaniels career-high 34 pts; Randle 29 pts; Minnesota's highest-scoring game of season
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 3: Trail Blazers 128, 76ers 111 — Avdija 31, 19 Three-Pointers
+- **Tier:** 2
+- **Category:** Portland Trail Blazers / Philadelphia 76ers / Deni Avdija
+- **Key facts:** Avdija 31 pts; Blazers hit 19 threes as a team; Portland wins big
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 4: Bulls 122, Cavaliers 108 — 63 Bench Points, Hawkins Season-High 19
+- **Tier:** 2
+- **Category:** Chicago Bulls / Cleveland Cavaliers / Jordan Hawkins / Buddy Hield
+- **Key facts:** 63 bench points; Hawkins season-high 19 pts; Hield 17 pts; Bulls led 72-50 at half
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 5: Spurs 123, Kings 107 — Depth Win Without Wembanyama and Fox
+- **Tier:** 3
+- **Category:** San Antonio Spurs / Sacramento Kings / Victor Wembanyama
+- **Key facts:** No Wembanyama; no De'Aaron Fox; Spurs outscored Kings 41-23 in Q2
+- **Byline:** Jake Torres
+- **Status:** NEW
