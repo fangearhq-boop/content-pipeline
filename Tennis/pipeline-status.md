@@ -1,6 +1,36 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-11-23
+## Current Run: 2026-11-24
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Davis Cup Finals Day 1 (Czech vs Canada, depleted Canada, FAA leads H2H 3-1 vs Lehečká — MEDIUM); Alcaraz 4th career GS+ATP Finals club (Federer/Agassi/Djokovic) — HIGH; Andreeva wins WTA Finals 7-5 6-3 vs Svitolina, youngest since Sharapova 2004 — HIGH; Rybakina No.1/Andreeva No.2/Sabalenka No.3 year-end — HIGH; Sinner surgery not ruled out, AO 2027 in doubt — MEDIUM; Cirstea retires career-best No.16 after 21 years — HIGH |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (Nov 23 S3: Davis Cup preview → Day 1 underway); S2 FOLLOW-UP (Nov 23 S1+S2: ATP Finals result → post-finals legacy/debate); S3 NEW (Andreeva WTA Finals, first coverage); S4 NEW ANGLE (Nov 23 S5: Sinner season review → surgery/AO2027 doubt); S5 NEW (Cirstea retirement) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Marcus Cole [S1,S4], Ryan Calloway [S2,S5], Elena Voss [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags; all key claims verified multi-source; LOW fact (surgery in Finland) flagged and excluded |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories (2 each for S1+S2, 1 each for S3-S5); all ≤280 chars; code-block format |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories; player-name-only search terms |
+| Articles (5) | COMPLETE | article-01 Davis Cup Finals QF Day 1 (Marcus Cole T1 ~520w); article-02 Alcaraz legacy/No.1 debate (Ryan Calloway T1 ~560w); article-03 Andreeva WTA Finals (Elena Voss T2 ~530w); article-04 Sinner surgery/AO2027 (Marcus Cole T2 ~490w); article-05 Cirstea retirement (Ryan Calloway T2 ~440w) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 25 claims; image warnings (expected, all not_started) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles, 5 images; posting window warnings (pre-existing format mismatch) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-11-24.xlsx (7 posts) + tfr-postplanner-tobi-2026-11-24.xlsx (7 TOBI posts); FB=0 in export (pre-existing format mismatch) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 24 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB image captions
+- **Articles:** 5 (bylines: Marcus Cole [S1,S4], Ryan Calloway [S2,S5], Elena Voss [S3])
+- **Key stories:** Davis Cup Finals QF Day 1 — Czech vs depleted Canada; Alcaraz legacy/"real No. 1" debate (4th member of Federer/Agassi/Djokovic club); Andreeva youngest WTA Finals champion since Sharapova 2004; Sinner AO 2027 in doubt; Cirstea retirement at career-best No. 16
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); PostPlanner FB=0 (pre-existing format mismatch)
+
+---
+
+## Previous Run: 2026-11-23
 
 | Step | Status | Notes |
 |------|--------|-------|

@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## November 24, 2026
+
+| 2026-11-24 | Davis Cup Finals QF Day 1 — Czech Republic (Lehečká No. 14, Menšík No. 15) vs depleted Canada (Shapovalov + Diallo both out injured); FAA leads H2H vs Lehečká 3-1; Italy vs South Korea on Nov 25; Italy seeking 4th consecutive title. Sources: daviscup.com, Wikipedia, archynewsy.com | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Nov 23 S3: Davis Cup Finals preview → Day 1 underway) |
+| 2026-11-24 | Alcaraz post-ATP Finals — 4th player in ATP history with career Grand Slam + ATP Finals (Federer 2003, Agassi 1999, Djokovic 2015); "real No. 1" debate (Zverev year-end No. 1 by points, Alcaraz holds trophy); Alcaraz ends year No. 4; left leg concern managed. Sources: ATP Tour, tennis365.com, Manila Times | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (Nov 23 S1+S2: Alcaraz wins ATP Finals + historic season) |
+| 2026-11-24 | Mirra Andreeva wins 2026 WTA Finals — defeated Svitolina 7-5, 6-3 at Indian Wells (Nov 8-15); youngest champion since Sharapova 2004; first no-dropped-set win since Świątek 2023; 4th title of season; year-end: Rybakina No. 1 (8099 pts), Andreeva No. 2 career high (7806 pts), Sabalenka No. 3 (6685 pts). Sources: justwomenssports.com, Wikipedia, WTA Tennis, Yahoo Sports | T2 | X, FB, Article | Elena Voss |
+| 2026-11-24 | Sinner surgery update — fresh medical consultations haven't ruled out knee surgery; ~4 months conservative treatment; AO 2027 (Jan 17) now in doubt if surgery proceeds; previously named AO as return target. Sources: tennis365.com, tennisuptodate.com, Al Jazeera | T2 | X, FB, Article | Marcus Cole; NEW ANGLE (Nov 23 S5: Sinner season review → specific medical update) |
+| 2026-11-24 | Sorana Cirstea retires from professional tennis at career-best No. 16 after 21-year career; announced start of 2026 as final season; exited at Hong Kong Open QF; played through Federer/Nadal/Djokovic/Serena era. Sources: lastwordonsports.com, foxnews/outkick | T2 | X, FB, Article | Ryan Calloway |
+
+---
+
+
 ## November 23, 2026
 
 | 2026-11-23 | Alcaraz wins 2026 ATP Finals — beats Zverev 6-2, 7-6(9-7) in Turin; three set points saved in second-set tiebreak; first Spanish champion since Corretja 1998 (28 years); 5-0 campaign, zero sets dropped; $5,171,000 prize; "means the world to me." Sources: Al Jazeera, ATP Tour, Sky Sports, TennisWatcher, Xinhua | T1 | X, FB, Article | Elena Voss; FOLLOW-UP (Nov 22 S3: ATP Finals Final preview → result) |

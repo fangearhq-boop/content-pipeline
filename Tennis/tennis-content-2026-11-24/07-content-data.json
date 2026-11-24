@@ -1,0 +1,403 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-24",
+  "compiled_at": "2026-11-24T12:13:36.687266+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Davis Cup Finals QF Day 1 — Czech Republic vs. Canada Opens Bologna",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Davis Cup Finals are LIVE in Bologna. Czech Republic (Lehečká No. 14, Menšík No. 15) face a depleted Canada — Shapovalov and Diallo both out injured. Quarter-final at BolognaFiere. 🎾 #DavisCup #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DavisCup",
+            "#TennisFanrecap"
+          ],
+          "char_count": 212
+        },
+        {
+          "label": "Post 1-2",
+          "text": "8 nations, 1 title on the line. Italy seeks a 4th straight Davis Cup crown when they face South Korea tomorrow. First, it's Czech Republic vs. Canada — Canada's short-handed. #DavisCup #Tennis #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DavisCup",
+            "#Tennis",
+            "#TennisFanrecap"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-davis-cup-finals-2026-czech-republic-canada-quarterfinal.html",
+        "headline": "Davis Cup Finals 2026: Czech Republic Opens Against Injury-Hit Canada in Bologna",
+        "word_count": 581
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Davis Cup Finals QF Day 1\n\n**Image Concept 1-A** (Article Hero — 1200x630)\n- **Search Term:** `Jiří Lehečká Czech Republic`\n- **Description:** Lehečká serving or celebrating during a Davis Cup match, Czech Republic kit\n- **Credit:** (Imagn Images)\n- **Status:** not_started\n\n**Image Concept 1-B** (Social — 1080x1350)\n- **Search Term:** `Félix Auger-Aliassime Canada`\n- **Description:** FAA in Canadian Davis Cup kit, match action or celebration\n- **Credit:** (Imagn Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Davis Cup Finals QF Day 1 — Czech Republic vs. Canada\n**Facts — HIGH confidence (2+ independent sources):**\n- Davis Cup Finals 2026: BolognaFiere, Bologna, Italy. Nov 24–29. 8 teams. — HIGH (daviscup.com + Wikipedia)\n- Format: Quarterfinals best-of-3 rubbers (2 singles, 1 doubles if needed). — HIGH (official format)\n- Czech Republic lineup: Jiří Lehečka (ATP No. 14), Jakub Menšík (ATP No. 15), captain Tomáš Berdych. — HIGH (Wikipedia + DC site)\n- Canada depleted: Denis Shapovalov (injury) and Gabriel Diallo (injury) both absent. — MEDIUM (archynewsy.com via DC site — single source)\n- Félix Auger-Aliassime is Canada's highest-ranked player in the draw. H2H vs Lehečka: FAA leads 3-1. — MEDIUM (single source)\n- Italy vs. South Korea: QF on Nov 25. GB vs. Germany and Austria vs. Spain: QF on Nov 26. — HIGH (daviscup.com + Wikipedia)\n- Italy seeking 4th consecutive Davis Cup title. — HIGH (confirmed in prior pipeline research Nov 23)\n- Italy squad: Jannik Sinner listed as injured/absent; squad TBD. — MEDIUM (pending official announcement)\n- Day 1 results not published at research time (match in progress). — factual note, not a claim\n**Sources:**\n- https://en.wikipedia.org/wiki/2026_Davis_Cup_Finals\n- https://www.daviscup.com/en/draws-results/2026/finals\n- https://www.archynewsy.com/czech-republic-faces-depleted-canada-in-davis-cup-quarter-final-in-bologna/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "en.wikipedia.org",
+          "url": "https://en.wikipedia.org/wiki/2026_Davis_Cup_Finals",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "daviscup.com",
+          "url": "https://www.daviscup.com/en/draws-results/2026/finals",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "archynewsy.com",
+          "url": "https://www.archynewsy.com/czech-republic-faces-depleted-canada-in-davis-cup-quarter-final-in-bologna/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Alcaraz Post-ATP Finals — Legacy and the \"Real No. 1\" Debate",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Carlos Alcaraz is the 4th player EVER to hold a career Grand Slam AND the ATP Finals title. Federer. Agassi. Djokovic. Now Alcaraz. Rafael Nadal never did it. That's the company he's in. #ATP #Alcaraz #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATP",
+            "#Alcaraz",
+            "#TennisFanrecap"
+          ],
+          "char_count": 216
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Zverev is year-end No. 1. Alcaraz has the ATP Finals trophy. Who's the real No. 1? Carlos holds 6 titles this year, wins the season-ender undefeated, ranked No. 4. Tennis has never been more fun. #Alcaraz #ATP #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Alcaraz",
+            "#ATP",
+            "#TennisFanrecap"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-alcaraz-atp-finals-legacy-real-no-1-debate.html",
+        "headline": "Alcaraz Joins Federer, Agassi, and Djokovic — but Zverev Still Keeps No. 1",
+        "word_count": 643
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alcaraz Post-ATP Finals\n\n**Image Concept 2-A** (Article Hero — 1200x630)\n- **Search Term:** `Carlos Alcaraz`\n- **Description:** Alcaraz holding the ATP Finals trophy or celebrating after his win, Turin indoor court\n- **Credit:** (Imagn Images)\n- **Status:** not_started\n\n**Image Concept 2-B** (Social — 1080x1350)\n- **Search Term:** `Carlos Alcaraz`\n- **Description:** Alcaraz close-up reaction shot, joy or intensity, post-match\n- **Credit:** (Imagn Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alcaraz Post-ATP Finals — Legacy and \"Real No. 1\"\n**Facts — HIGH confidence:**\n- Alcaraz won ATP Finals: beat Zverev 6-2, 7-6(9-7) Sunday Nov 23. First Spanish ATP Finals champion since Àlex Corretja 1998. — HIGH (Nov 23 pipeline research, ATP Tour, Al Jazeera, Sky Sports)\n- 4th man to hold career Grand Slam + ATP Finals in career: Federer (2003), Agassi (1999), Djokovic (2015), now Alcaraz 2026. — HIGH (ATP Tour + Manila Times)\n- Alcaraz is No. 4 in year-end ATP rankings; Zverev is No. 1 (Roland Garros + US Open wins). — HIGH (Nov 23 pipeline)\n- Prize money: ATP Finals champion earns $5,171,000 (undefeated bonus). — HIGH (Nov 23 pipeline)\n- Alcaraz quote: Called the win \"special,\" described it as redemption from 2025 final loss to Sinner. — HIGH (ATP Tour official press conference)\n- Alcaraz was nervous on championship point, unsure if final ball was in. — MEDIUM (press conference report, tennis365.com single source)\n- Alcaraz treated for left leg concern during tournament; said post-final he \"felt it a little\" but felt \"just okay.\" — MEDIUM (single source)\n**Sources:**\n- https://www.atptour.com/en/news/alcaraz-nitto-atp-finals-2026-reaction-sunday-final\n- https://www.tennis365.com/tennis-news/carlos-alcaraz-press-conference-atpfinals-win\n- https://www.manilatimes.net/2026/11/24/sports/alcaraz-making-history-at-atp-finals-a-privilege/2475793",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "atptour.com",
+          "url": "https://www.atptour.com/en/news/alcaraz-nitto-atp-finals-2026-reaction-sunday-final",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "tennis365.com",
+          "url": "https://www.tennis365.com/tennis-news/carlos-alcaraz-press-conference-atpfinals-win",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "manilatimes.net",
+          "url": "https://www.manilatimes.net/2026/11/24/sports/alcaraz-making-history-at-atp-finals-a-privilege/2475793",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Mirra Andreeva Wins 2026 WTA Finals — Youngest Champion Since Sharapova",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Mirra Andreeva won the 2026 WTA Finals — without dropping a single set. At just 19, she's the youngest WTA Finals champion since Maria Sharapova in 2004. Rybakina ends year at No. 1. Andreeva at No. 2. What a season. #WTA #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTA",
+            "#TennisFanrecap"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-mirra-andreeva-wta-finals-2026-champion.html",
+        "headline": "Mirra Andreeva Wins the 2026 WTA Finals — Youngest Champion Since Sharapova in 2004",
+        "word_count": 569
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Mirra Andreeva WTA Finals\n\n**Image Concept 3-A** (Article Hero — 1200x630)\n- **Search Term:** `Mirra Andreeva`\n- **Description:** Andreeva celebrating victory, WTA Finals court\n- **Credit:** (Imagn Images)\n- **Status:** not_started\n\n**Image Concept 3-B** (Social — 1080x1350)\n- **Search Term:** `Mirra Andreeva`\n- **Description:** Andreeva in action — forehand or serve — full-court shot\n- **Credit:** (Imagn Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mirra Andreeva Wins 2026 WTA Finals\n**Facts — HIGH confidence:**\n- Andreeva defeated Elina Svitolina 7-5, 6-3 in the WTA Finals final. — HIGH (justwomenssports.com + Wikipedia)\n- Tournament: Nov 8–15, Indian Wells, CA (relocated from Riyadh). — HIGH (Wikipedia)\n- Youngest WTA Finals champion since Maria Sharapova in 2004. — HIGH (Wikipedia + justwomenssports.com)\n- First player to win WTA Finals without dropping a set since Iga Świątek in 2023. — HIGH (Wikipedia)\n- Andreeva's 4th title of the 2026 season. — HIGH (Wikipedia)\n- Year-end WTA rankings: Rybakina No. 1 (8,099 pts) | Andreeva No. 2 (7,806 pts, career high) | Sabalenka No. 3 (6,685 pts). — HIGH (WTA Tennis + Yahoo Sports)\n- Rybakina withdrew from WTA Finals with illness; did not participate. — HIGH (WTA Tennis)\n- Total purse: $10 million. — MEDIUM (Wikipedia single figure)\n**Sources:**\n- https://justwomenssports.com/reads/mirra-andreeva-wins-2026-wta-finals-wta-rankings/\n- https://en.wikipedia.org/wiki/2026_WTA_Finals\n- https://www.wtatennis.com/news/4609878/rankings-watch-andreeva-ends-year-at-no-2-andreescu-continues-resurgence\n- https://sports.yahoo.com/articles/wta-top-10-looks-end-130000469.html",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "justwomenssports.com",
+          "url": "https://justwomenssports.com/reads/mirra-andreeva-wins-2026-wta-finals-wta-rankings/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "en.wikipedia.org",
+          "url": "https://en.wikipedia.org/wiki/2026_WTA_Finals",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "wtatennis.com",
+          "url": "https://www.wtatennis.com/news/4609878/rankings-watch-andreeva-ends-year-at-no-2-andreescu-continues-resurgence",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/wta-top-10-looks-end-130000469.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Sinner Surgery Update — Australian Open 2027 Return in Doubt",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jannik Sinner's Australian Open return is in doubt. Fresh medical consultations haven't ruled out knee surgery. If surgery proceeds, January 17 could come too soon. Sinner named AO 2027 as his goal — will he make it? #Sinner #Tennis #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sinner",
+            "#Tennis",
+            "#TennisFanrecap"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-sinner-surgery-australian-open-2027-doubt.html",
+        "headline": "Sinner's Australian Open 2027 Return in Doubt as Surgery Option Remains Open",
+        "word_count": 465
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sinner AO 2027 Doubt\n\n**Image Concept 4-A** (Social — 1080x1350)\n- **Search Term:** `Jannik Sinner`\n- **Description:** Sinner in Wimbledon kit or post-match focused expression (not injured imagery)\n- **Credit:** (Imagn Images)\n- **Status:** not_started\n\n**Image Concept 4-B** (Social — 1080x1350)\n- **Search Term:** `Jannik Sinner`\n- **Description:** Sinner mid-match serving, full body action shot\n- **Credit:** (Imagn Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sinner Surgery Update — AO 2027 in Doubt\n**Facts — HIGH confidence:**\n- Sinner's 2026 season ended Oct 6 due to right knee inflammation. He won Wimbledon 2026. — HIGH (Nov 23 pipeline, Al Jazeera, multiple sources)\n- Sinner has stated Australian Open 2027 (Jan 17–31) as his return target. — HIGH (multiple sources from October 2026)\n- Australian Open 2027 dates: January 17–31, 2027. — HIGH (official)\n**Facts — MEDIUM confidence (single source):**\n- Lyon specialist initially recommended against surgery. Multiple medical consultations followed. — MEDIUM (puntodebreak.com + essentiallysports.com, undated)\n- Surgery has not been ruled out; non-surgical treatment ran approximately 4 months. — MEDIUM (undated sources: athlonsports.com + tennisuptodate.com)\n- If surgery proceeds, AO 2027 participation would be jeopardized. — MEDIUM (inference from treatment timeline)\n**Facts — LOW confidence (do not use in articles):**\n- \"Surgery in Finland on Nov 24\" — could not be confirmed with primary source. DO NOT USE.\n**Sources:**\n- https://www.aljazeera.com/amp/news/2026/8/21/jannik-sinner-tennis-skip-us-open-2026-knee-injury\n- https://www.tennis365.com/atp-tour/jannik-sinner-handed-worrying-injury-update-surgery-possibility-emerges\n- https://tennisuptodate.com/atp/jannik-sinner-seeks-fresh-medical-advice-as-australian-open-comeback-now-under-threat",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "aljazeera.com",
+          "url": "https://www.aljazeera.com/amp/news/2026/8/21/jannik-sinner-tennis-skip-us-open-2026-knee-injury",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "tennis365.com",
+          "url": "https://www.tennis365.com/atp-tour/jannik-sinner-handed-worrying-injury-update-surgery-possibility-emerges",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "tennisuptodate.com",
+          "url": "https://tennisuptodate.com/atp/jannik-sinner-seeks-fresh-medical-advice-as-australian-open-comeback-now-under-threat",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Sorana Cirstea Retires From Tennis at Career-Best No. 16",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Sorana Cirstea has retired from professional tennis at career-best No. 16, ending a 21-year career on her own terms. She announced at the start of 2026 it would be her final season — and she finished better than ever. 🎾 #Tennis #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#TennisFanrecap"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-sorana-cirstea-retirement-career-best-no-16.html",
+        "headline": "Sorana Cirstea Retires From Professional Tennis at Career-Best No. 16",
+        "word_count": 469
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cirstea Retirement\n\n**Image Concept 5-A** (Social — 1080x1350)\n- **Search Term:** `Sorana Cirstea`\n- **Description:** Cirstea at net or end-of-match, ideally a farewell/emotional moment\n- **Credit:** (Imagn Images)\n- **Status:** not_started\n\n**Image Concept 5-B** (Social — 1080x1350)\n- **Search Term:** `Sorana Cirstea`\n- **Description:** Cirstea serving or in match action — a classic career shot\n- **Credit:** (Imagn Images)\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sorana Cirstea Retires\n**Facts — HIGH confidence:**\n- Cirstea retired from professional tennis after the Hong Kong Open quarterfinals in November 2026. — HIGH (lastwordonsports.com + foxnews/outkick)\n- She announced at the start of 2026 it would be her final season. — HIGH (sources above)\n- Finished at career-best ranking of No. 16. — HIGH (sources above)\n- Romanian, played on tour since 2005. — HIGH (career record)\n**Facts — MEDIUM confidence:**\n- Official final announcement reportedly still pending at time of publication. — MEDIUM (single source caveat)\n**Sources:**\n- https://lastwordonsports.com/tennis/2026/11/22/sorana-cirstea-retires-in-career-best-form\n- https://www.foxnews.com/outkick-sports/tennis-star-sorana-cirstea-immediately-retires-sport-upset-loss-hong-kong-open",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "lastwordonsports.com",
+          "url": "https://lastwordonsports.com/tennis/2026/11/22/sorana-cirstea-retires-in-career-best-form",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "foxnews.com",
+          "url": "https://www.foxnews.com/outkick-sports/tennis-star-sorana-cirstea-immediately-retires-sport-upset-loss-hong-kong-open",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
