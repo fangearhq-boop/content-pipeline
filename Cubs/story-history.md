@@ -5,6 +5,51 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-11-24 (OFF DAY — Thanksgiving. Offseason. Trevor Rogers 5yr/$120M confirmed (Passan/Morosi — Cubs' first rotation signing). CBA 7 days to Dec 1 lockout. Hiromi Itoh (Cubs host confirmed) + Kaima Taira (Dec 2 deadline vs Dec 1 lockout) + Teruaki Sato (Cubs among top 5 per Bleacher Nation, Triple Crown winner) all must sign by Dec 1. Insights: 14 findings — hashtag_count=3 LOSER (14th consecutive override, 1 hashtag used) + hashtag_count=1 WINNER + len_260+ WINNER + evening_18_24 WINNER + morning_06_12 LOSER exception for Rogers breaking news + opening=statement WINNER + has_stat WINNER + content_type=transaction LOSER.)
+
+### STORY 1: Trevor Rogers 5yr/$120M — Cubs' First Rotation Signing
+- **Angle:** NEW STORY — first confirmed agreement between Cubs and Rogers
+- **Tier:** 1
+- **Content Produced:** X Text Post (2 posts — 7:00 AM CT informative/breaking + 1:15 PM CT bold take)
+- **Follow-Up Opportunities:**
+  - Physical passed → Official Cubs announcement (Tier 2 confirmation post)
+  - Holmes/Peterson re-signing → Tier 2 rotation depth post
+  - King or Peralta signed → Tier 1 rotation celebration
+
+### STORY 2: CBA 7-Day Clock — All Japanese Signings Must Happen by Dec 1
+- **Angle:** FOLLOW UP (CBA countdown covered daily; today's angle: 7-day hard deadline reframes ALL three Japanese player pursuits — Itoh, Taira, Sato — as must-sign-or-forfeit)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT informative/urgency)
+- **Follow-Up Opportunities:**
+  - CBA agreement announced → Tier 1 breaking; Japanese deadlines extended
+  - Lockout confirmed Dec 2 → Tier 1 breaking; all pursuits frozen
+
+### STORY 3: Hiromi Itoh — Cubs Hosted, 7 Days to Sign Before Lockout
+- **Angle:** FOLLOW UP (visit reported Nov 20-22; today's urgency angle: 7 days until his Dec 1 window closes permanently)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT evening WINNER slot)
+- **Follow-Up Opportunities:**
+  - Cubs sign Itoh → Tier 1 rotation add; Dec 1 window closes
+  - Itoh signs elsewhere → Tier 2 Cubs-must-pivot angle
+
+### STORY 4: Kaima Taira — Dec 2 Deadline vs Dec 1 Lockout Math
+- **Angle:** FOLLOW UP (Taira covered since Nov 14; today's specific angle: Dec 2 deadline falls after Dec 1 lockout — effective window is 7 days)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:00 PM CT evening WINNER slot)
+- **Follow-Up Opportunities:**
+  - Cubs sign Taira by Nov 30 → Tier 1 rotation celebration
+  - Taira signs elsewhere → Tier 2 Cubs-missed-window angle
+
+### STORY 5: Teruaki Sato — Cubs Among Five Most Likely Landing Spots
+- **Angle:** FOLLOW UP (Sato covered Nov 21-23; today's angle: Bleacher Nation Nov 23 names Cubs among top 5 most likely — freshest ranking)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 PM CT evening WINNER slot)
+- **Follow-Up Opportunities:**
+  - Cubs sign Sato by Dec 1 → Tier 1 Triple Crown bat acquisition
+  - Sato signs with Blue Jays/Phillies/Yankees → Tier 2 Cubs-missed-out angle
+
+---
+
 ## 2026-11-17 (OFF DAY — Offseason. 40-man deadline TODAY Nov 17 at 6 PM ET; Suzuki QO deadline TODAY Nov 17 at 3 PM CT (4 PM ET). Imanaga departure — Tigers/Padres frontrunners (new angle). CBA expires Dec 1 (14 days). Insights: evening_18_24 WINNER (delta=0.855) + hashtag_count=3 LOSER (delta=0.831, OVERRIDE — 1 hashtag used, 7th consecutive day) + hashtag_count=1 WINNER (delta=0.722) + content_type=brief LOSER (delta=0.606) + opening=statement WINNER (delta=0.594) + allcaps_lead LOSER (delta=0.594) + has_stat WINNER (delta=0.499) + len_260+ WINNER (delta=0.506) + len_200-260 LOSER (delta=0.685) + morning_06_12 LOSER (delta=0.627). Fact-check correction: "Seven seasons" → "Five seasons" for Suzuki (Happ conflation caught).)
 
 ### STORY 1: 40-Man Deadline Day — Clock Hits Zero at 6 PM ET

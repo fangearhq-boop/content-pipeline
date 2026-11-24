@@ -1,17 +1,44 @@
-# Cubs Pipeline Status — Updated 2026-11-23
+# Cubs Pipeline Status — Updated 2026-11-24
 
 ## Latest Run
-- **Date:** 2026-11-23 (Monday — Off day. CBA 8 days to Dec 1 lockout — Skubal confirmed to Mets 9yr/$450M (second-largest pitcher deal ever). Hiromi Itoh visited Chicago (3.18 ERA / 159 K / 172 IP, Dec 1 window). Teruaki Sato NPB Triple Crown (.306 / 39 HR / 106 RBI), Cubs "extensively scouted" per The Athletic. Cardinals non-tendered Gorman; Brewers locked up WS MVP Contreras through 2027 + added Walker.)
+- **Date:** 2026-11-24 (Tuesday — Thanksgiving. Off day. Trevor Rogers 5yr/$120M confirmed (Passan/Morosi — first rotation signing). CBA 7 days to Dec 1 lockout. Itoh (Cubs host confirmed) + Taira (Dec 2 vs Dec 1 math) + Sato (Cubs top 5 per Bleacher Nation, Triple Crown) all must sign by Dec 1.)
 - **Stories:** 5
-- **X posts:** 5
+- **X posts:** 6
 - **Platforms:** X/Twitter only
 - **Status:** ✅ Complete
-- **Compiler:** ✅ Valid JSON, 0 errors, 0 warnings, 5 stories, 5 tweets
-- **07-content-data.json:** ✅ Valid JSON, all 5 posts with posting_time (7:00 AM / 2:30 PM / 6:30 PM / 8:00 PM / 9:30 PM CT), all strptime-parseable. Char counts: 266/277/272/232/269 — 4 of 5 in 260+ bucket, all under 280. Story 4 at 232 (below 260 target, no padding — stat-rich concise framing). ✅
+- **Compiler:** ✅ Valid JSON, 0 errors, 5 warnings (non-blocking posting_window warnings — posting times in [POSTING WINDOW:...] tags), 5 stories, 6 tweets
+- **07-content-data.json:** ✅ Valid JSON, all 6 posts with posting_time (7:00 AM / 1:15 PM / 3:45 PM / 6:30 PM / 8:00 PM / 9:30 PM CT). Char counts: 270/278/261/278/276/277 — all in 260-280 range, all under 280. ✅
 - **Dashboard push:** ⚠️ content-dashboards repo not in session scope — skipped (content-pipeline push succeeding, cubs-x-bot reads from content-pipeline)
-- **Fact-check:** ✅ PASS overall. All key claims HIGH confidence. Triple Crown stats verified NPB official. Skubal deal verified ESPN + MLB.com. Itoh visit verified ESPN Rogers + Castillo.
-- **Note:** 14 significant insights applied. HASHTAG OVERRIDE (13th consecutive day): hashtag_count=3 is LOSER (delta=0.709) + hashtag_count=1 is WINNER (delta=0.588) → 1 hashtag (#Cubs) used. ALLCAPS LOSER: no ALL CAPS leads. MORNING EXCEPTION: morning_06_12 LOSER — 1 morning slot (7:00 AM) used for confirmed $450M Skubal deal (breaking news protocol). EVENING PRIORITY: evening_18_24 WINNER → Posts 3/4/5 at 6:30 PM/8:00 PM/9:30 PM CT. TWEET LENGTH: len_260+ WINNER — 4 of 5 tweets at 260+ chars; Story 4 at 232 (acceptable). has_stat WINNER — stats in all 5 tweets. opening=statement WINNER — all declarative opens.
-- **Hashtag override recommendation (13th day):** Strongest quantitative signal in the dataset. Strongly recommend formally updating brand-voice.md from "Exactly 3 hashtags" to "1 primary hashtag (#Cubs)." Data is unambiguous: n=58+, Cliff's delta=0.709 (3-hashtag LOSES) + delta=0.588 (1-hashtag WINS).
+- **Fact-check:** ✅ PASS overall. All HIGH priority claims VERIFIED. MEDIUM flags (non-blocking): Rogers age conflict (not stated in copy), Itoh 2026 stats carried from prior pipeline, Sato deadline Dec 15 vs Dec 16 (avoided by "December deadline" framing in Story 5).
+- **Note:** 14 significant insights applied. HASHTAG OVERRIDE (14th consecutive day): hashtag_count=3 LOSER (delta=0.683) + hashtag_count=1 WINNER (delta=0.573) → 1 hashtag (#Cubs) used. MORNING EXCEPTION: Rogers 5yr/$120M breaking news (7:00 AM CT). EVENING PRIORITY: evening_18_24 WINNER → Posts 4/5/6 at 6:30 PM/8:00 PM/9:30 PM CT. TWEET LENGTH: len_260+ WINNER — all 6 tweets in 260-280 range. has_stat WINNER — stats in every tweet. opening=statement WINNER — all declarative opens. transaction LOSER — Rogers framed as rotation rebuild, not bare transaction.
+- **Hashtag override recommendation (14th day):** 60 measured tweets, p=0.0021, Cliff's delta=0.683 (3-hashtag LOSES, large) + delta=0.573 (1-hashtag WINS, large). Strongly recommend formally updating brand-voice.md. This is the most persistent actionable signal in the dataset after recap_longform (N/A off days).
+
+## Insights Summary (2026-11-24 run — from 2026-11-24T08:30 UTC snapshot)
+- **Generated:** 2026-11-24T08:30:00Z
+- **Measured tweet count:** 60
+- **Significant findings:** 14
+  1. `content_type=recap_longform` WINNER — delta=0.948 (large). Off day — no game recap. Not applicable.
+  2. `len_bucket=260+` WINNER — delta=0.818 (large). All 6 tweets at 260-280 chars.
+  3. `posting_window=evening_18_24` WINNER — delta=0.792 (large). Posts 4/5/6 at 6:30/8:00/9:30 PM CT.
+  4. `len_bucket=<140` LOSER — delta=0.702 (large). No short tweets.
+  5. `has_score=True` WINNER — delta=0.700 (large). Off day — no score. Not applicable.
+  6. `content_type=transaction` LOSER — delta=0.683 (large). Rogers framed as rotation rebuild/urgency story.
+  7. `hashtag_count=3` LOSER — delta=0.683 (large). ⚠️ CONFLICT with brand-voice.md. 1 hashtag used (14th consecutive override day).
+  8. `posting_window=morning_06_12` LOSER — delta=0.681 (large). Exception: 7:00 AM Rogers breaking news (Tier 1 protocol).
+  9. `has_stat=True` WINNER — delta=0.632 (large). Stats in every tweet.
+  10. `hashtag_count=1` WINNER — delta=0.573 (large). Applied: #Cubs only.
+  11. `opening=allcaps_lead` LOSER — delta=0.568 (large). No ALL CAPS leads.
+  12. `opening=statement` WINNER — delta=0.547 (large). All 6 posts declarative statement openings.
+  13. `len_bucket=140-200` LOSER — delta=0.518 (large). No tweets in 140-200 range.
+  14. `posting_window=midday_12_18` LOSER — delta=0.325 (medium). Two midday slots (1:15/3:45 PM) unavoidable for Tier 1 two-angle + CBA context.
+
+## Pipeline Run Log
+
+### 2026-11-24 — Tuesday (Thanksgiving — Off day)
+- 5 stories | 6 X posts | JSON valid | Fact-check PASS (3 MEDIUM flags, non-blocking)
+- Trevor Rogers 5yr/$120M CONFIRMED (first rotation signing) | CBA 7-day lockout clock | Hiromi Itoh Cubs host confirmed | Kaima Taira Dec 2 vs Dec 1 math | Teruaki Sato Cubs top 5
+- Insights: 14th hashtag override, all 14 findings applied, morning exception for Rogers breaking news
+- Push: content-pipeline ✅ | content-dashboards ⚠️ (out of session scope)
 
 ## Insights Summary (2026-11-23 run — from 2026-11-23T08:30 UTC snapshot)
 - **Generated:** 2026-11-23T08:30:00 UTC
