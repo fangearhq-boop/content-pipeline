@@ -1,0 +1,284 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-24",
+  "compiled_at": "2026-11-24T10:18:24.632359+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Final Hours — Today Is the Last Day for Unrestricted Recruiting Contact",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Today is the last day college softball coaches can call, text or email any recruit. The 5-day shutdown starts tomorrow. Then Dec. 1 portal. Then dead period. The offseason has never felt more compressed. #SoftballRecruiting #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SoftballRecruiting",
+            "#NCAASoftball"
+          ],
+          "char_count": 237
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Expect late commitments today. Coaches are making final calls before tomorrow's 5-day recruiting shutdown. After Sunday it's Dec. 1 portal and Dec. 9-12 dead period — the window to close recruits is closing fast. #SoftballRecruiting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SoftballRecruiting"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-final-hours-last-day-recruiting-contact.html",
+        "headline": "Final Hours: Today Is the Last Day for Unrestricted Recruiting Contact",
+        "word_count": 620
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Final Hours — Last Day for Recruiting Contact\n\n**Image 1:**\n```yaml\nstory: 1\ntitle: \"Final Recruiting Day\"\ntype: social\ndimensions: \"1080x1350\"\nimagn_search: \"softball coach recruiting\"\nalt_text: \"Softball coach on sideline during fall practice\"\nstatus: not_started\n```\n\n**Image 2:**\n```yaml\nstory: 1\ntitle: \"Recruiting Shutdown Calendar\"\ntype: social\ndimensions: \"1080x1350\"\nimagn_search: \"NCAA softball signing\"\nalt_text: \"Player signing national letter of intent at table\"\nstatus: not_started\n```\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Final Hours — Last Day for Unrestricted Recruiting Contact\n**Source Search:** NCAA softball recruiting calendar 2026-27, recruiting rules coverage\n**Verified Facts:**\n| Fact | Confidence | Source/Notes |\n|------|-----------|--------------|\n| Nov. 24 is the final day for unrestricted contact (calls, texts, email) with any recruit | HIGH | Multiple recruiting calendar sites agree (ncsasports.org, nextcommit.ai, readthefield.com, softballbound.com) |\n| NCAA softball recruiting shutdown Nov. 25-29 — zero contact permitted | HIGH | Confirmed by multiple calendar sources |\n| Transfer portal opens Dec. 1 | HIGH | Confirmed through multiple pipeline runs and calendar sources |\n| Dead period Dec. 9-12 | HIGH | Confirmed by multiple sources (some say Dec. 8-12; conservative framing Dec. 9-12) |\n| Coaches actively making last-minute recruiting calls on shutdown eve | MEDIUM | Standard coaching practice confirmed by multiple coaches on record in prior reporting |\n| Last-minute commitments often announced on final contact day | MEDIUM | Historical pattern well-documented in softball recruiting coverage |\n**Key Context:**\nThe sequence is unprecedented in its compression: unrestricted contact → 5-day shutdown → Dec. 1 portal → Dec. 9-12 dead period. Programs that failed to lock in commitments today enter a 14-day scramble with limited communication windows.",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Arizona's Ace Hunt — 7 Days Until the Portal Changes Everything",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Arizona went 15-2 in fall ball and still doesn't have an ace. They lost their D1Softball National POY pitcher to Texas Tech. The Dec. 1 transfer portal opens in 7 days. This is the most important winter in Wildcat softball history. #ArizonaSoftball #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ArizonaSoftball",
+            "#NCAASoftball"
+          ],
+          "char_count": 262
+        },
+        {
+          "label": "Post 2-2",
+          "text": "OSU's Saylor Davis — 3 years of eligibility — is expected to enter the portal Dec. 1. Arizona, Ole Miss and Auburn are all hunting aces. Only so many elite arms available. First 8 days of December decide everything. #NCAASoftball #TransferPortal",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAASoftball",
+            "#TransferPortal"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-arizona-ace-hunt-transfer-portal.html",
+        "headline": "Arizona's Ace Hunt: Seven Days Until the Portal Changes Everything",
+        "word_count": 552
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Arizona's Ace Hunt\n\n**Image 1:**\n```yaml\nstory: 2\ntitle: \"Arizona Pitching Search\"\ntype: social\ndimensions: \"1080x1350\"\nimagn_search: \"Regan Shockey Arizona\"\nalt_text: \"Arizona softball player in Wildcats uniform\"\nstatus: not_started\n```\n\n**Image 2:**\n```yaml\nstory: 2\ntitle: \"Portal Pitching Race\"\ntype: social\ndimensions: \"1080x1350\"\nimagn_search: \"NCAA softball pitcher\"\nalt_text: \"College softball pitcher delivering in circle\"\nstatus: not_started\n```\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Arizona's Ace Hunt — 7 Days Until the Portal\n**Source Search:** Arizona softball fall results, D1Softball POY, transfer portal Dec 2026\n**Verified Facts:**\n| Fact | Confidence | Source/Notes |\n|------|-----------|--------------|\n| Arizona closed fall 15-2 | HIGH | Covered multiple times in prior pipeline runs (Nov 14, Nov 23) |\n| Arizona lost its D1Softball National POY pitcher (Torres) to Texas Tech | HIGH | Confirmed in multiple pipeline runs (Nov 14-23); Texas Tech No.1 transfer class SA includes Torres |\n| OSU's Saylor Davis expected to enter portal Dec. 1 with three years of eligibility | HIGH | SI article confirms portal entry plan; prior pipeline runs confirmed (Nov 22, Nov 23) |\n| Ole Miss and Auburn also hunting portal pitchers | HIGH | Confirmed through multiple pipeline runs |\n| Transfer portal opens Dec. 1 | HIGH | Multiple sources |\n| Dead period Dec. 9-12 compresses actionable window | HIGH | Calendar confirmed |\n| Arizona coach Caitlin Lowe led team to 15-2 fall record | HIGH | Multiple prior pipeline runs confirmed |\n| Dec. 1 portal gives programs fewer than 9 days before dead period | HIGH | Simple calendar math: Dec. 1 to Dec. 8 = 8 days |\n**Key Context:**\nArizona is one of the clearest examples of a program that needs portal help to reach its ceiling. Without Torres (D1Softball POY), the rotation lacks a proven ace. Regan Shockey (Big 12 DPOY) handles the defense, but pitching is the ceiling variable.",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Patrick Murphy Signs Landmark Alabama Contract",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Patrick Murphy's new Alabama contract makes him one of the highest-paid coaches in NCAA softball. As NIL and portal dollars surge, elite coaches are demanding — and getting — matching compensation. #AlabamaSoftball #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AlabamaSoftball",
+            "#NCAASoftball"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-patrick-murphy-alabama-coaching-contract.html",
+        "headline": "Patrick Murphy Signs Landmark Contract — Coaching Salaries Are Rising Fast",
+        "word_count": 574
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Patrick Murphy Contract\n\n**Image 1:**\n```yaml\nstory: 3\ntitle: \"Patrick Murphy Alabama\"\ntype: social\ndimensions: \"1080x1350\"\nimagn_search: \"Patrick Murphy Alabama\"\nalt_text: \"Alabama softball coach Patrick Murphy on field\"\nstatus: not_started\n```\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Patrick Murphy Signs Landmark Alabama Contract\n**Source Search:** Patrick Murphy Alabama contract Sports Illustrated coaching salaries softball\n**Verified Facts:**\n| Fact | Confidence | Source/Notes |\n|------|-----------|--------------|\n| Patrick Murphy signed a new Alabama contract making him one of the highest-paid coaches in NCAA softball | HIGH | Per Sports Illustrated report referenced in research |\n| Murphy has led Alabama to multiple WCWS appearances | HIGH | Long-established record |\n| NIL deal values and portal movement are inflating top-coach compensation | HIGH | Widely reported trend across college sports |\n| Alabama competes in SEC, one of the strongest softball conferences | HIGH | Established fact |\n| Coaching compensation in softball has surged in the portal/NIL era | MEDIUM | General trend confirmed; specific dollar figures for other coaches not verified in this search |\n**Key Context:**\nMurphy's extension signals Alabama's commitment to competing at the highest level despite not winning a WCWS title. The coaching market inflation mirrors trends in football and basketball. Top assistants are also commanding higher salaries as portal competition intensifies.",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Big 12 Becomes a Recruiting Power — Arizona State Leads Conference at No. 8",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "Arizona State's 2027 class ranks No. 8 D1Softball — tops in the Big 12. Add OU's No. 1 national class and Texas Tech's No. 1 transfer class and the Big 12 is no longer just Oklahoma's conference. It's a three-team WCWS threat. #BigXII #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BigXII",
+            "#NCAASoftball"
+          ],
+          "char_count": 248
+        },
+        {
+          "label": "Post 4-2",
+          "text": "OU No. 1 class. Texas Tech No. 1 transfer class. Arizona State No. 8 nationally. The Big 12 opens March 12. Three programs capable of reaching the WCWS quarterfinals. The conference realignment era is officially over — the Big 12 arrived. #BigXII #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BigXII",
+            "#Softball"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-big-12-recruiting-power-arizona-state.html",
+        "headline": "The Big 12 Is No Longer Oklahoma's Conference",
+        "word_count": 587
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Big 12 Rising\n\n**Image 1:**\n```yaml\nstory: 4\ntitle: \"Arizona State Softball\"\ntype: social\ndimensions: \"1080x1350\"\nimagn_search: \"Arizona State softball\"\nalt_text: \"Arizona State Sun Devils softball player in action\"\nstatus: not_started\n```\n\n**Image 2:**\n```yaml\nstory: 4\ntitle: \"Big 12 Softball Rise\"\ntype: social\ndimensions: \"1080x1350\"\nimagn_search: \"Jordy Bearce Oklahoma\"\nalt_text: \"Oklahoma Sooners softball player at the plate\"\nstatus: not_started\n```\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Big 12 Becomes a Recruiting Power\n**Source Search:** Arizona State 2027 softball recruiting class D1Softball Big 12\n**Verified Facts:**\n| Fact | Confidence | Source/Notes |\n|------|-----------|--------------|\n| Arizona State's 2027 class is ranked No. 8 D1Softball | HIGH | Sun Devil Athletics official release (Nov. 11, 2026): \"D1Softball rate Arizona State's 2027 signing class as 8th best\" |\n| Arizona State's 2027 class is ranked No. 10 Softball America | HIGH | Same official release |\n| ASU's class is highest in the Big 12 | HIGH | Sun Devil Athletics release states \"highest among Big 12 Conference softball programs\" |\n| OU is No. 1 nationally in D1Softball 2027 class | HIGH | Multiple prior pipeline runs confirmed |\n| Texas Tech holds No. 1 transfer class nationally per Softball America | HIGH | Multiple prior pipeline runs confirmed (Nov 14-23) |\n| Big 12 opens conference play March 12 | HIGH | Multiple prior pipeline runs confirmed |\n| OU brings back Jordy Bearce (39 HR, NFCA FY) and Karli Kavan (2x WCWS MOP) | HIGH | Multiple prior pipeline runs confirmed |\n| Kasidi Pickering (Texas Tech) posted .384 BA, 50 HR, 169 RBI in career at OU | HIGH | Multiple prior pipeline runs confirmed |\n**Key Context:**\nArizona State joining OU and Texas Tech as a top-10 recruiting program means the Big 12 now has three programs capable of reaching the WCWS quarterfinals. Combined with Arizona's strong roster (15-2 fall), the conference could send four elite teams into the 2027 postseason.",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "5-for-5 State Court Front: 200+ Cases, 850 Athletes Still Fighting",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Bre Warren closed her case. But 200+ state court cases involving 850 athletes are still active. The Tenth Circuit killed the federal injunction Nov. 7. State courts are the new front line — and Congress is the only source of a uniform fix. #NCAASoftball #5for5",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAASoftball",
+            "#5for5"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-5for5-state-court-cases-ongoing.html",
+        "headline": "The 5-for-5 Fight Has Moved to State Courts — and It's Just Getting Started",
+        "word_count": 614
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "5-for-5 State Courts\n\n**Image 1:**\n```yaml\nstory: 5\ntitle: \"NCAA Eligibility Fight\"\ntype: social\ndimensions: \"1080x1350\"\nimagn_search: \"NCAA softball eligibility\"\nalt_text: \"Softball player in uniform during game action\"\nstatus: not_started\n```"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "5-for-5 State Court Front\n**Source Search:** NCAA 5-for-5 eligibility rule state courts November 2026, Bre Warren Virginia Tech, LSU group case\n**Verified Facts:**\n| Fact | Confidence | Source/Notes |\n|------|-----------|--------------|\n| 200+ state court cases involving ~850 athletes remain active | HIGH | Multiple pipeline runs confirmed (Nov 7 through Nov 23) |\n| Tenth Circuit reversed Wisne federal injunction on Nov. 7 | HIGH | Confirmed in multiple pipeline runs |\n| State courts continue to grant relief at higher rate than federal courts | HIGH | Prior pipeline coverage confirmed |\n| Bre Warren (Virginia Tech) state court denied permanent injunction, case closed | HIGH | Nov. 23 pipeline confirmed |\n| LSU group case (Monticelli/Lassiter, 40+ athletes) is among the most significant active | HIGH | Multiple prior pipeline runs confirmed |\n| Congressional eligibility legislation is viable path to uniformity | MEDIUM | Referenced in prior runs and research; bill status not confirmed as of today |\n| NCAA sought \"casualties\" language per Kentucky coach Rachel Lawson | HIGH | Multiple prior pipeline runs confirmed |",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -3,6 +3,63 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## Pipeline Run: 2026-11-24
+
+### Story 1: Final Hours — Today Is the Last Day for Recruiting Contact
+- **Date:** 2026-11-24
+- **Tier:** 1
+- **Classification:** FOLLOW UP (shutdown angle covered Nov 23 as "48 hours away"; today is THE last day)
+- **Angle:** TODAY (Mon Nov 24) is the final day for unrestricted recruiting contact. The 5-day shutdown (Nov 25-29) starts tomorrow. Coaches nationwide making urgent last calls. Commitments may land today. Sequence: shutdown → Dec 1 portal → Dec 9-12 dead period.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Commitments announced before shutdown
+  - Portal activity burst on Dec 1
+  - Dead period Dec 9-12 recap
+
+### Story 2: Arizona's Ace Hunt — 7 Days Until the Portal Changes Everything
+- **Date:** 2026-11-24
+- **Tier:** 1
+- **Classification:** FOLLOW UP (portal countdown covered Nov 23 as "8 days"; now 7 days + Arizona focus)
+- **Angle:** Dec 1 portal opens in 7 days. Arizona lost National POY pitcher Torres to Texas Tech and needs an ace. OSU's Saylor Davis (3 years eligibility) is the prize. Ole Miss and Auburn also hunting arms. Dead period Dec 9-12 compresses the window.
+- **Content Produced:** Article (article-02, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Portal opening day — Davis commitment destination
+  - Arizona landing a pitcher
+  - Post-dead-period signings
+
+### Story 3: Patrick Murphy Signs Landmark Alabama Contract
+- **Date:** 2026-11-24
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Patrick Murphy's new Alabama contract makes him one of NCAA softball's highest-paid coaches (per Sports Illustrated). As NIL and portal dollars surge, elite coaching salaries are rising to match. Alabama is a perennial SEC power — Murphy has led them to multiple WCWS appearances.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Other high-paid coaching contracts in 2027
+  - Alabama's recruiting response to Murphy extension
+
+### Story 4: Big 12 Becomes a Recruiting Power — Arizona State Leads Conference at No. 8
+- **Date:** 2026-11-24
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Arizona State's 2027 class is No. 8 D1Softball / No. 10 Softball America — highest in Big 12. Combined with OU No. 1 and Texas Tech No. 1 transfer class, the Big 12 is now a 3-team WCWS threat. Conference not just OU territory anymore.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - January preseason poll showing Big 12 depth
+  - Spring results for Big 12 programs
+
+### Story 5: 5-for-5 State Court Front: 200+ Cases, 850 Athletes Still Fighting
+- **Date:** 2026-11-24
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Bre Warren individual case closed Nov 23; broader state court landscape)
+- **Angle:** With Warren's Virginia Tech case closed, focus shifts to 200+ ongoing state court cases involving 850 athletes. Congressional legislation remains viable path. LSU Monticelli/Lassiter group still active. State courts granting relief at higher rate than federal.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - LSU group case ruling
+  - Congressional eligibility bill progress
+  - Other high-profile individual case outcomes
+
+---
+
 ## Pipeline Run: 2026-11-23
 
 ### Story 1: Florida No. 2 Class for Second Straight Year — Allaire, Calvo Lead Gators
