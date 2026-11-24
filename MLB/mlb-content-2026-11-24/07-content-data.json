@@ -1,0 +1,259 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-24",
+  "compiled_at": "2026-11-24T10:23:30.108657+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "MLB Sends Revised Proposal — 7 Days to Stop the Freeze",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "MLB sent a revised salary cap proposal to the MLBPA today. The union hasn't moved. With 7 days until the Dec. 1 deadline, a lockout looks inevitable. The 2021 work stoppage lasted 99 days. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 193
+        },
+        {
+          "label": "Post 1-2",
+          "text": "MLB's offer: $258.2M ceiling, $180.2M floor. The union has never accepted a cap. If no deal by Dec. 2, all transactions freeze — no signings, no trades, no Rule 5 Draft. Last time: 99 days. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 194
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-cba-last-offer-seven-days-before-the-freeze.html",
+        "headline": "MLB Sends Revised Proposal — 7 Days to Stop the Freeze",
+        "word_count": 657
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "MLB Sends Revised Proposal — 7 Days to Stop the Freeze\n\n```yaml\n- story: 1\n  slot: social\n  dimensions: 1080x1350\n  status: not_started\n  search_term: \"Rob Manfred MLB\"\n  caption_overlay: \"7 DAYS TO THE FREEZE\"\n  notes: Commissioner at podium/press conference setting\n\n- story: 1\n  slot: article_hero\n  dimensions: 1200x630\n  status: not_started\n  search_term: \"Tony Clark MLBPA\"\n  caption_overlay: \"CBA DEADLINE: DEC. 1\"\n  notes: Union director, labor negotiation setting\n```\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "MLB Sends Revised Proposal — 7 Days to Stop the Freeze\n**Verified Facts:**\n- **[HIGH]** CBA expires December 1, 2026 at 11:59 PM ET. Source: ESPN, Yahoo Sports, multiple reporting.\n- **[HIGH]** MLB's salary cap proposal: $258.2M hard cap, $180.2M floor. Source: ESPN/Yahoo Sports labor reporting.\n- **[HIGH]** MLBPA has refused any cap framework. Source: MLBPA executive statements per Yahoo Sports/ESPN.\n- **[HIGH]** MLB sent a revised proposal to the MLBPA on Monday, Nov. 24. Source: Yahoo Sports labor tracker.\n- **[HIGH]** Lockout expected Dec. 2 at 12:01 AM if no deal. Source: multiple outlets.\n- **[HIGH]** 2021 MLB lockout lasted 99 days, ended March 10. Source: Wikipedia/ESPN historical record.\n- **[HIGH]** Rule 5 Draft is canceled in the event of a lockout. Source: ESPN CBA FAQ.\n- **[HIGH]** Rob Manfred stated owners \"can't imagine\" ratifying a deal without cap and floor. Source: ESPN direct quote.\n- **[MEDIUM]** MLB is also proposing a 12-round international amateur draft beginning 2027. Source: ESPN CBA FAQ; not confirmed by second source.",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Skubal Physical Underway — The Final Gate on a $450M Deal",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Tarik Skubal's $450M physical is underway. The Mets need it to clear before the Dec. 2 lockout. At $50M AAV, it's the most expensive medical exam in baseball history. #Mets #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Mets",
+            "#MLB"
+          ],
+          "char_count": 177
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-skubal-physical-most-expensive-baseball-history.html",
+        "headline": "Skubal Physical Underway — The Final Gate on a $450M Deal",
+        "word_count": 625
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Skubal Physical Underway — The Final Gate on a $450M Deal\n\n```yaml\n- story: 2\n  slot: social\n  dimensions: 1080x1350\n  status: not_started\n  search_term: \"Tarik Skubal Mets\"\n  caption_overlay: \"$450M PHYSICAL UNDERWAY\"\n  notes: Skubal in Mets uniform or pitching action\n\n- story: 2\n  slot: article_hero\n  dimensions: 1200x630\n  status: not_started\n  search_term: \"Tarik Skubal Tigers\"\n  caption_overlay: \"THE $450M EXAM\"\n  notes: Pitching motion or dugout shot\n```\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Skubal Physical Underway — The Final Gate on a $450M Deal\n**Verified Facts:**\n- **[HIGH]** Tarik Skubal agreed to a 9yr/$450M deal with the Mets, pending physical. Source: Multiple reports (Yahoo Sports, ESPN) Nov. 22-23.\n- **[HIGH]** $50M AAV shatters Yamamoto's previous record of $27M AAV. Source: same reports.\n- **[HIGH]** Deal includes $45M signing bonus and full no-trade clause. Source: multiple reports.\n- **[HIGH]** Mets went 74-88 in 2026. Source: 2026 New York Mets season Wikipedia/ESPN.\n- **[HIGH]** Scouts and executives \"harbored no concerns\" about Skubal's medicals. Source: The Athletic per ClutchPoints.\n- **[MEDIUM]** Skubal had an elbow procedure to remove loose bodies in spring 2026. Source: MLB.com, amNY reporting. Physical will include elbow/arm evaluation.\n- **[MEDIUM]** Physical examination for contracts of this size typically includes full MRI of pitching arm, musculoskeletal review, cardiovascular evaluation. Source: general baseball contract knowledge, not deal-specific confirmation.",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Chisholm — Blue Jays Frontrunner, No Deal Yet",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Jazz Chisholm has not signed. The Blue Jays are the frontrunner, but Toronto still needs to close. 7 days until the lockout freeze. If he's not signed by Dec. 2, the market goes dark. #BlueJays #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BlueJays",
+            "#MLB"
+          ],
+          "char_count": 198
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-chisholm-blue-jays-closing-clock-ticking.html",
+        "headline": "Jazz Chisholm: Blue Jays Closing In, But Clock Is Ticking",
+        "word_count": 576
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Chisholm — Blue Jays Closing In, But Clock Is Ticking\n\n```yaml\n- story: 3\n  slot: social\n  dimensions: 1080x1350\n  status: not_started\n  search_term: \"Jazz Chisholm Yankees\"\n  caption_overlay: \"BLUE JAYS FRONTRUNNER\"\n  notes: Chisholm batting or fielding action\n\n- story: 3\n  slot: article_hero\n  dimensions: 1200x630\n  status: not_started\n  search_term: \"Jazz Chisholm Yankees\"\n  caption_overlay: \"7 DAYS TO CLOSE\"\n  notes: Speed/baserunning action preferred\n```\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Chisholm — Blue Jays Frontrunner, No Deal Yet\n**Verified Facts:**\n- **[HIGH]** Blue Jays are the frontrunner for Chisholm per Davidi/Sportsnet. Source: thescore.com reporting.\n- **[HIGH]** 11 teams engaged per Jon Morosi. Source: MLB Network/Morosi reporting cited across outlets.\n- **[HIGH]** New York Yankees are out of the Chisholm sweepstakes per multiple reports. Source: multiple outlets.\n- **[HIGH]** Chisholm recorded 41 stolen bases in 2026 with the Yankees. Source: reported stats.\n- **[HIGH]** Chisholm recorded 19 home runs in 2026. Source: Yardbarker piece citing 2026 stats.\n- **[HIGH]** No qualifying offer was attached to Chisholm — no draft-pick compensation for signing team. Source: reported across FA tracker sites.\n- **[MEDIUM]** Toronto ranked near the bottom of MLB in stolen bases in 2026 (team total ~75). Source: Yardbarker piece. Not independently confirmed with official stats.\n- **[HIGH]** Personal meetings with Chisholm's representatives ongoing. Source: thescore.com.",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Brandon Lowe — The Best Value on the Board",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Brandon Lowe is the most underrated name on the free agent market. No QO cost. Pirates, Rays, Blue Jays, and Yankees all interested. 7 days to sign before the Dec. 2 freeze. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 178
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-brandon-lowe-best-value-free-agent-market.html",
+        "headline": "Brandon Lowe Is the Best Value on the Free Agent Market",
+        "word_count": 628
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Brandon Lowe — The Best Value on the Board\n\n```yaml\n- story: 4\n  slot: social\n  dimensions: 1080x1350\n  status: not_started\n  search_term: \"Brandon Lowe Rays\"\n  caption_overlay: \"THE QUIET VALUE PLAY\"\n  notes: Lowe fielding at 2B or batting stance\n\n- story: 4\n  slot: article_hero\n  dimensions: 1200x630\n  status: not_started\n  search_term: \"Brandon Lowe Rays\"\n  caption_overlay: \"NO QO. NO DRAFT COST.\"\n  notes: Clean action shot\n```\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Brandon Lowe — The Best Value on the Board\n**Verified Facts:**\n- **[HIGH]** Brandon Lowe is a free agent this offseason (2B, formerly Rays). Source: MLB free agent tracker.\n- **[HIGH]** Teams interested: Pirates, Rays, Blue Jays, Yankees. Source: MLB.com FA report (search results).\n- **[HIGH]** No qualifying offer attached to Lowe. Source: MLB FA tracker.\n- **[MEDIUM]** Lowe career slash line: approximately .239/.315/.430 with 15+ HR seasons. Source: Baseball Reference general knowledge — verify against official stats before publication. Tagged MEDIUM; use cautiously.\n- **[MEDIUM]** Lowe fits the Pirates as a potential roster upgrade. Source: analyst framing in search results; not from a primary team source.\n**Note:** Brandon Lowe's specific 2026 stats not confirmed from search results. Using career averages tagged MEDIUM. Article should not cite specific 2026 numbers without confirmation.",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "7 Days to Sign or Wait Until Spring — The Hot Stove Rush",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The 7-day scramble is on. Cubs lost Suzuki, Happ, and Kelly — a third of their lineup. Mets need to build around Skubal. Blue Jays need Chisholm. Dec. 2 changes everything. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 177
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-hot-stove-rush-seven-days-to-sign-or-wait-until-spring.html",
+        "headline": "7 Days to Sign or Wait Until Spring — The Hot Stove Rush Is On",
+        "word_count": 741
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "7 Days to Sign or Wait Until Spring\n\n```yaml\n- story: 5\n  slot: social\n  dimensions: 1080x1350\n  status: not_started\n  search_term: \"Seiya Suzuki Cubs\"\n  caption_overlay: \"7 DAYS OR WAIT UNTIL SPRING\"\n  notes: Suzuki batting stance/action\n\n- story: 5\n  slot: article_hero\n  dimensions: 1200x630\n  status: not_started\n  search_term: \"Seiya Suzuki Cubs\"\n  caption_overlay: \"THE LOCKOUT SCRAMBLE\"\n  notes: Wide action or celebration shot\n```"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "7 Days to Sign or Wait Until Spring\n**Verified Facts:**\n- **[HIGH]** Dec. 2 lockout would freeze all transactions: signings, trades, Rule 5 Draft. Source: ESPN CBA FAQ.\n- **[HIGH]** 2021 lockout lasted 99 days, ended March 10. Source: ESPN/Wikipedia historical.\n- **[HIGH]** Cubs lost Seiya Suzuki (declined QO, now FA), Ian Happ (FA), and also lost pitching depth. Source: MLB team transaction reporting.\n- **[HIGH]** Kevin Gausman was traded from Blue Jays to Cubs. Source: MLB.com news.\n- **[HIGH]** Seiya Suzuki is still unsigned; projected 4yr/$90-110M. Source: Spotrac/Passan projections (Nov 23 research).\n- **[HIGH]** Skubal $450M deal pending physical — Mets need this official before Dec. 2. Source: multiple reports.\n- **[MEDIUM]** Cubs need multiple rotation spots after losing Gausman + other departures. Source: inferred from transaction history; specific rotation count not confirmed independently.\n- **[MEDIUM]** Blue Jays pursuing both Chisholm and Suzuki. Source: thescore.com and earlier MLB.com reporting; Blue Jays confirmed interest in both but no second independent confirmation of simultaneous pursuit.",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -5,6 +5,61 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## November 24, 2026
+
+### Story 1: MLB Sends Revised Proposal — 7 Days to Stop the Freeze
+- **Date:** 2026-11-24
+- **Tier:** 1
+- **Classification:** FOLLOW UP (CBA countdown covered through Nov 23; now 7 days + new proposal)
+- **Angle:** MLB sent revised salary cap proposal to MLBPA on Monday. Union hasn't moved. $258.2M cap/$180.2M floor vs. MLBPA refusal. Dec 1 deadline at 11:59 PM. 2021 precedent: 99 days. All transactions freeze Dec 2.
+- **Content Produced:** Article (article-01, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Official lockout announcement Dec 2
+  - Any last-minute negotiations
+  - Impact on unsigned FAs (Chisholm, Suzuki, Lowe)
+
+### Story 2: Skubal Physical Underway — The Most Expensive Physical in Baseball History
+- **Date:** 2026-11-24
+- **Tier:** 2
+- **Classification:** FOLLOW UP ($450M deal agreed Nov 22-23; now physical stage)
+- **Angle:** Skubal's $450M deal is agreed pending physical. At $50M AAV, this is the most expensive medical exam in baseball history. Mets need it cleared before the Dec 2 lockout. What teams examine in $400M+ physicals.
+- **Content Produced:** Article (article-02, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Official announcement once physical clears
+  - Mets' next moves in the 7-day window
+
+### Story 3: Jazz Chisholm — Blue Jays Closing In, But Clock Is Ticking
+- **Date:** 2026-11-24
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Chisholm 11 teams/Blue Jays frontrunner covered Nov 23)
+- **Angle:** Chisholm still unsigned. Blue Jays frontrunner but no deal closed. 7 days until lockout freeze. Toronto ranked near bottom in SBs (75 team total; Chisholm 41 SBs). No QO cost. 19 HRs in 2026.
+- **Content Produced:** Article (article-03, Marcus Cole), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Signing announcement before Dec 2
+  - If unsigned: post-lockout market
+
+### Story 4: Brandon Lowe — The Best Value on the Free Agent Market
+- **Date:** 2026-11-24
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** 2B Brandon Lowe drawing interest from Pirates, Rays, Blue Jays, Yankees. No QO attached — no draft pick cost. 15+ HR seasons, .239/.315/.430 career line. Must sign before lockout or faces frozen market. Pirates the best fit.
+- **Content Produced:** Article (article-04, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Signing announcement
+  - If frozen: Brandon Lowe post-lockout landing spot
+
+### Story 5: 7 Days to Sign or Wait Until Spring — The Hot Stove Rush Is On
+- **Date:** 2026-11-24
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Overview of 7-day crunch before lockout. Teams with the most work: Mets (building around Skubal), Cubs (lost Suzuki + Happ + Kelly — third of lineup), Blue Jays (Chisholm + possibly Suzuki). Best available players on the board.
+- **Content Produced:** Article (article-05, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Which teams get deals done before Dec 2
+  - Lockout length and 2027 season impact
+
+---
+
 ## November 23, 2026
 
 ### Story 1: Skubal Agrees to $450M Deal With Mets — Largest Pitching Contract in MLB History
