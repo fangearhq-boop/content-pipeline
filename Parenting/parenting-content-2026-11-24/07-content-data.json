@@ -1,0 +1,405 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-24",
+  "compiled_at": "2026-11-24T12:23:13.297347+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Thanksgiving Week Family Events Guide — Turkey Trot, Nutcracker, and More in COS",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Thanksgiving week in COS: Turkey Trot 5K at Briargate YMCA (Nov 26, 9 AM MT, Tiny Trot 8:15 AM). Nutcracker at Pikes Peak Center Nov 27–29. Garden of the Gods free all week. Full guide: #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 245
+        },
+        {
+          "label": "Post 1-2",
+          "text": "29th annual YMCA Turkey Trot is Thursday — 4,000+ expected. Tiny Trot 8:15 AM MT. The CS Philharmonic Nutcracker opens Fri–Sun at Pikes Peak Center. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-thanksgiving-week-family-events-guide-colorado-springs.html",
+        "headline": "What to Do with Your Kids in Colorado Springs This Thanksgiving Week",
+        "word_count": 623
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Thanksgiving Week Events Guide\n\n**Image Concept 1-A** (Social — 1200x675)\n- **Prompt:** A warm, festive outdoor scene with a family of four (two parents, two young children ages 5 and 8) in athletic wear running together on a wide park path lined with autumn trees in golden and russet colors. Clear blue Colorado sky, morning light. The children are smiling and running ahead. Clean, bright, slightly elevated lifestyle photography style. Clean lower third with open space for text overlay. Warm, joyful mood. No text, no logos, no branded elements.\n- **Mode:** base_only\n- **Status:** not_started\n\n**Image Concept 1-B** (Article Hero — 1200x630)\n- **Prompt:** A cozy Colorado mountain city street scene decorated for the holidays — twinkling lights on bare-branched trees, families walking on a wide sidewalk in winter coats on a crisp autumn evening. Children look up at the decorations with wonder. Warm amber streetlight, festive holiday atmosphere, slight Pikes Peak silhouette visible in the background. Clean lower third for text overlay. No text, no logos.\n- **Mode:** base_only\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Thanksgiving Week Family Events Guide\n**Facts — HIGH confidence (2+ independent sources):**\n- YMCA Turkey Trot 5K: Briargate YMCA, 4025 Family Place, Colorado Springs. Thursday Nov 26, 2026. Tiny Trot 8:15 AM MT. 5K 9:00 AM MT. 29th annual. 4,000+ participants. — HIGH (runsignup.com + visitcos.com)\n- Registration closes Nov 26 at 8:15 AM MST. Register at runsignup.com. — HIGH (runsignup.com)\n- CS Philharmonic Nutcracker: Pikes Peak Center for the Performing Arts. Nov 27–29, 2026. Tickets at AXS.com or box office. — HIGH (broadmoorworldarena.com + Gazette holiday guide Nov 10 2026)\n- Garden of the Gods: Open and free year-round, including Thanksgiving Day. — HIGH (confirmed public land)\n- Manitou Springs Elf Hunt: Free family scavenger hunt, Thanksgiving season. — MEDIUM (single regional calendar listing)\n**Facts — MEDIUM confidence (single source):**\n- Cheyenne Mountain Zoo: Open Thanksgiving Day. — MEDIUM (mentioned in visit guides, specific 2026 hours not confirmed)\n- Chefs' Kitchen culinary camp: Holiday week camp ages 7–14, $235, chefskitchencos.com. — MEDIUM (single prior listing)\n- Turkey Trot registration price: ~$48.95. — MEDIUM (price ambiguity; multiple sources show slightly different amounts)\n**Sources:**\n- https://runsignup.com/Race/Info/CO/ColoradoSprings/TurkeyTrot5KSprings\n- https://www.visitcos.com/events/holidays/thanksgiving/\n- https://www.broadmoorworldarena.com/events/detail/phil-nutcracker-26\n- https://gazette.com/2026/11/10/colorado-springs-and-beyond-holiday-events/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "runsignup.com",
+          "url": "https://runsignup.com/Race/Info/CO/ColoradoSprings/TurkeyTrot5KSprings",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "visitcos.com",
+          "url": "https://www.visitcos.com/events/holidays/thanksgiving/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "broadmoorworldarena.com",
+          "url": "https://www.broadmoorworldarena.com/events/detail/phil-nutcracker-26",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "gazette.com",
+          "url": "https://gazette.com/2026/11/10/colorado-springs-and-beyond-holiday-events/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Kidsview Infant Bouncers Recalled After Collapse Injuries Reported",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Recall alert: 412 Kidsview infant bouncers sold on Amazon are recalled after 7 collapses — 2 babies hit their head on the floor. Stop use, full refund available. cpsc.gov for details. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 243
+        },
+        {
+          "label": "Post 2-2",
+          "text": "If you have a Kidsview infant bouncer, stop using it now. CPSC issued a recall (Nov 19): these bouncers can collapse without warning. 7 incidents reported, 2 injuries to babies. Full refund from the seller. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-kidsview-infant-bouncer-recall-cpsc.html",
+        "headline": "Recall Alert: Kidsview Infant Bouncers Recalled After 7 Collapses, 2 Head Injuries",
+        "word_count": 501
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kidsview Bouncer Recall\n\n**Image Concept 2-A** (Social — 1200x675)\n- **Prompt:** A clean, minimalist flat-lay on a white surface: an empty infant bouncer seat shown clearly, with a bright red stop-sign shaped element and a checklist pad nearby. Safety-focused tone — the image should feel like a helpful alert, not alarming. Clean white background, top-down view, modern graphic style. Ample space in lower third for text overlay. No text, no brand names visible on the bouncer.\n- **Mode:** base_only\n- **Status:** not_started\n\n**Image Concept 2-B** (Article Hero — 1200x630)\n- **Prompt:** A caring parent carefully examining a baby product — specifically a small bouncer seat — with focused, protective energy. The parent is seated on the floor in a bright, clean nursery. Warm natural light from a window. The mood is attentive and protective, not scary. Soft teal and white color palette. Clean lower third. No text, no logos.\n- **Mode:** base_only\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kidsview Infant Bouncer Recall\n**Facts — HIGH confidence (official cpsc.gov):**\n- Recall announced November 19, 2026.\n- Product: ~412 Kidsview infant bouncers, sold on Amazon.\n- Hazard: Bouncers can collapse during use; risk of impact injury to infants.\n- Reports: 7 reports of collapse, 2 infants struck head on the floor.\n- Remedy: Full refund. Stop use immediately.\n- Official CPSC URL: https://www.cpsc.gov/Recalls/2027/Kidsview-Recalls-Infant-Bouncers-Due-to-Risk-of-Collapse-and-Impact-Injury-to-Infants\n**Sources:**\n- https://www.cpsc.gov/Recalls/2027/Kidsview-Recalls-Infant-Bouncers-Due-to-Risk-of-Collapse-and-Impact-Injury-to-Infants\n- https://www.rochesterfirst.com/news/national-news/baby-bouncers-sold-on-amazon-recalled-after-injuries-reported/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Official CPSC URL",
+          "url": "https://www.cpsc.gov/Recalls/2027/Kidsview-Recalls-Infant-Bouncers-Due-to-Risk-of-Collapse-and-Impact-Injury-to-Infants",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "rochesterfirst.com",
+          "url": "https://www.rochesterfirst.com/news/national-news/baby-bouncers-sold-on-amazon-recalled-after-injuries-reported/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "D11's $775M Bond Is Approved — Here's What It Means for Colorado Springs Families",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "D11's $775M bond passed. Holmes Middle School gets an $80M rebuild. Citizen oversight committee planned. Could be the largest school bond in El Paso County history. What it means for COS families: #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-d11-775-million-bond-approved-colorado-springs-families.html",
+        "headline": "Colorado Springs Voters Approved a $775 Million D11 Bond — What It Means for Your Family",
+        "word_count": 576
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Bond\n\n**Image Concept 3-A** (Social — 1200x675)\n- **Prompt:** A bright, modern school building exterior on a sunny Colorado day — crisp blue sky, mountains barely visible on the horizon. Students walking toward the school entrance, parents in background. Contemporary architecture, well-maintained grounds. Colors: teal and warm white. Clean, optimistic civic mood. Clean lower third for text overlay. No text, no district names or logos.\n- **Mode:** base_only\n- **Status:** not_started\n\n**Image Concept 3-B** (Article Hero — 1200x630)\n- **Prompt:** An engaged parent and two children sitting at a kitchen table looking over what appears to be a school calendar or newsletter, with a laptop open nearby. Warm home environment, natural light from a window. Relaxed but purposeful mood. Teal accent in home decor. No text visible, no logos. Clean lower third for text overlay.\n- **Mode:** base_only\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 $775M Bond Approval\n**Facts — HIGH confidence (Gazette reporting, confirmed multi-article):**\n- D11 voters approved Ballot Issue 4A: $775 million bond in the November 2026 general election. — HIGH (Gazette Nov 5 2026 + bond approval coverage)\n- May be the largest school bond in El Paso County history. — HIGH (Gazette)\n- Includes approximately $80 million for the Holmes Middle School rebuild. — HIGH (Gazette)\n- D11 plans independent citizen oversight committee to monitor bond spending. — HIGH (Gazette)\n- Context from prior research: D11 has 23,458 students 2025-26, 11 underused campuses, 81% capacity. — HIGH (Nov 23 research)\n**Sources:**\n- https://gazette.com/2026/11/05/colorado-springs-district-11-bond-maintains-voter-approval/\n- https://gazette.com/2026/11/18/district-11-board-reviews-current-enrollment-building-capacity/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "gazette.com",
+          "url": "https://gazette.com/2026/11/05/colorado-springs-district-11-bond-maintains-voter-approval/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "gazette.com",
+          "url": "https://gazette.com/2026/11/18/district-11-board-reviews-current-enrollment-building-capacity/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Black Friday Is Coming: Toy Safety Checklist for Colorado Springs Parents",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Black Friday is 2 days away. Before you shop: check age labels, search cpsc.gov recalls, avoid magnetic toys and unsecured button batteries. 2026 had 100K+ magnetic toy units recalled. Checklist: #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-black-friday-toy-safety-checklist-parents.html",
+        "headline": "Before You Add to Cart: Toy Safety Checklist for Black Friday and the Holiday Shopping Season",
+        "word_count": 760
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Black Friday Toy Safety\n\n**Image Concept 4-A** (Social — 1200x675)\n- **Prompt:** A colorful, carefully organized flat-lay of children's toys on a clean white surface — a variety including a simple wooden puzzle, a stuffed animal, building blocks, and a small remote-controlled car. Each toy has space between it; the arrangement feels curated and thoughtful, not chaotic. Clean white background, overhead view. No branded toys, no specific characters. Clean lower third for text overlay. Soft natural daylight.\n- **Mode:** base_only\n- **Status:** not_started\n\n**Image Concept 4-B** (Article Hero — 1200x630)\n- **Prompt:** A parent and child (age 4) on a shopping cart ride through a toy aisle — the parent has a thoughtful, evaluating expression while looking at a package. The child is excited and reaching toward a toy. Bright retail lighting, colorful but not overwhelming. Warm family mood. Clean lower third for text overlay. No text visible, no brand names or store logos recognizable.\n- **Mode:** base_only\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Black Friday Toy Safety Checklist\n**Facts — HIGH confidence (CPSC official guidance + established standards):**\n- Choking hazard label: toys for under-3 must be labeled with choking hazard warning if they contain small parts. — HIGH (CPSC official standard)\n- Button battery danger: button/coin batteries can cause severe internal injuries if swallowed; must be in secured compartments. — HIGH (CPSC official)\n- Noise hazard: toys over 85 dB can damage children's hearing. — HIGH (AAP/CPSC guidance)\n- Magnetic ingestion: high-powered magnets in children's products are banned by CPSC; check for loose/accessible magnets. — HIGH (CPSC)\n- 2026 recall context: magnetic robot toys (CHE-US, ~101K units, fatal ingestion risk — Nov 23 pipeline research); flammable pajamas (Qpancy, Nov 22); AI toys with unsafe content (Trouble in Toyland 2026, Nov 22). — HIGH (Nov 22-23 research)\n- CPSC SaferProducts.gov: official recall database to check before buying. — HIGH (official)\n**Sources:**\n- https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Toy-Safety\n- https://www.healthychildren.org/English/safety-prevention/at-play/Pages/toy-safety.aspx",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "U.S. Consumer Product Safety Commission",
+          "url": "https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Toy-Safety",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "American Academy of Pediatrics (HealthyChildren.org)",
+          "url": "https://www.healthychildren.org/English/safety-prevention/at-play/Pages/toy-safety.aspx",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "| LOW | Organization | cpsc | (official) Sources",
+          "url": "https://www.cpsc.gov/Safety-E",
+          "official": true,
+          "found_in": [
+            "06-fact-check-log.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Parenting Yourself Through the Holidays: Practical Self-Care for COS Families",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "AAP research is clear: when parents are struggling, parenting programs work less well for kids. This Thanksgiving, taking care of yourself IS taking care of your family. Local COS resources inside: #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-holiday-parenting-self-care-cos-families.html",
+        "headline": "Parenting Yourself Through the Holidays: Why Your Wellbeing Is Your Family's Foundation",
+        "word_count": 670
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Holiday Parenting Self-Care\n\n**Image Concept 5-A** (Social — 1200x675)\n- **Prompt:** A parent (30s, warm expression, casual clothes) sitting alone on a couch with both hands wrapped around a warm mug of tea or coffee, looking out a window at a snowy Colorado backyard. The home is calm and softly lit. Children's holiday art visible on the wall in the background. Quiet, restored mood. Teal and warm gold color palette. Clean lower third for text overlay. No text visible.\n- **Mode:** base_only\n- **Status:** not_started\n\n**Image Concept 5-B** (Article Hero — 1200x630)\n- **Prompt:** A family of three (two parents and a child around age 7) taking a walk on a sunny winter day on a wide park path with Pikes Peak visible faintly in the distance. All three are holding hands, relaxed and smiling. Thin layer of snow on the ground, blue sky. Warm and grounded mood. No text, no logos. Clean lower third for text overlay.\n- **Mode:** base_only\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Parenting Yourself Through the Holidays\n**Facts — HIGH confidence:**\n- AAP/Pediatrics study: caregiver mental health moderates how well parenting interventions work. Children of caregivers without mental health challenges benefited most from parenting programs. — HIGH (publications.aap.org)\n- AAP recommendation: parents seeking mental health support should be connected to local resources, not just referred. — HIGH (AAP guidance)\n- Pikes Peak Behavioral Health Group: local COS mental health provider, serves families. — HIGH (local provider)\n- El Paso County Health: Behavioral health resources available, elpasocountyhealth.org. — HIGH (official county)\n**Facts — MEDIUM confidence:**\n- D11 family services: district provides social-emotional support resources for families. — MEDIUM (general district knowledge, not fetched)\n- Average Colorado parent reports holiday season as the most stressful parenting time (National Parenting Survey). — LOW (do not use without specific source)\n**Sources:**\n- https://publications.aap.org/pediatrics/article/158/5/e2026076649/210927/Association-of-Caregiver-Mental-Health-and-a\n- https://www.healthychildren.org/English/healthy-living/emotional-wellness/Building-Resilience/Pages/helping-children-handle-stress.aspx\n- https://elpasocountyhealth.org/behavioral-health",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "American Academy of Pediatrics",
+          "url": "https://publications.aap.org/pediatrics/article/158/5/e2026076649/210927/Association-of-Caregiver-Mental-Health-and-a",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "American Academy of Pediatrics (HealthyChildren.org)",
+          "url": "https://www.healthychildren.org/English/healthy-living/emotional-wellness/Building-Resilience/Pages/helping-children-handle-stress.aspx",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "El Paso County Public Health",
+          "url": "https://elpasocountyhealth.org/behavioral-health",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

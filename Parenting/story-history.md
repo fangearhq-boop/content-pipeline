@@ -2,6 +2,50 @@
 
 ---
 
+## November 24, 2026
+
+### Story 1: Thanksgiving Week Family Events Guide — Turkey Trot, Nutcracker, and More
+- **Date:** 2026-11-24
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** YMCA Turkey Trot 29th annual, Briargate YMCA 4025 Family Place, Nov 26 Tiny Trot 8:15 AM MT / 5K 9:00 AM MT, 4,000+ participants; CS Philharmonic Nutcracker at Pikes Peak Center Nov 27–29; Garden of the Gods open/free all week; Manitou Springs Elf Hunt free scavenger hunt; CMZ open Thanksgiving Day
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 2: Kidsview Infant Bouncer Recall
+- **Date:** 2026-11-24
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** CPSC recall announced Nov 19, 2026; ~412 Kidsview infant bouncers sold on Amazon; can collapse during use; 7 collapse reports, 2 infants struck head on floor; remedy: full refund, stop use immediately; cpsc.gov/recalls
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 3: D11 $775M Bond Approved
+- **Date:** 2026-11-24
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** D11 Ballot Issue 4A approved in Nov 2026 election; $775M bond, may be largest in El Paso County history; Holmes Middle School rebuild ~$80M; independent citizen oversight committee planned; D11 23,458 students, 81% capacity, 11 underused campuses
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 4: Black Friday Toy Safety Checklist
+- **Date:** 2026-11-24
+- **Tier:** T2
+- **Pillar:** National Parenting / Evergreen
+- **Key Facts:** CPSC toy safety standards: choking hazard labels, button battery secure compartments, 85dB noise limit, flammability labeling; references 2026 recalls (CHE-US magnetic robots 100K+, Qpancy pajamas, Trouble in Toyland); cpsc.gov/recalls is the safety database
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 5: Holiday Parenting Self-Care
+- **Date:** 2026-11-24
+- **Tier:** T2
+- **Pillar:** Evergreen
+- **Key Facts:** AAP/Pediatrics caregiver mental health study (8-year follow-up, 260 children); caregivers' own mental health moderates effectiveness of parenting programs; COS local resources: El Paso County Behavioral Health (elpasocountyhealth.org), YMCA wellness programs, D11 family services
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+---
+
 ## November 23, 2026
 
 ### Story 1: SHEIN Baby Rattle and Teether Recall (Choking Hazard)
