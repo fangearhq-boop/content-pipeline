@@ -1058,3 +1058,42 @@
 - **Key facts:** Antonelli clinched at Mexico City; 402 pts, 98 ahead of Verstappen; debut season champion; Mercedes dominant constructor (666 pts)
 - **Byline:** Marcus Cole
 - **Status:** NEW
+
+---
+
+## 2026-11-24
+
+### STORY 1: Verstappen Seeks Fourth Consecutive Qatar Victory
+- **Tier:** 2
+- **Category:** Max Verstappen / Red Bull / Qatar Grand Prix / Lusail
+- **Key facts:** Verstappen 304 pts (2nd); 37-pt lead over Hamilton; has won Qatar GP 2023/24/25; seeking 4th straight
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
+### STORY 2: Hamilton-Leclerc Las Vegas Collision — Qatar Response
+- **Tier:** 2
+- **Category:** Lewis Hamilton / Charles Leclerc / Ferrari / Las Vegas GP
+- **Key facts:** Both made contact in Las Vegas; Hamilton P7 (267 pts), Leclerc P10 (250 pts); Qatar next
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 3: Pirelli 27-Lap Tyre Limit for Qatar
+- **Tier:** 2
+- **Category:** Pirelli / Qatar Grand Prix / race strategy
+- **Key facts:** 27-lap max per stint; 57-lap race = minimum 2 stops; strategy now a major factor
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 4: Russell and Norris Both at 264 Points — P4 Battle
+- **Tier:** 2
+- **Category:** George Russell / Mercedes / Lando Norris / McLaren / championship
+- **Key facts:** Identical 264 pts; 50 pts remaining; two races to separate them
+- **Byline:** Elena Voss
+- **Status:** NEW
+
+### STORY 5: Mercedes / Antonelli Final Two Races
+- **Tier:** 3
+- **Category:** Kimi Antonelli / Mercedes / World Championship / Qatar Grand Prix
+- **Key facts:** Antonelli 402 pts champion; Mercedes leads constructors; focus on finishing strong
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP

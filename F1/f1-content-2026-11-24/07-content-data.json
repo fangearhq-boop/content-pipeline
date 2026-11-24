@@ -1,0 +1,272 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-24",
+  "compiled_at": "2026-11-24T11:21:55.562481+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Verstappen Seeks Fourth Straight Qatar Victory After Las Vegas Triumph",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Max Verstappen won the Qatar Grand Prix in 2023.\nThen 2024.\nThen 2025.\n\nNow he heads to Lusail again, riding a Las Vegas win.\n\nCan anyone stop him from making it four in a row? #F1 #QatarGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#QatarGP"
+          ],
+          "char_count": 189
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Verstappen: 304 championship points. A 37-point lead over Hamilton.\n\nA 3-race Qatar winning streak on the line.\n\nThe No. 2 fight is real — and it runs through Lusail. #QatarGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#QatarGP",
+            "#F1"
+          ],
+          "char_count": 179
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-verstappen-fourth-qatar-win-bid.html",
+        "headline": "Verstappen Arrives at Qatar Chasing Fourth Consecutive Grand Prix Victory at Lusail",
+        "word_count": 531
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Fourth Straight Qatar Win\n\n**Image 1A** — Social (1080x1350)\n- **Photo source:** imagn\n- **Search terms:** \"Max Verstappen Red Bull\"\n- **Concept:** Verstappen celebrating on the podium or in the car; victorious body language\n- **Text overlay:** \"FOUR IN A ROW? — Verstappen at Lusail 2026\"\n- **Status:** not_started\n\n**Image 1B** — Article Hero (1200x630)\n- **Photo source:** imagn\n- **Search terms:** \"Max Verstappen Red Bull\"\n- **Concept:** Verstappen driving at Lusail or similar circuit; helmet visible\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen's Qatar Record / Las Vegas Win\n- **Verstappen current standing:** 304 points, second in championship\n- **Lead over Hamilton:** 37 points (Hamilton 267)\n- **Qatar GP record:** Has won every Qatar GP since 2023 (2023, 2024, 2025 editions); seeking 4th straight\n- **Las Vegas:** Won the 2026 Las Vegas GP\n- **Race date:** November 29, 2026 at Lusail International Circuit\n- **Circuit:** 5.419km, 57 laps, total distance 308.611km\n- **Source:** grandprix247.com (Qatar 2026 preview), motorsport.com, formula1.com\n**Confidence:** HIGH (multiple independent sources agree on standings and circuit details)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Hamilton-Leclerc Las Vegas Collision Clouds Ferrari's Qatar Preparations",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Hamilton and Leclerc made contact in Las Vegas.\n\nHamilton: P7, still P3 in the championship at 267 pts.\nLeclerc: P10, P5 in the standings at 250 pts.\n\nQatar is their chance to fix it. #F1 #QatarGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#QatarGP"
+          ],
+          "char_count": 196
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Two Ferrari and ex-Ferrari drivers fighting for the same championship real estate.\n\nAfter Las Vegas, Hamilton and Leclerc need a clean Qatar to make up ground on Verstappen.\n\n250 and 267 points. 50 left. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-hamilton-leclerc-las-vegas-collision-qatar.html",
+        "headline": "Hamilton and Leclerc Carry Las Vegas Baggage into Qatar After Contact Costs Both Drivers",
+        "word_count": 509
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton-Leclerc Las Vegas Collision\n\n**Image 2A** — Social (1080x1350)\n- **Photo source:** imagn\n- **Search terms:** \"Lewis Hamilton Ferrari\"\n- **Concept:** Hamilton in his car or on track; serious/focused expression before the race\n- **Text overlay:** \"HAMILTON vs LECLERC — Las Vegas fallout, Qatar next\"\n- **Status:** not_started\n\n**Image 2B** — Article Hero (1200x630)\n- **Photo source:** imagn\n- **Search terms:** \"Charles Leclerc Ferrari\"\n- **Concept:** Leclerc in his car; both drivers in the frame if possible\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton-Leclerc Las Vegas Collision\n- **What happened:** Hamilton and Leclerc made contact in the Las Vegas GP\n- **Hamilton result:** P7 in Las Vegas; now 267 pts (3rd in standings)\n- **Leclerc result:** P10 in Las Vegas; now 250 pts (5th in standings)\n- **Context:** Both drivers were fighting for championship positions; collision created tension\n- **Hamilton Qatar history:** Won the first Qatar GP in 2021\n- **Source:** archynewsy.com (F1 Qatar GP 2026 Antonelli Champion article); initial search results\n**Confidence:** MEDIUM (collision mentioned in sources; specific details of fault/penalty not confirmed)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Pirelli's 27-Lap Tyre Limit Sets Up a Tactical Qatar Race",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Pirelli's 27-lap tyre limit for Qatar means every driver must pit at least twice in a 57-lap race.\n\nMinimum two stops. No hiding.\n\nStrategy will matter more than you might expect at Lusail. #QatarGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#QatarGP",
+            "#F1"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-pirelli-27-lap-limit-qatar-strategy.html",
+        "headline": "Pirelli's 27-Lap Tyre Limit Locks Every Qatar Driver Into a Minimum Two-Stop Strategy",
+        "word_count": 538
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Pirelli Tyre Limit\n\n**Image 3A** — Social (1080x1350)\n- **Photo source:** imagn\n- **Search terms:** \"Formula 1 pit stop tyres\"\n- **Concept:** Pit stop action — tyres being changed at speed; mechanics visible\n- **Text overlay:** \"27-LAP LIMIT — 2 stops minimum. Qatar strategy explained.\"\n- **Status:** not_started\n\n**Image 3B** — Article Hero (1200x630)\n- **Photo source:** imagn\n- **Search terms:** \"Formula 1 Pirelli tyres\"\n- **Concept:** Tyre compound close-up or pit lane action\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pirelli 27-Lap Tyre Limit\n- **Rule:** Mandatory maximum tyre stint of 27 laps at Qatar\n- **Effect:** Forces minimum two-stop strategy in a 57-lap race\n- **Source:** SpeedWeek.com, grandprix247.com Qatar 2026 preview\n**Confidence:** HIGH (confirmed by multiple F1 sources)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Russell and Norris Both at 264 — P4 Battle Goes to the Wire",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "George Russell: 264 points.\nLando Norris: 264 points.\n\nExactly level heading into the final two races.\n\nLusail and Abu Dhabi will decide who finishes the year as the No. 4 driver. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 183
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-russell-norris-p4-battle-qatar.html",
+        "headline": "Russell and Norris Perfectly Level at 264 Points as P4 Battle Enters Its Final Two Rounds",
+        "word_count": 517
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Russell/Norris P4 Battle\n\n**Image 4A** — Social (1080x1350)\n- **Photo source:** imagn\n- **Search terms:** \"George Russell Mercedes\"\n- **Concept:** Russell in his car or celebrating; competitive expression\n- **Text overlay:** \"264 — 264. Russell vs Norris. Two races to settle it.\"\n- **Status:** not_started\n\n**Image 4B** — Article Hero (1200x630)\n- **Photo source:** imagn\n- **Search terms:** \"Lando Norris McLaren\"\n- **Concept:** Norris driving or celebrating; McLaren livery visible\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Russell/Norris P4 Battle\n- **Russell:** 264 points (4th equal)\n- **Norris:** 264 points (4th equal)\n- **Points remaining:** 50 (25 at Qatar + 25 at Abu Dhabi — maximum per race with fastest lap)\n- **Battle significance:** One place can mean millions in prize money and constructors implications\n- **Source:** espn.com F1 standings; speedweek.com; gridguy.racing\n**Confidence:** HIGH (multiple sources confirm both at 264)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "What Mercedes Needs in Qatar — Antonelli and the Final Push",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Kimi Antonelli: 2026 World Champion. 402 points. Done.\n\nMercedes still has two races to finish the year strong.\n\nWhat happens in Qatar when the pressure of a title fight is gone? #F1 #QatarGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#QatarGP"
+          ],
+          "char_count": 191
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-mercedes-antonelli-final-two-races.html",
+        "headline": "Champion Antonelli and Mercedes Eye Strong Finish to Historic 2026 Season in Final Two Races",
+        "word_count": 490
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Mercedes / Antonelli\n\n**Image 5A** — Social (1080x1350)\n- **Photo source:** imagn\n- **Search terms:** \"Kimi Antonelli Mercedes\"\n- **Concept:** Antonelli with the World Championship trophy or celebrating\n- **Text overlay:** \"CHAMPION. Final two races. Mercedes finish strong.\"\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mercedes / Antonelli Qatar\n- **Antonelli:** 2026 World Champion (402 points)\n- **Antonelli Las Vegas result:** P4\n- **Mercedes constructors:** Leading (title secured)\n- **Qatar focus:** Maximizing points across both cars for final standings\n- **Source:** archynewsy.com; initial search results\n**Confidence:** HIGH (Antonelli championship confirmed by multiple sources)",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
