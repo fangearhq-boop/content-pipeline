@@ -5044,3 +5044,62 @@ _This file tracks every story covered, the angle used, content produced, and fol
   - January preseason poll ranking
   - Spring schedule release
   - SEC opener results
+
+---
+
+## Pipeline Run: 2026-11-25
+
+### Story 1: Texas Chasing Historic 3-Peat — Longhorns Build 2027 Roster After Back-to-Back Titles
+- **Date:** 2026-11-25
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Texas won back-to-back national championships in 2025 and 2026. Building for unprecedented three-peat in 2027. Key returners Teagan Kavan and Katie Stewart. Transfers in: Swan (AZ State C), Lincoln (TTU P), Torres (FSU IF). Signed class: Gamble (C), Massaad (OF), Hagerty (P), Doty (top pitching prospect).
+- **Content Produced:** Article (article-01, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - January 2027 preseason poll ranking
+  - Spring preseason practice news
+  - Any further roster additions via portal
+
+### Story 2: Recruiting Blackout Begins Today — 5-Day Freeze Hits Programs
+- **Date:** 2026-11-25
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** NCAA D1 softball recruiting shutdown takes effect today (Nov 25-29). No calls, texts, emails, or any contact with recruits. Yesterday was final unrestricted contact day. Dec 1 portal follows, Dec 8-12 dead period.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Nov 30 contact resumes
+  - Dec 1 portal activity
+  - Late commitments during blackout
+
+### Story 3: Oklahoma's No. 1 Class Hosted Elite Pitchers Before Blackout
+- **Date:** 2026-11-25
+- **Tier:** 2
+- **Classification:** FOLLOW UP (OU No. 1 class covered multiple dates)
+- **Angle:** OU hosted Vivian Knott and Aspen Boulware before blackout. Class already No. 1: Hutchens (enrolled), Williams, Hilliard, Reynolds. Needs pitching ace. Now silent through Nov 29.
+- **Content Produced:** Article (article-03, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Pitching commitment announcements Nov 30+
+  - Dec 1 portal moves by OU
+  - January class ranking update
+
+### Story 4: December Portal Countdown — 6 Days Until Transfer Window Opens
+- **Date:** 2026-11-25
+- **Tier:** 2
+- **Classification:** FOLLOW UP (portal countdown covered multiple dates)
+- **Angle:** Dec 1-15 window is 6 days away. Saylor Davis (OSU, 3yr elig) expected Day 1. Arizona needs ace (Torres to TTU). Ole Miss, Auburn also hunting. Dec 8-12 dead period compresses window.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Davis's landing spot
+  - Arizona pitching acquisition
+  - Overall portal class assessments
+
+### Story 5: Way-Too-Early 2027 SEC Power Rankings
+- **Date:** 2026-11-25
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Yahoo Sports SEC preview: Alabama No. 2 (Briski, Wells), Oklahoma No. 3 (new SEC school), Tennessee No. 4 (Mardjetko 16-3 returns, 9 starters back), Florida No. 5, LSU No. 9. Official polls drop January 2027.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - January preseason poll release
+  - December portal moves affecting rankings
+  - SEC schedule release

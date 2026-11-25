@@ -1,0 +1,388 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-25",
+  "compiled_at": "2026-11-25T10:15:23.261107+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Texas Chasing Historic 3-Peat — Longhorns Build 2027 Roster After Back-to-Back Titles",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Back-to-back national champions. Texas is building for a 3-peat in 2027 — transfers in, top recruits signed, and Kavan + Stewart back for senior seasons. No program has done it three straight in the modern era. The Longhorns are trying. #LonghornSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LonghornSoftball"
+          ],
+          "char_count": 254
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Texas added C Samantha Swan (AZ State), P Samantha Lincoln (TTU), and IF Isa Torres (FSU) this offseason — plus signed top pitching prospect Madi Doty for 2027. That's a 3-peat roster being built right now. #LonghornSoftball #WCWS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LonghornSoftball",
+            "#WCWS"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-texas-three-peat-chase-2027-roster.html",
+        "headline": "Texas Chasing Historic 3-Peat: How the Longhorns Are Building a 2027 Dynasty Roster",
+        "word_count": 598
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas 3-Peat Chase\n\n#### Image Concept 1\n- **Story:** 1\n- **Purpose:** Article hero + Social\n- **Search Terms (imagn):** \"Teagan Kavan Texas\"\n- **Alt Search:** \"Texas Longhorns softball\"\n- **Dimensions:** 1200x630 (article hero)\n- **Canva Text Overlay:** \"BACK TO BACK TO BACK?\" / \"Texas builds for 3-peat\"\n- **Status:** not_started\n\n#### Image Concept 2\n- **Story:** 1\n- **Purpose:** Social (X/FB caption)\n- **Search Terms (imagn):** \"Katie Stewart Texas softball\"\n- **Alt Search:** \"Texas softball pitcher\"\n- **Dimensions:** 1080x1350 (social)\n- **Canva Text Overlay:** \"2025. 2026. 2027?\" / \"The Longhorns aren't done\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas 3-Peat Chase\n**Sources Used:**\n- D1Softball final 2026 Top 25: https://d1softball.com/d1softball-top-25-final-2026/ — Texas Longhorns named national champion atop final 2026 D1Softball poll (Jun 9, 2026). **Confidence: HIGH**\n- SI Texas softball portal tracker: https://www.si.com/college/texas/softball/texas-softball-transfer-portal-tracker-whos-coming-whos-leaving-for-2027 — Transfer additions: Samantha Swan (AZ State, C), Samantha Lincoln (Texas Tech, P), Isa Torres (FSU, IF). **Confidence: HIGH**\n- Austin Statesman — Texas signed class: Lolo Gamble (C), Emree Massaad (OF), Brooklynn Hagerty (P), Madi Doty (top pitching prospect). \"One of the top pitching prospects in the nation.\" https://www.statesman.com/sports/longhorns/softball/article/texas-softball-lole-gamble-emree-massaad-22529923.php **Confidence: HIGH**\n- SI preview: Teagan Kavan and Katie Stewart expected to return for senior seasons. Building toward \"historic three-peat.\" **Confidence: HIGH**\n- Texas won 2025 WCWS: \"Texas won the 2025 Women's College World Series for their first national championship in program history.\" https://en.wikipedia.org/wiki/2025_NCAA_Division_I_softball_season **Confidence: HIGH**\n- Departure: Kaiah Altmeyer (WCWS hero) is gone, opens 2B. Stewart is only returning catcher with experience. **Confidence: HIGH** (Statesman)\n**Key Verified Facts (HIGH):**\n- Texas national champion 2025 and 2026 (back-to-back)\n- Kavan + Stewart returning senior seasons\n- Transfers in: Swan (AZ State C), Lincoln (TTU P), Torres (FSU IF)\n- Signed recruits: Gamble (C), Massaad (OF), Hagerty (P), Doty (top pitching prospect)\n- Altmeyer gone, 2B open",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "D1Softball final 2026 Top 25",
+          "url": "https://d1softball.com/d1softball-top-25-final-2026/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "SI Texas softball portal tracker",
+          "url": "https://www.si.com/college/texas/softball/texas-softball-transfer-portal-tracker-whos-coming-whos-leaving-for-2027",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "One of the top pitching prospects in the nation.",
+          "url": "https://www.statesman.com/sports/longhorns/softball/article/texas-softball-lole-gamble-emree-massaad-22529923.php",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Austin Statesman — Texas signed class: Lolo Gamble (C), Emree Massaad (OF), Brooklynn Hagerty (P), Madi Doty (top pitching prospect)."
+        },
+        {
+          "name": "Texas won the 2025 Women's College World Series for their first national championship in program history.",
+          "url": "https://en.wikipedia.org/wiki/2025_NCAA_Division_I_softball_season",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Texas won 2025 WCWS"
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Recruiting Blackout Begins Today — 5-Day Freeze Hits Programs With Class-Building Unfinished",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "NCAA D1 softball recruiting blackout is IN EFFECT today (Nov 25-29). No calls. No texts. No emails. Zero contact with any recruit. Yesterday was the last chance. Next window? Nov 30. Then the December portal opens Dec 1. #SoftballRecruiting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SoftballRecruiting"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-recruiting-blackout-november-25-29.html",
+        "headline": "NCAA Softball Recruiting Blackout Begins Today: What It Means for Programs and Prospects",
+        "word_count": 598
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Recruiting Blackout\n\n#### Image Concept 3\n- **Story:** 2\n- **Purpose:** Social (X/FB)\n- **Search Terms (imagn):** \"NCAA softball coach\"\n- **Alt Search:** \"softball dugout coach\"\n- **Dimensions:** 1080x1350 (social)\n- **Canva Text Overlay:** \"RECRUITING BLACKOUT\" / \"Nov 25-29: No Contact Allowed\"\n- **Status:** not_started\n\n#### Image Concept 4\n- **Story:** 2\n- **Purpose:** Article hero\n- **Search Terms (imagn):** \"softball recruiting signing\"\n- **Alt Search:** \"softball team bench\"\n- **Dimensions:** 1200x630 (article hero)\n- **Canva Text Overlay:** \"5 Days of Silence\" / \"The blackout has begun\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Recruiting Blackout Begins Today\n**Sources Used:**\n- Read The Field NCAA calendar: https://readthefield.com/recruiting-calendars/softball — Nov 25-29 listed as recruiting shutdown. **Confidence: HIGH**\n- SoftballBound recruiting calendar: https://softballbound.com/guides/ncaa-softball-recruiting-calendar/ — Nov 25-29 shutdown confirmed. **Confidence: HIGH**\n- CommitBound: https://commitbound.com/softball/blog/softball-recruiting-timeline — Nov 25-29 shutdown: no calls, texts, emails, or any contact. **Confidence: HIGH**\n- 2adays alternative date: Nov 26-30 — **CONFLICTING, treat as MEDIUM; majority sources say Nov 25-29.**\n- Description: \"No recruiting of any kind is allowed, including calls and emails.\" During shutdown coaches cannot make contacts, evaluations, visits, correspondence, or telephone calls. **Confidence: HIGH**\n- Dec 1 portal opens immediately following shutdown period. **Confidence: HIGH**\n- Dec 8-12 dead period follows portal window. **Confidence: HIGH** (NCAA calendar via multiple sources)\n**Key Verified Facts (HIGH):**\n- Nov 25-29 recruiting shutdown (majority of sources; one outlier says Nov 26-30)\n- No contact of any kind permitted\n- Yesterday (Nov 24) was final unrestricted contact day\n- Dec 1-15 portal window next\n- Dec 8-12 dead period after",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Read The Field NCAA calendar",
+          "url": "https://readthefield.com/recruiting-calendars/softball",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "SoftballBound recruiting calendar",
+          "url": "https://softballbound.com/guides/ncaa-softball-recruiting-calendar/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "CommitBound",
+          "url": "https://commitbound.com/softball/blog/softball-recruiting-timeline",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Oklahoma's No. 1 Class Hosted Elite Pitchers Before Blackout — Silent Phase Begins",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Oklahoma's 2027 class is No. 1 nationally — Hutchens enrolled, Williams, Hilliard, Reynolds committed. But the Sooners need an ace. With the blackout starting today, they'll have to wait until Nov 30 to make calls again. #SoonerSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SoonerSoftball"
+          ],
+          "char_count": 236
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Goose Hutchens is enrolled. Finlee Williams is committed. Oklahoma has the No. 1 2027 class in the country. Now comes the hard part: finding a pitcher good enough to get them to the WCWS championship round. #SoonerSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SoonerSoftball"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-oklahoma-pitching-search-blackout.html",
+        "headline": "Oklahoma Has the No. 1 Class in the Country. Now the Sooners Need a Pitcher.",
+        "word_count": 521
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Oklahoma Pitching\n\n#### Image Concept 5\n- **Story:** 3\n- **Purpose:** Social (X/FB)\n- **Search Terms (imagn):** \"Julianna Hutchens Oklahoma\"\n- **Alt Search:** \"Oklahoma Sooners softball pitcher\"\n- **Dimensions:** 1080x1350 (social)\n- **Canva Text Overlay:** \"No. 1 CLASS. ONE MISSING PIECE.\" / \"OU's pitching search\"\n- **Status:** not_started\n\n#### Image Concept 6\n- **Story:** 3\n- **Purpose:** Article hero\n- **Search Terms (imagn):** \"Patty Gasso Oklahoma softball\"\n- **Alt Search:** \"Oklahoma Sooners softball\"\n- **Dimensions:** 1200x630 (article hero)\n- **Canva Text Overlay:** \"LOADED. NOW FIND AN ACE.\" / \"Oklahoma's 2027 picture\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Oklahoma Pitching Search + Blackout\n**Sources Used:**\n- SI OU softball: https://www.si.com/college/oklahoma/softball/ou-softball-oklahoma-adds-fourth-verbal-commitment-to-2027-recruiting-class-01k5vzrm4qky — 4th commitment Emma Reynolds confirmed. **Confidence: HIGH**\n- SI OU No.1 outfielder: https://www.si.com/college/oklahoma/softball/ou-softball-oklahoma-lands-no-1-outfielder-in-2027-class-01k5t84dxbw8 — Finlee Williams, top outfielder 2027 class. **Confidence: HIGH**\n- Yahoo Sports (SI): https://sports.yahoo.com/articles/college-softball-no-1-recruit-183118275.html — Julianna \"Goose\" Hutchens reclassified, No. 1 overall recruit, enrolled at OU for 2027. **Confidence: HIGH**\n- 247Sports OU board: https://247sports.com/college/oklahoma/board/75/contents/preview-class-of-2027-possible-recruits-for-sooner-softball--250945868/ — Vivian Knott and Aspen Boulware hosted/visited by OU. **Confidence: MEDIUM** (forum source, unverified)\n- Riley Hilliard: No. 2 catcher in 2027 class per Softball America — **Confidence: HIGH** (from earlier verified pipeline data)\n- D1Softball OU No. 1 class — confirmed from multiple previous pipeline runs. **Confidence: HIGH**\n**Key Verified Facts (HIGH):**\n- OU class No. 1 D1Softball ranking\n- Hutchens (No. 1 overall, enrolled), Williams (No. 1 OF), Hilliard (No. 2 C), Reynolds (4-star SS)\n- Class needs pitching arm to compete at WCWS level\n**MEDIUM confidence:**\n- Knott + Boulware hosted/visited before blackout (forum source; not from official outlet)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "SI OU softball",
+          "url": "https://www.si.com/college/oklahoma/softball/ou-softball-oklahoma-adds-fourth-verbal-commitment-to-2027-recruiting-class-01k5vzrm4qky",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "SI OU No.1 outfielder",
+          "url": "https://www.si.com/college/oklahoma/softball/ou-softball-oklahoma-lands-no-1-outfielder-in-2027-class-01k5t84dxbw8",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yahoo Sports (SI)",
+          "url": "https://sports.yahoo.com/articles/college-softball-no-1-recruit-183118275.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "247Sports OU board",
+          "url": "https://247sports.com/college/oklahoma/board/75/contents/preview-class-of-2027-possible-recruits-for-sooner-softball--250945868/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "December Portal Countdown: 6 Days Out — The Transfer Market Teams Can't Afford to Miss",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "6 days until the December transfer portal opens (Dec 1-15). Top name to watch: OSU's Saylor Davis — 3 years eligibility, expected Day 1 entry. Arizona, Ole Miss and Auburn all hunting pitching. It's going to be a busy two weeks. #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAASoftball"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-december-portal-countdown-six-days.html",
+        "headline": "6 Days to the December Portal: The Transfer Market Teams Can't Afford to Miss",
+        "word_count": 531
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Portal Countdown\n\n#### Image Concept 7\n- **Story:** 4\n- **Purpose:** Social (X/FB)\n- **Search Terms (imagn):** \"softball pitcher windmill\"\n- **Alt Search:** \"softball pitching circle\"\n- **Dimensions:** 1080x1350 (social)\n- **Canva Text Overlay:** \"6 DAYS.\" / \"December portal opens Dec 1\"\n- **Status:** not_started\n\n#### Image Concept 8\n- **Story:** 4\n- **Purpose:** Article hero\n- **Search Terms (imagn):** \"Arizona softball pitcher\"\n- **Alt Search:** \"softball pitcher mound\"\n- **Dimensions:** 1200x630 (article hero)\n- **Canva Text Overlay:** \"THE PITCHER MARKET OPENS DEC 1\" / \"Who lands Saylor Davis?\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "December Portal Countdown\n**Sources Used:**\n- NCAA calendar via NextCommit.ai: https://www.nextcommit.ai/blog/ncaa-transfer-portal-windows-2026-27 — Dec 1-15 softball portal window confirmed. **Confidence: HIGH**\n- SI softball: OSU pitcher Saylor Davis entering portal Dec 1, three years eligibility. https://www.si.com/onsi/softball/transfer-portal/oklahoma-state-softball-pitcher-enters-transfer-portal **Confidence: HIGH**\n- Previous verified pipeline data: Arizona lost Mariah Torres (D1Softball POY) to TTU via summer portal. Arizona hunts Dec portal for ace. Ole Miss and Auburn also need pitching. **Confidence: HIGH**\n- Arizona 15-2 fall record mentioned in prior pipeline — **Confidence: HIGH** (from verified prior runs)\n- Dec 8-12 dead period closes window early for in-person visits. **Confidence: HIGH**\n**Key Verified Facts (HIGH):**\n- Dec 1 portal opens in 6 days (from Nov 25)\n- Dec 15 window closes\n- Saylor Davis (OSU, 3 yr elig) expected Day 1 entry\n- Arizona needs pitching ace most urgently\n- Ole Miss and Auburn also hunting\n- Dec 8-12 dead period limits official visits",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "NCAA calendar via NextCommit.ai",
+          "url": "https://www.nextcommit.ai/blog/ncaa-transfer-portal-windows-2026-27",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "OSU pitcher Saylor Davis entering portal Dec 1, three years eligibility.",
+          "url": "https://www.si.com/onsi/softball/transfer-portal/oklahoma-state-softball-pitcher-enters-transfer-portal",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "SI softball"
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Way-Too-Early 2027 SEC Power Rankings — Familiar Programs Lead, Oklahoma Makes Statement",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Way-too-early 2027 SEC softball power rankings: Alabama No. 2, Oklahoma No. 3 (new to SEC!), Tennessee No. 4 (Mardjetko returns), Florida No. 5, LSU No. 9. Official polls drop in January. Who's your No. 1? #SECSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SECSoftball"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-sec-softball-2027-way-too-early-power-rankings.html",
+        "headline": "Way-Too-Early 2027 SEC Softball Power Rankings: Who Runs the Nation's Toughest Conference?",
+        "word_count": 661
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "2027 SEC Power Rankings\n\n#### Image Concept 9\n- **Story:** 5\n- **Purpose:** Social (X/FB)\n- **Search Terms (imagn):** \"SEC softball team\"\n- **Alt Search:** \"softball SEC players\"\n- **Dimensions:** 1080x1350 (social)\n- **Canva Text Overlay:** \"WHO RUNS THE SEC IN 2027?\" / \"Way-too-early power rankings\"\n- **Status:** not_started\n\n#### Image Concept 10\n- **Story:** 5\n- **Purpose:** Article hero\n- **Search Terms (imagn):** \"Tennessee softball pitcher\"\n- **Alt Search:** \"Sage Mardjetko Tennessee\"\n- **Dimensions:** 1200x630 (article hero)\n- **Canva Text Overlay:** \"2027 SEC POWER RANKINGS\" / \"9 Starters. 1 Ace. Can UT take the SEC?\"\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "2027 SEC Power Rankings\n**Sources Used:**\n- Yahoo Sports SEC softball preview: https://sports.yahoo.com/articles/way-too-early-sec-softball-090618807.html — Alabama No. 2 (Jocelyn Briski, Brooke Wells), Tennessee No. 4 (Alannah Leach, Sage Mardjetko, two 1st-team All-SEC), Florida No. 5 (fell to TTech SR), Oklahoma No. 3 (new SEC), LSU No. 9. **Confidence: HIGH** (published by Yahoo Sports, attributing to known reporter)\n- Tennessee returners: Sage Mardjetko 16-3 1.26 ERA, Alannah Leach, 2 first-team All-SEC — **Confidence: HIGH** (verified multiple sources in prior runs)\n- LSU No. 1 recruiting class (Nov 11 signing day) — **Confidence: HIGH**\n- Official preseason polls drop in January 2027. **Confidence: HIGH**\n- Gabbie Garcia earned 1st Team All-SEC, SEC All-Defensive Team, NFCA All-America honors in 2026 (Tulsa World). **Confidence: HIGH**\n**Key Verified Facts (HIGH):**\n- Alabama No. 2 (Briski, Wells in roster), Tennessee No. 4 (Mardjetko 16-3 returns), Florida No. 5, Oklahoma No. 3 (new SEC school), LSU No. 9\n- SEC preview rankings are unofficial (Yahoo Sports/columnist)\n- Official polls start January 2027",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Yahoo Sports SEC softball preview",
+          "url": "https://sports.yahoo.com/articles/way-too-early-sec-softball-090618807.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
