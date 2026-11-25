@@ -1,10 +1,31 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Current Status
-**Last Run:** 2026-11-24
+**Last Run:** 2026-11-25
 **Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy; git push via git remote
 
 ## Pipeline Run Log
+
+### 2026-11-25 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles, image manifest)
+- Step 10: verify-facts.py — 5 stories, 29 claims, HIGH: 73; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 8 tweets, 5 FB posts, 5 articles; posting window warnings (non-blocking); fixed 1 tweet over 280 chars
+- Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (28 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy; content-dashboards not in session scope)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via git remote with PAT
+
+**Stories covered:**
+1. T1 NEW: Celtics 131, Wizards 116 — Tatum season-high 41; snaps 4-game skid; 3-0 in Cup (Jake Torres)
+2. T1 NEW: Mavericks 120, Nuggets 101 — Flagg 24/12; 4th straight win; 3-0 in Cup (Marcus Cole)
+3. T2 NEW: Pistons 104, Magic 86 — Isaiah Joe 21 without Cunningham (right knee); Orlando's 1st Cup loss (Damon Pierce)
+4. T2 NEW: Cavaliers at Knicks tonight — 7:30 PM ET; Knicks 0-2 in Cup, defending champs in jeopardy (Jake Torres)
+5. T3 NEW: NBA Cup race — Celtics/Mavs both 3-0; group play ends Nov 27 (Marcus Cole)
+
+---
 
 ### 2026-11-24 ✅ (Automated)
 - Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles, image manifest)

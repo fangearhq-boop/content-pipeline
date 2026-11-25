@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-11-25
+
+### STORY 1: Celtics 131, Wizards 116 — Tatum Season-High 41 Snaps 4-Game Skid
+- **Tier:** 1
+- **Category:** Boston Celtics / Washington Wizards / Jayson Tatum / NBA Cup
+- **Key facts:** Tatum season-high 41 pts (28 in 1st half); Paul George 28/9 ast; Neemias Queta 21; Anthony Davis 33/13 for WAS; Scheierman 8 late pts; Boston 12-6, 3-0 in Cup East Group C; WAS eliminated from Cup
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Mavericks 120, Nuggets 101 — Flagg 24/12, 4th Straight Win
+- **Tier:** 1
+- **Category:** Dallas Mavericks / Denver Nuggets / Cooper Flagg / NBA Cup
+- **Key facts:** Flagg 24 pts/12 ast; Mavs 35-7 fast break edge; Dallas 36-24 in Q4; Jamal Murray 20 for DEN; Mavs 11-7, 3-0 in Cup West Group A
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Pistons 104, Magic 86 — Isaiah Joe Stars Without Cunningham
+- **Tier:** 2
+- **Category:** Detroit Pistons / Orlando Magic / Isaiah Joe / Cade Cunningham / NBA Cup
+- **Key facts:** Joe 21 pts (team-high) replacing Cunningham (right knee); Jenkins 15/10 ast; 18-0 run in Q2; Orlando 1st Cup loss; Desmond Bane 21 for ORL; Pistons 11-6, 2-1 in Cup
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: Cavaliers at Knicks — NBA Cup East Group B Do-or-Die
+- **Tier:** 2
+- **Category:** Cleveland Cavaliers / New York Knicks / NBA Cup
+- **Key facts:** 7:30 PM ET at MSG; Knicks 0-2 in Cup but on 5-game overall win streak; Cavs 9-9, 2-1 in Cup; Evan Mobley OUT for Cavs; defending champion Knicks in jeopardy
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: NBA Cup Races Toward Quarterfinals: Celtics, Mavs Both 3-0
+- **Tier:** 3
+- **Category:** NBA Cup / Boston Celtics / Dallas Mavericks / New York Knicks
+- **Key facts:** Group play ends Nov 27; Celtics 3-0 (East C), Mavs 3-0 (West A); defending champion Knicks at 0-2; quarterfinals to follow
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
 ## 2026-11-20
 
 ### STORY 1: Spurs 124, Clippers 112 — Wembanyama 32-Point Double-Double
