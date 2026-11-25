@@ -1,0 +1,365 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-25",
+  "compiled_at": "2026-11-25T09:26:34.260132+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "Slot",
+      "description": "Time (CT)",
+      "type": "Story"
+    },
+    {
+      "time": "1",
+      "description": "7:00 AM",
+      "type": "STORY 1 — Sato breaking"
+    },
+    {
+      "time": "2",
+      "description": "1:15 PM",
+      "type": "STORY 2 — Taira to Blue Jays"
+    },
+    {
+      "time": "3",
+      "description": "6:30 PM",
+      "type": "STORY 1B — Sato bold take / $240M"
+    },
+    {
+      "time": "4",
+      "description": "8:00 PM",
+      "type": "STORY 3 — Rogers rotation"
+    },
+    {
+      "time": "5",
+      "description": "9:30 PM",
+      "type": "STORY 4 — CBA 6 days / Itoh"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Teruaki Sato — Cubs Agree to 6yr/$120M",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Teruaki Sato is a Cub. Six years, $120 million — the second straight day Chicago dropped nine figures.\n\nHe hit .306/.383/.609 with 39 home runs and 106 RBI for Hanshin in 2026. That's the NPB Triple Crown winner — ELITE power landing in Wrigley's right field.\n\n#Cubs",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "New Story",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 266
+        },
+        {
+          "label": "Post 1B",
+          "text": "In 24 hours, the Cubs committed $240 million. Rogers anchors the rotation. Sato (.306/.383/.609, 39 HRs) becomes the lineup's most dangerous bat.\n\nThe Brewers spent Black Friday watching the North Side drop NINE FIGURES twice. Wild how quickly the NL Central math changes.\n\n#Cubs",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "New Story",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Teruaki Sato — Cubs Agree to 6yr/$120M\n**Decision:** NEW STORY (Sato's NPB stats covered briefly Nov 21-24 but no signing agreement until now)\n**Sources:**\n1. CBS Sports: \"Cubs signing NPB slugger Teruaki Sato on six-year, $120 million contract\" — https://www.cbssports.com/mlb/news/cubs-teruaki-sato-free-agency-contract/ (Nov 24-25, 2026) — MEDIUM confidence (agreement reported)\n2. Yahoo Sports: \"Cubs land slugger Teruaki Sato in blockbuster free agent signing\" — https://sports.yahoo.com/articles/cubs-land-slugger-teruaki-sato-133639552.html (Nov 24-25, 2026) — MEDIUM confidence\n3. MLB Trade Rumors: \"Cubs To Sign Teruaki Sato\" — https://www.mlbtraderumors.com/2026/11/cubs-to-sign-teruaki-sato.html (Nov 24-25, 2026) — MEDIUM confidence\n4. NBC Sports: \"Cubs agree to six-year deal with Japanese slugger Teruaki Sato\" — https://www.nbcsports.com/mlb/news/cubs-agree-to-six-year-deal-with-japanese-slugger-teruaki-sato-where-he-fits-in-chicagos-2027-lineup — MEDIUM confidence\n5. Bleacher Report: Teruaki Sato, Cubs Reportedly Agree to Contract — https://bleacherreport.com/articles/25529958-teruaki-sato-cubs-reportedly-agree-contract-full-details-revealed-new-mlb-rumors — LOW confidence (tracker)\n**Key Facts:**\n- Contract: 6 years, $120 million (agreement, pending physical)\n- Agent: VC Sports Group\n- Posting fee from Hanshin Tigers: ~$20 million (additional cost to Cubs)\n- Original report: ESPN Jeff Passan\n- 2026 NPB stats: .306 BA / .383 OBP / .609 SLG, 39 HR, 106 RBI, 143 games (Hanshin Tigers)\n- NPB Triple Crown winner, 2026\n- Two-time Central League MVP, five-time NPB All-Star\n- Three-time Gold Glove third baseman (Japan) — will play corner outfield for Cubs (likely RF replacing Suzuki)\n- **Age conflict:** CBS Sports says \"turns 28 in March\"; Yahoo Sports says \"27.\" DO NOT state age in copy — flag for fact-check.\n- Timing: Agreement came ~12 hours after Trevor Rogers agreement (Nov 24)\n- Purpose: Replaces Seiya Suzuki in corner outfield\n**Freshness:** HIGH. Multiple top-tier sources, Nov 24-25. First reported by ESPN Jeff Passan.\n**Why this matters to Cubs fans:** Triple Crown bat coming to Wrigley. The roster went from \"offseason uncertainty\" to \"franchise-altering investment\" in 48 hours. This is the biggest non-pitcher acquisition since Shota Imanaga.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Cubs signing NPB slugger Teruaki Sato on six-year, $120 million contract",
+          "url": "https://www.cbssports.com/mlb/news/cubs-teruaki-sato-free-agency-contract/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "CBS Sports"
+        },
+        {
+          "name": "Cubs land slugger Teruaki Sato in blockbuster free agent signing",
+          "url": "https://sports.yahoo.com/articles/cubs-land-slugger-teruaki-sato-133639552.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Yahoo Sports"
+        },
+        {
+          "name": "Cubs To Sign Teruaki Sato",
+          "url": "https://www.mlbtraderumors.com/2026/11/cubs-to-sign-teruaki-sato.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "MLB Trade Rumors"
+        },
+        {
+          "name": "Cubs agree to six-year deal with Japanese slugger Teruaki Sato",
+          "url": "https://www.nbcsports.com/mlb/news/cubs-agree-to-six-year-deal-with-japanese-slugger-teruaki-sato-where-he-fits-in-chicagos-2027-lineup",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "NBC Sports"
+        },
+        {
+          "name": "Teruaki Sato, Cubs Reportedly Agree to Contract",
+          "url": "https://bleacherreport.com/articles/25529958-teruaki-sato-cubs-reportedly-agree-contract-full-details-revealed-new-mlb-rumors",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Bleacher Report"
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Kaima Taira to Toronto Blue Jays — 5yr/$80M",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Kaima Taira signed with Toronto. Five years, $80 million — the Cubs were in until the end, and the Blue Jays won.\n\nChicago missed the top Japanese starter but still walked away with Sato (.609 SLG, 39 HRs) AND Rogers in a 24-hour blitz. That is not a bad consolation.\n\n#Cubs",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "New Development (follow-up from ongoing coverage)",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Kaima Taira to Toronto Blue Jays — 5yr/$80M\n**Decision:** NEW DEVELOPMENT (prior coverage tracked Cubs pursuing Taira from Nov 14-24; today's angle is that the Cubs lost out and Toronto won the race)\n**Sources:**\n1. ESPN Jeff Passan: \"Sources: Japanese righty Kaima Taira, Blue Jays agree to 5-year, $80M deal\" — https://www.espn.com/mlb/story/_/id/50585003/sources-kaima-taira-blue-jays-agree-5-year-80m-deal (Nov 24, 2026) — HIGH confidence (Passan, primary)\n2. Yahoo Sports: \"BREAKING: Toronto Blue Jays Sign Japanese Phenom Starting Pitcher Kaima Taira\" — https://sports.yahoo.com/mlb/articles/breaking-toronto-blue-jays-sign-221516862.html (Nov 24, 2026) — HIGH confidence\n3. Globe and Mail: \"Blue Jays sign Japanese star pitcher Kaima Taira to five-year deal, source says\" — https://www.theglobeandmail.com/sports/article-blue-jays-kaima-taira-japan-contract/ (Nov 24, 2026) — HIGH confidence\n4. CBC Sports: \"Blue Jays agree to 5-year, $80M US contract with star Japanese pitcher Kaima Taira: reports\" — https://www.cbc.ca/sports/baseball/mlb/kaima-taira-toronto-blue-jays-9.7434493 (Nov 24, 2026) — HIGH confidence\n**Key Facts:**\n- Contract: 5 years, $80 million, opt-out after year 3, $5 million signing bonus\n- Posting fee: $13,875,000 to Seibu Lions\n- 2026 season: 12-5, 1.36 ERA (Seibu Lions) — came from bullpen role (31 saves, 2025)\n- Age: 27\n- Cubs' status: \"in the mix\" per Patrick Mooney (The Athletic, Nov 23) — lost to Blue Jays\n- Context: This is a significant rotation miss for Cubs, but they absorbed it by landing Rogers + Sato\n**Freshness:** HIGH. Multiple top-tier outlets, Nov 24. ESPN Passan + international confirmation (Globe, CBC).\n**Why this matters:** Cubs needed rotation depth — Taira was their top Japanese starter target. Toronto wins the bidding. Cubs pivot narrative matters to fans. The good news: Rogers was already in hand.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Sources: Japanese righty Kaima Taira, Blue Jays agree to 5-year, $80M deal",
+          "url": "https://www.espn.com/mlb/story/_/id/50585003/sources-kaima-taira-blue-jays-agree-5-year-80m-deal",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "ESPN Jeff Passan"
+        },
+        {
+          "name": "BREAKING: Toronto Blue Jays Sign Japanese Phenom Starting Pitcher Kaima Taira",
+          "url": "https://sports.yahoo.com/mlb/articles/breaking-toronto-blue-jays-sign-221516862.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Yahoo Sports"
+        },
+        {
+          "name": "Blue Jays sign Japanese star pitcher Kaima Taira to five-year deal, source says",
+          "url": "https://www.theglobeandmail.com/sports/article-blue-jays-kaima-taira-japan-contract/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Globe and Mail"
+        },
+        {
+          "name": "Blue Jays agree to 5-year, $80M US contract with star Japanese pitcher Kaima Taira: reports",
+          "url": "https://www.cbc.ca/sports/baseball/mlb/kaima-taira-toronto-blue-jays-9.7434493",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "CBC Sports"
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Trevor Rogers — Pending Physical, Rotation Taking Shape",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Rogers' physical is still pending. If it clears, the Cubs' rotation takes shape: Rogers, Steele, Cabrera, Garrett, Assad.\n\nHe posted a 4.03 ERA, 157 Ks, 169.2 IP for Baltimore in 2026. That's a SOLID No. 1 — Chicago has 6 days left to add a No. 2 before the CBA freeze.\n\n#Cubs",
+          "posting_time": "8:00 PM CT",
+          "tweet_type": "Follow-up (covered Nov 24 as breaking; today's angle: status check + what the rotation looks like if it clears)",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Trevor Rogers — Pending Physical, Rotation Shape\n**Decision:** FOLLOW UP (Nov 24 coverage broke the Rogers 5yr/$120M agreement; today's angle is status check and what the rotation looks like now)\n**Sources:**\n1. MLB.com: \"Cubs in agreement on deal with left-hander Trevor Rogers (source)\" — https://www.mlb.com/news/trevor-rogers-cubs-contract (Nov 24, 2026) — MEDIUM confidence (pending physical)\n2. ML Trade Rumors: \"Cubs To Sign Trevor Rogers\" — https://www.mlbtraderumors.com/2026/11/cubs-to-sign-trevor-rogers.html (Nov 24, 2026) — MEDIUM confidence\n3. NBC Chicago: https://www.nbcchicago.com/news/local/chicago-cubs-trevor-rogers-agree-to-blockbuster-five-year-deal-reports/4020913/ (Nov 24, 2026) — MEDIUM confidence\n4. BVM Sports: \"Cubs' 2027 Rotation Plan: Free Agents, Trade Targets and Steele\" — https://bvmsports.com/2026/11/23/cubs-2027-rotation-plan-free-agents-trade-targets-and-steele/ (Nov 23, 2026)\n**Key Facts:**\n- Contract: 5 years, $120 million (escalator, some deferrals)\n- 2026 season: 4.03 ERA, 157 K, 169.2 IP, 30 starts (Baltimore Orioles)\n- Physical: Still pending as of Nov 24 AM. No confirmed clearance found.\n- Expected rotation (if physical clears): Rogers, Steele, Cabrera, Garrett, Assad\n- Team still needs at least 1-2 more starters. Michael King (3.26 ERA, 4yr/$140M projected) remains available.\n- Logan Webb (Giants open to trading, 4.31 ERA in 2026) also mentioned.\n- Freddy Peralta went to Orioles 5yr/$125M — Cubs missed out on him too.\n- 6 days before CBA freeze: limited time to add more starters.\n**Freshness:** MEDIUM. Last confirmed source Nov 24. Physical status unknown.\n**Why this matters:** Fans want to know when the Rogers signing is official and what the full rotation looks like. The pending physical creates legitimate news hook.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Cubs in agreement on deal with left-hander Trevor Rogers (source)",
+          "url": "https://www.mlb.com/news/trevor-rogers-cubs-contract",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "MLB.com"
+        },
+        {
+          "name": "Cubs To Sign Trevor Rogers",
+          "url": "https://www.mlbtraderumors.com/2026/11/cubs-to-sign-trevor-rogers.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "ML Trade Rumors"
+        },
+        {
+          "name": "NBC Chicago",
+          "url": "https://www.nbcchicago.com/news/local/chicago-cubs-trevor-rogers-agree-to-blockbuster-five-year-deal-reports/4020913/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Cubs' 2027 Rotation Plan: Free Agents, Trade Targets and Steele",
+          "url": "https://bvmsports.com/2026/11/23/cubs-2027-rotation-plan-free-agents-trade-targets-and-steele/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "BVM Sports"
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "CBA 6-Day Clock — Hiromi Itoh Window Closing Fast",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Six days until the CBA deadline — and Hiromi Itoh is still on the market. The Nippon Ham Fighters ace posted a 3.18 ERA, 159 Ks, and 172.2 IP in 2026.\n\nTaira is gone. Peralta is gone. Dustin May is a White Sox. Itoh is the LAST quality arm with a December window.\n\n#Cubs",
+          "posting_time": "9:30 PM CT",
+          "tweet_type": "Follow-up (CBA countdown + Itoh still unsigned)",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "CBA 6-Day Clock — Hiromi Itoh Window Closing\n**Decision:** FOLLOW UP (CBA countdown covered daily since Nov 15; Itoh covered since Nov 20; today's specific angle: 6 days left, Itoh still on market, Cubs lost Taira and can focus firepower on Itoh)\n**Sources:**\n1. CBS Sports: \"MLB CBA negotiations timeline: League, MLBPA trade new proposals\" — https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026/ (Nov 25, 2026)\n2. ESPN: \"As lockout looms, MLB raises minimum salary offer\" — https://www.espn.com/mlb/story/_/id/50576198/mlb-offers-higher-minimum-player-salaries-lockout-looms\n3. NBC Sports: \"Hiromi Itoh traveled to Chicago on Friday\" — https://www.nbcsports.com/fantasy/baseball/player-news/2026-11-22/hiromi-itoh-traveled-to-chicago-on-friday (Nov 22, 2026)\n4. MLB Trade Rumors: \"Hiromi Itoh Reportedly Visited Chicago\" — https://www.mlbtraderumors.com/2026/11/hiromi-itoh-reportedly-visited-chicago.html\n**Key Facts:**\n- CBA expiry: Dec 1 (6 days from Nov 25)\n- Lockout expected: Dec 2 (owners vote)\n- Status: No deal. MLBPA agreed to equal local media revenue sharing but won't accept salary cap. MLB dropped escrow proposal but kept cap/floor.\n- Itoh 2026: 3.18 ERA, 1.26 WHIP, 159/34 K/BB, 172.2 IP, 26 starts (Nippon Ham Fighters)\n- Itoh visited Chicago Nov 20 (Cubs and White Sox both interested)\n- Itoh deadline: Dec 1 (same as CBA)\n- Projected: 3-5 years, $15-18M/year\n- Dustin May already went to White Sox (3yr deal)\n**Freshness:** HIGH (CBA). MEDIUM (Itoh — last confirmed update Nov 22).\n**Why this matters:** With Taira gone and Rogers' rotation spot filled, Itoh becomes the No. 1 available Japanese pitcher. Cubs just visited Chicago. The window is 6 days. This is the most urgent open thread.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "MLB CBA negotiations timeline: League, MLBPA trade new proposals",
+          "url": "https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "CBS Sports"
+        },
+        {
+          "name": "As lockout looms, MLB raises minimum salary offer",
+          "url": "https://www.espn.com/mlb/story/_/id/50576198/mlb-offers-higher-minimum-player-salaries-lockout-looms",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "ESPN"
+        },
+        {
+          "name": "Hiromi Itoh traveled to Chicago on Friday",
+          "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-11-22/hiromi-itoh-traveled-to-chicago-on-friday",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "NBC Sports"
+        },
+        {
+          "name": "Hiromi Itoh Reportedly Visited Chicago",
+          "url": "https://www.mlbtraderumors.com/2026/11/hiromi-itoh-reportedly-visited-chicago.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "MLB Trade Rumors"
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "$240M in 24 Hours — The North Side Just Changed",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No X/Twitter posts found",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

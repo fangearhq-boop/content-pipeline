@@ -5,6 +5,43 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-11-25 (OFF DAY — Black Friday. Offseason. Teruaki Sato 6yr/$120M agreement CONFIRMED (ESPN Passan + 4 sources — NPB Triple Crown winner, .306/.383/.609, 39 HR, 106 RBI for Hanshin in 2026). Kaima Taira 5yr/$80M to Toronto Blue Jays CONFIRMED (Passan + Globe + CBC + Yahoo — Cubs missed out). Trevor Rogers physical still pending (5yr/$120M agreed Nov 24). CBA 6 days to Dec 1 lockout. Hiromi Itoh (3.18 ERA, 172.2 IP — Nippon Ham Fighters) still on market, visited Chicago Nov 22. Insights: 14 findings — hashtag_count=3 LOSER (15th consecutive override, 1 hashtag used) + hashtag_count=1 WINNER + len_260+ WINNER + evening_18_24 WINNER + morning_06_12 LOSER exception for Sato breaking + opening=statement WINNER + has_stat WINNER + has_allcaps WINNER + content_type=brief LOSER.)
+
+### STORY 1: Teruaki Sato — Cubs Agree to 6yr/$120M
+- **Angle:** NEW STORY — Cubs agree to six-year, $120 million deal with NPB Triple Crown winner (pending physical). Two-time CL MVP, five-time All-Star, three-time Gold Glove. Will play RF replacing Seiya Suzuki.
+- **Tier:** 1
+- **Content Produced:** X Text Posts (2 posts — 7:00 AM CT breaking/informative + 6:30 PM CT bold take/$240M in 24 hours angle)
+- **Follow-Up Opportunities:**
+  - Physical passed → Tier 2 official signing announcement
+  - Sato jersey/HR projection content → Tier 3 fan engagement
+  - $240M + possible Itoh → Tier 1 rotation/lineup combination post
+
+### STORY 2: Kaima Taira to Toronto Blue Jays — 5yr/$80M
+- **Angle:** NEW DEVELOPMENT — Cubs missed out; Toronto wins bidding. High-confidence (Passan primary + 3 international sources). Cubs pivot narrative: Rogers in hand, Itoh remains.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT new development, midday LOSER — unavoidable Tier 1 new development)
+- **Follow-Up Opportunities:**
+  - Story closed. Blue Jays rotation feature if Taira signs off season
+
+### STORY 3: Trevor Rogers — Pending Physical, Rotation Taking Shape
+- **Angle:** FOLLOW UP (covered Nov 24 as breaking; today: status check + rotation crystallizing if physical clears — Rogers, Steele, Cabrera, Garrett, Assad)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:00 PM CT evening WINNER slot)
+- **Follow-Up Opportunities:**
+  - Physical cleared → Tier 2 official confirmation post
+  - Michael King (3.26 ERA) still available → Tier 2 rotation depth post
+
+### STORY 4: CBA 6-Day Clock — Hiromi Itoh Window Closing
+- **Angle:** FOLLOW UP (CBA countdown daily since Nov 15; Itoh covered since Nov 20; today: Taira gone, 6 days, Itoh is the LAST quality arm with a December window)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 PM CT evening WINNER slot)
+- **Follow-Up Opportunities:**
+  - Cubs sign Itoh → Tier 1 rotation celebration; CBA freeze may extend window
+  - CBA deal → Tier 1 market reopens; Itoh/King/others still available
+  - Lockout Dec 2 → Tier 1 breaking; all pursuits frozen
+
+---
+
 ## 2026-11-24 (OFF DAY — Thanksgiving. Offseason. Trevor Rogers 5yr/$120M confirmed (Passan/Morosi — Cubs' first rotation signing). CBA 7 days to Dec 1 lockout. Hiromi Itoh (Cubs host confirmed) + Kaima Taira (Dec 2 deadline vs Dec 1 lockout) + Teruaki Sato (Cubs among top 5 per Bleacher Nation, Triple Crown winner) all must sign by Dec 1. Insights: 14 findings — hashtag_count=3 LOSER (14th consecutive override, 1 hashtag used) + hashtag_count=1 WINNER + len_260+ WINNER + evening_18_24 WINNER + morning_06_12 LOSER exception for Rogers breaking news + opening=statement WINNER + has_stat WINNER + content_type=transaction LOSER.)
 
 ### STORY 1: Trevor Rogers 5yr/$120M — Cubs' First Rotation Signing
