@@ -1,0 +1,489 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-25",
+  "compiled_at": "2026-11-25T12:16:45.088353+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "S1 — Czechia 2-0 Canada",
+      "type": "X Text Post #1"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "S1 — Czechia 2-0 Canada",
+      "type": "X Text Post #2"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "S2 — Italy vs. South Korea",
+      "type": "X Text Post #1"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "S2 — Italy vs. South Korea",
+      "type": "X Text Post #2"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "S3 — Sinner tonsil surgery",
+      "type": "X Text Post"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "S1 — Czechia win",
+      "type": "Facebook Long-Form"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "S2 — Italy vs. South Korea",
+      "type": "Facebook Long-Form"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "S4 — Thursday QF preview",
+      "type": "X Text Post"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "S3 — Sinner health",
+      "type": "Facebook Long-Form"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "S4 — Thursday preview",
+      "type": "Facebook Long-Form"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "S5 — Zverev at Davis Cup",
+      "type": "X Text Post"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "S5 — Zverev Davis Cup",
+      "type": "Facebook Long-Form"
+    },
+    {
+      "time": "9:00 PM",
+      "description": "S4 — Thursday QF preview",
+      "type": "Facebook Long-Form"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Czechia 2-0 Canada — Lehecka Clinches Davis Cup QF in Bologna",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Czech Republic are into the Davis Cup semifinals. Lehecka beat FAA 7-6(4), 6-2. FAA had 9 break points. He took zero. Canada, without Shapovalov and Diallo, is going home. 🎾 #DavisCup #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DavisCup",
+            "#TennisFanrecap"
+          ],
+          "char_count": 199
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Tomas Machac opened with a 6-2, 3-6, 6-2 win over Liam Draxl, then Lehecka closed it out. Czech Republic sweep Canada 2-0 and advance to face the Italy–South Korea winner. #DavisCup #Tennis #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DavisCup",
+            "#Tennis",
+            "#TennisFanrecap"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-czechia-canada-davis-cup.html",
+        "headline": "Czech Republic Sweep Canada 2-0 as Lehecka Clinches Davis Cup Quarterfinal",
+        "word_count": 544
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Czechia 2-0 Canada — Davis Cup QF Result\n\n**Image Concept 1-A** (Article Hero — 1200x630)\n- **Search Term:** `Jiří Lehečká Czech Republic`\n- **Description:** Lehecka celebrating a point or serving, Czech Republic Davis Cup kit\n- **Credit:** (Imagn Images)\n- **Status:** not_started\n\n**Image Concept 1-B** (Social — 1080x1350)\n- **Search Term:** `Félix Auger-Aliassime Canada`\n- **Description:** FAA in Canadian Davis Cup kit, mid-match action or dejected expression\n- **Credit:** (Imagn Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Czechia 2-0 Canada — Davis Cup Finals QF Result\n**Story Type:** FOLLOW-UP (Nov 24 S1: Davis Cup QF Day 1 preview)\n**Confidence:** HIGH (CTV News, CBC Sports, Globe and Mail, Tennis Canada — multi-source)\n**Key Facts:**\n- Tomas Machac def. Liam Draxl **6-2, 3-6, 6-2** (Rubber 1) — HIGH\n- Jiri Lehecka def. Félix Auger-Aliassime **7-6(4), 6-2** (Rubber 2) — HIGH\n- FAA failed to convert any of his **9 break points** vs Lehecka — HIGH (CTV News)\n- Doubles rubber not needed — Czech Republic wins tie 2-0 — HIGH\n- Canada depleted: Denis Shapovalov AND Gabriel Diallo both withdrew injured — HIGH (confirmed multi-source)\n- Czechia advances to semifinals; faces winner of Italy vs. South Korea on Friday Nov 27 — HIGH\n**Sources:**\n- CTV News: \"Auger-Aliassime, Draxl lose as Czechia downs Canada in Davis Cup Final 8 quarterfinal\" — https://www.ctvnews.ca/sports/article/auger-aliassime-draxl-lose-as-czechia-downs-canada-in-davis-cup-final-8-quarterfinal/\n- CBC Sports: Davis Cup Finals Bologna Canada Czech Republic — https://www.cbc.ca/sports/tennis/davis-cup-finals-bologna-canada-czech-republic-9.7433725\n- Globe and Mail: \"Czechia ousts Canada from Davis Cup Final 8\" — https://www.theglobeandmail.com/sports/tennis/article-czechia-ousts-canada-from-davis-cup-final-8/\n**Freshness verification:** Result from November 24 (yesterday) — still the latest Davis Cup news today. Direct follow-up to Nov 24 S1 preview.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Auger-Aliassime, Draxl lose as Czechia downs Canada in Davis Cup Final 8 quarterfinal",
+          "url": "https://www.ctvnews.ca/sports/article/auger-aliassime-draxl-lose-as-czechia-downs-canada-in-davis-cup-final-8-quarterfinal/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "CTV News"
+        },
+        {
+          "name": "Davis Cup Finals Bologna Canada Czech Republic",
+          "url": "https://www.cbc.ca/sports/tennis/davis-cup-finals-bologna-canada-czech-republic-9.7433725",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "CBC Sports"
+        },
+        {
+          "name": "Czechia ousts Canada from Davis Cup Final 8",
+          "url": "https://www.theglobeandmail.com/sports/tennis/article-czechia-ousts-canada-from-davis-cup-final-8/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Globe and Mail"
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Italy vs. South Korea — Defending Champions Open Davis Cup Campaign",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Italy are chasing something no nation has done — 4 straight Davis Cup titles. Standing in their way today: South Korea, in their first-ever Davis Cup Finals quarterfinal. 🇮🇹🇰🇷 Bologna, game on. #DavisCup #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DavisCup",
+            "#TennisFanrecap"
+          ],
+          "char_count": 219
+        },
+        {
+          "label": "Post 2-2",
+          "text": "South Korea have never been in a Davis Cup Finals QF before. Italy have won the last 3. The all-time H2H: Italy leads 3-0. The match is TODAY in Bologna. Everything says Italy — except the bracket wanted a story. #DavisCup #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DavisCup",
+            "#Tennis"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-italy-south-korea-davis-cup.html",
+        "headline": "Italy Seek Historic Fourth Straight Davis Cup Title — South Korea Stand in the Way",
+        "word_count": 601
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Italy vs. South Korea — Davis Cup QF Preview\n\n**Image Concept 2-A** (Article Hero — 1200x630)\n- **Search Term:** `Flavio Cobolli Italy`\n- **Description:** Cobolli in Italian Davis Cup kit, serving or celebrating, indoor hard court\n- **Credit:** (Imagn Images)\n- **Status:** not_started\n\n**Image Concept 2-B** (Social — 1080x1350)\n- **Search Term:** `Kwon Soon-woo`\n- **Description:** Kwon Soon-woo in match action, full body or celebration shot\n- **Credit:** (Imagn Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Italy vs. South Korea — Davis Cup Finals QF Preview\n**Story Type:** NEW STORY (South Korea's first-ever Davis Cup Finals QF)\n**Confidence:** MEDIUM (Davis Cup official, Sportskeeda, TennisNow — preview articles; result not yet available)\n**Key Facts:**\n- Italy are **defending champions** (3 consecutive titles, 4 total) — HIGH\n- South Korea making their **first-ever Davis Cup Finals quarterfinal** — HIGH (Davis Cup official)\n- Italy all-time H2H vs South Korea: **3-0** — HIGH\n- Match scheduled 4:00 PM local time, BolognaFiere SuperTennis Arena, Bologna — MEDIUM\n- Italy missing Jannik Sinner (knee injury, season ended Oct 6) — HIGH\n- Italy massive favorites in odds (-1000 vs South Korea +730) — MEDIUM (single source)\n- Expected singles opener: **Flavio Cobolli (Italy) vs Kwon Soon-woo (South Korea)** — MEDIUM (single source preview)\n**Sources:**\n- Davis Cup official preview: https://www.daviscup.com/en/news/2026-italy-v-korea-rep-preview\n- Sportskeeda preview: https://www.sportskeeda.com/tennis/davis-cup-finals-2026-italy-vs-south-korea-ft-flavio-cobolli-vs-kwon-soon-woo-preview-head-to-head-prediction-odds-betting-tips\n- TennisNow: https://tennisnow.com/defending-champions-italy-draw-korea-in-davis-cup-quarterfinals/\n**Freshness verification:** Today's match (Nov 25). Result not yet available; article frames as preview/developing story.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Davis Cup official preview",
+          "url": "https://www.daviscup.com/en/news/2026-italy-v-korea-rep-preview",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Sportskeeda preview",
+          "url": "https://www.sportskeeda.com/tennis/davis-cup-finals-2026-italy-vs-south-korea-ft-flavio-cobolli-vs-kwon-soon-woo-preview-head-to-head-prediction-odds-betting-tips",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "TennisNow",
+          "url": "https://tennisnow.com/defending-champions-italy-draw-korea-in-davis-cup-quarterfinals/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Sinner Reveals Tonsil Surgery, Significant Weight Loss — AO 2027 Doubt Deepens",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Jannik Sinner had a secret tonsil surgery — undisclosed until now. He's lost significant muscle mass. Doctors told him to rebuild before touching a racket. His words: \"I'm not even close to returning.\" AO 2027 is in serious doubt. 😔 #Sinner #Tennis #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sinner",
+            "#Tennis",
+            "#TennisFanrecap"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-sinner-tonsil-surgery.html",
+        "headline": "Sinner Reveals Secret Tonsil Surgery: Significant Weight Loss, 'Not Even Close to Returning'",
+        "word_count": 649
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sinner Tonsil Surgery + Weight Loss\n\n**Image Concept 3-A** (Article Hero — 1200x630)\n- **Search Term:** `Jannik Sinner`\n- **Description:** Sinner focused or in match action — not injured imagery, mid-match expression\n- **Credit:** (Imagn Images)\n- **Status:** not_started\n\n**Image Concept 3-B** (Social — 1080x1350)\n- **Search Term:** `Jannik Sinner`\n- **Description:** Sinner serving, full body action shot, indoor or outdoor hard court\n- **Credit:** (Imagn Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sinner Tonsil Surgery + Weight Loss Disclosure\n**Story Type:** NEW ANGLE (Nov 24 S4 covered knee/AO doubt; tonsil surgery is new undisclosed information)\n**Confidence:** HIGH (NST/Reuters, Tennis Majors, TennisUpToDate, Britbrief — multi-source)\n**Key Facts:**\n- Sinner disclosed tonsil surgery via YouTube series in **November 2026** — previously undisclosed — HIGH\n- Described face as **\"quite dry\"** after surgery — HIGH (direct quote)\n- **Significant muscle mass loss** confirmed; doctors told him to rebuild muscle before returning — HIGH\n- He said he is **\"not even close to returning\"** — HIGH (direct quote, TennisUpToDate)\n- Targeting **Australian Open 2027 (January 17)** but Italian media says participation **\"not yet secure\"** — HIGH\n- Also dealing with knee injury (season ended Oct 6, conservative treatment ongoing) — HIGH (prior coverage)\n- Linked to **Six Kings Slam exhibition in Riyadh** (late December) but that event may be postponed — MEDIUM\n**Sources:**\n- NST/Reuters: \"Sinner working to put weight after tonsil operation\" — https://www.nst.com.my/amp/sports/racquet-tests/2026/11/1576218/sinner-working-put-weight-after-tonsil-operation\n- Tennis Majors: https://www.tennismajors.com/?p=866678\n- TennisUpToDate: \"I had my tonsils removed some weeks ago\" — https://tennisuptodate.com/atp/i-had-my-tonsils-removed-some-weeks-ago-jannik-sinner-admits-he-is-not-even-close-to-returning-as-he-opens-up-on-injury-nightmare-and-sudden-weight-loss\n- Britbrief: \"Sinner reveals weight loss after tonsil surgery\" — https://britbrief.co.uk/sports/tennis/sinner-reveals-weight-loss-after-tonsil-surgery.html\n**Freshness verification:** Disclosed in November 2026 YouTube series — new information as of this week.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Sinner working to put weight after tonsil operation",
+          "url": "https://www.nst.com.my/amp/sports/racquet-tests/2026/11/1576218/sinner-working-put-weight-after-tonsil-operation",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "NST/Reuters"
+        },
+        {
+          "name": "Tennis Majors",
+          "url": "https://www.tennismajors.com/?p=866678",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "I had my tonsils removed some weeks ago",
+          "url": "https://tennisuptodate.com/atp/i-had-my-tonsils-removed-some-weeks-ago-jannik-sinner-admits-he-is-not-even-close-to-returning-as-he-opens-up-on-injury-nightmare-and-sudden-weight-loss",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "TennisUpToDate"
+        },
+        {
+          "name": "Sinner reveals weight loss after tonsil surgery",
+          "url": "https://britbrief.co.uk/sports/tennis/sinner-reveals-weight-loss-after-tonsil-surgery.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Britbrief"
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Thursday Preview: Zverev Leads Germany vs. Great Britain; Alcaraz Eyes Spain Win",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Thursday at the Davis Cup Finals: Zverev leads Germany vs. Great Britain. Alcaraz headlines Spain vs. Austria — left thigh concern and all. Two of the biggest matches of the week. Who advances? 🎾 #DavisCup #Zverev #Alcaraz #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DavisCup",
+            "#Zverev",
+            "#Alcaraz",
+            "#TennisFanrecap"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-thursday-qf-preview.html",
+        "headline": "Zverev and Alcaraz Headline Davis Cup Thursday — Germany and Spain Favored to Advance",
+        "word_count": 590
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Thursday QF Preview\n\n**Image Concept 4-A** (Article Hero — 1200x630)\n- **Search Term:** `Alexander Zverev Germany`\n- **Description:** Zverev serving or celebrating, German Davis Cup kit or match action\n- **Credit:** (Imagn Images)\n- **Status:** not_started\n\n**Image Concept 4-B** (Social — 1080x1350)\n- **Search Term:** `Carlos Alcaraz Spain`\n- **Description:** Alcaraz in Spanish Davis Cup kit, intense match expression or forehand action\n- **Credit:** (Imagn Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Thursday QF Preview — GBR vs. GER + AUT vs. ESP\n**Story Type:** NEW STORY (first coverage of these two quarterfinals)\n**Confidence:** MEDIUM (LTA official, Puntodebreak, 365scores — preview only, matches Thursday Nov 26)\n**Key Facts:**\n- **Great Britain vs. Germany** — Thursday Nov 26, morning session — MEDIUM\n- Zverev leads Germany; had his best season ever (Roland Garros + US Open, year-end No. 1)\n- Great Britain qualified via 3-0 win over Ecuador; first Finals appearance since 2023 — MEDIUM\n- **Austria vs. Spain** — Thursday Nov 26, afternoon session — MEDIUM\n- Spain captain David Ferrer named squad including **Alcaraz, Jodar, Davidovich Fokina, Granollers, Martinez** — MEDIUM\n- Alcaraz carries **left thigh concern** from ATP Finals — MEDIUM (single source)\n- Spain one of the favorites for the title — MEDIUM\n- Semifinals: Winner of GBR/GER vs. Winner of AUT/ESP on **Saturday Nov 28** — HIGH (official bracket)\n**Sources:**\n- LTA: \"Great Britain draw Germany in quarter-final\" — https://www.lta.org.uk/fan-zone/davis-cup/news/great-britain-draw-germany-in-quarter-final/\n- LTA Davis Cup Finals preview: https://www.lta.org.uk/fan-zone/davis-cup/news/davis-cup-finals-preview-draws-schedule-player-list--how-to-watch/\n- Puntodebreak: https://www.puntodebreak.com/en/2026/09/20/the-8-countries-that-will-be-in-the-2026-davis-cup-finals\n**Freshness verification:** Preview for Thursday Nov 26 matches. Valid today (Nov 25) as upcoming content.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Great Britain draw Germany in quarter-final",
+          "url": "https://www.lta.org.uk/fan-zone/davis-cup/news/great-britain-draw-germany-in-quarter-final/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "LTA"
+        },
+        {
+          "name": "LTA Davis Cup Finals preview",
+          "url": "https://www.lta.org.uk/fan-zone/davis-cup/news/davis-cup-finals-preview-draws-schedule-player-list--how-to-watch/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Puntodebreak",
+          "url": "https://www.puntodebreak.com/en/2026/09/20/the-8-countries-that-will-be-in-the-2026-davis-cup-finals",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Zverev at Davis Cup: Year-End No. 1 Looks to Complete Historic 2026",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Zverev is the first German in ATP history to end the year at No. 1. Roland Garros. US Open. Year-End No. 1 trophy in Turin. Now he wants the Davis Cup. The 2026 season is not over yet. 🏆 #Zverev #DavisCup #Tennis #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Zverev",
+            "#DavisCup",
+            "#Tennis",
+            "#TennisFanrecap"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-zverev-year-end-no1.html",
+        "headline": "First German to Finish No. 1 in ATP History — Now Zverev Eyes the Davis Cup",
+        "word_count": 605
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Zverev Year-End No. 1 at Davis Cup\n\n**Image Concept 5-A** (Article Hero — 1200x630)\n- **Search Term:** `Alexander Zverev`\n- **Description:** Zverev holding or posing with the year-end No. 1 trophy or celebrating a major title\n- **Credit:** (Imagn Images)\n- **Status:** not_started\n\n**Image Concept 5-B** (Social — 1080x1350)\n- **Search Term:** `Alexander Zverev`\n- **Description:** Zverev close-up reaction or celebration shot, joy or intensity post-match\n- **Credit:** (Imagn Images)\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Zverev at Davis Cup — Year-End No. 1 / First German in ATP History\n**Story Type:** NEW ANGLE (Nov 23 S4 covered ATP year-end rankings; Davis Cup context is new)\n**Confidence:** HIGH (ATP Tour official — multi-source)\n**Key Facts:**\n- Zverev clinched year-end No. 1 on **October 12, 2026** — first German player ever to end a season at No. 1 — HIGH (ATP Tour)\n- Titles: **Roland Garros + US Open** = called \"best season of career\" by ATP — HIGH\n- Received year-end No. 1 trophy at Nitto ATP Finals, Turin, on November 16 — HIGH\n- Now at Davis Cup Finals leading Germany — first time representing country since his title run — MEDIUM (derived)\n- ATP historical context: Djokovic (8x), Alcaraz (2022, 2025), Sinner (2024), **Zverev (2026)** — HIGH\n**Sources:**\n- ATP Tour: \"Alexander Zverev Clinches Year-End No. 1 2026\" — https://www.atptour.com/en/news/alexander-zverev-clinches-year-end-no-1-2026\n- ATP Tour: \"Zverev Year-End No. 1 Trophy\" — https://www.atptour.com/en/news/zverev-year-end-no-1-trophy-nitto-atp-finals-2026-monday\n- ATP Tour: \"ATP Year-End No. 1 Honours Zverev 2026 History\" — https://www.atptour.com/en/news/atp-year-end-no-1-honours-zverev-2026-history\n**Freshness verification:** Established fact (year-end No. 1 clinched Oct 12), newly contextualized by Davis Cup participation. Valid angle today.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Alexander Zverev Clinches Year-End No. 1 2026",
+          "url": "https://www.atptour.com/en/news/alexander-zverev-clinches-year-end-no-1-2026",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "ATP Tour"
+        },
+        {
+          "name": "Zverev Year-End No. 1 Trophy",
+          "url": "https://www.atptour.com/en/news/zverev-year-end-no-1-trophy-nitto-atp-finals-2026-monday",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "ATP Tour"
+        },
+        {
+          "name": "ATP Year-End No. 1 Honours Zverev 2026 History",
+          "url": "https://www.atptour.com/en/news/atp-year-end-no-1-honours-zverev-2026-history",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "ATP Tour"
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

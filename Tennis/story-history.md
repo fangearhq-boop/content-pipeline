@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## November 25, 2026
+
+| 2026-11-25 | Czechia 2-0 Canada Davis Cup QF — Machac def. Draxl 6-2,3-6,6-2; Lehecka def. FAA 7-6(4),6-2; FAA 0/9 break points; Shapovalov + Diallo both absent; Czechia advance to SF vs Italy/South Korea winner (Nov 27). Sources: CTV News, CBC Sports, Globe and Mail | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (2026-11-24 S1: Davis Cup QF Day 1 preview → result) |
+| 2026-11-25 | Italy vs South Korea Davis Cup QF preview — South Korea first-ever Davis Cup Finals QF; Italy chasing 4th consecutive title (unprecedented); Italy H2H vs South Korea 3-0; Italy without Sinner; Cobolli/Berrettini/Musetti lead Italy; Bologna home crowd. Sources: Davis Cup official, Sportskeeda, TennisNow | T1 | X, FB, Article | Elena Voss |
+| 2026-11-25 | Sinner tonsil surgery disclosure — tonsils removed November 2026 (undisclosed until YouTube series); "quite dry" face post-surgery; significant muscle mass loss; doctors say rebuild before returning; "not even close to returning" (direct quote); AO 2027 (Jan 17) "not yet secure" per Italian media; also ongoing knee issue. Sources: NST/Reuters, Tennis Majors, TennisUpToDate, Britbrief | T2 | X, FB, Article | Marcus Cole; NEW ANGLE (2026-11-24 S4: Sinner knee/AO doubt → tonsil surgery new info) |
+| 2026-11-25 | Thursday Davis Cup QF preview — GBR vs GER (Zverev) morning Nov 26; AUT vs ESP (Alcaraz, left thigh concern) afternoon Nov 26; GB first Finals since 2023 (qualified via 3-0 over Ecuador); winners → SF Nov 28. Sources: LTA official, Puntodebreak | T2 | X, FB, Article | Ryan Calloway |
+| 2026-11-25 | Zverev year-end No. 1 at Davis Cup — first German in ATP history to end year No. 1; clinched Oct 12; Roland Garros + US Open titles; received trophy at Turin Nov 16; now leads Germany at Davis Cup seeking title to cap 2026. Sources: ATP Tour official | T2 | X, FB, Article | Elena Voss; NEW ANGLE (2026-11-23 S4: ATP year-end rankings → Davis Cup context) |
+
+---
+
+
 ## November 24, 2026
 
 | 2026-11-24 | Davis Cup Finals QF Day 1 — Czech Republic (Lehečká No. 14, Menšík No. 15) vs depleted Canada (Shapovalov + Diallo both out injured); FAA leads H2H vs Lehečká 3-1; Italy vs South Korea on Nov 25; Italy seeking 4th consecutive title. Sources: daviscup.com, Wikipedia, archynewsy.com | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (Nov 23 S3: Davis Cup Finals preview → Day 1 underway) |
