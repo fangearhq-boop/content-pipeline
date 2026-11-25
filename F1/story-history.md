@@ -2,6 +2,45 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-11-25
+
+### STORY 1: Perez Gets 5-Place Qatar Grid Penalty for Las Vegas Camara Crash
+- **Tier:** 1
+- **Category:** Sergio Perez / Rafael Camara / FIA Stewards / Qatar GP / Las Vegas GP
+- **Key facts:** FIA found Perez fully responsible for Turn 14 crash with Camara; 10-sec race penalty converted to 5-place Qatar grid drop; Camara confirmed at Haas for Qatar, Abu Dhabi, and all of 2027; Bortoleto also received 5-place grid drop (separate Turn 1 incident with Stroll)
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: Mercedes Seeks Qatar Redemption After Las Vegas Disaster
+- **Tier:** 1
+- **Category:** Mercedes / George Russell / Kimi Antonelli / Qatar GP / Las Vegas GP
+- **Key facts:** Las Vegas described as "lowest score of the season"; Russell crashed into barriers (P9); Antonelli misjudged energy deployment, lost P2 to Norris on final lap (finished P4); championship: Antonelli 402, Verstappen 304, Hamilton 267, Russell 264, Norris 264; Russell quotes "good shot in Qatar"
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: Qatar GP Preview — What Verstappen Needs to Seal P2
+- **Tier:** 2
+- **Category:** Qatar GP / Max Verstappen / Lewis Hamilton / George Russell / Lando Norris / Championship
+- **Key facts:** Verstappen 304 pts, 37-pt lead over Hamilton (267) for P2; Russell/Norris tied 264 (3 behind Hamilton for P4); 50 pts remaining (Qatar + Abu Dhabi); Pirelli 27-lap max stint forces minimum 2 stops; practice Nov 27, qualifying Nov 28, race Nov 29 (57 laps)
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
+### STORY 4: 2027 F1 Grid Almost Complete — Haas Final Seat, Cadillac Puzzle
+- **Tier:** 2
+- **Category:** 2027 F1 Driver Market / Racing Bulls / Haas / Cadillac / Liam Lawson / Arvid Lindblad
+- **Key facts:** Racing Bulls confirmed Lawson and Lindblad for 2027; 21 of 22 seats confirmed; Haas has Camara for 2027, second seat (Bearman expected) unannounced; Colton Herta linked to Cadillac; Verstappen extended with Red Bull until 2030
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: Antonelli at 402 Points — Mercedes' Historic 2026 Season in Review
+- **Tier:** 3
+- **Category:** Kimi Antonelli / Mercedes / 2026 F1 Drivers' Championship / Season Review
+- **Key facts:** Antonelli 402 pts, 98-pt lead, 9 wins, 20 years old; Mercedes won Constructors' Championship; Las Vegas error (lost P2 to Norris on final lap) was learning moment; Toto Wolff optimistic about future potential; 2 races remaining
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
+---
+
 ## 2026-11-20
 
 ### STORY 1: Las Vegas GP FP2 — Russell P1, Verstappen P13 (Power Unit Issue)

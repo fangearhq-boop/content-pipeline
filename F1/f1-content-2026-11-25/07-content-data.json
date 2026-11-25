@@ -1,0 +1,527 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-25",
+  "compiled_at": "2026-11-25T11:31:29.612538+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1",
+      "type": "Perez penalty breaking news"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 2",
+      "type": "Mercedes Las Vegas reaction"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 3",
+      "type": "Qatar GP preview"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "Story 4",
+      "type": "2027 grid news"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 1",
+      "type": "Penalty context / Camara follow"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 5",
+      "type": "Antonelli season review"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Perez Gets 5-Place Qatar Grid Penalty for Las Vegas Camara Crash",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "**Window:** 8:00 AM ET\n**Character count:** 229\n\nFIA ruling is in: Perez gets a 5-PLACE GRID PENALTY for Qatar.\n\nStewards found him FULLY responsible for the Turn 14 crash with Camara in Las Vegas.\n\nThe 10-sec penalty converted to a grid drop. #F1Fanrecap #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1"
+          ],
+          "char_count": 259
+        },
+        {
+          "label": "Post 1B",
+          "text": "**Window:** 5:00 PM ET\n**Character count:** 237\n\nThe other side of the story:\n\nCamara — the rookie Perez hit in Las Vegas — is CONFIRMED at Haas for all of 2027.\n\nThe incident hurt Perez. It may have cemented Camara's future. #F1Fanrecap #HaasF1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#HaasF1"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "**Window:** 8:00 AM ET\n\nThe FIA has handed Sergio Perez a five-place grid penalty for the Qatar Grand Prix, following its investigation into the Turn 14 collision with Haas rookie Rafael Camara during last weekend's Las Vegas Grand Prix.\n\nStewards found Perez fully responsible for the incident. Perez's front-right tyre made contact with Camara's rear-left as the Red Bull driver attempted a pass approaching Turn 14. The stewards determined that Perez was not entitled to the racing line and placed the entire blame on him. His original 10-second time penalty was converted to a grid drop after Perez retired from the Las Vegas race.\n\nPerez maintains he was alongside Camara entering the corner and that the Haas driver didn't see him — but the stewards disagreed. Meanwhile, Camara handled the incident with composure and impressed enough to earn confirmation of his Haas seat for both remaining 2026 races and a full-time drive in 2027.\n\nIt is a complicated situation for Perez at Red Bull. A grid drop in Qatar, combined with the growing speculation about his future at the team, adds pressure to what should be a straightforward run to the season's end.",
+        "image_caption": "Perez starts Qatar from the back of the grid. Camara starts with his future secured.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-perez-qatar-penalty-camara-crash.html",
+        "headline": "Perez Handed 5-Place Qatar Penalty as FIA Places Full Blame for Las Vegas Camara Crash",
+        "word_count": 574
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [
+            "PEREZ: 5-PLACE GRID PENALTY / QATAR GRAND PRIX"
+          ],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [
+            "None (article hero)"
+          ],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Perez Gets 5-Place Qatar Grid Penalty for Las Vegas Camara Crash\n**Sources:**\n- https://www.formula1.com/en/latest/article/perez-hit-with-five-place-penalty-in-qatar-after-camara-clash-during-las-vegas-grand-prix.30GG7oJuJ1As0MrkavmStN\n- https://www.planetf1.com/news/fia-reveals-punishment-las-vegas-grand-prix-collision\n- https://bytewire.news/mavericks-defeat-nuggets-120-101-in-nba-cup-play-doncic-scores-24-points/ (via grandprix247.com preview)\n**Key Facts (Confidence):**\n- [HIGH] FIA stewards found Perez fully responsible for Turn 14 collision with Camara in Las Vegas\n- [HIGH] Perez received a 10-second time penalty during the race, converted to 5-place grid drop for Qatar after retiring\n- [HIGH] Perez's front-right tyre made contact with Camara's rear-left tyre approaching Turn 14\n- [HIGH] Stewards concluded Perez was not entitled to the racing line and was fully responsible\n- [HIGH] Perez claims he was alongside Camara entering Turn 14; says Camara didn't see him\n- [HIGH] Camara finished 16th; Perez retired from Las Vegas GP\n- [HIGH] Camara confirmed to race for Haas at Qatar and Abu Dhabi, confirmed for 2027 full-time\n- [HIGH] Bortoleto also received 5-place grid penalty (separate incident: Turn 1 crash with Lance Stroll in Las Vegas) plus 2 licence penalty points\n- [MEDIUM] Penalty further undermines Perez's position at Red Bull heading into 2027",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "formula1.com",
+          "url": "https://www.formula1.com/en/latest/article/perez-hit-with-five-place-penalty-in-qatar-after-camara-clash-during-las-vegas-grand-prix.30GG7oJuJ1As0MrkavmStN",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "planetf1.com",
+          "url": "https://www.planetf1.com/news/fia-reveals-punishment-las-vegas-grand-prix-collision",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "bytewire.news",
+          "url": "https://bytewire.news/mavericks-defeat-nuggets-120-101-in-nba-cup-play-doncic-scores-24-points/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Mercedes Seeks Qatar Redemption After Las Vegas Disaster",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "**Window:** 10:00 AM ET\n**Character count:** 274\n\nLas Vegas was Mercedes' WORST result of 2026.\n\nRussell crashed into the barriers. Antonelli lost P2 to Norris on the final lap.\n\nNow they're heading to Qatar saying: \"We've got a good shot.\" #F1Fanrecap #MercedesAMGF1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MercedesAMGF1"
+          ],
+          "char_count": 267
+        },
+        {
+          "label": "Post 2B",
+          "text": "**Window:** 2:00 PM ET\n**Character count:** 270\n\nGeorge Russell is on 264 points. Tied with Norris. 37 behind Hamilton.\n\nAfter Las Vegas, he NEEDS Qatar. Mercedes says the circuit suits them.\n\nWe're about to find out. #F1Fanrecap #GeorgeRussell",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#GeorgeRussell"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "**Window:** 10:00 AM ET\n\nFormula 1's dominant team of 2026 is heading to Qatar with a point to prove. Mercedes endured their worst race of the season in Las Vegas — George Russell crashed into the barriers and limped home in ninth, while Kimi Antonelli misjudged energy deployment on the final lap and allowed Lando Norris to snatch second place away from him.\n\nFor Antonelli, the defeat stings but doesn't diminish a championship already secured. For Russell, however, the stakes are higher. He sits on 264 points — tied with Norris — and 37 behind Hamilton with just 50 points remaining in the season. Las Vegas was a setback he cannot repeat.\n\nThe team says Qatar suits their car's strengths and that they're confident a strong weekend is coming. Russell has gone on record saying he believes Mercedes has a genuine shot at the front in Qatar. Given the team's performance over the second half of the season, that optimism isn't without foundation — but Las Vegas proved that nothing is guaranteed.",
+        "image_caption": "Russell and Antonelli head to Qatar looking for a different result. The championship isn't over for everyone.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-mercedes-qatar-redemption-las-vegas.html",
+        "headline": "Mercedes Vows Qatar Revival After Las Vegas Proved Their Worst Day of 2026",
+        "word_count": 527
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [
+            "RUSSELL: NEEDS QATAR / CHAMPIONSHIP FIGHT"
+          ],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [
+            "None (article hero)"
+          ],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mercedes Seeks Qatar Redemption After Las Vegas Disaster\n**Sources:**\n- https://www.grandprix247.com/grand-prix-f1-weekend-news/mercedes-seeking-qatar-grand-prix-revenge-after-humbling-las-vegas-lowest-score-of-the-season\n- https://grandepremio.com/en/f1/f1-2026-standings-after-las-vegas-verstappen-wins-as-hamilton-overtakes-russell-for-third/\n- https://sundayguardianlive.com/sports/f1-las-vegas-gp-2026-results-max-verstappen-wins-lando-norris-snatches-p2-from-kimi-antonelli-on-final-lap-as-george-russell-crashes-325940/\n- https://racer.com/2026/11/17/antonelli-set-for-grid-penalty-for-mercedes-aduo-as-team-targets-p2-for-russell\n**Key Facts (Confidence):**\n- [HIGH] Las Vegas GP result: Verstappen 1st, Norris 2nd, Antonelli 4th, Russell 9th (crashed)\n- [HIGH] Russell crashed into the barriers in Las Vegas, finishing ninth\n- [HIGH] Antonelli misjudged energy deployment, allowing Norris to pass him for P2 on the final lap\n- [HIGH] Mercedes described Las Vegas as \"lowest score of the season\"\n- [HIGH] Championship after Las Vegas: Antonelli 402, Verstappen 304, Hamilton 267, Russell 264, Norris 264\n- [HIGH] Russell 264 pts — tied with Norris, 37 behind Hamilton, 40 behind Verstappen for 2nd\n- [HIGH] Mercedes won 2026 Constructors' Championship\n- [HIGH] ADUO power unit upgrade: Antonelli took grid penalty in Las Vegas to run it; team targeting Russell's championship position\n- [MEDIUM] Russell quote: \"I think we've got a good shot in Qatar\"\n- [MEDIUM] Qatar historically has suited Mercedes' strengths",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "grandprix247.com",
+          "url": "https://www.grandprix247.com/grand-prix-f1-weekend-news/mercedes-seeking-qatar-grand-prix-revenge-after-humbling-las-vegas-lowest-score-of-the-season",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "grandepremio.com",
+          "url": "https://grandepremio.com/en/f1/f1-2026-standings-after-las-vegas-verstappen-wins-as-hamilton-overtakes-russell-for-third/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sundayguardianlive.com",
+          "url": "https://sundayguardianlive.com/sports/f1-las-vegas-gp-2026-results-max-verstappen-wins-lando-norris-snatches-p2-from-kimi-antonelli-on-final-lap-as-george-russell-crashes-325940/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "racer.com",
+          "url": "https://racer.com/2026/11/17/antonelli-set-for-grid-penalty-for-mercedes-aduo-as-team-targets-p2-for-russell",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Qatar GP Preview — What Verstappen Needs to Seal P2",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "**Window:** 12:00 PM ET\n**Character count:** 277\n\nCHAMPIONSHIP MATH before Qatar:\n\nVerstappen: 304 pts\nHamilton: 267 pts\nRussell: 264 pts\nNorris: 264 pts\n\n50 points left. 2 races. The fight for P2 through P4 is VERY much alive. #F1Fanrecap #QatarGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#QatarGP"
+          ],
+          "char_count": 248
+        },
+        {
+          "label": "Post 3B",
+          "text": "**Window:** 8:00 PM ET\n**Character count:** 253\n\nQatar GP weekend is almost here.\n\nPractice: Thursday. Qualifying: Friday. Race: Sunday. 57 laps. Mandatory 2 stops.\n\nVerstappen enters with a 37-point lead and momentum. This could wrap up fast. #F1Fanrecap #QatarGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#QatarGP"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "**Window:** 12:00 PM ET\n\nThe 2026 Qatar Grand Prix weekend begins Thursday with practice, and for the first time since Kimi Antonelli clinched the Drivers' Championship, the focus shifts to the battle behind him.\n\nVerstappen arrives with 304 points and a 37-point advantage over Lewis Hamilton for second place in the standings. With 50 points remaining across Qatar and Abu Dhabi, the math strongly favors Verstappen — Hamilton would need to outscore him by 37 or more points over two races to overtake him. That's possible, but it would require near-perfect results for Hamilton and significant misfortune for Verstappen.\n\nThe more urgent fight may be three places further down the standings. Russell and Norris are tied on 264 points — just three behind Hamilton. Either of them could leapfrog multiple positions in the final two rounds if results align.\n\nOne notable constraint on the Qatar race itself: Pirelli has set a 27-lap maximum per tyre set. With the race running 57 laps, every driver is committed to at least two pit stops — adding strategic variation that could shake up the final order.\n\nPractice begins at Lusail on Thursday. The race is Sunday, November 29.",
+        "image_caption": "50 points left and four drivers fighting for three positions. Qatar sets the stage.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-qatar-gp-preview-verstappen-championship.html",
+        "headline": "Qatar GP Preview: Verstappen Just Needs to Stay Consistent to Lock Up Second Place",
+        "word_count": 557
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [
+            "VERSTAPPEN: 304 PTS / 37-PT LEAD / QATAR AHEAD"
+          ],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [
+            "None (article hero)"
+          ],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Qatar GP Preview — What Verstappen Needs to Seal P2\n**Sources:**\n- https://www.thenationalnews.com/sport/2026/11/25/qatar-grand-prix-permutations-what-max-verstappen-needs-to-seal-second-place-in-championship/\n- https://www.tsn.ca/motorsports/formula-1/article/verstappen-looks-to-continue-strong-stretch-at-qatar-grand-prix-n1-50530095/\n- https://coffeecornermotorsport.com/qatar-grand-prix-2026-preview/\n**Key Facts (Confidence):**\n- [HIGH] Qatar GP schedule: Practice Nov 27, Qualifying Nov 28, Race Nov 29 (57 laps, Lusail Circuit)\n- [HIGH] Verstappen 304 pts, 37-pt lead over Hamilton (267) for 2nd in championship\n- [HIGH] 50 total points remaining (Qatar 25 + Abu Dhabi 25)\n- [HIGH] For Hamilton to overtake Verstappen for P2, he would need to outscore him by 37+ pts over 2 races\n- [HIGH] Russell and Norris tied on 264 — 3 pts behind Hamilton — P4 battle is also live\n- [HIGH] Pirelli 27-lap maximum tyre stint; 57-lap race mandates minimum 2 stops\n- [MEDIUM] Verstappen has won 4 of his last 5 races (strong late-season form)\n- [MEDIUM] Perez starts with 5-place grid penalty at Qatar",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "thenationalnews.com",
+          "url": "https://www.thenationalnews.com/sport/2026/11/25/qatar-grand-prix-permutations-what-max-verstappen-needs-to-seal-second-place-in-championship/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "tsn.ca",
+          "url": "https://www.tsn.ca/motorsports/formula-1/article/verstappen-looks-to-continue-strong-stretch-at-qatar-grand-prix-n1-50530095/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "coffeecornermotorsport.com",
+          "url": "https://coffeecornermotorsport.com/qatar-grand-prix-2026-preview/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "2027 F1 Grid Almost Complete — Haas Final Seat, Cadillac Puzzle",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "**Window:** 2:00 PM ET\n**Character count:** 261\n\n21 of 22 seats for the 2027 F1 grid are confirmed.\n\nRacing Bulls just locked in Lawson and Lindblad.\n\nOne seat remains. Haas has Camara. The second slot — likely Bearman — is the last mystery. #F1Fanrecap #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "**Window:** 2:00 PM ET\n\nThe 2027 Formula 1 driver market is almost fully resolved. With Racing Bulls confirming Liam Lawson and Arvid Lindblad for next season, 21 of the 22 available seats are now filled — leaving just one position still to be announced.\n\nThe open berth is at Haas. Rafael Camara is confirmed for 2027, but his teammate slot remains unresolved. Ollie Bearman, who currently holds that seat, is widely regarded as the strong favorite to retain it. If Bearman is confirmed, the 2027 grid is complete.\n\nThe other conversation is at Cadillac. The American team's second seat appears to be the subject of ongoing discussions, with Colton Herta linked as a potential debut driver. That would be a significant moment for American motorsport — a US driver in a full-time F1 seat — and Cadillac has the narrative incentive to make it happen.\n\nElsewhere, Max Verstappen's extension with Red Bull until 2030 provides stability at the top. At the junior end of the grid, Isack Hadjar is confirmed at Racing Bulls as one of the more promising young talents on next year's grid.",
+        "image_caption": "21 seats filled. One to go. The 2027 F1 grid is nearly locked in.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-2027-f1-grid-haas-cadillac.html",
+        "headline": "One Seat Left: The 2027 F1 Grid Is Almost Set as Racing Bulls Confirm Lawson and Lindblad",
+        "word_count": 575
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [
+            "2027 F1 GRID: 21/22 SEATS FILLED"
+          ],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [
+            "None (article hero)"
+          ],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "2027 F1 Grid Almost Complete — Haas Final Seat, Cadillac Puzzle\n**Sources:**\n- https://www.gpfans.com/en/f1-news/1092830/f1-grid-2027-november-2026-one-seat-remaining/\n- https://www.gpfans.com/en/f1-news/1092827/racing-bulls-f1-seats-2027-liam-lawson-arvid-lindblad/\n- https://www.planetf1.com/news/f1-2027-driver-line-up-confirmed-grid\n- https://www.formula1.com/en/latest/article/analysis-why-the-f1-driver-market-might-produce-one-last-twist-for-2027.6t7AwtqfHWkDqSgQZ3ElQ3\n**Key Facts (Confidence):**\n- [HIGH] Racing Bulls confirmed Liam Lawson and Arvid Lindblad for 2027\n- [HIGH] 21 of 22 seats confirmed for 2027 as of mid-November 2026; one seat remains open\n- [HIGH] Haas has Camara confirmed for 2027; second seat (Bearman's current slot) still to be announced\n- [MEDIUM] Ollie Bearman is strong favorite to retain his Haas seat for 2027\n- [MEDIUM] Cadillac second seat unresolved: Colton Herta linked with F1 debut opportunity\n- [MEDIUM] Valtteri Bottas' status at Cadillac/Andretti unclear\n- [HIGH] Verstappen extended with Red Bull until 2030\n- [HIGH] Isack Hadjar confirmed at Racing Bulls (Red Bull junior team)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "gpfans.com",
+          "url": "https://www.gpfans.com/en/f1-news/1092830/f1-grid-2027-november-2026-one-seat-remaining/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "gpfans.com",
+          "url": "https://www.gpfans.com/en/f1-news/1092827/racing-bulls-f1-seats-2027-liam-lawson-arvid-lindblad/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "planetf1.com",
+          "url": "https://www.planetf1.com/news/f1-2027-driver-line-up-confirmed-grid",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "formula1.com",
+          "url": "https://www.formula1.com/en/latest/article/analysis-why-the-f1-driver-market-might-produce-one-last-twist-for-2027.6t7AwtqfHWkDqSgQZ3ElQ3",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Antonelli at 402 Points — Mercedes' Historic 2026 Season in Review",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "**Window:** 8:00 PM ET\n**Character count:** 240\n\nKimi Antonelli. 402 championship points. 9 wins. 98-point lead.\n\nTwo races left and he's already one of the most dominant champions in recent F1 history.\n\nWhat a season. #F1Fanrecap #KimiAntonelli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#KimiAntonelli"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "**Window:** 8:00 PM ET\n\nWith two races still to run, it is worth pausing to consider what Kimi Antonelli has achieved in 2026. The 20-year-old holds 402 championship points, a 98-point lead, and nine race wins. Mercedes have secured both the Drivers' and Constructors' titles. By almost any measure, it has been a dominant season.\n\nThat does not mean it has been without challenge. The Las Vegas Grand Prix — Antonelli's most recent race — reminded everyone that the champion is still learning. A misjudgment in energy deployment cost him second place on the final lap, with Norris capitalizing to claim P2. Antonelli finished fourth. He was gracious about it afterward, acknowledging the mistake and treating it as a data point rather than a catastrophe.\n\nToto Wolff, for his part, has been characteristically optimistic about what comes next. A driver who can build a season like 2026 at age 20, Wolff has suggested, is only going to get better.\n\nThere are still points to score and records to extend. The final two races in Qatar and Abu Dhabi give Antonelli the chance to close 2026 on his terms — and to give rivals a preview of what 2027 might look like.",
+        "image_caption": "402 points. 9 wins. The 2026 season has been Kimi Antonelli's from start to almost-finish.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-antonelli-402-points-mercedes-2026-season.html",
+        "headline": "Kimi Antonelli: 402 Points, 9 Wins and the Beginning of What Could Be an F1 Dynasty",
+        "word_count": 618
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [
+            "ANTONELLI: 402 PTS / 9 WINS / 2026 CHAMPION"
+          ],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli at 402 Points — Mercedes' Historic 2026 Season in Review\n**Sources:**\n- https://grandepremio.com/en/f1/f1-2026-standings-after-las-vegas-verstappen-wins-as-hamilton-overtakes-russell-for-third/\n- https://www.si.com/onsi/f1/news/toto-wolff-reveals-prediction-for-kimi-antonelli-after-impressive-las-vegas-display\n- https://aktualita.co/en/sports/f1-2026-verstappen-wins-las-vegas-gp\n**Key Facts (Confidence):**\n- [HIGH] Antonelli clinched the 2026 F1 Drivers' Championship with 402 points (2 races to go)\n- [HIGH] 98-point lead in the championship at time of clinching\n- [HIGH] 9 race wins in 2026 season\n- [HIGH] Mercedes also clinched the 2026 Constructors' Championship\n- [HIGH] Antonelli 20 years old — one of the youngest champions in F1 history\n- [MEDIUM] Toto Wolff has been effusive in praise of Antonelli's future potential post-Las Vegas\n- [MEDIUM] Antonelli's Las Vegas stumble (4th, misjudged energy deployment) shows he is still learning\n- [MEDIUM] 2 races remaining (Qatar + Abu Dhabi) to extend the lead further",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "grandepremio.com",
+          "url": "https://grandepremio.com/en/f1/f1-2026-standings-after-las-vegas-verstappen-wins-as-hamilton-overtakes-russell-for-third/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "si.com",
+          "url": "https://www.si.com/onsi/f1/news/toto-wolff-reveals-prediction-for-kimi-antonelli-after-impressive-las-vegas-display",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "aktualita.co",
+          "url": "https://aktualita.co/en/sports/f1-2026-verstappen-wins-las-vegas-gp",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
