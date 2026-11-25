@@ -1,9 +1,30 @@
 # Golf Fanrecap — Pipeline Status
 
-## Last Run: 2026-11-24
+## Last Run: 2026-11-25
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** Golf Fanrecap
+
+---
+
+### 2026-11-25 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles, image manifest)
+- Step 10: verify-facts.py — run by fork agent (06-fact-check-log.md generated)
+- Step 10b: compile-content-data.py — 5 stories, 6 tweets, 0 FB posts (known parsing), 5 articles; compiled at 11:32 UTC
+- Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (21 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy; content-dashboards not in session scope)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via git remote with PAT
+
+**Stories covered:**
+1. T1 NEW: Cameron Smith PGA Tour return goal confirmed; BMW Australian PGA begins Thursday at The Lakes (Ryan Calloway)
+2. T1 FOLLOW UP: DP World Tour invites 3 former LIV players to Australian PGA; DeChambeau leads 10-player 2027 wave (Jake Torres)
+3. T2 NEW: Adam Scott eyes 3rd BMW Australian PGA title; also entered Australian Open Dec 3-6 (Marcus Cole)
+4. T2 NEW: Australian Open Dec 3-6 at Kingston Heath — McIlroy confirms, elevated co-sanctioned event (Ryan Calloway)
+5. T3 FOLLOW UP: DeChambeau leads LIV exodus back to mainstream golf via DP World Tour 2027 (Jake Torres)
 
 ---
 

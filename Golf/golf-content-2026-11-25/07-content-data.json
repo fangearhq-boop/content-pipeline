@@ -1,0 +1,279 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-25",
+  "compiled_at": "2026-11-25T11:33:17.801588+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1",
+      "type": "Cameron Smith PGA Tour return bid"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2",
+      "type": "LIV players in BMW field"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3",
+      "type": "Adam Scott preview"
+    },
+    {
+      "time": "3:30 PM",
+      "description": "Story 4",
+      "type": "Australian Open McIlroy preview"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 1",
+      "type": "Evening follow-up"
+    },
+    {
+      "time": "8:30 PM",
+      "description": "Story 5",
+      "type": "DeChambeau LIV exodus"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cameron Smith Declares PGA Tour Return His Goal as BMW Australian PGA Begins",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "**Window:** 8:00 AM ET\n**Character count:** 236\n\nCameron Smith says returning to the PGA Tour is \"where I want to be now, without a doubt.\"\n\nHe tees off Thursday at The Lakes on a past-champion exemption. 3-time winner here.\n\nThe mission starts now. #GolfFanrecap #AustralianPGA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#AustralianPGA"
+          ],
+          "char_count": 278
+        },
+        {
+          "label": "Post 1B",
+          "text": "**Window:** 6:00 PM ET\n**Character count:** 221\n\nCameron Smith's routes back to the PGA Tour:\n\nWIN a co-sanctioned PGA/DP World Tour event\nOR finish TOP 10 in DP World Tour's season-long points race.\n\nThe BMW Australian PGA is his opening move. #GolfFanrecap #CamSmith",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#CamSmith"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-cameron-smith-pga-tour-return-bid-australian-pga.html",
+        "headline": "Cameron Smith Declares PGA Tour Return His Goal as BMW Australian PGA Begins",
+        "word_count": 559
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cameron Smith PGA Tour Return Bid — BMW Australian PGA\n\n**Social Image (1080x1350)**\n- **Style:** Dark green background with white bold text overlay\n- **Text overlay:** \"SMITH: 'IT'S WHERE I WANT TO BE' / BMW AUSTRALIAN PGA 2026\"\n- **Subject:** Cameron Smith at The Lakes, ideally addressing media or in practice\n- **Mood:** Determined, returning hero\n\n**Article Hero Image (1200x630)**\n- **Subject:** Cameron Smith — mid-shot, ideally with The Lakes course in background\n- **No text overlay**\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "DP World Tour Gives Former LIV Players Invites to Season Opener — 8 in Field",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "**Window:** 10:30 AM ET\n**Character count:** 212\n\n8 former LIV Golf players are in the BMW Australian PGA field this week.\n\nThe DP World Tour issued special invites to 3 of them — no DP World Tour card required.\n\nThe golf world is coming back together. #GolfFanrecap #DPWorldTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#DPWorldTour"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-liv-players-dp-world-tour-season-opener.html",
+        "headline": "DP World Tour Gives Former LIV Players Invites to Season Opener — 8 in Field at Australian PGA",
+        "word_count": 623
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "DP World Tour Invites Former LIV Players\n\n**Social Image (1080x1350)**\n- **Text overlay:** \"8 FORMER LIV PLAYERS / ONE FIELD / BMW AUSTRALIAN PGA 2026\"\n- **Subject:** DeChambeau or group shot of players on the range\n- **Mood:** New beginning, reconciliation\n\n**Article Hero Image (1200x630)**\n- **Subject:** Bryson DeChambeau — recent tournament action\n- **No text overlay**\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Adam Scott Eyes Historic Australian PGA Trefoil at The Lakes Sydney",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "**Window:** 1:00 PM ET\n**Character count:** 219\n\nAdam Scott. 46 years old. THREE-TIME champion if he wins the BMW Australian PGA.\n\nHe won in 2013 and 2019. Can he complete the trefoil at The Lakes?\n\nGolf's greatest pursuing history at home. #GolfFanrecap #AustralianPGA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#AustralianPGA"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-adam-scott-australian-pga-preview.html",
+        "headline": "Adam Scott Eyes Historic Third BMW Australian PGA Title at The Lakes Sydney",
+        "word_count": 536
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Adam Scott Australian PGA Preview\n\n**Social Image (1080x1350)**\n- **Text overlay:** \"ADAM SCOTT / 3-PEAT ATTEMPT / THE LAKES SYDNEY\"\n- **Subject:** Adam Scott — swing or walking the fairway\n- **Mood:** Veteran in his element\n\n**Article Hero Image (1200x630)**\n- **Subject:** Adam Scott — recent tournament action, ideally Australian setting\n- **No text overlay**\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Australian Open Dec 3-6 at Kingston Heath — McIlroy Headlines Elevated Field",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "**Window:** 3:30 PM ET\n**Character count:** 215\n\nMcIlroy confirmed for the Australian Open (Dec 3-6) at Kingston Heath.\n\nThe PGA Tour elevated it as a co-sanctioned DP World Tour event.\n\nSmith and Scott also expected. Big week in Australian golf. #GolfFanrecap #AustralianOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#AustralianOpen"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-australian-open-mcilroy-kingston-heath.html",
+        "headline": "Australian Open Dec 3-6 at Kingston Heath — McIlroy Headlines Elevated Field",
+        "word_count": 532
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Australian Open — McIlroy Headlines\n\n**Social Image (1080x1350)**\n- **Text overlay:** \"MCILROY CONFIRMS AUSSIE OPEN / DEC 3-6 / KINGSTON HEATH\"\n- **Subject:** Rory McIlroy — tournament action\n- **Mood:** Anticipation, elevated event\n\n**Article Hero Image (1200x630)**\n- **Subject:** Rory McIlroy — recent action\n- **No text overlay**\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "DeChambeau and the LIV Exodus — 10+ Former Players Reset at DP World Tour 2027",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "**Window:** 8:30 PM ET\n**Character count:** 228\n\nDeChambeau leads 10+ former LIV players returning via the DP World Tour in 2027.\n\nAlso: Rahm, Johnson, Watson, Reed, Oosthuizen.\n\nPGA Tour ban remains — CEO Rolapp says a policy update may come in 2027. #GolfFanrecap #LIVGolf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#LIVGolf"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-dechambeau-liv-exodus-dp-world-tour.html",
+        "headline": "DeChambeau and the LIV Exodus — 10+ Former Players Reset at DP World Tour 2027",
+        "word_count": 650
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "DeChambeau and the LIV Exodus\n\n**Social Image (1080x1350)**\n- **Text overlay:** \"10+ LIV PLAYERS / RETURNING TO MAINSTREAM GOLF / DP WORLD TOUR 2027\"\n- **Subject:** DeChambeau in tournament action\n- **Mood:** New chapter, forward-looking\n\n**Article Hero Image (1200x630)**\n- **Subject:** Bryson DeChambeau — recent action\n- **No text overlay**"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

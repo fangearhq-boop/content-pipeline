@@ -2,6 +2,45 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-11-25
+
+### STORY 1: Cameron Smith Declares PGA Tour Return His Goal as BMW Australian PGA Begins
+- **Tier:** 1
+- **Category:** Cameron Smith / BMW Australian PGA Championship / PGA Tour / LIV Golf
+- **Key facts:** Smith confirmed PGA Tour return is his goal in Nov 24-25 interviews; playing under past-champion exemption (2017, 2018, 2022 winner); tees off Thursday at The Lakes with Højgaard and Conners; routes back include winning co-sanctioned event or DP World Tour top-10 season points
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: DP World Tour Gives Former LIV Players Invites to Season Opener — 8 in Field
+- **Tier:** 1
+- **Category:** DP World Tour / LIV Golf / BMW Australian PGA / DeChambeau / Rahm
+- **Key facts:** 3 former LIV players given special invites despite lacking DP World Tour cards; 8 former LIV players total in field; DeChambeau leads 10-player wave joining DP World Tour as full members in 2027; Johnson, Rahm, Watson, Reed, Oosthuizen also confirmed as 2027 members
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+
+### STORY 3: Adam Scott Eyes Historic Australian PGA Trefoil at The Lakes Sydney
+- **Tier:** 2
+- **Category:** Adam Scott / BMW Australian PGA Championship / The Lakes Sydney
+- **Key facts:** Scott (46) seeking third BMW Australian PGA title (won 2013, 2019); finished T9 last year at this event; strong 2026 form (T9 The Open, T12 FedEx St. Jude); also entered Australian Open (Dec 3-6, Kingston Heath)
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 4: Australian Open Dec 3-6 at Kingston Heath — McIlroy Headlines Elevated Field
+- **Tier:** 2
+- **Category:** Australian Open / Rory McIlroy / Kingston Heath / Cameron Smith / Adam Scott
+- **Key facts:** McIlroy confirmed for Australian Open at Kingston Heath (Dec 3-6); PGA Tour elevated event as co-sanctioned DP World Tour event (June 2026); Smith and Scott expected in field
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: DeChambeau and the LIV Exodus — 10+ Former Players Reset at DP World Tour 2027
+- **Tier:** 3
+- **Category:** Bryson DeChambeau / LIV Golf / DP World Tour / Dustin Johnson / Jon Rahm
+- **Key facts:** LIV Golf effectively ceased; DeChambeau leads 10+ wave rejoining mainstream golf via DP World Tour; nine others have special invitational agreements; PGA Tour one-year ban from last LIV appearance still in effect; CEO Rolapp indicated policy update may come early 2027
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+
+---
+
 ## 2026-11-20 Stories
 
 ### STORY 1: RSM Classic R1 — Svensson Leads at -8 After Back-Nine 29
