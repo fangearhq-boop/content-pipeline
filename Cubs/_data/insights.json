@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-24T08:30:00.288486+00:00",
+  "generated_at": "2026-11-25T08:30:00.304341+00:00",
   "account": "cubs",
   "window_days": 21,
-  "tweet_count": 60,
-  "measured_tweet_count": 60,
-  "measured_median_impressions": 2410.0,
-  "measured_mean_impressions": 6229.63,
-  "median_impressions": 2410.0,
-  "mean_impressions": 6229.63,
+  "tweet_count": 57,
+  "measured_tweet_count": 57,
+  "measured_median_impressions": 2663,
+  "measured_mean_impressions": 6630.35,
+  "median_impressions": 2663,
+  "mean_impressions": 6630.35,
   "max_impressions": 51650,
   "significant_findings": [
     {
@@ -15,25 +15,12 @@
       "kind": "category_vs_rest",
       "winner": "recap_longform",
       "loser": "not_recap_longform",
-      "median_impressions_winner": 11726.0,
-      "median_impressions_loser": 1281.0,
+      "median_impressions_winner": 11487.5,
+      "median_impressions_loser": 1488,
       "n_winner": 20,
-      "n_loser": 40,
+      "n_loser": 37,
       "p_value": 0.0,
-      "effect_size_cliffs_delta": 0.948,
-      "effect_size_label": "large"
-    },
-    {
-      "dimension": "len_bucket=260+",
-      "kind": "category_vs_rest",
-      "winner": "260+",
-      "loser": "not_260+",
-      "median_impressions_winner": 8092,
-      "median_impressions_loser": 725,
-      "n_winner": 33,
-      "n_loser": 27,
-      "p_value": 0.0,
-      "effect_size_cliffs_delta": 0.818,
+      "effect_size_cliffs_delta": 0.978,
       "effect_size_label": "large"
     },
     {
@@ -42,11 +29,37 @@
       "winner": "evening_18_24",
       "loser": "not_evening_18_24",
       "median_impressions_winner": 9719.0,
-      "median_impressions_loser": 1078.0,
+      "median_impressions_loser": 1414,
       "n_winner": 26,
-      "n_loser": 34,
+      "n_loser": 31,
       "p_value": 0.0,
-      "effect_size_cliffs_delta": 0.792,
+      "effect_size_cliffs_delta": 0.816,
+      "effect_size_label": "large"
+    },
+    {
+      "dimension": "len_bucket=260+",
+      "kind": "category_vs_rest",
+      "winner": "260+",
+      "loser": "not_260+",
+      "median_impressions_winner": 7625,
+      "median_impressions_loser": 774.0,
+      "n_winner": 35,
+      "n_loser": 22,
+      "p_value": 0.0,
+      "effect_size_cliffs_delta": 0.774,
+      "effect_size_label": "large"
+    },
+    {
+      "dimension": "has_score",
+      "kind": "binary",
+      "winner": "True",
+      "loser": "False",
+      "median_impressions_winner": 12552.0,
+      "median_impressions_loser": 2272,
+      "n_winner": 10,
+      "n_loser": 47,
+      "p_value": 0.0007,
+      "effect_size_cliffs_delta": 0.689,
       "effect_size_label": "large"
     },
     {
@@ -55,50 +68,37 @@
       "winner": "not_<140",
       "loser": "<140",
       "median_impressions_winner": 4259.5,
-      "median_impressions_loser": 670.5,
+      "median_impressions_loser": 741,
+      "n_winner": 48,
+      "n_loser": 9,
+      "p_value": 0.0021,
+      "effect_size_cliffs_delta": 0.653,
+      "effect_size_label": "large"
+    },
+    {
+      "dimension": "opening=allcaps_lead",
+      "kind": "category_vs_rest",
+      "winner": "not_allcaps_lead",
+      "loser": "allcaps_lead",
+      "median_impressions_winner": 4305,
+      "median_impressions_loser": 937.0,
+      "n_winner": 47,
+      "n_loser": 10,
+      "p_value": 0.002,
+      "effect_size_cliffs_delta": 0.63,
+      "effect_size_label": "large"
+    },
+    {
+      "dimension": "len_bucket=140-200",
+      "kind": "category_vs_rest",
+      "winner": "not_140-200",
+      "loser": "140-200",
+      "median_impressions_winner": 4096.5,
+      "median_impressions_loser": 725,
       "n_winner": 46,
-      "n_loser": 14,
-      "p_value": 0.0001,
-      "effect_size_cliffs_delta": 0.702,
-      "effect_size_label": "large"
-    },
-    {
-      "dimension": "has_score",
-      "kind": "binary",
-      "winner": "True",
-      "loser": "False",
-      "median_impressions_winner": 12086.5,
-      "median_impressions_loser": 1912.0,
-      "n_winner": 10,
-      "n_loser": 50,
-      "p_value": 0.0005,
-      "effect_size_cliffs_delta": 0.7,
-      "effect_size_label": "large"
-    },
-    {
-      "dimension": "content_type=transaction",
-      "kind": "category_vs_rest",
-      "winner": "not_transaction",
-      "loser": "transaction",
-      "median_impressions_winner": 3430.5,
-      "median_impressions_loser": 693.5,
-      "n_winner": 52,
-      "n_loser": 8,
-      "p_value": 0.0021,
-      "effect_size_cliffs_delta": 0.683,
-      "effect_size_label": "large"
-    },
-    {
-      "dimension": "hashtag_count=3",
-      "kind": "category_vs_rest",
-      "winner": "not_3",
-      "loser": "3",
-      "median_impressions_winner": 3430.5,
-      "median_impressions_loser": 693.5,
-      "n_winner": 52,
-      "n_loser": 8,
-      "p_value": 0.0021,
-      "effect_size_cliffs_delta": 0.683,
+      "n_loser": 11,
+      "p_value": 0.0022,
+      "effect_size_cliffs_delta": 0.601,
       "effect_size_label": "large"
     },
     {
@@ -106,12 +106,12 @@
       "kind": "time_window_vs_rest",
       "winner": "not_morning_06_12",
       "loser": "morning_06_12",
-      "median_impressions_winner": 3435,
-      "median_impressions_loser": 661,
+      "median_impressions_winner": 3979,
+      "median_impressions_loser": 918.5,
       "n_winner": 49,
-      "n_loser": 11,
-      "p_value": 0.0005,
-      "effect_size_cliffs_delta": 0.681,
+      "n_loser": 8,
+      "p_value": 0.0091,
+      "effect_size_cliffs_delta": 0.582,
       "effect_size_label": "large"
     },
     {
@@ -119,12 +119,25 @@
       "kind": "binary",
       "winner": "True",
       "loser": "False",
-      "median_impressions_winner": 8804.5,
-      "median_impressions_loser": 1374.0,
-      "n_winner": 22,
-      "n_loser": 38,
-      "p_value": 0.0001,
-      "effect_size_cliffs_delta": 0.632,
+      "median_impressions_winner": 8712,
+      "median_impressions_loser": 1858.0,
+      "n_winner": 23,
+      "n_loser": 34,
+      "p_value": 0.0003,
+      "effect_size_cliffs_delta": 0.575,
+      "effect_size_label": "large"
+    },
+    {
+      "dimension": "opening=statement",
+      "kind": "category_vs_rest",
+      "winner": "statement",
+      "loser": "not_statement",
+      "median_impressions_winner": 4259.5,
+      "median_impressions_loser": 1227,
+      "n_winner": 44,
+      "n_loser": 13,
+      "p_value": 0.0067,
+      "effect_size_cliffs_delta": 0.5,
       "effect_size_label": "large"
     },
     {
@@ -133,64 +146,51 @@
       "winner": "1",
       "loser": "not_1",
       "median_impressions_winner": 4214,
-      "median_impressions_loser": 807,
-      "n_winner": 45,
-      "n_loser": 15,
-      "p_value": 0.001,
-      "effect_size_cliffs_delta": 0.573,
-      "effect_size_label": "large"
-    },
-    {
-      "dimension": "opening=allcaps_lead",
-      "kind": "category_vs_rest",
-      "winner": "not_allcaps_lead",
-      "loser": "allcaps_lead",
-      "median_impressions_winner": 3655.5,
-      "median_impressions_loser": 937.0,
-      "n_winner": 50,
+      "median_impressions_loser": 1292.0,
+      "n_winner": 47,
       "n_loser": 10,
-      "p_value": 0.005,
-      "effect_size_cliffs_delta": 0.568,
-      "effect_size_label": "large"
-    },
-    {
-      "dimension": "opening=statement",
-      "kind": "category_vs_rest",
-      "winner": "statement",
-      "loser": "not_statement",
-      "median_impressions_winner": 3876,
-      "median_impressions_loser": 1227,
-      "n_winner": 49,
-      "n_loser": 11,
-      "p_value": 0.005,
-      "effect_size_cliffs_delta": 0.547,
-      "effect_size_label": "large"
-    },
-    {
-      "dimension": "len_bucket=140-200",
-      "kind": "category_vs_rest",
-      "winner": "not_140-200",
-      "loser": "140-200",
-      "median_impressions_winner": 2663,
-      "median_impressions_loser": 725,
-      "n_winner": 49,
-      "n_loser": 11,
-      "p_value": 0.0079,
-      "effect_size_cliffs_delta": 0.518,
-      "effect_size_label": "large"
+      "p_value": 0.0216,
+      "effect_size_cliffs_delta": 0.468,
+      "effect_size_label": "medium"
     },
     {
       "dimension": "posting_window=midday_12_18",
       "kind": "time_window_vs_rest",
       "winner": "not_midday_12_18",
       "loser": "midday_12_18",
-      "median_impressions_winner": 4708.5,
+      "median_impressions_winner": 5332,
       "median_impressions_loser": 1912.0,
-      "n_winner": 40,
+      "n_winner": 37,
       "n_loser": 20,
-      "p_value": 0.0423,
-      "effect_size_cliffs_delta": 0.325,
-      "effect_size_label": "small"
+      "p_value": 0.0041,
+      "effect_size_cliffs_delta": 0.465,
+      "effect_size_label": "medium"
+    },
+    {
+      "dimension": "has_allcaps",
+      "kind": "binary",
+      "winner": "True",
+      "loser": "False",
+      "median_impressions_winner": 4708.5,
+      "median_impressions_loser": 1864,
+      "n_winner": 40,
+      "n_loser": 17,
+      "p_value": 0.0173,
+      "effect_size_cliffs_delta": 0.403,
+      "effect_size_label": "medium"
+    },
+    {
+      "dimension": "content_type=brief",
+      "kind": "category_vs_rest",
+      "winner": "not_brief",
+      "loser": "brief",
+      "median_impressions_winner": 7625,
+      "median_impressions_loser": 2268.5,
+      "n_winner": 33,
+      "n_loser": 24,
+      "p_value": 0.0274,
+      "effect_size_cliffs_delta": 0.346,
+      "effect_size_label": "medium"
     }
   ],
   "significant_findings_note": null,
@@ -198,47 +198,47 @@
     "window_days": 90,
     "sample": "brief posts with a complete impressions snapshot",
     "signals": "reach (impressions, all measured briefs) and engagement rate (engagements / impressions, briefs with above-median reach only), each hour vs the rest of the day, Mann-Whitney + Cliff's delta, Holm-corrected across all hour x signal contrasts",
-    "brief_count": 350,
+    "brief_count": 345,
     "instruction": "When assigning posting_time, prefer recommended_hours and never use avoid_hours, but keep the day's usual shape: the same number of posts, spread across the day, at least 20 minutes apart, no more than 2 posts in any one hour, and within the caps of 5 posts 6AM-noon, 4 posts noon-6PM, 3 posts 6PM-midnight CT. Hours without a verdict are neutral. If recommended_hours is empty, keep the current schedule.",
     "hours": [
       {
         "hour_ct": 7,
-        "n": 60,
-        "median_impressions": 70.0,
-        "engagement_n": 27,
-        "median_engagement_rate": 0.0032,
+        "n": 59,
+        "median_impressions": 70,
+        "engagement_n": 26,
+        "median_engagement_rate": 0.003,
         "reach_verdict": null,
-        "reach_p_value": 0.2509416836198255,
-        "reach_effect_size": -0.09419540229885058,
+        "reach_p_value": 0.21544433818068276,
+        "reach_effect_size": -0.1024653312788906,
         "engagement_verdict": null,
-        "engagement_p_value": 0.7750519117549421,
-        "engagement_effect_size": -0.033603139563404466
+        "engagement_p_value": 0.7690758152813886,
+        "engagement_effect_size": -0.035105833763551884
       },
       {
         "hour_ct": 8,
-        "n": 41,
-        "median_impressions": 88,
-        "engagement_n": 24,
-        "median_engagement_rate": 0.0067,
+        "n": 40,
+        "median_impressions": 85.5,
+        "engagement_n": 23,
+        "median_engagement_rate": 0.0037,
         "reach_verdict": null,
-        "reach_p_value": 0.2844898723735023,
-        "reach_effect_size": 0.10292840792485594,
+        "reach_p_value": 0.3870449304486394,
+        "reach_effect_size": 0.08418032786885246,
         "engagement_verdict": null,
-        "engagement_p_value": 0.3415114825549441,
-        "engagement_effect_size": 0.11688311688311688
+        "engagement_p_value": 0.53199437061878,
+        "engagement_effect_size": 0.07837528604118993
       },
       {
         "hour_ct": 9,
-        "n": 53,
-        "median_impressions": 61,
+        "n": 52,
+        "median_impressions": 61.0,
         "engagement_n": 18,
         "median_engagement_rate": 0.0072,
         "reach_verdict": null,
-        "reach_p_value": 0.008896388671800093,
-        "reach_effect_size": -0.2255892255892256,
+        "reach_p_value": 0.009770286169300313,
+        "reach_effect_size": -0.22486216854817537,
         "engagement_verdict": null,
-        "engagement_p_value": 0.8278122513571595,
-        "engagement_effect_size": 0.030555555555555555
+        "engagement_p_value": 0.8128146707881374,
+        "engagement_effect_size": 0.03326256192498231
       },
       {
         "hour_ct": 10,
@@ -247,8 +247,8 @@
         "engagement_n": 7,
         "median_engagement_rate": 0.0072,
         "reach_verdict": null,
-        "reach_p_value": 0.013138751583132269,
-        "reach_effect_size": -0.2826086956521739,
+        "reach_p_value": 0.013698303641526577,
+        "reach_effect_size": -0.28109508787742227,
         "engagement_verdict": null,
         "engagement_p_value": null,
         "engagement_effect_size": null
@@ -268,29 +268,29 @@
       },
       {
         "hour_ct": 12,
-        "n": 59,
-        "median_impressions": 92,
+        "n": 58,
+        "median_impressions": 93.5,
         "engagement_n": 35,
         "median_engagement_rate": 0.0,
         "reach_verdict": null,
-        "reach_p_value": 0.4721408777185405,
-        "reach_effect_size": 0.05940940066398742,
+        "reach_p_value": 0.33023349110265543,
+        "reach_effect_size": 0.08110056470022828,
         "engagement_verdict": null,
-        "engagement_p_value": 0.10491051767379034,
-        "engagement_effect_size": -0.17102897102897102
+        "engagement_p_value": 0.10850729319942776,
+        "engagement_effect_size": -0.16959183673469388
       },
       {
         "hour_ct": 13,
-        "n": 14,
-        "median_impressions": 120.0,
-        "engagement_n": 10,
-        "median_engagement_rate": 0.0085,
+        "n": 13,
+        "median_impressions": 114,
+        "engagement_n": 9,
+        "median_engagement_rate": 0.0088,
         "reach_verdict": null,
-        "reach_p_value": 0.06961255753650564,
-        "reach_effect_size": 0.28635204081632654,
+        "reach_p_value": 0.09357721337316116,
+        "reach_effect_size": 0.2743280815569972,
         "engagement_verdict": null,
-        "engagement_p_value": 0.4131583576326818,
-        "engagement_effect_size": 0.1494047619047619
+        "engagement_p_value": 0.21900991421166438,
+        "engagement_effect_size": 0.23560910307898258
       },
       {
         "hour_ct": 14,
@@ -299,11 +299,11 @@
         "engagement_n": 24,
         "median_engagement_rate": 0.0077,
         "reach_verdict": null,
-        "reach_p_value": 0.020813077323007967,
-        "reach_effect_size": 0.2381859410430839,
+        "reach_p_value": 0.01972691334256682,
+        "reach_effect_size": 0.24046082949308756,
         "engagement_verdict": null,
-        "engagement_p_value": 0.8807088858718899,
-        "engagement_effect_size": 0.018668831168831168
+        "engagement_p_value": 0.8731643967940559,
+        "engagement_effect_size": 0.019867549668874173
       },
       {
         "hour_ct": 15,
@@ -312,11 +312,11 @@
         "engagement_n": 11,
         "median_engagement_rate": 0.0076,
         "reach_verdict": null,
-        "reach_p_value": 0.19946884106721674,
-        "reach_effect_size": -0.14872147689485152,
+        "reach_p_value": 0.20470651202012302,
+        "reach_effect_size": -0.14709993011879804,
         "engagement_verdict": null,
-        "engagement_p_value": 0.9650435510231774,
-        "engagement_effect_size": 0.008165487207403375
+        "engagement_p_value": 0.9618735754938874,
+        "engagement_effect_size": 0.008869179600886918
       },
       {
         "hour_ct": 16,
@@ -338,18 +338,18 @@
         "engagement_n": 12,
         "median_engagement_rate": 0.0074,
         "reach_verdict": null,
-        "reach_p_value": 0.8612077283248172,
-        "reach_effect_size": 0.021938571998404467,
+        "reach_p_value": 0.8362649425759792,
+        "reach_effect_size": 0.02592492573588982,
         "engagement_verdict": null,
-        "engagement_p_value": 0.9760181444819123,
-        "engagement_effect_size": 0.005522088353413655
+        "engagement_p_value": 0.9707033703439281,
+        "engagement_effect_size": 0.0066462167689161555
       },
       {
         "hour_ct": 18,
         "n": 2,
-        "median_impressions": 4690.5,
+        "median_impressions": 4837.0,
         "engagement_n": 2,
-        "median_engagement_rate": 0.0084,
+        "median_engagement_rate": 0.0083,
         "reach_verdict": null,
         "reach_p_value": null,
         "reach_effect_size": null,
@@ -373,9 +373,9 @@
       {
         "hour_ct": 21,
         "n": 2,
-        "median_impressions": 886.0,
+        "median_impressions": 1425.5,
         "engagement_n": 2,
-        "median_engagement_rate": 0.0019,
+        "median_engagement_rate": 0.0023,
         "reach_verdict": null,
         "reach_p_value": null,
         "reach_effect_size": null,
@@ -387,7 +387,7 @@
     "recommended_hours": [],
     "avoid_hours": [],
     "note": "No hour cleared the Holm-corrected significance gates against the rest of the day; keep the current schedule.",
-    "overall_median_impressions": 81.0
+    "overall_median_impressions": 81
   },
   "methodology": {
     "test": "Mann-Whitney U (two-sided, tie-corrected, normal approximation with continuity correction)",
@@ -401,40 +401,40 @@
   },
   "raw_buckets": {
     "by_hour_ct": {
-      "21": {
-        "n": 6,
-        "mean": 9917.83,
-        "median": 8044.0,
-        "top": {
-          "impressions": 21159,
-          "text": "In case you missed Cubs news today:\n\n> \ud83c\udfaf Ken Rosenthal expects the Cubs to sign or trade for two starting pitchers this winter: \"I'm not sure the internal options are sufficient\"\n   - Shota Imanaga, Kevin Gausman, Clay Holmes, David Peterso"
-        }
-      },
       "20": {
-        "n": 17,
-        "mean": 11354.53,
-        "median": 10541,
+        "n": 18,
+        "mean": 11508.78,
+        "median": 10581.5,
         "top": {
           "impressions": 27771,
           "text": "In case you missed Cubs news today:\n\n> \ud83d\udeab The Cubs won't be in the Tarik Skubal bidding war\n   - They're expected to be very active on the rotation, just not at the top of the market\n   - Michael King and Adrian Morejon could also end up pri"
         }
       },
       "11": {
-        "n": 6,
-        "mean": 684.33,
-        "median": 616.0,
+        "n": 3,
+        "mean": 1229.67,
+        "median": 1096,
         "top": {
-          "impressions": 1413,
-          "text": "Porter Hodge is back. RHP activated from the 60-day IL.\n\nBullpen gets reinforcements.\n\n#Cubs #GoCubs #MLB"
+          "impressions": 1852,
+          "text": "Where the Cubs rotation stands after the Rogers deal:\n\n\u26be STARTING OPTIONS FOR 2027\n\u25b8 Trevor Rogers (pending a physical)\n\u25b8 Javier Assad\n\u25b8 Edward Cabrera\n\u25b8 Justin Steele\n\u25b8 Braxton Garrett\n\n\ud83e\ude79 WORKING BACK\n\u25b8 Ben Brown: neck surgery Nov. 9, targ"
         }
       },
       "10": {
         "n": 3,
-        "mean": 699.33,
-        "median": 726,
+        "mean": 811.33,
+        "median": 729,
         "top": {
-          "impressions": 1081,
+          "impressions": 1414,
           "text": "Tarik Skubal: 9 years, $450 million. Mets. Done. \ud83e\udd2f\n\nThe Cubs were never in. Javier Assad is their only confirmed starter, the clock expires December 1, and Taira, Itoh, and Rogers are all still out there. Jed Hoyer has 8 days to move.\n\nThis"
+        }
+      },
+      "21": {
+        "n": 5,
+        "mean": 9842.6,
+        "median": 4715,
+        "top": {
+          "impressions": 21159,
+          "text": "In case you missed Cubs news today:\n\n> \ud83c\udfaf Ken Rosenthal expects the Cubs to sign or trade for two starting pitchers this winter: \"I'm not sure the internal options are sufficient\"\n   - Shota Imanaga, Kevin Gausman, Clay Holmes, David Peterso"
         }
       },
       "13": {
@@ -448,16 +448,16 @@
       },
       "18": {
         "n": 2,
-        "mean": 4690.5,
-        "median": 4690.5,
+        "mean": 4837,
+        "median": 4837.0,
         "top": {
-          "impressions": 6833,
+          "impressions": 7126,
           "text": "The Cubs' entire starting rotation is gone.\n\nImanaga. Gausman. Peterson. Boyd. Holmes \u2014 all free agents. Horton won't pitch until mid-2027. Ben Brown had spine surgery. Javier Assad is the only arm on the roster.\n\nJed Hoyer has 10 days. The"
         }
       },
       "12": {
         "n": 7,
-        "mean": 2116.71,
+        "mean": 2131.43,
         "median": 1864,
         "top": {
           "impressions": 4305,
@@ -529,10 +529,19 @@
       }
     },
     "by_weekday_ct": {
+      "Tue": {
+        "n": 7,
+        "mean": 3784.14,
+        "median": 1852,
+        "top": {
+          "impressions": 12094,
+          "text": "In case you missed Cubs news today:\n\n> \ud83c\udfe5 Ben Brown had neck surgery\n   - Cervical spine surgery Monday in New York\n   - He's expected to start throwing early in the new year and be game-ready in the first half of 2027\n   - 1.85 ERA over 68 "
+        }
+      },
       "Mon": {
         "n": 8,
-        "mean": 5908,
-        "median": 1846.5,
+        "mean": 7216.88,
+        "median": 2343.0,
         "top": {
           "impressions": 27771,
           "text": "In case you missed Cubs news today:\n\n> \ud83d\udeab The Cubs won't be in the Tarik Skubal bidding war\n   - They're expected to be very active on the rotation, just not at the top of the market\n   - Michael King and Adrian Morejon could also end up pri"
@@ -549,8 +558,8 @@
       },
       "Sat": {
         "n": 8,
-        "mean": 6857,
-        "median": 5354.5,
+        "mean": 7022.88,
+        "median": 5552.5,
         "top": {
           "impressions": 20488,
           "text": "In case you missed Cubs news today:\n\n> \ud83d\udc8e Pete Crow-Armstrong wins the NL Platinum Glove\n   - Named the best defender in the National League at any position, his first Platinum Glove\n   - First Cub to win it since Anthony Rizzo in 2016, and "
@@ -582,58 +591,49 @@
           "impressions": 25206,
           "text": "In case you missed Cubs news today:\n\n> \u2708\ufe0f The Padres reportedly hosted Seiya Suzuki for a visit Monday and could be the favorites to sign him\n   - Signing Suzuki could let San Diego move Fernando Tatis Jr. back to the infield full-time\n   -"
         }
-      },
-      "Tue": {
-        "n": 10,
-        "mean": 3413.5,
-        "median": 947.0,
-        "top": {
-          "impressions": 12094,
-          "text": "In case you missed Cubs news today:\n\n> \ud83c\udfe5 Ben Brown had neck surgery\n   - Cervical spine surgery Monday in New York\n   - He's expected to start throwing early in the new year and be game-ready in the first half of 2027\n   - 1.85 ERA over 68 "
-        }
       }
     },
     "by_content_type": {
-      "brief": {
-        "n": 24,
-        "mean": 2574.92,
-        "median": 2112.5,
-        "top": {
-          "impressions": 8092,
-          "text": "Michael King has narrowed his free-agent search, and the Cubs reportedly aren't on the short list.\n\nKing went 12-10 with a 3.21 ERA and 185 innings in 2026. With projections at $75-90M over 3-4 years, Chicago needs to pivot fast \u2014 and the l"
-        }
-      },
       "recap_longform": {
         "n": 20,
-        "mean": 14932.8,
-        "median": 11726.0,
+        "mean": 15070.7,
+        "median": 11487.5,
         "top": {
           "impressions": 51650,
           "text": "In case you missed Cubs news today:\n\n> \ud83d\udeab Don't hold your breath on a Bryce Harper or Ronald Acu\u00f1a Jr. blockbuster\n   - Cubs insiders don't expect Chicago to land either star\n   - The likelier path: shorter deals for veteran bats to help rep"
         }
       },
+      "approved_post": {
+        "n": 7,
+        "mean": 645.57,
+        "median": 433,
+        "top": {
+          "impressions": 1852,
+          "text": "Where the Cubs rotation stands after the Rogers deal:\n\n\u26be STARTING OPTIONS FOR 2027\n\u25b8 Trevor Rogers (pending a physical)\n\u25b8 Javier Assad\n\u25b8 Edward Cabrera\n\u25b8 Justin Steele\n\u25b8 Braxton Garrett\n\n\ud83e\ude79 WORKING BACK\n\u25b8 Ben Brown: neck surgery Nov. 9, targ"
+        }
+      },
       "x_article": {
-        "n": 3,
-        "mean": 1795,
-        "median": 2197,
+        "n": 4,
+        "mean": 1662.75,
+        "median": 1646.5,
         "top": {
           "impressions": 2617,
           "text": "Shota Imanagas Likely Cubs Exit Comes With One Painful Possibility"
         }
       },
-      "approved_post": {
-        "n": 5,
-        "mean": 387.6,
-        "median": 294,
+      "brief": {
+        "n": 24,
+        "mean": 2650.25,
+        "median": 2268.5,
         "top": {
-          "impressions": 680,
-          "text": "Nov. 4, 2016. The parade. 108 years in the making. #Cubs"
+          "impressions": 8092,
+          "text": "Michael King has narrowed his free-agent search, and the Cubs reportedly aren't on the short list.\n\nKing went 12-10 with a 3.21 ERA and 185 innings in 2026. With projections at $75-90M over 3-4 years, Chicago needs to pivot fast \u2014 and the l"
         }
       },
       "transaction": {
-        "n": 8,
-        "mean": 750.12,
-        "median": 693.5,
+        "n": 2,
+        "mean": 870,
+        "median": 870.0,
         "top": {
           "impressions": 1488,
           "text": "Ben Brown's back. RHP activated off the 60-day IL and ready to bolster the rotation depth.\n\n#Cubs #GoCubs #MLB"
@@ -641,48 +641,48 @@
       }
     },
     "by_opening": {
+      "emoji_lead": {
+        "n": 3,
+        "mean": 5220.67,
+        "median": 4311,
+        "top": {
+          "impressions": 10622,
+          "text": "\ud83d\udea8 The Cubs have reportedly had extensive talks with Freddy Peralta. Here's the full day \ud83d\udc47\n\n\u26be ROTATION HUNT\n\u25b8 The Cubs have reportedly had extensive talks with free agent RHP Freddy Peralta\n\u25b8 They also reportedly have strong interest in Japa"
+        }
+      },
+      "statement": {
+        "n": 44,
+        "mean": 7942.48,
+        "median": 4259.5,
+        "top": {
+          "impressions": 51650,
+          "text": "In case you missed Cubs news today:\n\n> \ud83d\udeab Don't hold your breath on a Bryce Harper or Ronald Acu\u00f1a Jr. blockbuster\n   - Cubs insiders don't expect Chicago to land either star\n   - The likelier path: shorter deals for veteran bats to help rep"
+        }
+      },
       "allcaps_lead": {
         "n": 10,
-        "mean": 1172,
+        "mean": 1279.9,
         "median": 937.0,
         "top": {
           "impressions": 2663,
           "text": "The MLB CBA expires December 1. The Cubs have zero confirmed starting pitchers.\n\nThat's 16 days to avoid a potential lockout that freezes every transaction in baseball. No other contender is this exposed.\n\n#Cubs"
         }
-      },
-      "emoji_lead": {
-        "n": 1,
-        "mean": 1733,
-        "median": 1733,
-        "top": {
-          "impressions": 1733,
-          "text": "\ud83d\udea8 The Cubs have reportedly had extensive talks with Freddy Peralta. Here's the full day \ud83d\udc47\n\n\u26be ROTATION HUNT\n\u25b8 The Cubs have reportedly had extensive talks with free agent RHP Freddy Peralta\n\u25b8 They also reportedly have strong interest in Japa"
-        }
-      },
-      "statement": {
-        "n": 49,
-        "mean": 7353.57,
-        "median": 3876,
-        "top": {
-          "impressions": 51650,
-          "text": "In case you missed Cubs news today:\n\n> \ud83d\udeab Don't hold your breath on a Bryce Harper or Ronald Acu\u00f1a Jr. blockbuster\n   - Cubs insiders don't expect Chicago to land either star\n   - The likelier path: shorter deals for veteran bats to help rep"
-        }
       }
     },
     "by_len_bucket": {
       "260+": {
-        "n": 33,
-        "mean": 10244.82,
-        "median": 8092,
+        "n": 35,
+        "mean": 9863.6,
+        "median": 7625,
         "top": {
           "impressions": 51650,
           "text": "In case you missed Cubs news today:\n\n> \ud83d\udeab Don't hold your breath on a Bryce Harper or Ronald Acu\u00f1a Jr. blockbuster\n   - Cubs insiders don't expect Chicago to land either star\n   - The likelier path: shorter deals for veteran bats to help rep"
         }
       },
       "<140": {
-        "n": 14,
-        "mean": 929.07,
-        "median": 670.5,
+        "n": 9,
+        "mean": 1112.44,
+        "median": 741,
         "top": {
           "impressions": 2617,
           "text": "Shota Imanagas Likely Cubs Exit Comes With One Painful Possibility"
@@ -709,8 +709,8 @@
     },
     "by_hashtag_count": {
       "1": {
-        "n": 45,
-        "mean": 7849.07,
+        "n": 47,
+        "mean": 7667.13,
         "median": 4214,
         "top": {
           "impressions": 51650,
@@ -718,9 +718,9 @@
         }
       },
       "0": {
-        "n": 3,
-        "mean": 1795,
-        "median": 2197,
+        "n": 4,
+        "mean": 1662.75,
+        "median": 1646.5,
         "top": {
           "impressions": 2617,
           "text": "Shota Imanagas Likely Cubs Exit Comes With One Painful Possibility"
@@ -736,9 +736,9 @@
         }
       },
       "3": {
-        "n": 8,
-        "mean": 750.12,
-        "median": 693.5,
+        "n": 2,
+        "mean": 870,
+        "median": 870.0,
         "top": {
           "impressions": 1488,
           "text": "Ben Brown's back. RHP activated off the 60-day IL and ready to bolster the rotation depth.\n\n#Cubs #GoCubs #MLB"
@@ -747,9 +747,9 @@
     },
     "by_has_score": {
       "False": {
-        "n": 50,
-        "mean": 4066.44,
-        "median": 1912.0,
+        "n": 47,
+        "mean": 4394.53,
+        "median": 2272,
         "top": {
           "impressions": 25206,
           "text": "In case you missed Cubs news today:\n\n> \u2708\ufe0f The Padres reportedly hosted Seiya Suzuki for a visit Monday and could be the favorites to sign him\n   - Signing Suzuki could let San Diego move Fernando Tatis Jr. back to the infield full-time\n   -"
@@ -757,8 +757,8 @@
       },
       "True": {
         "n": 10,
-        "mean": 17045.6,
-        "median": 12086.5,
+        "mean": 17138.7,
+        "median": 12552.0,
         "top": {
           "impressions": 51650,
           "text": "In case you missed Cubs news today:\n\n> \ud83d\udeab Don't hold your breath on a Bryce Harper or Ronald Acu\u00f1a Jr. blockbuster\n   - Cubs insiders don't expect Chicago to land either star\n   - The likelier path: shorter deals for veteran bats to help rep"
@@ -766,61 +766,61 @@
       }
     },
     "by_has_stat": {
+      "True": {
+        "n": 23,
+        "mean": 11193.3,
+        "median": 8712,
+        "top": {
+          "impressions": 51650,
+          "text": "In case you missed Cubs news today:\n\n> \ud83d\udeab Don't hold your breath on a Bryce Harper or Ronald Acu\u00f1a Jr. blockbuster\n   - Cubs insiders don't expect Chicago to land either star\n   - The likelier path: shorter deals for veteran bats to help rep"
+        }
+      },
       "False": {
-        "n": 38,
-        "mean": 3153.13,
-        "median": 1374.0,
+        "n": 34,
+        "mean": 3543.65,
+        "median": 1858.0,
         "top": {
           "impressions": 25206,
           "text": "In case you missed Cubs news today:\n\n> \u2708\ufe0f The Padres reportedly hosted Seiya Suzuki for a visit Monday and could be the favorites to sign him\n   - Signing Suzuki could let San Diego move Fernando Tatis Jr. back to the infield full-time\n   -"
         }
-      },
-      "True": {
-        "n": 22,
-        "mean": 11543.59,
-        "median": 8804.5,
-        "top": {
-          "impressions": 51650,
-          "text": "In case you missed Cubs news today:\n\n> \ud83d\udeab Don't hold your breath on a Bryce Harper or Ronald Acu\u00f1a Jr. blockbuster\n   - Cubs insiders don't expect Chicago to land either star\n   - The likelier path: shorter deals for veteran bats to help rep"
-        }
       }
     },
     "by_has_emoji_first_line": {
+      "True": {
+        "n": 5,
+        "mean": 3501.8,
+        "median": 1414,
+        "top": {
+          "impressions": 10622,
+          "text": "\ud83d\udea8 The Cubs have reportedly had extensive talks with Freddy Peralta. Here's the full day \ud83d\udc47\n\n\u26be ROTATION HUNT\n\u25b8 The Cubs have reportedly had extensive talks with free agent RHP Freddy Peralta\n\u25b8 They also reportedly have strong interest in Japa"
+        }
+      },
       "False": {
-        "n": 57,
-        "mean": 6500.54,
-        "median": 2617,
+        "n": 52,
+        "mean": 6931.17,
+        "median": 3044.5,
         "top": {
           "impressions": 51650,
           "text": "In case you missed Cubs news today:\n\n> \ud83d\udeab Don't hold your breath on a Bryce Harper or Ronald Acu\u00f1a Jr. blockbuster\n   - Cubs insiders don't expect Chicago to land either star\n   - The likelier path: shorter deals for veteran bats to help rep"
-        }
-      },
-      "True": {
-        "n": 3,
-        "mean": 1082.33,
-        "median": 1081,
-        "top": {
-          "impressions": 1733,
-          "text": "\ud83d\udea8 The Cubs have reportedly had extensive talks with Freddy Peralta. Here's the full day \ud83d\udc47\n\n\u26be ROTATION HUNT\n\u25b8 The Cubs have reportedly had extensive talks with free agent RHP Freddy Peralta\n\u25b8 They also reportedly have strong interest in Japa"
         }
       }
     },
     "by_has_allcaps": {
       "True": {
-        "n": 44,
-        "mean": 7684.16,
-        "median": 3824.5,
+        "n": 40,
+        "mean": 8506.5,
+        "median": 4708.5,
         "top": {
           "impressions": 51650,
           "text": "In case you missed Cubs news today:\n\n> \ud83d\udeab Don't hold your breath on a Bryce Harper or Ronald Acu\u00f1a Jr. blockbuster\n   - Cubs insiders don't expect Chicago to land either star\n   - The likelier path: shorter deals for veteran bats to help rep"
         }
       },
       "False": {
-        "n": 16,
-        "mean": 2229.69,
-        "median": 1912.0,
+        "n": 17,
+        "mean": 2215.88,
+        "median": 1864,
         "top": {
-          "impressions": 6833,
+          "impressions": 7126,
           "text": "The Cubs' entire starting rotation is gone.\n\nImanaga. Gausman. Peterson. Boyd. Holmes \u2014 all free agents. Horton won't pitch until mid-2027. Ben Brown had spine surgery. Javier Assad is the only arm on the roster.\n\nJed Hoyer has 10 days. The"
         }
       }
@@ -829,26 +829,26 @@
   "raw_buckets_engagement_above_median": {
     "by_content_type": {
       "recap_longform": {
-        "n": 19,
+        "n": 20,
         "mean_rate": 0.0075,
-        "median_rate": 0.0074
+        "median_rate": 0.0072
       },
       "brief": {
-        "n": 10,
-        "mean_rate": 0.0075,
-        "median_rate": 0.0074
-      },
-      "x_article": {
-        "n": 1,
-        "mean_rate": 0.0027,
-        "median_rate": 0.0027
+        "n": 9,
+        "mean_rate": 0.007,
+        "median_rate": 0.0068
       }
     },
     "by_opening": {
+      "emoji_lead": {
+        "n": 2,
+        "mean_rate": 0.0073,
+        "median_rate": 0.0073
+      },
       "statement": {
-        "n": 29,
+        "n": 26,
         "mean_rate": 0.0074,
-        "median_rate": 0.0074
+        "median_rate": 0.0072
       },
       "allcaps_lead": {
         "n": 1,
@@ -858,7 +858,7 @@
     },
     "by_has_score": {
       "False": {
-        "n": 21,
+        "n": 20,
         "mean_rate": 0.0074,
         "median_rate": 0.0068
       },
@@ -869,15 +869,15 @@
       }
     },
     "by_has_stat": {
-      "False": {
-        "n": 13,
-        "mean_rate": 0.0071,
-        "median_rate": 0.0068
-      },
       "True": {
-        "n": 17,
-        "mean_rate": 0.0076,
-        "median_rate": 0.0074
+        "n": 18,
+        "mean_rate": 0.0075,
+        "median_rate": 0.0072
+      },
+      "False": {
+        "n": 11,
+        "mean_rate": 0.007,
+        "median_rate": 0.0068
       }
     }
   },
@@ -935,6 +935,16 @@
   ],
   "bottom_performers": [
     {
+      "posted_at": "2026-11-04 12:45 CT",
+      "content_type": "approved_post",
+      "impressions": 433,
+      "engagement": 6,
+      "engagement_rate": 0.0139,
+      "opening": "statement",
+      "len": 198,
+      "text": "Two Gold Gloves for the Cubs \ud83e\udde4\n\nPete Crow-Armstrong goes back-to-back in center field. Alex Bregman wins his first as a Cub and joins Ron Santo as the only Cubs third basemen ever to win one.\n\n#Cubs"
+    },
+    {
       "posted_at": "2026-11-07 09:45 CT",
       "content_type": "approved_post",
       "impressions": 294,
@@ -973,16 +983,6 @@
       "opening": "allcaps_lead",
       "len": 170,
       "text": "PCA: 45 HR, 41 SB, .942 OPS, MLB-best 10.6 fWAR and the best fielding run value of any player in baseball. NL MVP is announced Nov. 12. It should be unanimous. #Cubs #MLB"
-    },
-    {
-      "posted_at": "2026-11-03 11:07 CT",
-      "content_type": "transaction",
-      "impressions": 173,
-      "engagement": 0,
-      "engagement_rate": 0.0,
-      "opening": "statement",
-      "len": 128,
-      "text": "Shelby Miller's back. RHP activated from the 60-day IL.\n\nFresh arm in the rotation when we need it most.\n\n#Cubs #GoCubs #FlyTheW"
     }
   ]
 }
