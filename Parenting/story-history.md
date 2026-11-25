@@ -2,6 +2,50 @@
 
 ---
 
+## November 25, 2026
+
+### Story 1: ADHD Classroom Accommodations Study — None of 4 Show Measurable Benefit
+- **Date:** 2026-11-25
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** JAMA Pediatrics Nov 13, 2026; 255 children K-6; 4 accommodations (extended time, frequent breaks, standing desk, low-distraction workspace) — none showed measurable benefit, some reduced productivity; behavioral interventions cut violations 37%; medication cut violations 61% and increased correct completed assignments 22%; summer treatment program caveat; DOI: 10.1001/jamapediatrics.2026.5973
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 2: Cipton Bike Helmet Recall (16,730 units) + Bambora Sling Warning
+- **Date:** 2026-11-25
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** Cipton CPSK300CC recall Nov 19 — 16,730 units, small/white/LED, sold at Dick's Sporting Goods and JCPenney April 2024-May 2026 ~$35, fail safety standards, remedy: cut straps, full refund; Bambora sling CPSC warning Nov 12 — restraint strap separation, fall hazard, sold Bamboraco.com $59-$118, no refund (company didn't cooperate), cut fabric in half/dispose; cpsc.gov/recalls
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 3: Flu Surge — Early Colorado Season, Thanksgiving Travel Warning
+- **Date:** 2026-11-25
+- **Tier:** T2
+- **Pillar:** Local News / National Parenting
+- **Key Facts:** CDPHE early flu surge 2026-27; first pediatric flu death of season in Colorado; El Paso County Public Health investigated COS elementary school flu+COVID outbreak early Nov; AAP: flu shot for 6mo+; Afluria discontinued; trivalent only
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 4: COS Holiday Season Kickoff — December Events Guide
+- **Date:** 2026-11-25
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Electric Safari at CMZ opens Dec 2 through Jan 1 (zoo closes 3 PM starting Nov 26); Festival of Lights Parade Dec 5 5:50 PM Tejon St — free — 36th annual; Christkindlmarket Dec 4-6, 9-13, 16-23 at Bancroft Park 2408 W Colorado Ave, noon-8 PM — free; Manitou Elf Hunt returns this season (dates pending confirmation at manitousprings.org)
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY
+
+### Story 5: Thanksgiving Weekend in COS — Skate, Stroll, Garden of the Gods
+- **Date:** 2026-11-25
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Skate in the Park Acacia Park — $15/person, kids 4 and under free with paid adult, daily, on-site tickets; Garden of the Gods free, 5 AM-9 PM, open Thanksgiving; Old Colorado City Christmas Stroll historically Saturday after Thanksgiving (Nov 28), ~4 PM, free; Miramont Castle Victorian Christmas returning (2025 prices: $17 adult, $15 senior, $12 child 12 and under)
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY (distinct from Nov 24 S1 which covered Turkey Trot/Nutcracker/Garden overview)
+
+---
+
 ## November 24, 2026
 
 ### Story 1: Thanksgiving Week Family Events Guide — Turkey Trot, Nutcracker, and More

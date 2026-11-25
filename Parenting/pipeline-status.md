@@ -1,6 +1,36 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-11-24
+## Current Run: 2026-11-25
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | JAMA Pediatrics ADHD accommodations study (Nov 13, 255 children, 4 accommodations showed no benefit) — HIGH; Cipton bike helmet recall Nov 19 (16,730 units, CPSK300CC, Dick's/JCPenney, full refund) — HIGH; Bambora sling CPSC warning Nov 12 (restraint strap failure, no refund, company did not cooperate) — HIGH; CDPHE early flu surge + first pediatric flu death 2026-27 — HIGH; COS December events (CMZ Electric Safari Dec 2, Festival of Lights Dec 5, Christkindlmarket Dec 4-6/9-13/16-23, Manitou Elf Hunt) — HIGH; Skate in the Park Acacia Park ($15, kids 4 and under free, daily) — HIGH |
+| Story History Check | COMPLETE | S1 NEW (ADHD accommodations — no prior COS Parenting coverage); S2 NEW (Cipton recall + Bambora warning — distinct from Nov 24 Kidsview, Nov 23 SHEIN); S3 NEW (flu surge Thanksgiving timing — no prior coverage); S4 NEW (December holiday kickoff — first December events guide); S5 NEW (Thanksgiving weekend guide — distinct from Nov 24 S1 which covered Turkey Trot/Nutcracker overview) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; cpsc.gov URLs for S2; official source URLs included; hospitalization count (20→122) excluded (could not verify) |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories (2 each for S1+S2, 1 each for S3-S5); all ≤280 chars (4 violations fixed); 4 hashtags each; max 1 exclamation mark |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; contractions; 0 exclamation marks; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only concepts (2 per story); clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 ADHD accommodations (Jamie Rivera T1 ~620w, quick reference table); article-02 Cipton recall + Bambora warning (Sarah Morales T1 ~590w, quick reference table); article-03 flu surge (Jamie Rivera T2 ~570w); article-04 COS holiday kickoff (Sarah Morales T2 ~580w); article-05 Thanksgiving weekend (Jamie Rivera T2 ~590w) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 94 claims; MEDIUM flags on school outbreak/Afluria/OCC Stroll/Miramont (2026 dates unconfirmed for some annual events); image warnings (expected) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles, 5 images; 2 official source URLs; posting window warnings (pre-existing format mismatch) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, gemini base_only |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-11-25.xlsx (7 posts) + cosp-postplanner-tobi-2026-11-25.xlsx (7 TOBI posts); FB=0 in export (pre-existing format mismatch) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 25 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB image captions
+- **Articles:** 5 (bylines: Jamie Rivera [S1,S3,S5], Sarah Morales [S2,S4])
+- **Key stories:** ADHD classroom accommodations study (none of 4 showed benefit, JAMA Pediatrics); Cipton bike helmet recall (16,730 units) + Bambora sling warning (no refund); Colorado early flu surge + Thanksgiving travel warning; COS December events guide (Electric Safari, Festival of Lights, Christkindlmarket); Thanksgiving weekend guide (Skate in the Park, Garden of the Gods, OCC Christmas Stroll, Miramont Castle)
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); PostPlanner FB=0 (pre-existing format mismatch)
+
+---
+
+## Previous Run: 2026-11-24
 
 | Step | Status | Notes |
 |------|--------|-------|

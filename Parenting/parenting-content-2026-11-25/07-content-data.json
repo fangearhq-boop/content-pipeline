@@ -1,0 +1,485 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-25",
+  "compiled_at": "2026-11-25T12:29:26.784331+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "S1 — ADHD Accommodations Study",
+      "type": "X Text Post #1"
+    },
+    {
+      "time": "8:30 AM",
+      "description": "S1 — ADHD Accommodations Study",
+      "type": "X Text Post #2"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "S2 — Cipton Recall + Bambora Warning",
+      "type": "X Text Post #1"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "S2 — Cipton Recall + Bambora Warning",
+      "type": "X Text Post #2"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "S3 — Flu Surge",
+      "type": "X Text Post"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "S1 — ADHD Study",
+      "type": "Facebook Long-Form"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "S2 — Safety Alerts",
+      "type": "Facebook Long-Form"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "S4 — Holiday Kickoff",
+      "type": "X Text Post"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "S3 — Flu Surge",
+      "type": "Facebook Long-Form"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "S5 — Thanksgiving Weekend",
+      "type": "X Text Post"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "S4 — Holiday Kickoff",
+      "type": "Facebook Long-Form"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "S5 — Thanksgiving Weekend",
+      "type": "Facebook Long-Form"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "ADHD Classroom Accommodations Don't Work — What the Research Actually Shows",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "New study: extended time, frequent breaks, standing desks, quiet workspaces — none improved outcomes for kids with ADHD. Behavioral therapy cut violations 37%. Medication cut violations 61%. What parents need to know: #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 277
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Researchers tested 4 common ADHD accommodations with 255 kids. None produced measurable gains — some reduced academic productivity. What worked: behavioral interventions and meds. JAMA Pediatrics, Nov 13. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-adhd-classroom-accommodations.html",
+        "headline": "New Study: Common ADHD Classroom Accommodations Show No Measurable Benefit for Kids",
+        "word_count": 694
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ADHD Classroom Accommodations Study\n\n**Image Concept 1-A** (Article Hero — 1200x675)\n- **Prompt:** A warm, slightly blurred elementary school classroom scene. A child sits at a wooden desk with a notebook and pencil, surrounded by soft sunlight from a large window. The child is focused, calm expression. Other desks visible but not occupied. Soft teal and warm white color palette. Painterly illustration style with clean lines. Bottom third of image is a clean, light background for text overlay.\n- **Mood:** Thoughtful, educational, warm\n- **Status:** not_started\n\n**Image Concept 1-B** (Facebook — 1200x630)\n- **Prompt:** Top-down flat lay of a child's desk: an open notebook with handwritten notes, a pencil, colorful sticky notes, and a small pencil holder. Soft natural light from the left. Teal and coral accent colors on sticky notes. Clean white desk surface. No text visible on the notes — just abstract scribbles. Bottom third is clean white desk surface for text overlay.\n- **Mood:** Organized, school-focused, clean\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ADHD Classroom Accommodations Study\n**Story Type:** NEW STORY — National Parenting pillar\n**Confidence:** HIGH (JAMA Pediatrics peer-reviewed, multi-source)\n**Key Facts:**\n- JAMA Pediatrics study published **November 13, 2026** — HIGH\n- **255 children**, K–6, enrolled in summer treatment program 2022–2025 — HIGH\n- Four accommodations tested: extended time, frequent breaks, standing desk, low-distraction workspace — HIGH\n- **None of the four accommodations** produced measurable improvement in outcomes — HIGH\n- Some accommodations actually **reduced academic productivity** — HIGH\n- Behavioral interventions cut rule violations **37%** — HIGH\n- Stimulant medication cut violations **61%** and increased correct completed assignments **22%** — HIGH\n- Setting caveat: summer treatment program, not a regular classroom — HIGH\n- DOI: **10.1001/jamapediatrics.2026.5973** — HIGH\n**Sources:**\n- News Medical/Net: \"Common classroom accommodations fail to improve outcomes for children with ADHD\" — https://news-medical.net/news/20261113/Common-classroom-accommodations-fail-to-improve-outcomes-for-children-with-ADHD.aspx\n**Freshness verification:** Published November 13, 2026. First COS Parenting coverage.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Common classroom accommodations fail to improve outcomes for children with ADHD",
+          "url": "https://news-medical.net/news/20261113/Common-classroom-accommodations-fail-to-improve-outcomes-for-children-with-ADHD.aspx",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "News Medical/Net"
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Safety Alert: Cipton Bike Helmets Recalled, Bambora Sling Carriers Flagged",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Recall: 16,730 Cipton youth bike helmets (model CPSK300CC) sold at Dick's Sporting Goods and JCPenney. Don't meet safety standards. Stop use, cut straps, email photo for a full refund. Check cpsc.gov. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 260
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Also this week: CPSC warned parents to stop using Bambora sling carriers immediately. Restraint strap can separate — fall hazard for infants. Cut fabric in half and dispose. No refund (company didn't cooperate). #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-cipton-recall-bambora-warning.html",
+        "headline": "Two Safety Alerts for Colorado Springs Parents: Cipton Helmets Recalled, Bambora Slings Flagged",
+        "word_count": 616
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cipton Bike Helmet Recall + Bambora Sling Warning\n\n**Image Concept 2-A** (Article Hero — 1200x675)\n- **Prompt:** A children's bicycle helmet sits on a wooden table or shelf, out of focus in the background. In the foreground, a bright orange or yellow safety caution visual element (not text — could be a warning color band or geometric shape) draws the eye. Warm indoor lighting. Teal and coral color palette. Clean, editorial illustration style. Bottom third is a clean, neutral surface for text overlay.\n- **Mood:** Alert, safety-focused, parental concern\n- **Status:** not_started\n\n**Image Concept 2-B** (Facebook — 1200x630)\n- **Prompt:** A soft, light illustration of a baby sling carrier draped over a wooden chair in a cozy home setting. Natural light from a nearby window. Warm neutrals — beige, cream, soft teal. No baby present — just the carrier alone. Clean bottom third of image is uncluttered neutral background for text overlay.\n- **Mood:** Gentle, home safety, cautionary\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cipton Bike Helmet Recall + Bambora Sling Warning\n**Story Type:** NEW STORY — National Parenting/Recall pillar\n**Confidence:** HIGH (CPSC official)\n**Key Facts — Cipton Recall:**\n- CPSC recall announced **November 19, 2026** — HIGH\n- **~16,730 units** affected — HIGH\n- Model: **CPSK300CC**, small size, white color, built-in LED strip — HIGH\n- Sold at **Dick's Sporting Goods and JCPenney**, April 2024–May 2026 — HIGH\n- Price: approximately **$35** — HIGH\n- Failure: fail impact attenuation, positional stability, and certification requirements — HIGH\n- Remedy: stop using, cut straps, write \"Recalled\" on helmet, email photo for **full refund** — HIGH\n- Risk: Serious head injury\n**Key Facts — Bambora Sling Warning:**\n- CPSC **warning** (not formal recall) issued **November 12, 2026** — HIGH\n- Company did not cooperate with CPSC — HIGH\n- Sold at **Bamboraco.com** for **$59–$118** — HIGH\n- Failure: restraint strap can separate — HIGH\n- Hazard: **fall hazard for infants** — HIGH\n- Remedy: stop use immediately, cut fabric in half, dispose — HIGH\n- **No refund available** — HIGH\n**Sources:**\n- CPSC Cipton recall: https://cpsc.gov/Recalls/2027/Cipton-Recalls-Bicycle-Helmets-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violate-Mandatory-Standard-for-Bicycle-Helmets\n- CPSC Bambora warning: https://www.cpsc.gov/Warnings/2027/CPSC-Warns-Consumers-to-Stop-Using-Bambora-Sling-Carriers-Immediately-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard-Violate-Mandatory-Standard-for-Sling-Carriers\n**Freshness verification:** Cipton Nov 19, Bambora Nov 12 — both new this week. Prior coverage: Nov 24 S2 Kidsview bouncer; Nov 23 S1 SHEIN rattle — these are new, distinct recalls.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "CPSC Cipton recall",
+          "url": "https://cpsc.gov/Recalls/2027/Cipton-Recalls-Bicycle-Helmets-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violate-Mandatory-Standard-for-Bicycle-Helmets",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "CPSC Bambora warning",
+          "url": "https://www.cpsc.gov/Warnings/2027/CPSC-Warns-Consumers-to-Stop-Using-Bambora-Sling-Carriers-Immediately-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard-Violate-Mandatory-Standard-for-Sling-Carriers",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "- CPSC Cipton recall",
+          "url": "https://cpsc.gov/Recall",
+          "official": true,
+          "found_in": [
+            "06-fact-check-log.md"
+          ],
+          "publisher": "| LOW | Organization | cpsc | ources"
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Flu Is Surging Early — What Colorado Springs Parents Need to Know Before Thanksgiving",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Colorado's flu season is running early. CDPHE reports rising cases and the state's first pediatric flu death of 2026-27. Thanksgiving travel is peak transmission time. AAP: get a flu shot if you're 6 months+. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-flu-surge-thanksgiving.html",
+        "headline": "Flu Is Surging Early in Colorado — What COS Parents Need to Know Before Thanksgiving",
+        "word_count": 618
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Flu Surge\n\n**Image Concept 3-A** (Article Hero — 1200x675)\n- **Prompt:** A parent's hands gently wrapping a small child's hands in theirs on a neutral-toned couch, as if checking for fever or comforting. Soft warm light. The child is not in full view — just small hands and arms. Teal and warm neutral color palette. Painterly illustration style. Clean, light bottom third for text overlay.\n- **Mood:** Caring, health-aware, parental warmth\n- **Status:** not_started\n\n**Image Concept 3-B** (Facebook — 1200x630)\n- **Prompt:** A simple, modern illustration of a tissue box, a glass of orange juice, and a small thermometer arranged on a white surface. Soft diffused light. Teal and coral color accents on objects. Clean white or very light gray background. Bottom third completely clear and neutral for text overlay.\n- **Mood:** Health reminder, clean, practical\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Flu Surge — Colorado + COS\n**Story Type:** NEW STORY — Local News / National Parenting pillar\n**Confidence:** MEDIUM (confirmed CDPHE trend; school outbreak from prior research)\n**Key Facts:**\n- CDPHE documented an unusually early flu rise this 2026-27 season — HIGH (Denver7)\n- **First pediatric flu death** of the 2026-27 season reported in Colorado — HIGH (Denver7)\n- El Paso County Public Health investigated flu + COVID outbreak at a COS elementary school in early November 2026 — MEDIUM (prior research, KKTV Nov 7)\n- Thanksgiving travel is a peak flu transmission period — HIGH (CDC/AAP)\n- AAP recommends flu shots for everyone **six months and older** — HIGH\n- Afluria vaccine has been **discontinued** this season; trivalent only available — MEDIUM (prior research)\n- Do NOT use specific hospitalization count numbers (20→122) — could not independently verify\n**Sources:**\n- Denver7/CDPHE: \"CDPHE urges vaccination against flu as Colorado sees early rise in cases, hospitalizations\" — https://www.denver7.com/lifestyle/health/cdphe-urges-vaccination-against-flu-as-colorado-sees-early-rise-in-cases-hospitalizations\n- AAP flu guidance: https://www.healthychildren.org/English/health-issues/conditions/flu/Pages/The-Flu-Influenza.aspx\n**Freshness verification:** CDPHE flu rise documented this season. Thanksgiving timing makes this relevant today.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "AAP flu guidance",
+          "url": "https://www.healthychildren.org/English/health-issues/conditions/flu/Pages/The-Flu-Influenza.aspx",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "CDPHE urges vaccination against flu as Colorado sees early rise in cases, hospitalizations",
+          "url": "https://www.denver7.com/lifestyle/health/cdphe-urges-vaccination-against-flu-as-colorado-sees-early-rise-in-cases-hospitalizations",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Denver7/CDPHE"
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "COS Holiday Season Kickoff: What's Coming Up for Families in December",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "COS December events: CMZ Electric Safari opens Dec 2 (zoo closes at 3 PM starting tomorrow). Festival of Lights Parade Dec 5, 5:50 PM on Tejon St — free. Christkindlmarket at Bancroft Park Dec 4-6, 9-13, 16-23 — free. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-cos-holiday-kickoff.html",
+        "headline": "December in Colorado Springs: Electric Safari, Festival of Lights, Christkindlmarket, and More",
+        "word_count": 676
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COS Holiday Season Kickoff\n\n**Image Concept 4-A** (Article Hero — 1200x675)\n- **Prompt:** A family silhouette (two adults, two children) watching colorful holiday lights strung along a downtown street at night. Warm golden and teal light reflections on the pavement. Festive but not crowded. Painterly illustration style. Sky takes up top half — deep blue-black night sky with hints of stars. Bottom third is smooth, dark pavement with light reflections for text overlay.\n- **Mood:** Festive, community, holiday warmth\n- **Status:** not_started\n\n**Image Concept 4-B** (Facebook — 1200x630)\n- **Prompt:** Flat lay of holiday family activity items: a reusable calendar with December dates visible (no specific text), hot chocolate mugs with marshmallows, a small evergreen branch, and teal and coral ribbons. Top-down view. Warm natural wood surface below. Clean bottom third of image is the wood surface for text overlay.\n- **Mood:** Cozy, festive planning, family warmth\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "COS Holiday Season Kickoff\n**Story Type:** NEW STORY — Local Events pillar\n**Confidence:** HIGH for confirmed events; MEDIUM for unverified 2026 dates\n**Key Facts:**\n- **Manitou Springs Elf Hunt**: Annual free walk-in scavenger hunt through local shops; returns this holiday season through mid-December; weekly prizes — MEDIUM (2026 dates not independently confirmed; check manitousprings.org) — Source: prior years https://krdo.com/news/2023/11/28/manitou-springs-chamber-hosts-townwide-elf-hunt\n- **Cheyenne Mountain Zoo Electric Safari**: Opens **December 2, 2026** through **January 1, 2027** — HIGH; zoo closes at **3 PM starting November 26** for setup — HIGH; check cmzoo.org for reservations — HIGH (confirmed: https://www.cmzoo.org/visit/)\n- **Festival of Lights Parade**: **December 5, 2026**, **5:50 PM MT**, Tejon Street, downtown COS — HIGH; free — HIGH; **36th annual** — HIGH (2025 was 35th annual) — Source: https://coloradospringsfestivaloflights.com/\n- **Christkindlmarket**: Bancroft Park, 2408 W Colorado Ave; **December 4–6, 9–13, 16–23**; noon–8 PM; free admission — HIGH — Sources: https://www.visitcos.com/events/holidays/christmas/ and https://www.nomadlawyer.org/colorado-christmas-markets-denver-georgetown-colorado-springs-2026\n**Sources:**\n- CMZ: https://www.cmzoo.org/visit/\n- Festival of Lights: https://coloradospringsfestivaloflights.com/\n- Christkindlmarket: https://www.visitcos.com/events/holidays/christmas/\n**Freshness verification:** All December events confirmed for 2026 (except Elf Hunt which is annual and very likely returning). Valid today as holiday season preview content.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Annual free walk-in scavenger hunt through local shops; returns this holiday season through mid-December; weekly prizes — MEDIUM (2026 dates not independently confirmed; check manitousprings.org) — Source: prior years",
+          "url": "https://krdo.com/news/2023/11/28/manitou-springs-chamber-hosts-townwide-elf-hunt",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Manitou Springs Elf Hunt"
+        },
+        {
+          "name": "Opens December 2, 2026 through January 1, 2027 — HIGH; zoo closes at 3 PM starting November 26 for setup — HIGH; check cmzoo.org for reservations — HIGH (confirmed",
+          "url": "https://www.cmzoo.org/visit/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Cheyenne Mountain Zoo Electric Safari"
+        },
+        {
+          "name": "December 5, 2026, 5:50 PM MT, Tejon Street, downtown COS — HIGH; free — HIGH; 36th annual — HIGH (2025 was 35th annual) — Source",
+          "url": "https://coloradospringsfestivaloflights.com/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Festival of Lights Parade"
+        },
+        {
+          "name": "Bancroft Park, 2408 W Colorado Ave; December 4–6, 9–13, 16–23; noon–8 PM; free admission — HIGH — Sources",
+          "url": "https://www.visitcos.com/events/holidays/christmas/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Christkindlmarket"
+        },
+        {
+          "name": "Bancroft Park, 2408 W Colorado Ave; December 4–6, 9–13, 16–23; noon–8 PM; free admission — HIGH — Sources: https://www.visitcos.com/events/holidays/christmas/ and",
+          "url": "https://www.nomadlawyer.org/colorado-christmas-markets-denver-georgetown-colorado-springs-2026",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Christkindlmarket"
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Thanksgiving Weekend in Colorado Springs: What to Do with Kids Nov 27–30",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Thanksgiving weekend COS: Skate in the Park at Acacia Park ($15, kids 4 and under free with paid adult). Garden of the Gods free all weekend, 5 AM–9 PM. Christmas Stroll historically the Saturday after Thanksgiving. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-thanksgiving-weekend-cos.html",
+        "headline": "Thanksgiving Weekend in Colorado Springs: What to Do with Kids Nov 27–30",
+        "word_count": 739
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Thanksgiving Weekend in COS\n\n**Image Concept 5-A** (Article Hero — 1200x675)\n- **Prompt:** Two children in winter coats skating on an outdoor ice rink, holding hands, laughing. The rink is surrounded by twinkling string lights and bare winter trees. Warm golden light from string lights contrasts with the cold blue-tinted ice. Painterly illustration style. Bottom third of the image is smooth ice surface for text overlay.\n- **Mood:** Joyful, winter family activity, festive\n- **Status:** not_started\n\n**Image Concept 5-B** (Facebook — 1200x630)\n- **Prompt:** A family (adults and children silhouetted) walking through a dramatic red rock landscape in soft morning light. The rocks are warm orange-red tones. Sky is light blue with a hint of sunrise glow. Bare winter trees in the foreground. Painterly, illustrative style. Bottom third is a smooth path or ground surface for text overlay.\n- **Mood:** Outdoor exploration, Colorado landscape, family time\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Thanksgiving Weekend in COS\n**Story Type:** NEW STORY — Local Events pillar (distinct from Nov 24 S1 which covered Turkey Trot/Nutcracker overview)\n**Confidence:** MEDIUM-HIGH (Skate in Park confirmed; other events inferred from prior years)\n**Key Facts:**\n- **Skate in the Park, Acacia Park**: **$15/person** including skates; **children four and under free** with paid adult; open daily; tickets on site only — HIGH (Gazette Nov 2026: https://gazette.com/2026/11/11/skate-in-the-park-returns-bringing-holiday-tradition-downtown/)\n- **Garden of the Gods**: Free, open **5 AM–9 PM** (Nov–April hours); open Thanksgiving and all weekend; Visitor Center closed Thanksgiving/Christmas/New Year's Day — HIGH (gardenofgods.com)\n- **Old Colorado City Christmas Stroll**: Annual tradition; historically Saturday after Thanksgiving (~4–7 PM, free); 2026 would fall **November 28** — MEDIUM (2026 dates not confirmed; check shopoldcoloradocity.com) — Source: https://www.shopoldcoloradocity.com/events/christmas-stroll\n- **Miramont Castle Victorian Christmas**: Returns this holiday season; check miramontcastle.org for 2026 schedule — MEDIUM (2026 dates not confirmed); 2025 prices: **$17 adults, $15 seniors (60+), $12 children (12 and under)** — MEDIUM as reference — Source: https://gazette.com/2025/11/27/holidays-at-miramont-castle-trip-back-in-time/\n- **Turkey Trot (brief reminder)**: 29th annual, Briargate YMCA, Nov 26 (Tiny Trot 8:15 AM MT, 5K 9 AM MT) — covered in depth Nov 24 S1; mention only as brief reminder\n**Sources:**\n- Gazette (Skate in the Park): https://gazette.com/2026/11/11/skate-in-the-park-returns-bringing-holiday-tradition-downtown/\n- Garden of the Gods: https://gardenofgods.com/?p=1671\n**Freshness verification:** Skate in the Park is current 2026 season. Garden of the Gods is year-round. OCC Stroll and Miramont Castle are framed as annual events with 2026 confirmation pending.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "$15/person including skates; children four and under free with paid adult; open daily; tickets on site only — HIGH (Gazette Nov 2026",
+          "url": "https://gazette.com/2026/11/11/skate-in-the-park-returns-bringing-holiday-tradition-downtown/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Skate in the Park, Acacia Park"
+        },
+        {
+          "name": "Annual tradition; historically Saturday after Thanksgiving (~4–7 PM, free); 2026 would fall November 28 — MEDIUM (2026 dates not confirmed; check shopoldcoloradocity.com) — Source",
+          "url": "https://www.shopoldcoloradocity.com/events/christmas-stroll",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Old Colorado City Christmas Stroll"
+        },
+        {
+          "name": "Returns this holiday season; check miramontcastle.org for 2026 schedule — MEDIUM (2026 dates not confirmed); 2025 prices: $17 adults, $15 seniors (60+), $12 children (12 and under) — MEDIUM as reference — Source",
+          "url": "https://gazette.com/2025/11/27/holidays-at-miramont-castle-trip-back-in-time/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Miramont Castle Victorian Christmas"
+        },
+        {
+          "name": "Garden of the Gods",
+          "url": "https://gardenofgods.com/?p=1671",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
