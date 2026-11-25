@@ -9,8 +9,8 @@
 
 ### 2026-11-25 ✅ (Automated)
 - Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles, image manifest)
-- Step 10: verify-facts.py — run by fork agent (06-fact-check-log.md generated)
-- Step 10b: compile-content-data.py — 5 stories, 6 tweets, 0 FB posts (known parsing), 5 articles; compiled at 11:32 UTC
+- Step 10: verify-facts.py — 5 stories, 19 claims, HIGH: 40; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 6 tweets, 0 FB posts (known parsing), 5 articles; posting window warnings (non-blocking); fixed 4 tweets over 280 chars
 - Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
 - Step 12: Story history updated
 - Step 13: generate-review-dashboard.py — dashboard generated (21 items)
