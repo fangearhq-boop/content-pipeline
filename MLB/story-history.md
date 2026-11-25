@@ -10234,3 +10234,62 @@ Each day's stories are appended at the top (newest first).
   - Lockout begins Dec 2
   - New CBA framework
   - 2027 season start date confirmation
+
+---
+
+## Pipeline Run: 2026-11-25
+
+### Story 1: Cubs Sign Sato + Rogers — $240M Pre-Lockout Spending Spree
+- **Date:** 2026-11-25
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Cubs sign Teruaki Sato (6yr/$120M, Central League Triple Crown: .306/39HR/106RBI) and Trevor Rogers (5yr/$120M, 10-11 4.03 ERA Baltimore) in 24-hour window. Total $240M commitment addresses Suzuki loss + rotation need. Both pending physicals. Rogers declined QO from Orioles.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Physical clearance announcements
+  - Cubs remaining FA moves before lockout
+  - Rogers 2027 spring preview
+
+### Story 2: Orioles Sign Freddy Peralta 5yr/$125M — ALCS MVP, Franchise Record Deal
+- **Date:** 2026-11-25
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Baltimore signs Peralta, first multiyear FA starter deal under Elias, biggest pitching deal in franchise history. $10M signing bonus, $23M/yr. 4.42 ERA over 169 IP in 2026, ALCS MVP with Rays (lost WS to Milwaukee in 5). No QO (traded midseason).
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Physical clearance
+  - 2027 rotation preview with Bradish+Peralta
+  - Orioles additional moves before lockout
+
+### Story 3: MLBPA Rejects Latest CBA Proposal — "Anti-Player Restrictions"; 6 Days to Lockout
+- **Date:** 2026-11-25
+- **Tier:** 1
+- **Classification:** FOLLOW UP (CBA covered multiple dates; rejection is new today)
+- **Angle:** MLBPA calls latest proposal "anti-player restrictions." MLB offer: delay cap to 2028, $258.3M/$180.2M floor, min salary $1M. Manfred: owners won't sign without cap. Bruce Meyer (MLBPA): cap "nonstarter." Lockout Dec 2 near-certain. 2021 precedent: 99 days. $1.2B+ spent in pre-lockout rush.
+- **Content Produced:** Article (article-03, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Dec 1 deadline outcome (deal or lockout?)
+  - Early lockout developments
+  - Unsigned players (Chisholm, Arozarena, Marte, Suzuki) status
+
+### Story 4: Jazz Chisholm / Blue Jays 6-Day Countdown
+- **Date:** 2026-11-25
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Chisholm covered multiple dates)
+- **Angle:** Chisholm still unsigned with 6 days to lockout. Blue Jays frontrunner, met with reps at GM meetings (Davidi/Sportsnet). No QO. 2026: .231/19HR/41SB. 10+ teams engaged (Morosi). Short-term + opt-out possible structure (Bowden).
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Chisholm signing or lockout freeze
+  - Blue Jays alternatives if Chisholm doesn't sign
+  - Post-lockout market for unsigned FAs
+
+### Story 5: Corey Seager Would Waive NTC for Phillies — Pre-Lockout Blockbuster Buzz
+- **Date:** 2026-11-25
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Phillies insider Jim Salisbury: Seager would likely waive full 10-and-5 NTC for Philadelphia. ESPN Alden Gonzalez: Rangers open to dealing. $155M/5yr owed. .227/.312/.424 in 2026. Turner swap discussed but complicated. Lockout makes pre-Dec1 deal "unlikely" per multiple reports.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Post-lockout trade talks resumption
+  - Rangers alternative trade partners
+  - Phillies SS plans if Seager doesn't happen

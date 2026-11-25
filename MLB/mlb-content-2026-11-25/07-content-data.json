@@ -1,0 +1,409 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-25",
+  "compiled_at": "2026-11-25T10:22:47.431140+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs Sign Sato + Rogers — $240M Pre-Lockout Spending Spree Replenishes Rotation and OF",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Cubs just spent $240M in 24 hours.\n\nTeruaki Sato: 6yr/$120M (Central League Triple Crown — .306 BA, 39 HR, 106 RBI)\nTrevor Rogers: 5yr/$120M (10-11, 4.03 ERA)\n\nThat's two answers to losing Suzuki and replacing the rotation. Statement. #Cubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 244
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Japan's Triple Crown winner is a Cub. Teruaki Sato led the Central League in batting (.306), homers (39) and RBI (106) this season. He's 27, he's a lefty bat, and he fits the corner OF spot Suzuki left behind. #Cubs #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-cubs-sato-rogers-240m-signing-spree.html",
+        "headline": "Cubs Spend $240M in 24 Hours: Sato (6yr/$120M) and Rogers (5yr/$120M) Address Rotation and OF Gaps",
+        "word_count": 561
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cubs Sign Sato + Rogers\n\n#### Image Concept 1\n- **Story:** 1\n- **Purpose:** Article hero + Social\n- **Search Terms (imagn):** \"Trevor Rogers Chicago Cubs\"\n- **Alt Search:** \"Chicago Cubs pitcher\"\n- **Dimensions:** 1200x630 (article hero)\n- **Canva Text Overlay:** \"$240M IN 24 HOURS\" / \"Cubs go all-in before lockout\"\n- **Status:** not_started\n\n#### Image Concept 2\n- **Story:** 1\n- **Purpose:** Social (X/FB)\n- **Search Terms (imagn):** \"Teruaki Sato Hanshin\"\n- **Alt Search:** \"Japanese baseball slugger\"\n- **Dimensions:** 1080x1350 (social)\n- **Canva Text Overlay:** \"TRIPLE CROWN WINNER. NOW A CUB.\" / \"Sato: .306 BA / 39 HR / 106 RBI\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs Sign Sato + Rogers\n**Sources Used:**\n- ESPN: https://www.espn.com/mlb/story/_/id/50583163/sources-cubs-teruaki-sato-reach-6-year-120m-deal — Cubs and Sato agree to 6-year, $120M deal. **Confidence: HIGH**\n- CBS Sports MLB free agent tracker: https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/ — Rogers signed, 5yr/$120M for Cubs. Sato 6yr/$120M. **Confidence: HIGH**\n- CBS Chicago AP: https://www.cbsnews.com/chicago/news/cubs-sign-free-agents-trevor-rogers-teruaki-sato-contract/ — Both signings confirmed by AP source. **Confidence: HIGH**\n- SI: https://www.si.com/mlb/cubs/teruaki-sato-trevor-rogers-sign-120m-contracts-statement-of-intent — $240M combined. **Confidence: HIGH**\n- Sato stats: Central League Triple Crown: .306 BA, 39 HR, 106 RBI with Hanshin. **Confidence: HIGH** (ESPN)\n- Rogers 2026: 10-11, 4.03 ERA for Baltimore. **Confidence: HIGH** (multiple sources)\n- Rogers declined QO from Baltimore. **Confidence: HIGH** (CBS Sports)\n- Sato: corner outfield role. **Confidence: HIGH**\n- Both deals pending physicals. **Confidence: HIGH**\n- Rogers ages: 29 (majority sources). **Confidence: HIGH**\n- Sato age: 27 (majority sources). **Confidence: HIGH**\n- One discrepancy: one source says Sato 5yr/Rogers 6yr — rejected in favor of majority sources (Sato 6yr, Rogers 5yr). **Confidence: HIGH** for majority version.\n- Cubs QO note: Rogers declined QO from Orioles, Cubs over luxury tax → forfeit 2nd + 5th picks + $1M international bonus pool. **Confidence: HIGH** (CBS Sports)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/mlb/story/_/id/50583163/sources-cubs-teruaki-sato-reach-6-year-120m-deal",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "CBS Sports MLB free agent tracker",
+          "url": "https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "CBS Chicago AP",
+          "url": "https://www.cbsnews.com/chicago/news/cubs-sign-free-agents-trevor-rogers-teruaki-sato-contract/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "SI",
+          "url": "https://www.si.com/mlb/cubs/teruaki-sato-trevor-rogers-sign-120m-contracts-statement-of-intent",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Orioles Land ALCS MVP Freddy Peralta — 5yr/$125M Is Franchise's Biggest Pitching Deal",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Orioles have finally done it. Freddy Peralta: 5yr/$125M. First multiyear FA starter deal under Elias, biggest pitching deal in franchise history.\n\nALCS MVP. 169 IP in 2026. 30 years old. This is the move O's fans have been waiting for. #Orioles",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Orioles"
+          ],
+          "char_count": 248
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Freddy Peralta led the Rays to the World Series (they lost to Milwaukee in 5), earned ALCS MVP honors, then signed a $125M deal with the Orioles.\n\nThat is a good November for Freddy Peralta. #Orioles #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Orioles",
+            "#MLB"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-orioles-sign-freddy-peralta-125m.html",
+        "headline": "Orioles Sign ALCS MVP Freddy Peralta to 5yr/$125M Deal — Franchise's Biggest Pitching Commitment Ever",
+        "word_count": 526
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Orioles Sign Peralta\n\n#### Image Concept 3\n- **Story:** 2\n- **Purpose:** Article hero\n- **Search Terms (imagn):** \"Freddy Peralta Tampa Bay Rays\"\n- **Alt Search:** \"Freddy Peralta Milwaukee Brewers\"\n- **Dimensions:** 1200x630 (article hero)\n- **Canva Text Overlay:** \"ALCS MVP. FRANCHISE DEAL.\" / \"Peralta: 5yr/$125M Baltimore\"\n- **Status:** not_started\n\n#### Image Concept 4\n- **Story:** 2\n- **Purpose:** Social (X/FB)\n- **Search Terms (imagn):** \"Freddy Peralta\"\n- **Alt Search:** \"Baltimore Orioles pitcher\"\n- **Dimensions:** 1080x1350 (social)\n- **Canva Text Overlay:** \"ORIOLES' BIGGEST PITCHING DEAL EVER\" / \"$125M · 5 Years · ALCS MVP\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Orioles Sign Freddy Peralta\n**Sources Used:**\n- Yahoo Sports: https://sports.yahoo.com/articles/free-agent-freddy-peralta-signs-162955756.html — Peralta signs with Orioles. **Confidence: HIGH**\n- NBC Sports: https://www.nbcsports.com/mlb/news/orioles-reportedly-sign-freddy-peralta-to-five-year-125-million-deal — 5yr/$125M confirmed. **Confidence: HIGH**\n- Washington Post: https://www.washingtonpost.com/sports/mlb/2026/11/24/freddy-peralta-orioles/ — Orioles agree with Peralta. **Confidence: HIGH**\n- MLB.com: https://www.mlb.com/news/freddy-peralta-orioles-contract — Official confirmation. **Confidence: HIGH**\n- Fox News/OutKick: https://www.foxnews.com/outkick/orioles-agree-125-million-deal-rays-postseason-hero-freddy-peralta — ALCS MVP referenced. **Confidence: HIGH**\n- Peralta age: 30. **Confidence: HIGH**\n- Peralta 2026: 4.42 ERA over 169 innings, split Mets+Rays. **Confidence: HIGH**\n- Peralta was ALCS MVP. Rays lost World Series to Milwaukee in 5 games. **Confidence: HIGH**\n- Contract: $10M signing bonus, $23M/yr. **Confidence: HIGH** (Yahoo Sports)\n- Largest pitching deal in Orioles history ahead of Bradish $90M extension July 2026. **Confidence: HIGH**\n- First multiyear FA starter deal under Elias. **Confidence: HIGH** (Yahoo Sports)\n- Not eligible for QO: traded midseason (Mets to Rays). **Confidence: HIGH**",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/free-agent-freddy-peralta-signs-162955756.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "NBC Sports",
+          "url": "https://www.nbcsports.com/mlb/news/orioles-reportedly-sign-freddy-peralta-to-five-year-125-million-deal",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Washington Post",
+          "url": "https://www.washingtonpost.com/sports/mlb/2026/11/24/freddy-peralta-orioles/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "mlb.com",
+          "url": "https://www.mlb.com/news/freddy-peralta-orioles-contract",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "MLB.com"
+        },
+        {
+          "name": "Fox News/OutKick",
+          "url": "https://www.foxnews.com/outkick/orioles-agree-125-million-deal-rays-postseason-hero-freddy-peralta",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "MLBPA Fires Back on Latest CBA Proposal — Calls It \"Anti-Player Restrictions\"; Lockout Looks Inevitable",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "MLBPA called MLB's latest CBA proposal \"anti-player restrictions.\" Owners fired back: no deal without a salary cap.\n\n6 days until Dec. 1 deadline. A lockout starting Dec. 2 is now nearly certain. 2027 season at risk if 99-day 2021 precedent repeats. #MLB #CBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#CBA"
+          ],
+          "char_count": 259
+        },
+        {
+          "label": "Post 3-2",
+          "text": "MLB's latest offer: delay cap to 2028, $258.3M cap, $180.2M floor, raise minimum salary to $1M.\n\nThe union rejected it immediately. Commissioner Manfred: owners won't sign any deal without a cap.\n\nWe're heading for a lockout. #MLB #CBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#CBA"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-mlbpa-rejects-cba-proposal-lockout-countdown.html",
+        "headline": "MLBPA Calls Latest CBA Proposal \"Anti-Player Restrictions\" — Lockout Dec. 2 Now Near-Certain With 6 Days Left",
+        "word_count": 656
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CBA Countdown\n\n#### Image Concept 5\n- **Story:** 3\n- **Purpose:** Article hero\n- **Search Terms (imagn):** \"Rob Manfred baseball\"\n- **Alt Search:** \"MLB commissioner baseball\"\n- **Dimensions:** 1200x630 (article hero)\n- **Canva Text Overlay:** \"6 DAYS TO LOCKOUT\" / \"MLBPA rejects latest CBA proposal\"\n- **Status:** not_started\n\n#### Image Concept 6\n- **Story:** 3\n- **Purpose:** Social (X/FB)\n- **Search Terms (imagn):** \"MLB players union negotiations\"\n- **Alt Search:** \"baseball stadium empty\"\n- **Dimensions:** 1080x1350 (social)\n- **Canva Text Overlay:** \"LOCKOUT COUNTDOWN\" / \"Dec 1 | 11:59 PM ET\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "MLBPA Rejects Proposal / CBA Countdown\n**Sources Used:**\n- Bleacher Report: https://bleacherreport.com/articles/25537322-mlbpa-responds-mlbs-latest-salary-cap-proposal-cba-talks-lockout-looming — MLBPA responds to latest proposal. **Confidence: HIGH**\n- Yahoo Sports: https://sports.yahoo.com/mlb/breaking-news/article/mlb-players-union-blasts-leagues-proposed-anti-player-restrictions — Union calls it \"anti-player restrictions.\" **Confidence: HIGH**\n- CBS Sports CBA timeline: https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026/ — Full timeline. **Confidence: HIGH**\n- ESPN Manfred: https://www.espn.com/mlb/story/_/id/50523785/rob-manfred-says-mlb-owners-compromise-salary-cap — Owners won't OK deal without cap. **Confidence: HIGH**\n- MLB offer: delay cap to 2028, $258.3M cap/$180.2M floor, min salary raised to $1M. **Confidence: HIGH**\n- MLBPA union interim exec director: Bruce Meyer. **Confidence: HIGH** (from search)\n- CBA expires December 1, 11:59 PM ET. **Confidence: HIGH**\n- Lockout Dec 2: near-certain per multiple sources. **Confidence: HIGH**\n- 2021 lockout: 99 days, threatened Opening Day. **Confidence: HIGH**\n- Teams spent $1.2B+ in pre-lockout rush. **Confidence: HIGH** (Bleacher Report)\n- Skubal deal ($450M Mets) = 37.5% of $1.2B total. **Confidence: HIGH** (Bleacher Report calculation)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://bleacherreport.com/articles/25537322-mlbpa-responds-mlbs-latest-salary-cap-proposal-cba-talks-lockout-looming",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mlb/breaking-news/article/mlb-players-union-blasts-leagues-proposed-anti-player-restrictions",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "CBS Sports CBA timeline",
+          "url": "https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "ESPN Manfred",
+          "url": "https://www.espn.com/mlb/story/_/id/50523785/rob-manfred-says-mlb-owners-compromise-salary-cap",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Chisholm Clock Ticking — Blue Jays Have 6 Days to Sign Their Top Target Before the Freeze",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jazz Chisholm is still on the market. 6 days until the Dec. 1 lockout.\n\nBlue Jays are the frontrunner — they met with his reps at the GM meetings. No QO cost. 10+ teams in. Short-term deal with opt-out is the rumored structure.\n\nHe needs to sign this week. #BlueJays #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BlueJays",
+            "#MLB"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-jazz-chisholm-blue-jays-six-day-countdown.html",
+        "headline": "Jazz Chisholm Countdown: Blue Jays Have 6 Days to Sign Their Top Target Before the Lockout Freeze",
+        "word_count": 546
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jazz Chisholm\n\n#### Image Concept 7\n- **Story:** 4\n- **Purpose:** Article hero\n- **Search Terms (imagn):** \"Jazz Chisholm New York Yankees\"\n- **Alt Search:** \"Jazz Chisholm Miami Marlins\"\n- **Dimensions:** 1200x630 (article hero)\n- **Canva Text Overlay:** \"SIGN OR WAIT?\" / \"Chisholm: 6 days to decide\"\n- **Status:** not_started\n\n#### Image Concept 8\n- **Story:** 4\n- **Purpose:** Social (X/FB)\n- **Search Terms (imagn):** \"Jazz Chisholm\"\n- **Alt Search:** \"Blue Jays second baseman\"\n- **Dimensions:** 1080x1350 (social)\n- **Canva Text Overlay:** \"6 DAYS.\" / \"Chisholm is still on the market\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jazz Chisholm / Blue Jays\n**Sources Used:**\n- Sportsnet (Shi Davidi): Blue Jays met with Chisholm reps at GM meetings. **Confidence: HIGH**\n- Yahoo Sports: https://sports.yahoo.com/articles/blue-jays-talking-jazz-chisholm-171216146.html — Blue Jays talking to Chisholm. **Confidence: HIGH**\n- Heavy.com: https://heavy.com/sports/mlb/toronto-blue-jays/free-agency-yankees-jazz-chisholm-jr/ — Blue Jays frontrunner. **Confidence: HIGH**\n- Jon Morosi MLB Network: 10+ teams engaged. **Confidence: HIGH**\n- Jim Bowden: short-term deal with opt-out possible structure. **Confidence: HIGH**\n- Yankees gave no QO. **Confidence: HIGH**\n- Chisholm 2026 stats: .231 BA, 19 HR, 41 SB. **Confidence: HIGH** (from prior pipeline data, consistent with current search)\n- Blue Jays frontrunner: **Confidence: HIGH** (multiple reports, consistent from prior runs)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/blue-jays-talking-jazz-chisholm-171216146.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "heavy.com",
+          "url": "https://heavy.com/sports/mlb/toronto-blue-jays/free-agency-yankees-jazz-chisholm-jr/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Heavy.com"
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Seager Would Waive NTC for Phillies — 6 Days to Pull Off a Pre-Lockout Blockbuster",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Phillies insider Jim Salisbury: Corey Seager would likely waive his no-trade clause to join Philadelphia.\n\nRangers are open to dealing him. He's owed $155M over 5 years. 6 days to get a deal done before the lockout.\n\nCan the Phillies pull this off? #Phillies #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-seager-phillies-ntc-waiver-trade-buzz.html",
+        "headline": "Corey Seager Would Waive NTC for Phillies — Rangers Open to Deal, But 6-Day Clock Makes Blockbuster a Long Shot",
+        "word_count": 668
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Corey Seager\n\n#### Image Concept 9\n- **Story:** 5\n- **Purpose:** Article hero\n- **Search Terms (imagn):** \"Corey Seager Texas Rangers\"\n- **Alt Search:** \"Corey Seager shortstop\"\n- **Dimensions:** 1200x630 (article hero)\n- **Canva Text Overlay:** \"NTC WAIVER BUZZ\" / \"Seager to Phillies?\"\n- **Status:** not_started\n\n#### Image Concept 10\n- **Story:** 5\n- **Purpose:** Social (X/FB)\n- **Search Terms (imagn):** \"Corey Seager\"\n- **Alt Search:** \"Texas Rangers shortstop\"\n- **Dimensions:** 1080x1350 (social)\n- **Canva Text Overlay:** \"WOULD WAIVE NTC FOR PHILLIES\" / \"Pre-lockout blockbuster brewing?\"\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Seager / Phillies\n**Sources Used:**\n- Jim Salisbury (Phillies insider, The Phillies Show): Seager would \"likely\" waive NTC for Phillies. **Confidence: HIGH** (insider beat reporter)\n- ESPN Alden Gonzalez: Rangers open to trading Seager. **Confidence: HIGH**\n- Seager owed: $155 million over 5 years. **Confidence: HIGH**\n- Seager 2026: .227/.312/.424. **Confidence: HIGH** (from search)\n- Seager age: 32. **Confidence: MEDIUM** (inferred; born 1994, so would be 32 in 2026-27)\n- Turner swap complicated: **Confidence: HIGH** (multiple reports say difficult)\n- Trade before lockout: \"unlikely\" per one report. **Confidence: HIGH**\n- Seager 10-and-5 player (full NTC). **Confidence: HIGH**",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
