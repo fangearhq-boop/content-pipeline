@@ -1,5 +1,35 @@
 # COS Parenting — Pipeline Status
 
+## Current Run: 2026-11-26
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Thanksgiving weekend COS events (Skate in the Park $13 Acacia Park, Colorado Country Christmas Gift Show COS Event Center, Manitou Elf Hunt free through Dec 20, Garden of the Gods free, Pro Rodeo Hall of Fame) — HIGH; Qpancy pajamas CPSC Recall #27-094 Nov 19 2026 (~1,309 units, Amazon Mar–Aug 2026, fails flammability, burn hazard, full refund via email) — HIGH from cpsc.gov; AAP 2026-27 flu guidance (190 pediatric deaths, 85% unvaccinated, 49.4% vaccination rate, Colorado early surge, first pediatric death before Thanksgiving) — HIGH from healthychildren.org/aap.org; Safe Streets COS school zone expansion (secondary schools, Sierra/Panorama/Cheyenne Mtn/Mann/West/Palmer/Vista Ridge, Doherty HS 2023 fatality trigger) — HIGH from KRDO/city sources; D11 11 underused schools no closures co-location plan + D49 now largest district + $775M bond context — HIGH from KRDO/Gazette |
+| Story History Check | COMPLETE | S1 NEW (Weekend Roundup, Thursday required — distinct from Nov 25 Thanksgiving guide which covered Turkey Trot/Nutcracker; this covers actual upcoming Fri–Sun Nov 27–29 events); S2 NEW (Qpancy standalone recall article — Nov 22 Trouble in Toyland had Qpancy mention but this is standalone recall piece matching Nov 19 official recall date); S3 NEW (flu guidance distinct from Nov 23 S4 — different angle: Colorado early surge + Thanksgiving timing + 2026-27 updated stats); S4 NEW (Safe Streets COS school zones — first coverage of secondary school expansion); S5 NEW (D11 co-location family explainer with bond context — distinct from Nov 23 S3 which covered the board session data; this is a follow-up "what it means for families" angle incorporating bond vote outcome) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; cpsc.gov official URL for S2; healthychildren.org official URL for S3; coloradosprings.gov/SafeStreetsCOS for S4; source URLs included for all factual stories |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories (2 each for S1+S2, 1 each for S3-S5); all ≤280 chars (4 violations fixed on first verify-facts pass); 4 hashtags each; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; contractions; 0 exclamation marks; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only concepts (2 per story); clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Weekend Roundup Nov 27–29 (Sarah Morales T1 ~700w, 3 required springsdaily.com links); article-02 Qpancy recall (Jamie Rivera T1 ~600w, quick reference table); article-03 AAP flu vaccine 2026-27 (Sarah Morales T2 ~580w); article-04 COS school zone safety expansion (Jamie Rivera T2 ~570w); article-05 D11 enrollment/co-location update (Sarah Morales T2 ~580w) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 84 claims; image warnings (expected, all not_started); no char limit violations after fixes |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (pre-existing format mismatch), 5 articles, 5 images; 5/5 stories with cited URLs, 4/5 with official URL; posting window warnings (pre-existing format mismatch) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-11-26.xlsx (17 posts) + cosp-postplanner-tobi-2026-11-26.xlsx (12 TOBI posts) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 26 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB image captions
+- **Articles:** 5 (bylines: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4])
+- **Key stories:** Thursday Weekend Family Roundup Nov 27–29 (Skate in the Park $13 Acacia Park, Colorado Country Christmas Gift Show, Manitou Elf Hunt free, Garden of Gods free); Qpancy pajama recall #27-094 (1,309 units, Amazon, fails flammability, full refund via email, cut in half as proof); AAP flu vaccine 2026-27 (Colorado early surge, first pediatric death before Thanksgiving, 85% unvaccinated deaths, 49.4% kid vaccination rate); COS Safe Streets school zone expansion to secondary schools (Sierra, Panorama, Cheyenne Mtn, Mann, West, Palmer, Vista Ridge); D11 11 underused schools no closures co-location plan + D49 now largest district + $775M bond context
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); PostPlanner FB=0 (pre-existing format mismatch); 4 tweet char-limit violations fixed on first verify-facts pass
+
+---
+
 ## Current Run: 2026-11-25
 
 | Step | Status | Notes |

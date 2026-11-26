@@ -2,6 +2,50 @@
 
 ---
 
+## November 26, 2026
+
+### Story 1: Things to Do with Kids in Colorado Springs This Weekend (Nov 27–29)
+- **Date:** 2026-11-26
+- **Tier:** T1
+- **Pillar:** Local Events
+- **Key Facts:** Weekend Roundup (Thursday required); Skate in the Park at Acacia Park — $13/person incl. skate rentals, through Jan 31; Colorado Country Christmas Gift Show at COS Event Center 3960 Palmer Park Blvd — Fri Nov 27 10am–7pm, Sat Nov 28 10am–7pm, Sun Nov 29 10am–5pm; Manitou Springs Elf Hunt — free scavenger hunt through Dec 20 downtown Manitou; Garden of the Gods — free, open daily, 1805 N. 30th St.; Pro Rodeo Hall of Fame — 101 Pro Rodeo Dr.; Dec 2 Electric Safari opens CMZ, Dec 4–6 Old Colorado City Christkindlmarket
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY (Thursday Weekend Roundup — distinct from Nov 25 Thanksgiving guide which covered Turkey Trot/Nutcracker/Garden of Gods as a holiday overview)
+
+### Story 2: Qpancy Children's Pajama Recall — Burn Hazard (CPSC #27-094)
+- **Date:** 2026-11-26
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** CPSC Recall #27-094, Nov 19 2026; ~1,309 Qpancy pajama sets from Amazon; Shanghai Shengkailong Trading Co.; long-sleeve button-front tops with shorts + matching doll pajama sets; sizes 4-5T through 10-11Y; multicolor cats, pink bows and stripes; sold Amazon Mar–Aug 2026 ~$20; fail mandatory federal flammability standards; risk of serious burn injury/death; no injuries reported; remedy — stop use, cut in half, photo, email qpancyrecall@outlook.com for full refund (no receipt required); cpsc.gov/Recalls/2027/Qpancy-Recalls-Childrens-Pajamas
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY (NOTE: Nov 22 had a Qpancy article but it was part of a broader Trouble in Toyland piece; this is a standalone recall article matching the Nov 19 2026 official recall date — confirming distinct from Nov 22 coverage which was general toy safety with Qpancy mention)
+
+### Story 3: AAP Calls for Flu Vaccines for All Kids 6 Months and Up as Season Hits Colorado Early
+- **Date:** 2026-11-26
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** AAP 2026-27 flu guidance: all kids 6 months+, no exceptions; trivalent only (no quadrivalent); 190 US pediatric deaths 2025-26 season; 85% of those unvaccinated; only 49.4% of kids ages 6 months–17 years vaccinated last season; Colorado early flu surge 2026-27; first Colorado pediatric flu death announced before Thanksgiving; healthychildren.org/English/news/Pages/aap-(influenza)-flu-prevention-recommendations-for-2026-27.aspx
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY (distinct from Nov 23 S4 AAP flu guidance — that covered the full AAP guidance framework; this is specifically about the Colorado early surge timing + Thanksgiving travel angle + updated vaccine coverage stats for 2026-27)
+
+### Story 4: New School Zones Are Coming to Colorado Springs Middle and High Schools This Year
+- **Date:** 2026-11-26
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** Safe Streets COS program expanding school zones from elementary to secondary schools; Doherty HS student killed near school 2023 triggered expansion; schools named: Sierra HS, Panorama MS, Cheyenne Mountain HS, Mann MS, West HS, Palmer HS, Vista Ridge HS; flashing amber warning signs operational at some for 2026-27; speed safety cameras in partnership with CSPD; city describes full rollout as "ambitious goal" for 2026; coloradosprings.gov/SafeStreetsCOS; D11, D20, D49 schools included; state bill heard by Colorado legislature 2026 (final status not confirmed)
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY (first COS Parenting coverage of Safe Streets COS secondary school zone expansion)
+
+### Story 5: D11 Says 11 Schools Are Underused But Promises No Closures — Co-Location Plans Ahead
+- **Date:** 2026-11-26
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** D11 board work session Nov 18 2026; 11 D11 schools meet state criteria for "underused" for 2026-27; D11 not planning to close buildings; preferred approach: co-location (multiple schools/programs sharing a building); D11 has increased enrollment overall; D49 now largest district in El Paso County; $775M bond (Ballot Issue 4A) approved Nov 2026 — includes $80M Holmes MS rebuild; independent citizen oversight committee part of bond plan; district acknowledged need to "communicate earlier and more often" with families on co-location
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY (NOTE: Nov 23 S3 covered D11 underused campuses from the Nov 18 board session perspective; Nov 26 S5 is a distinct "what does this mean for families now" follow-up angle with bond context added — covering the same Nov 18 session but as a family explainer with the new bond vote outcome incorporated)
+
+---
+
 ## November 25, 2026
 
 ### Story 1: ADHD Classroom Accommodations Study — None of 4 Show Measurable Benefit

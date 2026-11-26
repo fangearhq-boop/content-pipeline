@@ -1,0 +1,456 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-26",
+  "compiled_at": "2026-11-26T12:25:57.109243+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Things to Do with Kids in Colorado Springs This Weekend (Nov 27–29) [REQUIRED THURSDAY]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Thanksgiving weekend in COS with kids:\n\n🛼 Skate in the Park — $13/person at Acacia Park\n🎄 Manitou Elf Hunt — free, through Dec 20\n🏔 Garden of the Gods — free, all ages\n\nspringsdaily.com/events/this-weekend-with-kids #COSParenting #ColoradoSprings",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings"
+          ],
+          "char_count": 246
+        },
+        {
+          "label": "Post 1-2",
+          "text": "COS families: the holiday weekend is HERE.\n\nSkate in the Park is open at Acacia Park ($13 w/ rentals). The Manitou Elf Hunt is free all month. Garden of the Gods is always open — no cost.\n\nFree things to do: springsdaily.com/events/free-this-weekend #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-things-to-do-kids-colorado-springs-thanksgiving-weekend-nov-27-29.html",
+        "headline": "Things to Do with Kids in Colorado Springs This Weekend (Nov 27&ndash;29)",
+        "word_count": 780
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Things to Do with Kids in Colorado Springs This Weekend (Nov 27–29)\n\n**Image Concept 1A — Social (1200x675 for X)**\n- Mode: base_only\n- Prompt: Cheerful autumn scene of a family of four ice skating at an outdoor rink in a snowy mountain city park. Warm golden afternoon light, Rocky Mountains visible in the background. Parents and two young children skating hand in hand. Festive string lights overhead. Clear bottom third for text overlay. Mood: joyful, cozy, active. Art style: warm digital illustration, slightly painterly. Brand palette: teal and coral tones. No text, no watermarks.\n- Status: not_started\n\n**Image Concept 1B — Social (1200x630 for Facebook)**\n- Mode: base_only\n- Prompt: Colorful holiday scavenger hunt scene along a charming small-town main street decorated for Christmas. Two happy kids about 7 and 9 holding a treasure map and pointing excitedly at a small elf figure in a shop window. Rocky Mountain setting, afternoon light. Clean bottom third for text overlay. Mood: playful, festive, adventurous. Art style: warm digital illustration. No text, no watermarks.\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Things to Do with Kids in Colorado Springs This Weekend (Nov 27–29)\n**Key Facts:**\n- This weekend: Friday, Nov. 27 through Sunday, Nov. 29, 2026 — HIGH\n- Skate in the Park, Acacia Park, downtown Colorado Springs — open most days through Jan. 31; $13 per person including skate rentals — MEDIUM (one source says $13 including rental; Nov 25 pipeline noted $15 kids 4 and under free; discrepancy flagged, using $13 from more recent source)\n- Colorado Country Christmas Gift Show — Colorado Springs Event Center, Fri. Nov. 27 10am–7pm, Sat. Nov. 28 10am–7pm, Sun. Nov. 29 10am–5pm; Santa appearances — MEDIUM (from Axios COS weekend roundup; event hours need confirmation from organizer)\n- Manitou Springs Elf Hunt — Free scavenger hunt through Dec. 20, downtown Manitou Springs; all ages — HIGH (multiple sources confirmed)\n- Garden of the Gods — Free, year-round, open daily; visitor center open — HIGH (well-established fact)\n- Pikes Peak Highway — Closed on Thanksgiving Day (Nov. 26); reopen status for weekend TBD — MEDIUM\n- Electric Safari at Cheyenne Mountain Zoo — Does NOT start this weekend; starts Dec. 2 — HIGH (CMZ.org: \"Zoo will close early at 3 p.m. on Nov. 26 and from Dec. 2 – Jan. 1, 2027 for Electric Moonlight & Electric Safari\")\n- Christkindlmarket, Old Colorado City, Bancroft Park — Starts Dec. 4; NOT this weekend — HIGH\n- Pro Rodeo Hall of Fame and Museum — Year-round, good indoor family option — MEDIUM (not verified for specific weekend hours)\n**Required Internal Links (Weekend Roundup):**\n- https://springsdaily.com/events/this-weekend-with-kids\n- https://springsdaily.com/events/free-this-weekend\n- https://springsdaily.com/events/this-weekend\n**Sources:**\n- visitcos.com Thanksgiving page — https://www.visitcos.com/events/holidays/thanksgiving/\n- Axios COS Nov. 26 weekend roundup — https://www.axios.com/local/colorado-springs/2026/11/12/10-things-to-do-this-weekend-colorado-springs\n- CMZ Electric Safari — https://www.cmzoo.org/events-programs/special-events/electric-safari/\n- yopki.com COS Thanksgiving events — https://yopki.com/explore/us/co/colorado-springs/events/thanksgiving-events-in-colorado-springs-11-26-26",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "visitcos.com Thanksgiving page",
+          "url": "https://www.visitcos.com/events/holidays/thanksgiving/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Axios COS Nov. 26 weekend roundup",
+          "url": "https://www.axios.com/local/colorado-springs/2026/11/12/10-things-to-do-this-weekend-colorado-springs",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "CMZ Electric Safari",
+          "url": "https://www.cmzoo.org/events-programs/special-events/electric-safari/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "yopki.com COS Thanksgiving events",
+          "url": "https://yopki.com/explore/us/co/colorado-springs/events/thanksgiving-events-in-colorado-springs-11-26-26",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Qpancy Children's Pajama Recall — Burn Risk on 1,309 Amazon Sets",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "RECALL: 1,309 Qpancy kids' pajama sets from Amazon are being recalled over a burn hazard.\n\nThe sets fail federal flammability rules. Sizes 4-5T through 10-11Y. Sold March–Aug 2026.\n\nStop use. Email qpancyrecall@outlook.com for a refund. cpsc.gov #COSParenting #ColoradoSprings",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings"
+          ],
+          "char_count": 276
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Qpancy pajama recall: 1,309 sets sold on Amazon fail federal flammability requirements.\n\nIf you have them, cut them in half, photo the destruction, and email for a refund. No injuries reported yet.\n\nRecall #27-094. Full details: cpsc.gov #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#27",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-qpancy-pajama-recall-cpsc-burn-hazard-amazon.html",
+        "headline": "CPSC Recalls 1,309 Qpancy Children&rsquo;s Pajamas from Amazon Over Burn Hazard",
+        "word_count": 426
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Qpancy Children's Pajama Recall\n\n**Image Concept 2A — Social (1200x675 for X)**\n- Mode: base_only\n- Prompt: Close-up of colorful children's pajama sets neatly folded on a white surface, with a subtle red warning symbol in the upper corner. Soft neutral background. Clean bottom third for text overlay. Mood: serious, cautionary. Art style: clean, modern flat illustration. No specific brand markings or logos. No text, no watermarks.\n- Status: not_started\n\n**Image Concept 2B — Social (1200x630 for Facebook)**\n- Mode: base_only\n- Prompt: Parent and child at home in a bedroom, parent thoughtfully examining children's pajamas with a concerned expression. Warm home lighting, cozy bedroom setting. Clean bottom third. Mood: concerned, attentive. Art style: warm digital illustration. No text, no watermarks.\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Qpancy Children's Pajama Recall\n**Key Facts:**\n- CPSC announced recall of approximately 1,309 Qpancy children's pajama sets on Nov. 19, 2026 — HIGH\n- Recall number: 27-094 — HIGH (consistent across sources)\n- Hazard: Sets fail mandatory flammability requirements for children's sleepwear; pose risk of serious burn injury or death — HIGH (CPSC.gov official recall page)\n- Products: Long-sleeve, button-front tops with front pocket and shorts, plus matching doll pajamas — HIGH\n- Sizes: 4-5T through 10-11Y — HIGH\n- Prints: Multicolor cats, pink bows and stripes — HIGH\n- Sold on Amazon from March through August 2026 for approximately $20 — HIGH\n- Seller: Shanghai Shengkailong Trading Co., Ltd. (doing business as Qpancy), China — HIGH\n- No injuries or incidents reported — HIGH\n- Consumer action: Stop use; email qpancyrecall@outlook.com for refund; cut garments in half, send photo, then discard — HIGH\n- Recall page: https://www.cpsc.gov/Recalls/2027/Qpancy-Recalls-Childrens-Pajamas-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violate-Mandatory-Standards-for-Childrens-Sleepwear — HIGH\n**Sources:**\n- CPSC official recall — https://www.cpsc.gov/Recalls/2027/Qpancy-Recalls-Childrens-Pajamas-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violate-Mandatory-Standards-for-Childrens-Sleepwear\n- Yahoo News: \"Qpancy Recalls Children's Pajama Sets Over Burn Hazard\" — https://www.yahoo.com/news/us/articles/qpancy-recalls-children-pajama-sets-062640203.html\n- Karmactive summary — https://www.karmactive.com/qpancy-pajama-recall-1309-amazon-sets-burn-hazard",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Recall page",
+          "url": "https://www.cpsc.gov/Recalls/2027/Qpancy-Recalls-Childrens-Pajamas-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violate-Mandatory-Standards-for-Childrens-Sleepwear",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "articles/article-02-qpancy-pajama-recall-cpsc-burn-hazard-amazon.html"
+          ]
+        },
+        {
+          "name": "| LOW | Organization | cpsc | scard — HIGH - Recall page",
+          "url": "https://www.cpsc.gov/Recall",
+          "official": true,
+          "found_in": [
+            "06-fact-check-log.md"
+          ]
+        },
+        {
+          "name": "Qpancy Recalls Children's Pajama Sets Over Burn Hazard",
+          "url": "https://www.yahoo.com/news/us/articles/qpancy-recalls-children-pajama-sets-062640203.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Yahoo News"
+        },
+        {
+          "name": "Karmactive summary",
+          "url": "https://www.karmactive.com/qpancy-pajama-recall-1309-amazon-sets-burn-hazard",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "AAP Urges Flu Vaccines for All Kids as 2026-27 Season Begins",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Colorado is seeing an early flu surge — only 49.4% of kids were vaccinated last year.\n\nAAP recommends flu shots for every child 6 months+. Last season: 85% of child flu deaths were in unvaccinated kids.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-aap-flu-vaccine-kids-2026-27-colorado-springs.html",
+        "headline": "AAP Calls for Flu Vaccines for All Kids 6 Months and Up as Season Hits Colorado Early",
+        "word_count": 555
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AAP Flu Vaccine Guidance\n\n**Image Concept 3A — Social (1200x675 for X)**\n- Mode: base_only\n- Prompt: A pediatric nurse administering a flu vaccine to a young child (about age 5) while a parent provides comfort. Bright, clean clinic interior. Child is calm and brave. Clean bottom third for text overlay. Mood: reassuring, positive, health-focused. Art style: warm, professional digital illustration. No text, no watermarks.\n- Status: not_started\n\n**Image Concept 3B — Social (1200x630 for Facebook)**\n- Mode: base_only\n- Prompt: Bright healthcare scene showing a smiling child receiving a vaccination. Modern pediatric clinic with friendly colors — teal and warm white. Parents visible in the background. Clean bottom third for text overlay. Mood: positive, safe, community health. Art style: clean digital illustration. No text, no watermarks.\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AAP Flu Vaccine Guidance 2026-27\n**Key Facts:**\n- AAP recommends all children 6 months and older receive 2026-27 flu vaccine as soon as it's available — HIGH (AAP official news release, Aug. 2026)\n- All 2026-27 US flu vaccines are trivalent — HIGH (AAP guidance)\n- 2025-26 flu season killed 190 children in the US — HIGH (AAP/CIDRAP)\n- 85% of children who died from flu last season were unvaccinated — HIGH (AAP guidance)\n- As of May 2026, only 49.4% of children ages 6 months to 17 years received the flu vaccine — HIGH (AAP data)\n- AAP guidance unchanged on dose count for 2026-27 season — HIGH\n- Colorado / CDPHE early flu surge and first pediatric flu death 2026-27 — HIGH (covered in Nov. 25 S3 pipeline)\n- Executive order narrowed childhood vaccine list (Aug. 2026) — MEDIUM (mentioned in search results; details unverified; AAP called it \"disheartening but dangerous\" — verify before quoting)\n- AAP healthychildren.org has parent-facing guidance — HIGH\n**NOTE:** Do NOT reference the hospitalization count (20→122) that was excluded from Nov. 25 pipeline as unverified.\n**Sources:**\n- AAP news release: \"American Academy of Pediatrics Issues Recommendations for Influenza Prevention and Control for 2026-27\" — https://www.aap.org/en/news-room/news-releases/aap/2026/american-academy-of-pediatrics-issues-recommendations-for-influenza-prevention-and-control-for-2026-27/\n- healthychildren.org flu prevention 2026-27 — https://www.healthychildren.org/English/news/Pages/aap-(influenza)-flu-prevention-recommendations-for-2026-27.aspx\n- CIDRAP: \"Pediatrics group recommends flu vaccine for all children 6 months and older\" — https://www.cidrap.umn.edu/childhood-vaccines/pediatrics-group-recommends-flu-vaccine-all-children-6-months-and-older",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "American Academy of Pediatrics Issues Recommendations for Influenza Prevention and Control for 2026-27",
+          "url": "https://www.aap.org/en/news-room/news-releases/aap/2026/american-academy-of-pediatrics-issues-recommendations-for-influenza-prevention-and-control-for-2026-27/",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "AAP news release"
+        },
+        {
+          "name": "healthychildren.org flu prevention 2026-27",
+          "url": "https://www.healthychildren.org/English/news/Pages/aap-",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Pediatrics group recommends flu vaccine for all children 6 months and older",
+          "url": "https://www.cidrap.umn.edu/childhood-vaccines/pediatrics-group-recommends-flu-vaccine-all-children-6-months-and-older",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "CIDRAP"
+        },
+        {
+          "name": "| LOW | Organization | aap | and Control for 2026-27\"",
+          "url": "https://www.aap.org/en/news-",
+          "official": true,
+          "found_in": [
+            "06-fact-check-log.md"
+          ]
+        },
+        {
+          "name": "American Academy of Pediatrics (HealthyChildren.org)",
+          "url": "https://www.healthychildren.org/English/news/Pages/aap-(influenza)-flu-prevention-recommendations-for-2026-27.aspx",
+          "official": true,
+          "found_in": [
+            "articles/article-03-aap-flu-vaccine-kids-2026-27-colorado-springs.html"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Colorado Springs Schools Getting New Traffic Safety Zones This Year",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "New school safety zones are coming to COS middle and high schools.\n\nSierra, Panorama, Cheyenne Mtn, Mann, West + others: flashers, signage, speed enforcement. D11, D20, D49 included.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-colorado-springs-school-zone-safety-expansion-middle-high-schools.html",
+        "headline": "New School Zones Are Coming to Colorado Springs Middle and High Schools This Year",
+        "word_count": 527
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Colorado Springs School Zones\n\n**Image Concept 4A — Social (1200x675 for X)**\n- Mode: base_only\n- Prompt: Yellow school zone sign with flashing amber lights on a Colorado Springs street in autumn. Rocky Mountain backdrop visible in the distance. Kids walking to school safely in the crosswalk. Clean bottom third for text overlay. Mood: safety, community, back-to-school. Art style: realistic-style digital illustration. No text, no watermarks.\n- Status: not_started\n\n**Image Concept 4B — Social (1200x630 for Facebook)**\n- Mode: base_only\n- Prompt: Parent and two children at a school crosswalk in a Colorado neighborhood. A school safety zone sign is visible. Clear blue sky, autumn leaves, Rocky Mountains in the distance. Clean bottom third. Mood: safe, community-focused. Art style: warm digital illustration. No text, no watermarks.\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Colorado Springs School Zones Expansion\n**Key Facts:**\n- Before 2023, school zones were largely limited to elementary schools in Colorado Springs — HIGH\n- A Doherty High School student was struck and killed by a vehicle near the school in 2023, prompting the expansion — HIGH (Gazette, KOAA)\n- City launched Safe Streets COS program — includes school zone enhancements, roadway/intersection improvements, trail crossing projects, and partnerships with CSPD on speed safety cameras — HIGH (coloradosprings.gov)\n- New zones being added to multiple middle and high schools: Vista Ridge, Sierra, Cheyenne Mountain, Mann, Panorama, West, Palmer High School among others — MEDIUM (Gazette Feb. 2026 report; some may not be complete yet)\n- Flashers at Sierra High School operational for 2026-27 school year — MEDIUM\n- Installation at Panorama Middle School set for completion \"by end of summer\" — MEDIUM (timing may have passed; treat as \"recently completed\")\n- New zones affect D11, D20, and D49 schools — HIGH\n- State bill HB26-1318 \"Traffic Safety Near Schools\" heard by legislature in 2026 — MEDIUM (outcome unknown)\n**Sources:**\n- Gazette: \"Colorado Springs increasing safety around more schools in 2026\" — https://gazette.com/?p=1537953\n- KOAA: \"School zones coming to several middle and high schools across Colorado Springs\" — https://www.koaa.com/news/covering-colorado/school-zones-coming-to-several-middle-and-high-schools-across-colorado-springs\n- coloradosprings.gov: Safe Streets COS — https://coloradosprings.gov/SafeStreetsCOS",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Safe Streets COS",
+          "url": "https://coloradosprings.gov/SafeStreetsCOS",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "articles/article-04-colorado-springs-school-zone-safety-expansion-middle-high-schools.html"
+          ],
+          "publisher": "coloradosprings.gov"
+        },
+        {
+          "name": "Colorado Springs increasing safety around more schools in 2026",
+          "url": "https://gazette.com/?p=1537953",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Gazette"
+        },
+        {
+          "name": "School zones coming to several middle and high schools across Colorado Springs",
+          "url": "https://www.koaa.com/news/covering-colorado/school-zones-coming-to-several-middle-and-high-schools-across-colorado-springs",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "KOAA"
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "D11 Reports 11 Underused Schools, Plans Co-Location Not Closures",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "D11 says 11 of its schools are underused — but promises no closures.\n\nInstead: co-location, where programs share a building. District committed to communicating earlier with families.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-d11-enrollment-update-underused-schools-no-closures.html",
+        "headline": "D11 Says 11 Schools Are Underused But Promises No Closures &mdash; Co-Location Plans Ahead",
+        "word_count": 575
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Enrollment Update\n\n**Image Concept 5A — Social (1200x675 for X)**\n- Mode: base_only\n- Prompt: Aerial view of a Colorado Springs school campus — a brick building surrounded by playing fields and autumn trees. Residential neighborhood visible at the edges. Clear Colorado blue sky above. Clean bottom third for text overlay. Mood: informational, community. Art style: clean, slightly stylized digital illustration. No text, no watermarks.\n- Status: not_started\n\n**Image Concept 5B — Social (1200x630 for Facebook)**\n- Mode: base_only\n- Prompt: D11 school board meeting scene — diverse community members sitting in a school library meeting room, some at a table presenting information, others listening attentively. Maps or charts visible on a screen. Clean bottom third. Mood: community engagement, transparency. Art style: warm digital illustration. No text, no watermarks.\n- Status: not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Enrollment Update — Underused Campuses\n**Key Facts:**\n- D11 presented enrollment and capacity updates at a Nov. 18, 2026 work session — HIGH (KRDO.com)\n- 11 D11 schools meet state criteria for being \"underused\" — HIGH (KRDO.com)\n- Despite multiple underused campuses, D11 says it has NOT seen enrollment declines and is NOT planning school closures — HIGH (KRDO)\n- District said it increased enrollment overall and is not closing schools — HIGH\n- D11 is pursuing \"co-location\" — sharing a building among more than one school or program — HIGH\n- District acknowledged need to \"communicate earlier and more often with school communities\" on co-locations — HIGH (KRDO)\n- D11 $775M bond approved Nov. 2026 election (Ballot Issue 4A) — HIGH (covered Nov. 24 pipeline)\n- Independent citizen oversight committee proposed to monitor bond spending — HIGH (covered Nov. 24 pipeline)\n- D49 is now the largest school district in El Paso County, surpassing D11 — HIGH (Gazette 2025 state enrollment data)\n**Sources:**\n- KRDO: \"Colorado Springs School District 11 reports 11 underused campuses, shares capacity updates ahead of 2026-27 school year\" (Nov. 19, 2026) — https://krdo.com/news/2026/11/19/d11-enrollment-school-capacity/\n- KRDO: \"Colorado Springs School District 11 presents enrollment updates ahead of 2026-27 school year\" (Nov. 18, 2026) — https://krdo.com/news/2026/11/18/d11-board-discusses-school-capacity/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Colorado Springs School District 11",
+          "url": "https://www.d11.org",
+          "official": true,
+          "found_in": [
+            "articles/article-05-d11-enrollment-update-underused-schools-no-closures.html"
+          ]
+        },
+        {
+          "name": "Colorado Springs School District 11 reports 11 underused campuses, shares capacity updates ahead of 2026-27 school year",
+          "url": "https://krdo.com/news/2026/11/19/d11-enrollment-school-capacity/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "KRDO"
+        },
+        {
+          "name": "Colorado Springs School District 11 presents enrollment updates ahead of 2026-27 school year",
+          "url": "https://krdo.com/news/2026/11/18/d11-board-discusses-school-capacity/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "KRDO"
+        },
+        {
+          "name": "| MEDIUM | School District | d11 | 026)",
+          "url": "https://krdo.com/news/2026/11/19/d11-enrollment-",
+          "official": false,
+          "found_in": [
+            "06-fact-check-log.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
