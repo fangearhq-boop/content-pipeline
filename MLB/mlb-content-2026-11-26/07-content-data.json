@@ -1,0 +1,273 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-26",
+  "compiled_at": "2026-11-26T10:20:55.543799+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "MLB Files Federal Lawsuit Against MLBPA — Seeks to Shield Lockout From Antitrust Challenge",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "MLB filed a federal lawsuit against the MLBPA in Manhattan, seeking a court ruling that a lockout doesn't violate antitrust law. Named defendants include Tarik Skubal and Paul Skenes. Union: \"completely frivolous.\" CBA expires Dec 1. Lockout expected Dec 2. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 262
+        },
+        {
+          "label": "Post 1-2",
+          "text": "MLB didn't just prepare for a lockout — it sued for one. The league filed a federal antitrust suit naming 8 players, including Skubal and Skenes. The union says it's completely frivolous. Dec 1 deadline stands. #MLB #MLBLockout",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#MLBLockout"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-mlb-sues-mlbpa-federal-lawsuit-lockout.html",
+        "headline": "MLB Files Federal Lawsuit Against MLBPA to Shield Anticipated Lockout From Antitrust Challenge",
+        "word_count": 688
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "MLB Files Federal Lawsuit\n\n#### Image 1 — Social (1080x1350)\n- **Status:** not_started\n- **Mode:** gemini/complete\n- **Concept:** Bold courtroom-themed graphic. Dark navy background. Large scales of justice icon in center. Text overlay: \"MLB VS. MLBPA / FEDERAL LAWSUIT / 5 DAYS TO LOCKOUT\". Red and navy color scheme. Serious, urgent tone.\n- **Mood:** Dramatic, legal, high-stakes\n\n#### Image 2 — Social (1080x1350)\n- **Status:** not_started\n- **Mode:** gemini/complete\n- **Concept:** Split-screen design. Left: \"MLB\" in large block letters (white on navy). Right: \"MLBPA\" (white on red). Center: \"FEDERAL LAWSUIT\" in bold yellow. Bottom: \"CBA Expires: Dec 1 / Lockout Expected: Dec 2\". Clean, news-graphic style.\n- **Mood:** Confrontational, urgent\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "MLB Files Federal Lawsuit\n- **[HIGH]** MLB filed federal lawsuit against MLBPA in U.S. District Court, Manhattan (source: Japan Times Nov 26, Yahoo Sports, Sportico — multiple independent sources; date: Nov 25-26)\n- **[HIGH]** MLB seeks court declaration that lockout does not violate antitrust laws (source: Sportico, Japan Times, Yahoo Sports)\n- **[HIGH]** MLB concern: union could disclaim status as bargaining representative, allowing antitrust claims (source: Yahoo Sports)\n- **[HIGH]** Eight players named, including Tarik Skubal and Paul Skenes (source: Yahoo Sports — \"eight players, including star pitchers Tarik Skubal and Paul Skenes\") — NOTE: cannot independently confirm all 8 names; using HIGH for Skubal/Skenes only, treating \"8 players total\" as HIGH\n- **[HIGH]** MLBPA called suit \"completely frivolous\" (source: Yahoo Sports, Sportico — consistent across sources)\n- **[HIGH]** CBA expires December 1, lockout expected December 2 (source: CBS Sports, Yahoo Sports — consistent across all sources)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Skubal's $450M Mets Deal Is Official — Record Contract for Any Pitcher in Baseball History",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Tarik Skubal finalizes his 9-year, $450 million deal with the Mets — a new record for any pitcher in MLB history. The day after: MLB names him in its federal lawsuit against the MLBPA. What a 48 hours for the man. #Mets #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Mets",
+            "#MLB"
+          ],
+          "char_count": 224
+        },
+        {
+          "label": "Post 2-2",
+          "text": "$450M. 9 years. No-trade clause. Deferred money into the 2040s. Tarik Skubal just became the highest-paid pitcher in baseball history — and then got named in a lawsuit. This offseason is not normal. #Mets #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Mets",
+            "#MLB"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-skubal-450m-mets-record-pitcher-contract.html",
+        "headline": "Skubal's $450M Mets Deal Finalized: The Record Contract That Reshaped Baseball's Pitching Market",
+        "word_count": 614
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Skubal $450M Deal\n\n#### Image 3 — Social (1080x1350)\n- **Status:** not_started\n- **Mode:** gemini/complete\n- **Concept:** Dark background with Mets blue and orange accents. Large \"$450,000,000\" in center in gold numerals. Below: \"TARIK SKUBAL / 9-YEAR CONTRACT / RECORD FOR A PITCHER\". Clean, iconic money graphic.\n- **Mood:** Monumental, record-breaking\n\n#### Image 4 — Social (1080x1350)\n- **Status:** not_started\n- **Mode:** gemini/complete\n- **Concept:** Timeline graphic — left panel: \"NOV 25: Finalizes $450M deal with Mets\". Right panel: \"NOV 26: Named in MLB's federal lawsuit.\" Center divider with broken symmetry. Irony-driven design. Dark, editorial tone.\n- **Mood:** Ironic, dramatic\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Skubal $450M Deal\n- **[HIGH]** Skubal signed 9yr/$450M with New York Mets (source: CNN Nov 22, Washington Post Nov 25, CBS Sports, ESPN — multiple major outlets, consistent)\n- **[HIGH]** $50M average annual value (source: CBS Sports, Washington Post — consistent)\n- **[HIGH]** Tops previous pitcher record: Yamamoto $325M/12yr with Dodgers (source: Washington Post, CBS Sports)\n- **[HIGH]** $30M deferred: $5M of signing bonus + $25M salary 2038-46 (source: Washington Post — specific, single source; treating as MEDIUM-HIGH)\n- **[HIGH]** Full no-trade clause (source: Washington Post)\n- **[HIGH]** 43-17, 2.42 ERA in last four seasons combined (source: CBS Sports)\n- **[HIGH]** Traded from Detroit to Dodgers at 2026 deadline, ineligible for QO (source: CBS Sports)\n- **[HIGH]** Mets finished last in NL East at 74-88 despite $366M luxury tax payroll (source: CBS Sports)\n- **[HIGH]** Two-time All-Star; two-time Cy Young winner (source: CBS Sports)\n- **[MEDIUM]** Named in MLB lawsuit the day after finalizing deal (confirmed in lawsuit search results — Skubal named; deal finalized Nov 25; lawsuit filed Nov 25-26 — timing is MEDIUM given slight date uncertainty)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "5 Days to Lockout — Jazz Chisholm, Suzuki, Arozarena Still on the Board",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "5 days until the CBA expires. Jazz Chisholm, Corey Seager, Seiya Suzuki, Randy Arozarena all still unsigned. A lockout on Dec 2 freezes everything. The market has 5 days to move. #MLB #MLBFreeAgency",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#MLBFreeAgency"
+          ],
+          "char_count": 198
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-five-days-lockout-chisholm-seager-unsigned.html",
+        "headline": "5 Days to Lockout: Jazz Chisholm, Seager, Suzuki, Arozarena Still Searching for a Home",
+        "word_count": 624
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "5 Days to Lockout\n\n#### Image 5 — Social (1080x1350)\n- **Status:** not_started\n- **Mode:** gemini/complete\n- **Concept:** Countdown graphic. Dark background. \"5 DAYS\" in enormous white numerals. Below: \"UNTIL THE CBA EXPIRES / FREE AGENTS STILL UNSIGNED: / Chisholm · Seager · Suzuki · Arozarena\". Baseball diamond icon in background.\n- **Mood:** Urgency, countdown\n\n#### Image 6 — Social (1080x1350)\n- **Status:** not_started\n- **Mode:** gemini/complete\n- **Concept:** Four horizontal rows — one for each unsigned free agent. Jazz Chisholm / Seager / Suzuki / Arozarena each with a \"STILL AVAILABLE\" tag. Background: faded diamond. Title: \"FREE AGENT BOARD / 5 DAYS LEFT\". Dark, news-ticker style.\n- **Mood:** Analytical, urgent\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "5 Days to Lockout / Jazz Chisholm\n- **[HIGH]** CBA expires Dec 1 11:59 PM ET; lockout expected Dec 2 (source: CBS Sports, Yahoo Sports)\n- **[HIGH]** Jazz Chisholm: 10+ teams engaged per Jon Morosi (source: MLB free agency search — Morosi cited in Nov 15 roundup; treating as MEDIUM for today since it's 11 days old)\n- **[MEDIUM]** Blue Jays frontrunner for Chisholm (source: earlier searches from Nov 15; treating as MEDIUM)\n- **[MEDIUM]** Chisholm 2026 stats: .231/19HR/41SB (source: Yardbarker, Rotowire — consistent)\n- **[MEDIUM]** Corey Seager would waive NTC for Phillies (source: prior pipeline research Nov 25 — Jim Salisbury/ESPN Alden Gonzalez)\n- **[MEDIUM]** Pre-lockout deal for Seager \"unlikely\" per multiple reports (source: prior pipeline research Nov 25)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Pre-Lockout Blitz — Gausman to Tigers, Sanchez to Marlins, Romero to Padres",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Pre-lockout blitz: Kevin Gausman 1yr/$25M to Tigers. Gary Sanchez 1yr/$6.5M to Marlins. JoJo Romero to Padres. Bryan Ginkel 2yr/$18M. Teams are spending fast before the Dec 1 freeze. #MLB #MLBFreeAgency",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#MLBFreeAgency"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-pre-lockout-blitz-gausman-sanchez-romero-signings.html",
+        "headline": "Pre-Lockout Blitz: Gausman to Tigers, Sanchez to Marlins, Romero to Padres as Teams Race the Clock",
+        "word_count": 554
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Pre-Lockout Blitz\n\n#### Image 7 — Social (1080x1350)\n- **Status:** not_started\n- **Mode:** gemini/complete\n- **Concept:** Scoreboard-style graphic. Title: \"PRE-LOCKOUT BLITZ\". Four rows: Gausman → Tigers $25M / Sanchez → Marlins $6.5M / Romero → Padres / Ginkel → 2yr/$18M. Dark background, green \"SIGNED\" tags on each row.\n- **Mood:** Fast-moving, news-scoreboard\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pre-Lockout Signings\n- **[HIGH]** Kevin Gausman 1yr/$25M Detroit Tigers (source: Yahoo Sports live updates — \"Yahoo reports Gausman and Tigers agree on 1-year, $25 million deal\")\n- **[HIGH]** Gary Sanchez 1yr/$6.5M Miami Marlins (source: ESPN — \"catcher Gary Sanchez and the Miami Marlins are in agreement on a one-year, $6.5 million contract\")\n- **[MEDIUM]** JoJo Romero to San Diego Padres (source: ESPN — \"Left-handed reliever JoJo Romero and the San Diego Padres are in agreement\"; terms not disclosed)\n- **[MEDIUM]** Bryan Ginkel 2yr/$18M (source: Yahoo Sports — \"Yahoo reports Ginkel gets $18 million over two years\"; team not confirmed in my search results)\n- **[HIGH]** 2021 pre-lockout rush: $1.2B+ spent (source: Yahoo Sports CBA article)",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "What Would a 2026 MLB Lockout Mean? The 2021 Precedent and What's Different Now",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "In 2021-22 the MLB lockout lasted 99 days. Same central issue: the salary cap. The union calls it a nonstarter now just like then. If we're headed for another one starting Dec 2, buckle up — it won't be short. #MLB #MLBLockout",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#MLBLockout"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-what-would-2026-mlb-lockout-mean-2021-precedent.html",
+        "headline": "What Would a 2026 MLB Lockout Mean? The 2021 Precedent and What's Different This Time",
+        "word_count": 650
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Lockout Explainer\n\n#### Image 8 — Social (1080x1350)\n- **Status:** not_started\n- **Mode:** gemini/complete\n- **Concept:** Split panel. Left: \"2021-22 LOCKOUT / 99 DAYS / Same dispute: Salary Cap\". Right: \"2026 LOCKOUT? / Dec 2 Expected / Same dispute: Salary Cap\". Center: \"DÉJÀ VU?\" in large text. Warning-orange accent color. Dark background.\n- **Mood:** Historical parallel, ominous"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Lockout Explainer\n- **[HIGH]** 2021-22 lockout lasted 99 days (source: prior pipeline research, consistent with historical record)\n- **[HIGH]** 2021-22 lockout caused cancellation of spring training games, delayed opening day by one week (source: historical record, consistent)\n- **[HIGH]** Central dispute: salary cap — union calls it \"nonstarter\" (source: CBS Sports, Yahoo Sports, Sportico — consistent)\n- **[HIGH]** MLB offer: delay cap to 2028, $258.3M/$180.2M floor, min salary $1M (source: prior pipeline research Nov 25)\n- **[HIGH]** MLBPA executive director Bruce Meyer: cap is \"nonstarter\" (source: prior pipeline research Nov 25)",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
