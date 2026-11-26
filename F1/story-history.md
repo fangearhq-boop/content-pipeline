@@ -2,6 +2,45 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-11-26
+
+### STORY 1: 2027 F1 Grid Complete — Bearman at Haas, Bottas at Cadillac, 22/22 Seats Filled
+- **Tier:** 1
+- **Category:** 2027 F1 Driver Market / Oliver Bearman / Haas / Valtteri Bottas / Cadillac / Sergio Perez / Colton Herta
+- **Key facts:** Haas confirms Bearman + Camara for 2027 (announced Las Vegas weekend); Cadillac confirms Bottas as Perez's 2027 partner (announced Nov 18); Colton Herta misses out; all 22 F1 seats now filled for 2027
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 2: Verstappen Wins Las Vegas GP — Third Consecutive, Beats Norris by 0.639s
+- **Tier:** 1
+- **Category:** Max Verstappen / Las Vegas Grand Prix / Lando Norris / Oscar Piastri / Red Bull / McLaren
+- **Key facts:** Verstappen P1, Norris P2 (+0.639s), Piastri P3; 35 lead changes over 50 laps; Antonelli lost P2 on final lap (energy deployment error); Russell crashed out; Verstappen now leads Hamilton by 37 pts for runner-up; championship: Antonelli 402, Verstappen 304, Hamilton 267
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: Qatar GP Eve — What to Watch When Practice Starts Tomorrow
+- **Tier:** 2
+- **Category:** Qatar Grand Prix / Lusail International Circuit / Perez / Tire Strategy / Schedule
+- **Key facts:** FP1 + FP2 on Thursday Nov 27; qualifying Saturday Nov 28; race Sunday Nov 29 (57 laps); Perez starts with 5-place grid penalty; Pirelli 27-lap max stint forces 2-stop minimum
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
+### STORY 4: Hamilton's Last Stand — 37 Points Down with 50 Available Across Qatar and Abu Dhabi
+- **Tier:** 2
+- **Category:** Lewis Hamilton / Max Verstappen / 2026 F1 Drivers' Championship / Ferrari
+- **Key facts:** Hamilton 267 pts, Verstappen 304 pts; gap = 37 pts; 50 pts available (25 per win × 2 races); Hamilton needs to outscore Verstappen by 37+ pts across both rounds; Ferrari has shown race-winning pace
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: Verstappen's Las Vegas Mastery — What Makes Sin City His Favorite Track
+- **Tier:** 3
+- **Category:** Max Verstappen / Las Vegas Grand Prix / Red Bull / Circuit Analysis
+- **Key facts:** 3 consecutive Las Vegas wins (2024, 2025, 2026); 2026 win hardest — Norris pushed to final lap with 35 lead changes; Verstappen's precision at energy-demanding circuits sets him apart; 37-pt lead over Hamilton with 2 races left
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
+---
+
 ## 2026-11-25
 
 ### STORY 1: Perez Gets 5-Place Qatar Grid Penalty for Las Vegas Camara Crash

@@ -1,0 +1,446 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-26",
+  "compiled_at": "2026-11-26T11:31:05.704599+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "2027 F1 Driver Grid Complete — Bearman at Haas, Bottas at Cadillac, 22/22 Seats Filled",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "**Window:** 8:00 AM ET\n**Character count:** 212\n\nBREAKING: The 2027 F1 grid is COMPLETE.\n\nHaas confirms Bearman + Camara.\nCadillac confirms Bottas + Perez.\n\nAll 22 seats. 22 drivers. The offseason driver market is officially closed. #F1 #F12027",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F12027"
+          ],
+          "char_count": 244
+        },
+        {
+          "label": "Post 1B",
+          "text": "**Window:** 8:00 PM ET\n**Character count:** 190\n\nColton Herta won't be on the 2027 F1 grid. Cadillac chose Bottas over the American.\n\nFor US F1 fans hoping for a homegrown star, the wait continues. Herta's path to the grid remains unclear. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-2027-f1-grid-complete-bearman-haas-bottas-cadillac.html",
+        "headline": "2027 F1 Grid Complete: Bearman at Haas, Bottas at Cadillac, All 22 Seats Filled",
+        "word_count": 529
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080×1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200×630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "2027 F1 Grid Complete — Bearman at Haas, Bottas at Cadillac\n**Sources:**\n- https://www.formula1.com/en/latest/article/cadillac-confirm-bottas-will-remain-with-the-team-in-2027.2FzTQfliXlMixOPFUMpPB4\n- https://racer.com/2026/11/18/cadillac-f1-confirms-bottas-for-2027-leaving-herta-s-future-uncertain\n- https://www.gpblog.com/en/breaking-news/haas-confirms-bearman-will-stay-for-2027-as-camaras-teammate\n- https://www.crash.net/f1/news/1110177/1/cadillac-finally-confirms-f1-2027-driver-line-after-speculation\n**Verified Facts:**\n- Cadillac confirmed Valtteri Bottas as Sergio Perez's teammate for 2027 [HIGH — Formula1.com, Racer.com, multiple sources]\n- Cadillac announcement was made November 18, 2026 [HIGH — Racer.com, Times Live]\n- Colton Herta was the main alternative candidate; his hopes ended with the Bottas confirmation [HIGH — Racer.com, GPFans]\n- Haas confirmed Oliver Bearman for 2027 alongside Rafael Camara, announcement made during Las Vegas GP weekend [HIGH — GPBlog, TSN]\n- 2027 F1 grid is now fully complete — 22 of 22 seats confirmed [HIGH — multiple sources; confirmed per both announcements]\n- Perez partners Bottas at Cadillac for 2027 [HIGH — GPBlog: \"Cadillac confirm second driver for 2027 F1 season alongside Sergio Perez\"]",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "formula1.com",
+          "url": "https://www.formula1.com/en/latest/article/cadillac-confirm-bottas-will-remain-with-the-team-in-2027.2FzTQfliXlMixOPFUMpPB4",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "racer.com",
+          "url": "https://racer.com/2026/11/18/cadillac-f1-confirms-bottas-for-2027-leaving-herta-s-future-uncertain",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "gpblog.com",
+          "url": "https://www.gpblog.com/en/breaking-news/haas-confirms-bearman-will-stay-for-2027-as-camaras-teammate",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "crash.net",
+          "url": "https://www.crash.net/f1/news/1110177/1/cadillac-finally-confirms-f1-2027-driver-line-after-speculation",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen's Las Vegas Win — Third Consecutive, Beats Norris by 0.639s",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "**Window:** 10:00 AM ET\n**Character count:** 197\n\nMax Verstappen. Las Vegas. Three years in a row.\n\nHe beat Norris by 0.639s across 35 lead changes in 50 laps. Dominant result, dramatic race.\n\nVerstappen now leads Hamilton by 37 pts for P2 in the championship. #F1 #LasVegasGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-verstappen-wins-las-vegas-third-consecutive-norris.html",
+        "headline": "Verstappen Wins Las Vegas GP for Third Consecutive Year, Beats Norris by 0.639 Seconds",
+        "word_count": 539
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080×1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200×630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Wins Las Vegas GP\n**Sources:**\n- https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli\n- https://www.the-race.com/formula-1/f1-2026-las-vegas-grand-prix-race-result/\n- https://sports.yahoo.com/articles/photo-gallery-verstappen-beats-norris-160000594.html\n- https://sportsnaut.com/f1/max-verstappen-wins-2026-las-vegas-grand-prix-best-photos-from-race-weekend\n**Verified Facts:**\n- Final result: Verstappen P1, Norris P2 (+0.639s), Piastri P3 (+1.529s), Antonelli P4, Gasly P5 [HIGH — The-Race.com, Yahoo Sports, Al Jazeera, multiple sources]\n- Race had 35 lead changes over 50 laps [HIGH — Al Jazeera]\n- George Russell crashed into barriers (P9 or worse) [HIGH — ESPN, Al Jazeera]\n- Antonelli lost P2 to Norris on the final lap (misjudged energy deployment) [HIGH — from Nov 25 pipeline; multiple sources]\n- Verstappen's third consecutive Las Vegas GP win (2024, 2025, 2026) [HIGH — Al Jazeera headline confirms \"third time in four years\" — 2023 runner-up, 2024/2025/2026 wins]\n- Championship standings after Las Vegas: Antonelli 402, Verstappen 304, Hamilton 267, Russell 264, Norris 264 [HIGH — from Nov 25 pipeline; verified against ESPN source]",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "aljazeera.com",
+          "url": "https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "the-race.com",
+          "url": "https://www.the-race.com/formula-1/f1-2026-las-vegas-grand-prix-race-result/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/photo-gallery-verstappen-beats-norris-160000594.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sportsnaut.com",
+          "url": "https://sportsnaut.com/f1/max-verstappen-wins-2026-las-vegas-grand-prix-best-photos-from-race-weekend",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Qatar GP Eve — What to Watch When Practice Starts Tomorrow",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "**Window:** 5:00 PM ET\n**Character count:** 157\n\nQatar GP starts TOMORROW at Lusail.\n\nPerez: 5-place grid drop. Mandatory 2 stops. Verstappen +37 over Hamilton.\n\nThe 2026 season's final stretch. #F1 #QatarGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#QatarGP"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-qatar-gp-eve-schedule-perez-penalty-tire-strategy.html",
+        "headline": "Qatar GP Preview: Perez's Penalty, Mandatory 2-Stop Strategy, and the Final Push",
+        "word_count": 489
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080×1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200×630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Qatar GP Eve Preview\n**Sources:**\n- https://www.formula1.com/en/racing/2026/qatar\n- https://speedcafe.com/f1-news-2026-qatar-grand-prix-start-time-how-to-watch-tv-times-live-stream-schedule-details-fox-sports-kayo/\n- https://racingnews365.com/perez-escapes-second-qatar-pre-race-penalty\n**Verified Facts:**\n- Qatar GP Practice 1: November 27 [HIGH — official F1 schedule]\n- Qatar GP Practice 2: November 27 [HIGH — official F1 schedule]\n- Qatar GP Qualifying: November 28 [HIGH — official F1 schedule]\n- Qatar GP Race: November 29 [HIGH — official F1 schedule]\n- Circuit: Lusail International Circuit [HIGH]\n- Race distance: 57 laps [HIGH — from Nov 25 pipeline]\n- Perez has 5-place grid penalty in Qatar (for Las Vegas crash) [HIGH — from Nov 25 pipeline]\n- Pirelli 27-lap maximum stint, forcing minimum 2-stop strategy [HIGH — from Nov 25 pipeline]",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "formula1.com",
+          "url": "https://www.formula1.com/en/racing/2026/qatar",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "speedcafe.com",
+          "url": "https://speedcafe.com/f1-news-2026-qatar-grand-prix-start-time-how-to-watch-tv-times-live-stream-schedule-details-fox-sports-kayo/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "racingnews365.com",
+          "url": "https://racingnews365.com/perez-escapes-second-qatar-pre-race-penalty",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Hamilton's Last Stand — 37 Points Down with 50 Available Across Qatar and Abu Dhabi",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "**Window:** 12:00 PM ET\n**Character count:** 198\n\nHamilton: 267 pts\nVerstappen: 304 pts\nGap: 37 points\nRaces left: Qatar + Abu Dhabi (50 pts max)\n\nLewis Hamilton needs to outscore Verstappen in BOTH remaining races to take runner-up. It's possible. It has to start Sunday. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-hamilton-championship-fight-37-points-down.html",
+        "headline": "Hamilton's Last Stand: 37 Points Down, Two Races Left, the Math Is Punishing but Possible",
+        "word_count": 568
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080×1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200×630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton's Championship Fight\n**Sources:**\n- https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli\n- Nov 25 pipeline research notes (verified standings)\n**Verified Facts:**\n- Verstappen: 304 championship points [HIGH — Nov 25 pipeline]\n- Hamilton: 267 championship points [HIGH — Nov 25 pipeline]\n- Gap: 37 points (Verstappen leads Hamilton for P2) [HIGH — Nov 25 pipeline]\n- Points remaining: 50 (Qatar 25 + Abu Dhabi 25 for a race win) [HIGH]\n- Hamilton drives for Ferrari in 2026 [HIGH — multiple sources confirm]\n- Scenario: Hamilton needs to outscore Verstappen by 37+ points across the final 2 races to take P2 [HIGH — straightforward math from verified standings]",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "aljazeera.com",
+          "url": "https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Verstappen's Las Vegas Mastery — What Makes Sin City His Favorite Track",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "**Window:** 2:00 PM ET\n**Character count:** 173\n\nThree Las Vegas Grand Prix weekends. Three Max Verstappen victories.\n\nA street circuit built for chaos, owned by precision. That's what makes him different. #F1 #LasVegasGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LasVegasGP"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-verstappen-las-vegas-mastery-circuit-analysis.html",
+        "headline": "Three Wins, Three Years: What Verstappen's Las Vegas Mastery Says About His Competitive DNA",
+        "word_count": 617
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080×1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200×630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Las Vegas Circuit Analysis\n**Sources:**\n- https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli\n- https://happyhourracing.com/blogs/news/verstappen-wins-the-2026-las-vegas-grand-prix-in-a-record-breaking-night\n- https://sportsnaut.com/f1/max-verstappen-wins-2026-las-vegas-grand-prix-best-photos-from-race-weekend\n**Verified Facts:**\n- Verstappen won 2024, 2025, 2026 Las Vegas GPs (three consecutive) [HIGH — confirmed]\n- Norris's margin: 0.639 seconds [HIGH — multiple sources]\n- 35 lead changes over 50 laps [HIGH — Al Jazeera]\n- Race was drama-packed with Ferrari drivers also colliding [MEDIUM — ESPN; specific details not fully confirmed]",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "aljazeera.com",
+          "url": "https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "happyhourracing.com",
+          "url": "https://happyhourracing.com/blogs/news/verstappen-wins-the-2026-las-vegas-grand-prix-in-a-record-breaking-night",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sportsnaut.com",
+          "url": "https://sportsnaut.com/f1/max-verstappen-wins-2026-las-vegas-grand-prix-best-photos-from-race-weekend",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

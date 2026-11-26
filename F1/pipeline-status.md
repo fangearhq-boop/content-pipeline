@@ -1,8 +1,29 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-11-25
+## Last Run: 2026-11-26
 
 **Status:** COMPLETE (with known proxy limitations)
+
+---
+
+### 2026-11-26 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles, image manifest)
+- Step 10: verify-facts.py — 5 stories, 24 claims, HIGH: 51; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 6 tweets, 0 FB posts (known parsing), 5 articles; fixed 1 tweet over 280 chars; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (21 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy; content-dashboards not in session scope)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via git remote with PAT
+
+**Stories covered:**
+1. T1 NEW: 2027 F1 grid complete — Bearman+Camara at Haas, Bottas+Perez at Cadillac; Herta misses out (Ryan Calloway)
+2. T1 FOLLOW UP: Verstappen wins Las Vegas third consecutive; beats Norris by 0.639s in 35-lead-change thriller (Marcus Cole)
+3. T2 FOLLOW UP: Qatar GP eve preview — Perez starts -5 on grid; mandatory 2 stops; championship at stake (Elena Voss)
+4. T2 FOLLOW UP: Hamilton's last stand — 37 pts down, 50 available; needs near-perfection across Qatar and Abu Dhabi (Ryan Calloway)
+5. T3 FOLLOW UP: Verstappen's Las Vegas mastery — three consecutive wins, precision over chaos on the Strip (Elena Voss)
 
 ---
 
