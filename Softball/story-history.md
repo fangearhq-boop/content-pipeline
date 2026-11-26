@@ -5103,3 +5103,59 @@ _This file tracks every story covered, the angle used, content produced, and fol
   - January preseason poll release
   - December portal moves affecting rankings
   - SEC schedule release
+
+---
+
+## Pipeline Run: 2026-11-26
+
+### Story 1: National Signing Day Dec 2-4 — HS Class of 2027 Signings Begin One Week Away
+- **Date:** 2026-11-26
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Fall National Signing Day window runs Dec 2-4. Blackout clears Nov 29, portal opens Dec 1, HS signings Dec 2. Programs using silence to prep NLI paperwork. Oklahoma, Texas, Tennessee, Florida expected to have big Signing Day activity. Second period Feb 3, 2027.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Dec 2 Signing Day commitments
+  - Class ranking updates post-signing
+  - Programs with unsigned commitments after Dec 4
+
+### Story 2: Recruiting Blackout Day 2 — 5-Day Freeze Hits Programs
+- **Date:** 2026-11-26
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Blackout Day 1 covered Nov 25)
+- **Angle:** Day 2 of Thanksgiving shutdown (Nov 25-29). No contact with any recruit. Contact resumes Nov 30, one day before the portal opens. Programs preparing for simultaneous portal + signing day sprint.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Nov 30 contact resumes — first calls after blackout
+  - Dec 1 portal activity
+
+### Story 3: Arizona's Pitching Crisis — 5 Days Before the Portal Opens
+- **Date:** 2026-11-26
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Arizona/portal mentioned Nov 25)
+- **Angle:** Arizona lost D1Softball Player of the Year Mariah Torres to Texas Tech in June portal. No ace replacement. Dec 1 portal opens in 5 days. Ole Miss and Auburn competing for same pitchers. Dec 8-12 dead period compresses window to ~7 effective days.
+- **Content Produced:** Article (article-03, Jordan Reeves), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Arizona portal commitment announcement
+  - Dec 1 Day 1 portal entries
+
+### Story 4: Oklahoma's No. 1 Class vs. Signing Day — Can Sooners Lock Up an Ace?
+- **Date:** 2026-11-26
+- **Tier:** 2
+- **Classification:** FOLLOW UP (OU No. 1 class covered multiple dates)
+- **Angle:** OU class is No. 1 nationally — Hutchens enrolled, Williams/Hilliard/Reynolds committed — but no pitching ace. Hosted Knott + Boulware before blackout. Signing Day Dec 2-4 offers first chance to lock one in.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - OU pitching commitment Dec 2-4 or portal Dec 1
+  - Final class ranking after Dec 4
+
+### Story 5: The Perfect Storm — 11 Days That Reshape Rosters
+- **Date:** 2026-11-26
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Nov 29 (blackout ends) → Dec 1 (portal opens) → Dec 2-4 (Signing Day) → Dec 8-12 (dead period) → Dec 15 (portal closes). 11 days, multiple overlapping deadlines, every program racing simultaneously.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Dec 1 portal Day 1 activity roundup
+  - Dec 4 Signing Day results
+  - Dec 15 portal close recap
