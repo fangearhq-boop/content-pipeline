@@ -5,6 +5,50 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-11-26 (OFF DAY — Thanksgiving. Offseason. CBA 5 days to Dec 1 lockout. Hiromi Itoh (3.18 ERA, 172.2 IP — Nippon Ham) visited Chicago, decision imminent, Cubs and White Sox both in. Rogers 5yr/$120M + Sato 6yr/$120M both agreed this week ($240M). Michael King (12-10, 3.26 ERA) top remaining starter, Morosi says lands by end of week. Brewers won 2026 WS (franchise first), NLCS MVP Jake Bauers left for Boston 4yr/$58M, Cardinals in full rebuild. Joey Bart claimed off waivers from White Sox (No. 2 pick 2020, .214/44G). Insights: 11 findings — hashtag_count=3 LOSER (16th consecutive override, 1 hashtag used) + hashtag_count=1 WINNER + len_260+ WINNER + evening_18_24 WINNER + morning_06_12 LOSER + opening=statement WINNER + has_stat WINNER + has_allcaps WINNER + content_type=brief LOSER.)
+
+### STORY 1: Hiromi Itoh — Decision Imminent, 5-Day CBA Window
+- **Angle:** FOLLOW UP — Nippon Ham RHP (3.18 ERA, 172.2 IP) visited Chicago Nov 20; decision possible any day per North Side Baseball; Dec 1 lockout closes window PERMANENTLY. Cubs and White Sox both in.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT urgency slot, midday LOSER but Tier 1 unavoidable)
+- **Follow-Up Opportunities:**
+  - Itoh signs before Dec 1 → Tier 1 breaking news
+  - Lockout hits before Itoh signs → "window closed" follow-up
+  - Physical cleared → signing announcement
+
+### STORY 2: Rogers + Sato — 2027 Rotation and Lineup Math
+- **Angle:** FOLLOW UP — Rogers 5yr/$120M + Sato 6yr/$120M both agreed this week ($240M in one week). Combined picture: what does 2027 rotation and lineup look like? Rogers = proven lefty behind Horton/Steele; Sato (.306/.383/.609, 39 HR, NPB Triple Crown) = cleanup bat.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT midday LOSER but Tier 1 urgency)
+- **Follow-Up Opportunities:**
+  - Both physicals cleared → official announcement post
+  - Sato jersey/HR projection content → Tier 3 fan engagement
+
+### STORY 3: Michael King — The Case for One More Big Move
+- **Angle:** NEW STORY — King (12-10, 3.26 ERA, 159 K) top remaining starter, 6 teams in. Morosi says lands end of week. Cubs need him: Horton + Steele + Rogers + King = LEGITIMATE top-10 rotation. 5 days.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT evening WINNER slot)
+- **Follow-Up Opportunities:**
+  - Cubs sign King → Tier 1 breaking news
+  - King signs elsewhere → pivot to remaining options (Itoh only)
+
+### STORY 4: NL Central Rival Watch — Brewers WS Champs, Cubs Going All-In
+- **Angle:** FOLLOW UP — Brewers won 2026 WS (franchise first), NLCS MVP Jake Bauers (26 HR) left for Boston 4yr/$58M. Cardinals in full rebuild (traded Arenado, Donovan, May, W. Contreras). Cubs' $240M offseason = direct challenge to Milwaukee supremacy in 2027.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:00 PM CT evening WINNER slot)
+- **Follow-Up Opportunities:**
+  - Brewers add key piece → rival watch update
+  - Cubs sign King/Itoh → "NL Central is set" post
+
+### STORY 5: Joey Bart — Cubs Quietly Add Catching Depth
+- **Angle:** NEW STORY — Cubs claimed Bart off waivers from White Sox (No. 2 overall pick 2020, .214/44G in 2026). Will back up Amaya, gives Owen Ayers time to develop. Zero cost (waiver claim).
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 9:30 PM CT evening WINNER slot)
+- **Follow-Up Opportunities:**
+  - Story closed unless Bart has breakout 2027
+
+---
+
 ## 2026-11-25 (OFF DAY — Black Friday. Offseason. Teruaki Sato 6yr/$120M agreement CONFIRMED (ESPN Passan + 4 sources — NPB Triple Crown winner, .306/.383/.609, 39 HR, 106 RBI for Hanshin in 2026). Kaima Taira 5yr/$80M to Toronto Blue Jays CONFIRMED (Passan + Globe + CBC + Yahoo — Cubs missed out). Trevor Rogers physical still pending (5yr/$120M agreed Nov 24). CBA 6 days to Dec 1 lockout. Hiromi Itoh (3.18 ERA, 172.2 IP — Nippon Ham Fighters) still on market, visited Chicago Nov 22. Insights: 14 findings — hashtag_count=3 LOSER (15th consecutive override, 1 hashtag used) + hashtag_count=1 WINNER + len_260+ WINNER + evening_18_24 WINNER + morning_06_12 LOSER exception for Sato breaking + opening=statement WINNER + has_stat WINNER + has_allcaps WINNER + content_type=brief LOSER.)
 
 ### STORY 1: Teruaki Sato — Cubs Agree to 6yr/$120M

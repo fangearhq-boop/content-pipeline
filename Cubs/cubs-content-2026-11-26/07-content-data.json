@@ -1,0 +1,201 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-26",
+  "compiled_at": "2026-11-26T09:27:41.010609+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "1:15 PM",
+      "description": "Hiromi Itoh — 5-day window",
+      "type": "Urgency/Informative"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Rogers + Sato rotation math",
+      "type": "Informative/Bold"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Michael King — next move",
+      "type": "Bold take"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "NL Central rival watch",
+      "type": "Rival energy"
+    },
+    {
+      "time": "9:30 PM",
+      "description": "Joey Bart — catching depth",
+      "type": "Transaction"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Hiromi Itoh — Decision Imminent, 5-Day CBA Window",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Daily CBA/Itoh coverage — today's urgency: decision expected \"as soon as Wednesday\" per North Side Baseball (yesterday or today); 5 days to lockout makes this the final rotation window",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "The Cubs have 5 days to sign one more starter before the lockout — and Hiromi Itoh is still the last quality arm on the board.\n\nNippon Ham's RHP posted a 3.18 ERA, 172.2 IP in 2026. Visited Chicago last week. Cubs and White Sox both in. Dec 1 closes the window PERMANENTLY.\n\n#Cubs",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Urgency/Informative",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Hiromi Itoh — Decision Imminent, 5-Day Window\n**Decision:** FOLLOW UP (CBA countdown covered daily since Nov 15; Itoh covered since Nov 20; today's angle: North Side Baseball says decision \"as soon as Wednesday\" = yesterday or today, 5 days to lockout)\n**Sources:**\n1. North Side Baseball (date unclear, recently — Nov 25-26): \"Cubs working to add one more starter, address catching corps before lockout hits.\" Itoh + Nick Martinez + Foster Griffin as options. \"Could make his decision as soon as Wednesday.\" (MEDIUM — single source, date unclear)\n2. ESPN Jesse Rogers + Jorge Castillo (Nov 20, 2026): Itoh visited Chicago Friday Nov 20. Cubs and/or White Sox in the mix. (HIGH)\n3. MLB Trade Rumors (Nov 20-22, 2026): Hiromi Itoh visited Chicago. (HIGH — confirms visit)\n4. CBS Sports CBA tracker (ongoing, Nov 2026): CBA expires 11:59 PM ET Dec 1. Lockout expected Dec 2. (HIGH)\n**Key Facts:**\n- RHP Hiromi Itoh, 29\n- 2026 Nippon Ham Fighters: 3.18 ERA, 172.2 IP — workhorse profile (confirmed multiple sources)\n- NPB posting window closed with CBA — must sign by Dec 1\n- Multiple three-year offers on the table\n- White Sox also interested (Dustin May already signed there)\n- Cubs also considering veteran options: Nick Martinez, Foster Griffin (lower cost, different profile)\n- North Side Baseball: decision could come any moment\n**Freshness:** Source from Nov 20-25 — information 1-6 days old. The CBA countdown (5 days) is real-time.\n**Why it matters:** This is the Cubs' last window to add a third starter before the lockout. With Rogers and Sato agreed, one more rotation arm sets the 2027 ceiling.",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Rogers + Sato — 2027 Rotation and Lineup Math",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Both $120M agreements covered individually (Nov 23/24-25); today's angle: combined picture — $240M in one week, what the 2027 rotation and lineup look like",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "The Cubs agreed to two $120 million deals in one week — Rogers and Sato — and the 2027 picture is already taking shape.\n\nRogers (5yr/$120M) is the proven lefty behind Horton and Steele. Sato (.306/.383/.609, 39 HR, Triple Crown) is the CLEANUP bat Wrigley needs.\n\n#Cubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Informative/Bold",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Rogers + Sato — 2027 Rotation Math ($240M in One Week)\n**Decision:** FOLLOW UP (Rogers covered Nov 24, Sato covered Nov 25; today's angle: COMBINED picture — what does the 2027 rotation actually look like now?)\n**Sources:**\n1. ESPN Passan (Nov 23, 2026): Trevor Rogers 5yr/$120M agreed. 10-11, 4.03 ERA in 2026. Prior knee subluxation (not arm). (HIGH — primary reporter)\n2. MLB.com Mark Feinsand (Nov 24, 2026): Teruaki Sato 6yr/$120M agreed. .306/.383/.609, 39 HR, 106 RBI, Triple Crown winner. (HIGH — primary reporter)\n3. Bleacher Nation (Nov 24, 2026): Cubs signing Sato. Role: RF, replacing Suzuki. (HIGH — corroborating)\n4. Yardbarker (Nov 24, 2026): Analysis piece — Rogers 2.90 ERA in final three starts of 2026. What it means for Cubs. (MEDIUM — analysis, not confirmed stat from box score)\n5. Sun-Times (Oct 3, 2026): Cubs rotation returning core: Cade Horton, Justin Steele, Edward Cabrera, Javier Assad. (HIGH — Hoyer confirmed these names)\n**Key Facts:**\n- Rogers: 5yr/$120M, 29 starts in 2026, left-handed, former Oriole, rejected Baltimore QO\n- Rogers 2026: 10-11 W-L, 4.03 ERA, 30 starts (use 4.03 ERA, not 2.90 which is 3-start sample)\n- Sato: 6yr/$120M, .306/.383/.609, 39 HR, 106 RBI, NPB Triple Crown, RF role\n- Combined $240M this week (Rogers + Sato)\n- 2027 rotation projection: Horton, Steele, Rogers + 2 more (Assad, Cabrera, Garrett, +Itoh if signed)\n- Physicals still pending for both — not yet officially announced by Cubs\n- Cubs also had David Peterson, Clay Holmes, Kevin Gausman depart as FAs\n**Freshness:** Both agreements Nov 23-25, 2026 — 1-3 days old. Physical status uncertain but agreements confirmed.\n**Why it matters:** $240M on two players in one week, with more potentially coming. The rotation shape is the core 2027 story.\n**Fact-check flags:**\n- Rogers 2.90 ERA: 3-start sample from Yardbarker (MEDIUM confidence). Use 4.03 overall for reliability.\n- Sato age: conflict (27 vs 28) — omit age per pipeline convention.\n- Physical status: both pending — use conditional language \"agreed terms\" not \"signed.\"",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Michael King — The Case for One More Big Move",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "King specifically as Cubs' next likely rotation target — 12-10, 3.26 ERA, 6 teams in, Morosi says lands by end of this week; North Side Baseball confirms Cubs pursuing one more starter",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Michael King went 12-10, 3.26 ERA in 2026. Six teams are in on him. The Cubs need him more than any of them.\n\nHorton, Steele, Rogers — add King and that is a LEGITIMATE top-10 rotation. Morosi says he lands this week. Jed Hoyer needs to be in that room. 5 days.\n\n#Cubs",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Bold take",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Michael King — The Next Target\n**Decision:** NEW ANGLE (Michael King specifically as Cubs' next likely pursuit — not covered previously)\n**Sources:**\n1. Yahoo Sports ranking (Nov 24-25, 2026): King ranked among top 3 current fits for Cubs' FA needs. (MEDIUM — analysis/ranking)\n2. MLB.com Hot Stove (Nov 24, 2026): Jon Paul Morosi says King \"will land somewhere by end of this week.\" Six clubs interested: Yankees, Orioles, Blue Jays, Rays, Padres, Phillies. (HIGH — Morosi is reliable)\n3. North Side Baseball (Nov 25, 2026): Cubs working to add \"one more starter.\" (HIGH — aligns with King as target)\n4. Bleacher Report offseason guide (Oct 2026): Cubs' rotation needs 3 quality additions; Hoyer may use trades too. (MEDIUM — older context)\n**Key Facts:**\n- Michael King: 12-10, 3.26 ERA, 159 K in 2026 (verify: single AI-summarized source — MEDIUM)\n- Former Yankees starter/reliever, transitioned to full rotation in 2025-26\n- Projected contract: 4yr/$140M (per Yahoo, MEDIUM)\n- Six confirmed interested teams — Cubs NOT explicitly named but logical fit\n- If Cubs sign King (after Rogers), projected 2027 rotation: Horton, Steele, Rogers, King + Assad/Cabrera/Garrett\n**Freshness:** Nov 24-25 sources — 1-2 days old.\n**Fact-check flag:** King stats (3.26 ERA, 12-10) came from AI-summarized source. Need secondary verification. Using with LOW-MEDIUM confidence label — will verify in fact-check step.",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "NL Central Rival Watch — Brewers WS Champs, Cubs Going All-In",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Brewers won 2026 World Series (franchise first); NLCS MVP Bauers gone to Red Sox 4yr/$58M; Cardinals in full rebuild; Cubs' $240M offseason spending sets up 2027 as Cubs vs. Brewers",
+      "posting_window": "8:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Brewers WON the 2026 World Series — and their NLCS MVP Jake Bauers just left for Boston. Cardinals? Full rebuild.\n\nThe NL Central is the Cubs versus Milwaukee in 2027. Chicago just committed $240 million this week to make sure that answer is DIFFERENT than 2026.\n\n#Cubs",
+          "posting_time": "8:00 PM CT",
+          "tweet_type": "Bold take/rival energy",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "NL Central Rival Watch — Brewers WS Champs, Cardinals Rebuilding\n**Decision:** FOLLOW UP (NL Central covered regularly; today's angle: 2027 power dynamics — Brewers champions vs Cubs newcomers)\n**Sources:**\n1. Boston Globe (Nov 13, 2026): Jake Bauers signed Red Sox 4yr/$58M. NLCS MVP, 26 HR, .266/.389/.874 reg season. (HIGH)\n2. Yahoo Sports (Nov 13-20, 2026): Brewers beat Tampa Bay in 2026 World Series — franchise's first title. Bauers swept Dodgers in NLCS. (HIGH — multiple confirmations)\n3. Reviewing the Brew (Nov 2026): Brewers re-signing Senzatela 1yr/$4.75M. Picked up Contreras option ($15.5M). Still have core roster. (MEDIUM — single source)\n4. Sun-Times (Oct 2026): Cardinals traded Arenado, Donovan, May, Willson Contreras. Full rebuild. (HIGH — confirmed multiple sources)\n5. Bleed Cubbie Blue / ESPN (Oct 2026): Brewers won 2026 WS. (HIGH)\n**Key Facts:**\n- Brewers: 2026 WS champions (beat Tampa Bay). First franchise title.\n- Bauers (NLCS MVP, 26 HR) left for Red Sox 4yr/$58M\n- Brewers keeping most of WS roster — Contreras, Senzatela\n- Cardinals: Full rebuild underway. No Arenado, Donovan, Willson Contreras.\n- Cubs: $240M+ spend sets up direct challenge to Brewers' supremacy\n**Freshness:** Bauers signing Nov 13 (13 days old), WS result October. Cubs offseason is current.",
+        "sources": ""
+      },
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Joey Bart — Cubs Quietly Add Catching Depth",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Cubs claimed Bart off waivers from White Sox (Nov 20); No. 2 overall pick 2020; .214 avg 44 games in 2026; backs up Amaya, keeps Ayers on track",
+      "posting_window": "9:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Cubs quietly claimed Joey Bart off waivers from the White Sox — the No. 2 overall pick in the 2020 MLB Draft, available for literally nothing.\n\nBart hit .214 in 44 games. The pedigree is REAL — No. 2 pick backing up Amaya while Owen Ayers develops on his own timeline.\n\n#Cubs",
+          "posting_time": "9:30 PM CT",
+          "tweet_type": "Transaction/Informative",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Joey Bart — Cubs Claim Former No. 2 Overall Pick\n**Decision:** NEW STORY (Bart claim not covered in story history)\n**Sources:**\n1. MLB.com (Nov 20, 2026): Cubs claim Joey Bart off waivers from White Sox. Agreed to 2027 contract (arbitration avoided). (HIGH — official)\n2. Yahoo Sports (Nov 20, 2026): Bart claimed by Cubs. 2020 No. 2 overall pick (Giants). (HIGH)\n3. Cubbie Crib (Nov 20, 2026): Bart will back up Miguel Amaya. \"Cubs may have done Owen Ayers a huge favor.\" (MEDIUM — analysis)\n**Key Facts:**\n- Joey Bart: 2020 No. 2 overall pick (San Francisco Giants)\n- 2026 with White Sox: .214 avg, 44 games\n- Cubs agreed to 2027 contract — terms undisclosed, avoids arbitration\n- Role: Primary backup to Miguel Amaya\n- Claimed Nov 20, 2026 — 6 days ago\n**Freshness:** 6 days old. Still relevant as recent Cubs transaction.\n**Fact-check flag:** Bart's draft position (No. 2 overall, 2020 — HIGH from Wikipedia/MLB.com). Stats from AI summary — verify .214/44G.",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
