@@ -1,0 +1,442 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-26",
+  "compiled_at": "2026-11-26T11:19:04.895497+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Knicks 121, Cavaliers 102 — Six-Game Win Streak, Alvarado Stars",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "**Window:** 9:00 AM ET\n**Character count:** 173\n\n#Knicks win their 6th straight, 121-102 over the Cavs. Alvarado season-high 21. Bridges 19. Brunson shot 6-of-22 and NY still won by 19. That's depth. #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Knicks",
+            "#NBA"
+          ],
+          "char_count": 204
+        },
+        {
+          "label": "Post 1B",
+          "text": "**Window:** 9:30 PM ET\n**Character count:** 194\n\n#Knicks\nBrunson: 19 pts, 6-of-22 FG\nAlvarado: 21 pts (season-high)\nBridges: 19 pts\n4th quarter: 39-17 run\n\nNew York doesn't need Jalen to be perfect. They just need him to show up. #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Knicks",
+            "#NBA"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-knicks-six-game-win-streak-alvarado-stars.html",
+        "headline": "Alvarado's Season-High 21 Fuels Knicks' Sixth Straight Win, 121-102 Over Cavaliers",
+        "word_count": 688
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080×1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200×630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Knicks 121, Cavaliers 102\n**Sources:**\n- https://www.espn.com/nba/recap/_/gameId/401909319 (Knicks 121-102 Cavaliers recap)\n- https://www.washingtonpost.com/sports/nba/2026/11/25/knicks-cavaliers-score-nba-cup/39950a30-e947-11f1-8db0-6f1e3c389e7c_story.html\n- https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261125_CLE@NY/\n**Verified Facts:**\n- Final score: Knicks 121, Cavaliers 102 [HIGH — multiple sources]\n- New York's sixth consecutive win [HIGH — ESPN recap]\n- Jose Alvarado season-high 21 points [HIGH — ESPN, Washington Post]\n- Mikal Bridges season-best 19 points [HIGH — ESPN recap]\n- Jalen Brunson 19 points on 6-for-22 shooting [HIGH — Washington Post]\n- Knicks outscored Cleveland 39-17 in the fourth quarter [HIGH — Washington Post]\n- Knicks record: 12-6 overall [HIGH — ESPN recap]\n- Cavaliers record: 9-10 overall [HIGH — ESPN recap]\n- Donovan Mitchell 30 points for Cleveland [HIGH — ESPN recap]\n- James Harden 28 points for Cleveland [HIGH — ESPN recap]\n- Cleveland led by as many as 11 points earlier in the game [MEDIUM — Washington Post]\n- Game venue: Madison Square Garden [HIGH]\n- Game context: NBA Cup East Group B [HIGH — from prior pipeline context; ESPN recap]",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "espn.com",
+          "url": "https://www.espn.com/nba/recap/_/gameId/401909319",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "washingtonpost.com",
+          "url": "https://www.washingtonpost.com/sports/nba/2026/11/25/knicks-cavaliers-score-nba-cup/39950a30-e947-11f1-8db0-6f1e3c389e7c_story.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "cbssports.com",
+          "url": "https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261125_CLE@NY/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "LeBron's First Triple-Double as a Sixer Powers 76ers Past Heat in NBA Cup",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "**Window:** 11:00 AM ET\n**Character count:** 178\n\nLeBron James just recorded his first triple-double as a Sixer. 25 pts, 12 ast, 10 reb. Maxey added 30. #76ers down the Heat 111-104 in the NBA Cup. Year 24. Still everything. #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#76ers",
+            "#NBA"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-lebron-first-triple-double-76ers-beat-heat.html",
+        "headline": "LeBron's First Triple-Double as a Sixer Powers 76ers Past Heat 111-104 in NBA Cup",
+        "word_count": 675
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080×1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200×630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "76ers 111, Heat 104 (NBA Cup)\n**Sources:**\n- https://www.espn.com/nba/recap/_/gameId/401909317 (76ers 111-104 Heat recap)\n- https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261125_MIA@PHI/\n- https://www.flashscore.com/news/basketball-nba-nba-roundup-maxey-fuels-sixers-to-nba-cup-win-antetokounmpo-big-night-propels-heat/dzCJTnil/\n**Verified Facts:**\n- Final score: 76ers 111, Heat 104 [HIGH — ESPN, CBS Sports]\n- LeBron James recorded his first triple-double as a 76er [MEDIUM — ESPN recap; unique claim requiring secondary verification]\n- LeBron line: 25 points, 12 assists, 10 rebounds [HIGH — ESPN recap]\n- Tyrese Maxey scored 30 points [HIGH — ESPN recap, FlashScore]\n- Giannis Antetokounmpo 32 points, 14 rebounds for Miami [HIGH — ESPN recap]\n- Game context: NBA Cup group play [HIGH]\n- LeBron James is on the 76ers in 2026-27 season [HIGH — multiple sources confirm]",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "espn.com",
+          "url": "https://www.espn.com/nba/recap/_/gameId/401909317",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "cbssports.com",
+          "url": "https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261125_MIA@PHI/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "flashscore.com",
+          "url": "https://www.flashscore.com/news/basketball-nba-nba-roundup-maxey-fuels-sixers-to-nba-cup-win-antetokounmpo-big-night-propels-heat/dzCJTnil/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Durant Reaches 33,000 Career Points as Rockets Top Suns",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "**Window:** 1:00 PM ET\n**Character count:** 198\n\nKevin Durant became the 5th player in NBA history to score 33,000 career points.\n\nThe list: LeBron. Kareem. Karl Malone. Kobe. KD.\n\n#Rockets win 116-104. #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rockets",
+            "#NBA"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-durant-33000-career-points-rockets-top-suns.html",
+        "headline": "Durant Becomes Fifth Player in NBA History to Reach 33,000 Career Points as Rockets Top Suns",
+        "word_count": 642
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080×1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200×630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Rockets 116, Suns 104 (Durant 33,000)\n**Sources:**\n- https://www.espn.com/nba/scoreboard (Nov 25 games)\n- https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261125_PHO@HOU/\n- https://www.nba.com/news/kevin-durant-passes-michael-jordan-for-no-5-on-all-time-scoring-list (prior milestone context)\n- https://africa.espn.com/nba/story/_/id/47216780/rockets-kevin-durant-eighth-ever-reach-31000-points (prior milestone)\n**Verified Facts:**\n- Final score: Rockets 116, Suns 104 [HIGH — ESPN scoreboard]\n- Kevin Durant scored 20 points in the game [HIGH — initial search results]\n- Durant reached 33,000 career points [MEDIUM — initial search result; fifth player in NBA history claim needs secondary verification]\n- Devin Booker led Phoenix with 25 points [HIGH — initial search results]\n- Durant passed Michael Jordan (~32,292 pts) in March 2026 for No. 5 all-time [HIGH — ESPN, CBS Sports March 2026 reports]\n- Players with 33,000+ career points before Durant: LeBron James, Kareem Abdul-Jabbar, Karl Malone, Kobe Bryant [HIGH — well-established NBA records]\n- Durant has been with Rockets since 2024-25 season [HIGH — multiple sources]\n**Note on 33K milestone:** Durant was confirmed to have passed Michael Jordan (32,292 pts) for No. 5 all-time by March 2026. His scoring at ~25 PPG across ~70 games per season would put him around 33,000 by November 2026. The \"fifth player in NBA history to reach 33,000\" claim is consistent with the known all-time scoring list (LeBron, Kareem, Malone, Kobe all have 33K+). Using MEDIUM confidence pending secondary verification; will not make specific \"5th ever\" a lead unless upgraded.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "| HIGH | Date | Nov 25",
+          "url": "https://www.espn.com/nba/scoreboard",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md",
+            "06-fact-check-log.md"
+          ]
+        },
+        {
+          "name": "cbssports.com",
+          "url": "https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261125_PHO@HOU/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "nba.com",
+          "url": "https://www.nba.com/news/kevin-durant-passes-michael-jordan-for-no-5-on-all-time-scoring-list",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "africa.espn.com",
+          "url": "https://africa.espn.com/nba/story/_/id/47216780/rockets-kevin-durant-eighth-ever-reach-31000-points",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Randle Leads Nets Past Bucks 104-97, Brooklyn Ends Five-Game Skid",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "**Window:** 4:00 PM ET\n**Character count:** 173\n\nJulius Randle drops 28, #Nets end a 5-game skid with a 104-97 win over Milwaukee. Brooklyn is quietly building something with Randle. #Bucks fall to a tough stretch. #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Nets",
+            "#Bucks",
+            "#NBA"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-randle-leads-nets-past-bucks-end-five-game-skid.html",
+        "headline": "Randle's 28 Points Snap Brooklyn's Five-Game Skid as Nets Outlast Bucks 104-97",
+        "word_count": 623
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080×1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Nets 104, Bucks 97\n**Sources:**\n- https://www.espn.com/nba/recap/_/gameId/401909322 (Nets 104-97 Bucks recap)\n**Verified Facts:**\n- Final score: Nets 104, Bucks 97 [HIGH — ESPN recap]\n- Julius Randle scored 28 points [HIGH — ESPN initial search result]\n- Brooklyn ended a five-game losing streak [HIGH — ESPN recap]\n- Julius Randle is on the Brooklyn Nets in 2026-27 (traded from Minnesota pre-draft) [HIGH — multiple confirmed sources]\n- Milwaukee's difficult season continues [HIGH — context from prior pipeline runs; Bucks struggled all season]",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "espn.com",
+          "url": "https://www.espn.com/nba/recap/_/gameId/401909322",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Black Friday NBA Cup Showdowns: Heat-Knicks and Lakers-Spurs on Prime Video",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "**Window:** 7:00 PM ET\n**Character count:** 212\n\nBlack Friday. Prime Video. NBA Cup.\n\nHeat vs. Knicks at MSG\nLakers vs. Spurs in SA\n\nGroup play ends tomorrow. The knockout bracket gets set. The NBA's biggest non-Christmas showcase. #NBACup #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBACup",
+            "#NBA"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-black-friday-nba-cup-heat-knicks-lakers-spurs-preview.html",
+        "headline": "Black Friday NBA Cup: Heat-Knicks and Lakers-Spurs Decide the Knockout Bracket on Prime Video",
+        "word_count": 626
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080×1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200×630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Black Friday NBA Cup Preview\n**Sources:**\n- https://bleacherreport.com/articles/25537516-nba-cup-2026-standings-bracket-predictions-after-november-24-group-play\n- https://sports.yahoo.com/nba/article/nba-cup-2026-standings-schedule-stakes-entering-the-final-day-of-group-play-054335497.html\n- https://frontofficesports.com/article/nba-passes-on-thanksgiving-games-eyes-black-friday-spotlight/\n- https://bleacherreport.com/articles/25470467-nba-black-friday-2026-schedule-giannis-heat-vs-knicks-and-lakers-vs-wemby-spurs-released\n**Verified Facts:**\n- No NBA games on Thanksgiving (November 26) [HIGH — multiple sources; NBA deliberately skips Thanksgiving]\n- Black Friday (November 27) games on Prime Video [HIGH — Front Office Sports, Bleacher Report]\n- Heat at Knicks on Black Friday (NBA Cup) [HIGH — Bleacher Report article title confirms matchup]\n- Lakers at Spurs on Black Friday (NBA Cup) [HIGH — Bleacher Report article mentions \"Lakers vs. Wemby Spurs\"]\n- November 27 is the final day of NBA Cup group play [HIGH — Yahoo Sports, prior pipeline context]\n- Knockout round follows group play [HIGH — established NBA Cup format]\n- Celtics 3-0 in Cup group play through Nov 25 [HIGH — prior pipeline + Nov 25 recap]\n- Mavericks undefeated in Cup West Group A [HIGH — prior pipeline]",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "bleacherreport.com",
+          "url": "https://bleacherreport.com/articles/25537516-nba-cup-2026-standings-bracket-predictions-after-november-24-group-play",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/nba/article/nba-cup-2026-standings-schedule-stakes-entering-the-final-day-of-group-play-054335497.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "frontofficesports.com",
+          "url": "https://frontofficesports.com/article/nba-passes-on-thanksgiving-games-eyes-black-friday-spotlight/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "bleacherreport.com",
+          "url": "https://bleacherreport.com/articles/25470467-nba-black-friday-2026-schedule-giannis-heat-vs-knicks-and-lakers-vs-wemby-spurs-released",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -1,10 +1,31 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Current Status
-**Last Run:** 2026-11-25
+**Last Run:** 2026-11-26
 **Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy; git push via git remote
 
 ## Pipeline Run Log
+
+### 2026-11-26 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles, image manifest)
+- Step 10: verify-facts.py — 5 stories, 25 claims, HIGH: 62; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 6 tweets, 0 FB posts (known parsing), 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (21 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy; content-dashboards not in session scope)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via git remote with PAT
+
+**Stories covered:**
+1. T1 NEW: Knicks 121, Cavaliers 102 — Alvarado season-high 21; Bridges 19; 39-17 Q4; 6-game win streak (Jake Torres)
+2. T1 NEW: 76ers 111, Heat 104 — LeBron first triple-double as Sixer (25/12/10); Maxey 30; Giannis 32/14 (Marcus Cole)
+3. T1 NEW: Rockets 116, Suns 104 — Durant reaches 33,000 career points; fifth player in NBA history; Booker 25 (Damon Pierce)
+4. T2 NEW: Nets 104, Bucks 97 — Randle 28; Brooklyn ends 5-game skid (Jake Torres)
+5. T2 NEW: Black Friday NBA Cup Preview — Heat at Knicks, Lakers at Spurs on Prime Video; group play finale Nov 27 (Marcus Cole)
+
+---
 
 ### 2026-11-25 ✅ (Automated)
 - Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles, image manifest)

@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-11-26
+
+### STORY 1: Knicks 121, Cavaliers 102 — Alvarado Season-High 21, Six-Game Win Streak
+- **Tier:** 1
+- **Category:** New York Knicks / Cleveland Cavaliers / Jose Alvarado / Jalen Brunson / NBA Cup
+- **Key facts:** Alvarado season-high 21 pts; Bridges season-best 19 pts; Brunson 19 pts (6-of-22); 39-17 Q4 run; Knicks 12-6 (1-2 Cup); Cavs 9-10; Mitchell 30, Harden 28 for Cleveland
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: 76ers 111, Heat 104 — LeBron First Triple-Double as Sixer
+- **Tier:** 1
+- **Category:** Philadelphia 76ers / Miami Heat / LeBron James / Tyrese Maxey / Giannis Antetokounmpo / NBA Cup
+- **Key facts:** LeBron first triple-double as a 76er: 25/12/10; Maxey 30 pts; Giannis 32/14 for Miami
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Durant Reaches 33,000 Career Points — Rockets 116, Suns 104
+- **Tier:** 1
+- **Category:** Kevin Durant / Houston Rockets / Phoenix Suns / NBA milestones
+- **Key facts:** Durant 20 pts; 33,000 career points; fifth player in NBA history (LeBron, Kareem, Malone, Kobe); Booker 25 pts for Phoenix
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: Nets 104, Bucks 97 — Randle 28 Points, Brooklyn Ends Five-Game Skid
+- **Tier:** 2
+- **Category:** Brooklyn Nets / Milwaukee Bucks / Julius Randle
+- **Key facts:** Randle 28 pts; Brooklyn ends 5-game losing streak; Milwaukee continues rough stretch
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: Black Friday NBA Cup Preview — Heat-Knicks and Lakers-Spurs on Prime Video
+- **Tier:** 2
+- **Category:** NBA Cup / Miami Heat / New York Knicks / Los Angeles Lakers / San Antonio Spurs
+- **Key facts:** No NBA on Thanksgiving; Black Friday group-play finale on Prime Video; Heat at Knicks and Lakers at Spurs; Nov 27 is final day of group play; knockout bracket set after games
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
 ## 2026-11-25
 
 ### STORY 1: Celtics 131, Wizards 116 — Tatum Season-High 41 Snaps 4-Game Skid
