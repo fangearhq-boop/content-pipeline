@@ -10293,3 +10293,62 @@ Each day's stories are appended at the top (newest first).
   - Post-lockout trade talks resumption
   - Rangers alternative trade partners
   - Phillies SS plans if Seager doesn't happen
+
+---
+
+## Pipeline Run: 2026-11-26
+
+### Story 1: MLB Files Federal Lawsuit Against MLBPA to Shield Lockout
+- **Date:** 2026-11-26
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** MLB filed federal lawsuit in Manhattan seeking declaration lockout doesn't violate antitrust law. Names 8 MLBPA exec subcommittee members including Skubal and Skenes. Union: "completely frivolous." CBA expires Dec 1, lockout expected Dec 2.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Court ruling on MLB's declaration request
+  - Dec 2 lockout confirmed/averted
+  - Any last-minute CBA breakthrough
+
+### Story 2: Skubal $450M Mets Deal Finalized — Record for a Pitcher
+- **Date:** 2026-11-26
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** 9yr/$450M ($50M AAV) tops Yamamoto $325M/12yr. 43-17 2.42 ERA last 4 seasons. Full NTC. $30M deferred. Mets 74-88 in 2026. Traded from DET to LAD at deadline; no QO. Named in MLB lawsuit next day.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Physical clearance / press conference
+  - 2027 Mets rotation preview
+  - Skubal's role in MLBPA lawsuit
+
+### Story 3: 5 Days to Lockout — Chisholm, Seager, Suzuki, Arozarena Unsigned
+- **Date:** 2026-11-26
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Chisholm + CBA countdown covered multiple dates)
+- **Angle:** CBA expires Dec 1. Jazz Chisholm (10+ teams, BJ frontrunner), Seager trade unlikely before Dec 1, Suzuki and Arozarena also unsigned. Market freezes Dec 2.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Chisholm signing announcement
+  - Dec 2 lockout status
+  - Any last-minute Seager trade
+
+### Story 4: Pre-Lockout Blitz — Gausman Tigers, Sanchez Marlins, Romero Padres
+- **Date:** 2026-11-26
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Kevin Gausman 1yr/$25M Detroit. Gary Sanchez 1yr/$6.5M Marlins. JoJo Romero to Padres. Bryan Ginkel 2yr/$18M. Pre-deadline rush mirrors 2021 ($1.2B+ pre-lockout). Teams moving fast.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Additional pre-Dec 1 signings
+  - Dec 2 freeze confirmed
+  - Post-lockout market update
+
+### Story 5: What Would a 2026 Lockout Mean? The 2021 Precedent
+- **Date:** 2026-11-26
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** 2021-22 lockout: 99 days, canceled ST games, delayed OD 1 week. Same dispute: salary cap. Union: nonstarter. 2027 OD ~March 25 gives ~115 days before games threatened. MLB filed antitrust lawsuit (escalation vs 2021).
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Dec 2 lockout confirmed
+  - First post-lockout negotiations update
+  - Spring training status
