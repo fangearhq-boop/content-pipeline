@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## November 26, 2026
+
+| 2026-11-26 | Italy 2-1 South Korea Davis Cup QF result — Musetti beat Hong 6-0, 7-6(5); Kwon beat Cobolli; Berrettini/Vavassori beat Chung/Kwon 7-6(2), 7-6(11) in doubles thriller; Italy advance to SF vs Czech Republic Friday Nov 27; Italy seeking 4th consecutive title; South Korea's historic first Finals QF ends. Sources: atptour.com, Wikipedia | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-11-25 S2: Italy vs South Korea preview → result) |
+| 2026-11-26 | Great Britain vs Germany Davis Cup QF — Norrie beat Struff 6-3, 3-6, 6-2 (GBR 1-0 GER); Fery vs Zverev in progress (20yo Fery vs year-end No. 1); GB first Finals since 2023; squad: Fery/Norrie/Patten/Skupski vs Zverev/Struff/Puetz/Krawietz. Sources: LTA, Davis Cup live centre | T1 | X, FB, Article | Ryan Calloway |
+| 2026-11-26 | Spain vs Austria Davis Cup QF afternoon — Alcaraz expected to rest for singles (left thigh concern, may play doubles); Jodar to lead Spain singles vs Rodionov; Austria first-ever Finals QF; winner faces GBR/GER winner in Saturday SF. Sources: tennis365.com, Sportskeeda | T2 | X, FB, Article | Elena Voss |
+| 2026-11-26 | Sinner positive on Australian Open return (Nov 10 update) — "won't rush it" but expects to be ready for AO 2027 (Jan 17); rebuilding muscle after tonsil surgery; lost significant weight; conservative knee treatment ongoing; Six Kings Slam postponed. Sources: Reuters/The Star, NST | T2 | X, FB, Article | Marcus Cole; NEW ANGLE (2026-11-25 S3: tonsil surgery/muscle loss → now positive on AO return) |
+| 2026-11-26 | Davis Cup Finals semifinals preview — Italy vs Czech Republic Friday Nov 27; GBR/GER winner vs AUT/ESP winner Saturday Nov 28; Final Sunday Nov 29; Italy seeking 4th consecutive title (unprecedented in modern format); Czechia beat Canada 2-0; bracket analysis. Sources: Yahoo Sports, Wikipedia | T2 | X, FB, Article | Ryan Calloway |
+
+---
+
+
 ## November 25, 2026
 
 | 2026-11-25 | Czechia 2-0 Canada Davis Cup QF — Machac def. Draxl 6-2,3-6,6-2; Lehecka def. FAA 7-6(4),6-2; FAA 0/9 break points; Shapovalov + Diallo both absent; Czechia advance to SF vs Italy/South Korea winner (Nov 27). Sources: CTV News, CBC Sports, Globe and Mail | T1 | X, FB, Article | Ryan Calloway; FOLLOW-UP (2026-11-24 S1: Davis Cup QF Day 1 preview → result) |
