@@ -2,6 +2,45 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-11-26
+
+### STORY 1: BMW Australian PGA Championship R1 — Barron Leads at -8, Min Woo Lee Shoots 68 Without 8-Iron
+- **Tier:** 1
+- **Category:** BMW Australian PGA Championship / Haydn Barron / Min Woo Lee / Cameron Smith / DP World Tour / The Lakes Sydney
+- **Key facts:** Haydn Barron leads R1 at -8 (64), 2 strokes clear; Min Woo Lee 68 (-4) without 8-iron (left with F1 drivers Carlos Sainz and Lance Stroll in Las Vegas); Cameron Smith 69 (-3); Adam Scott in field; tournament runs Nov 26-29
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: Marco Penge Wins RSM Classic in Four-Way Playoff, Secures PGA Tour Card
+- **Tier:** 1
+- **Category:** Marco Penge / RSM Classic / Sea Island / PGA Tour / FedExCup Fall / Tour status / David Lipsky
+- **Key facts:** Penge won 4-way playoff Nov 23 at Sea Island; beat Haotong Li, Max Greyserman, Michael Thorbjornsen; birdie on first extra hole; entered at 120th in FedEx Fall; kept card, 2-year exemption through 2028; David Lipsky pushed out of top 100
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 3: Thitikul Makes History with CME Group Tour Championship Three-Peat, Passes Sörenstam on Career Money List
+- **Tier:** 1
+- **Category:** Atthaya Thitikul / CME Group Tour Championship / LPGA / Annika Sörenstam / Career earnings / Tiburón GC Naples
+- **Key facts:** Third consecutive CME title (first three-peat in event history); closed with 65; beat Aki Iwai by 2 strokes; $4M prize; career earnings reached ~$24.29M, surpassing Sörenstam; 5 wins in 2026
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 4: Australian Open Dec 3-6 at Kingston Heath — McIlroy Headlines as Golf's Australian Season Peaks
+- **Tier:** 2
+- **Category:** Australian Open / Rory McIlroy / Kingston Heath / Cameron Smith / Adam Scott / DP World Tour
+- **Key facts:** Australian Open Dec 3-6 at Kingston Heath Melbourne; McIlroy confirmed; Smith and Scott both playing BMW Australian PGA this week; elevated co-sanctioned DP World Tour / PGA Tour event
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: Golf Mourns Dan Hicks — NBC's Voice of a Generation Dies at 64
+- **Tier:** 2
+- **Category:** Dan Hicks / NBC Sports / golf broadcasting / Tiger Woods / tribute
+- **Key facts:** Hicks died Nov 12, 2026 at 64; NBC Golf since 1992, lead announcer since 2000; partnership with Johnny Miller; iconic 2008 US Open Tiger call; covered 15+ Olympics; survived by wife Hannah Storm and three daughters
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+---
+
 ## 2026-11-25
 
 ### STORY 1: Cameron Smith Declares PGA Tour Return His Goal as BMW Australian PGA Begins

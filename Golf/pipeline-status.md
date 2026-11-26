@@ -1,9 +1,30 @@
 # Golf Fanrecap — Pipeline Status
 
-## Last Run: 2026-11-25
+## Last Run: 2026-11-26
 
 **Status:** COMPLETE (with known proxy limitations)
 **Niche:** Golf Fanrecap
+
+---
+
+### 2026-11-26 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles, image manifest)
+- Step 10: verify-facts.py — 5 stories, 23 claims, HIGH: 57; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 5 tweets, 0 FB posts (known parsing), 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (20 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy; content-dashboards not in session scope)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via git remote with PAT
+
+**Stories covered:**
+1. T1 FOLLOW UP: BMW Australian PGA R1 — Barron leads at -8; Min Woo Lee shoots 68 without 8-iron (left in Las Vegas with F1 drivers Sainz and Stroll) (Ryan Calloway)
+2. T1 NEW: Marco Penge wins RSM Classic 4-way playoff at Sea Island; was 120th in FedEx Fall, keeps card, 2-year exemption through 2028 (Jake Torres)
+3. T1 FOLLOW UP: Thitikul CME Group Tour Championship three-peat; first ever; passes Sörenstam on LPGA career money list ($24.29M) (Marcus Cole)
+4. T2 FOLLOW UP: Australian Open Dec 3-6 at Kingston Heath — McIlroy headlines; Smith and Scott coming off The Lakes (Ryan Calloway)
+5. T2 NEW: Dan Hicks tribute — NBC Golf's voice of a generation dies at 64; 30+ years at NBC, 2008 US Open Tiger call (Jake Torres)
 
 ---
 
