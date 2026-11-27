@@ -1567,3 +1567,42 @@
 - **Key facts:** No Wembanyama; no De'Aaron Fox; Spurs outscored Kings 41-23 in Q2
 - **Byline:** Jake Torres
 - **Status:** NEW
+
+---
+
+## 2026-11-27
+
+### STORY 1: Black Friday NBA Cup — Knicks (6-game streak) vs Heat Must-Win at MSG
+- **Tier:** 1
+- **Category:** New York Knicks / Miami Heat / NBA Cup / Karl-Anthony Towns / Giannis Antetokounmpo
+- **Key facts:** Knicks 12-6 on 6-game streak; Heat 10-7; Heat advances with win; Knicks eliminated with loss; 7 PM ET Prime Video; Giannis 32/14 vs Philly Wednesday
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Wembanyama vs Doncic — Spurs-Lakers NBA Cup West Group Finale
+- **Tier:** 1
+- **Category:** San Antonio Spurs / Los Angeles Lakers / Victor Wembanyama / Luka Doncic / NBA Cup
+- **Key facts:** Spurs 15-4; Lakers 15-3; West Group C title on line; 9:30 PM ET Prime Video; Spurs lost at Portland 116-111 Wednesday
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: NBA Cup Group Play Finale — Full Bracket Picture
+- **Tier:** 2
+- **Category:** NBA Cup / Dallas Mavericks / Boston Celtics / bracket
+- **Key facts:** Mavericks clinched West Group A (3-0, only clinched team); Celtics 3-0 East Group C (+68 PD); 8-team bracket = 6 group winners + 2 wild cards; Cup Final Dec 11
+- **Byline:** Damon Pierce
+- **Status:** FOLLOW UP
+
+### STORY 4: Bucks (2-17) at Pistons (11-6) — Milwaukee Historic Losing Pace
+- **Tier:** 2
+- **Category:** Milwaukee Bucks / Detroit Pistons / Damian Lillard / Cade Cunningham
+- **Key facts:** Bucks 2-17; ended 13-game skid Nov 24; lost to Nets again Nov 26; Pistons 11-6 ascending
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: Black Friday NBA Cup Finale on Prime Video
+- **Tier:** 3
+- **Category:** NBA Cup / Black Friday / Prime Video / holiday basketball
+- **Key facts:** 11 games total; Heat-Knicks, Bucks-Pistons, Spurs-Lakers on Prime Video; first Cup finale on Black Friday; bracket reveal tonight
+- **Byline:** Marcus Cole
+- **Status:** NEW

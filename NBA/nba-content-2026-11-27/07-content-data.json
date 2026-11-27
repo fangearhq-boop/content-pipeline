@@ -1,0 +1,413 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-27",
+  "compiled_at": "2026-11-27T11:20:25.047212+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Knicks Enter Black Friday Riding Six-Game Win Streak in Must-Win NBA Cup Battle vs Heat",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "**Window:** 9:00 AM ET\n**Character count:** 165\n\nThe @nyknicks enter Black Friday on a 6-game win streak. Must-win vs. Miami. Win and they advance in the Cup. Lose and they're OUT. 7 PM ET on Prime Video. #NBAKnicks",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBAKnicks"
+          ],
+          "char_count": 215
+        },
+        {
+          "label": "Post 1B",
+          "text": "**Window:** 9:30 PM ET\n**Character count:** 183\n\nGiannis had 32 pts and 14 reb vs Philly on Wednesday. Tonight at MSG he faces a Knicks squad on a 6-game streak. Karl-Anthony Towns vs. Giannis. 7 PM ET. Prime Video. #Heat #NBAKnicks",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Heat",
+            "#NBAKnicks"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-knicks-six-game-streak-must-win-cup-battle-heat.html",
+        "headline": "Knicks Enter Black Friday on Six-Game Streak in Must-Win NBA Cup Battle vs. Heat",
+        "word_count": 657
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks vs Heat — Must-Win NBA Cup Battle\n\n**Image 1A** (Social — X/Twitter & Facebook)\n- **Type:** Social (1080x1350)\n- **Photo source:** imagn\n- **Search term:** `Karl-Anthony Towns New York Knicks`\n- **Credit:** (USA TODAY Sports Images)\n- **Canva overlay text:** \"WIN OR GO HOME / HEAT AT KNICKS / 7 PM ET • PRIME VIDEO\"\n- **Notes:** Towns mid-game, ideally a power post move; dark background preferred for text contrast\n\n**Image 1B** (Social — Facebook alternate)\n- **Type:** Social (1080x1350)\n- **Photo source:** imagn\n- **Search term:** `Giannis Antetokounmpo Miami Heat`\n- **Credit:** (Imagn Images)\n- **Canva overlay text:** \"GIANNIS: 32 PTS / 14 REB / CAN HE CARRY MIAMI?\"\n- **Notes:** Dynamic Giannis action shot, ideally driving or dunking\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Knicks Enter Black Friday Riding Six-Game Win Streak in Must-Win NBA Cup Battle vs Heat\n**Sources consulted:**\n- https://www.yardbarker.com/nba/articles/knicks_close_nba_cup_group_play_against_heat_on_friday/s1_17908_44623609\n- https://wire.report/article/heat-knicks-and-lakers-spurs-headline-friday-nba-cup-slate-2026-11-26\n- https://www.si.com/nba/updated-nba-cup-standings-bracket-heading-into-final-night-group-stage\n- https://www.cbsnews.com/amp/miami/news/knicks-beat-heat-nba-cup\n**Key facts (with confidence):**\n- [HIGH] Knicks record: 12-6 overall heading into Black Friday — multiple sources confirm\n- [HIGH] Knicks on 6-game win streak heading into this game — confirmed by prior pipeline (Nov 26 status)\n- [HIGH] Game time: 7:00 PM ET, Madison Square Garden — confirmed multiple sources\n- [HIGH] Game on Prime Video — confirmed by CBS Sports\n- [HIGH] Heat record: 10-7 — confirmed by pipeline data\n- [MEDIUM] Karl-Anthony Towns averaging 28.4 pts, 11.8 reb during the streak — from NBA Cup coverage\n- [HIGH] Giannis Antetokounmpo scored 32 points and 14 rebounds in Heat loss to 76ers on Nov 26 — confirmed by Nov 26 pipeline\n- [HIGH] The Knicks are in Cup East Group B — confirmed by multiple sources\n- [HIGH] Miami advances to knockout round with a win; Knicks are eliminated with a loss — confirmed by SI and CBS sources",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "yardbarker.com",
+          "url": "https://www.yardbarker.com/nba/articles/knicks_close_nba_cup_group_play_against_heat_on_friday/s1_17908_44623609",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "wire.report",
+          "url": "https://wire.report/article/heat-knicks-and-lakers-spurs-headline-friday-nba-cup-slate-2026-11-26",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "si.com",
+          "url": "https://www.si.com/nba/updated-nba-cup-standings-bracket-heading-into-final-night-group-stage",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "cbsnews.com",
+          "url": "https://www.cbsnews.com/amp/miami/news/knicks-beat-heat-nba-cup",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Wembanyama vs. Doncic — Spurs and Lakers Square Off in NBA Cup West Finale",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "**Window:** 11:00 AM ET\n**Character count:** 160\n\nWemby. Doncic. Black Friday nightcap. @spurs (15-4) vs @Lakers (15-3) with the West Group C title on the line. 9:30 PM ET on Prime Video. #NBASpurs #LakeShow",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBASpurs",
+            "#LakeShow"
+          ],
+          "char_count": 207
+        },
+        {
+          "label": "Post 2B",
+          "text": "**Window:** 9:30 PM ET\n**Character count:** 149\n\nIt's time. Wembanyama vs Doncic for the West Group title. @spurs vs @Lakers — Black Friday's nightcap starts NOW on Prime Video. #NBASpurs #LakeShow",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBASpurs",
+            "#LakeShow"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-wembanyama-doncic-spurs-lakers-nba-cup-west.html",
+        "headline": "Wembanyama vs. Doncic: Spurs and Lakers Square Off in NBA Cup West Finale",
+        "word_count": 631
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Spurs vs Lakers — West Finale\n\n**Image 2A** (Social — X/Twitter & Facebook)\n- **Type:** Social (1080x1350)\n- **Photo source:** imagn\n- **Search term:** `Victor Wembanyama San Antonio Spurs`\n- **Credit:** (USA TODAY Sports Images)\n- **Canva overlay text:** \"WEMBY VS DONCIC / BLACK FRIDAY NIGHTCAP / 9:30 PM ET\"\n- **Notes:** Wemby signature block or long stride to basket\n\n**Image 2B** (Social — Facebook alternate)\n- **Type:** Social (1080x1350)\n- **Photo source:** imagn\n- **Search term:** `Luka Doncic Los Angeles Lakers`\n- **Credit:** (Imagn Images)\n- **Canva overlay text:** \"LUKA IN LA / SPURS-LAKERS: WEST GROUP TITLE\"\n- **Notes:** Doncic playmaking or pull-up jumper\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wembanyama vs. Doncic — Spurs and Lakers Square Off in NBA Cup West Finale\n**Sources consulted:**\n- https://sports.yahoo.com/nba/articles/spurs-lakers-wemby-luka-became-212354932.html\n- https://cbssports.com/nba/news/lakers-spurs-clash-in-pivotal-nba-cup-showdown\n- https://www.365scores.com/basketball/match/nba-103/los-angeles-lakers-san-antonio-spurs-1316-1317-103\n- https://www.si.com/nba/updated-nba-cup-standings-bracket-heading-into-final-night-group-stage\n**Key facts (with confidence):**\n- [HIGH] Spurs record: 15-4 — confirmed multiple sources\n- [HIGH] Lakers record: 15-3 — confirmed multiple sources\n- [HIGH] Game time: 9:30 PM ET on Prime Video — confirmed by CBS and Yahoo sources\n- [HIGH] Spurs lost 116-111 at Portland on Wednesday, Nov 26 — confirmed by prior pipeline\n- [HIGH] Both Spurs and Lakers in West Group C — confirmed by SI standings article\n- [MEDIUM] Victor Wembanyama vs Luka Doncic matchup is featured angle — confirmed from Yahoo/CBS headlines\n- [HIGH] Lakers No. 1 overall record heading in — multiple sources\n- [HIGH] San Antonio was No. 1 in West before Wednesday loss to Portland — confirmed",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/nba/articles/spurs-lakers-wemby-luka-became-212354932.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "cbssports.com",
+          "url": "https://cbssports.com/nba/news/lakers-spurs-clash-in-pivotal-nba-cup-showdown",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "365scores.com",
+          "url": "https://www.365scores.com/basketball/match/nba-103/los-angeles-lakers-san-antonio-spurs-1316-1317-103",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "si.com",
+          "url": "https://www.si.com/nba/updated-nba-cup-standings-bracket-heading-into-final-night-group-stage",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "NBA Cup Group Play Finale — Who Advances, Who Is Out, Full Bracket Picture",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "**Window:** 4:00 PM ET\n**Character count:** 178\n\nTonight decides the NBA Cup bracket. The Mavericks have clinched. Everyone else fights for 7 more spots. Heat, 76ers, Wolves, Spurs, Lakers all alive. Bracket reveal tonight. #NBAcup",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBAcup"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-nba-cup-group-play-finale-bracket-picture.html",
+        "headline": "NBA Cup Group Play Finale: Who Advances, Who Is Out, Full Bracket Picture",
+        "word_count": 539
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NBA Cup Bracket\n\n**Image 3A** (Social — X/Twitter & Facebook)\n- **Type:** Social (1080x1350)\n- **Photo source:** imagn\n- **Search term:** `NBA Cup trophy basketball`\n- **Credit:** (USA TODAY Sports Images)\n- **Canva overlay text:** \"NBA CUP / BRACKET NIGHT / WHO'S IN?\"\n- **Notes:** Trophy or league-branded image; clean background for text\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NBA Cup Group Play Finale — Who Advances, Who Is Out, Full Bracket Picture\n**Sources consulted:**\n- https://www.espn.com/nba/story/_/id/49577473/2026-nba-season-tournament-cup-format-highlights-updates\n- https://www.si.com/nba/updated-nba-cup-standings-bracket-heading-into-final-night-group-stage\n- https://bleacherreport.com/articles/25537516-nba-cup-2026-standings-bracket-predictions-after-november-24-group-play\n- https://sports.yahoo.com/nba/article/nba-cup-2026-standings-schedule-stakes-and-clinching-scenarios-for-final-week-of-group-play-225143666.html\n**Key facts (with confidence):**\n- [HIGH] Dallas Mavericks clinched West Group A — only team to clinch before final night — confirmed by multiple sources\n- [HIGH] Boston Celtics lead East Group C at 3-0 — confirmed by prior pipeline and Bleacher Report\n- [HIGH] Six group winners + 2 wild cards (1 per conference) = 8-team knockout bracket — confirmed ESPN\n- [HIGH] Cup Final set for December 11 — confirmed ESPN source\n- [MEDIUM] Minnesota can clinch West Group B with a win over Memphis — from Bleacher Report / Yahoo\n- [HIGH] Philadelphia 76ers can clinch East Group D with a win over Indiana — confirmed multiple sources\n- [MEDIUM] OKC in wild card contention for West — from Bleacher Report",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "espn.com",
+          "url": "https://www.espn.com/nba/story/_/id/49577473/2026-nba-season-tournament-cup-format-highlights-updates",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "si.com",
+          "url": "https://www.si.com/nba/updated-nba-cup-standings-bracket-heading-into-final-night-group-stage",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "bleacherreport.com",
+          "url": "https://bleacherreport.com/articles/25537516-nba-cup-2026-standings-bracket-predictions-after-november-24-group-play",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/nba/article/nba-cup-2026-standings-schedule-stakes-and-clinching-scenarios-for-final-week-of-group-play-225143666.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Bucks (2-17) at Pistons (11-6) — Milwaukee's Historic Losing Pace Raises Alarms",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "**Window:** 1:00 PM ET\n**Character count:** 161\n\nThe Milwaukee Bucks are 2-17. They ended a 13-game skid Tuesday, then lost again Wednesday. Tonight at Detroit. Milwaukee's season is in serious trouble. #Bucks #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Bucks",
+            "#NBA"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-bucks-historic-losing-pace-at-pistons.html",
+        "headline": "Bucks (2-17) at Pistons (11-6): Milwaukee's Historic Losing Pace Raises Alarms",
+        "word_count": 501
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bucks at Pistons\n\n**Image 4A** (Social — X/Twitter & Facebook)\n- **Type:** Social (1080x1350)\n- **Photo source:** imagn\n- **Search term:** `Damian Lillard Milwaukee Bucks`\n- **Credit:** (USA TODAY Sports Images)\n- **Canva overlay text:** \"2-17 / BUCKS IN CRISIS / AT DETROIT TONIGHT\"\n- **Notes:** Lillard looking determined or concerned; moody lighting works here\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Bucks (2-17) at Pistons (11-6) — Milwaukee's Historic Losing Pace\n**Sources consulted:**\n- https://www.covers.com/sport/basketball/nba/matchup/388244\n- https://www.nba.com/pistons/\n**Key facts (with confidence):**\n- [HIGH] Bucks record: 2-17 — confirmed by multiple NBA Cup standings sources (noted as \"2-17\" by wire.report)\n- [HIGH] Pistons record: 11-6 — confirmed by covers.com and NBA Cup standings\n- [HIGH] Bucks ended 13-game losing streak Nov 24 (beat Toronto) — confirmed by Nov 24 pipeline\n- [HIGH] Bucks lost to Nets 104-97 on Nov 26 — confirmed by Nov 26 pipeline\n- [HIGH] Game at Little Caesars Arena, 7:30 PM ET — confirmed by covers.com\n- [MEDIUM] Cade Cunningham leads Pistons offense — confirmed by prior pipeline (Cunningham noted in story history)\n- [MEDIUM] Damian Lillard limited by injuries — from general NBA Cup coverage",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "covers.com",
+          "url": "https://www.covers.com/sport/basketball/nba/matchup/388244",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "nba.com",
+          "url": "https://www.nba.com/pistons/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Black Friday NBA Slate — Prime Video Triple-Header Caps Cup Group Play",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "**Window:** 7:00 PM ET\n**Character count:** 161\n\nNo better way to spend Black Friday. 11 NBA Cup games tonight. Heat-Knicks is tipping RIGHT NOW. Spurs-Lakers at 9:30 PM ET. All on Prime Video. #NBA #BlackFriday",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#BlackFriday"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-black-friday-nba-cup-prime-video-triple-header.html",
+        "headline": "Black Friday NBA Cup Finale: Prime Video Delivers the League's Holiday Statement Night",
+        "word_count": 501
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Black Friday NBA\n\n**Image 5A** (Social — Facebook)\n- **Type:** Social (1080x1350)\n- **Photo source:** imagn\n- **Search term:** `NBA basketball game arena crowd`\n- **Credit:** (Imagn Images)\n- **Canva overlay text:** \"BLACK FRIDAY HOOPS / 11 NBA CUP GAMES TONIGHT\"\n- **Notes:** Wide arena shot with big crowd energy; festive if possible"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Black Friday NBA Slate — Prime Video Triple-Header\n**Sources consulted:**\n- https://wire.report/article/heat-knicks-and-lakers-spurs-headline-friday-nba-cup-slate-2026-11-26\n- https://www.espn.com/nba/story/_/id/49577473/2026-nba-season-tournament-cup-format-highlights-updates\n- https://ballexclusives.com/the-nba-cups-last-group-night-who-is-through-who-is-out-and-what-each-friday-game-decides/\n**Key facts (with confidence):**\n- [HIGH] 11 games total on the NBA Cup final group night — confirmed ESPN\n- [HIGH] Heat-Knicks and Spurs-Lakers are on Prime Video — confirmed multiple sources\n- [MEDIUM] First time Cup group-play finale falls on Black Friday — from ESPN coverage\n- [HIGH] Knockout bracket revealed after Friday's games — confirmed by format description",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "wire.report",
+          "url": "https://wire.report/article/heat-knicks-and-lakers-spurs-headline-friday-nba-cup-slate-2026-11-26",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "espn.com",
+          "url": "https://www.espn.com/nba/story/_/id/49577473/2026-nba-season-tournament-cup-format-highlights-updates",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "ballexclusives.com",
+          "url": "https://ballexclusives.com/the-nba-cups-last-group-night-who-is-through-who-is-out-and-what-each-friday-game-decides/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
