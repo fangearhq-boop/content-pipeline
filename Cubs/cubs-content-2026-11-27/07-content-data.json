@@ -1,0 +1,192 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-27",
+  "compiled_at": "2026-11-27T09:24:05.473094+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "1:15 PM",
+      "description": "STORY 1: MLB lawsuit / CBA 4 days",
+      "type": "Bold take / urgency (Tier 1)"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "STORY 2: Michael King \"end of week\"",
+      "type": "Hot stove urgency (Tier 1)"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "STORY 3: Hiromi Itoh last arm",
+      "type": "Informative / roster (Tier 2)"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "STORY 4: Gausman/final accounting",
+      "type": "Stat breakdown / analysis (Tier 2)"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "STORY 5: After $240M, what's missing",
+      "type": "Analysis / bold take (Tier 2)"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "MLB Files Federal Lawsuit — CBA 4 Days (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "MLB filed a federal lawsuit on November 25 to legally protect the lockout — asking a court to declare it cannot be blocked.\n\nThe CBA expires in FOUR DAYS. Cubs have Rogers + Sato signed. King and Itoh are still out there, still unsigned, with time running out. ⚖️\n\n#Cubs",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Michael King — Today Is Morosi's \"End of Week\" Deadline (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Michael King: 12-10, 3.21 ERA, 185 innings pitched in 2026 — the best starting pitcher left on this free-agent market. Jon Paul Morosi said Thursday he lands by END OF THIS WEEK.\n\nToday is Friday. Cubs and Mets are the top two teams. If Hoyer is in, the time is now.\n\n#Cubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Hiromi Itoh — Last Quality Arm, 4 Days (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Hiromi Itoh: 3.18 ERA, 159 strikeouts, 172 innings pitched in 2026 — the last significant Japanese pitcher on the market, with four days to decide.\n\nSato is a Cub. Taira went to Toronto. Itoh is the FINAL PIECE. Cubs and White Sox are both in. Dec. 1 or back to Japan.\n\n#Cubs",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Gausman to Tigers — The Final Accounting (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Kevin Gausman signed with Detroit (1yr/$25M), and the final accounting is done: FIVE STARTERS from the 2026 Cubs rotation — Imanaga, Gausman, Peterson, Boyd, Holmes — are now playing elsewhere.\n\nRogers is here. Assad is here. King or Itoh still out there. Four days. ⚾\n\n#Cubs",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "After $240M, What's Still Missing (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Trevor Rogers ($120M) and Teruaki Sato ($120M) = $240 million in one week. Biggest Cubs offseason in years. And Hoyer still has work to do.\n\nRotation: Rogers + Assad + Horton (mid-2027) = TWO starters for Opening Day. King or Itoh is the difference. Four days left.\n\n#Cubs",
+          "posting_time": "8:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

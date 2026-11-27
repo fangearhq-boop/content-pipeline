@@ -10291,3 +10291,159 @@ Each day's stories are appended at the top (newest first).
   - Dec 1 lockout confirmed → Tier 1 immediate reaction
   - CBA deal reached → Tier 1 market-opens reaction + Cubs action
   - Cubs move on Taira/Itoh/Sato before Dec 1 → Tier 1 acquisition
+
+## 2026-11-24 (OFF DAY — Offseason. Thanksgiving. CBA 7 days to Dec 1 lockout — Trevor Rogers 5yr/$120M BREAKING (Cubs' first rotation signing, Passan/Morosi confirmed). Hiromi Itoh still on market (Cubs hosted, 7-day window). Kaima Taira Dec 2 deadline vs Dec 1 lockout. Teruaki Sato Cubs among top-5 landing spots. Insights: 12 findings — hashtag_count=1 WINNER (15th consecutive override) + len_260+ WINNER + evening_18_24 WINNER + morning_06_12 exception for Rogers breaking news.)
+
+### STORY 1: Trevor Rogers 5yr/$120M — Cubs' First Rotation Signing
+- **Angle:** NEW STORY — Jeff Passan (ESPN) + Jon Morosi (MLB Network) confirmed agreement; Cubs forfeit 2nd+5th-round pick + $1M IFA; Rogers 4.03 ERA / 169.2 IP / 30 starts (2026 BAL); 1.81 ERA / 109.2 IP (2025)
+- **Tier:** 1
+- **Content Produced:** X Text Post (2 posts — 7:00 AM CT breaking exception + 1:15 PM CT bold take second angle)
+- **Follow-Up Opportunities:**
+  - Physical cleared → official signing + rotation shape analysis
+  - Itoh/Taira/Sato signed → rotation depth complete
+
+### STORY 2: CBA 7-Day Clock — All Japanese Signings Must Happen by Dec 1
+- **Angle:** FOLLOW UP — CBA countdown reframes Itoh/Taira/Sato pursuits as must-sign-or-forfeit; Taira's Dec 2 posting deadline = effective Nov 30-Dec 1 hard stop
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT)
+- **Follow-Up Opportunities:**
+  - Dec 1 lockout confirmed → Tier 1 immediate reaction
+  - Any Japanese player signed → Tier 1 acquisition
+
+### STORY 3: Hiromi Itoh — Cubs Hosted, 7 Days to Sign Before Lockout
+- **Angle:** FOLLOW UP — Cubs hosted Itoh (visit confirmed ESPN/NBC Sports); MLBTR projects 2yr/$20M; Cubs and White Sox competing; Dec 1 posting window same as lockout deadline
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT)
+- **Follow-Up Opportunities:**
+  - Cubs sign Itoh → Tier 1 acquisition
+  - White Sox land Itoh → crosstown rival angle
+
+### STORY 4: Kaima Taira — His Dec 2 Deadline Beats the Lockout by One Day
+- **Angle:** FOLLOW UP — Taira's posting deadline Dec 2 vs lockout Dec 1 = must sign by Nov 30; Boras client projected $72.5M/5yr (ESPN); Cubs among 9 teams bidding; 1.36 ERA / 146 IP 2026 NPB
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:00 PM CT)
+- **Follow-Up Opportunities:**
+  - Cubs sign Taira → Tier 1 acquisition
+  - Taira signs elsewhere → "one less arm" Tier 2 pivot
+
+### STORY 5: Teruaki Sato — Cubs Among Five Most Likely Landing Spots
+- **Angle:** FOLLOW UP — Bleacher Nation Nov 23: Cubs in top-5 likely destinations; NPB Triple Crown .306/39 HR/106 RBI; Phillies/Blue Jays/Yankees front-runners; Dec 15 deadline = must sign by Dec 1 or lose to lockout
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 PM CT)
+- **Follow-Up Opportunities:**
+  - Cubs sign Sato → Tier 1 outfield acquisition
+  - Sato signs with Phillies/Yankees → "another target gone" pivot
+
+## 2026-11-25 (OFF DAY — Offseason. Black Friday. CBA 6 days to Dec 1 lockout — Teruaki Sato CONFIRMED Cubs 6yr/$120M (NPB Triple Crown .306/39 HR/106 RBI). Kaima Taira CONFIRMED Blue Jays 5yr/$80M (Cubs missed out). Trevor Rogers physical pending → confirmed. Hiromi Itoh still on market. $240M in 24 hours = Cubs biggest offseason spending in franchise history. Insights: hashtag_count=1 WINNER (16th consecutive override) + len_260+ WINNER + evening_18_24 WINNER + morning_06_12 exception for Sato breaking news.)
+
+### STORY 1: Teruaki Sato — Cubs Agree to 6yr/$120M
+- **Angle:** NEW STORY — CONFIRMED by Passan (ESPN), CBS Sports, MLBTR, Yahoo Sports, NBC Sports; NPB Triple Crown .306/.383/.609, 39 HR, 106 RBI; $120M + Rogers $120M = $240M in 24 hours; physical TBD
+- **Tier:** 1
+- **Content Produced:** X Text Post (2 posts — 7:00 AM CT breaking + 6:30 PM CT bold take/franchise angle)
+- **Follow-Up Opportunities:**
+  - Physical cleared → official deal + lineup projection
+  - Itoh still available → rotation still needs one more arm
+
+### STORY 2: Kaima Taira to Toronto Blue Jays — 5yr/$80M
+- **Angle:** NEW DEVELOPMENT — CONFIRMED by Passan (ESPN), Yahoo Sports, Globe and Mail; Cubs missed out; Blue Jays land top Japanese starter; shifts Cubs' rotation pursuit to Itoh + King
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT)
+- **Follow-Up Opportunities:**
+  - Itoh now "last quality Japanese arm" → urgency pivot
+
+### STORY 3: Trevor Rogers — Physical Cleared, Rotation Taking Shape
+- **Angle:** FOLLOW UP — Physical passed (confirmed pipeline Nov 24 entry); rotation crystallizing around Rogers as piece No. 1; Assad + Horton/Brown fill out depth
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:00 PM CT)
+- **Follow-Up Opportunities:**
+  - King/Itoh signed → rotation depth complete; full 2027 projection
+
+### STORY 4: CBA 6-Day Clock — Hiromi Itoh Window Closing Fast
+- **Angle:** FOLLOW UP — 6 days to lockout; MLBPA and owners still far apart; Itoh still unsigned after Chicago visit; Dec 1 = all transactions freeze; Itoh must sign or return to Japan
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 PM CT)
+- **Follow-Up Opportunities:**
+  - Itoh signs with Cubs → Tier 1 acquisition
+  - Dec 1 lockout hits with Itoh still unsigned → Tier 1 reaction
+
+## 2026-11-26 (OFF DAY — Offseason. Thanksgiving. CBA 5 days to Dec 1 lockout — Hiromi Itoh decision still pending (Cubs and White Sox competing, decision "as soon as Wednesday"). Michael King (12-10, 3.26 ERA) confirmed as Cubs' next rotation target. Brewers 2026 World Series champions (Jake Bauers to Red Sox 4yr/$58M). Joey Bart claimed off waivers from White Sox. Rogers+Sato $240M offseason recap. Insights: 12 findings — hashtag_count=1 WINNER (16th consecutive override) + len_260+ WINNER + evening_18_24 WINNER + morning_06_12 LOSER.)
+
+### STORY 1: Hiromi Itoh — Decision Imminent, 5-Day CBA Window
+- **Angle:** FOLLOW UP — Decision expected "as soon as Wednesday" (North Side Baseball); Cubs and White Sox competing; 5 days to lockout makes this final rotation window; 3.18 ERA / 172.2 IP 2026 NPB
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT)
+- **Follow-Up Opportunities:**
+  - Itoh signs with Cubs → Tier 1 acquisition
+  - Itoh signs with White Sox → crosstown rival angle
+
+### STORY 2: Rogers + Sato — 2027 Rotation and Lineup Math
+- **Angle:** FOLLOW UP — Both $120M deals covered individually; today's combined picture: $240M in one week, rotation crystallizing with Rogers + Assad + Horton (mid-2027), Sato fills OF; still need 1-2 more arms
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT)
+- **Follow-Up Opportunities:**
+  - King/Itoh signed → rotation depth complete; full 2027 projection
+
+### STORY 3: Michael King — The Case for One More Big Move
+- **Angle:** NEW STORY — 12-10, 3.26 ERA, 185 IP (2026 Padres opted out); 6 teams bidding; Morosi says "lands by end of this week"; Cubs pursuing one more starter (North Side Baseball); King would give Cubs legitimate top-10 rotation with Rogers
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT)
+- **Follow-Up Opportunities:**
+  - King signs with Cubs → Tier 1 acquisition (top rotation story)
+  - King signs with Mets → rival angle
+
+### STORY 4: NL Central Rival Watch — Brewers WS Champs, Cubs Going All-In
+- **Angle:** FOLLOW UP — Brewers won 2026 World Series (franchise first); NLCS MVP Jake Bauers signed Red Sox 4yr/$58M; Cardinals in full rebuild (Gorman non-tendered); Cubs $240M = going all-in vs. Brewers in 2027
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:00 PM CT)
+- **Follow-Up Opportunities:**
+  - Cubs add King/Itoh → "NL Central title or bust" angle
+  - Brewers add key free agent → rival watch recap
+
+### STORY 5: Joey Bart — Cubs Quietly Add Catching Depth
+- **Angle:** NEW STORY — Cubs claimed Bart off waivers from White Sox (Nov 20); No. 2 overall pick 2020; .214 avg / .662 OPS 44 games 2026; backs up Amaya; roster depth not headline-worthy
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 9:30 PM CT)
+- **Follow-Up Opportunities:**
+  - Amaya injury → Bart elevated to starter role
+
+## 2026-11-27 (OFF DAY — Offseason. Friday. CBA 4 days to Dec 1 lockout — MLB filed federal lawsuit Nov 25 to protect the lockout (30 MLB teams vs. 8 MLBPA exec subcommittee members, Manhattan federal court). Michael King still unsigned — Morosi "end of week" = today. Hiromi Itoh still unsigned — last Japanese arm on market, Cubs and White Sox both in. Kevin Gausman signed Tigers 1yr/$25M (final accounting: 5 Cubs 2026 starters all gone). Rogers+Sato = $240M spent, rotation still needs King or Itoh. Insights: 12 findings — hashtag_count=1 WINNER (17th consecutive override) + len_260+ WINNER + evening_18_24 WINNER + morning_06_12 LOSER.)
+
+### STORY 1: MLB Files Federal Lawsuit — CBA 4 Days
+- **Angle:** NEW STORY — MLB sued MLBPA in Manhattan federal court Nov 25 to legally protect the lockout; 30 teams plaintiffs; 8 MLBPA exec subcommittee members defendants; MLBPA: "completely frivolous"; CBA expires Dec 1; Rogers + Sato signed but King + Itoh still out
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT)
+- **Follow-Up Opportunities:**
+  - Court ruling on injunction → Tier 1 legal update
+  - CBA deal reached → Tier 1 market-opens reaction
+
+### STORY 2: Michael King — Today Is Morosi's End-of-Week Deadline
+- **Angle:** FOLLOW UP — Morosi (Nov 26): King "will find a team by end of this week"; today is Friday Nov 27; Cubs and Mets primary suitors (6 teams total); 12-10, 3.21 ERA, 185 IP (2026 Padres); projections 3yr/$75M (The Athletic) to 4yr/$92M (MLBTR)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT)
+- **Follow-Up Opportunities:**
+  - King signs with Cubs → Tier 1 acquisition
+  - King signs with Mets → rival angle + rotation Plan B
+
+### STORY 3: Hiromi Itoh — Last Quality Arm, 4 Days
+- **Angle:** FOLLOW UP — With Sato (Cubs) and Taira (Blue Jays) both signed, Itoh is last significant posted Japanese pitcher available; 3.18 ERA / 159 K / 172 IP (2026 NPB Nippon Ham); Cubs and White Sox competing; Dec 1 = sign or return to Japan
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT)
+- **Follow-Up Opportunities:**
+  - Itoh signs with Cubs → Tier 1 acquisition
+  - Itoh returns to Japan → "lockout cost Cubs a starter" angle
+
+### STORY 4: Gausman to Tigers — The Final Accounting
+- **Angle:** NEW ANGLE — Gausman Tigers 1yr/$25M (MLBTR confirmed); FIVE Cubs 2026 starters all now playing elsewhere: Imanaga, Gausman, Peterson, Boyd, Holmes; Cubs left with Rogers + Assad; needs King or Itoh + potentially one more arm
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT)
+- **Follow-Up Opportunities:**
+  - King/Itoh signed → rotation shape analysis
+  - 2027 Cubs vs. 2026 Cubs starters comparison
+
+### STORY 5: After $240M, What's Still Missing
+- **Angle:** NEW ANGLE — Rogers ($120M) + Sato ($120M) = $240M in one week; rotation still has holes: Rogers + Assad + Horton (mid-2027) = only TWO healthy starters for Opening Day; King or Itoh is the difference; Happ still FA; catcher serviceable (Amaya + Bart)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:00 PM CT)
+- **Follow-Up Opportunities:**
+  - King/Itoh signed → rotation complete, Hoyer's work done
+  - Happ signs elsewhere → OF depth analysis
