@@ -2,6 +2,50 @@
 
 ---
 
+## November 27, 2026
+
+### Story 1: Black Friday Toy Shopping — What COS Parents Need to Check Before Hitting "Buy"
+- **Date:** 2026-11-27
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** Black Friday toy safety; CPSC recall list at cpsc.gov/Recalls — Nov 2026 recalls include pajamas (flammability), magnetic toys (ingestion), button battery toys; ASTM F963 federal toy safety standard; button batteries cause burns within 2 hrs if swallowed; high-powered neodymium magnets require "ages 14+" labeling; age labels legally required; register for recall notifications
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY (Black Friday timing, distinct from Nov 26 S2 Qpancy standalone recall — this is broader toy safety guide for holiday shopping)
+
+### Story 2: Old Colorado City Christkindlmarket Returns Dec. 4 — Bigger and Better for 2026
+- **Date:** 2026-11-27
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Dec 4–6, 9–13, 16–23 2026; noon–8 p.m. daily; Bancroft Park, 2408 W Colorado Ave; free admission; second year, expanded vendor count; visitcos.com/events/christkindl-market
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY (2026 season preview; distinct from Nov 26 S1 weekend roundup which mentioned Dec 4–6 opening — this is a full preview with dates/hours/location/tips)
+
+### Story 3: When the Holidays Feel Heavy — AAP Guidance on Kids and Seasonal Stress
+- **Date:** 2026-11-27
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** AAP guidance on stress in children; behavioral changes lasting 2+ weeks warrant pediatrician conversation; symptoms: headaches, stomachaches, sleep changes, irritability; routine (especially sleep/mealtimes) as buffer; child participation in holiday prep reduces stress; model emotional regulation openly; healthychildren.org
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY (distinct from Nov 26 S3 AAP flu guidance — this is seasonal stress/mental health, not flu vaccines)
+
+### Story 4: D11 Is Reviewing School Boundaries — Here's What COS Families Should Know
+- **Date:** 2026-11-27
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** D11 boundary review process ongoing; declining enrollment trend (partly D49 growth); boundary change could mean different school assignment; ~20 residents attending community input sessions; d11.org for meeting info; transition provisions (phased, sibling policies, grandfather clauses) matter as much as boundary lines
+- **Byline:** Sarah Morales
+- **Status:** FOLLOW UP (Nov 26 S5 covered D11 11 underused schools/co-location plans; this covers the boundary review/attendance zone process specifically — different angle on D11 enrollment story)
+
+### Story 5: Surviving Holiday Travel With Kids — A Practical Guide for COS Families
+- **Date:** 2026-11-27
+- **Tier:** T3
+- **Pillar:** Humor / Evergreen
+- **Key Facts:** Thanksgiving travel tips; download media before leaving (cellular gaps on I-25 between COS and Pueblo); snack packing; planned stops for young children; altitude considerations above 10,000 ft; CDOT cotrip.org for road conditions; COS alternatives (Skate in the Park, Garden of the Gods, upcoming Christkindlmarket)
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY (annual evergreen pillar; distinct from Nov 25 Thanksgiving guide which focused on COS local activities — this is highway travel tips)
+
+---
+
 ## November 26, 2026
 
 ### Story 1: Things to Do with Kids in Colorado Springs This Weekend (Nov 27–29)

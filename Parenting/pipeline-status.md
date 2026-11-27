@@ -1,5 +1,35 @@
 # COS Parenting — Pipeline Status
 
+## Current Run: 2026-11-27
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Black Friday toy safety — CPSC recalls Nov 2026 (magnets, button batteries, pajamas); ASTM F963 standard; cpsc.gov/Recalls — HIGH; Christkindlmarket Dec 4–6, 9–13, 16–23 at Bancroft Park, free, noon–8 PM, expanded 2026 edition — HIGH from visitcos.com; AAP holiday stress guidance — behavioral changes 2+ weeks, routine/sleep/participation/modeling — HIGH from healthychildren.org; D11 boundary review — declining enrollment, D49 growth, ~20 residents at community input sessions — HIGH from d11.org/local sources; Holiday travel with kids — snacks/downloads/stops/altitude/cotrip.org — evergreen |
+| Story History Check | COMPLETE | S1 NEW (Black Friday toy safety guide — distinct from Nov 26 S2 Qpancy standalone recall; this is broader safety shopping guide); S2 NEW (Christkindlmarket 2026 preview — distinct from Nov 26 S1 weekend roundup which mentioned Dec 4–6 as one line; this is full preview); S3 NEW (AAP holiday stress — distinct from Nov 26 S3 AAP flu guidance; different AAP topic, seasonal stress/mental health); S4 FOLLOW UP (D11 boundary changes — Nov 26 S5 covered co-location/underused schools, this covers boundary/attendance zone review specifically); S5 NEW (holiday travel evergreen — distinct from Nov 25 S5 Thanksgiving guide which focused on COS local activities) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 T1, 3 T2, 1 T3); bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; cpsc.gov/Recalls for S1; visitcos.com for S2; healthychildren.org for S3; d11.org for S4; evergreen S5 no sources required |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts across 5 stories (2 for S1, 1 each for S2-S5); all ≤280 chars; 4 hashtags each; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; contractions; 0 exclamation marks; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only concepts (2 per story); clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 Black Friday toy safety (Jamie Rivera T1 ~700w, quick reference table); article-02 Christkindlmarket 2026 preview (Sarah Morales T2 ~600w, quick reference table); article-03 AAP holiday stress (Jamie Rivera T2 ~750w); article-04 D11 boundary changes (Sarah Morales T2 ~650w); article-05 holiday travel kids (Jamie Rivera T3 ~700w) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 65 claims; image not_started warnings (expected); no char limit violations |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 0 FB posts (pre-existing format mismatch), 5 articles, 10 images; 5/5 stories with cited URLs, 3/5 with official URL; posting window warnings (pre-existing) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 21 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-11-27.xlsx (16 posts) + cosp-postplanner-tobi-2026-11-27.xlsx (11 TOBI posts) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 27 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (1 Tier 1, 3 Tier 2, 1 Tier 3)
+- **Posts:** 6 X posts + 5 FB long-form + 5 FB image captions
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4])
+- **Key stories:** Black Friday toy safety guide (CPSC recalls, ASTM F963, button batteries, neodymium magnets); Old Colorado City Christkindlmarket 2026 preview (Dec 4–6, 9–13, 16–23, free, noon–8 PM, Bancroft Park); AAP holiday stress in kids (2-week threshold, routine/sleep/participation/modeling emotional health); D11 boundary review (declining enrollment, D49 growth, community input sessions open, d11.org); holiday travel with kids evergreen (snacks/downloads/rest stops/altitude/cotrip.org)
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); PostPlanner FB=0 compiled (pre-existing format mismatch — PostPlanner export reads FB from markdown directly, 10 FB posts in export)
+
+---
+
 ## Current Run: 2026-11-26
 
 | Step | Status | Notes |

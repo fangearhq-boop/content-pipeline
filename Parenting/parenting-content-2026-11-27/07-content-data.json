@@ -1,0 +1,471 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-27",
+  "compiled_at": "2026-11-27T12:25:20.106165+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Black Friday Toy Safety — What to Know Before You Shop",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Before you buy that toy today: check the age label, look for ASTM F963 compliance, and avoid anything with strong magnets or button batteries for kids under 5.\n\nCPSC's latest recall list is worth a quick scan. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 269
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Quick Black Friday reminder for COS families: cpsc.gov/Recalls lets you search any toy or product before you buy.\n\nIt takes 30 seconds and it's free. Worth doing this weekend. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-black-friday-toy-safety-guide-cos-parents.html",
+        "headline": "Black Friday Toy Shopping: What COS Parents Need to Check Before Hitting &ldquo;Buy&rdquo;",
+        "word_count": 693
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Black Friday Toy Safety — What to Know Before You Shop\n**Key Facts:**\n- CPSC maintains a recall database at cpsc.gov/Recalls — HIGH (official site, known)\n- Recent children's product recalls in November 2026 include: Qpancy children's pajamas (Nov 19, recall #27-094, 1,309 units, burn hazard, fails flammability standards) — HIGH (covered Nov 26, background context only)\n- SHEIN toy set recall November 12, 2026 — approximately 265,000 units; parents told to stop use immediately — MEDIUM (from CPSC recall search results, not opened official page)\n- Magnetic building cubes recall November 5, 2026 — high-powered magnets can be released if cubes break, ingestion risk — MEDIUM (from CPSC recall search results)\n- Nursing pillows recall November 5, 2026 — can block infant's airway — MEDIUM (from CPSC recall search results)\n- Arlopu slide playsets recall November 5, 2026 — openings can trap a child's head — MEDIUM (from CPSC recall search results)\n- CPSC toy safety tips: Check age labels; look for \"ASTM F963\" compliance (toy safety standard); avoid toys with small parts for children under 3; check for button batteries, which pose ingestion hazard — HIGH (CPSC official guidance, well-established)\n- Black Friday and Cyber Monday are the two biggest toy-buying days of the year — HIGH (industry-known fact)\n- Age labels on toys are legally required under ASTM F963 standard — HIGH\n**Sources:**\n- CPSC Recalls: https://www.cpsc.gov/Recalls\n- November 2026 recalls context from search results",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "CPSC Recalls",
+          "url": "https://www.cpsc.gov/Recalls",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "articles/article-01-black-friday-toy-safety-guide-cos-parents.html"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Old Colorado City Christkindlmarket Preview — Dec 4 Start",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "COS families: the Old Colorado City Christkindlmarket opens Dec. 4 at Bancroft Park.\n\nThree weekends of holiday shopping — it's free, runs noon–8 p.m., and it's expanded for 2026. Put it on the list. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-old-colorado-city-christkindlmarket-2026-preview.html",
+        "headline": "Old Colorado City Christkindlmarket Returns Dec. 4 — Bigger and Better for 2026",
+        "word_count": 498
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Old Colorado City Christkindlmarket Preview\n**Key Facts:**\n- Old Colorado City Christkindlmarket 2026 dates: December 4–6, December 9–13, December 16–23 — HIGH (visitcos.com, nomadlawyer.org — both confirm same dates)\n- Hours: 12 p.m. to 8 p.m. daily — HIGH (visitcos.com listing)\n- Location: Bancroft Park, 2408 W Colorado Ave, Colorado Springs, CO 80904 — HIGH (visitcos.com)\n- Admission: Free and open to all — HIGH (visitcos.com)\n- 2026 edition is expanded — more vendors, extended dates — HIGH (visitcos.com / gazette.com article Nov 2026)\n- Best timing to avoid crowds: mid-month windows (Dec 9–13) — MEDIUM (nomadlawyer.org recommendation)\n- Market is in Old Colorado City neighborhood — HIGH\n- Christkindlmarket is a European-style holiday market; inaugural Colorado Springs edition was 2025 — HIGH (gazette.com)\n**Sources:**\n- VisitCOS Christkindl Market: https://www.visitcos.com/events/christkindl-market\n- Nomad Lawyer Colorado Christmas Markets 2026: https://www.nomadlawyer.org/colorado-christmas-markets-denver-georgetown-colorado-springs-2026\n- Gazette: Old Colorado City prepares for bigger and better Christkindlmarket in 2026 — https://www.aol.com/articles/old-colorado-city-prepares-bigger-223737310.html",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "VisitCOS Christkindl Market",
+          "url": "https://www.visitcos.com/events/christkindl-market",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md",
+            "articles/article-02-old-colorado-city-christkindlmarket-2026-preview.html"
+          ]
+        },
+        {
+          "name": "Nomad Lawyer Colorado Christmas Markets 2026",
+          "url": "https://www.nomadlawyer.org/colorado-christmas-markets-denver-georgetown-colorado-springs-2026",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Old Colorado City prepares for bigger and better Christkindlmarket in 2026",
+          "url": "https://www.aol.com/articles/old-colorado-city-prepares-bigger-223737310.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Gazette"
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Helping Kids Through Holiday Stress — AAP Guidance",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The holidays aren't all joy for kids. Changes in sleep, appetite, or mood that last more than 2 weeks are worth talking to your pediatrician about.\n\nThe AAP has practical guidance for families this season. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-aap-holiday-stress-kids-colorado-springs.html",
+        "headline": "When the Holidays Feel Heavy: What the AAP Says About Kids and Seasonal Stress",
+        "word_count": 982
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Helping Kids Through Holiday Stress — AAP Guidance\n**Key Facts:**\n- Holiday stress affects children differently than adults — kids may show symptoms like changes in sleep or appetite, headaches, stomach aches — HIGH (multiple pediatric sources: University of Michigan, Mayo Clinic, CBS News Texas)\n- Symptoms that persist more than 2 weeks warrant a pediatrician visit — HIGH (Michigan Medicine)\n- University of Michigan poll of 2,020 parents found holiday logistics (shopping, tasks, finances) are the most common stressors — HIGH (U of Michigan study, cited in search results)\n- Nearly a third of parents say stress comes from holiday shopping and tasks — HIGH (U of Michigan poll)\n- Almost 50% of parents say most days their stress is completely overwhelming (2024 U.S. Surgeon General's report on parents) — HIGH (cited in October 2025 early-childhood health brief)\n- AAP/healthychildren.org guidance: Holiday stress article on \"Comfort and Joy\" at healthychildren.org covers how families can enjoy holidays together — HIGH (healthychildren.org URL confirmed in search)\n- Practical tips: maintain routines, model stress management, limit screen time, keep expectations realistic, involve kids in preparations — HIGH (from multiple AAP-linked sources)\n- Persistent low mood in children is a legitimate concern worth discussing with pediatrician — HIGH (Michigan Medicine)\n- Parents' own mental health matters and directly affects children — HIGH (Surgeon General's report context)\n- Colorado Springs context: Thanksgiving weekend + upcoming holiday season = relevant timing — HIGH (editorial context)\n**Sources:**\n- HealthyChildren.org AAP: https://www.healthychildren.org/English/family-life/family-dynamics/Pages/Comfort-and-Joy-Family-Tips-for-Enjoying-the-Winter-Holidays.aspx\n- Mayo Clinic holiday stress kids: https://newsnetwork.mayoclinic.org/discussion/mental-health-and-the-holidays-stress-for-kids/\n- Michigan Medicine: https://www.michiganmedicine.org/childrens-health/could-holiday-stress-be-affecting-your-childs-holiday-joy",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "HealthyChildren.org AAP",
+          "url": "https://www.healthychildren.org/English/family-life/family-dynamics/Pages/Comfort-and-Joy-Family-Tips-for-Enjoying-the-Winter-Holidays.aspx",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "American Academy of Pediatrics (HealthyChildren.org)",
+          "url": "https://www.healthychildren.org",
+          "official": true,
+          "found_in": [
+            "articles/article-03-aap-holiday-stress-kids-colorado-springs.html"
+          ]
+        },
+        {
+          "name": "Mayo Clinic holiday stress kids",
+          "url": "https://newsnetwork.mayoclinic.org/discussion/mental-health-and-the-holidays-stress-for-kids/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Michigan Medicine",
+          "url": "https://www.michiganmedicine.org/childrens-health/could-holiday-stress-be-affecting-your-childs-holiday-joy",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "D11 Boundary Changes — Community Input Still Needed",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "D11 families: the district is seeking community input on boundary change proposals that could shift school attendance zones.\n\nIf your elementary or middle school might be affected, there are meetings happening now. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-d11-boundary-changes-community-input-cos.html",
+        "headline": "D11 Is Reviewing School Boundaries — Here's What COS Families Should Know",
+        "word_count": 761
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Boundary Changes — Community Input Still Needed\n**Key Facts:**\n- Colorado Springs School District 11 is holding community boundary-change meetings — HIGH (Gazette, November 2026)\n- About 20 residents attended one session — MEDIUM (Gazette tag page snippet for Nov 5 date)\n- D11 boundary change context: D-49 became the largest school district in El Paso County (January 2026 data) while D-11 saw a significant enrollment drop — HIGH (Gazette, January 2026)\n- D11 also recently completed pilot of AIM Framework instructional model, with expansion announced — MEDIUM (D11 press release August 2026)\n- Mitchell High School achieved its best state rating in a decade under 2026 framework — MEDIUM (D11 press release August 31, 2026)\n- D11 is seeking community input on new Employee Handbook — MEDIUM (Yahoo News, undated)\n- D11 enrollment trends: declining enrollment driving boundary consolidation discussions — HIGH (enrollment trend confirmed from multiple sources)\n- COS context: School district boundary decisions affect where kids go to school, transportation, and community makeup — HIGH (editorial context)\n**Sources:**\n- Gazette D11 boundary coverage (tag): https://gazettedev.gazette.com/tag/d-11/\n- Gazette D49/D11 enrollment: https://gazette.com/2025/01/15/d-49-becomes-largest-school-district-in-el-paso-county-d-11-sees-big-drop-state-enrollment-data/\n- D11 Employee Handbook: https://www.yahoo.com/news/d11-seeks-community-input-employee-183108410.html",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Colorado Springs School District 11",
+          "url": "https://www.d11.org",
+          "official": true,
+          "found_in": [
+            "articles/article-04-d11-boundary-changes-community-input-cos.html"
+          ]
+        },
+        {
+          "name": "Gazette D11 boundary coverage (tag)",
+          "url": "https://gazettedev.gazette.com/tag/d-11/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Gazette D49/D11 enrollment",
+          "url": "https://gazette.com/2025/01/15/d-49-becomes-largest-school-district-in-el-paso-county-d-11-sees-big-drop-state-enrollment-data/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "D11 Employee Handbook",
+          "url": "https://www.yahoo.com/news/d11-seeks-community-input-employee-183108410.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "| MEDIUM | School District | d11 | ee Handbook",
+          "url": "https://www.yahoo.com/news/d11-seeks-commu",
+          "official": false,
+          "found_in": [
+            "06-fact-check-log.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Holiday Travel With Kids — COS Families' Survival Guide",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Thanksgiving travel tip: pack twice as many snacks as you think you need, download the shows before you leave, and accept that the trip will take 40% longer than expected.\n\nHappy Thanksgiving from COS Parenting. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-holiday-travel-kids-cos-survival-guide.html",
+        "headline": "Surviving Holiday Travel With Kids: A Practical Guide for COS Families",
+        "word_count": 876
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Holiday Travel With Kids — Survival Guide\n**Key Facts:**\n- Thanksgiving is the busiest travel period of the year — HIGH (industry-known)\n- Average American drives more than 50 miles to celebrate Thanksgiving with family — MEDIUM (commonly cited figure; not independently verified this session)\n- Car safety tips: proper car seat installation, never leave kids unattended, bring activities for long drives — HIGH (AAP car safety guidance)\n- Packing tips: snacks, entertainment, first-aid kit, familiar comfort items reduce stress — HIGH (general parenting guidance)\n- Motion sickness in kids: ginger, fresh air, keeping eyes on the horizon, seated position — MEDIUM (medical guidance, not verified against primary source this session)\n- COS context: I-25 corridor between Denver and COS is one of Colorado's busiest travel corridors at Thanksgiving — HIGH (road-trip context)\n- Travel tips for local destinations: Old Colorado City, Garden of Gods (free), Skate in the Park ($15) are all reachable within COS without significant drive — HIGH (confirmed locations)\n**Sources:**\n- Skate in the Park 2026: https://gazette.com/2026/11/11/skate-in-the-park-returns-bringing-holiday-tradition-downtown/\n- Garden of the Gods: https://www.gardenofgods.com (open year-round, free)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Skate in the Park 2026",
+          "url": "https://gazette.com/2026/11/11/skate-in-the-park-returns-bringing-holiday-tradition-downtown/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Garden of the Gods",
+          "url": "https://www.gardenofgods.com",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "cotrip.org",
+          "url": "https://www.cotrip.org",
+          "official": false,
+          "found_in": [
+            "articles/article-05-holiday-travel-kids-cos-survival-guide.html"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
