@@ -1,0 +1,388 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-27",
+  "compiled_at": "2026-11-27T11:26:46.188313+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Qatar GP Weekend Opens — Verstappen Targets Third Consecutive Lusail Win",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "**Window:** 8:00 AM ET\n**Character count:** 193\n\nThe 2026 Qatar Grand Prix weekend is LIVE. FP1 and FP2 at Lusail today. Verstappen has won the last THREE Qatar GPs (2023, 2024, 2025). Can anyone stop him in the desert? #F1 #QatarGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#QatarGP"
+          ],
+          "char_count": 232
+        },
+        {
+          "label": "Post 1B",
+          "text": "**Window:** 8:00 PM ET\n**Character count:** 198\n\nFP1 and FP2 are done at Lusail. Qualifying tomorrow, race Sunday. Verstappen targeting a third consecutive Qatar win. The weekend is heating up. Full preview at the link. #F1 #QatarGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#QatarGP"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-qatar-gp-2026-verstappen-third-consecutive-win-attempt.html",
+        "headline": "Qatar GP Weekend Opens: Verstappen Targets Third Consecutive Lusail Victory",
+        "word_count": 604
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Qatar GP Weekend Opener\n\n**Image 1A** (Social)\n- **Type:** Social (1080x1350)\n- **Photo source:** imagn\n- **Search term:** `Max Verstappen Red Bull Qatar Lusail`\n- **Credit:** (USA TODAY Sports Images)\n- **Canva overlay text:** \"QATAR GP 2026 / VERSTAPPEN: 3-PEAT ATTEMPT / PRACTICE DAY\"\n- **Notes:** Verstappen in car at night under Lusail lights preferred\n\n**Image 1B** (Article hero)\n- **Type:** Article hero (1200x630)\n- **Photo source:** imagn\n- **Search term:** `Lusail circuit Qatar F1 night`\n- **Credit:** (Imagn Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Qatar GP Weekend Opens — Verstappen Targets Third Consecutive Lusail Win\n**Sources consulted:**\n- https://www.formula1.com/en/racing/2026/qatar\n- https://www.gpfans.com/en/f1-news/1093394/f1-practice-today-2026-qatar-grand-prix-schedule-start-times-and-tv-channel/\n- https://www.stadiumrant.com/f1-qatar-grand-prix-2026-weekend/\n- https://blog.f1livepulse.com/2026-qatar-grand-prix-facts-stats-strategy-guide\n**Key facts (with confidence):**\n- [HIGH] Qatar GP race date: November 29, 2026 — confirmed multiple sources\n- [HIGH] Venue: Lusail International Circuit, Qatar — confirmed official F1 sources\n- [HIGH] Practice 1: 13:30-14:30 local time, Nov 27; Practice 2: 17:00-18:00 local time, Nov 27 — confirmed multiple sources\n- [HIGH] Verstappen won Las Vegas GP (most recent race before Qatar) — confirmed by prior pipeline (Nov 26)\n- [HIGH] Verstappen won Qatar in 2023, 2024, 2025 — confirmed by race history sources\n- [HIGH] Verstappen 304 championship points — confirmed by prior pipeline and multiple standings sources\n- [HIGH] Antonelli clinched 2026 championship at Mexico City GP — confirmed multiple sources\n- [MEDIUM] Jak Crawford set to drive Alonso's Aston Martin in FP1 — from GPfans preview",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "formula1.com",
+          "url": "https://www.formula1.com/en/racing/2026/qatar",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "gpfans.com",
+          "url": "https://www.gpfans.com/en/f1-news/1093394/f1-practice-today-2026-qatar-grand-prix-schedule-start-times-and-tv-channel/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "stadiumrant.com",
+          "url": "https://www.stadiumrant.com/f1-qatar-grand-prix-2026-weekend/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "blog.f1livepulse.com",
+          "url": "https://blog.f1livepulse.com/2026-qatar-grand-prix-facts-stats-strategy-guide",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Hamilton vs. Verstappen — The Mathematics of a Two-Race P2 Battle",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "**Window:** 10:00 AM ET\n**Character count:** 207\n\nThe title is Antonelli's. But the P2 fight is VERY much alive.\n\nVerstappen leads Hamilton by 37 points with 50 available. Hamilton needs a +38 swing across Qatar and Abu Dhabi. It is not impossible. #F1 #QatarGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#QatarGP"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-hamilton-verstappen-p2-championship-mathematics.html",
+        "headline": "Hamilton vs. Verstappen: The Mathematics of a Two-Race Battle for Second",
+        "word_count": 569
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton vs Verstappen P2 Battle\n\n**Image 2A** (Social)\n- **Type:** Social (1080x1350)\n- **Photo source:** imagn\n- **Search term:** `Lewis Hamilton Ferrari 2026`\n- **Credit:** (USA TODAY Sports Images)\n- **Canva overlay text:** \"P2 CHAMPIONSHIP / HAMILTON vs VERSTAPPEN / 37 POINTS, 2 RACES\"\n- **Notes:** Hamilton in Ferrari red — a distinctive 2026 visual\n\n**Image 2B** (Article hero)\n- **Type:** Article hero (1200x630)\n- **Photo source:** imagn\n- **Search term:** `Max Verstappen Red Bull 2026`\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton vs. Verstappen — P2 Championship Mathematics\n**Sources consulted:**\n- https://www.formula1.com/en/results/2026/drivers\n- https://www.stadiumrant.com/f1-qatar-grand-prix-2026-weekend/\n- https://www.starsportsbet.co.uk/star-f1-preview-2026-qatar-grand-prix/\n**Key facts (with confidence):**\n- [HIGH] Verstappen 304 points, Hamilton 267 points (37-point gap) — confirmed by prior pipeline and standings sources\n- [HIGH] 50 points available over final two races (Qatar + Abu Dhabi) — calculated: 25 pts max per race × 2 = 50\n- [HIGH] Hamilton needs 38-point swing across two races to overtake Verstappen — calculated from above\n- [HIGH] Hamilton drives for Ferrari in 2026 — confirmed by multiple sources\n- [HIGH] Two races remaining: Qatar (Nov 29) and Abu Dhabi — confirmed by F1 calendar",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "formula1.com",
+          "url": "https://www.formula1.com/en/results/2026/drivers",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "stadiumrant.com",
+          "url": "https://www.stadiumrant.com/f1-qatar-grand-prix-2026-weekend/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "starsportsbet.co.uk",
+          "url": "https://www.starsportsbet.co.uk/star-f1-preview-2026-qatar-grand-prix/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Perez and the Grid Penalty — Cadillac's Tough Qatar Starting Position",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "**Window:** 12:00 PM ET\n**Character count:** 189\n\nSergio Perez starts the Qatar GP 5 places behind his qualifying position. The mandatory two-stop race makes life even harder from the back. Tough assignment for the Cadillac driver. #F1 #QatarGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#QatarGP"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-perez-grid-penalty-cadillac-qatar-strategy.html",
+        "headline": "Perez's Five-Place Penalty and Cadillac's Strategic Challenge at Qatar",
+        "word_count": 498
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Perez Grid Penalty\n\n**Image 3A** (Social)\n- **Type:** Social (1080x1350)\n- **Photo source:** imagn\n- **Search term:** `Sergio Perez Cadillac 2026`\n- **Credit:** (USA TODAY Sports Images)\n- **Canva overlay text:** \"-5 GRID PENALTY / PEREZ AT QATAR / CADILLAC FIGHTS BACK\"\n- **Notes:** Perez in Cadillac livery — distinctive 2026 image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Perez Grid Penalty — Cadillac at Qatar\n**Sources consulted:**\n- https://racingnews365.com/perez-set-to-be-hit-with-double-qatar-gp-penalty-following-sprint-crash\n- https://racingnews365.com/perez-escapes-second-qatar-pre-race-penalty\n- Prior pipeline (2026-11-26): Perez starts -5 on grid in Qatar\n**Key facts (with confidence):**\n- [HIGH] Perez drives for Cadillac in 2026 — confirmed by multiple standings sources\n- [HIGH] Perez has 5-place grid penalty for Qatar — confirmed by prior pipeline (Nov 26 Story 3)\n- [HIGH] Qatar has 27-lap maximum tire stint, enforcing minimum 2 stops — confirmed by prior pipeline (Nov 26 Story 3)\n- [MEDIUM] Qatar race distance: 57 laps — from prior pipeline and race sources",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "racingnews365.com",
+          "url": "https://racingnews365.com/perez-set-to-be-hit-with-double-qatar-gp-penalty-following-sprint-crash",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "racingnews365.com",
+          "url": "https://racingnews365.com/perez-escapes-second-qatar-pre-race-penalty",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Russell vs. Norris — Tied at 264 Points with Two Races to Go",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "**Window:** 2:00 PM ET\n**Character count:** 191\n\nRussell and Norris are TIED at 264 points with two races left. P4 in the championship is completely undecided. Every tenth on this weekend's qualifying lap matters. #F1 #QatarGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#QatarGP"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-russell-norris-tied-264-points-p4-championship.html",
+        "headline": "Russell vs. Norris: Tied at 264 Points with Two Races Left to Decide P4",
+        "word_count": 574
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Russell vs Norris P4\n\n**Image 4A** (Social)\n- **Type:** Social (1080x1350)\n- **Photo source:** imagn\n- **Search term:** `Lando Norris McLaren 2026`\n- **Credit:** (USA TODAY Sports Images)\n- **Canva overlay text:** \"264 vs 264 / NORRIS vs RUSSELL / WHO TAKES P4?\"\n- **Notes:** Norris in orange McLaren or Russell in silver Mercedes\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Russell vs Norris — Tied at 264 Points\n**Sources consulted:**\n- https://www.formula1.com/en/results/2026/drivers\n- https://www.stadiumrant.com/f1-qatar-grand-prix-2026-weekend/\n- Prior pipeline (2026-11-26): Russell 264 pts, Norris 264 pts\n**Key facts (with confidence):**\n- [HIGH] George Russell: 264 points (fourth in championship) — confirmed by prior pipeline\n- [HIGH] Lando Norris: 264 points (fifth in championship) — confirmed by prior pipeline\n- [HIGH] 50 points remaining (two races) — confirmed by calculation\n- [HIGH] Russell drives for Mercedes, Norris for McLaren — confirmed multiple sources\n- [MEDIUM] Lando Norris set fastest lap at Qatar in 2024 (1:22.384) — from practice schedule sources",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "formula1.com",
+          "url": "https://www.formula1.com/en/results/2026/drivers",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "stadiumrant.com",
+          "url": "https://www.stadiumrant.com/f1-qatar-grand-prix-2026-weekend/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Kimi Antonelli's Historic 2026 Season — By the Numbers",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "**Window:** 5:00 PM ET\n**Character count:** 195\n\nKimi Antonelli: 9 wins. 402 points. World Champion at 20. The 2026 F1 season is one for the history books. Two races remain and the records keep piling up. #F1 #Antonelli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Antonelli"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-antonelli-historic-2026-season-by-the-numbers.html",
+        "headline": "Kimi Antonelli's Historic 2026 F1 Season: A Champion by the Numbers",
+        "word_count": 572
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Season Review\n\n**Image 5A** (Social)\n- **Type:** Social (1080x1350)\n- **Photo source:** imagn\n- **Search term:** `Kimi Antonelli Mercedes 2026`\n- **Credit:** (USA TODAY Sports Images)\n- **Canva overlay text:** \"9 WINS. 402 PTS. CHAMPION AT 20. / ANTONELLI 2026\"\n- **Notes:** Antonelli celebrating or in cockpit — season-defining shot"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kimi Antonelli 2026 Season — History in Numbers\n**Sources consulted:**\n- https://en.wikipedia.org/wiki/2026_Formula_One_World_Championship\n- https://f1chronicle.com/kimi-antonellis-2026-season-by-the-numbers/\n- https://www.formula1archive.com/drivers/antonelli/2026\n- https://kimi-antonelli.com/results/\n**Key facts (with confidence):**\n- [HIGH] Antonelli clinched 2026 title at Mexico City GP — confirmed by Wikipedia\n- [HIGH] Antonelli 402 points after Las Vegas — confirmed by multiple season stats sources\n- [HIGH] Antonelli scored 9 wins in 2026 — confirmed by multiple sources (note: some older pages say fewer; 9 is from most complete sources post-Las Vegas)\n- [HIGH] Antonelli drives for Mercedes in 2026 — confirmed\n- [MEDIUM] Antonelli is Formula 1's youngest world champion — from multiple sources; born August 25, 2006, age 20 at title clinch; needs primary-source confirmation of \"youngest\" record\n- [HIGH] Antonelli previously drove in Formula 2 before F1 — confirmed biography sources",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "en.wikipedia.org",
+          "url": "https://en.wikipedia.org/wiki/2026_Formula_One_World_Championship",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "f1chronicle.com",
+          "url": "https://f1chronicle.com/kimi-antonellis-2026-season-by-the-numbers/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "formula1archive.com",
+          "url": "https://www.formula1archive.com/drivers/antonelli/2026",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "kimi-antonelli.com",
+          "url": "https://kimi-antonelli.com/results/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -1175,3 +1175,42 @@
 - **Key facts:** Antonelli 402 pts champion; Mercedes leads constructors; focus on finishing strong
 - **Byline:** Ryan Calloway
 - **Status:** FOLLOW UP
+
+---
+
+## 2026-11-27
+
+### STORY 1: Qatar GP Weekend Opens — Verstappen Targets Third Consecutive Lusail Win
+- **Tier:** 1
+- **Category:** Max Verstappen / Red Bull / Qatar Grand Prix / Lusail Circuit
+- **Key facts:** Race Nov 29; FP1/FP2 today; Verstappen won Qatar 2023/2024/2025; 304 championship pts; Antonelli clinched title at Mexico City
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: Hamilton vs Verstappen — P2 Championship Mathematics
+- **Tier:** 1
+- **Category:** Lewis Hamilton / Max Verstappen / Ferrari / Red Bull / championship
+- **Key facts:** Verstappen 304 pts; Hamilton 267 pts; 37-pt gap; 50 pts available; needs +38 swing in 2 races
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: Perez Grid Penalty — Cadillac at Qatar
+- **Tier:** 2
+- **Category:** Sergio Perez / Cadillac / Qatar GP / grid penalty
+- **Key facts:** 5-place grid penalty; mandatory 2-stop Qatar race (27-lap max stint); 57-lap race
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
+### STORY 4: Russell vs Norris — Tied at 264 Points for P4
+- **Tier:** 2
+- **Category:** George Russell / Mercedes / Lando Norris / McLaren / P4 championship
+- **Key facts:** Both 264 points; 50 pts remaining (2 races); fight for 4th in standings
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
+### STORY 5: Kimi Antonelli 2026 Season — History in Numbers
+- **Tier:** 3
+- **Category:** Kimi Antonelli / Mercedes / World Championship / rookie season
+- **Key facts:** 9 wins; 402 points; clinched at Mexico City; youngest world champion (20 years old, MEDIUM confidence)
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
