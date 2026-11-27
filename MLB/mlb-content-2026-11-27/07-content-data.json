@@ -1,0 +1,402 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-27",
+  "compiled_at": "2026-11-27T10:24:45.567641+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CBA Countdown — 4 Days Until the Lockout",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The MLB CBA expires in 4 days (Dec 1, 11:59 PM ET). MLB has filed a preemptive federal lawsuit. Manfred says he \"can't imagine\" a deal without a salary cap. The union calls it \"completely frivolous.\" A lockout is coming. #MLB #MLBPA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#MLBPA"
+          ],
+          "char_count": 232
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The 2021 MLB lockout lasted 99 days. That one started Dec 2. This one starts Dec 2. The core dispute is the same: owners want a salary cap. The union refuses. Happy Thanksgiving. #MLB #MLBLockout",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#MLBLockout"
+          ],
+          "char_count": 195
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-cba-countdown-4-days-mlb-lockout.html",
+        "headline": "CBA Countdown: MLB Has 4 Days Before the Lockout Begins",
+        "word_count": 721
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CBA Countdown\n\n**Concept 1 — Social (1080x1350)**\nCBA countdown clock — bold red \"4 DAYS\" on dark background, MLB logo silhouette, Dec 1 deadline highlighted. Text: \"LOCKOUT INCOMING.\" Dark navy and red color palette.\n\n**Concept 2 — Social (1080x1350)**\nSide-by-side comparison graphic: \"2021 LOCKOUT: 99 DAYS\" vs. \"2026 LOCKOUT: ??\" Bold typography, baseball diamond backdrop. Same dispute, same date (Dec 2).\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CBA Countdown — 4 Days to Lockout\n**Key Facts:**\n- CBA expires December 1, 2026 at 11:59 PM ET — **[HIGH]** per CBS Sports timeline, Yahoo Sports, ESPN, Ministry of Sport\n- MLB filed preemptive federal lawsuit in SDNY on November 25 — **[HIGH]** per Ministry of Sport, Fast Company, local10.com, Yahoo Sports, Archysport\n- Union response: \"The lawsuit filed today by MLB is completely frivolous\" — **[HIGH]** direct quote per local10.com and Yahoo Sports\n- MLB commissioner Rob Manfred: \"I can't imagine the owners ratifying a deal that does not include a cap and floor\" — **[HIGH]** per Yahoo Sports/AP\n- MLB cap proposal: $258.2M ceiling, $180.2M floor for 2028 — **[HIGH]** per AP via Yahoo Sports\n- 2021-22 lockout lasted 99 days — **[HIGH]** historical fact, per CBS Sports\n- 2021 lockout ended March 10 (after spring training games canceled) — **[HIGH]** historical\n- 2027 OD approximately March 25 — **[MEDIUM]** standard schedule date\n- ESPN: deal needs to be struck by ~start of May to avoid lost games — **[MEDIUM]** per ESPN analysis\n**Sources:**\n- https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026/\n- https://www.espn.com/mlb/story/_/id/50370123/lockout-salary-cap-cba-labor-battle-faq\n- https://ministryofsport.com/mlb-files-federal-lawsuit-to-protect-lockout-as-cba-expires-december-1/\n- https://sports.yahoo.com/mlb/breaking-news/article/with-lockout-imminent-rob-manfred-cant-imagine-mlb-owners-ratifying-new-cba-without-salary-cap-floor-223700548.html\n- https://www.local10.com/sports/2026/11/25/major-league-baseball-sues-players-union-asking-court-to-declare-lockout-is-legal/\n- https://sports.yahoo.com/mlb/articles/major-league-baseball-sues-players-013655773.html",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "cbssports.com",
+          "url": "https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "espn.com",
+          "url": "https://www.espn.com/mlb/story/_/id/50370123/lockout-salary-cap-cba-labor-battle-faq",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "ministryofsport.com",
+          "url": "https://ministryofsport.com/mlb-files-federal-lawsuit-to-protect-lockout-as-cba-expires-december-1/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/mlb/breaking-news/article/with-lockout-imminent-rob-manfred-cant-imagine-mlb-owners-ratifying-new-cba-without-salary-cap-floor-223700548.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "local10.com",
+          "url": "https://www.local10.com/sports/2026/11/25/major-league-baseball-sues-players-union-asking-court-to-declare-lockout-is-legal/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/mlb/articles/major-league-baseball-sues-players-013655773.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Pre-Lockout Blitz — Peralta, Gausman, Bubic Lead Signing Wave",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Pre-lockout sprint: Freddy Peralta 5yr/$125M to the Orioles. Kevin Gausman 1yr/$25M to the Tigers. Kris Bubic 1yr/$17.5M to the Guardians. Kevin Ginkel 2yr/$18M to the Twins. Teams are moving fast before Dec 1. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-pre-lockout-blitz-peralta-gausman-bubic.html",
+        "headline": "Pre-Lockout Sprint: Six Pitchers Sign as the Free Agent Clock Winds Down",
+        "word_count": 669
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Pre-Lockout Signing Blitz\n\n**Concept 3 — Social (1080x1350)**\nSigning blitz scoreboard — four player names and contracts stacked vertically, ticker-tape design, \"BEFORE THE FREEZE\" headline. Dark background with gold accents.\n\n**Concept 4 — Social (1080x1350)**\nCountdown to free agency freeze — stopwatch graphic, \"4 DAYS TO SIGN\" headline, teams and signings listed, baseball seam design framing.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pre-Lockout Signing Blitz\n**Key Facts:**\n- Freddy Peralta 5yr/$125M Baltimore Orioles, reigning ALCS MVP — **[HIGH]** per Yahoo Sports live tracker (Nov 24 results) + lewlewsports.com recap\n- Kevin Gausman 1yr/$25M Detroit Tigers — **[HIGH]** per ESPN, Yahoo Sports live tracker\n- Kris Bubic 1yr/$17.5M Cleveland Guardians — **[HIGH]** per lewlewsports.com recap\n- Kevin Ginkel 2yr/$18M Minnesota Twins — **[HIGH]** per prior research Nov 26\n- Gary Sanchez 1yr/$6.5M Miami Marlins — **[HIGH]** per multiple sources Nov 25\n- Tyler Stephenson 3yr/$30M Cincinnati Reds (opt-out after Y2) — **[HIGH]** per prior search\n- JoJo Romero Padres — **[HIGH]** per ESPN Nov 25\n- Six starters have signed $50M+ guaranteed this offseason — **[MEDIUM]** per tldrdailynews.com\n- Pre-lockout spending: $1.2B+ total so far — **[MEDIUM]** per world-today-news.com\n**Sources:**\n- https://sports.yahoo.com/mlb/live/mlb-free-agency-news-live-updates-tarik-skubal-reportedly-agrees-to-record-450m-contract-with-mets-220957364.html\n- https://lewlewsports.com/jon-morosi-recaps-a-busy-morning-of-free-agent-signings-hot-stove/\n- https://tldrdailynews.com/news/sports/sports/mlb-starters-command-record-deals-before-dec-1-lockout-rte5ijmuzu\n- https://www.world-today-news.com/mlb-free-agent-pitching-moves-before-2026-lockout-gausman-peterson-sandoval-sign-deals/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/mlb/live/mlb-free-agency-news-live-updates-tarik-skubal-reportedly-agrees-to-record-450m-contract-with-mets-220957364.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "lewlewsports.com",
+          "url": "https://lewlewsports.com/jon-morosi-recaps-a-busy-morning-of-free-agent-signings-hot-stove/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "tldrdailynews.com",
+          "url": "https://tldrdailynews.com/news/sports/sports/mlb-starters-command-record-deals-before-dec-1-lockout-rte5ijmuzu",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "world-today-news.com",
+          "url": "https://www.world-today-news.com/mlb-free-agent-pitching-moves-before-2026-lockout-gausman-peterson-sandoval-sign-deals/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Skubal's $450M Mets Deal: The Ripple Effects on the Pitching Market",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Tarik Skubal: 9yr/$450M. $50M AAV. The Mets were 74-88 last year. They just signed the most expensive pitcher in baseball history. That is a franchise-altering bet on a rebuild. #Mets #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Mets",
+            "#MLB"
+          ],
+          "char_count": 188
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-skubal-450m-ripple-effects-pitching-market.html",
+        "headline": "Skubal's $450M Deal Has Already Changed the Pitching Market",
+        "word_count": 659
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Skubal $450M\n\n**Concept 5 — Social (1080x1350)**\n$450M milestone graphic — giant dollar figure, Mets navy blue, \"MOST EXPENSIVE PITCHER IN MLB HISTORY\" headline. Record-breaking data visualization.\n\n**Concept 6 — Social (1080x1350)**\nAAV comparison bar chart: Skubal $50M vs. previous record $27M (Yamamoto). Clean data viz style, dark background, gold highlight on Skubal bar.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Skubal $450M\n**Key Facts:**\n- Tarik Skubal agreed to 9yr/$450M with New York Mets — **[HIGH]** confirmed by ESPN, Yahoo Sports, CBS Sports transactions page, multiple sources Nov 22-26\n- $50M AAV — **[HIGH]** calculated from $450M/9yr; breaks Yamamoto record of ~$27M AAV\n- Full no-trade clause — **[MEDIUM]** from prior research\n- Mets were 74-88 in 2026 — **[MEDIUM]** from prior pipeline research Nov 25-26\n- Mets beat Dodgers and Padres in bidding — **[MEDIUM]** from prior research\n- $45M signing bonus — **[MEDIUM]** from prior research\n**Sources:**\n- https://sports.yahoo.com/mlb/live/mlb-free-agency-news-live-updates-tarik-skubal-reportedly-agrees-to-record-450m-contract-with-mets-220957364.html\n- https://www.cbssports.com/mlb/transactions/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/mlb/live/mlb-free-agency-news-live-updates-tarik-skubal-reportedly-agrees-to-record-450m-contract-with-mets-220957364.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "cbssports.com",
+          "url": "https://www.cbssports.com/mlb/transactions/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Jazz Chisholm: 4 Days to Beat the Freeze",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jazz Chisholm is spending Thanksgiving without a contract. 41 SB. 19 HR. No qualifying offer. 11+ teams interested. 4 days until the market freezes. The Nationals and Blue Jays are the most engaged. Clock is ticking. #MLB #FreeAgency",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#FreeAgency"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-jazz-chisholm-4-days-beat-freeze.html",
+        "headline": "Jazz Chisholm Has 4 Days to Sign Before the Market Freezes",
+        "word_count": 636
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jazz Chisholm\n\n**Concept 7 — Social (1080x1350)**\nCountdown graphic: \"JAZZ CHISHOLM — STILL UNSIGNED\" with 4-day clock, stat callouts (41 SB / 19 HR), dark background with lightning bolt accents.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jazz Chisholm\n**Key Facts:**\n- Chisholm hit 41 SB, 19 HR in 2026 — **[HIGH]** from prior research\n- No qualifying offer — **[HIGH]** from prior research\n- Elected free agency October 29 — **[MEDIUM]** per Heavy.com\n- 11+ teams showed interest per Morosi — **[MEDIUM]** per Yahoo Sports/Morosi report\n- Washington Nationals most engaged (per search) — **[MEDIUM]** from latest search\n- Blue Jays frontrunner, Davidi productive meeting — **[HIGH]** from prior research Nov 25-26\n- Dec 2 all transactions freeze — **[HIGH]** per lockout timeline\n**Sources:**\n- https://heavy.com/sports/mlb/new-york-yankees/star-still-a-free-agent-before-lockout-chisholm/\n- https://sports.yahoo.com/mlb/articles/sources-nationals-others-engaged-free-194815547.html\n- https://sports.yahoo.com/articles/blue-jays-receive-free-agency-072044428.html",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "heavy.com",
+          "url": "https://heavy.com/sports/mlb/new-york-yankees/star-still-a-free-agent-before-lockout-chisholm/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/mlb/articles/sources-nationals-others-engaged-free-194815547.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/blue-jays-receive-free-agency-072044428.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "What to Expect from the 2026-27 MLB Lockout",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Quick MLB lockout refresher: In 2021, it started Dec 2 and lasted 99 days. Spring training games were canceled. Opening Day was pushed back a week. This one starts Dec 2. Same dispute. The 2027 season isn't threatened yet — but it could be by May. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-2026-27-lockout-faq-explainer.html",
+        "headline": "What Is an MLB Lockout? A Fan's Guide to What Happens Next",
+        "word_count": 761
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Lockout FAQ\n\n**Concept 8 — Social (1080x1350)**\nInfographic: timeline showing Dec 2 lockout → typical 115-day buffer to OD → \"Games threatened?\" Stark red and black design, baseball field background."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "2026-27 Lockout Explainer\n**Key Facts:**\n- 2021-22 lockout: 99 days (Dec 2, 2021 – March 10, 2022) — **[HIGH]** historical\n- Canceled spring training games — **[HIGH]** historical\n- Pushed Opening Day back one week — **[HIGH]** historical\n- Core dispute: revenue sharing, service time manipulation, salary cap — **[HIGH]** historical\n- 2026 dispute: MLB demands salary cap $258.2M ceiling, floor $180.2M — **[HIGH]**\n- Union position: cap is \"nonstarter\" — **[HIGH]** per MLBPA public statements\n- MLB filed preemptive antitrust lawsuit (escalation vs 2021) — **[HIGH]**\n- 2027 OD: ~March 25 — **[MEDIUM]**\n- If locked out until May → lost games — **[MEDIUM]** per ESPN analysis\n**Sources:**\n- https://www.espn.com/mlb/story/_/id/50370123/lockout-salary-cap-cba-labor-battle-faq\n- https://www.cbssports.com/mlb/news/mlb-lockout-timeline-of-cba-negotiations-between-mlbpa-and-owners-with-leagues-deadline-looming",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "espn.com",
+          "url": "https://www.espn.com/mlb/story/_/id/50370123/lockout-salary-cap-cba-labor-battle-faq",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "cbssports.com",
+          "url": "https://www.cbssports.com/mlb/news/mlb-lockout-timeline-of-cba-negotiations-between-mlbpa-and-owners-with-leagues-deadline-looming",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

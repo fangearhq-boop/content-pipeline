@@ -5,6 +5,64 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## November 27, 2026
+
+### Story 1: CBA Countdown — 4 Days Until the Lockout
+- **Date:** 2026-11-27
+- **Tier:** 1
+- **Classification:** FOLLOW UP (CBA/lockout covered Nov 23-26; now 4 days + preemptive federal lawsuit filed Nov 25)
+- **Angle:** With exactly 4 days remaining, the news is the lawsuit and the finality of Manfred's cap demand. Focus shifts from "will there be a lockout" to "how long will it last." MLB filed preemptive federal suit in SDNY seeking legal protection for lockout. MLBPA: "completely frivolous."
+- **Content Produced:** Article (article-01, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Official lockout announcement Dec 2
+  - First post-lockout negotiating sessions
+  - Any MLBPA movement on cap question
+
+### Story 2: Pre-Lockout Signing Blitz
+- **Date:** 2026-11-27
+- **Tier:** 2
+- **Classification:** NEW STORY (new signings confirmed in last 48 hours)
+- **Angle:** Peralta ($125M/5yr Orioles, ALCS MVP), Gausman ($25M/1yr Tigers), Bubic ($17.5M/1yr Guardians), Ginkel ($18M/2yr Twins), Sanchez ($6.5M/1yr Marlins) all signed within 48 hours. Market sprinting before Dec 1 freeze.
+- **Content Produced:** Article (article-02, Marcus Cole), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Jazz Chisholm signing (or not) before freeze
+  - Brandon Lowe deal
+  - Final pre-lockout signings on Nov 30 / Dec 1
+
+### Story 3: Skubal $450M — Ripple Effects on Pitching Market
+- **Date:** 2026-11-27
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Skubal Nov 25-26; now focused on market implications)
+- **Angle:** Pivot from "the deal" to "what it means" — $50M AAV nearly doubles previous record (Yamamoto $27M). New ceiling for agents representing frontline starters. What it means for Mets rebuild and post-lockout market.
+- **Content Produced:** Article (article-03, Jake Torres), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Post-lockout contract signings referencing Skubal AAV
+  - Mets' next roster moves
+  - CBA cap impact on Skubal-tier contracts
+
+### Story 4: Jazz Chisholm — 4 Days to Beat the Freeze
+- **Date:** 2026-11-27
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Chisholm Nov 25-26; now Thanksgiving urgency angle)
+- **Angle:** Chisholm spending Thanksgiving unsigned. 41 SB, 19 HR, no QO. Nationals and Blue Jays most engaged. 4 days until market freezes. Lockout could be months — worst possible outcome for a player who bet on free agency.
+- **Content Produced:** Article (article-04, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Chisholm signing if it happens before Dec 1
+  - Blue Jays / Nationals decision
+  - Chisholm status once lockout begins
+
+### Story 5: 2026-27 Lockout FAQ Explainer
+- **Date:** 2026-11-27
+- **Tier:** 3
+- **Classification:** NEW STORY (evergreen explainer for fans who weren't paying attention in 2021)
+- **Angle:** What is a lockout, what can and can't happen, when does the 2027 season get threatened (115 days from Dec 2 = around March 25 OD). 2021 precedent 99 days. Same dispute. Evergreen but time-sensitive framing.
+- **Content Produced:** Article (article-05, Marcus Cole), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Update if lockout extends beyond spring training
+  - Update once deal is reached
+
+---
+
 ## November 24, 2026
 
 ### Story 1: MLB Sends Revised Proposal — 7 Days to Stop the Freeze
