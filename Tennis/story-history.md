@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## November 27, 2026
+
+| 2026-11-27 | Italy vs Czech Republic Davis Cup SF preview — Italy chasing 4th consecutive title without Sinner; CZE beat Canada 2-0 (Lehecka, Machac); match at 10 AM ET Bologna; Italy squad Cobolli/Musetti/Berrettini/Vavassori; CZE 7 consecutive DC wins; Italian home crowd factor. Sources: daviscup.com, ansa.it, wikipedia, tenngrand.com | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-11-26 S5: SF pairings confirmed → Italy vs CZE Day preview) |
+| 2026-11-27 | Spain vs Great Britain Davis Cup SF preview (Saturday Nov 28) — GB shocked Zverev/Germany 2-1 (Norrie beat Struff; Fery beat Zverev; Skupski/Patten beat Krawietz/Puetz 6-2, 7-6(6)); Spain beat Austria 2-0 without Alcaraz (Jodar, Merida); Alcaraz thigh concern day-to-day for Saturday. Sources: tennismajors.com, lta.org.uk, yahoo sports | T1 | X, FB, Article | Elena Voss |
+| 2026-11-27 | Great Britain stun Zverev/Germany 2-1 to reach Davis Cup semis — Norrie beat Struff 6-3, 3-6, 6-2; Fery beat year-end No. 1 Zverev (20yo, first Finals); Skupski/Patten beat Krawietz/Puetz 6-2, 7-6(6); Zverev's 2026 season ends; GB into first DC SF in years. Sources: tennismajors.com, lta.org.uk | T2 | X, FB, Article | Ryan Calloway; FOLLOW-UP (2026-11-26 S2: GB vs Germany live/preview → result) |
+| 2026-11-27 | Spain beat Austria 2-0 without Alcaraz — Jodar beat Ofner; Merida beat Erler; no doubles needed; Alcaraz rested with left thigh concern; Spain depth on display; Alcaraz status for SF vs GB uncertain. Sources: tennismajors.com, azat.tv, yahoo sports | T2 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-11-26 S3: Spain vs Austria preview → result) |
+| 2026-11-27 | Davis Cup Finals 2026 championship picture — 4 teams: Italy (3x defending, no Sinner), CZE (7 wins, Lehecka/Machac), Spain (depth, Alcaraz uncertain), GB (Fery momentum); Final Sunday Nov 29 Bologna; all four teams credible contenders. Sources: daviscup.com, wikipedia, sundayguardian | T2 | X, FB, Article | Ryan Calloway |
+
+---
+
+
 ## November 26, 2026
 
 | 2026-11-26 | Italy 2-1 South Korea Davis Cup QF result — Musetti beat Hong 6-0, 7-6(5); Kwon beat Cobolli; Berrettini/Vavassori beat Chung/Kwon 7-6(2), 7-6(11) in doubles thriller; Italy advance to SF vs Czech Republic Friday Nov 27; Italy seeking 4th consecutive title; South Korea's historic first Finals QF ends. Sources: atptour.com, Wikipedia | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-11-25 S2: Italy vs South Korea preview → result) |

@@ -1,0 +1,409 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-27",
+  "compiled_at": "2026-11-27T12:14:25.532023+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Italy vs Czech Republic — Davis Cup Semifinal Preview (TODAY)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "SEMIFINAL DAY. Italy vs Czech Republic gets underway in Bologna at 10 AM ET.\n\nItaly are three-time defending champions — but Sinner is still out. Can Berrettini, Musetti, and Cobolli carry them through? #DavisCup #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DavisCup",
+            "#Tennis"
+          ],
+          "char_count": 220
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Czech Republic have won 7 straight Davis Cup matches heading into today's semifinal against Italy.\n\nLehecka and Machac took out Canada without dropping a set. They're a real threat to Italy's dynasty run. #DavisCup #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DavisCup",
+            "#Tennis"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-italy-czech-republic-davis-cup-semifinal-preview.html",
+        "headline": "Italy vs Czech Republic: Davis Cup Semifinal Preview — Can Italy Reach a Fourth Straight Final?",
+        "word_count": 637
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Italy vs Czech Republic SF Preview\n\n**Image 1:**\n- **Search Terms:** Matteo Berrettini Italy\n- **Platform:** X (1200x675) and Facebook (1200x630)\n- **Usage:** Social posts for Story 1\n\n**Image 2:**\n- **Search Terms:** Jiri Lehecka Czech Republic\n- **Platform:** Article hero (1200x630)\n- **Usage:** Article hero for article-01\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Italy vs Czech Republic — Davis Cup Semifinal\n**Key Facts:**\n- Italy face Czech Republic in the Davis Cup Finals semifinal on Friday, Nov. 27, 2026, in Bologna — HIGH (daviscup.com, ansa.it, wikipedia)\n- Match scheduled for 4:00 PM CET / 10:00 AM ET — HIGH (daviscup.com schedule)\n- Italy reached semis by beating South Korea 2-1 (Musetti, then Berrettini/Vavassori doubles) — HIGH (confirmed Nov 26 research)\n- Czech Republic reached semis by beating Canada 2-0 — HIGH (atptour.com, sofascore.com)\n- Czech Republic quarterfinal details: Jiri Lehecka beat Felix Auger-Aliassime 7-6(4), 6-2; Tomas Machac beat Liam Draxl 6-2, 3-6, 6-2 — HIGH (vavel.com, sofascore)\n- Jannik Sinner absent from Italy squad due to knee injury and tonsil surgery — HIGH (confirmed multiple prior sessions)\n- Italy seeking fourth consecutive Davis Cup title — HIGH (ansa.it, tennismajors.com)\n- Czech Republic squad includes Jiri Lehecka and Tomas Machac as likely singles players — HIGH (davis cup previews)\n- Italy squad: Flavio Cobolli, Lorenzo Musetti, Matteo Berrettini, Andrea Vavassori — HIGH (confirmed Nov 25-26)\n- Czech Republic won 7 consecutive Davis Cup matches leading into semifinals — MEDIUM (tenngrand.com preview)\n- Venue: BolognaFiere / SuperTennis Arena, Bologna, Italy — HIGH\n**Sources:**\n- Davis Cup official results: https://www.daviscup.com/en/draws-results/2026/finals\n- ANSA English: Italy to face Czech Republic in Davis Cup semifinals — https://www.ansa.it/english/news/sports/2026/11/26/davis-cup-holders-italy-to-face-czech-rep-in-semis-after-edging_f2d38933-e180-48fa-8f4f-eb73644460ea.html\n- Wikipedia 2026 Davis Cup Finals: https://en.wikipedia.org/wiki/2026_Davis_Cup_Finals\n- TennGrand SF preview: https://tenngrand.com/davis-cup-finals-sf-preview-and-prediction-italy-vs-czechia/\n- VAVEL Czechia vs Canada: https://www.vavel.com/en/more-sport/2026/11/24/tennis/1280528-czechia-vs-canada-live-set-by-set-score-games-and-davis-cup-updates.html",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Davis Cup official results",
+          "url": "https://www.daviscup.com/en/draws-results/2026/finals",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Italy to face Czech Republic in Davis Cup semifinals",
+          "url": "https://www.ansa.it/english/news/sports/2026/11/26/davis-cup-holders-italy-to-face-czech-rep-in-semis-after-edging_f2d38933-e180-48fa-8f4f-eb73644460ea.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "ANSA English"
+        },
+        {
+          "name": "Wikipedia 2026 Davis Cup Finals",
+          "url": "https://en.wikipedia.org/wiki/2026_Davis_Cup_Finals",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "TennGrand SF preview",
+          "url": "https://tenngrand.com/davis-cup-finals-sf-preview-and-prediction-italy-vs-czechia/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "VAVEL Czechia vs Canada",
+          "url": "https://www.vavel.com/en/more-sport/2026/11/24/tennis/1280528-czechia-vs-canada-live-set-by-set-score-games-and-davis-cup-updates.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Spain vs Great Britain — Davis Cup Semifinal Preview (Saturday)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Saturday's Davis Cup semifinal is a blockbuster: Spain vs Great Britain.\n\nAlcaraz sat out vs Austria but could return. GB just knocked out the world No. 1 Zverev.\n\nThis one has everything. #DavisCup #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DavisCup",
+            "#Tennis"
+          ],
+          "char_count": 206
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Arthur Fery is 20 years old. He just beat Alexander Zverev at the Davis Cup Finals.\n\nNow he's one win away from a Davis Cup final for Great Britain. #DavisCup #Tennis #BritishTennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DavisCup",
+            "#Tennis",
+            "#BritishTennis"
+          ],
+          "char_count": 181
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-spain-great-britain-davis-cup-semifinal-saturday.html",
+        "headline": "Spain vs Great Britain: Saturday Davis Cup Semifinal Preview — Alcaraz Fitness and Fery's Breakthrough",
+        "word_count": 611
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Spain vs Great Britain SF Preview\n\n**Image 3:**\n- **Search Terms:** Arthur Fery Great Britain\n- **Platform:** X (1200x675) and Facebook (1200x630)\n- **Usage:** Social posts for Story 2\n\n**Image 4:**\n- **Search Terms:** Carlos Alcaraz Spain Davis Cup\n- **Platform:** Article hero (1200x630)\n- **Usage:** Article hero for article-02\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Spain vs Great Britain — Davis Cup Semifinal Preview (Saturday)\n**Key Facts:**\n- Spain vs Great Britain scheduled for Saturday, Nov. 28, 2026, in Bologna — HIGH (daviscup.com, wikipedia)\n- Spain beat Austria 2-0 in the quarterfinals: Rafael Jodar beat Sebastian Ofner; Daniel Merida beat Alexander Erler — HIGH (tennismajors.com, yahoo sports)\n- Carlos Alcaraz rested singles for Spain, citing a left thigh concern — HIGH (confirmed Nov 26 research)\n- Great Britain beat Germany 2-1: Cameron Norrie beat Jan-Lennard Struff; Arthur Fery beat Alexander Zverev; Neal Skupski and Henry Patten beat Kevin Krawietz and Tim Puetz 6-2, 7-6(6) — HIGH (lta.org.uk, tennismajors.com)\n- Spain squad players: Rafael Jodar, Daniel Merida (confirmed singles); Alcaraz may return for doubles/singles — MEDIUM\n- Great Britain squad: Cameron Norrie, Arthur Fery, Neal Skupski, Henry Patten — HIGH (LTA)\n- If GB wins they would face the Italy/Czech Republic winner in Sunday's final — HIGH\n**Sources:**\n- Tennis Majors GBR vs Germany: https://www.tennismajors.com/others-news/davis-cup-news/great-britain-knock-out-zverevs-germany-to-reach-davis-cup-semi-finals-867896.html\n- Tennis Majors Spain vs Austria: https://www.tennismajors.com/others-news/davis-cup-news/jodar-and-merida-send-spain-into-davis-cup-semi-finals-against-great-britain-867900.html\n- Yahoo Sports Spain semifinal: https://sports.yahoo.com/tennis/articles/zverev-germany-davis-cup-loss-151313196.html",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Tennis Majors GBR vs Germany",
+          "url": "https://www.tennismajors.com/others-news/davis-cup-news/great-britain-knock-out-zverevs-germany-to-reach-davis-cup-semi-finals-867896.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Tennis Majors Spain vs Austria",
+          "url": "https://www.tennismajors.com/others-news/davis-cup-news/jodar-and-merida-send-spain-into-davis-cup-semi-finals-against-great-britain-867900.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yahoo Sports Spain semifinal",
+          "url": "https://sports.yahoo.com/tennis/articles/zverev-germany-davis-cup-loss-151313196.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Great Britain Stun Zverev's Germany to Reach Semis",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "MASSIVE. Arthur Fery beats world No. 1 Alexander Zverev. Cameron Norrie beats Struff. Skupski/Patten seal it in doubles.\n\nGreat Britain are in the Davis Cup semifinals. Zverev's season is over. #DavisCup #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DavisCup",
+            "#Tennis"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-great-britain-stun-germany-fery-zverev-davis-cup.html",
+        "headline": "Great Britain Stun Zverev's Germany to Reach Davis Cup Semifinals",
+        "word_count": 556
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Great Britain Stun Germany\n\n**Image 5:**\n- **Search Terms:** Neal Skupski Great Britain\n- **Platform:** X (1200x675) and Facebook (1200x630)\n- **Usage:** Social posts for Story 3\n\n**Image 6:**\n- **Search Terms:** Cameron Norrie Great Britain\n- **Platform:** Article hero (1200x630)\n- **Usage:** Article hero for article-03\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Great Britain Stun Germany 2-1\n**Key Facts:**\n- Great Britain beat Germany 2-1 in the Davis Cup Finals quarterfinal on Thursday, Nov. 26, 2026 — HIGH (tennismajors.com, lta.org.uk)\n- Rubber 1: Cameron Norrie beat Jan-Lennard Struff 6-3, 3-6, 6-2 — MEDIUM (from live update snapshot, Nov 26)\n- Rubber 2: Arthur Fery beat Alexander Zverev — HIGH (confirmed result, lta.org.uk)\n- Rubber 3 (Doubles): Neal Skupski and Henry Patten beat Kevin Krawietz and Tim Puetz 6-2, 7-6(6) — HIGH (tennismajors.com)\n- Alexander Zverev was year-end ATP No. 1 in 2026 — HIGH (confirmed multiple sources from Nov 25 research)\n- Arthur Fery is 20 years old, ranked around No. 50 — MEDIUM (prior research; exact ranking unconfirmed)\n- Zverev's Davis Cup loss marks end of his 2026 season — HIGH (implication from bracket)\n- Great Britain qualified via 3-0 over Ecuador; first Finals appearance since 2023 — HIGH (LTA)\n**Sources:**\n- LTA results updates: https://www.lta.org.uk/fan-zone/davis-cup/news/final-8-great-britain-vs-germany-results-updates\n- Tennis Majors GB beats Germany: https://www.tennismajors.com/others-news/davis-cup-news/great-britain-knock-out-zverevs-germany-to-reach-davis-cup-semi-finals-867896.html",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "LTA results updates",
+          "url": "https://www.lta.org.uk/fan-zone/davis-cup/news/final-8-great-britain-vs-germany-results-updates",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Tennis Majors GB beats Germany",
+          "url": "https://www.tennismajors.com/others-news/davis-cup-news/great-britain-knock-out-zverevs-germany-to-reach-davis-cup-semi-finals-867896.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Spain Beat Austria Without Alcaraz — Jodar and Merida Deliver",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Spain reach Davis Cup semis 2-0 over Austria — without Carlos Alcaraz.\n\nJodar and Merida took care of business. Spain's depth is a warning sign for everyone left in Bologna. #DavisCup #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DavisCup",
+            "#Tennis"
+          ],
+          "char_count": 191
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-spain-beat-austria-without-alcaraz-jodar-merida.html",
+        "headline": "Spain Reach Davis Cup Semifinals Without Alcaraz as Jodar and Merida Step Up",
+        "word_count": 537
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Spain Beat Austria Without Alcaraz\n\n**Image 7:**\n- **Search Terms:** Rafael Jodar Spain\n- **Platform:** X (1200x675) and Facebook (1200x630)\n- **Usage:** Social posts for Story 4\n\n**Image 8:**\n- **Search Terms:** Daniel Merida Spain\n- **Platform:** Article hero (1200x630)\n- **Usage:** Article hero for article-04\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Spain Beat Austria 2-0 Without Alcaraz\n**Key Facts:**\n- Spain beat Austria 2-0 in the Davis Cup Finals quarterfinal on Thursday, Nov. 26, 2026 — HIGH (tennismajors.com, yahoo sports, azat.tv)\n- Rafael Jodar beat Sebastian Ofner — HIGH (tennismajors.com)\n- Daniel Merida beat Alexander Erler — HIGH (tennismajors.com)\n- Tie concluded without doubles needed — HIGH (2-0 result)\n- Carlos Alcaraz sat out singles with a left thigh concern — HIGH (confirmed Nov 26 research)\n- Spain won 2-0 without their world No. 2/No. 3 singles player — HIGH\n- Jodar and Merida are Spain's secondary singles players who stepped up — HIGH (match context)\n**Sources:**\n- Tennis Majors Spain vs Austria: https://www.tennismajors.com/others-news/davis-cup-news/jodar-and-merida-send-spain-into-davis-cup-semi-finals-against-great-britain-867900.html\n- Azat.tv Spain semifinal: https://azat.tv/en/jodar-merida-send-spain-davis-cup-semifinals/\n- Yahoo Sports: https://sports.yahoo.com/tennis/articles/zverev-germany-davis-cup-loss-151313196.html",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Tennis Majors Spain vs Austria",
+          "url": "https://www.tennismajors.com/others-news/davis-cup-news/jodar-and-merida-send-spain-into-davis-cup-semi-finals-against-great-britain-867900.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Azat.tv Spain semifinal",
+          "url": "https://azat.tv/en/jodar-merida-send-spain-davis-cup-semifinals/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/tennis/articles/zverev-germany-davis-cup-loss-151313196.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Davis Cup Finals 2026 — Championship Picture",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Davis Cup Finals 2026 semifinals set:\n\n🇮🇹 Italy vs 🇨🇿 Czech Republic — TODAY 10 AM ET\n🇪🇸 Spain vs 🇬🇧 Great Britain — Saturday\n\nFinal: Sunday in Bologna. Four teams. One title. #DavisCup #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DavisCup",
+            "#Tennis"
+          ],
+          "char_count": 193
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-davis-cup-finals-2026-championship-preview.html",
+        "headline": "Davis Cup Finals 2026: Four Teams, One Trophy — Who Has the Edge This Weekend?",
+        "word_count": 707
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Davis Cup Finals Championship Picture\n\n**Image 9:**\n- **Search Terms:** Davis Cup Finals Bologna\n- **Platform:** X (1200x675) and Facebook (1200x630)\n- **Usage:** Social posts for Story 5\n\n**Image 10:**\n- **Search Terms:** Flavio Cobolli Italy\n- **Platform:** Article hero (1200x630)\n- **Usage:** Article hero for article-05"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Davis Cup Finals 2026 — Championship Picture\n**Key Facts:**\n- Four semifinalists: Italy, Czech Republic, Spain, Great Britain — HIGH\n- Italy are three-time defending champions — HIGH\n- Sinner absence is Italy's biggest vulnerability entering semis — HIGH\n- Czech Republic have momentum (7 straight wins) — MEDIUM (tenngrand.com)\n- Spain have Alcaraz potentially available for semis — MEDIUM\n- Great Britain riding momentum after Fery-Zverev upset — HIGH\n- Final scheduled for Sunday, November 29, 2026 in Bologna — HIGH (daviscup.com)\n**Sources:**\n- Davis Cup Draws & Results: https://www.daviscup.com/en/draws-results/2026/finals\n- Wikipedia 2026 Davis Cup Finals: https://en.wikipedia.org/wiki/2026_Davis_Cup_Finals\n- Sunday Guardian: https://sundayguardianlive.com/sports/davis-cup-results-spain-reach-semifinals-without-carlos-alcaraz-as-great-britain-knock-out-germany-328405/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Davis Cup Draws & Results",
+          "url": "https://www.daviscup.com/en/draws-results/2026/finals",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Wikipedia 2026 Davis Cup Finals",
+          "url": "https://en.wikipedia.org/wiki/2026_Davis_Cup_Finals",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Sunday Guardian",
+          "url": "https://sundayguardianlive.com/sports/davis-cup-results-spain-reach-semifinals-without-carlos-alcaraz-as-great-britain-knock-out-germany-328405/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

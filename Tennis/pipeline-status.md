@@ -1,5 +1,35 @@
 # Tennis Fanrecap — Pipeline Status
 
+## Current Run: 2026-11-27
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Italy vs CZE SF (10 AM ET Friday, Bologna) — HIGH; Spain vs GB SF (Saturday, Alcaraz thigh day-to-day) — HIGH; GB beat Germany 2-1 (Fery beat Zverev, Norrie beat Struff, Skupski/Patten doubles) — HIGH; Spain beat Austria 2-0 without Alcaraz (Jodar, Merida) — HIGH; Davis Cup Finals championship picture — HIGH |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (2026-11-26 S5: SF preview → Italy vs CZE day preview); S2 NEW (Spain vs GB SF preview — first coverage of this matchup); S3 FOLLOW-UP (2026-11-26 S2: GB vs Germany → result); S4 FOLLOW-UP (2026-11-26 S3: Spain vs Austria → result); S5 NEW ANGLE (championship picture updated with SF pairings confirmed) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Marcus Cole [S1,S4], Elena Voss [S2], Ryan Calloway [S3,S5] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; daviscup.com URLs; tennismajors.com for GBR/Germany and Spain/Austria results |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories (2 each for S1+S2, 1 each for S3-S5); all ≤280 chars; correct #### Text Post — TIME format |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; correct #### Long-Form Post / Image Caption — TIME format |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories; player-name-only search terms |
+| Articles (5) | COMPLETE | article-01 Italy vs CZE SF preview (Marcus Cole T1 ~570w); article-02 Spain vs GB SF preview (Elena Voss T1 ~550w); article-03 GB stuns Germany (Ryan Calloway T2 ~520w); article-04 Spain beat Austria without Alcaraz (Marcus Cole T2 ~530w); article-05 Davis Cup championship picture (Ryan Calloway T2 ~600w) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 28 claims; image warnings (expected, all not_started) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (pre-existing format mismatch), 5 articles, 5 images; posting window warnings (pre-existing) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-11-27.xlsx (17 posts: 7 X + 10 FB) + tfr-postplanner-tobi-2026-11-27.xlsx (12 TOBI posts) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 27 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB image captions
+- **Articles:** 5 (bylines: Marcus Cole [S1,S4], Elena Voss [S2], Ryan Calloway [S3,S5])
+- **Key stories:** Italy vs Czech Republic SF today (10 AM ET); Spain vs Great Britain SF Saturday; GB shocked Zverev/Germany (Fery beat world No. 1); Spain beat Austria 2-0 without Alcaraz; Davis Cup Finals championship picture
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); posting window format mismatch (pre-existing); FB=0 in compile (pre-existing)
+
+---
+
 ## Current Run: 2026-11-26
 
 | Step | Status | Notes |
