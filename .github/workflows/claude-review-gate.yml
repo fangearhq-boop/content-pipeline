@@ -7,6 +7,11 @@
 # verdict=block fails the gate; pass or changes passes it (Steve still decides).
 # A new push (synchronize) re-runs the gate, so a fresh review is needed per head.
 #
+# Dependabot: PRs authored by dependabot[bot] whose update type is semver-patch
+# or semver-minor are exempt (Steve, Nov 27 2026 8:46 AM MT: "Exempt dependabot
+# patch and minor bumps from the Claude review; major bumps need it"). Grouped
+# PRs use the highest update type in the group; unknown types need the review.
+#
 # Allowed review authors come from repo/org variable CLAUDE_REVIEW_AUTHORS
 # (comma-separated logins); default below. No secrets; read-only token.
 name: claude-review-gate
@@ -18,6 +23,7 @@ on:
     types: [submitted, edited, dismissed]
 
 permissions:
+  contents: read
   pull-requests: read
 
 concurrency:
@@ -30,6 +36,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 3
     steps:
+      - name: Fetch Dependabot metadata
+        id: meta
+        if: github.event.pull_request.user.login == 'dependabot[bot]'
+        uses: dependabot/fetch-metadata@21025c705c08248db411dc16f3619e6b5f9ea21a # v2.5.0
+        with:
+          github-token: ${{ github.token }}
+
       - name: Look for a marked review on the head SHA
         env:
           GH_TOKEN: ${{ github.token }}
@@ -37,8 +50,19 @@ jobs:
           PR_NUMBER: ${{ github.event.pull_request.number }}
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
           ALLOWED: ${{ vars.CLAUDE_REVIEW_AUTHORS || 'fangearhq-boop,claude[bot],github-actions[bot]' }}
+          PR_AUTHOR: ${{ github.event.pull_request.user.login }}
+          UPDATE_TYPE: ${{ steps.meta.outputs.update-type }}
         run: |
           set -euo pipefail
+          if [ "$PR_AUTHOR" = "dependabot[bot]" ]; then
+            case "${UPDATE_TYPE:-}" in
+              version-update:semver-patch|version-update:semver-minor)
+                echo "Dependabot ${UPDATE_TYPE#version-update:semver-} bump: Claude review not required." | tee -a "$GITHUB_STEP_SUMMARY"
+                exit 0 ;;
+              *)
+                echo "Dependabot update type '${UPDATE_TYPE:-unknown}': Claude review required." | tee -a "$GITHUB_STEP_SUMMARY" ;;
+            esac
+          fi
           gh api --paginate "repos/$REPO/pulls/$PR_NUMBER/reviews?per_page=100" --jq '.[]' > reviews.jsonl
           result=$(jq -rs --arg sha "$HEAD_SHA" --arg allowed "$ALLOWED" '
             ($allowed | split(",") | map(gsub("^\\s+|\\s+$"; ""))) as $ok

@@ -1,4 +1,4 @@
-# pr-guard: blocks merging while a PR's title, body or labels say "do not merge".
+# pr-guard: blocks merging while a PR's title, body or labels carry the hold phrase.
 # Steve, Nov 27 2026 8:16 AM MT: "Add a required check that blocks any PR whose
 # description says do not merge, plus a Claude review before I'm asked to merge,
 # across all repos".
@@ -36,9 +36,10 @@ jobs:
           PR_LABELS: ${{ join(github.event.pull_request.labels.*.name, ', ') }}
         run: |
           set -euo pipefail
-          # Same as (?i)do[\s_\-]*not[\s_\-]*merge . Covers DO NOT MERGE,
-          # do-not-merge, do_not_merge, donotmerge, "Do  not\nmerge", etc.
-          re='do[[:space:]_-]*not[[:space:]_-]*merge'
+          # Same as (?i)(do[\s_\-]*not|don['’]?t)[\s_\-]*merge . Covers the hold
+          # phrase spaced, hyphenated, underscored, joined, split across lines,
+          # and the contractions with a straight or curly apostrophe or none.
+          re="(do[[:space:]_-]*not|don('|’)?t)[[:space:]_-]*merge"
           hit=0
           for field in PR_TITLE PR_BODY PR_LABELS; do
             if printf '%s' "${!field}" | tr '\n\r' '  ' | grep -Eiq -- "$re"; then
