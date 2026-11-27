@@ -1,0 +1,392 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-27",
+  "compiled_at": "2026-11-27T11:35:15.230233+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Australian PGA Round 2 — Von Dellingshausen Leads at 13-Under; Smith Surges to 9-Under",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "**Window:** 8:00 AM ET\n**Character count:** 198\n\nGerman golfer Nicolai Von Dellingshausen leads the BMW Australian PGA Championship at 13-under after round 2. Cam Smith surged into contention with a 64 to reach 9-under — 4 shots back. McKibbin at 10-under. #GolfAustralia",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfAustralia"
+          ],
+          "char_count": 271
+        },
+        {
+          "label": "Post 1B",
+          "text": "**Window:** 6:00 PM ET\n**Character count:** 193\n\nCam Smith shot a 64 on Friday at The Lakes, Sydney — including an eagle on 14. He goes into the weekend 4 shots off the lead at the Australian PGA. The comeback story is real. #GolfAustralia",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfAustralia"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-australian-pga-r2-von-dellingshausen-leads-smith-surges.html",
+        "headline": "Von Dellingshausen Takes Control at Australian PGA After Round 2",
+        "word_count": 590
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Australian PGA R2 Results\n\n**Featured Image Concept:**\nNicolai Von Dellingshausen celebrating or in action at The Lakes, Sydney — wide-angle or celebratory moment\n\n**Imagn Search Terms:**\n- `Nicolai Von Dellingshausen golf`\n- `BMW Australian PGA Championship 2026`\n\n**Alt Text:** Nicolai Von Dellingshausen leads the BMW Australian PGA Championship at 13-under par after round 2 at The Lakes, Sydney.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Australian PGA Round 2 — Von Dellingshausen Leads; Smith Surges\n**Sources consulted:**\n- https://www.golfpost.com/tournaments/european-tour-bmw-australian-pga-championship-2026/leaderboard/\n- https://www.newsminimalist.com/articles/cameron-smith-eagles-his-way-into-australian-pga-contention-f63dce8d\n- https://www.golfmagic.com/tour/dp-world-tour/former-liv-star-cameron-smith-credits-golf-coach-after-surging-up-australian-pga-leaderboard\n- https://sports.yahoo.com/golf/articles/cam-smith-reacts-shooting-64-090000999.html\n- https://au.headtopics.com/news/cam-smith-leads-charge-at-australian-pga-championship-in-90222864\n**Key facts (with confidence):**\n- [HIGH] Von Dellingshausen leads at 13-under after round 2 — from Golf Post leaderboard (best available)\n- [HIGH] Cameron Smith shot a 64 in round 2 — confirmed multiple sources (Yahoo, golf magic)\n- [HIGH] Smith at 9-under after round 2 — from Golf Post leaderboard\n- [HIGH] Tom McKibbin at 10-under — from Golf Post leaderboard\n- [HIGH] Tournament dates: November 26-29, 2026 at The Lakes, Sydney — confirmed multiple sources\n- [HIGH] Record purse: AU$2.5M — confirmed by prior pipeline\n- [HIGH] Haydn Barron led after round 1 at -8 — confirmed by prior pipeline and AGD source\n- [MEDIUM] Smith eagle on par-5 14th in R2 — from newsminimalist source\n- [MEDIUM] Von Dellingshausen held a 3-shot lead after R2 — from Golf Post (sources conflict slightly on exact margin)",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "golfpost.com",
+          "url": "https://www.golfpost.com/tournaments/european-tour-bmw-australian-pga-championship-2026/leaderboard/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "newsminimalist.com",
+          "url": "https://www.newsminimalist.com/articles/cameron-smith-eagles-his-way-into-australian-pga-contention-f63dce8d",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "golfmagic.com",
+          "url": "https://www.golfmagic.com/tour/dp-world-tour/former-liv-star-cameron-smith-credits-golf-coach-after-surging-up-australian-pga-leaderboard",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/golf/articles/cam-smith-reacts-shooting-64-090000999.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "au.headtopics.com",
+          "url": "https://au.headtopics.com/news/cam-smith-leads-charge-at-australian-pga-championship-in-90222864",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Cameron Smith's Redemption Arc — Post-LIV Comeback and the Path Back to the PGA Tour",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "**Window:** 10:30 AM ET\n**Character count:** 196\n\nCameron Smith left the PGA Tour for LIV Golf. LIV collapsed. Now he's back in his home country, 4 shots off the lead at the Australian PGA, chasing a path back to the PGA Tour. What a story. #GolfAustralia",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfAustralia"
+          ],
+          "char_count": 255
+        },
+        {
+          "label": "Post 2B",
+          "text": "**Window:** 8:30 PM ET\n**Character count:** 189\n\nSmith on wanting the PGA Tour: \"That's where I want to be now, for sure.\" A win at the Australian PGA this week could be his ticket. He is very much in contention at 9-under. #GolfAustralia",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfAustralia"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-cameron-smith-redemption-arc-post-liv-pga-tour-path.html",
+        "headline": "Cameron Smith's Road Back: Post-LIV Comeback and the Path to the PGA Tour",
+        "word_count": 643
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cameron Smith Comeback Story\n\n**Featured Image Concept:**\nCameron Smith in action or reacting during his round 2 64 at The Lakes — emotional or focused moment\n\n**Imagn Search Terms:**\n- `Cameron Smith golf`\n- `Cameron Smith Australian PGA`\n\n**Alt Text:** Cameron Smith during his round 2 64 at the BMW Australian PGA Championship, surging into contention at 9-under par.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cameron Smith's Comeback Story\n**Sources consulted:**\n- https://www.abc.net.au/news/2026-11-24/cameron-smith-pga-liv-golf-australia/107420594\n- https://sports.yahoo.com/golf/articles/cameron-smith-wants-pga-tour-210036266.html\n- https://www.skysports.com/golf/news/13615871/cameron-smith-plots-pathway-back-to-the-pga-tour-after-moving-on-from-liv-golf\n- https://www.fogolf.com/1463548/smith-targeting-pga-tour-return-as-he-gears-up-for-first-post-liv-start/\n**Key facts (with confidence):**\n- [HIGH] Smith's first DP World Tour start since LIV Golf collapse — confirmed multiple sources\n- [HIGH] LIV Golf collapsed in 2026 (Saudi backers pulled out) — confirmed multiple sources\n- [HIGH] Smith's PGA Tour path: win Australian PGA, win Australian Open, or top-10 DP World Tour order of merit — from Sky Sports and Sky sources\n- [HIGH] Smith said \"(The PGA Tour) is where I want to be now\" — from Sydney Morning Herald (via multiple reports)\n- [HIGH] Smith declined two-year DP World Tour card in 2022 after winning Australian PGA — from multiple sources\n- [MEDIUM] Smith has ~5-6 PGA Tour wins (sources conflict on exact number)\n- [HIGH] Brooks Koepka returned to PGA Tour via \"Returning Member Program\" in early 2026 — confirmed by Sky Sports\n- [HIGH] PGA Tour CEO Brian Rolapp said the Returning Member Program is not on the table for Smith — confirmed by Sky Sports source",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "abc.net.au",
+          "url": "https://www.abc.net.au/news/2026-11-24/cameron-smith-pga-liv-golf-australia/107420594",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/golf/articles/cameron-smith-wants-pga-tour-210036266.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "skysports.com",
+          "url": "https://www.skysports.com/golf/news/13615871/cameron-smith-plots-pathway-back-to-the-pga-tour-after-moving-on-from-liv-golf",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "fogolf.com",
+          "url": "https://www.fogolf.com/1463548/smith-targeting-pga-tour-return-as-he-gears-up-for-first-post-liv-start/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Australian Open Preview — McIlroy Headlines Kingston Heath, Dec. 3-6",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "**Window:** 1:00 PM ET\n**Character count:** 194\n\nRory McIlroy is heading to Kingston Heath for the Australian Open (Dec 3-6). Smith, Scott, Min Woo Lee and Theegala also in the field. One of the great sandbelt courses returns to major-event duty. #GolfAustralia",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfAustralia"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-australian-open-preview-kingston-heath-mcilroy.html",
+        "headline": "Australian Open Preview: McIlroy Headlines Kingston Heath for December Showpiece",
+        "word_count": 546
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Australian Open Preview\n\n**Featured Image Concept:**\nKingston Heath Golf Club aerial or fairway shot, or Rory McIlroy in action at an Australian event\n\n**Imagn Search Terms:**\n- `Rory McIlroy golf Australia`\n- `Kingston Heath Golf Club`\n\n**Alt Text:** Rory McIlroy, who headlines the field for the Australian Open at Kingston Heath, Melbourne, December 3-6.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Australian Open Preview at Kingston Heath\n**Sources consulted:**\n- https://www.golfmagic.com/tour/dp-world-tour/rory-mcilroy-confirms-expected-news-during-pga-championship\n- https://aussiegolfer.com.au/australian-open-2026-kingston-heath-field-whos-playing/\n- https://www.insidegolf.com.au/news/golf-australia/rorys-back-and-sahith-is-coming-too/\n**Key facts (with confidence):**\n- [HIGH] Australian Open dates: December 3-6, 2026 — confirmed multiple sources\n- [HIGH] Venue: Kingston Heath Golf Club, Melbourne — confirmed multiple sources\n- [HIGH] Rory McIlroy in the field — confirmed multiple sources\n- [HIGH] Adam Scott, Cameron Smith, Min Woo Lee, Sahith Theegala in field — confirmed multiple sources\n- [MEDIUM] McIlroy chasing his second Stonehaven Cup — from multiple sources (previous win unspecified year)\n- [MEDIUM] Kingston Heath last hosted Australian Open in 1990 — from references to sandbelt classic\n- [HIGH] DP World Tour co-sanctioned event — confirmed",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "golfmagic.com",
+          "url": "https://www.golfmagic.com/tour/dp-world-tour/rory-mcilroy-confirms-expected-news-during-pga-championship",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "aussiegolfer.com.au",
+          "url": "https://aussiegolfer.com.au/australian-open-2026-kingston-heath-field-whos-playing/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "insidegolf.com.au",
+          "url": "https://www.insidegolf.com.au/news/golf-australia/rorys-back-and-sahith-is-coming-too/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Haydn Barron — The Amateur Who Led the Australian PGA After Round 1",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "**Window:** 3:30 PM ET\n**Character count:** 198\n\nAmateur Haydn Barron led the BMW Australian PGA Championship outright after round 1 at 8-under at The Lakes in Sydney. Pros have since caught him, but the Australian amateur's performance is one of the week's best stories. #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Golf"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-haydn-barron-amateur-leads-australian-pga.html",
+        "headline": "Amateur Haydn Barron Led the Australian PGA — and That Is Worth Remembering",
+        "word_count": 583
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Haydn Barron Amateur Story\n\n**Featured Image Concept:**\nHaydn Barron on the course at The Lakes — action or leaderboard moment from round 1 or 2\n\n**Imagn Search Terms:**\n- `Haydn Barron golf`\n- `Australian PGA Championship amateur`\n\n**Alt Text:** Amateur Haydn Barron, who led the BMW Australian PGA Championship outright after round 1 with an 8-under opening round.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Haydn Barron — Amateur Who Led R1\n**Sources consulted:**\n- Prior pipeline (Nov 26 Golf Story 1)\n- https://australiangolfdigest.com.au/agd-live-feed-minute-by-minute-coverage-of-the-australian-pga-championship\n**Key facts (with confidence):**\n- [HIGH] Haydn Barron led after round 1 at 8-under par — confirmed by prior pipeline and AGD source\n- [HIGH] Tournament is the BMW Australian PGA Championship at The Lakes, Sydney — confirmed\n- [MEDIUM] Barron is an amateur — from prior pipeline context and multiple sources referencing him as amateur\n- [MEDIUM] Barron has fallen back after Von Dellingshausen's round 2 charge — from leaderboard sources",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "australiangolfdigest.com.au",
+          "url": "https://australiangolfdigest.com.au/agd-live-feed-minute-by-minute-coverage-of-the-australian-pga-championship",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "December's Golden Window — The Australasian Golf Summer",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "**Window:** 6:00 PM ET\n**Character count:** 192\n\nAustralian PGA this week. Australian Open next week. McIlroy, Smith, Scott, Min Woo Lee all playing. December golf Down Under is quietly one of the best weeks on the golf calendar. Do not sleep on it. #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Golf"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-australasian-golf-summer-december-preview.html",
+        "headline": "December Golf in Australia Is the World's Most Underrated Sports Window",
+        "word_count": 557
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Australasian Golf Summer\n\n**Featured Image Concept:**\nWide shot of Australian golf course in summer conditions — The Lakes or Kingston Heath aerial with blue skies\n\n**Imagn Search Terms:**\n- `Australian Open golf Kingston Heath`\n- `The Lakes Sydney golf`\n\n**Alt Text:** The Australian golf summer features back-to-back elite events at The Lakes (Australian PGA) and Kingston Heath (Australian Open) in December."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Australasian Golf Summer\n**Sources consulted:**\n- https://aussiegolfer.com.au/australian-open-2026-kingston-heath-field-whos-playing/\n- https://www.golfmagic.com/tour/pga-tour/rory-mcilroy-schedule-2026-when-and-where-masters-champ-playing-next\n**Key facts (with confidence):**\n- [HIGH] Australian PGA Championship Nov 26-29, The Lakes Sydney — confirmed\n- [HIGH] Australian Open Dec 3-6, Kingston Heath Melbourne — confirmed\n- [HIGH] McIlroy plans to stay on after Australian Open for Cathedral Invitational at Cathedral Lodge — from Golf Magic\n- [HIGH] PGA Tour-DP World Tour-Golf Australia partnership commences 2027 — from McIlroy comments",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "aussiegolfer.com.au",
+          "url": "https://aussiegolfer.com.au/australian-open-2026-kingston-heath-field-whos-playing/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "golfmagic.com",
+          "url": "https://www.golfmagic.com/tour/pga-tour/rory-mcilroy-schedule-2026-when-and-where-masters-champ-playing-next",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

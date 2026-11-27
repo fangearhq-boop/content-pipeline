@@ -1,5 +1,33 @@
 # Golf Fanrecap — Pipeline Status
 
+## Last Run: 2026-11-27
+
+**Status:** COMPLETE (with known proxy limitations)
+**Niche:** Golf Fanrecap
+
+---
+
+### 2026-11-27 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles, image manifest)
+- Step 10: verify-facts.py — 5 stories, 30 claims, HIGH: 58; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 0 FB posts (known parsing), 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (22 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy; content-dashboards not in session scope)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via git remote with PAT
+
+**Stories covered:**
+1. T1 FOLLOW UP: Australian PGA R2 — Von Dellingshausen -13, McKibbin -10, Smith -9 (64 w/ eagle on 14); Barron fades from R1 lead (Ryan Calloway)
+2. T1 NEW: Cameron Smith post-LIV comeback story; path to PGA Tour = win AusPGA or AusOpen or top-10 DP World Tour order of merit (Jake Torres)
+3. T2 FOLLOW UP: Australian Open Dec 3-6 at Kingston Heath — McIlroy, Scott, Smith, Min Woo Lee, Theegala in field (Marcus Cole)
+4. T2 NEW: Haydn Barron amateur story — led R1 at -8; professionals caught him in R2 (Ryan Calloway)
+5. T3 NEW: Australasian golf summer overview — Australian PGA + Australian Open two consecutive elite weeks; 2027 PGA Tour partnership (Jake Torres)
+
+---
+
 ## Last Run: 2026-11-26
 
 **Status:** COMPLETE (with known proxy limitations)

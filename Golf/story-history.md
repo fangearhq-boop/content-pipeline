@@ -2,6 +2,45 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-11-27
+
+### STORY 1: Australian PGA R2 — Von Dellingshausen Leads at -13; Smith Surges to -9
+- **Tier:** 1
+- **Category:** BMW Australian PGA Championship / Nicolai Von Dellingshausen / Cameron Smith / Tom McKibbin / The Lakes Sydney
+- **Key facts:** Von Dellingshausen leads at 13-under after R2, 3-shot lead over McKibbin (10-under); Smith shot 64 in R2 (eagle on par-5 14th) to reach 9-under; Amateur Haydn Barron faded from R1 lead; record AU$2.5M purse; R3/R4 Nov 28-29
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: Cameron Smith's Redemption Arc — Post-LIV Comeback and the Path Back to the PGA Tour
+- **Tier:** 1
+- **Category:** Cameron Smith / LIV Golf / DP World Tour / PGA Tour / BMW Australian PGA Championship
+- **Key facts:** Smith's first DP World Tour event since LIV collapse; path to PGA Tour = win AusPGA or AusOpen or top-10 DP World Tour order of merit; quote: "That's where I want to be now, for sure"; Brooks Koepka Returning Member Program not available to Smith per CEO Brian Rolapp
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 3: Australian Open Preview — McIlroy Headlines Kingston Heath, Dec 3-6
+- **Tier:** 2
+- **Category:** Australian Open / Rory McIlroy / Kingston Heath / Cameron Smith / Adam Scott / Min Woo Lee / Sahith Theegala
+- **Key facts:** Dec 3-6 at Kingston Heath Melbourne; McIlroy chasing second Stonehaven Cup; Scott, Smith, Min Woo Lee, Theegala in field; Kingston Heath last hosted AusOpen in 1990; PGA Tour-DP World Tour-Golf Australia partnership commencing 2027
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 4: Haydn Barron — The Amateur Who Led the Australian PGA After Round 1
+- **Tier:** 2
+- **Category:** Haydn Barron / amateur golf / BMW Australian PGA Championship / The Lakes Sydney
+- **Key facts:** Barron led R1 at -8 (8-under); professionals caught him in R2; still competing in R3/R4; Australian amateur pipeline context
+- **Byline:** Ryan Calloway
+- **Status:** NEW
+
+### STORY 5: December's Golden Window — The Australasian Golf Summer
+- **Tier:** 3
+- **Category:** Australian golf / Australian Open / Australian PGA Championship / golf summer / McIlroy / Smith
+- **Key facts:** Australian PGA (Nov 26-29, The Lakes) + Australian Open (Dec 3-6, Kingston Heath) form consecutive elite weeks; 2027 PGA Tour-DP World Tour-Golf Australia partnership adds significance; McIlroy plans to extend stay for Cathedral Invitational
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+---
+
 ## 2026-11-26
 
 ### STORY 1: BMW Australian PGA Championship R1 — Barron Leads at -8, Min Woo Lee Shoots 68 Without 8-Iron
