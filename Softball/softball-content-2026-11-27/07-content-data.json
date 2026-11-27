@@ -1,0 +1,456 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-27",
+  "compiled_at": "2026-11-27T10:16:04.426190+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Thanksgiving Blackout Day 3 — Silence Across College Softball",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Day 3 of 5 in the NCAA D1 softball Thanksgiving blackout. No calls. No texts. No DMs. Contact resumes Saturday. The December transfer portal opens Sunday. Happy Thanksgiving — coaches are spending it planning rosters they can't yet discuss. #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAASoftball"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-thanksgiving-blackout-day-3-recruiting-silence.html",
+        "headline": "Thanksgiving Blackout Day 3: College Softball's Recruiting Silence Hits Its Midpoint",
+        "word_count": 694
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Thanksgiving Blackout Day 3\n\n**Concept 1 — Social (1080x1350)**\nThanksgiving-themed recruitment blackout graphic: turkey silhouette with a padlock overlaid, bold text \"DAY 3 OF 5 — SILENCE,\" dark navy background with orange accent. Bottom text: \"Contact resumes Saturday. Portal opens Sunday.\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Thanksgiving Blackout Day 3\n**Key Facts:**\n- NCAA Division I softball Thanksgiving recruiting blackout runs Nov 25-29 — **[HIGH]** confirmed from nextcommit.ai NCAA calendar and ncsasports.org recruiting rules\n- Today Nov 27 is Day 3 of the 5-day blackout — **[HIGH]** (Day 1 = Nov 25, Day 2 = Nov 26, Day 3 = Nov 27, Day 4 = Nov 28, Day 5 = Nov 29)\n- Contact resumes Nov 29 (Saturday) — **[HIGH]** per ncsasports.org/softball/recruiting-rules-calendar\n- December transfer portal window opens Dec 1 — **[HIGH]** per collegesoftball.app and ncsasports.org\n- Dead period Dec 8-12 — **[MEDIUM]** sources differ (ncsasports.org Dec 8-12; readthefield.com Dec 9-12); using Dec 8-12 as range\n- No calls, texts, emails, social media DMs to any recruit — **[HIGH]** per NCAA recruiting rules\n- Programs using blackout for administrative prep: NLI paperwork, scholarship offer review — **[MEDIUM]** standard practice, inferred\n**Sources:**\n- https://www.ncsasports.org/softball/recruiting-rules-calendar\n- https://readthefield.com/recruiting-calendars/softball\n- https://www.nextcommit.ai/blog/ncaa-recruiting-calendar-2026-2027\n- https://collegesoftball.app/portal",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "ncsasports.org",
+          "url": "https://www.ncsasports.org/softball/recruiting-rules-calendar",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "readthefield.com",
+          "url": "https://readthefield.com/recruiting-calendars/softball",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "nextcommit.ai",
+          "url": "https://www.nextcommit.ai/blog/ncaa-recruiting-calendar-2026-2027",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "collegesoftball.app",
+          "url": "https://collegesoftball.app/portal",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "4 Days Until the Portal: Saylor Davis and the Pitching Race",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "4 days until the December transfer portal opens. OSU ace Saylor Davis — 3 years of eligibility — is expected to enter Day 1. Arizona has no proven ace after losing Mariah Torres to Texas Tech. This is the most urgent pitching race in college softball. #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAASoftball"
+          ],
+          "char_count": 265
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The portal opens Dec 1. The dead period starts Dec 8. That's 7 days for Arizona to find its next ace. Ole Miss and Auburn want the same arms. It's going to be a sprint. #WildcatSoftball #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WildcatSoftball",
+            "#NCAASoftball"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-portal-4-days-saylor-davis-arizona-pitching-race.html",
+        "headline": "Portal in 4 Days: Saylor Davis, Arizona's Pitching Search, and the Race That Starts Sunday",
+        "word_count": 670
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Portal 4 Days Out — Saylor Davis\n\n**Concept 2 — Social (1080x1350)**\nCountdown clock graphic: bold \"4 DAYS\" in center, surrounding text \"December Transfer Portal Opens Dec 1,\" with softball seam design framing. Dark green and white color palette.\n\n**Concept 3 — Social (1080x1350)**\nArizona pitching crisis visual: empty pitching circle on a diamond layout, question mark where the ace silhouette should be. Text: \"ARIZONA NEEDS AN ACE. Portal opens Dec 1.\" Desert red and navy palette.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Portal 4 Days Out — Saylor Davis and Pitching Race\n**Key Facts:**\n- December transfer portal window: Dec 1-15, 2026 — **[HIGH]** per collegesoftball.app tracker\n- OSU ace pitcher Saylor Davis expected to enter portal Day 1 — **[MEDIUM]** per SI/Softball on SI report (date of announcement unclear but references Dec entry)\n- Davis has 3 years eligibility remaining — **[MEDIUM]** per prior pipeline research; confirms pitcher who had been coached at OSU by Carrie Eberle\n- Arizona lost Mariah Torres (D1Softball Player of the Year) to Texas Tech in June portal — **[HIGH]** confirmed by multiple prior pipeline runs and rule42.com/si.com references\n- Arizona closed fall 15-2 (from Nov 24 pipeline research) — **[HIGH]**\n- Ole Miss, Auburn also hunting portal pitchers — **[HIGH]** from prior pipeline research Nov 19-26\n- Dead period Dec 8-12 creates ~7-day effective window after Dec 1 portal opens — **[HIGH]** (Dec 1 to Dec 7 = 7 days before Dec 8 dead period)\n- 147 total portal entries tracked for 2026 cycle — **[MEDIUM]** per collegesoftball.app\n**Sources:**\n- https://www.si.com/onsi/softball/transfer-portal/oklahoma-state-softball-pitcher-enters-transfer-portal\n- https://collegesoftball.app/portal\n- https://d1softball.com/transfer-tracker/\n- https://www.on3.com/softball/news/2026-27-softball-transfer-portal/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "si.com",
+          "url": "https://www.si.com/onsi/softball/transfer-portal/oklahoma-state-softball-pitcher-enters-transfer-portal",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "collegesoftball.app",
+          "url": "https://collegesoftball.app/portal",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "d1softball.com",
+          "url": "https://d1softball.com/transfer-tracker/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "on3.com",
+          "url": "https://www.on3.com/softball/news/2026-27-softball-transfer-portal/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Texas's Three-Peat Mission: What Does the Program Need for 2027?",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Texas is the back-to-back national champion. The Longhorns beat Texas Tech 4-1 in both the 2025 and 2026 WCWS finals. They've lost Swan, Lincoln, and Torres to the portal. Can they reload for a three-peat? #HookEmSoftball #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEmSoftball",
+            "#NCAASoftball"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-texas-three-peat-mission-what-longhorns-need-2027.html",
+        "headline": "Texas's Three-Peat Mission: What the Back-to-Back Champions Need for 2027",
+        "word_count": 621
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Three-Peat\n\n**Concept 4 — Social (1080x1350)**\nTexas back-to-back champions graphic: two trophy icons side by side, bold text \"BACK-TO-BACK\" with longhorn silhouette. Burnt orange and white. Bottom: \"Can they win a third?\"\n\n**Concept 5 — Social (1080x1350)**\nThree-peat pursuit visual: three WCWS trophies in a row, two solid/gold, third outlined/empty. Text: \"2025. 2026. 2027?\" Burnt orange background.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Three-Peat Mission\n**Key Facts:**\n- Texas won back-to-back WCWS national championships 2025 and 2026 — **[HIGH]** confirmed by multiple major sources (ESPN, Fox7Austin, TPR, On3, WTOP, UT Athletics)\n- Texas defeated Texas Tech 4-1 in the 2026 WCWS Championship Series — **[HIGH]** per NBC DFW, Fox7 Austin\n- Final score: Texas Tech 4-1 — **[HIGH]** (back-to-back rematch with same opponent, same score)\n- Texas (53-12) won its second consecutive title — **[HIGH]** per ESPN/On3\n- Fifth program in history to win consecutive national titles — **[HIGH]** per ESPN\n- Texas signed 3 HS prospects on Nov 11 NSD: Lolo Gamble, Brooklyn Hagerty, Emree Massaad — **[HIGH]** per texaslonghorns.com official announcement Nov 13\n- Class ranked No. 12 D1Softball, No. 18 Softball America — **[HIGH]** per texaslonghorns.com announcement\n- Lost transfers Samantha Swan, Samantha Lincoln, Isa Torres this offseason — **[HIGH]** from prior pipeline research Nov 25-26\n- Isa Torres: went from FSU to Texas (June portal) — **[HIGH]** per collegesoftball.app/WRUF tracker\n**Sources:**\n- https://texaslonghorns.com/news/2026/6/5/softball-wins-back-to-back-womens-college-world-series\n- https://www.fox7austin.com/sports/texas-women-beat-texas-tech-4-1-claim-back-to-back-ncaa-softball-championships\n- https://www.on3.com/softball/news/2026-wcws-texas-wins-back-to-back-national-championships/\n- https://texaslonghorns.com/news/2026/11/13/softball-signs-three-on-national-signing-day\n- https://www.tpr.org/sports/2026-06-05/longhorns-clinch-back-to-back-softball-championships-with-win-over-texas-tech\n- https://wtop.com/sports/2026/06/texas-wins-its-second-consecutive-ncaa-softball-title-beating-texas-tech-4-1-in-rematch-of-last-years-final/\n- https://africa.espn.com/college-sports/story/_/id/48971031/2026-wcws-texas-wins-national-championship",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "texaslonghorns.com",
+          "url": "https://texaslonghorns.com/news/2026/6/5/softball-wins-back-to-back-womens-college-world-series",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "fox7austin.com",
+          "url": "https://www.fox7austin.com/sports/texas-women-beat-texas-tech-4-1-claim-back-to-back-ncaa-softball-championships",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "on3.com",
+          "url": "https://www.on3.com/softball/news/2026-wcws-texas-wins-back-to-back-national-championships/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "texaslonghorns.com",
+          "url": "https://texaslonghorns.com/news/2026/11/13/softball-signs-three-on-national-signing-day",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "tpr.org",
+          "url": "https://www.tpr.org/sports/2026-06-05/longhorns-clinch-back-to-back-softball-championships-with-win-over-texas-tech",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "wtop.com",
+          "url": "https://wtop.com/sports/2026/06/texas-wins-its-second-consecutive-ncaa-softball-title-beating-texas-tech-4-1-in-rematch-of-last-years-final/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "africa.espn.com",
+          "url": "https://africa.espn.com/college-sports/story/_/id/48971031/2026-wcws-texas-wins-national-championship",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "The January Rankings Battle: Can Oklahoma Hold the No. 1 Spot?",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "D1Softball has Oklahoma at No. 1. Softball America has LSU at No. 1 — first time in program history. January preseason polls settle the debate. Tennessee returns 9 starters. Florida has never won the WCWS. This is the most wide-open title race in years. #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAASoftball"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-january-rankings-oklahoma-lsu-no-1-debate.html",
+        "headline": "The January Rankings Debate: Can Oklahoma Lock Down the No. 1 Spot Before the Portal Changes Everything?",
+        "word_count": 811
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "January Rankings Battle\n\n**Concept 6 — Social (1080x1350)**\nSplit-panel rankings debate: left half \"D1SOFTBALL: OU No. 1\" in crimson and cream, right half \"SOFTBALL AMERICA: LSU No. 1\" in purple and gold. Center: \"JANUARY DECIDES.\"\n\n**Concept 7 — Social (1080x1350)**\nJanuary countdown graphic for preseason polls: calendar page showing January, top programs listed below. Dark background with gold accents.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "January Rankings Battle\n**Key Facts:**\n- OU No. 1 D1Softball class of 2027 — **[HIGH]** per Yahoo Sports/D1Softball coverage\n- Julianna \"Goose\" Hutchens reclassified and enrolled at OU — **[HIGH]** per Yahoo Sports\n- Finlee Williams (outfielder) signed, Riley Hilliard (5-star catcher) signed, Emma Reynolds committed — **[HIGH]** per stormininnorman.com and Yahoo Sports\n- Paige Kavan 2x WCWS MOP returning, Jayda Coleman Wells 39 HR NFCA FY returning — **[HIGH]** from prior pipeline research Nov 15-26\n- OU lost Kasidi Pickering to TTU (.384 BA, 50 HR, 169 RBI) — **[HIGH]** from prior research\n- LSU No. 1 Softball America — first in program history — **[HIGH]** per prior pipeline research\n- LSU: Torina coaching, Gonglik five-star + Bryant No. 22 signed — **[HIGH]** from prior pipeline\n- Pickens twins (Mackenzie + Madison) entered portal to LSU — **[HIGH]** from prior research\n- Tennessee: 9 starters returning, Sage Mardjetko 16-3 1.26 ERA, Karen Weekly extended 2030 — **[HIGH]** from prior research and Yahoo Sports (Weekly signs Karen Weekly, signs sixth in 2027 class)\n- Kaylee Hodges (No. 1 pitcher, No. 2 overall Class of 2027) signed by Tennessee — **[HIGH]** per Yahoo Sports\n- Florida No. 2 Softball America — **[HIGH]** per WRUF/multiple sources\n- Tori Edwards transferred from LSU to Florida — **[HIGH]** per WRUF\n- Florida never won WCWS — **[HIGH]** historical fact\n- January preseason polls will be first official rankings — **[HIGH]** per prior pipeline research\n**Sources:**\n- https://sports.yahoo.com/articles/ou-softball-earns-top-spot-033622288.html\n- https://sports.yahoo.com/articles/college-softball-no-1-recruit-183118275.html\n- https://sports.yahoo.com/articles/tennessee-softball-coach-karen-weekly-220605938.html\n- https://www.wruf.com/headlines/2026/11/19/florida-softball-welcomes-nations-no-2-recruiting-class/\n- https://stormininnorman.com/introducing-oklahoma-sooners-entire-2027-softball-signing-class",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/ou-softball-earns-top-spot-033622288.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/college-softball-no-1-recruit-183118275.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/tennessee-softball-coach-karen-weekly-220605938.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "wruf.com",
+          "url": "https://www.wruf.com/headlines/2026/11/19/florida-softball-welcomes-nations-no-2-recruiting-class/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "stormininnorman.com",
+          "url": "https://stormininnorman.com/introducing-oklahoma-sooners-entire-2027-softball-signing-class",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "5-for-5 Enters December: 200+ Cases, No End in Sight",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Tenth Circuit reversed the Wisne federal injunction. But 200+ state court cases covering 850+ athletes are still active. Programs are heading into December with two different sets of eligibility rules depending on what state they play in. #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAASoftball"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-5-for-5-enters-december-200-cases-no-end-in-sight.html",
+        "headline": "5-for-5 Enters December: 200+ State Court Cases and No End in Sight",
+        "word_count": 684
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "5-for-5 Into December\n\n**Concept 8 — Social (1080x1350)**\nLegal battle map of the US: states with active court injunctions highlighted in green vs. states without in red. Text: \"200+ cases. 850+ athletes. No end in sight.\" Bold headline treatment on dark navy background."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "5-for-5 Enters December\n**Key Facts:**\n- Tenth Circuit reversed and vacated Wisne v. NCAA federal injunction (Nov 7) — **[HIGH]** from multiple prior pipeline runs confirmed\n- 200+ state court cases covering 850+ athletes ongoing — **[MEDIUM]** per prior research; SI/Bloomberg sources\n- State courts granting injunctions independently of federal ruling — **[HIGH]** per prior research\n- NCAA's 5-for-5 rule adopted June 23, 2026 — **[HIGH]** per multiple sources\n- Congressional legislation discussed as viable path — **[MEDIUM]** per prior research\n- Marshall University group filed state court case (Cabell Circuit Court) — **[HIGH]** per marshall.edu\n- Programs carrying athletes under state court protection orders — **[MEDIUM]** per prior research\n**Sources:**\n- https://www.si.com/onsi/softball/news/how-the-court-s-ncaa-5-for-5-ruling-impacts-college-softball\n- https://news.bloomberglaw.com/in-house-counsel/ncaa-weighs-five-year-eligibility-rules-as-player-suits-pile-up\n- https://www.marshall.edu/wmul/2026/07/10/twelve-former-thundering-herd-athletes-sue-the-ncaa-over-new-5-for-5-rule/\n- https://www.bipc.com/ncaa-enjoined-from-enforcing-new-fifth-year-eligibility-rule",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "marshall.edu",
+          "url": "https://www.marshall.edu/wmul/2026/07/10/twelve-former-thundering-herd-athletes-sue-the-ncaa-over-new-5-for-5-rule/",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "si.com",
+          "url": "https://www.si.com/onsi/softball/news/how-the-court-s-ncaa-5-for-5-ruling-impacts-college-softball",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "news.bloomberglaw.com",
+          "url": "https://news.bloomberglaw.com/in-house-counsel/ncaa-weighs-five-year-eligibility-rules-as-player-suits-pile-up",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "bipc.com",
+          "url": "https://www.bipc.com/ncaa-enjoined-from-enforcing-new-fifth-year-eligibility-rule",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

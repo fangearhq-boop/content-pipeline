@@ -3,6 +3,61 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## Pipeline Run: 2026-11-27
+
+### Story 1: Thanksgiving Blackout Day 3 — Silence Across College Softball
+- **Date:** 2026-11-27
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Blackout Day 1 Nov 25, Day 2 Nov 26)
+- **Angle:** Day 3 of 5-day NCAA recruiting blackout (Nov 25-29). No calls, texts, emails to any recruit. Contact resumes Nov 29; portal opens Dec 1. Programs preparing for simultaneous portal + signing sprint.
+- **Content Produced:** Article (article-01, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Nov 29 contact resumes
+  - Dec 1 portal Day 1 activity
+
+### Story 2: 4 Days Until the Portal — Saylor Davis and the Pitching Race
+- **Date:** 2026-11-27
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Arizona pitching crisis Nov 24-26; portal countdown Nov 19-26)
+- **Angle:** Portal opens Dec 1 (4 days). OSU ace Saylor Davis (3 years eligibility) expected Day 1. Arizona most urgent buyer after losing Mariah Torres (D1Softball POY) to Texas Tech in June. Ole Miss, Auburn competing for same arms. Dead period Dec 8-12 creates 7-day effective window.
+- **Content Produced:** Article (article-02, Sarah Mitchell), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Dec 1 portal entries
+  - Arizona commitment announcement
+  - Davis destination confirmed
+
+### Story 3: Texas's Three-Peat Mission: What Longhorns Need for 2027
+- **Date:** 2026-11-27
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Texas won back-to-back WCWS titles (2025, 2026) over Texas Tech 4-1. Fifth program in history to win consecutive titles. Lost Swan/Lincoln/Torres to portal. Signed 3 HS prospects (Gamble/Hagerty/Massaad) Nov 11 — class No. 12 D1Softball, No. 18 SA. Building for three-peat in modern era.
+- **Content Produced:** Article (article-03, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Texas December portal activity
+  - January preseason rankings
+
+### Story 4: The January Rankings Battle — Can OU Hold No. 1?
+- **Date:** 2026-11-27
+- **Tier:** 2
+- **Classification:** FOLLOW UP (preseason rankings debate covered Nov 15-26)
+- **Angle:** D1Softball: OU No. 1 (Hutchens/Williams/Hilliard enrolled+signed, Kavan 2x MOP+Wells 39 HR returning). SA: LSU No. 1 first time in program history (Torina/Gonglik/Bryant/Pickens twins). Tennessee 9 starters (Mardjetko 16-3). Florida No. 2 SA (Edwards transfer). January polls settle the debate.
+- **Content Produced:** Article (article-04, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - January preseason poll release
+  - December portal moves shift rankings
+
+### Story 5: 5-for-5 Enters December: 200+ Cases, No End in Sight
+- **Date:** 2026-11-27
+- **Tier:** 3
+- **Classification:** FOLLOW UP (5-for-5 eligibility litigation covered Nov 10-26)
+- **Angle:** Tenth Circuit reversed Wisne federal injunction (Nov 7). 200+ state court cases/850+ athletes still active. State courts granting injunctions independently. Congressional legislation discussed. Programs planning with two roster scenarios heading into 2027.
+- **Content Produced:** Article (article-05, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - State court decisions in December
+  - Congressional action timeline
+
+---
+
 ## Pipeline Run: 2026-11-24
 
 ### Story 1: Final Hours — Today Is the Last Day for Recruiting Contact
