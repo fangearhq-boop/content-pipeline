@@ -1,0 +1,63 @@
+# pr-guard: blocks merging while a PR's title, body or labels carry the hold phrase.
+# Steve, Nov 27 2026 8:16 AM MT: "Add a required check that blocks any PR whose
+# description says do not merge, plus a Claude review before I'm asked to merge,
+# across all repos".
+#
+# Required status check context: pr-guard
+# Runs on drafts too (no draft filter on purpose).
+# To clear it on an approved PR: edit the body and replace the hold line with
+#   Steve OK (<date>, <time> MT): "<his exact words>"
+# Editing the body re-runs this check on the same head SHA.
+#
+# Safety: no checkout, no secrets, read-only token. The title/body are read from
+# the event payload through env vars and never interpolated into the script.
+name: pr-guard
+
+on:
+  pull_request:
+    types: [opened, edited, synchronize, reopened, ready_for_review, labeled, unlabeled]
+
+permissions: {}
+
+concurrency:
+  group: pr-guard-${{ github.event.pull_request.number }}
+  cancel-in-progress: false
+
+jobs:
+  pr-guard:
+    name: pr-guard
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - name: Check title, body and labels for "do not merge"
+        env:
+          PR_TITLE: ${{ github.event.pull_request.title }}
+          PR_BODY: ${{ github.event.pull_request.body }}
+          PR_LABELS: ${{ join(github.event.pull_request.labels.*.name, ', ') }}
+        run: |
+          set -euo pipefail
+          # Same as (?i)(do[\s_\-]*not|don['’]?t)[\s_\-]*merge . Covers the hold
+          # phrase spaced, hyphenated, underscored, joined, split across lines,
+          # and the contractions with a straight, curly or modifier apostrophe or none.
+          sep='([[:space:]_-]| )*'
+          re="(do${sep}not|don('|’|‘|ʼ)?t)${sep}merge"
+          hit=0
+          for field in PR_TITLE PR_BODY PR_LABELS; do
+            text=$(printf '%s' "${!field}" | tr '\n\r' '  ')
+            if grep -Eiq -- "$re" <<< "$text"; then
+              line=$(printf '%s' "${!field}" | tr '\r' '\n' | grep -Ein -m1 -- "$re" | cut -c1-200 || true)
+              echo "::error title=Do not merge::PR ${field#PR_} says do not merge (${line})"
+              echo "- ${field#PR_}: $(printf '%s' "$line" | tr -d '`')" >> "$GITHUB_STEP_SUMMARY"
+              hit=1
+            fi
+          done
+          if [ "$hit" = 1 ]; then
+            {
+              echo
+              echo "This PR is held. Once Steve OKs this specific PR, replace the hold line with:"
+              # shellcheck disable=SC2016
+              echo '`Steve OK (<date>, <time> MT): "<his exact words>"`'
+            } >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi
+          echo "No do-not-merge marker in title, body or labels." | tee -a "$GITHUB_STEP_SUMMARY"

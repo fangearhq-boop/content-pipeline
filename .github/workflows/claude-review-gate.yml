@@ -1,0 +1,92 @@
+# claude-review-gate: passes only when a Claude review carrying the
+# agreed marker has been posted as a real PR review on the CURRENT head SHA.
+# Required status check context: claude-review-posted
+#
+# Marker (anywhere in the review body, written by the reviewer):
+#   <!-- claude-review v1 sha=<full head sha> verdict=pass|changes|block -->
+# verdict=block fails the gate; pass or changes passes it (Steve still decides).
+# A new push (synchronize) re-runs the gate, so a fresh review is needed per head.
+#
+# Dependabot: PRs authored by dependabot[bot] whose update type is semver-patch
+# or semver-minor are exempt (Steve, Nov 27 2026 8:46 AM MT: "Exempt dependabot
+# patch and minor bumps from the Claude review; major bumps need it"). Grouped
+# PRs use the highest update type in the group; unknown types need the review.
+#
+# Allowed review authors come from repo/org variable CLAUDE_REVIEW_AUTHORS
+# (comma-separated logins); default below. No secrets; read-only token.
+# Known limit (Steve, Nov 27: "No machine user; agents keep using my account"):
+# fangearhq-boop is both the merging agent and the review poster, so the marker
+# is self-attested. github-actions[bot] is not allowed: reviews posted with
+# GITHUB_TOKEN never re-trigger this workflow.
+name: claude-review-gate
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+  pull_request_review:
+    types: [submitted, edited, dismissed]
+
+permissions:
+  contents: read
+  pull-requests: read
+
+concurrency:
+  group: claude-review-gate-${{ github.event.pull_request.number }}
+  cancel-in-progress: false
+
+jobs:
+  claude-review-posted:
+    name: claude-review-posted
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Fetch Dependabot metadata
+        id: meta
+        if: github.event.pull_request.user.login == 'dependabot[bot]'
+        uses: dependabot/fetch-metadata@21025c705c08248db411dc16f3619e6b5f9ea21a # v2.5.0
+        with:
+          github-token: ${{ github.token }}
+
+      - name: Look for a marked review on the head SHA
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+          ALLOWED: ${{ vars.CLAUDE_REVIEW_AUTHORS || 'fangearhq-boop,claude[bot]' }}
+          PR_AUTHOR: ${{ github.event.pull_request.user.login }}
+          UPDATE_TYPE: ${{ steps.meta.outputs.update-type }}
+        run: |
+          set -euo pipefail
+          if [ "$PR_AUTHOR" = "dependabot[bot]" ]; then
+            case "${UPDATE_TYPE:-}" in
+              version-update:semver-patch|version-update:semver-minor)
+                echo "Dependabot ${UPDATE_TYPE#version-update:semver-} bump: Claude review not required." | tee -a "$GITHUB_STEP_SUMMARY"
+                exit 0 ;;
+              *)
+                echo "Dependabot update type '${UPDATE_TYPE:-unknown}': Claude review required." | tee -a "$GITHUB_STEP_SUMMARY" ;;
+            esac
+          fi
+          gh api --paginate "repos/$REPO/pulls/$PR_NUMBER/reviews?per_page=100" --jq '.[]' > reviews.jsonl
+          result=$(jq -rs --arg sha "$HEAD_SHA" --arg allowed "$ALLOWED" '
+            ($allowed | split(",") | map(gsub("^\\s+|\\s+$"; ""))) as $ok
+            | [ .[]
+                | select(.commit_id == $sha)
+                | select(.state != "DISMISSED" and .state != "PENDING")
+                | select(.user.login as $u | $ok | index($u))
+                | (.body // "") as $b
+                | ($b | capture("<!--\\s*claude-review\\s+v1\\s+sha=(?<s>[0-9a-f]{40})\\s+verdict=(?<v>pass|changes|block)\\s*-->")?) as $m
+                | select($m != null and $m.s == $sha)
+                | {id, user: .user.login, at: .submitted_at, verdict: $m.v} ]
+            | sort_by(.at) | last // empty | "\(.verdict)\t\(.user)\t\(.at)\t\(.id)"' reviews.jsonl)
+          if [ -z "$result" ]; then
+            echo "::error title=No Claude review::No marked Claude review on head ${HEAD_SHA:0:8}. Post the review as a PR review with the claude-review v1 marker for this SHA."
+            echo "No marked Claude review on head \`${HEAD_SHA:0:8}\` yet." >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi
+          IFS=$'\t' read -r verdict user at id <<< "$result"
+          echo "Latest marked review: verdict=$verdict by $user at $at (review $id) on ${HEAD_SHA:0:8}" | tee -a "$GITHUB_STEP_SUMMARY"
+          if [ "$verdict" = block ]; then
+            echo "::error title=Claude review blocked::The latest Claude review on this head says verdict=block."
+            exit 1
+          fi
