@@ -1,8 +1,8 @@
-# claude-review-gate: passes only when a Claude (or Codex) review carrying the
+# claude-review-gate: passes only when a Claude review carrying the
 # agreed marker has been posted as a real PR review on the CURRENT head SHA.
 # Required status check context: claude-review-posted
 #
-# Marker (first line of the review body, written by the reviewer):
+# Marker (anywhere in the review body, written by the reviewer):
 #   <!-- claude-review v1 sha=<full head sha> verdict=pass|changes|block -->
 # verdict=block fails the gate; pass or changes passes it (Steve still decides).
 # A new push (synchronize) re-runs the gate, so a fresh review is needed per head.
@@ -14,6 +14,10 @@
 #
 # Allowed review authors come from repo/org variable CLAUDE_REVIEW_AUTHORS
 # (comma-separated logins); default below. No secrets; read-only token.
+# Known limit (Steve, Nov 27: "No machine user; agents keep using my account"):
+# fangearhq-boop is both the merging agent and the review poster, so the marker
+# is self-attested. github-actions[bot] is not allowed: reviews posted with
+# GITHUB_TOKEN never re-trigger this workflow.
 name: claude-review-gate
 
 on:
@@ -28,7 +32,7 @@ permissions:
 
 concurrency:
   group: claude-review-gate-${{ github.event.pull_request.number }}
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   claude-review-posted:
@@ -49,7 +53,7 @@ jobs:
           REPO: ${{ github.repository }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
-          ALLOWED: ${{ vars.CLAUDE_REVIEW_AUTHORS || 'fangearhq-boop,claude[bot],github-actions[bot]' }}
+          ALLOWED: ${{ vars.CLAUDE_REVIEW_AUTHORS || 'fangearhq-boop,claude[bot]' }}
           PR_AUTHOR: ${{ github.event.pull_request.user.login }}
           UPDATE_TYPE: ${{ steps.meta.outputs.update-type }}
         run: |
