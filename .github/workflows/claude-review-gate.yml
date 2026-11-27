@@ -1,0 +1,64 @@
+# claude-review-gate: passes only when a Claude (or Codex) review carrying the
+# agreed marker has been posted as a real PR review on the CURRENT head SHA.
+# Required status check context: claude-review-posted
+#
+# Marker (first line of the review body, written by the reviewer):
+#   <!-- claude-review v1 sha=<full head sha> verdict=pass|changes|block -->
+# verdict=block fails the gate; pass or changes passes it (Steve still decides).
+# A new push (synchronize) re-runs the gate, so a fresh review is needed per head.
+#
+# Allowed review authors come from repo/org variable CLAUDE_REVIEW_AUTHORS
+# (comma-separated logins); default below. No secrets; read-only token.
+name: claude-review-gate
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+  pull_request_review:
+    types: [submitted, edited, dismissed]
+
+permissions:
+  pull-requests: read
+
+concurrency:
+  group: claude-review-gate-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  claude-review-posted:
+    name: claude-review-posted
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Look for a marked review on the head SHA
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+          ALLOWED: ${{ vars.CLAUDE_REVIEW_AUTHORS || 'fangearhq-boop,claude[bot],github-actions[bot]' }}
+        run: |
+          set -euo pipefail
+          gh api --paginate "repos/$REPO/pulls/$PR_NUMBER/reviews?per_page=100" --jq '.[]' > reviews.jsonl
+          result=$(jq -rs --arg sha "$HEAD_SHA" --arg allowed "$ALLOWED" '
+            ($allowed | split(",") | map(gsub("^\\s+|\\s+$"; ""))) as $ok
+            | [ .[]
+                | select(.commit_id == $sha)
+                | select(.state != "DISMISSED" and .state != "PENDING")
+                | select(.user.login as $u | $ok | index($u))
+                | (.body // "") as $b
+                | ($b | capture("<!--\\s*claude-review\\s+v1\\s+sha=(?<s>[0-9a-f]{40})\\s+verdict=(?<v>pass|changes|block)\\s*-->")?) as $m
+                | select($m != null and $m.s == $sha)
+                | {id, user: .user.login, at: .submitted_at, verdict: $m.v} ]
+            | sort_by(.at) | last // empty | "\(.verdict)\t\(.user)\t\(.at)\t\(.id)"' reviews.jsonl)
+          if [ -z "$result" ]; then
+            echo "::error title=No Claude review::No marked Claude review on head ${HEAD_SHA:0:8}. Post the review as a PR review with the claude-review v1 marker for this SHA."
+            echo "No marked Claude review on head \`${HEAD_SHA:0:8}\` yet." >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi
+          IFS=$'\t' read -r verdict user at id <<< "$result"
+          echo "Latest marked review: verdict=$verdict by $user at $at (review $id) on ${HEAD_SHA:0:8}" | tee -a "$GITHUB_STEP_SUMMARY"
+          if [ "$verdict" = block ]; then
+            echo "::error title=Claude review blocked::The latest Claude review on this head says verdict=block."
+            exit 1
+          fi
