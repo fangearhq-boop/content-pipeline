@@ -1,0 +1,446 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-28",
+  "compiled_at": "2026-11-28T10:15:56.079038+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Blackout Day 4 — Contact Resumes Monday, Then the Race Begins",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Day 4 of the recruiting blackout. Coaches can't call. Can't text. Can't DM.\n\nOne day left of silence — then Monday arrives and the entire sport springs back to life at once.\n\nThe portal opens Tuesday. Signing Day starts Wednesday.\n\n72 hours changes everything. 🥎",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-blackout-day-four-contact-resumes-monday.html",
+        "headline": "Blackout Day 4: Contact Resumes Monday, Then the Race Begins",
+        "word_count": 651
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Blackout Day 4\n**Sources:**\n- NCAA recruiting calendar (confirmed blackout Nov 25-29): https://readthefield.com/recruiting-calendars/softball\n- Portal window info (Dec 1-15 window confirmed): https://www.nextcommit.ai/blog/ncaa-transfer-portal-windows-2026-27\n- Recruiting period calendar: https://commitbound.com/softball/recruiting-calendar\n**Verified Facts:**\n- [HIGH] Thanksgiving recruiting blackout: Nov 25-29 (5 days) — confirmed multiple calendar sources\n- [HIGH] Today (Nov 28) = Day 4 of the blackout\n- [HIGH] Final blackout day: Nov 29 (Sunday)\n- [HIGH] Contact with recruits resumes: Monday, Nov 30\n- [HIGH] Transfer portal opens: Tuesday, Dec 1\n- [HIGH] Signing window: Dec 2-4 (fall period)\n- [HIGH] Dead period follows: Dec 8-12",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "NCAA recruiting calendar (confirmed blackout Nov 25-29)",
+          "url": "https://readthefield.com/recruiting-calendars/softball",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Portal window info (Dec 1-15 window confirmed)",
+          "url": "https://www.nextcommit.ai/blog/ncaa-transfer-portal-windows-2026-27",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Recruiting period calendar",
+          "url": "https://commitbound.com/softball/recruiting-calendar",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "3 Days Until the Portal — Arizona's Desperation Race for a Pitcher",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Arizona lost D1Softball Player of the Year Mariah Torres to Texas Tech in June.\n\nThree days until the December portal opens — and the Wildcats still don't have an ace.\n\nThe most desperate team in college softball is about to enter the most competitive pitching market of the year.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 280
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Portal opens in 72 hours. 🥎\n\nPrograms chasing pitchers on Day 1:\n▸ Arizona (no ace after Torres to TTU)\n▸ Ole Miss (rotation thin)\n▸ Auburn (targeting power arms)\n\nThe window is 7 effective days before the Dec 8-12 dead period hits. Every hour counts.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-arizona-portal-desperation-race-pitcher.html",
+        "headline": "Arizona's Desperation Race: 72 Hours to Fix a Rotation",
+        "word_count": 659
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Portal Countdown / Arizona Pitching\n**Sources:**\n- Portal tracker (entries/commits): https://collegesoftball.app/portal\n- On3 transfer portal wire: https://www.on3.com/transfer-portal/wire/softball/\n- Portal top players 2026: https://www.on3.com/transfer-portal/top/softball/2026/\n- NCAA portal window: https://www.nextcommit.ai/blog/ncaa-transfer-portal-windows-2026-27\n- Pipeline history (Arizona/Torres background)\n**Verified Facts:**\n- [HIGH] December portal window: Dec 1-15, 2026 (confirmed from NCAA calendar)\n- [HIGH] Mariah Torres won D1Softball Player of the Year (confirmed from pipeline history/prior articles — was at Arizona, transferred to Texas Tech in June portal)\n- [MEDIUM] OSU's Saylor Davis expected as Day 1 portal entry (3 years eligibility remaining) — from portal tracker, not yet confirmed by Davis publicly\n- [MEDIUM] Kennedy Proctor (Utah) has been linked to portal entry — from pipeline earlier coverage\n- [HIGH] Dead period Dec 8-12 creates ~7-day effective window after portal opens\n- [MEDIUM] Arizona, Ole Miss, Auburn, Texas A&M all competing for top portal pitchers — from prior pipeline research",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Portal tracker (entries/commits)",
+          "url": "https://collegesoftball.app/portal",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "On3 transfer portal wire",
+          "url": "https://www.on3.com/transfer-portal/wire/softball/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Portal top players 2026",
+          "url": "https://www.on3.com/transfer-portal/top/softball/2026/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "NCAA portal window",
+          "url": "https://www.nextcommit.ai/blog/ncaa-transfer-portal-windows-2026-27",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Signing Day Is 4 Days Away — The 2027 Uncommitted Targets",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "4 days until Signing Day.\n\nOklahoma's 2027 class: No. 1 nationally. Williams. Hilliard. Reynolds. All signed.\n\nThe one missing piece? A front-line ace.\n\nVivian Knott — the No. 7 overall recruit — still hasn't decided. Dec 2-4 could be the moment. 🥎",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-signing-day-uncommitted-2027-targets.html",
+        "headline": "Signing Day Is 4 Days Away: The Top Uncommitted 2027 Targets Programs Are Chasing",
+        "word_count": 672
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 6",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Signing Day Preview / Uncommitted Recruits\n**Sources:**\n- Oklahoma 2027 class details: https://www.on3.com/softball/news/top-ranked-outfielder-finlee-williams-commits-to-oklahoma\n- Hutchens reclassification: https://www.si.com/onsi/softball/college/college-softball-no-1-recruit-reclassifies-joins-oklahoma-in-2027\n- Hilliard commit: https://www.on3.com/softball/news/four-star-catcher-riley-hilliard-commits-to-oklahoma\n- Reynolds commit: https://www.on3.com/softball/news/four-star-infielder-emma-reynolds-joins-oklahomas-top-ranked-2027-class\n- Signing window timing: https://commitbound.com/softball/recruiting-calendar\n**Verified Facts:**\n- [HIGH] Fall signing window opens Dec 2, closes Dec 4 (confirmed recruiting calendar)\n- [HIGH] Second signing period: Feb 3, 2027 (confirmed)\n- [HIGH] Oklahoma's committed 2027 class: Finlee Williams (No. 1 outfielder), Riley Hilliard (No. 2 catcher/No. 11 overall), Emma Reynolds (infielder) — confirmed per On3\n- [HIGH] Juliana \"Goose\" Hutchens reclassified to 2026, enrolled this season at OU — confirmed per SI/On3\n- [MEDIUM] Vivian Knott (No. 7 overall 2027) hosted by OU in September — from prior pipeline research\n- [MEDIUM] Second signing period (Feb 3) gives programs a second bite if Dec 2-4 doesn't pan out",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Oklahoma 2027 class details",
+          "url": "https://www.on3.com/softball/news/top-ranked-outfielder-finlee-williams-commits-to-oklahoma",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Hutchens reclassification",
+          "url": "https://www.si.com/onsi/softball/college/college-softball-no-1-recruit-reclassifies-joins-oklahoma-in-2027",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Hilliard commit",
+          "url": "https://www.on3.com/softball/news/four-star-catcher-riley-hilliard-commits-to-oklahoma",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Reynolds commit",
+          "url": "https://www.on3.com/softball/news/four-star-infielder-emma-reynolds-joins-oklahomas-top-ranked-2027-class",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Signing window timing",
+          "url": "https://commitbound.com/softball/recruiting-calendar",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "LSU's December Blueprint — Portal + Signing Day Strategy",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Portal opens Dec 1. Signing Day starts Dec 2. Dead period hits Dec 8.\n\nThat's 7 effective days to reshape a roster.\n\nLSU enters this window with a plan — and the resources to execute it.\n\nDecember is when contenders separate themselves. 🥎",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-lsu-december-blueprint-portal-signing.html",
+        "headline": "LSU's December Blueprint: How a Blue Blood Programs for the Portal Sprint",
+        "word_count": 612
+      },
+      "image_concepts": [
+        {
+          "label": "Image 7",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LSU December Blueprint\n**Sources:**\n- Jayden Heavener portal entry: https://www.si.com/onsi/softball/transfer-portal/2026-college-softball-transfer-portal-rankings-top-10-available-players\n- LSU softball program background (prior pipeline research)\n- Recruiting calendar for timing context: https://readthefield.com/recruiting-calendars/softball\n**Verified Facts:**\n- [HIGH] LSU is a consistent top-5 program nationally\n- [MEDIUM] Jayden Heavener (LSU pitcher): 2.81 ERA, 128 strikeouts, 2 years eligibility — entered June portal, now per On3 tracker committed to [destination unclear from search] — flag for fact-check\n- [MEDIUM] LSU has historically been active in December portal windows\n- [HIGH] Dec 1-15 portal window is the December window — confirmed\n**Note:** Heavener's destination should be verified in fact-check step. Pipeline will note as MEDIUM confidence.",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Jayden Heavener portal entry",
+          "url": "https://www.si.com/onsi/softball/transfer-portal/2026-college-softball-transfer-portal-rankings-top-10-available-players",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Recruiting calendar for timing context",
+          "url": "https://readthefield.com/recruiting-calendars/softball",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Oklahoma's No. 1 Class vs. the Ace Question",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Oklahoma's 2027 class has the No. 1 outfielder. No. 2 catcher. A top-10 infielder.\n\nWhat it doesn't have: an ace.\n\nVivian Knott visits Norman. Kinsley Boulware visits Norman.\n\nSigning Day is 4 days away.\n\nPatty Gasso has never missed on a class. This week, we find out why. 🥎",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-oklahoma-no-1-class-ace-question-signing-day.html",
+        "headline": "Oklahoma's No. 1 Class Has One Missing Piece — Signing Day Could Fill It",
+        "word_count": 654
+      },
+      "image_concepts": [
+        {
+          "label": "Image 8",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 9",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Oklahoma No. 1 Class / Ace Question\n**Sources:**\n- Williams commit: https://www.on3.com/softball/news/top-ranked-outfielder-finlee-williams-commits-to-oklahoma\n- Hilliard commit: https://www.on3.com/softball/news/four-star-catcher-riley-hilliard-commits-to-oklahoma\n- Reynolds commit: https://www.on3.com/softball/news/four-star-infielder-emma-reynolds-joins-oklahomas-top-ranked-2027-class\n- Hutchens reclassification: https://www.si.com/onsi/softball/college/college-softball-no-1-recruit-reclassifies-joins-oklahoma-in-2027\n- Knott visit: from prior pipeline research (hosted Sept 2025)\n- OU prior pipeline history: Kavan 2x WCWS MOP, Wells 39HR NFCA FY\n**Verified Facts:**\n- [HIGH] OU 2027 class currently ranked No. 1 nationally — consistent across On3, Rivals, pipeline history\n- [HIGH] Finlee Williams committed to OU — No. 1-ranked outfielder per Softball America\n- [HIGH] Riley Hilliard committed to OU — No. 11 overall, No. 2 catcher\n- [HIGH] Emma Reynolds committed to OU — 4-star infielder\n- [HIGH] Hutchens reclassified to 2026 class — no longer 2027\n- [MEDIUM] Vivian Knott hosted at OU in September, still uncommitted — from prior pipeline coverage\n- [MEDIUM] Pitcher Kinsley Boulware also hosted, still uncommitted — from prior pipeline coverage",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Williams commit",
+          "url": "https://www.on3.com/softball/news/top-ranked-outfielder-finlee-williams-commits-to-oklahoma",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Hilliard commit",
+          "url": "https://www.on3.com/softball/news/four-star-catcher-riley-hilliard-commits-to-oklahoma",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Reynolds commit",
+          "url": "https://www.on3.com/softball/news/four-star-infielder-emma-reynolds-joins-oklahomas-top-ranked-2027-class",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Hutchens reclassification",
+          "url": "https://www.si.com/onsi/softball/college/college-softball-no-1-recruit-reclassifies-joins-oklahoma-in-2027",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

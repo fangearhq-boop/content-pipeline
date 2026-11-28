@@ -3,6 +3,62 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## Pipeline Run: 2026-11-28
+
+### Story 1: Blackout Day 4 — Contact Resumes Monday, Then the Race Begins
+- **Date:** 2026-11-28
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Day 1 Nov 25, Day 2 Nov 26, Day 3 Nov 27)
+- **Angle:** Day 4 of 5-day blackout. Final 36 hours before contact resumes Monday Nov 30. Portal opens Dec 1 (3 days). Signing Day Dec 2-4. Dead period Dec 8-12.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Nov 30 contact resumes — first calls after blackout
+  - Dec 1 portal Day 1 activity
+
+### Story 2: 3 Days Until Portal — Arizona's Desperation Race for a Pitcher
+- **Date:** 2026-11-28
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Arizona pitching crisis ongoing; portal countdown ongoing)
+- **Angle:** Portal opens in 72 hours. Arizona lost D1Softball POY Mariah Torres to TTU in June and still lacks an ace. OSU's Saylor Davis expected Day 1 (3 years eligibility). Ole Miss, Auburn, Texas A&M competing. 7-day effective window before Dec 8-12 dead period.
+- **Content Produced:** Article (article-02, Emily Rawlings), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Dec 1 portal Day 1 entries
+  - Arizona portal commitment announcement
+  - Saylor Davis destination confirmed
+
+### Story 3: Signing Day Is 4 Days Away — The 2027 Uncommitted Targets
+- **Date:** 2026-11-28
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Dec 2-4 signing window approaching. OU class No. 1 but missing pitcher ace. Vivian Knott (No. 7 overall) still uncommitted. Second period Feb 3. Top programs racing to close final 2027 targets.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Dec 2-4 Signing Day announcements
+  - Vivian Knott commitment destination
+  - Class ranking updates post-signing
+
+### Story 4: LSU's December Blueprint — Portal + Signing Day Strategy
+- **Date:** 2026-11-28
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** LSU enters Dec window with plan to address pitching depth after losing Heavener (2.81 ERA, 128K) in June portal. How blue-blood programs execute the compressed 7-day Dec recruiting sprint.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - LSU portal commitment
+  - LSU Dec 2-4 signing announcements
+
+### Story 5: Oklahoma's No. 1 Class vs. the Ace Question
+- **Date:** 2026-11-28
+- **Tier:** 2
+- **Classification:** FOLLOW UP (OU No. 1 class covered multiple dates)
+- **Angle:** OU class: No. 1 nationally. Williams+Hilliard+Reynolds committed. Missing ace. Vivian Knott+Kinsley Boulware visited but uncommitted. If Gasso lands Knott Dec 2-4, class becomes one of best in modern softball history.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - OU pitcher commitment announcement
+  - Final 2027 class rankings post-signing
+
+---
+
 ## Pipeline Run: 2026-11-27
 
 ### Story 1: Thanksgiving Blackout Day 3 — Silence Across College Softball
