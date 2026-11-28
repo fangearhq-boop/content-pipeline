@@ -1,5 +1,33 @@
 # Golf Fanrecap — Pipeline Status
 
+## Last Run: 2026-11-28
+
+**Status:** COMPLETE (with known proxy limitations)
+**Niche:** Golf Fanrecap
+
+---
+
+### 2026-11-28 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles, image manifest)
+- Step 10: verify-facts.py — 5 stories, 25 claims, HIGH: 47; image manifest warnings (expected; imagn sourcing); 1 tweet over 280 fixed
+- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 0 FB posts (known parsing), 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (22 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy; content-dashboards not in session scope)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via git remote with PAT
+
+**Stories covered:**
+1. T1 FOLLOW UP: Australian PGA R3 — Von Dellingshausen -16 (leads by 3); Noren -13; McKibbin/Aphibarnrat -12; Barron -11 (top-5 amateur); Scott -9; Smith -10; final round Sunday (Ryan Calloway)
+2. T1 FOLLOW UP: PGA Tour hires Brian Rolapp as first-ever CEO; Jay Monahan exits end of 2026; new CEO/Commissioner split structure (Jake Torres)
+3. T2 FOLLOW UP: Australian Open Dec 3-6 at Kingston Heath — McIlroy, Smith, Scott, Min Woo Lee, Theegala, defending champ Neergaard-Petersen (Marcus Cole)
+4. T2 FOLLOW UP: Cameron Smith at -10 entering Australian PGA final round, 6 shots back; LIV comeback narrative; AusOpen next week (Jake Torres)
+5. T3 FOLLOW UP: Adam Scott -9 + amateur Haydn Barron -11 (still top 5 in full pro field) at Australian PGA (Ryan Calloway)
+
+---
+
 ## Last Run: 2026-11-27
 
 **Status:** COMPLETE (with known proxy limitations)

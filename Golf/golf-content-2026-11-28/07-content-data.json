@@ -1,0 +1,253 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-28",
+  "compiled_at": "2026-11-28T11:30:59.211215+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Australian PGA Round 3 — Von Dellingshausen at 16-Under, Three Clear",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "**Window:** 8:00 AM ET\n**Character count:** 207\n\nNicolai Von Dellingshausen leads the BMW Australian PGA Championship at 16-under after R3 at The Lakes in Sydney. Noren is second at 13-under. McKibbin and Aphibarnrat tied at 12-under. Final round Sunday. #GolfAustralia",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfAustralia"
+          ],
+          "char_count": 269
+        },
+        {
+          "label": "Post 1B",
+          "text": "**Window:** 8:30 PM ET\n**Character count:** 194\n\nFinal round Sunday at the Australian PGA. Von Dellingshausen leads by 3 at 16-under. Can Noren, McKibbin or Aphibarnrat close the gap? Amateur Barron is still inside the top 5. #GolfAustralia",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfAustralia"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-australian-pga-r3-von-dellingshausen-leads-16-under.html",
+        "headline": "Von Dellingshausen at 16-Under: German Leads BMW Australian PGA Championship by Three Heading Into Sunday's Final Round",
+        "word_count": 472
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Australian PGA R3 — Von Dellingshausen Leads\n\n#### Image 1A — Social (1080x1350)\n- **search_terms:** \"Nicolai Von Dellingshausen golf\"\n- **dimensions:** 1080x1350\n- **purpose:** social\n\n#### Image 1B — Article Hero (1200x630)\n- **search_terms:** \"Nicolai Von Dellingshausen golf\"\n- **dimensions:** 1200x630\n- **purpose:** article_hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "PGA Tour's First CEO — Brian Rolapp Hired as Jay Monahan Exits",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "**Window:** 10:30 AM ET\n**Character count:** 162\n\nBrian Rolapp hired as the PGA Tour's first-ever CEO. The new role separates business leadership from Tour governance. Jay Monahan steps down at year-end. #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour"
+          ],
+          "char_count": 212
+        },
+        {
+          "label": "Post 2B",
+          "text": "**Window:** 6:00 PM ET\n**Character count:** 193\n\nJay Monahan exits the PGA Tour at the end of 2026. Brian Rolapp comes in as the Tour's first CEO. After the LIV Golf era, the Tour is reorganizing. Worth watching how the new structure plays out. #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-pga-tour-ceo-brian-rolapp-jay-monahan-exit.html",
+        "headline": "PGA Tour Hires Brian Rolapp as Its First CEO: What the New Role Means as Jay Monahan Exits at Year-End",
+        "word_count": 487
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PGA Tour CEO — Brian Rolapp / Jay Monahan\n\n#### Image 2A — Social (1080x1350)\n- **search_terms:** \"Jay Monahan PGA Tour\"\n- **dimensions:** 1080x1350\n- **purpose:** social\n\n#### Image 2B — Article Hero (1200x630)\n- **search_terms:** \"Jay Monahan PGA Tour\"\n- **dimensions:** 1200x630\n- **purpose:** article_hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Australian Open Preview — McIlroy, Smith, Scott Headline Kingston Heath (Dec 3-6)",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "**Window:** 1:00 PM ET\n**Character count:** 196\n\nRory McIlroy heads to Kingston Heath in Melbourne for the Australian Open (Dec 3-6). Smith, Scott, Min Woo Lee and Theegala also in. Sandbelt golf at one of Australia's best courses. #GolfAustralia #AusOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfAustralia",
+            "#AusOpen"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-australian-open-preview-mcilroy-kingston-heath-dec-3-6.html",
+        "headline": "Australian Open Preview: McIlroy Headlines Kingston Heath Field for Dec. 3-6 Stonehaven Cup",
+        "word_count": 453
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Australian Open Preview — McIlroy at Kingston Heath\n\n#### Image 3A — Social (1080x1350)\n- **search_terms:** \"Rory McIlroy golf\"\n- **dimensions:** 1080x1350\n- **purpose:** social\n\n#### Image 3B — Article Hero (1200x630)\n- **search_terms:** \"Rory McIlroy golf\"\n- **dimensions:** 1200x630\n- **purpose:** article_hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Cameron Smith's Final Round Bid at the Australian PGA",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "**Window:** 3:30 PM ET\n**Character count:** 212\n\nCameron Smith enters the final round of the Australian PGA at 10-under — 6 shots off Von Dellingshausen's lead. The four-time Australian PGA champion needs a big Sunday to stay relevant in his PGA Tour comeback. #GolfAustralia",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfAustralia"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-cameron-smith-australian-pga-final-round-pga-tour-return.html",
+        "headline": "Cameron Smith at 10-Under Entering Australian PGA Final Round: What Sunday Means for His PGA Tour Return",
+        "word_count": 500
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cameron Smith Final Round\n\n#### Image 4A — Social (1080x1350)\n- **search_terms:** \"Cameron Smith golf\"\n- **dimensions:** 1080x1350\n- **purpose:** social\n\n#### Image 4B — Article Hero (1200x630)\n- **search_terms:** \"Cameron Smith golf\"\n- **dimensions:** 1200x630\n- **purpose:** article_hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Adam Scott and Haydn Barron — The Australian PGA's Supporting Storylines",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "**Window:** 6:00 PM ET\n**Character count:** 219\n\nAdam Scott is at 9-under through R3 of the Australian PGA. Haydn Barron, the amateur who led after R1, is at 11-under and still inside the top 5 of a full pro field. Australian golf is delivering this week. #GolfAustralia",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfAustralia"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-adam-scott-haydn-barron-australian-pga-r3.html",
+        "headline": "Adam Scott at 9-Under, Haydn Barron Still in the Top Five: The Australian PGA's Supporting Storylines Heading Into Sunday",
+        "word_count": 536
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Adam Scott and Haydn Barron\n\n#### Image 5A — Social (1080x1350)\n- **search_terms:** \"Adam Scott golf\"\n- **dimensions:** 1080x1350\n- **purpose:** social\n\n#### Image 5B — Article Hero (1200x630)\n- **search_terms:** \"Adam Scott golf\"\n- **dimensions:** 1200x630\n- **purpose:** article_hero"
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

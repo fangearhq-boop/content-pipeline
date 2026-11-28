@@ -2,6 +2,45 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-11-28
+
+### STORY 1: Australian PGA R3 — Von Dellingshausen at 16-Under, Leads by Three
+- **Tier:** 1
+- **Category:** BMW Australian PGA Championship / Nicolai Von Dellingshausen / Alexander Noren / Tom McKibbin / Kiradech Aphibarnrat / Haydn Barron / Adam Scott / The Lakes Sydney
+- **Key facts:** Von Dellingshausen -16 after R3, leads by 3 over Noren (-13); McKibbin and Aphibarnrat tied at -12; amateur Barron -11 (top 5 in full pro field); Adam Scott -9; Cameron Smith -10; final round Sunday Nov 29
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: PGA Tour's First CEO — Brian Rolapp Hired as Jay Monahan Exits
+- **Tier:** 1
+- **Category:** PGA Tour / Jay Monahan / Brian Rolapp / PGA Tour CEO / golf governance
+- **Key facts:** Monahan announced June 2025 he would step down end of 2026 (contract expiry); Brian Rolapp hired as PGA Tour's first-ever CEO (newly created role); CEO handles commercial/business operations separate from Tour governance; Rolapp from NFL executive background; LIV Golf collapsed 2026 following PIF withdrawal
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+
+### STORY 3: Australian Open Preview — McIlroy, Smith, Scott Headline Kingston Heath (Dec 3-6)
+- **Tier:** 2
+- **Category:** Australian Open / Rory McIlroy / Kingston Heath / Cameron Smith / Adam Scott / Min Woo Lee / Sahith Theegala / Rasmus Neergaard-Petersen
+- **Key facts:** Dec 3-6 at Kingston Heath Melbourne; McIlroy chasing second Stonehaven Cup; Smith, Scott, Min Woo Lee, Theegala in field; defending champion Neergaard-Petersen; Kingston Heath last hosted AusOpen in 1990
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 4: Cameron Smith's Final Round Bid at the Australian PGA
+- **Tier:** 2
+- **Category:** Cameron Smith / BMW Australian PGA Championship / LIV Golf / DP World Tour / PGA Tour
+- **Key facts:** Smith at -10 entering R4, 6 shots back; R2 included eagle (shot 64); 4× Australian PGA champion; path to PGA Tour = win this event or Australian Open or top DP World Tour order of merit; quote: "That's where I want to be now, for sure"; AusOpen at Kingston Heath next week
+- **Byline:** Jake Torres
+- **Status:** FOLLOW UP
+
+### STORY 5: Adam Scott and Haydn Barron at the Australian PGA
+- **Tier:** 3
+- **Category:** Adam Scott / Haydn Barron / amateur golf / BMW Australian PGA Championship / Australian golf
+- **Key facts:** Scott at -9 through R3; former world No. 1, 2013 Masters champion; Barron (amateur) at -11 through R3, still top 5 in full pro field; Barron led event outright after R1 at -8; DP World Tour co-sanctioned event
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+---
+
 ## 2026-11-27
 
 ### STORY 1: Australian PGA R2 — Von Dellingshausen Leads at -13; Smith Surges to -9
