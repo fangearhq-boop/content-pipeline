@@ -5,7 +5,7 @@
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch extended; 5 stories HIGH/MEDIUM confidence; KEY FACTS: Thanksgiving blackout Day 4 of 5/contact resumes Nov 30/portal opens Dec 1/signing window Dec 2-4/dead period Dec 8-12 HIGH; Arizona lost Torres D1Softball POY to TTU June/no ace yet/OSU Davis expected Day 1 portal 3yr eligibility/Ole Miss+Auburn+TexasAM competing MEDIUM-HIGH; OU No. 1 class 2027: Williams No.1 OF+Hilliard No.2 C+Reynolds committed/Hutchens reclassified 2026/Knott No.7 overall visited uncommitted/Boulware also visited HIGH; LSU lost Heavener 2.81ERA 128K to June portal/blueprint for Dec window MEDIUM; Signing Day Dec 2-4 opens/second period Feb 3 HIGH), brief (5 stories), research notes, story analysis, X posts (6; all verified under 280), FB posts (5 stories), image concepts (9 items), image manifest (9 entries YAML not_started), articles (5; Sarah Mitchell/Emily Rawlings/Jordan Reeves/Sarah Mitchell/Emily Rawlings), fact-check (verify-facts.py ran; 73 claims), compile (content-data.json generated; 5 stories, 6 tweets, 5 articles, 9 images; 21 dashboard items), dashboard (review-dashboard.html generated; 21 items), PostPlanner exports (standard 6 posts + TOBI 6 posts). WordPress publish blocked (403 proxy restriction — known issue). Dashboard push failed (content-dashboards not authorized — known restriction). Story history updated.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction — content-dashboards not authorized)
 - **GitHub Pages Status**: unknown (push failed, known proxy restriction)
-- **Git Push**: PENDING
+- **Git Push**: SUCCESS — pushed to main
 
 ## Pipeline Run: 2026-11-27
 - **Date**: 2026-11-27
