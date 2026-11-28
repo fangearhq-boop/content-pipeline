@@ -1,0 +1,456 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-28",
+  "compiled_at": "2026-11-28T10:23:15.478180+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Jazz Chisholm Jr. to Blue Jays — 1 Year, $20 Million",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "BREAKING: Jazz Chisholm Jr. to the Blue Jays.\n\n1 year. $20 million. Player option for 2028.\n\n41 stolen bases. 19 home runs. No qualifying offer — no draft pick cost.\n\n11+ teams were in. Toronto won. 🔵⚾ #BlueJays",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BlueJays"
+          ],
+          "char_count": 211
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Jazz Chisholm's 1yr/$20M deal with Toronto is team-friendly — but the player option for 2028 is the key.\n\nIf he has a monster year, he opts out and chases a mega-deal. If he struggles, he has a safety net.\n\nBlue Jays get elite upside. Chisholm gets optionality. Win-win. #BlueJays",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BlueJays"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-jazz-chisholm-blue-jays-one-year-twenty-million.html",
+        "headline": "Jazz Chisholm Jr. Lands in Toronto on 1-Year, $20M Deal",
+        "word_count": 574
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jazz Chisholm — Blue Jays Deal\n**Sources:**\n- Yahoo Sports live FA tracker: https://sports.yahoo.com/mlb/live/mlb-free-agency-news-live-updates-best-available-171409867.html\n- MLBTR (Chisholm player option detail): https://www.mlbtraderumors.com/newsstand/page/21\n- Roundtable.io (Blue Jays-Chisholm analysis): https://roundtable.io/sports/mlb/bluejays/news/toronto-blue-jays-free-agency-why-jazz-chisholm-jr-makes-sense\n**Verified Facts:**\n- [HIGH] Jazz Chisholm Jr., Blue Jays: 1yr/$20M deal — confirmed Yahoo Sports live tracker\n- [HIGH] Player option for 2028 season — from MLBTR\n- [HIGH] No qualifying offer on Chisholm — confirmed multiple sources; Blue Jays sacrifice no draft picks\n- [HIGH] 11+ teams were reportedly in discussions — per MLB Network's Jon Paul Morosi (from prior research)\n- [MEDIUM] 41 SB, 19 HR in 2026 — from pipeline history (prior research); verify exact stats\n- [HIGH] Blue Jays had \"productive meeting\" with Chisholm representatives — per prior pipeline research",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Yahoo Sports live FA tracker",
+          "url": "https://sports.yahoo.com/mlb/live/mlb-free-agency-news-live-updates-best-available-171409867.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "MLBTR (Chisholm player option detail)",
+          "url": "https://www.mlbtraderumors.com/newsstand/page/21",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Roundtable.io (Blue Jays-Chisholm analysis)",
+          "url": "https://roundtable.io/sports/mlb/bluejays/news/toronto-blue-jays-free-agency-why-jazz-chisholm-jr-makes-sense",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "72-Hour Countdown — The Last Rush Before the Lockout",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "72 hours until the lockout.\n\nMichael King — 3.21 ERA, 32 starts, declined $28M — still unsigned.\nSeiya Suzuki — still unsigned.\n\nTeams are calling right now. By midnight Tuesday, the market freezes.\n\nThe Hot Stove is at full boil. ⚾",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 232
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The 2021-22 lockout lasted 99 days.\n\nIf this one runs the same, spring training is canceled and the 2027 season is in jeopardy.\n\nMLB filed a lawsuit to protect the lockout. The union called it \"frivolous.\"\n\n72 hours left. No deal in sight. ⚾",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-lockout-countdown-72-hours-king-suzuki.html",
+        "headline": "72 Hours to Lockout: The Last Rush Before Baseball Freezes",
+        "word_count": 635
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "72-Hour Lockout Countdown\n**Sources:**\n- CBS Sports CBA timeline: https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026/\n- MLB files lawsuit: https://ministryofsport.com/mlb-files-federal-lawsuit-to-protect-lockout-as-cba-expires-december-1/\n- Yahoo Sports (MLB-MLBPA negotiations): https://sports.yahoo.com/mlb/articles/mlb-mlbpa-negotiations-dramatic-turn-195347324.html\n- ESPN CBA FAQ: https://www.espn.com/mlb/story/_/id/50370123/lockout-salary-cap-cba-labor-battle-faq\n- Hot Stove tracker: https://sports.yahoo.com/articles/mlb-hot-stove-tracker-live-172657970.html\n**Verified Facts:**\n- [HIGH] CBA expires Dec 1 at 11:59 PM ET — multiple sources confirm\n- [HIGH] Lockout expected Dec 2 — widely reported, management-imposed\n- [HIGH] MLB filed federal antitrust lawsuit in SDNY Nov 25 — confirmed multiple sources\n- [HIGH] MLBPA called suit \"completely frivolous\" — confirmed CBS/Yahoo\n- [HIGH] Michael King: declined Padres $28M option; age 31; 3.21 ERA, 32 starts — from search results\n- [MEDIUM] Seiya Suzuki top remaining position player — per multiple reports; exact stats not confirmed this search\n- [HIGH] $1.7B+ committed by teams in November before lockout — CBS Sports\n- [HIGH] 2021-22 lockout lasted 99 days — confirmed historical record",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "CBS Sports CBA timeline",
+          "url": "https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "MLB files lawsuit",
+          "url": "https://ministryofsport.com/mlb-files-federal-lawsuit-to-protect-lockout-as-cba-expires-december-1/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yahoo Sports (MLB-MLBPA negotiations)",
+          "url": "https://sports.yahoo.com/mlb/articles/mlb-mlbpa-negotiations-dramatic-turn-195347324.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "ESPN CBA FAQ",
+          "url": "https://www.espn.com/mlb/story/_/id/50370123/lockout-salary-cap-cba-labor-battle-faq",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Hot Stove tracker",
+          "url": "https://sports.yahoo.com/articles/mlb-hot-stove-tracker-live-172657970.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Cubs Drop $240 Million in 12 Hours",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "The Cubs just spent $120 million on Trevor Rogers — the 2nd-best lefty on the market — before the lockout freeze.\n\nThat's $240M+ in reported deals in 12 hours for a team that went 74-88 last year.\n\nForget the rebuild. Chicago is spending. ⚾ #Cubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 246
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Trevor Rogers was available because Tarik Skubal's $450M price tag was too high for most teams.\n\nThe Cubs decided the second-best LHP in this class at $120M was a bargain.\n\nThey might be right. The North Side is building something again. ⚾ #Cubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-cubs-trevor-rogers-240-million-spending-spree.html",
+        "headline": "Cubs Spend $240M in 12 Hours — Trevor Rogers Headlines Aggressive Push",
+        "word_count": 554
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 6",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs $240M Spending Spree\n**Sources:**\n- NBC Sports (Cubs/Rogers interest confirmed): https://www.nbcsports.com/fantasy/baseball/player-news/2026-11-16/sharma-cubs-interested-in-trevor-rogers\n- Bleacher Nation (Cubs offseason): https://www.bleachernation.com/cubs/2026/11/03/mlb-lockout-free-agency/\n- MLB Hot Stove tracker: https://sports.yahoo.com/articles/mlb-hot-stove-tracker-live-172657970.html\n- TL;DR Daily News (pre-lockout rush): https://tldrdailynews.com/news/sports/sports/mlb-teams-race-to-sign-top-free-agents-before-dec-1-lockout-deadline-uiwhbd0jyq\n**Verified Facts:**\n- [HIGH] Trevor Rogers: 5yr/$120M, Cubs — confirmed from Hot Stove tracker\n- [MEDIUM] Total Cubs spending: $240M+ in 12 hours — from one source; verify second deal\n- [HIGH] Rogers considered 2nd-best LHP on market behind Skubal — per multiple analyst reports\n- [HIGH] Cubs 74-88 in 2026 season — from prior pipeline research\n- [HIGH] Cubs previously acquired Dylan Cease this offseason (now Blue Jays after Cease left per FOX) — from search\n- [MEDIUM] Second Cubs deal (possible Sato-related): from one tracker source; needs confirmation",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "NBC Sports (Cubs/Rogers interest confirmed)",
+          "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-11-16/sharma-cubs-interested-in-trevor-rogers",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Bleacher Nation (Cubs offseason)",
+          "url": "https://www.bleachernation.com/cubs/2026/11/03/mlb-lockout-free-agency/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "MLB Hot Stove tracker",
+          "url": "https://sports.yahoo.com/articles/mlb-hot-stove-tracker-live-172657970.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "TL;DR Daily News (pre-lockout rush)",
+          "url": "https://tldrdailynews.com/news/sports/sports/mlb-teams-race-to-sign-top-free-agents-before-dec-1-lockout-deadline-uiwhbd0jyq",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "White Sox Sign Dustin May — $52.5M Signals Rebuild End",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The White Sox just signed Dustin May to a 3-year, $52.5M deal.\n\nThe White Sox. The team with 100-loss seasons. Spending $52.5M on a starter.\n\nThat's not rebuild language. That's contention language.\n\nThe South Side is awake. ⚾ #WhiteSox",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-white-sox-dustin-may-rebuild-ends.html",
+        "headline": "White Sox Sign Dustin May for $52.5M — The Rebuild Phase Is Over",
+        "word_count": 517
+      },
+      "image_concepts": [
+        {
+          "label": "Image 7",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "White Sox / Dustin May\n**Sources:**\n- MLB Hot Stove tracker: https://sports.yahoo.com/articles/mlb-hot-stove-tracker-live-172657970.html\n- TL;DR (pre-lockout signings): https://tldrdailynews.com/news/sports/sports/mlb-teams-race-to-sign-top-free-agents-before-dec-1-lockout-deadline-uiwhbd0jyq\n**Verified Facts:**\n- [HIGH] Dustin May: 3yr/$52.5M, White Sox — confirmed from Hot Stove tracker\n- [MEDIUM] Former Dodger with two Tommy John surgeries — from public baseball knowledge; verify exact Tommy John count\n- [HIGH] White Sox have had multiple 100+ loss seasons during rebuild — confirmed from baseball history",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "MLB Hot Stove tracker",
+          "url": "https://sports.yahoo.com/articles/mlb-hot-stove-tracker-live-172657970.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "TL;DR (pre-lockout signings)",
+          "url": "https://tldrdailynews.com/news/sports/sports/mlb-teams-race-to-sign-top-free-agents-before-dec-1-lockout-deadline-uiwhbd0jyq",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "What Survives the Freeze — Players Still Unsigned When Dec. 2 Hits",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The lockout hits in 72 hours. Here's who'll still be on the board:\n\n🟡 Michael King — top SP available\n🟡 Seiya Suzuki — top position player\n🟡 Randy Arozarena — elite OF still waiting\n\nThey all go on ice Dec. 2. No deals until a new CBA is signed. ⚾",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-who-survives-freeze-king-suzuki-arozarena.html",
+        "headline": "Who's Still Unsigned When the Freeze Hits? The Hot Stove's Leftovers",
+        "word_count": 710
+      },
+      "image_concepts": [
+        {
+          "label": "Image 8",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Unsigned Players Entering the Freeze\n**Sources:**\n- MLB Hot Stove tracker: https://sports.yahoo.com/articles/mlb-hot-stove-tracker-live-172657970.html\n- ESPN CBA FAQ: https://www.espn.com/mlb/story/_/id/50370123/lockout-salary-cap-cba-labor-battle-faq\n- CBS lockout timeline: https://www.cbssports.com/mlb/news/mlb-lockout-timeline-of-cba-negotiations-between-mlbpa-and-owners-with-leagues-deadline-looming\n**Verified Facts:**\n- [HIGH] Lockout stops all transactions: no signings, trades, or minor league deals — confirmed lockout rules\n- [HIGH] Michael King: declined $28M Padres option, age 31, 3.21 ERA, 32 starts — from tracker\n- [HIGH] Seiya Suzuki: unsigned entering lockout period — from tracker\n- [MEDIUM] Randy Arozarena: unsigned — from prior pipeline research ($15.65M Mariners declined)\n- [HIGH] 2021 lockout lasted 99 days — historical fact confirmed\n- [HIGH] 2027 OD approximately March 25 — confirmed; 115+ day buffer before games threatened\n- [HIGH] Teams committed $1.7B+ in November — CBS Sports",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "MLB Hot Stove tracker",
+          "url": "https://sports.yahoo.com/articles/mlb-hot-stove-tracker-live-172657970.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "ESPN CBA FAQ",
+          "url": "https://www.espn.com/mlb/story/_/id/50370123/lockout-salary-cap-cba-labor-battle-faq",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "CBS lockout timeline",
+          "url": "https://www.cbssports.com/mlb/news/mlb-lockout-timeline-of-cba-negotiations-between-mlbpa-and-owners-with-leagues-deadline-looming",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

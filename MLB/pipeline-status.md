@@ -1,6 +1,11 @@
 # Ballpark Banter Pipeline Status
 
-
+## Pipeline Run: 2026-11-28
+- **Date**: 2026-11-28
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch extended; 5 stories HIGH/MEDIUM confidence; KEY FACTS: Chisholm Blue Jays 1yr/$20M + player option 2028/no QO/11+ teams/41SB 19HR HIGH; CBA expires Dec1 11:59PM/lockout Dec2/MLB federal lawsuit SDNY Nov25/"frivolous" MLBPA/King 3.21ERA 32 starts declined $28M/Suzuki top remaining position player/$1.7B+ committed November HIGH; Cubs Trevor Rogers 5yr/$120M + second deal $240M+ 12 hours/74-88 record/Rogers 2nd best LHP after Skubal HIGH; White Sox Dustin May 3yr/$52.5M/rebuild ends HIGH; Arozarena declined $15.65M Mariners/2021 lockout 99 days/2027 OD March 25 115-day buffer HIGH), brief (5 stories), research notes, story analysis, X posts (8; all verified under 280), FB posts (5 stories), image concepts (8 items), image manifest (8 entries YAML not_started), articles (5; Jake Torres/Ryan Calloway/Marcus Cole/Jake Torres/Ryan Calloway), fact-check (verify-facts.py ran; 36 claims; 60 HIGH), compile (content-data.json generated; 5 stories, 8 tweets, 5 articles, 8 images; 23 dashboard items), dashboard (review-dashboard.html generated; 23 items), PostPlanner exports (standard 8 posts + TOBI 8 posts). WordPress publish blocked (403 proxy restriction — known issue). Dashboard push failed (content-dashboards not authorized — known restriction). Story history updated.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (push failed, proxy known restriction — content-dashboards not authorized)
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Git Push**: PENDING
 
 ## Pipeline Run: 2026-11-27
 - **Date**: 2026-11-27

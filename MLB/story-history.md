@@ -5,6 +5,65 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## November 28, 2026
+
+### Story 1: Jazz Chisholm Jr. to Blue Jays — 1 Year, $20M
+- **Date:** 2026-11-28
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Chisholm agrees 1yr/$20M + player option 2028. No QO = no draft pick cost. 11+ teams were in. Toronto wins. 41 SB, 19 HR in 2026.
+- **Content Produced:** Article (article-01, Jake Torres), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Physical clearance / press conference
+  - Blue Jays lineup projection
+  - Chisholm 2027 performance
+
+### Story 2: 72-Hour Countdown — Last Rush Before Lockout
+- **Date:** 2026-11-28
+- **Tier:** 1
+- **Classification:** FOLLOW UP (CBA countdown since Nov 25; MLB lawsuit Nov 25-27)
+- **Angle:** Dec 1 CBA expiry 72 hours away. Teams sprint to close deals. Michael King (3.21 ERA, 32 starts, declined $28M QO) and Seiya Suzuki top unsigned players. $1.7B+ committed in November. 2021 lockout lasted 99 days.
+- **Content Produced:** Article (article-02, Ryan Calloway), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Dec 1 final-hour signings
+  - Dec 2 lockout confirmed/averted
+  - King and Suzuki destinations
+
+### Story 3: Cubs Drop $240M in 12 Hours — Trevor Rogers $120M Headlines
+- **Date:** 2026-11-28
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Cubs sign Trevor Rogers 5yr/$120M + second deal totaling $240M+ in 12 hours. Cubs went 74-88 in 2026. Rebuild acceleration signal. 2nd-best LHP after Skubal.
+- **Content Produced:** Article (article-03, Marcus Cole), 2 X posts, FB long-form + caption, 2 image concepts
+- **Follow-Up Opportunities:**
+  - Second Cubs deal confirmation
+  - Rotation projection (Cease + Rogers)
+  - NL Central outlook
+
+### Story 4: White Sox Sign Dustin May — 3yr/$52.5M, Rebuild Phase Ends
+- **Date:** 2026-11-28
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** CWS sign May 3yr/$52.5M ($17.5M AAV). Former Dodger with elite stuff, two TJ surgeries. First major pitching investment in years. Signals end of rebuild.
+- **Content Produced:** Article (article-04, Jake Torres), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Additional CWS moves
+  - May spring training status
+  - AL Central outlook
+
+### Story 5: Who Survives the Freeze — King, Suzuki, Arozarena Still Unsigned
+- **Date:** 2026-11-28
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Hot Stove overview)
+- **Angle:** Roundup of top players still unsigned entering Dec 2 lockout. King (best remaining SP), Suzuki (top position player), Arozarena (declined $15.65M Mariners option). 2021 template: 99 days frozen. 2027 OD ~March 25 = 115-day buffer.
+- **Content Produced:** Article (article-05, Ryan Calloway), 1 X post, FB long-form + caption, 1 image concept
+- **Follow-Up Opportunities:**
+  - Dec 2 lockout confirmed
+  - First post-lockout signing
+  - King/Suzuki/Arozarena resolution
+
+---
+
 ## November 27, 2026
 
 ### Story 1: CBA Countdown — 4 Days Until the Lockout
