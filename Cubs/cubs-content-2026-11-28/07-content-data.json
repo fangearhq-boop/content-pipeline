@@ -1,0 +1,366 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-28",
+  "compiled_at": "2026-11-28T09:21:20.475045+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "1:15 PM",
+      "description": "STORY 1: Hiromi Itoh agreed terms",
+      "type": "Informative / breaking (Tier 1)"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "STORY 2: Rogers now official",
+      "type": "Confirmation / analysis (Tier 1)"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "STORY 3: 2027 rotation breakdown",
+      "type": "Stat breakdown (Tier 2)"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "STORY 4: CBA 3 days / Phoenix",
+      "type": "Bold take / urgency (Tier 2)"
+    },
+    {
+      "time": "9:30 PM",
+      "description": "STORY 5: Nightly recap longform",
+      "type": "Recap digest (Tier 1 recap)"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Hiromi Itoh — Cubs Agreed Terms (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "The Cubs agreed to terms with Hiromi Itoh — Japan's best pitcher in 2025.\n\nSawamura Award winner. 3.18 ERA, 172.2 IP, only 34 walks in 2026. Pending physical. Terms not yet disclosed.\n\nRogers. Sato. Itoh. Hoyer has REBUILT this rotation before the lockout.\n\n#Cubs",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "AP (via Click2Houston, Nov 27)",
+          "url": "https://www.click2houston.com/sports/2026/11/27/cubs-agree-to-contract-with-japanese-pitcher-hiromi-itoh-ap-source-says/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "ESPN (Nov 27)",
+          "url": "https://www.espn.com/mlb/story/_/id/50618251/cubs-agree-terms-japanese-pitcher-hiromi-itoh",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "MLB.com (Nov 27)",
+          "url": "https://www.mlb.com/news/hiromi-itoh-deal-cubs",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "NBC Sports (Nov 27)",
+          "url": "https://www.nbcsports.com/mlb/news/report-cubs-agree-to-contract-with-japanese-pitcher-hiromi-itoh",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yahoo Sports (Nov 27)",
+          "url": "https://sports.yahoo.com/mlb/article/japanese-ace-hiromi-itoh-cubs-reportedly-agree-to-free-agent-contract-041247354.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Bleacher Nation (Nov 27)",
+          "url": "https://www.bleachernation.com/cubs/2026/11/27/breaking-cubs-signing-japanese-righty-hiromi-itoh/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Bleed Cubbie Blue (Nov 27)",
+          "url": "https://bleedcubbieblue.com/chicago-cubs-news/238310/cubs-to-sign-npb-right-hander-hiromi-itoh",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yardbarker",
+          "url": "https://www.yardbarker.com/mlb/articles/cubs_rotation_overhaul_continues_with_hiromi_itoh_deal/s1_13132_44629079",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Trevor Rogers — Now Official (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Trevor Rogers passed his physical Friday. The 5-year, $120 million deal is now OFFICIAL.\n\nThe lefty went 2.90 ERA over his final 20 starts in 2026, throwing 121 innings. He's the anchor this rotation needed.\n\nThree days until the lockout. Good timing, Jed.\n\n#Cubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "MLB Trade Rumors (Nov 27)",
+          "url": "https://www.mlbtraderumors.com/2026/11/cubs-to-sign-trevor-rogers.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "NBC Chicago",
+          "url": "https://www.nbcchicago.com/news/local/chicago-cubs-trevor-rogers-agree-to-blockbuster-five-year-deal-reports/4020913/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yardbarker",
+          "url": "https://www.yardbarker.com/mlb/articles/what_trevor_rogers_means_for_the_cubs_the_290_finish_the_120_million_price_and_the_arms_still_needed/s1_17668_44618687",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "2027 Rotation — Where It Stands Now (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Where the Cubs 2027 rotation stands — right now, post-Itoh:\n\nLOCKED IN\n▸ Rogers (5yr/$120M — official)\n▸ Itoh (agreed, pending physical)\n▸ Javier Assad\n\nRETURNING MID-2027\n▸ Steele · Horton · Ben Brown\n\nThat's SIX starters. All before the lockout even closes.\n\n#Cubs",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "Fox 32 Chicago",
+          "url": "https://www.fox32chicago.com/sports/how-new-chicago-cubs-pitcher-trevor-rogers-establishes-groundwork-2027-rotation",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mlb/articles/where-cubs-stand-week-signings-150000986.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yardbarker",
+          "url": "https://www.yardbarker.com/mlb/articles/whats_the_cubs_plan_for_their_2027_starting_rotation/s1_17194_44605604",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "BVM Sports",
+          "url": "https://bvmsports.com/2026/11/23/cubs-2027-rotation-plan-free-agents-trade-targets-and-steele/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "CBA 3 Days — Phoenix Last-Ditch Push (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Three days until the lockout.\n\nMLB and MLBPA meet face-to-face in Phoenix today and Sunday. Owners want a salary cap and floor. The union says they haven't added a dollar in pay. No deal expected — lockout hits Tuesday.\n\nCubs beat the clock: Rogers, Sato, Itoh all agreed.\n\n#Cubs",
+          "posting_time": "8:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": [
+        {
+          "name": "CBS Sports",
+          "url": "https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "NBC Sports",
+          "url": "https://www.nbcsports.com/mlb/news/major-league-baseball-sues-players-union-ahead-of-lockout-trying-to-block-possible-antitrust-suit",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mlb/articles/major-league-baseball-sues-players-013655773.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "BVM Sports (Nov 26)",
+          "url": "https://bvmsports.com/2026/11/26/mlb-cba-negotiations-latest-proposals-from-mlb-and-mlbpa/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Bleacher Report",
+          "url": "https://bleacherreport.com/articles/25537322-mlbpa-responds-mlbs-latest-salary-cap-proposal-cba-talks-lockout-looming",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Yahoo Sports (Thanksgiving)",
+          "url": "https://sports.yahoo.com/mlb/articles/mlbpa-skewers-commissioner-rob-manfred-185233866.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Nightly Recap Longform — \"In case you missed\" (Tier 1 recap)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "In case you missed Cubs news today:\n\n> ⚾ Cubs agreed to terms with Hiromi Itoh\n   - The 29-year-old Nippon Ham righty won the Sawamura Award in 2025 as Japan's best pitcher\n   - 3.18 ERA, 172.2 innings, just 34 walks in 2026 — exceptional command for a starter\n   - Pending physical; terms have not been disclosed\n   - Expected to slot as the No. 4 or No. 5 in the 2027 rotation\n\n> ✅ Trevor Rogers 5yr/$120M is now OFFICIAL\n   - Passed his physical Friday; Bob Nightengale confirmed the deal is complete\n   - Posted a 2.90 ERA with 119 strikeouts over his final 20 starts (121 IP) in 2026\n   - Strongest run of pitching in his career; rejected Baltimore's $23.15M qualifying offer\n\n> 📋 The Cubs' 2027 rotation through today: Rogers · Itoh · Assad · Steele (TJ rehab) · Horton (mid-2027) · Ben Brown (first half)\n\n> ⚠️ CBA expires Tuesday. MLB and MLBPA meet in Phoenix this weekend in a last-ditch push\n   - Owners want a salary cap and floor; union says MLB hasn't added a dollar in pay\n   - Lockout hits at 11:59 PM ET on Tuesday, December 1\n\n> 🔄 Michael King (12-10, 3.26 ERA) is still unsigned — Cubs and Mets remain in the mix\n\nOne of these every night. Follow for the daily Cubs recap.\n\n#Cubs",
+          "posting_time": "9:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs"
+          ],
+          "char_count": 1198
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [
+      "Story 5, Post 5: 1198 chars (over 280 limit)"
+    ],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

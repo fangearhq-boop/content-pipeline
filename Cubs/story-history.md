@@ -10447,3 +10447,47 @@ Each day's stories are appended at the top (newest first).
 - **Follow-Up Opportunities:**
   - King/Itoh signed → rotation complete, Hoyer's work done
   - Happ signs elsewhere → OF depth analysis
+
+---
+
+## 2026-11-28 — Saturday, Off Day
+
+### STORY 1: Hiromi Itoh — Cubs Agreed Terms
+- **Angle:** NEW STORY — AP/ESPN/MLB.com (Nov 27): Cubs agreed to terms with 29yo Nippon Ham RHP; Sawamura Award 2025 (Japan's best pitcher); 3.18 ERA, 172.2 IP, 34 walks in 2026; pending physical; terms not disclosed
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT)
+- **Follow-Up Opportunities:**
+  - Itoh physical passes → confirmation post
+  - Terms disclosed → contract value post
+
+### STORY 2: Trevor Rogers — Now Official
+- **Angle:** FOLLOW UP — Nightengale (X, Nov 27): Rogers passed physical; 5yr/$120M now OFFICIAL; 2.90 ERA over final 20 starts (121 IP, 119 K in 2026); rotation anchor confirmed before lockout
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT)
+- **Follow-Up Opportunities:**
+  - Opening Day rotation announcement
+  - Rogers spring training preview
+
+### STORY 3: 2027 Rotation — Where It Stands Now
+- **Angle:** NEW ANGLE — First post-Itoh full rotation breakdown; LOCKED IN: Rogers, Itoh, Assad; RETURNING MID-2027: Steele (TJ), Horton (TJ), Ben Brown (spine); SIX starters before lockout closes
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT)
+- **Follow-Up Opportunities:**
+  - King signs with Cubs → 7th starter angle
+  - Horton/Steele spring timeline update
+
+### STORY 4: CBA Phoenix / 3 Days
+- **Angle:** FOLLOW UP — CBS Sports: MLB/MLBPA meet face-to-face Phoenix Sat/Sun; CBA expires 11:59 PM ET Dec 1; owners want cap+floor; union says no new dollar in pay; lockout expected Tuesday; Cubs beat clock with Rogers+Sato+Itoh all agreed
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:00 PM CT)
+- **Follow-Up Opportunities:**
+  - Deal reached → "no lockout" breaking post
+  - Lockout hits → Day 1 lockout status post
+
+### STORY 5: Nightly Recap Longform
+- **Angle:** RECAP LONGFORM — Full digest: Itoh agreed terms, Rogers official, 2027 rotation breakdown, CBA 3 days, Michael King still unsigned; highest-performing content type (recap_longform WINNER, delta=0.908, median 10,721 impressions)
+- **Tier:** 1 (recap)
+- **Content Type:** recap_longform (X Premium long post, ~1,200 chars)
+- **Content Produced:** X Text Post (1 post — 9:30 PM CT)
+- **Follow-Up Opportunities:**
+  - Continue nightly recap series through lockout
