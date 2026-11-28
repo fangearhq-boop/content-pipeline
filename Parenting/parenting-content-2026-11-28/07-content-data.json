@@ -1,0 +1,391 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-28",
+  "compiled_at": "2026-11-28T12:18:55.429581+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CPSC Issues Multiple Children's Pajama Recalls This Month — Holiday Shoppers Take Note",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "CPSC alert: Several children's pajama brands recalled this month for failing fire safety standards. Qpancy, Mallimoda, Black Sheep Fam among them. Check cpsc.gov/Recalls before gifting kids' sleepwear. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 261
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Holiday shopping with kids in mind: Qpancy pajamas ($20, Amazon, March–Aug 2026) recalled for burn hazard. Stop use immediately — cut in half and email photo for a full refund. Full recall at cpsc.gov. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-cpsc-holiday-pajama-recalls-november-2026.html",
+        "headline": "Holiday Pajama Alert: Multiple Children's Sleepwear Brands Recalled for Fire Hazard",
+        "word_count": 676
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CPSC Pajama Recall Wave\n\n**Image Concept 1:**\n- **Prompt:** A close-up overhead shot of neatly folded, colorful children's pajamas arranged on a soft white surface. Warm, clean lighting. Pastel tones — soft blue, pink, and yellow fabrics. Clean visual space in the bottom third for text overlay. Art style: lifestyle photography feel, no text, no labels, no brand identifiers. Mood: attentive, safety-aware.\n- **Dimensions:** 1200x675 (X/Twitter), 1200x630 (Facebook)\n\n**Image Concept 2:**\n- **Prompt:** A parent's hands holding a small folded pair of kids' pajamas over a wooden surface. Soft natural window light from the left side. Warm, domestic setting. No text, no watermarks. Clean lower third. Art style: editorial lifestyle. Mood: thoughtful, careful.\n- **Dimensions:** 1200x675 (X/Twitter)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CPSC Holiday Pajama Recall Wave — November 2026\n**Key Facts:**\n- Qpancy recalls children's pajama sets (recall #27-094) — burn hazard, violates mandatory federal flammability standards — HIGH (cpsc.gov)\n- Qpancy pajamas sold on Amazon.com from March 2026 through August 2026 — HIGH (cpsc.gov)\n- Qpancy price: approximately $20 — HIGH (cpsc.gov)\n- Qpancy seller: Shanghai Shengkailong Trading Co., Ltd., dba Qpancy — HIGH (cpsc.gov)\n- Qpancy remedy: stop use immediately, cut pajamas in half, email photo to company for full refund — HIGH (cpsc.gov)\n- No incidents or injuries reported for Qpancy recall — HIGH (cpsc.gov)\n- Mallimoda children's pajama sets also recalled in 2026 — burn hazard, violates mandatory standards, sold on Amazon — HIGH (cpsc.gov URL)\n- Black Sheep Fam recalls children's pajamas — burn hazard, violates mandatory flammability standards — HIGH (cpsc.gov URL)\n- Veseacky pajama sets recalled in 2026 — burn hazard, violates mandatory standards — HIGH (cpsc.gov URL)\n- SHEIN toy sets recalled November 12, 2026 — approximately 265,000 units — consumers told to stop use and seek refund — HIGH (CPSC, prior search result)\n- Parents can check the full recall list at cpsc.gov/Recalls — HIGH (cpsc.gov)\n- Children's sleepwear must meet mandatory flammability standards (either flame-resistant fabric or snug-fitting design) — HIGH (federal law, cpsc.gov context)\n**Sources:**\n- CPSC Qpancy recall: https://cpsc.gov/Recalls/2027/Qpancy-Recalls-Childrens-Pajama-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violate-Mandatory-Standards-for-Childrens-Sleepwear\n- CPSC Mallimoda recall: https://www.cpsc.gov/Recalls/2026/Mallimoda-Childrens-Pajama-Sets-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violates-Mandatory-Standards-for-Childrens-Sleepwear-Sold-on-Amazon-by-Mallimoda\n- CPSC Black Sheep Fam recall: https://cpsc.gov/Recalls/2026/The-Black-Sheep-Fam-Recalls-Childrens-Pajamas-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violates-Mandatory-Flammability-Standards-for-Childrens-Sleepwear\n- CPSC recalls main page: https://cpsc.gov/en/Recalls/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "CPSC Qpancy recall",
+          "url": "https://cpsc.gov/Recalls/2027/Qpancy-Recalls-Childrens-Pajama-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violate-Mandatory-Standards-for-Childrens-Sleepwear",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "CPSC Mallimoda recall",
+          "url": "https://www.cpsc.gov/Recalls/2026/Mallimoda-Childrens-Pajama-Sets-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violates-Mandatory-Standards-for-Childrens-Sleepwear-Sold-on-Amazon-by-Mallimoda",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "CPSC Black Sheep Fam recall",
+          "url": "https://cpsc.gov/Recalls/2026/The-Black-Sheep-Fam-Recalls-Childrens-Pajamas-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violates-Mandatory-Flammability-Standards-for-Childrens-Sleepwear",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "CPSC recalls main page",
+          "url": "https://cpsc.gov/en/Recalls/",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "articles/article-01-cpsc-holiday-pajama-recalls-november-2026.html"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Your Colorado Springs December Holiday Events Guide",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "COS December events roundup for families:\n\n🎪 Festival of Lights Family Fun Day (Dec 5, free, Pioneers Museum)\n🦒 CMZ Electric Safari (Dec 2–Jan 1, closed Dec 24)\n🤠 Flying W Ranch (Dec 3–23)\n\nFull guide → #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-colorado-springs-december-holiday-events-2026.html",
+        "headline": "Your Colorado Springs December Holiday Events Guide for Families",
+        "word_count": 693
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Colorado Springs December Holiday Events Guide\n\n**Image Concept 1:**\n- **Prompt:** A family silhouette walking along a festively lit downtown street at dusk in a mountain city. Warm string lights on buildings and trees. Slight snow dusting on the ground. Mountains visible in the background. No faces visible. No text, no watermarks. Clean lower third. Art style: cinematic lifestyle photo, warm holiday atmosphere. Color palette: deep blue sky, warm amber lights, white snow accents.\n- **Dimensions:** 1200x675 (X/Twitter), 1200x630 (Facebook)\n\n**Image Concept 2:**\n- **Prompt:** A close-up of two children's hands holding paper cups of hot cocoa near festive lights. Soft bokeh holiday lights in the background, out of focus. Warm tones, cozy feeling. No text, no watermarks. Clean lower third. Art style: editorial lifestyle photography.\n- **Dimensions:** 1200x675 (X/Twitter)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Colorado Springs December Holiday Events Guide\n**Key Facts:**\n- Festival of Lights Family Fun Day at Colorado Springs Pioneers Museum (CSPM) — December 5, 2026, 10 a.m. to 2 p.m., FREE — HIGH (cspm.org, visitcos.com)\n- Festival of Lights Parade — December 5, 2026, 5:50 p.m., Downtown Colorado Springs on Tejon Street — HIGH (coloradospringsfestivaloflights.com, visitcos.com)\n- Cheyenne Mountain Zoo Electric Safari — December 2 through December 23, December 25 through January 1, 2027 — HIGH (cmzoo.org alerts)\n- Electric Safari CLOSED December 24 — HIGH (cmzoo.org)\n- Electric Safari general public entry: 5:00 p.m. — HIGH (cmzoo.org)\n- Electric Safari members entry: 4:00 p.m. — HIGH (cmzoo.org)\n- Electric Safari tickets: advance timed e-tickets required; free for Zoo members (members still need reserved tickets) — HIGH (cmzoo.org)\n- Christmas at Flying W Ranch — December 3 through December 23, 2026 — HIGH (visitcos.com)\n- North Pole — Santa's Workshop: open through December 24, closed Tuesdays and Wednesdays (except holiday weeks) — HIGH (visitcos.com search result)\n- Children's Chorale holiday show — December 6, 2026, 2 p.m., Pikes Peak Center, $26 — HIGH (visitcos.com search result)\n- Youth Symphony Holiday Pops — December 5, 2026, Pikes Peak Center — HIGH (visitcos.com search result)\n- Gazette: Colorado Springs holiday events guide — https://gazette.com/2026/11/10/colorado-springs-and-beyond-holiday-events/\n**Sources:**\n- CSPM Festival of Lights Family Fun Day: https://www.cspm.org/events/festival-of-lights-family-fun-day/\n- Festival of Lights Parade (official site): https://www.coloradospringsfestivaloflights.com/?p=22\n- Cheyenne Mountain Zoo Electric Safari: https://www.cmzoo.org/events-programs/special-events/electric-safari/\n- Visit COS holiday events: https://www.visitcos.com/events/holidays/christmas/\n- Gazette holiday events guide 2026: https://gazette.com/2026/11/10/colorado-springs-and-beyond-holiday-events/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Colorado Springs holiday events guide",
+          "url": "https://gazette.com/2026/11/10/colorado-springs-and-beyond-holiday-events/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Gazette"
+        },
+        {
+          "name": "CSPM Festival of Lights Family Fun Day",
+          "url": "https://www.cspm.org/events/festival-of-lights-family-fun-day/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md",
+            "articles/article-02-colorado-springs-december-holiday-events-2026.html"
+          ]
+        },
+        {
+          "name": "Festival of Lights Parade (official site)",
+          "url": "https://www.coloradospringsfestivaloflights.com/?p=22",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Cheyenne Mountain Zoo Electric Safari",
+          "url": "https://www.cmzoo.org/events-programs/special-events/electric-safari/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md",
+            "articles/article-02-colorado-springs-december-holiday-events-2026.html"
+          ]
+        },
+        {
+          "name": "Visit COS holiday events",
+          "url": "https://www.visitcos.com/events/holidays/christmas/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "D49 One Year After Teacher Cuts: What COS Families Need to Know",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "D49 cut 12 teaching positions in Feb 2026 — far fewer than the ~100 projected. Nine months into the school year, what does the district look like for families? #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-d49-teacher-cuts-one-year-later.html",
+        "headline": "D49 Nine Months After Its Teacher Cuts: What Colorado Springs Families Are Seeing Now",
+        "word_count": 621
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D49 Teacher Cuts Follow-Up\n\n**Image Concept 1:**\n- **Prompt:** An empty elementary school classroom with organized desks, colorful posters on bulletin boards, afternoon light coming through tall windows. No people visible. Clean, slightly somber but still hopeful mood. No text, no watermarks. Clean lower third. Art style: editorial documentary photography. Color palette: warm classroom yellows, natural light.\n- **Dimensions:** 1200x675 (X/Twitter), 1200x630 (Facebook)\n\n**Image Concept 2:**\n- **Prompt:** A close-up of a teacher's empty desk with a coffee mug, notebooks, and a small plant, natural window light. Warm tones. No people, no text, no watermarks. Clean lower third. Mood: thoughtful, professional.\n- **Dimensions:** 1200x675 (X/Twitter)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D49 One Year After Teacher Cuts\n**Key Facts:**\n- D49 declared fiscal exigency in January 2026 and eliminated 12 teaching positions in February 2026 — HIGH (RMPBS, Gazette)\n- 12 cuts were far fewer than the ~100 positions originally projected — HIGH (RMPBS report)\n- D49 became the largest school district in El Paso County by enrollment as of January 2025 — HIGH (Gazette)\n- D49 teacher layoffs were finalized in early 2026 — HIGH (confirmed in prior research)\n- D49 fiscal exigency was declared in a board vote approximately one month before the layoffs — HIGH (RMPBS context)\n- School year 2026-27 is now underway — HIGH (calendar fact)\n**Sources:**\n- RMPBS: D49 teacher cuts Colorado Springs — https://www.rmpbs.org/news/distric-49-teacher-cuts-colorado-springs\n- Gazette: D49 becomes largest district in El Paso County — https://gazette.com/2025/01/15/d-49-becomes-largest-school-district-in-el-paso-county-d-11-sees-big-drop-state-enrollment-data/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "D49 teacher cuts Colorado Springs",
+          "url": "https://www.rmpbs.org/news/distric-49-teacher-cuts-colorado-springs",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "RMPBS"
+        },
+        {
+          "name": "D49 becomes largest district in El Paso County",
+          "url": "https://gazette.com/2025/01/15/d-49-becomes-largest-school-district-in-el-paso-county-d-11-sees-big-drop-state-enrollment-data/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Gazette"
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "The AAP's New AI Guidance: What It Means for Your Pediatric Appointments",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The AAP just published guidance on AI in pediatric care (Nov 2026 Pediatrics). Your child's doctor may be using AI tools — here's what the AAP says about oversight and equity in kids' healthcare. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-aap-ai-guidance-pediatric-care-families.html",
+        "headline": "The AAP's New AI Guidance: What It Means for Your Child's Pediatric Care",
+        "word_count": 690
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AAP AI Guidance\n\n**Image Concept 1:**\n- **Prompt:** A pediatrician's office consultation scene from behind, showing a parent and young child sitting across from a doctor who is gesturing at a tablet screen. Soft clinical lighting, warm and welcoming. No faces visible from behind. No text, no watermarks. Clean lower third. Art style: editorial healthcare photography. Color palette: clean whites, warm skin tones, soft teal accents.\n- **Dimensions:** 1200x675 (X/Twitter), 1200x630 (Facebook)\n\n**Image Concept 2:**\n- **Prompt:** A close-up of a healthcare tablet screen showing abstract blue data visualization elements (no readable text) on a desk in a pediatric office, with a stethoscope and toy beside it. Bright, clinical but welcoming lighting. No text, no watermarks. Clean lower third. Art style: editorial tech-meets-healthcare photography.\n- **Dimensions:** 1200x675 (X/Twitter)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AAP AI Guidance in Pediatric Care\n**Key Facts:**\n- American Academy of Pediatrics published policy statement on safe, equitable use of generative AI in pediatric clinical care — HIGH (aap.org, EurekAlert)\n- Published in November 2026 issue of Pediatrics — HIGH (aap.org news release)\n- Statement presented at AAP National Conference and Exhibition in San Diego, October 3, 2026 — HIGH (aap.org)\n- AAP calls for tools built for pediatric care rather than adapted from adult models — HIGH (aap.org)\n- AAP says there will be a need for rigorous human oversight and accountability — HIGH (aap.org)\n- Statement addresses concerns about equitable access to AI-enhanced care — HIGH (aap.org)\n- Parents can discuss AI use with their pediatricians — MEDIUM (practical guidance inference)\n**Sources:**\n- AAP news release on AI guidance: https://www.aap.org/en/news-room/news-releases/aap/2026/american-academy-of-pediatrics-provides-guidance-on-safe-equitable-and-effective-use-of-generative-artificial-intelligence-for-clinicians/\n- EurekAlert: AAP AI guidance news release — https://www.eurekalert.org/news-releases/1145212",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "AAP news release on AI guidance",
+          "url": "https://www.aap.org/en/news-room/news-releases/aap/2026/american-academy-of-pediatrics-provides-guidance-on-safe-equitable-and-effective-use-of-generative-artificial-intelligence-for-clinicians/",
+          "official": true,
+          "found_in": [
+            "01-research-notes.md",
+            "articles/article-04-aap-ai-guidance-pediatric-care-families.html"
+          ]
+        },
+        {
+          "name": "AAP AI guidance news release",
+          "url": "https://www.eurekalert.org/news-releases/1145212",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "EurekAlert"
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "The Thanksgiving Weekend Reset — Surviving Post-Holiday Saturday With Kids in COS",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Leftovers: check. Restless kids: check. One more day before the week starts: check.\n\nHere's how COS parents are surviving post-Thanksgiving Saturday. You've got this. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-post-thanksgiving-saturday-kids-cos.html",
+        "headline": "The Day After Thanksgiving: A COS Parent's Guide to Post-Holiday Saturday",
+        "word_count": 658
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Post-Thanksgiving Saturday\n\n**Image Concept 1:**\n- **Prompt:** Two young children in coats and hats exploring an autumn/early winter mountain park trail, with snow-dusted peaks visible in the distance. Bright midday light. Golden afternoon grass, blue sky with scattered clouds. No faces visible (shot from behind). No text, no watermarks. Clean lower third. Art style: outdoor lifestyle photography, Colorado Rockies setting. Mood: playful, adventurous.\n- **Dimensions:** 1200x675 (X/Twitter), 1200x630 (Facebook)\n\n**Image Concept 2:**\n- **Prompt:** A cozy living room scene: a family of blanket lumps on a large couch, a dog asleep on the floor, leftover holiday pie on the coffee table, afternoon light streaming through a window. No faces visible. Warm tones, slightly humorous. No text, no watermarks. Clean lower third. Art style: editorial lifestyle, warm domestic scene.\n- **Dimensions:** 1200x675 (X/Twitter)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Post-Thanksgiving Weekend With Kids in COS\n**Key Facts:**\n- Thanksgiving is November 27, 2026 — HIGH (calendar)\n- Saturday November 28 is the day after Thanksgiving — HIGH (calendar)\n- Colorado Springs parks system is open year-round — HIGH (city context)\n- Bear Creek Regional Park is a COS family favorite — MEDIUM (local knowledge)\n- Multiple local coffee shops and play areas open during Thanksgiving weekend — MEDIUM (general local context)\n- Cheyenne Mountain Zoo Electric Safari opens December 2 (not yet open today) — HIGH (cmzoo.org)\n- Thanksgiving weekend is one of the busiest travel weekends of the year — HIGH (general knowledge)\n**Sources:**\n- (Evergreen/humor story — no official source required per CLAUDE.md guidance)",
+        "sources": ""
+      },
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

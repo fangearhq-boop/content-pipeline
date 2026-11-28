@@ -1,6 +1,36 @@
 # COS Parenting — Pipeline Status
 
-## Current Run: 2026-11-27
+## Current Run: 2026-11-28
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | CPSC multiple children's pajama recalls November 2026 (Qpancy #27-094 ~1,309 units Amazon Mar–Aug 2026, SHEIN toy sets Nov 12 ~265K units) — HIGH; COS December holiday events (Cheyenne Mountain Zoo Electric Safari Dec 2–Jan 1, Family Fun Day CSPM Dec 5, Christmas at Flying W Ranch Dec 3–23, Children's Chorale Dec 6 Pikes Peak Center $26, Festival of Lights Dec 5 5:50 PM) — HIGH; D49 teacher cuts one year later (February 2026 eliminated 12 positions after January 2026 fiscal exigency, far fewer than 100 projected) — HIGH; AAP new AI guidance for pediatric care (November 2026 Pediatrics, Oct 2026 NCE San Diego) — HIGH; Post-Thanksgiving Saturday with kids in COS (Cheyenne Mountain Zoo, Garden of the Gods, free activities) — MEDIUM |
+| Story History Check | COMPLETE | S1 NEW (CPSC pajama recalls — distinct from prior recall coverage; multiple brands this month); S2 NEW (December events guide — first December 2026 events roundup for Parenting); S3 NEW (D49 teacher cuts one year later — distinct from Nov 27 D11 boundary changes; different district, different issue); S4 NEW (AAP AI guidance — distinct from Nov 22 S4 AAP AI guidance for pediatricians; this is updated Nov 2026 guidance); S5 NEW (Post-Thanksgiving Saturday — no prior post-Turkey Day Saturday content this season) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 T1, 3 T2, 1 T3); bylines: Jamie Rivera [S1, S4, S5], Sarah Morales [S2, S3]; Saturday; Weekend Roundup is a Thursday-only requirement — not needed today |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; cpsc.gov official URL for S1; cmzoo.org, cspm.org for S2; aap.org, eurekalert.org for S4; source URLs included for all factual stories |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, MT posting windows (8 AM, 10 AM, 12 PM, 3 PM, 5 PM), 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 6 posts across 5 stories (2 for S1, 1 each for S2-S5); all ≤280 chars; 4 hashtags each (#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting); 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; contractions; 0 exclamation marks; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only concepts (2 per story); clean bottom third; no celebrity likenesses; brand kit kAHCKfCZgk0 |
+| Articles (5) | COMPLETE | article-01 CPSC pajama recalls (Jamie Rivera T1 ~600w, quick reference table); article-02 December holiday events guide (Sarah Morales T2 ~600w, quick reference table); article-03 D49 teacher cuts one year later (Sarah Morales T2 ~600w); article-04 AAP AI guidance for families (Jamie Rivera T2 ~700w, quick reference table); article-05 post-Thanksgiving Saturday COS (Jamie Rivera T3 ~600w) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 67 claims; image not_started warnings (expected); no char limit violations |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 0 FB posts (pre-existing format mismatch), 5 articles, 5 images; posting window warnings (pre-existing) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, gemini base_only, brand kit kAHCKfCZgk0 |
+| Review Dashboard | COMPLETE | review-dashboard.html — 21 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | cosp-postplanner-2026-11-28.xlsx (16 posts) + cosp-postplanner-tobi-2026-11-28.xlsx (11 TOBI posts) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 28 section prepended to Parenting/story-history.md |
+
+- **Stories:** 5 stories (1 Tier 1, 3 Tier 2, 1 Tier 3)
+- **Posts:** 6 X posts + 5 FB long-form + 5 FB image captions
+- **Articles:** 5 (bylines: Jamie Rivera [S1, S4, S5], Sarah Morales [S2, S3])
+- **Key stories:** CPSC children's pajama recalls November 2026 (Qpancy ~1,309 units Amazon, SHEIN toy sets ~265K units); Colorado Springs December holiday events guide (Electric Safari, CSPM Family Fun Day, Flying W Ranch, Children's Chorale, Festival of Lights); D49 teacher cuts one year later (12 positions cut Feb 2026, fewer than 100 projected); AAP new AI guidance for pediatric care (Nov 2026 Pediatrics); Post-Thanksgiving Saturday with kids in COS
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); PostPlanner FB=0 compiled (pre-existing format mismatch); Saturday = no Weekend Roundup required
+
+---
+
+## Previous Run: 2026-11-27
 
 | Step | Status | Notes |
 |------|--------|-------|

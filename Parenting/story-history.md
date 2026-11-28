@@ -2,6 +2,50 @@
 
 ---
 
+## November 28, 2026
+
+### Story 1: CPSC Holiday Pajama Recall Wave — Multiple November 2026 Children's Sleepwear Recalls
+- **Date:** 2026-11-28
+- **Tier:** T1
+- **Pillar:** National Parenting
+- **Key Facts:** Qpancy recall #27-094 (Amazon Mar–Aug 2026, ~$20, burn hazard, cut in half + email photo for refund, no injuries); Mallimoda recalled 2026 (Amazon, burn hazard); Black Sheep Fam recalled 2026 (burn hazard); Veseacky recalled 2026 (burn hazard); SHEIN toy sets recalled Nov 12 (~265,000 units); federal law requires flame-resistant or snug-fitting kids' sleepwear; check cpsc.gov/Recalls
+- **Byline:** Jamie Rivera
+- **Status:** FOLLOW-UP (2026-11-27 S1 was broader toy safety; this is focused on the pajama recall wave with specific brands and remedies)
+
+### Story 2: Colorado Springs December Holiday Events Guide 2026
+- **Date:** 2026-11-28
+- **Tier:** T2
+- **Pillar:** Local Events
+- **Key Facts:** Festival of Lights Family Fun Day Dec 5 10am–2pm FREE at CSPM; Festival of Lights Parade Dec 5 5:50pm Tejon St downtown; CMZ Electric Safari Dec 2–Jan 1 2027 (closed Dec 24), general public 5pm, members 4pm, advance tickets required, free for members; Christmas at Flying W Ranch Dec 3–23; North Pole/Santa's Workshop through Dec 24 (closed Tue/Wed except holiday weeks); Children's Chorale Dec 6 2pm Pikes Peak Center $26
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY (broader December guide; 2026-11-27 S2 was Christkindlmarket only)
+
+### Story 3: D49 Nine Months After Teacher Cuts — What COS Families Are Seeing
+- **Date:** 2026-11-28
+- **Tier:** T2
+- **Pillar:** Local News
+- **Key Facts:** Fiscal exigency declared January 2026; 12 positions cut February 2026 (vs ~100 projected); D49 is largest district in El Paso County; 2026-27 school year underway; next budget cycle begins early 2027; board meetings open to public
+- **Byline:** Sarah Morales
+- **Status:** NEW STORY (distinct from 2026-11-27 S4 D11 boundary changes — different district, different issue)
+
+### Story 4: AAP Guidance on AI in Pediatric Care — What COS Parents Need to Know
+- **Date:** 2026-11-28
+- **Tier:** T2
+- **Pillar:** National Parenting
+- **Key Facts:** AAP policy statement in November 2026 Pediatrics; presented at AAP National Conference San Diego Oct 3 2026; AI tools need to be built for pediatric care (not adapted from adult); rigorous human oversight required; equitable access for all patients; parents can ask their pediatrician about AI tool oversight
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY
+
+### Story 5: Post-Thanksgiving Saturday Recovery Guide for COS Families
+- **Date:** 2026-11-28
+- **Tier:** T3
+- **Pillar:** Humor/Evergreen
+- **Key Facts:** Bear Creek Regional Park and Red Rocks Open Space are free year-round; CMZ Electric Safari opens Dec 2 (not yet open today); local coffee shops open; Christmas decorations a family project option
+- **Byline:** Jamie Rivera
+- **Status:** NEW STORY (seasonal/evergreen)
+
+---
+
 ## November 27, 2026
 
 ### Story 1: Black Friday Toy Shopping — What COS Parents Need to Check Before Hitting "Buy"
