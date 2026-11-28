@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-11-28
+
+### STORY 1: Qatar GP Qualifying Tonight — Antonelli Fastest in Both Practice Sessions
+- **Tier:** 1
+- **Category:** Qatar Grand Prix / Kimi Antonelli / Mercedes / FP2 Results / Qualifying Preview
+- **Key facts:** FP1 Antonelli fastest by 0.507s over Russell; FP2 Antonelli 1:23.077, Russell P2 (0.127s), Norris P3, Piastri P4, Verstappen P5; qualifying 18:00 GMT tonight; race Sunday 16:00 GMT; 57-lap race
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 2: Hamilton's Last Stand — 37 Points Down With 50 Available
+- **Tier:** 1
+- **Category:** Lewis Hamilton / Max Verstappen / Ferrari / Red Bull / P2 Championship Battle
+- **Key facts:** Verstappen 304 pts (P2); Hamilton 267 pts (P3); 50 pts available in final 2 races; Hamilton needs +37 swing in remaining races; Verstappen P5 in FP2
+- **Byline:** Marcus Cole
+- **Status:** FOLLOW UP
+
+### STORY 3: Perez Starts Five Places Back From Qualifying Grid
+- **Tier:** 2
+- **Category:** Sergio Perez / Red Bull / Qatar Grand Prix / Grid Penalty
+- **Key facts:** Perez -5 grid penalty; FIA found Perez fully responsible for Las Vegas Camara incident; mandatory 2-stop strategy adds complexity; must start 5 places back from qualifying result
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
+### STORY 4: Mandatory 2-Stop Strategy at Qatar
+- **Tier:** 2
+- **Category:** Qatar Grand Prix / Race Strategy / Pirelli / Tyres
+- **Key facts:** Pirelli 27-lap maximum tyre stint; 57-lap race; forces 2 pit stops minimum; no single-stop possible; undercut/overcut opportunities; safety car key variable
+- **Byline:** Ryan Calloway
+- **Status:** FOLLOW UP
+
+### STORY 5: Russell vs Norris P4 Battle — Dead Even at 264 Points
+- **Tier:** 3
+- **Category:** George Russell / Lando Norris / Mercedes / McLaren / P4 Championship Fight
+- **Key facts:** Russell 264 pts = Norris 264 pts; FP2 Russell P2, Norris P3; 50 pts available; P4 final standings battle goes to wire
+- **Byline:** Elena Voss
+- **Status:** FOLLOW UP
+
 ## 2026-11-26
 
 ### STORY 1: 2027 F1 Grid Complete — Bearman at Haas, Bottas at Cadillac, 22/22 Seats Filled

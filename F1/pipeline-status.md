@@ -1,8 +1,29 @@
 # F1 Fanrecap — Pipeline Status
 
-## Last Run: 2026-11-27
+## Last Run: 2026-11-28
 
 **Status:** COMPLETE (with known proxy limitations)
+
+---
+
+### 2026-11-28 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles, image manifest)
+- Step 10: verify-facts.py — 5 stories, 25 claims, HIGH: 37; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 7 tweets, 5 FB posts, 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (27 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy; content-dashboards not in session scope)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via git remote with PAT
+
+**Stories covered:**
+1. T1 FOLLOW UP: Qatar GP qualifying tonight — Antonelli fastest FP1/FP2 (1:23.077); Russell P2, Norris P3, Verstappen P5; quali 18:00 GMT (Ryan Calloway)
+2. T1 FOLLOW UP: Hamilton's last stand — 37 pts down on Verstappen, 50 available; near-perfection required (Marcus Cole)
+3. T2 FOLLOW UP: Perez -5 grid penalty; Qatar race start 5 places back; mandatory 2-stop adds complexity (Elena Voss)
+4. T2 FOLLOW UP: Mandatory 2-stop strategy at Qatar — Pirelli 27-lap limit, 57-lap race; undercut/overcut scenarios (Ryan Calloway)
+5. T3 FOLLOW UP: Russell vs Norris dead even at 264 pts; FP2 Russell P2/Norris P3; P4 battle goes to wire (Elena Voss)
 
 ---
 

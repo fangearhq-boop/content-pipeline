@@ -1,0 +1,311 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-28",
+  "compiled_at": "2026-11-28T11:21:52.885727+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Qatar GP Qualifying Tonight — Antonelli Fastest in Both Practice Sessions",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "**Window:** 8:00 AM ET\n**Character count:** 189\n\nAntonelli topped BOTH FP1 and FP2 at Lusail. FP2: 1:23.077. Russell 0.127s back. Norris P3. Verstappen P5. The champion is quickest heading into qualifying tonight (18:00 GMT). #F1 #QatarGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#QatarGP"
+          ],
+          "char_count": 238
+        },
+        {
+          "label": "Post 1B",
+          "text": "**Window:** 12:00 PM ET\n**Character count:** 177\n\nQatar GP qualifying starts at 18:00 GMT. Antonelli fastest in practice. The championship fight for P2 and P4 is on the line this weekend. Who takes pole? #QatarGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#QatarGP",
+            "#F1"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "**Window:** 8:00 AM ET\n\nQatar GP qualifying is tonight — and the practice sessions gave us a clear picture of who's quickest at Lusail.\n\nKimi Antonelli topped BOTH FP1 and FP2. In FP2, the 2026 champion set a 1:23.077, with George Russell 0.127 seconds behind in second, Lando Norris third, Oscar Piastri fourth, and Max Verstappen fifth.\n\nAntonelli fastest on a circuit where he's already looked dominant. The question now is whether the qualifying order reflects the practice positions or whether someone finds a tenth somewhere in Q3.\n\nQualifying is at 18:00 GMT tonight. Race is Sunday at 16:00 GMT.\n\nWho do you think takes pole? 👇\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-qatar-gp-qualifying-preview-antonelli-fp2.html",
+        "headline": "Qatar GP Qualifying Tonight: Antonelli Tops FP1 and FP2 at Lusail as Championship Climax Approaches",
+        "word_count": 639
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 2,
+      "title": "Hamilton's Last Stand — 37 Points Down on Verstappen With 50 Available",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "**Window:** 10:00 AM ET\n**Character count:** 185\n\nHamilton is 37 points behind Verstappen with 50 available. That's it. Two races. Near-perfection required. It starts tonight in qualifying at Lusail. #F1 #QatarGP #LH44",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#QatarGP",
+            "#LH44"
+          ],
+          "char_count": 218
+        },
+        {
+          "label": "Post 2B",
+          "text": "**Window:** 2:00 PM ET\n**Character count:** 171\n\nVerstappen just needs to protect the gap. 37 points. 2 races. Hamilton has to outscore him by an average of 18.5 pts per race. The final push is on. #F1 #QatarGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#QatarGP"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "**Window:** 9:00 AM ET\n\nThis is it. Hamilton's final two-race push to overhaul Verstappen for the P2 championship position.\n\nThe numbers: Verstappen leads 304-267. That's a 37-point gap with just 50 points remaining across Qatar and Abu Dhabi. Hamilton needs to outscore Verstappen by roughly 19 points per race — a task that requires near-perfection from him and meaningful trouble for Verstappen.\n\nVerstappen looked P5 in FP2 at Lusail, which offers Hamilton some optimism. But Verstappen has a habit of turning up when it counts. He won Las Vegas three consecutive times. He doesn't do vulnerability well.\n\nCan Hamilton pull it off? The answer comes in the next 48 hours in qualifying and Sunday's race.\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-hamilton-verstappen-p2-championship-qatar.html",
+        "headline": "Hamilton's Last Stand: 37 Points Down on Verstappen With Just 50 Left Across Qatar and Abu Dhabi",
+        "word_count": 655
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 3,
+      "title": "Perez Starts Five Places Back From Qualifying Grid — Qatar Penalty Impact",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "**Window:** 10:00 AM ET\n**Character count:** 180\n\nWherever Perez qualifies tonight, he starts the race five places further back. FIA held him fully responsible for the Las Vegas Camara crash. Mandatory 2 stops already waiting. Tough weekend ahead. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "**Window:** 10:00 AM ET\n\nSergio Perez's Qatar Grand Prix just got significantly harder before he's even turned a wheel in qualifying.\n\nThe five-place grid penalty from the Las Vegas Camara incident will be applied to his race start — meaning whatever position he qualifies tonight, he starts the race five places back. For a driver already struggling for form, it's a significant handicap.\n\nAdd in the mandatory 2-stop strategy (Pirelli's 27-lap tyre limit in a 57-lap race) and Perez has a lot of ground to make up under the best circumstances. The Red Bull machinery can be quick, but navigating from deep on the grid through the opening lap chaos at Lusail is a challenge even a veteran struggles with.\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-perez-five-place-grid-penalty-qatar.html",
+        "headline": "Perez Starts Five Places Back: How the Grid Penalty Complicates an Already Difficult Qatar Weekend",
+        "word_count": 595
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 4,
+      "title": "Mandatory 2-Stop Strategy at Qatar — What the Pirelli Tyre Limit Means",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "**Window:** 12:00 PM ET\n**Character count:** 188\n\nPirelli's 27-lap tyre limit at Qatar means everyone pits TWICE in the 57-lap race. No single-stop strategy. Undercut, overcut, safety car chaos — it's all in play Sunday. #QatarGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#QatarGP",
+            "#F1"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "**Window:** 11:00 AM ET\n\nThe 2026 Qatar Grand Prix is going to be a strategy puzzle — and the first piece is already locked in.\n\nPirelli has set a 27-lap maximum tyre stint for Lusail, and the race runs 57 laps. That means every car must make at least two pit stops. No exceptions. The single-stop gamble teams sometimes try to pull off at other circuits is off the table here.\n\nThis creates an open strategy canvas where the timing of those two stops becomes everything. An early safety car can flip the entire race. A well-timed overcut can gain two or three places without a single on-track overtake. Teams with strong pit crew execution and good in-race adaptability will have the edge.\n\nFor the championship battle, the mandatory 2-stop adds another variable. A slower pit stop, a close call in the box, a tire that doesn't come up to temperature — all of it matters more than usual.\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-qatar-mandatory-two-stop-strategy.html",
+        "headline": "Qatar's Mandatory 2-Stop: What the Pirelli Tyre Limit Means for Sunday's Race Strategy",
+        "word_count": 732
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    },
+    {
+      "story_num": 5,
+      "title": "Russell vs Norris — P4 Championship Battle Goes to Qatar",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "**Window:** 8:00 PM ET\n**Character count:** 169\n\nRussell 264 pts. Norris 264 pts. DEAD EVEN entering Qatar with 2 races left. FP2: Russell P2, Norris P3. This P4 championship fight has been incredible. #F1 #QatarGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#QatarGP"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "**Window:** 7:00 PM ET\n\n264 points each.\n\nGeorge Russell and Lando Norris head into qualifying night at Lusail exactly level on points. In FP2 on Friday, Russell went P2 and Norris P3 — separated by a few hundredths of a second in practice, separated by nothing in the standings.\n\nFifty points remain across Qatar and Abu Dhabi. The team that scores more of them wins P4 in the 2026 championship. For both Russell at Mercedes and Norris at McLaren, it's a source of genuine pride — a final ranking that signals who performed better in a season already defined by Antonelli's historic championship run.\n\nWatch these two closely this weekend. Neither can afford to give an inch.\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-russell-norris-p4-championship-qatar.html",
+        "headline": "Russell and Norris Enter Qatar Dead Even at 264 Points: The P4 Battle That Won't Be Decided Until Abu Dhabi",
+        "word_count": 606
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null,
+      "sources": []
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
