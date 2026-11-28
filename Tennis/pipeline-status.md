@@ -1,6 +1,36 @@
 # Tennis Fanrecap — Pipeline Status
 
-## Current Run: 2026-11-27
+## Current Run: 2026-11-28
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Italy beat CZE 2-1 (Musetti singles+doubles) — HIGH; Spain vs GB SF today preview — HIGH; Musetti hero performance — HIGH; DC Final Sunday preview — HIGH; GB's journey to SF — HIGH |
+| Story History Check | COMPLETE | S1 FOLLOW-UP (2026-11-27 S1: Italy vs CZE preview → result); S2 FOLLOW-UP (2026-11-27 S2: Spain vs GB Saturday preview → day-of preview); S3 NEW ANGLE (Musetti singles+doubles same day); S4 NEW ANGLE (Final preview); S5 NEW ANGLE (GB's full journey analysis) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 T1, 3 T2); bylines: Marcus Cole [S1,S4], Elena Voss [S2,S5], Ryan Calloway [S3] |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags; multiple confirmed sources |
+| Story Analysis | COMPLETE | 02-story-analysis.md — tier assignments, ET posting windows, 3 headline options per story |
+| X/Twitter Posts | COMPLETE | 03-social-posts-x.md — 7 posts across 5 stories; all ≤280 chars |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 imagn concepts across 5 stories; player-name-only search terms |
+| Articles (5) | COMPLETE | article-01 Italy beats CZE (Marcus Cole T1 ~600w); article-02 Spain vs GB SF preview (Elena Voss T1 ~550w); article-03 Musetti hero (Ryan Calloway T2 ~550w); article-04 DC Final preview (Marcus Cole T2 ~600w); article-05 GB's journey (Elena Voss T2 ~580w) |
+| Fact-Check | COMPLETE | 06-fact-check-log.md — 31 claims; image warnings expected (not_started) |
+| Compile Content Data | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (pre-existing format mismatch), 5 articles, 5 images |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 entries, all not_started, imagn source |
+| Review Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| Publish Dashboard | BLOCKED | content-dashboards repo not in authorized session set — proxy 403 (known recurring issue) |
+| PostPlanner Export | COMPLETE | tfr-postplanner-2026-11-28.xlsx (17 posts: 7 X + 10 FB) + tfr-postplanner-tobi-2026-11-28.xlsx (12 TOBI posts) |
+| WordPress Publish | BLOCKED | fanrumor.com:443 proxy 403 (known recurring issue); articles ready as drafts |
+| Story History | COMPLETE | Nov 28 section prepended to Tennis/story-history.md |
+
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB image captions
+- **Articles:** 5 (bylines: Marcus Cole [S1,S4], Elena Voss [S2,S5], Ryan Calloway [S3])
+- **Key stories:** Italy beats Czech Republic 2-1 (Musetti singles+doubles); Spain vs GB SF TODAY; Musetti hero performance; Davis Cup Final Sunday preview; GB's journey analysis
+- **Issues:** WordPress proxy 403 (known); dashboard push proxy 403 (known); posting window format mismatch (pre-existing); FB=0 in compile (pre-existing)
+
+---
+
+## Previous Run: 2026-11-27
 
 | Step | Status | Notes |
 |------|--------|-------|

@@ -1,0 +1,400 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-11-28",
+  "compiled_at": "2026-11-28T12:18:48.341636+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Italy Beats Czech Republic 2-1 to Reach Fourth Consecutive Davis Cup Final",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "ITALY ARE THROUGH. Musetti beats Mensik 6-3, 6-4. Lehecka levels. Then Musetti comes BACK for doubles with Vavassori to win the decider.\n\nItaly are in their fourth consecutive Davis Cup final. Without Sinner. What a squad. #DavisCup #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DavisCup",
+            "#Tennis"
+          ],
+          "char_count": 240
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Lorenzo Musetti yesterday in Bologna:\n\n✅ Beat Mensik 6-3, 6-4 in singles\n✅ Partnered Vavassori to win the decisive doubles\n\nItaly into their 4th straight Davis Cup final. Musetti's week has been something special. #DavisCup #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DavisCup",
+            "#Tennis"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-italy-beats-czech-republic-fourth-davis-cup-final.html",
+        "headline": "Italy Beat Czech Republic 2-1 to Reach Fourth Consecutive Davis Cup Final",
+        "word_count": 646
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Italy Beats Czech Republic 2-1\n\n**Image Concept 1:**\n- **Imagn Search Term:** Lorenzo Musetti Italy\n- **Description:** Lorenzo Musetti celebrating or in action during Davis Cup play in Bologna\n- **Social Dimensions:** 1080x1350 (social), 1200x630 (article hero)\n\n**Image Concept 2:**\n- **Imagn Search Term:** Andrea Vavassori Italy\n- **Description:** Andrea Vavassori in doubles action\n- **Social Dimensions:** 1080x1350 (social)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Italy Beats Czech Republic 2-1 — Davis Cup Semifinal Result\n**Key Facts:**\n- Italy beat Czech Republic 2-1 in the Davis Cup Finals semifinal on Friday, November 27, 2026, in Bologna — HIGH (La Voce di New York, Kuwait Times, Sunday Guardian Live)\n- Rubber 1: Lorenzo Musetti beat Jakub Mensik 6-3, 6-4 — HIGH (Kuwait Times, Sunday Guardian)\n- Rubber 1 duration: 1 hour 26 minutes — HIGH (Kuwait Times)\n- Rubber 2: Jiri Lehecka beat Flavio Cobolli 6-2, 1-6, 6-3 — HIGH (Sunday Guardian)\n- Rubber 3 (Doubles, decisive): Lorenzo Musetti and Andrea Vavassori won the deciding doubles — HIGH (La Voce di New York, Kuwait Times)\n- Italy advance to their fourth consecutive Davis Cup final — HIGH (multiple sources)\n- Italy are three-time defending champions — HIGH (confirmed multiple prior sessions)\n- Sunday final will be played on November 29, 2026, in Bologna — HIGH (daviscup.com)\n- Jannik Sinner absent from Italy squad (knee injury, tonsil surgery) — HIGH (confirmed multiple prior sessions)\n- Italy squad includes Musetti, Cobolli, Berrettini, Vavassori — HIGH (confirmed prior sessions)\n- This would be Italy's 5th Davis Cup title overall if they win on Sunday — MEDIUM (Wikipedia)\n**Sources:**\n- La Voce di New York: Italy reaches fourth consecutive Davis Cup final — https://lavocedinewyork.com/en/sports/2026/11/28/italy-reaches-fourth-consecutive-davis-cup-final/\n- Kuwait Times: Musetti double sends Italy into 4th straight Davis Cup final — https://kuwaittimes.com/article/54494/sports/musetti-double-sends-italy-into-4th-straight-davis-cup-final/\n- Sunday Guardian Live: Davis Cup 2026 Results: Defending Champions Italy Beat Czech Republic 2-1 — https://sundayguardianlive.com/sports/davis-cup-2026-results-defending-champions-italy-beat-czech-republic-2-1-to-reach-fourth-consecutive-final-328922/\n- Arab News: Italy taken to decider again in Davis Cup semifinal — https://www.arabnews.com/tennis/italy-taken-to-decider-again-in-davis-cup-semifinal-3014315",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Italy reaches fourth consecutive Davis Cup final",
+          "url": "https://lavocedinewyork.com/en/sports/2026/11/28/italy-reaches-fourth-consecutive-davis-cup-final/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "La Voce di New York"
+        },
+        {
+          "name": "Musetti double sends Italy into 4th straight Davis Cup final",
+          "url": "https://kuwaittimes.com/article/54494/sports/musetti-double-sends-italy-into-4th-straight-davis-cup-final/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Kuwait Times"
+        },
+        {
+          "name": "Davis Cup 2026 Results: Defending Champions Italy Beat Czech Republic 2-1",
+          "url": "https://sundayguardianlive.com/sports/davis-cup-2026-results-defending-champions-italy-beat-czech-republic-2-1-to-reach-fourth-consecutive-final-328922/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Sunday Guardian Live"
+        },
+        {
+          "name": "Italy taken to decider again in Davis Cup semifinal",
+          "url": "https://www.arabnews.com/tennis/italy-taken-to-decider-again-in-davis-cup-semifinal-3014315",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Arab News"
+        }
+      ]
+    },
+    {
+      "story_num": 2,
+      "title": "Spain vs Great Britain — Davis Cup Semifinal TODAY",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "SEMIFINAL DAY. Spain vs Great Britain in Bologna — TODAY.\n\nSpain beat Austria 2-0 without Alcaraz. GB beat the world No. 1 Zverev.\n\nAlcaraz may return. Fery is ready for anything. This one could be a classic. #DavisCup #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DavisCup",
+            "#Tennis"
+          ],
+          "char_count": 226
+        },
+        {
+          "label": "Post 2-2",
+          "text": "If Spain win today, it's a rematch of the 2025 Davis Cup final — Italy beat Spain 2-0 that night in Bologna.\n\nIf Great Britain win, it would be their first Davis Cup final since 1937.\n\nThe stakes in today's semifinal are enormous. #DavisCup #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DavisCup",
+            "#Tennis"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-spain-great-britain-davis-cup-semifinal-preview.html",
+        "headline": "Spain vs Great Britain: Davis Cup Semifinal Preview — Can Fery and GB Reach the Final?",
+        "word_count": 635
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Spain vs Great Britain TODAY\n\n**Image Concept 1:**\n- **Imagn Search Term:** Carlos Alcaraz Spain\n- **Description:** Carlos Alcaraz in Davis Cup or ATP competition\n- **Social Dimensions:** 1080x1350 (social), 1200x630 (article hero)\n\n**Image Concept 2:**\n- **Imagn Search Term:** Arthur Fery Great Britain\n- **Description:** Arthur Fery in Davis Cup play\n- **Social Dimensions:** 1080x1350 (social)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Spain vs Great Britain — Davis Cup Semifinal TODAY\n**Key Facts:**\n- Spain vs Great Britain scheduled for Saturday, November 28, 2026, in Bologna — HIGH (daviscup.com, Wikipedia)\n- As of search time, tie listed as \"To be played\" — no result available — HIGH (daviscup.com live)\n- Spain beat Austria 2-0 in quarterfinal without Carlos Alcaraz (thigh concern) — HIGH (ESPN, Yahoo Sports)\n- Spain's quarterfinal scorers: Rafael Jodar and Daniel Merida — HIGH (confirmed Nov 27 research)\n- Great Britain beat Germany 2-1 in quarterfinal — HIGH (confirmed Nov 27 research)\n- Arthur Fery beat Alexander Zverev (year-end ATP No. 1) in quarterfinal — HIGH (LTA, confirmed)\n- Cameron Norrie beat Jan-Lennard Struff — HIGH (LTA, confirmed)\n- Neal Skupski and Henry Patten won the doubles rubber — HIGH (confirmed)\n- Carlos Alcaraz may return for Spain's singles today — MEDIUM (day-to-day status reported)\n- Spain last won the Davis Cup in 2019 — HIGH (ESPN UK)\n- Winner meets Italy in Sunday final — HIGH (daviscup.com draw)\n**Sources:**\n- ESPN UK: Spain beats Austria to set up Davis Cup semifinal vs Britain — https://www.espn.co.uk/tennis/story/_/id/50606263/spain-beats-austria-set-davis-cup-semifinal-vs-britain\n- Yahoo Sports: Spain beats Austria, Zverev and Germany out — https://sports.yahoo.com/tennis/articles/zverev-germany-davis-cup-loss-151313196.html\n- 2026 Davis Cup Finals Wikipedia: https://en.wikipedia.org/wiki/2026_Davis_Cup_Finals\n- daviscup.com draws: https://www.daviscup.com/en/draws-results/2026/finals",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Spain beats Austria to set up Davis Cup semifinal vs Britain",
+          "url": "https://www.espn.co.uk/tennis/story/_/id/50606263/spain-beats-austria-set-davis-cup-semifinal-vs-britain",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "ESPN UK"
+        },
+        {
+          "name": "Spain beats Austria, Zverev and Germany out",
+          "url": "https://sports.yahoo.com/tennis/articles/zverev-germany-davis-cup-loss-151313196.html",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Yahoo Sports"
+        },
+        {
+          "name": "2026 Davis Cup Finals Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2026_Davis_Cup_Finals",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "daviscup.com draws",
+          "url": "https://www.daviscup.com/en/draws-results/2026/finals",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 3,
+      "title": "Musetti the Hero — Singles and Doubles in One Day",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Lorenzo Musetti: singles AND doubles win in one day, Davis Cup Finals semifinals.\n\nHe's 24 years old and carrying Italy's Davis Cup dynasty on his back while Sinner is out.\n\nGenuinely elite. #DavisCup #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DavisCup",
+            "#Tennis"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-musetti-singles-doubles-italy-davis-cup.html",
+        "headline": "Musetti Wins Singles and Doubles in One Day to Send Italy to Davis Cup Final",
+        "word_count": 585
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Musetti Heroics\n\n**Image Concept 1:**\n- **Imagn Search Term:** Lorenzo Musetti\n- **Description:** Musetti close-up or action shot from recent ATP play\n- **Social Dimensions:** 1080x1350 (social)\n\n**Image Concept 2:**\n- **Imagn Search Term:** Lorenzo Musetti Italy\n- **Description:** Musetti in Italy team gear, Davis Cup atmosphere\n- **Social Dimensions:** 1080x1350 (social)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Musetti's Singles and Doubles Heroics\n**Key Facts:**\n- Lorenzo Musetti won both his singles rubber and the decisive doubles rubber in Friday's semifinal — HIGH (Kuwait Times, La Voce di New York)\n- Singles win: Musetti beat Jakub Mensik 6-3, 6-4 in 1 hour 26 minutes — HIGH (Kuwait Times)\n- Doubles win: Musetti partnered Andrea Vavassori to win the decisive rubber — HIGH (La Voce di New York)\n- It is rare for a player to contribute winning points in both formats in the same Davis Cup tie — MEDIUM (contextual observation)\n- Musetti's performance follows Italy's quarterfinal win where he also won in singles — HIGH (confirmed Nov 25-26 research)\n**Sources:**\n- Kuwait Times: Musetti double sends Italy into 4th straight Davis Cup final — https://kuwaittimes.com/article/54494/sports/musetti-double-sends-italy-into-4th-straight-davis-cup-final/\n- La Voce di New York: Italy reaches fourth consecutive Davis Cup final — https://lavocedinewyork.com/en/sports/2026/11/28/italy-reaches-fourth-consecutive-davis-cup-final/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Musetti double sends Italy into 4th straight Davis Cup final",
+          "url": "https://kuwaittimes.com/article/54494/sports/musetti-double-sends-italy-into-4th-straight-davis-cup-final/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Kuwait Times"
+        },
+        {
+          "name": "Italy reaches fourth consecutive Davis Cup final",
+          "url": "https://lavocedinewyork.com/en/sports/2026/11/28/italy-reaches-fourth-consecutive-davis-cup-final/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "La Voce di New York"
+        }
+      ]
+    },
+    {
+      "story_num": 4,
+      "title": "Davis Cup Final Sunday — Italy Await Spain or Great Britain",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Italy are waiting in Sunday's Davis Cup final.\n\nThree-time defending champions. No Sinner. Still unstoppable.\n\nTheir opponent gets decided today — Spain or Great Britain. The final is Sunday in Bologna. #DavisCup #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DavisCup",
+            "#Tennis"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-davis-cup-final-preview-italy-await-spain-gb.html",
+        "headline": "Davis Cup Final Sunday: Italy Await Spain or Great Britain in Bologna",
+        "word_count": 628
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Davis Cup Final Preview\n\n**Image Concept 1:**\n- **Imagn Search Term:** Italy Davis Cup\n- **Description:** Italy team celebration or group shot from Davis Cup Finals 2026\n- **Social Dimensions:** 1080x1350 (social), 1200x630 (article hero)\n\n**Image Concept 2:**\n- **Imagn Search Term:** Carlos Alcaraz Rafael Nadal Spain\n- **Description:** Spanish tennis players together or in Davis Cup action\n- **Social Dimensions:** 1080x1350 (social)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Davis Cup Final Preview — Italy Await Spain/GB Winner\n**Key Facts:**\n- Italy's opponent in Sunday's final will be the winner of today's Spain vs Great Britain semifinal — HIGH (daviscup.com)\n- Final: Sunday, November 29, 2026, in Bologna — HIGH (daviscup.com)\n- Italy beat Spain 2-0 in the 2025 Davis Cup final — HIGH (Fox Sports)\n- Italy are three-time defending champions (2023, 2024, 2025) — HIGH (multiple sources)\n- A fourth consecutive title would be historically remarkable — HIGH (contextual)\n- Italy captain: Filippo Volandri — HIGH (confirmed prior research)\n**Sources:**\n- Fox Sports: Italy wins Davis Cup for third straight year by beating Spain in final — https://www.foxsports.com/articles/other/italy-wins-davis-cup-for-third-straight-year-by-beating-spain-in-final\n- Davis Cup draws: https://www.daviscup.com/en/draws-results/2026/finals",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "Italy wins Davis Cup for third straight year by beating Spain in final",
+          "url": "https://www.foxsports.com/articles/other/italy-wins-davis-cup-for-third-straight-year-by-beating-spain-in-final",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ],
+          "publisher": "Fox Sports"
+        },
+        {
+          "name": "Davis Cup draws",
+          "url": "https://www.daviscup.com/en/draws-results/2026/finals",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    },
+    {
+      "story_num": 5,
+      "title": "Great Britain's Remarkable Road — From Fery's Zverev Upset to the Spain Semifinal",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Great Britain's Davis Cup Finals week:\n\nFery beats Zverev (world No. 1)\nNorrie beats Struff\nSkupski/Patten seal it in doubles\n\nNow they face Spain in the semifinal TODAY.\n\nThe last time GB reached a Davis Cup final was 1937. #DavisCup #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DavisCup",
+            "#Tennis"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-great-britain-journey-fery-spain-semifinal.html",
+        "headline": "Great Britain's Davis Cup Journey: From Fery's Zverev Upset to the Spain Semifinal",
+        "word_count": 651
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Great Britain's Run\n\n**Image Concept 1:**\n- **Imagn Search Term:** Cameron Norrie Great Britain\n- **Description:** Cameron Norrie in Davis Cup play, Bologna 2026\n- **Social Dimensions:** 1080x1350 (social)\n\n**Image Concept 2:**\n- **Imagn Search Term:** Neal Skupski Henry Patten\n- **Description:** GB doubles pair Skupski and Patten in action\n- **Social Dimensions:** 1080x1350 (social)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Great Britain's Road to the Spain Semifinal\n**Key Facts:**\n- Great Britain qualified for Davis Cup Finals via 3-0 over Ecuador — HIGH (LTA, confirmed Nov 27 research)\n- GB beat Germany 2-1 in the quarterfinals on Thursday, November 26 — HIGH (confirmed)\n- Arthur Fery, 20 years old, beat Alexander Zverev — HIGH (confirmed)\n- Cameron Norrie beat Jan-Lennard Struff — HIGH (confirmed)\n- Neal Skupski and Henry Patten beat Kevin Krawietz and Tim Puetz 6-2, 7-6(6) in doubles — HIGH (tennismajors.com, confirmed)\n- Great Britain have not been in a Davis Cup final since the 1930s era — MEDIUM (historical context)\n- Spain are heavy favorites given their depth with Alcaraz possibly returning — MEDIUM (editorial judgment)\n**Sources:**\n- LTA GB vs Germany results: https://www.lta.org.uk/fan-zone/davis-cup/news/final-8-great-britain-vs-germany-results-updates\n- Sunday Guardian Davis Cup results: https://sundayguardianlive.com/sports/davis-cup-results-spain-reach-semifinals-without-carlos-alcaraz-as-great-britain-knock-out-germany-328405/",
+        "sources": ""
+      },
+      "sources": [
+        {
+          "name": "LTA GB vs Germany results",
+          "url": "https://www.lta.org.uk/fan-zone/davis-cup/news/final-8-great-britain-vs-germany-results-updates",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        },
+        {
+          "name": "Sunday Guardian Davis Cup results",
+          "url": "https://sundayguardianlive.com/sports/davis-cup-results-spain-reach-semifinals-without-carlos-alcaraz-as-great-britain-knock-out-germany-328405/",
+          "official": false,
+          "found_in": [
+            "01-research-notes.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

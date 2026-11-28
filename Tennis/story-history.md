@@ -3,6 +3,17 @@
 Track previously covered stories to avoid repetition and maintain content freshness.
 
 
+## November 28, 2026
+
+| 2026-11-28 | Italy beat Czech Republic 2-1 Davis Cup SF — Musetti beat Mensik 6-3, 6-4 (1h26m); Lehecka beat Cobolli 6-2, 1-6, 6-3; Musetti/Vavassori won decisive doubles; Italy in 4th consecutive final; Final Sunday Nov 29 Bologna vs Spain/GB winner. Sources: La Voce di New York, Kuwait Times, Sunday Guardian | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-11-27 S1: Italy vs CZE SF preview → result) |
+| 2026-11-28 | Spain vs Great Britain Davis Cup SF preview — TODAY in Bologna; Spain beat Austria 2-0 without Alcaraz (thigh, may return); GB beat Germany 2-1 (Fery beat Zverev, Norrie beat Struff, Skupski/Patten doubles); winner faces Italy Sunday; Spain last won DC 2019; GB last in DC final 1937. Sources: ESPN, Yahoo Sports, daviscup.com | T1 | X, FB, Article | Elena Voss |
+| 2026-11-28 | Musetti wins singles AND doubles in one day — singles beat Mensik 6-3, 6-4; doubles with Vavassori won decisive rubber; extraordinary individual performance in DC SF without Sinner. Sources: Kuwait Times, La Voce di New York | T2 | X, FB, Article | Ryan Calloway |
+| 2026-11-28 | Davis Cup Final Sunday preview — Italy await Spain/GB winner; Italy beat Spain 2-0 in 2025 final; a 4th consecutive title would be historic; Final Nov 29 Bologna. Sources: daviscup.com, Fox Sports | T2 | X, FB, Article | Marcus Cole |
+| 2026-11-28 | Great Britain's remarkable run — Fery beat Zverev (world No. 1); Norrie/Skupski/Patten contributed; GB qualified via 3-0 over Ecuador; last DC final for GB was 1937; face Spain in SF today. Sources: LTA, Sunday Guardian | T2 | X, FB, Article | Elena Voss |
+
+---
+
+
 ## November 27, 2026
 
 | 2026-11-27 | Italy vs Czech Republic Davis Cup SF preview — Italy chasing 4th consecutive title without Sinner; CZE beat Canada 2-0 (Lehecka, Machac); match at 10 AM ET Bologna; Italy squad Cobolli/Musetti/Berrettini/Vavassori; CZE 7 consecutive DC wins; Italian home crowd factor. Sources: daviscup.com, ansa.it, wikipedia, tenngrand.com | T1 | X, FB, Article | Marcus Cole; FOLLOW-UP (2026-11-26 S5: SF pairings confirmed → Italy vs CZE Day preview) |
