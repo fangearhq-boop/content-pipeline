@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-11-28
+
+### STORY 1: NBA Cup Knockout Bracket Set — Mavericks the Only Unbeaten Team
+- **Tier:** 1
+- **Category:** NBA Cup / Dallas Mavericks / Tournament Bracket
+- **Key facts:** Bracket set after Nov 27 group-play finale; East: Boston at Detroit, Atlanta at Philadelphia; West: San Antonio at Dallas, Memphis at Portland; Dallas went 4-0 (only unbeaten team); championship Dec 11 at Hinkle Fieldhouse, Indianapolis; all games Prime Video
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 2: Defending Champion Knicks Eliminated — Heat 108, Knicks 105
+- **Tier:** 1
+- **Category:** Miami Heat / New York Knicks / Giannis Antetokounmpo / NBA Cup
+- **Key facts:** Final: Heat 108, Knicks 105; Giannis 22 pts, 23 reb; Knicks finish 1-3 in Cup, defending champions eliminated; Philadelphia clinched East Group B on head-to-head tiebreaker over Miami; Heat also eliminated
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
+### STORY 3: Spurs 99, Lakers 96 — Castle 26, Wembanyama 25/16, West Wild Card
+- **Tier:** 1
+- **Category:** San Antonio Spurs / Los Angeles Lakers / Stephon Castle / Victor Wembanyama / NBA Cup
+- **Key facts:** Final: Spurs 99, Lakers 96; Castle 26 pts (team high); Wembanyama 25 pts, 16 reb; Spurs advance as West wild card; Lakers eliminated; Spurs face Dallas in quarterfinals
+- **Byline:** Damon Pierce
+- **Status:** NEW
+
+### STORY 4: Hawks 87, Celtics 86 — Atlanta Wins East Group C
+- **Tier:** 2
+- **Category:** Atlanta Hawks / Boston Celtics / NBA Cup / East Group C
+- **Key facts:** Final: Hawks 87, Celtics 86; both teams finish 3-1 in East Group C; Atlanta takes group title on tiebreaker; Boston enters as East wild card; Hawks face Philadelphia in QF, Celtics face Detroit
+- **Byline:** Jake Torres
+- **Status:** NEW
+
+### STORY 5: Saturday NBA Slate — 5-Game Post-Cup Weekend
+- **Tier:** 2
+- **Category:** NBA Schedule / Regular Season
+- **Key facts:** 5 games on Nov 28 slate; Magic at Wizards 5:00 PM ET; teams return to regular-season focus after Cup group play concluded
+- **Byline:** Marcus Cole
+- **Status:** NEW
+
 ## 2026-11-26
 
 ### STORY 1: Knicks 121, Cavaliers 102 — Alvarado Season-High 21, Six-Game Win Streak

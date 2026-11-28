@@ -1,10 +1,31 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Current Status
-**Last Run:** 2026-11-27
+**Last Run:** 2026-11-28
 **Steps Completed:** All pipeline steps (1-14); WordPress publish blocked by proxy policy; git push via git remote
 
 ## Pipeline Run Log
+
+### 2026-11-28 ✅ (Automated)
+- Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles, image manifest)
+- Step 10: verify-facts.py — 5 stories, 33 claims, HIGH: 60; image manifest warnings (expected; imagn sourcing)
+- Step 10b: compile-content-data.py — 5 stories, 8 tweets, 5 FB posts, 5 articles; posting window warnings (non-blocking)
+- Step 11: Image manifest created (not_started — imagn sourcing requires manual step)
+- Step 12: Story history updated
+- Step 13: generate-review-dashboard.py — dashboard generated (28 items)
+- Step 14b/c: generate-postplanner-export.py — 0 posts (known parsing issue)
+- Step 14d: publish-unified-dashboard.py — BLOCKED (proxy policy; content-dashboards not in session scope)
+- Step 15: publish-to-wordpress.py — BLOCKED (proxy policy; known scheduler limitation)
+- Git commit + push: via git remote with PAT
+
+**Stories covered:**
+1. T1 NEW: NBA Cup bracket set — 8 teams; Mavs 4-0 only unbeaten; QF matchups Dec 4-5; championship Dec 11 Hinkle Fieldhouse (Jake Torres)
+2. T1 NEW: Defending champion Knicks eliminated — Heat 108, Knicks 105; Giannis 22/23reb; NY finishes 1-3 (Marcus Cole)
+3. T1 NEW: Spurs 99, Lakers 96 — Castle 26, Wembanyama 25/16; San Antonio steals West wild card (Damon Pierce)
+4. T2 NEW: Hawks 87, Celtics 86 — Atlanta wins East Group C; Boston enters as wild card (Jake Torres)
+5. T2 NEW: Saturday NBA slate — 5 games; Magic at Wizards 5pm ET; post-Cup regular-season restart (Marcus Cole)
+
+---
 
 ### 2026-11-27 ✅ (Automated)
 - Steps 1-9: Complete (research, daily brief, research notes, story analysis, X posts, FB posts, image concepts, 5 articles, image manifest)
